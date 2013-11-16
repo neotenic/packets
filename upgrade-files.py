@@ -44,7 +44,9 @@ def squi(q):
 for rou in rounds:
 	# print rou
 	questions = sorted(rounds[rou], key=lambda q: int(q['num']))
-	hed = questions[1]
+	print len(questions), rou
+	hed = questions[0]
+
 	# header = {
 	# 	'tournament': hed['tournament'],
 	# 	'round': hed['round']
