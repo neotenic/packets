@@ -1,0 +1,164 @@
+####
+tournament: EFT
+round: Round 05 updated.doc
+year: 2010
+####
+
+num: 1
+category: Science
+difficulty: College
+fixed: 57
+seen: 81
+answer: {Amines}
+
+Both methyl orange and methyl red contain a diazo bridge para to one of these functional groups. Benzenesulfonyl chloride is used in a chemical test to detect this functional group named for Hinsburg, and a method of removing this functional group involves adding excess methyl iodide and heat. A popular method of synthesizing them involves the addition of an alkyl halide to potassium phthalamide. Adding one of them to formaldehyde is the first step of the Mannich reaction, and the previous reactions are the Hofmann elimination and Gabriel synthesis. Quaternary ones carry a positive charge, and aniline is a simple aromatic one. Primary, secondary, and tertiary ones have a lone pair. For 10 points, name this functional group which contains a nitrogen atom single bonded to carbon chains.
+
+----
+num: 2
+category: Religion
+difficulty: College
+fixed: None
+seen: 54
+answer: {St. John} the Evangelist (accept {John} of {Patmos} or {John} the {Apostle})
+
+Tertullian claims that this man was brought before Emperor Domitian and thrown into a vat of boiling oil from which he escaped unharmed, leading to a feast of him “before the Latin Gate.” Like his elder brother, this man was a fisherman from the Lake of Genesareth, and he is symbolized in art by an eagle. One book named for him describes the struggle between the Lamb and the False Prophet, and was written on the island of Patmos. For 10 points, name this New Testament figure who stood with Mary at the Crucifixion and wrote Revelation as well as the last of the four canonical gospels, not to be confused with a similarly-named Baptist.
+
+----
+num: 3
+category: History
+difficulty: College
+fixed: 57
+seen: 70
+answer: Vietnam
+
+According to this country's mythology, its citizens are descended from the fairy Au Co and the dragon Lac Long. This country was liberated from Han Dynasty rule by a rebellion led by two sisters, and it assimilated the Champa kingdom. Gia Long was the first emperor of its last ruling dynasty, and during the early 20th century, this country adopted the Quoc Ngu writing system. The Nguyen dynasty was the last indigenous monarchy of this country, which was under French colonial rule until the Battle of Dien Bien Phu. For 10 points, name this country, the namesake of the war incited by the Gulf of Tonkin incident and whose largest city is named for its first communist leader, Ho Chi Minh.
+
+----
+num: 4
+category: Science
+difficulty: College
+fixed: None
+seen: 79
+answer: {O}({1}) run time or {constant} run time
+
+This is the run time of a lookup operation of an element when using a Bloom Filter. When efficiently implemented using up-trees, the find function in a disjoint set makes look-up times for elements of a given set be this. Linked lists are often implemented in lieu of arrays because insertion into one has this run time on average with a linked list, even though directly accessing an individual array element has this run time. Also the run time of all bitwise operations, it is also the run time for a function that makes use of a “bucket array.” For 10 points, identify this big-O run time that is the average look-up time for hashes, a run time that does not change with respect to any given property.
+
+----
+num: 5
+category: Fine Arts
+difficulty: College
+fixed: 57
+seen: 69
+answer: Pyotr Ilyich {Tchaikovsky}
+
+At the end of his life, this composer wrote a string sextet in D Major using imagery from Italy called Souvenirs from Florence. He used Mendelssohn's Venetian boat songs from Songs Without Words for one of his pieces called June, which is part of twelve programmatic pieces he called The Seasons. The second movement of one of this composer's symphonies is in 5/4 time and its last movement starts "with a cry and ends with a moan." This composer of the Manfred Symphony, wrote a work featuring cannon shots to celebrate his country's defeat of Napoleon. For 10 points, identify this Russian composer of Symphony Pathetique and the 1812 Overture.
+
+----
+num: 6
+category: Social Science
+difficulty: College
+fixed: 57
+seen: 54
+answer: John Maynard {Keynes}
+
+One model of his theories plots national income against the interest rate and was developed by John R. Hicks and presented in a paper called this man “and the Classics: A Suggested Interpretation." This thinker gives his name to a graphical representation of an intersection between a consumption function of consumers and the aggregate demand function.  This man wrote a book analyzing the economic impact of the Treaty of Versailles, called The Economic Consequences of the Peace. Paul Krugman has called for a return to this man's principles. For 10 points, name this British economist, an advocate of government spending, and author of The General Theory of Employment, Interest, and Money.
+
+----
+num: 7
+category: Literature
+difficulty: College
+fixed: None
+seen: 59
+answer: “{Young Goodman Brown}”
+
+In this work, the central “sable form” promises to reveal the “fountain of all wicked arts” which supplies more evil impulses than human power to proselytes “beneath a canopy of fire.” Its protagonist, who at the beginning had eyed the pink ribbons on his three-month wife, becomes so morbid at this story's close that he is buried without a Bible verse on his tombstone. Found in its author's Mosses of an Old Manse, its protagonist meets Deacon Gookin and Goody Close in the woods, after leaving Salem for a meeting involving Native American medicine men. For 10 points, name this Nathaniel Hawthorne short story in which the titular character partakes in a dream-like Satanic ritual.
+
+----
+num: 8
+category: Trash
+difficulty: College
+fixed: 57
+seen: 183
+answer: “{Penny Lane}”
+
+Bach's Second Brandenburg Concerto is used as source material for a solo found in this song; single copies of this song which include an extension of that solo at the end were distributed but are now rare. One verse from this song describes a nurse behind a shelter in a roundabout selling poppies from a tray; that verse comes after a famous trumpet solo. This song begins with a description of a barber showing photographs of all the heads he's had the pleasure to have known, and describes the titular location as being “in my ears and in my eyes.” For 10 points, name this song released with “Strawberry Fields Forever” that describes a street in The Beatles' hometown of Liverpool.
+
+----
+num: 9
+category: Science
+difficulty: College
+fixed: 57
+seen: 82
+answer: {stress} (accept {tension due} to {ambiguities})
+
+In cardiology, the value of this parameter increases with radius and decreases with wall thickness according to Laplace's Law. Knowing three vectors for this quantity in mutually perpendicular planes at a point allows for it to be calculated for any plane through that point according to Cauchy's theorem. Cauchy also lends his name to the second-order tensor used to represent this quantity, which has the normal ones on the diagonal and the shear ones off the diagonal. This value can be represented by Lame's ellipsoid but more commonly the normal and shear components are plotted against each other to find Mohr's circles. When this value passes the yield point, deformation occurs, and the ratio of it to strain is given by Young's modulus. Like pressure, it is represented as force per unit area. For 10 points, name this measure of the intensity of forces acting on a deformable, solid body.
+
+----
+num: 10
+category: History
+difficulty: College
+fixed: 57
+seen: 70
+answer: {Albania}
+
+One of this country's kings nearly killed his would-be assassin with a handgun just after watching I Pagliacci. The League of Prizren attempted to unify four provinces of this country. A 1951 massacre in this country saw the death of Jonuz Kaceli. It obtained its independence when Ismail Qemal led a Congress to issue the Vlorë Proclamation. Italy's invasion of this country caused an opponent of Fan Noli to flee to Greece. The introduction of communism to this country saw the destruction of the bajraktars that had previously ruled it, while another ruler of this country used the Sigurimi secret police here. For 10 points, what nation was formerly ruled by King Zog and Enver Hoxha?
+
+----
+num: 11
+category: Literature
+difficulty: College
+fixed: 1
+seen: 61
+answer: Mario {Vargas Llosa} (do not prompt on partial answer)
+
+He's not W. Somerset Maugham, but this man wrote a novel which follows the lives of Paul Gauguin and his feminist grandmother Flora Tristan. This author of The Way to Paradise also wrote a novel which centers on a group of cadets at the Leoncio Prado Military Academy, as well as another work in which the Nearsighted Journalist investigates an uprising against the Brazilian government by the villagers of Canudos. In addition to The Time of the Hero and The War of the End of the World, and another novel's even-numbered chapters consist of radio serials by Pedro Camacho. For 10 points, name this Peruvian novelist of Aunt Julia and the Scriptwriter.
+
+----
+num: 12
+category: Mythology
+difficulty: College
+fixed: 57
+seen: 112
+answer: Four {Winds} or {Anemoi}
+
+One of these figures is the father of Pothos with the goddess Iris and the father of Carpo with Chloris, and also mated with the harpy Podarge in order to produce a pair of talking horses. Another one of these figures had a daughter named Chione and a group of horses that could ride over fields without crushing the plants. That figure once kidnapped Oreithyia to take as a wife, and had two sons that drove the Harpies away for Phineas. Another one of these figures helped transport Psyche to Eros' cave, and these figures were the children of Eos and Astraeus. One of them killed Hyacinth out of jealousy, and they included Notus, Eurus, Zephyrous, and Boreas. For 10 points, name this set of deities, sometimes said to be the servants of Aeolus, which control a certain meteorological phenomenon.
+
+----
+num: 13
+category: Philosophy
+difficulty: College
+fixed: 1
+seen: 60
+answer: Ethics
+
+The fifth part opens with a paragraph-long preface citing the Stoics' belief about emotions and the dependence of the will by citing an example using a house dog and a hunting dog. In the second part, this work attempts to establish the order and connection of ideas is the same as of that of things. Part II of this work is entitled “On the Nature and Origin of the Mind” while Part IV is partially titled “Of Human Bondage.” Each section begins with definitions and axioms to use propositional logic to devise a system of living compatible with both God and nature. For 10 points, name this philosophical work written “geometrically” by Baruch Spinoza.
+
+----
+num: 14
+category: Science
+difficulty: College
+fixed: None
+seen: 81
+answer: {Urey}-{Miller} experiment
+
+Johnson and Pratt re-analyzed the original samples from this experiment and found hydroxylated products. This experiment immediately preceded Sydney Fox's experimental discovery of proteinoid microspheres, and Roscoe Stribling repeated this experiment with one of the original scientists. Originally designed to test a hypothesis of Oparin and Haldane, the apparatus contained a heated flask of water linked in series to a trap containing a sampling probe, a vacuum pump, and a chamber containing two electrodes. The chamber contained a mixture of water, methane, ammonia, and hydrogen cyanide, and this experiment was successful in creating sugars and amino acids. For 10 points, name this experiment that was used to show that a pre-biotic Earth can create the precursors of life.
+
+----
+num: 15
+category: History
+difficulty: College
+fixed: None
+seen: 70
+answer: Battle of {Shiloh}
+
+This battle saw one general's planned offensive on the Memphis & Charleston Railroad causing him to not erect proper defenses. This led the opposing side forces to march from Corinth towards an army that had recently taken Fort Donelson. Fought in 1862, the Confederate armies here attempted to drive the Union Army towards Owl Creek, but forces under Grant fell back towards an area that became known as the Hornet's Nest. Also known as the Battle of Pittsburgh Landing, this battle saw General Buell's troops arrive, leading to a Confederate Retreat days after Albert Sidney Johnston perished. For 10 points, identify this Civil War battle fought in Tennessee.
+
+----
+num: 16
+category: Literature
+difficulty: College
+fixed: 57
+seen: 64
+answer: The {Charterhouse} of {Parma} [or La {Chartreuse} de {Parme}]
+
+In this novel, the protagonist's love interest swears never to see him again, so naturally they decide to meet in the dark every night. That love interest keeps pet birds and communicates with the protagonist through letters printed on book pages, after he kills Marietta Valsera's lover Giletti in self-defense. That protagonist had been present at the battle of Waterloo, but the majority of the action takes place in an Italian duchy where Count Mosca is the prime minister. Mosca's lover is the protagonist's aunt Gina, the duchess of Sanseverina, while the protagonist falls in love with the prison commandant's daughter Clelia Conti. For 10 points, name this novel about Fabrizio del Dongo, a work of Stendhal.

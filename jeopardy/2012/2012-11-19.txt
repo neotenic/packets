@@ -1,0 +1,448 @@
+####
+tournament: #6481
+round: Show #6481 - Monday, November 19, 2012
+year: 2012
+date: 2012-11-19
+####
+
+num: 1
+category: History
+difficulty: 200
+seen: 5
+answer: Austria-Hungary
+
+This dual monarchy with a population of about 50 million was formed; it lasted until 1918.
+
+----
+num: 2
+category: Literature
+difficulty: 200
+seen: 4
+answer: a noun
+
+Fabio won a Nobel Prize for chemistry: Fabio.
+
+----
+num: 3
+category: Science
+difficulty: 200
+seen: 7
+answer: the eyes
+
+The Snellen chart tests these body parts; the top line is 20/400.
+
+----
+num: 4
+category: Trash
+difficulty: 200
+seen: 6
+answer: (Jennifer) Aniston
+
+"Friends" (Rachel), "Dirt" (Tina Harrod).
+
+----
+num: 5
+category: Literature
+difficulty: 200
+seen: 4
+answer: Zsa Zsa Gabor
+
+When asked how many husbands she's had, this Gabor sister said, "You mean apart from my own?".
+
+----
+num: 6
+category: Literature
+difficulty: 400
+seen: 3
+answer: an adjective
+
+A German's germs are not germane to a conversation about Jermaine Jackson: germane (with a "G").
+
+----
+num: 7
+category: Science
+difficulty: 400
+fixed: -1
+seen: 5
+answer: intelligence
+
+The Stanford-Binet V tests this in students.
+
+----
+num: 8
+category: Trash
+difficulty: 400
+seen: 5
+answer: (Tony) Shaloub
+
+"Monk" (Monk), "The X-Files" (Dr. Chester Ray Banton).
+
+----
+num: 9
+category: Literature
+difficulty: 400
+seen: 3
+answer: the Three Stooges
+
+In one of their shorts, a judge cries for order, to which Curly says, "I'll take a ham sandwich".
+
+----
+num: 10
+category: History
+difficulty: 600
+seen: 4
+answer: Wild Bill Hickok
+
+The fame of this scout was spread by a Harper's article that went "wild" over his "exquisite manly proportions".
+
+----
+num: 11
+category: Literature
+difficulty: 600
+seen: 3
+answer: a preposition
+
+The golf tourney was a success despite the trampling incident: despite.
+
+----
+num: 12
+category: Science
+difficulty: 600
+seen: 6
+answer: a witch
+
+In a Monty Python film, the test for identifying one of these is whether she weighs as much as a duck.
+
+----
+num: 13
+category: Trash
+difficulty: 600
+seen: 5
+answer: (Mila) Kunis
+
+"Family Guy" (the voice of Meg), "That '70s Show" (Jackie).
+
+----
+num: 14
+category: Literature
+difficulty: 600
+seen: 4
+answer: Groucho Marx
+
+This fraternal funnyman quipped, "outside of a dog, a book is man's best friend. inside of a dog, it's too dark to read".
+
+----
+num: 15
+category: History
+difficulty: 800
+seen: 4
+answer: formaldehyde
+
+August von Hofmann discovered this fluid; 25 years later it could have been used to embalm him.
+
+----
+num: 16
+category: Literature
+difficulty: 800
+seen: 3
+answer: a pronoun
+
+Which of these Lederhosen brings out my eyes?: which.
+
+----
+num: 17
+category: Science
+difficulty: 800
+seen: 5
+answer: a litmus test
+
+Lichens provide the coloring for this, also a term for a crucial, revealing test.
+
+----
+num: 18
+category: Trash
+difficulty: 800
+seen: 5
+answer: (Jason) Bateman
+
+"Arrested Development" (Michael Bluth), "Valerie's Family" (David Hogan).
+
+----
+num: 19
+category: Literature
+difficulty: 800
+seen: 4
+answer: (Steven) Wright
+
+This comic deadpanned, "I stayed up one night playing poker with tarot cards. I got a full house & 4 people died".
+
+----
+num: 20
+category: Literature
+difficulty: 1000
+seen: 3
+answer: a conjunction
+
+Neither rain nor snow nor sleet shall keep me from my appointed rounds, but locusts? I'm out: nor.
+
+----
+num: 21
+category: Science
+difficulty: 1000
+seen: 6
+answer: Rocky Mountain spotted fever
+
+Testing of blood serum helps diagnose this tick-borne ailment named for a range of peaks.
+
+----
+num: 22
+category: Trash
+difficulty: 1000
+seen: 5
+answer: (Andre) Braugher
+
+"Homicide" (Detective Frank Pembleton), "Last Resort" (Captain Marcus Chaplin).
+
+----
+num: 23
+category: Literature
+difficulty: 1000
+seen: 3
+answer: Firenze
+
+Noel Coward punned in a telegram: "coughing myself into a" this, the Italian name for Florence.
+
+----
+num: 24
+category: Literature
+difficulty: 400
+seen: 4
+answer: the bay leaf
+
+Today we pick this leaf of the laurel tree out of our food, but legend says oracles chewed it to promote visions.
+
+----
+num: 25
+category: Trash
+difficulty: 400
+seen: 4
+answer: Marshall
+
+Producer/director Garry & comic actress/ director Penny.
+
+----
+num: 26
+category: History
+difficulty: 400
+seen: 4
+answer: Barcelona
+
+Many Mediterranean cruises embark from this second-largest Spanish city & major port.
+
+----
+num: 27
+category: Social
+difficulty: 400
+seen: 5
+answer: a prototype
+
+This working model of a new product is usually built to full scale.
+
+----
+num: 28
+category: Science
+difficulty: 400
+seen: 6
+answer: an ore
+
+For the metal nickel, the mineral pentlandite is a major one of these sources.
+
+----
+num: 29
+category: Literature
+difficulty: 400
+fixed: -1
+seen: 4
+answer: a thrush
+
+In a nature poem Whittier rhymed, "The winding water's sounding rush, the long note of" this bird.
+
+----
+num: 30
+category: Literature
+difficulty: 800
+seen: 3
+answer: ginger
+
+19th century English pubs had containers of this spice from a root so that patrons could shake it into their ale.
+
+----
+num: 31
+category: Trash
+difficulty: 800
+seen: 5
+answer: Quaid
+
+Actors Dennis & Randy.
+
+----
+num: 32
+category: History
+difficulty: 800
+seen: 4
+answer: Greece
+
+The deepest part of the Mediterranean, over 16,000 feet, is just south of this country, in the Ionian basin.
+
+----
+num: 33
+category: Social
+difficulty: 800
+seen: 5
+answer: connoisseur
+
+From the Latin for "to know", it's a person with expert knowledge or training.
+
+----
+num: 34
+category: Science
+difficulty: 800
+seen: 5
+answer: granite
+
+This commonest coarse-grained plutonic rock is desirable for countertops.
+
+----
+num: 35
+category: Literature
+difficulty: 800
+seen: 3
+answer: Solomon
+
+When this biblical king spares an ant hill, the Queen of Sheba realizes she knows "the secret of thy worth and wisdom".
+
+----
+num: 36
+category: Literature
+difficulty: 1200
+seen: 4
+answer: cinammon
+
+To show remorse after murdering his wife, Nero may have burned a year's supply of this spice that comes in quills.
+
+----
+num: 37
+category: Trash
+difficulty: 1200
+seen: 6
+answer: McEnroe
+
+Tennis champs John & Patrick.
+
+----
+num: 38
+category: History
+difficulty: 1200
+seen: 4
+answer: Monte Carlo
+
+You'll need a passport to gamble in the 149-year-old "Casino de" this location; locals aren't allowed.
+
+----
+num: 39
+category: Social
+difficulty: 1200
+seen: 4
+answer: the proletariat
+
+In Marxist theory, members of this class of workers have no capital or property & must sell their labor to survive.
+
+----
+num: 40
+category: Literature
+difficulty: 1200
+seen: 3
+answer: the (north) wind
+
+In "snow-bound" Whittier was "content to let" this "roar in baffled rage at pane and door".
+
+----
+num: 41
+category: Literature
+difficulty: 1600
+seen: 4
+answer: vanilla
+
+It was suggested in 1602 that this pod spice, then used in a drink with cacao beans, could be used alone as a flavoring.
+
+----
+num: 42
+category: Trash
+difficulty: 1600
+seen: 6
+answer: Hough
+
+Julianne & Derek, of "Dancing with the Stars" fame.
+
+----
+num: 43
+category: History
+difficulty: 1600
+seen: 5
+answer: the Atlas Mountains
+
+Rising above the Mediterranean coast are these mountains that form the backbone of Morocco, Algeria & Tunisia.
+
+----
+num: 44
+category: Science
+difficulty: 1600
+seen: 6
+answer: attrition
+
+In geology it's a type of erosion; in business it's reducing staff without layoffs.
+
+----
+num: 45
+category: Literature
+difficulty: 1600
+seen: 4
+answer: "flag"
+
+Completes the line Whittier gave Barbara Frietchie: "Shoot, if you must this old grey head, but spare your country's...".
+
+----
+num: 46
+category: Literature
+difficulty: 2000
+seen: 5
+answer: cumin
+
+Jesus mentioned "mint and anise and" this spice used in chili powder & curry powder.
+
+----
+num: 47
+category: Trash
+difficulty: 2000
+seen: 9
+answer: Osbourne
+
+Celebrity offspring Kelly & Jack.
+
+----
+num: 48
+category: Social
+difficulty: 2000
+seen: 6
+answer: conceit
+
+A poetic image with an outlandish comparison.
+
+----
+num: 49
+category: Literature
+difficulty: 2000
+seen: 6
+answer: Garrison
+
+"Thou hast nerved the afric's hand", wrote Whittier in a poem to this abolitionist who published The Liberator.

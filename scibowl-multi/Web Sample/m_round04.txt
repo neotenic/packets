@@ -1,0 +1,244 @@
+####
+tournament: Web Sample
+round: m_round04.pdf
+####
+
+num: 1
+category: Math
+difficulty: MS
+answer: X)  Fractions Equal to 1 Are Called Mixed Fractions
+
+Which of the following is NOT true:
+W) an irrational number is one that cannot be expressed as the ratio of integers
+X) fractions equal to 1 are called mixed fractions
+Y) the numerator is less than the denom inator in a proper fraction
+Z) a composite number is a positive integer greater than 1 that is not prime
+
+----
+num: 3
+category: Life Science
+difficulty: MS
+answer: Z)  Ovary
+
+In which of the following places would meiosis most likely occur in a mammal:
+W) skin
+X) liver
+Y) heart
+Z) ovary
+
+----
+num: 5
+category: Earth Science
+difficulty: MS
+answer: Y)  Florida
+
+A mangrove coast is likely to be found in which of the following locations:
+W) Alaskan Peninsula
+X) Hawaiian Islands
+Y) Florida
+Z) Maine
+
+----
+num: 5
+category: Earth Science
+difficulty: MS
+answer: X)  Monsoons
+
+Which of the following is most important for climate because it transports large amounts of heat and moisture from the ocean to land:
+W) tides
+X) monsoons
+Y) longshore drift
+Z) erosion
+
+----
+num: 6
+category: Math
+difficulty: MS
+answer: W)  1/7
+
+0.143 is closest in value to which of the following fraction s:
+W) 1/7
+X) 3/9
+Y) 2/5
+Z) 5/8
+
+----
+num: 10
+category: Earth Science
+difficulty: MS
+answer: Z)  Buoyancy
+
+Bioluminescence in marine organisms is important for all but which of the following functions:
+W) attract ing prey
+X) communicating with other organisms
+Y) illumination 
+Z) buoyancy
+
+----
+num: 10
+category: Earth Science
+difficulty: MS
+answer: X)  Plutons
+
+Magmas that crystallize beneath the Earth’s surface form intrusive bodies of igneous rock that are generally known as:
+W) pumice 
+X) plutons
+Y) tuffs
+Z) breccia
+
+----
+num: 12
+category: General Science
+difficulty: MS
+answer: W)  454 Kilograms
+
+On the earth’s surface, which of the following is 
+CLOSEST to the mass of 1,000 pounds:
+W) 454 kilograms
+X) 2,200 kilograms
+Y) 1 ton
+Z) 1 kiloton
+
+----
+num: 13
+category: Life Science
+difficulty: MS
+answer: W)  Proteins
+
+Most biological catalysts are:
+W) proteins
+X) vitamins
+Y) carbohydrates
+Z) lipids
+
+----
+num: 13
+category: Life Science
+difficulty: MS
+answer: W)  a Bacterial Virus
+
+Which of the following best describes a bacteriophage:
+W) a bacterial virus
+X) a stage in the development of most bacteria
+Y) the release of disease-causing bacteria from a host organism
+Z) a very small bacteria
+
+----
+num: 14
+category: Physical Science
+difficulty: MS
+answer: Y)  the Object Will Accelerate
+
+Which of the following will occur when an unbalanced force acts on an object:
+W) the object will stop 
+X) the object will lose heat 
+Y) the object will accelerate
+Z) the object will melt
+
+----
+num: 15
+category: Earth Science
+difficulty: MS
+answer: W)  Tabular
+
+Which of the following terms bes t describes the crystal form of a mineral:
+W) tabular
+X) fluorescent
+Y) metallic
+Z) vitreous
+
+----
+num: 15
+category: Earth Science
+difficulty: MS
+answer: Z)  Silicates
+
+Which of the following is the most common group of rock -forming mineral s:
+W) sulfides
+X) carbonates
+Y) phosphates
+Z) silicates
+
+----
+num: 16
+category: Math
+difficulty: MS
+answer: X)  20a + 12b
+
+Which of the following is an expression for the perimeter of a rectangle if the length equals 10A and the width equals 6B:
+W) 10A × 6B
+X) 20A + 12B
+Y) 2(20A) + 2(12B)
+Z) 10A^2 + 6B^2
+
+----
+num: 17
+category: General Science
+difficulty: MS
+answer: Y)  to Compete for Sunlight
+
+Which of the following is the MOST likely underlying reason why trees evolved with the capacity to grow tall:
+W) to absorb more carbon dioxide
+X) to enhance transpiration 
+Y) to compete for sunlight
+Z) to produce more oxygen
+
+----
+num: 17
+category: General Science
+difficulty: MS
+answer: X)  Just Above the Horizon in the Eastern Sky
+
+Consider a star observed just above the horizon in the western sky at dusk. Where would it most likely have been at sunrise that day:
+W) in the same position
+X) just above the horizon in the eastern sky
+Y) high in the western sky
+Z) high in the southern sky
+
+----
+num: 18
+category: Life Science
+difficulty: MS
+answer: Z)  Fern
+
+Which of the following plants is sometimes called a fiddlehead when it is immature :
+W) maple tree
+X) tulip
+Y) moss
+Z) fern
+
+----
+num: 20
+category: Earth Science
+difficulty: MS
+answer: X)  Capital H
+
+Which of the following would be used on a weather map to indicate a cold day in winter with clear, blue skies:
+W) capital L
+X) capital H
+Y) green shaded areas
+Z) pink shaded areas
+
+----
+num: 22
+category: General Science
+difficulty: MS
+answer: W)  1, Twelve-Ounce Non-Diet Soda
+
+Which of the following foods contains the MOST calories:
+W) 1, twelve-ounce non-diet soda
+X) 1 tablespoon catsup
+Y) 1 8-ounce fresh orange
+Z) 1 tabl espoon white, granulated sugar
+
+----
+num: 25
+category: Earth Science
+difficulty: MS
+answer: Z)  Halite
+
+Which of the following is a highly crystalline mineral with perfect cleavage:
+W) native gold
+X) native silver
+Y) graphite 
+Z) halite

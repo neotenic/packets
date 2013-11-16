@@ -1,0 +1,224 @@
+####
+tournament: HSAPQ ACF 1
+round: Round_09_HSAPQACF1.pdf
+year: 2008
+####
+
+num: 1
+category: Literature
+difficulty: HS
+fixed: 57
+seen: 438
+answer: "{Dover Beach}"
+
+The narrator of this poem says the world “seems to lie before us like a land of dreams” and claims that the “turbid ebb and flow of human misery” was brought to mind when “Sophocles long ago, heard it on the Aegean.” Beginning with “the sea is calm tonight,” it goes on to describe the setting as a “distant northern sea.” For 10 points, name this poem which ends by describing a “darkling plain / Swept with confused alarms of struggle and flight, / Where ignorant armies clash by night,” written by Matthew Arnold.
+
+----
+num: 2
+category: Fine Arts
+difficulty: HS
+fixed: 57
+seen: 498
+answer: Jackson {Pollock}
+
+This artist painted works like Going West as a student of Thomas Hart Benton. He painted Orange Head during his nervous breakdown, and cave paintings inspired his works The She-Wolf and Guardians of the Secret. The husband of painter Lee Krasner, his paintings Autumn Rhythm, Blue Poles, and Lavender Mist demonstrate his characteristic style of "action painting." For 10 points, name this American abstract expressionist, who created many works by dripping paint directly onto the canvas.
+
+----
+num: 3
+category: Science
+difficulty: HS
+fixed: -1
+seen: 495
+answer: {orbitals}
+
+The first four varieties of these were named based on the properties of their spectroscopic lines, and the Hartree-Fock method concerns another type. Doubling the azimuthal quantum number and adding one gives the number of these in a subshell. Molecular ones may be approximated by linear combination of atomic ones, while the Pauli exclusion principle states that their contents must have opposite spin. “Hybridized” according to the number of atoms to which an atom must bond, for 10 points, give this term for the regions in which an electron is likely to be found.
+
+----
+num: 4
+category: History
+difficulty: HS
+fixed: 1
+seen: 426
+answer: Vandals
+
+Following the declilne of the Silingi and Alani branches of this group, the Asdingi became its dominant branch, and they were Arian Christians. They were destroyed by the Byzantines following the deposition of the usurper Gelimer, and their prominent leaders included Gaiseroc and Gunderic. For 10 points, indentify this Germanic group that settled North Africa, whose name has become synonymous for willful destruction.
+
+----
+num: 5
+category: Trash
+difficulty: HS
+fixed: 1
+seen: 1031
+answer: Superbad
+
+At a sleepover in this movie, one of the central characters confesses "I love you" and then "boops" another character on the nose. This movie ends with four characters splitting up to buy cosmetic coverup and a blanket, while another episode in this film features a purchase made with an eighty- dollar bill. A masked bandit punches Fogell at a liquor store in this movie, leading to his meeting with officers Michaels and Slater, who later burn their squad car in a parking lot after shooting it. For 10 points, name this Judd Apatow flick featuring McLovin.
+
+----
+num: 6
+category: Science
+difficulty: HS
+fixed: 57
+seen: 485
+answer: {correlation} coefficient
+
+One measure of this is Kendall's tau, and one form of this can be used to estimate the periodicity of a signal. A rank-order version coefficient for this is named for Spearman, though a statistic introduced by Francis Galton, Pearson's r coefficient, is the most widely used. When r equals negative one, this is said to be completely negative; this is completely positive when r equals one. For 10 points, name this measure of association between two variables, which often implies but does not equal causation.
+
+----
+num: 7
+category: Social Science
+difficulty: HS
+fixed: 1
+seen: 381
+answer: Thomas {Malthus}
+
+Like Thomas Paine, he wrote a pamphlet entitled “The Crisis,” though his was in support of building workhouses. He joined with such men as Charles Babbage to found the Statistical Society of London, though his major work uses little data. That work argues that vice, misery, and self-restraint are the only ways to prevent the arithmetic increase of food supplies from being outstripped by the geometric increase of food consumers. For 10 points, name this author of An Essay on the Principle of Population, who predicted inevitable starvation of the poor.
+
+----
+num: 8
+category: Fine Arts
+difficulty: HS
+fixed: 57
+seen: 498
+answer: The 1812 Overture [or {Festival} Overture: The Year 1812; prompt on {Festival} Overture]
+
+Possibly at the suggestion of Nicholas Rubinstein, this piece was commissioned for the dedication of the Church of Christ the Savior. It starts with the melody of “save the people,” a church chant, and uses a diminuendo to represent casualties. The Marseillaise (mar-say-AZE) heard near the start is countered later by "God save the Tsar," which is then topped by the cannon bursts in the finale. For 10 points, name this piece commemorating the Russian victory over Napoleon in the namesake year, written by Pyotr Tchaikovsky.
+
+----
+num: 9
+category: Mythology
+difficulty: HS
+fixed: 57
+seen: 774
+answer: the Trojan {Horse}
+
+The idea for making this object came from Helenus, who realized his cause was lost after the theft of the Palladium. Epeius supervised its creation, and after this item was finished, its creators retreated to Tenedos and burned their tents. Sinon's explanation of this item was challenged by Laocoon (lay- AH-koh-awn), who was quickly killed by a sea serpent. Such figures as Ajax the Lesser, Menelaus, and Odysseus were concealed inside it. For 10 points, name this wooden animal idol in which Greek soldiers hid, leading to the end of a mythical ten-year war.
+
+----
+num: 10
+category: History
+difficulty: HS
+fixed: 57
+seen: 417
+answer: James {Garfield}
+
+He accepted a three hundred and twenty nine dollar loan from the Credit Mobilier, and his campaign biography was written by Horatio Alger. His administration was plagued by the Star Routes scandal, and this man's appointment of William H. Robertson to run the New York Customs House angered Roscoe Conkling. He defeated Winfield Scott Hancock in the general election, and he was opposed by the Stalwarts. For 10 points, name this President, who was assassinated by Charles Guiteau in 1881.
+
+----
+num: 11
+category: Literature
+difficulty: HS
+fixed: 1
+seen: 442
+answer: Anton {Chekov}
+
+Professor Nikolai Stepanovitch reunites with the failed actress Katya in Harkov in this author's work "A Boring Story." One of this author's title characters declares his love for Yelena, who instead pursues Astrov. That character was first introduced in "The Wood Demon," and unsuccessfully shoots Professor Serebrakov. In another of his works, Lopakhin chops down the estate of Madame Ranevskaya. For 10 points, name this Russian author of Uncle Vanya, The Cherry Orchard, and The Seagull.
+
+----
+num: 12
+category: Science
+difficulty: HS
+fixed: 1
+seen: 488
+answer: {reflection}
+
+The Bergeron diagram method calculates the effects of one phenomenon called this which occurs in electrical circuits. A model named for Lambert is useful for its diffuse type, and Phong shading simulates the luminance effects related to its specular type. The total internal type occurs above the critical angle, while another law states that the angle of incidence is equal to the angle of this. For 10 points, identify this optical phenomenon whose "retro" type reverses the direction of light entirely.
+
+----
+num: 13
+category: Philosophy
+difficulty: HS
+fixed: 57
+seen: 526
+answer: Jean-Paul {Sartre}
+
+This thinker used the example of a Jew failing a French poetry exam to contrast the views of the two title people in his work Anti-Semite and Jew. He broke from Husserl's description of the self in his The Transcendence of the Ego. In another of his works, historian Antoine Roquentin feels that inanimate objects encroach on his freedom and cause the title sensation. Another of his works describes "the history of negation" and "bad faith." For 10 points, name this existential philosopher of the novel Nausea and Being and Nothingness who also wrote plays like No Exit.
+
+----
+num: 14
+category: History
+difficulty: HS
+fixed: 57
+seen: 423
+answer: {Apartheid} [prompt on {separate development} before it is read]
+
+One of its few opponents in Parliament was Helen Suzman, and the BOSS bureau helped enforce it. The Sullivan Rules were an exception to it, and it was instituted by Daniel Malan. Enforced by the Population Registration Act and Group Areas Act, it was sometimes known as “separate development”, and F.W. de Klerk repealed most of the legislation supporting it. For 10 points, name this state-sanctioned policy of racial segregation that was opposed by the African National Congress and Nelson Mandela in South Africa.
+
+----
+num: 15
+category: Literature
+difficulty: HS
+fixed: 1
+seen: 445
+answer: Publius {Virgilius} Maro
+
+An unattributable work by this author, “The Mosquito,” comprises a namesake appendix along with the Catalepton. He wrote of the love between Corydon and Alexis as well as a prophecy of the coming of a Messiah in two of his Eclogues. Hesiod's Works and Days formed the basis for another of his works, which deals with cures for goat diseases, strong thoroughbred horses, and mythological bees. In addition to The Georgics, he wrote of Evander, Lavinia and Dido in an epic poem about the founding of Rome. For 10 points, name this author of The Aeneid.
+
+----
+num: 16
+category: Science
+difficulty: HS
+fixed: 57
+seen: 481
+answer: {copper} [accept {Cu}; accept {cuprum} before it is read]
+
+A deficiency of this element results in the weakness of elastin, and can promote the formation of aneurysms, and retention of this element in the liver causes Wilson's disease. This element's sulfate salt is reduced to its corresponding oxide in the presence of aldehydes in the Benedict's test. Along with arsenic, this element is found in compounds such as Paris green, and is found along with tin in bronze. For 10 points, identify this element whose latin name is cuprum.
+
+----
+num: 17
+category: Geography
+difficulty: HS
+fixed: -1
+seen: 713
+answer: Lake {Baikal} [accept {Ozero Baykal}; or {Ozero Bajkal}]
+
+It contains the islands of Olkhon and Bolshoy, and this lake's Proval Bay was created by an 1862 earthquake in the Selenga Delta. This lake is fed by the Selenga River, and the town of Listvyanka is located on it. The Angara River flows from this lake, and this lake is the home of the golomyanka fish, which gives birth to live young. Containing one fifth of the world's surface fresh water, for 10 points, name this Siberian lake, the oldest and deepest lake in the world.
+
+----
+num: 18
+category: Religion
+difficulty: HS
+fixed: None
+seen: 445
+answer: {Anabaptists}
+
+Conrad Grebel exposited their beliefs to Ulrich Zwingli, who allowed the Zurich council to decide between them, while Martin Luther, speaking from Wartburg, provided stiffer resistance to the ministry of the Zwickau Prophets. Under the leadership of Melchior Hoffman they orchestrated the Munster Rebellion in an attempt to establish a theocracy. For 10 points, identify this religious group that sprung out of the Radical Protestant Reformation, whose central tenet arose from the idea that religious initiation should be deferred until after infancy.
+
+----
+num: 19
+category: Literature
+difficulty: HS
+fixed: 1
+seen: 446
+answer: {Romeo} and {Juliet}
+
+One character in this work bemoans “these strange flies, these fashion-mongers, these perdona- mi's.” When that character dies, another exclaims “fire-eyed fury be my conduct now.” Balthasar unwittingly provided that character with false information, causing him to purchase poison from an apothecary. In act one, a character delivers a speech about Queen Mab on the way to a ball. The title character's refusal to duel the “prince of cats,” Tybalt, leads to Mercutio's death. For 10 points, name this Shakespeare play which ends with the suicide of the title "star-crossed lovers."
+
+----
+num: 20
+category: Fine Arts
+difficulty: HS
+fixed: 57
+seen: 489
+answer: La {Boheme}
+
+In this opera's aria “Vecchia Zimara,” Colline sings about his sorrow for selling his coat, and in “Che Gelida Manina” the tenor says he will help the soprano who cames to his apartment to find a light for her candle. Alcindoro is left with the bill at Café Momus after the mezzo-soprano sings the aria “Quando M'en Vo” where she regains the affections of Marcello, and later Musetta sells her earrings to buy medicine to help a character dying of tuberculosis in Latin Quarter. Ending with Mimi dying in the hands of Rodolfo, for 10 points, name this opera by Puccini.
+
+----
+num: 21
+category: Science
+difficulty: HS
+fixed: 1
+seen: 484
+answer: {glucose} [or C6 {H12 O6}]
+
+The gene SLC2A9 encodes a transporter of this molecule, which is the starting material in the Reichstein process. Unlike humans, most animals can synthesize vitamin C in a four step process starting with it, and PET scans often use a fluorinated analog of this molecule. Together with galactose, it makes up the dissacharide lactose, and numerous molecules of this hexose make up the storage molecules cellulose and starch. For 10 points, name this sugar that is broken down into two molecules of pyruvate in glycolysis.
+
+----
+num: 22
+category: Literature
+difficulty: HS
+fixed: 57
+seen: 443
+answer: The {Awakening}
+
+The main character of this novel borrows a book by the Brothers Goncourt from a woman who makes her black servants do her sewing because she believes it is unhealthy. That character had eloped from her strict Kentucky family to marry a man who gets angry when she ignores Reception Day. The protagonist rejects Mademoiselle Reisz's attempt to temper family obligations with an artistic talent, and has affairs with Alcée Arobin and Robert LeBrun before walking into the sea. For 10 points, name this novel about Edna Pontellier by Kate Chopin.

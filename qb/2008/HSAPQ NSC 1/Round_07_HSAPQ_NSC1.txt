@@ -1,0 +1,214 @@
+####
+tournament: HSAPQ NSC 1
+round: Round_07_HSAPQ_NSC1.pdf
+year: 2008
+####
+
+num: 1
+category: History
+difficulty: HS
+fixed: -1
+seen: 423
+answer: {William} the {Conqueror} [or {William} I of England]
+
+This man faced the rebellion of Waltheof, Roger de Breteuil and Ralph de Guader after he defeated his cousin Gui of Brionne at the Battle of Val-es-Dunes. He gathered a war council at Lillbonne before amassing his army at Saint-Valery-sur-Somme, eventually resulting in a landing at Pevensey. The son of Herlette of Falaise and Robert the Magnificent, this man had the Tower of London constructed and commissioned the Domesday Book. For 10 points, name this man who became king of England upon his defeat of Harold Godwinson at the Battle of Hastings.
+
+----
+num: 2
+category: Social Science
+difficulty: HS
+fixed: 1
+seen: 381
+answer: Alfred {Adler}
+
+His works for the general public included What Life Should Mean to You, and his colleague Rudolf Dreikurs founded institutes named for this man in Tel Aviv and Chicago. He downplayed the idea that sexual conflicts in childhood cause mental illness, and his system of individual psychology was outlined in Understanding Human Nature. Breaking with Freud with his publication of 1907's Study of Organ Inferiority and Its Psychological Compensation, for 10 points, name this psychiatrist who wrote The Neurotic Constitution and formulated the concept of the inferiority complex.
+
+----
+num: 3
+category: Literature
+difficulty: HS
+fixed: 57
+seen: 440
+answer: {Antigone}
+
+This character pledges never to be a slave at the end of The Phoenician Women. In another play, she arrives at an olive grove that is sacred to the Furies, and Theseus is asked to protect her, as she ends her years of guiding her blind father. Jean Anouilh updated the work in which this character plays her most prominent part; in that play, this woman is betrothed to Haemon and is killed by being sealed in a cave, leading to Creon's suicide. For 10 points, name this sister of Ismene and daughter of Oedipus, a female who buries her brother Polynices in a Sophocles play.
+
+----
+num: 4
+category: Religion
+difficulty: HS
+fixed: 57
+seen: 449
+answer: {Jonah}
+
+He is identified in Second Kings chapter 14 verse 25 as prophesizing during the reign of Jeroboam II, and he was the son of Amittai. He predicted the extension of Israel's borders from the Dead Sea to the entrance of Hamath, and as he awaited the destruction of a city, this man was distressed by the destruction of a tree by a great worm. He boarded a ship in Joppa and attempted to flee from God's call to prophesy against Nineveh. For 10 points name this Old Testament prophet who was eaten by a giant fish and later vomited out.
+
+----
+num: 5
+category: Science
+difficulty: HS
+fixed: 57
+seen: 484
+answer: luminiferous {ether} [or luminiferous {aether}]
+
+Larmor proved that Fitzgerald-Lorentz contraction is a result of Lorentz transformations in a paper titled “[this] and Matter.” Stokes' “Silly Putty” Model describes it as a rigid solid for high frequency oscillations and a fluid for low frequency oscillations. Maxwell attempted to measure its effect on the Earth's motion, but its existence was disproved by an experiment that involved an interferometer, and was conducted by Michelson and Morley. For 10 points, name this hypothetical substance necessary for the transmission of light waves.
+
+----
+num: 6
+category: History
+difficulty: HS
+fixed: 57
+seen: 412
+answer: John Brown
+
+He lived on land provided by the philanthropist Gerrit Smith, who was one of this man's chief financial backers, as was the preacher Thomas Higginson. His agent in New England, Franklin Benjamin Sanborn, urged this man not to undertake his most famous action, and in Chatham, Ontario, this man proposed a new constitution for the United States. After the burning of Lawrence, this man led a retaliatory raid at Pottawatomie Creek. For 10 points name this man who was hanged in 1859 for leading the abolitionist raid on Harpers Ferry. 
+
+----
+num: 7
+category: Science
+difficulty: HS
+fixed: 1
+seen: 488
+answer: interphase
+
+One important step during this phase sees CKI-p16 inhibit CDK4/6; when this is overcome, cyclin E interacts with CDK2 to being the next step of this phase. Another step in this phase sees MPF activate CDK to begin the phase after this one. Those two steps are the G1 and G2 checkpoints. Another stage that occurs during this period sees the formation of two sister chromatids and is known as S phase. For 10 points, name this phase that occupies the majority of the cell's life cycle, the stage in which there is no cell division through mitosis.
+
+----
+num: 8
+category: Fine Arts
+difficulty: HS
+fixed: -1
+seen: 497
+answer: Diego Velázquez
+
+He painted a dog next to a patriarch being told by five of his sons about one's death in Joseph's Bloody Coat, and he painted the British signing a treaty with the Dutch in The Surrender at Breda. Francis Bacon modeled his Head Surrounded by Slabs of Beef on this man's portraits of Innocent X, and he painted the royal couple in a mirror and himself painting a scene that includes some dwarves and servants attending to the Infanta Margerita. The court painter of Philip IV, for 10 points, name this Spanish painter of Las Meninas.
+
+----
+num: 9
+category: Geography
+difficulty: HS
+fixed: 1
+seen: 711
+answer: {Baffin} Island [or {Qikiqtaaluk}]
+
+The Nettilling and Amadjuak are its largest lakes, while its two highest peaks, mounts Asgard and Odin, are located in the Auyittuq National park. This island is bordered by the Gulf of Boothia and Lancaster Sound, while the Cumberland Peninsula is in its eastern portion. Separated from Labrador by the Hudson Strait, the capital of Nunavut lies on its Frobisher Bay. The Hudson Strait separates it from Labrador, and this home of Iqaluit is located between Greenland and mainland Canada. For 10 points, identify this fifth largest island in the world.
+
+----
+num: 10
+category: Science
+difficulty: HS
+fixed: 1
+seen: 484
+answer: {recursion} [accept {divide} and {conquer} until it is read]
+
+The runtime of algorithms that employ this paradigm can be found with the Akkra-Bazzi method or the Master theorem, and it can be less efficient than other methods due to the need to store the call stack. It is utilized by divide and conquer algorithms such as binary search, and it can be used to solve the Towers of Hanoi problem or implement the factorial function, which can be defined as “n time n-1 factorial.” For 10 points, name this programming model, the opposite of iteration, in which a function's definition includes a call to itself.
+
+----
+num: 11
+category: Trash
+difficulty: HS
+fixed: 1
+seen: 1035
+answer: “Yesterday”
+
+Francisco Gabarro, Ken Essex, Tony Gilbert, and Sidney Sax are four of the musicians credited on this song, which starts with an unusual seven-bar phrase. Originally released on the B side of “Act Naturally,” its working title was “Scrambled Eggs.” This song notes that “There's a shadow hanging over me,” and the singer doesn't know “Why she had to go” because “she wouldn't say.” For 10 points, name this song in which Paul McCartney laments that, at the title time, “all my troubles seemed so far away.”
+
+----
+num: 12
+category: History
+difficulty: HS
+fixed: 57
+seen: 419
+answer: War of the Spanish Succession
+
+Shortly after the end of this conflict, the New Plant Decrees were issued, and early battles in it include Chiari and Carpi. One battle in this conflict, fought between the Dyle and Mehaigne rivers, saw a victory for Count Overkirk over the Duke of Villeroi, while another took place near Oberglau and resulted in defeat for Maximilian II Emmanuel and the Duke of Tallard. The battles of Ramillies and Blenheim, which were won by Eugene of Savoy and the Duke of Marlborough, were part of, for 10 points, what conflict ended by the Treaty of Utrecht.
+
+----
+num: 13
+category: Literature
+difficulty: HS
+fixed: 57
+seen: 445
+answer: William {Golding}
+
+This author wrote about Reverend Colley and Edmund Talbot in Rites of Passage, and he wrote about the discovery of a corpse that still has on its sea boots, revealing that the titular naval lieutenant's struggles to survive on a barren rock were hallucinations. In addition to Pincher Martin, this man wrote a novel in which Simon discovers the body of an airman that had been mistaken for “the beast,” and Ralph attempts to keep order with a conch shell. For 10 points, name this author who wrote about boys stranded on an island in Lord of the Flies.
+
+----
+num: 14
+category: Trash
+difficulty: HS
+fixed: 1
+seen: 928
+answer: Fritz {Lang}
+
+He directed a film where a mob leaves the innocent Joe Wilson in a burning building before he becomes a vigilante, and in another detective Lohmann tracks down the title character. Along with Fury and The Testament of Dr. Mabuse, one of his films was recut by Giorgio Moroder, who added a rock soundtrack, and in another Peter Lorre plays a child killer who whistles “In the Hall of the Mountain King.” Most famous for a film that used smash-zoom during Freder's search for the worker Maria, for 10 points, name this German director of M and Metropolis.
+
+----
+num: 15
+category: Science
+difficulty: HS
+fixed: 57
+seen: 482
+answer: {sediment}
+
+In fluvial systems, this material is governed by a statement of the conservation of mass that relates the transported and stationary type of this, the Exner equation. One type of this material is created by gravitational collapse and is known as talus. Another type of this material stems from Aeolian forces and is known as loess. Glaciers can create a type of this material called till, while the type dissolved in water is known as runoff. For 10 points, name this matter made up of small particles that stems from erosion and eventually settles in a solid layer.
+
+----
+num: 16
+category: Literature
+difficulty: HS
+fixed: 1
+seen: 439
+answer: St. {Augustine} of Hippo [or {Aurelius Augustinus}]
+
+This person was paired with “love” in the title of a work by Hannah Arendt. Near the end of his life, he looked back on his writing in the book Reconsiderations. An opponent of both the Donatists and Pelagians, this writer responded to Alaric's sack of Rome by writing a book that contrasted Rome with the titular metaphorical Jerusalem, The City of God. He described his upbringing by Monica and conversion by Ambrose of Milan in another work. For 10 points, name this North African theologian who died in 430 CE after writing his Confessions.
+
+----
+num: 17
+category: History
+difficulty: HS
+fixed: 57
+seen: 415
+answer: Battle of {Salamis}
+
+This engagement was preceded by trickery of the slave Sicinnus, and it began after a war council at Phaleron. One commander viewed this from Mount Egaleo, and the main fighting occurred between Saint George Island and the Kynosoura Peninsula. Psyttaleia was captured by Aristides during this, and the force stationed at Piraeus under Ariamenes and Artemesia lost to that of Eurybiades. For 10 points, name this victory for the fleets of Themistocles over those of Xerxes, a 480 BCE naval battle of the Persian Wars.
+
+----
+num: 18
+category: Literature
+difficulty: HS
+fixed: 57
+seen: 445
+answer: Mourning Becomes {Electra}
+
+One character in this novel carries on an affair with a Polynesian man named Avihenna. A brother and sister named Peter and Hazel become engaged to two of the central characters, though both engagements are broken. One character's brother, Dave, ran off with an Indian girl named Marie Brantome. That union produced Adam Brant, who has an affair with Christine, who kills Ezra. For 10 points, name this play in which Orin commits suicide at the behest of Lavinia, a work about the Mannons that is a retelling of the Orestia by Eugene O'Neill.
+
+----
+num: 19
+category: Fine Arts
+difficulty: HS
+fixed: 1
+seen: 495
+answer: Joseph Maurice {Ravel}
+
+He submitted a fugue that contained parallel fifths and ended on a chord with a major seventh, which led to him being eliminated from contention for the Prix de Rome. One work by this composer describes fin de siècle decadence, and is entitled La Valse. Another of his works, Piano Concerto for Land Hand, was written for Paul Wittgenstein. This composer of a Pavane for a Dead Princess composed a work that has a snare drum ostinato and features numerous instruments playing the same theme repeatedly. For 10 points, name this composer of Bolero.
+
+----
+num: 20
+category: Literature
+difficulty: HS
+fixed: -1
+seen: 446
+answer: Hermann {Hesse}
+
+Hans Giebenrath befriends Hermann Heilner and drowns after sinking into mental illness in one of this author's works, and another of his works tells of the title character's prodding of Emil Sinclair to spiritual realization; those works are Beneath the Wheel and Demian. Mozart judges one of this author's characters after he meets Pablo and stabs Hermine in the Magic Theater. This author wrote about Joseph Knecht, who succeeds Thomas van der Trave as Magister Ludi. For 10 points, name this author of The Glass Bead Game, Der Steppenwolf, and Siddhartha.
+
+----
+num: 21
+category: History
+difficulty: HS
+fixed: 1
+seen: 411
+answer: {North Carolina}
+
+This state's governor during the Civil War was Zebulon Vance, and it was the site of a 1979 massacre of members of the Communist Workers Party by the Ku Klux Klan and Nazis. Governor William Tryon won the Battle of Alamance in this state, and during the Revolutionary War, it was the site of the Battle of Guilford Courthouse. For 10 points, name this state that saw the Regulator Movement in the 1760s, the Greensboro sit-ins in 1960, and is home to a place nicknamed the "Hornet's Nest" by Cornwallis, the city of Charlotte.

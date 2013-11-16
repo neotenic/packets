@@ -1,0 +1,214 @@
+####
+tournament: Chitin
+round: Round 11 - UMN 4.doc
+year: 2008
+####
+
+num: 1
+category: Trash
+difficulty: HS
+fixed: 1
+seen: 1030
+answer: {tight} end
+
+A man who plays this position had a breakout 2004 that saw him gain 460 yards through five weeks with the 49ers; his name is Eric Johnson.  Highly drafted players at this position include Greg “G-reg” Olsen, Leonard Pope, and Vernon Davis.  Whichever side players of this position line up on is dubbed the “strong side,” and current players at this position include Kellen Winslow, Jason Witten, and Todd Heap.  For 10 points, name this position played by Mike Ditka, Jeremy Shockey, and Antonio Gates.
+
+----
+num: 2
+category: Literature
+difficulty: HS
+fixed: 57
+seen: 443
+answer: {“Ozymandias”}
+
+J. Gwyn Griffiths argued out that the title of this work is derived from Diodorus Siculus' Bibliotheca Historia though Johnstone Parr pointed out that Raleigh's History of the World may have also been a possible source. The speaker of most of the poem commends an artist for having “well those passions read” and creating a figure “with [a] frown and wrinkled lip and sneer of cold command.” For 10 points, identify this poem whose titular “king of kings” commands the narrator to “Look on my works, ye Mighty, and despair!,” a sonnet about Ramses the Great by Percy Shelley.
+
+----
+num: 3
+category: History
+difficulty: HS
+fixed: 57
+seen: 414
+answer: Republic of {Liberia}
+
+This country's early settlement involved wars with the Grebo people.  Its first governor was Jehudi Ashmun, and its first black leader was Joseph Jenkins Roberts.  Some of the first settlers here arrived on the Mary C. Stevens and were graduates of Lincoln University.  Martin Delany and Frederick Douglass sparred over this entity's existence, and recent leaders have included war criminal Charles Taylor, who fled to neighbor Sierra Leone, and Ellen Johnson-Sirleaf.  For 10 points, name this country founded by freed black American slaves, with capital Monrovia.
+
+----
+num: 4
+category: Science
+difficulty: HS
+fixed: 1
+seen: 487
+answer: {bacteriophages} [prompt on “{virus}” or “{phage}”]
+
+Seymour Benzer extensively studied the genetics of these entities, whose P1, Mu, and M13 varieties are often used as cloning vectors.  Radioactive P-labeled DNA was inserted into the genomes of these entities, proving that DNA was the genetic material, in the Hershey Chase experiment.  The lambda variety engages in the lysogenic cycle, but most infect a cell via attachment, penetration, multiplication, and eventual bursting of the host cell in the lytic cycle.  For 10 points, name these viruses that attack a certain type of single-celled organism.
+
+----
+num: 5
+category: History
+difficulty: HS
+fixed: -1
+seen: 411
+answer: John Brown
+
+One of this man's supporters had earlier led an attempt to rescue Anthony Burns, while another, Franklin B. Sanborn, had been a student of Emerson.  He was supported by the "Secret Six", which included the former vice president of the American Peace Society, Gerrit Smith, and this man met with other supporters in Canada to form the provisional Chatham Constitution.  He was involved in the Pottawatomie Killings during Bleeding Kansas, and he wrote the “Vindication of the Invasion” before leading an expedition that began on his rented farm in Maryland.  For 10 points, identify this man who led a slave revolt in Harper's Fairy.
+
+----
+num: 6
+category: Fine Arts
+difficulty: HS
+fixed: 57
+seen: 496
+answer: {Kabuki}
+
+Notable elements of this form include the elevated “flower path” and the “small wagon” stage, which performers use during scenery changes. Shouting out an actor's name while he strikes a pose is considered a compliment, and one notable play, called Treasury of Loyal Retainers, is about forty-seven ronin. Ichikawa Danjuro, an actor of this form, invented its mie poses and kumadori makeup. Thought it was invented by the miko Okuni in 1603, women and young boys were banned by 1651, after which male onnagata began playing all the roles. For 10 points, identify this form of Japanese theater, more emotional than its aristocratic predecessor, Noh.
+
+----
+num: 7
+category: Literature
+difficulty: HS
+fixed: -1
+seen: 441
+answer: One {Hundred} Years Of Solitude or {Cien Años} de Soledad
+
+In this novel, a promise by Mr. Brown to resume festivities after the rain ends causes the rainfall to continue incessantly for over four years. Another character is able to break crockery at the slightest touch, and that character and sixteen others by the same name are killed on Ash Wednesday. Other characters include Remedios, who levitates to heaven, and Ursula, the matriarch, who sees the rise and fall of various members of the Buendia family, who live in Macondo.  For 10 points, identify this work of Gabriel Garcia Marquez.
+
+----
+num: 8
+category: Social Science
+difficulty: HS
+fixed: 57
+seen: 377
+answer: Talcott {Parsons}
+
+This man argued that the state of being sick must follow four sets of social rules in The Social System. He theorized that a society must progress through adaptation, goal attainment, integration, and latency in order to survive in its environment in Economy and Society and further developed the AGIL paradigm in The American University. He supported the cause to unite all social sciences with one overarching theoretical framework, grand theory, and crafted a social theory that states that society consists of smaller parts that each play their own role. For 10 points, identify this sociologist, author of The Structure of Social Action, best known for founding structural functionalism. [that's right, the entire question is in power]
+
+----
+num: 9
+category: History
+difficulty: HS
+fixed: 57
+seen: 421
+answer: The {Tennis Court} Oath [or {serment du jeu} de {paume}]
+
+This event was depicted with several people throwing their hats as the central figure raises his right hand on a platform, while the winds of change blow through the windows at upper left.  This agreement was hammered out after discussions by Jean-Sylvan Bailly and Jean-Joseph Mounier.  Its signatories promised to remain together until a constitution was drafted, and a week later a meeting of the Estates-General was called by Louis XVI.  It was signed after the Menus Plaisirs was locked, leaving the 577 members of the Third Estate without a meeting place.  For 10 points, name this agreement of the French Revolution signed in a recreation area.
+
+----
+num: 10
+category: Science
+difficulty: HS
+fixed: 57
+seen: 480
+answer: {punctuated equilibrium}
+
+This theory assumes the existence of Cladogenesis, but not anagenesis, and it rejects the idea of saltation. It was first said to have been introduced by Ernst Mayr's work, and it is based on allopatric speciation. A special case of phyletic gradualism, much controversy exists over the rate at which evolution occurs in this theory. For 10 points, identify this theory proposed by Niles Eldridge and Stephen Jay Gould, which states that evolution occurs in short, rapid bursts.
+
+----
+num: 11
+category: Mythology
+difficulty: HS
+fixed: -1
+seen: 775
+answer: Poseidon 
+
+He once conspired with Hera and Athena to put Zeus in chains; later, he killed the giant Polybotes with an island. Some stories claim that he was raised by the Telchines or hidden in a flock of sheep by Arne at the request of Rhea instead of suffering the fate of most of his siblings. He sent a monster to attack Troy after Laomedon failed to reward him for helping Apollo build walls, and later sent another monster to devour Laocoon. His horse lost to Athena's olive tree in the contest for Athens, his children include Polyphemus and Triton, and his wife is Amphitrite. For 10 points, identify this brother of Hades and trident-wielder, the Greek god of horses and the sea. 
+
+----
+num: 12
+category: Science
+difficulty: HS
+fixed: 57
+seen: 483
+answer: {Brownian} motion
+
+When the Hurst parameter is not equal to one-half, it leads to the occurrence of the “fractional” version of this phenomenon, and Park et al proposed using Optical Serial Sectioning Microscopy to determine temperature by studying this process in nanoparticles. This process can be described by the Langevin equation, and Jean Perrin used this phenomenon to calculate the Avogadro's constant. It was observed by its namesake in pollen grains suspended in water, and Einstein explained it using the kinetic theory of gases. For 10 points, identify this random motion of small particles in a fluid named after a Scottish Biologist.
+
+----
+num: 13
+category: History
+difficulty: HS
+fixed: 57
+seen: 421
+answer: Charles Maurice de {Talleyrand}-Perigord
+
+During the Fete de la Federation, this man who was then the Bishop of Auten took an oath to the as-yet unwritten constitution.  Rumored to have been privy to the kidnapping and execution of the Duke of Enghien, this man proposed a namesake partition plan for Belgium.  He once hired actors to portray senators in the hopes that he would be named head of a provisional government after the downfall of Napoleon.  His country's lead delegate at the Congress of Vienna and the demander of a quarter million dollar bribe during the XYZ affair, for 10 points, name this French diplomat.
+
+----
+num: 14
+category: Fine Arts
+difficulty: HS
+fixed: 57
+seen: 492
+answer: The {Swing} [accept {L'Oscillation} or {Les Hazards heureux} de {l'escarpolette}]
+
+One story claims that the Baron de Saint-Julien originally offered the commission for this painting to Gabriel Doyen, who angrily refused. Two cupid statues lean on a sculpture of dolphins pulling Venus' chariot in the lower center of this work, while a small mammal looks up from the lower right, and another cupid observes from the left with its finger to its mouth. In the middle of this painting, a man looks up the central figure's dress as she's being pushed by her lover, a priest, while her shoe flies off. For 10 points, identify this late Rococo painting, a work depicting a woman in a pink dress using the title object by Jean-Honore Fragonard. 
+
+----
+num: 15
+category: History
+difficulty: HS
+fixed: 1
+seen: 421
+answer: Roger Brooke {Taney}
+
+This man's opinion in Abelman v. Booth enjoined Wisconsin from interfering with enforcement of federal law.  He opined that state extraditions cannot be ordered by federal courts in Kentucky v. Dennison, while he invoked the doctrine of “political questions,” claiming that only the president and congress could rule on the legitimacy of alternate state governments during Dorr's Rebellion in Luther v. Borden.  This brother-in-law of Francis Scott Key held against implied rights in contracts in Charles River Bridge.  For 10 points, name this Supreme Court Chief Justice who wrote the infamous Dred Scott decision.
+
+----
+num: 16
+category: Mythology
+difficulty: HS
+fixed: 1
+seen: 788
+answer: Incest
+
+In Romanian myth, Ilena Consanzeana dives into the sea and eventually turns into the moon in order to avoid this action. Shiva cuts off one of Brahma's heads after doing this action under the influence of one of Kama's arrows. Smyrna was transformed into a myrrh tree by her partner in this action. Two survivors of Sodom and Gomorrah got Lot drunk in order to undertake this action, and Papa Earth and Rangi Sky created mankind through this action. For 10 points, identify this action that created Mordred from Morgause and Arthur and Horus from siblings Isis and Osiris, reproduction that occurs between family members.
+
+----
+num: 17
+category: Literature
+difficulty: HS
+fixed: 57
+seen: 441
+answer: Albert {Camus}
+
+He wrote a play about the Roman Emperor Caligula and his essay collections include Nuptials and Two Sides of the Coin. He adapted Dostoevsky's The Possessed, and Faulkner's Requiem for a Nun for the theater, and his short stories The Growing Stone and The Guest are collected in Exile and the Kingdom. In another work, Jean Baptists Clemance lets a woman drown, while other works by this man feature Dr. Rieux and Mersault, who kills an Arab.  For 10 points, identify this author of The Fall, The Plague and The Stranger.
+
+----
+num: 18
+category: Science
+difficulty: HS
+fixed: 1
+seen: 478
+answer: {vapor} pressure
+
+This quantity can be approximated using the Antoine equation. It can be expressed with respect to water and ice via the Goff-Gratch equation. The Kelvin equation describes the logarithm of this quantity in terms of the Surface tension and radius of a droplet. The logarithm of this quantity varies inversely with temperature according to the Clausius-Clayperon equation. When a substance boils, this quantity must be greater than atmospheric pressure. For 10 points, identify this quantity, which for mixtures is given by Raoult's law.
+
+----
+num: 19
+category: Geography
+difficulty: HS
+fixed: 1
+seen: 710
+answer: Republic of {Bulgaria} [accept {Republika Balgariya}]
+
+This polity contains the Pirin and most of the Rhodope Mountains, while the Rila range, found in its southwest, contains its highest peak, Mount Musala. A bunch of Eneolithic golden artifacts were found in this country's Varna Necropolis archeological site, while the Golden or Round Basilica in Preslav was built during the reign of its first tsar, Simeon I. The Maritsa River flows through Upper Thrace's largest and this country's second largest city, Plovdiv. The Danube forms most of its northern border with Romania, and its eastern coast is on the Black Sea. For 10 points, identify this southeastern European country with capital at Sofia. 
+
+----
+num: 20
+category: Literature
+difficulty: HS
+fixed: 57
+seen: 448
+answer: {Candide}
+
+A hangman's inability to tie a proper knot saves one character from death via auto-da-fe in this work. A character in this novel finds his love interest and her brother working as galley slaves in Venice, and they earlier get robbed in Cadiz. At the end of the novel, everyone retires to Turkey to grow their own garden, and in another scene a teacher appears behind a bush “instructing” a comely young maid of Cunegonde. For ten points, identify this novel about the title character and a the philosopher Pangloss who believes this is “the best of all possible worlds”, a work by Voltaire.
+
+----
+num: 21
+category: Social Science
+difficulty: HS
+fixed: 57
+seen: 378
+answer: {Welfare} [accept {added words} like "{State}" and "{Economics}" to {this}]
+
+The economics of this concept attempts to maximize the results of an equation that contains seven parts for the simplest possible economy.  Amartya Sen wrote about “Distribution, Transitivity, and Little's [Criteria of this concept.]”  William Temple used this term to compare Great Britain to Nazi Germany during World War II.  The Personal Responsibility and Work Opportunity Reconciliation Act passed during Clinton's first term largely reformed this in the United States.  For 10 points, identify this term that also identifies a certain type of state often associated with health care and food stamps.

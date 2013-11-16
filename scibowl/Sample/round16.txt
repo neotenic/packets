@@ -1,0 +1,332 @@
+####
+tournament: Sample
+round: round16.pdf
+####
+
+num: 2
+category: Chemistry
+difficulty: HS
+seen: 33
+answer: 90;  180
+
+Name the 2 different bond angles present in a molecule with octahedral geometry, such as in SF ^6:
+
+----
+num: 2
+category: Chemistry
+difficulty: HS
+seen: 35
+answer: 0.05
+(Solution: 0.05 Mol Ba(oh)^2/l × 0.02l = 0.001 Mol Ba(oh)^2 × 2 = 0.002 Mol;  0.002 Mol ÷ 0.04l 
+= 0.05m)
+
+In a titration experiment, it takes 20.0 milliliters of a 0.05 molar barium hydroxide, Ba(OH)^2, solution to neutralize 40 milliliters of a nitric acid, or HNO ^3, solution to the equivalence point. Calculate the molarity of HNO^3, rounded to the second decim al place:
+
+----
+num: 3
+category: Physics
+difficulty: HS
+seen: 26
+answer: 2
+
+By words or numbers, identify all of the following 4 choices that 
+MUST be true for 2 objects in thermal equilibrium:
+1) they both must radiate no energy in any direction
+2) they must be at the same temperature
+3) they both must have the same thermal expansion coefficients
+4) they must have the same internal energy
+
+----
+num: 3
+category: Physics
+difficulty: HS
+seen: 25
+answer: 12.5  (Accept: –12.5)
+(Solution: (1000 j/kg.k)(0.25 Kg)(–50k) =  –12,500 Joules =  –12.5 Kj)
+
+How many kilojoules of thermal energy, rounded to the first decimal place, must be lost from a 250 -gram block of Teflon with a specific heat of 1 kilojoule per kilogram kelvin, to lower the block’s temperature from 125º C to 75º C?
+
+----
+num: 4
+category: Math
+difficulty: HS
+fixed: -1
+seen: 26
+answer: (–3, 0)
+(Solution:  X = 3 Cos π = –3 and Y = 3 Sin π = 0)
+
+If a point has polar coordinates (3, π), what are the rectangular coordinates?
+
+----
+num: 4
+category: Math
+difficulty: HS
+seen: 26
+answer: Ii and Iii (Accept:  2 and 3 or Second and Third)
+
+The graph of the polar equation , r = 5 – 5 cosine θ, is a cardioid. In which two quadrants is most of the are a of this cardioid?
+
+----
+num: 5
+category: Earth Science
+difficulty: HS
+seen: 62
+answer: Rhyolitic  (Accept:  Rhyolite)
+(Solution: Basaltic ~ 1000º  – 1200ºc, Andesitic ~ 800º – 1000ºc, Rhyolitic ~ 650º – 800ºc)
+
+Of the 3 basic types of magma on Earth, which one generally has the LOWEST eruptive temperature?
+
+----
+num: 6
+category: General Science
+difficulty: HS
+seen: 31
+answer: 15
+(Solution: (70º + 30º)/2 = 50º;  65º – 50º = 15 Hdd)
+
+Calculate the heating degree day in the U.S. if the day’s high temperature is 70ºF and the low is 30ºF:
+
+----
+num: 7
+category: Astronomy
+difficulty: HS
+fixed: -1
+seen: 56
+answer: T-Tauri;  Red Giant;  White Dwarf
+
+Order the following 3 stages from the EARLIEST to the 
+LATEST in the evolution of a G -type star of 2 solar masses: red giant; T -tauri; white dwarf
+
+----
+num: 7
+category: Astronomy
+difficulty: HS
+fixed: -1
+seen: 56
+answer: Upper Right
+(Solution: This Describes a Red Giant)
+
+If a star has a surface temperature of 3,000 degrees kelvin, a core temperature of 100 million Kelvin, and a luminosity of 2,000 -times our Sun, choosing from upper right, upper left, lower left , and lower right, where on an H-R diagram would it most likely be found?
+
+----
+num: 8
+category: Biology
+difficulty: HS
+seen: 41
+answer: Nadh
+
+What reduced coenzyme donates its electrons to complex -one in the electron transport system?
+
+----
+num: 9
+category: Chemistry
+difficulty: HS
+seen: 34
+answer: 23
+(Accept:  1.5)
+
+What is the bond order for each oxygen -oxygen bond in the ozone or O ^3 molecule?
+
+----
+num: 11
+category: Math
+difficulty: HS
+fixed: -1
+seen: 24
+answer: (10, 3)
+(Solution: The 1 ^St Reflection  (3,10);  2^nd Reflection Interchanges the  X and Y Coordinates)
+
+The point (3, 2) is reflected across the graph of y = 6 and the resulting point is then reflected across the graph of y = x. What are the coordinates of the final point?
+
+----
+num: 12
+category: General Science
+difficulty: HS
+seen: 31
+answer: January 7  (Accept:  January 6 to 8)
+(Solution: 17 Days Later)
+
+Without leap days every 4 years, the winter solstice would start on what month and day after 70 years?
+
+----
+num: 13
+category: Earth Science
+difficulty: HS
+seen: 64
+answer: Mesosphere
+
+In what layer of Earth’s atmosphere do most meteors experience the most heating?
+
+----
+num: 13
+category: Earth Science
+difficulty: HS
+fixed: -1
+seen: 65
+answer: Stratosphere;  Thermosphere
+
+Name all of the following 4 layers of the atmosphere where temperature typically increases as altitude i ncreases: troposphere; stratosphere; mesosphere; thermosphere
+
+----
+num: 15
+category: Biology
+difficulty: HS
+seen: 38
+answer: Calmodulin
+
+What is the primary calcium -binding protein in eukaryotic cells, that is about 148 amino acids long, and has a wide variety of functions often through kinases and phosphatases (read as: foss -fah-TAY-sis)?
+
+----
+num: 16
+category: Chemistry
+difficulty: HS
+seen: 35
+answer: 1) +;  2) +;  3) –
+
+For the following 3 processes, predict whether the change in enthalpy, or ∆Sº (read as: delta S naught), is positive or negat ive, respectively:
+1) decomposition of ammonium nitrate
+2) sublimation of dry ice
+3) condensation of gaseous iodine to liquid iodine
+
+----
+num: 16
+category: Chemistry
+difficulty: HS
+fixed: -1
+seen: 34
+answer: 8 × 10–^3 (Accept:  0.008)
+(Solution: K^c = [Pcl^3][cl^2]/[pcl^5] = (0.02)(0.02)/(0.05) = 0.008 Moles)
+
+Consider the following equilibrium reaction, 
+PCl ↔ PCl + Cl . If a 1-liter flask contains 0.02 moles of PCl and 0.02 moles of Cl^ at ^5(ga^s) ^3(gas) ^2(gas) ^3 ^2equilibrium, how many moles of PCl^5 are in the flask. Assume the equilibrium constant is 5 × 10 –^2.
+
+----
+num: 17
+category: Physics
+difficulty: HS
+seen: 24
+answer: Neutron
+
+During beta minus decay, what nucleon type is reduced by one?
+
+----
+num: 18
+category: General Science
+difficulty: HS
+seen: 30
+answer: Neutrinos
+
+What are the Ice Cube observatory under construction at the South Pole and the ANTARES telescope off the coast of France primarily designed to detect?
+
+----
+num: 20
+category: Math
+difficulty: HS
+seen: 26
+answer: |  X |;  Tan(x);  the Greatest Integer Function
+
+Of the following 5 functions identify all that are NOT differentiable for all real numbers: | x | (read as: absolute value of x); cosine(x); tangent(x); e^x; the greatest integer function
+
+----
+num: 20
+category: Math
+difficulty: HS
+seen: 24
+answer: A and C
+
+The curve defined by the equation, Ax^2 + Bx + Cy^2 + Dy + E =0, can bean ellipse if which of the constants are positive?
+
+----
+num: 21
+category: Astronomy
+difficulty: HS
+fixed: -1
+seen: 54
+answer: Carbon;  Nitrogen;  Oxygen
+
+What 3 elements are most prominent in the carbon fusion cycle?
+
+----
+num: 21
+category: Astronomy
+difficulty: HS
+seen: 55
+answer: 200
+(Solution: λ ^Max = 3 × 10^6/15,000 K = 200 Nm)
+
+If the surface of a star is 15,000 kelvin, at what wavelength, in nanometers rounded to the nearest whole number, does it emit its maximum energy?
+
+----
+num: 22
+category: Biology
+difficulty: HS
+seen: 40
+answer: Osteoblasts  (Do Not Accept:  Osteocyte)
+
+What cell type is MOST directly r esponsible for secreting the bone matrix in developing humans?
+
+----
+num: 22
+category: Biology
+difficulty: HS
+seen: 41
+answer: Osteoclasts
+
+What specific human bone cell is antagonistic to osteoblasts and is known to cause apoptosis (read as: A -pop-TOE-sis) of osetoblasts in vitro?
+
+----
+num: 23
+category: Chemistry
+difficulty: HS
+fixed: -1
+seen: 37
+answer: Cyclohexane
+
+Of the following 5 alkanes, which one has the LEAST combined strain energy from angle strain and torsional strain: [read slowly] cyclopropane; cyclobutane;cyclopentane; cyclohexane; cyclo -octane
+
+----
+num: 23
+category: Chemistry
+difficulty: HS
+seen: 35
+answer: Chair
+
+What is the most common name for the conformation that the ring structure of cyclohexane adopts to reach a strain -free value?
+
+----
+num: 24
+category: Physics
+difficulty: HS
+seen: 25
+answer: Rydberg Constant (Accept:  Rydberg)
+
+What is the name of the universal constant that relates atomic spectra of elements to that of hydrogen?
+
+----
+num: 24
+category: Physics
+difficulty: HS
+seen: 25
+answer: 6.67 × 10–^11
+(Solution:  F = [(6.67 × 10^-^11)(10)(10)]/10^2 =  6.67 × 10^-^11^ Newtons)
+
+Assuming the universal gravitational constant is 6.67 × 10 –^11newton-meters squared per kilogram squared, what is the gravitational attraction, in newtons, between two, 10-kilogram perfectly uniform spheres separated by a center -to-center distance of 10 meters?
+
+----
+num: 25
+category: Biology
+difficulty: HS
+seen: 38
+answer: B
+^12
+
+Intestinal absorption of what vitamin is most directly dependent on intrinsic factor?
+
+----
+num: 25
+category: Biology
+difficulty: HS
+seen: 39
+answer: Auxin  (Accept:  Indole -Acetic Acid or Iaa)
+
+What plant hormone is primarily responsible for apical dominance in angiosperms?

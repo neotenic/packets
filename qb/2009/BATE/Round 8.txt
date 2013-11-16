@@ -1,0 +1,214 @@
+####
+tournament: BATE
+round: Round 8.doc
+year: 2009
+####
+
+num: 1
+category: History
+difficulty: HS
+fixed: 57
+seen: 414
+answer: Vichy France
+
+1 This entity had the motto "work, family, fatherland", and early policies, such as attentisme, were supported by the newspaper of Charles Maurras. One of its leaders had previously worked with the British Sir Samuel Hoare to sponsor a treaty that called on Ethiopia to cede part of its territory to Italy. That leader would be removed and subsequently be put back into power two years later. Guadeloupe and Martinique would be part of until 1943 and its armistice army would be disbanded in late 1942. Its leaders would include Pierre Flandin, Jean Darlan and Pierre Laval while another was a former World War One general who repulsed the German advance on Verdun. FTP, name this entity with a capital at a spa town, the collaborationist French government of World War Two.
+
+----
+num: 2
+category: History
+difficulty: HS
+fixed: 1
+seen: 450
+answer: Thomas {Jefferson}
+
+He wrote to Benjamin Latrobe that his style of architecture was “liable to some unfavorable and just criticisms” and debate still exists on whether he designed the Edgemont house. His retreat was designed in a precise mathematical style and is a fusion of the style of Andrea Palladio as well as more modern French architecture, known as Poplar Forest. Another work by this architect was based on the Maison Carrée in Nîmes, France done in the Roman Revival form of a classical temple. He worked with Charles-Louis Clerisseau to design a state capitol building and designed the Rotunda of the University of Virginia. FTP, identify this early American architect whose home near Charlottesville is titled Monticello. 
+
+----
+num: 3
+category: Science
+difficulty: HS
+fixed: 1
+seen: 484
+answer: {DeMorgan} Laws
+
+One can use this to determine the product of sums using a Karnaugh table   They can be used for a disjunction or conjunction operator and are often remembered using a variation of the line “If you need to break the line, change the sign”.  They can be proved through truth tables, and when more than two sets are involved one is proved by showing inclusion in both the intersection of each converse and the compliment of the union of each of those sets.  FTP name this set of laws from symbolic logic that state not parenthesis p or q close parenthesis is equivalent to not p and not q. 
+
+----
+num: 4
+category: Philosophy
+difficulty: HS
+fixed: 1
+seen: 521
+answer: Bertrand {Russell}
+
+This philosopher wrote the works Authority and the Individual and New Hopes for a changing World. He advocated “Trial” and “companionship” marriages in a work that advocated premarital sex, Marriage and Morals. In another work, this philosopher gave the belief in eternal punishment as a reason for the titular state in Why I am Not a Christian. In another of this philosopher's works, he utilized symbolic logic to attempt to derive all mathematical truth through a system of types. For ten points, identify this philosopher who may collaborated with Whitehead on Principia Mathematica.
+
+----
+num: 5
+category: Literature
+difficulty: HS
+fixed: 1
+seen: 444
+answer: Gabriel {Garcia Marquez} [prompt on {just Marquez}]
+
+Early in his career, he investigated several sailors who went overboard on a ship carrying contraband in his The Story of a Shipwrecked Sailor. He wrote about Pedro and Pablo Vicario's murder of Santiago Nasar in one work and another focuses on the later life of Simon Bolivar. In addition to The General in his Labyrinth, he wrote about the death of Doctor Juvenal Urbino and Florentino Ariza's love for Fermina Daza. In another work, he wrote about the Buendia family in a novel that sees a five year flood occur in the town of Macondo. FTP, name this Colombian magic realist author of Love in the Time of Cholera and 100 Years of Solitude. 
+
+----
+num: 6
+category: Fine Arts
+difficulty: HS
+fixed: 57
+seen: 498
+answer: Sergei {Prokofiev}
+
+An early work by this man was originally written for a work titled Ala and Lolly while he wrote Song about the Beaver and It were better for you, Judas to accompany another work. In addition to the Scythian Suite, this man's Opus 60 contains a troika movement written for a work based on the court of Emperor Paul. Another work by this man sees Truffaldino hired to make the Prince laugh and also sees Fata Morgana fall in love with the title fruits. In addition to Lieutenant Kije and The Love for Three Oranges, the most famous work by this man ends with one of the title characters taking another of the title character to the zoo and sees the grandfather represented by the bassoon. FTP, identify this composer of Peter and the Wolf 
+
+----
+num: 7
+category: Science
+difficulty: HS
+fixed: 1
+seen: 491
+answer: {Dielectric} Constant
+
+Cyclic olefin copolymer fibers are often used since they have a low value of this. A relaxation in the crystal structure of ceramic materials causes this value to "age" over time, and it increases greatly at the Curie point. The value for polar substances such as water is extremely high, while non-polar substances have a lower value.  It is measured by the ratio of capacitance with the tested material between the plates to the capacitance with a vacuum between the plates.  FTP name this ratio of a material to carry an alternating current compared to a vacuum.
+
+----
+num: 8
+category: Literature
+difficulty: HS
+fixed: 1
+seen: 443
+answer: {Ode} on a {Grecian Urn}
+
+An interpretation of this work asks if there is paradox in the phrase "cold pastoral" in the final stanza. The speaker is asking what leaf-fringed legend haunts the titular object's shape, eventually inquiring about the ones that are coming to be sacrificed.  Critics argue as to who speaks the final 13 lines, perspectives include the poet or the titular object.  That titular object is described as the foster child of silence and slow time in the first stanza, and the speaker describes various images on the titular object through the other stanzas.  The speaker asserts that heard melodies are sweet, while unheard ones are sweeter, so asks the soft pipes to play on.  FTP name this poem that claims “Ye know on earth and all ye need to know is that beauty truth and truth beauty”, written by John Keats.
+
+----
+num: 9
+category: Geography
+difficulty: HS
+fixed: 1
+seen: 720
+answer: {Ural} Mountains ({also accept} Uralsky Khrebet)
+
+The northern terminus of this mountain range is the minor Pay-Khoy Ridge, and its southernmost extension is a region of uplands known as the Mughalzhar Hills. The most numerous indigenous group in this mountain range is the Bashkir people, while other minor groups include the Nenets, Mansi, and Khanty peoples. The northern region of this range includes the chain's highest peaks, including Mount Narodnaya. Almost the entire eastern slope of this mountain range is drained by the Ob river system, and a major river on the western slope is the Kama, a tributary of the Volga. Near its southernmost extent, this chain is drained by its namesake river, which flows into the Caspian Sea. FTP, name this mountain range in west-central Russia that forms a major part of the traditional boundary between Europe and Asia.
+
+----
+num: 10
+category: History
+difficulty: HS
+fixed: 1
+seen: 422
+answer: George {Wallace}
+
+His campaign against Albert Brewer is often viewed as one of the dirtiest in American history. He served as a delegate at the 1948 Democratic Convention and made a failed run for governor in 1958, where he lost to John Patterson in the important primaries. He finally won the gubernatorial election in 1963 and had his wife Lurleen run as a surrogate so he could have a second term. He later ran for president of the United States on four different occasions, running with Curtis LeMay after surviving an assassination attempt by Arthur Bremer, and became the last third-party candidate to win electoral votes. FTP, name this former Alabama governor who said "I say segregation now, segregation tomorrow, segregation forever."
+
+----
+num: 11
+category: Fine Arts
+difficulty: HS
+fixed: 1
+seen: 481
+answer: John Singer {Sargent}
+
+A painting of a man on a horse can be seen behind four men in black robes in his The Four Doctors. In a noticeable break from style, an artist is painting near the woods in the loose brush strokes in Claude Monet Painting by the Edge of a Wood and he did portraits of Grace Curzon, and Theodore Roosevelt. A woman in a wide white dress and black jacket is seen in the foreground with her husband more faded in the background in a portrait of Mr. and Mrs. Isaac Newton Phelps Stokes. Another work depicts a young woman named Virginie Gautreau who wears a black evening dress and rests one hand on a table. FTP, name this artist who painted Portrait of Madame X.
+
+----
+num: 12
+category: Science
+difficulty: HS
+fixed: 1
+seen: 488
+answer: {Noble gas} (prompt on {inert gas,} accept {group 18 elements} before it is mentioned)
+
+The most recently discovered element from this group was formed by collisions between californium and calcium. The first one was discovered by Pierre Janssen and their name was coined by Hugo Erdmann. Another element from this group was discovered by Lord Rayleigh when he noticed a difference between the mass of chemically produced nitrogen and atmospheric nitrogen. Linus Pauling predicted that one of them could form a hexafluoride compound and their filled p orbital gives them the highest first ionization energies on the periodic table. FTP, identify this group of elements on group 18 of the periodic table that include Radon and Neon. 
+
+----
+num: 13
+category: Literature
+difficulty: HS
+fixed: 57
+seen: 448
+answer: Samuel Taylor {Coleridge}
+
+He described the “oak that in summer was sweet to hear” and wrote “greatness and goodness are not means, but ends” in a poem which has one speaker reply to the other. In addition to writing The Knight's Tomb and the Good, Great Man, he wrote about a lady who was a “damsel bright, drest in a silken robe of white” in a work which has the titular character encounter Geraldine. Works like Cristabel and Dejection: an Ode detail his Romantic style as well his own troubled personal life. Another work was published in Lyrical Ballads in collaboration with William Wordsworth, and he wrote about a “stately pleasure-dome decree” in Kubla Khan. FTP, identify this poet who described the shooting of an albatross in The Rime of the Ancient Mariner.
+
+----
+num: 13
+category: Literature
+difficulty: HS
+fixed: 57
+seen: 440
+answer: Samuel Taylor {Coleridge}
+
+He described the “oak that in summer was sweet to hear” and wrote “greatness and goodness are not means, but ends” in a poem which has one speaker reply to the other. In addition to writing The Knight's Tomb and the Good, Great Man, he wrote about a lady who was a “damsel bright, drest in a silken robe of white” in a work which has the titular character encounter Geraldine. Works like Cristabel and Dejection: an Ode detail his Romantic style as well his own troubled personal life. Another work was published in Lyrical Ballads in collaboration with William Wordsworth, and he wrote about a “stately pleasure-dome decree” in Kubla Khan. FTP, identify this poet who described the shooting of an albatross in The Rime of the Ancient Mariner.
+
+----
+num: 14
+category: Trash
+difficulty: HS
+fixed: 57
+seen: 1029
+answer: The {Madden} Curse (accept clear knowledge equivalents, prompt on “appearing on the cover of {Madden} football games”)
+
+Michael Wilbon mocked it on Pardon the Interruption and would then go on to suffer a mild heart attack. Director of marketing Chris Erb gave his firm support that he does not believe in this. The first person it affected would retire and subsequently be replaced by Dorsey Levens. In 2001, Eddie George would go on to bobble a pass in a key playoff game. More recently, it has affected Shaun Alexander and Donovan McNabb and this term came into popular usage after Michael Vick was featured and would have a fracture to his right fibula. It was intended to be ended this year, as Brett Favre was expected to stay retired.  FTP, identify this supposed football jinx that occurs by appearing on the cover of a popular NFL video game.
+
+----
+num: 15
+category: History
+difficulty: HS
+fixed: 1
+seen: 418
+answer: {Second National Bank} of the United States (accept clear knowledge equivalents, but prompt on answers like “National Bank of the United States” however, don't accept answers that describe different organizations like “First National Bank”)
+
+Attempts to oppose this organization led to the firing of Louis McLane and William Duane. Its longest reigning leader had earlier served as a secretary to John Armstrong, the ambassador to France. A Supreme Court case dealing with it noted that “the government of the Union, though limited in its power, is supreme within its sphere of action.”  One of its critics described it as a “self-elected directory”, using the argument of dual-federalism, and for most of its existence it was led by Nicholas Biddle. It was established as a way to pay off loans accumulated during the War of 1812 and its legality was upheld in McCulloch vs. Maryland. FTP, name this financial institution that came under attack during the presidency of Andrew Jackson. 
+
+----
+num: 16
+category: Social Science
+difficulty: HS
+fixed: 1
+seen: 385
+answer: {Milgram} shock/obedience/authority experiment
+
+A somewhat tweaked version of this experiment done by Sheridan and King used a puppy and found differing results between males and females. The results of this experiment have been explained using the transition from the autonomous state to the agentic state, although other theories discuss the idea of learned helplessness, relating it to the Stanford Prison Experiment. Often used to describe the behavior that occurred at Abu Ghraib prison, it was primarily conducted to determine if the excuse of “just following orders” was justifiable for those who carried out the Holocaust. FTP, identify this psychological experiment exploring the conflict between obedience and personal conscience in which “teachers” were ordered to administer painful electric shocks to subjects. 
+
+----
+num: 17
+category: Literature
+difficulty: HS
+fixed: 57
+seen: 442
+answer: The {Lottery}
+
+Clyde Dunbar is unable to attend this event because of a broken leg. In larger towns this event occurs on June 2 but in this story it takes place on June 27th. The first characters mentioned are Bobby Martin, Harry Jones and Dickie Delacroix who prepare a large pile and protect it against raids. Mr. and Mrs. Adams mention how neighboring towns have ended it, leading Old Man Warner to exclaim “next thing you know, they'll be wanting to go back to living in caves”.  A saying about this event notes that “corn be heavy soon” after it takes place, showing the ancient, thoughtless manner of the barbaric ritual. In the end, Tessie Hutchinson is chosen, and, realizing her impending doom, repeatedly screams “it isn't fair” after her fate is decided by the contents of a black wooden box. FTP, the annual stoning in a small town appears in what short story by Shirley Jackson? 
+
+----
+num: 18
+category: History
+difficulty: HS
+fixed: -1
+seen: 419
+answer: {Tamil Tigers} (also accept {Liberation Tigers} of {Tamil Eelam}, accept {LTTE}, prompt on {Tigers})
+
+This group had a significant boost by capturing the Elephant pass army garrison in January 2000 and has detonated truck bombs at the Temple of Tooth and the Central Bank and World Trade Center of its country of operation. In addition, it has launched suicide bomb attacks in the cities of Trincomalee and Batticaloa. A temporary peace ensued after the tsunami of December 2004 devastated its country, although this ended with the assassination of Foreign Minister Laksham Kadirgamar. They are also blamed for the ethnic cleansing of the northern city of Jaffna, when they removed everyone that was not of their namesake ethnic group. Also collaborating with Pakistani drug traffickers and assassinating a former Prime Minister of India, this is FTP, what terrorist group of Sri Lanka?
+
+----
+num: 19
+category: Mythology
+difficulty: HS
+fixed: 1
+seen: 791
+answer: Minos
+
+He once owned a calf that changed its colors like a blackberry, and he was succeeded by Lycastus.  His son initially drowned in a cask of honey, but was brought back to life by Polyeidos.  After Scylla cut King Nisus's lone red lock, this man conquered Megara, and his son Androgeus was murdered after winning every event at the Athenian games. His daughter Ariadne gave a ball of magic thread to Theseus, and Daedalus built a wooden bull for his wife Pasiphae.  For 10 points, identify this Cretan king who ordered the construction of the Labyrinth for the Minotaur.
+
+----
+num: 20
+category: Science
+difficulty: HS
+fixed: 1
+seen: 490
+answer: {Hardy}-{Weinberg} Equation/Law/Principle/Equilibrium
+
+The effect of divergence on this equation can be measured using the Wahlund effect. One aspect of deviation in it can be measured using F-statistics while a general test for deviation is often done using Pearson's chi-squared test. In its simplest scenario, it is written in the form of a binomial expansion of the second power and in its simplest case, notes that the sums of frequencies add up to one. Assumptions made by it include random mating, an infinitely large population and no distinctive advantage between different traits. FTP, identify this biological equation used to determine if a population is in genetic equilibrium.

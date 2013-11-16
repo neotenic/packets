@@ -1,0 +1,214 @@
+####
+tournament: Princeton Buzzerfest
+round: RutgersNB.doc
+year: 2010
+####
+
+num: 1
+category: Science
+difficulty: College
+fixed: None
+seen: 80
+answer: {natural} numbers
+
+Russell defined them by defining a function that established a set consisting of x union y, where x belonged to the set being operated on and y was not an element of x. A well ordering can be defined on these based on subset relation in the usual construction. It can be defined by starting with the empty set and using the power set operator to establish a successor function, and when the axiom of infinity is used this represents the smallest such infinite set. Hence, the size of this entity is aleph naught. The integers can be defined as equivalence classes of these entities added together, and any finite amount of data can be coded into them based on the prime factorization theorem. For ten points, name these numbers, which include 1,2,3,4... and often zero, a set of numbers often abbreviated N.
+
+----
+num: 2
+category: Philosophy
+difficulty: College
+fixed: 57
+seen: 54
+answer: {God} [or {Gods}]
+
+William James claimed that the pragmatist principle of truth would allow for this concept to be meaningful as a corollary to belief in a universe that could be improved, though logical positivists often claimed that in fact the transcendent version was meaningless. It was claimed that coming to understand this concept required first becoming a knight of infinite resignation by Kierkegaard, and George Berkeley argued that the universe was in fact made up of ideas in this in Three Dialogues Between Hylas and Philonus. It was argued that this could not be made up of parts since it would then not have the quality of unity in Maimonides's Guide to the Perplexed. For 10 points, name this philosophic entity that Anselm tried to prove ontologically and that St. Thomas Aquinas tried to prove in his Summa Theologica, a being often defined as “all knowing,” “all good” and “all powerful.”
+
+----
+num: 3
+category: Literature
+difficulty: College
+fixed: None
+seen: 60
+answer: The {Heights} of {Macchu Picchu} [or Las {Alturas} de {Macchu Picchu}]
+
+At one point in this poem, the speaker says: “Look at me from the depths of the earth, tiller of fields, weaver, reticent shepherd.” This is after the poet has asked himself what the “indestructable, the imperishable, life” is earlier in the work. At another point the speaker states “many deaths come to each, every day a little death.” Shortly after this, the poet arrives at the title locale, the “stellar void of the final steps of vertingous spiraling road.” The poem ends with the lines “cling to my body like magnets, hasten to my veins and to my mouth, speak through my words and through my blood,” addressed to the dead builders of the titular site, earlier urged to “Rise up to be born with me.” Coming after “A Lamp on Earth” in its poet's Canto General, for ten points, name this second part of a poetic history of the Americas by Pablo Neruda, named for an ancient Incan site.
+
+----
+num: 4
+category: Social Science
+difficulty: College
+fixed: 57
+seen: 49
+answer: {syllable}
+
+In tonal languages, these constituents in phrase-final positions frequently become privileged contour tone licensers due to their length. The weight categorization and rhyming domains of these constituents has prompted Donca Steriade's argument for their conceptual replacement by “vowel-to-vowel intervals”, though the current explanations for glottalization and aspiration in English rely on these constituents as the basic phonological structure. These constituents are optionally constructed with codas and onsets, though they are theoretically always centered on a nucleus, or sonority peak, which may be a nasal, liquid, approximant, or another component. For 10 points, name this prosodic and phonological unit, which most often consists of a vowel, plus any other consonantal segments.
+
+----
+num: 5
+category: History
+difficulty: College
+fixed: None
+seen: 69
+answer: Treaty of {Tordesillas}
+
+The gift of an elephant prompted Leo X to issue Praecelsae devotionis, which partially abrogated it in favor of an earlier papal declaration, Nicholas V's Romanus pontifex. An abortive conference was held on a bridge between the cities of Elvas and Badajoz to amend this document, which was based, in part on the earlier papal bull Inter Caetera. This document was extended by the Treaty of Zaragoza, which was prompted by the need to establish an eastern equivalent to this agreement. A distance of three-hundred seventy leagues west of Fogo, one of the Cape Verde Islands was established for a line of demarcation between the competing claims of two colonial powers. For 10 points, name this 1494 treaty which divided the New World between Portugal and Spain.
+
+----
+num: 6
+category: Philosophy
+difficulty: College
+fixed: None
+seen: 52
+answer: {Tractatus Logico}-{Philoshopicus}
+
+In this work, it is alleged that philosophy is not itself one of the natural sciences, but must serve only to elucidate the natural sciences. At one point in this work, it's author uses functions to prove that 1+1=2 in order to demonstrate the needlessness of the principia mathematica. It is later claimed by the author that the “I” can be nowhere found in sensory experience and is exactly as the eye is to the visual spectrum, nowhere to be derived from it. In its fourth section, its author invented the truth table and began work on defining a truth function through a generalized “nand.” Beginning with the line “The world is all that is the case” and ending with an exhortation to discard the work like a ladder once the heights have been climbed, this is, for 10 points, what book consisting of numbered statements named after a treatise by Spinoza, by Ludwig Wittgenstein?
+
+----
+num: 7
+category: History
+difficulty: College
+fixed: 57
+seen: 69
+answer: {Albania}
+
+A besa, suspending all blood feuds in this nation, had to be called before the Congress of Lushnje could be held after World War I, declaring an end to the Durres Government. Thousands of kilograms of gold were held by the British from this country following a mine attack on British ships in an event known as the Corfu Channel Incident, and this country saw the “Purge of the Liberals” and a purge of the military under Mehmet Shehu, whose family was killed after his suicide in 1981. When this country's communist regime fell, its only remaining communist contacts were Laos, Vietnam, and North Korea, as relations with China had cooled over a proposed rapprochement with this country's neighbor, Yugoslavia. In 1997, anarchy spurred an Italian-led  peacekeeping mission in, for 10 points, what formerly autarkic Balkan nation which was led until 1985 by Enver Hoxha?
+
+----
+num: 8
+category: Science
+difficulty: College
+fixed: 57
+seen: 83
+answer: {vorticity}
+
+Both geostrophic advection and the convergence or divergence of a column of air are the only means of changing this quantity within a quasi-geostrophic atmosphere, according to a namesake equation, which along with the height, thermodynamic, and omega equations, defines QG theory. Stommel proposed that the absolute form of this quantity is conserved in ocean basins, accounting for the strength and narrowness of western boundary currents, while in the atmosphere, positive advection of this quantity is typically found downstream from troughs and is associated with rising motion. By Stokes' theorem, the integral of the normal component of this quantity over an area is equal to circulation around a loop, and it can also be defined as the curl of a velocity vector. For 10 points, name this quantity in fluid dynamics, a measure of rotation about an axis.
+
+----
+num: 9
+category: History
+difficulty: College
+fixed: None
+seen: 80
+answer: Santa {Fe} Trail
+
+The McKnight-James party made the first attempt along its dangerous “Middle Crossing” of in 1821, though the shorter “Jornada” crossing is more dangerous branch. Following the incursion of Charles Warfield and Jacob Snively's “Battalion of Invincibles” and the murder of Don Antonio Jose Chavez, Santa Ana temporarily closed it. In 1864, Kit Carson was dispatched to protect the Cimarron Cutoff branch of this trade route from Kiowa and Comanche attacks, resulting in the First Battle of Adobe Walls. William Becknell led the first expedition along this route, which followed the northernmost crossing across western Kansas into Colorado and then south. At its namesake terminus, this route met with the El Camino Real de Tierra Adentro, which passed through El Paso. For 10 points, name this trail which connected Independence, Missouri, with the namesake New Mexican city.
+
+----
+num: 10
+category: Literature
+difficulty: College
+fixed: None
+seen: 60
+answer: The {Bald Soprano} [or The {Bald Prima Donna} or La {Cantatrice Chauve}]
+
+In this play, one character enters and notes that she has recently read the paper. Two other characters at the time note that they have been waiting for hours to eat and are quite hungry, before finding out that their guests have been waiting for them outside the whole time. Later, those four characters have a heated exchange including such lines as “you can sit on the chair if it hasn't got any,” “Scaramoushe,” and “It is not that way, it's over here.” The hosts realize that they are husband and wife while talking to each other. A fire chief, as he leaves the party, mentions the titular character, which puts a chill on the whole dinner, but who is otherwise never mentioned. At the end of this play, the Martins switch places with the Smiths as the curtain goes down. For 10 points, name this piece of the theater of the absurd, a work about a titular singer and the first play of Eugene Ionesco.
+
+----
+num: 11
+category: Religion
+difficulty: College
+fixed: 57
+seen: 56
+answer: {circumcision}
+
+In the Epistle of Barnabas, this act is considered a prefiguration of Christ's crucifixion, because the number 318 in Greek, TIH, resembles Christ on the cross according to the author. During the Reformation, Zwingli opposed Anabaptism, citing this practice as justification for infant baptism. This practice was forbidden in Eugenius IV's papal bull reuniting with the Coptic Church after the Council of Basel-Florence. Chapter 15 of Acts features an apostolic council where it was decided that this act was unnecessary, and in the fifth chapter of Galatians, Paul declares that Christians who have performed this act have “fallen away from grace”. In the early church, this practice was associated with Jewish Christians, who were distinguished from Gentile Christians by it. Considered the foremost mark of the Covenant, this is, for 10 points, what practice whereby the foreskin is cut from the penis?
+
+----
+num: 12
+category: Geography
+difficulty: College
+fixed: 57
+seen: 135
+answer: Louisiana
+
+The removal of a levee around Mollicy Farms, near this state's northern border on the Ouachita River, is one of the first floodplain restoration projects in the US. Another project in this state seeks to redirect nutrient- and sediment-rich water through the Amite River in order to restore the wetlands around Lake Maurepas. One coastal restoration project in this state dredged sediments from the Natal Channel and Castille Pass to create new marshlands at the mouth of the Atchafalaya River, while another will feature the re-creation of brackish marshes beyond Bayou Dupont by piping sediment from the Mississippi River. The MRGO Canal has been closed in, for 10 points, what state, in order to prevent storm surges from passing up it to New Orleans?
+
+----
+num: 13
+category: Science
+difficulty: College
+fixed: 57
+seen: 80
+answer: {Hamiltonian}
+
+A vector field of this type can be defined on a Poisson manifold, and the equations that lead to this grant that in any arbitrary phase space of dimension 2n, the density of the distribution of position and momentum in phase space must be constant, a result known as Liouville's theorem. Ordinary differential equations of this type can be found by finding a formula such that the derivative of the formula with respect to the first variable equals the derivative of the second variable with respect to time, and that the derivative with respect to the second variable equals the negative of the derivative of the first with respect to time. In quantum mechanics, this operator is equal to the momentum squared over two m plus the potential, and is often equal to the total energy, though in particular it is an extension of the Langrangian. For 10 points, name this quantity, central to an alternative to Lagrangian and Newtonian mechanics, conserved in systems to which it applies and designated H.
+
+----
+num: 14
+category: Religion
+difficulty: College
+fixed: 57
+seen: 82
+answer: {Donatists}
+
+One important source for this group is St. Optatus of Milevis, who says that they were tied to the anger of Lucilla and a conspiracy hatched at Citra. After conducting a synod against this group at the behest of Honorius, Marcellinus was assassinated by them, and this group was also associated with the violent Circumcellions. Both a hearing presided over by Miltiades of Rome and the Synod of Arles were called by Constantine to deal with this group and both found against them. This group originally backed the candidacy of Majorinus and objected to the election of Caecilian to the bishopric of Carthage, on the grounds that he was a “traditor”, or one who gave up sacred Christian texts, and this sect grew out of the persecution of Diocletian. For 10 points, name this early heretical sect, based mainly in North Africa and named for a bishop of Carthage.
+
+----
+num: 15
+category: Literature
+difficulty: College
+fixed: 57
+seen: 59
+answer: Sir {Gawain} and the {Green} Knight
+
+The first and last alliterative lines of this work state that it takes place it after the siege of Troy, and Adam, Solomon, Samson, and David are listed as exemplars by one character in this work, who praises the idea of loving women, but not trusting them. One character in this work encourages his guests to try to get a hood placed on a spear, in a game which parallels this work's central plot. The two title characters of this work agree to exchange their winnings for three days, earning one many kisses, but the failure of one character to give up an enchanted belt results in that character receiving a cut on his neck, when the title characters meet again at a chapel to finish another game. Attributed to the Pearl Poet, this is, for 10 points, what work which features a beheading-game between a knight of the Round Table and a colorful warrior?
+
+----
+num: 16
+category: Fine Arts
+difficulty: College
+fixed: None
+seen: 70
+answer: {Academic Festival} Overture [or {Akademische Festouvertuere}]
+
+The first section of this work features staccato triads and off-center accents in C minor and is called “What comes therefrom on high.”  The second section features three trumpets in C major and the third section consists of legato violins in E major. These sections are called “What built a stately house,” and “Der Landesvater.”  This work requires a piccolo, contrabassoon, tuba, bass drum, triangle, and cymbals making it one of the largest orchestras required for any of the composer's works.  All four main themes were student drinking songs, which is appropriate for the setting it was originally performed.  For 10 points, name this overture that Johannes Brahms composed as a musical thank-you for receiving an honorary doctorate from the University of Breslau.
+
+----
+num: 17
+category: Mythology
+difficulty: College
+fixed: 57
+seen: 113
+answer: {Ring}
+
+In the English tale of King Horn, one of these objects is given to Horn by Rymenhild, who says that whenever he looks upon it, he will be prevented from going mad in battle or suffering from any hit. In one myth, Elatha gave one of these objects to Eriu so that he might later recognize his son by her, Bres, and in an Egyptian story, one of these objects caused Nemty to lose his talons, after Isis, disguised as a hag, used it to bribe him into bringing her to an island. One of these objects was cursed, resulting in the death of Hreidmar, who received it in turn for the death of his own son Otr. Andvari cursed one of these objects when he was forced to give it up to Loki and eventually that example of one of these objects is given to Brynhildr by Sigurd. Another of these objects, which is able to replicate itself on every ninth night, is owned by Odin. Draupnir is an example of, for 10 points, what type of jewelry?
+
+----
+num: 18
+category: Literature
+difficulty: College
+fixed: 1
+seen: 60
+answer: Nathaniel {Hawthorne}
+
+In one work by this author, Donatello may not be completely human and Miriam is being sought after by a Model, and Kenyon is a humanist sculptor. The title character of another of his works goes to a meeting place where he is led by the devil, who shows that all of the seemingly Christian members of his town are actually Satanists. In another short story, Colonel Killigrew and Mr. Meadbourne drink water of the fountain of youth. In one novel by this author, Holgrave Maude and Phoebe Pynchon defy their ancestral conflicts and fall in love, while Clifford and Hepzibah are freed from the specter of their ancestor, a judge who presided over the Salem Witch Trials. In addition to The Marble Faun, he collected “Young Goodman Brown” and “Dr. Heidegger's Experiment” in Twice-Told Tales. For 10 points, name this author of the House of the Seven Gables and The Scarlet Letter.
+
+----
+num: 19
+category: Science
+difficulty: College
+fixed: 57
+seen: 84
+answer: {galls}
+
+They are more prevalent in tropical regions due to longer growing seasons, and thus more available active meristematic tissue. A wide range of organisms have the ability to generate them, including fly larvae, bacteria, mites, and fungi. Some very complex structures can be formed from the parasites' secretion and manipulation of growth factors. Though some types are found on leaves, the best-known ones grow on branches or trunks. Their high concentration of tannic acid has led to some of them being used as medieval sources of ink. For 10 points, name these parasitically-induced abnormal growths on plants, types of which include "oak apple," "Aleppo," and "crown."
+
+----
+num: 20
+category: Fine Arts
+difficulty: College
+fixed: None
+seen: 69
+answer: The {Tempest} [or La {Tempesta}]
+
+According to an interpretation by Luigi Stefanin, this painting is a depiction of the “Garden of Destiny” of the Hypnerotomachia Poliphili and the blurred, domed building in the background has been variously interpreted as the temple of Venus and the church of St. Theodore of Euchaita. Some commentators have seen a small snake slithering into a hole at the bottom edge of this painting, though more visible is a stork standing atop a roof in the background. One of the two central figures in this painting stands in front of a partial wall and two small, broken pillars, while the other sits on part of her own white garment. The former is standing contraposto with a large staff and is dressed all in red, while the latter is breast-feeding a small child with her only visible breast. The dark clouds in the and small bolt of bright lightning in the background provide the title for, for 10 points, what painting by Giorgione?
+
+----
+num: 21
+category: Literature
+difficulty: College
+fixed: 57
+seen: 60
+answer: {Metamorphoses}
+
+In one scene in this work, a rebuke against blasphemers interrupts a conversation, which causes everyone to be stupefied. That sets up the stage for a story in which two characters are given a temple where their old home once stood. In another story in this work, a mixup involving a lion causes one character to stab himself, painting some mulberries red. This work opens with an account of the creation of the universe, which is followed by the four ages of man. Another story is that of a man who believes that “though Minos may close in the land and sea, the sky yet lies open” but who comes to tragedy when his son ignores his lesson and flies too close to the sun. Those other aforementioned stories are Salamacis and Hermanthophoditus, Pyramus and Thisbe, Philemon and Baucis and Daedalus and Icarus. For 10 points, name this mock-epic poem about “forms changed,” a work of Ovid.

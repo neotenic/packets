@@ -1,0 +1,239 @@
+####
+tournament: Question Set C
+round: Round-6C-MS.pdf
+####
+
+num: 2
+category: Physical Science
+difficulty: MS
+seen: 6
+answer: Water
+
+Specific gravity compares the density of various substances to that of what reference substance?
+
+----
+num: 3
+category: Earth Science
+difficulty: MS
+seen: 8
+answer: Eyewall
+
+What is the name for the internal ring within a hurricane where the most intense squalls occur?
+
+----
+num: 4
+category: Math
+difficulty: MS
+seen: 6
+answer: –400
+
+Evaluate the following radical: – 160,000
+
+----
+num: 4
+category: Math
+difficulty: MS
+seen: 6
+answer: 10
+4 ;13
+18;
+127
+;
+122
+
+Arrange the following 4 fractions from the LARGEST to the
+SMALLEST: 1813;
+127;104 ;122
+
+----
+num: 5
+category: General Science
+difficulty: MS
+seen: 5
+answer: Kilogram and Second
+
+Name all of the following 4 units of the international system of units that are considered base units and NOT considered derived: Newton, kilogram, second, hertz
+
+----
+num: 6
+category: Life Science
+difficulty: MS
+seen: 10
+answer: 6
+
+Arachnids have how many pairs of appendages?
+
+----
+num: 6
+category: Life Science
+difficulty: MS
+seen: 10
+answer: Chelicera
+
+Arachnids have 4 pairs of walking legs and a single pair of pedipalps. What is the name of the last pair of appendages?
+
+----
+num: 7
+category: Physical Science
+difficulty: MS
+seen: 5
+answer: 8,000
+(Solution:  F/a = M = 200/25 = 8 Kg = 8,000 G)
+
+If a force of 200 newtons is required to accelerate an object at 25 meters per second squared on a horizontal frictionless surface, what is the mass of the object, in grams?
+
+----
+num: 8
+category: Earth Science
+difficulty: MS
+seen: 7
+answer: Epicenter
+
+What is the name for the location on the Earth’s surface directly above an earthquake focus?
+
+----
+num: 9
+category: Math
+difficulty: MS
+seen: 6
+answer: 20%
+
+What is the percentage decrease when a stock price drops from $55.00 per share to $44.00 per share?
+
+----
+num: 9
+category: Math
+difficulty: MS
+seen: 6
+answer: $10.50
+(Soluti On:  0.25 × 10 = $2.50;  80 Min × 0.1 = $8.00; $8 + $2.5 = $10.50)
+
+A cell phone company charges 25 cents per minute for the first 10 minutes of usage and 10 cents per minute for usage greater than 10 minutes. If you talked for 1½hours, what is your total airtime charge?
+
+----
+num: 11
+category: Life Science
+difficulty: MS
+seen: 12
+answer: Prophase;  Metaphase;  Anaphase;  Telophase
+
+Order the following 4 stages of mitosis from the EARLIEST to that LATEST: metaphase; prophase; telophase; anaphase
+
+----
+num: 14
+category: Math
+difficulty: MS
+seen: 6
+answer: 84
+
+What is the degree measure of the vertex angle in an isosceles triangle if each base angle measures 48º?
+
+----
+num: 14
+category: Math
+difficulty: MS
+seen: 6
+answer: 150
+
+What is the surface area of a cube, in square feet, if one edge measures 5 feet?
+
+----
+num: 16
+category: Life Science
+difficulty: MS
+seen: 11
+answer: Xylem and Phloem
+
+What are the scientific terms for the two general types of tissues that conduc t fluids in higher plants?
+
+----
+num: 16
+category: Life Science
+difficulty: MS
+seen: 11
+answer: Parenchyma
+
+What is the scientific name for the basic cell type in higher plants that is relatively unspecialized, has a thin cell wall, and carries out most of the metabolism of the plant?
+
+----
+num: 17
+category: Physical Science
+difficulty: MS
+seen: 6
+answer: Plasma
+
+Of the 4 states of matter, which one is the most common in the universe?
+
+----
+num: 18
+category: Earth Science
+difficulty: MS
+seen: 7
+answer: New Moon
+
+During what phase of the Moon can a solar eclipse occur?
+
+----
+num: 19
+category: Math
+difficulty: MS
+seen: 6
+answer: 34
+
+If two sides of a parallelogram are 8 and 9 centimeters, respectively, find the perimeter, in centimeters:
+
+----
+num: 19
+category: Math
+difficulty: MS
+seen: 5
+answer: 11
+(Solution:  6^2 + 9^2 = C^2;  C = 11)
+
+Rounded to the nearest meter, if side A of a right triangle measures 6 meters and side B measures 9 meters, what is the length of the hypotenuse?
+
+----
+num: 20
+category: General Science
+difficulty: MS
+seen: 6
+answer: Diaphragm
+
+What is the name for the muscle that contracts when you inhale and causes your chest cavity to expand?
+
+----
+num: 21
+category: Life Science
+difficulty: MS
+seen: 11
+answer: Mosquito
+
+What is the common name for the vector of Eastern Equine 
+Encephalitis and malaria?
+
+----
+num: 23
+category: Earth Science
+difficulty: MS
+seen: 8
+answer: Slow Down
+
+What most commonly happens to the speed of ocean and lake waves as they approach the shallow waters of a shore?
+
+----
+num: 24
+category: Math
+difficulty: MS
+seen: 6
+answer: Median = 25;  Mean = 28;  Mode = 25
+
+What are the median, mean and mode, respectively, of the following set of 5 numbers, respectively: 35, 25, 10, 25, 45
+
+----
+num: 25
+category: General Science
+difficulty: MS
+seen: 6
+answer: Silicon
+
+Today, most semiconductors and transistors are made mostly with what element?

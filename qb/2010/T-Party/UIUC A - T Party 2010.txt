@@ -1,0 +1,124 @@
+####
+tournament: T-Party
+round: UIUC A - T Party 2010.doc
+year: 2010
+####
+
+num: 1
+category: Science
+difficulty: College
+fixed: None
+seen: 79
+answer: {methylenation} [accept equivalents like {adding} a {methylene group}; accept {adding} a {CH2 group} before “{CH2}” and prompt on it afterwards; prompt on {making} a {terminal olefin}; prompt on {alkylation}]
+
+This operation can be accomplished using a bis-iodozincio compound in the absence of metal salts in an ionic liquid as a single substitution, or via the reaction of formaldehyde to a malonic ester in the presence of an amine, a reaction named for Knoevenagel. Using a compound with two cyclopentadiene ligands, a titanium carbenoid, this operation occurs as a single substitution at a carbonyl in the Tebbe olefination. The group added in this reaction is named for how it would appear following homolytic cleavage, a neutral one-carbon species with two unpaired electrons; that group is the simplest carbene. For 10 points, name this type of reaction in which a CH2 group is attached.
+
+----
+num: 2
+category: History
+difficulty: College
+fixed: None
+seen: 72
+answer: the An {Lushan} rebellion [accept An {Shi rebellion} until “{Shi Siming}” is mentioned]
+
+A painting depicting an incident from this event is Qui Ying's Minghuang's Journey to Sichuan. One participant in this event declared himself head of the “Yan dynasty” after taking control of Luoyang. It occurred during the reign of Emperor Xuanzong and its leaders included Shi Siming. Chancellor Yang Guozhong was executed during this event, in part because Yang Guifei, his sister, had empowered the leader of the opposing side. For 10 points, name this 8th century rebellion that destabilized the Tang dynasty and was led by a namesake Turk.
+
+----
+num: 13
+category: Science
+difficulty: College
+fixed: None
+seen: 80
+answer: {selection rules} [prompt on {transition rules}]
+
+In general, these statements can be found by inspection by considering that the symmetry of the integrand in the transition integral is the direct product of the symmetries of the transition moment operator, and the conjugate-initial and final wave functions, as that symmetry dictates when that integral is zero. For hydrogen-like atoms one of these exists for all multipoles against the case in which the initial and final states have zero total angular momentum; consequently, transitions between such states do not occur. Transitions subject to one of these are known as allowed or forbidden. For 10 points, name these quantum mechanical strictures that dictate when a transition is possible.
+
+----
+num: 14
+category: Religion
+difficulty: College
+fixed: 57
+seen: 56
+answer: {Moses} [or {Moshe}; or {Musa}]
+
+In one tradition this figure breaks an oath to follow without questioning while on a journey with Al-Khidr. In another tradition, this figure receives a vision of Adam and Eve's family in his namesake book in The Pearl of Great Price. This man ordered the slaughter of Midianites to retaliate against Balak, and he mounted a brass serpent on a pole to ward off snakebites after producing water from a rock and making manna rain from heaven. This husband of Tzipporah was raised by the Pharaoh's sister and announced the arrival of ten plagues with his brother Aaron. For 10 points, name this prophet who received the Torah on Mount Sinai and led the Israelites out of Egypt.
+
+----
+num: 15
+category: Literature
+difficulty: College
+fixed: 57
+seen: 59
+answer: Francis Scott Key {Fitzgerald} [accept “{Winter Dreams}” before “{this man}” is read]
+
+A man from Black Bear Lake becomes engaged to Irene Scheerer in a work by this man that details six encounters between Judy Jones and Dexter Green. In another of his stories, the sudden arrival of Duncan Schaeffer and Lorraine Quarles horrifies Marion Peters, thus preventing Charlie Wales from recovering his daughter Honoria. Another of his protagonists learns from Kismine that Percy Washington's parents shoot down airmen who observe the Montana mountain that holds a certain gemstone. For 10 points, name this author of “Winter Dreams” and “Babylon Revisited” who told of John Unger in “The Diamond as Big as the Ritz” and penned The Great Gatsby.
+
+----
+num: 16
+category: Fine Arts
+difficulty: College
+fixed: 57
+seen: 70
+answer: Eugène Henri Paul {Gauguin}
+
+One of this man's still life paintings shows a Japanese fan and porcelain Buddha statue near a horse's head. A dog sniffs around the foreground of a work showing a woman in a purple dress playing a flute, Joyousness. A nude woman slyly looks at the viewer as another nude lies on the beach in What, Are You Jealous, while a black idol seems to stare at a nude woman lying on a yellow bed in this man's The Spirit of the Dead Keep Watch. A long brown form divides the nuns from an angel in purple with golden wings in this man's Vision after the Sermon. For 10 points, name this post-Impressionist of The Yellow Christ, a painter known for his depictions of Tahitians.
+
+----
+num: 17
+category: History
+difficulty: College
+fixed: None
+seen: 68
+answer: {Shanghai}
+
+This city is home to Longhua Park and the People's Park, and this city's surrounding islands include Hengsha and Chongming. This city's Yuyuan Garden is located near the city of Suzhou, and religious sites in this city include the Hall of the Great Hero and the Jade Buddha Temple. This city contains a Europeanized section called the Bund, and the World Financial Center, Pearl Twoer, and Jin Mao Building are located in its Pudong area. Located in Jiangsu Province on the Huangpo River near the mouth of the Yangtze River, for 10 points, name this site of the 2010 World Expo and largest city in China.
+
+----
+num: 18
+category: History
+difficulty: College
+fixed: 57
+seen: 69
+answer: {Solidarity} [accept: {Solidarnosc}]
+
+The Kania government was overthrown in a military coup after deciding to negotiate with this organization. This organization first emerged to oppose the budget cuts of Edward Gierek. Under one compromise, the government bought leaders of this group one-way tickets out of the country. This group engaged in the Round Table Talks with General Jaruzelski. Agitation from this group eventually led to free elections, leading to this group's leader becoming President and winning the Nobel Peace Prize. For 10 points, name this group led by Lech Walesa, which opposed Communism in 1980's Poland.
+
+----
+num: 19
+category: Science
+difficulty: College
+fixed: None
+seen: 82
+answer: {vortex} [or {vorticity}]
+
+The Strouhal number governs flow that arises due to these phenomena. Helmholtz is the namesake of three theorems that concern the physical shape of these objects, and when these objects possess no shear factor, their equation of motion shows that all points in them possess the same angular velocity. Theodore von Karman is the namesake of a sheet that shows how these objects can induce motion in fluids. For 10 points, name this phenomenon that is the namesake of a characteristic measured by taking the curl of the velocity of a fluid or taking circulation and dividing it by area, a fluid phenomenon that swirls.
+
+----
+num: 20
+category: Literature
+difficulty: College
+fixed: None
+seen: 59
+answer: {Orlando Furioso} [accept {Orlando} the {Crazy} or {Orlando} the {Mad} or similar]
+
+Benedetto Croce claimed this work's fortune is comparable to a smiling and lovely girl. It remarks that men should extract their wings from the “loving birdlime.” One character builds a bridge to atone for his drunken murder of a princess mourning Zerbino after he quarrels over Doralice with Mandricardo. That character is killed by a man who earlier rode a hippogryph to save a girl who chooses Medoro after seducing Rinaldo and the title character. Featuring Bradamante, Rogero, and Angelica, for 10 points, name this poem about a paladin of Charlemange by Ludovico Ariosto.
+
+----
+num: 21
+category: Fine Arts
+difficulty: College
+fixed: 1
+seen: 72
+answer: Lorenzo {Ghiberti} [accept {Lorenzo di Bartolo}]
+
+This man produced the bronze Shrine of St. Zenobius, which contains such scenes as The Miracle of the Strozzi Boy and The Miracle of the Servant. This man received much support from the Calimala guild, and he produced monumental statues of Saint John the Baptist and St. Matthew for the Orsanmichele. This man created a scene depicting the sacrifice of Isaac for his most famous work, and beat Jacopo della Quercia and Filippo Brunelleschi in a competition to win the commission to build that work. For 10 points, identify this Renaissance artist who produced the eastern doors to the Florence baptistery, which are known today as the “Gates of Paradise”
+
+----
+num: 22
+category: Literature
+difficulty: College
+fixed: None
+seen: 60
+answer: {Roland} [accept {Hruodland} or {Orlando}] and {Hector}
+
+[5,5] Among the swords credited to Wayland is Durandal, which was said to have been owned both by a Frankish paladin who died at Roncesvalles and a Trojan prince whose brother was Paris. For five points each, name them.

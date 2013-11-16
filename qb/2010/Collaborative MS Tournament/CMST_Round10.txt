@@ -1,0 +1,204 @@
+####
+tournament: Collaborative MS Tournament
+round: CMST_Round10.pdf
+year: 2010
+####
+
+num: 1
+category: Literature
+difficulty: MS
+fixed: -1
+seen: 2877
+answer: Uncle Tom's Cabin
+
+In this novel, shelter is provided by the Halliday and Bird families. At the beginning of this novel, the Shelby family sells their property to the St. Clare family. At the end of this novel, George and Eliza Harris escape north. The husband of Aunt Chloe is killed by Simon Legree in, for 10 points, what American novel, depicting the life of slaves, written by Harriet Beecher Stowe?
+
+----
+num: 2
+category: Science
+difficulty: MS
+fixed: 1
+seen: 3774
+answer: {asteroids}
+
+The Alinda and Griqua (“GREE-kwa”) groups of these objects are found within the Kirkwood Gaps. The Atens, Amors, and Apollos are three groups of these objects whose orbits come near the Earth. The first of these objects was discovered at a point that filled a gap in Bode's Law. For 10 points, name these objects that include Ceres and Vesta, which are most prominently found in a “belt” between Mars and Jupiter.
+
+----
+num: 3
+category: Fine Arts
+difficulty: MS
+fixed: 1
+seen: 2816
+answer: {violin} [prompt on fiddle]
+
+The Rhapsody on a Theme of Paganini was written from twenty-four caprices originally written for this instrument. Vivaldi's The Four Seasons is a set of concerti (“con-CHAIR-tee”) written for this instrument. Its strings are tuned to perfect fifths, and Stradivarius was a notable luthier (“LOO-thee-er”) of this instrument. For 10 points, name this four-stringed instrument, which is sometimes called the fiddle and which is smaller than the viola.
+
+----
+num: 4
+category: History
+difficulty: MS
+fixed: 1
+seen: 3029
+answer: Election of {1824}
+
+William Crawford finished third in the general election in this year, in which one loser accused the Speaker of the House of negotiating a "corrupt bargain." Andrew Jackson won the popular vote, but did not carry enough votes in the Electoral College to prevent it from being decided in the House of Representatives. For 10 points, name this presidential election won by John Quincy Adams.
+
+----
+num: 5
+category: Geography
+difficulty: MS
+fixed: 1
+seen: 4450
+answer: Republic of {Singapore}
+
+The Bukit Timah (“boo-KIT tee-MAH”) Nature Reserve is the largest area of rainforest left in this city. The five star Raffles Hotel is named after the city's founder, while the island of Sentosa is home to a new Universal Studios Theme Park. Its Changi (“CHANG-eye”) airport is a regional hub, and the city is connected by bridge to Johor (“JO-hor”), in Malaysia. For 10 points, name this Southeast Asian city-state, the most densely populated country in Asia.
+
+----
+num: 6
+category: Science
+difficulty: MS
+fixed: 1
+seen: 3780
+answer: {mantle}
+
+The D double prime layer lies in the lowest part of this region. The upper part of this region mainly consists of magnesium-iron silicates such as pyroxene (“pie-ROX-een”) and olivine (“olive een”). This layer extends to a depth of 2890 kilometers and contains more than half the Earth's mass. For 10 points, name this molten layer of the Earth that is found between the crust and the core.
+
+----
+num: 7
+category: Fine Arts
+difficulty: MS
+fixed: -1
+seen: 2812
+answer: The {Scream} [or {Skrik}; accept The {Cry}]
+
+In 1994, thieves that stole this painting left a note reading “Thanks for the poor security.” This painting may be a self-portrait depicting an attack of agoraphobia (“uh-GORE-uh-FOE-bee-uh”). Blue land reflects a bright orange sky in this work. For 10 points, name this Edvard Munch (“MOONK”) painting of a distorted figure holding his hands to his head and making the title loud, distressed noise.
+
+----
+num: 8
+category: Literature
+difficulty: MS
+fixed: -1
+seen: 2863
+answer: A Wrinkle in Time
+
+Two characters in this book later appear as the main characters of Many Waters. Mrs. Whatsit, Mrs. Who, and Mrs.Which start this journey in this book. Some characters in this novel can kythe (“KITHE”), while others can tesseract. On Camazotz (“CAM-uh-zots”), the characters in this novel fight IT, who has imprisoned Dr. Murray, although Charles Wallace is able to defeat him after Meg loves him. For 10 points, name this novel by Madeleine L'Engle.
+
+----
+num: 9
+category: History
+difficulty: MS
+fixed: 1
+seen: 3049
+answer: war in {Darfur} [accept equivalents {involving violence} in {Darfur}, {such} as {genocide}; prompt on
+
+One group in this conflict is the SLM, led by Abdul Wahid (“WAH-heed”) al Nur. The Arabic-speaking Janjaweed (“JOHN-juh-weed”), a major counter-insurgency force, has tried to stop refugees from reaching Chad. In February 2010, JEM signed a truce with Omar Al-Bashir, a major development in, for 10 points, what conflict between Arab and non-Arabs in the western part of Sudan?
+
+----
+num: 10
+category: Mythology
+difficulty: MS
+fixed: 1
+seen: 4249
+answer: Thebes
+
+This city was founded by Cadmus after following a cow until it sat. This city was besieged by the Sphinx, as all travelers who entered it were forced to either solve its riddle or be eaten. To avenge the sleight done to him by Eteocles(“et-TEE-oh-clees”), Polyneices (“polly-NYE-kees”) led a group of seven warriors against this city. For 10 points, identify this Greek city, the home of Antigone (“an-TIG-uh-nee”) and Oedipus (“EH-dip-us”).
+
+----
+num: 11
+category: Science
+difficulty: MS
+fixed: 1
+seen: 3805
+answer: {rectangles} [do not accept or prompt on "square"]
+
+The uniform probability distribution takes this shape. Rotating this shape using one of its sides as an axis yields a cylinder. This shape is traced out by the x-axis, the y-axis, and the equations x equals two and y equals six. Each diagonal of this kind of quadrilateral divides it into two congruent right triangles. For 10 points, give this shape that has four right angles.
+
+----
+num: 12
+category: Literature
+difficulty: MS
+fixed: 1
+seen: 2856
+answer: {Pride} and {Prejudice}
+
+In this novel, Charlotte Lucas marries William Collins. At the end of this novel, Lydia ends up marrying the villainous Mr. Wickham and Jane ends up marrying the very rich Mr. Bingley. Also at the end of this novel, a second marriage proposal by Fitzwilliam Darcy is finally accepted by Elizabeth Bennett. For 10 points, name this Jane Austen novel in which Darcy and Elizabeth embody the two titular vices.
+
+----
+num: 13
+category: History
+difficulty: MS
+fixed: 1
+seen: 3012
+answer: Joseph {Stalin} [or Ioseb Dzhugashvili]
+
+Under this dictator's rule, Lavrenti Beria (“lahv-REN-tee BARE-ee-uh”) led the NKVD secret police during the Great Purges. He ordered the creation of Five-Year Plans and the killing of his rival, Leon Trotsky. For 10 points, control of the Soviet Union passed from Vladimir Lenin to what Georgian whose name means “man of steel”?
+
+----
+num: 14
+category: Science
+difficulty: MS
+fixed: 1
+seen: 3808
+answer: {endoplasmic reticulum} [or {ER} ; accept {sarcoplasmic reticulum} or {SR}]
+
+One variant of this organelle (“OR-guh-NELL”) is found in muscle cells and stores calcium. Like the Golgi body, it is composed of flattened sacks called cisternae (“SIS-ter-nay”). This set of tubes contains chaperone proteins, which help fold proteins. Those proteins are synthesized in the ribosomes, which are attached to one form of this organelle. For 10 points, name this “packaging center” of the cell, which is divided into rough and smooth types.
+
+----
+num: 15
+category: History
+difficulty: MS
+fixed: 1
+seen: 3023
+answer: {Presidential} general election [accept either]
+
+One superstition concerning certain winners of this election is known as Tecumseh's (“teh-CUM- seh's”) Curse. Third party candidates in previous elections of this type include Ross Perot and Teddy Roosevelt. Its most recent iteration concentrated on the economy, the war in Iraq, and people associated with Barack Obama. For 10 points, what is this election, held most recently in 2008 and responsible for choosing the next American leader?
+
+----
+num: 16
+category: Literature
+difficulty: MS
+fixed: -1
+seen: 2845
+answer: “The {Necklace}” [or “La {Parure}”]
+
+At the end of this story, the title object is revealed to be worth at most five hundred francs. Monsieur Loisel (“lwa-ZELL”) frantically searched for the title object after a ball, but to no avail. After Mathilde (“muh-TEELD”) loses it, she and her husband take odd jobs to pay off the loans taken out to pay for a replacement. For 10 points, name this Guy de Maupassant (“GHEE deh MO-puh-saunt”) short story about a piece of jewelry.
+
+----
+num: 17
+category: History
+difficulty: MS
+fixed: -1
+seen: 3026
+answer: {Israel}
+
+The founding of this nation was promised in the Balfour Declaration. David Ben-Gurion was the first prime minister of this nation, which has been governed by the Kadima (“kuh-DEEM-uh”) and Likud (“lie-KOOD”) parties. It fought Egypt and Syria in the Six-Day War and signed the Camp David accords with Egypt. For 10 points, name this Middle Eastern nation, founded by Zionists to create a Jewish state.
+
+----
+num: 18
+category: Science
+difficulty: MS
+fixed: 1
+seen: 3763
+answer: thermal {radiation} [or heat radiation]
+
+An ideal blackbody is an object that absorbs all energy transferred by this process. This is the process in which energy is transferred from the Sun to the Earth, because it is the only form of heat exchange that can pass through a vacuum. It takes its name from the fact that it emits energy in all directions. For 10 points, name this type of heat exchange that differs from convection and conduction.
+
+----
+num: 19
+category: Social Science
+difficulty: MS
+fixed: 1
+seen: 3856
+answer: {past} tense
+
+Most Semitic, Germanic, and Romance languages have a preterite (“PREH-tur-it”) form of this tense. In Spanish, the “imperfect” form of this tense conjugates –ar (“A-R”) verbs to include the stem –aba (“A- B-A”). In French, the “compound” version requires an auxiliary verb, either avoir (“ah-VOIR”) or être (“ET-ruh”). In English, this tense is typically indicated by adding –ed (“E-D”) to the end of verbs. For 10 points, name this tense that indicates an action done before the present.
+
+----
+num: 20
+category: Religion
+difficulty: MS
+fixed: -1
+seen: 2766
+answer: {Daniel}
+
+As punishment for not worshipping a golden statue, this man's friends were ordered thrown into a furnace, but they were not burned. While training to be a scribe, this man was given the Babylonian name Belteshazzar (“BEL-tuh-SHAH-zar”). He interpreted the writing on the wall during Belshazzar's (“BEL- shuh-zar's”) Feast. For 10 points, identify this Hebrew prophet and namesake of an Old Testament book who survived being chucked into a lion's den.

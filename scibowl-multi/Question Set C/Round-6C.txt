@@ -1,0 +1,286 @@
+####
+tournament: Question Set C
+round: Round-6C.pdf
+####
+
+num: 1
+category: Physics
+difficulty: HS
+answer: Z)  Resistance and Voltage Are the Two Most Common 
+Parameters Used to Characterize a Resistor
+
+Which of the following is NOT true:
+W) the magnetic field associated with the current on a straight long wire is inversely proportional to the distance from the wire
+X) Kirchhoff’s first rule has to do with the accounting of total charges entering and leaving a junction per unit time
+Y) superconducting quantum interference devices, or SQUID’s, are based on the Josephson Effect
+Z) resistance and voltage are the two most common parameters used to characterize a resistor
+
+----
+num: 2
+category: Chemistry
+difficulty: HS
+seen: 1
+answer: Z)  Color of Solution
+
+Which of the following is NOT a colligative property:
+W) vapor pressure lowering
+X) osmotic pressure 
+Y) boiling point elevation
+Z) color of solution
+
+----
+num: 2
+category: Chemistry
+difficulty: HS
+seen: 1
+answer: W)  Gelatin
+(Solution:  Sol Is a Solid Dispersed in a Liquid)
+
+Which of the following is a type of colloid that is classified as a sol at room temperature:
+W) gelatin 
+X) milk 
+Y) whipped cream
+Z) marshmallow
+
+----
+num: 3
+category: Biology
+difficulty: HS
+seen: 1
+answer: Y )  Vascular Cambium
+
+Which of the following tissues is MOST directly responsible for the increased diameter of a tree trunk from year to year:
+W) apical meristem
+X) pericycle
+Y) vascular cambium
+Z) pith
+
+----
+num: 5
+category: Earth Science
+difficulty: HS
+seen: 1
+answer: W)  Jetty
+
+Which of the following is a man-made coastal structure that causes coastal erosion by blocking oceanic longshore drift:
+W) jetty
+X) barrier island
+Y) atoll
+Z) fringing reef
+
+----
+num: 6
+category: General Science
+difficulty: HS
+seen: 1
+answer: W)  the Surface of a Metal Is Hardened
+
+Case hardening is a process through which:
+W) the surface of a metal is hardened
+X) the metal is hardened completely through
+Y) the hardness of a metal is determined
+Z) metals are shaped or formed
+
+----
+num: 6
+category: General Science
+difficulty: HS
+seen: 1
+answer: X)  Index of Refraction
+
+The oil used with an oil-immersion objective in compound light microscopes takes advantage of what optical phenomenon to improve magnification:
+W) chromatic coherence
+X) index of refraction
+Y) polarization
+Z) dispersion
+
+----
+num: 7
+category: Astronomy
+difficulty: HS
+answer: Y)  Venus Appears Its Largest to Nighttime Observers When It Is 
+in Its Full Phase
+
+Which of the following is NOT true:
+W) the rotation of the Sun’s surface is faster at the equator than at the poles
+X) the apparent magnitude of an RR Lyrae depends most on its distance from the Earth
+Y) Venus appears its largest to nighttime observers when it is in its full phase
+Z) a star’s light curve typically plots brightness verses time
+
+----
+num: 7
+category: Astronomy
+difficulty: HS
+seen: 1
+answer: X)  Spectroscopy
+
+Which of the following techniques would you most directly be using if you were analyzing a Balmer and Lyman series:
+W) astrolabe measurements
+X) spectroscopy
+Y) nuclear fission
+Z) bolometric analysis
+
+----
+num: 8
+category: Physics
+difficulty: HS
+seen: 1
+answer: W)  Red Balmer Line
+
+Which of the following is the strongest spectral line in the visible region of the hydrogen spectrum:
+W) red Balmer line
+X) orange Lyman line
+Y) green Paschen line
+Z) blue Brackett line
+
+----
+num: 8
+category: Physics
+difficulty: HS
+seen: 1
+answer: Z)  Acetone
+
+Which of the following has the highest vapor pressure at standard temperature and pressure:
+W) mercury
+X) ethyl alcohol
+Y) methyl alcohol
+Z) acetone
+
+----
+num: 9
+category: Chemistry
+difficulty: HS
+answer: Y)  Produces H + Ions in Aqueous Solution
+
+According to the Arrhenius theory, an Arrhenius acid is any substance that does which of the following in a chemical reaction:
+W) donates a pair of electrons
+X) accepts a pair of electrons
+Y) produces H+ ions in aqueous solution
+Z) produces OH– ions in aqueous solution
+
+----
+num: 10
+category: Biology
+difficulty: HS
+answer: Z)  All the Dna in a Human Nucleated Cell Is in the Nucleus
+(Solution:  Mitochondrial Dna Is Present)
+
+Which of the following is NOT true of nucleated mammalian cells:
+W) mast cells contain large amounts of histamine
+X) the golgi apparatus processes proteins for exocytosis
+Y) microtubules are components in cilia
+Z) all the DNA in a nucleated cell is in the nucleus
+
+----
+num: 12
+category: Earth Science
+difficulty: HS
+answer: Y)  We Currently Live in the Pleistocene Epoch
+
+Which of the following is NOT true about Earth’s history:
+W) the Ordovician Period predates the Silurian Period
+X) we currently live in the Cenozoic Era
+Y) we currently live in the Pleistocene Epoch 
+Z) the Holocene Epoch began about 10,000 years ago
+
+----
+num: 12
+category: Earth Science
+difficulty: HS
+seen: 1
+answer: W)  Prevailing Westerlies
+
+Which of the following is the global wind system that most influences weather in the U.S.:
+W) prevailing westerlies
+X) tropical easterlies
+Y) trade winds
+Z) polar easterlies
+
+----
+num: 15
+category: Physics
+difficulty: HS
+seen: 1
+answer: W)  1,000
+
+If 1000 pounds is applied to a spring with spring constant of 100 pounds per inch on top of a hydraulic piston, how many pounds of force is transferred to the piston:
+W) 1,000 
+X) 900 
+Y) 100
+Z) zero
+
+----
+num: 15
+category: Physics
+difficulty: HS
+answer: Z)  the Presence in Nature of About 1.1% Carbon -13
+
+If the atomic mass of carbon-12 is exactly 12 atomic mass units, why is the atomic mass of carbon not exactly 12 when listed on the Periodic Table:
+W) the mass deficit
+X) neutrons are not the same mass as protons
+Y) it adds the mass of the electrons
+Z) the presence in nature of about 1.1% carbon-13
+
+----
+num: 19
+category: Earth Science
+difficulty: HS
+answer: X)  Th E Distance to the Epicenter
+
+The time interval between the generation of P and S waves from its arrival at a seismometer is BEST translated as:
+W) the magnitude of the earthquake
+X) the distance to the epicenter
+Y) the wave height of a potential tsunami
+Z) the distance to the nearest fault zone
+
+----
+num: 19
+category: Earth Science
+difficulty: HS
+answer: Z)  Recent Ice Ages Are Thought to Be Controlled by 
+Uniformitarian Cycles
+
+Which of the following is NOT true:
+W) sea levels dropped during the Pleistocene glaciation making the Bering Strait a land bridge
+X) large animals such as the mastodon and dire wolves became extinct at the end of the Pleistocene
+Y) the Holocene may be an interglacial stage
+Z) recent ice ages are thought to be controlled by uniformitarian cycles
+
+----
+num: 21
+category: Astronomy
+difficulty: HS
+seen: 1
+answer: Y)  a Few Days Past Full
+
+At 8:00 AM in early August of 2006 in New York, the Moon could be seen low in the western sky. What phase was it most likely in:
+W) waxing crescent
+X) just past new
+Y) a few days past full
+Z) first quarter
+
+----
+num: 23
+category: Chemistry
+difficulty: HS
+seen: 1
+answer: X)  Unsaturated
+
+Organic compounds that contain double bonds are said to be:
+W) saturated
+X) unsaturated
+Y) unable to undergo cis-trans isomerization
+Z) unable to undergo addition reactions
+
+----
+num: 25
+category: Chemistry
+difficulty: HS
+answer: X)  Lanthanides Are Characterized by Occupying the D-Block 
+of the Periodic Table
+
+Which of the following is NOT true:
+W) actinides are characterized by occupying the f-block of the periodic table
+X) lanthanides are characterized by occupying the d-block of the periodic table
+Y) alkali metals are the most reactive of all metallic elements
+Z) actinides are metals

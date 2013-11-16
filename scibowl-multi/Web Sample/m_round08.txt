@@ -1,0 +1,198 @@
+####
+tournament: Web Sample
+round: m_round08.pdf
+####
+
+num: 1
+category: Earth Science
+difficulty: MS
+answer: W)  Japan
+
+Which of the following is an example of an island arc collision zone:
+W) Japan
+X) Oregon
+Y) Maine
+Z) Chile and Peru
+
+----
+num: 3
+category: General Science
+difficulty: MS
+answer: Y)  4.2
+(Solution: 1 L  = 1.06 Q;  4 L = 4.24 Q)
+
+Which of the following is CLOSEST to the volume of 4 liters in quarts:
+W) 3.8
+X) 4.0
+Y) 4.2
+Z) 4.4
+
+----
+num: 4
+category: Life Science
+difficulty: MS
+answer: Z)  Sessile
+
+Which of the following terms do biologists most often use to describe animals that do not move by their own design or effort:
+W) saprophytic
+X) instar
+Y) motile
+Z) sessile
+
+----
+num: 6
+category: Earth Science
+difficulty: MS
+answer: Z)  Temperate, Middle Latitude Zone
+
+The greatest annual variation in the intensity of solar radiation on Earth throughout the year is in which of the following locations:
+W) tropics
+X) north of the Arctic Circle
+Y) south of the Antarctic Circle
+Z) temperate, middle latitude zone
+
+----
+num: 7
+category: Math
+difficulty: MS
+answer: W)  Equal the Area of the Yellow Slices
+
+Pick any arbitrary point in the interior of a circle 12-inches in diameter and cut the circle into 8 slices by cutting at 45º angles through that arbitrary point. If you color alternate pi eces blue and yellow, then the total area of the blue slices will:
+W) equal the area of the yellow slices
+X) be twice the area of the yellow slices
+Y) be one-half the area of the yellow slices
+Z) be one-third the area of the yellow slices
+
+----
+num: 8
+category: General Science
+difficulty: MS
+answer: Y)  Poor Thermal Conductor
+
+Which of the following is NOT a property of diamonds:
+W) extremely hard
+X) transparent
+Y) poor thermal conductor
+Z) good electrical insulator
+
+----
+num: 10
+category: Physical Science
+difficulty: MS
+answer: X)  Farads
+
+In which of the following units would capacitance most likely be given:
+W) webers
+X) farads 
+Y) teslas
+Z) ohms
+
+----
+num: 11
+category: Earth Science
+difficulty: MS
+answer: W)  Magma Cools Rapidly and Crystals Do Not Form
+
+Which of the following best describes how volcanic glass or obsidian is formed:
+W) magma cools rapidly and cr ystals do not form
+X) magma cools slowly and 1 large crystal is formed
+Y) magma cools in direct contact with water
+Z) magma is heated, cooled, then reheated
+
+----
+num: 11
+category: Earth Science
+difficulty: MS
+answer: Y)  Silicon Dioxide
+
+The dominant component of most magma is:
+W) carbon
+X) sulfur dioxide
+Y) silicon dioxide
+Z) nitrogen
+
+----
+num: 13
+category: General Science
+difficulty: MS
+answer: Y)  90
+
+Which of the following is CLOSEST to 56 miles per hour in kilometers per hour:
+W) 20
+X) 50
+Y) 90
+Z) 120
+
+----
+num: 16
+category: Earth Science
+difficulty: MS
+answer: X)  Oxygen
+
+Banded iron formations that are present in mountain ranges around the world formed during the Achaean Era as a direct result of the presence of:
+W) nitrogen
+X) oxygen
+Y) hydrogen
+Z) methane
+
+----
+num: 16
+category: Earth Science
+difficulty: MS
+answer: Z)  Dolomite
+
+Which of the following is a carbonate mineral:
+W) halite
+X) fluorite
+Y) feldspar
+Z) dolomite
+
+----
+num: 19
+category: Life Science
+difficulty: MS
+answer: W)  Moss
+
+Which of the following organisms has an archegonium:
+W) moss
+X) bird
+Y) frog
+Z) oak tree
+
+----
+num: 21
+category: Earth Science
+difficulty: MS
+answer: W)  Continents and Volcanic Arcs
+
+Stratovolcanoes are typically found in which of the following locations:
+W) continents and volcanic arcs
+X) the abyssal plain
+Y) along basaltic plateaus
+Z) above hot spots in Earth’s crust
+
+----
+num: 21
+category: Earth Science
+difficulty: MS
+answer: Y)  the Troposphere Extends From the Earth’s Surface Up to an 
+Average of 27 Miles
+
+Which of the following is NOT true of the troposphere:
+W) the air is much dryer above the troposphere
+X) the troposphere is 78% nitrogen gas and 21% oxygen gas
+Y) the troposphere extends from the Earth’s surface up to an average of 27 miles 
+Z) the troposphere ends where temperature no longer varies with height
+
+----
+num: 23
+category: General Science
+difficulty: MS
+answer: X)  Copernicus
+
+Which of the following astronomers devised a system of the orbits for the planets that is considered heliocentric and published in his book “On the 
+Revolutions of the Heavenly Spheres” :
+W) Galileo
+X) Copernicus 
+Y) Newton
+Z) Kepler

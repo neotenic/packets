@@ -1,0 +1,214 @@
+####
+tournament: ACF Regionals
+round: 2010 - ACF Regionals - Illinois A + USC.doc
+year: 2010
+####
+
+num: 1
+category: History
+difficulty: College
+fixed: None
+seen: 69
+answer: The {Fronde}
+
+Abel Servien was charged with disrupting the finances of many of the major players in this conflict. Spanish intervention in this conflict was led by the archduke Leopold Wilhelm and successfully resisted at Guise by the Duke of Choiseul. That commander's greatest victory came at the Battle of Blanc-Champ in spite of a dispute between the Picardie regiment and the Gardes francaises that gave Turenne an opening. That battle, also known as Rethel, was decisive in the second, or Prince's phase of this conflict; the peace of Rueil finished the Parlement's phase after the Peace of Westphalia freed the Prince de Conde's army to rush to the aid of Anne of Austria and Cardinal Mazarin. For 10 points, name this French civil war beginning in 1648 which plagued the early reign of Louis XIV and takes its name from a child's sling.
+
+----
+num: 2
+category: Fine Arts
+difficulty: College
+fixed: 57
+seen: 69
+answer: La {Boheme}
+
+At the beginning of this opera a baritone describes getting money from an English Lord who hired him to play nonstop until a parrot died. The soprano tells her lover to keep a pink bonnet hidden under her pillow in the aria "Donde lieta usci". The tenor worries about a woman's cold hands in the aria" Che Gelida Manina" after a flower girl asks for a match because her two candles went out. In "Vecchia Zimarra" Colline laments selling his favorite coat to buy medicine. This opera's second act features the aria "Quando me n'vo" in which Musetta dances her waltz to recapture her former lover Marcello. For 10 points, name this Puccini opera set in the Latin Quarter of Paris, which ends when Mimi dies in the hands of Rodolfo.
+
+----
+num: 3
+category: Science
+difficulty: College
+fixed: None
+seen: 82
+answer: the vorticity [prompt on {rot}, {omega}, or {circulation}]
+
+The square of this quantity is known as the enstrophy and is used as a diagnostic variable in many atmospheric codes. This quantity appears as the analogue of current in the fluid analogue of the Biot-Savart law. In order for Bernoulli's equation to apply, a fluid must have a value of zero for this quantity. For a force-free fluid, the Reynolds transport equation for this quantity has as inhomogeneous term given by the cross product of the pressure gradient with itself over the density squared plus the curl of the divergence of the viscous stress tensor over the density; that equation represents conservation of angular momentum in a fluid. For 10 points, name this fluid quantity that is equal to the curl of the velocity field and that represents the local circulation rate.
+
+----
+num: 4
+category: Literature
+difficulty: College
+fixed: None
+seen: 59
+answer: A {Shropshire Lad}
+
+One section of this work concludes with the exhortation to "wake," because "when the journey's over, there'll be time enough to sleep." Another work in this collection discusses how "the Nile spills his overflow / Beside the Severn's Dead" and claims "Fifty years to-night / that God saved the Queen". Another poem in this collection is set "by brooks too broad for leaping … in fields where roses fade". One speaker in this work declares "silence sounds no worse than cheers / after earth has stopped the ears". Containing "With Rue My Heart is Laden", it also contains a work that claims "Early though the laurel grows / it withers quicker than the rose". For 10 points, name this poetry collection that contains "To an Athlete Dying Young", written by A.E. Housman.
+
+----
+num: 5
+category: Philosophy
+difficulty: College
+fixed: None
+seen: 52
+answer: {Analects} [or {Lunyu}]
+
+The main figure notes that he is a transmitter and not a maker, and we are told that he never sang on the same day as he wept. He also claims that a man who can bear to support eight rows of mimes can bear to do anything, and admonishes a detractor of animal sacrifice to love the ceremony, not the sheep. In book 11 he reminds us that "to go beyond is as wrong as to fall short", but his followers chide him for excessive mourning over the death of one of their number. Book 2, in which the speaker claims to have learned the decrees of heaven by age fifty thanks to bending his mind to study at age fifteen, is concerned with government, and the final book begins with an admonishment to "hold fast the due Mean" from the mythical emperor Yao. For 10 points, name this collection of sayings dating from the Spring and Autumn period, the foremost work of Confucianism.
+
+----
+num: 6
+category: Science
+difficulty: College
+fixed: None
+seen: 81
+answer: {Gibbs}-{Duhem} equation [prompt on {Gibbs}' {phase rule}]
+
+One corollary to this equation gives the ratio of activity to mole fraction for the constituents of a binary system as the ratio of derivatives of activities with respect to mole fractions at constant pressure and temperature. It can be derived by substituting the temperature and pressure Maxwell relations into the usual differential of the Gibbs function, then equating the differential of the definition of the Gibbs function as a sum over species only. It sets differential pressure time volume equal to entropy times differential temperature plus sum over species of particle number times differential chemical potential. For 10 points, name this equation used in the usual derivation of the rule that the number of species plus the number of degrees of freedom minus the number of phases equals two.
+
+----
+num: 7
+category: Trash
+difficulty: College
+fixed: 57
+seen: 182
+answer: "{Gin} and {Juice}"
+
+A recent television appearance saw the artist behind this song praise its simplicity while introducing David Beckham to the Chicken and Waffles breakfast experience, while this song's video leads Beavis to claim that he used to go to the Compton Swap Meet with the singer. That video features an extended intro where the purported father of one of the singers tells the singer "don't be messin' with the 8 track". The singer complains that "Every body got their cups, but they ain't chipped in", while the role of the singer's younger brother in this track's video is played by Lil Bow Wow, who had been discovered by the singer a year earlier. Its chorus sees the singer claim that he is "Laid back with my mind on my money, and my money on my mind", perhaps because of his resounding affinity for Tanqueray. For 10 points, name this 1994 track off Doggystyle, a hit for Snoop Dogg.
+
+----
+num: 8
+category: History
+difficulty: College
+fixed: 1
+seen: 68
+answer: President Dwight David {Eisenhower's Farewell Address} [or reasonable equivalents including {Eisenhower} and some indication that {he} gave the speech on the occasion of his leaving office]
+
+An important one-word excision in this speech was made on the advice of James Killian, and Ralph Williams later lamented that a section about the "tendency for orderly societies to break down into mob ridden anarchies" was excised. This speech, written in collaboration with Malcolm Moos, warned that irresponsible spending might make democracy "the insolvent phantom of tomorrow", and that "a government contract becomes virtually a substitute for intellectual curiosity". Noting that in past years "American makers of plowshares could....make swords as well", it also warned against undue influence of the "military-industrial complex". For 10 points, name this speech delivered on January 17, 1961, three days before its speaker was succeeded by John F. Kennedy.
+
+----
+num: 9
+category: Social Science
+difficulty: College
+fixed: 1
+seen: 50
+answer: Alfred {Adler}
+
+This thinker argued that lazy children are fulfilling their desires when they are scolded in a work that proceeds to discuss how similar they are to children that feign sickness in one work. Another of his works on children concluded that the second born child is likely to be revolutionary, but the one with the least amount of personality defects. The Philosophy of "As If" provided a term that would be central to this the reputation of this philosopher,who put forth three factors – pampering, neglect, and "organ dysfunction" that gives rise to personality problems. The author of Understanding Human Nature, this man coined the term "individual psychology" in another of his works. For 10 points, name this author of The Neurotic Constitution that coined the term "inferiority complex".
+
+----
+num: 10
+category: Literature
+difficulty: College
+fixed: 57
+seen: 59
+answer: Andre {Gide}
+
+In one work by this author, the title character murders Amedee Fleurissoire after discovering that he and Julius de Baraglioul have the same father. In another of this author's novels, a schoolboy dies during an initiation for a secret society in which he has to shoot himself with a blank bullet but the gun is accidentally filled with a live cartridge. In another novel Gertrude gets pneumonia from jumping into an icy river after a surgery restores her eyesight, while another of his characters does not punish Moktir for stealing his wife's sewing scissors. Along with The Pastoral Symphony, he wrote about Jerome and Alyssa making a pact of eternal love as ten-year-olds in his novel Strait is the Gate. This author wrote about Marcelline who dies of tuberculosis in Algeria while her husband Michel pursues Arab boys. For 10 points, name this French author who wrote The Counterfeiters and The Immoralist.
+
+----
+num: 11
+category: Philosophy
+difficulty: College
+fixed: None
+seen: 55
+answer: {Ethica} [or {Ethics}]
+
+Michael Hardt's preface to Negri's book The Savage Anomaly discusses this work's usage of the terms "potestas" and "potentia", and is entitled "The Anatomy of Power". This work criticizes those who argue that "God made all thigns for the sake of himself", by calling the will of God the "sanctuary of ignorance". This work's section on "The Power of the Understanding", is concerned with emotions and begins by examining "Mental Freedom or Blessedness;" that section also defines the concepts of good, evil, contingent, and possible. Its second section on the "nature and origin of the mind", contains a "digression on the nature of bodies", that introduces several new axioms. Containing a subsection called "Of Human Bondage", it outlines an argument against Cartesian dualism using proofs in the style of geometry. For 10 points, name this treatise by Baruch Spinoza.
+
+----
+num: 12
+category: Fine Arts
+difficulty: College
+fixed: None
+seen: 70
+answer: Paolo {Veronese} [or Paolo {Caliari}]
+
+This painter showed a woman looking at the apparition of a head appearing above a lion-clothed man, who steps over a crown and putto in the Allegory of Wisdom and Strength. He included The Triumph of Mordecai and The Banishment of Vashti in his History of Esther series. Dogs line the foreground of another work in which a man bowing a viola d'amore stands in front of a star-haloed Jesus, who has just created the wine being poured on the right. This artist painted a similarly crowded scene for the Basilica di Santi Giovanni e Paolo, but was forced to have its title changed from "The Last Supper" by the Inquisition. For 10 points, name this Italian painter who created Wedding at Cana and Feast in the House of Levi.
+
+----
+num: 13
+category: Science
+difficulty: College
+fixed: 57
+seen: 79
+answer: {splicing}
+
+The usual form of this procedure takes the form of two transesterifications: the first transesterification has a branch-point two-prime hydroxyl making a nucleophilic back-attack to form a so-called lariat intermediate that is then liberated by a the second transesterification. That so-called canonical pathway for this process makes use of the accessory enzymes SF1 and 2 and BBP, which work in complement with the major catalyst, a protein-RNA complex comprised of five snRNPs and named for this process. Sections to undergo this process are marked by a three-prime AG and five-prime GU. For 10 points, name this genetic process whereby a transcript RNA is prepared for translation by the removal of introns.
+
+----
+num: 14
+category: History
+difficulty: College
+fixed: None
+seen: 71
+answer: {Henry} I [or {Henry} the {Fowler} or {Heinrich} I]
+
+This maternal grandfather of Hugh Capet mortgaged his other daughter Gerberga to Louis Transmarinus for French backing. Under the Treaty of Bonn, Charles the Simple recognized his succession over a territory bequeathed by Conrad I despite struggles with Conrad over Thuringia. He financed wars against the Danes and Wends by jacking Bohemian land from Saint Wenceslas and selling it back to him, and waged a more famous campaign after the Synod of Erfurt forced him to fight the Battle of Riade after his kingdom, East Francia, led other states in rejecting an annual tribute to the Magyars. This man held off the Hungarian threat and overcame Duke Giselbert of Lorraine, allowing local autonomy so he could consolidate power in Saxony. For 10 points, name this first King of Germany and father of Otto the Great, whose epithet denotes his affinity for falconry.
+
+----
+num: 15
+category: Literature
+difficulty: College
+fixed: 57
+seen: 58
+answer: Gwendolyn {Brooks}
+
+This poet commented, "You need the untranslatable ice to watch" in a poem appearing in the appendix of a collection that features "the sonnet-ballad" which questions, "Oh mother, mother, where is happiness?" This poet asserted, "Abortions will not let you forget" and began another poem, "Think of sweet and choclate / Left to folly or to fate". One book features sections titled "Womanhood" and "The Anniad", and she also wrote "Dinner is a casual affair" for the eponymous "old yellow pair" in "The Bean Eaters". This author of A Street in Bronzeville and Annie Allen wrote a poem including the lines, "We / Jazz June. We / Die soon". For 10 points, name this female African-American poet who wrote "We Real Cool".
+
+----
+num: 16
+category: Science
+difficulty: College
+fixed: None
+seen: 80
+answer: {Dirac delta} function [prompt on {delta function}]
+
+Substituting this mathematical object in for the inhomogeneous term in an integrodifferential equation yields the equation satisfied by the associated Green's function. This object is the fundamental example of the class of abstract sequentially continuous linear functionals on non-metric vector spaces of C-infinity-zero functions; such objects are known as singular distributions. Operation of convolution with a sequence approximating this functional converges in distribution to the identity operation. Therefore, the convolution of this object with any function f yield f of zero, a fact known as the sifting property. This distribution can be considered the generalized derivative of the step function. For 10 points, name this mathematical object that can be understood as a spike of unit area, zero width, and infinite height.
+
+----
+num: 17
+category: Mythology
+difficulty: College
+fixed: 57
+seen: 111
+answer: {Krishna}
+
+Pundalik sets out a brick for this god to sit on in the guise of Vithoba after he locates his wife. Indradyumna asked Vishvakarma to make a limbless log statue of this god. He married the sixteen thousand one hundred maiden captives of Narakasura, adding to a list of wives which included Jambavati. After being raised by Yasoda and Nanda he killed his uncle Kamsa, while his siblings include Subhadra and Balarama. Jayadeva's Gita Govinda recounts his affairs with Radha and the gopis. This god gives his army to Duryodhana though he serves as charioteer to Arjuna, his conversational partner in the Bhagavad Gita. For 10 points, name this Hindu deity, usually depicted with blue skin.
+
+----
+num: 18
+category: History
+difficulty: College
+fixed: None
+seen: 70
+answer: {Mobutu Sese Seko}
+
+This man dealt with a troublesome guerrilla force in Kwilu by inviting its leader, Pierre Mulele, to a formal negotiation and then pulling off various parts of Mulele over the course of a day. The Popular Movement of the Revolution promulgated this man's doctrine of "nationalism", "revolution", and "authenticity" in the Manifesto of N'Sele. He faced two conflicts centered around the Shaba province, and rose to supreme power after his major rival and predecessor was captured and executed, likely with the aid of nefarious CIA operative Sydney Gottlieb. This predecessor of Laurent-Desire Kabila deposed the government of Joseph Kasavubu, forced Moise Tshombe to flee Katanga, and benefited from the aforementioned murder of  Patrice Lumumba. For 10 points, identify this African strongman who weathered the Congo Crisis to become the President of Zaire.
+
+----
+num: 19
+category: Fine Arts
+difficulty: College
+fixed: None
+seen: 74
+answer: Bedrich Smetana
+
+This composer quoted the protest song "I was sewing millet" in his Piano Trio in G-minor inspired by the death of his daughter after moving to Sweden. His tone poems include Richard III and Hakon Jarl, while he honored the wedding of Emperor Franz Josef in his Triumphal Symphony. In the finale of his first string quartet the music abruptly stops before the violin plays a sustained tremolo symbolizing his deafness. Along with a string quartet subtitled "From My Life", he composed a work with a section inspired by an Amazon saved by Prince Ctirad, titled "Sarka", and that work's first movement is based on the Vysehrad Castle in Prague. For 10 points, name this Czech composer who included "Die Moldau" in his Ma Vlast.
+
+----
+num: 20
+category: Literature
+difficulty: College
+fixed: None
+seen: 61
+answer: {Life} is a {Dream} [accept La {Vida es Sueño}]
+
+A character in this play adopts the name Astrea while working for a princess who assigns her the task of discovering the identity of a woman in a nobleman's locket. A soldier in this play recognizes his daughter, whom he thinks is a boy, through the sword he gave to her mother Violante. This play begins when a character traveling with Clarin in the mountains loses her horse, leading her to venture to a tower by foot. In this play Rosaura is raped by Astolfo, who makes an alliance with Estrella to succeed King Basilio as rulers of Poland. For 10 points, name this play by Pedro Calderon de la Barca about the imprisoned Prince Sigismund's realization that existence is an ephemeral illusion.20.
+
+----
+num: 21
+category: History
+difficulty: College
+fixed: None
+seen: 69
+answer: {Diet} of {Japan} [or {Kokkai}]
+
+Under the 1889 constitution this body was divided into the House of Peers, modeled after the Prussian Herrenhaus, and the House of Representatives, but the former has been replaced by the House of Councilors. The earlier incarnation of this was dominated by parties like the Association of Friends of Constitutional Government and the Constitutional Association of Friends. Laws passed by this body must be promulgated by the sovereign, who is obligated to do so by article 7 of the Peace Constitution. The Social Democratic Party and People's New Party have only ten seats total in the upper house, but have been quite outspoken in the current coalition, and the New Komeito Party lost all its local seats in the election of August 2009. For 10 points, name this legislative body which recently saw the Liberal Democratic Party lose to the DJP, led by Yukio Hatoyama.

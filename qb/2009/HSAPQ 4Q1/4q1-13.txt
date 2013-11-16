@@ -1,0 +1,324 @@
+####
+tournament: HSAPQ 4Q1
+round: 4q1-13.pdf
+year: 2009
+####
+
+num: 1
+category: Science
+difficulty: HS
+fixed: 57
+seen: 496
+answer: CPUs [or central {processing} units]
+
+This device breaks up tasks into several stages; the first two, fetch and decode, are executed in parallel using a pipeline. Moore's Law describes the number of transistors that can fit on one die. The von Neumann bottleneck occurs because information must travel between the memory and this part of the computer. This device contains an arithmetic logic unit and one or more caches to store instructions and/or data. For 10 points, name these devices that are responsible for doing most of the computing on a computer.
+
+----
+num: 2
+category: History
+difficulty: HS
+fixed: 57
+seen: 418
+answer: Harry S {Truman}
+
+As a Senator, this man led a World War II committee investigating wasteful defense spending. This president officially desegregated the American army, fired Douglas MacArthur for insubordination, and vetoed the Taft-Hartley Act. In foreign policy, this president authorized the Berlin Airlift, began the Korean War, and ordered the atomic bomb dropped on Hiroshima. For 10 points, name this Democrat who defeated Thomas Dewey in the Election of 1948, and who earlier became president upon the death of Franklin Delano Roosevelt.
+
+----
+num: 3
+category: Literature
+difficulty: HS
+fixed: 57
+seen: 447
+answer: {Spoon} River Anthology
+
+One work in this collection ends with the statement “Degenerate sons and daughters,/ Life is too strong for you-/ It takes life to love life.” One character in this work is the village poetess Minerva Jones, who wishes to have her works published, and Trainor is the town druggist in this work. Lucinda Matlock is a resident of the titular location, and this collection opens with the poem “The Hill,” which is where all the characters can be found. It includes a description of Abraham Lincoln's boyhood love Ann Rutledge. For 10 points, name this collection of epigrams about dead residents of the title city by Edgar Lee Masters.
+
+----
+num: 4
+category: Mythology
+difficulty: HS
+fixed: 57
+seen: 773
+answer: {Herakles} [or {Hercules}]
+
+This mythological character used a stool to kill his tutor Linus. This figure killed his children in a fit of madness, then atoned by serving a king who at one point hid in a jar. That king sent this character to retrieve Hippolyta's (hip-AH-lih-tuhz) girdle and kill the Stymphalian (stim-FAIL-ee-un) birds. He also freed Prometheus, tricked Atlas into holding up the world again, and fetched three golden apples from the garden of the Hesperides (hess-PER-id-eez). For 10 points, name this son of Alcmene (ALK-mee-nee) and Zeus, who completed twelve labors using his superhuman strength.
+
+----
+num: 5
+category: Fine Arts
+difficulty: HS
+fixed: 57
+seen: 494
+answer: The {Planets}
+
+One section of this work was written to fit the meter of the poem "I vow to thee, my country." Another movement in this work has an often copied 5/4 ostinato. This piece was completed by Colin Matthews after the death of its composer with a movement subtitled the Renewer. The other movements of this piece include "the Mystic," "the Bringer of Jollity," "the Winged Messenger," "the Magician," "the Bringer of Peace," and "the Bringer of War." For 10 points name this orchesteral suite about Mars, Neptune, and Jupiter, a work of Gustav Holst.
+
+----
+num: 6
+category: History
+difficulty: HS
+fixed: -1
+seen: 418
+answer: {Mughal} Dynasty
+
+One ruler of this dynasty lost control of its territory to Sher Shah before receiving help from Tahmasp I. That ruler of this dynasty, Humayun, had a son who won the second Battle of Panipat, Akbar. The first Battle of Panipat was won by this dynasty's founder, Babur. Another ruler of this dynasty had a wife named Mumtaz, for whom he built the mausoleum, the Taj Mahal. For 10 points, name this Indian dynasty whose rulers included Shah Jahan, and whose rulers were all Muslim.
+
+----
+num: 7
+category: Literature
+difficulty: HS
+fixed: 1
+seen: 453
+answer: Johann Wolfgang von {Goethe} (GERR-tuh)
+
+This author wrote the "Venetian Epigrams" and the "Roman Elegies" and in two novels, described the "Journeyman Years" and "Apprenticeship" of Wilhelm Meister. In one work by this author, the title resident of Wahlheim falls for a woman engaged to the much older Albert, whose two pistols he later borrows to kill himself. In another novel by this author, a sleeping potion dispatches Gretchen's mother and a poodle transforms into a character who makes the title character sign a contract with a drop of blood. For 10 points, name this German author of The Sorrows of Young Werther, who wrote about Mephistopheles's manipulation of Faust.
+
+----
+num: 8
+category: History
+difficulty: HS
+fixed: 1
+seen: 419
+answer: War of {1812}
+
+In this war, Steven van Rensselaer led the losing side at the battle of Queenston Heights. An indecisive battle in this war ended with Winfield Scott wounded near Lundy's Lane. Oliver Hazzard Perry was a commander in this war. This war included a victory for Jean Lafitte and Andrew Jackson in New Orleans after this war's treaty was signed. Fought over impressment and resolved by the Treaty of Ghent, for 10 points, name this war that saw the White House burned and the bombing of Fort McHenry, which began in its namesake year.
+
+----
+num: 9
+category: Literature
+difficulty: HS
+fixed: 57
+seen: 450
+answer: A {Clockwork} Orange
+
+In this novel, a woman sings a fragment of a Gitterfenster opera in a bar, leading to a fight between Dim and the protagonist. This novel begins in the Korova Milkbar, where the protagonist and his droogs spend time speaking nadsat when the protagonist is not listening to Beethoven. After Dr. Brodsky administers the Ludovico Technique, the protagonist of this novel becomes powerless and flees to F. Alexander. For 10 points, name this novel about the ultraviolent Alex in a futuristic totalitarian state, by Anthony Burgess.
+
+----
+num: 10
+category: Trash
+difficulty: HS
+fixed: 1
+seen: 1028
+answer: St. Louis {Cardinals} [or {St. Louis Cardinals}]
+
+In 1944, this team defeated the ancestors of the Baltimore Orioles in an intracity World Series. This team's 1934 World Series champions were known as the Gas House Gang and led by such colorful players as "Ducky" Medwick and "Dizzy" Dean. In 1968, this team won the National League behind Bob Gibson's 1.12 ERA, and in 1998, Mark McGwire broke the single-season home run record playing for this team. For 10 points, name this team that is housed in Busch Stadium, whose current stars include Albert Pujols.
+
+----
+num: 11
+category: History
+difficulty: HS
+fixed: 1
+seen: 417
+answer: Treaty of {Versailles}
+
+This document's solution to the Shandong Problem led to the May Fourth Movement in China. This document established the Free City of Danzig and a Polish Corridor to the Baltic Sea. The reparations demanded by this treaty were revised by the Young and Dawes Plans. Henry Cabot Lodge prevented this treaty's passage in the United States Senate. Vittorio Orlando left during this treaty's negotiations, in which George Clemenceau called for harsh punishment of Germany. For 10 points, name this peace treaty that ended Germany's participation in World War I.
+
+----
+num: 12
+category: Science
+difficulty: HS
+fixed: 57
+seen: 480
+answer: {RNA} [or {ribonucleic} acid; accept {transfer RNA} or {tRNA} before "{cap}" is read]
+
+One type of this molecule is shaped like a cloverleaf and carries anticodons. Another type of this molecule is processed by adding a five prime cap and a poly-A tail. That type also contains introns that are removed by spliceosomes (SPLICE-o-soams). Ribosomes are responsible for the translation of the M type of this molecule, which is created during transcription. This molecule pairs adenine with uracil (YOUR-a-sill), unlike a similar molecule whose backbone sugar contains one fewer oxygen. For 10 points, name this nucleic acid that has transfer and messenger types.
+
+----
+num: 13
+category: Literature
+difficulty: HS
+fixed: 57
+seen: 442
+answer: {Brave} New World
+
+One character in this novel is disgraced when an ugly, decrepit woman addresses him as “Tomikin.” The son of that character, whose entire education consists of reading Shakespeare, commits suicide in a lighthouse in this novel after refusing to appear before the Arch Community Singster or have sex with Lenina. The characters in this novel live in a society where Bokanovksy and Podsnap processes are essential, and where people are divided from alphas to epsilons. Featuring Mustapha Mond, who contemplates exiling Bernard Marx but spares John the Savage, for 10 points, name this dystopian novel by Aldous Huxley.
+
+----
+num: 14
+category: Science
+difficulty: HS
+fixed: 57
+seen: 486
+answer: {colloids}
+
+The stability of this type of mixture is explained by DLVO theory. They can be described as lyophobic (LIE-oh-FOE-bik) or lyophilic (LIE-oh-FILL-ik). They undergo flocculation, which is similar to precipitation, in solutions. Micelles (MEE-sells) are structures that can exist in these mixtures. They consist of a continuous and dispersed phase, and the Tyndall effect can be observed in them. Examples of this class of mixtures include aerosols and emulsions. For 10 points, name these mixtures of one substance dispersed in another, an example of which is milk.
+
+----
+num: 15
+category: Literature
+difficulty: HS
+fixed: -1
+seen: 448
+answer: People's Republic of {China}
+
+One writer from this country wrote about Hothead and Glasses, who wait at the Bus Stop, and about four aspects named "I," "You," "He," and "She," who travel to Soul Mountain. One hundred five men and three women are the protagonists of a classic from this country called All Men are Brothers or Water Margin. Another classic, which concerns a character born with a jade in his mouth, is The Dream of the Red Chamber. For 10 points, Cao Cao and Liu Bei appear in The Romance of the Three Kindoms, which takes places after the fall of Han Dynasty in what nation?
+
+----
+num: 16
+category: Science
+difficulty: HS
+fixed: 57
+seen: 489
+answer: {Richter} Scale
+
+Developed with Beno Gutenberg, it has been superseded by analysis of the moment magnitude, and the effects are measured on the related Mercalli Scale. Values can be determined by looking at the amplitude of measured waves, and its values are logarithmic to the amount of energy released. A value less than 2 is considered to be micro and no value of 10 or higher has been recorded. For 10 points, name this scale that measures seismic activity including earthquakes named for an American scientist.
+
+----
+num: 17
+category: History
+difficulty: HS
+fixed: 57
+seen: 413
+answer: Kingdom of {Sweden} [or Konungerikat {Sverige}]
+
+Archbishop Trolle helped organize a 1520 event in this country's capital nicknamed that city's "Bloodbath." Several kings of this country were advised by members of the Oxenstierna family. This former member of the Kalmar Union had a king who won the Battle of Breitenfeld while fighting in the Thirty Years' War on the Protestant side. During an 1809 war with Russia, this country lost control of its neighbor, Finland. For 10 points, name this home of Gustavus Adolphus, whose capital is Stockholm.
+
+----
+num: 18
+category: Religion
+difficulty: HS
+fixed: -1
+seen: 422
+answer: {parables} of Jesus
+
+In one of these stories, a house built on the sand is blown down by a storm. Another of these stories involves three servants, each given a different number of talents. In a different one of these stories, a shepherd abandons ninety-nine sheep to find one lost one. In another, the return of one character prompts the slaying of a fatted calf. In what is perhaps the most known of these stories, a man is robbed and left on the side of the road, only to be helped by a member of a hated group of people. For 10 points, name this group of instructional tales, including "The Prodigal Son" and "The Good Samaritan," that are told by a central figure in the Gospels.
+
+----
+num: 19
+category: History
+difficulty: HS
+fixed: 57
+seen: 418
+answer: {Brunei} Darussalam
+
+William E. Todd of Virginia is the current U.S. Ambassador to this country, part of whose name means "The Abode of Peace." It regained its independence from the United Kingdom on January 1, 1984. Its coastline borders the South China Sea. It is surrounded by the Malaysian state of Sarawak, and it also shares an island with Indonesia. Bandar Seri Begawan is the capital of, for 10 points, what sultanate, located on the northern coast of the island of Borneo?
+
+----
+num: 20
+category: Science
+difficulty: HS
+fixed: 57
+seen: 486
+answer: fractals
+
+The Hausdorff dimensions of these objects are greater than their topological dimensions. Examples of these objects include the Menger sponge and the Sierpinski triangle, and types of them, such as the Cantor set, can be created by infinitely iterating a recursive equation. These objects exhibit self-similarity on very small scales, and resemble natural features like coastline and snowflakes. For 10 points, identify these geometric spaces named by Benoît Mandelbrot, which contain infinitely smaller copies of themselves.
+
+----
+num: 21
+category: History
+difficulty: HS
+fixed: 1
+seen: 416
+answer: Federative Republic of {Brazil} [or República Federativa do {Brasil}]
+
+One emperor from this country delivered the "Cry of Ipiranga" speech. This nation's final emperor freed slaves via the Golden Law, which was signed in absentia by his daughter Isabel. This nation sent forces to its state of Mato Grosso to combat invaders and benefitted from the talents of the Duke of Caxias [CAH-she-es] when it fought with Argentina and Uruguay against Paraguay in a Triple Alliance. For 10 points, name this nation whose last emperor, Pedro II, ruled from Rio de Janeiro, and which more recently has had a capital constructed at Brasilia.
+
+----
+num: 22
+category: Literature
+difficulty: HS
+fixed: 57
+seen: 439
+answer: {Stendhal} [or {Marie}-{Henri Beyle}]
+
+One character created by this author escapes from a tower with the aid of his aunt Gina, and earlier stumbles onto the Waterloo battlefield. This author created Fabrizio del Dongo in The Charterhouse of Parma, and ended another novel with a woman kissing the lips of a beheaded man. That man impregnates Mathilde, the daughter of his employer, the Marquis de la Mole, but earlier in this novel begins an affair with Madame de Rênal. This author wrote a novel about Julien Sorel, whose two title colors refer to army uniforms and priest robes. For 10 points, name this French author of The Red and the Black.
+
+----
+num: 23
+category: History
+difficulty: HS
+fixed: 57
+seen: 420
+answer: {Mormons} [or {Church} of {Mormon} members; or {Church} of {Jesus Christ} of {Latter}-{day Saints} members; or
+
+Along with some Paiute Indians, members of this group murdered the Fancher-Baker party in the Mountain Meadows Massacre. This group moved west after a failed settlement at Nauvoo in Illinois. It attempted to create the state of Deseret, but its marital practices delayed that settlement's bid for statehood until 1896. This group was led by Brigham Young to the state of Utah. For 10 points, name this religious group which once practiced polygamy, and which was founded when Joseph Smith was shown some golden plates.
+
+----
+num: 24
+category: Literature
+difficulty: HS
+fixed: 57
+seen: 436
+answer: Catch-22
+
+The protagonist of this novel tears up the number of a woman in Rome who calls him a pig but sleeps with him anyway, Luciana. One character's incessant nightly howling is prompted by the cat of his roommate Huple and brings comfort to a character deathly afraid of having his throat slit. The protagonist is traumatized by Snowden's death and sleeps in a tent with the belongings of a dead man. The crafty Milo Minderbender serves as mess hall officer in this novel, whose title concept is explained by Doc Daneeka to Yossarian, who is stuck flying bombing missions. For 10 points, name this Joseph Heller novel.
+
+----
+num: 25
+category: Science
+difficulty: HS
+fixed: 57
+seen: 485
+answer: {operons}
+
+If an alternate loop structure is present, these entities can terminate early in a process known as attenuation. The mechanism of their function was discovered by Jacob and Monod. Translational repressors of these entities contrast with their transcriptional repressors, which bind to the operator site. They also have promoter sites, where RNA polymerase binds. In E. coli, one of them facilitates the transport and production of lactose. For 10 points, name these sequences of prokaryotic DNA that regulate expression of related genes, including the trp (trip) and lac types.
+
+----
+num: 26
+category: Literature
+difficulty: HS
+fixed: 1
+seen: 444
+answer: Jack {London}
+
+This author created a character who terrorizes the Yeehats in revenge for the killing of John Thornton. In a short story by this author, a prospector freezes to death after a tree dumps snow on his only source of warmth. This author wrote about the Yukon in stories such as "To Build a Fire," and wrote about Weedon Scott's taming of the title wolf-dog hybrid, and about Spitz, the archrival of Buck. For 10 points, name this American author who wrote about the Klondike Gold Rushes in White Fang and The Call of the Wild.
+
+----
+num: 27
+category: Mythology
+difficulty: HS
+fixed: None
+seen: 788
+answer: Osiris [or Usiris; or {Asar}; or {Aser}; or {Ausare}; or {Ausir}; or {Wesir}; or {Usire}]
+
+This deity was once trapped in a large tree, which was incorporated into the palace of the King of Byblos. This ruler of Duat was born on the first of the five intercalary (inter-CALORIE) days that Thoth won from Khonsu. He is often depicted with either red or green skin, and he usually carries a crook and flail. His body was hacked into pieces by his villainous brother Set, and he was then avenged by his son Horus. For 10 points, name this Egyptian ruler of the underworld, whose consort was Isis.
+
+----
+num: 28
+category: Science
+difficulty: HS
+fixed: -1
+seen: 483
+answer: {diode}
+
+Maintaining a constant voltage above the breakdown voltage is the function of the "zener" type of this component. This circuit element is depicted as an encircled solid triangle with a line perpendicularly intersecting the wire at one vertex. A full-wave rectifier circuit uses an even number of these devices. Unlike transistors, they consist of a p-type semiconductor joined to an n-type semiconductor. For 10 points, name these circuit elements that allow current to flow in only one direction, that come in a "light emitting" variety.
+
+----
+num: 29
+category: Fine Arts
+difficulty: HS
+fixed: 57
+seen: 493
+answer: Jean Désiré Gustave {Courbet}
+
+This man painted a self portrait in which he rests on a tree wearing a blood-stained shirt, The Wounded Man. This artist created a painting in which many people, including a nude prostitute, crowd around a man painting a landscape, as well as a painting in which the central focus is female genitalia. In addition to The Artist's Studio and The Origin of the World, this artist created a now destroyed painting depicting hard manual labor, and another showing a funeral procession. For 10 points, name this French Realist painter of The Stone Breakers and A Burial at Ornans.
+
+----
+num: 30
+category: History
+difficulty: HS
+fixed: 1
+seen: 424
+answer: {Henry VIII} Tudor of England
+
+This king's troops were victorious against James IV of Scotland at the Battle of Flodden Field. This man was the target of the "Pilgrimage of Grace," a rebellion sparked when this king seized large amounts of church land. This man negotiated with Francis I of France at the Field of the Cloth of Gold. This king's advisors included Thomas Wolsey, Thomas Cranmer, and Thomas Cromwell. This man was excommunicated after declaring himself head of the Church of England. For 10 points, name this Tudor king of England famous for having six wives.
+
+----
+num: 31
+category: Philosophy
+difficulty: HS
+fixed: 1
+seen: 521
+answer: {Marxism} [or {communism}]
+
+Writers within this philosophical movement included the theorist of "reification" (RAY-if-ih-CAY-shun), Gyorgy Lukacs (jee-OR-jee LOO-kash). This school believes in a process that it calls "dialectical materialism." Another theorist of this movement stressed the need for a "vanguard" to bring about social change and wrote the article Imperialism, the Highest Stage of Capitalism. This school's concepts include the labor theory of value. For 10 points, name this political philosophy founded by the man who helped Frederich Engels write a certain Manifesto.
+
+----
+num: 32
+category: Science
+difficulty: HS
+fixed: 57
+seen: 489
+answer: {silicon} [accept {Si} before it is read]
+
+A common method for calibration in NMR uses the tetramethyl compound of this element. Types of minerals that contain this element bonded to oxygen are known as pyroxenes and olivine. It is used to make a protective shell by diatoms (DYE-uh-tomz). N and P type substances can be made by adding arsenic and gallium to it in a process known as doping. Its dioxide is found in quartz, and this element is useful for making the semiconductors used in computer chips. For 10 points, name this element with atomic number 14 and symbol Si.

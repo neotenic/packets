@@ -1,0 +1,401 @@
+####
+tournament: #6403
+round: Show #6403 - Wednesday, June 20, 2012
+year: 2012
+date: 2012-06-20
+####
+
+num: 1
+category: History
+difficulty: 200
+seen: 5
+answer: Florida
+
+"The Alligator State".
+
+----
+num: 2
+category: Literature
+difficulty: 200
+seen: 4
+answer: David Letterman
+
+11:30: Saw one of his Top 10 "Ways to Make 'Jeopardy!' More Exciting": "contestants... paid in black-market zoo animals".
+
+----
+num: 3
+category: Art
+difficulty: 200
+seen: 5
+answer: a viola
+
+J.S. Bach played a mean violin but preferred this instrument with a slightly longer body & slightly shorter name.
+
+----
+num: 4
+category: Trash
+difficulty: 200
+seen: 6
+answer: almonds
+
+The milk chocolate Hershey bar was introduced in 1900; a version that added these came 8 years later.
+
+----
+num: 5
+category: History
+difficulty: 200
+seen: 5
+answer: standby
+
+Airport traffic was a breeze & security a delight; I'm 3 hours early, so I'll take this status on an earlier flight.
+
+----
+num: 6
+category: Trash
+difficulty: 200
+seen: 6
+answer: Watergate
+
+Manager Danny Ozark misspoke when he said, "even Napoleon had his" this Washington apartment complex.
+
+----
+num: 7
+category: History
+difficulty: 400
+seen: 4
+answer: Colorado
+
+"The Highest State".
+
+----
+num: 8
+category: Art
+difficulty: 400
+seen: 4
+answer: Felix Mendelssohn
+
+This composer born in 1809 was the grandson of philosopher Moses Mendelssohn.
+
+----
+num: 9
+category: Trash
+difficulty: 400
+seen: 5
+answer: Philadelphia
+
+Milton Hershey established his first candy business in this city, in time for its Centennial Exposition of 1876.
+
+----
+num: 10
+category: History
+difficulty: 400
+seen: 4
+answer: a bypass
+
+A road for a motorist to avoid heavy traffic, or a surgical heart procedure.
+
+----
+num: 11
+category: Trash
+difficulty: 400
+seen: 6
+answer: Tommy Lasorda
+
+In 1982 this Dodger skipper said Kurt Bevacqua "couldn't hit water if he fell out of a... boat".
+
+----
+num: 12
+category: History
+difficulty: 600
+seen: 4
+answer: Massachusetts
+
+"The Pilgrim State".
+
+----
+num: 13
+category: Art
+difficulty: 600
+seen: 4
+answer: songs
+
+The title of Brahms' "Liebeslieder" means these "of love".
+
+----
+num: 14
+category: Trash
+difficulty: 600
+seen: 5
+answer: Pot of Gold
+
+The name of this assortment of caramels makes it sound like you'd find it at the end of a rainbow.
+
+----
+num: 15
+category: History
+difficulty: 600
+seen: 4
+answer: bygones
+
+When you let these be these, you decide to forget past disagreements.
+
+----
+num: 16
+category: Trash
+difficulty: 600
+seen: 5
+answer: Frank Chance
+
+It wasn't Tinker or Evers but this man who led the Cubs to consecutive World Series wins in 1907 & '08.
+
+----
+num: 17
+category: History
+difficulty: 800
+seen: 3
+answer: Hawaii
+
+"Paradise of the Pacific".
+
+----
+num: 18
+category: Trash
+difficulty: 800
+seen: 5
+answer: Twizzlers
+
+In 1977 Hershey's acquired this brand of licorice, "the twist you can't resist".
+
+----
+num: 19
+category: History
+difficulty: 800
+seen: 3
+answer: bylaws
+
+It's a standing rule governing a corporation's internal affairs.
+
+----
+num: 20
+category: Trash
+difficulty: 800
+seen: 4
+answer: the Toronto Blue Jays
+
+Cito Gaston took this north of the border team to consecutive titles in 1992 & '93.
+
+----
+num: 21
+category: History
+difficulty: 1000
+seen: 3
+answer: Maryland
+
+"The Terrapin State".
+
+----
+num: 22
+category: Literature
+difficulty: 1000
+seen: 4
+answer: Andorra
+
+4:27: Planned a trip to this tiny principality in the Pyrenees; I'll learn Catalan, its official language, on the plane.
+
+----
+num: 23
+category: Trash
+difficulty: 1000
+seen: 5
+answer: Reese\'s
+
+Products sold under this iconic brand name include the NutRageous bar & creamy peanut butter.
+
+----
+num: 24
+category: History
+difficulty: 1000
+seen: 4
+answer: a blow-by-blow
+
+Found before "account", this term originated with announcers who described each punch in a boxing match.
+
+----
+num: 25
+category: Trash
+difficulty: 1000
+seen: 5
+answer: Bobby Cox
+
+In every year but one from 1991 to 2005, he led the Atlanta Braves to division crowns.
+
+----
+num: 26
+category: History
+difficulty: 400
+seen: 4
+answer: Paris
+
+One of the products of the peace conference held in this city in 1919 was the Covenant of the League of Nations.
+
+----
+num: 27
+category: Mythology
+difficulty: 400
+seen: 12
+answer: Aphrodite
+
+Early myth says this "mighty" goddess rose full-grown from sea foam.
+
+----
+num: 28
+category: Literature
+difficulty: 400
+seen: 4
+answer: Charlotte Brontë
+
+She dedicated "Jane Eyre" to fellow author William Makepeace Thackeray.
+
+----
+num: 29
+category: Literature
+difficulty: 400
+seen: 4
+answer: mice
+
+"The best laid plans of ____ and men".
+
+----
+num: 30
+category: History
+difficulty: 800
+seen: 4
+answer: secretary-general
+
+During the League's history, 3 men had this hyphenated title: Eric Drummond, Joseph Avenol & Sean Lester.
+
+----
+num: 31
+category: Mythology
+difficulty: 800
+seen: 10
+answer: Hermes
+
+This god was also a guide to the Underworld & for travelers; now, his name adorns expensive scarves.
+
+----
+num: 32
+category: Literature
+difficulty: 800
+seen: 4
+answer: Jane Austen
+
+Edmund Clerihew Bentley once rhymed, "the novels of" this author "are the ones to get lost in".
+
+----
+num: 33
+category: Literature
+difficulty: 800
+seen: 4
+answer: gray mare
+
+"The old ____ ____, she ain't what she used to be".
+
+----
+num: 34
+category: History
+difficulty: 1200
+seen: 5
+answer: Finland
+
+In a rare success, the League decided in 1921 that the Aland Islands belonged to this country, not Sweden.
+
+----
+num: 35
+category: Literature
+difficulty: 1200
+seen: 4
+answer: the metaphysical poets
+
+Samuel Johnson gave this "philosophical" name to a group of 17th c. poets that included John Donne.
+
+----
+num: 36
+category: Literature
+difficulty: 1200
+seen: 4
+answer: a cat
+
+"Nervous as a long-tailed ____ in a room full of rocking chairs".
+
+----
+num: 37
+category: History
+difficulty: 1600
+seen: 4
+answer: leprosy
+
+The League dug freshwater wells in the Third World & tried to eradicate this, aka Hansen's disease.
+
+----
+num: 38
+category: Mythology
+difficulty: 1600
+seen: 11
+answer: Athena
+
+This goddess represented strategic war planning over the raw violence of war; that's using your head, Zeus!.
+
+----
+num: 39
+category: Literature
+difficulty: 1600
+seen: 4
+answer: Collins
+
+Last name of Wilkie, whose writing formula was "make 'em laugh, make 'em cry, make 'em wait".
+
+----
+num: 40
+category: Literature
+difficulty: 1600
+seen: 5
+answer: swallow
+
+"One ____ does not make a summer".
+
+----
+num: 41
+category: History
+difficulty: 2000
+seen: 5
+answer: the Jordan
+
+After WWI the League "mandated" that Great Britain take charge of lands east & west of this river.
+
+----
+num: 42
+category: Mythology
+difficulty: 2000
+seen: 22
+answer: Perseus
+
+Zeus & Danae's boy, he beheaded a Gorgon & wed Andromeda.
+
+----
+num: 43
+category: Literature
+difficulty: 2000
+seen: 5
+answer: the Venerable Bede
+
+He was the "venerable" early scholar who wrote "The Ecclesiastical History of the English People".
+
+----
+num: 44
+category: Literature
+difficulty: 2000
+seen: 5
+answer: camel
+
+"Strain at a gnat and swallow a ____".

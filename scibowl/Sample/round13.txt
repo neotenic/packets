@@ -1,0 +1,273 @@
+####
+tournament: Sample
+round: round13.pdf
+####
+
+num: 1
+category: Biology
+difficulty: HS
+seen: 39
+answer: Cholester Ol
+
+What is the common name for the 27 -carbon lipid whose synthesis is in part regulated by HMG CoA (read as: H, M, G, koh, A) reductase and is the basic starting point for estrogen synthesis?
+
+----
+num: 2
+category: Chemistry
+difficulty: HS
+seen: 32
+answer: Chromium(iii) Selenate
+
+Give the systematic chemical name for the following ionic compound: Cr ^2(SeO^4)^3
+
+----
+num: 3
+category: Physics
+difficulty: HS
+seen: 27
+answer: Weak Force  (Accept:  Weak or Weak Interaction)
+
+According to the Standard Model of Particle Physics, through what force would the top qua rk decay?
+
+----
+num: 4
+category: Math
+difficulty: HS
+seen: 24
+answer: 10
+3π
+
+Express 600º in radians as a reduced fraction in terms of π:
+
+----
+num: 4
+category: Math
+difficulty: HS
+seen: 25
+answer: 96π
+(Solution: L^2 = 8^2 + 6^2, L = 10 In;  Lsa = πRl = π(6)(10) = 60π;  Sa = La + B = 60π + π(6)^2 = 96π In^2)
+
+Giving your answers in terms of π and in inches squared, find the total surface area of a closed right circular cone whose altitude is 8 inches and radius is 6 inches:
+
+----
+num: 6
+category: General Science
+difficulty: HS
+seen: 30
+answer: Uranium
+
+Pitchblende is one of the main ores of what element?
+
+----
+num: 6
+category: General Science
+difficulty: HS
+fixed: -1
+seen: 30
+answer: 85ºf;  32ºc;  310 K
+
+Order the following 3 temperature values from the 
+COOLEST to the WARMEST: 32ºC; 85ºF; 310 K
+
+----
+num: 7
+category: Astronomy
+difficulty: HS
+seen: 54
+answer: 450
+
+How many sidereal minutes are in 7.5 sidereal hours?
+
+----
+num: 8
+category: Biology
+difficulty: HS
+seen: 40
+answer: Oxygen  (Accept:  O^2)
+
+During photorespiration, the plant enzyme RuBisCO (read as: rue -
+BIS-ko) will bind what molecular substance rather than carbon dioxide?
+
+----
+num: 10
+category: Physics
+difficulty: HS
+fixed: -1
+seen: 24
+answer: 200
+(Solution:  W = F × D × Cos Angle = 100n × 3 M × 0.7071 = 212.13)
+
+Rounded to the nearest hundred joules, how much work is done in pulling a sled across a pond for 3 meters with 100 newtons of force, with a rope that makes a 45º angle with the pond?
+
+----
+num: 11
+category: Math
+difficulty: HS
+fixed: -1
+seen: 26
+answer: ( –2, –8)
+
+Find the center of the circle given by the foll owing equation:x^2 + y^2 + 4x + 16y + 3 = 0
+
+----
+num: 11
+category: Math
+difficulty: HS
+seen: 27
+answer: (–1,  –9)
+(Solution:  X =  -B/2a = -8/2(4) = -1;  Y = 4(-1)^2 +8(-1) – 5 = -9)
+
+What are the coordinates of the vertex in the graph of the following equation: y = 4x^2 + 8x – 5
+
+----
+num: 14
+category: Astronomy
+difficulty: HS
+seen: 55
+answer: Lower Left
+
+Choosing from upper right, lower right, lower left, and upper left, in what area of the Hertzsprung Russell diagram will the Sun end its life?
+
+----
+num: 17
+category: Physics
+difficulty: HS
+seen: 25
+answer: 4 × 10^7
+(Solution: I = (2/5) (10,000 Kg)(100m)^2 = 40,000,000 kg.m^2)
+
+Consider a satellite that is a uniform sphere rotating about its axis. 
+What is its moment of inertia, giving your answer in scientific notation and in kilogram meters squared, if it has a mass of 10,000 kilograms and a diameter of 200 meters?
+
+----
+num: 18
+category: Math
+difficulty: HS
+fixed: -1
+seen: 26
+answer: −
+251
+(So Lution:  F ' (5) =  −
+5^21
+= −
+251
+)
+
+For the function f (x) = 1x , what is f '(5)(read as: f prime of 5)?
+
+----
+num: 18
+category: Math
+difficulty: HS
+seen: 25
+answer: 288
+(Solution:  P(t) = -16t^2 + 176t;  P(2) = -16(4) + 352 = 288 Ft)
+
+An object is launched straight up from the ground with an initial velocity of 176 feet per second. What is the height of the object above the ground, in feet, 2 seconds into the flight?
+
+----
+num: 20
+category: General Science
+difficulty: HS
+seen: 31
+answer: Canola Oil  (Accept:  Canola)
+
+What is the most common name for the edible vegetable oil that is derived from cultivars of rapeseed plants and is low in erucic acid?
+
+----
+num: 21
+category: Astronomy
+difficulty: HS
+fixed: -1
+seen: 53
+answer: 0.4
+
+Giving your answer in decimal form, what would th e “Z” value be if a distant celestial object were shifted towards longer wavelengths by 40% of the original wavelength?
+
+----
+num: 21
+category: Astronomy
+difficulty: HS
+seen: 54
+answer: 5
+(Solution: D^3 = P^2;^ D^3 = (11.2)^2;  D^3 = 125.4;  D = 5)
+
+If a planet had an orbital period of 11.2 years, what is the length of its orbital semi -major axis, in astron omical units rounded to the nearest whole number?
+
+----
+num: 22
+category: Biology
+difficulty: HS
+seen: 40
+answer: Nitrosomonas
+
+Name all of the following 3 choices that are chemoautotrophs:
+Nitrosomonas (read as: nitro-so-MOAN-us) Paramecium ; Volvox
+
+----
+num: 22
+category: Biology
+difficulty: HS
+seen: 40
+answer: Riboflavin  (Accept:  Vitamin B2)
+
+From what vitamin is the electron carrier FAD (read as: F, A, D) derived?
+
+----
+num: 23
+category: Chemistry
+difficulty: HS
+fixed: -1
+seen: 33
+answer: Molarity;  Normality
+
+Name all of the following 3 concentration units that are temperature -dependent: molal (read as: moe -LAHL); molarity; normality
+
+----
+num: 23
+category: Chemistry
+difficulty: HS
+seen: 36
+answer: 44
+(Solution:  ∆H° = σN ∆H °(Products) – σN ∆H °(Reactants) = [–242 – (–286) = +44.0 Kj)
+^Reaction ^P ^F ^R ^F
+
+Calculate the enthalpy of vaporization, in kilojoules, of water at 25ºC and 1 atmosphere. Assume the standard enthalpy of formation of liquid water is –286 kilojoules and the standard enthalpy of formation of water gas is –242 kilojoules:
+
+----
+num: 24
+category: Physics
+difficulty: HS
+seen: 25
+answer: Torsion Balance
+
+What was the most sensitive device Coulomb used to measure the electric forces between pith balls?
+
+----
+num: 24
+category: Physics
+difficulty: HS
+seen: 26
+answer: X -Rays;  Beta Rays;  Alpha Rays
+
+Order the following 3 choices f rom the MOST penetrating through a thin sheet of cardboard to the LEAST: beta rays; alpha rays; x -rays
+
+----
+num: 25
+category: Biology
+difficulty: HS
+seen: 39
+answer: Nucleosomes
+
+What is the most common name for the histone octamer used in the coiling and packing of DNA and regulation of gene expression?
+
+----
+num: 25
+category: Biology
+difficulty: HS
+fixed: -1
+seen: 40
+answer: Nucleus;  Mitochondrion;  Chloroplast
+(Accept:  All but Lysosome)
+
+Name all of the following 4 organelles that are bounded by a double membrane: nucleus; mitochondrion; lysosome; chloroplast

@@ -1,0 +1,366 @@
+####
+tournament: #6392
+round: Show #6392 - Tuesday, June 5, 2012
+year: 2012
+date: 2012-06-05
+####
+
+num: 1
+category: Geography
+difficulty: 200
+seen: 9
+answer: the Alps
+
+The Apennines, the backbone of Italy, are among the younger ranges of this larger mountain system.
+
+----
+num: 2
+category: Trash
+difficulty: 200
+seen: 5
+answer: Grace Kelly
+
+The 1956 wedding reception of Prince Rainier & her took place on Aristotle Onassis' yacht, the Christina O.
+
+----
+num: 3
+category: History
+difficulty: 200
+seen: 5
+answer: Cindy
+
+Greg, Peter, Bobby, Marcia, Jan.
+
+----
+num: 4
+category: History
+difficulty: 200
+seen: 5
+answer: December
+
+Poinsettia Day & most of Kwanzaa.
+
+----
+num: 5
+category: Geography
+difficulty: 400
+seen: 8
+answer: marble
+
+The Apennines produce this sculpture material & are one setting in the 1860 novel titled this "Faun".
+
+----
+num: 6
+category: Trash
+difficulty: 400
+seen: 5
+answer: Humphrey Bogart
+
+This "Key Largo" actor bought the Santana from Dick Powell & named his production company after it.
+
+----
+num: 7
+category: History
+difficulty: 400
+fixed: -1
+seen: 4
+answer: Malcolm
+
+Dewey, Francis, Reese, Jamie.
+
+----
+num: 8
+category: Literature
+difficulty: 400
+seen: 4
+answer: Che
+
+Add a letter to Ernesto Guevara's nickname to get this singer of "Believe".
+
+----
+num: 9
+category: History
+difficulty: 400
+seen: 5
+answer: April
+
+International Children's Book Day & Earth Day.
+
+----
+num: 10
+category: Geography
+difficulty: 600
+seen: 8
+answer: a wolf
+
+A museum is dedicated to the Apennine type of this animal, said to have suckled the founders of Rome.
+
+----
+num: 11
+category: Trash
+difficulty: 600
+seen: 5
+answer: Natalie Wood
+
+In 2011 police briefly reopened the case of this movie star's 1981 drowning just off the yacht Splendour.
+
+----
+num: 12
+category: Geography
+difficulty: 800
+seen: 7
+answer: a glacier
+
+Calderone, on the ice-covered north slope of Mount Corno, is the southernmost one of these in Italy.
+
+----
+num: 13
+category: History
+difficulty: 800
+seen: 4
+answer: July
+
+Moon Day & Stay Out of the Sun Day.
+
+----
+num: 14
+category: Science
+difficulty: 800
+seen: 5
+answer: radiation therapy
+
+The museum has X-rays taken by Emil Grubbe, the USA's first doctor to practice this kind of therapy.
+
+----
+num: 15
+category: Geography
+difficulty: 1000
+seen: 8
+answer: Mt. Etna
+
+One division of the Apennines is called the Sicilian range & this is its highest peak.
+
+----
+num: 16
+category: History
+difficulty: 1000
+seen: 4
+answer: February
+
+Wear Red Day & National Cherry Pie Day.
+
+----
+num: 17
+category: Science
+difficulty: 1000
+seen: 7
+answer: Ebola
+
+You can get plush toys shaped like microbes, including this up-to-90% fatal virus that emerged in the Congo in 1976.
+
+----
+num: 18
+category: Literature
+difficulty: 400
+seen: 4
+answer: Cain
+
+In "Year One" David Cross plays this character wanted for the murder of his brother.
+
+----
+num: 19
+category: History
+difficulty: 400
+seen: 4
+answer: New York
+
+St. Patrick's Cathedral, opened 1879.
+
+----
+num: 20
+category: History
+difficulty: 400
+seen: 4
+answer: Cromwell
+
+Born in 1599, he started puritanizing parliament about 30 years later.
+
+----
+num: 21
+category: Literature
+difficulty: 400
+seen: 4
+answer: the fairway
+
+In golf, it's the closely mowed stretch of grass between the tees & the green.
+
+----
+num: 22
+category: Art
+difficulty: 400
+seen: 3
+answer: deck chairs
+
+Proverbially, a futile act is rearranging these chairs on the Titanic.
+
+----
+num: 23
+category: Literature
+difficulty: 800
+seen: 3
+answer: James Bond
+
+In a 1965 bestseller, he's sent to Jamaica to kill "The Man With the Golden Gun".
+
+----
+num: 24
+category: History
+difficulty: 800
+seen: 4
+answer: Texas
+
+Alamo Heights United Methodist Church.
+
+----
+num: 25
+category: History
+difficulty: 800
+seen: 4
+answer: Jamie Oliver
+
+This British chef wants to have a "Food Revolution" of fresh over processed.
+
+----
+num: 26
+category: Literature
+difficulty: 800
+seen: 3
+answer: relay
+
+A type of race between 2 or more teams, or to pass on a message.
+
+----
+num: 27
+category: Art
+difficulty: 800
+seen: 4
+answer: a chaise longue
+
+Its name is from the French for "long chair".
+
+----
+num: 28
+category: History
+difficulty: 1200
+seen: 4
+answer: Massachusetts
+
+Old North Church, built in 1723.
+
+----
+num: 29
+category: History
+difficulty: 1200
+seen: 4
+answer: Oliver North
+
+After leaving the Marine Corps, he lost a 1994 Virginia bid for the U.S. Senate.
+
+----
+num: 30
+category: Literature
+difficulty: 1200
+seen: 4
+answer: to decay
+
+To decline with age or, if you're a radioactive substance, to decompose into a more stable form.
+
+----
+num: 31
+category: Art
+difficulty: 1200
+seen: 4
+answer: an Adirondack chair
+
+This outdoor style of chair is perfect for lounging in the mountains of the same name, like at Schroon Lake.
+
+----
+num: 32
+category: Literature
+difficulty: 1600
+seen: 4
+answer: Jacqueline Susann
+
+She had back-to-back No. 1 bestsellers with "Valley of the Dolls" & "The Love Machine".
+
+----
+num: 33
+category: History
+difficulty: 1600
+seen: 4
+answer: Utah
+
+Tabernacle on Temple Square.
+
+----
+num: 34
+category: History
+difficulty: 1600
+seen: 5
+answer: Oliver Hazard Perry
+
+He died at sea in 1819, 6 years after his biggest naval triumph.
+
+----
+num: 35
+category: Literature
+difficulty: 1600
+seen: 4
+answer: Mornay
+
+Add Parmesan & Swiss cheese to Bechamel sauce & it becomes this sauce offen served with fish or vegetables.
+
+----
+num: 36
+category: Art
+difficulty: 1600
+seen: 5
+answer: a sedan chair
+
+Vehicular name for an enclosed portable chair borne on poles & carried by 2 people.
+
+----
+num: 37
+category: Literature
+difficulty: 2000
+seen: 5
+answer: the Fisherman
+
+The pope has died, setting off intrigue in the Vatican, in "The Shoes of" this.
+
+----
+num: 38
+category: History
+difficulty: 2000
+seen: 6
+answer: Oliver Wendell Holmes (Jr.)
+
+Supreme Court justice nicknamed "The Great Dissenter".
+
+----
+num: 39
+category: Literature
+difficulty: 2000
+seen: 5
+answer: Malay
+
+East Indies is another name for this archipelago.
+
+----
+num: 40
+category: Art
+difficulty: 2000
+seen: 5
+answer: butterfly
+
+A type of chair is named for this insect because its shape resembles outstretched wings.

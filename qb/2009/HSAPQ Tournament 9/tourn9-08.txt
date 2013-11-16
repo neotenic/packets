@@ -1,0 +1,234 @@
+####
+tournament: HSAPQ Tournament 9
+round: tourn9-08.pdf
+year: 2009
+####
+
+num: 1
+category: History
+difficulty: HS
+fixed: 1
+seen: 553
+answer: {Japan}
+
+In this country, a major political party's breakaway faction, calling itself the "Everyone's Party" or "Your Party" won five seats in the most recent general election. This country's Communist party retained nine seats, and eighteen defeated candidates retained seats through the "block" system, in that same recent election in this country. For only the second time in the last (*) fifty years, this country's Democratic Party took power from its more dominant Liberal Democratic Party, following the resignation of Taro Aso. For 10 points, identify this country which saw a seismic shift in political power in its 2009 general election, which made Hatoyama Yukio its new prime minister.
+
+----
+num: 2
+category: Science
+difficulty: HS
+fixed: 1
+seen: 483
+answer: DNA {sequencing}
+
+A modern technique for performing this action uses luciferase, ATP sulfurylase, and released pyrophosphate. That technique does not require an autoradiograph or monomers with missing three prime hydroxyls. A better known method uses (*) chain terminators, known as dideoxynucleotides (DIE-de-ox-ee-NEW-clee-oh-tides), with attached dyes in four columns. That method is named for Frederick Sanger. For 10 points, name this problem of determining the order of A,T,C, and Gs in a particular set of DNA.
+
+----
+num: 3
+category: History
+difficulty: HS
+fixed: 1
+seen: 417
+answer: {Theodore Roosevelt} [or {Teddy Roosevelt}; prompt on {Roosevelt}]
+
+This President dishonorably discharged some African-American soldiers after the Brownsville Incident. In one of his campaigns he ran on the "New Nationalism" platform. Among this man's foreign policy achievements was the Gentleman's Agreement with Japan. Following his defeat of Alton B. (*) Parker, this President signed legislation such as the Hepburn Act and the Pure Food and Drug Act to fulfill his Square Deal program. After being shot in Milwaukee, this man claimed that more was required to kill a bull moose. For 10 points, identify this one-time leader of the Rough Riders, who became President in 1901 after the assassination of William McKinley.
+
+----
+num: 4
+category: Literature
+difficulty: HS
+fixed: 57
+seen: 446
+answer: Oscar {Wilde}
+
+In one drama by this man, the title character finds a secret bank book after a tip from the Duchess of Berwick; that book shows that her husband has been giving money to another woman. That work by this man ends when the title object is returned by Mrs. Erlynne to her daughter, Margaret. This man also wrote a work in which it is revealed that Miss (*) Prism left a handbag with a baby in a train station. For 10 points, name this Irish playwright of Lady Windermere's Fan and The Importance of Being Ernest, whose only novel was The Picture of Dorian Gray.
+
+----
+num: 5
+category: Geography
+difficulty: HS
+fixed: 57
+seen: 724
+answer: Lake {Tahoe}
+
+The Scandinavian-inspired mansion Vikingsholm sits near the coast of Emerald Bay in this body of water. The only island in this body of water is Fanette Island, and Eagle Falls flows directly into it. The Truckee River flows directly from this (*) lake to Pyramid Lake. Towns near this lake include the host of the 1960 Winter Olympics, Squaw Valley. The closest major city to it is Reno, Nevada. For 10 points, name this lake on the California-Nevada border, which is a major tourist attraction due to its numerous nearby ski resorts.
+
+----
+num: 6
+category: History
+difficulty: HS
+fixed: 57
+seen: 413
+answer: {Byzantine} Empire [or {Byzantium}; or {Eastern Roman} Empire; prompt on {Roman Empire}
+
+One historian of this polity alleged that one of its rulers had the ability to detach his head from his body in a book about scandals at this state's court, the Secret History of Procopius. This political entity briefly ruled Italy through the Exarchate (ECKS-arr-kate) of Ravenna, after its general Narses (NAR-sayz) overthrew the rule of the Ostrogoths. Narses joined a colleague, (*) Belisarius, to defend this empire against chariot hooligans by suppressing the Nika revolt. For 10 points, identify this state ruled by Justinian, which lasted at Constantinople until it was conquered by the Ottomans in 1453.
+
+----
+num: 7
+category: Science
+difficulty: HS
+fixed: -1
+seen: 484
+answer: {recursion} [or word forms {such} as {recursive}]
+
+The Ackermann function cannot be expressed without using this procedure, and every effectively calculable function is general this by Church's thesis. All functions defined by course-of-values this are primitive this, and operations expressed using the "tail" form of this may easily be translated into (*) iteration. Binary search uses this process to repeatedly divide a list into halves. Often used to calculate elements of the Fibonacci sequence or values of the factorial function, for 10 points, name this process wherein a function calls itself.
+
+----
+num: 8
+category: History
+difficulty: HS
+fixed: -1
+seen: 410
+answer: Josip Broz {Tito} [or Josip Broz]
+
+This man was excommunicated from the Catholic Church after he issued a harsh prison sentence to Archbishop Aloysius Stepinac (ALL-oh-ish-uss steh-PEE-notch). For such sins as bugging his sleeping quarters, this man fired his heir apparent, Aleksandar Rankovic (rahn-CO-vich). This leader was the first Secretary-General of the (*) Non-Aligned Movement, having been expelled from the Soviet-run Cominform in 1948. For 10 points, name this one-time partisan fighter during World War II, who ruled from 1953 to 1980 in Yugoslavia.
+
+----
+num: 9
+category: Social Science
+difficulty: HS
+fixed: 1
+seen: 386
+answer: {racism} [or obvious equivalents]
+
+Jane Elliott conducted exercises with students in the 1960s to examine the effects of this phenomenon. Kenneth and Mamie Clark's "doll" experiments were introduced into the case of Briggs v. Elliott to examine the impact of this. In a 1954 book, Gordon Allport stated that authoritarian personalities are more likely going to exhibit this. Stokely Carmichael theorized about the (*) "institutional" kind of it. A much-derided 1975 United Nations resolution formally equated Zionism with, for 10 points, what worldview that some ethnic groups are innately superior to others?
+
+----
+num: 10
+category: Fine Arts
+difficulty: HS
+fixed: 57
+seen: 493
+answer: Johannes {Brahms}
+
+This composer's D-major violin concerto contains a raucous Hungarian-inspired third movement, and is dedicated to Joseph Joachim. One of his compositions was based on Kelar Bela's csardas. He set passages from Martin Luther's translation of the Bible in another of his works, which was inspired by the deaths of Schumann and this composer's (*) mother. His use of the rhythm of another composer's "fate knocking on the door" motif led to his first symphony being dubbed "Beethoven's Tenth." For 10 points, name this composer of the Hungarian Dances, German Requiem, and namesake "Lullaby."
+
+----
+num: 11
+category: Philosophy
+difficulty: HS
+fixed: 57
+seen: 516
+answer: {Socrates}
+
+In one work, this character describes the doctrines of his mentor, Diotima, about love. This character relates the story of Er to demonstrate the immortality of the soul, and refutes Thrasymachus's idea that justice is "the advantage of the stronger." This character compares himself to a gadfly stinging a lazy horse to describe his method of questioning established beliefs, and defends himself from (*) Meletus's charges of atheism and corrupting the youth of Athens in the Apology. For 10 points, name this subject of Meno, Crito, and Phaedo, as well as many other dialogues by his student Plato.
+
+----
+num: 12
+category: Science
+difficulty: HS
+fixed: 57
+seen: 500
+answer: {diffusion} [prompt on "{effusion}" in {case people} are {confused}]
+
+Gaseous uranium hexafluoride is manipulated in a variant of this process, yielding U-235 and U-238. A derivation from the continuity equation explains this process, which is governed by Fick's laws. A related phenomenon to this one is governed by Graham's law, and carrier proteins(*) are used for the passive "facilitated" form across the plasma membrane. Hypotonic and hypertonic solutions can be produced when this process happens to water, known as osmosis. For 10 points, name this general motion of particles from regions of higher to lower concentration.
+
+----
+num: 13
+category: Fine Arts
+difficulty: HS
+fixed: 1
+seen: 492
+answer: Giuseppe {Verdi}
+
+In one of this composer's operas, the lead tenor sings "Di quella pira" after learning that his mother is going to be burned to death on a pyre. That opera by this composer contains an aria about walking through fire, "Stride (STREE-day) la Vampa," and ends with Azucena revealing that the Count di Luca has executed his brother, Manrico. This composer of the (*) "Anvil Chorus" wrote the aria "La Donna e Mobile" for his tragic opera about a jester. He composed another opera that ends with Radames dying in a tomb along with an Egyptian princess. For 10 points, name this Italian composer of Il Trovatore, Rigoletto, and Aida (eye-EE-duh).
+
+----
+num: 14
+category: Literature
+difficulty: HS
+fixed: 57
+seen: 445
+answer: One {Hundred Years} of {Solitude} [or A {Hundred Years} of {Solitude}; or {Cien años} de {soledad}]
+
+One character in this novel loves Pietro Crespi and dies after she finishes weaving a funeral shroud. Another character in this book goes insane and is tied to a chestnut tree. One of that man's sons has seventeen children, all with the same name, and spends much of his time carving golden fish. Those characters, (*) Amaranta (ah-mahr-AHN-tah), José Arcadio, and Colonel Aureliano, are all members of the Buendía (bwen-DEE-uh) family. For 10 points, name this novel which takes place in Macondo and is the magnum opus of Gabriel García Márquez.
+
+----
+num: 15
+category: Religion
+difficulty: HS
+fixed: 1
+seen: 453
+answer: {diwali} [or {divali}]
+
+In Jainism, this holiday celebrates the tirthankara Mahavira's passage into Nirvana. In Sikhism, Guru Hargobind's release from prison is celebrated on this festival. Kali is the subject of this holiday's devotion in Bengal. Other (*) worshippers use this holiday to commemorate Hanuman, Lakshmana, Sita, and Rama's return to the city of Ayodhya. It's fourth day is the first day of Karttika. For 10 points, name this holiday in Hinduism that involves lighting millions of candles across the country.
+
+----
+num: 16
+category: Literature
+difficulty: HS
+fixed: 1
+seen: 446
+answer: Cormac {McCarthy}
+
+One novel by this man describes Gene Harrogate, who mishandles watermelons and tried to shoot bats with poisoned meat. In another of his novels, Alejandra convinces her aunt to pay the ransom for two men who meet Jimmy Blevins. Besides writing about Suttree and John Grady Cole, this author also described a kid who travels with Captain White and later the Glanton gang. This author's Cities of the Plain and The Crossing are collected in his Border Trilogy, along with (*) All the Pretty Horses. For 10 points, name this author of the contemporary Westerns Blood Meridian, The Road, and No Country For Old Men.
+
+----
+num: 17
+category: Science
+difficulty: HS
+fixed: -1
+seen: 487
+answer: {laser} [or light {amplified} by stimulated emission of radiation before “{amplify}”]
+
+The NIF uses these in an attempt to generate fusion and one technique involving these is q-switching. An important process in their function is population inversion, and their operation involves pumping. Types include the free electron variety, and solid state ones can use ruby as a medium. They produce (*) coherent light and a simple design uses two mirrors, one partially reflective. For 10 points, identify these that amplify light by stimulated emission of radiation.
+
+----
+num: 18
+category: History
+difficulty: HS
+fixed: 1
+seen: 423
+answer: John {Jay}
+
+This man ruled over a court that stripped a Rhode Island veteran of his farm in West v. Barnes. This man negotiated a treaty with Britain that led to the British abandonment of forts in the Northwest; that treaty was so unpopular that this man was burned in effigy all over the U.S. This man warned about foreign influence in four of his contributions to the (*) Federalist Papers. This man also presided over a case in which a state cited its sovereignty to deny the ability of a citizen to sue it. For 10 points, name this Founding Father who presided over Chisholm v. Georgia because he was the first Chief Justice of the Supreme Court.
+
+----
+num: 19
+category: Literature
+difficulty: HS
+fixed: 1
+seen: 454
+answer: Anne {Bradstreet}
+
+This poet wrote of having "a house on high erect, Fram'd by that mighty Architect" after waking to "thund'ring noise, and piteous shrieks" in one poem. In that work, this poet also described how "pleasant things in ashes lie" after the title event. This poet wrote another work in which the title object is described as an "ill-formed offspring of" a (*) "feeble brain." For 10 points, name this American poet of Verses Upon the Burning of Our House and The Author to Her Book, who wrote The Tenth Muse Lately Sprung Up in America in colonial Massachusetts.
+
+----
+num: 20
+category: Fine Arts
+difficulty: HS
+fixed: 1
+seen: 493
+answer: Marc {Chagall} [or {Moshe Shagal}]
+
+One of this artist's paintings depicts the white Eiffel Tower in a window behind this artist himself, painting a horse. Another of this painter's canvasses contains four floating, cloak-clad figures around the central scene, which is also surrounded by tumbling houses and a burning synagogue. This artist of Self-Portrait with (*) Seven Fingers and The White Crucifixion often depicted scenes from his hometown of Vitebsk. He painted two upside-down houses above the large faces of a lamb and a green-skinned man in another of his canvasses. For 10 points, name this Jewish painter from Belarus who painted I and the Village .
+
+----
+num: 21
+category: History
+difficulty: HS
+fixed: 1
+seen: 417
+answer: Neville {Chamberlain}
+
+This politician's half-brother Austen won a Nobel Peace Prize for negotiating the 1925 Locarno Pact. This man was appointed Chancellor of the Exchequer by Stanley Baldwin, a man whom he subsequently replaced as Prime Minister. This politician made his own internal party rival into the First Lord of the (*) Admiralty. For 10 points, name this British prime minister who claimed he had achieved "peace in our time" when he signed the 1938 Munich Pact with Adolf Hitler, but was replaced by Winston Churchill two years later.
+
+----
+num: 22
+category: Literature
+difficulty: HS
+fixed: None
+seen: 440
+answer: Madame Bovary
+
+Characters in this work include the tax collector Binet, and Bournisien, who has theological arguments with an apothecary. The protagonist meets Léon at a performance of Lucia di Lammermoor after a failed (*) operation on Hippolyte's clubfoot precipitates her family's financial troubles. Her former lover, Rodolphe Boulanger, refuses to help her, and she commits suicide by swallowing arsenic. For 10 points, name this novel about the wife of Charles, by Gustave Flaubert.
+
+----
+num: 23
+category: Science
+difficulty: HS
+fixed: 1
+seen: 492
+answer: {temperature} [or {T}]
+
+By the free-electron model, the resistivity of a metal is proportional to the square root of this quantity. Wien's Law states that the peak wavelength for blackbody emission is proportional to one over this quantity. By the Stefan-Boltzmann Law, the flux emitted by a blackbody is proportional to the (*) fourth power of this quantity. The rate of heat transfer is proportional to the gradient of this quantity, which is related to the average kinetic energy of a system's molecules. For 10 points, name this quantity measured in scales named after Kelvin and Fahrenheit.

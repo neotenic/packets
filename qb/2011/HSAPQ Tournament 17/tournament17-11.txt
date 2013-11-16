@@ -1,0 +1,284 @@
+####
+tournament: HSAPQ Tournament 17
+round: tournament17-11.pdf
+year: 2011
+####
+
+num: 1
+category: Science
+difficulty: HS
+fixed: 1
+seen: 486
+answer: recursion [{or} recursive {functions}]
+
+This type of method can be optimized by reusing the stack frame of the previous function call; that is known as tail optimization. Functions that commonly use this method include the divide-and-conquer solution to Towers of Hanoi and mergesort. A function that uses this procedure without a (*) base case will run forever. Commonly used in binary tree traversals, for 10 points, name this method where a function references itself in its definition.
+
+----
+num: 2
+category: Literature
+difficulty: HS
+fixed: 57
+seen: 449
+answer: “The Fall of the House of {Usher}”
+
+At this story's end, the narrator attempts to calm down his friend by reading a story about a knight named Ethelred who kills a dragon to obtain a large amount of gold called The Mad Trist. Earlier, one character in this work sings about “evil things, in robes of sorrow” which “assailed the monarch’s high estate” in a poem titled “The Haunted Palace.” The end of this work sees the death of (*) Madeleine and the narrator’s friend Roderick. For 10 points, name this Edgar Allan Poe short story which ends with the collapse of the title estate.
+
+----
+num: 2
+category: Literature
+difficulty: HS
+fixed: 57
+seen: 440
+answer: “The Fall of the House of {Usher}”
+
+At this story's end, the narrator attempts to calm down his friend by reading a story about a knight named Ethelred who kills a dragon to obtain a large amount of gold called The Mad Trist. Earlier, one character in this work sings about “evil things, in robes of sorrow” which “assailed the monarch’s high estate” in a poem titled “The Haunted Palace.” The end of this work sees the death of (*) Madeleine and the narrator’s friend Roderick. For 10 points, name this Edgar Allan Poe short story which ends with the collapse of the title estate.
+
+----
+num: 3
+category: Mythology
+difficulty: HS
+fixed: 57
+seen: 789
+answer: {ships} [or {boats}]
+
+One of these objects could not be moved without the help of the giantess Hyrrokin. Another one of them made of fingernails will appear at Ragnarok; those objects are Hringhorni and Naglfar. The Sons of Ivaldi made another one of these objects for Freyr which could be folded and put in a pocket and float through the air called Skidbladnir. In Greek myth, one of these (*) vessels was made out of sacred oak, transported Jason to retrieve the Golden Fleece, and was named the Argo. For 10 points, name this form of water transportation.
+
+----
+num: 4
+category: Fine Arts
+difficulty: HS
+fixed: 1
+seen: 496
+answer: Benjamin David "Benny" {Goodman}
+
+One solo by this man was immediately followed by the best-known solo of Jess Stacy and was played over a tom-tom accompaniment by Gene Krupa. In addition to Krupa, Teddy Wilson and Lionel Hampton were part of this man’s namesake Quartet, one of the first integrated groups in jazz. This man's concert at Carnegie Hall culminated in the tune (*) "Sing, Sing, Sing." For 10 points, name this "Patriarch of the Clarinet" and "King of Swing."
+
+----
+num: 5
+category: Science
+difficulty: HS
+fixed: 1
+seen: 487
+answer: Thomas {Edison}
+
+This man pirated Georges Méliès film A Trip to the Moon and sold it in hundreds of theatres. He demonstrated the use of alternating current on stray animals and advocated for its use in electric chairs as part of his smear campaign against it during the “War of the Currents” against George Westinghouse. He used the term (*) “filament” to describe the innovative glowing strand that made the first commercially successful incandescent lamp possible. For 10 points, name this “Wizard of Menlo Park,” inventor of the phonograph and a practical light bulb.
+
+----
+num: 6
+category: Trash
+difficulty: HS
+fixed: 1
+seen: 1034
+answer: {Robin} (accept {Red Robin} until “{Teen Titans}”)
+
+One holder of this name became the Red Hood after he returned from the dead. One character to operate under this name faked an engagement to Tamara Fox. Holders of this name have traditionally been leaders of the Teen Titans, but the current holder of this title has refused to join that group. The first man to hold this title later took the name (*) Nightwing, and won the “Battle for the Cowl” after the disappearance of Bruce Wayne. For 10 points, name this sidekick of Batman, a role most famously filled by Dick Grayson.
+
+----
+num: 7
+category: History
+difficulty: HS
+fixed: 1
+seen: 413
+answer: Felipe de Jesús {Calderón} (cahl-day-ROAN) Hinojosa
+
+This man appointed a Secretary of Energy to replace Georgina Kessel, in an effort to boost his country’s economy. Before assuming his current office, he himself had served as Secretary of Energy under his predecessor before winning a highly contested election in 2006 against Roberto Madrazo (mah-DRAH-zoe) and Andrés Obrador (ahn-DRAYS OH-brah-DORE). This man has been heavily criticized for his failure to end the war between his country and (*) several violent drug cartels. For 10 points, name this current President of Mexico.
+
+----
+num: 8
+category: Geography
+difficulty: HS
+fixed: 1
+seen: 717
+answer: {South Africa}
+
+This nation contains the once nominally independent Bantustans of Transkei, Venda, Ciskei, and Bophuthatswana. This nation’s currency is the Rand, and its largest city lies in Gauteng province. Cape Agulhas is the southernmost point in this nation. The (*) Orange river defines part of its border with Namibia. Two of its capitals are Pretoria and Bloemfontein. For 10 points, name this country whose largest cities are Cape Town and Johannesburg, which hosted the 2010 World Cup.
+
+----
+num: 8
+category: Geography
+difficulty: HS
+fixed: -1
+seen: 713
+answer: South {Africa}
+
+This nation contains the once nominally independent Bantustans of Transkei, Venda, Ciskei, and Bophuthatswana. This nation’s currency is the Rand, and its largest city lies in Gauteng province. Cape Agulhas is the southernmost point in this nation. The (*) Orange river defines part of its border with Namibia. Two of its capitals are Pretoria and Bloemfontein. For 10 points, name this country whose largest cities are Cape Town and Johannesburg, which hosted the 2010 World Cup.
+
+----
+num: 8
+category: Geography
+difficulty: HS
+fixed: 57
+seen: 715
+answer: South {Africa}
+
+This nation contains the once nominally independent Bantustans of Transkei, Venda, Ciskei, and Bophuthatswana. This nation’s currency is the Rand, and its largest city lies in Gauteng province. Cape Agulhas is the southernmost point in this nation. The (*) Orange river defines part of its border with Namibia. Two of its capitals are Pretoria and Bloemfontein. For 10 points, name this country whose largest cities are Cape Town and Johannesburg, which hosted the 2010 World Cup.
+
+----
+num: 9
+category: History
+difficulty: HS
+fixed: 57
+seen: 415
+answer: Winston Leonard Spencer {Churchill}
+
+This man wrote the definitive biography of the duke of Marlborough. He introduced labor exchanges and industry-specific minimum wages as president of the Board of Trade. That led to his promotion to First Lord of the Admiralty, where he orchestrated the disastrous Gallipoli campaign. During his "wilderness years," he denounced the Munich Pact, which lent him credibility when he promised to (*) "fight them on the beaches." For 10 points, name this Prime Minister who succeeded Neville Chamberlain and led the U.K. for most of World War II.
+
+----
+num: 10
+category: Philosophy
+difficulty: HS
+fixed: 57
+seen: 520
+answer: Ludwig {Wittgenstein}
+
+This philosopher's rule-following paradox was elaborated on by Saul Kripke, and it occurs in a work featuring the "beetle-in-a-box" thought experiment and a discussion of the private language argument and duckrabbits. He published only one book in his lifetime, a set of seven propositions the final of which reads (*) "Whereof one cannot speak, thereof one must be silent". For 10 points, name this German philosopher influential in the development of logical positivism, who wrote Philosophical Investigations and Tratatus Logico-Philosophicus.
+
+----
+num: 11
+category: Science
+difficulty: HS
+fixed: -1
+seen: 482
+answer: {viruses} [or {HIV} before "{example}" is read; or {human immunodeficiency virus} before
+
+The compound AZT is typically used to inhibit one specific example of this group. Members of this group can replicate using either the lysogenic or lytic cycles. One member of this group named T4 is known for attacking E. coli. These entities have a protein coat called a capsid. Members of this group that attack bacteria are called (*) bacteriophages (back-TEER-ee-oh-FAY-jezz). For 10 points, name this group of infectious agents, which includes the tobacco mosaic and influenza varieties.
+
+----
+num: 12
+category: Fine Arts
+difficulty: HS
+fixed: -1
+seen: 491
+answer: {Rhapsody} In {Blue}
+
+The original score of this work included several holes which were filled by improvisation at this work's premiere, and it was orchestrated three times by the composer of the Grand Canyon Suite, Ferde Grofe. This piece was written for a concert at Aeolian Hall entitled "An Experiment in Modern Music" by Paul Whiteman, and opens with a trill and (*) 17-note glissando for solo clarinet. For 10 points, name this 1924 work for piano and orchestra which blended classical and jazz elements, by George Gershwin.
+
+----
+num: 13
+category: Literature
+difficulty: HS
+fixed: 1
+seen: 444
+answer: Sherlock Holmes [{or} Sherlock Holmes]
+
+This character discovers that John Openshaw was murdered by the Ku Klux Klan in "The Five Orange Pips." In another work, this man proves that Jack Stapleton has been conniving to obtain the title family's fortune. He often infuriates Inspector Lestrade and the other detectives of Scotland Yard. This protagonist of (*) The Hound of the Baskervilles is the nemesis of Professor Moriarty. For 10 points, name this Arthur Conan Doyle creation, a detective who lives on Baker Street with his assistant, Watson.
+
+----
+num: 14
+category: History
+difficulty: HS
+fixed: 57
+seen: 420
+answer: Gamal Abdel {Nasser}
+
+His political career began after he met Zakaria Mohieddine and Abd al-Hakim Amir in the Sudan. Eighteen years later, he sparked international controversy through a secret arrangement with Czechoslovakia for weapons. During that controversy, this leader reacted to John Foster Dulles's withdrawal of funding for a dam project by (*) nationalizing and instituting tolls on the Suez Canal. For 10 points, name this predecessor of Anwar Sadat as the president of Egypt.
+
+----
+num: 14
+category: History
+difficulty: HS
+fixed: 1
+seen: 421
+answer: Gamal Abdel {Nasser}
+
+His political career began after he met Zakaria Mohieddine and Abd al-Hakim Amir in the Sudan. Eighteen years later, he sparked international controversy through a secret arrangement with Czechoslovakia for weapons. During that controversy, this leader reacted to John Foster Dulles's withdrawal of funding for a dam project by (*) nationalizing and instituting tolls on the Suez Canal. For 10 points, name this predecessor of Anwar Sadat as the president of Egypt.
+
+----
+num: 15
+category: Science
+difficulty: HS
+fixed: 57
+seen: 488
+answer: {Fibonacci} numbers [or {Fibonacci} sequence]
+
+These numbers can be expressed using Binet's formula with a multiplier of one. Four of these numbers make up a Q-matrix. They were first described as the solution to a problem involving multiplying rabbits in the book Liber Abaci. Like Lucas numbers, these numbers share a recurrence relation, namely that the nth of these numbers is the (*) sum of the previous two. For 10 points, name these numbers found in a sequence beginning 1, 1, 2, 3, 5.
+
+----
+num: 16
+category: Literature
+difficulty: HS
+fixed: 1
+seen: 446
+answer: William Butler {Yeats}
+
+This man wrote a play in which a noblewoman, the lover of the poet Aleel, offers her soul to the devil in exchange for money to feed the poor. In addition to The Countess Cathleen, this man wrote a poem in which "the ceremony of innocence is drowned." In that poem by this man, "the falcon cannot hear the falconer," and it asks "what rough beast ... slouches towards Bethlehem to be born?" That poem is this man's (*) "The Second Coming." For 10 points, name this Irish poet who wrote "Sailing to Byzantium."
+
+----
+num: 17
+category: History
+difficulty: HS
+fixed: 1
+seen: 409
+answer: {Franco}-{Prussian} War [or {Franco}-{German} War]
+
+Léon Gambetta attempted to organize one side's defenses in this war, but fled in a hot air balloon. The Treaty of Frankfurt ended this war, in which the Battle of Sedan was fought. One cause of this war was the possibility of Leopold of Hohenzollern gaining the Spanish throne. Another cause of this war was an edited letter between the ambassador of one country in this war and Wilhelm I. That (*) Ems Dispatch was used to advance the goals of Otto von Bismarck. For 10 points, name this 1870-1871 war between two European nations that led to German unification.
+
+----
+num: 18
+category: Fine Arts
+difficulty: HS
+fixed: 1
+seen: 490
+answer: The {Birth} of {Venus} [or {Nascita di Venere}; or La {Naissance} de {Vénus}]
+
+A depiction of this scene by William-Adolphe Bouguereau (boo-ger-OH) shows two men blowing conch shells. A better known depiction of this scene features flowers floating through the air while a man produces wind from his mouth. That depiction also features a woman handing a (*) pink cloak to the main figure, who stands nude on a conch shell. Sandro Botticelli painted a well known version of, for 10 points, what mythological scene which shows the conception of a certain Roman goddess?
+
+----
+num: 19
+category: History
+difficulty: HS
+fixed: 1
+seen: 422
+answer: {Haymarket} Square Riot
+
+One person thought to have been involved in this event was Rudolph Schnaubelt. Louis Lingg committed suicide in the aftermath of this event. John Altgeld pardoned three people who were implicated in this event, including Samuel Fielden and Michael Schwab, but four men were hanged, including August Spies. This event occurred during a (*) rally for striking workers when a bomb was thrown at the police by an unknown person. For 10 points, name this 1886 riot which took place in Chicago.
+
+----
+num: 20
+category: Literature
+difficulty: HS
+fixed: 1
+seen: 444
+answer: {Petrarch} [or Francesco {Petrarca}]
+
+This man wrote about three imaginary dialogues between himself and St. Augustine in his My Secret Book. The brother of a Carthusian monk, he also wrote two books of biographies on Roman and Biblical leaders and an unfinished biography of Scipio Africanus. This author of On Illustrious Men and Africa is best known for (*) Il Canzoniere, a collection of 366 poems dedicated to his lifelong love, who died from the plague in 1348. For 10 points, name this 14th-century Italian poet who wrote to a mysterious Laura.
+
+----
+num: 21
+category: Literature
+difficulty: HS
+fixed: 1
+seen: 444
+answer: Isabel {Allende} Llona
+
+One novel by this author has a love interest who might be Joaquin Murieta. A sequel to that novel is narrated by Aurora and follows Clara, a clairvoyant mute who leaves notebooks her granddaughter Alba finds in another work. Her works Daughter of Fortune and Portrait in Sepia can be read as part of a trilogy following the del Valles. One of her works chronicles life at (*) Tres Marias, the Trueba family hacienda, before and after a military coup. For 10 points, name this Chilean author of The House of the Spirits.
+
+----
+num: 22
+category: History
+difficulty: HS
+fixed: 57
+seen: 420
+answer: Wars of the {Roses}
+
+One figure in this war had his power cemented by his victory at Mortimer's Cross. This war began with the First Battle of St. Albans. One leader in this war was Richard Neville, known as the kingmaker. The origins of this war go back to the overthrow of Richard II. The Battle of(*) Bosworth Field saw the death of Richard III and the rise of Henry Tudor at the end of this war. For 10 points, name this war between the House of Lancaster and the House of York named for the different colored flowers representing the houses.
+
+----
+num: 22
+category: History
+difficulty: HS
+fixed: 1
+seen: 421
+answer: {Wars} of the {Roses}
+
+One figure in this war had his power cemented by his victory at Mortimer's Cross. This war began with the First Battle of St. Albans. One leader in this war was Richard Neville, known as the kingmaker. The origins of this war go back to the overthrow of Richard II. The Battle of(*) Bosworth Field saw the death of Richard III and the rise of Henry Tudor at the end of this war. For 10 points, name this war between the House of Lancaster and the House of York named for the different colored flowers representing the houses.
+
+----
+num: 23
+category: Science
+difficulty: HS
+fixed: 1
+seen: 491
+answer: Young's {double slit} experiment [or {Young's} experiment before it is read]
+
+In 1961, Claus Jönsson (CLOWS YUHN-sun) reproduced the set up of this experiment with electrons. The set up for this experiment when using only one particle gives the same results as the original, except when a detector is used. That detector being used causes a pair of (*) bands to be formed instead of the usual pattern caused by interference. For 10 points, name this experiment first carried out by Thomas Young sending light through a pair of openings, which showed light has a wave nature.

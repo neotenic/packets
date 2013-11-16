@@ -1,0 +1,224 @@
+####
+tournament: Fall Novice
+round: Packet 11.doc
+year: 2010
+####
+
+num: 1
+category: Science
+difficulty: HS
+fixed: 1
+seen: 487
+answer: Leonhard {Euler}
+
+On a graph, this man's namesake path visits each edge exactly once, and the line connecting the orthocenter and circumcenter of a triangle is also named for him. He lends his name to a method of solving differential equations by estimating the slopes, and he also proved that there is no solution to the Seven Bridges of Konigsberg problem. For 10 points, identify this mathematician who gives his name to the base of the natural logarithm, a number symbolized by the letter “e.”
+
+----
+num: 2
+category: Literature
+difficulty: HS
+fixed: 1
+seen: 442
+answer: Henrik {Ibsen}
+
+In one play by this writer, Gregers Werle influences Hedvig to shoot herself instead of the wounded title bird. In another play by this figure, Judge Brack discovers that the title character gave a pistol to her former suitor Eilert Lovberg. This author of The Wild Duck wrote a play in which Christine Linde's former sweetheart, Nils Krostag, blackmails Torvald's wife, Nora Helmer. For 10 points, name this Norwegian playwright of Hedda Gabler and A Doll's House.
+
+----
+num: 3
+category: Science
+difficulty: HS
+fixed: 57
+seen: 490
+answer: {Avogadro's} number
+
+An early method of calculating this quantity consisted of determining the Faraday constant and dividing by elementary charge, and it equals the ideal gas constant divided by the Boltzmann constant. This constant can be defined as the number of atoms in 12 grams of Carbon-12, because it gives the number of entities in one mole. For 10 points, give this constant named for an Italian scientist, equal to approximately 6.022 times 10 to the 23rd power.
+
+----
+num: 4
+category: Literature
+difficulty: HS
+fixed: 1
+seen: 443
+answer: George Bernard {Shaw}
+
+Jack Tanner is at the center of one of this author's works that features a debate between Don Juan and the devil. In another of his works, Andrew Undershaft makes a large donation to the Salvation Army. This author of Man and Superman wrote a play in which Colonel Pickering makes a bet with phonetics professor Henry Higgins, who attempts to pass Eliza Doolittle off as a duchess. For 10 points, name this Irish playwright of Major Barbara and Pygmalion.
+
+----
+num: 5
+category: Science
+difficulty: HS
+fixed: 57
+seen: 492
+answer: blood {clotting} [accept {coagulation}]
+
+Von Willebrand disease affects this process, while a sex-linked disorder of it prohibits the conversion of fibrinogen to fibrin strands; that conversion usually occurs in the process's namesake “cascade.” This process is called thrombosis when it occurs inside an uninjured blood vessel, and when it occurs outside the body it usually results in a scab. For 10 points, name this process hindered by hemophilia in which platelets bind together to prevent blood loss.
+
+----
+num: 5
+category: Science
+difficulty: HS
+fixed: 57
+seen: 490
+answer: blood {clotting} [accept {coagulation}]
+
+Von Willebrand disease affects this process, while a sex-linked disorder of it prohibits the conversion of fibrinogen to fibrin strands; that conversion usually occurs in the process's namesake “cascade.” This process is called thrombosis when it occurs inside an uninjured blood vessel, and when it occurs outside the body it usually results in a scab. For 10 points, name this process hindered by hemophilia in which platelets bind together to prevent blood loss.
+
+----
+num: 6
+category: Literature
+difficulty: HS
+fixed: 1
+seen: 441
+answer: Sinclair {Lewis}
+
+In one of this writer's novels, the title character returns to conformity after learning his wife Myra has fallen ill. This author of Babbitt wrote a novel in which Leora dies of the plague the title doctor is studying. One novel by this man sees a character join the Thanapatosis Club.That character marries Will Kennicott in that novel, and it is set in Gopher Prairie instead of his usual locale of Zenith. For 10 points, name this author of Arrowsmith and Main Street.
+
+----
+num: 7
+category: Social Science
+difficulty: HS
+fixed: 57
+seen: 377
+answer: The University of {Chicago}
+
+At this school, sociologist George Herbert Mead developed symbolic interactionism. Ronald Coase and Freakonomics author Steven Levitt are at this university, in whose squash courts the first man-made nuclear fission occurred; another man developed the permanent income hypothesis and wrote Capitalism and Freedom here. For 10 points, Milton Friedman worked at what university with a famous free-market “school” of economists, located in the Windy City?
+
+----
+num: 8
+category: Mythology
+difficulty: HS
+fixed: None
+seen: 787
+answer: Shintoism [accept {Kami}-{no}-{michi} before “{kami}” is read; prompt “{Japanese myth}” before “{Japan}” is read]
+
+A goddess in this myth system dies giving birth to its fire god; her husband washed three gods from his eyes and nose after visiting her in its underworld, Yomi. Its shrines include gates called torii. One of its deities slew an eight-headed serpent; besides that storm god, Susano'o, others include the foxlike Inari and one who once hid in a cave, the sun goddess Amaterasu. For 10 points, name this belief system centered on worshipping the kami, or nature spirits, of Japan.
+
+----
+num: 9
+category: Fine Arts
+difficulty: HS
+fixed: 1
+seen: 495
+answer: Franz Josef {Haydn}
+
+This composer created such works as the six “Sun” and six “Erdody” string quartets. In the final adagio of one of his symphonies, the performers gradually leave the stage until two muted violins remain. Another symphony is notable for a sudden fortissimo chord in its andante second movement. For 10 points, identify this composer of the Creation oratorio and London Symphonies, which include ones nicknamed “Farewell” and “Surprise.”
+
+----
+num: 10
+category: History
+difficulty: HS
+fixed: None
+seen: 415
+answer: Martin Luther
+
+This husband of Katherina von Bora was inspired to monastic life by a nearby lightning strike, and his followers included the Schmalkaldic League. Granted safe passage from Wartburg Castle by Frederick of Saxony, he argued at the Marburg Colloquy with Ulrich Zwingli about the Eucharist. This speaker at the Diet of Worms was irked by the sale of indulgences in Wittenberg. For 10 points, name this author of the 95 Theses, who started the Protestant Reformation.
+
+----
+num: 11
+category: Fine Arts
+difficulty: HS
+fixed: 1
+seen: 489
+answer: Michelangelo Merisi de {Caravaggio}
+
+In one painting by him, a man holds a horse's bit as the title figure sprawls on the ground, while in another an innkeeper serves Jesus as a disciple stretches his arms out. In addition to the Conversion of St. Paul and Supper at Emmaus, this artist painted a work in which a beam of light from beyond the picture frame shines on the title gospel writer. For 10 points, identify this Italian master of chiaroscuro who painted The Calling of St. Matthew.
+
+----
+num: 12
+category: Geography
+difficulty: HS
+fixed: 1
+seen: 713
+answer: {North} Sea
+
+Its features include the Silver Pit trench, and it contains a shallow area called Dogger Bank. Receiving the Elbe River, this body of water is connected in the east by Kattegat and Skagerrak to the Baltic Sea, and it borders the Shetland and Orkney Islands. The Strait of Dover connects it to the Atlantic. For 10 points, identify this sea found between Great Britain and Denmark, named for its position relative to the European mainland.
+
+----
+num: 13
+category: History
+difficulty: HS
+fixed: 57
+seen: 414
+answer: {Portugal}
+
+The Acclamation War in this nation installed John IV as king. Its capital, rebuilt by several Braganzan leaders, was destroyed in a 1755 earthquake. This country's Carnation Revolution overthrew dictator Antonio Salazar, whose colonies included Mozambique. This nation's flag flew over Vasco da Gama, and Prince Henry the Navigator expanded its trade with Africa. For 10 points, name this European nation whose language is spoken in Brazil, with capital at Lisbon.
+
+----
+num: 14
+category: Science
+difficulty: HS
+fixed: -1
+seen: 485
+answer: linear {momentum}
+
+The quantum mechanical operator for this quantity is negative i times h-bar times the gradient, and Planck's constant divided by this quantity gives the De Broglie wavelength. By Newton's second law, force is the time derivative of this quantity, whose change is known as the impulse. Unlike kinetic energy, it is conserved in inelastic collisions, and it is usually symbolized “p.” For 10 points, name this quantity, the product of the mass and velocity of a moving body.
+
+----
+num: 15
+category: History
+difficulty: HS
+fixed: -1
+seen: 413
+answer: {Genghis} Khan or Chinggis Khan or Temujin
+
+This figure established the Yasa legal code. This figure defeated the Khwarezmid empire and introduced the Uyghur script to his domains. Succeeded by Ogedei in his capital of Karakorum, he conquered the Jin and Xia dynasties, later controlling the largest contiguous land area of any ruler in history. For 10 points, name this warchief who united neighboring nomadic tribes and founded the Mongol Empire.
+
+----
+num: 16
+category: History
+difficulty: HS
+fixed: 1
+seen: 419
+answer: Islamic Republic of {Iran}
+
+The European Union restricted much of this nation's airline fleet and assets from its Bank Sepah in July. Brazil offered amnesty to an Azeri woman accused of adultery in this nation, which began deals with Turkey over facilities such as one in Qom. The defeat of Mir-Hossein Mousavi in this nation's 2009 elections was met with protests. For 10 points, name this aspiring nuclear power led by Mahmoud Ahmadinejad.
+
+----
+num: 17
+category: Geography
+difficulty: HS
+fixed: 1
+seen: 719
+answer: Mount {Kenya} [or {Kirinyaga}; accept “{Mountain} of {Whiteness}” before mentioned]
+
+This mountain is home to the Lewis and Tyndall glaciers, and its Batian peak was ascended by Halford John Mackinder in 1899. It is known as the “Mountain of Whiteness” by the native Kikuyu people. Though this mountain is the second-tallest peak on its continent following Mount Kilimanjaro, it is the tallest in its namesake country. For 10 points, name this stratovolcano located 150 miles northeast of Nairobi, the capital of its namesake country.
+
+----
+num: 18
+category: Literature
+difficulty: HS
+fixed: -1
+seen: 449
+answer: {Oedipus}
+
+In one work titled after this character, only Thesus sees his grave. That character seeks shelter in the sacred grove of the Furies and refusing to bless his son Polynices. This character entrusts his children to Creon after blinding himself and solved the Sphinx's riddle to save Thebes. For ten points, name this man who fathered Antigone, killed his father Laius, and married his mother Jocasta, the namesake of a trilogy by Sophocles.
+
+----
+num: 19
+category: History
+difficulty: HS
+fixed: 57
+seen: 413
+answer: John Brown
+
+Henry David Thoreau wrote “A Plea For” this “Captain,” who reacted to the sacking of Lawrence, Kansas by interrogating James Harris's guests and shooting James Doyle's corpse in the Pottawatomie Massacre. Financed by the Secret Six, this man's cause led him to storm a Virginia arsenal before J.E.B. Stuart and Robert E. Lee intercepted him. For 10 points, name this radical hanged for his 1859 raid on Harper's Ferry, a pre-Civil War abolitionist.
+
+----
+num: 20
+category: Religion
+difficulty: HS
+fixed: 1
+seen: 453
+answer: Saint Simon {Peter} the Apostle [prompt “Simeon” or “Simon” by itself, since there is another apostle of that name]
+
+This figure healed a man named Aeneas in the town of Sharon, and while visiting the port of Joppa, he revived Tabitha. His vision of unclean animals helped convince him to take the Gospel to Gentiles. This fisherman's brother Andrew was also an apostle, and he was crucified upside down. This man, called the “rock” upon whom the church would be built, later denied knowing Jesus three times. For 10 points, name this apostle and first Pope, who holds the keys to heaven.
+
+----
+num: 21
+category: History
+difficulty: HS
+fixed: 1
+seen: 422
+answer: {Vietnam} War
+
+This war's Strategic Hamlet Program largely failed, and William Calley was convicted of a massacre investigated by Seymour Hersh in this war. General Westmoreland commanded forces in this war until a series of attacks on a local lunar holiday, the Tet Offensive, and it included the battle of Khe Sanh. The Kent State massacre occurred during its expansion into nearby Cambodia. For 10 points, name this war fought by the US from 1961 to 1975 in a divided Southeast Asian country.

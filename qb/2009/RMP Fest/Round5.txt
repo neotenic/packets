@@ -1,0 +1,224 @@
+####
+tournament: RMP Fest
+round: Round5.doc
+year: 2009
+####
+
+num: 1
+category: Mythology
+difficulty: College
+fixed: None
+seen: 110
+answer: {Pohjola}
+
+After Virokannas fails to slay a steer in this place, a mysterious black man rises from the ocean and completes the task, giving the people of this place a hundred tubs of meat. This place is guarded by a gray dog named flop-ears, and landmarks here include Lovers Bay. One figure is carried to this place by an eagle after having his steed shot out from under him by a defeated rival. The lord of this place is beheaded by Lemminkainen during a wedding to which he was not invited, and an underground safe at this location is home to the magical mill of plenty. Ruled by the witch Louhi, for ten points name this farm from the Kalevala, home to the maiden of the north.
+
+----
+num: 2
+category: Mythology
+difficulty: College
+fixed: None
+seen: 115
+answer: {Vajra} [prompt on “{Indra's Thunderbolt}” or “{Indra's Spear}” or “that {thing} that {Indra uses} to {smite} his {enemies}”]
+
+According to Tibetan tradition, this object has four heads, each of which is named for the sea monster Makara, while among the Jains this object represents Dharmanatha, the fifteenth Thirthankar. The sage Dadhichi died so that this object could be made from his spine. After Hanuman attempted to eat the sun like a mango, he was scarred for life by this object. It was first used to slay Vritra the serpent. This object's owner rides Airavata the white elephant. For ten points, name this primary weapon of Indra, sometimes depicted as a thunderbolt.
+
+----
+num: 3
+category: Philosophy
+difficulty: College
+fixed: 1
+seen: 53
+answer: George {Santayana}
+
+Ezra Pound amusingly used the example of a bunch of illiterate fishermen worrying about Greek pronunciation to parody this man's The Idea of Christ in the Gospels. This man claimed that one of his major concepts aspires to "the full truth and perfect good" which "dwells like the God of Egypt in a dark inner chamber" in an essay about that concept in "the sanctuary. He famously stated "The American Will inhabits the skyscraper" in his lecture "The Genteel Tradition in American Philosophy." This author of The Birth of Reason and the autobiography Persons and Places divided one major work into four works on truth, spirit, matter, and essence. Besides Realms of Being, his most famous work asserts that there could be no rational approach to understanding the world without the titular belief that attributes inhere in existents. For ten points, name this author of Skepticism and Animal Faith, a Spanish-American philosopher.
+
+----
+num: 4
+category: Religion
+difficulty: College
+fixed: None
+seen: 56
+answer: {Lutheranism} [prompt on “{Protestantism}” or “the {Reformation}”]
+
+Samuel Zasadius was expelled from Poland for attempting to spread this religion, which John Honterus introduced to Transylvania. More radical forms of this Christian denomination were advocated by Andreas Karlstadt, a colleague of this faith's early leaders, and by Phillip Spener, who stressed mysticism. In one country, this religion was adopted because of the unpopularity of the Catholic Archbishop Trolle, and its sub-groups include the Pietists. This faith's doctrine of “Sacramental Union”, which affirms the Real Presence while rejecting Transubstantiation, is sometimes called Consubstantiation. Heeding the Augsburg Confession, for ten points name this Protestant denomination originating from the 95 theses of its namesake German founder.
+
+----
+num: 5
+category: Literature
+difficulty: College
+fixed: None
+seen: 59
+answer: Being {Transgendered} or equivalents that {implies} a figure who {underwent} a sex {change} (accept {specific changing gender} from {female} to {male} before *)
+
+According to Ovid, one figure who was bestowed this quality by Isis was the daughter of Ligdus and Telethusa, Iphis. During his visit to the underworld, Aeneas sees a figure walking with Laodamia, who had this quality. That figure was also invulnerable to weapons and but was crushed to death by trees in a battle with the Centaurs. That son of Elatus gained this quality after being raped by Poseidon. In addition to Caeneus, the most famous figure who had this quality was the son of Everes* and Chariclo. That figure, who also warned Odysseus not to harm the sacred cattle of Helios, gained this quality while traveling in Aracadia, when he struck a pair of copulating snakes on top of Mount Cyllene. This quality made him a suitable judge to settle a dispute between Zeus and Hera about whether men or women enjoyed sex more. For ten points, name this quality of Tiresias, where an individual assumes a sex different from the one that they were born with.
+
+----
+num: 6
+category: Philosophy
+difficulty: College
+fixed: None
+seen: 54
+answer: "The {Fixation} of {Belief}"
+
+This work uses the analogy of an ostrich burying its head in the sand is used to explain the reasoning behind one idea.  This work praises one concept for enabling the building of great structures of stone and shows another concept's shortcomings by comparing Plato's and Kepler's models of planetary motion.  A formula whose truth depends on the validity of inferences determined by it is termed a “guiding principle of inference”, and the idea of a quality is presented as a metaphysical conception which disrupts logical reasoning.  The author states that the sole end of inquiry is the settlement of opinion, which is approached via the “method of tenacity”, “method of authority”, “a priori method”, and “method of science”.  Contrasting the title concept with doubt, FTP, name this essay by Charles Sanders Peirce.
+
+----
+num: 7
+category: Social Science
+difficulty: College
+fixed: None
+seen: 50
+answer: {Trobriand Islanders} [accept: {Kiriwina Islanders}; prompt on “{Argonauts} of the {Western Pacific}” or “{Savages} in {North}-{Western Melanesia}” before mention]
+
+Tudava was a culture hero of these people, who instituted the ula'ula ceremony, an agricultural rite in which hereditary priests make offerings of cooked food. These people believe that pregnancy is caused by beloma, a spirit that lives in the water, rather than by sexual intercourse. One ritual among these people involves the soulva and mwali, or shells and necklaces that are moved clockwise and counterclockwise. This group's sexual life is studied in the middle book of a trilogy that also includes Coral Gardens and Their Magic. For ten points, name these “Argonauts of the Western Pacific”, an insular group studied by Bronislaw Malinowski who engage in the kula ring exchange.
+
+----
+num: 8
+category: Religion
+difficulty: College
+fixed: None
+seen: 66
+answer: {Mahdi} [accept “{12th Iman}” or “{Occulated Iman}” until “{black standard}”, as the {reference} is to those {who believe} that the {12th iman} is {also} the {mahdi}]
+
+According to one group, this figure is the same person as their leader az-Zaman, who is nicknamed “The Master of the Age”. This figure and those loyal to him march under a black standard, and enemies of this figure include the tribe of Kalb, whose leader kills women and children by ripping out their stomach and is known as “the Sufyani”. This figure is the chief enemy of the Dajjal, a villainous false messiah, and this figure's face is expected to appear in the moon and the black stone of the Kabba upon his coming. For ten points, name this redeemer figure from Islam, who will appear before the end of the world to defeat error, injustice and tyranny.
+
+----
+num: 9
+category: Mythology
+difficulty: College
+fixed: 57
+seen: 111
+answer: {Athena}
+
+One epithet used in the Homeric hymn to this figure is Tritogeneia, which may refer to this deity's birth near Lake Tritonis in Libya. In the Iliad, the figure's priestess is Theano and this deity compelled Laodecus to break the war's initial truce by firing an arrow at Menelaus. This deity promised immortality to Tydeus, but reneged on the promise after he ate the brains of Melanippus. This goddess was the foster mother of Erichthonius, who was born when Hephaestus attempted to rape her and his ejaculate fell on the ground. This goddess, who was often referred to Glaukopis or grey-eyed, gave Tiresias the power of prophecy after she blinded him for seeing her naked while bathing. Usually depicted wearing a peplos, this goddess won a famous weaving contest by depicting how she defeated Poseidon became the patron of her namesake city. Born from Zeus' head, for ten points, name this olive-tree bearing Greek goddess of wisdom and warfare.
+
+----
+num: 10
+category: Religion
+difficulty: College
+fixed: None
+seen: 57
+answer: {daevas} [accept: {dews}; {daivas}]
+
+One of these beings named Jahi was the first woman to menstruate. These beings slew Gavaevodata, the primordial cow, and they include Nasa, Zauri, and Vizaresh. These beings are served by the Usij class of priests. One of these beings takes the form of a lizard, while more notable beings in this group include Sarva, Indar, and Akoman. They promote druj, and the theory that they represent an earlier generation of state deities is bolstered by the fact that their name is cognate with the Sanskrit for “gods”. Led by Ahriman, for ten points name these evil beings from Zoroastrianism.
+
+----
+num: 11
+category: Philosophy
+difficulty: College
+fixed: None
+seen: 54
+answer: {Mohism} or {Mozism}
+
+This philosophical school's later incarnation argued for three kinds of "calling", labeled including  jia and ju. That later incarnation advocated a form of disputation or dialectics called bian, exemplified by works such as "The Greater Selection" and "The Lesser Selection." This school also applied the three fa of root, source, and use to distinguish between shi and fei, encapsulating all acts of judgment. Only root and use, however, are necessary to condemn musical shows, one of this school's ten doctrines along with "serving ghosts" and "thrift in funerals." Their peculiar form of consequentialism manifests itself in their concept of zhi or order, which requires consideration of benefit to the world, leading to its major doctrine. Distinguished by its founder's lower social class and corresponding dislike of the aristocratic implications of Confucianism, for 10 points, name this philosophical love advocating "inclusive care" or "universal love.'
+
+----
+num: 12
+category: Mythology
+difficulty: College
+fixed: 57
+seen: 117
+answer: {Osiris} [accept: {Aser}; {Weser}]
+
+This deity was honored during the “Procession of Wepwawet”, part of a five-day festival dedicated to this deity and described on the Ikhernofret Stela. What was depicted as growing out of this deity's body, and the most notable shrine to this deity was at Abydos. The Ptolemaic dynasty created a new state god by merging this deity with Apis, and this god was usually depicted holding a crook and flail. His penis was eaten by a fish after he was cut into pieces and thrown into the Nile, but his body was stitched together and resurrected after he was killed by his brother, Seth. For ten points, name this ruler of the Egyptian underworld, the husband of Isis.
+
+----
+num: 13
+category: Social Science
+difficulty: College
+fixed: None
+seen: 50
+answer: {Simulacra} and {Simulation} or {Simulacres et Simulation}
+
+This work argues that a strike "regenerates the ideal of a possible university" and posits that "pedagogical incest" has replaced the relationship between work and knowledge in academia. Besides chapters like "The Spiraling Cadaver" and "Value's Last Tango", this work claims that the Pompidou Centre is an incinerator absorbing cultural energy in its chapter on "The Beauborg Effect." This work claims that the modern era is characterized by a "liquidation of all referentials" and posits three orders of its first title concept, the second of which is associated with mass reproduction and the Industrial Revolution. This work's first chapter, named for the precession of one of the title concepts, claims that a Borges fable about a map exactly covering an Empire's territory "has come full circle for us." Arguing the real object has been superseded by its image, thus generating hyperreality, for 10 points, name this work by Jean Baudrillard.
+
+----
+num: 14
+category: Social Science
+difficulty: College
+fixed: 1
+seen: 49
+answer: Frantz {Fanon}
+
+In one work, this philosopher analyzed the case of a policeman who stuffed his ears every night to block out his hallucinations of the screams of torture victims, and in another work, he used a speech by Michel Debre to criticize interpretations of history which are based on the “negation of national time”.  This philosopher argued that speaking a language determines how people assume their culture and theorized the “epidermilization” of a foreign collective consciousness.  Advocating violence as a form of “collective catharsis” directed against imperialist powers in another work, FTP, name this post-colonial philosopher who wrote For the African Revolution, Black Skin, White Masks, and The Wretched of the Earth.
+
+----
+num: 15
+category: Religion
+difficulty: College
+fixed: None
+seen: 56
+answer: {Hasidism} [accept: {Hasidic Judaism}; {Hasidut}; accept {Chabad} or {Lubavitch} until “{Sefat Emet}”]
+
+The concept of Hit Bononut was developed by a sub-group of this movement. Important texts in this movement include the Sefat Emet, the Shabbos of Gershom Scholem, and the Tanya. This movement, whose members include Shneur Zalman, believes that God is present in all things, a form of pantheism, and opponents of this movement are called misnagdim. This movement was founded by Baal Shem Tov, and groups within it include the Lubavitch or Chabad, who are based in Crown Heights, Brooklyn. For ten points, name this mystical movement within Haredi and Orthodox Judaism that stresses piety.
+
+----
+num: 16
+category: Mythology
+difficulty: College
+fixed: 57
+seen: 116
+answer: {Sigurd} [prompt on “the {noble hart}”]
+
+This man's granddaughter married Ermanaric, King of the Goths, and was trampled to death by horses for committing adultery. This man found a wife for one of the sons of Gjuki by riding a horse through a ring of fire. Grimhild erases this figure's memory, after which this figure marries Gudrun. This man tested his most famous weapon  by seeing if it could cut through an anvil, and after this man gains the ability to understand birds, he slays his villainous foster father. This man's horse is a descendant of Sleipnir named Grani, and his sword is Gram. For ten points, name this Norse hero of the Volsung saga, who slays Fafnir the dragon and marries Brynhild.
+
+----
+num: 17
+category: Philosophy
+difficulty: College
+fixed: 57
+seen: 52
+answer: {Plato}
+
+In a work possibly written by this figure the “unwritten doctrine” is presented, which claims that a serious man in dealing with serious subjects “carefully avoids writing.” That work, the so-called Seventh Letter, belongs to a group of works whose authenticity is questioned such as Hippias Major. In another work, this author formulates the concept of the kairos, the ability of a judge to decide between the right and wrong moment to undertake an enterprise, and thus he rejects the sovereignty of the law in Statesmen. In yet another work, a figure informs us that love is a longing for immortality, a philosophy that figure learned from a female seer named Diotima. That work by this author also sees Alcibiades barge in and interrupt a party held in honor of Agathon. For 10 points, name this ancient Greek philosopher author of the Symposium and the Republic.
+
+----
+num: 18
+category: Philosophy
+difficulty: College
+fixed: 1
+seen: 53
+answer: Walter {Benjamin}
+
+In one essay, this man compared Michelangelo on his scaffold painting the creation to a certain writer on his sickbed who "consecrates the countless pages which he covered with his handwriting." Another essay compares the germinative power of "seeds of grain which have lain for centuries in the chambers of pyramids" to the potency of Herodotus' anecdote about the grief of Psammenitus. That essay also compares the title figure, the author of "The Alexandrite", to a craftsman. Another essay points out how progress is a "storm blowing from paradise" and claims Klee's Angelus Novus represents "the angel of history." The author of "The Image of Proust", "The Storyteller", and "Theses on the Philosophy of History", one essay posits that the "aura" of the title object has begun to decay, freeing that title object from a "parasitic dependence on ritual." For 10 points, name this author of "The Work of Art in the Age of Mechanical Reproduction."
+
+----
+num: 19
+category: Literature
+difficulty: College
+fixed: None
+seen: 67
+answer: {Nuada Airgedlamh} [accept: {Nuada} of the {Silver Hand}; {Nuada} of the {Silver Arm}]
+
+J.R.R. Tolkien traced this figure's name to a root meaning “to entrap”. This figure was the father of Gaible and Tadg and once granted the land of Connacht to a defeated opponent. This figure was aided by the father-son pair of Dian Cecht and Miach, his physicians. This figure was wounded in a duel with Sreng, resulting in him losing a leadership position to Bres, and he was killed by Balor at the Second Battle of Mag Tuired after being given an artificial body part. For ten points, name this leader of the Tuatha de Danann with a silver arm.
+
+----
+num: 20
+category: History
+difficulty: College
+fixed: 57
+seen: 69
+answer: {Serbia} [accept: {Srbija}]
+
+Monasteries in this country include the Celie Monastery. Despite not being named Simeon, one ruler from this country was canonized as “St. Simeon the Myrrh-Flowing”, while the Orthodox church in this country owns the finger of St. Paraskevi. A 20th century bishop from this country was nicknamed “The New Chrysostom” for his oratory and died in exile in Libertyville, IL. Apart from Nikolai Velmirovich, another notable saint from this country was a prince of the Nemanjic dynasty named Sava. In recent times, this Cyrillic-using country has targeted Muslim ethic Albanians for ethnic cleansing. For ten points, name this Balkan country with capital at Belgrade.
+
+----
+num: 21
+category: Mythology
+difficulty: College
+fixed: None
+seen: 112
+answer: {Huitzilopochtli} [accept “{Left}-{hand hummingbird}” until mention]
+
+The festival month of Panquetzaliztli was dedicated to this god, who ruled both the south and the left. This god's weapon is known as the turquoise serpent, and major sacrifices to him were made every 52 years at the end of calendar cycles. He was said to have created the moon when he slew Coyolxauhqui, despite the fact that she was his sister. This god was born from a ball of feathers and his name means “left-hand hummingbird”, and it was this god that instructed the Aztecs to seek an eagle on a cactus holding a serpent and build Tenochtitlan. For ten points, name this blue Aztec god of war.
+
+----
+num: 22
+category: Religion
+difficulty: College
+fixed: 57
+seen: 57
+answer: {kaaba}
+
+This structure was notably sacked by the Qarmatians. This structure was once dedicated to the god Hubal, and was home to 360 statues representing the 360 days. This structure undergoes a ritual cleaning twice a year and is currently overseen by the Shaybat tribe. This structure is the focal point of the Tawaf ceremony, which can be done during Umrah, and it currently serves as the qibla. For ten points, name this site that is circumambulated during the Hajj, a shrine in Mecca that contains the black stone.

@@ -1,0 +1,456 @@
+####
+tournament: #6171
+round: Show #6171 - Monday, June 13, 2011
+year: 2011
+date: 2011-06-13
+####
+
+num: 1
+category: History
+difficulty: 200
+seen: 5
+answer: Martha Washington
+
+June 2, 1731 in New Kent county, Virginia.
+
+----
+num: 2
+category: Geography
+difficulty: 200
+seen: 9
+answer: a babe
+
+An innocent, unsuspecting person is said to be this "in the woods".
+
+----
+num: 3
+category: Literature
+difficulty: 200
+seen: 3
+answer: eel
+
+Beginning sushi eaters often start out with unagi, this fish that's been cooked & basted with a sweetish sauce.
+
+----
+num: 4
+category: Trash
+difficulty: 200
+seen: 6
+answer: Gwyneth Paltrow
+
+For her starring role in "Country Strong", she learned to play guitar & sang 4 songs on the soundtrack.
+
+----
+num: 5
+category: Trash
+difficulty: 200
+seen: 5
+answer: Starbucks
+
+In 2011 this Seattle-based company dropped its name from its green logo but kept the mermaid.
+
+----
+num: 6
+category: History
+difficulty: 400
+seen: 4
+answer: Michelle Obama
+
+January 17, 1964 in Chicago.
+
+----
+num: 7
+category: Geography
+difficulty: 400
+seen: 8
+answer: a silo
+
+A place for keeping grain or ballistic missiles (probably not both at once, though).
+
+----
+num: 8
+category: Literature
+difficulty: 400
+seen: 3
+answer: Edam
+
+All we need is some wine & crackers to go with.
+
+----
+num: 9
+category: Trash
+difficulty: 400
+seen: 4
+answer: Drew Carey
+
+Before doing comedy & hosting a game show, this fellow seen.
+
+----
+num: 10
+category: History
+difficulty: 600
+seen: 4
+answer: Lady Bird Johnson
+
+December 22, 1912 in Karnack, Texas.
+
+----
+num: 11
+category: Geography
+difficulty: 600
+seen: 8
+answer: Coco
+
+A river on the Nicaragua-Honduras border, or Ms. Chanel.
+
+----
+num: 12
+category: Literature
+difficulty: 600
+seen: 4
+answer: an enchilada
+
+A recipe for the world's largest one of these calls for 750 lbs. of ground corn for the tortilla & 175 lbs. of cheese.
+
+----
+num: 13
+category: Trash
+difficulty: 600
+seen: 5
+answer: Carol Burnett
+
+In 2010 this beloved funny lady made a guest appearance as Sue Sylvester's mom on "Glee".
+
+----
+num: 14
+category: Trash
+difficulty: 600
+seen: 5
+answer: Sam\'s Club
+
+In 1998 this subsidiary of Walmart opened its first pharmacy in its Tulsa, Oklahoma store.
+
+----
+num: 15
+category: History
+difficulty: 800
+seen: 4
+answer: Mary Todd Lincoln
+
+December 13, 1818 in Lexington, Kentucky.
+
+----
+num: 16
+category: Geography
+difficulty: 800
+seen: 8
+answer: ziti
+
+It's a tubular pasta in short pieces, often baked in a tomato sauce.
+
+----
+num: 17
+category: Literature
+difficulty: 800
+seen: 4
+answer: an eclair
+
+Chambers Dictionary describes this cream-filled pastry as "long in shape but short in duration".
+
+----
+num: 18
+category: Trash
+difficulty: 800
+seen: 5
+answer: Harrison Ford
+
+This actor with 2 presidential names played fictional president James Marshall in "Air Force One".
+
+----
+num: 19
+category: Trash
+difficulty: 800
+seen: 4
+answer: Southwest
+
+This airline advertises that "bags fly free"... skis & golf bags too.
+
+----
+num: 20
+category: History
+difficulty: 1000
+seen: 4
+answer: Grace Coolidge
+
+January 3, 1879 in Burlington, Vermont.
+
+----
+num: 21
+category: Geography
+difficulty: 1000
+seen: 7
+answer: gape
+
+To stare with open mouth, as in wonder.
+
+----
+num: 22
+category: Literature
+difficulty: 1000
+seen: 4
+answer: étoufée
+
+This spicy Cajun stew is made with crayfish & served over rice.
+
+----
+num: 23
+category: Trash
+difficulty: 1000
+seen: 5
+answer: Drew Barrymore
+
+In 1982, the year she appeared in "E.T.", she became the youngest "SNL" host at the age of 7.
+
+----
+num: 24
+category: Trash
+difficulty: 1000
+seen: 6
+answer: Smucker\'s
+
+In 2000 this firm introduced its Uncrustables, a peanut butter & jelly sandwich with no crust that just "has to be good".
+
+----
+num: 25
+category: Literature
+difficulty: 400
+seen: 4
+answer: Dante
+
+His use of Tuscan dialect in the "Divine Comedy" helped make it the standard form of modern Italian.
+
+----
+num: 26
+category: Literature
+difficulty: 400
+seen: 4
+answer: Millie
+
+"Thoroughly Modern ____".
+
+----
+num: 27
+category: Literature
+difficulty: 400
+seen: 3
+answer: video
+
+Killer of "the radio star" in a Buggles song.
+
+----
+num: 28
+category: Literature
+difficulty: 400
+seen: 4
+answer: foreign
+
+Derived from another country.
+
+----
+num: 29
+category: History
+difficulty: 400
+seen: 4
+answer: the mass
+
+Archbishop Marcel Lefebvre's fight to keep the Latin this & other traditions led to his 1988 excommunication.
+
+----
+num: 30
+category: Science
+difficulty: 400
+fixed: -1
+seen: 6
+answer: shrimp
+
+Able to "sleep" in dried eggs for years, the ever-popular sea monkeys are actually a brine type of this.
+
+----
+num: 31
+category: Literature
+difficulty: 800
+seen: 3
+answer: the sonnet
+
+Giacomo da Lentini is credited with inventing this poetic form ("Let's see, 12 lines--not enough, 16--too many, hmm").
+
+----
+num: 32
+category: Literature
+difficulty: 800
+seen: 4
+answer: Flower
+
+"____ Drum Song".
+
+----
+num: 33
+category: Literature
+difficulty: 800
+seen: 4
+answer: Richard III
+
+He offed the second Duke of Buckingham in 1483.
+
+----
+num: 34
+category: Literature
+difficulty: 800
+seen: 4
+answer: counterfeit
+
+An imitation that's trying to pass as genuine, as in money.
+
+----
+num: 35
+category: History
+difficulty: 800
+seen: 3
+answer: Amsterdam
+
+In 1656 rabbis in this Dutch city excommunicated the philosopher Spinoza.
+
+----
+num: 36
+category: Science
+difficulty: 800
+seen: 6
+answer: an amoeba
+
+One of the parasitic types of this one-celled creature is seen.
+
+----
+num: 37
+category: Literature
+difficulty: 1200
+seen: 4
+answer: Greasepaint
+
+"The Roar of the ____, the Smell of the Crowd".
+
+----
+num: 38
+category: Literature
+difficulty: 1200
+seen: 4
+answer: Hector
+
+He killed Patroclus, Achilles' friend--mistake.
+
+----
+num: 39
+category: Literature
+difficulty: 1200
+seen: 4
+answer: veins
+
+In old physiology, vessels that convey one of the 4 elemental bodily humors.
+
+----
+num: 40
+category: History
+difficulty: 1200
+seen: 4
+answer: (Juan) Perón
+
+He was excommunicated in 1955 for enacting an Argentine divorce law & expelling 2 priests.
+
+----
+num: 41
+category: Science
+difficulty: 1200
+seen: 5
+answer: photosynthesis
+
+A variety of Atlantic sea slug eats algae, retains some of it & can then undergo this plant process.
+
+----
+num: 42
+category: Literature
+difficulty: 1600
+seen: 4
+answer: bread & wine
+
+Ignazio Silone revised his peasant novel "Pane e Vino" as "Vino e Pane"; either way, the title refers to these 2 things.
+
+----
+num: 43
+category: Literature
+difficulty: 1600
+seen: 4
+answer: Syracuse
+
+"The Boys From ____" (also a city in New York).
+
+----
+num: 44
+category: Literature
+difficulty: 1600
+seen: 5
+answer: Charlotte Corday
+
+She made short work of Jean-Paul Marat.
+
+----
+num: 45
+category: Literature
+difficulty: 1600
+seen: 4
+answer: Brunei
+
+It's a sultanate on the coast of Borneo, formerly under British protection.
+
+----
+num: 46
+category: History
+difficulty: 1600
+seen: 5
+answer: Elizabeth I
+
+She was excommunicated in 1570 & the church sanctioned efforts to dethrone her.
+
+----
+num: 47
+category: Science
+difficulty: 1600
+seen: 6
+answer: a beetle
+
+Able to reach a length of 6.5", the South American longhorn variety of this insect is one of the world's largest.
+
+----
+num: 48
+category: Literature
+difficulty: 2000
+seen: 6
+answer: Shade
+
+"110 in the ____".
+
+----
+num: 49
+category: Literature
+difficulty: 2000
+seen: 5
+answer: Bob
+
+Laura Palmer in "Twin Peaks"--mystery solved.
+
+----
+num: 50
+category: Literature
+difficulty: 2000
+seen: 5
+answer: weird
+
+This word was popularized as an appellation of the witches, or "sisters", in "Macbeth".

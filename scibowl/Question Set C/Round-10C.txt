@@ -1,0 +1,230 @@
+####
+tournament: Question Set C
+round: Round-10C.pdf
+####
+
+num: 1
+category: Biology
+difficulty: HS
+seen: 40
+answer: Citric Acid Cycle;  Glycolysis
+
+Name all of the following 3 metabolic pathways where substrate-level phosphorylation occurs: citric acid cycle; glycolysis; electron transport system
+
+----
+num: 2
+category: Chemistry
+difficulty: HS
+fixed: -1
+seen: 33
+answer: Al^3+;  Mg^2+;  Na+;  Rb+
+
+Arrange the following 4 cations in order of increasing ionic radii: 
+Mg^2+; Rb+; Al^3+; Na+
+
+----
+num: 6
+category: Math
+difficulty: HS
+seen: 25
+answer: 36x^2 + 36xy + 9y^2 ^
+
+Expand the following expression, giving your answer in standard binomia l form: (6x + 3y)^2
+
+----
+num: 6
+category: Math
+difficulty: HS
+fixed: -1
+seen: 27
+answer: 86
+(Solution: A Square = 20^2 = 400;  a Circle = πR^2 = 100π = 314;  400 – 314 = 86cm^2)
+
+Consider a blue circle inscribed in a white square. If the radius of the circle is 10 centimeters, what is the area of all visible white portions of the square, to the nearest whole number in centimeters squared?
+
+----
+num: 9
+category: Chemistry
+difficulty: HS
+fixed: -1
+seen: 35
+answer: 6
+(Solution:  D = (134.4g/mol)/22.4l/mol) = 6.0g/l)
+
+In grams per liter, what is density of a gas whose molar mass is 134.4 grams per mole at standard temperature and pressure?
+
+----
+num: 10
+category: Physics
+difficulty: HS
+seen: 24
+answer: 4.8  × 10^-^4
+(Solution:  (60 × 10^-^6)(8.0 J/c) = 4.8 × 10^-^4j)
+
+Giving your answer in proper scientific notation to the first decimal place, how many joules of work are required to move a charge of +60 microcoulombs through a potential difference of 8 volts?
+
+----
+num: 11
+category: Math
+difficulty: HS
+seen: 25
+answer: (7 X + 13y^2)( 7x – 13y^2)
+
+Factor the following expression: 49x^2 – 169y^4
+
+----
+num: 11
+category: Math
+difficulty: HS
+seen: 25
+answer: $1061.00
+^Nt ^(2x1)(solution: A = P[1 + (R/n)];  = $1,000[1 + (0.06/2)] = $1060.90)
+
+If $1000 is placed in a savings account that pays 6% annual interest compounded semiannually, what is the total amount of money in the account at the end of 1 year, to the nearest dollar?
+
+----
+num: 14
+category: Astronomy
+difficulty: HS
+seen: 55
+answer: 180
+
+How many degrees along the meridian is the nadir from the zenith?
+
+----
+num: 15
+category: Biology
+difficulty: HS
+seen: 39
+answer: Atp;  Glucose;  Glycogen;  Adipose Stores
+
+Order the following 4 storage forms of energy from the most readily available to humans to the most difficult to mobilize: adipose stores; ATP; glycogen; glucose
+
+----
+num: 16
+category: Chemistry
+difficulty: HS
+seen: 33
+answer: 3
+
+The hybridization of one ‘s’ (read as: one <pause> s) orbital and two ‘p’ (read as: two <pause> p) orbitals creates how many sp^2 hybrid orbitals?
+
+----
+num: 17
+category: Physics
+difficulty: HS
+seen: 26
+answer: Mount Everest;  New York City;  North Pole
+
+Order the following 3 locations from the SLOWEST to the FASTEST for objects accelerating because of gravity: Mount Everest; North Pole; New York City
+
+----
+num: 18
+category: Math
+difficulty: HS
+seen: 24
+answer: 1!
+X^21
+Y^2 + X^2y! 1
+Y (Note:  the Terms Can Be Given in Any Order)
+
+Find the product of the following, giving your answer without negative exponents: (x^-^2 + y)(x^2 – y^-^2)
+
+----
+num: 21
+category: Astronomy
+difficulty: HS
+seen: 53
+answer: Hubble Constant  (Accept:  Hubble)
+
+What astronomical constant has the value of 70 kilometers per second per megaparsec?
+
+----
+num: 21
+category: Astronomy
+difficulty: HS
+seen: 55
+answer: Earth;  Venus;  Earth’s Moon
+
+Order the following 3 celestial objects from the one with the 
+LEAST number of impact craters to the MOST: Earth’s Moon; Earth; Venus
+
+----
+num: 22
+category: Biology
+difficulty: HS
+seen: 41
+answer: Oxygen  (Accept:  Molecular Oxygen O R O^2)
+
+What is the final electron acceptor for electrons passing down the electron transport system?
+
+----
+num: 22
+category: Biology
+difficulty: HS
+fixed: -1
+seen: 38
+answer: Cholesterol;  Cellulose
+(Solution: Cellulose Is in Cell Wall, Not Cell Plasma Membrane)
+
+Name all of the following 4 molecules that are typically NOT found in plant cell plasma membranes: phospholipids; integral proteins; cholesterol; cellulose
+
+----
+num: 23
+category: Chemistry
+difficulty: HS
+fixed: -1
+seen: 32
+answer: 120º
+
+What are the bond angles around each carbon in a benzene ring?
+
+----
+num: 23
+category: Chemistry
+difficulty: HS
+seen: 35
+answer: 11
+
+How many carbons are in the following compound: (read slowly) 4-ethyl-4-methyl octane
+
+----
+num: 24
+category: Physics
+difficulty: HS
+seen: 25
+answer: 0.63
+(Solution:  μ^K = Ff/f^n = 50n/80n = 0.625)
+
+A boy gets a sled for his birthday in July. He exerts a 50-newton horizontal force as he pulls the 80-newton sled across the cement driveway at a constant speed. What is the coefficient of kinetic friction, to the second decimal place, between the driveway and the metal blades of the sled?
+
+----
+num: 24
+category: Physics
+difficulty: HS
+seen: 25
+answer: 58
+(Solution: At Constant Speed Applied Force = Friction Force. Ff = μF^n = (0.10)(80n + 500n) = 58n)
+
+It is now January and there is snow! The coefficient of friction is now 0.10. If a person weighing 500 newtons sits on the 80-newton sled, what horizontal force, in newtons, is needed to pull the sled across the snow at constant speed?
+
+----
+num: 25
+category: Biology
+difficulty: HS
+seen: 41
+answer: Aug
+
+What base triplet is the start codon for methionine (read as: meth-
+EYE-oh-neen)?
+
+----
+num: 25
+category: Biology
+difficulty: HS
+seen: 38
+answer: Protein = S-35;  Dna = P-32   (Accept:   Sulfur-35 and Phosphorus-32)
+(Do Not Accept:  Sulfur and Phosphorous)
+
+If you wanted to radioactively label protein and DNA to tell which one was present in a certain place, what 2 isotopes would you most likely use for the protein and the 
+DNA, respectively?

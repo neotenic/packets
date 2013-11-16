@@ -1,0 +1,262 @@
+####
+tournament: Question Set C
+round: Round-14C.pdf
+####
+
+num: 1
+category: Chemistry
+difficulty: HS
+seen: 1
+answer: Z)  Pcl
+^5
+
+Which of the following molecules has an electron pair geometry that matches its molecular geometry:
+W) H^2O
+X) NH^3
+Y) SO^2
+Z) PCl ^5
+
+----
+num: 1
+category: Chemistry
+difficulty: HS
+seen: 1
+answer: Y)  2-Methyl-1-Butene
+(Solution:  2 -Methyl-1-Butene Has a Molecular Formula of C
+^5h
+^10)
+
+Which of the following is NOT a constitutional isomer of the organic compound whose molecular formula is C^4H^8:
+W) 1-butene
+X) 2-butene
+Y) 2-methyl-1-butene
+Z) 2-methyl-1-propene
+
+----
+num: 3
+category: Biology
+difficulty: HS
+seen: 1
+answer: W)  Non-Sister Chromatids of Homologous Chromosomes Cross 
+Over
+
+Which of the following occurs during synapsis of meiosis:
+W) non-sister chromatids of homologous chromosomes cross over
+X) sister chromatids of homologous chromosomes cross over
+Y) non-sister chromatids of non-homologous chromosomes cross over
+Z) sister chromatids of non-homologous chromosomes cross over
+
+----
+num: 5
+category: Earth Science
+difficulty: HS
+seen: 1
+answer: W)  Darcy’s Law
+
+Groundwater flows according to what law that, in its simplest form, is given by the equation Q = kIA:
+W) Darcy’s Law
+X) Law of Superposition
+Y) Law of Original Horizontality
+Z) Ekman’s Law
+
+----
+num: 5
+category: Earth Science
+difficulty: HS
+seen: 1
+answer: W)  Advection Fog
+
+Which of the following is a type of inland fog that occurs more often in spring when warm, moist air is cooled below its dew point as it moves over a cooler surface:
+W) advection fog
+X) radiation fog
+Y) reflection fog
+Z) steam fog
+
+----
+num: 6
+category: General Science
+difficulty: HS
+seen: 1
+answer: X)  the Leaching Out of Toxic Heavy Metals in Lakes and 
+Streams
+
+A primary consequence of acid rain in the northeast 
+U.S. has been:
+W) salt -water intrusion in coastal wells 
+X) the leaching out of toxic heavy metals in lakes and streams
+Y) increase in radioactive decay of parent bedrock
+Z) increased algal growth to cause eutrophication in lakes
+
+----
+num: 9
+category: Physics
+difficulty: HS
+seen: 1
+answer: Z)  Some Alpha Particles Left Evidence of Having Returned 
+Almost Straight Back to Hit the Front Part of the Detection Screen
+
+Which of the following was the big surprise in the classic gold foil experiments of Rutherford, Geiger and Marsden:
+W) alpha particles sometimes disappeared
+X) electrons would not penetrate the nucleus
+Y) the atom was mostly space as supported by the finding that most alpha particles continued on a straight path and hit the rear of the detection screen
+Z) some alpha particles left evidence of having returned almost straight back to hit the front part of the detection screen
+
+----
+num: 10
+category: Biology
+difficulty: HS
+seen: 1
+answer: Z)  Their Numbers Are Controlled Primarily by the Cell’s 
+Nuclear Genes That C Ontrol Division
+
+Which of the following is NOT true of chloroplasts:
+W) they are relatively large organelles and can exceed 3 microns long
+X) thay have smaller ribosomes than are found in the plant cytosol
+Y) they contain thylakoid (read as: THY-la-koid) stacks
+Z) their numbers are controlled primarily by the cell’s nuclear genes that control division
+
+----
+num: 12
+category: Earth Science
+difficulty: HS
+seen: 1
+answer: W)  Northeast Trade Winds
+
+Which of the following is the global wind system that most influences weather in the West Indies and Central America:
+W) northeast trade winds
+X) prevailing westerlies
+Y) southeast trade winds
+Z) polar westerlies
+
+----
+num: 12
+category: Earth Science
+difficulty: HS
+seen: 1
+answer: X)  a-Horizon
+
+Which of the following is the soil horizon that contains a mixture of organic matter and highly altered mineral matter and is dark in color:
+W) O -horizon
+X) A-horizon
+Y) C-horizon
+Z) R-horizon
+
+----
+num: 13
+category: General Science
+difficulty: HS
+seen: 1
+answer: Z)  on a Weather Map, an Adjacent Series of Closed Half-Circles 
+Along a Line Represents a Cold Front
+
+Which of the following statements is LEAST accurate:
+W) the molecular formula for dimethyl sulfoxide is C^2H^6SO
+X) black smokers are a type of hydrothermal vent found on the ocean floor
+Y) Io is the most volcanically active body in our Solar System
+Z) on a weather map, an adjacent series of closed half-circles along a line represents a cold front
+
+----
+num: 13
+category: General Science
+difficulty: HS
+seen: 1
+answer: X)  River Discharge Is Decreasing
+
+Which of the following is NOT generally true regarding the hydrologic cycle world-wide:
+W) glaciers are shrinking
+X) river discharge is decreasing
+Y) precipitation at high altitudes is increasing
+Z) the thickness of sea ice over the Arctic Ocean is decreasing
+
+----
+num: 15
+category: Chemistry
+difficulty: HS
+seen: 1
+answer: W)  Delta H Products Minus  Delta H Reactants
+
+In order to find the heat of reaction, or delta H naught, for a reaction using standard enthalpies of formation, the working formula is:
+W) delta H products minus delta H reactants
+X) delta H reactants minus delta H products
+Y) delta H reactants plus delta H products
+Z) delta H products plus delta H reactants
+
+----
+num: 16
+category: Physics
+difficulty: HS
+seen: 1
+answer: Y)  It Is Typically Easier to Fission U-238 Than U-235 With Slow 
+Neutrons
+
+Which of the following is NOT true:
+W) the hydrogen nucleus has a lower binding energy per nucleon than the helium nucleus
+X) the tritium nucleus contains 3 nucleons
+Y) it is typically easier to fission U-238 than U-235 with slow neutrons
+Z) fission fragments of a nucleus are more often about 60% and 40% of the original mass of the atom than 50% and 50%
+
+----
+num: 17
+category: Biology
+difficulty: HS
+seen: 1
+answer: X)  the Embryo Will Remain Female
+
+If the human SRY gene is inactivated in the first week of gestation, which of the following will occur:
+W) the embryo will die
+X) the embryo will remain female 
+Y) the embryo will continue as a male
+Z) the embryo will remain in a quiescent state
+
+----
+num: 17
+category: Biology
+difficulty: HS
+seen: 1
+answer: Y)  Ribozyme
+
+Which of the following functions primarily by cutting RNA strands at specific sites:
+W) micro RNA
+X) episome
+Y) ribozyme
+Z) ligase
+
+----
+num: 19
+category: Earth Science
+difficulty: HS
+seen: 1
+answer: Z)  Bergshrund
+
+Which of the following is a glacial feature that is NOT caused by the deposition of sediments:
+W) kame
+X) kettle
+Y) drumlin
+Z) bergshrund
+
+----
+num: 19
+category: Earth Science
+difficulty: HS
+seen: 1
+answer: W)  Oxygen
+
+Analysis of which of the following isotopes is most commonly used because it gives the BEST indication of historical temperatures at different latitudes worldwide:
+W) oxygen
+X) carbon
+Y) nitrogen
+Z) potassium
+
+----
+num: 20
+category: General Science
+difficulty: HS
+seen: 1
+answer: Y)  Binds to a Bacterial Cell Wall Precursor to Form Damaging 
+Pores in the Plasma Membrane
+
+Nisin is an antibiotic currently being studied because it has not yet induced widespread biological resistance. Which of the following is its mode of action:
+W) directly inhibits the electron transport system in bacteria
+X) inhibits in vivo endotoxin formation
+Y) binds to a bacterial cell wall precursor to form damaging pores in the plasma membrane
+Z) binds to 30-S ribosomal subunit

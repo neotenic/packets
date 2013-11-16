@@ -1,0 +1,366 @@
+####
+tournament: #6398
+round: Show #6398 - Wednesday, June 13, 2012
+year: 2012
+date: 2012-06-13
+####
+
+num: 1
+category: Science
+difficulty: 200
+seen: 8
+answer: a thermometer
+
+To measure temperature, you can put one of these under your arm or under your tongue.
+
+----
+num: 2
+category: Literature
+difficulty: 200
+seen: 4
+answer: Rex
+
+In the "Toy Story" franchise, the Tyrannosaurus has this name.
+
+----
+num: 3
+category: Literature
+difficulty: 200
+seen: 4
+answer: a monk
+
+"Bartlett's" has the Albanian proverb "it takes more than a hood and sad eyes to make" one of these religious men.
+
+----
+num: 4
+category: Trash
+difficulty: 200
+seen: 6
+answer: the Playboy bunny
+
+This silhouetted, bow tie-wearing magazine logo was designed by Art Paul in 1953.
+
+----
+num: 5
+category: History
+difficulty: 200
+seen: 6
+answer: wedlock
+
+You hear the term "born out of" this synonym for matrimony more than "born in" it.
+
+----
+num: 6
+category: Science
+difficulty: 400
+seen: 5
+answer: the lungs
+
+A spirometer isn't a drawing toy; it measures the capacity of these body organs that expand & contract.
+
+----
+num: 7
+category: Literature
+difficulty: 400
+seen: 3
+answer: Howard Johnson
+
+Many residents of Rock Ridge in "Blazing Saddles" have the surname Johnson, & this character owns an ice cream shop.
+
+----
+num: 8
+category: Literature
+difficulty: 400
+seen: 4
+answer: (William) Gilbert
+
+Kidnapped & ransomed for 25 pounds as a child, he used the story in "The Pirates of Penzance".
+
+----
+num: 9
+category: Trash
+difficulty: 400
+seen: 6
+answer: Turtle Wax
+
+This car-care product's logo depicts a certain green reptile & the slogan "Hard Shell Finish".
+
+----
+num: 10
+category: History
+difficulty: 400
+seen: 4
+answer: Wednesday
+
+In Old Norse it was "Odinsdagr".
+
+----
+num: 11
+category: Science
+difficulty: 600
+seen: 5
+answer: the diameter
+
+It's the line that divides a circle into 2 equal parts.
+
+----
+num: 12
+category: Literature
+difficulty: 600
+seen: 4
+answer: a Jeep
+
+In the movie "Cars", the patriotic Sarge is a type of this vehicle.
+
+----
+num: 13
+category: Literature
+difficulty: 600
+seen: 4
+answer: shorthand
+
+In 63 B.C. Tiro invented a system of this to record Cicero's speeches.
+
+----
+num: 14
+category: Trash
+difficulty: 600
+seen: 5
+answer: Bacardi
+
+This brand of rum uses a bat as one of its trademarked symbols.
+
+----
+num: 15
+category: History
+difficulty: 600
+seen: 4
+answer: Wedgwood
+
+Classic British pottery first made in 1759.
+
+----
+num: 16
+category: Science
+difficulty: 800
+seen: 5
+answer: a metronome
+
+Musicians know a rhythmometer is another name for this device.
+
+----
+num: 17
+category: Literature
+difficulty: 800
+seen: 4
+answer: Lake Placid
+
+In upstate N.Y., this site of the 1899 Conference of Home Economists later set up housekeeping for Olympic athletes.
+
+----
+num: 18
+category: Trash
+difficulty: 800
+fixed: -1
+seen: 5
+answer: Firefox
+
+A canine with a flaming tail has the earth in its paws in the logo of this web browser.
+
+----
+num: 19
+category: History
+difficulty: 800
+seen: 4
+answer: wedge issues (a wedge accepted)
+
+They are political topics that potentially could split apart a unified movement.
+
+----
+num: 20
+category: Science
+difficulty: 1000
+seen: 7
+answer: a pedometer
+
+From the Latin for "foot measure", it's a device that measures how far you've walked.
+
+----
+num: 21
+category: Literature
+difficulty: 1000
+seen: 4
+answer: the Brooklyn Bridge
+
+In "Hellboy II" the troll market can be found underneath this alliterative NYC structure.
+
+----
+num: 22
+category: Literature
+difficulty: 1000
+seen: 4
+answer: the 
+
+In 1872 this American brig with a feminine name was found at sea--just the ship; the crew was missing.
+
+----
+num: 23
+category: Trash
+difficulty: 1000
+seen: 5
+answer: Snapfish
+
+The logo of this online photo service by HP is seen.
+
+----
+num: 24
+category: History
+difficulty: 1000
+seen: 4
+answer: the Weddell Sea
+
+The Transantarctic Mountains stretch 2,000 miles from Victoria Land to this sea.
+
+----
+num: 25
+category: History
+difficulty: 400
+seen: 4
+answer: a cross
+
+In the 13th century, the Pope made the Teutonic Knights' uniform a white tunic with a black one of these symbols on it.
+
+----
+num: 26
+category: History
+difficulty: 400
+seen: 5
+answer: to bob
+
+To rise above & sink below the surface of water.
+
+----
+num: 27
+category: Art
+difficulty: 400
+seen: 3
+answer: Billy the Kid
+
+The same ballerina plays both the mother & Mexican sweetheart of this young outlaw in the 1938 ballet named for him.
+
+----
+num: 28
+category: Literature
+difficulty: 400
+seen: 4
+answer: a quesadilla
+
+To make this, take a flour tortilla, fold it in half over a cheese filling & cook lightly in an ungreased skillet.
+
+----
+num: 29
+category: History
+difficulty: 800
+seen: 3
+answer: sue
+
+To institute legal proceedings against someone.
+
+----
+num: 30
+category: Art
+difficulty: 800
+seen: 4
+answer: ("Jelly Roll") Morton
+
+The 1971 ballet "Eight Jelly Rolls" was choreographed to the music of this jazz pianist & composer.
+
+----
+num: 31
+category: Literature
+difficulty: 800
+seen: 4
+answer: quiche Lorraine
+
+This egg & cheese pie with a geographic name contains chopped bacon.
+
+----
+num: 32
+category: History
+difficulty: 1200
+seen: 5
+answer: "kill them all"
+
+During a Crusade, a papal legate was asked how to I.D. heretics & replied, do this 3-word phrase; "God will know his own".
+
+----
+num: 33
+category: History
+difficulty: 1200
+seen: 4
+answer: mark
+
+To designate a trail so that it's clearly defined.
+
+----
+num: 34
+category: Literature
+difficulty: 1200
+seen: 4
+answer: a quince
+
+This fruit has an aroma similar to an under-ripe pear.
+
+----
+num: 35
+category: History
+difficulty: 1600
+seen: 5
+answer: jimmy
+
+To pry open a lock.
+
+----
+num: 36
+category: Literature
+difficulty: 1600
+seen: 5
+answer: quahogs
+
+Some of the finest of these hard-shell clams come from the waters around Rhode Island.
+
+----
+num: 37
+category: Literature
+difficulty: 2000
+seen: 5
+answer: Elizabeth Taylor
+
+sits in the lap.
+
+----
+num: 38
+category: History
+difficulty: 2000
+seen: 7
+answer: Barbarossa
+
+In 1190 Holy Roman Emperor Frederick I, known as this for his red beard, went crusading but drowned in a Turkish river.
+
+----
+num: 39
+category: History
+difficulty: 2000
+seen: 5
+answer: grant
+
+To allot a special privilege.
+
+----
+num: 40
+category: Literature
+difficulty: 2000
+seen: 6
+answer: the quill
+
+Also known as a stick, it's the curled up cylinder of inner bark of cinnamon.

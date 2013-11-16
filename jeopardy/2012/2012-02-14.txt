@@ -1,0 +1,457 @@
+####
+tournament: #6312
+round: Show #6312 - Tuesday, February 14, 2012
+year: 2012
+date: 2012-02-14
+####
+
+num: 1
+category: History
+difficulty: 200
+seen: 5
+answer: Andrew Johnson
+
+He was inaugurated as vice president on March 4 & as president just 42 days later.
+
+----
+num: 2
+category: History
+difficulty: 200
+seen: 4
+answer: Mexico
+
+Actress Salma Hayek.
+
+----
+num: 3
+category: Science
+difficulty: 200
+seen: 8
+answer: a mile
+
+For boys to win the top Presidential Physical Fitness award, they have to run this distance in 6:06.
+
+----
+num: 4
+category: Literature
+difficulty: 200
+seen: 4
+answer: a virus
+
+Neal Stephenson's "Reamde" is a file-encrypting one of these, released by ransom-seeking hackers.
+
+----
+num: 5
+category: Literature
+difficulty: 200
+seen: 5
+answer: bananas
+
+Gassers of these tropical fruits of the genus Musa spray ethylene gas on them to ripen them so that they're yellow.
+
+----
+num: 6
+category: History
+difficulty: 400
+seen: 4
+answer: Spain
+
+Actor Antonio Banderas.
+
+----
+num: 7
+category: Literature
+difficulty: 400
+seen: 4
+answer: Wodan
+
+Neil Gaiman's "American Gods", about ancient gods in modern day, finds this god using the name Mr. Wednesday.
+
+----
+num: 8
+category: Art
+difficulty: 400
+seen: 3
+answer: a headache
+
+It calls for a painkiller:.
+
+----
+num: 9
+category: Literature
+difficulty: 400
+seen: 4
+answer: skywriting
+
+Spelling is key with this high-altitude message making that uses special oil vaporized into dense white smoke.
+
+----
+num: 10
+category: History
+difficulty: 600
+seen: 4
+answer: Brazil
+
+Soccer star Ronaldinho.
+
+----
+num: 11
+category: Science
+difficulty: 600
+seen: 7
+answer: a stationary bike
+
+The Schwinn A.C. performance is this type of gym equipment.
+
+----
+num: 12
+category: Art
+difficulty: 600
+seen: 4
+answer: foggy
+
+A weather adjective:.
+
+----
+num: 13
+category: Literature
+difficulty: 600
+seen: 4
+answer: IMAX screens
+
+Someone's got to clean dust & Gummi Bears off these huge movie screens that have been around since 1970.
+
+----
+num: 14
+category: History
+difficulty: 800
+seen: 3
+answer: Turin
+
+History can't "shroud" the fact that this city ceased serving as the capital of the kingdom of Italy in 1865.
+
+----
+num: 15
+category: History
+difficulty: 800
+seen: 4
+answer: Israel
+
+Model Bar Refaeli.
+
+----
+num: 16
+category: Science
+difficulty: 800
+fixed: -1
+seen: 5
+answer: push-ups, pull-ups & sit-ups
+
+The West Point candidate fitness assessment is a basketball throw, 2 runs & these 3 exercises with "up" in their names.
+
+----
+num: 17
+category: Literature
+difficulty: 800
+seen: 4
+answer: Aspirin
+
+Medicinal-sounding last name of Robert Lynn, whose fantasy works include "Thieves' World" & "Myth Adventures".
+
+----
+num: 18
+category: Art
+difficulty: 800
+seen: 5
+answer: sleeping bag
+
+A camper's necessity:.
+
+----
+num: 19
+category: Literature
+difficulty: 800
+seen: 4
+answer: rodeo clowns
+
+Besides entertaining the crowds, these performers serve a vital purpose, protecting a bull rider from the bull.
+
+----
+num: 20
+category: History
+difficulty: 1000
+seen: 4
+answer: the Matterhorn
+
+This Alp was conquered: first from the Swiss side & 3 days later from the tougher Italian side.
+
+----
+num: 21
+category: Science
+difficulty: 1000
+seen: 6
+answer: body mass index
+
+Calculated by dividing weight by height squared, it's abbreviated BMI.
+
+----
+num: 22
+category: Literature
+difficulty: 1000
+seen: 4
+answer: Thomas Covenant
+
+Lord Foul is a really bad, bad guy in Stephen R. Donaldson's "Chronicles of" this unbelieving man.
+
+----
+num: 23
+category: Art
+difficulty: 1000
+seen: 4
+answer: lobster
+
+How about some seafood:.
+
+----
+num: 24
+category: Literature
+difficulty: 1000
+seen: 4
+answer: dice
+
+Inspectors of these make sure they're the correct size & that all 21 pips are in the right place on the faces.
+
+----
+num: 25
+category: Geography
+difficulty: 400
+seen: 8
+answer: Antarctica
+
+Alexander Island, one of this continent's largest, is connected to it by the George VI ice shelf.
+
+----
+num: 26
+category: Trash
+difficulty: 400
+seen: 5
+answer: Ashton Kutcher
+
+"Nice to Meet You, Walden Schmidt" was the "Two and a Half Men" episode that introduced him as Walden.
+
+----
+num: 27
+category: Religion
+difficulty: 400
+seen: 10
+answer: Genesis
+
+"Noah found grace in the eyes of the Lord" & there was much begat-ing.
+
+----
+num: 28
+category: History
+difficulty: 400
+seen: 4
+answer: the Watergate scandal
+
+This scandal named for a hotel-office-apartment complex in Washington led to President Nixon's resignation.
+
+----
+num: 29
+category: Literature
+difficulty: 400
+seen: 3
+answer: straight
+
+Lao-tzu wrote, "To yield is to be preserved whole, to be bent is to become" this.
+
+----
+num: 30
+category: Geography
+difficulty: 800
+seen: 8
+answer: Denmark
+
+Ownership of Hans Island between Greenland & Ellesmere Island is disputed between Canada & this nation.
+
+----
+num: 31
+category: Trash
+difficulty: 800
+seen: 6
+answer: Kitties
+
+Garfield the cat was animated in a film punningly subtitled "A Tail of Two" these.
+
+----
+num: 32
+category: Religion
+difficulty: 800
+seen: 9
+answer: Job
+
+The Lord gave a guy the business in a big way; his days "are spent without hope".
+
+----
+num: 33
+category: History
+difficulty: 800
+seen: 4
+answer: Gabrielle Giffords
+
+In August 2011 this Arizona congresswoman returned to the House floor to cast her first vote since being shot.
+
+----
+num: 34
+category: Art
+difficulty: 800
+seen: 4
+answer: four
+
+A symphony generally has this many movements, with the first played moderately fast.
+
+----
+num: 35
+category: Literature
+difficulty: 800
+seen: 4
+answer: drought
+
+This period of abnormally low rainfall can last for months or even years.
+
+----
+num: 36
+category: Geography
+difficulty: 1200
+seen: 8
+answer: the Turks & Caicos Islands
+
+Cockburn Town on Grand Turk has been the seat of government in this British Caribbean island group since 1766.
+
+----
+num: 37
+category: Trash
+difficulty: 1200
+seen: 5
+answer: 90210
+
+On the original series with this number in the title, the family moved from Minnesota; on the reboot, from Kansas.
+
+----
+num: 38
+category: Religion
+difficulty: 1200
+fixed: -1
+seen: 10
+answer: Revelation
+
+Seals, then trumpets, then "Babylon the great is fallen".
+
+----
+num: 39
+category: History
+difficulty: 1200
+seen: 4
+answer: the Equal Rights Amendment
+
+In 1982 this amendment proposing that men & women be treated the same missed ratification by 3 states.
+
+----
+num: 40
+category: Art
+difficulty: 1200
+seen: 5
+answer: Chopin
+
+In 1825 Russia's Alexander I came to Warsaw to hear this 15-year-old piano prodigy play & then awarded him a diamond ring.
+
+----
+num: 41
+category: Literature
+difficulty: 1200
+seen: 4
+answer: an onslaught
+
+From the Dutch "aanslag", it's a violent attack or an overwhelming outpouring.
+
+----
+num: 42
+category: Geography
+difficulty: 1600
+seen: 8
+answer: the Kingdom of Tonga
+
+This South Pacific kingdom made news in 1999 when it appointed a court jester who then cheated the govt. out of $26 million.
+
+----
+num: 43
+category: Religion
+difficulty: 1600
+seen: 10
+answer: Jonah
+
+A rough fishing trip, then "Nineveh shall be overthrown".
+
+----
+num: 44
+category: Literature
+difficulty: 1600
+seen: 4
+answer: wrought iron
+
+Outdoor furniture made from this low-carbon form of iron dates back to ancient Rome.
+
+----
+num: 45
+category: Geography
+difficulty: 2000
+seen: 13
+answer: the Northern Mariana Islands
+
+In 1986 this "Northern" Pacific island group that includes Saipan became a commonwealth of the United States.
+
+----
+num: 46
+category: Trash
+difficulty: 2000
+seen: 9
+answer: Two-Face
+
+Tommy Lee Jones & Aaron Eckhart played this duplicitous character in Batman movies.
+
+----
+num: 47
+category: Religion
+difficulty: 2000
+seen: 13
+answer: Deuteronomy
+
+"So Moses... died there in the land of Moab", then Joshua took over.
+
+----
+num: 48
+category: History
+difficulty: 2000
+seen: 6
+answer: the spoils system
+
+Andrew Jackson has been called the father of this system of awarding public offices to friends & supporters.
+
+----
+num: 49
+category: Art
+difficulty: 2000
+seen: 6
+answer: resurrection
+
+This popular title of Mahler's Symphony No. 2 might raise the dead.
+
+----
+num: 50
+category: Literature
+difficulty: 2000
+seen: 5
+answer: blight
+
+A deteriorated or ill-conceived city area is an example of urban.

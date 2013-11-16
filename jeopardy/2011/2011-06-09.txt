@@ -1,0 +1,374 @@
+####
+tournament: #6169
+round: Show #6169 - Thursday, June 9, 2011
+year: 2011
+date: 2011-06-09
+####
+
+num: 1
+category: Literature
+difficulty: 200
+seen: 4
+answer: Tolkien
+
+"He wanted it because it was a ring of power, and if you slipped that ring on your finger, you were invisible".
+
+----
+num: 2
+category: Trash
+difficulty: 200
+seen: 5
+answer: California
+
+The Mamas & the Papas:.
+
+----
+num: 3
+category: Social
+difficulty: 200
+seen: 6
+answer: Arabic
+
+It's the official language of Qatar.
+
+----
+num: 4
+category: Geography
+difficulty: 200
+seen: 8
+answer: the Yangtze
+
+The Xiang River flows hundreds of miles through Hunan Province before joining this even mightier Chinese river.
+
+----
+num: 5
+category: Trash
+difficulty: 200
+seen: 6
+answer: wallbanger
+
+Vodka, orange juice & Galliano go into the cocktail called Harvey this.
+
+----
+num: 6
+category: History
+difficulty: 200
+seen: 5
+answer: Abbey Road
+
+The Beatles often recorded at a studio on this street, immortalizing its crossing on an album cover.
+
+----
+num: 7
+category: Literature
+difficulty: 400
+seen: 4
+answer: Dr. Seuss
+
+"'My goodness! My gracious!' they shouted.  'My word!  It's something brand new!  It's an elephant-bird'".
+
+----
+num: 8
+category: Social
+difficulty: 400
+seen: 5
+answer: Switzerland
+
+Romansch, a dialect of the Central Alps, is the fourth national language of this country.
+
+----
+num: 9
+category: Geography
+difficulty: 400
+seen: 7
+answer: Antarctica
+
+At around 20 miles long, the Onyx River is this continent's longest.
+
+----
+num: 10
+category: Trash
+difficulty: 400
+seen: 5
+answer: a wallaby
+
+The quokka is another name for the short-tailed scrub species of this marsupial.
+
+----
+num: 11
+category: History
+difficulty: 400
+seen: 3
+answer: Bourbon Street
+
+This street in New Orleans' French Quarter is named for a royal house, not for whiskey.
+
+----
+num: 12
+category: Literature
+difficulty: 600
+seen: 3
+answer: Washington Irving
+
+"It is said by some to be the ghost of a Hessian trooper, whose head had been carried away by a cannon ball".
+
+----
+num: 13
+category: Social
+difficulty: 600
+seen: 4
+answer: Mandarin
+
+This dialect forms the basis of modern standard Chinese, usually called Putonghua, "common language".
+
+----
+num: 14
+category: Geography
+difficulty: 600
+seen: 8
+answer: Sweden
+
+Wear a jacket if you're going to the Kalix River in this country's Norrland region; it's even colder than Svealand.
+
+----
+num: 15
+category: Trash
+difficulty: 600
+seen: 5
+answer: Walla Walla
+
+A type of sweet onion is named for this Washington city.
+
+----
+num: 16
+category: History
+difficulty: 600
+seen: 4
+answer: Pennsylvania Avenue
+
+This avenue, the traditional route of the presidential inaugural parade, runs over the Anacostia River.
+
+----
+num: 17
+category: Literature
+difficulty: 800
+seen: 3
+answer: (Truman) Capote
+
+"On a glance it resembled most primitive carving; and then it didn't, for here was the spit-image of Holly Golightly".
+
+----
+num: 18
+category: Social
+difficulty: 800
+seen: 4
+answer: the Philippines
+
+Tagalog is the basis for one of the official languages of this country.
+
+----
+num: 19
+category: Geography
+difficulty: 800
+seen: 7
+answer: Spain
+
+The Xucar originates north of Cuenca in this country before flowing into the Gulf of Valencia.
+
+----
+num: 20
+category: Trash
+difficulty: 800
+seen: 5
+answer: the wallflower
+
+Don't be shy; name this plant seen.
+
+----
+num: 21
+category: History
+difficulty: 800
+seen: 4
+answer: Beale Street
+
+This Memphis street, a birthplace of the blues, is home to a museum devoted to W.C. Handy, Father of the Blues.
+
+----
+num: 22
+category: Literature
+difficulty: 1000
+seen: 4
+answer: (Alfred Lord) Tennyson
+
+"Reel'd from the sabre-stroke shatter'd and sunder'd. Then they rode back, but not, not the six hundred".
+
+----
+num: 23
+category: Geography
+difficulty: 1000
+seen: 8
+answer: Devon
+
+Bring a rod!  There's great salmon fishing on the River Exe in this English county famous for its clotted cream.
+
+----
+num: 24
+category: Trash
+difficulty: 1000
+seen: 5
+answer: the walleye
+
+This type of game fish is named for an ocular feature.
+
+----
+num: 25
+category: History
+difficulty: 1000
+seen: 3
+answer: the Champs-Elysées
+
+Since 1975 the Tour de France has ended with an 8-lap circuit of this broad avenue.
+
+----
+num: 26
+category: Art
+difficulty: 400
+seen: 4
+answer: a tuba
+
+The sousaphone, developed from a suggestion by Sousa, is a 3-valved type of this brass instrument.
+
+----
+num: 27
+category: Literature
+difficulty: 400
+seen: 4
+answer: Chihuahua
+
+Ay, this tiny dog is named for Mexico's largest state in area.
+
+----
+num: 28
+category: Literature
+difficulty: 400
+seen: 4
+answer: Hemingway
+
+It was partly at the suggestion of fellow writer John Dos Passos that he moved to Key West, Florida in 1928.
+
+----
+num: 29
+category: Literature
+difficulty: 400
+seen: 5
+answer: Sears
+
+Encyclopedia Britannica has been U.S.-owned since 1901; in the '20s & '30s, this U.S. mail-order company owned it.
+
+----
+num: 30
+category: Literature
+difficulty: 800
+seen: 3
+answer: a zebra longwing
+
+With its stripes resembling another animal, the butterfly seen.
+
+----
+num: 31
+category: Literature
+difficulty: 800
+seen: 4
+answer: Ernest Gallo
+
+With his brother Julio, he created one of the world's largest winemaking empires.
+
+----
+num: 32
+category: Literature
+difficulty: 800
+seen: 4
+answer: the (general) index
+
+This now-standard back-of-the-book feature first appeared in the 7th edition of 1830-1842.
+
+----
+num: 33
+category: Art
+difficulty: 1200
+seen: 4
+answer: "The Liberty Bell"
+
+This 1893 march named for a national symbol served as the theme for "Monty Python's Flying Circus".
+
+----
+num: 34
+category: Literature
+difficulty: 1200
+seen: 3
+answer: a midwife
+
+Like a woman who assists in childbirth, a type of toad whose male carries the eggs on its hind legs is called this.
+
+----
+num: 35
+category: Literature
+difficulty: 1200
+seen: 4
+answer: South Carolina
+
+Ernest "Fritz" Hollings represented this Southern state in the Senate from 1966 to 2005.
+
+----
+num: 36
+category: Literature
+difficulty: 1600
+seen: 4
+answer: a junebug
+
+This scarab relative, often seen at night, is named for the time of year when it's most prevalent.
+
+----
+num: 37
+category: Literature
+difficulty: 1600
+seen: 4
+answer: Ernest Tubb
+
+In 1947 he headlined the first Grand Ole Opry concert at Carnegie Hall.
+
+----
+num: 38
+category: Art
+difficulty: 2000
+seen: 5
+answer: "El Capitan"
+
+In 1896 Sousa wrote an operetta set in Peru during Spanish occupation that featured.
+
+----
+num: 39
+category: Literature
+difficulty: 2000
+seen: 5
+answer: a wooly monkey
+
+This South American monkey seen.
+
+----
+num: 40
+category: Literature
+difficulty: 2000
+seen: 5
+answer: Sir Ernest Shackleton
+
+After abandoning ship during a transantarctic expedition in 1915, he & his men spent months drifting on ice floes.
+
+----
+num: 41
+category: Literature
+difficulty: 2000
+seen: 6
+answer: the Macropedia & the Micropedia
+
+The 15th edition of 1974 was the first divided into a "Propaedia" outline of knowledge & these 2 "large" & "small" sections.

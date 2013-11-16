@@ -1,0 +1,251 @@
+####
+tournament: Regional B
+round: round5.pdf
+year: 2002
+####
+
+num: 2
+category: Chemistry
+difficulty: HS
+answer: Z)  Epsom Salt
+
+If you were looking to purchase magnesium sulfate in a retail store in the U.S., which of the follo wing would you be correct in buying:
+W) alum 
+X) cream of tartar 
+Y) soda ash 
+Z) Epsom salt
+
+----
+num: 6
+category: Earth Science
+difficulty: HS
+seen: 1
+answer: W)  Planes That Contain Relatively Fewer or Weaker Chemical 
+Bonds
+
+Cleavage is caused by a mineral's crystal lattice having:
+W) planes that contain relative ly fewer or weaker chemical bonds 
+X) planes that contain relatively mo re numerous or stronger chemical bonds 
+Y) planes that contain many hydrogen bonds 
+Z) planes that contain only covalent chemical bonds
+
+----
+num: 6
+category: Earth Science
+difficulty: HS
+answer: Y)  Poorly Stratified and Poorly Sorted
+
+Which of the following best describes glacial till:
+W) well sorted and stratified 
+X) well sorted and poorly stratified 
+Y) poorly stratified and poorly sorted 
+Z) stratified and poorly sorted
+
+----
+num: 7
+category: General Science
+difficulty: HS
+answer: W)  Red
+
+What color light does water absorb the most:
+W) red 
+X) yellow 
+Y) green 
+Z) blue
+
+----
+num: 7
+category: General Science
+difficulty: HS
+answer: Y)  Weathering of Rocks
+
+The primary contributors of phosphorous to the 
+Phosphorous Cycle are:
+W) animal waste products 
+X) volcanic gasses 
+Y) weathering of rocks 
+Z) lightning
+
+----
+num: 9
+category: Biology
+difficulty: HS
+answer: Y)  Oviparous
+
+Animals that produce eggs that de velop and hatch outside of the body are called:
+W) viviparous (pronounced: viv-IP-a-rous) 
+X) ovoviviparous (pronounced: oh-voe-viv-IP-a-rous) 
+Y) oviparous (pronounced: oh-VIP-a-rous) 
+Z) parity
+
+----
+num: 10
+category: Chemistry
+difficulty: HS
+answer: Y)  Sp3
+
+A tetrahedral arrangement of electronic orb itals around an atom in a molecule generally imp lies what type of hybridization:
+W) sp 
+X) sp2 
+Y) sp3 
+Z) sp3d
+
+----
+num: 12
+category: Astronomy
+difficulty: HS
+seen: 1
+answer: X)  They Wandered in Their Paths Through the Heavens
+
+Why did ancient Greek astronom ers ascribe the term “planet” to certain celestial objects?
+W) they shined very brightly 
+X) they wandered in thei r paths through the heavens 
+Y) they were believed to be the home of the gods 
+Z) they did not twinkle
+
+----
+num: 14
+category: Earth Science
+difficulty: HS
+answer: W)  Fjord
+
+Which of the following is a long, narrow, steep-sided arm of the sea, usually formed by entrance of the sea into a deep glacial trough:
+W) fjord (pronounced: fee-ord) 
+X) moraine 
+Y) delta 
+Z) alluvial fan
+
+----
+num: 14
+category: Earth Science
+difficulty: HS
+answer: X)  Hydrogenous
+
+Ocean sediments that form from the precipitation of dissolved organic chemicals in seawater are classified as:
+W) terrigenous 
+X) hydrogenous 
+Y) biogenous 
+Z) siliceous
+
+----
+num: 15
+category: General Science
+difficulty: HS
+answer: W)  Frugivore
+
+An animal that primarily eats fruit is called a:
+W) frugivore 
+X) herbivore 
+Y) omnivore 
+Z) detritivore
+
+----
+num: 15
+category: General Science
+difficulty: HS
+answer: Z)  Savannas
+
+Modified tropical grasslands characterized by alternating wet and dry seasons that produce areas typical of grasslands are called:
+W) tall grass prairies 
+X) short grass prairies 
+Y) chaparrals 
+Z) savannas
+
+----
+num: 16
+category: Computer Science
+difficulty: HS
+answer: Y)  Open-Source
+
+Software for which the source code is furnished and users agree NOT to limit the distri bution of improvements is called:
+W) public-domain 
+X) freeware 
+Y) open-source 
+Z) shareware
+
+----
+num: 17
+category: Biology
+difficulty: HS
+answer: W)  American Sycamore ^
+
+Which of the following trees has a distinctive variegated bark with a leopard-like pattern of light and dark greens?
+W) American Sycamore 
+X) Linden 
+Y) Manchurian Maple 
+Z) Persimmon
+
+----
+num: 18
+category: Chemistry
+difficulty: HS
+answer: Y)  Laundry Detergent
+
+Of the following liquids, which is normally basic:
+W) milk 
+X) Pepsi 
+Y) laundry detergent 
+Z) pure water
+
+----
+num: 19
+category: Physics
+difficulty: HS
+answer: Y)  Sound Wave
+
+Which of the following is NOT considered a form of transverse wave:
+W) radio wave 
+X) electromagnetic wave 
+Y) sound wave 
+Z) ocean wave
+
+----
+num: 19
+category: Physics
+difficulty: HS
+seen: 1
+answer: Z)  0.25 Km Per Hour Per Second
+(Solution: 25/100 =  0.25 Km/hr/sec)
+
+What is the average acceleration of a cyclist travel ing on a straight path from 0 to 25 kilometers per hour in a minute and 40 seconds:
+W) 2.5 km per hour 
+X) 0.25 km per hour 
+Y) 2.5 km per hour per second 
+Z) 0.25 km per hour per second
+
+----
+num: 23
+category: Biology
+difficulty: HS
+seen: 1
+answer: Y)  Chaparral Has Hot  Wet Summers and Moderate Dry Winters
+
+Which of the following biomes is NOT properly matched with its description:
+W) tundra has extreme cold and presence of permafrost 
+X) taiga has moderately wet summers and long cold winters 
+Y) chaparral has hot wet summe rs and moderate dry winters 
+Z) temperate grasslands have occasional droughts with warm summers and cool to cold winters
+
+----
+num: 24
+category: Chemistry
+difficulty: HS
+answer: X)  Ammonia
+
+The largest worldwide use for hydrogen gas is in the production of:
+W) methanol 
+X) ammonia 
+Y) water 
+Z) hydrogen fluoride
+
+----
+num: 24
+category: Chemistry
+difficulty: HS
+answer: Y)  Acetic Acid and Methanol
+
+If you wanted to prepare the este r, methyl acetate, which of the following could you start with:
+W) formic acid and ethanol 
+X) acetic acid and ethanol 
+Y) acetic acid and methanol 
+Z) formic acid and methanol

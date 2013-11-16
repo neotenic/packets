@@ -1,0 +1,455 @@
+####
+tournament: #6566
+round: Show #6566 - Monday, March 18, 2013
+year: 2013
+date: 2013-03-18
+####
+
+num: 1
+category: History
+difficulty: 200
+seen: 6
+answer: rest
+
+Pan Am flew Vietnam War servicemen to their destinations for R&R, short for this & recreation.
+
+----
+num: 2
+category: Literature
+difficulty: 200
+seen: 3
+answer: a keyboard
+
+The clavichord & the harpsichord are 2 early examples of this type of musical instrument.
+
+----
+num: 3
+category: History
+difficulty: 200
+seen: 4
+answer: an iPod
+
+Jonathan Ive, Apple's design chief, is credited with the look of this music player introduced in 2001.
+
+----
+num: 4
+category: Trash
+difficulty: 200
+seen: 5
+answer: pina coladas
+
+A '70s song asks "if you like" these fruity cocktails "and getting caught in the rain" (it's stuck in my head now too).
+
+----
+num: 5
+category: Geography
+difficulty: 200
+seen: 10
+answer: Seattle
+
+This city has 5 buildings higher than its Space Needle, the Columbia Center being the tallest.
+
+----
+num: 6
+category: Literature
+difficulty: 200
+seen: 4
+answer: "Bridge"
+
+The Judds: "Love Can Build a _____".
+
+----
+num: 7
+category: History
+difficulty: 400
+seen: 5
+answer: (Gene) Roddenberry
+
+In 1948 he quit his Pan Am pilot job & moved to L.A., where he used his aeronautical knowledge to create "Star Trek".
+
+----
+num: 8
+category: Literature
+difficulty: 400
+seen: 4
+answer: a daredevil
+
+Motorcyclist Evel Knievel is called this on his tombstone & by the Smithsonian.
+
+----
+num: 9
+category: History
+difficulty: 400
+seen: 4
+answer: the Thames
+
+Sort of the British Amelia Earhart, Amy Johnson disappeared over this river's estuary, not too far from home.
+
+----
+num: 10
+category: Trash
+difficulty: 400
+seen: 6
+answer: gin
+
+Franciscus Sylvius is credited with inventing this type of liquor while trying to improve the medicinal qualities of juniper.
+
+----
+num: 11
+category: Geography
+difficulty: 400
+seen: 7
+answer: the Chrysler Building
+
+In 1930 this art deco building at 405 Lexington Avenue in New York City became the world's first to exceed 1,000 feet.
+
+----
+num: 12
+category: Literature
+difficulty: 400
+seen: 4
+answer: "Pieces"
+
+Patsy Cline: "I Fall to _____".
+
+----
+num: 13
+category: History
+difficulty: 600
+seen: 4
+answer: climbing Mt. Everest
+
+In 1963 Pan Am flew Jim Whittaker to Calcutta on his way to becoming the first American to achieve this lofty feat.
+
+----
+num: 14
+category: Literature
+difficulty: 600
+seen: 4
+answer: a stockpile
+
+A buildup, as of munitions or weapons, amassed for future use, or to accumulate those weapons for future use.
+
+----
+num: 15
+category: History
+difficulty: 600
+seen: 4
+answer: the National Labor Relations Board
+
+Sen. Robert Wagner sponsored the act that established this, the NLRB for short.
+
+----
+num: 16
+category: Trash
+difficulty: 600
+seen: 4
+answer: a mojito
+
+For 2012 Tap Tap was recognized for Miami's best of this Cuban cocktail of rum with muddled sugar & mint.
+
+----
+num: 17
+category: Geography
+difficulty: 600
+seen: 8
+answer: an elevator
+
+The Taipei 101 has 2 of these that can travel 3,314 feet per minute.
+
+----
+num: 18
+category: Literature
+difficulty: 600
+seen: 4
+answer: "House"
+
+Miranda Lambert: "The _____ That Built Me".
+
+----
+num: 19
+category: Literature
+difficulty: 800
+seen: 4
+answer: a walkabout
+
+This word was coined in the 1800s for a pattern of movement by Aborigines; today Aussies use it for any trip.
+
+----
+num: 20
+category: History
+difficulty: 800
+seen: 4
+answer: John Daniels
+
+George Archer joined this man's company in 1903; the "Midland" comes from a linseed products company.
+
+----
+num: 21
+category: Trash
+difficulty: 800
+seen: 5
+answer: schnapps
+
+Try a fuzzy navel--orange juice & the peach flavor of this type of liqueur.
+
+----
+num: 22
+category: Geography
+difficulty: 800
+seen: 7
+answer: the Stratosphere Tower
+
+You can look over the Las Vegas Strip from the observation deck at the 869-foot level on this building.
+
+----
+num: 23
+category: Literature
+difficulty: 800
+seen: 3
+answer: "SUV"
+
+Chely Wright: "The Bumper of My _____".
+
+----
+num: 24
+category: History
+difficulty: 1000
+seen: 4
+answer: Roosevelt
+
+Before Air Force One, Pan Am took this man on the first presidential flight, to the Casablanca conference.
+
+----
+num: 25
+category: Literature
+difficulty: 1000
+seen: 4
+answer: a jellyfish
+
+In biology, Medusa refers to a stage in the life cycle of one of these invertebrates.
+
+----
+num: 26
+category: History
+difficulty: 1000
+seen: 4
+answer: tropical
+
+Parasitologist Sir Patrick Manson founded this field of medicine named for a particular climate.
+
+----
+num: 27
+category: Trash
+difficulty: 1000
+seen: 4
+answer: sambuca
+
+This clear Italian anise-flavored liqueur is usually served with 3 or 4 coffee beans floating in it.
+
+----
+num: 28
+category: Geography
+difficulty: 1000
+seen: 8
+answer: Kuala Lumpur
+
+Formerly the world's tallest skyscrapers, the.
+
+----
+num: 29
+category: Literature
+difficulty: 1000
+seen: 3
+answer: "Cowboy"
+
+The Dixie Chicks: "_____ Take Me Away".
+
+----
+num: 30
+category: Literature
+difficulty: 400
+seen: 4
+answer: (Washington) Irving
+
+On Dec. 1, 1859 he was laid to rest at Sleepy Hollow Cemetery.
+
+----
+num: 31
+category: Science
+difficulty: 400
+seen: 6
+answer: smog
+
+In 1905 Dr. H.A. des Voeux coined this word for the air pollution created by the Industrial Revolution.
+
+----
+num: 32
+category: History
+difficulty: 400
+seen: 4
+answer: (Martin) Luther
+
+The Edict of Worms was issued by the Holy Roman Emperor in 1521 to ban the writings of this man & label him a heretic.
+
+----
+num: 33
+category: History
+difficulty: 400
+seen: 4
+answer: France
+
+During WWII Algiers was for a time provisional capital of this European country.
+
+----
+num: 34
+category: Literature
+difficulty: 400
+seen: 4
+answer: knight & dei
+
+A horse-like chess piece & Latin for "of god", found after "opus".
+
+----
+num: 35
+category: Science
+difficulty: 800
+seen: 6
+answer: mire
+
+An area of soggy, muddy ground, it's sometimes paired with muck.
+
+----
+num: 36
+category: History
+difficulty: 800
+seen: 4
+answer: Buddha
+
+The Edicts of Ashoka issued in 3rd century B.C. India spread the teachings of this religious leader.
+
+----
+num: 37
+category: Literature
+difficulty: 800
+seen: 4
+answer: atom & eave
+
+Elemental component & overhanging roof edge.
+
+----
+num: 38
+category: Literature
+difficulty: 1200
+seen: 4
+answer: (Aldous) Huxley
+
+At Walt Disney's request, in 1945 this "Brave New World" author did some preliminary work on "Alice in Wonderland".
+
+----
+num: 39
+category: Science
+difficulty: 1200
+seen: 6
+answer: "smut"
+
+In 1961 sen. Robert Byrd opined that many novels "seem to be deliberately loaded with" this word for obscene material.
+
+----
+num: 40
+category: History
+difficulty: 1200
+seen: 4
+answer: Constantine (the Great)
+
+The Edict of Milan granting religious freedom in the Roman Empire was issued in 313 by Licinius & this ruler in the east.
+
+----
+num: 41
+category: History
+difficulty: 1200
+seen: 4
+answer: Mogadishu
+
+The Garesa Palace in this Somali capital was built for the representative of the sultan of Zanzibar.
+
+----
+num: 42
+category: Literature
+difficulty: 1200
+seen: 4
+answer: a cache & Carrie
+
+Hidden storage place & early Spacek role.
+
+----
+num: 43
+category: Science
+difficulty: 1600
+seen: 5
+answer: soot
+
+Chimney sweeps know this word for fine black particles resulting from incomplete combustion.
+
+----
+num: 44
+category: History
+difficulty: 1600
+seen: 5
+answer: fatwas
+
+In 2009 Muslim leaders agreed to a charter on these religious edicts, discouraging the ones that call for bloodshed.
+
+----
+num: 45
+category: History
+difficulty: 1600
+seen: 4
+answer: Eritria
+
+Once the capital of an Ethiopian province, Asmara is now the capital of this country.
+
+----
+num: 46
+category: Literature
+difficulty: 1600
+seen: 4
+answer: haul & oats
+
+A trucker's long trip & cereal grasses made into meal.
+
+----
+num: 47
+category: Literature
+difficulty: 2000
+seen: 5
+answer: (Tom) Stoppard
+
+was born in Czechoslovakia but moved to England; his play "Rock 'N' Roll" is set in both places.
+
+----
+num: 48
+category: Science
+difficulty: 2000
+seen: 8
+answer: gunk
+
+A trademarked degreasing solvent gave us this word for a thick greasy substance.
+
+----
+num: 49
+category: History
+difficulty: 2000
+seen: 6
+answer: the Edict of Nantes
+
+Louis XIV's Edict of Fontainebleau revoked this 1598 edict & ordered the destruction of Huguenot churches.
+
+----
+num: 50
+category: History
+difficulty: 2000
+seen: 5
+answer: Dakar
+
+Peanut oil refining was once a key industry in this capital of Senegal.

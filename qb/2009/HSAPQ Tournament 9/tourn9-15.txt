@@ -1,0 +1,234 @@
+####
+tournament: HSAPQ Tournament 9
+round: tourn9-15.pdf
+year: 2009
+####
+
+num: 1
+category: Science
+difficulty: HS
+fixed: -1
+seen: 485
+answer: {factorial}
+
+Wilson's theorem states that, for a prime number p, this function of the quantity p plus one is congruent to negative one modulo p, and the Stirling approximation approximates this function for large values. This function appears in the denominators of terms of the Taylor series and is generalized by the (*) gamma function. This function gives the number of ways to arrange n distinct objects. For 10 points, name this function, which for a number n is equal to the product of all of the positive integers less than or equal to n.
+
+----
+num: 2
+category: Fine Arts
+difficulty: HS
+fixed: 57
+seen: 492
+answer: The {Third} of {May}, 1808
+
+On the left of this painting, a man covers his face with his hands, and three dead bodies like in the bottom left corner. The action of this painting is illuminated in-scene by an enormous lantern. Along with its companion (*) piece, The Charge of the Mamelukes, it depicts Spanish resistance to Napoleon's forces. A line of men in black hats point their muskets at the central figure, a man in a white shirt with arms raised. For 10 points, name this painting depicting "The Execution of the Defenders of Madrid" on the namesake day, a work of Francisco de Goya.
+
+----
+num: 3
+category: Science
+difficulty: HS
+fixed: 1
+seen: 491
+answer: {cosine}
+
+The hyperbolic version of this function is e to the x plus e to the negative x, all over two, and the dot product of two vectors is equal to the product of the length of the vectors multiplied by this function of the angle between them. A generalization of the (*) Pythagorean Theorem to non-right triangles includes this function and is known as its namesake "law." Its reciprocal is the secant function. For 10 points, name this trigonometric function, often represented as the ratio of the adjacent side to the hypotenuse in a right triangle.
+
+----
+num: 4
+category: Literature
+difficulty: HS
+fixed: 1
+seen: 444
+answer: John {Keats}
+
+This poet wrote "unweave a rainbow, as it erewhile made" in a work where Lycius dies after the serpent aspect of Lamia is revealed. He wrote about a "season of mists and mellow fruitfulness" in "To Autumn," and set another poem in an "elfin grot" where a knight has a vision of (*) "pale kings and princes." Besides writing "La Belle Dame Sans Merci," this author addressed another work to an "unravished bride of quietness" and stated that "Beauty is truth, truth beauty." For 10 points, name this Romantic poet of "Ode on a Grecian Urn."
+
+----
+num: 5
+category: Philosophy
+difficulty: HS
+fixed: 57
+seen: 518
+answer: John {Dewey}
+
+This man stated that the value of freedom was the presence of the "power to be an individualized self" in The Public and Its Problems. This man was cited as the last worthwhile American philosopher by Richard Rorty, largely due to the social commitment that this man demonstrated in a work that defines the goal of (*) schooling as socialization. For 10 points, name this philosopher who exerted enormous influence on contemporary theories of education by writing the book Democracy and Education.
+
+----
+num: 6
+category: Literature
+difficulty: HS
+fixed: 57
+seen: 449
+answer: {France} [or the {French Republic}; or {Republique francaise}]
+
+One poet from this country described the color of the vowels as "A black, E white, I red, O blue, U green." A medieval poet from this country asked "where are the snows of yesteryear?" in his poem The Ballad of Dead Ladies." Another poet from this country included his poems "The Swan" and "The Litanies of Satan" in a collection divided into sections such as "Death," "Revolt," and "Spleen and Ideal," entitled The (*) Flowers of Evil. A novelist from this country wrote about Captain Nemo in Twenty Thousand Leagues Under the Sea. For 10 points, name this European country, the home to Arthur Rimbaud (ram-bo), Charles Baudelaire, and Jules Verne.
+
+----
+num: 7
+category: Geography
+difficulty: HS
+fixed: 57
+seen: 715
+answer: {Tasmania}
+
+A namesake bird of this island is the flightless "Native-hen." The northwest portion of this island features the large rain forest named the Tarkine. This island once was home to the Thylacine, now thought to be extinct. That animal, this island's eponymous (*) "Tiger," featured a pouch on both sexes. This island also features a namesake "oak," which is actually a eucalyptus tree. It is separated from a larger island by the Bass Strait. For 10 points, name this island with capital at Hobart, a state of Australia perhaps best known for its namesake "Devil."
+
+----
+num: 8
+category: History
+difficulty: HS
+fixed: 1
+seen: 419
+answer: {Crimean} War
+
+William Howard Russell served as the first war correspondent in newspaper history while covering this conflict. Camillo di Cavour sent troops to this war from the Kingdom of Sardinia to gain leverage for the Italian unification movement. This conflict saw one side form the "thin red line" at the Battle of (*) Balaklava, where the Earl of Cardigan ordered the "charge of the light brigade." For 10 points, name this war of the 1850s, in which France, Great Britain, and the Ottoman Empire fought Russia over the namesake peninsula.
+
+----
+num: 9
+category: Social Science
+difficulty: HS
+fixed: 57
+seen: 388
+answer: Little {Albert} experiment [or {Albert} B. experiment]
+
+One response to this experiment used milk and crackers over a course of two months under the direction of Mary Cover Jones. Burning newspaper was used in this experiment, during which one man wore a Santa Claus mask. Rosalie Rayner helped run this experiment, whose subject lived in the Harriet Lane Hospital. That subject of this experiment heard a (*) hammer strike a steel bar at specific times. For 10 points, name this classical conditioning experiment that taught a little boy to fear furry animals, and was run by John B. Watson.
+
+----
+num: 10
+category: Fine Arts
+difficulty: HS
+fixed: 57
+seen: 492
+answer: marches
+
+Works in this musical form include Julius Fucik's Entry of the Gladiators. Jeremiah Clarke's "trumpet voluntary" is also known as the "Prince of Denmark's" one of these. Johann Strauss senior composed one named for Radetzky. Felix Mendelssohn wrote one for the (*) wedding in A Midsummer Night's Dream . Ones by an American composer include the Washington Post and The Stars and Stripes Forever. For 10 points, name this kind of composition, which John Philip Sousa often composed for military bands.
+
+----
+num: 11
+category: History
+difficulty: HS
+fixed: 57
+seen: 421
+answer: {Dominican Republic} [or La {Republica Dominicana}; do not accept "{Dominica}"]
+
+The longest-reigning twentieth-century dictator of this country lost American support after attempting to kill Venezuelan president Rómulo Betancourt, and was ultimately assassinated in a machine-gun attack on a motorcade. Previously, that dictator of this country had massacred every inhabitant who could not (*) pronounce the Spanish word for "parsley" correctly. Rafael Trujillo was the ruler of this present-day country, which, in 1492, was where Columbus first landed in the New World. For 10 points, name this country that, in 1844, won independence from the country that it shares the island of Hispaniola with, Haiti.
+
+----
+num: 12
+category: Literature
+difficulty: HS
+fixed: 1
+seen: 451
+answer: Dylan {Thomas}
+
+One of this man's works imagines "faith in their hands shall snap in two" and states "Dead men naked they shall be no one." Another of his poems states "Time held me green and dying though I sang in my chains like the sea." In addition to (*) "Death Shall Have No Dominion" and "Fern Hill," this author imagined "words had forked no lightning," and "blind eyes" that "blaze like meteors," and states "Old age should burn and rave at close of day." For 10 points, name this poet that urged "Rage, Rage Against the Dying of the Light," in his "Do Not Go Gentle Into That Good Night."
+
+----
+num: 13
+category: Mythology
+difficulty: HS
+fixed: 1
+seen: 800
+answer: the {Muses}
+
+Pausanius claims that the original group of these figures had three members, including Aoide (ay-OH-id-ay). Three of them, Nete (NEE-tee), Mese (MAY-see), and Hypate (HIP-uh-tay), were the only three worshiped at Delphi. The footfalls of Pegasus were said to have created their fountain Hippocrene (hip-AH-cruh-nee), which was located on a mountain sacred to them, Helicon. They also spent time at Mount (*) Parnassus. Their ranks included Euterpe (YOU-ter-pay) and Clio, whose respective domains were music and history. For 10 points, name these Greek goddesses who inspired artistic creation.
+
+----
+num: 14
+category: Science
+difficulty: HS
+fixed: 57
+seen: 493
+answer: {titration} [or {titration} curve]
+
+Amino acids are least soluble at the isoelectric point, a point on the curve associated with this lab technique. Finding the end point for this lab technique requires substances like (*) phenolphthalein and litmus, which are known as indicators. The curve associated with this technique has an inflection point when the amount of a reagent added from a buret is the same as the amount of analyte in the sample; that point is the equivalence point. For 10 points, name this technique that is used to determine the unknown concentration of a known reactant.
+
+----
+num: 15
+category: Mythology
+difficulty: HS
+fixed: -1
+seen: 784
+answer: {Odin} [or {Wotan}]
+
+He fathered Vidar with the giantess Grid, and has only one eye because he traded the other for a drink from the Well of Wisdom. He has two wolves named Geri and Freki and two (*) ravens named Huginn and Muninn, and he can see the entire world from Hlidskalf (LID-skalf), his throne. He will be killed by Fenrir at Ragnarok, and owns the horse Sleipnir, the spear Gungnir, and the ring Draupnir. For 10 points, name this chief god of the Norse pantheon.
+
+----
+num: 16
+category: History
+difficulty: HS
+fixed: 1
+seen: 418
+answer: {slave} rebellions [accept equivalents; prompt on {rebellions} or equivalent answers]
+
+One of these actions planned to avoid Methodists, Quakers, and Frenchmen and was broken up by the then-governor of Virginia, James Monroe. Another of these actions may have organized nine thousand men around Charleston before its organizer was hanged. Unlike the abortive ones of (*) Gabriel Prosser and Denmark Vesey, one of these events that actually started killed sixty whites in Southampton County. For 10 points, name these events, including Nat Turner's, that targeted a "peculiar institution" in the antebellum South.
+
+----
+num: 17
+category: Literature
+difficulty: HS
+fixed: 1
+seen: 438
+answer: {Japanese} [or {Nihongo}]
+
+The iroha (ear-oh-ha) poem uses every character in this language exactly once. A thirty-six-line poetic form that developed in this language requires two verses about blossoms and three verses about the moon. That form, (*) kasen (kah-sen), is one type of this language's "linked poems," which evolved from this language's aristocratic renga (renn-guh) poetry. Another of this language's literary forms, the zuihitsu, (zwee-heet-sue) was used to write The Pillow Book by Sei Shonagon (sai show-nuh-gawn). For 10 points, name this language, which was also used in the medieval novel The Tale of Genji.
+
+----
+num: 18
+category: History
+difficulty: HS
+fixed: None
+seen: 412
+answer: Battle of Trafalgar
+
+Survivors of this battle were defeated two weeks later at the Battle of Cape Ortega, and one side here should have been commanded by Francois Etienne de Rosily. At this battle, Cuthbert Collingwood led one column in the Royal Sovereign, and Federico Gravina led the smaller of the two allied fleets here. The flagship Bucentaure was captured along with Admiral (*) Villeneuve, although the victorious commander here died onboard the HMS Victory. For 10 points, name this 1805 defeat of the Franco-Spanish fleet by the British under Horatio Nelson.
+
+----
+num: 19
+category: Literature
+difficulty: HS
+fixed: 1
+seen: 444
+answer: {Animal Farm}
+
+One character in this work tells Mollie that ribbons are badges of slavery. In another part of this novel, Moses comforts himself with the fantasy that there are seven Sundays a week in the Sugarcandy Mountain. Another character thinks that the solution to everything is "I will (*) work harder" and is sent to "retirement" at a glue factory. In this work, which features the lovable Boxer, the sheep mindlessly repeat the slogan, "Four legs good, two legs bad." For 10 points, Snowball and Napoleon represent Trotsky and Stalin, respectively, in what allegorical work by George Orwell?
+
+----
+num: 20
+category: Science
+difficulty: HS
+fixed: 57
+seen: 488
+answer: {Bernoulli's} Principle
+
+Integrating a streamline path for Euler's Equation gives this statement. The simplified form of this statement often omits the rho-p-z term. The equation of continuity and this statement help to explain the (*) Venturi Effect, and Torricelli's Law is a special case of this principle. This principle states that an increase in velocity of a fluid causes a decrease in its pressure due to the conservation of energy, and this statement helps explain lift. For 10 points, name this principle of fluid dynamics named after a Swiss mathematician.
+
+----
+num: 21
+category: History
+difficulty: HS
+fixed: 1
+seen: 418
+answer: {Attila} the Hun
+
+According to legend, this leader wielded the powerful "sword of Mars." This leader died of a terrible nosebleed the day after marrying Ildiko. He forced Theodosius to sign the Third Peace of Anatolius. This leader was convinced by (*) Pope Leo I to end his invasion of Italy. This leader lost the Battle of Chalons to the combined forces of the Romans and Visigoths. This leader took sole power in his empire after the death of his brother Bleda in 445 CE, and became known as the "scourge of God." For 10 points, name this leader of the Huns.
+
+----
+num: 22
+category: Science
+difficulty: HS
+fixed: -1
+seen: 489
+answer: {gibberellins}
+
+This class of hormones is synthesized via ent-kaurene. Lack of this diterpinoid acid can cause dwarfism in some plants. In grapevines this hormone is responsible for the development of tendrils, and it promotes femaleness in corn. It was first identified by Eiichi (*) Kurosawa, who was studying "foolish seedling" disease in rice. For 10 points, name this plant hormone that promotes plant growth, flowering, and stem elongation.
+
+----
+num: 23
+category: Literature
+difficulty: HS
+fixed: 1
+seen: 443
+answer: Horatio {Alger}
+
+This author's characteristic style was parodied in Nathanael West's novel A Cool Million. One character created by this author is taught how to read by Fosdick and is given a new suit by Frank Whitney. This author of Paul the Peddler and (*) Mark, the Match Boy wrote many books in which a greedy banker agrees to buy a poor family's only cow, as well as books about poor orphans like Richard Hunter, who rise in status by hard work and thrift. For 10 points, name this American author of Ragged Dick , as well as numerous other "rags to riches" books.

@@ -1,0 +1,446 @@
+####
+tournament: #6519
+round: Show #6519 - Thursday, January 10, 2013
+year: 2013
+date: 2013-01-10
+####
+
+num: 1
+category: Geography
+difficulty: 200
+seen: 10
+answer: plateau
+
+A flat, broad upland area; Tibet occupies the highest one in the world.
+
+----
+num: 2
+category: Art
+difficulty: 200
+seen: 5
+answer: yen
+
+Y is this currency used in Yokohama.
+
+----
+num: 3
+category: History
+difficulty: 200
+seen: 5
+answer: All-American
+
+George "the Gipper" Gipp died 2 weeks after being named to this team made up of the best from around college football.
+
+----
+num: 4
+category: Art
+difficulty: 200
+seen: 5
+answer: Earth
+
+After Google; before wind & fire.
+
+----
+num: 5
+category: Geography
+difficulty: 400
+seen: 7
+answer: volcanism
+
+A maar is a big hole caused by this type of explosive activity.
+
+----
+num: 6
+category: Art
+difficulty: 400
+seen: 4
+answer: Best Foreign Film
+
+"Z" is the title of the 1969 movie that won an Oscar in this category.
+
+----
+num: 7
+category: History
+difficulty: 400
+seen: 4
+answer: Lizzie Borden
+
+This accused ax murderess was back in the news in 2012 after her lawyer's original journals were discovered.
+
+----
+num: 8
+category: Art
+difficulty: 400
+seen: 4
+answer: Venus
+
+Before flytrap; after blonde.
+
+----
+num: 9
+category: Art
+difficulty: 600
+seen: 5
+answer: F major
+
+E is the seventh tone in this major scale.
+
+----
+num: 10
+category: History
+difficulty: 600
+seen: 4
+answer: Thanksgiving
+
+O. Henry called this fall holiday "the one day that is purely American".
+
+----
+num: 11
+category: Literature
+difficulty: 600
+seen: 4
+answer: squid
+
+Hugo's "Toilers of the Sea" inspired a fad for anything related to this 10-armed cephalopod: dishes, hats, etc.
+
+----
+num: 12
+category: Art
+difficulty: 600
+seen: 4
+answer: Mercury
+
+After Freddie; before Morris.
+
+----
+num: 13
+category: Geography
+difficulty: 800
+seen: 7
+answer: Mariana Trench
+
+1,600 miles long, it's the deepest valley on the ocean floor; James Cameron made the first solo visit to its deepest part.
+
+----
+num: 14
+category: Art
+difficulty: 800
+seen: 4
+answer: Los Angeles
+
+X is a band from this city that provided the title of its debut album.
+
+----
+num: 15
+category: History
+difficulty: 800
+seen: 4
+answer: New Jersey
+
+Sandy Hook Light, the USA's oldest standing lighthouse, still operates in this state.
+
+----
+num: 16
+category: Literature
+difficulty: 800
+seen: 4
+answer: Arc de Triomphe
+
+After Hugo's death on May 22, 1885, his body lay in state for one night under this Paris landmark.
+
+----
+num: 17
+category: Art
+difficulty: 800
+seen: 4
+answer: Mars
+
+After Veronica; before Blackmon.
+
+----
+num: 18
+category: Geography
+difficulty: 1000
+seen: 9
+answer: geode
+
+A hollow stone nodule lined by mineral crystals growing inward.
+
+----
+num: 19
+category: Art
+difficulty: 1000
+seen: 4
+answer: boron
+
+B is the symbol of this chemical element.
+
+----
+num: 20
+category: History
+difficulty: 1000
+seen: 4
+answer: Pigeon Forge
+
+A little bird told us this Tennessee city that's home to Dollywood got its name from a river & an ironworks.
+
+----
+num: 21
+category: Literature
+difficulty: 1000
+seen: 4
+answer: Académie Française
+
+In 1841, after 3 unsuccessful attempts, Hugo was finally elected to this literary group.
+
+----
+num: 22
+category: Art
+difficulty: 1000
+seen: 3
+answer: Jupiter
+
+Before missile; after jumpin'.
+
+----
+num: 23
+category: History
+difficulty: 400
+seen: 4
+answer: Paul Revere
+
+April 19, 1775: Just rode to Lexington & met Dawes; now off to Concord! (Samuel Prescott, you were tagged in this check-in).
+
+----
+num: 24
+category: History
+difficulty: 400
+seen: 4
+answer: Hawaii
+
+This state's flag flew at half-mast on the day of singer Israel Kamakawiwo'ole's 1997 funeral.
+
+----
+num: 25
+category: Literature
+difficulty: 400
+seen: 4
+answer: Hornet
+
+The finale of the Millennium trilogy: "The Girl Who Kicked the ____'s Nest".
+
+----
+num: 26
+category: Geography
+difficulty: 400
+seen: 8
+answer: Kiev
+
+This capital city on the Dnieper river lends its name to a high-calorie chicken dish.
+
+----
+num: 27
+category: Literature
+difficulty: 400
+seen: 4
+answer: Donna Summer
+
+In May music fans mourned the death of Robin Gibb & this disco queen.
+
+----
+num: 28
+category: Literature
+difficulty: 400
+seen: 3
+answer: homeward
+
+This word means "in the direction of the place where you live".
+
+----
+num: 29
+category: History
+difficulty: 800
+seen: 4
+answer: Ira Gershwin
+
+Born with the first name "Israel",.
+
+----
+num: 30
+category: Literature
+difficulty: 800
+seen: 3
+answer: Ahab
+
+Meta-fiction paying tribute to Melville: ____'s wife".
+
+----
+num: 31
+category: Geography
+difficulty: 800
+seen: 8
+answer: Lima
+
+The name of this city comes from the Quechua word rimac, & it's on the Rimac river.
+
+----
+num: 32
+category: Literature
+difficulty: 800
+seen: 4
+answer: Phyllis Diller
+
+There's a little less laughter in Hollywood since the death of.
+
+----
+num: 33
+category: Literature
+difficulty: 800
+seen: 4
+answer: coward
+
+Joseph Conrad's Lord Jim spends his life atoning for being one of these at a crucial moment.
+
+----
+num: 34
+category: History
+difficulty: 1200
+seen: 4
+answer: Pancho Villa
+
+December 1913: I'm in the Mexican state of Chihuahua, 'cause I'm governor now! Viva la revolucion!.
+
+----
+num: 35
+category: History
+difficulty: 1200
+seen: 5
+answer: Bunker Hill
+
+General Israel Putnam is said to have ordered, "Don't fire until you see the whites of their eyes" at this battle.
+
+----
+num: 36
+category: Literature
+difficulty: 1200
+seen: 4
+answer: Handmaid
+
+By Margaret Atwood: "The ____'s tale".
+
+----
+num: 37
+category: Geography
+difficulty: 1200
+seen: 8
+answer: Bern
+
+Found on the Aare river, this Swiss capital was founded according to tradition in 1191.
+
+----
+num: 38
+category: Literature
+difficulty: 1200
+seen: 4
+answer: Dick Clark
+
+Though he passed away at 82, this entertainment icon will forever be remembered as "America's oldest teenager".
+
+----
+num: 39
+category: Literature
+difficulty: 1200
+seen: 4
+answer: windward
+
+It's the opposite of leeward.
+
+----
+num: 40
+category: History
+difficulty: 1600
+seen: 5
+answer: Chiang Kai-shek
+
+1949: I'm in Taiwan, setting up a government with other nationalist Chinese leaders.
+
+----
+num: 41
+category: History
+difficulty: 1600
+seen: 4
+answer: Reuter
+
+In 1844 Israel Josaphat adopted this last name; with an added "S", it would become Europe's leading news agency.
+
+----
+num: 42
+category: Literature
+difficulty: 1600
+seen: 5
+answer: Sarah
+
+A recent bestseller set in Paris in 1942 & 2002: "____'s Key".
+
+----
+num: 43
+category: Geography
+difficulty: 1600
+seen: 8
+answer: Togo
+
+Lome is the capital & largest city of this West African country whose name is also 4 letters long.
+
+----
+num: 44
+category: Literature
+difficulty: 1600
+seen: 5
+answer: Marvin Hamlisch
+
+On his passing, Barbra Streisand said, "he was a true musical genius, but above all that, he was a beautiful human being".
+
+----
+num: 45
+category: History
+difficulty: 2000
+seen: 5
+answer: Xerxes
+
+480 B.C.: Crossing the Hellespont, supported by 700 ships; it's good to be the Persian king!.
+
+----
+num: 46
+category: History
+difficulty: 2000
+seen: 5
+answer: Hasidism
+
+Israel ben Eliezer, better known as the Ba'al Shem Tov, founded this Orthodox Jewish movement in the 18th century.
+
+----
+num: 47
+category: Literature
+difficulty: 2000
+seen: 6
+answer: Omnivore
+
+Subtitled "A Natural history of Four Meals": "The "____'s Dilemma".
+
+----
+num: 48
+category: Literature
+difficulty: 2000
+seen: 6
+answer: Davy Jones
+
+In summer 2012 The Monkees announced their first tour since the death of this bandmate in February.
+
+----
+num: 49
+category: Literature
+difficulty: 2000
+seen: 5
+answer: wine steward
+
+2-word equivalent of sommelier.

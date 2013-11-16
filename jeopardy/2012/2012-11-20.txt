@@ -1,0 +1,442 @@
+####
+tournament: #6482
+round: Show #6482 - Tuesday, November 20, 2012
+year: 2012
+date: 2012-11-20
+####
+
+num: 1
+category: Art
+difficulty: 200
+seen: 5
+answer: a television
+
+In 1950 10% of American living rooms had this device; by 1960 it was about 90%.
+
+----
+num: 2
+category: Science
+difficulty: 200
+seen: 8
+answer: the boiling point
+
+In chemistry, B.P. stands for this; water's is 212 degrees Fahrenheit.
+
+----
+num: 3
+category: Social
+difficulty: 200
+seen: 5
+answer: slalom/shalom
+
+With an "L", it's skiing in a zigzag course; with an "H", it's a Hebrew hello.
+
+----
+num: 4
+category: Literature
+difficulty: 200
+seen: 4
+answer: John le Carré
+
+His novel "The Little Drummer Girl" was inspired by his sister Charlotte Cornwell, an actress.
+
+----
+num: 5
+category: Trash
+difficulty: 200
+seen: 5
+answer: Madonna
+
+"Like A Prayer",.
+
+----
+num: 6
+category: History
+difficulty: 200
+fixed: -1
+seen: 5
+answer: the $100
+
+The postmaster of Philadelphia in 1737 is on this note.
+
+----
+num: 7
+category: Art
+difficulty: 400
+seen: 4
+answer: a parlor
+
+In the early 20th c. "living room" became more popular than this term that has a "funeral" type.
+
+----
+num: 8
+category: Science
+difficulty: 400
+seen: 6
+answer: hormone replacement
+
+Estrogen is usually involved in this "therapy", the "HR" in HRT.
+
+----
+num: 9
+category: Social
+difficulty: 400
+seen: 4
+answer: dimple/pimple
+
+With a "D", it's a cute little indentation on the cheek or chin; with a "P", it's a not-so-cute blemish.
+
+----
+num: 10
+category: Literature
+difficulty: 400
+seen: 4
+answer: (Harriet Beecher) Stowe
+
+This novelist's sister Catharine & brother Henry Ward Beecher were both writers.
+
+----
+num: 11
+category: Trash
+difficulty: 400
+seen: 5
+answer: Lady Gaga
+
+"Born This Way",.
+
+----
+num: 12
+category: History
+difficulty: 400
+fixed: -1
+seen: 4
+answer: the $5
+
+The man on this note served as a lobbyist for the Illinois Central Railroad.
+
+----
+num: 13
+category: Art
+difficulty: 600
+seen: 4
+answer: a hearth
+
+non-fiery portion of a fireplace extends in a room & may be raised.
+
+----
+num: 14
+category: Science
+difficulty: 600
+seen: 5
+answer: electron microscope
+
+Scanning & transmission are just 2 types of this instrument abbreviated E.M.
+
+----
+num: 15
+category: Social
+difficulty: 600
+seen: 5
+answer: vocation/vacation
+
+With an "O" as the second letter, it's one's profession; with an "A", it's time away for rest & relaxation.
+
+----
+num: 16
+category: Literature
+difficulty: 600
+seen: 3
+answer: the Brontë sisters
+
+Their father, clergyman Patrick Brunty, changed the spelling of the family name.
+
+----
+num: 17
+category: History
+difficulty: 600
+seen: 4
+answer: the $10
+
+In 1790 the man on this note submitted a "Report on the National Bank".
+
+----
+num: 18
+category: Art
+difficulty: 800
+seen: 4
+answer: a coffee table
+
+A type of oversized, often under-read book is named for & seen on this piece of living room furniture.
+
+----
+num: 19
+category: Science
+difficulty: 800
+seen: 6
+answer: messenger
+
+It's the "M" in mRNA, which is RNA that carries instructions from the nucleus to the ribosomes.
+
+----
+num: 20
+category: Social
+difficulty: 800
+seen: 4
+answer: quirk/quark
+
+With an "I" in the middle, it's a peculiar mannerism; with an "A", a subatomic particle.
+
+----
+num: 21
+category: Literature
+difficulty: 800
+seen: 4
+answer: (Richard) Nixon
+
+Quaker novelist Jessamyn West was a second cousin of this Quaker president.
+
+----
+num: 22
+category: Trash
+difficulty: 800
+seen: 5
+answer: The Who
+
+"Pinball Wizard",.
+
+----
+num: 23
+category: History
+difficulty: 800
+seen: 4
+answer: the $20
+
+A man who served Tennessee in both the House & the Senate is on this note.
+
+----
+num: 24
+category: Science
+difficulty: 1000
+seen: 7
+answer: magnetic field
+
+The oersted is a unit of strength to measure one of these, M.F. for short.
+
+----
+num: 25
+category: Social
+difficulty: 1000
+seen: 4
+answer: Croats/groats
+
+With a "C", they're natives of Zagreb; with a "G", it's hulled crushed grain, like buckwheat.
+
+----
+num: 26
+category: History
+difficulty: 1000
+seen: 4
+answer: the $50
+
+No. 21 in a West Point class of 39 graces this note.
+
+----
+num: 27
+category: Literature
+difficulty: 400
+seen: 4
+answer: Mozart
+
+His father Leopold called him "the miracle which God let be born in Salzburg".
+
+----
+num: 28
+category: History
+difficulty: 400
+seen: 4
+answer: the pope
+
+In the War of the Holy League, a big deal in 1512, the man in this post assembled an alliance against France.
+
+----
+num: 29
+category: Literature
+difficulty: 400
+seen: 4
+answer: ambulance
+
+This word for a specially equipped vehicle was modified from a longer French phrase meaning "walking hospital".
+
+----
+num: 30
+category: Trash
+difficulty: 400
+seen: 5
+answer: a penguin
+
+Another day of ditching for this symbol of Pittsburgh's NHL team, who once wore a scarf.
+
+----
+num: 31
+category: Trash
+difficulty: 400
+fixed: -1
+seen: 5
+answer: the San Francisco earthquake
+
+The National Film Registry has preserved documentary footage of this natural disaster from April 18, 1906.
+
+----
+num: 32
+category: Literature
+difficulty: 800
+seen: 3
+answer: Bobby Fischer
+
+At the age of 14 he checked in triumphantly at the 1958 U.S. chess championship.
+
+----
+num: 33
+category: History
+difficulty: 800
+seen: 4
+answer: the Kremlin
+
+A Russian movie is titled "1612", the year Polish occupation of this Moscow central fortress ended.
+
+----
+num: 34
+category: Literature
+difficulty: 800
+fixed: -1
+seen: 4
+answer: d\'oh
+
+Dan Castellaneta of "The Simpsons" said this interjection was in imitation of a faux curse in Laurel & Hardy.
+
+----
+num: 35
+category: Trash
+difficulty: 800
+seen: 6
+answer: Mr. Freeze
+
+Batman's chilly foe "Mr." this commits crimes to help his love Nora; we can't allow that at Jeopardy! High.
+
+----
+num: 36
+category: Literature
+difficulty: 1200
+fixed: -1
+seen: 4
+answer: Yo-Yo Ma
+
+This cellist-cellist made his Carnegie-Carnegie Hall debut in 1964 at the age of 9.
+
+----
+num: 37
+category: History
+difficulty: 1200
+seen: 4
+answer: the Hundred Years War
+
+In 1412 an uneasy truce in this long conflict was almost over.
+
+----
+num: 38
+category: Geography
+difficulty: 1200
+seen: 7
+answer: Michigan
+
+Lake Charlevoix,.
+
+----
+num: 39
+category: Trash
+difficulty: 1200
+seen: 5
+answer: Edison
+
+"Newark Athlete", an experimental film from 1891, was made at his lab in West Orange, New Jersey.
+
+----
+num: 40
+category: Literature
+difficulty: 1600
+seen: 5
+answer: (Blaise) Pascal
+
+I'll "wager" you know the name of this 17th c. French philosopher & math whiz who wrote an essay on conic sections at 16.
+
+----
+num: 41
+category: History
+difficulty: 1600
+seen: 4
+answer: the Ottoman
+
+In 1912 Serbia was fighting this empire in the First Balkan War.
+
+----
+num: 42
+category: Literature
+difficulty: 1600
+seen: 4
+answer: ombudsman
+
+Swedish gives us this word for a person appointed to investigate complaints against a government or an organization.
+
+----
+num: 43
+category: Trash
+difficulty: 1600
+seen: 6
+answer: the White Witch
+
+Part giant, part jinn, this Narnia antagonist weakens with the thaw; that's when classes get started!.
+
+----
+num: 44
+category: Literature
+difficulty: 2000
+seen: 6
+answer: John Stuart Mill
+
+By 8, this 3-named 19th c. English philosopher had read all of Herodotus' work--in the original Greek.
+
+----
+num: 45
+category: History
+difficulty: 2000
+seen: 5
+answer: Moors
+
+In 1212 victory at Las Navas de Tolosa ended Alfonso VIII's 40 years of warfare against them.
+
+----
+num: 46
+category: Literature
+difficulty: 2000
+seen: 5
+answer: umami
+
+This fifth category of taste on the tongue corresponds to savoriness & in Japanese means "deliciousness".
+
+----
+num: 47
+category: Trash
+difficulty: 2000
+seen: 8
+answer: the Watchmen
+
+Not sure I'd want Ozymandias, of this DC Comics group, to leave his Antarctic lair for my classroom.
+
+----
+num: 48
+category: Trash
+difficulty: 2000
+seen: 8
+answer: Robert Rodriguez
+
+This director made 1992's "El Mariachi" in 2 weeks for $7,000.

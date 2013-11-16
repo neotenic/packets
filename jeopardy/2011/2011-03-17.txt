@@ -1,0 +1,385 @@
+####
+tournament: #6109
+round: Show #6109 - Thursday, March 17, 2011
+year: 2011
+date: 2011-03-17
+####
+
+num: 1
+category: Art
+difficulty: 200
+seen: 4
+answer: George Washington
+
+In an 1851 work this general stands in a small boat on the Delaware, a U.S. flag nearby.
+
+----
+num: 2
+category: History
+difficulty: 200
+seen: 4
+answer: the Dalai Lama
+
+In 1959 this leader fled to Dharamsala, India in response to China's harsh rule of Tibet.
+
+----
+num: 3
+category: History
+difficulty: 200
+fixed: -1
+seen: 6
+answer: United
+
+Sorry Delta, in 2010 Continental merged with this airline to create the world's largest carrier.
+
+----
+num: 4
+category: History
+difficulty: 200
+seen: 5
+answer: pearls
+
+Bahrain's natural resources include oil, fish, natural gas & these prized mollusk products.
+
+----
+num: 5
+category: Literature
+difficulty: 200
+seen: 5
+answer: a paddle
+
+Can you canoe?  It's difficult without this short, flat bended oar.
+
+----
+num: 6
+category: History
+difficulty: 400
+seen: 4
+answer: Fidel Castro
+
+...at least temporarily; in 1955 this Cuban went into exile in Mexico but forces led by him returned in Dec. 1956.
+
+----
+num: 7
+category: History
+difficulty: 400
+seen: 4
+answer: Boeing
+
+This leading maker of commercial jets & military aircraft is also NASA's prime contractor for the Intl. Space Station.
+
+----
+num: 8
+category: Literature
+difficulty: 400
+seen: 4
+answer: odds
+
+Proverbially, when you're in disagreement with someone, you're "at" these.
+
+----
+num: 9
+category: History
+difficulty: 600
+seen: 4
+answer: Dante
+
+It was no "Divine Comedy" for this Italian author when the Guelphs banished him from Florence in 1302.
+
+----
+num: 10
+category: History
+difficulty: 600
+seen: 4
+answer: Chuck Yeager
+
+In 1953 he set another world record flying 2 1/2 times the speed of sound in a Bell X-1A rocket plane.
+
+----
+num: 11
+category: History
+difficulty: 600
+seen: 4
+answer: the vice president
+
+The arrival of this U.S. govt. official merits a 19-gun salute, 4 ruffles & flourishes & the playing of "Hail, Columbia".
+
+----
+num: 12
+category: Literature
+difficulty: 600
+seen: 4
+answer: Eddy
+
+Last name of Asa, wed to the former Mary Baker in 1877.
+
+----
+num: 13
+category: History
+difficulty: 800
+seen: 4
+answer: Trotsky
+
+In 1928 this ex-commissar of war was full of Bolshevik & was exiled to Soviet Central Asia.
+
+----
+num: 14
+category: History
+difficulty: 800
+seen: 4
+answer: Cessna
+
+Among its single-engine planes are the Skycatcher, Skyhawk & Skylane.
+
+----
+num: 15
+category: History
+difficulty: 800
+seen: 4
+answer: a solar eclipse
+
+One of these astronomical events was listed for July 11, 2010.
+
+----
+num: 16
+category: Literature
+difficulty: 800
+seen: 3
+answer: Buddha
+
+Siddhartha Gautama achieved worldwide fame under this name.
+
+----
+num: 17
+category: History
+difficulty: 1000
+seen: 5
+answer: Imelda Marcos
+
+In 1986 this Philippine woman left more than a thousand pairs of shoes behind when she fled to Hawaii.
+
+----
+num: 18
+category: History
+difficulty: 1000
+seen: 4
+answer: an Apache
+
+Sharing its name with a Native American people, this type of helicopter seen.
+
+----
+num: 19
+category: History
+difficulty: 1000
+seen: 4
+answer: Barry Goldwater
+
+An entry on Arizona says this man "was a leading conservative voice in the U.S. Senate (1953-1965, 1969- 1987)".
+
+----
+num: 20
+category: Literature
+difficulty: 1000
+seen: 4
+answer: meddle
+
+To interfere unwantedly in someone else's affairs.
+
+----
+num: 21
+category: Literature
+difficulty: 400
+seen: 4
+answer: Robert Burns
+
+His "Elegy on the Year 1788" begins, "For lords or kings I dinna mourn, e'en let them die--for that they're born".
+
+----
+num: 22
+category: Trash
+difficulty: 400
+seen: 5
+answer: Steve Martin
+
+This star of "Roxanne" is also credited with the screenplay but he generously cites Edmond Rostand as his inspiration.
+
+----
+num: 23
+category: Art
+difficulty: 400
+seen: 4
+answer: a rodeo clown
+
+Tough guy, huh?  What are you so scared of, hiding behind that?  What is it, a barrel?  Oh, you're.
+
+----
+num: 24
+category: Literature
+difficulty: 400
+seen: 4
+answer: felon
+
+One who's been convicted of a more serious type of crime.
+
+----
+num: 25
+category: Religion
+difficulty: 400
+seen: 9
+answer: Jehovah
+
+In the King James Bible, Yahweh, the personal name of God, is rendered as this.
+
+----
+num: 26
+category: Geography
+difficulty: 400
+seen: 8
+answer: the longest road in the U.S.
+
+U.S. Highway 20 from Boston to the West Coast has this distinction; it used to be No. 2.
+
+----
+num: 27
+category: Literature
+difficulty: 800
+seen: 4
+answer: Allen Ginsberg
+
+"Kaddish" by this beat poet was an elegy for his mother, Naomi, who died in 1956.
+
+----
+num: 28
+category: Literature
+difficulty: 800
+seen: 4
+answer: fetal
+
+Assume this position seen.
+
+----
+num: 29
+category: Religion
+difficulty: 800
+seen: 9
+answer: Moses
+
+In Exodus 6 Yahweh tells this man, "Say unto the children of Israel, I am the Lord".
+
+----
+num: 30
+category: Geography
+difficulty: 800
+seen: 7
+answer: Route 666
+
+U.S. 66 runs from Chicago to L.A.; this devilishly numbered route runs from Monticello, Utah to Douglas, Arizona.
+
+----
+num: 31
+category: Literature
+difficulty: 1200
+seen: 4
+answer: (John) Keats
+
+Percy Shelley wrote "Adonais" on the death of this friend & fellow poet.
+
+----
+num: 32
+category: Religion
+difficulty: 1200
+fixed: -1
+seen: 7
+answer: swine (or pigs)
+
+In Leviticus Yahweh tells the Israelites not to eat this mammal of the Suidae family--that's all, folks!.
+
+----
+num: 33
+category: Geography
+difficulty: 1200
+seen: 7
+answer: Maine
+
+2,400-mile U.S. Highway 1 runs from Fort Kent in this state all the way down to Florida.
+
+----
+num: 34
+category: Literature
+difficulty: 1600
+seen: 5
+answer: (Thomas) Gray
+
+He's buried in the very churchyard celebrated in his "Elegy Written in a Country Churchyard".
+
+----
+num: 35
+category: Art
+difficulty: 1600
+seen: 4
+answer: a harlequin
+
+Don't let your guard down on.
+
+----
+num: 36
+category: Literature
+difficulty: 1600
+seen: 4
+answer: flora & fauna
+
+The plants & animals of a given region are known by these 2 5-letter words.
+
+----
+num: 37
+category: Religion
+difficulty: 1600
+seen: 9
+answer: peace
+
+In Judges 6 Gideon builds an altar & names it Yahweh-Shalom, "the Lord is" this.
+
+----
+num: 38
+category: Geography
+difficulty: 1600
+seen: 8
+answer: Plymouth
+
+Follow the 240 miles of U.S. 44 to make the "pilgrimage" from Kerhonkson, N.Y. to this Mass. Bay city.
+
+----
+num: 39
+category: Literature
+difficulty: 2000
+seen: 6
+answer: (William Butler) Yeats
+
+He recalled friends & slain leaders of Ireland's Easter rising in his poem "Easter 1916".
+
+----
+num: 40
+category: Art
+difficulty: 2000
+seen: 6
+answer: Insane Clown Posse
+
+The followers of the musical.
+
+----
+num: 41
+category: Literature
+difficulty: 2000
+seen: 5
+answer: fjord
+
+Sogne is the name of one of these geographic features in Norway.
+
+----
+num: 42
+category: Geography
+difficulty: 2000
+seen: 13
+answer: Oregon
+
+The eastern end of U.S. 30 is in Atlantic City; the western end is in Astoria, a continent away in this state.

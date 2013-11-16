@@ -1,0 +1,164 @@
+####
+tournament: NTV
+round: r4tossups.pdf
+year: 2008
+####
+
+num: 1
+category: Literature
+difficulty: HS
+fixed: 1
+seen: 448
+answer: Wallace {Stevens}
+
+(TM) This poet wrote about a stout dog named Corazon in his poem "Poetry is a Destructive Force". He wrote "mother of heaven, regina of the clouds" in a poem that described "The Monocle of Mon On- cle", and about a certain type of equipage in his poem "Thirteen Ways of Looking at a Blackbird". This poet wrote a poem which depicts an object that was placed in Tennessee in "Anecdote of the Jar". He wrote about a woman named Susanna in "Early Sunday Morning", which appears along with "Peter Qui- ince at the Clavier" in his collection Harmonium. Identify this poet who wrote about a "roller of big ci- gars" in his poem "The Emperor of Ice Cream".
+
+----
+num: 3
+category: History
+difficulty: HS
+fixed: 57
+seen: 416
+answer: {Standard} Oil Company
+
+(AS/JG) One observer noted, "You could argue its existence from its effects, but you could not prove it." It was started with Maurice Clark and Henry Flagler, and railroad rebates were key to its expansion and success. Based on interviews with Henry Rogers, an exposé of it was published in 1904, written by Ida Tarbell. Its practices included horizontal integration, which prompted the U.S. government to pass the Sherman Antitrust Act in 1890, resulting in heavy fines. In 1911, the Supreme Court upheld a lower court ruling ordering the breakup of the company. Name this predecessor to the Exxon and Mobil oil compa- nies, founded by John D. Rockefeller.
+
+----
+num: 4
+category: Religion
+difficulty: HS
+fixed: 57
+seen: 447
+answer: Bhagavad-Gita
+
+(DT) It is eighteen chapters long and is found within the 6th book of a much larger work. This work recommends the path of devotion, or bhakti-yoga [bahk-TEE YOH-ga], for those who choose to worship a personal god, since eventually the devotee will choose to perform actions for that god. It claims that one goes to heaven for as long as one's punya [POON yah] is not used up, but that the ultimate goal is moksa [MOHK shah]. Stemming from one figure's initial decision to not fight his own relatives, the backdrop of it is a conversation between Arjuna [ahr JOO nah] and his charioteer, Krishna. Identify this text, found within the Mahabharata [mah HAH bah RAH tah].
+
+----
+num: 5
+category: History
+difficulty: HS
+fixed: 57
+seen: 415
+answer: Manuel Antonio {Noriega}
+
+(BC) This man fled to the embassy of the Vatican in his capital city and took refuge, leading to at- tempts to smoke him out using loud music. He was a key link in the Medellin Cartel cocaine smuggling and is said to have established a narcokleptocracy. His frequent harassment of American civilians and troops caused a 1989 US invasion and drug trafficking charges after his capture. He was often referred to as "pineapple face," but never in his presence due to his brutal and repressive dictatorship. Name this de facto military leader of Panama.
+
+----
+num: 6
+category: Literature
+difficulty: HS
+fixed: -1
+seen: 440
+answer: The Taming of the Shrew
+
+(JG) A pedant is convinced to pretend to be Vincentio, the father of Cambio, who is really Lucentio, in order to attest to Lucentio's viability as a husband. The sometimes-omitted "induction" features a drunken beggar, Christopher Sly, being dressed in a rich man's clothes and presented with the play. At the end of this play, the title character is compared to a rich widow, Hortensio's new wife, and her own sister. That sister, more beautiful and desirable than her elder sister, is Bianca, and her suitors are Lucentio, the old Gremio, and initially Hortensio, but she cannot be married until her older sister, the title character, is mar- ried. These two women are the daughters of a wealthy man from Padua, Baptista Minola. Name this Shakespearean comedy in which Petruchio performs the titular action on his wife Katharina.
+
+----
+num: 8
+category: Fine Arts
+difficulty: HS
+fixed: 57
+seen: 492
+answer: {coda}
+
+(DR) Like the development, this can have two movements in sonata rondo form but only one in sona- tas, if it exists at all. Beethoven often composed long ones, especially the one in the first movement of Eroica. It follows the recapitulation and may perform the same function as a literary denouement. Pop musicians sometimes use the term "outro" or "tag" instead of this classical term, whose name comes from the Latin for "tail". Identify this passage at the end of a composition typically denoted by what looks like crosshairs.
+
+----
+num: 9
+category: Literature
+difficulty: HS
+fixed: 1
+seen: 445
+answer: Guy de {Maupassant}
+
+(JP) This author's novels include Mont-Oriol and Fort comme la mort. Some of his later novels reflect the breakdown of his mental health, particularly the one which tells the story of how a young man's image of his mother is destroyed by a shocking discovery, Pierre et Jean. A pupil of Gustave Flaubert, he also wrote stories such as "Le Rendezvous", "The Umbrella", and "En Famille". His contribution of "Boule de Suif" to the 1880 volume of short stories titled Soirées de Médan earned him instant acclaim as a master of the short story. Name this French writer, whose works include Bel-Ami and a story where the protago- nist borrows from Madame Forestier the titular object that proves to be an imitation, "The Necklace".
+
+----
+num: 11
+category: Science
+difficulty: HS
+fixed: 1
+seen: 489
+answer: {perpendicular bisector} (accept word forms)
+
+(JP) With respect to a chord AB of a circle, the only chord with this property relative to AB is a spe- cific diameter. It applies to the long diagonal on a kite relative to the short diagonal but not to the short diagonal relative to the long one, since each endpoint of the long diagonal is equidistant to the endpoints of the short one. The point of concurrency of these is called the circumcenter of a triangle. Name this two- word geometrical term which can be used to describe the altitude to the base of an isosceles triangle, since the base would be divided into two congruent segments.
+
+----
+num: 12
+category: Fine Arts
+difficulty: HS
+fixed: 57
+seen: 495
+answer: The {Night Watch} or De {Nachtwacht} (accept The {Company} of {Frans Banning Cocq} and {Wil}-
+
+(JG) Two men on the right converse as one holds a sword. To their right, an elderly man holds a gun, and below them another old man beats a drum. One of the principle figures in this painting holds a goblet of wine and a dead chicken. Tragedy befell this canvas in 1715, when it was cut down to fit between two columns, and its name derives from a dark varnish that was on it until the 1940s. The central figure is sur- rounded by his lieutenant van Ruytenburch. He wears a red sash and has a red beard along with a sur- prised facial expression. Name this painting by Rembrandt depicting the battle company of Frans Cocq.
+
+----
+num: 13
+category: Trash
+difficulty: HS
+fixed: 1
+seen: 1025
+answer: Harry Lillis Bing {Crosby}
+
+(RS/DR) During his early career, he often teamed up with Al Rinker, with whom he joined The Rhythm Boys. He eventually won four Oscars for songs, winning his first for "Sweet Leilani" a year after "Pennies From Heaven" was beaten out. He also won an acting Oscar for Going My Way and made sev- eral movies with Bob Hope. Sirius XM Radio is now hosting a channel for two weeks dedicated to this man's songs, hosted by Regis Philbin. Name this performer whose biggest success, introduced in the movie Holiday Inn and written by Irving Berlin, was "White Christmas."
+
+----
+num: 14
+category: Science
+difficulty: HS
+fixed: 1
+seen: 486
+answer: {nebula} (accept {nebulas} or {nebulae})
+
+(RS) When backlit, some of these objects appear dark, and all are strong sources of infrared radiation. Originally the Andromeda galaxy was classified as one of these objects before Hubble discovered the ex- istence of galaxies other than our own. Some that are lit internally or from the side are easily observable, such as the one below Orion's belt. Some are remnants of supernovas, while others are the earliest stages of star and planetary formation. These objects do not have defined boundaries, as they are loose collec- tions of dust and gas held together by gravity. Name this type of astronomical object whose name comes from the Latin for cloud, the best well known of which are the Horsehead and Crab.
+
+----
+num: 15
+category: Literature
+difficulty: HS
+fixed: 57
+seen: 448
+answer: {Ariel}
+
+(DR) A historian with this first name teamed with her husband Will Durant to write The Story of Civi- lization. It also is the name of the poetry collection containing "Lady Lazarus" and "Daddy" by Sylvia Plath. The name is shared by the narrator of "The Rape of the Lock" and the moon designated Uranus One. In Shakespeare's The Tempest, a character by this name is a sprite who serves Prospero, and this is also the first name of the former Israeli Prime Minister who has been in a persistent vegetative state since a 2006 stroke. Give this name meaning "lion of God" that, according to Disney, is the protagonist of The Little Mermaid.
+
+----
+num: 16
+category: Science
+difficulty: HS
+fixed: 57
+seen: 483
+answer: {vulcanization}
+
+(JG) In this process, allylic hydrogens bond with accelerators, sometimes peroxides but often sulfur, and the reaction is accelerated with zinc oxide or stearic acid. This process is not generally considered re- versible, but the AMR Process is being developed in hopes of changing that, a major environmental boon. Its inventor was never able to make any profit from creating this process. Created to alleviate the prob- lems of stickiness and too-easy malformation of the material, this chemical process was created when the inventor accidentally charred some rubber on a stove and is named after the Roman god of fire. Name this chemical process, used most notably to make tires, that was invented by Charles Goodyear.
+
+----
+num: 17
+category: History
+difficulty: HS
+fixed: 57
+seen: 414
+answer: {Bush Doctrine}
+
+(JG) James Forrest of West Point wrote that this was important regardless of the risks and costs, and Robert Kaufman also defended it, stating that it would help avoid the possibility of a "world island". This two-word term probably was coined by Charles Krauthammer, who used it in January, 2001 before the most notable inciting event. At this point, the essence of this policy was a general unilateralism, but by the end of the year it had taken on more meanings. Richard Perle and Paul Wolfowitz were key to the ad- vancement and influence it has had in justifying two wars. Identify this modern political theory that Sarah Palin doesn't know anything about, which states that preemptive invasion of potentially hostile countries is appropriate.
+
+----
+num: 18
+category: Geography
+difficulty: HS
+fixed: 57
+seen: 707
+answer: {Switzerland}
+
+(RS) Its seven-member Federal Council serves as the collective head of state, with the president, cur- rently Pascal Couchepin, elected annually from within this council. Its lakes include Murten, the Northern part of Lugano, and the Southwestern part of Constance. It also is the home of Davos, the scenic host of the World Economic Forum. Its name is abbreviated CH, which stands for Confoederatio Helvetica. This country has four national languages and uses Latin to avoid favoritism of one language over another. This country was also the birthplace of fondue. Divided into 26 cantons, it is known for mercenaries, skiing, banking, and cheese. Identify this country that produces Toblerone and is neutral in all wars.
+
+----
+num: 19
+category: Science
+difficulty: HS
+fixed: 1
+seen: 485
+answer: Ede "Edward" {Teller}
+
+(JG) He worked with Stanislaw Ulam on the project he was best known for, and he and Hermann Jahn explained the distortion of non-linear molecules. He sometimes worked for peaceful uses of nuclear en- ergy, such as Project Chariot, which involved the use of five of the nuclear warheads he designed to dig an artificial harbor in Alaska. So great was his enthusiasm for nuclear power that he claimed Jane Fonda gave him a heart attack after Three Mile Island, and he took out a two-page ad in the Washington Post painting himself as the only victim of the partial meltdown. Earlier than that, his standing within the sci- entific community was badly damaged when he testified against Oppenheimer. Name this Hungarian sci- entist, the father of the hydrogen bomb.

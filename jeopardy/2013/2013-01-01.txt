@@ -1,0 +1,384 @@
+####
+tournament: #6512
+round: Show #6512 - Tuesday, January 1, 2013
+year: 2013
+date: 2013-01-01
+####
+
+num: 1
+category: Literature
+difficulty: 200
+seen: 4
+answer: a wolverine
+
+I'll adopt a rescue dog instead of last year's error, taking in this University of Michigan mascot.
+
+----
+num: 2
+category: Literature
+difficulty: 200
+seen: 4
+answer: Michelle Obama
+
+When asked to describe herself, she says first & foremost, she is Malia & Sasha's mom.
+
+----
+num: 3
+category: History
+difficulty: 200
+seen: 5
+answer: negative
+
+We are positive David Mark's book "Going Dirty" is subtitled "The Art of" this type of "Campaigning".
+
+----
+num: 4
+category: Social
+difficulty: 200
+seen: 4
+answer: F-I-B-E-R
+
+I'm not positive that Harriet is receiving enough fibre in her diet.
+
+----
+num: 5
+category: Literature
+difficulty: 400
+seen: 4
+answer: Antarctica
+
+I will journey to this continent to climb some of the Queen Maud Mountains, named for the Queen of Norway.
+
+----
+num: 6
+category: Literature
+difficulty: 400
+seen: 4
+answer: O\'Hare
+
+Bessie Coleman, the first black woman licensed as a pilot, landed a street named in her honor at this Chicago airport.
+
+----
+num: 7
+category: History
+difficulty: 400
+fixed: -1
+seen: 4
+answer: JFK
+
+The Pulitzer-winning "The Making of the President 1960" covered this man's successful presidential campaign.
+
+----
+num: 8
+category: Social
+difficulty: 400
+seen: 5
+answer: B-E-H-A-V-I-O-R
+
+That adolescent's behaviour is utterly reprehensible.
+
+----
+num: 9
+category: Literature
+difficulty: 600
+seen: 4
+answer: Stephen Hawking
+
+I want to be more scholarly: I will critique "The Large Scale Structure of Space-Time" by this physicist.
+
+----
+num: 10
+category: Geography
+difficulty: 600
+seen: 8
+answer: Central
+
+Oklahoma City, Oklahoma.
+
+----
+num: 11
+category: Literature
+difficulty: 600
+seen: 4
+answer: Rosa Parks
+
+Rita Dove titled a collection of poems "On the Bus with" this woman.
+
+----
+num: 12
+category: History
+difficulty: 600
+seen: 4
+answer: Aaron Burr
+
+In "The Deadlocked Election of 1800", James R. Sharp outlines the fall of this dueling vice president.
+
+----
+num: 13
+category: Social
+difficulty: 600
+seen: 4
+answer: L-I-C-E-N-S-E
+
+I can't conceive why you believed you had licence to dissemble in such a fashion.
+
+----
+num: 14
+category: Literature
+difficulty: 800
+seen: 3
+answer: Nutrisystem
+
+I resolve to lose 50 pounds, like Marie Osmond did using this diet program; Dan Marino lost 22.
+
+----
+num: 15
+category: History
+difficulty: 800
+seen: 4
+answer: 1944
+
+"Final Victory" by Stanley Weintraub traces FDR's tough reelection fight during this year.
+
+----
+num: 16
+category: Social
+difficulty: 800
+seen: 4
+answer: M-A-N-E-U-V-E-R
+
+Your manoeuvre showed expertise & precision far in excess of what I'd expected.
+
+----
+num: 17
+category: Literature
+difficulty: 1000
+seen: 4
+answer: Julia Child
+
+I'm gonna read 100 books, including "Dearie", a biography of this woman who mastered the art of French cooking.
+
+----
+num: 18
+category: Social
+difficulty: 1000
+seen: 5
+answer: R-E-C-O-G-N-I-Z-E
+
+You will aggravate our quarrel if you persist in failing to recognise my authority.
+
+----
+num: 19
+category: History
+difficulty: 400
+seen: 4
+answer: slavery
+
+Feb. 1, National Freedom Day, is the date in 1865 when a resolution sent the states an amendment ending this.
+
+----
+num: 20
+category: Literature
+difficulty: 400
+seen: 4
+answer: (Henry Wadsworth) Longfellow
+
+One of his "Tales of a Wayside Inn" begins, "Listen, my children, and you shall hear of the midnight ride of Paul Revere".
+
+----
+num: 21
+category: Trash
+difficulty: 400
+seen: 5
+answer: Harrison Ford
+
+"Patriot Games"; he's had other iconic roles, in space & underground.
+
+----
+num: 22
+category: History
+difficulty: 400
+seen: 4
+answer: admiral
+
+The Arabic amir, "commander", evolved into this U.S. naval rank.
+
+----
+num: 23
+category: History
+difficulty: 400
+seen: 4
+answer: pandas
+
+In 1980 China founded a center for these cute creatures in its bamboo-rich Wolong Nature Preserve.
+
+----
+num: 24
+category: History
+difficulty: 800
+seen: 3
+answer: biological
+
+Security Council Resolution 1540 enforces non-proliferation of "nuclear, chemical &" this type of weapon.
+
+----
+num: 25
+category: Literature
+difficulty: 800
+seen: 4
+answer: (William) Wordsworth
+
+In 1787 he signed his first published poem "Axiologus"; axio- is from the Greek for "worth".
+
+----
+num: 26
+category: Trash
+difficulty: 800
+seen: 4
+answer: Alec Baldwin
+
+"The Hunt for Red October"; he went more comedic as Jack Donaghy on "30 Rock".
+
+----
+num: 27
+category: History
+difficulty: 800
+seen: 3
+answer: the daughter of a czar
+
+A czarina is the wife of a czar; a czarevna is this person.
+
+----
+num: 28
+category: History
+difficulty: 800
+seen: 4
+answer: the World Wildlife Fund
+
+Early projects of the WWF, this organization, included work with the bald eagle & the red wolf.
+
+----
+num: 29
+category: Literature
+difficulty: 800
+seen: 3
+answer: waffle
+
+A breakfast item,.
+
+----
+num: 30
+category: History
+difficulty: 1200
+seen: 4
+answer: Taiwan
+
+The practice of pre-authorizing presidential use of force dates to a 1955 resolution re: this island near mainland China.
+
+----
+num: 31
+category: Literature
+difficulty: 1200
+seen: 4
+answer: the silver jubilee of Queen Elzabeth II
+
+Poet Laureate John Betjeman's hymn on this 1977 royal milestone made newspapers invite readers to submit better ones.
+
+----
+num: 32
+category: Trash
+difficulty: 1200
+seen: 5
+answer: Ben Affleck
+
+"The Sum of All Fears"; he also won a screenwriting Oscar for "Good Will Hunting".
+
+----
+num: 33
+category: History
+difficulty: 1200
+seen: 4
+answer: elephants
+
+A 1989 ivory ban followed a decade in which Africa's population of these creatures went from 1.3 million to 600,000.
+
+----
+num: 34
+category: Literature
+difficulty: 1200
+seen: 3
+answer: weasel
+
+Wiggle out of doing something, like a ferret relative.
+
+----
+num: 35
+category: History
+difficulty: 1600
+seen: 4
+answer: the Six Day War
+
+U.N. Res. 242 supports "secure and recognized boundaries" for Israel & neighbors following this June 1967 war.
+
+----
+num: 36
+category: Literature
+difficulty: 1600
+seen: 4
+answer: tan
+
+John Greenleaf Whittier wrote, "Blessings on thee, little man, barefoot boy, with cheek of" this.
+
+----
+num: 37
+category: History
+difficulty: 1600
+seen: 4
+answer: the Governor-General
+
+This person is the queen's representative in Canada; currently the office is held by David Johnston.
+
+----
+num: 38
+category: History
+difficulty: 2000
+seen: 6
+answer: the Alien and Sedition Acts
+
+The Kentucky & Virginia resolutions were passed to protest these controversial 1798 acts of Congress.
+
+----
+num: 39
+category: Literature
+difficulty: 2000
+seen: 5
+answer: Edna St. Vincent Millay
+
+She wrote, "My candle burns at both ends... but, ah, my foes, and oh, my friends--it gives a lovely light".
+
+----
+num: 40
+category: History
+difficulty: 2000
+seen: 6
+answer: mandarins
+
+The civil service of the Chinese empire had 9 grades of these officials.
+
+----
+num: 41
+category: History
+difficulty: 2000
+seen: 6
+answer: a whooping crane
+
+In 2001, scientists wore suits to look like.
+
+----
+num: 42
+category: Literature
+difficulty: 2000
+seen: 6
+answer: wunderkind
+
+German for a child prodigy.

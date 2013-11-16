@@ -1,0 +1,339 @@
+####
+tournament: #6522
+round: Show #6522 - Tuesday, January 15, 2013
+year: 2013
+date: 2013-01-15
+####
+
+num: 1
+category: History
+difficulty: 200
+seen: 4
+answer: Muhammed
+
+The Fatimids, who ruled north Africa from 909 to 1171, were named for Fatima, this prophet's daughter.
+
+----
+num: 2
+category: Geography
+difficulty: 200
+seen: 9
+answer: Luxembourg
+
+Luxembourg National Museum is located in the historic center of this city.
+
+----
+num: 3
+category: Literature
+difficulty: 200
+seen: 4
+answer: wand & dawn
+
+Start of day & magician's stick.
+
+----
+num: 4
+category: History
+difficulty: 400
+seen: 4
+answer: the Mormon Church
+
+University of Utah grad Gordon Hinckley expanded this church from 9 million to 13 million members as its president.
+
+----
+num: 5
+category: Geography
+difficulty: 400
+seen: 8
+answer: Guinea-Bissau
+
+Bissau is the capital of this African country that borders Guinea.
+
+----
+num: 6
+category: Literature
+difficulty: 400
+seen: 3
+answer: Dr. Seuss
+
+While cleaning out a drawer, his wife discovered his manuscript for "Daisy-Head Mayzie" & it was published in 1995.
+
+----
+num: 7
+category: Literature
+difficulty: 400
+seen: 3
+answer: aunt & tuna
+
+Mom's sister & a sandwich staple.
+
+----
+num: 8
+category: History
+difficulty: 600
+seen: 5
+answer: Latin
+
+St. Jerome was responsible for the Vulgate, a translation of the Bible into this language.
+
+----
+num: 9
+category: Geography
+difficulty: 600
+seen: 7
+answer: the Yellowstone River
+
+The name of this river goes back to a Native American name meaning "river of yellow stones".
+
+----
+num: 10
+category: Literature
+difficulty: 600
+seen: 4
+answer: Margaret Mitchell
+
+Her novella "Lost Laysen", written when she was a teen, is a tale of the South Pacific, not the South & the Civil War.
+
+----
+num: 11
+category: Literature
+difficulty: 600
+seen: 5
+answer: atom & moat
+
+Electron home & castle protector.
+
+----
+num: 12
+category: History
+difficulty: 800
+seen: 4
+answer: Methodism
+
+John Wesley founded this movement after the experience of preaching to the wretched coal miners of Bristol.
+
+----
+num: 13
+category: Geography
+difficulty: 800
+seen: 8
+answer: New Guinea
+
+Papua New Guinea occupies the eastern half of this island & about 600 nearby islands.
+
+----
+num: 14
+category: History
+difficulty: 1000
+seen: 4
+answer: Sun Myung Moon
+
+"As a PeaceLloving Global Citizen" is the autobiography of this Korean reverend who died in 2012.
+
+----
+num: 15
+category: Geography
+difficulty: 1000
+seen: 8
+answer: Senegambia
+
+It was a 1980s confederation of Senegal & the Gambia.
+
+----
+num: 16
+category: Literature
+difficulty: 1000
+seen: 4
+answer:  & nude
+
+Unclothed & a novel about Fremen.
+
+----
+num: 17
+category: Science
+difficulty: 400
+seen: 5
+answer: Saturn
+
+"A ring" refers to the outermost of the 3 rings of this planet that are easily seen with a small telescope.
+
+----
+num: 18
+category: Trash
+difficulty: 400
+fixed: -1
+seen: 5
+answer: Danica Patrick
+
+In 2011 she confirmed the rumors, announcing that she would be moving to NASCAR full-time.
+
+----
+num: 19
+category: Literature
+difficulty: 400
+seen: 4
+answer: the United Kingdom
+
+The 1,285-foot Woodingdean well in Brighton in this country is the world's deepest hand-dug well.
+
+----
+num: 20
+category: History
+difficulty: 400
+seen: 4
+answer: Bolívar
+
+The August 1819 Battle of Boyaca in Colombia convinced the bulk of the Spanish royalist army to surrender to him.
+
+----
+num: 21
+category: Literature
+difficulty: 400
+seen: 4
+answer: appoint
+
+To name to a position, like Supreme Court justice.
+
+----
+num: 22
+category: Trash
+difficulty: 800
+seen: 5
+answer: Mia Hamm
+
+In 1998 she became the first U.S. soccer player to score 100 international goals.
+
+----
+num: 23
+category: History
+difficulty: 800
+seen: 4
+answer: the USSR
+
+"Finlandization" entered the language to mean official neutrality under the influence of this country.
+
+----
+num: 24
+category: Literature
+difficulty: 800
+seen: 4
+answer: poison ivy
+
+We bet you're itching to name this vine with trifoliate leaves & whitish berries.
+
+----
+num: 25
+category: Geography
+difficulty: 800
+seen: 8
+answer: Ontario
+
+The Motor City--.
+
+----
+num: 26
+category: Science
+difficulty: 1200
+seen: 5
+answer: landing
+
+"EDL" refers to entry, descent & this.
+
+----
+num: 27
+category: Trash
+difficulty: 1200
+seen: 5
+answer: boxing
+
+American Claressa Shields won gold as the women's version of this sport made its Olympic debut in 2012.
+
+----
+num: 28
+category: Literature
+difficulty: 1200
+seen: 4
+answer: Beirut
+
+The name of this largest Lebanese city is derived from a Canaanite word for "wells".
+
+----
+num: 29
+category: History
+difficulty: 1200
+seen: 4
+answer: the Fascist party
+
+In Italy in the 1920s, you wore a black shirt to identify yourself as a member of this party.
+
+----
+num: 30
+category: Literature
+difficulty: 1200
+seen: 5
+answer: the spoils
+
+Proverbially, "to the victor belong" these.
+
+----
+num: 31
+category: Science
+difficulty: 1600
+seen: 6
+answer: Galileo
+
+The 4 largest satellites of Jupiter are a class named for this Italian astronomer.
+
+----
+num: 32
+category: Trash
+difficulty: 1600
+seen: 5
+answer: LPGA
+
+In 1950 Patty Berg helped found this organization & served as its first president.
+
+----
+num: 33
+category: History
+difficulty: 1600
+seen: 4
+answer: the Mongol
+
+In 1368 the Chinese told this dynasty, also called the Yuan, you Khan go now.
+
+----
+num: 34
+category: Literature
+difficulty: 1600
+seen: 5
+answer: poise
+
+Composure or dignified bearing.
+
+----
+num: 35
+category: Science
+difficulty: 2000
+seen: 8
+answer: azimuth
+
+To NASA "AZ" doesn't mean Arizona; it refers to this position along the observer's horizon.
+
+----
+num: 36
+category: Literature
+difficulty: 2000
+seen: 6
+answer: an artesian well
+
+Named for a French region, it's drilled through hard rock to reach water capable of rising to the surface by its own pressure.
+
+----
+num: 37
+category: Literature
+difficulty: 2000
+seen: 6
+answer: poignant
+
+Affecting or moving the emotions, like a heart-tugging movie scene.

@@ -1,0 +1,281 @@
+####
+tournament: Sample Questions
+round: sample_questions_r8.pdf
+####
+
+num: 1
+category: Math
+difficulty: MS
+answer: X)  4    (Soluti On:  Primes Are 2, 3, 5, 7)
+
+For numbers < 10 (read as: less than or equal to 10), and not including the num ber 1, how many are prime numbers?
+W
+X) 4 ) 3
+Y) 5 
+Z) 2
+
+----
+num: 1
+category: Math
+difficulty: MS
+answer: X)  4    (Soluti On:  Primes Are 2, 3, 5, 7)
+
+For numbers < 10 (read as: less than or equal to 10), and not including the num ber 1, how many are prime numbers?
+W
+X) 4 ) 3
+Y) 5 
+Z) 2
+
+----
+num: 2
+category: Life Science
+difficulty: MS
+answer: Y)  Photosynthesis
+
+It is generally believed that m ost of the oxygen in the air today came from:
+W) oxidation of carbon molecules containing oxygen 
+X) release of oxygen from volcanic vents 
+Y) photosynthesis 
+Z) forest fires
+
+----
+num: 2
+category: Life Science
+difficulty: MS
+answer: Y)  Photosynthesis
+
+It is generally believed that m ost of the oxygen in the air today came from:
+W) oxidation of carbon molecules containing oxygen 
+X) release of oxygen from volcanic vents 
+Y) photosynthesis 
+Z) forest fires
+
+----
+num: 3
+category: Life Science
+difficulty: MS
+answer: Y)  the Movement of Water Through a Semi-Permeable 
+Membrane
+
+Osmosis is:
+W) the movement of water through a perm eable membrane 
+X) the movement of salts through a semi-permeable membrane 
+Y) the movement of water through a sem i-permeable membrane 
+Z) the pressure exerted by water through a semi-permeable membrane
+
+----
+num: 3
+category: Life Science
+difficulty: MS
+answer: Z)  It Reduces the Population of Bacteria by Heating but Not 
+Boiling the Milk
+
+Which of the following is m ost accurate abou t thepasteur ization of milk:
+W) it makes milk taste bette r 
+X) it kills all bacteria by sterilizing the m ilk 
+Y) it lowers the milk’s pH
+Z) it reduces the population of bacter ia by heating but not boiling the m ilk
+
+----
+num: 3
+category: Life Science
+difficulty: MS
+answer: Y)  the Movement of Water Through a Semi-Permeable 
+Membrane
+
+Osmosis is:
+W) the movement of water through a perm eable membrane 
+X) the movement of salts through a semi-permeable membrane 
+Y) the movement of water through a sem i-permeable membrane 
+Z) the pressure exerted by water through a semi-permeable membrane
+
+----
+num: 3
+category: Life Science
+difficulty: MS
+answer: Z)  It Reduces the Population of Bacteria by Heating but Not 
+Boiling the Milk
+
+Which of the following is m ost accurate abou t thepasteur ization of milk:
+W) it makes milk taste bette r 
+X) it kills all bacteria by sterilizing the m ilk 
+Y) it lowers the milk’s pH
+Z) it reduces the population of bacter ia by heating but not boiling the m ilk
+
+----
+num: 5
+category: General Science
+difficulty: MS
+answer: Y)  Increases Its Loudness
+
+Doubling a musical note's amplitude:
+W) doubles its frequency 
+X) doubles its wavelength 
+Y) increases its loudness 
+Z) doubles its speed
+
+----
+num: 5
+category: General Science
+difficulty: MS
+answer: Y)  Increases Its Loudness
+
+Doubling a musical note's amplitude:
+W) doubles its frequency 
+X) doubles its wavelength 
+Y) increases its loudness 
+Z) doubles its speed
+
+----
+num: 8
+category: Math
+difficulty: MS
+answer: Z)  All Numbers Can Be Both a Rational Number and an 
+Irrational Num Ber
+
+Which of the following is NOT true:
+W) all natural num bers are whole numbers 
+X) all whole numbers are integers 
+Y) all integers are rational numbers 
+Z) all num bers can be both a rational num ber and an irrational num ber
+
+----
+num: 8
+category: Math
+difficulty: MS
+answer: Z)  All Numbers Can Be Both a Rational Number and an 
+Irrational Num Ber
+
+Which of the following is NOT true:
+W) all natural num bers are whole numbers 
+X) all whole numbers are integers 
+Y) all integers are rational numbers 
+Z) all num bers can be both a rational num ber and an irrational num ber
+
+----
+num: 10
+category: General Science
+difficulty: MS
+answer: W)  Flowers or Seed Pods 
+(Solution: The Flowers of the Cotton Plant Develo P Into Seed Pods and the Seeds Inside the Pods 
+Are Surrounded With an Abundance of Fine White  Hairs Which Are Used to Produce Long Strands or 
+Filaments of Cotton thread.)
+
+What part of the cotton plant produces what is used to make cotton fabric.
+W) flowers or seed pods 
+X) fibers in the stems 
+Y) root hairs 
+Z) f ibers in the leaves
+
+----
+num: 10
+category: General Science
+difficulty: MS
+answer: W)  Flowers or Seed Pods 
+(Solution: The Flowers of the Cotton Plant Develo P Into Seed Pods and the Seeds Inside the Pods 
+Are Surrounded With an Abundance of Fine White  Hairs Which Are Used to Produce Long Strands or 
+Filaments of Cotton thread.)
+
+What part of the cotton plant produces what is used to make cotton fabric.
+W) flowers or seed pods 
+X) fibers in the stems 
+Y) root hairs 
+Z) f ibers in the leaves
+
+----
+num: 11
+category: Physical Science
+difficulty: MS
+answer: X)  Carbon
+
+Which of the following elem ents is found in 
+Period 2 and Group 4A of the Periodic Table:
+W) sulfur 
+X) carbon 
+Y) nitrogen 
+Z) oxygen
+
+----
+num: 11
+category: Physical Science
+difficulty: MS
+answer: X)  Carbon
+
+Which of the following elem ents is found in 
+Period 2 and Group 4A of the Periodic Table:
+W) sulfur 
+X) carbon 
+Y) nitrogen 
+Z) oxygen
+
+----
+num: 15
+category: Life Science
+difficulty: MS
+answer: Z)  Lice
+
+Which of the following is an ectoparasite:
+W ) tape worm
+X) malaria 
+Y) pinworm 
+Z) lice
+
+----
+num: 15
+category: Life Science
+difficulty: MS
+answer: Z)  Lice
+
+Which of the following is an ectoparasite:
+W ) tape worm
+X) malaria 
+Y) pinworm 
+Z) lice
+
+----
+num: 17
+category: General Science
+difficulty: MS
+answer: Z) Fallopian Tube
+
+In humans, fertilization of the egg occurs most typica lly in which of the following?
+W) ovary 
+X) vagina 
+Y) uterus 
+Z) fallopian tube
+
+----
+num: 17
+category: General Science
+difficulty: MS
+answer: Z) Fallopian Tube
+
+In humans, fertilization of the egg occurs most typica lly in which of the following?
+W) ovary 
+X) vagina 
+Y) uterus 
+Z) fallopian tube
+
+----
+num: 21
+category: Math
+difficulty: MS
+answer: Y)  a Conditional Equation
+
+The equation, x = -4, is which of the following:
+W) a true statem ent 
+X) a false statement 
+Y) a conditional equation 
+Z) an equivalent equation
+
+----
+num: 21
+category: Math
+difficulty: MS
+answer: Y)  a Conditional Equation
+
+The equation, x = -4, is which of the following:
+W) a true statem ent 
+X) a false statement 
+Y) a conditional equation 
+Z) an equivalent equation

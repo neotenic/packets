@@ -1,0 +1,190 @@
+####
+tournament: Regional B
+round: round2.pdf
+year: 2002
+####
+
+num: 1
+category: Chemistry
+difficulty: HS
+seen: 1
+answer: Y)  Heat and Work
+
+The First Law of Thermodynamics equates:
+W) velocity and pressure 
+X) entropy and energy 
+Y) heat and work 
+Z) temperature and energy
+
+----
+num: 3
+category: Biology
+difficulty: HS
+seen: 1
+answer: X)  Knee
+
+What is the joint that is formed by the articulation of the tibia, fibula, and femur:
+W) wrist 
+X) knee 
+Y) elbow 
+Z) ankle
+
+----
+num: 4
+category: Astronomy
+difficulty: HS
+seen: 1
+answer: W)  Mars
+
+Olympus Mons, one of the largest volcanoes in our solar system, is located on which planet:
+W) Mars 
+X) Venus 
+Y) Titan 
+Z) Callisto
+
+----
+num: 5
+category: Math
+difficulty: HS
+seen: 1
+answer: Y)  212,526
+(Solution:  Sum of the Numbers Divisible by 9)
+
+Which of the following numbers is divisible by 9:
+W) 3191 
+X) 3527 
+Y) 212,526 
+Z) 439,327
+
+----
+num: 6
+category: Earth Science
+difficulty: HS
+seen: 1
+answer: Z)  Gravity
+
+The governing factor that controls flow within the 
+Hydrologic System is:
+W) humidity 
+X) capillary pressure 
+Y) vapor pressure 
+Z) gravity
+
+----
+num: 8
+category: Computer Science
+difficulty: HS
+seen: 1
+answer: W)  Ups
+
+Which of the following would offer the most protection against powe r-failure data loss:
+W) UPS 
+X) surge protector 
+Y) data backup 
+Z) line conditioner
+
+----
+num: 10
+category: Physics
+difficulty: HS
+seen: 1
+answer: X)  Dividing by 3
+(Solution:  F=mv^2/r;  Conservation of Energy => v Constant)
+
+How would one compute the change in centripetal force if an object moving with uniform circular motion triples its radius while maintaining the same kinetic energy:
+W) multiplying by 3 
+X) dividing by 3 
+Y) multiplying by 9 
+Z) dividing by 9
+
+----
+num: 11
+category: Biology
+difficulty: HS
+seen: 1
+answer: Y)  Proving What Bacter Ial Agents Cause What Diseases
+
+Koch’s (read as: Coke’s) Postulates have to do mainly with which of the following:
+W) culturing of viruses 
+X) causative agents of viral diseases 
+Y) proving what bacterial agents cause what diseases 
+Z) how to prove that a certai n gene causes a certain disease
+
+----
+num: 13
+category: Math
+difficulty: HS
+seen: 1
+answer: W)  1+π
+4
+
+Which of the following is a rational number:
+W) 1+ 4 
+X) 2+
+Y) 6 5
+Z)
+
+----
+num: 16
+category: Computer Science
+difficulty: HS
+seen: 1
+answer: Z)  B
+
+What is the hexadecimal equivalent of the binary number 1011 (read as: one, zero, one, one)?
+W) 7 
+X) 8 
+Y) A 
+Z) B
+
+----
+num: 19
+category: Biology
+difficulty: HS
+seen: 1
+answer: Y)  Cytoskeleton
+
+Microtubules, intermediate f ilaments, and microfilaments are integral components of what basic in frastructure of a eukaryotic cell?
+W) flagella 
+X) cillia 
+Y) cytoskeleton 
+Z) cell wall
+
+----
+num: 23
+category: Chemistry
+difficulty: HS
+seen: 1
+answer: Z)  Sodium Hydroxide
+
+Of the following, which is the strongest base:
+W) potassium hydroxide 
+X) barium hydroxide 
+Y) calcium hydroxide 
+Z) sodium hydroxide
+
+----
+num: 24
+category: Physics
+difficulty: HS
+seen: 1
+answer: Z)  Average Speed
+
+Total distance traveled divided by total elapsed time is most commonly called:
+W) velocity 
+X) acceleration 
+Y) average velocity 
+Z) average speed
+
+----
+num: 25
+category: Biology
+difficulty: HS
+seen: 1
+answer: Y)  Serrate
+
+The margin of an ash tree leaf would most generally be called:
+W) divided 
+X) entire 
+Y) serrate 
+Z) lacerate

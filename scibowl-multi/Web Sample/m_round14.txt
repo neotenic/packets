@@ -1,0 +1,317 @@
+####
+tournament: Web Sample
+round: m_round14.pdf
+####
+
+num: 1
+category: Math
+difficulty: MS
+answer: X)  Z)  X = – 2
+Y = – 2x + 4
+
+The graph of which of the following equations has a negative slope:
+Y) W) 
+X) yyy= = = 2–
+– 42xx–+ 44
+
+----
+num: 2
+category: General Science
+difficulty: MS
+answer: W)  All Fires Burn With a Yellow Flame
+
+Which of the following is NOT true:
+W) all fires burn with a yellow flame
+X) snowflakes and raindrops often contain bacteria
+Y) a general rule for solubility is that ‘like dissolves like’
+Z) a super -cooled liquid is a liquid at a temperature below its normal freezing point
+
+----
+num: 2
+category: General Science
+difficulty: MS
+answer: Y)  5.0 to 20.0 Micrometers
+
+Which of the following BEST descri bes the range of sizes of most animal cells:
+W) 0.2 to 2.0 micrometers
+X) 2.0 to 4.0 micrometers
+Y) 5.0 to 20.0 micrometers
+Z) 12.0 to 40.0 micrometers
+
+----
+num: 3
+category: Life Science
+difficulty: MS
+answer: X)  Sticky Pollen
+
+Which of the following is most advantageous to plants that depend on insects for pollination:
+W) absence of rhizomes 
+X) sticky pollen
+Y) small green flowers
+Z) numerous stomata
+
+----
+num: 4
+category: Physical Science
+difficulty: MS
+answer: W)  Silver
+
+Which of the following materials in pure form would register the LOWEST amount of ohms for a given electric current at 20ºC if all other variables are constant:
+W) silver
+X) gold
+Y) tin 
+Z) lead
+
+----
+num: 4
+category: Physical Science
+difficulty: MS
+answer: Z)  Convex Lens
+
+Which of the following optical devices pro duces a real image:
+W) plane mirror
+X) convex mirror
+Y) concave lens
+Z) convex lens
+
+----
+num: 5
+category: Earth Science
+difficulty: MS
+answer: W)  the East Coast of the u.s.
+
+A semidiurnal tidal pattern is more typical of which of the following locations:
+W) the East Coast of the U.S.
+X) the West Coast of the U.S.
+Y) the Gulf of Mexico
+Z) the North Pole
+
+----
+num: 5
+category: Earth Science
+difficulty: MS
+answer: Y)  Clay Minerals
+
+Which of the following is the most notable product of the hydrolysis of feldspar:
+W) chalk
+X) sandstone
+Y) clay minerals 
+Z) halite
+
+----
+num: 6
+category: Math
+difficulty: MS
+answer: Z)  7.1
+
+Which of the following is closest in value to 51 :
+W) 5.1
+X) 5.5
+Y) 6.8
+Z) 7.1
+
+----
+num: 7
+category: General Science
+difficulty: MS
+answer: W)  Fertilizers
+
+Which of the following is one of the most likely causes of algal blooms in waterways along the Chesapeake Bay:
+W) fertilizers
+X) natural pesticides
+Y) nitrogen-fixing bacteria
+Z) plastics pollution
+
+----
+num: 8
+category: Life Science
+difficulty: MS
+answer: Z)  Grasslands
+
+Pampas, steppes, and savannas are all different types of:
+W) deserts
+X) tropical forests
+Y) tropical shrublands
+Z) grasslands
+
+----
+num: 8
+category: Life Science
+difficulty: MS
+answer: Y)  Taiga
+
+Which of the following biomes takes up more square area of the world than any other biome:
+W) rainforest
+X) savanna
+Y) taiga
+Z) tundra
+
+----
+num: 9
+category: Physical Science
+difficulty: MS
+answer: Z)  Methane Gas
+
+Hydrogen bonding is NOT important in the physical and chemical properties of:
+W) liquid water
+X) water ice
+Y) DNA
+Z) methane gas
+
+----
+num: 10
+category: Earth Science
+difficulty: MS
+answer: Z)  Evaporation
+
+Which of the following is NOT a key step in the rock cycle:
+W) cementation
+X) melting
+Y) cooling
+Z) evaporation
+
+----
+num: 10
+category: Earth Science
+difficulty: MS
+answer: X)  30º
+
+Most of Earth’s deserts in the northern hemisphere are located near which of the following latitudes:
+W) 0º
+X) 30º
+Z) Y) 70º90º
+
+----
+num: 12
+category: General Science
+difficulty: MS
+answer: Y)  Autoclave
+
+Which of the following is typically used to sterilize l aboratory glassware:
+W) hot plate
+X) freeze dryer
+Y) autoclave 
+Z) fume hood
+
+----
+num: 12
+category: General Science
+difficulty: MS
+answer: W)  It Is a Well Known Constellation That Can Be Seen From 
+Mid-Northern Latitudes
+
+Which of the following is NOT true of the Big Dipper:
+W) it is a well known constellation that can b e seen from mid-northern latitudes
+X) it appears on the opposite side of the North Star from Cassiopeia 
+Y) it is sometimes called the Plough
+Z) assuming clear skies, it can be seen throughout the night every night of the year from mid -northern latitude s
+
+----
+num: 13
+category: Life Science
+difficulty: MS
+answer: X)  100-Times
+
+Which of the following is the most likely highest power for an objective lens on a typical student compound light mi croscope:
+W) 25-times
+X) 100-times
+Y) 500-times
+Z) 1500 -times
+
+----
+num: 14
+category: Physical Science
+difficulty: MS
+answer: Z)  a Ph Meter Operates by Measuring Small Differences in the 
+Density of Different Fluids
+
+Which of the following is NOT true of pH:
+W) the terms basic or alkaline describe a solution with pH greater than 7
+X) the highest value on the pH scale is 14 
+Y) strong acids dissociate almost completely in water
+Z) a pH meter operates by measuring small differences in the density of different fluids
+
+----
+num: 14
+category: Physical Science
+difficulty: MS
+answer: W)  a 10-Fold Increase in the Hydrogen Ion Concentration
+
+A decrease of 1 unit on the pH scale represents which of the following:
+W) a 10-fold increase in the hydrogen ion concentration
+X) a 10-fold decrease in the hydrogen ion concentration
+Y) a 100-fold increase in the hydrogen ion concentration
+Z) a 100-fold decrease in the hydrogen ion concentration
+
+----
+num: 15
+category: Earth Science
+difficulty: MS
+answer: Z)  Temperature
+
+Earth’s atmosphere containss everal different layers that are most often defined according to:
+W) pressure
+X) moisture
+Y) wind velocity 
+Z) temperature
+
+----
+num: 16
+category: Math
+difficulty: MS
+answer: X)  6241
+
+Which of the following is closest in value to 79 ^2:
+W) 6084
+X) 6241
+Y) 6399
+Z) 6400
+
+----
+num: 17
+category: General Science
+difficulty: MS
+answer: Y)  Luminosity
+
+Which of the following terms is used most often by astronomers for the total energy emitted per unit time from a star:
+W) apparent magnitude
+X) watts
+Y) luminosity
+Z) stellar unit
+
+----
+num: 18
+category: Life Science
+difficulty: MS
+answer: X)  Strong Thick Walls
+(Solution: Xylem Cells Are Dead Therefore, W and Z Are Not Possible and Y Is Unlikely)
+
+The presence of which of the following is the most important characteristic that allows xylem to function in plants:
+W) plastids and chloroplasts
+X) strong thick walls
+Y) large fluid-filled vacuol es
+Z) nuclei and endoplasmic reticulum
+
+----
+num: 19
+category: Physical Science
+difficulty: MS
+answer: X)  Lower Left
+
+Francium has the lowest electroneg ativity of the elements. This would indicate that francium is in what corner of the periodic chart:
+W) upper left 
+X) lower left 
+Y) upper right 
+Z) lower right
+
+----
+num: 19
+category: Physical Science
+difficulty: MS
+answer: Y)  Barium Sulfate
+
+Which of the following compounds is LEAST soluble in water and is frequently used as a radiocontrast agent in imaging of the GI tract:
+W) sodium chloride
+X) potassium chloride 
+Y) barium sulfate
+Z) sodium hydroxide

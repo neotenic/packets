@@ -1,0 +1,392 @@
+####
+tournament: #6316
+round: Show #6316 - Monday, February 20, 2012
+year: 2012
+date: 2012-02-20
+####
+
+num: 1
+category: Art
+difficulty: 200
+seen: 4
+answer: the Statue of Liberty
+
+The right hand & torch of this landmark were at Philadelphia's centennial expo in 1876.
+
+----
+num: 2
+category: Literature
+difficulty: 200
+seen: 4
+answer: a cassette
+
+A VHS or beta tape container.
+
+----
+num: 3
+category: Literature
+difficulty: 200
+seen: 4
+answer: San Francisco
+
+One of this N. California city's many characters was Joshua Norton, who proclaimed himself U.S. emperor in 1859.
+
+----
+num: 4
+category: Literature
+difficulty: 200
+seen: 4
+answer: (Michael) Crichton
+
+This author took 8 years to write "Jurassic Park".
+
+----
+num: 5
+category: Art
+difficulty: 400
+seen: 5
+answer: the Eiffel Tower
+
+The symbol of the universal exposition of 1889 was this new landmark, then the world's tallest structure.
+
+----
+num: 6
+category: Literature
+difficulty: 400
+seen: 4
+answer: Massachusetts
+
+The only U.S. state that fits the bill.
+
+----
+num: 7
+category: Literature
+difficulty: 400
+seen: 4
+answer: a vampire bat
+
+Naturalist Charles Waterton lay for months with one foot dangling out of his hammock so this type of bat would bite him.
+
+----
+num: 8
+category: Literature
+difficulty: 400
+seen: 4
+answer: Margaret Mitchell
+
+She took 10 years to write "Gone with the Wind".
+
+----
+num: 9
+category: Art
+difficulty: 600
+seen: 4
+answer: Borglum
+
+8 1/2 feet long, the.
+
+----
+num: 10
+category: Literature
+difficulty: 600
+seen: 4
+answer: unsettled
+
+Yet to be populated, or ill at ease.
+
+----
+num: 11
+category: Literature
+difficulty: 600
+seen: 4
+answer: cars
+
+Selling these starting in 1934, Madman Muntz basically invented the crazy pitchman shtick.
+
+----
+num: 12
+category: Art
+difficulty: 800
+seen: 5
+answer: Shanghai
+
+On Oct. 16, 2010 over a million visitors attended the world expo in this Chinese city & no, they weren't kidnapped there.
+
+----
+num: 13
+category: Literature
+difficulty: 800
+seen: 4
+answer: the pacesetter
+
+At Belmont, the horse running in the front.
+
+----
+num: 14
+category: Literature
+difficulty: 800
+seen: 3
+answer: Honest Abe
+
+Parking garage magnate Abraham Hirschfeld ran for several offices, always using this Lincolnesque nickname.
+
+----
+num: 15
+category: Literature
+difficulty: 1000
+seen: 4
+answer: anisette
+
+A liqueur that tastes like licorice.
+
+----
+num: 16
+category: Literature
+difficulty: 1000
+seen: 4
+answer: opus
+
+In giving his compositions these numbers, Erik Satie started with 62 instead of 1.
+
+----
+num: 17
+category: Literature
+difficulty: 400
+seen: 3
+answer: Samson
+
+"Howbeit the hair of his head began to grow again after he was shaven".
+
+----
+num: 18
+category: History
+difficulty: 400
+seen: 4
+answer: Denmark
+
+Iceland, June 17, 1944, from this country.
+
+----
+num: 19
+category: Literature
+difficulty: 400
+seen: 4
+answer: an eclipse
+
+One type of this occurs when the earth's shadow darkens the moon.
+
+----
+num: 20
+category: History
+difficulty: 400
+seen: 4
+answer: (John) McCain
+
+This onetime presidential hopeful was born in the Panama Canal zone in 1936.
+
+----
+num: 21
+category: Science
+difficulty: 400
+seen: 5
+answer: a scorpion
+
+This arachnid with a poisonous tail stinger is fluorescent when exposed to ultraviolet light.
+
+----
+num: 22
+category: Literature
+difficulty: 400
+seen: 4
+answer: scientologist
+
+A follower of L. Ron Hubbard.
+
+----
+num: 23
+category: Literature
+difficulty: 800
+seen: 4
+answer: Cain & Abel
+
+2 guys: one was "a tiller of the ground" & his brother was "a keeper of sheep".
+
+----
+num: 24
+category: History
+difficulty: 800
+seen: 4
+answer: the Soviet Union
+
+Kazakhstan, December 16, 1991, from this country.
+
+----
+num: 25
+category: Literature
+difficulty: 800
+seen: 4
+answer: Peter Pan
+
+Mrs. Darling rolled up his shadow & put it away carefully in a drawer; later, Wendy sewed it back on.
+
+----
+num: 26
+category: History
+difficulty: 800
+seen: 4
+answer: (David) McCullough
+
+Called the "Citizen Chronicler", he won his first Pulitzer in 1993 for his biography of "Truman".
+
+----
+num: 27
+category: Science
+difficulty: 800
+seen: 5
+answer: a nightcrawler
+
+We await with baited breath your identifying.
+
+----
+num: 28
+category: Literature
+difficulty: 800
+seen: 4
+answer: a commemorative
+
+type of stamp should be easy to remember.
+
+----
+num: 29
+category: Literature
+difficulty: 1200
+seen: 3
+answer: John the Baptist
+
+"In those days came" this man, "preaching in the wilderness of Judaea".
+
+----
+num: 30
+category: History
+difficulty: 1200
+seen: 4
+answer: the Great Britain
+
+Jamaica, August 6, 1962, from this country.
+
+----
+num: 31
+category: Literature
+difficulty: 1200
+seen: 4
+answer: Punxsutawney Phil
+
+This Pennsylvania weather prognosticator has failed to see his shadow only 14 times in the last 100 years.
+
+----
+num: 32
+category: History
+difficulty: 1200
+seen: 4
+answer: (Alexander) McQueen
+
+This bad boy of British fashion died in February 2010.
+
+----
+num: 33
+category: Science
+difficulty: 1200
+seen: 5
+answer: a crab
+
+From Japan, the giant spider species of this crustacean can measure 12 feet between claws.
+
+----
+num: 34
+category: Literature
+difficulty: 1200
+seen: 3
+answer: underclassman
+
+"Lower" term for a freshman or sophomore.
+
+----
+num: 35
+category: History
+difficulty: 1600
+seen: 5
+answer: the Ottoman Empire
+
+Albania, November 28, 1912, from this empire.
+
+----
+num: 36
+category: History
+difficulty: 1600
+seen: 5
+answer: McClellan
+
+For 4 short months, November 1861 to March 1862, he was general in chief of the Union Army.
+
+----
+num: 37
+category: Science
+difficulty: 1600
+seen: 5
+answer: slugs
+
+Some of these gastropods, basically shell-less land snails, feed on earthworms.
+
+----
+num: 38
+category: Literature
+difficulty: 1600
+seen: 4
+answer: the quartermaster
+
+An army officer who supplies food, clothing & equipment.
+
+----
+num: 39
+category: Literature
+difficulty: 2000
+seen: 6
+answer: (Doubting) Thomas
+
+"Jesus saith unto him... because thou hast seen me, thou hast believed".
+
+----
+num: 40
+category: Literature
+difficulty: 2000
+seen: 5
+answer: a gnomon
+
+The piece on a sundial that casts a shadow is called a style or this word from the Greek.
+
+----
+num: 41
+category: History
+difficulty: 2000
+seen: 6
+answer: (Carson) McCullers
+
+Tennessee Williams called this author of "The Member of the Wedding" the "greatest prose writer that the south produced".
+
+----
+num: 42
+category: Science
+difficulty: 2000
+seen: 8
+answer: a jellyfish
+
+The largest kind of this bell-shaped marine animal is the lion's mane, whose tentacles can extend more than 130 feet.
+
+----
+num: 43
+category: Literature
+difficulty: 2000
+seen: 5
+answer: transmutation
+
+Magical noun for the changing of lesser metals into gold by alchemists.

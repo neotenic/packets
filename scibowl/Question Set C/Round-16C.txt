@@ -1,0 +1,237 @@
+####
+tournament: Question Set C
+round: Round-16C.pdf
+####
+
+num: 2
+category: Chemistry
+difficulty: HS
+seen: 35
+answer: C–h;  C≡c;  C=c;  C−c
+
+Arrange the following 4 bonds in order of INCREASING bond lengths: C−C (read as: C single bond C); C=C (read as: C double bond C); C≡C (read as: C triple bond C); C –H (read as: C single bond H)
+
+----
+num: 4
+category: Math
+difficulty: HS
+seen: 24
+answer: 2 X Cos X^2
+
+Differentiate the following trigonometric function: f(x) = sin x^2^
+
+----
+num: 6
+category: General Science
+difficulty: HS
+fixed: -1
+seen: 32
+answer: 118
+(Solution:  88 + 18 + 12 = 118º)
+
+Your boat has a true course of 88º, the variation is 18º west , and the deviation is 12º west. What is your compass course, in degrees?
+
+----
+num: 9
+category: Chemistry
+difficulty: HS
+seen: 35
+answer: 200
+(Solution:  90g Acid × 100g Soln/30g Acid × 1cm^3/1.5 G Soln = 200 Cm^3 = 200 Ml)
+
+Consider an acid solution whose density is 1.5 grams per cubic centimeter and which is 30% acid by mass. Find the volume, in milliliters, of the acid solution that is needed to contain 90 grams of acid:
+
+----
+num: 10
+category: Physics
+difficulty: HS
+seen: 25
+answer: Neutron;  Proton;  Antiproton  (Accept:  All but Positron)
+
+Name all of the following 4 choices that are types of particles called hadrons: neutron; proton; positron; antiproton
+
+----
+num: 11
+category: Math
+difficulty: HS
+fixed: -1
+seen: 24
+answer: 4, 12, 20, 28, 36
+(Solution: A^20 = A^1 + (N – 1)d;  156 = 4 + (20 – 1)d, D = 8)
+
+If the 1^st term of an arithmetic sequence is 4 and the 20^th term is 156, what are the first five terms in the sequence:
+
+----
+num: 12
+category: Earth Science
+difficulty: HS
+seen: 66
+answer: Loess  (Accept:  Frozen Loess)
+
+Termed Yedoma in Siberia, what is the name for the windblown dust that was deposited during the glacial age and covers more than 1 million square kilometers of the north plains of Siberia and Central Alaska?
+
+----
+num: 16
+category: Chemistry
+difficulty: HS
+fixed: -1
+seen: 36
+answer: 100
+(Solution:  (0.05l)(0.1mol/l) = 0.005 M Sr(oh)^2 × 2hcl/1sr(oh)^2 = 0.01 Mol Hcl;
+0.01 Mol Hcl × l/0.1 Mol = 0.100l = 100ml)
+
+How many milliliters of 0.1 molar hydrochloric acid are required to neutralize 50 milliliters of a 0.1 molar strontium hydroxide solution?
+
+----
+num: 17
+category: Physics
+difficulty: HS
+fixed: -1
+seen: 26
+answer: Electromagnetic;  Strong;  Weak  (Accept: All but Gravity)
+
+Physicists have developed theories, called Grand Unified Theories, that attempt to unify the forces of the universe into one. As temperatures get higher going back through the early universe, which three of the four forces do these theories typically unify first?
+
+----
+num: 17
+category: Physics
+difficulty: HS
+seen: 27
+answer: Anthropic Principle  (Accept:  Anthropic)
+
+Many physicists are highly critical of the rationale that seeks to explain phenomena of the universe by indicating that, if things had been otherwise, life and humans would not exist. This is MOST commonly known as what principle?
+
+----
+num: 18
+category: Math
+difficulty: HS
+fixed: -1
+seen: 24
+answer: Left
+
+Giving your answer as up, down, left, or right, if a > 0, which way does the parabola given by the equation, x = –a(y – k)^2 + h open:
+
+----
+num: 18
+category: Math
+difficulty: HS
+seen: 26
+answer: –3 Cos X + 5 Sin X + C
+
+Find the following indefinite integral: !(3sinx+5cosx)dx (read as: the integral of 3 sine x + 5 cosine x, dx)
+
+----
+num: 20
+category: General Science
+difficulty: HS
+fixed: -1
+seen: 31
+answer: 1;  2;  3  (Accept:  All but 4 - Infected Humans)
+
+Name all of the following pathways that are considered major risks for the movement of H5N1 virus throughout the world: 1) poultry shipments; 2) contaminated poultry equipment; 3) migratory birds; 4) infected humans
+
+----
+num: 21
+category: Astronomy
+difficulty: HS
+seen: 51
+answer: Lithium
+
+The abundance of what element in T-Tauri stars is the best indication that they are young stars?
+
+----
+num: 21
+category: Astronomy
+difficulty: HS
+fixed: -1
+seen: 55
+answer: Cobe;  Wmap;  Boomerang  (Accept:  All)
+
+Name all of the following instruments that have been used to help understand the critical density of our universe: COBE; WMAP; BOOMERANG
+
+----
+num: 22
+category: Biology
+difficulty: HS
+seen: 40
+answer: Testis
+
+What is the primary target organ of luteinizing hormone in the human male?
+
+----
+num: 22
+category: Biology
+difficulty: HS
+fixed: -1
+seen: 40
+answer: C4;  Cam Plants
+
+Name all of the following 3 plant types that are specifically adapted to arid environments with bright Sun: C4 plants; CAM plants; C3 plants
+
+----
+num: 23
+category: Chemistry
+difficulty: HS
+seen: 33
+answer: Oxidizing Agent = Sicl
+^4;  Reducing Agent = Mg
+
+Identify, by chemical formula, the oxidizing agent and the reducing agent, respectively, for the following reaction: 
+SiCl ^4 + 2Mg ! 2MgCl^2 + Si
+
+----
+num: 23
+category: Chemistry
+difficulty: HS
+seen: 34
+answer: 16
+(Solution:   M = (Drt/p) = [(0.5g/l)(0.0821l-Atm/k-mol)(400k)]/(1.0 Atm) = 16.42 G/mol)
+
+What is the molar mass of a gas, in grams per mole to the nearest whole number, if it has a density of 0.50 grams per liter at 400K and standard pressure?
+
+----
+num: 24
+category: Physics
+difficulty: HS
+seen: 26
+answer: 980
+(Solution:  P = Mgd/t = [(100kg)(10m/s^2)(9.8m)]/10s = 980w)
+
+If a 100-kilogram bear climbs from the bottom to the top of a vertical 10-meter tree in 10 seconds, what is the bear’s average power output, in watts?
+
+----
+num: 24
+category: Physics
+difficulty: HS
+fixed: -1
+seen: 26
+answer: 3.3 and Up  (Accept:  3.2 and Up)
+(Solution:  F
+^Net = F
+^G1 – F
+^G2 = M
+^1g
+^1 = M
+^2g
+^2 = (2 kg)(9.8m/s) – (1kg)(9.8m/s) = 9.8n;  a = F/m = 
+9.8n/3kg = 3.27 M/s^2)
+
+Two masses are hung in a physics lab. These are tied to opposite ends of a weightless string which passes over a frictionless pulley. If the masses are released from rest and mass #1 = 1 kilogram and mass #2 = 2 kilograms, what is the acceleration, to the first decimal place, of mass #1 and in what direction, up or down?
+
+----
+num: 25
+category: Biology
+difficulty: HS
+seen: 40
+answer: Myosin
+
+What protein is the primary component of the thick filaments seen in a cross section of a sarcomere’s myofilaments?
+
+----
+num: 25
+category: Biology
+difficulty: HS
+seen: 39
+answer: Troponin -C  (Accept: Troponin)
+
+To what specific protein do calcium ions bind directly leading to muscle contraction in striated human muscle?

@@ -1,0 +1,294 @@
+####
+tournament: Web Sample
+round: m_round12.pdf
+####
+
+num: 1
+category: Physical Science
+difficulty: MS
+seen: 6
+answer: 5.43
+
+If the density of a metal alloy is 5,430 kilograms per cubic meter, what is its specific gravity, rounded to the second decimal place?
+
+----
+num: 1
+category: Physical Science
+difficulty: MS
+fixed: -1
+seen: 6
+answer: 140
+(Solution:  F = Ma; F = 70 × 2 = 140)
+
+An Olympic runner braces himself against a stationary set of foot blocks and accelerates with a horizontal magnitude of 2 meters per second squared. How many newtons of horizontal force does the runner exert on the blocks to produce this acceleration if his mass is 70 kilograms?
+
+----
+num: 3
+category: Math
+difficulty: MS
+seen: 6
+answer: 1  (Accept:  1, 0)
+
+What is the x-intercept of a graph of the following equation: y = –7x + 7
+
+----
+num: 3
+category: Math
+difficulty: MS
+fixed: -1
+seen: 6
+answer: –9x^3y + 12x^2y^2 – 3xy^3
+
+Multiply the polynomial, 3 x^2 – 4xy + y^2, by –3xy, and simplify:
+
+----
+num: 4
+category: General Science
+difficulty: MS
+seen: 6
+answer: 88
+(Solution: (60 Mi/hr)(5280 Ft/mi)(1 Hr/3600 Sec) = 88 Ft/s)
+
+Convert 60 miles per hour into feet per second:
+
+----
+num: 6
+category: Physical Science
+difficulty: MS
+seen: 5
+answer: 20 Meters Per Second  (Must Give Units)
+
+Using a gravitational acceleration of 10 meters per second and giving your answer in appropriate SI units, if dropped off a cliff, how fast will a rock be falling at the end of 2 seconds, if friction is ignored?
+
+----
+num: 7
+category: Earth Science
+difficulty: MS
+seen: 7
+answer: 24 Hours and 50 Minutes
+
+Giving your answer in hours and minutes, how often will the entire tidal pattern on Earth be repeated?
+
+----
+num: 8
+category: Math
+difficulty: MS
+seen: 6
+answer: 21
+
+What is the common ratio of the geometric series with the first thre eterms, 12 , 41, 81
+
+----
+num: 8
+category: Math
+difficulty: MS
+seen: 6
+answer: 180
+
+What is the least common multiple of the numbers 30, 45, and 60?
+
+----
+num: 9
+category: General Science
+difficulty: MS
+seen: 5
+answer: Rockwell
+
+Which of the following 3 choices are reference scales commonly used in describing the hardness of materials: Rockwell; Austenite; Ferrule
+
+----
+num: 10
+category: Life Science
+difficulty: MS
+seen: 10
+answer: Pine;  Hemlock
+
+Name all of the following 4 plants that are conifers: pine; hemlock; palm; maple
+
+----
+num: 11
+category: Physical Science
+difficulty: MS
+seen: 5
+answer: Aluminum;  Water;  Acetone
+
+Arrange the following 3 pure substances in order of 
+INCREASING evaporation rates at 1 atmosphere of pressure and at room temperature: water; acetone; aluminum
+
+----
+num: 12
+category: Earth Science
+difficulty: MS
+seen: 7
+answer: Shield
+
+All of the volcanoes of Hawaii belong to which one of the 3 basic types?
+
+----
+num: 13
+category: Math
+difficulty: MS
+seen: 6
+answer: 3x
+Xy+ Y
+(Accept:  Cannot Be Reduced)
+
+Reduce the following expression to lowest terms: 3xxy+ y
+
+----
+num: 13
+category: Math
+difficulty: MS
+seen: 6
+answer: 2 × 3 × 3 × 5  (Accept:  2 × 3^2 × 5)
+
+Find the prime factorization of 90:
+
+----
+num: 15
+category: Life Science
+difficulty: MS
+seen: 10
+answer: 3)  Ribosomes
+
+By words or numbers, name all of the following 3 choices that are found in the E. coli bacterium: 1) mitochondria; 2) chloroplasts; 3) ribosomes
+
+----
+num: 16
+category: Physical Science
+difficulty: MS
+seen: 5
+answer: Boron
+
+In addition to oxygen and sodium, what other element is a major constituent of borax?
+
+----
+num: 18
+category: Math
+difficulty: MS
+seen: 7
+answer: 230
+(Solution: (7 + 3)(23) = 230)
+
+Find the sum of 7 times 23, and 3 times 23:
+
+----
+num: 18
+category: Math
+difficulty: MS
+seen: 6
+answer: 4
+
+Solve the following equation for x: (4x – 8) – (5x + 6) = (2x – 9) – (4x + 1)
+
+----
+num: 19
+category: General Science
+difficulty: MS
+seen: 6
+answer: Common Cold  (Accept:  Cold)
+
+What human disease is caused by infection with the rhinovirus?
+
+----
+num: 19
+category: General Science
+difficulty: MS
+seen: 5
+answer: Chicken Pox;  Diphtheria
+
+Name all of the following 4 diseases for which effective vaccines are currently available: chicken pox; malaria; diphtheria; HIV
+
+----
+num: 20
+category: Life Science
+difficulty: MS
+seen: 11
+answer: Root Cap
+
+What is the common name for the protective layers of cells t hat cover the tip of a growing root, allowing it to make its way through difficult soils?
+
+----
+num: 21
+category: Physical Science
+difficulty: MS
+seen: 6
+answer: Hydrogen  (Accept:  H
+^2)
+
+When aluminum filings are added to a beaker containing concentrated sulfuric acid, what gas is produ ced?
+
+----
+num: 21
+category: Physical Science
+difficulty: MS
+seen: 5
+answer: 0.5
+(Solution:  Current = Watts/volts ; 60/120 = 0.5 Amperes)
+
+Rounded to the first decimal place, what is the current, in amperes, for a 60-watt bulb running on a 120-volt power source?
+
+----
+num: 22
+category: Earth Science
+difficulty: MS
+seen: 8
+answer: Thermosphere
+
+In which of the 5 main layers of Earth’s atmosphere does the 
+Space Shuttle orbit?
+
+----
+num: 22
+category: Earth Science
+difficulty: MS
+fixed: -1
+seen: 7
+answer: Jawless Fish;  Jawed Fish;  Crocodile;  Antelope
+
+Order the following 4 life forms from t he EARLIEST to appear on Earth to the most RECENT: crocodile; jawless fish; jawed fish; antelope
+
+----
+num: 23
+category: Math
+difficulty: MS
+seen: 6
+answer: Right
+
+Any triangle inscribed within a semicircle is always what typ e of triangle if one of its sides is the diameter of the semicircle?
+
+----
+num: 24
+category: General Science
+difficulty: MS
+seen: 6
+answer: Red Dwarf
+
+Which of the following 4 star types is believed to be the most common in the universe: neutron; blue giant; red dwarf ; pulsar
+
+----
+num: 24
+category: General Science
+difficulty: MS
+seen: 6
+answer: O
+
+Which one of the following 5 spect ral classes of stars is the HOTTEST: A; F; G; K; O
+
+----
+num: 25
+category: Life Science
+difficulty: MS
+seen: 11
+answer: Deoxyribose  (Accept:  Ribose)
+
+What sugar is found in the backbone of DNA?
+
+----
+num: 25
+category: Life Science
+difficulty: MS
+seen: 12
+answer: Palm;  Maple
+
+Name all of the fol lowing 4 trees that produce true flowers: hemlock; palm; maple; pine

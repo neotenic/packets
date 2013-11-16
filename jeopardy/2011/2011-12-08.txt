@@ -1,0 +1,385 @@
+####
+tournament: #6264
+round: Show #6264 - Thursday, December 8, 2011
+year: 2011
+date: 2011-12-08
+####
+
+num: 1
+category: History
+difficulty: 200
+seen: 5
+answer: China
+
+In the 7th century Sui Gong Di succeeded Sui Yang Di as emperor of this country.
+
+----
+num: 2
+category: Geography
+difficulty: 200
+seen: 9
+answer: a piano
+
+The white tops of its keys were once made of ivory, hence the phrase "tickle the ivories".
+
+----
+num: 3
+category: Trash
+difficulty: 200
+seen: 6
+answer: Toyota
+
+The RAV4; the company was in the news a bit in 2010.
+
+----
+num: 4
+category: Trash
+difficulty: 200
+seen: 7
+answer: a Nerf ball
+
+It was originally marketed as the "first official indoor ball".
+
+----
+num: 5
+category: Literature
+difficulty: 200
+seen: 4
+answer: prenatal care
+
+Care given to pregnant women.
+
+----
+num: 6
+category: History
+difficulty: 400
+seen: 4
+answer: Brazil
+
+In 1831 Pedro I abdicated as emperor of this South American country & returned to Portugal.
+
+----
+num: 7
+category: Geography
+difficulty: 400
+seen: 7
+answer: poison
+
+Ancient kings of India used ebony for drinking vessels because it supposedly neutralized this.
+
+----
+num: 8
+category: Trash
+difficulty: 400
+seen: 5
+answer: Chevrolet
+
+The Tahoe Hybrid, perfect for that trip to the lake.
+
+----
+num: 9
+category: Trash
+difficulty: 400
+seen: 5
+answer: a Cabbage Patch Kid
+
+Originally called "Little People", this perennial favorite is.
+
+----
+num: 10
+category: Literature
+difficulty: 400
+seen: 4
+answer: a prequel
+
+A film that deals with events prior to a previous related film.
+
+----
+num: 11
+category: History
+difficulty: 600
+seen: 4
+answer: Austria-Hungary
+
+Franz Joseph, emperor of this dual monarchy, suffered his son's suicide in 1889 & his wife's murder in 1898.
+
+----
+num: 12
+category: Geography
+difficulty: 600
+fixed: -1
+seen: 8
+answer: Africa
+
+Most commercial ivory still comes from this continent.
+
+----
+num: 13
+category: Trash
+difficulty: 600
+seen: 5
+answer: Jaguar
+
+The XJ, with 385 hp purring under the hood.
+
+----
+num: 14
+category: Trash
+difficulty: 600
+seen: 4
+answer: Lego
+
+Technic & Mindstorms are 2 of the lines of building sets from this brand.
+
+----
+num: 15
+category: Literature
+difficulty: 600
+seen: 5
+answer: a prescription
+
+The Ebers Papyrus of 1550 B.C. contains many of these, including one for asthma calling for herb fumes.
+
+----
+num: 16
+category: History
+difficulty: 800
+seen: 4
+answer: Ethiopia
+
+Emperor until 1913, Menelik II helped unite this African country into its modern form.
+
+----
+num: 17
+category: Geography
+difficulty: 800
+seen: 8
+answer: Sri Lanka
+
+Some of the best ebony is grown in the flat country west of Trincomalee on this "teardrop island".
+
+----
+num: 18
+category: Trash
+difficulty: 800
+seen: 5
+answer: Mercedes-Benz
+
+The S600 sedan, MSRP only $159,500.
+
+----
+num: 19
+category: Literature
+difficulty: 800
+seen: 3
+answer: prevailing
+
+A synonym for "victorious" that's also used of the predominant wind direction.
+
+----
+num: 20
+category: Geography
+difficulty: 1000
+seen: 7
+answer: narwhals
+
+Ivory comes not only from elephants but also from hippos, walruses & these small tusked whales.
+
+----
+num: 21
+category: Trash
+difficulty: 1000
+seen: 5
+answer: Volkswagen
+
+The Golf--try not to hit 18 potholes in one.
+
+----
+num: 22
+category: Literature
+difficulty: 1000
+seen: 4
+answer: precocious
+
+For plants, this word describes flowers that come before leaves emerge; for kids, it describes early achievement.
+
+----
+num: 23
+category: Science
+difficulty: 400
+seen: 6
+answer: mercury
+
+If all the elements were onstage with us, only bromine & this other element would be liquid.
+
+----
+num: 24
+category: Trash
+difficulty: 400
+seen: 5
+answer: Diane Keaton
+
+Annie is a nickname, & Hall the real last name, of this actress who played Annie Hall.
+
+----
+num: 25
+category: Science
+difficulty: 400
+seen: 6
+answer: row
+
+One way to propel a boat.
+
+----
+num: 26
+category: Literature
+difficulty: 400
+seen: 3
+answer: London
+
+The first word of "Bleak House" is this city; the next paragraph begins, "Fog everywhere".
+
+----
+num: 27
+category: Trash
+difficulty: 400
+seen: 5
+answer: a joystick
+
+Before computer games, this "happy" term referred to a control rod used by pilots.
+
+----
+num: 28
+category: Science
+difficulty: 800
+seen: 6
+answer: neon
+
+By atomic number, this noble gas, number 10, is the first whose symbol matches a state postal abbreviation.
+
+----
+num: 29
+category: Trash
+difficulty: 800
+seen: 5
+answer: Annie Oakley
+
+A train wreck in 1901 left this markswoman partially paralyzed for a time.
+
+----
+num: 30
+category: Science
+difficulty: 800
+seen: 6
+answer: mew
+
+Feline vocalization.
+
+----
+num: 31
+category: Trash
+difficulty: 800
+seen: 5
+answer: the telegraph
+
+"The Victorian Internet" is a book about pioneers of this communication device.
+
+----
+num: 32
+category: Science
+difficulty: 1200
+seen: 5
+answer: Niels Bohr
+
+Element 107, named for this man, has the symbol Bh.
+
+----
+num: 33
+category: Trash
+difficulty: 1200
+seen: 5
+answer: Annie Leibovitz
+
+In 1991 she had her first museum exhibition at the National Portrait Gallery, a rare honor for a living photographer.
+
+----
+num: 34
+category: Science
+difficulty: 1200
+seen: 5
+answer: new
+
+More advanced, or recently created.
+
+----
+num: 35
+category: Literature
+difficulty: 1200
+seen: 3
+answer: Venice
+
+A Byron poem says, "I stood in" this city, "on the Bridge of Sighs; a palace and a prison on each hand".
+
+----
+num: 36
+category: Trash
+difficulty: 1200
+seen: 5
+answer: solitaire
+
+In the Klondike variant of this card game, spaces in the tableau can only be filled with kings.
+
+----
+num: 37
+category: Science
+difficulty: 1600
+seen: 5
+answer: metals
+
+In the center of the table are the "transition" these, including nickel & iron.
+
+----
+num: 38
+category: Trash
+difficulty: 1600
+seen: 6
+answer: Annie Duke
+
+Learn to play poker like a pro from this pro in DVDs like "Advanced Texas Hold 'Em Secrets".
+
+----
+num: 39
+category: Science
+difficulty: 1600
+seen: 6
+answer: Beta
+
+A trademark brand of format for VCR tape.
+
+----
+num: 40
+category: Trash
+difficulty: 1600
+seen: 6
+answer: a printer
+
+Before items like the HP Color LaserJet 2600N, this term referred to people like Gutenberg.
+
+----
+num: 41
+category: Science
+difficulty: 2000
+fixed: -1
+seen: 8
+answer: Tao
+
+Lao-Tzu's ultimate principle of the universe.
+
+----
+num: 42
+category: Literature
+difficulty: 2000
+seen: 6
+answer: Gertrude Stein
+
+It was of Oakland, California, her girlhood home, that she wrote, "There is no there there".

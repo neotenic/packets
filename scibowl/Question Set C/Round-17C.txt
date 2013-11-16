@@ -1,0 +1,277 @@
+####
+tournament: Question Set C
+round: Round-17C.pdf
+####
+
+num: 1
+category: Chemistry
+difficulty: HS
+fixed: -1
+seen: 33
+answer: Arginine;  Lysine
+
+Which two of the following 5 amino acids are classified as basic because of the structure of their side chains: arginine; glycine; glutamic acid; phenylalanine; lysine
+
+----
+num: 1
+category: Chemistry
+difficulty: HS
+seen: 33
+answer: 2.5  (Accept:  2.4)
+(Soln: P^co2 = (Nrt/v) = [(0.10mol)(0.0821l-Atm/k-Mol)(250k)]/1l = 2.05 Atm; P^t = 0.40 + 2.05 = 
+2.45atm = 2.5 Atm)
+
+At 250K, the pressure of oxygen in a 1-liter container is 0.40 atmospheres. If 0.10 moles of carbon dioxide are added to the container, what will be the new pressure, in atmospheres rounded to the first decimal place?
+
+----
+num: 4
+category: Math
+difficulty: HS
+fixed: -1
+seen: 25
+answer: Xe^x – E^x + C
+
+Find the following indefinite integral: ∫xe^xdx (read as: the integral of xtimes e to the x power, dx)
+
+----
+num: 5
+category: Earth Science
+difficulty: HS
+fixed: -1
+seen: 67
+answer: Mid -Ocean Ridge;  Abyssal Plain;  Continental Shelf
+
+Arrange the following 3 oceanic crust features from the 
+YOUNGEST to the OLDEST: abyssal plain; continental shelf; mid-ocean ridge
+
+----
+num: 6
+category: General Science
+difficulty: HS
+fixed: -1
+seen: 29
+answer: 62
+7
+19
+5
+834
+(Must Be Exact and Read as  2, 9, 4   7, 5, 3   6, 1, 8)
+
+If the magic sum for a magic square is 15 and the top row of the magic square consists of the numbers 2, 9 and 4 and the top two numbers of the left column from the top down are 2 and 7, what are the 3 rows, from top to bottom?
+
+----
+num: 8
+category: Chemistry
+difficulty: HS
+seen: 34
+answer: 0.637  (Must Be Positive)
+(Solution: +0.763 Volts + (–0.126 Volts) = +0.637 Volts)
+
+In a zinc-lead voltaic cell, what is the maximum voltage, to the third decimal place, that can be obtained if the standard reduction potential for the zinc ion is – 0.763 volts and for the lead ion is –0.126 volts?
+
+----
+num: 10
+category: Biology
+difficulty: HS
+seen: 38
+answer: Operator
+
+To what specific part of the tryptophan or lac operon will the repressor typically bind in order to exert its control on the operon?
+
+----
+num: 11
+category: Math
+difficulty: HS
+fixed: -1
+seen: 26
+answer: 2e ^X
+X
+
+Differentiate and simplify the following with respect to x: y = e ^x
+
+----
+num: 11
+category: Math
+difficulty: HS
+seen: 26
+answer: 17
+(Solution:  K = ½ Bc Sin A;  = ½ (6)(8)(0.707) = 16.97 = 17)
+
+For a triangle whose side b = 6 and c = 8 and the angle formed by those sides is 45º, find the area of the triangle, to the nearest whole number:
+
+----
+num: 12
+category: Earth Science
+difficulty: HS
+fixed: -1
+seen: 64
+answer: Slate;  Phyllite;   Schist;  Gneiss
+
+Order the following 4 choices from the LOWEST metamorphic grade to the HIGHEST: schist; gneiss; slate; phyllite
+
+----
+num: 13
+category: General Science
+difficulty: HS
+seen: 29
+answer: Auxins
+
+What general class of plant hormones and their synthetic cousins have been used as herbicides such as 2,4-D and agent orange?
+
+----
+num: 15
+category: Chemistry
+difficulty: HS
+seen: 34
+answer: 50
+P v P v (150kpa)(400ml) (P )(600ml)
+(Solution:   ^1 ^1 =  ^2 ^2 ;   =  ^2 ;  = 50 Kpa)
+T
+^1 T
+^2 400k 200k
+
+How many kilopascals of pressure are needed to compress 400 milliliters of a gas under the conditions of 150 kilopascals of pressure and 400K, to 600 milliliters at a new temperature of 200K?
+
+----
+num: 17
+category: Biology
+difficulty: HS
+fixed: -1
+seen: 41
+answer: Agave;  Corn
+
+Name 2 of the following 4 plant types that have the LEAST amount of photorespiration if all are exposed to a bright summer Sun: agave; corn; begonia; tulip
+
+----
+num: 18
+category: Math
+difficulty: HS
+seen: 23
+answer: Center = ( –1, 2);  Horizontal = (–5, 2) and (3, 2);  
+Vertical = (–1, –1) and (–1, 5)
+
+Give the center point and the vertices of the horizontal axis and verticalaxis of the ellipse for the following equation: (x16+1)^2+ (y!92)^2=1
+
+----
+num: 18
+category: Math
+difficulty: HS
+fixed: -1
+seen: 26
+answer: 1!
+Xln
+^2 X
+(Also Accept [-(Lnx) +1]/x^2
+
+Differentiate and simplify the following with respect to x: y = lnxx(read as: natural log of x divided by x)
+
+----
+num: 19
+category: Earth Science
+difficulty: HS
+seen: 63
+answer: Wisconsinian
+
+What is the name for the most recent Pleistocene glacial episode in North America?
+
+----
+num: 19
+category: Earth Science
+difficulty: HS
+seen: 63
+answer: 31 (Accept:  30 to 32)
+(Solution:  Magnitude 7 Wave Is 10-Times Larger Than a Mag 6 and Releases 31-Times as Much Energy)
+
+A moment magnitude 7 earthquake releases how many times more energy than a moment magnitude 6 earthquake?
+
+----
+num: 21
+category: Astronomy
+difficulty: HS
+fixed: -1
+seen: 56
+answer: Large Mass O -Type Star;  Our Sun;  Red Dwarf
+
+Order the following 3 stars from the one that will undergo fusion for the SHORTEST time to the LONGEST: red dwarf; our Sun; large mass o-type star
+
+----
+num: 21
+category: Astronomy
+difficulty: HS
+fixed: -1
+seen: 56
+answer: 580
+(Solution: Wien’s Law  T = 2.9 × 10^-^3 m.k/λ ! 0.005×10^6 ^= 2.9 × 10^-^3 M / 580 × 10^-^9m = 580nm)
+
+If a stellar body’s surface is 5,000 kelvin, what is its peak emission of electromagnetic radiation, in nanometers?
+
+----
+num: 22
+category: Chemistry
+difficulty: HS
+fixed: -1
+seen: 34
+answer: Trigonal Bipyramidal
+
+Predict the shape of a molecule of phosphorous pentafluoride, whereby each phosphorous atom has 5 valence electrons to share with 5 fluorine atoms:
+
+----
+num: 22
+category: Chemistry
+difficulty: HS
+fixed: -1
+seen: 32
+answer: 90;  120;  180
+
+Give all 3 angles, in degrees, that are present in phosphorous pentafluoride:
+
+----
+num: 23
+category: Physics
+difficulty: HS
+fixed: -1
+seen: 25
+answer: Yellow
+(Solution: Red and Green Make Yellow and Red Green and Blue Make White, Therefore Since They 
+Needed Red and Green to Add to Blue to Make White They Chose a Yellow Phosphor)
+
+As reported recently in the journal Science, researchers have succeeded in producing a high efficiency organic LED. They began with a blue emitting system and then added a single color light emitting phosphor to obtain white light. What was the single color phosphor they used?
+
+----
+num: 23
+category: Physics
+difficulty: HS
+seen: 27
+answer: 5 V/m
+
+A sphere of radius 1 meter contains uniformly distributed charge of charge density rho. Assuming ρ/ε^0 (rho over epsilon-naught) equals 30 volts per meter squared, what is the magnitude of electric field at a radius of 0.5 meters?
+
+----
+num: 24
+category: Biology
+difficulty: HS
+seen: 38
+answer: Luteinizing Hormone;  Follicle Stimulating Hormone
+(Accept:  Lh;  Fsh)
+
+Which 2 of the following 4 hormones play the largest roles in regulating sperm production in humans:luteinizing hormone; estradiol; progesterone; follicle stimulating hormone
+
+----
+num: 24
+category: Biology
+difficulty: HS
+fixed: -1
+seen: 39
+answer: Tat, Gtc, Tga, Aag, Taa
+
+Give the corresponding alternate DNA strand synthesized by reverse transcriptase from the following mRNA: (read slowly, pausing between each triplet)
+AUA, CAG, ACU, UUC, AUU
+
+----
+num: 25
+category: Physics
+difficulty: HS
+seen: 29
+answer: Cosmological Constant
+
+What is the most common term for what Einstein first proposed to operate in empty space, but later rejected as his greatest blunder following Hubble’s discovery of the expansion of the universe?

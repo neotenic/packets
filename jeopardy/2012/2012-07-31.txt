@@ -1,0 +1,366 @@
+####
+tournament: #6432
+round: Show #6432 - Tuesday, July 31, 2012
+year: 2012
+date: 2012-07-31
+####
+
+num: 1
+category: Literature
+difficulty: 200
+seen: 4
+answer: a closet
+
+Built into a wall to store clothes, this small room is great for a game of hide & seek.
+
+----
+num: 2
+category: Trash
+difficulty: 200
+seen: 5
+answer: the New York Giants
+
+In 2012 underdogs & Madonna were in vogue at Super Bowl XLVI, where this team won 21-17.
+
+----
+num: 3
+category: Science
+difficulty: 200
+seen: 8
+answer: Jupiter
+
+It's the largest & most massive of the planets in the solar system.
+
+----
+num: 4
+category: Literature
+difficulty: 200
+seen: 4
+answer: Apple
+
+Steve Jobs sold his VW minibus & Steve Wozniak sold his calculator to get the money to form this company.
+
+----
+num: 5
+category: Literature
+difficulty: 200
+seen: 4
+answer: Crocs
+
+The name of these holey slip-on shoes is also a slang term for alligator relatives.
+
+----
+num: 6
+category: Literature
+difficulty: 400
+seen: 4
+answer: a curtain
+
+If it's long enough crawl behind this; it's also found at the front of a theater stage.
+
+----
+num: 7
+category: Trash
+difficulty: 400
+seen: 5
+answer: the New Orleans Saints
+
+Drew Brees wore no. 9 when this team came marching in for a win in Super Bowl XLIV.
+
+----
+num: 8
+category: Science
+difficulty: 400
+seen: 6
+answer: Saturn
+
+In 2006 the Cassini spacecraft found yet another ring around this planet.
+
+----
+num: 9
+category: Literature
+difficulty: 400
+seen: 4
+answer: Martin Luther King
+
+A national holiday observed each year on the third Monday of January honors this man--his actual birthday was Jan. 15, 1929.
+
+----
+num: 10
+category: Literature
+difficulty: 400
+seen: 4
+answer: mesh
+
+It's the 4-letter word for the netting at the back of a baseball cap that helps keep you cool.
+
+----
+num: 11
+category: Literature
+difficulty: 600
+seen: 4
+answer: the attic
+
+If I go up to this highest room in a house & hide, I should be able to see anyone coming.
+
+----
+num: 12
+category: Trash
+difficulty: 600
+seen: 6
+answer: the Green Bay Packers
+
+Aaron Rodgers was muy macho as this team won the whole enchilada in 2011.
+
+----
+num: 13
+category: Geography
+difficulty: 600
+seen: 8
+answer: Africa
+
+Mount Kilimanjaro.
+
+----
+num: 14
+category: Literature
+difficulty: 600
+seen: 3
+answer: Ben & Jerry\'s
+
+Flavors from this ice cream maker include Bonnaroo Buzz, Chunky Monkey & Chocolate.
+
+----
+num: 15
+category: Literature
+difficulty: 600
+seen: 4
+answer: leggings
+
+UnderArmour clothes for girls include the ColdGear line of these bottoms, similar to tights or long johns.
+
+----
+num: 16
+category: Literature
+difficulty: 800
+seen: 4
+answer: a pantry
+
+I can fit in this small room off the kitchen used for storing dry food: originally it was just for bread.
+
+----
+num: 17
+category: Trash
+difficulty: 800
+seen: 5
+answer: the Baltimore Ravens
+
+Ray Lewis & this team took care of business in 2001, winning 34-7.
+
+----
+num: 18
+category: Geography
+difficulty: 800
+seen: 7
+answer: Australia
+
+The Brisbane River.
+
+----
+num: 19
+category: Literature
+difficulty: 800
+seen: 3
+answer: a preposition
+
+In the sentence "Yo, check it, I left my CD on C-Dub's desk", "on" is this part of speech.
+
+----
+num: 20
+category: Literature
+difficulty: 800
+seen: 4
+answer: a turtle(neck)
+
+A long-sleeved shirt with a collar not high enough to fold over is called a "mock" this.
+
+----
+num: 21
+category: Literature
+difficulty: 1000
+seen: 4
+answer: a garage
+
+No one will look for us in this attached building that can also mean an auto repair shop.
+
+----
+num: 22
+category: Trash
+difficulty: 1000
+seen: 5
+answer: the Pittsburgh Steelers
+
+Hines Ward was MVP for this team in 2006.
+
+----
+num: 23
+category: Geography
+difficulty: 1000
+seen: 8
+answer: Antarctica
+
+Named for an explorer, Byrd Station.
+
+----
+num: 24
+category: Science
+difficulty: 1000
+seen: 8
+answer: Uranus
+
+This planet, the third largest in our solar system, was discovered by William Herschel in 1781.
+
+----
+num: 25
+category: Literature
+difficulty: 1000
+seen: 4
+answer: Thomas Jefferson
+
+The second U.S. president born in Virginia, he enrolled at the College of William & Mary at age 16.
+
+----
+num: 26
+category: Literature
+difficulty: 1000
+seen: 4
+answer: a tunic
+
+Along with the toga, it was the basic garment of ancient Rome; now it's a long blouse for women & girls.
+
+----
+num: 27
+category: Science
+difficulty: 400
+seen: 6
+answer: throat
+
+This body part often follows "strep" in an illness that can cause trouble swallowing.
+
+----
+num: 28
+category: Trash
+difficulty: 400
+seen: 6
+answer: the Lorax
+
+Danny DeVito was the voice of this Dr. Seuss character who tries to protect the truffula trees.
+
+----
+num: 29
+category: Science
+difficulty: 400
+seen: 5
+answer: 180
+
+It's the number of degrees in half a circle.
+
+----
+num: 30
+category: History
+difficulty: 400
+seen: 4
+answer: Anchorage
+
+In March 1964 this largest Alaska city was struck by a 9.2 magnitude earthquake.
+
+----
+num: 31
+category: Science
+difficulty: 800
+seen: 5
+answer: salivary glands
+
+The mumps causes swelling of these glands that provide moisture for your mouth.
+
+----
+num: 32
+category: History
+difficulty: 800
+seen: 4
+answer: Davy Crockett
+
+After leaving Congress, this Tennessean left for Texas, where he was killed at the Alamo.
+
+----
+num: 33
+category: Science
+difficulty: 1200
+seen: 5
+answer: arthritis
+
+JRA, or juvenile rheumatoid this, painfully affects the joints.
+
+----
+num: 34
+category: Science
+difficulty: 1200
+seen: 5
+answer: kilogram
+
+One of these metric units equals 2.2 pounds.
+
+----
+num: 35
+category: Science
+difficulty: 1600
+seen: 6
+answer: asthma
+
+Kids can be diagnosed with allergy-triggered this breathing malady that begins & ends with the same letter.
+
+----
+num: 36
+category: Science
+difficulty: 1600
+seen: 5
+answer: an acre
+
+In a square mile there are 640 of these.
+
+----
+num: 37
+category: History
+difficulty: 1600
+seen: 4
+answer: the Mayflower Compact
+
+Miles Standish was one of 41 male passengers who signed this document in 1620.
+
+----
+num: 38
+category: Science
+difficulty: 2000
+seen: 7
+answer: tetanus
+
+Careful! Cuts you get on the playground could lead to this infectious disease aka lockjaw.
+
+----
+num: 39
+category: Science
+difficulty: 2000
+fixed: -1
+seen: 8
+answer: 300,000
+
+A 150-ton blue whale weighs this many pounds.
+
+----
+num: 40
+category: History
+difficulty: 2000
+seen: 6
+answer: the Northwest Territory
+
+In July 1787 Congress created this new territory in the area north of the Ohio River.

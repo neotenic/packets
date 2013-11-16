@@ -1,0 +1,224 @@
+####
+tournament: HSAPQ ACF 1
+round: Round_11_HSAPQACF1.pdf
+year: 2008
+####
+
+num: 1
+category: Literature
+difficulty: HS
+fixed: 57
+seen: 445
+answer: {Wolfe} [{spelled Wolff}, in Tobias {Wolff's case}]
+
+One American author of this last name wrote The Barracks Thief and This Boy's Life. Another author of this name wrote about a student who reunites with Joel Pierce and Robert Weaver at Harvard, Eugene Gant, in Of Time and the River and You Can't Go Home Again. A third author with this last name described the Merry Pranksters in The Electric Kool-Aid Acid Test, and wrote about a racial crisis sparked by Sherman McCoy in The Bonfire of the Vanities. For 10 points, give this last name of authors Tobias, Thomas, and Tom.
+
+----
+num: 2
+category: Philosophy
+difficulty: HS
+fixed: 1
+seen: 519
+answer: René {Descartes}
+
+This man downplayed differences between Protestant and Catholic concepts of God in his Letter to Voetius. The four rules he used in all of his investigative work included dividing problems into simple parts and accepting only the self-evident as true; he codified his approach in Rules for the Direction of the Mind and Discourse on Method. He used that approach to write a religious text, the Meditations on First Philosophy. For 10 points, name this skeptical philosopher who started his investigations by declaring “Je pense, donc je suis” or “I think, therefore I am.”
+
+----
+num: 3
+category: History
+difficulty: HS
+fixed: 57
+seen: 416
+answer: Gerald {Ford} [or {Leslie King}]
+
+With the encouragement of Senator Arthur Vandenberg, this man defeated Bartel Jonkman to win a House seat. He was a leader of the House's “Young Turks”, and he served as a member of the Warren Commission. Elected minority leader in 1965, he was panned for his performance in a presidential debate in which he stated that, “There is no Soviet domination of Eastern Europe”, and his presidency was noted for its Whip Inflation Now program. For 10 points, name this only President not to be elected to any national office, who pardoned his predecessor, Richard Nixon.
+
+----
+num: 4
+category: Science
+difficulty: HS
+fixed: 57
+seen: 482
+answer: {velocity} [prompt on {speed} before it is read]
+
+The Peclet number is equal to the ratio of this quantity for convection to that for diffusion. A Pitot Tube is used to measure this quantity in gases, while its value in liquids can be determined using a Venturi Meter. Both of these devices make use of the idea that, like volume, as pressure increases, this decreases, a principle known as Bernoulli's Equation. When this is constant, acceleration is zero. For 10 points, name this kinematic quantity, the derivative of position, whose magnitude is equal to speed.
+
+----
+num: 5
+category: Fine Arts
+difficulty: HS
+fixed: -1
+seen: 492
+answer: Jan van Eyck
+
+This artist's version of the Last Judgment portrays the Archangel Michael standing on a skeletal bat covering the roof of Hell. St. Donatian and St. George present the title character to the Virgin Mary, who wears a red robe, in his painting The Madonna With Canon George van der Paele. This artist painted a self-portrait with a red turban, and collaborated with his brother Hubert on the Ghent Altarpiece. He also painted a mirror reflecting a couple holding hands during the title ceremony. For 10 points, name this 15th century Flemish painter of The Arnolfini Wedding.
+
+----
+num: 6
+category: Geography
+difficulty: HS
+fixed: -1
+seen: 719
+answer: {Caucasus} Mountains
+
+They extend south from the Kuma and Manych river basins, and between their two ranges lie the Shirak Steppe. They include the Dykshu, Bezingi, and Karaugom glaciers, and the largest lake in this mountain system is Sevan. Mount Aragats is located to the west of Lake Sevan, and the Talish Mountains are located in this system. Divided into the Greater and Lesser ranges, for 10 points name this mountain system located between the Caspian and Black seas with their highest peak at Mount Elbrus.
+
+----
+num: 7
+category: Fine Arts
+difficulty: HS
+fixed: 57
+seen: 497
+answer: {Italy} [or {Italia}]
+
+One film from this country features a man who steals away on a horse with his future wife Dora at her wedding, and ends up getting shot after convincing his son Joshua to play a game that requires one to earn 1,000 points to win a tank. Another film from this country sees a flyer-poster seek out the man who stole his means of transportation. The country of origin for Eight and a Half, The Bicycle Thief, and Life is Beautiful, for 10 points, name this country whose notable filmmakers include Federico Fellini and Roberto Benigni.
+
+----
+num: 8
+category: Literature
+difficulty: HS
+fixed: 1
+seen: 455
+answer: Sylvia {Plath}
+
+One of her poems accuses a character of being "pithy and historical as the Roman Forum," and another ends “I eat men like air.” In addition to “The Colossus” and “Lady Lazarus,” she wrote about "the substanceless blue" in "Ariel" and about how "every woman adores a fascist” in “Daddy.” Her only novel was published under the pseudonym Victoria Lucas and describes the mental breakdown of magazine intern Esther Greenwood. For 10 points, name this author of The Bell Jar, which was published in the same year that she killed herself with a gas oven.
+
+----
+num: 9
+category: Fine Arts
+difficulty: HS
+fixed: 1
+seen: 496
+answer: Noccolo {Paganini}
+
+One man with this last name was the maestro di capella of Novara Cathedral who composed L'uomo contento and Christus. The more famous man with this name composed 14 variations for violin with a repeated guitar accompaniment entitled Carmagnola, as well as a collaboration with Panny on variations entitled La Tempesta. One of his works inspired a series of variations that incorporate the Dies Irae melody, a rhapsody by Rachmaninoff. For 10 points, name this composer of 24 caprices, the most renowned Italian violin virtuoso of the 1800s.
+
+----
+num: 10
+category: Trash
+difficulty: HS
+fixed: 1
+seen: 1024
+answer: Nicholas {Cage} [prompt on Nicholas Kim {Coppola}]
+
+This man made a cameo appearance in the 1988 film Never On Tuesday as a man in a red sports car, and he played Johnny Collins in the 1991 thriller Zandalee. He was the first pick to star as The Green Goblin in Spider-Man, but a more recent role had him play John McLoughlin, a policeman pulled out from under the rubble in World Trade Center. Starring as Fu Manchu in the fake trailers to Grindhouse, and the title role in Ghost Rider, for 10 points, name this actor who played Ben Gates in two National Treasure films.
+
+----
+num: 11
+category: Science
+difficulty: HS
+fixed: 57
+seen: 492
+answer: memory
+
+Cheney's algorithm concerns an operation often performed on it. One kind of it has both NOR and NAND types, and wear-leveling preserves its lifespan, and the Von Neumann bottleneck concerns the limit on computer speed imposed by the ability for a CPU to perform computations faster than it can retrieve data from this. Garbage collection is a common form of automated management of, for 10 points, what form of data storage which comes in varieties like "random-access" and "flash?"
+
+----
+num: 12
+category: Literature
+difficulty: HS
+fixed: 1
+seen: 443
+answer: {Vanity Fair}
+
+In this novel, one character refuses to sell Lady Bareacres horses to escape from an invading army because the Lady had been rude to her in Brussels. Joseph mysteriously dies after getting an expensive life insurance policy, while Captain Dobbin marries the wife of George Osborne, who died at Waterloo. At the ball of the Duchess of Richmond, the protagonist's coquetry, despite the presence of her husband Rawdon Crawley, ruins her friendship with Amelia Sedley. For 10 points, name this novel about Becky Sharp, by William Makepeace Thackeray.
+
+----
+num: 13
+category: History
+difficulty: HS
+fixed: 57
+seen: 418
+answer: {Poland} [prompt on {Lithuania} before it is read]
+
+The Union of Krevo and the Union of Lublin formed a commonwealth between it and Lithuania, though that state was ended by a series of divisions, splitting it between Austria, Prussia, and Russia. Occasionally referred to as its “Fourth Partition” was its division by Molotov and Ribbentrop in 1939, and a shipyard strike here in 1980 was led by Lech Walesa and resulted in the Solidarity movement.. For 10 points, identify this nation, which, while occupied by the Nazis, saw a substantial uprising in 1944 in the capital, Warsaw.
+
+----
+num: 14
+category: Social Science
+difficulty: HS
+fixed: 57
+seen: 386
+answer: {money} [accept {currency} or {clear}-{knowledge} equivalents]
+
+Simon Newcomb helped to develop the "quantity theory" of this. Ludwig von Mises wrote a book about the theory of this and credit, and according to the Fisher Equation, the amount of it can be determined by dividing PT by V, which stands for its velocity. In the United States, its supply is divided into M1, M2, and M3 by the Federal Reserve. Inflation causes its purchasing power to decrease. For 10 points, name this keystone of the economy, whose examples include coins and dollar bills.
+
+----
+num: 15
+category: Science
+difficulty: HS
+fixed: 57
+seen: 488
+answer: {fluid mosaic} model
+
+The Frye-Edidin experiments can be rationalized by it as being the result of free diffusion, but one problem with it was discovered by Kusumi and concerned a "skeleton fence." First developed in 1972 by Singer and Nicolson, it states, among other things, that lipids and proteins can rotate. In addition, it describes a certain structure as a functionally asymmetric lipid bilayer studded with embedded proteins that aid in transport. For 10 points, name this model used to conceptualize cell membranes.
+
+----
+num: 16
+category: History
+difficulty: HS
+fixed: 57
+seen: 423
+answer: {Boxer} Rebellion [accept equivalents, such as {Boxer} Revolt]
+
+Alfred Graf von Waldersee led punitive expeditions after the main fighting of this event, and it was quelled by the Eight Nation Alliance. Its spread was checked by the actions of Liu-K'un-i, and it led to the occupation of T'ang-shan by Russian troops. It was sparked in part by a severe drought in the Shangdong province, and it originated in the work of the Eight Trigrams Society and was championed by the Dowager Empress Cixi. For 10 points, name this anti-Western Chinese uprising of 1900 led by the Society of Righteous and Harmonious Fists.
+
+----
+num: 17
+category: Mythology
+difficulty: HS
+fixed: 1
+seen: 785
+answer: {Gilgamesh}
+
+Before meeting the scorpion men at Mount Mashu, he tells Ninsun about his prophetic dreams. His subjects protest to Anu at the demanding labor that this king requires in order to build a wall. Aruru attempts to distract him by sending a figure who later joins this hero in a battle in the cedar forest against Khumbaba and in slaying the Bull of Heaven. Bearing the genetically implausible lineage of two-thirds god and one-third man, this king of Uruk and friend to Enkidu learns about eternal life from Utnapishtim. For 10 points, name this hero of a Sumerian epic.
+
+----
+num: 18
+category: History
+difficulty: HS
+fixed: 1
+seen: 411
+answer: {First Crusade} [prompt on The {Crusades}]
+
+This event was chronicled by Guibert of Nogent and Fulcher of Chartres. During this conflict's Battle of Dorylaeum, one side captured the treasury of Kilij Arslan, who had earlier defeated the forces of Walter the Penniless. Its leaders included Raymond of Toulouse and Peter the Hermit, and it was sparked by a speech at the Council of Clermont given by Pope Urban II. For 10 points, name this late eleventh century conflict which saw Godfrey de Boullion capture Jerusalem, which was followed by eight subsequent wars between Christians and Muslims.
+
+----
+num: 19
+category: Science
+difficulty: HS
+fixed: 1
+seen: 482
+answer: Orion
+
+Stars in this constellation form lines that can be used to locate Procyon, Sirius, and Aldebaran, and its iota star is a quadruple system known as Hatsya. It features a nebula that is the nearest area of massive star formation and is Messier Object 42. Its gamma star is Bellatrix, while the most notable feature of this constellation is made up of Alnitak, Alnilam, and Mintaka. Containing the stars Rigel and Betelgeuse, for 10 points, name this constellation known as "The Hunter" that has a namesake "belt."
+
+----
+num: 20
+category: Literature
+difficulty: HS
+fixed: 1
+seen: 450
+answer: George {Orwell} [or Eric {Blair}]
+
+This author suggested that Jack the Ripper belongs in a class by himself in the essay “Decline of the English Murder.” He argued that cliches and ready-made phrases erode the capability for intelligent thought in “Politics and the English Language.” In one of his novels, Julia works for the Anti-Sex League, and Emmanuel Goldstein is the target of the Two Minutes Hate, mandatory for all citizens of Oceania. He also wrote about a donkey named Benjamin and pigs named Napoleon and Snowball. For 10 points, name this author of 1984 and Animal Farm.
+
+----
+num: 21
+category: Literature
+difficulty: HS
+fixed: 57
+seen: 445
+answer: Luigi Pirandello
+
+In one of his plays, the audience leaves for intermission to find the actors in the lobby having conversations. That play is dominated by the director Doctor Hinkfuss. In another of his plays, Doctor Dionysius attempts to scare the title character back into sanity after he fell off a horse and began to think he was a Holy Roman Emperor. In addition to Tonight We Improvise and Henry IV, another of his plays ends when the Child drowns in a fountain despite the instructions of the Manager. For 10 points, name this Italian playwright of Six Characters in Search of an Author.
+
+----
+num: 22
+category: Science
+difficulty: HS
+fixed: -1
+seen: 486
+answer: {mercury} [accept {Hg} before it is read]
+
+The Franck-Hertz experiment used a tube filled with this element in a gaseous state, and various isotopes of this element were used to change in the critical temperature of superconductors due to the isotope effect. Found together with chlorine in calomel and sulfur in vermilion, it can be obtained from cinnabar, and forms alloys with other metals called amalgams. For 10 points, name this only element this is liquid at room temperatures, whose symbol is Hg.

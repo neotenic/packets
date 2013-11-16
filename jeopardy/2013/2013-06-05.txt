@@ -1,0 +1,428 @@
+####
+tournament: #6623
+round: Show #6623 - Wednesday, June 5, 2013
+year: 2013
+date: 2013-06-05
+####
+
+num: 1
+category: Literature
+difficulty: 200
+seen: 4
+answer: bob
+
+A short haircut for women, or what you do "for apples" on Halloween.
+
+----
+num: 2
+category: Science
+difficulty: 200
+seen: 7
+answer: soccer
+
+Gooo--wait, is it? Yes! Gooooooal! In 2012 this sport's FIFA approved the use of goal-line technology.
+
+----
+num: 3
+category: Literature
+difficulty: 200
+seen: 4
+answer: an address
+
+A speech to a group, or a designation like 1600 Pennsylvania Avenue.
+
+----
+num: 4
+category: Trash
+difficulty: 200
+seen: 6
+answer: McDonald\'s
+
+The Double Quarter Pounder with Cheese.
+
+----
+num: 5
+category: History
+difficulty: 200
+seen: 5
+answer: the Dover Strait
+
+Calais is less than 30 miles from England across this neck of the English Channel also called the Pas de Calais.
+
+----
+num: 6
+category: Literature
+difficulty: 400
+seen: 3
+answer: page
+
+Now calling one of these youths trained for knighthood.
+
+----
+num: 7
+category: Literature
+difficulty: 400
+seen: 4
+answer: "Should I Stay Or Should I Go"
+
+The Clash asked, "come on & let me know" this title.
+
+----
+num: 8
+category: Literature
+difficulty: 400
+seen: 3
+answer: succeed
+
+In the 19th century Thomas Palmer told us what to do "if at first you don't" do this.
+
+----
+num: 9
+category: History
+difficulty: 400
+seen: 4
+answer: a lighthouse
+
+For a great view of northern France, climb all 271 steps to the top of one of these, a Calais harbor landmark built in 1848.
+
+----
+num: 10
+category: Literature
+difficulty: 600
+seen: 4
+answer: chip
+
+It follows potato or precedes "off the old block".
+
+----
+num: 11
+category: Science
+difficulty: 600
+seen: 6
+answer: Intel
+
+This chipmaker, the world's largest, has announced "systems on a chip" measuring 22 nanometers.
+
+----
+num: 12
+category: Literature
+difficulty: 600
+seen: 5
+answer: my man
+
+Completes Sheryl Crow's query "are you strong enough to be" this.
+
+----
+num: 13
+category: Literature
+difficulty: 600
+seen: 4
+answer: an assassin
+
+One who murders a politically prominent person.
+
+----
+num: 14
+category: Trash
+difficulty: 600
+seen: 6
+answer: Wendy\'s
+
+Dave's Hot 'n Juicy 1/4 lb. Single.
+
+----
+num: 15
+category: History
+difficulty: 600
+seen: 4
+answer: the Siege of Calais
+
+The burghers of Calais were 6 men who offered themselves as hostages to get the English to lift this in 1347.
+
+----
+num: 16
+category: Literature
+difficulty: 800
+seen: 4
+answer: sienna
+
+A shade of brown, like Crayola's burnt & raw crayons.
+
+----
+num: 17
+category: Science
+difficulty: 800
+seen: 5
+answer: Bluetooth
+
+The name of this colorful wireless headset technology refers to a tech trade association founded in 1998.
+
+----
+num: 18
+category: Literature
+difficulty: 800
+seen: 3
+answer: a buttress
+
+Paris' Notre Dame was one of the first buildings to use a flying this, an arched exterior support.
+
+----
+num: 19
+category: Trash
+difficulty: 800
+seen: 5
+answer: White Castle
+
+A Crave Case of Sliders.
+
+----
+num: 20
+category: History
+difficulty: 800
+seen: 4
+answer: a bunker
+
+Visit "The Dome", built to launch Nazi V-2 rockets; it's this type of underground structure, buster.
+
+----
+num: 21
+category: Literature
+difficulty: 1000
+seen: 4
+answer: a lance
+
+A jousting spear.
+
+----
+num: 22
+category: Science
+difficulty: 1000
+seen: 6
+answer: methane
+
+CSIRO has developed technology that helps drain this gas, CH.
+
+----
+num: 23
+category: Literature
+difficulty: 1000
+seen: 4
+answer: who will save your soul
+
+Jewel asked this musical question "after all the lies that you told".
+
+----
+num: 24
+category: Literature
+difficulty: 1000
+seen: 4
+answer: embarrassment
+
+When it means a great abundance, it's usually found before "of riches".
+
+----
+num: 25
+category: Trash
+difficulty: 1000
+seen: 4
+answer: Sonic
+
+The Bacon Cheeseburger Toaster.
+
+----
+num: 26
+category: History
+difficulty: 1000
+seen: 4
+answer: the XVIII
+
+A column in Calais commemorates the return of this number King Louis after the fall of Napoleon.
+
+----
+num: 27
+category: History
+difficulty: 400
+seen: 4
+answer: tuberculosis
+
+In the Adirondacks Dr. Edward Trudeau opened the first U.S. sanitarium for this disease aka consumption.
+
+----
+num: 28
+category: Literature
+difficulty: 400
+seen: 4
+answer: (Lord) Byron
+
+"Epitaph for a Dog", a favorite one of this lord & romantic poet, can be seen on a monument at Newstead Abbey.
+
+----
+num: 29
+category: History
+difficulty: 400
+seen: 4
+answer: Paraguay
+
+This South American country is landlocked but loaded with hydropowerful rivers.
+
+----
+num: 30
+category: Literature
+difficulty: 400
+seen: 4
+answer: ask (in Alaska)
+
+If you're curious in Kodiak, just do this.
+
+----
+num: 31
+category: Literature
+difficulty: 800
+seen: 4
+answer: the Owl and the Pussycat
+
+"Hand in hand, on the edge of the sand," these 2 title animals of an Edward Lear poem "danced by the light of the moon".
+
+----
+num: 32
+category: History
+difficulty: 800
+seen: 4
+answer: the Pacific Ocean
+
+Its area is roughly 65 million square miles.
+
+----
+num: 33
+category: Trash
+difficulty: 800
+seen: 5
+answer: Bill Murray
+
+"Lost in Translation".
+
+----
+num: 34
+category: Literature
+difficulty: 800
+seen: 4
+answer: aware (in Delaware)
+
+Cognizant in Dover.
+
+----
+num: 35
+category: Literature
+difficulty: 1200
+seen: 4
+answer: Elizabeth Barrett Browning
+
+One of her sonnets says, "I love thee to the level of everyday's most quiet need, by sun and candle-light".
+
+----
+num: 36
+category: History
+difficulty: 1200
+seen: 5
+answer: American Telephone & Telegraph
+
+In 1886 this new subsidiary of Bell Telephone opened its first line, New York to Philadelphia.
+
+----
+num: 37
+category: Literature
+difficulty: 1200
+seen: 3
+answer: sour (in Missouri)
+
+Non-sweet taste in Independence.
+
+----
+num: 38
+category: Literature
+difficulty: 1600
+seen: 4
+answer: "Do Not Go Gentle into that Good Night"
+
+This poem by Dylan Thomas says, "old age should burn and rave at close of day; rage, rage against the dying of the light".
+
+----
+num: 39
+category: History
+difficulty: 1600
+seen: 5
+answer: Garfield
+
+1880 Democratic candidate Winfield Hancock's cluelessness about tariffs helped win this man the White House.
+
+----
+num: 40
+category: Literature
+difficulty: 1600
+seen: 5
+answer: William Inge
+
+In this playwright's "Come Back, Little Sheba", Sheba is the missing dog.
+
+----
+num: 41
+category: History
+difficulty: 1600
+seen: 4
+answer: Pinsk
+
+Maybe Dr. Drew's family came from this city in Belarus where the Pina & Pripet rivers meet.
+
+----
+num: 42
+category: Trash
+difficulty: 1600
+seen: 6
+answer: Jason Sudeikis
+
+"Horrible Bosses".
+
+----
+num: 43
+category: Literature
+difficulty: 1600
+seen: 4
+answer: Diana (in Indiana)
+
+Moon goddess in Muncie.
+
+----
+num: 44
+category: Literature
+difficulty: 2000
+seen: 5
+answer: a skylark
+
+"Like a poet hidden in the light of thought, singing hymns unbidden", said Shelley in his ode to this bird.
+
+----
+num: 45
+category: History
+difficulty: 2000
+seen: 6
+answer: Robert Ford
+
+"The ball struck him just behind the ear" isn't from the sports page but from this man telling how he shot Jesse James.
+
+----
+num: 46
+category: History
+difficulty: 2000
+seen: 6
+answer: Potsdam
+
+At a July 1945 conference in this city, the allies set forth a policy to occupy Germany & outlaw the Nazi Party.
+
+----
+num: 47
+category: Literature
+difficulty: 2000
+seen: 6
+answer: ego (in Oregon)
+
+Me, myself & I in Eugene.

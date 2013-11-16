@@ -1,0 +1,234 @@
+####
+tournament: HSAPQ ACF 3
+round: Round_02_HSAPQACF3.pdf
+year: 2008
+####
+
+num: 1
+category: Science
+difficulty: HS
+fixed: 1
+seen: 477
+answer: {sequences} [accept {infinite} sequences; prompt on {number} before “{Bolzano}-{Weierstrass}
+
+The aliquot type of these constructs can be used to identify perfect numbers, and the Bolzano- Weierstrass theorem states that every bounded one has a convergent subset. Ones in which the terms eventually become arbitrarily close are named for Cauchy. In any complete space, these are guaranteed to converge to a fixed limit. Many are defined via a (*) recursive formula, as is the case with the ones named for Lucas. For 10 points, identify these ordered lists of numbers, the most famous example of which begins one, one, two, three, five, eight and is named for Fibonacci.
+
+----
+num: 2
+category: History
+difficulty: HS
+fixed: -1
+seen: 422
+answer: Leif {Ericsson} [or Leif {Ericson}; or Leif {Erikson}; or Leif {Eriksson}]
+
+Anne Whitney designed a statue of this man that still stands in Boston. The so-called “Book of Kings” notes that this man, sometimes called “the Lucky” or “the Fortunate,” was originally a Christian missionary, while the Flatey codex claims that another man beat this man to his most famous (*) accomplishment. Another story tells of Tyrkir, a German who fell behind on a scouting mission only to surprise this man with talk of grapes. For 10 points, name this Norse adventurer who discovered Vinland, purportedly the first European to set foot in North America.
+
+----
+num: 3
+category: Literature
+difficulty: HS
+fixed: 57
+seen: 439
+answer: {Robinson Crusoe} [accept either; accept {Cruso}]
+
+In one novel, this man's former companion learns how to write the letter “o” from a woman who was once this man's lover. In that novel, he is accompanied by a woman who is looking for her lost daughter and dies homesick aboard a vessel commanded by Captain Smith. A torrent of water escapes from his tongueless (*) companion's mouth at the end of a novel about this man that sees him become Susan Barton's lover, J.M. Coetzee's Foe. For 10 points, name this man who was marooned with Friday, the title castaway of a novel by Daniel DeFoe.
+
+----
+num: 4
+category: Mythology
+difficulty: HS
+fixed: 1
+seen: 787
+answer: {Artemis} [{accept Diana}]
+
+According to some sources, Iphigenia became a priestess of this figure after being saved from sacrifice. This figure sometimes replaces Selene as the lover of Endymion, and this figure caused Otis and Ephialtes to kill each other. Out of jealousy of Eos, this figure killed (*) Orion, and she took part in the killing of Niobe's children. A grandson of Cadmus named Actaeon saw her bathing naked, so she caused his own dogs to kill him, and the Calydonian Boar was her creature. For 10 points, name this maiden goddess of the hunt and sister of Apollo.
+
+----
+num: 5
+category: Fine Arts
+difficulty: HS
+fixed: 1
+seen: 492
+answer: the Kingdom of {Spain} [or {Reino} de {España}]
+
+A piano concerto named for this country includes the movements At The Generalife and Distant Dance, and is named for “Nights in the Gardens of” this country. Edouard Lalo wrote a Symphonie with a solo violinist named for this place. A composer from here wrote the song “Will O' The Wisp” in Love The Magician, as well as writing The (*) Three-Cornered Hat. For 10 points, name this home of Manuel de Falla, a country that was musically portrayed in Debussy's Iberia and Glinka's Summer Night in Madrid.
+
+----
+num: 6
+category: Fine Arts
+difficulty: HS
+fixed: -1
+seen: 494
+answer: {El Greco} [or {Domenikos Theotokopolis}]
+
+This artist painted an Italian miniaturist pointing at a book in his portrait of Giulio Clovio. Jesus has his right hand bound in rope and wears red in this man's The Spoilation of Christ. A man in blue with his arms outstretched covers the whole left of his painting with nudes holding up green and yellow cloths, The Opening of the Fifth Seal of the Apocalypse. He painted a (*) city with a tempestuous sky and a bridge spanning a river in his View of Toledo. For 10 points, name this Spanish painter of The Burial of Count Orgaz, an artist born on Crete.
+
+----
+num: 7
+category: Science
+difficulty: HS
+fixed: 1
+seen: 484
+answer: {glycine} [or {Gly;} prompt on G before given]
+
+In addition to proline and hydroxyproline, the triple helix structure of collagen is primarily due to this amino acid. Strychnine works by blocking receptors for this amino acid, which, like GABA, is a common inhibitory neurotransmitter. Of the twenty amino acids commonly used to build proteins, it is the only (*) achiral one. For 10 points, name this smallest amino acid, whose R chain is just a hydrogen atom, given the one-letter designation G.
+
+----
+num: 8
+category: Social Science
+difficulty: HS
+fixed: 57
+seen: 390
+answer: {civilization} [accept The {Civilization} of the {Renaissance} in {Italy}]
+
+A work arguing that Florentine culture was the origin of individualism, written by Jacob Burckhardt, was titled as this “of the Renaissance in Italy.” Another work titled for it says that “surplus repression” is generated by capitalism and was written by Herbert Marcuse, pairing this entity with (*) “eros.” Another work with this word in the title analyzed the “oceanic feeling;” written by Freud, that book claims that this entity can only exist by frustrating individual drives and pairs it with “its discontents.” For 10 points, give this term for all of settled human society.
+
+----
+num: 9
+category: Literature
+difficulty: HS
+fixed: 1
+seen: 444
+answer: {Lady Chatterley's Lover}
+
+One character in this work considers a fling with the Irish writer Michaelis. This novel contains a nurse named Ivy Bolton. A scheme in this work sees the painter Duncan Forbes claim to be the father of the protagonist's illegitimate child. The title character's husband is a Baronet who lives at Wragby and becomes (*) paralyzed during World War I, and this novel was subject to an obscenity trial over its sexual content and the use of the f-word. For 10 points, name this work that sees Sir Clifford's wife Connie have an affair with gamekeeper Oliver Mellors, by D.H. Lawrence.
+
+----
+num: 10
+category: Literature
+difficulty: HS
+fixed: 1
+seen: 447
+answer: Zora Neale {Hurston}
+
+She wrote a version of the exodus story in which Miriam makes up the story about a princess discovering her brother, Moses, Man of the Mountain. In one of her novels, Earl David is the deformed child of Jim and Arvay Meserve. This author of Seraph on the Sewanee penned a collection of folklore from New Orleans and (*) Florida, Mules and Men. She wrote another work in which a woman kills her rabid husband Tea Cake. For 10 points, name this author who created Logan Killicks and Janie Crawford in Their Eyes Were Watching God.
+
+----
+num: 11
+category: Science
+difficulty: HS
+fixed: 1
+seen: 486
+answer: {angular momentum} [prompt on {momentum}]
+
+The total value of this property for an atom can be obtained by using Russell-Sanders coupling to combine contributions from orbital and spin components. A deficiency in this quantity during beta decay led Wolfgang Pauli to hypothesize the neutrino. Its conservation by (*) Noether's theorem is the basis of Kepler's second law of planetary motion, and torque is the time derivative of this quantity according to Newton's second law. For 10 points, name this vector quantity, defined as the product of the moment of inertia and the angular velocity.
+
+----
+num: 12
+category: Trash
+difficulty: HS
+fixed: 1
+seen: 1018
+answer: University of {Oregon}
+
+As of January 2009, this university's men's cross-country team is the two-time defending national champion. In 2002, this school's men's basketball team lost an Elite 8 game to Kansas after a run led by Luke Jackson and Luke Ridnour, and in 2007, Aaron Brooks was on its (*) Pac-10 championship team. Two alumni of its track team invented the waffle-soled shoe and founded Nike, and its football team won the 2008 “Civil War” against its rival from Corvallis. For 10 points, name this school which plays sports as the Ducks and is located in Eugene.
+
+----
+num: 13
+category: Fine Arts
+difficulty: HS
+fixed: 57
+seen: 499
+answer: {Amahl} and the {Night Visitors}
+
+Samuel Barber, a friend of this opera's composer, was hurriedly brought in to finish its orchestration. The title character attempts to convince his mother that there is a star “as big as a window” outside their house after she calls him in, and the aria “All These Beautiful Things” is sung as the title character fetches all of his neighbors. At its end, the protagonist's (*) leg is healed and he goes off with Kaspar, Balthazar, and Melchior to see the Christ child. For 10 points, name this first opera specifically composed for television, a work of Gian Carlo Menotti.
+
+----
+num: 14
+category: Literature
+difficulty: HS
+fixed: 1
+seen: 447
+answer: Emile Francois {Zola}
+
+One of this author's works sees the title character act in The Blonde Venus before succumbing to smallpox. This author penned a novel in his series that sees Maheu and Etienne work in a coal mine, a novel that appeared along with Therese Raquin and Nana in his (*) Rougon-Macquart series. This author also wrote a letter published in Clemenceau's L'Aurore newspaper that implicated Major Esterhazy in a crime blamed on a Jewish officer. For 10 points, name this author of Germinal, who defended Alfred Dreyfus in the letter J'Accuse.
+
+----
+num: 15
+category: History
+difficulty: HS
+fixed: None
+seen: 428
+answer: Ulysses S. Grant [or Hiram Ulysses Grant]
+
+During this man's administration, a potential annexation of Santo Domingo failed to be ratified by the Senate, and his Secretary of State Hamilton Fish negotiated the Treaty of Washington. He appointed Morrison Waite and Edwin Stanton to the Supreme Court, and he authorized a release of massive amounts of (*) gold in reaction to Fisk and Gould's attempt to corner the market on Black Friday. His vice president Schuyler Colfax was implicated in the Crédit Mobilier scandal. For 10 points, name this Civil War general and eighteenth president of the United States.
+
+----
+num: 16
+category: Philosophy
+difficulty: HS
+fixed: 1
+seen: 518
+answer: Utilitarianism
+
+This doctrine was deemed compatible with intuitionism yet irreconcilable with egoism as a form of “universal hedonism” in The Methods of Ethics, by Henry Sidgwick. Another of this school's adherents was William Paley, while its founder sought to apply it to a universal code of law in works such as Introduction to the (*) Principles of Morals and Legislation. In addition to Jeremy Bentham, it was advocated by the man who wrote On Liberty, John Stuart Mill. For 10 points, name this school of ethics that seeks to achieve “the greatest good for the greatest number.”
+
+----
+num: 17
+category: Science
+difficulty: HS
+fixed: 1
+seen: 480
+answer: the {equilibrium} constant
+
+The equation stating that the derivative of this quantity's natural logarithm is inversely proportional to heat and directly proportional the square of temperature is named after van't Hoff. By the Henderson-Hasselbalch equation, pH is equal to the base ten logarithm of this quantity for a (*) half-dissociated acid. If two moles of A turn into three moles of B, then this quantity can be calculated as the concentration of B, cubed, over the concentration of A, squared. For 10 points, name this constant that equals one when the forward and reverse reaction rates are equal.
+
+----
+num: 18
+category: History
+difficulty: HS
+fixed: 57
+seen: 415
+answer: {Macedonia} [or {Macedon}]
+
+The independence of this polity was the goal of the terrorist komitadji groups, and Stephen Dusan once conquered it. It was the site of the Salonica campaigns during World War I, and a man seeking independence of this polity assassinated King Alexander of Yugoslavia in 1934. The Congress of Berlin gave this polity back to the Ottoman Empire, thus nullifying the Treaty of San Stefano, which had awarded it to Bulgaria. It was ruled by the (*) Antigonids from 306 to 168 BC. For 10 points, name this region led by men such as Philip II and Alexander the Great.
+
+----
+num: 19
+category: Geography
+difficulty: HS
+fixed: 1
+seen: 722
+answer: {New Hampshire}
+
+This American state's city of Berlin is the site of textile mills on the Androscoggin River, and Laconia is on its Lake Winnipesaukee. With its eastern neighbor, this state shares the Isles of Shoals, and it is the origin of the Merrimack River. Its (*) Presidential Range includes its highest point, Mount Washington, part of the White Mountains. Formerly home to the Old Man of the Mountain, its western border is defined by the Connecticut River. For 10 point, name this state, home to Dartmouth University and the capital city of Concord.
+
+----
+num: 20
+category: History
+difficulty: HS
+fixed: 57
+seen: 411
+answer: {Saladin} [or {Salah} Ad-din {Yusuf Ibn Ayyub}; or {Al}-{malik An}-{nasir Salah} Ad-din {Yusuf} I]
+
+This man was defeated at the Battle of Arsuf, allowing his foes to retake Joppa. Earlier, his forces defeated Guy of Lusignan at the Horns of Hattin. His lands were divided among his sons Al-Afdal, Al- Zahir, and Al-Aziz after his death, fragmenting the new dynasty he had founded by taking advantage of popular opposition to the Shiite (*) Fatimids. This founder of a new Sunni dynasty in Egypt, the Ayyubids, was a Kurdish soldier whose actions led to the calling of the Third Crusade. For 10 points, name this sultan who retook Jerusalem, the nephew of Nur ad-din.
+
+----
+num: 21
+category: Literature
+difficulty: HS
+fixed: 1
+seen: 443
+answer: Graham {Greene}
+
+In one of his works, Father Leon Rivas is Paraguayan rebel leader who gets Eduardo Plarr to help him save his father. In one of his works, Thomas Fowler's Vietnamese mistress Phuong leaves him for Alden Pyle, who is murdered. In another work of this author, Brigida is the illegitimate daughter of the (*) Whiskey Priest, who is a Mexican fugitive. Helen Rolt becomes the mistress of Major Scobie, a west African official, in his The Heart of the Matter. For 10 points, name this author of The Quiet American and The Power and the Glory.
+
+----
+num: 22
+category: Science
+difficulty: HS
+fixed: 57
+seen: 478
+answer: {Polaris} [prompt on {North Star} before mentioned]
+
+This is the brightest star in a circular asterism known as the “Engagement Ring.” This second- magnitude star was classified by Ptolemy as third-magnitude, suggesting it may be twice as bright as it was two thousand years ago. It is the brightest Cepheid variable, and it lies along the line connecting Dubhe and Merak. Its most notable (*) characteristic will be usurped by Vega in a few thousand years. For 10 points, name this brightest star in Ursa Minor at the end of the Little Dipper, also known as the North Star.
+
+----
+num: 23
+category: History
+difficulty: HS
+fixed: None
+seen: 419
+answer: {Finland}
+
+The Aunus Expedition was launched by this nation against its eastern neighbor, with whom it would sign the Treaty of Tartu, and Frederick Charles of Hessen would have become king of this nation had Germany won World War I. The Battle of Tampere occurred during a civil war here fought between factions known as the White and Red Guards. This nation lost Petsamo in the (*) Continuation War and fought against the Soviet Union along the Mannerheim Line during the Winter War. For 10 points, name this country now led by Tarja Halonen from Helsinki.

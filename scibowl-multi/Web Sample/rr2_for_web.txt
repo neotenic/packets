@@ -1,0 +1,330 @@
+####
+tournament: Web Sample
+round: rr2_for_web.pdf
+####
+
+num: 2
+category: Earth Science
+difficulty: MS
+answer: W)  Anticyclone
+
+In meteorology, what is another name for a region of high pressure?
+W) Anticyclone 
+X) Cyclone 
+Y) Front 
+Z) Squall
+
+----
+num: 2
+category: Earth Science
+difficulty: MS
+answer: W)  Limestone
+
+Marble is a metamorphic ro ck that is often used for buildings and statues. What is the sedimentary rock that ma rble is commonly derived from?
+W) Limestone 
+X) Marle 
+Y) Shale 
+Z) Sandstone
+
+----
+num: 4
+category: Life Science
+difficulty: MS
+answer: W)   E. Coli
+
+Which of the following orga nisms is probably the most commonly studied prokaryote?
+W) E. coli
+X) C. elegans
+Y) M. musculus
+Z) H. sapiens
+
+----
+num: 4
+category: Life Science
+difficulty: MS
+answer: Z)  Xylem
+
+Most of the wood in a ty pical 100 year old oak tree is made of which of the following cells?
+W) cork cells 
+X) phloem 
+Y) epidermis 
+Z) xylem
+
+----
+num: 5
+category: Physical Science
+difficulty: MS
+answer: W)  for Two Pots of Boil Ing Water the One Which Is Boiling 
+Faster Has the Hottest Water
+
+Which of the following is NOT true?
+W) for two pots of boiling water the one which is boiling faster has the hottest water 
+Y) when water changes from a gas to a liquid, energy is released 
+X) the process of condensation is opposite to that of evaporation 
+Z) absolute zero is the point where all thermal motion stops
+
+----
+num: 6
+category: General Science
+difficulty: MS
+answer: Y)  Niacin
+
+A severe and chronic deficiency in what vitamin causes the disease known as pellagra:
+W) vitamin C 
+X) vitamin D 
+Y) niacin 
+Z) thiamine
+
+----
+num: 6
+category: General Science
+difficulty: MS
+answer: Z)  9 Times
+
+If a wind turbine with a 1 meter diameter is replaced with a wind turbine 3 meters in diameter, what is the increase in sweep ar eas for the turbine rotor or blades?
+W) 3 times 
+X) 5 times 
+Y) 7 times 
+Z) 9 times
+
+----
+num: 7
+category: Earth Science
+difficulty: MS
+answer: Y)  They Are Commonly Considered to Be the Most Explosive 
+and Dangerous Type of Volcano.
+
+Which of the following features is not usually associated with Shield Volcanoes?
+W) Broad and Gently Sloping 
+X) Made primarily of Highly Fluid Basaltic Lavas 
+Y) They are commonly considered to be the most explosive and dangerous type of volcano. 
+Z) Fissure eruptions are common on the flanks of these volcanoes.
+
+----
+num: 8
+category: Mathematics
+difficulty: MS
+answer: Y)  15
+
+A right triangle with sides of integer length has a ratio of leg lengths of 3:4. W hat is a possible length of the hypotenuse?
+W
+X) 12 ) 7
+Y) 15 
+Z) 21
+
+----
+num: 9
+category: Life Science
+difficulty: MS
+answer: W)  Ribosomes
+
+The nucleolus is the primary site for the manufacture of which of the following?
+W) ribosomes 
+X) Protein 
+Y) Lipid 
+Z) messenger RNA
+
+----
+num: 9
+category: Life Science
+difficulty: MS
+answer: W)  Insect Pollinators
+
+The evolution of flowers in many plants is believed to have depended most directly on the presence and evolution of which of the following:
+W) insect pollinators 
+X) certain predatory carnivores 
+Y) symbiotic plant viruses 
+Z) fungi
+
+----
+num: 10
+category: Physical Science
+difficulty: MS
+answer: Y)  Meta Ls and Nonmetals
+
+Ionic compounds are most commonly formed between what two types of elements?
+W) Nonmetals and nonmetals 
+X) Metals and metals 
+Y) Metals and nonmetals 
+Z) Metalloids and nonmetals
+
+----
+num: 10
+category: Physical Science
+difficulty: MS
+answer: Y)  H^2
+
+Which of the following is a diatomic molecule?
+W) H^20 
+X) methane 
+Y) H^2
+Z) NACl
+
+----
+num: 11
+category: General Science
+difficulty: MS
+answer: Y)  5.5
+
+The mass of a new 2002 USA quarter is about how many grams:
+W) 1.0 
+X) 2.5 
+Y) 5.5 
+Z) 7.0
+
+----
+num: 14
+category: Life Science
+difficulty: MS
+answer: X)  Knee
+
+What is the joint that is formed by the direct intera ction of the tibia, fibula, and fem ur?
+W) wrist 
+X) knee 
+Y) elbow 
+Z) ankle
+
+----
+num: 15
+category: Physical Science
+difficulty: MS
+answer: Y)  a Month
+
+The time required for the Moon to return to the same position relative to the backgro und stars (as seen from Earth) is about how long?
+W) A day 
+X) A week 
+Y) A month 
+Z) A year
+
+----
+num: 16
+category: General Science
+difficulty: MS
+answer: Y)  Amino Acids
+
+Methods that cause human hair to have curls usually rely on manipulating which of th e following types of hair molecules?
+W) carbohydrates 
+X) lipids 
+Y) amino acids 
+Z) DNA
+
+----
+num: 16
+category: General Science
+difficulty: MS
+answer: Z)  Fungi
+
+Rust and smut are plant disease that attack plants such as wheat, rye or corn. Both rust and smut are classified as what type of organisms.
+W) viruses 
+X) larval insects 
+Y) bacteria 
+Z) fungi
+
+----
+num: 17
+category: Earth Science
+difficulty: MS
+answer: X) High
+
+What does the prefix “alto” indicate when describing clouds?
+W) Deep 
+X) High 
+Y) Low 
+Z) Shallow
+
+----
+num: 17
+category: Earth Science
+difficulty: MS
+answer: Z)  Antarctica
+
+70% of all the Fresh Water on Earth is found in:
+W) The Caspian Sea 
+X) Lake Baikal 
+Y) The Great Lakes 
+Z) Antarctica
+
+----
+num: 18
+category: Mathematics
+difficulty: MS
+answer: W)   Complementary
+
+Two angles whose sum is a right angle are best described as:
+W) complementary 
+X) supplementary 
+Y) adjacent 
+Z) corresponding
+
+----
+num: 19
+category: Life Science
+difficulty: MS
+answer: W)  Interfering With the Synthesis of the Bacterial Cell 
+Wall
+
+The antibiotic penicillin halts bacterial growth by doing which of the following?
+W) Interfering with the synthesis of the bacterial cell wall 
+X) Interfering with the synthesis of bacterial ribosomes 
+Y) Preventing gene transcription 
+Z) Preventing attachment of messenger RNA to the ribosome
+
+----
+num: 20
+category: Physical Science
+difficulty: MS
+answer: Z)  Suspension
+
+Which of the following de scribes a liquid in which visible particles settle?
+W) Solution 
+X) Homogeneous mixture 
+Y) Colloid 
+Z) Suspension
+
+----
+num: 21
+category: General Science
+difficulty: MS
+answer: X)  100 Millili Ter Graduated Cylinder
+
+If you need to measure 100 milliliters of room temperature water, which of the following woul d be the most accurate instrument to use:
+W) 100 milliliter Erlenmeyer flask 
+X) 100 milliliter graduated cylinder 
+Y) 100 milliliter beaker 
+Z) 200 milliliter volumetric flask
+
+----
+num: 22
+category: Earth Science
+difficulty: MS
+answer: Y) Transpiration
+
+Water is released into the atmosphere by plants through a process know as.
+W) Teleportation 
+X) Transfiguration 
+Y) Transpiration 
+Z) Transportation
+
+----
+num: 23
+category: Mathematics
+difficulty: MS
+answer: Y)   10^−^100
+
+Simplify: (10^10)^−^10 (Read as: parentheses ten to the tenth power close parentheses 
+W) 10^20 to the negative tenth power)
+X) 10^2
+Y) 10^−^100
+Z) 10 billion
+
+----
+num: 25
+category: Physical Science
+difficulty: MS
+answer: Y)  Centrifugal
+
+Which of the following is not considered a true force?
+W) gravity 
+X) electromagnetic 
+Y) centrifugal 
+Z) strong nuclear force

@@ -1,0 +1,569 @@
+####
+tournament: Sample Set 5
+round: Round12.pdf
+####
+
+num: 1
+category: Physics
+difficulty: HS
+fixed: -1
+seen: 25
+answer: 2 D
+
+A monochromatic light source incident on a diffraction grating with slit separation d produces a pattern on the wall. What diffraction slit spacing would be required t o produce the same pattern on the wall using light of twice the wavelength?
+
+----
+num: 1
+category: Physics
+difficulty: HS
+fixed: -1
+seen: 26
+answer: 0.2
+
+
+A 10-gram bullet is shot with an initial velocity of 600 meters per second into a 2-kilogram ballistic pendulum and emerges from the pendulum with a speed of 200 meters per second. Given 10 meters per second squared as g, to what height in meters does the pendulum rise?
+
+----
+num: 1
+category: Physical Science
+difficulty: MS
+seen: 6
+answer: Foucault’s Pendulum (Accept: Pendulum)
+
+What famous scientific apparatus demonstrated the 
+Earth’s rotation by integrating the effect of the Coriolis force over a long time period?
+
+----
+num: 2
+category: Earth and Space
+difficulty: HS
+fixed: -1
+seen: 47
+answer: Evaporite (Accept:  Anhydrites or Calcium Sulfate) and 
+Stromatolites
+
+What two substances that provide evidence of the 
+Mediterranean’s periods of shallow marine and ari d desert environments compose the core material of a reflecting layer 325 to 650 feet beneath the Mediterranean Sea bottom?
+
+----
+num: 2
+category: Earth and Space Science
+difficulty: MS
+seen: 6
+answer: Permian and Triassic
+
+Earth’s most severe extinction event, also called the Great Dying, resulted in the extinction of 96% of marine species and 70% of terrestrial vertebrate species. This event marks the boundary between what two geological periods?
+
+----
+num: 3
+category: Physics
+difficulty: HS
+seen: 27
+answer: 1.05 × 10^5
+
+
+A bucket is filled with water to a depth of 20 centimeters. A layer of oil 30 centimeters thick with a specific gravity of 0.7 is poured on top of the water. Given that 1 atmosphere is 1.01 × 10^5 pascals and providing your answer in scientific notation with three significant digits, w hat is the absolute pressure, in pascals, at the bottom of the container?
+
+----
+num: 3
+category: Physical Science
+difficulty: MS
+seen: 5
+answer: Lorentz
+
+What is the name of the force experienced by a charged particle moving through a magnetic field , such that the force is at right angles to both the direction in which the particle is moving and the direction of the applied field ?
+
+----
+num: 3
+category: Physical Science
+difficulty: MS
+seen: 5
+answer: Cupric
+
+
+What is the term used for a compound that contains copper in the +2 oxidation state?
+
+----
+num: 4
+category: Energy
+difficulty: HS
+fixed: -1
+seen: 33
+answer: Ionization (Accept: Absorption)
+
+In electron energy-loss spectroscopy, at energies equal to the inner-shell binding energies, typically in hundreds to thousands of electron volts , inner-shell excitation of electrons gives rise to what kind of edges?
+
+----
+num: 5
+category: Math
+difficulty: HS
+seen: 25
+answer: 60
+
+How many permutations consisting of four letters each, starting with the letter E, can be formed from the letters in the word ENERGY ?
+
+----
+num: 5
+category: Math
+difficulty: MS
+seen: 6
+answer: 20
+
+What is the number of distinct diagonals in a regular octagon?
+
+----
+num: 5
+category: Math
+difficulty: MS
+seen: 7
+answer: 12 and 48
+
+
+An isosceles trapezoid has sides of length 9 2 , 9 2, 30 and y units. 
+Given that the two interior base angles measure 45°, what are all possible values of y in units?
+
+----
+num: 6
+category: Earth and Space
+difficulty: HS
+seen: 47
+answer: Loop
+
+What is the name of the clockwise current which brings warm Caribbean waters into the Gulf of Mexico before joining the Gulf Stream?
+
+----
+num: 6
+category: Earth and Space
+difficulty: HS
+fixed: -1
+seen: 47
+answer: Sirius, Canopus, Vega, Procyon, Achernar (Accept: 5, 4, 1, 2, 3)
+
+By name or number, order the following five stars from most to least bright based on apparent visual magnitude as seen from Earth: 1) Vega, 2) 
+Procyon (read as: PROH-see-ohn), 3) Achernar (read as: AH-kehr-nahr), 4) Canopus (read as: kah -NŌE-puhs), 5) Sirius (read as: SIR-ee-uhs).
+
+----
+num: 7
+category: Physics
+difficulty: HS
+seen: 26
+answer: 57°
+
+
+In an experiment, 200 grams of aluminum with a specific heat of 0.91 joules per kilogram Kelvin at 100° Celsius is mixed with 50.0 grams of water with a specific heat of 4.2 joules per kilogram Kelvin at 20° Celsius. The mixture is thermally isolated. What is the equilibrium temperature in degrees Celsius?
+
+----
+num: 7
+category: Physical Science
+difficulty: MS
+fixed: -1
+seen: 5
+answer: 20
+
+
+You lift a book from the floor to a shelf 2 meters above the ground. How much power, in watts, did you use if you exerted an upward force of 20 newtons in 2 seconds?
+
+----
+num: 8
+category: Earth and Space
+difficulty: HS
+seen: 45
+answer: Scoria
+
+What is the name of the vesicular basaltic lava that sinks in water?
+
+----
+num: 8
+category: Earth and Space
+difficulty: HS
+fixed: -1
+seen: 46
+answer: 4) Easily Recognizable, Abundant, Widespread Habitats (Accept: 2, 3,
+
+By name or number, identify all of the following four choices that are critical attributes of index fossils: 1) long range through time, 2) easily recognizable, 3) abundant, 4) widespread habitats.
+
+----
+num: 8
+category: Earth and Space Science
+difficulty: MS
+seen: 5
+answer: Aluminum
+
+Bauxite is primarily mined to attain what natural resource?
+
+----
+num: 9
+category: Energy
+difficulty: HS
+seen: 38
+answer: Antihydrogen
+
+What kind of antimatter was first trapped and studied at CERN in 
+November of 2010?
+
+----
+num: 9
+category: Energy
+difficulty: HS
+seen: 34
+answer: 500
+
+
+Give the power rating of a household appliance, in watts, if the cost of continuously running it for 30 days at 10 cents per kilowatt hour is $36 .
+
+----
+num: 9
+category: Energy
+difficulty: MS
+seen: 7
+answer: Hydraulic Fracturing (Accept: Fracking)
+
+
+What is the name of the process that involves the injection of more than a million gallons of water, sand , and chemicals at high pressure down and across a horizontally drilled well as far as 10,000 feet below the surface, causing the rock layer to crack?
+
+----
+num: 10
+category: Biology
+difficulty: HS
+seen: 40
+answer: Chitin and Glucans
+
+Fungi are the only organisms to combine which two substances in their cell walls?
+
+----
+num: 10
+category: Life Science
+difficulty: MS
+seen: 10
+answer: Chlorophyll
+
+It is believed that the reduction of what substance helps trigger abscission in plants?
+
+----
+num: 11
+category: Math
+difficulty: HS
+fixed: -1
+seen: 25
+answer: 30
+
+
+If chord AB is 8 units from the center of circle O with a radius of 17, what is the length of chord AB?
+
+----
+num: 11
+category: Math
+difficulty: MS
+seen: 6
+answer: 11 + 7i
+
+What is the product of the two complex numbers 4 + i and 3 + i?
+
+----
+num: 11
+category: Math
+difficulty: MS
+seen: 6
+answer: 17
+
+
+If the area of a rhombus is 240 square units, and one of the diagonals measures 16 units, what is the length, in units, of a side?
+
+----
+num: 12
+category: Biology
+difficulty: HS
+seen: 40
+answer: Acetylcholine
+
+What is the name of the most important neurotransmitt er for making skeletal muscles contract?
+
+----
+num: 12
+category: Biology
+difficulty: HS
+fixed: -1
+seen: 40
+answer: First Leaf, End of Flowering, 50% Color, and 50% Leaf Fall 
+(Accept: 1, 2, 3, 4 or All)
+
+By name or number, identify all of the following four choices thatfall.could be considered phenophases: 1) first leaf, 2) end of flowering, 3) 50% color, 4) 50% leaf
+
+----
+num: 13
+category: Energy
+difficulty: HS
+seen: 34
+answer: Reactive
+
+In an AC circuit, if the voltage and current are 90 degrees out of phase, what term can be used to describe the load?
+
+----
+num: 13
+category: Energy
+difficulty: MS
+seen: 6
+answer: Quasars (Accept: Active Galaxy Nuclei)
+ 
+
+What celestial bodies are the most luminous ever discovered?
+
+----
+num: 14
+category: Physics
+difficulty: HS
+seen: 27
+answer: 0.5
+
+A coil is wrapped with 200 turns of wire on a square frame with sides of 20 centimeters in length. A uniform magnetic field is applied perpendicular to the plane of the coil. If the field changes uniformly from 0.5 to 0 teslas in 8 seconds, what is the average value, to the nearest tenth volt, of the induced electromotive force?
+
+----
+num: 14
+category: Physical Science
+difficulty: MS
+seen: 6
+answer: Diamond, Vitreous Carbon, Nanofoam, Graphite (Accept: 1, 2, 3, 
+and 5)
+
+By name or number, identify all of the following five substances that are non-amorphous carbon allotropes: 1) diamond, 2) vitreous carbon, 3) nanofoam, 4) coal, 5) graphite.
+
+----
+num: 15
+category: Biology
+difficulty: HS
+seen: 40
+answer: Manganese, Magnesium, and Selenium (Accept: 1, 2 , and 5)
+ 
+
+By name or number, identify all of the following five elements that can be defined as essential trace elements required to support human biochemical processes:
+1) manganese, 2) magnesium, 3) bromine, 4) titanium, 5) selenium.
+
+----
+num: 16
+category: Math
+difficulty: HS
+seen: 25
+answer: ^2^13
+
+Providing your answer in simplest radical form, what is theeccentricity of the hyperbola ^(^x ^ ^4^ ^2)^2   ^(^y +^9^ ^3)^2= 1 (read as: open parenthesis x minus 2 close parenthesis squared over 4 minus open parenthesis y plus 3 close parenthesis squared over 9equals 1)?
+
+----
+num: 16
+category: Math
+difficulty: MS
+seen: 6
+answer: 16
+
+The base-six numeral 24 (read as: two-four) is equivalent to what in base 10?
+
+----
+num: 16
+category: Math
+difficulty: MS
+seen: 6
+answer: 16π
+
+If a line segment with endpoints at (0, 0) and (3, 4) in a plane isof rotated around the π? x-axis, then what is the volume of the resulting figure in cubic units in terms
+
+----
+num: 17
+category: Chemistry
+difficulty: HS
+seen: 34
+answer: No^3^− and Na+ (Accept: Nitrate and Sodium)
+
+Name the two spectator ions in the reaction of lead (II) nitrate and sodium sulfide.
+
+----
+num: 17
+category: Chemistry
+difficulty: HS
+fixed: -1
+seen: 34
+answer: He^2, He^2+, O^2^2
+^−, O^2^−, and O^2^(accept: 1, 4, 3, 5, 2)
+
+
+Place the following molecules or ions in order of increasing stability: He^ ^2, O^2, O^2^2^−, He^2+, O^2^−.^
+
+----
+num: 17
+category: General Science
+difficulty: MS
+seen: 5
+answer: Boron
+
+
+What element, when it enters into the carbon crystal structure of a diamond, gives it a blue color?
+
+----
+num: 18
+category: Earth and Space
+difficulty: HS
+seen: 50
+answer: Slate, Schist, Gneis S, Migmatite (Accept: 3, 2, 4, 1)
+
+By name or number, put the following four metamorphic rocks in order from lowest to highest metamorphic grade: 1) migmatite, 2) schist, 
+3) slate, 4) gneiss (read as: NICE).
+
+----
+num: 19
+category: Chemistry
+difficulty: HS
+seen: 35
+answer: Co+^(accept: 2)
+
+By name or number, identify which of the following three species is paramagnetic: 1) CO, 2) CO +, 3) CO^2+.
+
+----
+num: 19
+category: Chemistry
+difficulty: HS
+seen: 35
+answer: Iodine, Bromine, Fluorine, Chlorine (Accept: 4, 3, 1, 2)
+
+
+By name or number, order the following four elements from least to most exothermic electron affinity: 1) fluorine, 2) chlorine, 3) bromine, 4) iodine.
+
+----
+num: 19
+category: General Science
+difficulty: MS
+seen: 6
+answer: Milankovitch Cycles
+
+
+What is the term for the very long time scales of change for Earth’s tilt and orbit?
+
+----
+num: 20
+category: Biology
+difficulty: HS
+fixed: -1
+seen: 40
+answer: Western Garter Snake, Woodchuck,  Little Brown Bat (Accept: 1, 
+2, and 5 )
+
+By name or number, identify all of the following five organisms that are known as true hibernators because they lower their body temperature to conserve energy: 1) western garter snake, 2) woodchuck, 3) skunk, 4) brown bear, 5) little brown bat.
+
+----
+num: 20
+category: Life Science
+difficulty: MS
+seen: 10
+answer: Mycelium
+
+What is the name of a mat of absorptive filaments in fungus?
+
+----
+num: 20
+category: Life Science
+difficulty: MS
+seen: 11
+answer: Alpha Helix and Beta Strand (Accept:  Sheet)
+
+Name the two types of secondary structures found in proteins.
+
+----
+num: 21
+category: General Science
+difficulty: MS
+seen: 6
+answer: Lithification
+
+
+What is the name of the process in which sediments compact under pressure and gradually become solid rock?
+
+----
+num: 22
+category: Math
+difficulty: HS
+seen: 27
+answer: (4 2, 7π/4)
+
+Providing your answer in radians with positive r and theta between 0 and 2π, change the point (4, -4) from rectangular form to simplest polar form.
+
+----
+num: 22
+category: Math
+difficulty: HS
+fixed: -1
+seen: 27
+answer: 0
+
+For which values of x is the following piecewise function continuous: f (x) = 0 if x is rational, and f(x) = 4x if x is irrational?
+
+----
+num: 22
+category: Math
+difficulty: MS
+seen: 7
+answer: 3
+
+How many vertical asymptotes does the functionf(x) = ^x^2^ ^ ^2^x^ ^ ^ ^3(read as: f of x equals open parenthesis x squared minus 2x minus 3 close ^x^4^ ^ ^13^x^2^ ^+ 36parenthesis over open parenthesis x to the fourth minus 13 x squared plus 36 close parenthesis) have?
+
+----
+num: 23
+category: Physics
+difficulty: HS
+seen: 25
+answer: 18
+
+
+An object is 48 centimeters tall. Its image is 40 centimeters tall, and 15 centimeters away from a mirror. How far, in centimeters, is the object from the mirror?
+
+----
+num: 23
+category: Physical Science
+difficulty: MS
+seen: 5
+answer: Van Der Waals (Accept: London Dispersion)
+
+Molecules such as molecular nitrogen and hydrocarbons are able to be liquefied due to what kind of intermolecular forces?
+
+----
+num: 23
+category: Physical Science
+difficulty: MS
+seen: 5
+answer: 30
+
+
+Calculate the impulse , in newton seconds, when an average force of 15 newtons is exerted on a 700 kilogram car for 2 seconds.
+
+----
+num: 24
+category: Biology
+difficulty: HS
+seen: 37
+answer: Bilateral
+
+What kind of symmetry is associated with the process of cephalization?
+
+----
+num: 24
+category: Biology
+difficulty: HS
+seen: 40
+answer: Sprq (Accept:  Qrps)
+
+What is the correct linkage map for the genes P, Q, R, and Sgiven the following recombination frequencies between each gene: P-Q, 22%; P-R, 8%; 
+P-S, 6%; S-Q, 30%; R-Q, 13%; and R-S, 15%?
+
+----
+num: 24
+category: Life Science
+difficulty: MS
+seen: 11
+answer: Imperfect
+
+Which group of fungi has never been observed reproducing sexually?
+
+----
+num: 25
+category: Chemistry
+difficulty: HS
+seen: 33
+answer: Hydrogen, Helium, Lithium, Boron, and Beryllium
+
+According to the Big Bang theory, stable isotopes of what five elements were produced shortly after the universe was formed?

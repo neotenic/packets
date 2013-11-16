@@ -1,0 +1,101 @@
+####
+tournament: Web Sample
+round: de1_for_web.pdf
+####
+
+num: 2
+category: Earth Science
+difficulty: MS
+answer: W )  Troposphere
+
+Studies of the atmosphere have recently linked global warm ing with increases in the height of which layer of the Earth’s atmosphere?
+W) Troposphere 
+X) Stratosphere 
+Y) Mesosphere 
+Z) Ionosphere
+
+----
+num: 5
+category: Physical Science
+difficulty: MS
+answer: X)  Most Ultraviolet Radiation
+
+To which of the following is the ozone layer of Earth’s upper atmosphere most opaque:
+W) Most infrared radiation 
+X) Most ultraviolet radiation. 
+Y) Most of the visible light spectrum. 
+Z) Most radio waves.
+
+----
+num: 7
+category: Earth Science
+difficulty: MS
+answer: Z)  Liquefaction
+
+Which of the following is one of the principal causes of property damage during earthquakes and occurs when vibrations force groundwater upwards, making the soil lose its cohesion and behave tem porarily as a fluid?
+W) rifting 
+X) desedimentation 
+Y) fluidization 
+Z) liquefaction
+
+----
+num: 12
+category: Earth Science
+difficulty: MS
+answer: W )  the Antarctic Circumpolar Current
+
+Which of the following is the only oceancurrent that flows nearly unim peded around the Earth:
+W) the Antarctic Circumpolar Current 
+X) the Gulf Stream
+Y) the North Equatorial Current 
+Z) the South Equatorial Current
+
+----
+num: 15
+category: Physical Science
+difficulty: MS
+answer: Z)  It Rotates on Its Side With Its Axis Is Nearly 
+Parallel to the Pl Ane of Its Orbit
+
+What is peculiar in the rotation of the planet Uranus?
+W) It is much slower than is typical for Jovian planets 
+X) It is much faster than is typical for Jovian planets 
+Y) The equator rotates much faster than the po les 
+Z) It rotates on its side with its axis is nearly parallel to the plane of its orbit
+
+----
+num: 15
+category: Physical Science
+difficulty: MS
+answer: Y)  Changing One Gram of Water From a Liquid to a Gas
+
+Which of the following requires the most energy:
+W) Raising the tem perature of one gram of water by one degree Celsius 
+X) Changing one gram of ice from a solid to a liquid 
+Y) Changing one gram of water from a liquid to a gas 
+Z) Lowering the tem perature of one gram of water by one degree Celsius
+
+----
+num: 16
+category: General Science
+difficulty: MS
+answer: X)  Clusters of Billion of Stars
+
+Which of the following is the best description of galaxies:
+W ) clouds of gases around stars 
+X) clusters of billion of stars 
+Y) rare in the universe 
+Z) always spherical in shape
+
+----
+num: 25
+category: Physical Science
+difficulty: MS
+answer: Y)  the Astronauts Experience “A Pparent Weightlessness” Because They Are 
+Constantly Falling Around the Earth
+
+Astronauts in the space shuttle are ab out 100 miles above the earth’s surface. What is true about the effect of gravity on these space shuttle astron auts?
+W) The astronauts are far outside the earth’s gravitational field 
+X) The astronauts have some mass, but it is less than their mass would be on the earth’s surface 
+Y) The astronauts experience “apparent wei ghtlessness” because they are constantly falling around the earth 
+Z) The astronauts have no m ass as they are orbiting the earth

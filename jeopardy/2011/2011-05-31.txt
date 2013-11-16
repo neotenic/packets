@@ -1,0 +1,392 @@
+####
+tournament: #6162
+round: Show #6162 - Tuesday, May 31, 2011
+year: 2011
+date: 2011-05-31
+####
+
+num: 1
+category: Science
+difficulty: 200
+seen: 8
+answer: the placenta
+
+In the womb a baby receives nourishment from this, also called the afterbirth.
+
+----
+num: 2
+category: Literature
+difficulty: 200
+seen: 4
+answer: "Eleanor Rigby"
+
+"All the lonely people, where do they all belong?".
+
+----
+num: 3
+category: History
+difficulty: 200
+seen: 5
+answer: Monaco
+
+It has no army, just a 131-man civil defense force &  a palace guard that looks after Prince Albert & family.
+
+----
+num: 4
+category: Literature
+difficulty: 200
+seen: 4
+answer: General Motors
+
+In June 2009 this car co. organized by William Durant in 1908 filed for bankruptcy; it emerged from Chapter 11 in July.
+
+----
+num: 5
+category: Social
+difficulty: 200
+seen: 5
+answer: the Renaissance
+
+One course was "Introduction to the History of Art:  Prehistory to" this cultural movement that began in Italy in the 1300s.
+
+----
+num: 6
+category: Literature
+difficulty: 200
+seen: 5
+answer: lamb
+
+Seeing this baby animal is like a balm to me.
+
+----
+num: 7
+category: Science
+difficulty: 400
+seen: 6
+answer: the nose
+
+As you might guess by its name, the nasalis is a muscle in this facial feature.
+
+----
+num: 8
+category: Literature
+difficulty: 400
+seen: 4
+answer: "Blackbird"
+
+"You were only waiting for this moment to arise".
+
+----
+num: 9
+category: History
+difficulty: 400
+seen: 4
+answer: Grenada
+
+Southernmost of the Lesser Antilles, it hasn't had an army since a 1983 U.S. invasion.
+
+----
+num: 10
+category: Literature
+difficulty: 400
+seen: 3
+answer: the Panama Canal
+
+A French company went bankrupt in 1889 after digging out 76 million cubic yards of earth to make this waterway.
+
+----
+num: 11
+category: Social
+difficulty: 400
+seen: 4
+answer: psychology
+
+"Introduction to" this explored its "approaches to the biological, cognitive, social, and emotional bases of behavior".
+
+----
+num: 12
+category: Literature
+difficulty: 400
+seen: 4
+answer: badger
+
+One of these mammals barged into my front yard.
+
+----
+num: 13
+category: Literature
+difficulty: 600
+seen: 4
+answer: "Ticket To Ride"
+
+"My baby don't care, my baby don't care".
+
+----
+num: 14
+category: History
+difficulty: 600
+seen: 4
+answer: Andorra
+
+France & Spain share the defense of this little country nestled between them.
+
+----
+num: 15
+category: Literature
+difficulty: 600
+seen: 4
+answer: Ibsen
+
+The 1836 bankruptcy of the dad of this "Peer Gynt" author disgraced the family.
+
+----
+num: 16
+category: Social
+difficulty: 600
+seen: 5
+answer: architecture
+
+"The Chinese House from Courtyard to City" was a course offered in 2010 by this department.
+
+----
+num: 17
+category: Literature
+difficulty: 600
+seen: 4
+answer: a parrot
+
+Unlike the raptor, this pet bird isn't predatory.
+
+----
+num: 18
+category: Science
+difficulty: 800
+seen: 6
+answer: the skull
+
+Allowing for almost no movement between 2 bones, a suture is a joint only found here.
+
+----
+num: 19
+category: Literature
+difficulty: 800
+seen: 4
+answer: "A Hard Day\'s Night"
+
+"You know I feel all right".
+
+----
+num: 20
+category: History
+difficulty: 800
+seen: 4
+answer: Iceland
+
+This island country, a charter member of NATO, has a Coast Guard but hasn't had an army since 1869.
+
+----
+num: 21
+category: Literature
+difficulty: 800
+seen: 3
+answer: Stanley
+
+Last name of the brothers whose "Steamer" company lost steam with the popularity of gas cars & went bankrupt in 1924.
+
+----
+num: 22
+category: Social
+difficulty: 800
+seen: 5
+answer: philosophy
+
+I think the title for this department's S100 01 was "Happiness", therefore I am.
+
+----
+num: 23
+category: Literature
+difficulty: 800
+seen: 4
+answer: ocelots
+
+These spotted cats are the coolest!.
+
+----
+num: 24
+category: Science
+difficulty: 1000
+seen: 6
+answer: the femoral arteries
+
+From the Latin for "thigh",.
+
+----
+num: 25
+category: History
+difficulty: 1000
+seen: 4
+answer: Micronesia
+
+The United States is responsible for the defense of these "little" federated states in the western Pacific.
+
+----
+num: 26
+category: Literature
+difficulty: 1000
+seen: 4
+answer: (Daniel) Defoe
+
+This "Moll Flanders" author started a business career but went bankrupt & turned to writing.
+
+----
+num: 27
+category: Social
+difficulty: 1000
+seen: 5
+answer: (Gertrude) Stein
+
+"Modern American Literature, 1900-1950" looked at Cather, Eliot & this "Rose is a rose is a rose" writer, among others.
+
+----
+num: 28
+category: Literature
+difficulty: 1000
+seen: 4
+answer: the manatee
+
+Some unusual sounds emanate from this sea mammal.
+
+----
+num: 29
+category: Trash
+difficulty: 400
+seen: 5
+answer: Cheerios
+
+The "I" in the name of this General Mills cereal is dotted with a piece of the cereal.
+
+----
+num: 30
+category: History
+difficulty: 400
+seen: 4
+answer: football
+
+By 1905 this college sport had gotten so violent, TR urged important rule changes that were soon adopted.
+
+----
+num: 31
+category: Literature
+difficulty: 400
+seen: 3
+answer: the bullpen
+
+Where the relievers wait, talk & chew until the latter stages of a baseball game.
+
+----
+num: 32
+category: Science
+difficulty: 800
+seen: 5
+answer: terraces
+
+From the Latin for "earth", they're the structures the Incas evolved for growing crops on forbidding hillsides.
+
+----
+num: 33
+category: Trash
+difficulty: 800
+seen: 5
+answer: Sweden
+
+It says right on the bottle: Absolut Vodka is from the country of this.
+
+----
+num: 34
+category: History
+difficulty: 800
+seen: 4
+answer: a boxing ring
+
+TR had one of these set up in the White House, & he would regularly don the gloves.
+
+----
+num: 35
+category: Literature
+difficulty: 800
+seen: 3
+answer: bull\'s eye
+
+Hit the double this in the pub & you'll score 50 points.
+
+----
+num: 36
+category: Trash
+difficulty: 1200
+seen: 5
+answer: Coors Light
+
+This light beer brand comes in a "cold activated can"--"When the mountains turn blue, it's as cold as the Rockies".
+
+----
+num: 37
+category: Literature
+difficulty: 1200
+seen: 5
+answer: a bullmastiff
+
+Developed in 19th century England, it's the breed of guard dog seen.
+
+----
+num: 38
+category: Trash
+difficulty: 1600
+seen: 5
+answer: Arm & Hammer
+
+The logo of this brand of baking soda features the slogan "The standard of purity".
+
+----
+num: 39
+category: History
+difficulty: 1600
+seen: 5
+answer: the Russo-Japanese War
+
+In 1906 TR became the first American to win a Nobel Prize: he helped to end this Asian war.
+
+----
+num: 40
+category: Literature
+difficulty: 1600
+seen: 5
+answer: bulletproof
+
+Even the tires on the presidential limousine are this.
+
+----
+num: 41
+category: Trash
+difficulty: 2000
+seen: 9
+answer: a leaf
+
+Breyers ice cream has a green briar one of these on the carton.
+
+----
+num: 42
+category: History
+difficulty: 2000
+seen: 5
+answer: his wife and his mother
+
+Valentine's Day, 1884 was doubly tragic for TR-- these 2 women in his life both died.
+
+----
+num: 43
+category: Literature
+difficulty: 2000
+seen: 5
+answer: a bullfinch
+
+It's not a compiler of mythic tales, it's the creature seen.

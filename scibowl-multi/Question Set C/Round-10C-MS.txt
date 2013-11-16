@@ -1,0 +1,320 @@
+####
+tournament: Question Set C
+round: Round-10C-MS.pdf
+####
+
+num: 1
+category: Physical Science
+difficulty: MS
+answer: Y)  Cellulose Is an Example of a Natural Polymer
+
+Which of the following statements is TRUE:
+W) for a heavy element to be stable the number of protons typically equals the number of neutrons 
+X) the faster a boiling uncovered pot of water boils the hotter the water becomes
+Y) cellulose is an example of a natural polymer
+Z) the speed of light is always the same
+
+----
+num: 1
+category: Physical Science
+difficulty: MS
+answer: W)  Potassium Hydroxide
+
+Which of the following is NOT a salt:
+W) potassium hydroxide 
+X) potassium bromide
+Y) magnesium chloride
+Z) calcium carbonate
+
+----
+num: 2
+category: Earth Science
+difficulty: MS
+answer: W)  Cool With High Thin Clouds
+
+A high-pressure weather system is typically associated with which of the following conditions:
+W) cool with high thin clouds
+X) cool with nimbostratus clouds
+Y) warm with moderate overcast
+Z) warm with cumulonimbus clouds
+
+----
+num: 4
+category: General Science
+difficulty: MS
+answer: W)  Represents a Missing Link Between Fish and Land 
+Vertebrates
+
+A recent 375-million year old fossil discovered in the upper reaches of Canada had many unusual features including a flat head with eyes on top and overlapping ribs. This was a major discovery because it is believed this:
+W) represents a missing link between fish and land vertebrates
+X) was the first juvenile Tyrannosaurus ever found in Canada
+Y) was an amphibian bird from the Cretaceous Period
+Z) supports vertebrates evolving first on land rather than at sea
+
+----
+num: 4
+category: General Science
+difficulty: MS
+answer: Z)  Consume Only Pasteurized Dairy Products
+
+Which of the following practices is one of the MAIN ways of preventing Brucellosis in humans:
+W) avoid tick bites 
+X) include vitamin C in your diet
+Y) include niacin in your diet
+Z) consume only pasteurized dairy products
+
+----
+num: 5
+category: Life Science
+difficulty: MS
+seen: 1
+answer: X)  the Matching Alleles for a Certain Physical Characteristic 
+Are Different
+
+Which of the following is the BEST example of a heterozygous condition:
+W) non -identical twins
+X) the matching alleles for a certain physical characteristic are different
+Y) one of a pair of chromosomes is lost
+Z) two zygotes are fused together
+
+----
+num: 6
+category: Physical Science
+difficulty: MS
+answer: X)  a Combustion Reaction Releases Heat
+
+Which of the following is typically TRUE:
+W) rare earth metals are also known as alkali metals 
+X) a combustion reaction releases heat
+Y) noble gases are very reactive elements
+Z) a reaction in equilibrium cannot move forward or backward
+
+----
+num: 7
+category: Earth Science
+difficulty: MS
+answer: X)  Cinder Cone
+
+Which of the following is a volcano that is generally the smallest type, has very steep slopes, and would most likely result from a single violent eruption:
+W) stratovolcano
+X) cinder cone
+Y) shield volcano
+Z) lava dome
+
+----
+num: 7
+category: Earth Science
+difficulty: MS
+answer: W)  Silica Content
+
+Which of the following primarily influences the viscosity and therefore the explosivity of a magma:
+W) silica content
+X) gas content
+Y) temperature
+Z) pressure
+
+----
+num: 9
+category: General Science
+difficulty: MS
+answer: W )  Efficiency
+
+Which of the following is the MAIN advantage of the 
+LED, or light emitting diode, versus the conventional incandescent lamp:
+W) efficiency
+X) size
+Y) they can be made out of plastic
+Z) they are cheaper to manufacture
+
+----
+num: 9
+category: General Science
+difficulty: MS
+answer: X)  Potassium
+
+Which of the following elements is essential to the human body for muscle and nerve function and maintaining fluid balance:
+W) iodine
+X) potassium
+Y) calcium
+Z) iron
+
+----
+num: 11
+category: Physical Science
+difficulty: MS
+answer: Y)  They Are Randomly Arranged
+
+Which of the following is the BEST description of the arrangement of the magnetic domains of an unmagnetized iron bar:
+W) all are aligned at 180º to each other
+X) all are aligned at 90º to each other
+Y) they are randomly arranged
+Z) there are no magnetic domains in this case
+
+----
+num: 12
+category: Earth Science
+difficulty: MS
+answer: Y)  Because of Its High Altitude, Mt. Everest Contains a Vast 
+Continental Glacier
+
+Which of the following is NOT true about glaciations:
+W) about 15,000 years ago, most of Wisconsin was buried under thick glacial ice 
+X) throughout history, times such as now when only minor ice sheets existed coincided with high sea levels
+Y) because of its high altitude, Mt. Everest contains a vast continental glacier
+Z) Australia does not currently contain any glaciers
+
+----
+num: 12
+category: Earth Science
+difficulty: MS
+answer: Z)  Holocene
+
+Which of the following is the Epoch name given to the last approximately 10,000 years of Earth’s history:
+W) Quaternary
+X) Eocene
+Y) Miocene 
+Z) Holocene
+
+----
+num: 14
+category: General Science
+difficulty: MS
+answer: Z)  Lyme Disease
+
+If you notice a red-ringed rash similar to the shape of a bull’s-eye, which of the following diseases would you expect you have:
+W) malaria
+X) poison ivy
+Y) sickle cell anemia
+Z) Lyme disease
+
+----
+num: 14
+category: General Science
+difficulty: MS
+answer: Y)  Lyme Disease Is Treated With Anti-Viral Drugs
+
+Which of the following is NOT true about Lyme disease:
+W) only a small percentage of tick bites in the U.S. result in Lyme disease
+X) in early stages, people experience flu-like symptoms
+Y) Lyme disease is treated with anti-viral drugs
+Z) the ticks that carry the disease are about the size of a sesame seed
+
+----
+num: 15
+category: Life Science
+difficulty: MS
+answer: Z)  Lymphocyte
+
+Which of the following is the name for the blood cell in humans that plays the most central role in regulating the immune system:
+W) macrophage 
+X) mast cell
+Y) erythrocyte
+Z) lymphocyte
+
+----
+num: 15
+category: Life Science
+difficulty: MS
+answer: W)  Acetylcholine
+
+Which of the following is a common excitatory neurotransmitter in mammals:
+W) acetylcholine
+X) insulin
+Y) estrogen
+Z) glycine
+
+----
+num: 16
+category: Physical Science
+difficulty: MS
+answer: X)  Inverted
+
+Real images produced by a single lens are always:
+W) upright
+X) inverted
+Y) virtual
+Z) smaller
+
+----
+num: 16
+category: Physical Science
+difficulty: MS
+answer: Y)  as a Light Wave’s Frequency Increases So Must Its Amplitude
+
+Which of the following is NOT true:
+W) sound waves can be considered longitudinal waves
+X) light slows down when it enters glass from dry air
+Y) as a light wave’s frequency increases so must its amplitude
+Z) light can be produced with one frequency
+
+----
+num: 17
+category: Earth Science
+difficulty: MS
+answer: W)  Upwelling
+
+Which of the following is the primary process by which colder ocean water loaded with nutrients rises to the surface:
+W) upwelling
+X) ocean swells
+Y) maelstroms
+Z) eddies
+
+----
+num: 17
+category: Earth Science
+difficulty: MS
+answer: Z)  Porous Subsurface Rock Saturated With Water
+
+Which of the following BEST describes or exemplifies an aquifer:
+W) superheated water bursting through surface cracks in the Earth 
+X) a lake, pond or stream
+Y) the side of a mountain facing the prevailing winds
+Z) porous subsurface rock saturated with water
+
+----
+num: 19
+category: General Science
+difficulty: MS
+answer: Z)  Vitamin E
+
+Which of the following is an anti-oxidant vitamin typically found in relatively high amounts in vegetable oils, nuts and dark green leafy vegetables:
+W) vitamin K
+X) vitamin C
+Y) vitamin D
+Z) vitamin E
+
+----
+num: 19
+category: General Science
+difficulty: MS
+answer: X)  a Metabolic Disease
+
+Thyroid disease is typically thought of as:
+W) a blood disorder
+X) a metabolic disease
+Y) a digestive system disorder
+Z) an immune system disorder
+
+----
+num: 20
+category: Life Science
+difficulty: MS
+answer: X)  Arthropoda
+
+Which of the following is the phylum to which organisms with large amounts of chitin belong:
+W) Anthophyta 
+X) Arthropoda
+Y) Vertebrata
+Z) Ginkophyta
+
+----
+num: 20
+category: Life Science
+difficulty: MS
+answer: Y)  Atp
+
+Which of the following is the MOST readily available energy store during normal human cellular conditions:
+W) fat
+X) proteins
+Y) ATP
+Z) glucose

@@ -1,0 +1,369 @@
+####
+tournament: Sample Set 4
+round: Round3.pdf
+####
+
+num: 2
+category: Physics
+difficulty: HS
+seen: 25
+answer: Terminal (A Ccept: Constant)
+
+When the drag force acting on a skydiver and the force of gravity are equal, how can you characterize his or her velocity?
+
+----
+num: 2
+category: General Science
+difficulty: MS
+seen: 5
+answer: Ellipse  (Also Accept Elliptical)
+
+What is the shape of the orbits of the planets around the Sun in our Solar System?
+
+----
+num: 2
+category: General Science
+difficulty: MS
+seen: 6
+answer: Uranus
+
+What was the first planet discovered with a telescope?
+
+----
+num: 5
+category: Math
+difficulty: MS
+fixed: -1
+seen: 5
+answer: 9π
+
+
+The circumference of a circle is 6π. What is its area in terms of π?
+
+----
+num: 6
+category: Math
+difficulty: HS
+seen: 27
+answer: Exponential
+
+What type of growth does y = 36 7^x (read as: y equals 36 times 7 to the power of x) represent?
+
+----
+num: 6
+category: Math
+difficulty: HS
+seen: 24
+answer: Length and Width = 50
+
+Find the length and width in meters of a rectangle with perimeter of 200 meters and maximum possible area.
+
+----
+num: 6
+category: Physical Science
+difficulty: MS
+seen: 6
+answer: Physical (Accept: Phase)
+
+Melting an ice cube and boiling water are examples of what type of change that does not produce a new substance?
+
+----
+num: 8
+category: Math
+difficulty: MS
+seen: 6
+answer: 7
+
+What is the largest prime number less than 9?
+
+----
+num: 9
+category: Biology
+difficulty: HS
+seen: 39
+answer: Mitosis (Accept: Cytokinesis)
+
+Name the process in which a parent cell divides into two identical daughter cells.
+
+----
+num: 9
+category: Biology
+difficulty: HS
+seen: 41
+answer: Hemophilia
+
+
+What is the name of the sex-linked genetic disorder that is characterized by excessive bleeding?
+
+----
+num: 10
+category: Chemistry
+difficulty: HS
+fixed: -1
+seen: 33
+answer: Fluorine
+
+What is the most electronegative element?
+
+----
+num: 10
+category: Physical Science
+difficulty: MS
+seen: 5
+answer: Normal Force
+
+If a heavy box is sitting on a table, not moving at all, what force is counteracting the pull of gravity?
+
+----
+num: 10
+category: Physical Science
+difficulty: MS
+seen: 6
+answer: Greater (Accept: Higher, Larger)
+
+You are standing on a scale in an elevator that is accelerating upwards as it goes from the basement to the roof. How does the reading of the scale compare with that obtained when the elevator was standing still?
+
+----
+num: 11
+category: Physics
+difficulty: HS
+seen: 26
+answer: It Does Not Change
+
+How does the center of mass of an object change when going from a 1 g to a 0 g environment?
+
+----
+num: 11
+category: Math
+difficulty: MS
+seen: 6
+answer: 3
+^7^4
+
+Express 1450as a simplified mixed number.
+
+----
+num: 11
+category: Math
+difficulty: MS
+seen: 5
+answer: -1500 (Accept: 1500 Below Sea Level)
+
+
+At the oil spill in the Gulf of Mexico, underwater robots dove down in the water 5000 feet. If the robot dove down another 3000 feet, then rose up 6500 feet, where would the robot be in relation to sea l evel?
+
+----
+num: 12
+category: Life Science
+difficulty: MS
+seen: 10
+answer: Xylem
+
+In vascular plants, what is the name of the transport tissue that primarily carries water to the plant?
+
+----
+num: 12
+category: Life Science
+difficulty: MS
+seen: 11
+answer: Capillary Action
+
+What force allows the xylem to transport water against gravity?
+
+----
+num: 13
+category: Math
+difficulty: HS
+seen: 26
+answer: 2
+
+When the discriminant of a quadratic function ax^2 + bx + c = 0 is greater than 0, how many x intercepts does the graph have?
+
+----
+num: 13
+category: Math
+difficulty: HS
+fixed: -1
+seen: 24
+answer: H = -2 and H = -1
+
+
+Give all solutions for h in the following equation: h^2 + 3h = - 2.
+
+----
+num: 13
+category: Energy
+difficulty: MS
+fixed: -1
+seen: 6
+answer: Nebraska, Missouri, Arkansas, Florida
+
+
+Based solely on wind speeds, rank the following states in order from most to least windy: Florida, Missouri, Nebraska, Arkansas.
+
+----
+num: 14
+category: Energy
+difficulty: HS
+seen: 34
+answer: Mechanical
+
+A wind energy system first converts the kinetic energy of the wind into what type of energy?
+
+----
+num: 14
+category: Earth and Space Science
+difficulty: MS
+seen: 6
+answer: Fault (Accept Fault Line, Fault Zone)
+
+What is the name of a fracture or zone of fractures in the Earth that allows large masses of rocks to move relative to each other?
+
+----
+num: 15
+category: Math
+difficulty: MS
+seen: 6
+answer: 25
+ 
+
+What is the length of the hypotenuse in a right triangle with legs of length 7 and 24?
+
+----
+num: 16
+category: Math
+difficulty: HS
+fixed: -1
+seen: 26
+answer: 12
+
+If Jill takes three blouses, two pairs of pants, and two pairs of shoes for a weekend trip, how many different complete outfit combinations can she put together?
+
+----
+num: 16
+category: Math
+difficulty: HS
+fixed: -1
+seen: 27
+answer: 5,040
+
+Give the numerical value for the number of different orders in which 7 people can line up at a cash register?
+
+----
+num: 17
+category: General Science
+difficulty: MS
+seen: 5
+answer: Carbon
+
+What element is considered the main building block of life on Earth?
+
+----
+num: 17
+category: General Science
+difficulty: MS
+seen: 5
+answer: Hydrogen
+
+
+What is the most abundant element in the universe?
+
+----
+num: 18
+category: Earth and Space
+difficulty: HS
+fixed: -1
+seen: 47
+answer: Supergiant, Main Sequence, Red Dwarf
+
+Rank the following stars from that with the shortest lifespan to that with t he longest lifespan: red dwarf, supergiant, main sequence.
+
+----
+num: 18
+category: Earth and Space Science
+difficulty: MS
+seen: 5
+answer: Exploration
+
+Which of the following well types is used to determine whether oil or gas is present: exploration, confirmation, or development?
+
+----
+num: 19
+category: Energy
+difficulty: HS
+seen: 35
+answer: Z) Gtl Plants Are Relatively Inexpensive to Build
+
+
+Gas to liquids, or GTL, fuels are produced by converting natural gas into liquid fuels. Which of th e following is NOT a benefit for production and use of GTL fuels?
+W) They are cleaner than conventional petroleum-based diesel fuel
+X) They are compatible with the current petroleum infrastructure
+Y) They can be produced domestically
+Z) GTL plants are rel atively inexpensive to build
+
+----
+num: 19
+category: Math
+difficulty: MS
+seen: 6
+answer: 50
+
+A bicyclist rode 25,000 meters in 30 minutes. How many kilometers per hour is this?
+
+----
+num: 19
+category: Math
+difficulty: MS
+seen: 6
+answer: - 48
+ 
+
+What is the product of the first three even negative integers?
+
+----
+num: 21
+category: Physical Science
+difficulty: MS
+seen: 6
+answer: (Accept Two) Chemical, Mechan Ical, Nuclear, Gravitational or 
+Electrical
+
+
+Name two forms of potential energy.
+
+----
+num: 22
+category: General Science
+difficulty: MS
+seen: 6
+answer: Graduated Cylinder
+
+What is the name for a narrow, cylindrical container that is scaled and used in a laboratory to measure exact amounts of a liquid, which is then poured out of the top ?
+
+----
+num: 23
+category: Life Science
+difficulty: MS
+seen: 11
+answer: Mammals
+
+What kind of vertebrates have hair or fur and feed their young with milk?
+
+----
+num: 23
+category: Life Science
+difficulty: MS
+seen: 11
+answer: Coniferous Forest and Tundra  (Accept: 1 and 4)
+
+
+By name or number, indicate which one or ones of the following biomes that animals with thick fur and large amounts of fat storage would most likely live in: 1) coniferous forest, 2) savannah, 3) rainforest, 4) tundra, and/or 5) temperate forest.
+
+----
+num: 25
+category: General Science
+difficulty: MS
+seen: 6
+answer: Permafrost
+
+What is the name given to ground that is continuously frozen for at least two years?

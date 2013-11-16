@@ -1,0 +1,374 @@
+####
+tournament: #6579
+round: Show #6579 - Thursday, April 4, 2013
+year: 2013
+date: 2013-04-04
+####
+
+num: 1
+category: Trash
+difficulty: 200
+seen: 5
+answer: Dream
+
+"___ Team", about the 1992 U.S. Olympic hoops squad.
+
+----
+num: 2
+category: History
+difficulty: 200
+seen: 5
+answer: Central Park
+
+About 5 million trees & shrubs were planted in this, 843 acres in Manhattan.
+
+----
+num: 3
+category: Trash
+difficulty: 200
+seen: 6
+answer: Margaret
+
+Maggie, as in actress Maggie Smith.
+
+----
+num: 4
+category: History
+difficulty: 200
+seen: 6
+answer: a Crusade
+
+In 1250, while in Egypt on one of these Christian expeditions, France's Louis IX was taken prisoner by Muslim forces.
+
+----
+num: 5
+category: Literature
+difficulty: 200
+seen: 4
+answer: tote
+
+It can mean to carry in a bag or the bag itself.
+
+----
+num: 6
+category: History
+difficulty: 400
+seen: 4
+answer: The Brooklyn Bridge
+
+Built over 13 years at a cost of more than $13 million, it spans the East River to connect Manhattan & another borough.
+
+----
+num: 7
+category: Trash
+difficulty: 400
+seen: 6
+answer: Andrew
+
+Drew, as in quarterback Drew Brees.
+
+----
+num: 8
+category: History
+difficulty: 400
+seen: 4
+answer: Louis XIV
+
+During his 72-year reign as king of France, he earned many nicknames, including "Dieudonné", or "God-given".
+
+----
+num: 9
+category: Literature
+difficulty: 400
+seen: 4
+answer: anecdote
+
+A short, funny or interesting story about something that happened to you.
+
+----
+num: 10
+category: Trash
+difficulty: 600
+seen: 5
+answer: coffee
+
+Buzz Beer, "invented" on "The Drew Carey Show", was a mixture of beer & this.
+
+----
+num: 11
+category: History
+difficulty: 600
+seen: 4
+answer: the World Trade Center
+
+In April 2012 the rising tower with the address 1 here surpassed the Empire State Building as NYC's highest point.
+
+----
+num: 12
+category: Trash
+difficulty: 600
+seen: 5
+answer: Amanda
+
+Mandy, as in singer Mandy Moore.
+
+----
+num: 13
+category: History
+difficulty: 600
+seen: 5
+answer: Louis XVI
+
+His son & heir died June 4, 1789, just when things were starting to get stressful in other areas.
+
+----
+num: 14
+category: Literature
+difficulty: 600
+seen: 5
+answer: rote
+
+Okay, okay, okay, okay, it's memorization through continued repetition.
+
+----
+num: 15
+category: Trash
+difficulty: 800
+seen: 5
+answer: Rivals
+
+Partly the basis for the 2012 film "Lincoln": "Team of ___".
+
+----
+num: 16
+category: History
+difficulty: 800
+seen: 5
+answer: Condé Nast
+
+One of Manhattan's greenest buildings is the Times Square HQ of this publisher of Vogue & Vanity Fair.
+
+----
+num: 17
+category: Trash
+difficulty: 800
+seen: 5
+answer: Henry
+
+Harry, as in England's Prince Harry.
+
+----
+num: 18
+category: History
+difficulty: 800
+seen: 5
+answer: Mad King Ludwig
+
+On June 13, 1886 this Bavarian king aka Louis II drowned in a lake, as did his psychiatrist who tried to save him.
+
+----
+num: 19
+category: Trash
+difficulty: 1000
+seen: 6
+answer: Art
+
+"The ___ of Fielding"; we're talkin' baseball.
+
+----
+num: 20
+category: History
+difficulty: 1000
+seen: 5
+answer: St. Patrick\'s Cathedral
+
+James Renwick designed this Gothic Roman Catholic church; the twin spires cost $200,000 & were added in 1885.
+
+----
+num: 21
+category: Trash
+difficulty: 1000
+seen: 5
+answer: Christopher
+
+Topher, as in actor Topher Grace.
+
+----
+num: 22
+category: History
+difficulty: 1000
+seen: 4
+answer: vichyssoise
+
+One legend about this potato soup is that king Louis XV had so many food testers that it was always cold when it got to him.
+
+----
+num: 23
+category: Literature
+difficulty: 400
+seen: 4
+answer: Barney
+
+This purple PBS dinosaur is the lovingest dinosaur we know.
+
+----
+num: 24
+category: Literature
+difficulty: 400
+seen: 4
+answer: Sally Ride
+
+She was the first American woman to travel in space.
+
+----
+num: 25
+category: Trash
+difficulty: 400
+seen: 5
+answer: Keith Richards
+
+At a 1981 show, this Rolling Stones axeman swung his guitar at a fan who'd jumped onstage.
+
+----
+num: 26
+category: History
+difficulty: 400
+seen: 4
+answer: United Nations Security Council
+
+15 members: UNSC.
+
+----
+num: 27
+category: Literature
+difficulty: 800
+seen: 4
+answer: boil
+
+Proverbially speaking, it's what "a watched pot never" does.
+
+----
+num: 28
+category: Literature
+difficulty: 800
+seen: 4
+answer: Oprah Winfrey
+
+In 2011, launched her "OWN" TV cable network.
+
+----
+num: 29
+category: Trash
+difficulty: 800
+seen: 5
+answer: cricket
+
+In 2005 a 32-year-old Cambridge man punched out a 14-year-old over a game of this; I say! that's not...
+
+----
+num: 30
+category: History
+difficulty: 800
+seen: 3
+answer: United Nations General Assembly
+
+193 members: UNGA.
+
+----
+num: 31
+category: Literature
+difficulty: 1200
+seen: 4
+answer: bunker
+
+In golf you want to keep your ball out of one of these obstacles, usually a sand trap.
+
+----
+num: 32
+category: Literature
+difficulty: 1200
+seen: 5
+answer: Elizabeth Dole
+
+Served in 2 cabinet posts & was president of the American Red Cross.
+
+----
+num: 33
+category: Trash
+difficulty: 1200
+seen: 6
+answer: Muhammad Ali
+
+After Brit Henry Cooper dropped him with a hook in 1963, this future champ said his "ancestors in Africa" had felt it.
+
+----
+num: 34
+category: History
+difficulty: 1200
+seen: 4
+answer: children
+
+They're the C in UNICEF.
+
+----
+num: 35
+category: Literature
+difficulty: 1600
+seen: 4
+answer: botox
+
+Studies suggest that cosmetic injections of this make it hard not only to show emotion but also to empathize.
+
+----
+num: 36
+category: Literature
+difficulty: 1600
+seen: 5
+answer: Gertrude Stein
+
+Writer who coined the term "Lost Generation".
+
+----
+num: 37
+category: Trash
+difficulty: 1600
+seen: 5
+answer: hooligans
+
+In 1985 Britain set up a "war cabinet" to combat the violent soccer fans known by this term that dates from 1898.
+
+----
+num: 38
+category: History
+difficulty: 1600
+seen: 4
+answer: cultural
+
+It's the C in UNESCO.
+
+----
+num: 39
+category: Literature
+difficulty: 2000
+seen: 6
+answer: bouillon (or bullion)
+
+Spelled one way, it's a broth; spelled another, it's gold or silver in the form of bars or ingots.
+
+----
+num: 40
+category: Trash
+difficulty: 2000
+seen: 8
+answer: Oasis
+
+The day his son was born, this band's Liam Gallagher celebrated by hitting a photographer.
+
+----
+num: 41
+category: History
+difficulty: 2000
+seen: 6
+answer: refugees
+
+These fleers are the R in UNHCR.

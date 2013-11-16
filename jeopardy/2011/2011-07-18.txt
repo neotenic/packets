@@ -1,0 +1,411 @@
+####
+tournament: #6196
+round: Show #6196 - Monday, July 18, 2011
+year: 2011
+date: 2011-07-18
+####
+
+num: 1
+category: Art
+difficulty: 200
+seen: 4
+answer: Bizet
+
+This composer died on June 3, 1875, exactly 3 months after his "Carmen" premiered.
+
+----
+num: 2
+category: Trash
+difficulty: 200
+seen: 6
+answer: Courteney Cox
+
+This "Friends" star left the "Dirt" behind & moved on up to "Cougar Town".
+
+----
+num: 3
+category: Literature
+difficulty: 200
+seen: 4
+answer: salad
+
+Cobb, chef's, Waldorf.
+
+----
+num: 4
+category: History
+difficulty: 200
+seen: 5
+answer: the peso
+
+Like Mexico, the Philippines uses this as its basic monetary unit.
+
+----
+num: 5
+category: Trash
+difficulty: 200
+seen: 6
+answer: spears
+
+Lances & pikes are types of these.
+
+----
+num: 6
+category: Art
+difficulty: 400
+seen: 4
+answer: a harpsichord
+
+Many of Francois Couperin's works were written for this old keyboard instrument, including 27 suites.
+
+----
+num: 7
+category: Literature
+difficulty: 400
+seen: 4
+answer: ribs
+
+Short, baby back, St. Louis style.
+
+----
+num: 8
+category: Trash
+difficulty: 400
+seen: 6
+answer: Sears
+
+Retail giant founded in 1893.
+
+----
+num: 9
+category: Art
+difficulty: 600
+seen: 4
+answer: Debussey
+
+Although his "Clair De Lune" is often performed as a separate piece, it's actually the third movement in "Suite Bergamasque".
+
+----
+num: 10
+category: Trash
+difficulty: 600
+seen: 4
+answer: Mischa Barton
+
+After playing Marissa on "The O.C.". this waifish gal strutted her stuff as a model on "The Beautiful Life".
+
+----
+num: 11
+category: Literature
+difficulty: 600
+seen: 4
+answer: pizza
+
+White, thin crust, deep-dish.
+
+----
+num: 12
+category: History
+difficulty: 600
+seen: 4
+answer: the rupee
+
+It's the currency in common to India & Sri Lanka.
+
+----
+num: 13
+category: Trash
+difficulty: 600
+seen: 5
+answer: (Billy) Shears
+
+Last name of Billy, mentioned in "Sgt. Pepper's Lonely Hearts Club Band".
+
+----
+num: 14
+category: Art
+difficulty: 800
+seen: 3
+answer: ballets
+
+Maurice Ravel's 4 of these include "Daphnis and Chloe", written for Diaghilev, & the original version of "Bolero".
+
+----
+num: 15
+category: Literature
+difficulty: 800
+seen: 3
+answer: meatballs
+
+Albondigas, Swedish, sweet & sour.
+
+----
+num: 16
+category: History
+difficulty: 800
+seen: 4
+answer: Latvia
+
+As you might guess, the lats is the basic monetary unit of this Baltic country.
+
+----
+num: 17
+category: Trash
+difficulty: 800
+seen: 5
+answer: arrears
+
+To be behind in the payment of a debt is to be in this.
+
+----
+num: 18
+category: Art
+difficulty: 1000
+seen: 4
+answer: (Hector) Berlioz
+
+This "Symphonie Fantastique" composer was given 20,000 francs by Paganini, who declared him a musical genius.
+
+----
+num: 19
+category: Literature
+difficulty: 1000
+seen: 4
+answer: puddings
+
+Plum, butterscotch, blancmange.
+
+----
+num: 20
+category: History
+difficulty: 1000
+seen: 4
+answer: South Africa
+
+This country's Rand was named for a gold mining region.
+
+----
+num: 21
+category: Trash
+difficulty: 1000
+seen: 6
+answer: fears
+
+Keats wrote, "When I have" these "that I may cease to be".
+
+----
+num: 22
+category: Science
+difficulty: 400
+seen: 5
+answer: the X and Y chromosomes
+
+In 1905 biologist Nettie Stevens showed that these 2 chromosomes determine a person's sex.
+
+----
+num: 23
+category: History
+difficulty: 400
+seen: 4
+answer: an canal
+
+One of these channels, built to bring goods by water to Madras, India, took 76 years to finish.
+
+----
+num: 24
+category: Art
+difficulty: 400
+seen: 4
+answer: a hunch
+
+An intuitive feeling.
+
+----
+num: 25
+category: Literature
+difficulty: 400
+fixed: -1
+seen: 4
+answer: the 
+
+Don't sign up for a cruise on this ship, Queequeg!  Only one guy is escaping to tell the tale, & it's not you!.
+
+----
+num: 26
+category: Literature
+difficulty: 400
+seen: 5
+answer: Shirley Temple Black
+
+The Screen Actors Guild presented this child star with a lifetime achievement award in 2006.
+
+----
+num: 27
+category: Science
+difficulty: 800
+seen: 5
+answer: a ribosome
+
+Ada Yonath won a Nobel Prize "for studies of" this organelle, site of protein synthesis, from which RNA gets its name.
+
+----
+num: 28
+category: Art
+difficulty: 800
+seen: 4
+answer: high
+
+In music it can mean "sharp".
+
+----
+num: 29
+category: Literature
+difficulty: 800
+seen: 4
+answer: a cigar
+
+Offered one of these in "The Naked Gun", Leslie is asked, "Cuban?" his response: "Dutch Irish. My father was from Wales.
+
+----
+num: 30
+category: Literature
+difficulty: 800
+seen: 4
+answer: Lucifer
+
+Faustus! Don't let Mephistopheles convince you to sign that deal with this "bright" chief devil! It's a trap!.
+
+----
+num: 31
+category: Literature
+difficulty: 800
+seen: 4
+answer: the bubonic plague
+
+Dramatist James Shirley moved to Dublin in 1636 after parliament closed Britain's theaters as a precaution against this.
+
+----
+num: 32
+category: Science
+difficulty: 1200
+seen: 5
+answer: Rachel Carson
+
+During the depression, this marine biologist & ecologist wrote radio scripts for the U.S. Bureau of Fisheries.
+
+----
+num: 33
+category: History
+difficulty: 1200
+seen: 4
+answer: a mighty stream
+
+Martin Luther King hoped for righteousness to roll down "like a mighty" this, not quite a river.
+
+----
+num: 34
+category: Art
+difficulty: 1200
+seen: 4
+answer: hatch
+
+To secretly devise something, like a plan for a really good door on my boat.
+
+----
+num: 35
+category: Literature
+difficulty: 1200
+seen: 4
+answer: curling
+
+One of Saskatchewan-born Leslie's last starring roles was in 2002's "Men with Brooms", about this sport.
+
+----
+num: 36
+category: Literature
+difficulty: 1200
+seen: 3
+answer: your father
+
+Don't kill that old guy in the chariot over a little road rage, Oedipus! He's really this relation!.
+
+----
+num: 37
+category: Literature
+difficulty: 1200
+seen: 4
+answer: (Shirley) Chisholm
+
+In 1969 she became the first African-American congresswoman.
+
+----
+num: 38
+category: Science
+difficulty: 1600
+seen: 5
+answer: insulin
+
+In August 1969, after 34 years, Dorothy Hodgkin identified the atomic structure of this pancreatic hormone.
+
+----
+num: 39
+category: History
+difficulty: 1600
+seen: 4
+answer: an aquaduct
+
+In 1590 Sir Francis Drake built the 17-mile River Leat, one of these channels, bringing water to Plymouth, England.
+
+----
+num: 40
+category: Literature
+difficulty: 1600
+seen: 4
+answer: Medea
+
+Jason! Don't leave this wife to marry king Creon's daughter! Think of the children!.
+
+----
+num: 41
+category: Literature
+difficulty: 1600
+seen: 5
+answer: an opera singer
+
+Shirley Verrett, best known as one of these, was dubbed "la nera Callas" by enamored Italians.
+
+----
+num: 42
+category: Science
+difficulty: 2000
+seen: 8
+answer: ichthyology
+
+Rosa Smith Eigenmann, discoverer of the blind goby, was the first important woman in this -ology.
+
+----
+num: 43
+category: Art
+difficulty: 2000
+seen: 5
+answer: "Hallaujah"
+
+"Love is not a victory march" is a line in this oft-covered Leonard Cohen tune.
+
+----
+num: 44
+category: Literature
+difficulty: 2000
+seen: 5
+answer: Friar Lawrence
+
+Don't drink that poison, Romeo! This friar is on his way to tell you Juliet isn't really dead!.
+
+----
+num: 45
+category: Literature
+difficulty: 2000
+seen: 6
+answer: Shirley Jackson
+
+Her "The Haunting of Hill House" is considered a treasure of Gothic horror literature.

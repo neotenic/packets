@@ -1,0 +1,514 @@
+####
+tournament: HSAPQ Colonia 2
+round: colonia-03.pdf
+year: 2011
+####
+
+num: 1
+category: Literature
+difficulty: HS
+fixed: 57
+seen: 445
+answer: Ethan Frome
+
+The title character of this work entertains the idea of deceiving Andrew Hale into lending him money to flee his home. One character claims that a ribbon in her hair is a "tribute to the unusual" at a dinner in which a pickle dish is broken. At the end of this novel, which takes place in Starkfield, it is revealed that the title character's wife Zeena has been caring for him and Mattie Silver ever since their sledding accident twenty-four years earlier. For 10 points, name this novel about the title Massachusetts farmer by Edith Wharton.
+
+----
+num: 2
+category: Science
+difficulty: HS
+fixed: None
+seen: 485
+answer: Albert Einstein
+
+Among this man's inventions are an improved gyrocompass and, with Leo Szilard, a refrigerator that cooled using only heat as an input. One formula attributed to this man states that energy equals Planck's constant times the frequency of radiation. Another states that in the same reference frame, gravity and acceleration are locally equal, and is known as the equivalence principle. A third formula states that rest energy equals mass times the square of the speed of light. For 10 points, name this Swiss physicist who explained the photoelectric effect, developed general relativity, and formulated the equation E equals m c squared.
+
+----
+num: 3
+category: History
+difficulty: HS
+fixed: 57
+seen: 411
+answer: labor {unions}
+
+A group of these organizations are collected under the banner of the Change to Win Federation. The largest of these in the United States is led by Dennis Van Roekel and opposes the policies of Michelle Rhee. One of these organizations has the motto “Sí, se puede” and was founded by Cesar Chavez. One of them was led by Samuel Gompers, and one of the first examples of these organizations was the Knights of Labor. For 10 points, the the United Farm Workers and the AFL-CIO are examples of what organizations which often agitate for better working conditions?
+
+----
+num: 4
+category: History
+difficulty: HS
+fixed: -1
+seen: 417
+answer: Justinian I
+
+This man called the Second Council of Constantinople in order to resolve the Monophysite Controversy. One of this ruler's reform efforts was overseen by Tribonian. The Secret History of Procopius is an account of this man's reign. This ruler was opposed by the Blues and Greens in one rebellion. That revolt, the Nika Riot, was suppressed by this man's general Belisarius. For 10 points, name this husband of Theodora, a Byzantine emperor who oversaw the creation of his namesake legal code.
+
+----
+num: 5
+category: Science
+difficulty: HS
+fixed: 57
+seen: 479
+answer: {glycolysis}
+
+The rate-limiting step in this pathway is catalyzed by phosphofructokinase (FOSS-fo-FROOK-toe-KYE-nase) and, like the first step, requires a magnesium cofactor. The sixth step of this pathway transfers a phosphate group to G3P and attaches a hydrogen to NAD+ (N-A-D-plus), while the seventh step transfers that phosphate group to ADP, recouping two of the initial ATP inputs. The last step of this pathway also creates ATP for a net of two ATP per input glucose molecule. For 10 points, name this pathway that breaks down glucose.
+
+----
+num: 6
+category: Mythology
+difficulty: HS
+fixed: 1
+seen: 789
+answer: {Irish} myth
+
+One figure in this myth system is called Danu, while a goddess associated with horses is named Macha. Another figure in this myth system is Goll mac Morna, who killed the father of a prominent figure who burned his thumb while cooking the salmon of knowledge. That figure is from the Fenian cycle, while the villain of the Ulster cycle is named Medb and led the Cattle Raid of Cooley. For 10 points, name this myth system whose heroes include Fin MacCool and CuChulainn.
+
+----
+num: 7
+category: Science
+difficulty: HS
+fixed: 1
+seen: 483
+answer: {nucleus} [or {nuclei} ]
+
+The RAN protein is used for the transport of materials in and out of the pores of this organelle. Observed with Hoechst and DAPI staining, this organelle, when found in tumors, contains Cajal bodies. Continuous with the rough endoplasmic reticulum, this organelle is the site of histone proteins, as well as the production of ribosomes and transcription of DNA. Not found in prokaryotes, for 10 points, name this “control center” of the cell.
+
+----
+num: 8
+category: Science
+difficulty: HS
+fixed: 57
+seen: 481
+answer: {glaciers}
+
+These objects can develop large cracks called bergschrunds (BERG-shrunds), which can further lead to the formation of cirques (SIRKS). The firn line separates the ablation and accumulation zones of these objects. The movement of these masses is responsible for the creation of moraines and drumlins, which are accumulations of till carried by these objects. These objects hold the majority of the world's fresh water. For 10 points, name these large, flowing masses of ice.
+
+----
+num: 9
+category: Science
+difficulty: HS
+fixed: 1
+seen: 490
+answer: {hydrogen} [or {H} ]
+
+Two atoms of this element are appended in the Birch Reduction. One isotope of this element replaces a lighter isotope in a chloroform derivative used as a solvent in NMR. That isotope was discovered by Harold Urey. A compound in which this element is combined with oxygen is broken down by the enzyme catalase (CAT-uh-"lace"). Isotopes of this element include deuterium (doo-TAIR-ee-um) and tritium. Two of this element fuse to create helium. For 10 points, name this lightest element.
+
+----
+num: 10
+category: Literature
+difficulty: HS
+fixed: 1
+seen: 444
+answer: Anton Pavlovich {Chekhov}
+
+This author wrote a short story in which Dr. Rabin, the head of the title mental facility, dies of a stroke after being institutionalized himself. This author of "Ward No. 6" wrote a play in which a man nicknamed "Waffles" accompanies the title character, who angrily rejects Serebryakov's plan to move to Finland. In another play by this author, the footman Firs is boarded up inside the title estate, which is sold by Madame Ranevskaya. For 10 points, name this Russian playwright who wrote Uncle Vanya and The Cherry Orchard .
+
+----
+num: 11
+category: Fine Arts
+difficulty: HS
+fixed: 1
+seen: 487
+answer: Pyotr Ilyich {Tchaikovsky}
+
+In one of this composer's ballets, the Lilac Fairy softens a curse placed by Carabosse, causing Princess Aurora to sleep for a century. In another of his ballets, the evil Von Rothbart curses Odette to transform into a swan every day, causing her to drown herself along with her lover Siegfried. A third of his ballets contains the "Dance of the Sugar Plum Fairy," and begins with Herr Drosselmeyer giving the title toy to Clara. For 10 points, name this Russian composer of The Sleeping Beauty, Swan Lake, and The Nutcracker.
+
+----
+num: 12
+category: Literature
+difficulty: HS
+fixed: 1
+seen: 441
+answer: {Atticus} Finch [prompt on “{Finch}”]
+
+As part of a punishment, this character forces his children to read to the dying Mrs. Dubose for a month. One argument made by this man focuses on how a left-handed person would be more likely to produce a bruise on the right side of the face than a man with a shriveled left arm. At one point, this man’s sister, Aunt Alexandra, stays at his house. He lives with his maid Calpurnia, and defends Tom Robinson on charges of rape brought up by Mayella Ewell. For 10 points, name this father of Jem and Scout, a central character in To Kill a Mockingbird.
+
+----
+num: 13
+category: Literature
+difficulty: HS
+fixed: 57
+seen: 452
+answer: The {Sound} and the {Fury}
+
+One character in this novel is castrated after an incident arising from an unlocked gate. Another character in this novel marries Herbert Head, which is one factor in her brother's decision to commit suicide by jumping into the Charles River. Those characters are the mentally impaired Benjy, the promiscuous Caddy, and the neurotic Quentin, all of whom are members of the Compson family. For 10 points, name this novel by William Faulkner.
+
+----
+num: 14
+category: Mythology
+difficulty: HS
+fixed: 1
+seen: 784
+answer: Jason
+
+This man’s return home was expedited when his lover murdered her brother Apsyrtus. Two of this hero’s men, Zetes and Calais, drove the harpies away from Phineas. Sent from Iolchos by his conniving uncle Pelias, this man arrived at Colchis, where Medea helped him obtain the golden fleece. This hero sailed in a ship with a prophetic prow along with Greece’s greatest heroes. For 10 points, name this leader of the Argonauts.
+
+----
+num: 15
+category: Science
+difficulty: HS
+fixed: 57
+seen: 485
+answer: trees
+
+Each part of these objects is examined once in a process called traversal. A specific type of these objects is modified by the DSW Algorithm. Exemplified by scapegoat and red-black types, these objects, when not completely sorted, are heaps. In the binary search type of these objects, the left side has nodes with keys that are less than the keys on the right. For 10 points, name these data structures from computer science that consist of root and leaf nodes.
+
+----
+num: 16
+category: History
+difficulty: HS
+fixed: -1
+seen: 419
+answer: George {Washington}
+
+This President defused the Newburgh Conspiracy and, in another post, was nearly replaced by Horatio Gates due to the Conway Cabal. As President, he met with a French ambassador who tried to draw him into war with Britain named Citizen Genêt (JUH-nay). His farewell address discouraged foreign alliances. The signing of Jay’s Treaty and the Whiskey Rebellion occurred during the Presidency of this victor at Trenton and Yorktown. For 10 points, name this man who appointed Alexander Hamilton as Secretary of the Treasury as the first President.
+
+----
+num: 17
+category: History
+difficulty: HS
+fixed: 1
+seen: 419
+answer: {Scopes Monkey} Trial [or The State of {Tennessee} v. {Scopes}]
+
+The beginnings of this court case can be traced back to the efforts of George Rappelyea, who wished to promote the mining industry in Dayton. Its defendant had violated the Butler Act. The defense attorney in this case called the prosecutor up to the stand and questioned him about the validity of the Bible. Clarence Darrow and William Jennings Bryan were the main figures of, for 10 points, what 1925 court case whose defendant, a high school teacher, broke the law by teaching about evolution?
+
+----
+num: 18
+category: History
+difficulty: HS
+fixed: 1
+seen: 417
+answer: {Tokugawa} Shogunate [or {Tokugawa Bakufu}; or Edo Period before it is read]
+
+The ruling family during this period was symbolized by three hollyhock leaves. The golden age of this period was the Genroku era. This period was established after its namesake founder won the Battle of Sekigahara. During this period, which established its capital at Edo, only samurai were allowed to carry swords. The country under this government was forced open by Matthew Perry and the Treaty of Kanagawa. This period gave way to the Meiji Restoration in 1868. For 10 points, name this last shogunate of Japan.
+
+----
+num: 19
+category: Science
+difficulty: HS
+fixed: 57
+seen: 488
+answer: {prime} numbers
+
+In RSA encryption, two of these numbers are multiplied together to create a public key. Proof of the Riemann hypothesis would link the distribution of these numbers to solutions of the Riemann zeta function. The Fundamental Theorem of Arithmetic states that every positive integer greater than one is a unique product of these numbers. For 10 points, name these numbers that are only divisible by themselves and one.
+
+----
+num: 20
+category: Literature
+difficulty: HS
+fixed: 57
+seen: 444
+answer: The {Rubaiyat} of Omar Khayyam
+
+One passage in this work exhorts the reader to “Drink! For you know not whence you came, nor why.” An extended passage near the end of this work describes “loquacious vessels” of clay, one of whom wonders “Who is the potter…and who the pot?” An oft-quoted verse in this poem warns that “The bird is on the wing.” Famously translated by Edward Fitzgerald, this work describes “A Book of verses underneath the bough / A jug of wine, a loaf of bread - and thou.” For 10 points, name this work of 101 quatrains, written by the Farsi poet Omar Khayyam.
+
+----
+num: 21
+category: Philosophy
+difficulty: HS
+fixed: 1
+seen: 519
+answer: John {Locke}
+
+This philosopher argued complex ideas, such as modes, substances, and relations, are created by combining, comparing, or abstracting simple ideas. He claimed people have the natural right to objects they mix their labor with in his book outlining a theory of government's based on the protection of private property, his Second Treatise on Government. He distinguished between the primary and secondary qualities of objects in his Essay Concerning Human Understanding. For 10 points, name this British philosopher who argued that the mind was a tabula rasa, or blank slate.
+
+----
+num: 22
+category: History
+difficulty: HS
+fixed: -1
+seen: 413
+answer: {Joan} of {Arc} [or the {Maid} of Orleans; or {Jeanne D’Arc}; prompt on {Joan}]
+
+This soldier worked with La Hire to rout John Fastolf at the Battle of Patay. This person met the Dauphin Charles VII after lifting the siege at Orleans on the alleged instructions of Saint Michael, Saint Catherine, and Saint Margaret. Eventually, this woman was captured by Burgundians and sold to the English, who burned her for witchcraft and heresy. For 10 points, name this woman who was sainted in 1920, and who served for a time as a successful French military leader during the Hundred Years War.
+
+----
+num: 23
+category: Fine Arts
+difficulty: HS
+fixed: 1
+seen: 494
+answer: The {Barber} of {Seville} [or {Il Barbiere di Siviglia} ]
+
+Pieces within this opera include the trio “Zitti, zitti” and the aria “Una voce poco fa.” One character in this opera pretends to be the student Lindoro in order to deceive Dr. Bartolo. The title character of this opera repeatedly sings the phrase “della citta” in one aria. That title character aids Count Almaviva in wooing Rosina and sings the aria “Largo al Factotum.” For 10 points, name this opera buffa about the servant Figaro, composed by Gioacchino Rossini.
+
+----
+num: 24
+category: Literature
+difficulty: HS
+fixed: 1
+seen: 442
+answer: {Sense} and {Sensibility}
+
+One character in this novel marries his true love after being disinherited for his earlier relationship with Lucy Steele. Another character in this novel, Fanny, refuses to allow her brother to love her sister-in-law, driving the latter to depart for the cottage of John Middleton. One of this novel’s protagonists enters into a whirlwind romance with John Willoughby, who soon abandons her. This novel resolves with Colonel Brandon and Edward Ferrars respectively marrying Elinor and Marianne Dashwood. For 10 points, name this Jane Austen novel which contrasts Elinor’s good judgment with Marianne’s impulsiveness.
+
+----
+num: 25
+category: Geography
+difficulty: HS
+fixed: 1
+seen: 711
+answer: Republic of {Honduras}
+
+The Coco River forms part of this country’s southern border, and it also contains Lake Yajoa (yah-HO-ah) in its west. The port city of Amapala can be found on its access to the Pacific Ocean. The Bay Islands are off its northern shore in the Caribbean Sea. In addition to containing the majority of the Gulf of Fonseca, this country also borders Nicaragua, El Salvador, and Guatemala. For 10 points, name this Central American country with its capital at Tegucigalpa (teh-GOO-CHEE-gul-pah).
+
+----
+num: 25
+category: Geography
+difficulty: HS
+fixed: 1
+seen: 704
+answer: Republic of {Honduras}
+
+The Coco River forms part of this country’s southern border, and it also contains Lake Yajoa (yah-HO-ah) in its west. The port city of Amapala can be found on its access to the Pacific Ocean. The Bay Islands are off its northern shore in the Caribbean Sea. In addition to containing the majority of the Gulf of Fonseca, this country also borders Nicaragua, El Salvador, and Guatemala. For 10 points, name this Central American country with its capital at Tegucigalpa (teh-GOO-CHEE-gul-pah).
+
+----
+num: 26
+category: Fine Arts
+difficulty: HS
+fixed: 1
+seen: 489
+answer: Franz Peter {Schubert}
+
+This composer set works by the poet Hermann Mueller in his song cycle Die schoene Muellerin and another cycle that ends with a musical depiction of a hurdy-gurdy man. This composer of Winterreise also wrote a "Little" and a "Great" C-major symphony. He used the song "Die Forelle" as the basis of his Piano Quintet in A Major. For 10 points, name this Austrian composer of the Trout Quintet who composed hundreds of Lieder in addition to his eighth, "Unfinished" symphony.
+
+----
+num: 27
+category: History
+difficulty: HS
+fixed: 57
+seen: 418
+answer: {Jamestown} Settlement [or {Jamestown} Colony]
+
+This city was evacuated by William Berkeley when it was attacked and then burned to the ground during Bacon's Rebellion. This settlement was started by colonists carried by three ships under Christopher Newport. One settler in this colony developed a new form of tobacco and was named John Rolfe. This settlement went through a Starving Time before relations with the Powhatan improved. For 10 points, name this colony that was home for a time to Pocahontas and John Smith and served as the first permanent English settlement in North America.
+
+----
+num: 28
+category: Literature
+difficulty: HS
+fixed: 1
+seen: 439
+answer: James Augustine Aloysius {Joyce}
+
+One of this man’s works, which features a character whose initials are HCE, begins and ends with two halves of the same sentence, and introduced the word “quark” to the English language. Another of his works begins with a “moocow” coming down the road to meet a “baby tuckoo.” That baby, Stephen Dedalus, also appears in his massive novel about one day, 16 June 1904, in the life of Leopold Bloom. For 10 points, name this author of Finnegans Wake, A Portrait of the Artist As a Young Man, and Ulysses.
+
+----
+num: 29
+category: History
+difficulty: HS
+fixed: 1
+seen: 420
+answer: Thermopylae
+
+In 1941, the British used this location as a rear guard stand while evacuating from Volos and Piraeus. A battle here occurred five days after the victors landed at Anthela. This battle was won after the troops of one side followed Ephialtes around the defenders' position, which was concentrated at the Middle Gate. That maneuver ended a two-day assault by the Ten Thousand Immortals of Persia against a small force of hoplites. For 10 points, name these "hot gates" that were the location of the last stand of the Spartan king Leonidas.
+
+----
+num: 30
+category: Science
+difficulty: HS
+fixed: 57
+seen: 484
+answer: {acids}
+
+A constant named for these substances appears in the Henderson-Hasselbalch (HOSS-el-bock) equation. That constant, their namesake "dissociation constant," measures their strength in solution. Lewis defined them as electron pair acceptors, while Bronsted and Lowry defined them as proton donors, contrasting them with proton receivers, or bases. For 10 points, name these substances which have a pH of less than seven.
+
+----
+num: 32
+category: Philosophy
+difficulty: HS
+fixed: 1
+seen: 518
+answer: René {Descartes} [accept Renatus {Cartesius} ]
+
+This French author of Meditations on First Philosophy and Discourse on Method resolved his doubts with the proposition “I think, therefore I am.” He also invented coordinate graphing. For 10 points, name this philosopher known for his namesake coordinate plane.
+
+----
+num: 35
+category: Geography
+difficulty: HS
+fixed: 1
+seen: 722
+answer: {Rio} de Janeiro
+
+This city is located near Sugarloaf Mountain and its attractions include the Roman style aqueduct Arcos da Lapa and the Tijuca rainforest. Residents of this city are often called Cariocas, and it houses the Estadio do Maracana, the largest arena on its continent. Beaches near this city include Ipanema and Copaccabana. The Christ the Redeemer statue can be found in this city, which was the capital of its country until the creation of the planned city of Brasilia. For 20 points, name this tourist hotspot.
+
+----
+num: 35
+category: Geography
+difficulty: HS
+fixed: 1
+seen: 714
+answer: {Rio} de {Janeiro}
+
+This city is located near Sugarloaf Mountain and its attractions include the Roman style aqueduct Arcos da Lapa and the Tijuca rainforest. Residents of this city are often called Cariocas, and it houses the Estadio do Maracana, the largest arena on its continent. Beaches near this city include Ipanema and Copaccabana. The Christ the Redeemer statue can be found in this city, which was the capital of its country until the creation of the planned city of Brasilia. For 20 points, name this tourist hotspot.
+
+----
+num: 36
+category: Geography
+difficulty: HS
+fixed: 1
+seen: 718
+answer: Republic of the {Philippines}
+
+The Batanes and Babuyan Islands are located in a strait north of this nation, whose center is governed by the Visaya administrative region. Containing such rivers as the Pasig and Cagayan, its highest point, Mt. Apo, is located on its second largest island. A better-known peak, however, is a volcano whose 1991 eruption was the second largest of the 20th century. Most its population lives on the islands of Mindinao and Luzon, which contains the aforementioned Mount Pinatubo. For 20 points, name this Asian nation.
+
+----
+num: 36
+category: Geography
+difficulty: HS
+fixed: 1
+seen: 718
+answer: Republic of the {Philippines}
+
+The Batanes and Babuyan Islands are located in a strait north of this nation, whose center is governed by the Visaya administrative region. Containing such rivers as the Pasig and Cagayan, its highest point, Mt. Apo, is located on its second largest island. A better-known peak, however, is a volcano whose 1991 eruption was the second largest of the 20th century. Most its population lives on the islands of Mindinao and Luzon, which contains the aforementioned Mount Pinatubo. For 20 points, name this Asian nation.
+
+----
+num: 37
+category: Literature
+difficulty: HS
+fixed: 1
+seen: 448
+answer: Victor-Marie Connard {Hugo}
+
+This man wrote a three volume epic poem about history from the Old Testament to the 19th century entitled The Legend of the Centuries. In a play by this man, the tutor Ruy Gomez poisons Dona Sol and the title bandit. That play by this man is Hernani. This man also wrote a novel that includes the innkeepers the Thénardiers, who mistreat Cosette. That novel also focuses on Inspector Javert's pursuit of Jean Valjean. For 20 points, name this French author.
+
+----
+num: 38
+category: Literature
+difficulty: HS
+fixed: 1
+seen: 448
+answer: {War} and {Peace} [or {Voyna} i {Mir} ]
+
+A character in this novel wins 43,000 rubles playing faro; the loser is unable to marry his cousin Sonya, and instead must save his fiancée Marya from an uprising of serfs. The lucky gambler, Nikolay Rostov, also hits on Helene and survives the resultant duel with this novel’s protagonist, Pierre Bezhukov. Pierre seeks glory by joining the fight against Napoleon in, for 20 points, what sprawling novel about the defense of Russia by Leo Tolstoy?
+
+----
+num: 38
+category: Literature
+difficulty: HS
+fixed: 57
+seen: 446
+answer: {War} and {Peace} [or {Voyna} i {Mir}]
+
+A character in this novel wins 43,000 rubles playing faro; the loser is unable to marry his cousin Sonya, and instead must save his fiancée Marya from an uprising of serfs. The lucky gambler, Nikolay Rostov, also hits on Helene and survives the resultant duel with this novel’s protagonist, Pierre Bezhukov. Pierre seeks glory by joining the fight against Napoleon in, for 20 points, what sprawling novel about the defense of Russia by Leo Tolstoy?
+
+----
+num: 38
+category: Literature
+difficulty: HS
+fixed: -1
+seen: 448
+answer: {War} and {Peace} [or {Voyna} i {Mir}]
+
+A character in this novel wins 43,000 rubles playing faro; the loser is unable to marry his cousin Sonya, and instead must save his fiancée Marya from an uprising of serfs. The lucky gambler, Nikolay Rostov, also hits on Helene and survives the resultant duel with this novel’s protagonist, Pierre Bezhukov. Pierre seeks glory by joining the fight against Napoleon in, for 20 points, what sprawling novel about the defense of Russia by Leo Tolstoy?
+
+----
+num: 39
+category: Literature
+difficulty: HS
+fixed: 1
+seen: 448
+answer: Walden
+
+In this work's longest chapter, which includes Thomas Carew's poem "The Pretensions of Poverty," its author describes in great detail the cost and building supplies of his home. It notes that if someone is out of step with his companions it is because he hears a "different drummer," and it describes the author's solitude in radically reduced conditions. Subtitled "Life in the Woods," for 20 points, what is this work by Henry David Thoreau named for the pond near which he stayed?
+
+----
+num: 40
+category: Literature
+difficulty: HS
+fixed: -1
+seen: 439
+answer: {Who's Afraid} of {Virginia Woolf?}
+
+The title of this play was allegedly discovered in the bathroom of a New York City bar. One character in this play tells her husband, "if you existed, I'd divorce you," and makes fun of his failed attempts at writing a novel and his inability to become the head of the history department. The other couple in this play married due to a "hysterical pregnancy" and chooses not to have children, unlike the older couple who merely pretends to have a son. For 20 points, name this Edward Albee play in which Martha responds, "I am!" to the title question.
+
+----
+num: 41
+category: Literature
+difficulty: HS
+fixed: 1
+seen: 440
+answer: William Cullen {Bryant}
+
+In one poem, this man wonders if the title figure seeks “the plashy brink” or “marge of river wide” and concludes confidently that God will “lead” his “steps aright.” In that poem, this man asks the title bird “Whither... thou dost thou pursue thy solitary way?” This poet opened another work by considering “him who in the love of nature holds communion with her visible forms.” For 20 points, name this American poet of “To a Waterfowl” who also wrote a “meditation on death” called “Thanatopsis.”
+
+----
+num: 42
+category: Literature
+difficulty: HS
+fixed: -1
+seen: 443
+answer: “The Legend of {Sleepy Hollow}”
+
+This story describes a school which thieves might access easily but not be able to escape, an idea taken “from the mystery of an eelpot” by architect Yost Van Houten. This story describes a figure’s dancing attracting the attention of all the blacks at a party hosted by Old Baltus Van Tassel. After that party, the protagonist is run out of town by the ghost of a Hessian, leaving Katrina to marry Brom Bones. For 20 points, identify this story from the Sketchbook of Geoffrey Crayon by Washington Irving.
+
+----
+num: 43
+category: Geography
+difficulty: HS
+fixed: None
+seen: 714
+answer: New Zealand
+
+This country’s sixteen regions were established in 2002 to follow natural watershed boundaries. In addition, it administers several territories, including the Chatham Islands and Tokelau. Southeast of the Tasman Sea, it was home to the extinct moa, who were hunted to extinction by its indigenous Maori peoples. The Cook Strait separates the two main landmasses of this nation also home to the kiwi bird. For 20 points, name this Pacific nation with capital Wellington and largest city Auckland, which has a North and South Island.
+
+----
+num: 43
+category: Geography
+difficulty: HS
+fixed: None
+seen: 713
+answer: New Zealand
+
+This country’s sixteen regions were established in 2002 to follow natural watershed boundaries. In addition, it administers several territories, including the Chatham Islands and Tokelau. Southeast of the Tasman Sea, it was home to the extinct moa, who were hunted to extinction by its indigenous Maori peoples. The Cook Strait separates the two main landmasses of this nation also home to the kiwi bird. For 20 points, name this Pacific nation with capital Wellington and largest city Auckland, which has a North and South Island.
+
+----
+num: 44
+category: Literature
+difficulty: HS
+fixed: 1
+seen: 443
+answer: The Personal History , Adventures , Experience and Observation of {David Copperfield} the
+
+After the main character in this work runs away from the Grinby and Murdstone warehouse, Betsy Trotwood becomes his guardian. The title character of this work befriends Tommy Traddles and James Steerforth at the boarding school he is sent to, Salem House. He also befriends Peggotty and Wilkins Micawber. For 20 points, name this novel about a young boy who is despised by Uriah Heep.
+
+----
+num: 45
+category: Literature
+difficulty: HS
+fixed: 1
+seen: 442
+answer: Thomas Stearns {Eliot}
+
+The speaker of one of this man's poems says "I am not Prince Hamlet, nor was meant to be" and asks "Do I dare to eat a peach?" The phrase "Hurry up please it's time" is repeated in "A Game of Chess," the second section of one of his poems. That poem, whose other sections include "What the Thunder Said" and "The Burial of the Dead," begins "April is the cruellest month." For 20 points, name this poet.
+
+----
+num: 46
+category: History
+difficulty: HS
+fixed: 57
+seen: 418
+answer: The {March} on {Washington} for {Jobs} and Freedom [or 1963 {March} on {Washington}; or
+
+The man who planned this event, Bayard Rustin, was kept behind the scenes of this event by Roy Wilkins due to his homosexuality. At this event, UAW president Walter Reuther stated, "We cannot defend freedom in Berlin so long as we deny freedom in Birmingham." Another speaker at this event stated that America defaulted on a promissory note and the nation should not "overlook the urgency of the moment." For 20 points, name this rally around the steps of the Lincoln Memorial at which Martin Luther King, Jr., gave his "I Have a Dream" speech.
+
+----
+num: 47
+category: Literature
+difficulty: HS
+fixed: 1
+seen: 445
+answer: {Spain}
+
+In one play written by an author from this country, Crispin attempts to set up Leander and Sylvia. In addition to being the homeland of the author of The Bonds of Interest, it is the homeland of the dramatist of The Dog in the Manger and The Sheep Well. Jacinto Benavente (ha-SEEN-toe bay-nuh-VEN-tay) hails from this country, as does the author of The Trickster of Seville, Tirso de Molina. For 10 points, name this nation home to Lope (LOW-pay) de Vega and Federico García Lorca.
+
+----
+num: 48
+category: Science
+difficulty: HS
+fixed: 1
+seen: 489
+answer: {B} vitamins [prompt on {vitamins} ; or {B complex} vitamins ]
+
+One disease caused by the lack of one of these compounds comes in wet and dry forms. The autoimmune deficiency of one of these compounds is called pernicious anemia. Pregnant women take supplements containing the ninth of these compounds, which is called folic acid. For 10 points, name this class of compounds that includes niacin and thiamine, a class of vitamins.

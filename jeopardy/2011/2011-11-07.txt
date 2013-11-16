@@ -1,0 +1,385 @@
+####
+tournament: #6241
+round: Show #6241 - Monday, November 7, 2011
+year: 2011
+date: 2011-11-07
+####
+
+num: 1
+category: History
+difficulty: 200
+seen: 5
+answer: the Indianapolis 500
+
+Ray Harroun driving No. 32, his Marmon Wasp, to commemorate the centennial of this race.
+
+----
+num: 2
+category: Literature
+difficulty: 200
+seen: 5
+answer: cereal serial
+
+Ongoing TV drama about Cap'n Crunch or Cheerios.
+
+----
+num: 3
+category: Literature
+difficulty: 200
+seen: 5
+answer: Welsh
+
+People in Cardiff know that the 2 types of corgi each have this nationality in their names.
+
+----
+num: 4
+category: Geography
+difficulty: 200
+seen: 9
+answer: nudist beaches
+
+These areas not for the shy include parts of Jamaica's Seven Mile Beach & of course Booby Cay, just offshore.
+
+----
+num: 5
+category: Science
+difficulty: 200
+seen: 8
+answer: kilogram
+
+Almost exactly equal to the mass of 1,000 cubic centimeters of water, it's a base unit in the metric system.
+
+----
+num: 6
+category: History
+difficulty: 400
+seen: 4
+answer: a bighorn sheep
+
+This ovine critter seen.
+
+----
+num: 7
+category: Literature
+difficulty: 400
+fixed: -1
+seen: 3
+answer: able Abel
+
+Adam & Eve's competent son.
+
+----
+num: 8
+category: Literature
+difficulty: 400
+seen: 4
+answer: (Stephen) King
+
+This author who wrote about a rabid St. Bernard owns corgis & featured one in his novel "Under the Dome".
+
+----
+num: 9
+category: Geography
+difficulty: 400
+seen: 8
+answer: 1776
+
+The Island of St. Eustatius has a holiday on Nov. 16, the date in this year it gave the 1st official salute to a U.S. ship.
+
+----
+num: 10
+category: Science
+difficulty: 400
+seen: 6
+answer: kelvin
+
+Just add 273.15 to your Celsius reading to get this.
+
+----
+num: 11
+category: History
+difficulty: 600
+seen: 5
+answer: the Women\'s Army Corps
+
+Oveta Culp Hobby, who helped form this, WAC for short.
+
+----
+num: 12
+category: Literature
+difficulty: 600
+seen: 4
+answer: foul fowl
+
+Bad-smelling chicken or turkey.
+
+----
+num: 13
+category: Literature
+difficulty: 600
+seen: 4
+answer: Queen Elizabeth II
+
+'s our friend the corgi taking.
+
+----
+num: 14
+category: Geography
+difficulty: 600
+seen: 8
+answer: San Juan
+
+The Casals Festival in this Puerto Rican city is one of the Caribbean's best-known cultural events.
+
+----
+num: 15
+category: Literature
+difficulty: 800
+seen: 4
+answer: prophet profit
+
+Monetary gain for a person who speaks for God.
+
+----
+num: 16
+category: Literature
+difficulty: 800
+seen: 3
+answer: a dachshund
+
+The dorgi is a dog produced when a corgi mates with this similar-looking breed.
+
+----
+num: 17
+category: Geography
+difficulty: 800
+seen: 7
+answer: the British Virgin Islands
+
+The boulders seen.
+
+----
+num: 18
+category: Science
+difficulty: 800
+seen: 5
+answer: the kindling point
+
+A substance to start a fire, or the point that's the lowest temperature at which something will autoignite.
+
+----
+num: 19
+category: History
+difficulty: 1000
+seen: 4
+answer: sage
+
+This herb, Salvia officinalis.
+
+----
+num: 20
+category: Literature
+difficulty: 1000
+seen: 3
+answer: pigeon pidgin
+
+A mixture of 2 languages spoken by a plentiful city bird.
+
+----
+num: 21
+category: Literature
+difficulty: 1000
+seen: 4
+answer: herding dogs
+
+Once members of the AKC's working group, corgis are now classified in this group, as they were bred to handle cattle.
+
+----
+num: 22
+category: Geography
+difficulty: 1000
+seen: 8
+answer: the Dominican Republic
+
+You might see Oscar de la Renta around Punta Cana, on the eastern tip of Hispaniola in this country.
+
+----
+num: 23
+category: Science
+difficulty: 1000
+seen: 7
+answer: kelp
+
+Macrocystis, this type of seaweed, can be 200 feet long.
+
+----
+num: 24
+category: Geography
+difficulty: 400
+seen: 8
+answer: a catfish
+
+A bullhead type of this, genus Ameiurus.
+
+----
+num: 25
+category: Literature
+difficulty: 400
+seen: 4
+answer: a surfboard
+
+To pump, fade or hang ten, you'll need this piece of equipment.
+
+----
+num: 26
+category: Literature
+difficulty: 400
+fixed: -1
+seen: 4
+answer: Sandra Day O\'Connor
+
+This first woman on the Supreme Court left the court in 2006.
+
+----
+num: 27
+category: Literature
+difficulty: 800
+seen: 3
+answer: Sylvia Plath
+
+She wrote, "Dying is an art, like everything else.  I do it exceptionally well.  I do it so it feels like hell".
+
+----
+num: 28
+category: Geography
+difficulty: 800
+seen: 7
+answer: Goodyear
+
+After a struggle, not a fish, but an Eagle GT tire from this maker.
+
+----
+num: 29
+category: Literature
+difficulty: 800
+seen: 4
+answer: an herbicide
+
+Chemical weedkiller.
+
+----
+num: 30
+category: Literature
+difficulty: 800
+seen: 4
+answer: (Dian) Fossey
+
+Her grave marker in Africa says, "No one loved gorillas more".
+
+----
+num: 31
+category: History
+difficulty: 800
+seen: 5
+answer: a California condor
+
+John J. Audubon never made it to California; he painted.
+
+----
+num: 32
+category: Literature
+difficulty: 1200
+seen: 4
+answer: (Pablo) Neruda
+
+This Chilean poet wrote, "I crave your mouth, your voice, your hair".
+
+----
+num: 33
+category: Geography
+difficulty: 1200
+seen: 8
+answer: a sunfish
+
+Not a starfish, but.
+
+----
+num: 34
+category: Literature
+difficulty: 1200
+seen: 4
+answer: a gangplank
+
+This removable footway connects a ship with a pier.
+
+----
+num: 35
+category: Literature
+difficulty: 1200
+seen: 4
+answer: Danish
+
+Isak Dinesen wrote in both English & this, her native language.
+
+----
+num: 36
+category: Literature
+difficulty: 1600
+seen: 4
+answer: Edna St. Vincent Millay
+
+She began a poem, "What lips my lips have kissed, and where, and why, I have forgotten".
+
+----
+num: 37
+category: Geography
+difficulty: 1600
+seen: 8
+answer: Montana
+
+A cold, while fishing nearly 200-square-mile Flathead Lake in this northern state.
+
+----
+num: 38
+category: Literature
+difficulty: 1600
+seen: 5
+answer: shareware
+
+This type of computer program is available for free on a trial basis; then a fee is paid for continued usage.
+
+----
+num: 39
+category: Literature
+difficulty: 1600
+seen: 4
+answer: (Maria) Montessori
+
+Italian-born woman was famous for her educational methods.
+
+----
+num: 40
+category: History
+difficulty: 1600
+seen: 5
+answer: Nellie Bly
+
+New York City is the.
+
+----
+num: 41
+category: Geography
+difficulty: 2000
+seen: 13
+answer: a pompano
+
+This fish with a beach city just south of Boca Raton named for it.
+
+----
+num: 42
+category: History
+difficulty: 2000
+seen: 6
+answer: Dependence
+
+In November of 1776 more than 700 New Yorkers loyal to Britain.

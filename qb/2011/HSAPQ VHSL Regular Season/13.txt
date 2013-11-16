@@ -1,0 +1,334 @@
+####
+tournament: HSAPQ VHSL Regular Season
+round: 13.pdf
+year: 2011
+####
+
+num: 1
+category: Science
+difficulty: HS
+fixed: 1
+seen: 489
+answer: {encryption} algorithm [accept word forms; or {cryptography}; or {cipher}]
+
+One algorithm of this type is composed of steps including SubBytes, ShiftRows, and MixColumns. That algorithm of this type, which is sometimes called Rijndael (RINE-dale), has been adopted by the U.S. government as AES. The difficulty of factoring a composite number composed of two large prime numbers is the basis of the RSA algorithm of this type. For 10 points, name these algorithms that transform plaintext into secure information.
+
+----
+num: 2
+category: Religion
+difficulty: HS
+fixed: 1
+seen: 445
+answer: prophets
+
+The Druze believe that all of the Jewish type of this person were really the same person, while the Baha'i faith holds that Baha'ullah was the last of this type of person. In the Mormon Church, Joseph Smith became one of these people after being baptized, and had earlier heard the voices of Malachi, Joel, and Isaiah, three Jewish people of this type. The shahadah, or Islamic confession of faith, states that Muhammad is this type of person in relation to Allah. For 10 points, name these religious figures who claim to pass on to their followers the Word of God.
+
+----
+num: 3
+category: Science
+difficulty: HS
+fixed: 1
+seen: 487
+answer: spheres
+
+Unit quaternions form the four dimensional analogue of one of these. The Kepler conjecture is about the maximum density possible in packing these. Like their two dimensional counterparts, they have antipodes. The surface of one of these contains all points in three dimensional space that have a distance of r from the center. The volume of one is equal to four thirds pi r squared. The cross sections of these are circles. For 10 points, name these shapes that looks like balls.
+
+----
+num: 4
+category: Fine Arts
+difficulty: HS
+fixed: 1
+seen: 496
+answer: {Fallingwater} [accept {Kauffman house} before “{Kauffman}” is read]
+
+During this building’s construction, Robert Mosher was relieved of his supervising position after this building's steel reinforcement was doubled without its architect’s consent. An early proposal for this building called for its concrete to be covered in gold leaf. Built near Bear Run for department store magnate Edgar Kaufmann, it uses cantilevered floors in order to extend part of the house over a running creek. For 10 points, name this Pennsylvania home built partially over a waterfall, one of the best-known works of Frank Lloyd Wright.
+
+----
+num: 5
+category: History
+difficulty: HS
+fixed: 1
+seen: 413
+answer: {Hamas} or {Harakat al}-{Muqawamat al}-{Islamiyyah}({accept} "{Fatah}" before "{Ismail}")
+
+A conflict between this group and a rival group is referred to as Wakseh, and a leader of this group is Ismail Haniyeh. A cease-fire between this group and its main opponent in 2008 was short-lived, and the territory governed by this group is subject to an economic blockade. This group is classified by the U.S. as a terrorist organization, and it does not acknowledge the nation of Israel. For 10 points, name this Palestinian group that currently governs the Gaza strip.
+
+----
+num: 6
+category: Geography
+difficulty: HS
+fixed: -1
+seen: 710
+answer: {Paris}
+
+Most of this city’s tallest office buildings are in its suburban Defense district, and it was remade in the 1860s with twelve grand avenues by Baron Haussmann. Its fourteen-line subway system is known for stations designed by Art Nouveau architect Hector Guimard and is known as the Metropolitan. Its notable parks include the Bois du Bologne and Jardin du Luxembourg, and its oldest portion is the Ile de la Cite, a small island in the Seine River. For 10 points, name this capital of France.
+
+----
+num: 7
+category: History
+difficulty: HS
+fixed: -1
+seen: 413
+answer: federal income {tax}
+
+Springer v. U.S. held that an 1864 bill introducing this concept was constitutional, although the bill had ceased to apply after the Civil War. David Wells derided this concept as "flagrant spoliation" when it was reintroduced in the Wilson-Gorman tariff. This concept was redefined to be "direct" and therefore unconstitutional in Hyde v. Continental Trust and Pollock v. Farmers Loan and Trust. In 1917 this concept was applied to corporations that had greater than eight percent profit. For 10 points, the sixteenth amendment legalized what levy on earned money?
+
+----
+num: 8
+category: Religion
+difficulty: HS
+fixed: 1
+seen: 441
+answer: {Shinto} [prompt on {kami} worship or similar answers]
+
+In this myth system, a sword named Kusanagi is used by a deity who is born when another deity washes himself upon returning from the underworld. Another deity born from that event was created from Izanagi's left eye, and has a brother named Tsukuyomi; that deity is the sun goddess Amaterasu. For 10 points, name this myth system whose worshippers revere spirits called kami, the traditional religion of Japan.
+
+----
+num: 9
+category: History
+difficulty: HS
+fixed: 1
+seen: 413
+answer: Oliver {Cromwell}
+
+This man was offered the crown of his country under the Humble Petition and Advice. This man led the Siege of Drogheda (DROY-eh-duh). John Lambert drafted the Instrument of Government, which gave this man considerable power. This ruler led the Parliamentarian cavalry at the Battle of Marston Moor, and he was supported by the Thomas Fairfax-led New Model Army. This man was briefly succeeded by his son Richard before the 1660 Restoration. For 10 points, name this man who replaced Charles I as leader of England by becoming the first Lord Protector of England.
+
+----
+num: 9
+category: History
+difficulty: HS
+fixed: 57
+seen: 415
+answer: Oliver Cromwell
+
+This man was offered the crown of his country under the Humble Petition and Advice. This man led the Siege of Drogheda (DROY-eh-duh). John Lambert drafted the Instrument of Government, which gave this man considerable power. This ruler led the Parliamentarian cavalry at the Battle of Marston Moor, and he was supported by the Thomas Fairfax-led New Model Army. This man was briefly succeeded by his son Richard before the 1660 Restoration. For 10 points, name this man who replaced Charles I as leader of England by becoming the first Lord Protector of England.
+
+----
+num: 11
+category: Fine Arts
+difficulty: HS
+fixed: 57
+seen: 491
+answer: {Czech} [prompt on {Slavic}]
+
+In one opera written in this language, the title water nymph sings the “Hymn to the Moon.” In another opera written in this language, the poacher Harasta kills the titular animal. This language of Rusalka was used to write The Cunning Little Vixen, as well as the other operas of Leoš Janá?ek. This is also the language of operas such as The Brandenburgers in (*) Bohemia and The Bartered Bride . For 10 points, name this language of nationalistic operas by Bed?ich Smetana and Antonín Dvorak (DVOR-zhak).
+
+----
+num: 12
+category: History
+difficulty: HS
+fixed: None
+seen: 410
+answer: Richard Milhous {Nixon}
+
+This President introduced the Comprehensive Health Insurance Act in his final year of office and declared "now I am a Keynesian" after eliminating the gold standard. This man signed the first Clean Air Act and created the Environmental Protection Agency. This President was the first president to visit the People’s Republic of China. This President came to power by defeating Democrat Hubert Humphrey in the election of 1968. For 10 points, name this Republican President who resigned in 1974 in the wake of the Watergate scandal.
+
+----
+num: 13
+category: History
+difficulty: HS
+fixed: 1
+seen: 421
+answer: Kingdom of {Denmark} [or {Kongeriget Danmark}]
+
+This country lost the Battle of Dybbol, which led it to give up Schleswig and Holstein (SHLAYS-vig and HOLE-stine) to the German Confederation after a brief 1864 war. During the fifteenth century, this country was joined with Norway and Sweden as the Kalmar Union. Its king Christian IV joined the Catholic side during the Thirty Years War. Its king Christian X apocryphally wore a Star of David on his sleeve during World War II. For 10 points, name this Scandinavian country with a capital city at Copenhagen.
+
+----
+num: 14
+category: Trash
+difficulty: HS
+fixed: 1
+seen: 1030
+answer: New York {Giants}
+
+This franchise beat the Chicago Bears in the 1934 “Sneakers Game”, but lost the first NFL game to go into overtime. Future head coaches to be this team’s defensive coordinator include John Fox, Vince Lombardi and Bill Belichick, who worked under Bill Parcells for their victories in Super Bowls XXI and XXV. Their third Super Bowl win, during Michael Strahan’s final season, was a 2008 17-14 defeat of the previously undefeated New England Patriots. For 10 points, Eli Manning quarterbacks this NFL team who shares a stadium with the Jets.
+
+----
+num: 15
+category: Science
+difficulty: HS
+fixed: 57
+seen: 486
+answer: {mollusca} [or {mollusks}]
+
+Members of this animal phylum produce larvae called veliger. Though not annelids or arthropods, they have excretory glands called nephridia. They also have a tongue with chitinous teeth used for scraping called a radula. Their gonads are protected by a mantle, and while they all have a mucus-secreting foot for movement, not all possess a shell. Members include bivalves, cephalopods, and gastropods. For 10 points, name this phylum containing clams, octopi, and snails.
+
+----
+num: 16
+category: Trash
+difficulty: HS
+fixed: -1
+seen: 1035
+answer: Zooey {Deschanel} (first initial required)
+
+One character portrayed by this woman dated a man named "The Puma" during her semester in Italy and works as a secretary at a greeting card company, while another is the lead singer of the band Munchausen by Proxy. This actress gained fame for the role of Jovie in Elf and also played Trillian in The Hitchhiker's Guide to the Galaxy. For 10 points, name this woman who played the female lead in Yes Man and 500 Days of Summer.
+
+----
+num: 17
+category: Literature
+difficulty: HS
+fixed: 57
+seen: 442
+answer: Paul {Revere}
+
+This man avoids being seen by a "phantom ship," the Somerset. A nameless friend of his thinks about a "shadowy something far away, where the river widens to meet the bay," but nevertheless "startle[s] the pigeons from their perch" as he climbs up wooden stairs to the belfry. At twelve, one, and "two by the village clock," he makes it to, respectively, Medford, Lexington, and Concord, after noticing two lamps lit in the Old North Church. For 10 points, Henry Wadsworth Longfellow tells children that they shall hear of the "midnight ride" of which American patriot?
+
+----
+num: 18
+category: Science
+difficulty: HS
+fixed: 57
+seen: 487
+answer: {halogens} [or Group 17A; or Group 7]
+
+Two elements from this group are exchanged in an SN2 reaction named for Finklestein. The heaviest of these elements is produced by bombarding bismuth with alpha particles. With a name meaning “salt-formers,” this group contains elements in solid, liquid, and gaseous phases at standard temperature and pressure. One of these elements is commonly found in the thyroid, while another is the most electronegative. For 10 points, name this group containing astatine, iodine, fluorine, and chlorine.
+
+----
+num: 19
+category: Literature
+difficulty: HS
+fixed: 57
+seen: 445
+answer: Thomas {Pynchon}
+
+In one novel by this author of the short story “Under The Rose,” the protagonist encounters the Paranoids and watches the fictional play The Courier’s Tragedy while on a quest to find out the truth about W.A.S.T.E., whose symbol is a muted post horn. In addition to that work about Oedipa Maas, this author wrote another work about Tyrone Slothrop and the V-2 rocket. For 10 points, name this American author of The Crying of Lot 49 and Gravity’s Rainbow.
+
+----
+num: 21
+category: Science
+difficulty: HS
+fixed: 1
+seen: 489
+answer: HIV
+
+The envelope of this virus contains gp120. This virus can use CCR5 or CXCR4 for entry into cells. One drug important to fighting this virus is AZT, which is a protease inhibitor. Infection with this virus can lead to opportunistic Kaposi's sarcoma. This virus infects cells with CD4, namely helper T cells. It can take 10 years for this virus to cause the disorder that it is associated with. For 10 points, name this virus that causes AIDS.
+
+----
+num: 22
+category: Literature
+difficulty: HS
+fixed: 57
+seen: 488
+answer: Romanticism
+
+Victor Hugo wrote a manifesto for this movement in the preface to his play Cromwell. A branch of this movement centering around the town of Jena included the author of Hymns to the Night, Novalis. This movement is exemplified by the poetry of William Cowper and the young Sir Walter Scott, which are read by the “sensibility” loving Marianne Dashwood in Austen’s Sense and Sensibility. For 10 points, name this early 19th century movement exemplified by Lord Byron which stressed a connection to nature and strong emotion.
+
+----
+num: 23
+category: Literature
+difficulty: HS
+fixed: 1
+seen: 447
+answer: Edward Estlin (e. e.) {Cummings}
+
+One of this man’s poems is about a man “more brave than me : more blond than you” whose “warmest heart recoiled at war.” He asked “how do you like your blue-eyed boy Mister Death” in a work from his debut collection, Tulips and Chimneys. This poet of “I sing of Olaf glad and big” and “Buffalo Bill’s” also wrote “anyone lived in a pretty how town.” For 10 points, name this American poet known for his unusual spelling and punctuation, who signed his works in lowercase.
+
+----
+num: 25
+category: Science
+difficulty: HS
+fixed: 57
+seen: 495
+answer: {friction} force
+
+This force is described on the atomic scale by the Tomlinson model, and one of the Amontons laws posits that this force is independent of surface area. The absence of this force is called superlubricity, and this force's namesake coefficient is typically less than 1, and is symbolized mu. That coefficient is multiplied by the normal force to obtain the value for this force. For 10 points, name this force generated by objects rubbing against each other.
+
+----
+num: 26
+category: Literature
+difficulty: HS
+fixed: 57
+seen: 447
+answer: {canon}
+
+When this word follows "Pali," it refers to a collection of scriptures in Theravada Buddhism. In religion, it also refers to the books of the Bible officially recognized by the church. Harold Bloom wrote a book about the "Western" one which includes a list of major literary works. It is also represented in the Great Books of the Western World series. For 10 points, name this word which refers to a representative set of literary works.
+
+----
+num: 28
+category: Literature
+difficulty: HS
+fixed: -1
+seen: 448
+answer: The {Waste Land}
+
+This work's footnotes declare a debt to the work of Jessie Weston, and it features a discussion about Albert and Lil punctuated by a refrain of “hurry up please it’s time.” Characters in this work include the clairvoyante Madame Sosostris, who has a bad cold, and Phlebas The Phoenician, who drowns in part 4, “Death By Water.” This poem was dedicated to “the better craftsman” Ezra Pound, and ends with a quote from the Upanishads, “shantih shantih shantih.” For 10 points, name this Modernist poem which begins “April is the cruelest month,” a work by T. S. Eliot.
+
+----
+num: 29
+category: History
+difficulty: HS
+fixed: 1
+seen: 418
+answer: {Prime Minister} of {Canada}
+
+One holder of this office was accused of accepting kickbacks from the Airbus jet plane company. Another crisis was caused when a man in this position was not allowed to dissolve his legislature in the King-Byng Affair. Held by such people as Brian Mulroney, William Mackenzie-King, and Kim Campbell, this office was first held by a man who resigned after the Pacific Scandal named John Macdonald. The current holder of this position is Stephen Harper. For 10 points, name this head of government of a country bordering the U.S.
+
+----
+num: 30
+category: Literature
+difficulty: HS
+fixed: 1
+seen: 438
+answer: George Bernard {Shaw}
+
+This author of the essay "How to Write a Popular Play" wrote about a debate between Don Juan and the Devil in his play Man and Superman. This man tackled the Irish question in John Bull's Other Island, and fictionalized the story of Joan of Arc in Saint Joan. In another play, arms manufacturer Andrew Undershaft donates money to the Salvation Army, to the chagrin of his daughter Barbara. This man's play about Henry Higgins' attempts to refine Eliza Doolittle was made into the musical My Fair Lady. For 10 points, name this Irish playwright of Major Barbara and Pygmalion.
+
+----
+num: 31
+category: Mythology
+difficulty: HS
+fixed: 1
+seen: 784
+answer: {Romulus} and {Remus} [{both} names required; {can} be {given} in either order]
+
+These figures were raised by Faustulus (FOUST-yuh-luhs) and Acca Larentia (AH-kuh luh-REN-shee-uh). These figures removed Amulius (uh-MYOO-lee-uhs) from the throne, restoring their grandfather King Numitor. These sons of Mars and Rhea Silvia were suckled by Lupa, a she-wolf. One of them saw twelve eagles over Palatine Hill, which the other mocked by jumping over it. For 10 points, name these twin brothers who founded ancient Rome.
+
+----
+num: 32
+category: History
+difficulty: HS
+fixed: None
+seen: 418
+answer: Thomas Woodrow Wilson
+
+This man's book The New Freedom argued for a revision of the tariff system. This President's administration saw the passage of the Clayton Antitrust Act. This President won reelection on the campaign slogan "He kept us out of war," but the U.S. soon entered into that war anyway. This man was a proponent of the League of Nations, which was a part of his Fourteen Points. For 10 points, name this President who won the election of 1912 and served throughout World War I.
+
+----
+num: 32
+category: History
+difficulty: HS
+fixed: None
+seen: 417
+answer: Thomas Woodrow Wilson
+
+This man's book The New Freedom argued for a revision of the tariff system. This President's administration saw the passage of the Clayton Antitrust Act. This President won reelection on the campaign slogan "He kept us out of war," but the U.S. soon entered into that war anyway. This man was a proponent of the League of Nations, which was a part of his Fourteen Points. For 10 points, name this President who won the election of 1912 and served throughout World War I.
+
+----
+num: 33
+category: Science
+difficulty: HS
+fixed: 57
+seen: 482
+answer: {diffusion} [prompt on “{effusion}” or “{osmosis}”]
+
+Plasma exhibits the Bohm type of this phenomenon. This process is also given by Einstein’s Relation. A specific type of it observed in gases is inversely proportional to the molar mass of the gas according to Graham’s Law, which is often paired with Fick’s Laws. Another type of it involves water passing through a semi-permeable membrane and is called osmosis. For 10 points, name this movement of particles from an area of high concentration to low concentration.
+
+----
+num: 33
+category: Science
+difficulty: HS
+fixed: 57
+seen: 487
+answer: {diffusion} [prompt on “{effusion}” or “{osmosis}”]
+
+Plasma exhibits the Bohm type of this phenomenon. This process is also given by Einstein’s Relation. A specific type of it observed in gases is inversely proportional to the molar mass of the gas according to Graham’s Law, which is often paired with Fick’s Laws. Another type of it involves water passing through a semi-permeable membrane and is called osmosis. For 10 points, name this movement of particles from an area of high concentration to low concentration.
+
+----
+num: 34
+category: Literature
+difficulty: HS
+fixed: 57
+seen: 445
+answer: Their Eyes Were Watching God
+
+One paragraph in this novel notes that man was chopped "into millions of pieces," beaten "down nothing to sparks," and "covered in mud" that was "deaf and dumb." The main character's grandmother notes that a person like her is "the mule of the world," and marries off the main character after catching her kissing the "trashy" Johnny Taylor. This novel depicts life in Eatonville as seen through the eyes of the Mayor's wife, and after Joe Starks dies, that wife runs off with a younger man nicknamed Tea Cake. For 10 points, name this novel about Janie Mae Crawford by Zora Neale Hurston.

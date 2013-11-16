@@ -1,0 +1,108 @@
+####
+tournament: Web Sample
+round: de3_for_web.pdf
+####
+
+num: 4
+category: Life Science
+difficulty: MS
+answer: W )  the Anopheles Mosquito
+
+What organism acts as the vector of malaria in humans?
+W) The Anopheles mosquito 
+X) The Tsetse fly 
+Y) The Kissing bug 
+Z) The flea
+
+----
+num: 6
+category: General Science
+difficulty: MS
+answer: X)  Still Illuminates About Half the Surface of the 
+Moon
+
+When the Moon appears through the night as a thin c rescent, the Sun’s light:
+W) is being blocked by the earth 
+X) still illuminates about half the surface of the m oon 
+Y) is only hitting the crescent region 
+Z) only shines during the day
+
+----
+num: 9
+category: Life Science
+difficulty: MS
+answer: Z)  the Thymus
+
+What gland, located in the area b eneath the sternum , is essential for a fully functional imm une system?
+W) The pineal gland 
+X) The hippocampus 
+Y) The pituitary gland 
+Z) The thymus
+
+----
+num: 12
+category: Earth Science
+difficulty: MS
+answer: X)  11-12 Years
+
+Maximum sunspot activity occurs at regular intervals of about how m any years?
+W) 15-16 years 
+X) 11-12 years 
+Y) 5-6 years 
+Z) 25-30 years
+
+----
+num: 14
+category: Life Science
+difficulty: MS
+answer: Z)  Muscle
+
+Actin and myosin are proteins most directly associated with the function of which of th e following tissues or systems of the humanbody?
+W) Adipose 
+X) Nervous 
+Y) Digestive 
+Z) Muscle
+
+----
+num: 16
+category: General Science
+difficulty: MS
+answer: Xenon
+
+Of the following 5 elements, which one is the least chem ically reactive? Sodium, Oxygen, Francium, Boron, Xenon
+
+----
+num: 17
+category: Earth Science
+difficulty: MS
+answer: W )  1 Foot
+
+Tsunamis, when seen in the deep ocean f ar from land, typically are about how much in amplitud e?
+W) 1 foot 
+X) 20 feet 
+Y) 50 feet 
+Z) 100 feet
+
+----
+num: 19
+category: Life Science
+difficulty: MS
+answer: Z)  Steri Le Surgical Techniques
+
+The name of Dr. Joseph Lister is most often associated w ith what?
+W) First heart transplant
+X) Pioneering the developm ent and use of vaccines 
+Y) The eradication of Yellow Fever 
+Z) Sterile surgical techniques
+
+----
+num: 25
+category: Physical Science
+difficulty: MS
+answer: Y)  Sodium Chlo Ride and Distilled Water
+
+Which of the following solutions will conduct electricity the best?
+W) sugar and distilled water 
+X) alcohol and distilled water 
+Y) sodium chloride and distilled water 
+Z) m oth balls and alcohol

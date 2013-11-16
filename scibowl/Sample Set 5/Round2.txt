@@ -1,0 +1,606 @@
+####
+tournament: Sample Set 5
+round: Round2.pdf
+####
+
+num: 1
+category: Earth and Space
+difficulty: HS
+fixed: -1
+seen: 48
+answer: Existence of Pangaea, Extinction of Dinosaurs, Occurrence of 
+Humans, Formation of the Great Lakes (Accept: 2, 4, 1, 3)
+
+
+By name or number, put the following four choices inchronological order from earliest to most recent: 1) occurrence of humans, 2) existence of 
+Pangaea, 3) formation of the Great Lakes, 4) extinction of the dinosaurs.
+
+----
+num: 2
+category: Physics
+difficulty: HS
+seen: 26
+answer: Inertial
+
+Turbulent flow is more likely to occur under conditions where 
+Reynolds numbers are high. Under these conditions, what forces are dominant in the system's fluid?
+
+----
+num: 2
+category: Physics
+difficulty: HS
+seen: 25
+answer: 8
+
+A 10-meter long cannon is pointed directly up and launches a 1 -kilogram cannon ball. The cannon ball is accelerated up the length of the cannon with a constant force of 13.2 newtons due to the explosion. Given g as 10 meters per second squared and assuming no energy loss due to friction, what is the velocity, in meters per second, of the cannon ball as it leaves the cannon?
+
+----
+num: 2
+category: Physical Science
+difficulty: MS
+seen: 6
+answer: 2
+
+If the voltage across a 3-ohm resister is 6 volts, what is the current , in amperes, flowing through the circuit?
+
+----
+num: 3
+category: Earth and Space Science
+difficulty: MS
+seen: 6
+answer: Cut Bank (Accept: River Cliff)
+
+
+What type of geomorphic feature forms on the outside of a river bend?
+
+----
+num: 4
+category: Energy
+difficulty: HS
+seen: 36
+answer: Leachate
+
+What is the term for the liquid, consisting of precipitation and waste decomposition, that has been filtered through a landfill?
+
+----
+num: 4
+category: Energy
+difficulty: HS
+seen: 35
+answer: Flywheel
+
+What is the name of an energy storage technology in whichelectrical energy is stored by accelerating a rotor, maintaining the energy in the system as rotational energy?
+
+----
+num: 5
+category: Biology
+difficulty: HS
+seen: 40
+answer: Malpighian  Tubule
+
+
+What is the name of the major excretory organ found in insects?
+
+----
+num: 5
+category: Life Science
+difficulty: MS
+seen: 11
+answer: Scallop
+
+Which bivalve has complex eyes, including a lens and retina?
+
+----
+num: 5
+category: Life Science
+difficulty: MS
+seen: 9
+answer: Lagomorpha
+
+
+According to biological classification, what is the order ofrabbits?
+
+----
+num: 6
+category: Math
+difficulty: HS
+seen: 23
+answer: 1 + 0i (Accept: 1)
+
+What is the multiplicative identity of the complex numbers in standard a + bi form?
+
+----
+num: 6
+category: Math
+difficulty: HS
+seen: 26
+answer: (X + 3)(x + 5)(x - 5) (In Any Order)
+
+Factor the following polynomial completely over the real numbers:x ^3 + 3x^2 – 5x – 15.
+
+----
+num: 6
+category: Math
+difficulty: MS
+seen: 6
+answer: 18 3
+
+In simplest radical form, what is the area, in square units, of a right triangle with a hypotenuse length of 12 and one leg with a length of 6?
+
+----
+num: 7
+category: Biology
+difficulty: HS
+seen: 40
+answer: Monoecious
+
+
+A plant has both megasporangiate (read as: meh-gah-spoh-RAHN-jeet) and microsporangiate (read as: my-krōe-spoh-RAHN-jeet) flowers on the same plant. 
+Indicate the term that describes this type of plant.
+
+----
+num: 7
+category: Life Science
+difficulty: MS
+seen: 11
+answer: Salmonella
+
+What is the genus of the bacteria that causes typhoid fever?
+
+----
+num: 8
+category: Energy
+difficulty: HS
+seen: 38
+answer: Silicon
+
+What element is the primary component of most photovoltaic cells?
+
+----
+num: 8
+category: Energy
+difficulty: HS
+seen: 37
+answer: Peak Oil
+
+What do we call the point in time when the maximum rate of global petroleum extraction is reached, after which the rate of production declines?
+
+----
+num: 8
+category: Energy
+difficulty: MS
+seen: 6
+answer: Window
+
+In a building, what is usually the leakiest site when it comes to energy, both in terms of losing heat in the winter and also gaining heat in the summer?
+
+----
+num: 9
+category: Physics
+difficulty: HS
+fixed: -1
+seen: 25
+answer: Quadruple
+
+If we double the voltage in a simple DC circuit and reduce the resistance by half, what will happen to the value of the current?
+
+----
+num: 9
+category: Physics
+difficulty: HS
+fixed: -1
+seen: 26
+answer: Mass and Half Life (Accept: 1 and 3) 
+
+
+By name or number, identify all of the following three choices that are life?apparent differences between a muon and an electron : 1) mass, 2) electric charge, 3) half
+
+----
+num: 9
+category: Physical Science
+difficulty: MS
+seen: 5
+answer: 32
+
+
+What is the maximum number of electrons that an n =4 shell can accommodate?
+
+----
+num: 10
+category: Life Science
+difficulty: MS
+seen: 11
+answer: In Vivo Fertilization
+
+What is the name of a method of fertilization in which the ovum is fertilized within a fallopian tube of a fertile female donor for transplantation into an infertile recipient?
+
+----
+num: 11
+category: Math
+difficulty: HS
+seen: 23
+answer: 2
+
+What is the exponent of 5 in the prime factorization of 325?
+
+----
+num: 11
+category: Math
+difficulty: HS
+seen: 26
+answer: All Real Numbers 
+
+
+For which real values of x does the following the series converge:^n^∞^=0^x^n^n^! (read as the summation from n equals 0 to infinity of [pause] x to the power of n over n factorial) ?
+
+----
+num: 11
+category: Math
+difficulty: MS
+seen: 6
+answer: 9
+
+Thirty percent of the days of each month have been designated as vacation days. To the nearest day, how many days of vacation should be in April?
+
+----
+num: 11
+category: Math
+difficulty: MS
+seen: 6
+answer: 336
+
+
+The sum of 3 consecutive integers is 21. What is their product?
+
+----
+num: 12
+category: General Science
+difficulty: MS
+seen: 6
+answer: Meniscus
+
+When measuring the volume of a liquid in a graduated cylinder, what is the name of the curve at the surface of the liquid?
+
+----
+num: 12
+category: General Science
+difficulty: MS
+seen: 6
+answer: 1, 2 , and 3 or All
+
+By number, identify all of the following three statements that are NOT true about tornado safety: 1) you should open windows if a tornado is approaching; 2) highway overpasses provide safe shelters from tornadoes; 3) rivers form a barrier to tornadoes.
+
+----
+num: 13
+category: Earth and Space
+difficulty: HS
+seen: 47
+answer: Cascade Mountains (Accept: 1)
+
+
+By name or number, identify all of the following four formations that were caused by subduction: 1) Cascade Mountains, 2) North American craton, 
+3) Hawaiian Islands, 4) folded Himalayan mountains?
+
+----
+num: 14
+category: Chemistry
+difficulty: HS
+seen: 34
+answer: +5 ( Do Not Accept: 5)
+
+Specifying the sign, what is the oxidation state of nitrogen in the neutral compound iron (II) nitrate?
+
+----
+num: 14
+category: Chemistry
+difficulty: HS
+seen: 36
+answer: 3
+
+When calcium chloride is dissolved in water, its van’t Hoff factor would be closest to what whole number?
+
+----
+num: 14
+category: General Science
+difficulty: MS
+seen: 6
+answer: Lungs, Skin , and Kidneys (Accept: 1, 3, and 4)
+
+By name or number, identify all of the following four organs directly involved in excretory system processes: 1) lungs, 2) heart, 3) skin, 4) kidneys.
+
+----
+num: 14
+category: General Science
+difficulty: MS
+seen: 5
+answer: Saharan Air Layer (Accept: s.a.l.)
+
+What is the name of the air mass that forms over 
+North Africa during the summer, carrying dust from Africa long distances?
+
+----
+num: 15
+category: Biology
+difficulty: HS
+seen: 40
+answer: Carbon Fixation
+
+What is the term for the process of securing carbon from the environment by incorporating it into a stable organic compound?
+
+----
+num: 15
+category: Biology
+difficulty: HS
+seen: 40
+answer: Gadp (Accept: Dhap,  Glyceraldehyde 3-Phosphate)
+
+
+The energy investment phase of glycolysis (read as: gly-KOH-li-sis) results in the formation of which triose sugar?
+
+----
+num: 15
+category: Life Science
+difficulty: MS
+seen: 11
+answer: Spina Bifida, Hypospadias, Tay -Sachs, Phenylketonuria (Accept: 1, 
+2, 3, and 4 or All)
+
+
+By name or number, identify all of the following four choices that are examples of birth defects: 1) spina bifida, 2) hypospadias (read as: hy-poh-SPAY-dee-ahs), 3) Tay-Sachs, 4) phenylketonuria (read as: fee-nil-kee-tohn-UHR-ee-ah).
+
+----
+num: 16
+category: Chemistry
+difficulty: HS
+fixed: -1
+seen: 36
+answer: H ^2, B^2, Clbr (Accept: 1, 2, and 3)
+
+By name or number, identify all of the following four diatomic molecules whose bond strength would decrease after the removal of an electron to form a positively charged ion: 1) H^2, 2) B^2, 3) ClBr, 4) OF.
+
+----
+num: 16
+category: General Science
+difficulty: MS
+seen: 5
+answer: Tropical Rain Forest, Temperate Deciduous Forest, Taiga, 
+Tundra (Accept: 2, 4, 1, 3)
+
+By name or number, range the following four biomes from highest to lowest average temperature: 1) taiga, 2) tropical rainforest, 3) tundra, 4) temperate deciduous (read as: di-SI-juh-uhs) forest.
+
+----
+num: 16
+category: General Science
+difficulty: MS
+seen: 6
+answer: Crab Spider (Accept: 4)
+
+By name or number, identify all of the following four animals that are NOT filter feeders: 1) mysid, 2) krill, 3) whale shark, 4) crab spider.
+
+----
+num: 17
+category: Math
+difficulty: HS
+seen: 24
+answer: 128/7 π
+ 
+
+Providing your answer as an improper fraction in simplest form in terms of π, what is the volume of the solid generated when the area bounded by y = x^3 , x = 2, and the x axis is revolved around the x-axis?
+
+----
+num: 17
+category: Math
+difficulty: MS
+seen: 6
+answer: 3
+
+Given the graph of a quadratic polynomial function, w hat is the minimum number of ordered pairs on the graph needed in order to determine the coefficients of the polynomial?
+
+----
+num: 17
+category: Math
+difficulty: MS
+seen: 6
+answer: 22 Years Old
+ 
+
+Fred is twice as old as Marco and Marco is 4 years older than Ray. If 
+Larz is 2 years older than Fred, and Ray is 6 years old, how old is Larz?
+
+----
+num: 18
+category: Physics
+difficulty: HS
+seen: 26
+answer: 50
+
+What is the frequency, in megahertz, of a wave of period 2 × 10^−^8seconds?
+
+----
+num: 18
+category: Physics
+difficulty: HS
+seen: 25
+answer: 0.29
+
+Given that the heat of fusion of water is 80 kilocalories per kilogram and providing your answer as a decimal to the nearest hundredth, what is the change in entropy per kilogram, in kilocalories per Kelvin, when ice at 0° Celsius is converted into water at 0° Celsius?
+
+----
+num: 18
+category: Physical Science
+difficulty: MS
+seen: 6
+answer: Strontium H Ydroxide
+
+What is the IUPAC name for Sr(OH)^2?
+
+----
+num: 19
+category: Biology
+difficulty: HS
+seen: 41
+answer: Medulla Oblongata
+
+Which specific region of the human brainstem regulates heart rate?
+
+----
+num: 19
+category: Earth and Space Science
+difficulty: MS
+seen: 5
+answer: Compression
+
+
+A convergent fault, such as the large one at the front of the Himalayan Mountains, forms in which type of stress environment?
+
+----
+num: 20
+category: Chemistry
+difficulty: HS
+seen: 33
+answer: Phosphorus and  Xenon (Accept: 3 and 5)
+
+By name or number, identify all of the following five elements that can form compounds with an expanded octet: 1) beryllium, 2) oxygen, 3) phosphorus, 4) fluorine, 5) xenon.
+
+----
+num: 20
+category: General Science
+difficulty: MS
+seen: 6
+answer: Quartz
+
+What is the second most abundant mineral in the 
+Earth’s continental crust, composed only of silicon and oxygen?
+
+----
+num: 20
+category: General Science
+difficulty: MS
+seen: 6
+answer: Anura
+
+What is the name for the scientific order of frogs?
+
+----
+num: 21
+category: Physical Science
+difficulty: MS
+seen: 6
+answer: Ch
+^2o
+
+What is the empirical formula of C ^6H^12O^6?
+
+----
+num: 21
+category: Physical Science
+difficulty: MS
+seen: 6
+answer: Aluminum, Water, Air (Accept: 1, 3, 2)
+ 
+
+By name or number, rank the speed of sound through the following three mediums from fastest to slowest at 25° Celsius: 1) aluminum, 2) air, 3) water.
+
+----
+num: 22
+category: Earth and Space
+difficulty: HS
+seen: 47
+answer: Sauropods (Accept: 4)
+
+By name or number, identify all of the following four life forms that are NOT a part of the Paleozoic rock record: 1) arthropods, 2) brachiopods (read as: BRA-kee-oh-pods), 3) cephalopods (read as: SEH-fah-loh-pods), 4) sauropods.
+
+----
+num: 22
+category: Earth and Space Science
+difficulty: MS
+seen: 6
+answer: A Depression
+
+What do hatchured lines on a topographic map indicate?
+
+----
+num: 23
+category: Math
+difficulty: HS
+seen: 24
+answer: Leibniz and Newton
+
+Which two mathematicians are generally credited with the invention of calculus?
+
+----
+num: 23
+category: Physical Science
+difficulty: MS
+fixed: -1
+seen: 6
+answer: 2
+
+
+What force, in newtons, does an electric field of 1 volt per meter exert on a particle with a charge of 2 coulombs?
+
+----
+num: 24
+category: Energy
+difficulty: HS
+seen: 37
+answer: Weber
+
+What is the SI unit of magnetic flux?
+
+----
+num: 24
+category: Energy
+difficulty: HS
+fixed: -1
+seen: 35
+answer: United States, Mexico, Kenya , Iceland (Accept: 2, 3, 1, 4)
+
+By name or number, rank the following four countries in annual geothermal energy generation as a percentage of total domestic energy production from least to greatest: 1) Kenya, 2) United States, 3) Mexico, 4) Iceland.
+
+----
+num: 24
+category: Energy
+difficulty: MS
+fixed: -1
+seen: 7
+answer: Regenerative Brake
+
+What kind of energy recovery mechanism slows a hybrid vehicle by converting its kinetic energy into electric energy and storing it in a battery for later use?
+
+----
+num: 25
+category: Math
+difficulty: HS
+seen: 26
+answer: 2a^2^– 1
+
+If a = cos(x), what is cos(2x) in terms of a?
+
+----
+num: 25
+category: Math
+difficulty: HS
+seen: 24
+answer: V= ^X^3
+^4^ ^3
+
+A triangular prism has a base that is an equilateral triangle with sidesof length x. If the height of the prism is x, express the volume of the prism in terms of x.
+
+----
+num: 25
+category: Math
+difficulty: MS
+seen: 6
+answer: 54
+
+The volume of a cube is 27 cubic centimeters. What is the surface area , in square centimeters, of this cube?
+
+----
+num: 25
+category: Math
+difficulty: MS
+seen: 6
+answer: 55x^6y^9z^3
+
+Express the following in standard polynomial form : 5x^4y^7^ × zy × 11x^2z^2y (read as: 5x to the fourth y to the seventh times zy times 11 x squared z squared y).

@@ -1,0 +1,239 @@
+####
+tournament: Sample
+round: round6.pdf
+####
+
+num: 1
+category: Physics
+difficulty: HS
+answer: Z)  Diode
+
+Which of the following most commonly functions to limit current toone direction:
+W) capacitor
+X) transformer
+Y) resistor
+Z) diode
+
+----
+num: 5
+category: Earth Science
+difficulty: HS
+answer: W)  Passive Margins
+
+Continental margins facing the edges of diverging tectonic plates are called:
+W) passive margins
+X) Pacific-type margins
+Y) transform fault margins
+Z) active margins
+
+----
+num: 7
+category: Astronomy
+difficulty: HS
+seen: 1
+answer: Y)  From Rock Pulverized From Many Impacts
+
+Which of the following best explains from where most of the dust that covers the surface of the Moon came:
+W) weathering when the Moon was young and had an atmosphere
+X) interstellar dust deposited over billions of years
+Y) from rock pulverized from many impacts
+Z) from its original makeup of a soft, silicate rock
+
+----
+num: 8
+category: Physics
+difficulty: HS
+answer: Z)  Salt Bridge
+
+Which of the following is the device in a galvanic cell that completes th e electric circuit by connecting the two sides of the cell with an inert electrolyte:
+W) electrolytic reservoir
+X) cathode
+Y) conducting wire
+Z) salt bridge
+
+----
+num: 9
+category: Chemistry
+difficulty: HS
+answer: W)  Bromine Gas
+
+Which of the following is a molecule having a nonpolar covalent bond:
+W) bromine gas
+X) hydrogen fluoride
+Y) water
+Z) hydrogen bromide
+
+----
+num: 10
+category: Biology
+difficulty: HS
+answer: X)  Digestive
+
+In which of the following organ systems of the human body do chief cells primarily function:
+W) excretory
+X) digestive
+Y) nervous
+Z) reproductive
+
+----
+num: 12
+category: Earth Science
+difficulty: HS
+answer: X)  Uranium -238
+
+Which of the following is best used to date the age of t he 
+Earth to about 4.5 billion years old:
+W) uranium-235
+X) uranium-238
+Y) potassium-40
+Z) carbon-14
+
+----
+num: 12
+category: Earth Science
+difficulty: HS
+answer: Y)  Zircon
+
+Which of the following is a ubiquitous trace mineral found in many igneous, meta morphic and clastic sedimentary rocks, and has been used to date 
+Earth’s oldest rocks at 4-plus billion years:
+W) titanite
+X) tremolite
+Y) zircon
+Z) beryl
+
+----
+num: 13
+category: General Science
+difficulty: HS
+answer: Z)  Pollution Is Always to Blame for Harmful Algal Blooms 
+Along Coastal Waters
+
+Which of the following is NOT true:
+W) only a few harmful algal bloom species actually produce toxins that are poisonous to people
+X) algal blooms occur in marine and freshwater environments
+Y) algal blooms can occur in the open ocean far from any coastal inlets
+Z) pollution is always to blame for harmful algal blooms along coastal waters
+
+----
+num: 13
+category: General Science
+difficulty: HS
+answer: Z)  1,100 Trillion
+(Solution: ~2205 × 500 × 1000 = 1,102,000,000)
+
+500 metric gigatons is approximately equal to how many p ounds:
+W) 1.1 trillion
+X) 11 trillion
+Y) 110 trillion
+Z) 1 ,100 trillion
+
+----
+num: 14
+category: Astronomy
+difficulty: HS
+seen: 1
+answer: Y)  Low in the Western Sky
+
+If a star is seen just above the eastern horizon at sunse t, where would it most likely be found just before the following sunrise:
+W) just above the eastern horizon
+X) half-way up in the eastern sky
+Y) low in the western sky 
+Z) directly overhead
+
+----
+num: 16
+category: Chemistry
+difficulty: HS
+answer: Z)  Transition Elements
+
+Which of the following are elements in the Periodic Table whose outer shell electrons are on two princip al energy levels:
+W) alkali metals
+X) noble gases
+Y) alkaline Earth metals
+Z) transition elements
+
+----
+num: 18
+category: General Science
+difficulty: HS
+answer: W)  Boric Acid
+
+Pyrex glass contains many of the same components as soda lime glass but in addition contains at least 5%:
+W) boric acid
+X) pure silica
+Y) clay
+Z) dyes
+
+----
+num: 18
+category: General Science
+difficulty: HS
+answer: Y)  Reduces the Linear Coefficient of Expansion of the Glass
+
+Which of the following BEST describes the function of boric acid in the manufacture of Pyrex or borosilicate glass:
+W) makes the glass more scratch -resistant 
+X) makes the glass more brittle
+Y) reduces the linear coefficient of expansion of the glass
+Z) reduces the effect of detrimental ultraviolet light exposu re
+
+----
+num: 19
+category: Earth Science
+difficulty: HS
+answer: X)  Batholith
+
+Which of the following are intrusive masses of igneous rock that extend downward to unknown depths and do not show signs of a de finite floor:
+W) laccolith
+X) batholith
+Y) sill
+Z) volcanic neck
+
+----
+num: 19
+category: Earth Science
+difficulty: HS
+answer: X)  Muscovite
+
+Which of the following is NOT a common mineral in igneous rock but rather an accessory that typically occurs in small amounts:
+W) quartz
+X) muscovite
+Y) plagioclase
+Z) orthoclase
+
+----
+num: 23
+category: Chemistry
+difficulty: HS
+answer: W)  Hydrogen Gas Found in Nature Exists as a Monatomic 
+Molecule
+
+Which of the following is NOT true:
+W) hydrogen gas found in nature exists as a monatomic molecule
+X) when 2 oxygen atoms combine to form O^2, energy is released
+Y) when chlorine gains 1 electron, it becomes larger
+Z) noble gases tend not to bond because of their stable valence configurations
+
+----
+num: 24
+category: Biology
+difficulty: HS
+answer: W)  Transduction
+
+Which of the following is the term for the transfer of genes by viruses from one prokaryote to another:
+W) transduction
+X) conjugation
+Y) transformation
+Z) relaxation
+
+----
+num: 25
+category: Chemistry
+difficulty: HS
+answer: X)  Collisions Between Gas Particles Are Both Elastic and 
+Inelastic
+
+Which of the following is NOT true of ideal gases:
+W) 2 or more gases form homogeneous mixtures in all proportions
+X) collisions between gas particles are both elastic and inelastic
+Y) they diffuse rapidly
+Z) they assume the shapes of their containers

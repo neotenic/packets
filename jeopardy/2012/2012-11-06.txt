@@ -1,0 +1,410 @@
+####
+tournament: #6472
+round: Show #6472 - Tuesday, November 6, 2012
+year: 2012
+date: 2012-11-06
+####
+
+num: 1
+category: Art
+difficulty: 200
+seen: 4
+answer: a nook
+
+A cozy corner of a room, or a small recess, perhaps for breakfast.
+
+----
+num: 2
+category: Art
+difficulty: 200
+seen: 4
+answer: "American Pie"
+
+In 1971 Don McLean served up this 8 1/2-minute anthem about "the day the music died".
+
+----
+num: 3
+category: Science
+difficulty: 200
+seen: 8
+answer: a marathon
+
+An Ironman Triathlon is a 2.4-mile swim, a 112-mile bike ride & this run.
+
+----
+num: 4
+category: Art
+difficulty: 200
+seen: 5
+answer: paper
+
+In the hand game known as roshambo, it's what scissors beats.
+
+----
+num: 5
+category: Art
+difficulty: 400
+seen: 3
+answer: a goober
+
+It's a Southern term for a peanut.
+
+----
+num: 6
+category: Art
+difficulty: 400
+seen: 3
+answer: "Stairway To Heaven"
+
+This 8-minute-long classic begins, "There's a lady who's sure all that glitters is gold".
+
+----
+num: 7
+category: Literature
+difficulty: 400
+seen: 4
+answer: Lima (Peru)
+
+The presidential palace (built on the site of Pizarro's house).
+
+----
+num: 8
+category: Science
+difficulty: 400
+seen: 5
+answer: aerobic
+
+Jogging is this type of exercise that increases the efficiency of the body's oxygen intake.
+
+----
+num: 9
+category: Art
+difficulty: 400
+seen: 4
+answer: pinking shears
+
+The name of these sewing shears refers to their notched blades, not to a color.
+
+----
+num: 10
+category: Art
+difficulty: 600
+seen: 4
+answer: a mood ring
+
+This jewelry item from the '70s that changes colors in response to body heat has made several comebacks.
+
+----
+num: 11
+category: Art
+difficulty: 600
+seen: 3
+answer: "Purple Rain"
+
+This "colorful" 1984 hit by Prince clocks in at over 8 1/2 minutes.
+
+----
+num: 12
+category: Literature
+difficulty: 600
+seen: 4
+answer: Amsterdam (the Netherlands)
+
+Museum Van Loon & the Heineken Experience.
+
+----
+num: 13
+category: Science
+difficulty: 600
+seen: 6
+answer: the 100-meter dash
+
+Currently, it's the shortest sprint distance in the Summer Olympics.
+
+----
+num: 14
+category: Art
+difficulty: 600
+seen: 4
+answer: a rivet
+
+Most scissors are a pair of pivoting blades, connected by a screw, or one of these two-headed metal pins.
+
+----
+num: 15
+category: Art
+difficulty: 800
+seen: 4
+answer: swoon
+
+It means to go gaga over something; you don't actually have to faint.
+
+----
+num: 16
+category: Art
+difficulty: 800
+seen: 3
+answer: "Tainted Love"
+
+In the version that's combined with "Where Did Our Love Go", this Soft Cell hit goes on for 9 minutes.
+
+----
+num: 17
+category: Science
+difficulty: 800
+seen: 5
+answer: the pace
+
+Usual 4-letter term for the rate at which a group runs; you "set" it if you're in the front.
+
+----
+num: 18
+category: Art
+difficulty: 800
+seen: 4
+answer: the jaws of life
+
+It's the 3-word name for hydraulic rescue scissors used to cut heavy sheet metal in car wrecks.
+
+----
+num: 19
+category: Art
+difficulty: 1000
+seen: 4
+answer: the Sawtooth Mountains
+
+mountains in Idaho get their name from their jagged appearance.
+
+----
+num: 20
+category: Art
+difficulty: 1000
+seen: 5
+answer: "In-A-Gadda-Da-Vida"
+
+Set aside 17 minutes, baby, if you want to hear this Iron Butterfly hit in its entirety.
+
+----
+num: 21
+category: Literature
+difficulty: 1000
+seen: 4
+answer: Wellington
+
+Zealandia Wildlife Sanctuary.
+
+----
+num: 22
+category: Science
+difficulty: 1000
+seen: 7
+answer: twitch
+
+A 2010 study suggests 40 mph might be possible for humans--the key is increasing the muscle fibers called "fast" this.
+
+----
+num: 23
+category: Art
+difficulty: 1000
+seen: 3
+answer: orange
+
+Finnish company Fiskars has sold over 1 billion pairs of the scissors introduced in 1967 with this color handle.
+
+----
+num: 24
+category: Literature
+difficulty: 400
+seen: 4
+answer: Western
+
+Since 1953, the Spur Awards have been presented annually to writers of this genre.
+
+----
+num: 25
+category: Literature
+difficulty: 400
+seen: 4
+answer: vain
+
+Completes the biblical line "Thou shalt not take the name of the Lord thy God in...".
+
+----
+num: 26
+category: Literature
+difficulty: 400
+seen: 3
+answer: smorgasbord
+
+The name of this Scandinavian buffet is from the Swedish for "bread & butter table".
+
+----
+num: 27
+category: History
+difficulty: 400
+seen: 4
+answer: the Round Table at the Algonquin
+
+In the 1920s & '30s this literary group that included Dorothy Parker met daily for lunch at a NYC hotel.
+
+----
+num: 28
+category: Science
+difficulty: 400
+seen: 7
+answer: the gallbladder
+
+This muscular sac sits just below the liver.
+
+----
+num: 29
+category: Literature
+difficulty: 800
+seen: 4
+answer: Hugo Cabret
+
+Brian Selznick won a 2008 Caldecott Medal for Illustration for his book "The Invention of" this French boy.
+
+----
+num: 30
+category: Literature
+difficulty: 800
+seen: 4
+answer: the God particle
+
+In 2012 physicists announced strong evidence for the existence of the Higgs boson, popularly called this.
+
+----
+num: 31
+category: Literature
+difficulty: 800
+seen: 3
+answer: a whisk
+
+The balloon type of this utensil is ideal for whipping egg whites into proper consistency for meringues.
+
+----
+num: 32
+category: History
+difficulty: 800
+seen: 4
+answer: the United Nations
+
+The Dumbarton Oaks mansion was the site of a 1944 meeting that proposed forming what became this world body.
+
+----
+num: 33
+category: Literature
+difficulty: 1200
+seen: 4
+answer: your powder
+
+Soldiers have long been advised to "Put your trust in God and keep" this "dry".
+
+----
+num: 34
+category: Literature
+difficulty: 1200
+seen: 3
+answer: a chicken in every pot
+
+During the 1928 presidential campaign, Republican ads promised this foodstuff.
+
+----
+num: 35
+category: History
+difficulty: 1200
+seen: 4
+answer: King James
+
+During the 1604 Hampton Court conference, this king accepted a request for a new translation of the Bible.
+
+----
+num: 36
+category: Literature
+difficulty: 1200
+seen: 4
+answer: Kristen Wiig
+
+"Bridesmaids" maid of honor Annie Walker.
+
+----
+num: 37
+category: Science
+difficulty: 1200
+seen: 6
+answer: genetically modified
+
+A lab animal manipulated to exhibit a human disease is an example of a GMO, short for this type of organism.
+
+----
+num: 38
+category: Literature
+difficulty: 1600
+seen: 4
+answer: Arthur C. Clarke
+
+A British sci-fi award named for this "Childhood's End" author consists of an engraved bookend.
+
+----
+num: 39
+category: Literature
+difficulty: 1600
+seen: 4
+answer: the balcony
+
+In a theater, if your seats are in the gods, they're in this section.
+
+----
+num: 40
+category: History
+difficulty: 1600
+seen: 5
+answer: Yalta
+
+In February 1945 FDR, Churchill & Stalin met at this Black Sea resort in the Livadiya Palace.
+
+----
+num: 41
+category: Literature
+difficulty: 1600
+seen: 4
+answer: Salma Hayek
+
+In 2002, Frida Kahlo.
+
+----
+num: 42
+category: Science
+difficulty: 1600
+seen: 6
+answer: the Great Red Spot
+
+This feature of Jupiter is about 12,400 by 7,500 miles.
+
+----
+num: 43
+category: Literature
+difficulty: 2000
+seen: 6
+answer: Stephen King
+
+He won a Bram Stoker award for horror for "Lisey's Story" & also has a lifetime achievement award.
+
+----
+num: 44
+category: Literature
+difficulty: 2000
+seen: 6
+answer: a cemetery
+
+Whether "Little" or not, "God's Acre" means one of these places.
+
+----
+num: 45
+category: Literature
+difficulty: 2000
+seen: 6
+answer: an automat
+
+The New York Public Library.

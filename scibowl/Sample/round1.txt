@@ -1,0 +1,299 @@
+####
+tournament: Sample
+round: round1.pdf
+####
+
+num: 1
+category: Biology
+difficulty: HS
+seen: 40
+answer: Phenotype
+
+What is the most common term used in genetics to describe the observable physical characteri stics of an organism caused by the expression of a gene or set of genes?
+
+----
+num: 1
+category: Biology
+difficulty: HS
+seen: 40
+answer: Phagocytosis
+
+What is the biological term most often used for the act of a cell engulfing a particle by extending its pseudopodia (read as: SU -doe-POH-dee-ah) around the particle?
+
+----
+num: 2
+category: Chemistry
+difficulty: HS
+seen: 32
+answer: 144
+
+Find the mass of 1 mole of cuprous oxide, or Cu ^2O. Assume the atomic mass of copper is 64 and oxygen is 16.
+
+----
+num: 3
+category: Physics
+difficulty: HS
+seen: 25
+answer: Amplitude
+
+What property of a sound wave is most commonly associated with loudness?
+
+----
+num: 3
+category: Physics
+difficulty: HS
+seen: 25
+answer: Diffraction
+
+What is the MOST common term for the behavior of light where it appears to bend around small obstacles or the spreading out of waves as light passes through pinholes or slits?
+
+----
+num: 4
+category: Math
+difficulty: HS
+seen: 25
+answer: Complementary
+
+What term BEST describes 2 angles with 90º as the sum of their measurements?
+
+----
+num: 6
+category: General Science
+difficulty: HS
+seen: 31
+answer: 3
+
+How many significant figures are in the number 0.00750?
+
+----
+num: 6
+category: General Science
+difficulty: HS
+seen: 31
+answer: 24.140
+
+Subtract the following 2 numbers and give your answer with the proper significant figures: 25.101 – 0.9608
+
+----
+num: 7
+category: Astronomy
+difficulty: HS
+seen: 53
+answer: North Star  (Accept:  Polaris or Alpha Ursa Minoris)
+
+What is the proper name of the star that is most commonly noted to have coordinates closest to the north celestial pole?
+
+----
+num: 7
+category: Astronomy
+difficulty: HS
+seen: 54
+answer: Big Dipper
+
+What is the most well -known asterism in Ursa Major?
+
+----
+num: 8
+category: Biology
+difficulty: HS
+seen: 38
+answer: T and B (Accept:  B and T Cells)
+
+What are the 2 basic categories of lymphocyte cells?
+
+----
+num: 9
+category: Chemistry
+difficulty: HS
+seen: 33
+answer: Evaporation;  Water Melts
+
+Name all of the following 4 processes where latent heat is absorbed: evaporation; condensation; water melts; water freezes
+
+----
+num: 10
+category: Physics
+difficulty: HS
+seen: 26
+answer: Lightning
+
+Although not known as such at the time, what was the first form of spectacular electric discharge seen by humans?
+
+----
+num: 11
+category: Math
+difficulty: HS
+seen: 24
+answer: A ^B^2+^b
+
+Simplify the following expression , where a is not equal to zero if b = 0 or if b = –1: (a^b^2 )(a^b)
+
+----
+num: 13
+category: General Science
+difficulty: HS
+seen: 32
+answer: 1
+
+Rounded to the nearest whole number, how many feet does light travel in one-billionth of one second?
+
+----
+num: 14
+category: Astronomy
+difficulty: HS
+fixed: -1
+seen: 53
+answer: Sun
+
+What star has the greatest apparent magnitude?
+
+----
+num: 14
+category: Astronomy
+difficulty: HS
+seen: 53
+answer: Venus
+
+What planet is known to be most like Earth in size and density?
+
+----
+num: 15
+category: Biology
+difficulty: HS
+seen: 40
+answer: 2
+
+How many embryonic seed leaves does a bean seedling have?
+
+----
+num: 15
+category: Biology
+difficulty: HS
+fixed: -1
+seen: 40
+answer: Geranium;  Rose
+
+Name all of the following 5 plants that are dicots: wheat; geranium; garlic; bamboo; ro se
+
+----
+num: 16
+category: Chemistry
+difficulty: HS
+seen: 33
+answer: One  (Accept:  Group 1a or Alkali Metals)
+
+In general, metals are relatively hard except for what group of metals in the Periodic Table?
+
+----
+num: 18
+category: Math
+difficulty: HS
+seen: 27
+answer: 9π
+(Solution: C = πD; ½(18π) = 9π)
+
+Giving your answer in terms of π and in inches, what is the arc-length of a semi-circle whose diameter is 18 inches?
+
+----
+num: 18
+category: Math
+difficulty: HS
+seen: 25
+answer: 120
+(Solution: A = ½ Bh = ½ (12)(20) = 120 Ft^2)
+
+What is the area, in square feet, of a triangle whose perpendicular height is 20 feet with a base of 12 feet?
+
+----
+num: 20
+category: General Science
+difficulty: HS
+seen: 31
+answer: Nitrogen  (Accept:  N
+^2)
+
+What gas is most directly responsible for the bends or decompression sickness that divers may experience?
+
+----
+num: 20
+category: General Science
+difficulty: HS
+seen: 30
+answer: 37
+
+In degrees Celsius to the nearest whole number, what is the normal core body temperature of a human being?
+
+----
+num: 21
+category: Astronomy
+difficulty: HS
+seen: 54
+answer: 90  (Accept:  +90)
+
+What is the declination of the north celestial pole?
+
+----
+num: 21
+category: Astronomy
+difficulty: HS
+seen: 56
+answer: The Milky Way
+
+The Sagittarius Arm is part of what galaxy?
+
+----
+num: 22
+category: Biology
+difficulty: HS
+seen: 41
+answer: Phylum;  Kingdom
+
+Using the traditional system of classification, when organisms belong to the same class, name all of the following 4 taxonomic categories to whi ch they must also belong: order; family; phylum; kingdom
+
+----
+num: 23
+category: Chemistry
+difficulty: HS
+fixed: -1
+seen: 34
+answer: H
+^2s
+
+According to standard chemical nomenclature and indicating the proper charge, what is the formula for hydrogen sulfide?
+
+----
+num: 23
+category: Chemistry
+difficulty: HS
+fixed: -1
+seen: 30
+answer: Largest = Rb+;  Smallest =  Li+  (Accept:  Rubidium and Lithium)
+
+Of the following group of 4 cations, which are the LARGEST and SMALLEST ions, respectively: K +; Na+; Rb+; Li+
+
+----
+num: 24
+category: Physics
+difficulty: HS
+seen: 26
+answer: Inertia
+
+What is the BEST term for the tendency of any mass at rest to remain at rest?
+
+----
+num: 25
+category: Biology
+difficulty: HS
+seen: 40
+answer: Escherichia
+
+What is the genus name of the most thoroughly studied bacterium?
+
+----
+num: 25
+category: Biology
+difficulty: HS
+seen: 38
+answer: Photosynthesis
+
+Name all of the following 3 processes that do NOT occur in E. coli: glycolysis; photosynthesis; glycogenolysis (read as: GLYKO -jen-oh-LY-sis)

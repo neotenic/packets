@@ -1,0 +1,312 @@
+####
+tournament: #6632
+round: Show #6632 - Tuesday, June 18, 2013
+year: 2013
+date: 2013-06-18
+####
+
+num: 1
+category: Literature
+difficulty: 200
+seen: 4
+answer: Gillette
+
+This brand's Fusion Proglide is the "official shave of the NFL".
+
+----
+num: 2
+category: History
+difficulty: 200
+seen: 6
+answer: John Paul II
+
+In Syria on May 6 he became the first pope to enter a mosque, calling for brotherhood between Christians & Muslims.
+
+----
+num: 3
+category: Literature
+difficulty: 400
+seen: 3
+answer: Rapunzel
+
+In "Golden: A Retelling of" this fairy tale girl, she's bald, quite the opposite of what we're used to.
+
+----
+num: 4
+category: Literature
+difficulty: 400
+seen: 4
+answer: Listerine
+
+Can't handle the intensity of this original antiseptic mouthwash? Try the cool mint or freshburst flavors.
+
+----
+num: 5
+category: Art
+difficulty: 400
+seen: 4
+answer: leather
+
+Doing some blind tooling? You're probably making impressions in this material with hot tools, maybe on a book cover.
+
+----
+num: 6
+category: History
+difficulty: 400
+seen: 5
+answer: itunes
+
+Introducing this, Apple said it was "miles ahead of every other jukebox application".
+
+----
+num: 7
+category: Literature
+difficulty: 600
+seen: 4
+answer: (Edgar Allan) Poe
+
+The 1843 mystery "The Gold-Bug" won him a $100 prize from a Philadelphia newspaper.
+
+----
+num: 8
+category: Literature
+difficulty: 600
+seen: 4
+answer: Band-Aids
+
+These adhesive items from Johnson & Johnson first appeared in 1920; they were 3 inches wide & 18 inches long.
+
+----
+num: 9
+category: Art
+difficulty: 600
+seen: 4
+answer: lace
+
+Named for its gauzy appearance, point de gaze is a type of this fabric developed in 19th c. Belgium.
+
+----
+num: 10
+category: History
+difficulty: 600
+seen: 4
+answer: (Timothy) McVeigh
+
+Exactly 3 months before 9/11, this Oklahoma City bomber was executed.
+
+----
+num: 11
+category: Literature
+difficulty: 800
+seen: 3
+answer: Henry Morgan
+
+John Steinbeck's first novel, "Cup of Gold", is about this buccaneer knighted in 1674.
+
+----
+num: 12
+category: Literature
+difficulty: 800
+seen: 4
+answer: Old Spice
+
+The logo of this line of men's toiletries is seen here.
+
+----
+num: 13
+category: Art
+difficulty: 800
+seen: 4
+answer: fretwork
+
+This name for the repetitive work seen.
+
+----
+num: 14
+category: History
+difficulty: 800
+seen: 4
+answer: a scythe
+
+Grim reaper-y agricultural implement.
+
+----
+num: 15
+category: Literature
+difficulty: 1000
+seen: 3
+answer: ChapStick
+
+During WWII the U.S. government gave American soldiers tubes of this lip balm.
+
+----
+num: 16
+category: Art
+difficulty: 1000
+seen: 4
+answer: a tapestry
+
+"The Lady and the Unicorn" is a 6-paneled one of these that once hung in the castle of Boussac.
+
+----
+num: 17
+category: History
+difficulty: 1000
+seen: 4
+answer: Mir
+
+In 2001 this orbiting lab completed its space odyssey that began with its launch in 1986.
+
+----
+num: 18
+category: History
+difficulty: 1000
+seen: 5
+answer: absinthe
+
+Wormwoody liquor.
+
+----
+num: 19
+category: Philosophy
+difficulty: 400
+seen: 8
+answer: Confucius
+
+The Lun-Yu, or "Analects", is considered the most reliable source of this philosopher's teachings.
+
+----
+num: 20
+category: History
+difficulty: 400
+seen: 4
+answer: an elephant
+
+Prior to being shot by a sniper, union general John Sedgwick said, "they couldn't hit" this pachyderm "at this distance".
+
+----
+num: 21
+category: Art
+difficulty: 400
+seen: 4
+answer: a triplex
+
+An apartment building with exactly 3 units.
+
+----
+num: 22
+category: Philosophy
+difficulty: 800
+seen: 7
+answer: stoicism
+
+Be strong & don't complain when I tell you little survives of the works of Panaetius, who brought this -ism to Rome.
+
+----
+num: 23
+category: History
+difficulty: 800
+seen: 5
+answer: Robert E. Lee
+
+"I can anticipate no greater calamity for the country than a dissolution of the union", wrote this Virginian.
+
+----
+num: 24
+category: Philosophy
+difficulty: 1200
+seen: 7
+answer: omnipresent
+
+Medieval thinkers wondered how god could be this, meaning "being everywhere", if he's not even material.
+
+----
+num: 25
+category: History
+difficulty: 1200
+seen: 4
+answer: Pickett
+
+Known for his "Charge" at Gettysburg, he was relieved of his command days prior to Appomattox.
+
+----
+num: 26
+category: Geography
+difficulty: 1200
+seen: 8
+answer: Kampala
+
+Port Bell, this Ugandan capital's seaport, lies 6 miles east on Lake Victoria.
+
+----
+num: 27
+category: Art
+difficulty: 1200
+seen: 4
+answer: regalia
+
+The symbols of royalty, containing a synonym for "royal".
+
+----
+num: 28
+category: History
+difficulty: 1600
+fixed: -1
+seen: 4
+answer: Farragut
+
+In the spring of 1862, this naval hero & his fleet captured New Orleans.
+
+----
+num: 29
+category: Geography
+difficulty: 1600
+seen: 8
+answer: Kuala Lumpur
+
+King Rahman is shown in 1957 putting his signature to Malayan independence in this city.
+
+----
+num: 30
+category: Art
+difficulty: 1600
+seen: 4
+answer: a naiad
+
+A dryad is a wood nymph;.
+
+----
+num: 31
+category: Philosophy
+difficulty: 2000
+seen: 9
+answer: Hegel
+
+This 19th century German's theory of dialectical progression was a major influence on Karl Marx.
+
+----
+num: 32
+category: History
+difficulty: 2000
+seen: 6
+answer: Joe Hooker
+
+Perhaps appropriately, the HQ of this general was called a "combination barroom and brothel".
+
+----
+num: 33
+category: Geography
+difficulty: 2000
+seen: 14
+answer: Kinshasa
+
+For its first 85 years, this capital was known as Leopoldville; the name was changed in 1966.
+
+----
+num: 34
+category: Art
+difficulty: 2000
+seen: 6
+answer: an eye bank
+
+A facility for storing corneas.

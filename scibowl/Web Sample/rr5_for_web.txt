@@ -1,0 +1,159 @@
+####
+tournament: Web Sample
+round: rr5_for_web.pdf
+####
+
+num: 4
+category: Life Science
+difficulty: MS
+seen: 11
+answer: Parasitism
+
+What is the nam e of the type of symbiotic relationship dem onstrated by deer and deer ticks?
+
+----
+num: 5
+category: Physical Science
+difficulty: MS
+seen: 6
+answer: Distillation  (Accept:  Simple, Fractional or Steam 
+Distillat Ion)
+
+What is the most frequently used procedure for purifying liquids consisting of boiling the liquid and condens ing the vapor?
+
+----
+num: 7
+category: Earth Science
+difficulty: MS
+seen: 7
+answer: Tropopause
+
+What is the name given to the boundary between the Earth’s Troposphere and the Mesosphere?
+
+----
+num: 8
+category: Mathematics
+difficulty: MS
+seen: 35
+answer: 6 Students (Accept 6)
+
+A bus leaves school with 48 students on board. At each stop, one-half of the remaining students get off the bus. How many students are still on the bus a fter the third stop?
+
+----
+num: 11
+category: General Science
+difficulty: MS
+seen: 6
+answer: Sirius
+
+What is the nam e of the brightest star in the northern hem isphere of the sky?
+
+----
+num: 13
+category: Mathematics
+difficulty: MS
+seen: 32
+answer: 400
+
+If 0.5% of a number is 2, what is the number?
+
+----
+num: 14
+category: Life Science
+difficulty: MS
+seen: 10
+answer: Epidermis, Co Rtex, Endodermis, Xylem
+
+In the cross-section of a buttercup root, order the following 4 tissues from those found in the outerm ost regions to the inne r most of a root: epidermis, cortex, endodermis, xylem.
+
+----
+num: 15
+category: Physical Science
+difficulty: MS
+seen: 5
+answer: Mars and Jupiter
+
+Most of the known asteroids orbit the Sun in a belt that is situa ted between the orbits of two planets. Name the two planets.
+
+----
+num: 16
+category: General Science
+difficulty: MS
+seen: 5
+answer: 25
+
+A 1 pint 9 ounce bottle of vinegar contains how m any fluid ounces?
+
+----
+num: 19
+category: Life Science
+difficulty: MS
+seen: 10
+answer: Arthritis  (Accept:  Osteoarthritis) 
+Bonus
+19)  Life Science Short Answer  What Is the Most Common Nam E of the Type of 
+Enzyme That Uses Rna as a Template to Form a Complementary Strand of Dna Is?
+Ans Wer:  Reverse Transcriptase
+
+What scientif ic term means inflammation of the joints ?
+
+----
+num: 20
+category: Physical Science
+difficulty: MS
+fixed: -1
+seen: 6
+answer: 6.022 × 10^23^  (Accept:  6.02 or 6.023 × 10^23 or Avogadro’s 
+Numbe R)
+
+How many molecules of CO^2 are present in 1 mole of CO^2?
+
+----
+num: 21
+category: Physical Science
+difficulty: MS
+seen: 6
+answer: Cement   (Accept: Concrete)
+
+What very common modern masonry construction m
+Romans? aterial found in m any large buildings was actually invented by the
+
+----
+num: 21
+category: Physical Science
+difficulty: MS
+seen: 6
+answer: 9 Centimeters
+
+Consider a lever with a 6-gram weight located 3 centim eters from its fulcrum. A 2-gram weight is placed on the opposite side of the lever. How far, in centimeters, must the 2-gram weight be placed from the fulcrum to equally balance the 6-gram weight?
+
+----
+num: 23
+category: Mathematics
+difficulty: MS
+fixed: -1
+seen: 35
+answer: −
+32
+
+What is the slope of a li ne that is parallel to theline y = −32x+ 6 ?
+
+----
+num: 24
+category: Life Science
+difficulty: MS
+fixed: -1
+seen: 10
+answer: 35%  (Note Th at Thymine Does Not Pair With Cy Tosine; It Pairs With guanine.)
+
+According to the principle of com plementary base pairing, if you have DNA that consists of 15% thymine, what is the percentage of cytosin e in the molecule?
+
+----
+num: 25
+category: Physical Science
+difficulty: MS
+seen: 5
+answer: 10
+(Solution:  D = M/v;  = 25g/15.3-12.8;  = 10g/cm^3)
+
+Calculate the density of an object, in grams per cubic centim eter, from the following information: When an object with a mass of 25 grams is placed in a graduate d cylinder filled with water, the water lever changes f rom12.8 to 15.3 cubic centim eters.

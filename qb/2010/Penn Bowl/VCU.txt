@@ -1,0 +1,224 @@
+####
+tournament: Penn Bowl
+round: VCU.doc
+year: 2010
+####
+
+num: 1
+category: Science
+difficulty: College
+fixed: 57
+seen: 80
+answer: {superconductors} [accept {type II superconductors}, but not “{type} I”]
+
+The first organic material of this type produced, (TMTSF)2PF6, has been shown to resist external quenching. Defects facilitate these materials' maintenance in a state with 300 nanometer normal cores. That is the characteristic vortex state exhibited in one class of these materials between two critical temperatures. In what is termed solid solutions, these devices can be constructed from lanthanum-copper-oxide or yttrium-barium-copper-oxide. Two of them separated by a thin insulating layer can experience tunneling of condensed electron pairs through a Josephson junction, and these devices are capable of becoming perfectly diamagnetic at their transition temperature, which allows them to completely expel magnetic fields in the Meissner Effect. For 10 points, name these devices typically operating at very low temperatures where they experience no electrical resistance.
+
+----
+num: 1
+category: Science
+difficulty: College
+fixed: 57
+seen: 79
+answer: {superconductors} [accept {type II superconductors}, but not “{type} I”]
+
+The first organic material of this type produced, (TMTSF)2PF6, has been shown to resist external quenching. Defects facilitate these materials' maintenance in a state with 300 nanometer normal cores. That is the characteristic vortex state exhibited in one class of these materials between two critical temperatures. In what is termed solid solutions, these devices can be constructed from lanthanum-copper-oxide or yttrium-barium-copper-oxide. Two of them separated by a thin insulating layer can experience tunneling of condensed electron pairs through a Josephson junction, and these devices are capable of becoming perfectly diamagnetic at their transition temperature, which allows them to completely expel magnetic fields in the Meissner Effect. For 10 points, name these devices typically operating at very low temperatures where they experience no electrical resistance.
+
+----
+num: 2
+category: History
+difficulty: College
+fixed: 57
+seen: 72
+answer: Congress of Berlin
+
+The man who called for this meeting had earlier issued a namesake note concerning the treatment of Christians in Ottoman territories. One delegation parleyed their support of another side into the secret Cyprus Convention, and this meeting saw Romania lose South Bessarabia in exchange for Dobruja. Greater Bulgaria was separated into North Bulgaria, Macedon, and Eastern Rumelia at this meeting. Though Serbia, Montenegro, and Romania all gained independence, they all paid with a loss of territory. Turkey was allowed to keep control of its land on Bulgaria's coast on the Aegean, possibly due to no Balkan nations attending. For 10 points, name this 1878 meeting convened to redo the Treaty of San Stefano following the Russo-Turkish War and held in a German city.
+
+----
+num: 3
+category: Science
+difficulty: College
+fixed: 1
+seen: 83
+answer: {alkenes} [or {olefins}]
+
+One method of producing this functional group involves an elimination and then expulsion of sulfur dioxide from an alpha-halo sulfone in the Ramberg-Backlund reaction. Also produced form the treatment of tosylhydrazones with strong base in the Bamford-Stevens reaction, this functional group changes positions in the Cope rearrangement. Shrock carbenes and Fischer carbenes catalyze a reaction switching the substituents of two of these compounds, and Lindlar's catalyst is used to produce their cis examples stereoselectively. They are most easily produced in Zaitsev elimination of alkyl halides, and two of them are crossed in a namesake metathesis. For 10 points, name these compounds with formula CnH2n, the simplest example of which is ethylene.
+
+----
+num: 4
+category: Religion
+difficulty: College
+fixed: 57
+seen: 57
+answer: {Hajj}
+
+Preparation for this action typically involves going to a miqat. A lesser form of this act involves cutting a lock of one's hair after completing the sa'ee. That lesser form, which still requires maintaining ihram, is done outside of a certain week in Dhul Hijjah and is known as umrah. In Mina, throwing seven pebbles at three jamarat represents a stoning of the devil during this ritual. Other parts of this ritual, whose termination is commemorated on Eid al-Adha, include a tawaf and drinking from the Zamzam well to commemorate Hagar's finding of water near the present-day site of the Kaaba. For 10 points, name this pillar of Islam which requires Muslims to make a pilgrimage to Mecca and participate in several rituals once per lifetime.
+
+----
+num: 5
+category: History
+difficulty: College
+fixed: 1
+seen: 71
+answer: {Thermidorian} reaction/uprising/etc.
+
+During this event, the popular anthem “The Awakening of the People” was sung by members of a group known as “The Gilded Youth.” The three days following it saw the muscadins lead the execution of 104 people in the White Terror. Two months prior to this action, its antagonist established the Festival of the Supreme Being in order to replace Christian traditions. The antagonist of this action was arrested at the Hotel de Ville along with his brother after speaking the previous day before the National Convention. Paul Barras and others led the rebels in this event, which ultimately saw the Directory replace the Committee of Public Safety and the beheading of Robespierre. For 10 points, name this 1794 coup led by moderate factions against the Jacobites during the namesake month of the French Revolutionary calendar.
+
+----
+num: 6
+category: Mythology
+difficulty: College
+fixed: 57
+seen: 114
+answer: gods of {thunder} [accept {lightning}]
+
+In ancient Rome, cakes were offered to Summanus, a deity associated with this phenomenon, and another deity of this type left behind rocks known as his “arrows” after fighting a water serpent that kidnaps his wife and children. Besides that enemy of Veles, the Norse deity of this phenomenon was only able to wrestle an old woman named Elli to one knee. A Greek god of this entity was able to manifest it after releasing the Cyclopes from Tartarus, who brought him the standard bearers of this, which were previously hidden by Gaia. Another deity linked to this phenomenon is slated to die from Jormungand's poison and may it with his hammer Mjollnir. For 10 points, name this weather phenomenon associated with such gods as Perun, Thor, and Zeus and often paired with lightning.
+
+----
+num: 7
+category: Science
+difficulty: College
+fixed: None
+seen: 80
+answer: {Cepheid variables} [accept {variable stars} before “{RR}”]
+
+An early explanation for the behavior of these astronomical objects involved the existence of a conductive ionized-hydrogen zone capable of functioning as a heat engine; however, Eddington's model, also called the kappa-mechanism, provided insufficient energy absorption. Baker and Kippenhahn later demonstrated that helium ionization could serve as a viable mechanism for the characteristic properties of these entities. Hubble studied them in Andromeda and Triangulum to note that those galaxies were not part of the Milky Way. Unlike the similar RR Lyrae class, which are also found in the instability strip, stars in this class have a period ranging from 1 to 50 days. Useful as standard candles as noted by Henrietta Leavitt, for 10 points, name this class of variable stars.
+
+----
+num: 8
+category: Philosophy
+difficulty: College
+fixed: None
+seen: 55
+answer: “{Two Dogmas} of {Empiricism}”
+
+This work responds to what it terms the ‘”laziness” of a certain philosopher's “principle of least action” by claiming that the statement “Quality q is at x; y; z; t” can never be translated into the world of sense data. This work references Frege's example of “Morning Star” and “Evening Star” and Bertrand Russell's discussion of “Scott” and “The Author of Waverly”. It also discusses Carnap's Aufbau in the later section “The Verification Theory and Reductionism”. This paper not only attacks reductionism, but also uses the phrase “No bachelor is married” to attacking the logical positivists' distinction between analytic truths and synthetic truths, the other title concept. For 10 points, name this essay by Willard Van Orman Quine.
+
+----
+num: 9
+category: Science
+difficulty: College
+fixed: 57
+seen: 79
+answer: ribosomes
+
+These organelles contain a protein called trigger factor that aid their function, and they bind a namesake recycling factor upon carrying out their function. The activity of these organelles can be muted by chloramphenicol. The G-protein EF-G mimics the structure of molecules usually found in this organelle. Those molecules, which are brought to this organelle by EF-Tu, are produced by the enzyme aaRS, and the fact that these organelles can yield variable results is part of the wobble hypothesis. One of those molecules bound to an initiator fMet makes its way into the P-site of this organelle and interacts with another molecule in the A-site to generate a nascent peptide chain. For 10 points, name these organelles that function on mRNA and stud rough ER, the sites of protein synthesis in the cell.
+
+----
+num: 10
+category: Fine Arts
+difficulty: College
+fixed: None
+seen: 72
+answer: Bedrich Smetana
+
+This composer's Piano Trio in E was inspired by the death of his daughter, and Arnold Schoenberg claimed that this man's Second String Quartet “opened the world to him”. The only symphony by this composer was written for the wedding of Franz Josef, and that work makes prominent use of the Austrian national anthem. In addition to the Triumph Symphony, this composer wrote a work whose second movement polka is a recollection of youth, and that piece ends with a coda whose high ringing E indicating this composer's oncoming deafness.  For 10 points, name this composer of string quartet no. 1, From My Life, who depicted Tabor, Blanik, and several other Czech landmarks such as the Moldau River in his Ma Vlast.
+
+----
+num: 11
+category: History
+difficulty: College
+fixed: 57
+seen: 68
+answer: {Whig} Party
+
+One member of this party, nicknamed the “Cato of the United States”, was Hugh Lawson White. It included a “Silver Gray” faction named for the hair of Francis Granger which opposed the Sewardites, whose members joined with former Know-Nothings to form a ticket whose vice-presidential candidate was Edward Everett as the Constitutional Union Party.  One leader of this party declared “Liberty and Union, now and forever, one and inseparable!” in a debate with Robert Hayne.  Unsuccessfully nominating Winfield Scott in 1852, for 10 points, name this political party formed in opposition to Andrew Jackson's antebellum Democrats, whose leading figures included Henry Clay, Daniel Webster, and Zachary Taylor.
+
+----
+num: 12
+category: Fine Arts
+difficulty: College
+fixed: None
+seen: 70
+answer: {Tristan} and {Isolde} ({Tristan und Isolde})
+
+This work's prelude, with an ending specifically composed for concert use, was premiered five years before the opera itself, and its opening is recapitualted in F minor at the beginning of Act Three, which opens with one of the title characters asleep under a lime tree acompanied by a grieving Kurwenal. Another of the title characters of this opera is served by the maid Brangane and heals the wounded harpist Tantris, and in the final scene sings sings “Softly and gently how he smiles” over the dead body of her lover, a scene known as the Liebestod. Featuring a notable namesake half-diminished seventh chord, for 10 points, name this opera by Richard Wagner.
+
+----
+num: 13
+category: History
+difficulty: College
+fixed: 1
+seen: 71
+answer: Democratic Republic of the {Congo}
+
+Robert Lebeck took an iconic photograph of a boy snatching a sword from a European king during the formal handover of this country. The UN's Operation Morthor was launched in this country, which also saw the USSR support Antoine Gizenga's rival government. A Luba chieftain led a split of one party in this country into the MNC-L and the MNC-K before leading the brief secessionist state South-Kasai, while Moise Tshombe led this country's secessionist Katanga province. Dag Hammarskjöld died in a plane crash enroute to mediating a conflict in this country, which has seen the assassination of Patrice Lumumba lead to the accession of Mobutu Sese Seko. For 10 points, name this country which was colonized by Henry Morton Stanley and the Belgians and has changed its name from Zaire.
+
+----
+num: 14
+category: Literature
+difficulty: College
+fixed: None
+seen: 60
+answer: {MASTER HAROLD…} and the {boys}
+
+One character in this play is told “you can't fly kites on rainy days” after reminding another character of the time they had flown a homemade kite before the action of this play. This play ends with one character playing a Sarah Vaugh song on a jukebox. The parents of one character in this play owned the Jubilee Boarding House before buying St. George's Park Tea Room, which is the setting of this play. One character in this play is admonished for beating Hilda Samuels, his partner in a ballroom dancing competition. A phone call that informs the title character of this play that his disabled father is returning causes an argument in which he spits on Sam's face and demands to be called by the title appellant. For 10 points, name this play about Hally, Sam, and Willie by Athol Fugard.
+
+----
+num: 15
+category: Fine Arts
+difficulty: College
+fixed: None
+seen: 70
+answer: {Self Portraits} of {Frida Kahlo}
+
+One of these works depicts a small plane above the primary figure, who stands next to a clock surmounting a bedpost. This set of works also includes a painting which shows a figure riddled with nails and bisected by the title Broken Column, as well as a painting which features a man's head erupting from the primary figure's brow and depicts a “tehuana.” Another work depicts the primary figure with four parrots, while one of these shows a figure with a thorn necklace and a hummingbird. They include a work which twice depicts the same figure in different dresses but with visible hearts. Including a work “with monkeys”, for 10 points, name these works which often depict a Mexican artist's unibrow.
+
+----
+num: 16
+category: Literature
+difficulty: College
+fixed: 57
+seen: 57
+answer: The {Charterhouse} of {Parma} [or La {Chartreuse} de {Parme}]
+
+One character in this novel is helped by the poet Ferrante to smuggle ropes to the imprisoned protagonist and to poison a prince. While hunting rabbits with a shotgun, the protagonist of this novel is forced to shoot Giletti when he emerges from a carriage and charges him with a dagger. The protagonist of this novel has some diamonds sewn into his coat by his aunt Gina, who has an affair with Count Mosca. After tiring of the actress Marietta Valsera, the protagonist of this novel becomes an archbishop and has a child with Clelia Conti, whose death causes him to retreat to the title place for the remainder of his life. For 10 points, name this novel about Fabrizio del Dongo by Stendhal.
+
+----
+num: 17
+category: Social Science
+difficulty: College
+fixed: None
+seen: 50
+answer: {Patterns} of Culture
+
+This work discusses the division of humanity into "Chosen People" and "Dangerous Aliens" in its chapter on "The Science of Custom,", and its third section cites Spengler's Decline of the West and claims that Western culture is "too intricate for study".  It rationalizes the "lawless and treacherous" nature of one group which lives off the coast of New Guinea, and adopts Nietzsche's constructs of the Apollonian and Dionysian for the other two studied societies, which are judged only by their own values.  Contrasting the Dobu, Pueblo, and Kwakiutls, for 10 points, name this work which advanced the idea of cultural relativism by Ruth Benedict.
+
+----
+num: 18
+category: Literature
+difficulty: College
+fixed: 57
+seen: 62
+answer: {Don Juan}
+
+A servant named Dudu in this work has a dream in which she is stung by a bee after reaching for a golden apple, which causes the protagonist to flee with John Johnson. The protagonist of this work is haunted by the ghost of the Black Friar of Norman Abbey, but discovers the apparition is the Duchess of Fitz-Fulke in disguise. This poem's prologue mocks Coleridge for “explaining metaphysics to the nation” and sarcastically opens “Bob Southey! You're a poet.” The protagonist of this poem falls in love with Aurora Raby after fighting for the forces of Catherine the Great and escaping from the harem of the Sultan of Turkey where he is forced to dress like a woman. For 10 points, name this satiric epic by Lord Byron which reverses the role of its title womanizer.
+
+----
+num: 19
+category: Trash
+difficulty: College
+fixed: None
+seen: 185
+answer: {Weiner} [accept {pointing} at {Matt Weiner} if {he} is in the {room}]
+
+One football player with this surname was drafted out of Kansas State by the Seahawks, and after signing with the Falcons, and was moved to left tackle before the 2008 season. Another man with this surname got his first real start writing for Andy Richter Controls the Universe, and that writer taught a seminar on rewrites at USC that centered around the script for the pilot of his most recent work. Another man born with this name summarizes his political philosophy using the words “borders, language, and culture,” and has written books on herbal medicine and homeopathy, and was recently banned from Great Britain.  For 10 points, give this shared surname of Atlanta Falcons tackle Todd, Mad Men producer Matt, and the talk show host known as Michael Savage.
+
+----
+num: 20
+category: Literature
+difficulty: College
+fixed: 57
+seen: 61
+answer: {Fences}
+
+One character in this play admonishes his seven year old daughter for going out in the middle of the night to see if her garden grew.  That character has a metal plate in his head after suffering a World War II injury and occasionally believes himself to be the Archangel Gabriel. This play ends with one character announcing his intention to tell St. Peter to open the pearly gates and soundlessly blowing on a trumpet. Jim Bono advises the protagonist of this play against his affair with Alberta. That protagonist is married to Rose and discourages his son Cory from playing football because of his bitterness at being excluded from the major leagues after his fifteen year prison sentence. For 10 points, name this play about Troy Maxson, the sixth play in August Wilson's Pittsburgh Cycle.
+
+----
+num: 21
+category: History
+difficulty: College
+fixed: 57
+seen: 71
+answer: {Wales} [accept {Cymru}]
+
+The Rebecca Riots were a rural protest against high tolls in this polity, and occurred shortly after John Frost led an uprising in Newport. This polity was forced to accept the Statute of Rhuddlan after being defeated by a strategy involving an "iron ring" of fortification. A civil war began as a consequence of unpaid troops switching sides in a city here, and troops under Thomas Horton routed a force led by John Poyer in this polity. Penal Laws passed against this state in 1402 pushed residents here in a rebellion led by the last native ruler of this land, a figure appearing in Shakespeare's Henry IV, Part 1, Owen Glendower. The Battle of St. Fagans was fought in, for 10 points, what British region whose eponymous prince is the male heir to the British throne.

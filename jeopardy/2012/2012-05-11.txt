@@ -1,0 +1,511 @@
+####
+tournament: #6375
+round: Show #6375 - Friday, May 11, 2012
+year: 2012
+date: 2012-05-11
+####
+
+num: 1
+category: History
+difficulty: 200
+seen: 6
+answer: Henry VIII
+
+On May 30, 1536, just days after his wife Anne Boleyn was beheaded, he married Jane Seymour.
+
+----
+num: 2
+category: Literature
+difficulty: 200
+seen: 4
+answer: milk
+
+Trumoo is a brand of flavored this, like chocolate.
+
+----
+num: 3
+category: Science
+difficulty: 200
+seen: 9
+answer: iron
+
+Vitamin C helps increase your absorption of this element, Fe, so drink some OJ with your eggs & toast.
+
+----
+num: 4
+category: History
+difficulty: 200
+seen: 5
+answer: Iraq
+
+The miniseries "Generation Kill" followed Marines at war in this mideast country.
+
+----
+num: 5
+category: Trash
+difficulty: 200
+seen: 5
+answer: Benedict XVI
+
+With "prayers and blessings", he sent his first tweet in 2011, announcing the launch of an online Vatican news portal.
+
+----
+num: 6
+category: Literature
+difficulty: 200
+fixed: -1
+seen: 4
+answer: the get-go
+
+I knew you 3 were going to be terrific contestants right from this, the beginning.
+
+----
+num: 7
+category: History
+difficulty: 400
+seen: 4
+answer: (Edmund) Hillary
+
+On May 29, 1953,.
+
+----
+num: 8
+category: Literature
+difficulty: 400
+seen: 4
+answer: Delight
+
+The "D" in the drink Sunny D stands for this.
+
+----
+num: 9
+category: Science
+difficulty: 400
+seen: 6
+answer: the melting point
+
+A fusible metal is an alloy for which this point is lower than tin's, 449 degrees.
+
+----
+num: 10
+category: History
+difficulty: 400
+seen: 4
+answer: Al Capone
+
+On "Boardwalk Empire", this scar-faced Chicago gangster learns his trade from kingpin Johnny Torrio.
+
+----
+num: 11
+category: Trash
+difficulty: 400
+seen: 5
+answer: Whitney Houston
+
+In Feb. 2012 New Jersey's governor ordered flags be flown half-staff during the funeral of this Newark-born singer.
+
+----
+num: 12
+category: Literature
+difficulty: 400
+seen: 4
+answer: cargo
+
+An aircraft that carries mainly goods, not people, is this type of plane.
+
+----
+num: 13
+category: History
+difficulty: 600
+seen: 4
+answer: Jamestown
+
+In May of 1607 captain John Smith arrived at the Virginia site where he would help establish this settlement.
+
+----
+num: 14
+category: Literature
+difficulty: 600
+seen: 4
+answer: Pepsi
+
+The 2011 winner of "The X Factor" got to star in an ad for this soda.
+
+----
+num: 15
+category: Science
+difficulty: 600
+seen: 6
+answer: copper
+
+This common reddish-orange metal is the second-best conductor of electricity.
+
+----
+num: 16
+category: History
+difficulty: 600
+seen: 4
+answer: Nelson Mandela
+
+In the film "Invictus" Morgan Freeman plays this world leader.
+
+----
+num: 17
+category: Trash
+difficulty: 600
+seen: 4
+answer: North Korea
+
+Kim Jong Un has succeeded his father as the leader of this country.
+
+----
+num: 18
+category: Literature
+difficulty: 600
+seen: 4
+answer: forgo
+
+It's a synonym for "do without".
+
+----
+num: 19
+category: History
+difficulty: 800
+seen: 4
+answer: Mexico
+
+Partly to expand U.S. territory, Congress declared war on this country May 13, 1846.
+
+----
+num: 20
+category: Literature
+difficulty: 800
+seen: 4
+answer: Evian
+
+This bottled water from the French Alps has pictures of them on its pink label.
+
+----
+num: 21
+category: Science
+difficulty: 800
+seen: 4
+answer: nickel and cadmium
+
+According to the name, they're the 2 elements in a NiCad battery.
+
+----
+num: 22
+category: Trash
+difficulty: 800
+seen: 4
+answer: Steve Jobs
+
+On his 2011 passing Apple said, "The world is immeasurably better because of" him.
+
+----
+num: 23
+category: Literature
+difficulty: 800
+seen: 3
+answer: lingo
+
+The jargon of a profession, or any weird-sounding foreign tongue.
+
+----
+num: 24
+category: History
+difficulty: 1000
+seen: 3
+answer: Margaret Thatcher
+
+She made history May 4, 1979 when she became Britain's first female prime minister.
+
+----
+num: 25
+category: Literature
+difficulty: 1000
+seen: 4
+answer: Starbucks
+
+A frappuccino is a trademarked blended beverage from this place.
+
+----
+num: 26
+category: Science
+difficulty: 1000
+seen: 7
+answer: bronze
+
+Bell metal, known for its sound, is a type of this "age"-old alloy.
+
+----
+num: 27
+category: History
+difficulty: 1000
+seen: 5
+answer: John Hancock
+
+In HBO's "John Adams" Justin Theroux played this president of the Continental Congress.
+
+----
+num: 28
+category: Trash
+difficulty: 1000
+seen: 5
+answer: Vera Wang
+
+fashion designer created dresses worn in the movie "Bride Wars" and in the TV series "Gossip Girl".
+
+----
+num: 29
+category: Literature
+difficulty: 1000
+seen: 4
+answer: tango
+
+We hope you are mature enough for the rhythms of this dance.
+
+----
+num: 30
+category: History
+difficulty: 400
+seen: 4
+answer: Cornwallis
+
+In October 1781 this British general tried to retreat from Yorktown, but a storm drove his forces back.
+
+----
+num: 31
+category: History
+difficulty: 400
+seen: 4
+answer: fencing
+
+In 2008 Mariel Zagunis won gold in sabre, part of this sport.
+
+----
+num: 32
+category: Geography
+difficulty: 400
+seen: 8
+answer: Belgium
+
+We've come to Western Europe to see.
+
+----
+num: 33
+category: Literature
+difficulty: 400
+seen: 4
+answer: an ostrich
+
+Able to run more than 40 miles per hour, this bird is the fastest animal on 2 legs.
+
+----
+num: 34
+category: Literature
+difficulty: 400
+seen: 4
+answer: Ahab
+
+This captain in "Moby Dick" has a wife & child waiting for him in Nantucket.
+
+----
+num: 35
+category: Art
+difficulty: 400
+seen: 4
+answer: minor & major
+
+These 2 words denote the bigger & smaller of the 2 Ursa constellations.
+
+----
+num: 36
+category: History
+difficulty: 800
+seen: 4
+answer: Niagara Falls
+
+In 1859 tightrope walker Charles Blondin carried a man on his back as he walked a cable 160 feet above this landmark.
+
+----
+num: 37
+category: History
+difficulty: 800
+seen: 4
+answer: Shaun White
+
+McTwisted his way to gold in 2010.
+
+----
+num: 38
+category: Geography
+difficulty: 800
+seen: 7
+answer: Bangladesh
+
+densely-populated republic borders India.
+
+----
+num: 39
+category: Literature
+difficulty: 800
+seen: 3
+answer: Ellis Island
+
+This place in New York Harbor is home to the American Family Immigration History Center.
+
+----
+num: 40
+category: Literature
+difficulty: 800
+fixed: -1
+seen: 4
+answer: Bella
+
+In "Breaking Dawn", she says, "I'm one hundred percent sure about Edward".
+
+----
+num: 41
+category: Art
+difficulty: 800
+seen: 4
+answer: a movement
+
+An organized social cause, like the Civil Rights one.
+
+----
+num: 42
+category: History
+difficulty: 1200
+seen: 5
+answer: Canada
+
+This host nation struck gold in 2010 when Alexandre Bilodeau won the men's Moguls in freestyle skiing.
+
+----
+num: 43
+category: Geography
+difficulty: 1200
+seen: 7
+answer: Belize
+
+Country of Central America shown.
+
+----
+num: 44
+category: Literature
+difficulty: 1200
+seen: 4
+answer: Geronimo
+
+It's traditional for paratroopers to yell this name of an Apache warrior when jumping from a plane.
+
+----
+num: 45
+category: Literature
+difficulty: 1200
+seen: 4
+answer: Quasimodo
+
+In a Victor Hugo novel, things start going bad for this bellringer during Epiphany celebrations.
+
+----
+num: 46
+category: Art
+difficulty: 1200
+seen: 4
+answer: scale
+
+A type of model with the same proportions as the larger object it copies.
+
+----
+num: 47
+category: History
+difficulty: 1600
+seen: 5
+answer: the Iroquois Confederacy
+
+The Mohawk, Oneida, Onondaga, Cayuga & Seneca made up this Confederacy.
+
+----
+num: 48
+category: Geography
+difficulty: 1600
+seen: 9
+answer: the Bahamas
+
+nation is only about 50 miles from Florida.
+
+----
+num: 49
+category: Literature
+difficulty: 1600
+seen: 4
+answer: Longfellow
+
+Peleg Wadsworth, a revolutionary war general & congressman, was the grandfather of this poet.
+
+----
+num: 50
+category: Literature
+difficulty: 1600
+seen: 4
+answer: Madame Bovary
+
+Emma is the first name of this bored & adulterous 1856 French title character.
+
+----
+num: 51
+category: History
+difficulty: 2000
+seen: 5
+answer: the XYZ Affair
+
+In this 1797 "Affair", 3 French agents demanded a bribe in return for a commerce treaty.
+
+----
+num: 52
+category: History
+difficulty: 2000
+seen: 6
+answer: a biathlon
+
+In 2010 Tora Berger won gold for Norway in this event that combines skiing & rifle shooting.
+
+----
+num: 53
+category: Geography
+difficulty: 2000
+seen: 14
+answer: Lake Baikal
+
+Visit Siberia to take a dip in.
+
+----
+num: 54
+category: Literature
+difficulty: 2000
+seen: 6
+answer: the Blue Fairy
+
+This fairy brought a little magic into Pinocchio's life.
+
+----
+num: 55
+category: Literature
+difficulty: 2000
+seen: 5
+answer: Pippi Longstocking
+
+When we first meet her, she's living in a house called Villa Villekulla with her monkey Mr. Nilsson & her horse.
+
+----
+num: 56
+category: Art
+difficulty: 2000
+seen: 5
+answer: a chord
+
+Geometrically, it's a line segment that joins 2 points on a curve.

@@ -1,0 +1,334 @@
+####
+tournament: Regional B
+round: round7.pdf
+year: 2002
+####
+
+num: 1
+category: Chemistry
+difficulty: HS
+answer: W)  Work
+
+Which of the following is NOT considered a state function of a system in a reaction:
+W) work 
+X) enthalpy 
+Y) temperature 
+Z) volume
+
+----
+num: 2
+category: Physics
+difficulty: HS
+answer: Y)  Red
+
+A beam of white light is incident on one face of a prism. Which of the following colors will emerge on the other side at the lowest angle with respect to the primary beam:
+W) violet 
+X) yellow 
+Y) red 
+Z) blue
+
+----
+num: 3
+category: Biology
+difficulty: HS
+answer: X)   Scan Ning Electron Microscopy
+
+Which of the following kinds of microscopy will most commonly employ freeze fracture preparation of tissue specimens:
+W) bright field microscopy 
+X) scanning electron microscopy 
+Y) Normarsky microscopy 
+Z) transmission electron microscopy
+
+----
+num: 4
+category: Astronomy
+difficulty: HS
+answer: W)  Yellow Giants and Super Giants
+
+Cepheid variables are a large and important group of:
+W) yellow giants and super giants 
+X) red giants 
+Y) blue giants 
+Z) pulsating quasars
+
+----
+num: 5
+category: Math
+difficulty: HS
+answer: W)   39
+29
+
+Using the Cartesian coordinate sy stem, find the distance between the points (2, 3) and (-3, 1):
+W)
+Y) X) 7 5 29
+Z)
+
+----
+num: 6
+category: Earth Science
+difficulty: HS
+answer: Z)  90%
+
+What percentage of the earth’s total volcanic activity occurs under the ocean?
+W) 30% 
+X) 45% 
+Y) 65% 
+Z) 90%
+
+----
+num: 6
+category: Earth Science
+difficulty: HS
+seen: 1
+answer: Z)  Within the Layer, Temperature Increases With Altitude
+
+Which of the following is NOT true about the Earth’s troposphere:
+W) within the layer, temper ature decreases with altitude 
+X) it is terminat ed by the tropopause 
+Y) it contains the jet stream 
+Z) within the layer, temper ature increases with altitude
+
+----
+num: 7
+category: General Science
+difficulty: HS
+answer: X)  Lead
+
+Galena is a primary ore of which of the following metals:
+W) zinc 
+X) lead 
+Y) germanium 
+Z) tungsten
+
+----
+num: 8
+category: Computer Science
+difficulty: HS
+answer: Z)  Twisted Pair
+
+The letter “T” in 10 Base-T wiring refers to:
+W) Teflon coated 
+X) telephone wire 
+Y) tetrahedral packing 
+Z) twisted pair
+
+----
+num: 8
+category: Computer Science
+difficulty: HS
+answer: Z)  Device Manager
+
+In Windows 98, what screen would you access to change device resources and tr oubleshoot resource conflicts:
+W) Device Performance Console 
+X) Device Add/Remove 
+Y) Device Changer 
+Z) Device Manager
+
+----
+num: 9
+category: Chemistry
+difficulty: HS
+answer: Y)  Rayon
+
+Which of the following is a ma nufactured fiber composed of regenerated cellulose or of regenerated cellulose in which substituents have replaced more than 15% of the hydrogens of the hydroxyl groups:
+W) polyester 
+X) silk 
+Y) rayon 
+Z) nylon
+
+----
+num: 10
+category: Physics
+difficulty: HS
+seen: 1
+answer: Y)  the Angle Between the Incident Ray and the Crystal 
+Surface
+
+In the Bragg equation which is conventionally written as, n λ = 2d sin N (Read as: n lambda equals two d sine phi), whic h of the following is the correct description of the angle phi:
+W) the complementary angle with resp ect to the normal to the crystal surface 
+X) the angle between the incident ray and the normal to the crystal surface 
+Y) the angle between the incide nt ray and the crystal surface 
+Z) the internal angle of reflection of the crystal
+
+----
+num: 11
+category: Biology
+difficulty: HS
+answer: W)   475 Nanometers
+
+At which of the following wavelengths will photosynthesis in a spinach plant be greatest:
+W) 475 nanometers 
+X) 550 nanometers 
+Y) 600 nanometers 
+Z) 750 nanometers
+
+----
+num: 12
+category: Astronomy
+difficulty: HS
+answer: Y)  Uranus
+
+Which of the following planets sees the Sun rising from the west and setting in the east duri ng its Autumn and Spring equinoxes?
+W) Mars 
+X) Saturn 
+Y) Uranus 
+Z) Mercury
+
+----
+num: 14
+category: Earth Science
+difficulty: HS
+answer: Y)  ½ of Its Wavelength
+
+A wave base is defined as the depth below an ocean wave in deep water below which stirring due to wind is negligible, and is approximately equal to:
+W) 1/8^th of its wavelength 
+X) ¼ of its wavelength 
+Y) ½ of its wavelength 
+Z) ¾ of its wavelength
+
+----
+num: 14
+category: Earth Science
+difficulty: HS
+answer: X)  Sand
+
+A clastic particle falling within the size range of 1/16 ^thmm to 2 mm is called:
+W) silt 
+X) sand 
+Y) clay 
+Z) pebble
+
+----
+num: 15
+category: General Science
+difficulty: HS
+answer: W)  Locust
+
+Which of the following woods is most desirable for fence posts in wet environments:
+W) locust 
+X) oak 
+Y) alder 
+Z) hickory
+
+----
+num: 15
+category: General Science
+difficulty: HS
+answer: W)  Charcoal-Broiled Meats
+
+BenzoPyrenes are food toxins that can be found in low concentrations in:
+W) charcoal-broiled meats 
+X) uncooked shellfish 
+Y) raw eggs 
+Z) wild mushrooms
+
+----
+num: 16
+category: Computer Science
+difficulty: HS
+answer: W)  Lpt
+
+Which of the following is a port that transmits data in a sort of wave, 8 bits across, in which each bit goes in the same direction at the same time:
+W) LPT 
+X) serial 
+Y) USB 
+Z) FireWire
+
+----
+num: 17
+category: Chemistry
+difficulty: HS
+answer: W)  Weak Acid ^
+
+A substance with an acid dissociation constant, or K^a, of 1 × 10 ^-9 would be considered a:
+W) weak acid 
+X) strong acid 
+Y) weak base 
+Z) strong base
+
+----
+num: 19
+category: Biology
+difficulty: HS
+answer: X)  Shoot Meristematic Tissue
+
+In the cloning of plants such as orchids, the most desirable tissue to begin culturing in vitro is:
+W) radial cambium 
+X) shoot meristematic tissue 
+Y) amyloplasts 
+Z) stem internodes
+
+----
+num: 20
+category: Astronomy
+difficulty: HS
+seen: 1
+answer: X)  Spiral Galaxies Contain Clouds of Gas and Are Still 
+Forming Stars
+
+One important difference between spiral and elliptical galaxies is that:
+W) spiral galaxies contain Population II stars 
+X) spiral galaxies contain clouds of gas and are still forming stars 
+Y) spiral galaxies contain a massive black hole 
+Z) spiral galaxies are formed by a more rapid accumulation of mass
+
+----
+num: 22
+category: General Science
+difficulty: HS
+answer: Z)  Learning
+
+A flurry of recent reports in neurology and psychology points to protein translation in cereb ral cortex dendrites leading to changes in synapses vital to what biological process:
+W) voluntary motor control 
+X) stem cell repair 
+Y) myelination 
+Z) learning
+
+----
+num: 22
+category: General Science
+difficulty: HS
+answer: Z)  Pincushion Distortion
+
+A common type of distortion in CRT monitors in which horizontal and vertical lines bend inwards towards the center of the display is called:
+W) spiral distortion 
+X) barrel distortion 
+Y) trapezoid distortion 
+Z) pincushion distortion
+
+----
+num: 23
+category: Chemistry
+difficulty: HS
+answer: W)  a 50:50 Mixture of (+) and (-) Isomers
+
+A racemic mixture is a solution that contains:
+W) a 50:50 mixture of (+) and (-) isomers 
+X) greater than 50% of the (+) isomers 
+Y) greater than 50% of the (-) isomers 
+Z) only one species of isomer
+
+----
+num: 23
+category: Chemistry
+difficulty: HS
+answer: Z)  Size, Shape, and Density
+
+Separation of proteins by cen trifugation in a sucrose density gradient is based on:
+W) size and shape only 
+X) size only 
+Y) density only 
+Z) size, shape, and density
+
+----
+num: 24
+category: Physics
+difficulty: HS
+seen: 1
+answer: Z)  Parallel to  the Surface of the Toroid
+
+The toroidal magnetic field in the Tokamak fusion confinement is oriented in which of the following directions:
+W) uniformly throughout the toroid 
+X) oblique to the toroid axis 
+Y) perpendicular to the toroid axis 
+Z) parallel to the surface of the toroid

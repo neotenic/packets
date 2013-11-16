@@ -1,0 +1,204 @@
+####
+tournament: ACF Regionals
+round: Florida State - Harvard A - Yale.doc
+year: 2006
+####
+
+num: 3
+category: Literature
+difficulty: College
+fixed: 57
+seen: 60
+answer: {Disgrace}
+
+The protagonist of this novel contemplates the etymology of the word “friend” while having tea with Bill Shaw and later has an affair with his wife during their sessions of “Lösung.” He goes to a flat at Green Point on Thursdays to have sex with a prostitute named Soraya until he accidentally learns her true identity, after which he seeks the company of Melanie Isaacs. He visits his daughter in Salem, where he becomes a veterinary technician and befriends the bulldog Katy and the groundskeeper Petrus, but all falls apart when they are attacked by three men from the woods and Lucy gets pregnant. FTP, name this novel about the decline and fall of professor David Lurie; a work of J.M. Coetzee.
+
+----
+num: 4
+category: Social Science
+difficulty: College
+fixed: 1
+seen: 55
+answer: {learned helplessness}
+
+Research on levels of norepinephrine in the brain indicate that the motor activation deficit hypothesis may be more suitable than this theory, which arose in the late 1970's within the framework of attribution theory. The classic experiment in which it was first elucidated involved dogs who were shocked in one scenario and then were able to avoid the shock in a subsequent scenario. The theory opposes the hypothesis of operant conditioning as, in it, instead of learning to avoid negative stimuli, the dogs were “programmed” to recognize reinforcers as uncontrollable and, hence, did not avoid the shocks. FTP name this theory posited by Martin Seligman; a theory of depression where the patient acquires a debilitating inability to avoid trauma.
+
+----
+num: 5
+category: Science
+difficulty: College
+fixed: 57
+seen: 82
+answer: {cyclohexane} (prompt on {C6H12})
+
+The reaction of this molecule with oxalyl chloride was the subject of pioneering photochemical work by Kharasch and Brown. Hassel's study of this molecule yielded its molecular structure and his 1943 paper “On The Conformations” of it elucidated those for the first time. Reacting it with pure oxygen forms adipic acid, which is used in the production of nylon. Its strain energy-bond angle curve has minima at twenty-three kilojoules per mole and maxima at forty-five kilojoules per mole, the former corresponding to the skew configuration, but its stable configuration is non-planar with a bond angle of about one hundred nine point five degrees. FTP, name this molecule having conformations twist, boat, and chair; a cyclic alkane with formula C6H12.
+
+----
+num: 6
+category: Trash
+difficulty: College
+fixed: 1
+seen: 186
+answer: Doom
+
+Entering a code for this game in MechWarrior II causes it to claim “This ain't [this game], bub!” and self-destruct the player's mech. It ends with the prominent image of a decapitated rabbit for which revenge will be taken in the sequel; that sequel, subtitled Hell on Earth, secretly has the head of a programmer on a stick as its final boss. Modifications could be made by .WAD file editors but built-in cheat codes include idspispopd for no clipping and idkfa for all weapons including the chainsaw, rocket launcher, and BFG-9000. Billed as “Wolfenstein on steroids,” it would itself be followed by Quake. FTP, name this classic game by id Software in which you control a lone space marine on a Martian base overrun by the damned.
+
+----
+num: 7
+category: History
+difficulty: College
+fixed: 1
+seen: 72
+answer: the {Fashoda} incident
+
+The beginnings of this event were inspired by a lecture by the hydrologist Victor Prompt and the original plan was to send Parfait-Louis Monteil. After this event, the ambassador Paul Cambon signed an addition to Article IV of the Niger Convention the location was renamed Kodok, and a resolution was made through negotiations between Lord Salisbury and Delcasse. It began when Gabriel Hanotaux ordered a group of one hundred fifty sharpshooters under the future General Charles Mangin and Major Jean-Baptiste Marchand to march two thousand miles to this location, arriving there on July 10, about two months before the arrival of men under Lord Kitchener. FTP, identify this crisis named for the Nile outpost at which it occurred; a dispute that nearly led to war between France and Britain.
+
+----
+num: 8
+category: History
+difficulty: College
+fixed: None
+seen: 71
+answer: the Treaty of {Waitangi}
+
+In 1877, James Prendergast called it a “legal nullity,” a sentiment echoed by the MP Clem Simich in 1992. Preceded by a proclamation from Governor George Gipps on January 14, it was signed at the house of James Bubsy by men including William Hobson and Henry Williams. The Native Land Act of 1862 struck down the land-selling article, which had been the cause of the Wairau incident led by Te Rauparaha. Some of the signers felt that the distinction between “kawanatanga” and “rangatiratanga” was not sufficiently outlined in its English translation. FTP, February 6 is the celebration day of what treaty signed in 1840 by forty-three Maori chieftains, which allowed the British to annex New Zealand?
+
+----
+num: 9
+category: Fine Arts
+difficulty: College
+fixed: 1
+seen: 73
+answer: Andrea del {Verrocchio}
+
+He sculpted metal heads of Alexander the Great and Darius that were sent to King Matthias Corvinus of Hungary. He designed a fountain for the courtyard of the Villa at Careggi that depicted a curly-haired child holding an aquatic animal in Putto with Dolphin. He painted the Archangel Raphael holding a small box in Tobias and the Angel and depicted the title figure in David as a haughtily bragging youth wearing a leathern doublet. This creator of Madonna with the Saints John the Baptist and Donatus gave up painting after being overwhelmed by the angel that his famous pupil drew on his Baptism of Christ. FTP, name this fifteenth-century Florentine sculptor of the bronze works Christ and St. Thomas and The Equestrian Monument of Colleoni; the primary teacher of Leonardo da Vinci.
+
+----
+num: 10
+category: History
+difficulty: College
+fixed: -1
+seen: 115
+answer: {Imhotep}
+
+He appears second in the chronology carved by Khnum-ib-re, immediately following his father, Kanofer. His name also appeared in the “Song of the Harper” next to that of Hardedef and he was said to have abated the Seven Years Famine. He or one of his followers may be the author of the Edwin Smith papyrus and those devoted to him spent the night in his temples in Memphis hoping that he would reveal miracles in their dreams. The temple of Edfu was thought to have been his work, but he is better known for his work with the pharaoh Djoser. FTP, identify this man identified with the Greek Asclepius and sometimes even with Jesus; a twenty-seventh-century BCE Egyptian sage, doctor, and architect who designed the first pyramid, the step pyramid of Saqqara.
+
+----
+num: 11
+category: Science
+difficulty: College
+fixed: 57
+seen: 81
+answer: {echidna} (prompt of {spiny anteater} before it's mentioned)
+
+Flannery and Groves discovered a new species and subspecies of these in 1998. Belonging to either the tachyglossus or zaglossus genus, they are endangered in some regions because of their edible meat. Different species are distinguished by the length of their beaks, which contain electroreceptors, and the length of their spines. Living in New Guinea, Tasmania, and Australia, they outwardly resemble the hedgehog, though they are in a different order from it. FTP, name this creature sometimes known as the spiny anteater; one of two varieties of monotreme, along with the duck-billed platypus.
+
+----
+num: 12
+category: Religion
+difficulty: College
+fixed: 1
+seen: 55
+answer: {St. Christopher} (accept Offero or Reprobus before it's mentioned)
+
+This person is sometimes pictured with a dog's head but de Voragine holds that he was a Canaanite ogre named Reprobus who left the employ of the devil upon seeing his master afraid. Tradition holds that he was martyred by Decius but apparent inconsistencies in his story drew Erasmus' especial ire for his venerators. The most famous incident in his life occurred while he was aiding a child, when that child proved extremely heavy because he was bearing the sins of the world; Christ, whom he was carrying across a river at the time, then immediately baptized him. FTP, name this Saint, the Patron of travelers and motorists, whose name literally means “Christ-bearer.”
+
+----
+num: 13
+category: Science
+difficulty: College
+fixed: 57
+seen: 83
+answer: {Fermat's} last theorem
+
+Kummer showed that early attempts at proof of this depended on the faulty assumption that factorization is unique in all rings of integers or algebraic number fields. The correct argument uses L-functions, which are generalized zeta functions; a combination of Kolyvagin-Flach theory and Iwasawa theory; and Hecke algebras. In 1983, Ribet noted that a counterexample to it would imply the existence of a non-modular elliptic curve, contradicting a special case of the Taniyama-Shimura conjecture. In 1995, Taylor and Wiles proved that special case of that conjecture and thus proved, FTP, what centuries-old math problem named for a French margin-scribbler?
+
+----
+num: 14
+category: Fine Arts
+difficulty: College
+fixed: None
+seen: 70
+answer: Sonata for violin & piano {No.} 9 in A major ("{Kreutzer}"), {Op.} 47 (accept any underlined part)
+
+Eugène Ysaÿe and Paolo Gallico gave this work its Carnegie Hall premiere. Its second movement contains a theme and four variations and its third movement begins with a crashing A Major chord in the piano followed by an exuberant 6/8 tarantella in rondo form. Its first movement begins with a slow chordal introduction and ends with an anguished coda but is highlighted by a furious A Minor presto section. Originally dedicated to George Bridgetower, its current namesake never performed it and considered this 1802 work unplayable. FTP, name this most famous Beethoven violin sonata which shares its name with a short story by Leo Tolstoy and is dedicated to a French violinist with a German-sounding name.
+
+----
+num: 15
+category: Literature
+difficulty: College
+fixed: 1
+seen: 62
+answer: {Love} in the {Time} of {Cholera} or El {amor} en {los tiempos} del {cólera}
+
+The husband's affair with Barbara Lynch and his mother forcing his wife to eat eggplant and take harp lessons were some of the causes of the marital problems of the central couple in this novel. The action culminates aboard the aptly named New Fidelity, where the now seventy-two-year-old wife consummates her relationship with a seventy-six-year-old lost love. This reunion is made possible indirectly by the suicide of Jeremiah which, in turn, leads to the husband's accidental death after he falls from a mango tree while trying to recover a lost parrot. FTP, name this book centering on Fermina Daza, Florentino Ariza, and Juvenal Urbino; a novel in which, in order to have sex without scandal, two seventy-year-olds raise a quarantine flag; a work by Gabriela Garcia Marquez.
+
+----
+num: 16
+category: Literature
+difficulty: College
+fixed: None
+seen: 59
+answer: “To a {Waterfowl}”
+
+Stanza four of this poem states that “There is a Power whose care / teaches” the title creature its “way along that pathless coast / the desert and illimitable air, / lone wandering but not lost.” The poet reassures his subject that “Soon shalt thou find a summer home” and “Scream among your fellows” and comments that, while “The abyss of heaven hath swallowed up thy form; yet, on my heart / Deeply hath sunk the lesson thou hast given.” The narrator wonders whether the title creature “Seek'st…the plashy brink / Of weedy lake, or marge of river wide” as he compares its “certain flight” to “the long way he must tread alone.” FTP, name this poem in which the poet prays that god will guide him as he guides the title bird; a work of William Cullen Bryant.
+
+----
+num: 17
+category: Mythology
+difficulty: College
+fixed: None
+seen: 111
+answer: {Lugus} (or {Lugh} or {Samildánach})
+
+Some stories have it that this character was conceived by Math's rod in a test of his mother's virginity and, due to her meddling, his wife had to be created from flowers. His namesake –nasad was a widely held August first festival. Though he survived birth unlike his two brothers, his mother Aranhrod often sought to murder him and he was saved only through the intercession of Gwydion. Having epithets Llaw Gyffes, or dexterous, and Lámfota, or long-armed, Caesar identified him with Mercury. FTP, name this member of the Tuatha Dé Danann; the patron of every skill and Celtic god of light.
+
+----
+num: 18
+category: Philosophy
+difficulty: College
+fixed: 57
+seen: 54
+answer: Johann Gottlieb {Fichte}
+
+This person offered a “Contribution to the Correction of the Public's Judgments Regarding the French Revolution” and delivered “Some Lectures Concerning the Scholar's Vocation” after taking a chair of philosophy. His review of Aenisedimus led him to develop axioms based on Tathandlung. His Attempt at a Critique of all Revelation argued that the latter must be consistent with moral law but he broke from transcendental idealism over the separation of noumena and phenomena. From 1796 to 1797, he published an exposition of his system in Foundation of Natural Right and System of Ethical Theory. FTP, identify this German philosopher who developed the philosophy of the Wissenschaftslehre [VIZ-un-shafts-lair-uh].
+
+----
+num: 19
+category: History
+difficulty: College
+fixed: 1
+seen: 69
+answer: Thomas Hart {Benton}
+
+His autobiography, Thirty Years View, is one of the best of the period and Teddy Roosevelt wrote a later biography on him. He noted that the West must “share in the destinies of the Republic” while serving as editor of the St. Louis Enquirer and ran on a platform of redistributing public lands to settlers. His distrust of wildcat banks led to his nickname of “Old Bullion” and his recanting of his previous pro-slavery stance cost him his seat in the Senate in 1851. Despite the fact that the candidate was his son-in-law, he opposed Republican nominee John C. Fremont in 1856. FTP, name this longtime Missouri Senator known for his support of Andrew Jackson; the namesake and ancestor of a famous American muralist.
+
+----
+num: 20
+category: Literature
+difficulty: College
+fixed: 1
+seen: 60
+answer: Gerard Manley {Hopkins}
+
+In a poem drawn from a maiden's song from St. Winfred's Well, he contrasted “The Leaden Echo” with “The Golden Echo” and he claimed that “Christ plays in ten thousand places… To the Father through the features of men's faces” in “As Kingfishers Catch Fire, Dragonflies Draw Flame.” The poet reacts to the death from tuberculosis of his blacksmith friend in “Felix Randal,” published posthumously in 1918 by poet laureate Robert Bridges. Other poems include a “curtal” sonnet in which he cries “Glory be to God for dappled things” and another dedicated to the “happy memory of five Franciscan nuns,” but best known is a poem about the “kingdom of daylight's dauphin, dapple-dawn-drawn falcon.” FTP, name this poet of “The Wreck of the Deutschland” and “The Windhover.”
+
+----
+num: 21
+category: Literature
+difficulty: College
+fixed: None
+seen: 59
+answer: {Slaughterhouse Five}: Or, The {Children's Crusade}, a {Duty}-{Dance} with {Death}
+
+In this work's opening chapter, the author notes the quote “I wake to sleep, and take my waking slow. I feel my fate in what I cannot fear” from a Theodore Roethke poem as the impetus for his novel. Towards the end of the work, the author describes the irony of the execution of Edgar Derby. That and other realistic details are interspersed with the optometrist protagonist's schizophrenic wanderings including his zoo-imprisonment with porn star Montana Wildhack on the planet Tralfamadore. FTP, name this book including appearances by Howard Campbell, Eliot Rosewater, and Kilgore Trout, three of the author's other protagonists; a 1969 novel centering on Billy Pilgrim's memories of the firebombing of Dresden, by Kurt Vonnegut.
+
+----
+num: 22
+category: Science
+difficulty: College
+fixed: 57
+seen: 83
+answer: {dolomite}
+
+This material's namesake discovered that it effervesces slowly in dilute hydrochloric acid, differentiating it from the similar calcite. The exact mechanism of its low-temperature formation is an important open question, especially given its prevalence as massive crystals, but recent developments suggest organogenic mechanisms may answer it. It forms when its characteristic element replaces some of the calcium carbonate present in normal limestone and has a Mohs hardness around 3.5 and a specific gravity of about 2.85. Accounting for about ten percent of all sedimentary rock, it gives its name to a range of the northern Italian Alps. FTP, name this mineral consisting of crystalline calcium magnesium carbonate.

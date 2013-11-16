@@ -1,0 +1,141 @@
+####
+tournament: Question Set C
+round: Round-1C-MS.pdf
+####
+
+num: 4
+category: Math
+difficulty: MS
+seen: 1
+answer: W)  9.995
+
+Which of the following is closest in value to the number 10:
+W) 9.995
+X) 10.01
+Y) 9.99
+Z) 10.05
+
+----
+num: 6
+category: Life Science
+difficulty: MS
+seen: 1
+answer: Z)  Within Cells
+
+An intracellular substance is so named because it is located in which of the following places:
+W) inside and outside of cells 
+X) underneath cells
+Y) outside of cells
+Z) within cells
+
+----
+num: 8
+category: Earth Science
+difficulty: MS
+answer: X)  Just After Sunrise
+
+In a 24 hour period, when does the coldest temperature of the day typically occur:
+W) at midnight 
+X) just after sunrise
+Y) just after sunset
+Z) between 3 and 4 AM
+
+----
+num: 13
+category: Earth Science
+difficulty: MS
+seen: 1
+answer: Y)  It Can Be a Solid or a Molten Substance
+
+Which of the following does NOT satisfy the scientific definition of a mineral:
+W) it is always an inorganic substance
+X) it has a distinct chemical composition
+Y) it can be a solid or a molten substance
+Z) it must form by natural processes
+
+----
+num: 15
+category: General Science
+difficulty: MS
+seen: 1
+answer: W)  Temperate Deciduous Forest
+
+In which of the following biomes will there be trees whose leaves change color in autumn, fall off in winter, and grow back in the spring:
+W) temperate deciduous forest
+X) rainforest
+Y) coniferous forest
+Z) scrubland
+
+----
+num: 15
+category: General Science
+difficulty: MS
+answer: X)  100 Milligrams = 1 Centigram
+
+Which of the following metric masses are NOT equal:
+W) 1000 milligrams = 1 gram
+X) 100 milligrams = 1 centigram
+Y) 100 decigrams = 1 decagram
+Z) 100 grams = 1 hectogram
+
+----
+num: 16
+category: Life Science
+difficulty: MS
+answer: Z)  Bacteria
+
+To which of the following categories of living organisms does E. coli belong:
+W) viruses
+X) protozoans
+Y) fungi
+Z) bacteria
+
+----
+num: 17
+category: Physical Science
+difficulty: MS
+answer: X)  Mixture
+
+Air is best described as a:
+W) compound
+X) mixture
+Y) solution
+Z) hydrocarbon
+
+----
+num: 18
+category: Earth Science
+difficulty: MS
+answer: Y)  Texture
+
+The size, shape and arrangement of crystals or mineral grains in igneous rocks is called:
+W) hardness
+X) density
+Y) texture
+Z) streak
+
+----
+num: 21
+category: Life Science
+difficulty: MS
+seen: 1
+answer: X)  to Prevent Small Particles From Entering the Eyes
+
+Which of the following is the most basic function of human eye lashes:
+W) to shade the eye from bright sun
+X) to prevent small particles from entering the eyes
+Y) to attract a mate
+Z) to help disperse tears when blinking
+
+----
+num: 23
+category: Earth Science
+difficulty: MS
+seen: 1
+answer: W)  Zebra Mussel
+
+Which of the following sea creatures is LEAST likely to be living in the intertidal shore along the state of Maine’s rocky coast:
+W) zebra mussel
+X) barnacle 
+Y) anemone
+Z) limpet

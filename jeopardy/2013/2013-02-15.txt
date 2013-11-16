@@ -1,0 +1,348 @@
+####
+tournament: #6545
+round: Show #6545 - Friday, February 15, 2013
+year: 2013
+date: 2013-02-15
+####
+
+num: 1
+category: History
+difficulty: 200
+seen: 5
+answer: Prince Henry the Navigator
+
+This royal promoted voyages of discovery in the 1420s, but despite his nickname, never embarked on any himself.
+
+----
+num: 2
+category: Science
+difficulty: 200
+seen: 8
+answer: (Gregor) Mendel
+
+"Genetics" as we use the word was coined in a 1905 letter by William Bateson, who popularized this monk's work.
+
+----
+num: 3
+category: Literature
+difficulty: 200
+seen: 4
+answer: June
+
+James Russell Lowell asked, "What is so rare as a day in" this month?.
+
+----
+num: 4
+category: Literature
+difficulty: 200
+seen: 4
+answer: turkey
+
+After a certain holiday, use this leftover meat to make Pilgrim sandwiches.
+
+----
+num: 5
+category: History
+difficulty: 400
+seen: 4
+answer: Nelly Furtado
+
+Though born in Canada, this "I'm Like A Bird" singer is of Portuguese descent & holds Portuguese citizenship.
+
+----
+num: 6
+category: Science
+difficulty: 400
+seen: 6
+answer: chromosomes
+
+The "23" of 23andme.com, a site tracing ancestry & personal genetic information, refers to pairs of these.
+
+----
+num: 7
+category: Literature
+difficulty: 400
+seen: 5
+answer: (Alfred Lord) Tennyson
+
+A poem by him says "When can their glory fade?  O the wild charge they made!".
+
+----
+num: 8
+category: Literature
+difficulty: 400
+seen: 4
+answer: sliders
+
+name implies that they go right down.
+
+----
+num: 9
+category: History
+difficulty: 600
+seen: 4
+answer: the eye
+
+Trained as a physician before becoming Pope in 1276, John XXI wrote the work "Liber de Oculo", "Concerning" this.
+
+----
+num: 10
+category: Literature
+difficulty: 600
+seen: 3
+answer: (Joseph) McCarthy
+
+It was Joseph Welch who asked him, "Have you no sense of decency, sir, at long last?  Have you left no sense of decency?".
+
+----
+num: 11
+category: Literature
+difficulty: 600
+seen: 4
+answer: a cheesesteak
+
+An eatery founded by Pat Olivieri in 1940 claims to be the originator of this Philly favorite.
+
+----
+num: 12
+category: History
+difficulty: 800
+seen: 4
+answer: Carmen Miranda
+
+was born in Portugal but became known as a Brazilian bombshell.
+
+----
+num: 13
+category: Science
+difficulty: 800
+seen: 5
+answer: sequencing a genome
+
+Way faster than it used to be, it's the act of determining a series like ACAAGATGCC & with it your genetic blueprint.
+
+----
+num: 14
+category: Literature
+difficulty: 800
+seen: 4
+answer: (William) Blake
+
+About the tiger, this poet wondered, "What immortal hand or eye could frame thy fearful symmetry?".
+
+----
+num: 15
+category: Literature
+difficulty: 800
+seen: 3
+answer: a panini
+
+Rachael Ray says you can use a heated foil-covered brick as a press to make this Italian-named sandwich.
+
+----
+num: 16
+category: History
+difficulty: 1000
+seen: 4
+answer: Mozambique
+
+Teresa Heinz Kerry was born to Portuguese parents in this then-Portuguese colony on Africa's east coast.
+
+----
+num: 17
+category: Science
+difficulty: 1000
+seen: 6
+answer: amniocentesis
+
+This test performed between the 15th & 18th weeks of pregnancy can detect fetal genetic disorders.
+
+----
+num: 18
+category: Literature
+difficulty: 1000
+seen: 4
+answer: Christopher Marlowe
+
+In "As You Like It", Shakespeare quoted this contemporary's "who ever loved that loved not at first sight?".
+
+----
+num: 19
+category: Literature
+difficulty: 1000
+seen: 4
+answer: Denver
+
+This city gives its name to an omelette & a sandwich of eggs, chopped ham & green pepper.
+
+----
+num: 20
+category: History
+difficulty: 400
+seen: 4
+answer: Afghanistan
+
+On October 7, 2001 Operation Enduring Freedom began with a U.S. air assault on terrorist strongholds in this country.
+
+----
+num: 21
+category: Geography
+difficulty: 400
+seen: 7
+answer: Finland
+
+Lake Ladoga was divided between the Soviet Union & this nation until a 1940 war, when the Soviets seized the entire lake.
+
+----
+num: 22
+category: Mythology
+difficulty: 400
+seen: 13
+answer: a lily
+
+This flower "of the valley" represents Jesus.
+
+----
+num: 23
+category: Literature
+difficulty: 400
+fixed: -1
+seen: 4
+answer: Mack Daddy
+
+Making a Scot of a word that comes before "longlegs" gives you this fella.
+
+----
+num: 24
+category: Mythology
+difficulty: 800
+seen: 12
+answer: the oak
+
+At Dodona this mighty tree was the symbol of Zeus.
+
+----
+num: 25
+category: Literature
+difficulty: 800
+seen: 4
+answer: Macbeth
+
+Woman in a Kiss song, I hear you calling, but you've become this title Shakespeare guy.
+
+----
+num: 26
+category: Trash
+difficulty: 1200
+seen: 6
+answer: Meryl Streep
+
+Actress Mamie Gummer.
+
+----
+num: 27
+category: Geography
+difficulty: 1200
+seen: 7
+answer: the Balkan
+
+Shared by Macedonia & Albania,.
+
+----
+num: 28
+category: Mythology
+difficulty: 1200
+seen: 13
+answer: a falcon
+
+Ancient Egyptians thought it was bird royalty, & Horus took its shape.
+
+----
+num: 29
+category: Literature
+difficulty: 1200
+seen: 4
+answer: macrame
+
+Ach!  It's the type of art seen.
+
+----
+num: 30
+category: Trash
+difficulty: 1600
+seen: 6
+answer: Jerry Hall
+
+Models Elizabeth & Georgia May Jagger.
+
+----
+num: 31
+category: History
+difficulty: 1600
+seen: 5
+answer: Oklahoma
+
+On September 16, 1893 the Cherokee Outlet in this U.S. territory was opened to white settlement.
+
+----
+num: 32
+category: Mythology
+difficulty: 1600
+seen: 11
+answer: the cuckoo
+
+This bird is regarded as a symbol of jealousy, as it lays its eggs in the nests of other birds.
+
+----
+num: 33
+category: Literature
+difficulty: 1600
+seen: 4
+answer: a mackerel
+
+The king variety of this "Scottish" fish can be more than 5 1/2 feet long.
+
+----
+num: 34
+category: Trash
+difficulty: 2000
+seen: 8
+answer: Melanie Griffith
+
+Dakota Johnson of TV's "Ben and Kate".
+
+----
+num: 35
+category: History
+difficulty: 2000
+seen: 5
+answer: the Atlantic Charter
+
+On August 14, 1941 FDR & Churchill issued this charter of cooperation.
+
+----
+num: 36
+category: Geography
+difficulty: 2000
+seen: 13
+answer: Lake Constance
+
+This lake that has a female name lies in an old glacial basin between Germany, Austria & Switzerland.
+
+----
+num: 37
+category: Mythology
+difficulty: 2000
+seen: 23
+answer: the forget-me-not
+
+Aptly, this flower is the symbol of Canada's Alzheimer Society.
+
+----
+num: 38
+category: Literature
+difficulty: 2000
+seen: 5
+answer: a macrocosm
+
+It's a whole that reflects on a larger scale one of its parts.

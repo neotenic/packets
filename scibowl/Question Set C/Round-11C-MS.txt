@@ -1,0 +1,232 @@
+####
+tournament: Question Set C
+round: Round-11C-MS.pdf
+####
+
+num: 2
+category: Math
+difficulty: MS
+seen: 6
+answer: 6 X^3 – 4x^2 + 19x
+
+Add and simplify the following 2 polynomials, giving your answer in standard form: (9x^3 + 6x^2 +10x) + (!3x^3 +9x!10x^2)
+
+----
+num: 2
+category: Math
+difficulty: MS
+seen: 6
+answer: 5
+
+Give the height, to the nearest whole meter, of the triangle that has an area of 54 square meters and whose base is 4 -times its height:
+
+----
+num: 4
+category: Life Science
+difficulty: MS
+seen: 11
+answer: Esophagus;  Duodenum;  Jejunum;  Ileum
+
+Order the following from the part nearest to the START of the human digestive system to the part nearest the END: ileum; esophagus; duodenum; jejunum
+
+----
+num: 5
+category: Physical Science
+difficulty: MS
+seen: 5
+answer: Photon;  Electron;  Neutron
+
+Order the following 3 particles from the one with the 
+LEAST mass to the one with the MOST mass: electron; neutron; photon
+
+----
+num: 7
+category: Math
+difficulty: MS
+seen: 6
+answer: –3 < X < 6  (Accept:  X Is Greater Than –3 and Less Than 6)
+
+Solve the following inequality for x:  2x – 3 < 9 (read as: open absolute value, 2 x minus 3, close absolute value, is less than 9)
+
+----
+num: 8
+category: General Science
+difficulty: MS
+seen: 6
+answer: Serum  (Accept:  Serous Fluid)
+
+In a 2^nd degree burn, what is the name of the fluid that quickly forms beneath the blister?
+
+----
+num: 9
+category: Life Science
+difficulty: MS
+seen: 12
+answer: Ribosome
+
+What cellular organelle most directly functions to help match the tRNA to the correct place on the mRNA and allows the growing of a protein?
+
+----
+num: 9
+category: Life Science
+difficulty: MS
+fixed: -1
+seen: 10
+answer: Nucleolus  (Do Not Accept:  Nucleus)
+
+The basic parts of ribosomes are manufactured in what specific part of a eukaryotic cell?
+
+----
+num: 10
+category: Physical Science
+difficulty: MS
+seen: 5
+answer: 60
+
+How many grams of sodium chloride are in 300 grams of a 20% solution, if the atomic masses of sodium and chloride are 23 and 35, respectively?
+
+----
+num: 12
+category: Math
+difficulty: MS
+seen: 5
+answer: Y = 5x – 7
+
+Giving your answer in the simplest form, what is the slope-intercept equation of the line passing through the points (3, 8) and (2, 3)?
+
+----
+num: 13
+category: General Science
+difficulty: MS
+seen: 6
+answer: Africa
+
+From what continent do more than 80% of the weather systems originate which become tropical storms or hurricanes that reach the U.S. eastern and southern shores?
+
+----
+num: 14
+category: Life Science
+difficulty: MS
+seen: 10
+answer: Pupil
+
+What structure of the human eye is primarily responsible for regulating the amount of light that enters the eye?
+
+----
+num: 14
+category: Life Science
+difficulty: MS
+seen: 11
+answer: Cones
+
+In the human eye, what type of light receptor is most densely populated at the fovea (read as: FOE -vee-ah)?
+
+----
+num: 15
+category: Physical Science
+difficulty: MS
+seen: 5
+answer: Carbon and Carbon;  Silicon and Oxygen
+
+Name all of the following 3 pairs of elements that would be chemically bonded by a covalent bond: carbon and carbon; magnesium and chlorine; silicon and oxygen
+
+----
+num: 18
+category: General Science
+difficulty: MS
+seen: 6
+answer: Nitrogen;  Phosphorous;  Potassium  (Accept:  N;  P;  K)
+
+Fertilizers typically have 3 numbers such as 5, 10, 5. 
+What are the chemical elements that represent these numbers, in any order?
+
+----
+num: 19
+category: Life Science
+difficulty: MS
+seen: 11
+answer: Fruit Fly  (Accept:  Drosophila Ma Lanogaster or Drosophila)
+
+What insect is used the most in experiments studying genetics and development?
+
+----
+num: 21
+category: Earth Science
+difficulty: MS
+seen: 7
+answer: Talc;  Gypsum;  Calcite;  Fluorite
+
+Order the following 4 minerals from the SOFTEST to the 
+HARDEST: fluorite; gypsum; talc; calcite
+
+----
+num: 21
+category: Earth Science
+difficulty: MS
+seen: 9
+answer: 50
+
+A third quarter moon has what percent of its surface appearing to be illuminated to an observer on Earth?
+
+----
+num: 22
+category: Math
+difficulty: MS
+seen: 6
+answer: 20
+
+Consider a distribution of 7 scores with a median of 20. If the lowest score value is decreased by 4, what will the new median value be for this distribution of 7 scores?
+
+----
+num: 23
+category: General Science
+difficulty: MS
+seen: 5
+answer: Black Hole
+
+What is the most common name of the object in outer space that has a gravitational field so strong that light cannot escape from it?
+
+----
+num: 23
+category: General Science
+difficulty: MS
+seen: 6
+answer: Hydrogen and Helium
+
+Both the Sun and the Gas Giants in our Solar System are composed primarily of what 2 elements?
+
+----
+num: 24
+category: Life Science
+difficulty: MS
+seen: 10
+answer: Liver
+
+Bile is produced by what organ of the human body?
+
+----
+num: 24
+category: Life Science
+difficulty: MS
+seen: 11
+answer: Small Intestine  (Accept:  Duodenum)
+
+Into what human organ does the gall bladder release bile?
+
+----
+num: 25
+category: Physical Science
+difficulty: MS
+seen: 5
+answer: Temperature;  Density;  Elasticity  (Accept:  All of Them)
+
+Name all of the following 3 choices that affect the speed of sound in a substance: temperature; density; elasticity
+
+----
+num: 25
+category: Physical Science
+difficulty: MS
+seen: 6
+answer: Cosmic Rays and Ultrasound Waves
+
+Name all of the following 5 choices that are NOT a form of electromagnetic radiation: radio waves; gamma-rays; cosmic rays; infrared light; ultrasound waves

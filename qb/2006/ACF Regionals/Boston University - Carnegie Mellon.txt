@@ -1,0 +1,214 @@
+####
+tournament: ACF Regionals
+round: Boston University - Carnegie Mellon.doc
+year: 2006
+####
+
+num: 1
+category: History
+difficulty: College
+fixed: None
+seen: 69
+answer: {Alliance} for {Progress} (accept {AFP} before it's mentioned)
+
+In the speech that announced this program, the speaker gave reference to revolution as igniting “a spark never to be extinguished.” By contrast, Noam Chomsky derided this program as increasing beef production while citizens starved. It was formulated as a Ten Year Plan, with provisions to examine commodity market problems, to expand the Peace Corps, and to fulfill the Act of Bogota. The charter was formed at a conference in Punta del Este, Uruguay in 1961, and created a council to initiate social planning. Despite this, America contributed less than they had promised and it was dissolved in 1973. FTP, identify this American program which was announced by John Kennedy to aid Latin American economic development, abbreviated AFP.
+
+----
+num: 2
+category: Literature
+difficulty: College
+fixed: 1
+seen: 64
+answer: Junichiro {Tanizaki}
+
+One of his novels concerns a man who has a stroke due to excessive sexual arousal, while another depicts a disintegrating marriage through the use of parallel diaries. His first novel is about a westernized engineer named Joji and is called Naomi. A prolific translator, his early work, like the short story “The Tattooer” bears the influence of Edgar Allen Poe. He treated the conflict between modernity and national identity in his essay “In Praise of Shadows.” Other works include Quicksand, Captain Shigemoto's Mother, and The Key, but he is best known for a novel about four sisters living in Osaka. FTP, who is this Japanese writer, best known for Some Prefer Nettles and The Makioka Sisters?
+
+----
+num: 3
+category: Fine Arts
+difficulty: College
+fixed: 1
+seen: 73
+answer: The {Anatomy Lesson} of Dr. Nicholas Tulp
+
+The creation of this painting was influenced by a similarly titled 1619 work by Thomas de Keyzer as well as by its painter's studies with Pieter Lastman, while the commission itself was suggested by an art dealer named Ulyenburgh. Its subject was a man named Adriaan Adriaanson who had been found guilty of robbery, though the painting is named for a man known in his own time for his treatises on monsters. One of the men in the background holds a list of government officials, while in the foreground is another open book. The title figure is holding forceps, not a pointer, suggesting to some that he was trying to demonstrate something about muscle movement. FTP, identify this painting which shows a group of men watching a dissection, a work of Rembrandt.
+
+----
+num: 4
+category: Literature
+difficulty: College
+fixed: None
+seen: 60
+answer: {Gabriela}, {Clove}, and {Cinnamon}
+
+This novel's title character procures her job due to the abrupt departure of Filomena, an incident related in the novel's first sentence. Many of this novel's central characters are infatuated with Gloria, a beautiful prostitute who often spends the day at her window; these include Professor Josue, who publicly recites a paean to her. One subplot considers the rebellion of Malvina from her father, the powerful Colonel Melk Tavares. One of the main plots concerns a political battle between Amancio Leal and Mundinho Falcao, while the other concerns the title character's culinary battles. FTP, what is this novel set in Ilheus concerning the heroine's relation with Nacib; a work by Jorge Amado?
+
+----
+num: 5
+category: Mythology
+difficulty: College
+fixed: None
+seen: 111
+answer: {Olurun} (or {Oludumare}; accept {Yansan} or {Ogus} before they're mentioned)
+
+In one story, this being ends a drought and heals the goddess of beauty after she tries to fly to his kingdom, burning herself ugly. He commanded his son to fashion a golden chain and dangle an egg from it, from which was born the bird Sankofa. He sent his maid Arugba out with a divine bag, which began life on Earth. In the Ketu cult of Bahia, he is worshiped as Yansan, while in other traditions he is called Ogus. Never worshipped directly, he owns everything that is white on Earth, so he is the god of purity and ruler of the sky. FTP, what is this father of Obatala and Odudua; the Yoruba creator god?
+
+----
+num: 6
+category: History
+difficulty: College
+fixed: None
+seen: 68
+answer: {Yellow Turban} revolt (or {Yellow Scarves revolt} or {T'ai Ping Tao})
+
+They worshipped the god Huang Lo, a tradition that had originally been approved of by Emperor Xuan. They believed in the Magic and Immortality Tradition and wore amulets to ward off an epidemic caused by flooding of a nearby river. After being defeated at the battle of Yanzhou, their remnants were absorbed into the Qingzhou army. Ts'ao Ts'ao then used this army to win the battle of Guandu and establish the Wei Kingdom. Originally led by Chang Chueh, they were the partial cause of the foundation of the Three Kingdoms. FTP, identify this group that rebelled in 184 against the Han and that took its name from the color of heaven that would replace the blue heaven, the color of their headdresses.
+
+----
+num: 7
+category: Science
+difficulty: College
+fixed: None
+seen: 80
+answer: {bubble} chambers
+
+COUPP proposes to use these to search for WIMPs. There are proposals to use them as breeding blankets for fusion devices as they sometimes contain dense deuterium. These devices have no direct energy spectroscopy, but have a lower refresh time and higher reactant density than their predecessors. They work by changing the pressure in a tank, which causes its contents to become superheated; charges moving in the detector volume then create the namesake objects. FTP, identify these devices largely replaced by spark chambers, used to detect charged particles, and invented in 1952 by Donald Glaser.
+
+----
+num: 8
+category: History
+difficulty: College
+fixed: 57
+seen: 74
+answer: the Battle of {Saratoga}
+
+At a break in this battle, fortifications were built at Great Redoubt, Balcarres Redoubt, and Breymann Redoubt. This battle would have been an even more complete victory had John Paterson's brigade supported the final charge. The main assault was commanded by a former Colonel at Wolfenbuttel, Friederich von Riedesel. In the final stage, a sniper mortally wounded Simon Fraser on the order of Daniel Morgan. This battle was fought in two areas, on Bemis Heights and in Freeman's Farm, and the rebel victory might be credited to the tactics of a wounded Benedict Arnold. FTP, identify this Revolutionary War battle fought in September and October 1777; a victory for Gates over Burgoyne in upstate New York.
+
+----
+num: 9
+category: Science
+difficulty: College
+fixed: 57
+seen: 82
+answer: {ribosomes} (accept 50S ribosomal subunits or large ribosomal subunits until “strands”)
+
+The first atomic structure of one of these was published by Ban et al. in 2000. Its leading end is labeled P and is followed by A. In prokaryotes, it is made of three strands and consists of 30S and 50S subunits; in eukaryotes it has four strands. It uses an initiator called fMET and then works by using peptidyl transferase to bind two amino acids, creating a peptide bond; it does this by reading mRNA and using tRNA to create its product. FTP, these, sometimes located within the mitochondria or in the cytoplasm, are, what protein-assembling organelles, most commonly located on the rough endoplasmic reticulum?
+
+----
+num: 10
+category: Science
+difficulty: College
+fixed: 57
+seen: 80
+answer: {central limit} theorem
+
+One form of this, due to Lindeberg and Feller, applies to the difference of variates. While it does not hold for general stochastic processes, there is a version for martingales. The rate behind this relation is determined by the Berry-Esséen theorem. It holds generally under the Lyapunov condition, but the conventional statement of it requires that the variance be finite and that the mean of the sampling distribution of means be the population mean. FTP, identify this theorem stating that the distribution of a sample of independent random variables approaches a normal distribution with sample size.
+
+----
+num: 11
+category: Literature
+difficulty: College
+fixed: None
+seen: 57
+answer: “{Snow}-{bound}: A Winter Idyll”
+
+In one line, a patriarch of sheep is compared to the Egyptian God Amun. One activity described is a reading from The Chief of Gambia, an allusion to a poem by Sarah Wentworth Morton. One character in the poem is compared to Apollonius and Hermes and he discusses “the eagle's eggs he got” and his “prodigies of rod and gun.” After this, the old Doctor comes around to make sure everyone is all right. Then they try to assuage their boredom by studying the Almanac. FTP, identify this poem, subtitled “A Winter Idyll,” which concerns a group of people trapped by a blizzard; a work of John Greenleaf Whittier.
+
+----
+num: 12
+category: Trash
+difficulty: College
+fixed: None
+seen: 189
+answer: {Highway} 61 {Revisited}
+
+This work's inside cover shows the artist playing a Fender J-bass at left and near an upturned barstool at right. This album's tracks were produced by Bob Johnson except for its first, which was recorded at an ersatz New York studio with Al Kooper on Hammond. The title track is the seventh and discusses a location where Georgia Sam may run, but it is not nearly so famous as “Queen Jane, Approximately;” “Desolation Row;” “Just Like Tom Thumb's Blues;” or “Like a Rolling Stone.” FTP, identify this 1965 Bob Dylan album, ostensibly about returning to the title roadway.
+
+----
+num: 13
+category: Science
+difficulty: College
+fixed: None
+seen: 79
+answer: {Lagrangian} function (prompt on {L})
+
+Maxwell's equations may be derived by extremizing the time integral of the one of these corresponding to a charge in an electromagnetic field. Its form for a mechanical system is motivated by requiring the virtual displacements in d'Alembert's principle to vanish. Generalized momenta are velocity partials of this function. If it is cyclic in a coordinate, that coordinate's generalized momentum is constant due to the equation of Euler and this function's namesake. FTP, identify this function central to a non-Newtonian formulation of physics and conventionally equal to the difference of kinetic and potential energies.
+
+----
+num: 14
+category: History
+difficulty: College
+fixed: None
+seen: 73
+answer: The {Stones} of {Venice}
+
+Marcel Proust criticized the 1906 translation of this work by Madame Cremieux, complaining that it left out an index with information on San Giorgio dei Schiavoni as well as a discussion of Vittore Carpaccio. The theme of decay can be seen in the discussion of the Church of St. Moise and its most famous section contrasts the feudal relations between workers and authority with the subsequent relations during the rise of English mass production. Containing the essay “The Nature of Gothic”, this work describes the architectural transition from Byzantine to Gothic and finally a decline to Renaissance. FTP, what is this three-volume artistic treatise on a Italian city written by John Ruskin?
+
+----
+num: 15
+category: Mythology
+difficulty: College
+fixed: None
+seen: 114
+answer: {Taliesin} (accept {Merddin} or {Gwion} before they're mentioned)
+
+This figure caused a group of men led by Heinin Vardd to be struck dumb; when questioned about his actions, he says that he had “borne a banner before Alexander,” was in Canaan when Absalom was killed, and that Heinin and Idno call him Merddin. He protected a woman's honor by tricking Rhun into cutting off another woman's finger. By using a twig of holly, he is able to win a race on Dobbin to settle a feud with Maelgwyn. He was found by Elphin, who saved him from Ceridwen. FTP, identify this Welsh mythological figure, Gwion reborn, who lent his name to Frank Lloyd Wright's house.
+
+----
+num: 16
+category: Philosophy
+difficulty: College
+fixed: None
+seen: 53
+answer: The {Division} of {Labor} in {Society}
+
+This work describes the totality of all of the beliefs common to people as the “conscience collective.” One way that people feel connected to one another is through these shared beliefs, which the author terms “mechanical solidarity.” But the more important determinant of connectedness is through the title concept, which creates “organic solidarity. “ Building on Adam Smith's discussion, the author casts this functional role as a necessary precondition for civilization. The author then shows how the title concept is coextensive with similar biological collective strategies. He also describes an abnormal form of it, in which citizens suffer from anomie. FTP, what is this 1893 sociological work that discusses specialization, written by Emile Durkheim?
+
+----
+num: 17
+category: Literature
+difficulty: College
+fixed: None
+seen: 61
+answer: The {Spanish} Tragedy
+
+The king is tricked by Villuppo into arresting Alexandro for murdering his son; once that is revealed, Villuppo is sentenced to death. The murder of Serberine is a set-up of Pedringano, who is further tricked into keeping silent about his earlier crimes and hanged. The play opens with a visit to the palace of Pluto and Proserpine, who command Revenge to accompany a ghost back to earth. Climaxing at a performance of Solyman and Perseda, the end features the murder of Lorenzo, Balthazar and Bel-Imperia. Hieronimo thus satisfies the ghost of Don Andrea and avenges the death of his son, Horatio. FTP, what is this 1589 Thomas Kyd revenge tragedy that inspired Shakespeare's Hamlet.
+
+----
+num: 18
+category: Science
+difficulty: College
+fixed: None
+seen: 79
+answer: {Friedel}-{Crafts reactions}
+
+An ester modification of these is the Fries rearrangement, and it was first published in Comptes rendus in 1884. One form of them is strongly inhibited by the presence of electron acceptors and carbocation rearrangement decreases its useful yield. The reactivity of one of their constituents increases with the polarity of the C-X bond. Both forms are limited to fairly reactive arenas and use a Lewis acid catalyst, typically aluminum tri-chloride. FTP, identify these electrophilic aromatic substitutions that synthesize either an acyl or an alkyl from benzene, named for their French and American discoverers.
+
+----
+num: 19
+category: History
+difficulty: College
+fixed: 57
+seen: 71
+answer: {Otto} I, the {Great} (accept either underlined part {subsequent} to {Otto} as {long} as {proceeded} by {Otto}; prompt on {Otto})
+
+His religious policies were steered by his brother, Bruno, who later became an archbishop. He defeated Duke Eberhard and Giselbert at the Battle of Andernach after they aligned with this man's half brother, Thankmar. Later, he intervened in Northern Italy after the assassination of Berengarius and gained power there after marrying the daughter of Rudolph II, Adelaide. After further rebellions by his son Ludolph and by Conrad the Red, this man terminated their powers at the Imperial Diet of Auerstadt. Following this, he rushed to Augsburg to defeat the Magyars. FTP, Identify this man who ruled out of Magdeburg and the victor at Lechfeld; a German king who consolidated power and in 962 was crowned the first Holy Roman Emperor of the Saxon line.
+
+----
+num: 20
+category: Philosophy
+difficulty: College
+fixed: None
+seen: 56
+answer: The {Politics} or {Politika}
+
+Book Five of this work considers the causes of factional conflict and asserts that middle classes are crucial to mitigating unrest. Distinguishing between numerical and merit-based equality, this work also outlines three deviations from the ideal: tyranny, oligarchy, and democracy. A key idea in this work is the notion that the city is a kind of association called koinonia. Book Two discusses competing constitutional theories like those of Hippodemus of Miletus and Plato. FTP, identify this work concerning the nature of government, written by Aristotle.
+
+----
+num: 21
+category: Fine Arts
+difficulty: College
+fixed: 1
+seen: 70
+answer: Franz {Schubert}
+
+In 1816, this man composed his first paid work, a cantata for the students of a Professor Watteroth entitled “Prometheus.” Other works around that time include his libretto for the founder of the schoolmasters' widows' fund and an opera, Die Burgschaft. Due to the inept writing of men such as Georg von Hoffman, Josef Kupelweiser, and Franz von Schober, operas such as Alfonso and Estrella and Fierrbras were poorly received. Other works include a famous sonata for piano and arpeggione as well as an Ave Maria that was based on a poem by Sir Walter Scott. He is best known, however, for his Grand Duo Piano Sonata in C Major as well as songs like “The Doppelganger” and “Die Schone Mullerin.” FTP, identify this German Romantic composer of Die Winterreise and the Trout Quintet.

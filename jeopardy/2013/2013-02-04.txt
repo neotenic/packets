@@ -1,0 +1,383 @@
+####
+tournament: #6536
+round: Show #6536 - Monday, February 4, 2013
+year: 2013
+date: 2013-02-04
+####
+
+num: 1
+category: Literature
+difficulty: 200
+seen: 4
+answer: the setting
+
+Let's make London this, meaning where the story takes place.
+
+----
+num: 2
+category: Trash
+difficulty: 200
+seen: 6
+answer: poker
+
+Also a fireplace implement.
+
+----
+num: 3
+category: History
+difficulty: 200
+seen: 4
+answer: Honolulu
+
+Completed in 1926, Aloha Tower greets visitors to this city.
+
+----
+num: 4
+category: Literature
+difficulty: 200
+seen: 5
+answer: a thick brick
+
+A wide & heavy rectangular block for building.
+
+----
+num: 5
+category: Literature
+difficulty: 200
+seen: 4
+answer: forgotten
+
+Unless I get amnesia, U R 2 cool 2b this.
+
+----
+num: 6
+category: Literature
+difficulty: 400
+seen: 4
+answer: a twist
+
+A dramatic hospital fire makes an excellent "plot" one of these, also a word for a turn or spiral.
+
+----
+num: 7
+category: Trash
+difficulty: 400
+seen: 4
+answer: monopoly
+
+Exclusive control of a market.
+
+----
+num: 8
+category: History
+difficulty: 400
+seen: 4
+answer: Austin
+
+In recent years this Texas capital has ranked as one of the top U.S. cities for young adults.
+
+----
+num: 9
+category: Literature
+difficulty: 400
+seen: 4
+answer: stupid Cupid
+
+Dumb god of love.
+
+----
+num: 10
+category: Literature
+difficulty: 400
+seen: 4
+answer: ta-ta for now
+
+I'll c U next year, but TTFN, short for this.
+
+----
+num: 11
+category: Literature
+difficulty: 600
+seen: 4
+answer: allegory
+
+The mysterious character "Mr. S." represents human depravity--obviously we're writing this type of symbolic tale.
+
+----
+num: 12
+category: Trash
+difficulty: 600
+seen: 5
+answer: blackjack
+
+A hand weapon made of leather-covered metal.
+
+----
+num: 13
+category: History
+difficulty: 600
+seen: 4
+answer: Minneapolis
+
+St. Paul is the twin of this city that's 100,000 people bigger.
+
+----
+num: 14
+category: Literature
+difficulty: 600
+seen: 4
+answer: summer
+
+Have a gr8 one of these, found before "squash" & after "(500) Days of".
+
+----
+num: 15
+category: Trash
+difficulty: 800
+seen: 5
+answer: boggle
+
+To overwhelm with wonder.
+
+----
+num: 16
+category: History
+difficulty: 800
+seen: 4
+answer: Louisiana
+
+This state's state fair is held in Shreveport.
+
+----
+num: 17
+category: Literature
+difficulty: 800
+seen: 3
+answer: digits
+
+Call me N E time--here are my these, also meaning "fingers".
+
+----
+num: 18
+category: Literature
+difficulty: 1000
+seen: 4
+answer: Annie
+
+'s the young Sarah Jessica Parker as this optimistic little orphan girl.
+
+----
+num: 19
+category: Literature
+difficulty: 1000
+seen: 4
+answer: omniscient
+
+The point of view is third person this, meaning all-knowing.
+
+----
+num: 20
+category: Trash
+difficulty: 1000
+seen: 5
+answer: diplomacy
+
+The art of negotiation between nations.
+
+----
+num: 21
+category: History
+difficulty: 1000
+seen: 4
+answer: Williamsburg
+
+Once Virginia's capital,.
+
+----
+num: 22
+category: Literature
+difficulty: 1000
+seen: 4
+answer: a doctor proctor
+
+A surgeon who oversees your exams.
+
+----
+num: 23
+category: Literature
+difficulty: 1000
+seen: 4
+answer: sweet
+
+Unlike aspartame when U heat it, "stay" this way.
+
+----
+num: 24
+category: Geography
+difficulty: 400
+seen: 8
+answer: a toad
+
+The Wyoming type of this frog-like amphibian has a lumpy body covered with warts.
+
+----
+num: 25
+category: Literature
+difficulty: 400
+seen: 4
+answer: a sofa
+
+Another name for a couch.
+
+----
+num: 26
+category: Science
+difficulty: 400
+seen: 6
+answer: calcium
+
+Got milk? for healthy bones & teeth, the RDA for teens is 1,300 milligrams of this mineral.
+
+----
+num: 27
+category: Art
+difficulty: 400
+seen: 4
+answer: a harp
+
+"Valse" by Arnold Bax for this almost 6-foot-high, 47-string instrument.
+
+----
+num: 28
+category: Geography
+difficulty: 800
+seen: 8
+answer: a bat
+
+Several species of this are endangered, including a fruit one & a long-nosed one, which has a 10-inch wingspan.
+
+----
+num: 29
+category: History
+difficulty: 800
+seen: 3
+answer: NATO (North Atlantic Treaty Organization)
+
+In April 2009 Croatia & Albania became the most recent additions to this alliance that includes the U.S. & the United Kingdom.
+
+----
+num: 30
+category: Science
+difficulty: 800
+seen: 7
+answer: Burger King
+
+This chain's Triple Whopper has 1,140 calories & 75 grams of fat--but lots of antioxidants in the tomatoes.
+
+----
+num: 31
+category: Art
+difficulty: 800
+seen: 5
+answer: Words
+
+Mendelssohn's "Songs Without" these--for piano, no singer needed.
+
+----
+num: 32
+category: Geography
+difficulty: 1200
+seen: 7
+answer: a jaguar
+
+Tigre americano, this largest New World member of the cat family, is now endangered.
+
+----
+num: 33
+category: Literature
+difficulty: 1200
+seen: 3
+answer: a soap opera
+
+"General Hospital" or "As the World Turns".
+
+----
+num: 34
+category: History
+difficulty: 1200
+seen: 4
+answer: Mother Teresa
+
+In a November 1996 ceremony in Calcutta, this Roman Catholic nun was given honorary U.S. citizenship.
+
+----
+num: 35
+category: Art
+difficulty: 1200
+seen: 4
+answer: Mozart
+
+The clarinet concerto written at age 35 by this genius was his last purely instrumental work.
+
+----
+num: 36
+category: Literature
+difficulty: 1600
+seen: 5
+answer: a soldier
+
+A worker ant who defends the colony.
+
+----
+num: 37
+category: History
+difficulty: 1600
+seen: 5
+answer: the International Space Station
+
+In late 1998 a Russian rocket & the Space Shuttle Endeavour delivered the first 2 pieces of this to earth orbit.
+
+----
+num: 38
+category: Science
+difficulty: 1600
+seen: 6
+answer: tuna
+
+We don't know about bumblebees, but Bumble Bee's albacore type of this is rich in healthy fatty acids.
+
+----
+num: 39
+category: Art
+difficulty: 1600
+seen: 4
+answer: George Gershwin
+
+Percy grainger's 2-piano "fantasy on" this composer's "Porgy and Bess".
+
+----
+num: 40
+category: Geography
+difficulty: 2000
+seen: 13
+answer: a manatee
+
+The Florida type of this aquatic mammal of the order sirenia weighs about 1,000 pounds & is 9 feet long.
+
+----
+num: 41
+category: Literature
+difficulty: 2000
+seen: 6
+answer: Sojourner Truth
+
+"Honest" adopted name of abolitionist Isabella Baumfree.
+
+----
+num: 42
+category: Science
+difficulty: 2000
+seen: 8
+answer: Vitamin A
+
+Pumpkin is loaded with beta carotene, so a slice of pumpkin pie packs 250% of the RDA of this vitamin.

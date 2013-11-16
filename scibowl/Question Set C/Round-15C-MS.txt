@@ -1,0 +1,254 @@
+####
+tournament: Question Set C
+round: Round-15C-MS.pdf
+####
+
+num: 1
+category: Physical Science
+difficulty: MS
+seen: 5
+answer: 1, 3 , 2  (Accept:  Sound in 0ºc Air;  a Spaceship at 5,000 Meters Per 
+Second;  Electromagnetic Radiation)
+
+By number or words, order the following 3 choices from the one that travels the SLOWEST to the FASTEST: 1) sound in 0ºC air; 2) electromagnetic radiation; 3) a spaceship at 5,000 meters per second
+
+----
+num: 3
+category: Math
+difficulty: MS
+seen: 6
+answer: 210
+(Solution:  ^Nc^^r = N!/[r!(n-R)!] = 10!/[6!(10 – 6)!] = 210)
+
+In how many different ways can a team of 6 students be selected from a group of 10 students?
+
+----
+num: 5
+category: Life Science
+difficulty: MS
+seen: 10
+answer: 2n and 4s
+
+If 2n is the content of chromosomes in a normal non-sex cell and 2s is the DNA content of the same cell, what would be the values of n ands at the beginning of metaphase in mitosis?
+
+----
+num: 6
+category: Physical Science
+difficulty: MS
+seen: 6
+answer: 2
+(Solution: 35 + 23 ! 116 = 2 Moles of Nacl in 1 Liter = 2 Molar)
+
+Considering that the atomic mass of sodium is 23 and the atomic mass of chlorine is 35, what is the molarity of a solution where 116 grams of sodium chloride are added to 1,000 milliliters of water?
+
+----
+num: 8
+category: Math
+difficulty: MS
+seen: 6
+answer: One  (Accept:  First)
+
+In what quadrant will a 1135º angle lie, assuming it is in standard position?
+
+----
+num: 8
+category: Math
+difficulty: MS
+seen: 7
+answer: 50
+
+Consider a smaller circle drawn within a larger circle. If the diameter of the larger circle is 10 centimeters and the diameter of the smaller circle is 6 centimeters, what is the area of the space between the two circles, giving your answer in square centimeters to the nearest whole number?
+
+----
+num: 9
+category: General Science
+difficulty: MS
+seen: 7
+answer: Diamond
+
+Which one of the following 5 materials has the smallest critical angle causing light entering it to be more likely to undergo total internal reflection: pure water; a near perfect vacuum; diamond; Lucite; 100% ethanol
+
+----
+num: 10
+category: Life Science
+difficulty: MS
+seen: 10
+answer: Pacemaker
+
+In the wall of the human heart’s right atrium is an area which sets the rate of heart beats. What is the common name for this area?
+
+----
+num: 11
+category: Physical Science
+difficulty: MS
+seen: 6
+answer: 2 and 2
+
+An alpha particle is made of how many protons and how many neutrons?
+
+----
+num: 12
+category: Earth Science
+difficulty: MS
+seen: 7
+answer: Ablation  (Accept:  Ablation  Zone or Ablation  Area)
+
+An alpine glacier generally has 2 areas, an accumulation zone and an area of net loss where the previous winter’s snow melts away. What is the specific name for this zone?
+
+----
+num: 13
+category: Math
+difficulty: MS
+seen: 6
+answer: 5
+
+Solve the following logarithmic equation for x: log^x 251= –2
+
+----
+num: 13
+category: Math
+difficulty: MS
+seen: 6
+answer: 78π
+(Solution:  Sa = 2 πR^2 + 2πrh;  Sa = 2(π)(3^2) + 2(π)(3)(10) = 78π)
+
+Find the surface area, in terms of pi in inches squared, of a closed right circular cylinder given that its radius is 3 inches and its length or height is 10 inches:
+
+----
+num: 15
+category: Life Science
+difficulty: MS
+seen: 10
+answer: Monocots and Cactus
+
+Name all of the following 5 plants or plant groups that produce true flowers: sphagnum moss; fern; monocots; pine tree; cactus
+
+----
+num: 16
+category: Physical Science
+difficulty: MS
+seen: 6
+answer: Most = Gamma;  Least = Alpha
+
+Of the following 3 forms of radioactive decay, which one is the MOST penetrating in human tissue and which one is the LEAST penetrating, respectively: alpha; beta; gamma
+
+----
+num: 17
+category: Earth Science
+difficulty: MS
+seen: 8
+answer: Pressure;  Density;  Salinity  (Accept:  All but Temperature)
+
+If you could dive from the ocean surface to the abyssal plain, name all of the following 4 choices that would typically be INCREASED at the abyssal plain: pressure; density; salinity; temperature
+
+----
+num: 18
+category: Math
+difficulty: MS
+seen: 6
+answer: 10
+(Solution:  300m^3/(0.5m^3/min) = 600 Min/(60 Min/hr) = 10 Hrs)
+
+A rectangular water storage tank measures 30 meters long, 10 meters wide and 12 meters deep. If water is leaking out at a constant rate of 0.5 cubic meters per minute, how many hours will it take for the water level to drop one meter?
+
+----
+num: 19
+category: General Science
+difficulty: MS
+seen: 6
+answer: Tryptophan
+
+Of the following 4 choices, name all that are amino acids: tryptophan; testosterone; cholest erol; niacin
+
+----
+num: 20
+category: Life Science
+difficulty: MS
+seen: 10
+answer: 92
+(Solution: 2 Chromatids/chromosome ! 46 X 2 = 92)
+
+During early metaphase of mitosis, how many chromatids will be present in a single human cell?
+
+----
+num: 21
+category: Physical Science
+difficulty: MS
+seen: 5
+answer: Boyle’s (Law)
+
+What gas law states that the volume of a gas is inversely proportional to its pressure as long as the temperature and number of particles are constant?
+
+----
+num: 21
+category: Physical Science
+difficulty: MS
+seen: 5
+answer: Ch
+^3br
+
+Name all of the following 3 chemical compounds that are substituted hydrocarbons: CH^4; CO^2; CH^3Br
+
+----
+num: 22
+category: Earth Science
+difficulty: MS
+seen: 8
+answer: Beaufort Scale;  Saffir -Simpson Scale
+
+From the following list of 4 scales, name all that are NOT used by geologists to measure earthquakes: Beaufort scale; Richter scale; Modified Mercalli scale; 
+Saffir-Simpson scale
+
+----
+num: 23
+category: Math
+difficulty: MS
+seen: 5
+answer: 0
+
+If the discriminant, of a quadratic equation is negative, how many real solutions does the equation have?
+
+----
+num: 23
+category: Math
+difficulty: MS
+seen: 7
+answer: 109
+
+Find the 21^st term in the arithmetic sequence whose second term is –5 and fourth term is 7:
+
+----
+num: 24
+category: General Science
+difficulty: MS
+seen: 5
+answer: 73
+
+Your boat shows a compass direction of 61 degrees and your navigation chart shows a variation of 12 degrees east. If you know your deviation is zero, what is your true course, in degrees?
+
+----
+num: 24
+category: General Science
+difficulty: MS
+seen: 5
+answer: 60º West
+
+The time aboard a ship at sea is 12 noon. If at the same time, the time at the Prime Meridian time is 4 PM, what is the ship’s most likely longitude, in degrees and as east or west?
+
+----
+num: 25
+category: Life Science
+difficulty: MS
+seen: 11
+answer: Collagen
+
+Which one of the following 5 molecules is a fibrous molecule that is very common in locations in between cells of the human body: cellulose; albumin; insulin; collagen; hemoglobin
+
+----
+num: 25
+category: Life Science
+difficulty: MS
+seen: 10
+answer: Actin;  Myosin
+
+Which 2 of the following 5 molecules are most directly involved in muscle contraction in mammals: cellulose; albumin; actin; collagen; myosin

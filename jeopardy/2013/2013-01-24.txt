@@ -1,0 +1,492 @@
+####
+tournament: #6529
+round: Show #6529 - Thursday, January 24, 2013
+year: 2013
+date: 2013-01-24
+####
+
+num: 1
+category: Art
+difficulty: 200
+seen: 4
+answer: a crazy quilt
+
+This "mad" patchwork quilt is made from irregular or scrap pieces sewn in no particular pattern or design.
+
+----
+num: 2
+category: History
+difficulty: 200
+seen: 6
+answer: John Hancock
+
+This first signer of the Declaration of Independence has his name on several towns & a Boston Univ. student village.
+
+----
+num: 3
+category: Literature
+difficulty: 200
+seen: 5
+answer: licorice
+
+This twisty candy was used to make the shoe Charlie Chaplin ate in "The Gold Rush".
+
+----
+num: 4
+category: Literature
+difficulty: 200
+seen: 4
+answer: Hans Christian Andersen
+
+Born in a slum, he was admitted to the University of Copenhagen in 1828; his first book of fairy tales came 7 years later.
+
+----
+num: 5
+category: Trash
+difficulty: 200
+seen: 6
+answer: Martina Navratilova
+
+began wearing glasses in 1985; that didn't stop her from being the world's number one tennis player that year and in '86.
+
+----
+num: 6
+category: Art
+difficulty: 200
+seen: 5
+answer: a canoe
+
+If you "paddle your own" this transport, you manage independently.
+
+----
+num: 7
+category: Art
+difficulty: 400
+seen: 4
+answer: a Baltimore quilt
+
+The 19th-century.
+
+----
+num: 8
+category: History
+difficulty: 400
+seen: 4
+answer: South Carolina
+
+J. Strom Thurmond lake lies on the border of Georgia & this state represented by Senator Thurmond for 48 years.
+
+----
+num: 9
+category: Literature
+difficulty: 400
+seen: 4
+answer: lasagna
+
+In Lombardy this layered dish is a Christmastime specialty, with the sheets of pasta symbolizing Jesus' swaddling clothes.
+
+----
+num: 10
+category: Literature
+difficulty: 400
+seen: 4
+answer: Alice Walker
+
+The 8th child of sharecroppers & a writer of "purple" prose, she was blinded in one eye in a childhood accident.
+
+----
+num: 11
+category: Trash
+difficulty: 400
+seen: 6
+answer: New York Knicks
+
+The Nike-designed eyewear of Amare Stoudemire, now of this team, survived tests including a 90-mph squash ball.
+
+----
+num: 12
+category: Art
+difficulty: 400
+seen: 4
+answer: a ukulele
+
+Aloha!  This 4-stringed instrument is related to the guitar.
+
+----
+num: 13
+category: Art
+difficulty: 600
+seen: 4
+answer: batting
+
+This layer inside a quilt that provides thickness & warmth sounds like an activity for Josh Hamilton.
+
+----
+num: 14
+category: Literature
+difficulty: 600
+seen: 4
+answer: lobster
+
+To prepare this Thermidor style, mix the meat with a Béchamel sauce & spoon it back into the shells.
+
+----
+num: 15
+category: Trash
+difficulty: 600
+seen: 5
+answer: Ted Williams
+
+Aided by 20/10 vision, this Red Sox "splendid splinter" won the 1958 batting title at age 40.
+
+----
+num: 16
+category: Art
+difficulty: 600
+seen: 4
+answer: an oasis
+
+When it's midnight at this small, fertile desert area with a well, send your camel to bed.
+
+----
+num: 17
+category: Art
+difficulty: 800
+seen: 4
+answer: a bee
+
+These social gatherings where women would make quilts together were a popular feature of frontier life.
+
+----
+num: 18
+category: History
+difficulty: 800
+seen: 4
+answer: (Warren G.) Harding
+
+The last U.S. president to have a county named for him (in N.M.), he may be best known for the Teapot Dome scandal.
+
+----
+num: 19
+category: Literature
+difficulty: 800
+seen: 3
+answer: ladyfinger
+
+Delicate sponge cake in the shape of a digit.
+
+----
+num: 20
+category: Literature
+difficulty: 800
+seen: 4
+answer: Ken Kesey
+
+His volunteering to take mind-altering drugs as a test subject at a hospital led to a 1962 novel, his best-known work.
+
+----
+num: 21
+category: Trash
+difficulty: 800
+seen: 5
+answer: Tiger Woods
+
+Saying he'd be considered legally blind without specs, this golfer got LASIK in 1999, then--natch--won the Disney Classic.
+
+----
+num: 22
+category: Art
+difficulty: 800
+seen: 4
+answer: etiquette
+
+It now means rules of social behavior; in French it meant a posting of military orders.
+
+----
+num: 23
+category: Art
+difficulty: 1000
+seen: 4
+answer: appliqué
+
+Quilts may be pieced, where shapes are cut & sewn together, or this, where cut pieces are sewn to a background.
+
+----
+num: 24
+category: History
+difficulty: 1000
+fixed: -1
+seen: 5
+answer: Stephen Douglas
+
+This 5'4" "Little Giant" who debated Abraham Lincoln has an 11,300' mountain named for him in Montana.
+
+----
+num: 25
+category: Literature
+difficulty: 1000
+seen: 4
+answer: Lender\'s
+
+Make sure you have plenty of schmear to go with this brand of bagels that went frozen in 1962.
+
+----
+num: 26
+category: Literature
+difficulty: 1000
+seen: 4
+answer: Upton Sinclair
+
+This author who said welcome to "The Jungle" organized the epic (end poverty in Calif.) movement in the 1930s.
+
+----
+num: 27
+category: Trash
+difficulty: 1000
+seen: 5
+answer: (baseball) umpire
+
+On April 18, 1956 Ed Rommel became the first man with this job to wear eyeglasses during work.
+
+----
+num: 28
+category: Art
+difficulty: 1000
+seen: 4
+answer: a beanie
+
+Propeller is one type of this skullcap.
+
+----
+num: 29
+category: History
+difficulty: 400
+seen: 4
+answer: the Colosseum
+
+The building of this arena was begun by Vespasian around 70 A.D. & finished by his son Titus in 80.
+
+----
+num: 30
+category: Art
+difficulty: 400
+seen: 4
+answer: odometer
+
+Used car sellers beware--rolling back this instrument to show lower mileage is illegal.
+
+----
+num: 31
+category: Geography
+difficulty: 400
+seen: 7
+answer: Victoria Falls
+
+David Livingstone sighted these falls on Nov. 16, 1855 & named them for the monarch.
+
+----
+num: 32
+category: Literature
+difficulty: 400
+seen: 5
+answer: Jim Morrison
+
+"Riders On The Storm" was the last song this Doors vocalist ever recorded; he died in Paris a few months later.
+
+----
+num: 33
+category: Trash
+difficulty: 400
+seen: 5
+answer: discs
+
+Between the vertebrae are these, which are mostly fibrocartilage & act as shock absorbers.
+
+----
+num: 34
+category: Science
+difficulty: 400
+seen: 5
+answer: leaps and bounds
+
+To increase rapidly is to "grow by" this 3-word phrase.
+
+----
+num: 35
+category: History
+difficulty: 800
+seen: 4
+answer: firemen
+
+Organized by Augustus in 6 A.D., the Vigiles were a group of these, who might have helped when Nero took over.
+
+----
+num: 36
+category: Art
+difficulty: 800
+seen: 4
+answer: heartbeat (or heart rate)
+
+A doctor uses a cardiotachometer to record & time this.
+
+----
+num: 37
+category: Geography
+difficulty: 800
+seen: 6
+answer: Yosemite
+
+Entering the valley of.
+
+----
+num: 38
+category: Literature
+difficulty: 800
+seen: 4
+answer: "Blowin\' In The Wind"
+
+"The answer, my friend", is this No. 2 Peter, Paul & Mary song written by Bob Dylan.
+
+----
+num: 39
+category: Trash
+difficulty: 800
+seen: 5
+answer: dorsi
+
+It's Latin for "of the back" & follows latissimus in the name of the broadest muscles of the back.
+
+----
+num: 40
+category: Science
+difficulty: 800
+seen: 5
+answer: abound
+
+To exist in plenty.
+
+----
+num: 41
+category: History
+difficulty: 1200
+seen: 4
+answer: Marc Antony
+
+He was Julius Caesar's wingman, leading the left wing of Caesar's troops in the Battle of Pharsalus.
+
+----
+num: 42
+category: Art
+difficulty: 1200
+seen: 5
+answer: iron maiden
+
+This instrument of torture consisted of a human-sized case in the form of a woman & studded with sharp spikes.
+
+----
+num: 43
+category: Geography
+difficulty: 1200
+seen: 8
+answer: Niagara Falls
+
+You can take an elevator to the base of this waterfall to visit the Cave of the Winds, which is behind it.
+
+----
+num: 44
+category: Literature
+difficulty: 1200
+seen: 4
+answer: Creedence Clearwater Revival
+
+John Fogerty wrote this group's protest song "Who'll Stop The Rain".
+
+----
+num: 45
+category: Trash
+difficulty: 1200
+seen: 6
+answer: spina bifida
+
+SBA is short for this association that helps those with a certain neural tube defect, the SB in its name.
+
+----
+num: 46
+category: Science
+difficulty: 1200
+seen: 6
+answer: the rebound
+
+After a breakup, you're "on" this.
+
+----
+num: 47
+category: History
+difficulty: 1600
+seen: 5
+answer: Constantine
+
+In 321 A.D. this emperor declared Sunday the legal day of rest & religious worship.
+
+----
+num: 48
+category: Art
+difficulty: 1600
+seen: 4
+answer: clouds
+
+A nephograph is an instrument for photographing these in the sky.
+
+----
+num: 49
+category: Literature
+difficulty: 1600
+seen: 4
+answer: "Heat Wave"
+
+In this 1963 hit Martha & the Vandellas sang, "whenever I'm with him something inside starts to burning".
+
+----
+num: 50
+category: Trash
+difficulty: 1600
+seen: 6
+answer: scoliosis
+
+The wearing of a brace & surgery are possible treatments for this common lateral curvature of the spine.
+
+----
+num: 51
+category: History
+difficulty: 2000
+seen: 4
+answer: Caracalla
+
+In 212 this emperor known for his baths extended Roman citizenship to all free persons of the empire.
+
+----
+num: 52
+category: Geography
+difficulty: 2000
+seen: 13
+answer: the seven sisters
+
+A spectacular group of waterfalls in Norway has this numerical name, like the Pleiades.
+
+----
+num: 53
+category: Literature
+difficulty: 2000
+seen: 6
+answer: "Snowbird"
+
+In 1970 Anne Murray told it to "spread your tiny wings & fly away".
+
+----
+num: 54
+category: Science
+difficulty: 2000
+seen: 9
+answer: Outward Bound
+
+2012 marks the golden anniversary of the U.S. branch of this outdoor education program.

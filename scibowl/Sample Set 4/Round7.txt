@@ -1,0 +1,401 @@
+####
+tournament: Sample Set 4
+round: Round7.pdf
+####
+
+num: 1
+category: Biology
+difficulty: HS
+seen: 39
+answer: Sexual Reproduction
+
+What is the purpose of cones in gymnosperms?
+
+----
+num: 1
+category: Biology
+difficulty: HS
+seen: 38
+answer: Monocots [Accept: Monocotyledon (Read As: Moh -Noh-Koh-Ti-Lee-Dohn)]
+
+
+Name the plant type that has one seed leaf when it germinates, leaf veins that are parallel to each other, and includes plants such as corn, wheat, lilies, daffodils, and palms.
+
+----
+num: 1
+category: Physical Science
+difficulty: MS
+seen: 6
+answer: Bose -Einstein Condensate
+
+
+At incredibly low temperatures near 0 Kelvin, atoms coalesce into what substance?
+
+----
+num: 2
+category: Math
+difficulty: HS
+seen: 24
+answer: 9
+
+The lengths of two sides of a triangle are 4 and 9. If the triangle is isosceles, what is the length of the third side?
+
+----
+num: 2
+category: Math
+difficulty: HS
+seen: 23
+answer: 288 π
+
+Rebekah wants to fill a spherical piñata with candy. If the radius of her piñata is 6 inches, what is the volume in cubic inches of her piña ta in terms of pi?
+
+----
+num: 3
+category: Earth and Space
+difficulty: HS
+seen: 46
+answer: East Antarctic Ice Sheet
+
+What ice sheet on Earth contains the largest volume of ice?
+
+----
+num: 4
+category: Math
+difficulty: HS
+seen: 24
+answer: 96
+
+If the volume of a cube is 64 cubic centimeters, then what is the surface area of the cube in square centimeters?
+
+----
+num: 4
+category: Earth and Space Science
+difficulty: MS
+seen: 5
+answer: Solid
+
+In what state of matter are convection currents unable to transfer heat?
+
+----
+num: 5
+category: Chemistry
+difficulty: HS
+fixed: -1
+seen: 34
+answer: 2 C^4h^10 + 13o^2 ! (Read As: Yields) 8co^2 + 10h^2o
+
+
+For the complete combustion of butane, butane plus oxygen produces carbon dioxide and water vapor. What is the balanced equation for the combust ion of butane?
+
+----
+num: 5
+category: General Science
+difficulty: MS
+seen: 6
+answer: Plates (Acce Pt: Tectonic Plates)
+
+Name the rigid segments into which the Earth’s crust is divided.
+
+----
+num: 6
+category: Energy
+difficulty: MS
+seen: 7
+answer: 180
+
+If the temperature change of a pot of water is 180 Kelvin, what is the temperature change in degrees Celsius?
+
+----
+num: 7
+category: Earth and Space
+difficulty: HS
+fixed: -1
+seen: 49
+answer: Stratosphere
+
+
+In which sphere is the “good” ozone that absorbs harmful ultraviolet rays located?
+
+----
+num: 7
+category: General Science
+difficulty: MS
+seen: 7
+answer: Velocity
+
+What is the name for the vector quantity defined as the rate of change of position?
+
+----
+num: 7
+category: General Science
+difficulty: MS
+seen: 6
+answer: 5
+ 
+
+In 12 seconds, a car goes from 0 to 60 miles per hour. 
+In miles per hour per second, what is its average rate of acceleration?
+
+----
+num: 8
+category: Physical Science
+difficulty: MS
+seen: 5
+answer: It Will Be Lower
+
+An ice cube is placed in a perfectly insulated box with an air temperature of 60° Fahrenheit and covered. Sometime later, the box is opened and the ice cube has completely melted. How will the air temperature in the box have changed?
+
+----
+num: 9
+category: Chemistry
+difficulty: HS
+seen: 33
+answer: Potassium Hydroxide and Calcium Hydroxide (Accept: 1 and 4)
+
+
+Which of the following are strong bases in aqueous solution: 1) potassium hydroxide, 2) ammonia, 3) sodium chloride, 4) calcium hydroxide, or 5) beryllium hydroxide?
+
+----
+num: 10
+category: Biology
+difficulty: HS
+seen: 39
+answer: Aorta
+
+Oxygen-rich blood leaves the left ventricle to enter the largest blood vessel in the body. What is this blood vessel called?
+
+----
+num: 10
+category: Math
+difficulty: MS
+fixed: -1
+seen: 5
+answer: -6
+
+What is the coefficient of x in 10y – 6x + 13?
+
+----
+num: 12
+category: Earth and Space
+difficulty: HS
+seen: 46
+answer: Hydrogen
+
+What is the most abundant element in the universe?
+
+----
+num: 12
+category: Life Science
+difficulty: MS
+seen: 11
+answer: Chemical (Accept: Food)
+
+Glucose is the main source of energy for most animals. 
+What form of energy is glucose?
+
+----
+num: 13
+category: Math
+difficulty: HS
+seen: 23
+answer: 4
+
+Given the function , what is the largest possible value for y?
+
+----
+num: 13
+category: Math
+difficulty: HS
+seen: 25
+answer: 
+
+Express the following in standard polynomial form: (read as: the quantity 3 x plus 2 cubed)
+
+----
+num: 14
+category: Biology
+difficulty: HS
+seen: 40
+answer: Abnormal Isoform Proteins (Accept: Misshaped Isoform 
+Proteins, Abnormal Proteins)
+
+The prions that cause mad cow disease lack DNA. What does current research suggest that prions are?
+
+----
+num: 14
+category: Energy
+difficulty: MS
+seen: 7
+answer: Red
+
+What is the color of the l owest frequency light that is visible to humans?
+
+----
+num: 15
+category: Chemistry
+difficulty: HS
+fixed: -1
+seen: 35
+answer: 4
+
+
+Sulfuric acid is used to neutralize a solution of sodium hydroxide. Calculate the number of moles of sodium hydroxide required to completely neutralize two moles of sulfuric acid.
+
+----
+num: 15
+category: Physical Science
+difficulty: MS
+seen: 6
+answer: It Doesn't Change (Accept: It Is Constant)
+ 
+
+What does the law of conservation of energy tell us about the total amount of energy in a closed system?
+
+----
+num: 16
+category: Physics
+difficulty: HS
+seen: 27
+answer: 100
+
+A voltage difference of 10 volts delivers how much power, in watts, to a 1-ohm resistor?
+
+----
+num: 16
+category: Math
+difficulty: MS
+seen: 5
+answer: 4
+
+If you double a number, then double that result, and continue that doubling process, how many times must you double a number in order to make the result greater than 10 times the original number?
+
+----
+num: 17
+category: Life Science
+difficulty: MS
+seen: 10
+answer: Fungi
+
+Of what kingdom are yeast members?
+
+----
+num: 18
+category: Math
+difficulty: HS
+fixed: -1
+seen: 26
+answer: They Don’t (Accept: They’re Parallel, Null Set, Empty Set)
+
+Where do the lines y = (2x/3) + 5 and 3y = 2x - 21 intersect?
+
+----
+num: 18
+category: Math
+difficulty: HS
+seen: 24
+answer: (4,0)  Also Accept: X = 4 and Y = 0
+
+Where do the lines 3x - 4y =12 and 5x + 4y =20 intersect?
+
+----
+num: 20
+category: Earth and Space
+difficulty: HS
+seen: 47
+answer: Antarctica
+
+The world’s largest desert is on which continent?
+
+----
+num: 20
+category: Earth and Space
+difficulty: HS
+seen: 47
+answer: Dark Color
+
+What property of many meteors makes Antarctica a good place to go meteor hunting?
+
+----
+num: 20
+category: Math
+difficulty: MS
+seen: 6
+answer: 2
+
+Simplify (read as: one third divided by one sixth)
+
+----
+num: 20
+category: Math
+difficulty: MS
+seen: 6
+answer: 1260
+
+What is the fifth positive integer multiple of 252?
+
+----
+num: 22
+category: Energy
+difficulty: HS
+seen: 35
+answer: Pyruvate (Read As: Py-Ruh-Vayt) [Accept: Pyruvic (Read As: Py-Ruh-Vik) 
+Acid, Ch
+^3coco
+^2h]
+
+What is the final three -carbon product of glycolysis?
+
+----
+num: 22
+category: Energy
+difficulty: HS
+seen: 35
+answer: Lactic Acid
+
+Which acidic compound is the major product of fermentation in skeletal muscle?
+
+----
+num: 22
+category: General Science
+difficulty: MS
+seen: 5
+answer: 2
+
+How many protons does an atom of helium have?
+
+----
+num: 23
+category: Math
+difficulty: HS
+seen: 24
+answer: 30
+
+Two triangles are similar. If the smaller one has a perimeter of 18 and the ratio between them is 5:3 (read as: 5 to 3), what is the perimeter of the larger triangle?
+
+----
+num: 23
+category: Math
+difficulty: HS
+seen: 25
+answer: 19
+
+
+If all of the interior angles of a polygon sum to 3060 degrees, how many sides does the polygon have?
+
+----
+num: 24
+category: Math
+difficulty: MS
+seen: 6
+answer: 1440
+
+The dimensions of a rectangular prism are 12 centimeters by 12 centimeters by 10 centimeters. What is its volume in cubic centimeters?
+
+----
+num: 25
+category: Earth and Space
+difficulty: HS
+seen: 48
+answer: Ice
+
+Saturn's rings are made mostly of:

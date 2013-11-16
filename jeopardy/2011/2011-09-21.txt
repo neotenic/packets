@@ -1,0 +1,383 @@
+####
+tournament: #6208
+round: Show #6208 - Wednesday, September 21, 2011
+year: 2011
+date: 2011-09-21
+####
+
+num: 1
+category: Literature
+difficulty: 200
+seen: 4
+answer: Honestly
+
+Olivia Newton-John:.
+
+----
+num: 2
+category: Trash
+difficulty: 200
+seen: 5
+answer: a vinaigrette
+
+This dressing meaning "little vinegar" looks positively slimming on you.
+
+----
+num: 3
+category: Literature
+difficulty: 200
+seen: 4
+answer: the Statue of Liberty
+
+"From her beacon-hand glows world-wide welcome" is part of a poem found on a plaque at this landmark.
+
+----
+num: 4
+category: Science
+difficulty: 200
+seen: 7
+answer: a roadrunner
+
+In 2008 an IBM supercomputer named for this speedy state bird broke the 1 petaflop barrier--that's really fast.
+
+----
+num: 5
+category: Literature
+difficulty: 400
+seen: 4
+answer: (E.M.) Forster
+
+A book by him begins, "'The signora had no business to do it... she promised us south rooms with a view"'.
+
+----
+num: 6
+category: Trash
+difficulty: 400
+seen: 6
+answer: Paul Newman
+
+There are just 35 fat calories in a 2 tbsp. serving of this actor's own Lighten Up Honey Mustard Dressing.
+
+----
+num: 7
+category: Science
+difficulty: 400
+seen: 5
+answer: Linux
+
+Most modern supercomputers run on this operating system developed by Linus Torvalds.
+
+----
+num: 8
+category: Literature
+difficulty: 600
+seen: 4
+answer: Fielding
+
+His wife Charlotte was the inspiration for "Amelia" & for Sophia in "Tom Jones".
+
+----
+num: 9
+category: Literature
+difficulty: 600
+seen: 4
+answer: Man
+
+Salt-N-Pepa with En Vogue:.
+
+----
+num: 10
+category: Trash
+difficulty: 600
+seen: 5
+answer: French
+
+Zut alors!  One ounce of this "national" dressing at Sizzler has 12 grams of fat!.
+
+----
+num: 11
+category: Literature
+difficulty: 600
+seen: 4
+answer: (R.L.) Stine
+
+In 1992 this author launched his "Goosebumps" series with "Welcome to Dead House".
+
+----
+num: 12
+category: Science
+difficulty: 600
+seen: 6
+answer: cryptography
+
+In 1998 Deep Crack, designed for this science from the Greek for "hidden writing", broke the standard U.S. data cipher.
+
+----
+num: 13
+category: Literature
+difficulty: 800
+seen: 4
+answer: the River Floss
+
+In a George Eliot novel, the Tullivers owned a mill on this river.
+
+----
+num: 14
+category: Trash
+difficulty: 800
+seen: 4
+answer: ranch
+
+Git along to the gym, little dogie!  If you saddle up 2 tbsp. of Kraft's buttermilk this, you've roped in 140 fat calories.
+
+----
+num: 15
+category: Literature
+difficulty: 800
+seen: 4
+answer: Elijah
+
+At a Seder dinner, a ceremonial cup of wine is left for this prophet; a door is opened to welcome him, too.
+
+----
+num: 16
+category: Science
+difficulty: 800
+seen: 6
+answer: parallel processing
+
+Thinking Machines Corp. pioneered this processing --as the geometric name indicates, many processors work side by side.
+
+----
+num: 17
+category: Trash
+difficulty: 1000
+seen: 5
+answer: blue cheese
+
+A Rachael Ray recipe for this "colorful" dairy dressing calls for 1/2 cup heavy cream & 1/2 cup sour cream.
+
+----
+num: 18
+category: Literature
+difficulty: 1000
+seen: 4
+answer: the Day of the Dead
+
+Altars called ofrendas, with flowers & sweets, welcome back souls on this Mexican holiday in November.
+
+----
+num: 19
+category: Trash
+difficulty: 400
+seen: 5
+answer: Bugs Bunny
+
+He munched his first carrot in the 1940 Tex Avery cartoon "A Wild Hare".
+
+----
+num: 20
+category: Literature
+difficulty: 400
+seen: 4
+answer: a mimosa
+
+You might enjoy an orange juice & champagne cocktail while sitting under this tree of the same name.
+
+----
+num: 21
+category: Art
+difficulty: 400
+seen: 4
+answer: chute
+
+This word for an inclined trough is paired with "Ladders" in the name of a board game.
+
+----
+num: 22
+category: History
+difficulty: 400
+seen: 4
+answer: Colorado
+
+Tops on the list is Louisville in Boulder County in this state, not Kentucky--low crime, good jobs & Rockies skiing.
+
+----
+num: 23
+category: History
+difficulty: 800
+seen: 3
+answer: the Whiskey Rebellion
+
+Pennsylvania, 1794:.
+
+----
+num: 24
+category: Trash
+difficulty: 800
+seen: 5
+answer: Trix
+
+In commercials the silly rabbit does manage to pronounce this cereal "abso-fruitalicious".
+
+----
+num: 25
+category: Literature
+difficulty: 800
+seen: 3
+answer: a quaking aspen
+
+This type of aspen derives its name from the way its stalks & leaves rustle in the wind.
+
+----
+num: 26
+category: Art
+difficulty: 800
+seen: 4
+answer: chimney
+
+Smokestack is a synonym for this, from which smoke escapes.
+
+----
+num: 27
+category: Literature
+difficulty: 800
+seen: 4
+answer: airmail stamps
+
+An aerophilatelist.
+
+----
+num: 28
+category: History
+difficulty: 800
+seen: 4
+answer: Massachusetts
+
+Cozy Sharon in this northeast state's Norfolk County is teeming with history: a church there has a Paul Revere bell.
+
+----
+num: 29
+category: History
+difficulty: 1200
+seen: 4
+answer: Irish
+
+Ulster & Wexford, 1798:.
+
+----
+num: 30
+category: Trash
+difficulty: 1200
+seen: 6
+answer: the White Rabbit
+
+Michael Sheen, known for playing Tony Blair, voiced this creature in 2010's "Alice in Wonderland".
+
+----
+num: 31
+category: Art
+difficulty: 1200
+seen: 4
+answer: chicory
+
+This radicchio relative can be dried, roasted & used as a substitute for coffee.
+
+----
+num: 32
+category: History
+difficulty: 1200
+seen: 4
+answer: Washington
+
+Mukilteo in this state is in good economic shape & has location, location, location--right on Puget Sound.
+
+----
+num: 33
+category: Trash
+difficulty: 1600
+seen: 6
+answer: Harvey
+
+As Elwood P. Dowd, Jimmy Stewart calls this rabbit companion a "pooka".
+
+----
+num: 34
+category: Literature
+difficulty: 1600
+seen: 4
+answer: oak
+
+As seen in the picture,.
+
+----
+num: 35
+category: Art
+difficulty: 1600
+seen: 4
+answer: chemin-de-fer
+
+The name of this upscale casino game is French for "railroad", from the speed of the game.
+
+----
+num: 36
+category: Literature
+difficulty: 1600
+seen: 4
+answer: corkscrews
+
+A helixophile--these wine-drinking accessories.
+
+----
+num: 37
+category: History
+difficulty: 1600
+seen: 4
+answer: Ohio
+
+The Cuyahoga County city of Solon in this state boasts its own orchestra, a large tax base & great schools.
+
+----
+num: 38
+category: History
+difficulty: 2000
+seen: 5
+answer: Shays\' Rebellion
+
+New England, 1786-87:.
+
+----
+num: 39
+category: Trash
+difficulty: 2000
+seen: 8
+answer: Were-Rabbit
+
+This "rabbit" is in the title of a movie with Wallace & Gromit.
+
+----
+num: 40
+category: Literature
+difficulty: 2000
+seen: 5
+answer: the red maple
+
+Acer rubrum is the scientific name for this colorful state tree of Rhode Island.
+
+----
+num: 41
+category: Literature
+difficulty: 2000
+seen: 6
+answer: matchbooks
+
+A phillumenist--these smoking aids.
+
+----
+num: 42
+category: History
+difficulty: 2000
+seen: 6
+answer: Dartmouth
+
+Victorian homes line the New Hampshire hamlet of Hanover that benefits from its proximity to this Ivy League school.

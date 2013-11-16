@@ -1,0 +1,224 @@
+####
+tournament: VCU Open (Saturday)
+round: The Finals 2.doc
+year: 2010
+####
+
+num: 1
+category: Science
+difficulty: Open
+fixed: None
+seen: 58
+answer: DNA {topoisomerases} [prompt on "{gyrase}"]
+
+Compounds which inhibit the action of these enzymes include camptothecin, etoposide, and doxorubicin, and are thought to be powerful anti-neoplastic agents. Their active sites contain catalytic tyrosine residues, and they are responsible for decatenating interlinked chromosomes. These enzymes manage deviations from the ground state linking number which are induced by transcription bubbles and replication forks. In one mechanism for their action, known as strand passage, a double-stranded break is created and a different segment of DNA is passed through the gap. Another mechanism involves nicking a single strand of DNA and swiveling the other strand around the first, in a controlled rotation. These enzymes generally alter a strand's twist and writhe. For 10 points, name this class of enzymes which reduce torsional stress on strands of DNA by controlling supercoiling, thus altering the DNA's local topology.
+
+----
+num: 2
+category: Literature
+difficulty: Open
+fixed: None
+seen: 35
+answer: {Johann Christian Friedrich Hölderlin}
+
+This writer described how “columns of leaves/burn and stir” next to the title object of a poem that opens with the exhortation “Now is the time for fire!” A character in another of his poems “balanced/the good gifts of the earth and united distant with near” and muses “Say, where is Athens?” Another of his poems wonders what the purpose of night is, save “holy drunkenness” and “frenzied oblivion,” and wonders “who wants poets at all in lean years?” This author of “The Archipelago” wrote a drama in which Hermocrates and Kritias, the ruler of Agrigentum, impel a philosopher to prove his godhood. Along with “Bread and Wine,” and that unfinished drama, The Death of Empedocles, this Hellenophile adapted his letters to Bellarmin and Diotima into an influential novel. For 10 points, name this Romantic author of “The Ister” and Hyperion, the favorite German poet of Nietzsche and Heidegger alike.
+
+----
+num: 3
+category: Fine Arts
+difficulty: Open
+fixed: None
+seen: 40
+answer: Symphony of a {Thousand} [or {Mahler's} Symphony {No.} 8 in {E}-{flat major}]
+
+One section of this symphony is sung by three repenting women who quote the Rose Chorus in their canon. It was originally planned to have concluded by contrasting the sacred nature of an adagio movement entitled “Caritas” with a setting of the pagan hymn “The Birth of Eros.” One of its movements is a setting of a Latin song written in the 9th century by Rabanus Maurus. The two movements of this symphony are connected by the “Accende lumen sensibus” theme, which comes from the fourth stanza of the hymn that its first movement is a setting of, the “Veni, creator spiritus.” This symphony was promoted and nicknamed by Emil Gutmann and its second movement includes a chorus of the Anchorites and soloists voicing the characters Doctor Marianus and Gretchen. It was inspired by Goethe's Faust and included three choirs at its premier. For 10 points, name this massive symphony of Gustav Mahler.
+
+----
+num: 4
+category: Philosophy
+difficulty: Open
+fixed: None
+seen: 40
+answer: {Karl Jaspers}
+
+This man had a series of debates with Rudolf Bultmann about the role of mythology in Christianity. He defined certainty, incorrigibility, and impossibility of content as the three necessary components of a delusion in a work which brought phenomenological sensibilities to psychiatry and helped establish the Heidelberg School, his General Psychopathology. His work labeling “Socrates, Buddha, Confucius, Jesus” as the paradigmatic philosophers was published posthumously by his student Hannah Arendt. He contrasted Heidegger's concept of Dasein with Existenz as the two states of being, and saw his philosophy as a merger of the best parts of Kierkegaard and Nietzsche. He wrote that although perpetrators of war crimes bore the brunt of the blame, all who stood idly by bore some responsibility for Nazi actions in The Question of German Guilt. In his book The Origin and Goal of History, he credited nascent religious ideas with the rise of civilizations between 800 and 200 BC. For 10 points, name this German existentialist and formulator of the Axial Age.
+
+----
+num: 5
+category: Fine Arts
+difficulty: Open
+fixed: 57
+seen: 38
+answer: Jean-Francois {Millet}
+
+This artist first came to prominence in the salon with his Oedipus Taken down from the Tree. He painted a girl with a basket on her head and a boy carrying a bent three pronged pitchfork in his The Walk to Work. This artist depicted ladders leaned up against giant stacks of grain in the background of a lunching group in his painting of Ruth and Boaz. The contrast between the sale of one of this man's paintings and the poverty of his heirs was one of the main grounds for the creation of the droit de suite tax in the 1920s. That painting includes a pitchfork stuck into the ground and a wheelbarrow behind the bowed figures of two peasants and was originally called Prayer for the Potato Crop. Another of his paintings depicts three women bending down to collect scraps of grain from a field. For 10 points, name this Barbizon painter of The Angelus and The Gleaners.
+
+----
+num: 6
+category: Science
+difficulty: Open
+fixed: None
+seen: 56
+answer: {material} derivative [accept {convective derivative}; accept {advective derivative}; accept {substantive derivative}; accept {Lagrangian derivative}; accept {Stokes derivative}; accept {particle derivative}; accept {hydrodynamic derivative}; accept {total derivative}; accept {capital D divided} by {Dt} or equivalents before mention; prompt on {derivative}]
+
+Although not the time derivative, for Kelvin's theorem around a curve, this operator is applied to circulation and results in zero. When applied to total energy, this operator yields time change of heat and of work. The time rate of a property C within a volume fixed in space plus the net flux of the property C passing through a bounding surface is equal to this operator applied to the property C as seen in the Reynolds transport theorem. When this operator is applied on a field, it results in the time partial derivative of the field plus the velocity of the fluid dotted to the gradient of the field. For 10 points, name this operator denoted capital D divided by capital Dt with lowercase t that describes the time rate of change of a property of a fluid as it moves.
+
+----
+num: 7
+category: Literature
+difficulty: Open
+fixed: None
+seen: 36
+answer: La {Gioconda}
+
+The theme from this opera's prelude is repeated in the aria “Voce di Donna,” in which the protagonist's mother thanks another character for saving her from accusations of witchcraft. This opera opens at a regatta and its first act is titled “The Lion's Mouth,” after a statue that the antagonist drops an accusatory letter in. The antagonist is a spy for the inquisition who reveals that he has strangled the elderly La Cieca after the title character follows the aria “Suicidio!” by stabbing herself. This opera's third act is set in The House of Gold, where a host of its characters watch a ballet. The title character is a Venetian singer who repeatedly saves Laura from her jealous husband Alvise although they both love the disguised exile Enzo. For 10 points, name this opera which contains The Dance of the Hours and was written by Amilcare Ponchielli, a work which shares its name with a Da Vinci painting.
+
+----
+num: 8
+category: History
+difficulty: Open
+fixed: None
+seen: 47
+answer: {Nadir} Shah {Afsh?r} [accept {Nader Shah Afsh?r}; accept {N?der Qoli Beg}; accept {Tahm?sp Quli Kh?n} before {Tahm?sp}]
+
+This man signed a treaty with Empress Anna at Ganja, resulting in the restoration of Baku and Darband to this man. He disastrously tried to design a form of Shi-ism called Ja'fari to become the fifth school of Sunnism. This man defeated Topal Osman Pasha near Kirkuk, but was earlier badly defeated at Baghdad. Later, this man captured an enemy king at Karnal and gained the Koh-i-Noor and Darya-ye-Noor diamonds. This man fought numerous campaigns against the Abdali Afghans. He emerged from a shadowy regency at Moghan Plain, overthrowing a ruler whom he had earlier placed on the throne in place of Tahmasp II. In addition to deposing Abbas III, this man saw the weak position of Muhammad Shah against the Maratha Confederacy and took the chance to invade the Mughal Empire. For 10 points, name this man who stole the Peacock Throne and destroyed the Safavids.
+
+----
+num: 9
+category: Literature
+difficulty: Open
+fixed: None
+seen: 35
+answer: {Rebecca}
+
+The narrator of this novel meets her future husband while travelling in Monte Carlo with the American Mrs. Van Hopper. The last entry in the title character's datebook leads to the physician Dr. Baker, who reveals she was dying of cancer and must have been lying about her pregnancy. The narrator of this novel is tricked into wearing the costume of a family ancestor, which ruins a ball because her husband's ex-wife had worn the same thing. That ex-wife had fooled around with her cousin Jack Favell, and divers sent after the wreck of a steamship discover her corpse in a boat riddled with holes. Colonel Julyan decides not to act on his suspicion that Maxim de Winter killed his ex-wife in this novel. It ends with the domineering housekeeper Mrs. Danvers burning the estate of Manderley. For 10 points, name this novel by Daphne du Maurier.
+
+----
+num: 10
+category: Religion
+difficulty: Open
+fixed: None
+seen: 52
+answer: {gurdwaras} [prompt on “{Sikh temples}” or similar answers]
+
+These places are always marked by a triangular orange flag called the nishan which bears an emblem that resembles a khanda. They also generally include a community kitchen called a langar in which all who are hungry sit in a line called a pangat and are served. Most of them include a box called a golak, which sits in the Darbar Hall before an exquisite cloth canopy called a chanai and a gilded gilded platform called the Palki. At these locations, it is considered a high honor to complete a ritual involving waving a fan called a Chaur. They also contain a small bed called a Manji on which rests a book which is covered by an intricate square piece of cloth called a rumalla. That book is afforded these luxuries because it is the SGGS, also known as the living guru or the Adi Granth. For 10 points, name these Sikh holy buildings.
+
+----
+num: 11
+category: Science
+difficulty: Open
+fixed: None
+seen: 57
+answer: {Huffman} algorithm or coding
+
+This algorithm is most efficient when the probability of each input symbol is a negative power of two. Compared to other algorithms in coding theory, this algorithm is most efficient when combining truly random variables. If subtrees are kept on a priority queue by cumulative frequency, this algorithm needs to insert n+1 leaf frequencies onto the queue. It then repeatedly removes the two smallest elements from the queue, unites them into a subtree, and puts that subtree back into the queue, continuing until the queue contains the optimum tree. This technique uses fewer bits to encode more frequently occurring characters and more bits for less frequently occurring characters. For 10 points, name this entropy encoding algorithm used for lossless data compression, used in the audio codec mp3.
+
+----
+num: 12
+category: History
+difficulty: Open
+fixed: 1
+seen: 94
+answer: Pope {Adrian}
+
+The fifth pope of this name was never actually ordained as bishop but is seen in Canto 19 of the Purgatorio, where he laments “how great the mantle weighs” while atoning for his ambition. The second pope of this name followed in the footsteps of Nicholas I in trying to head off a schism by deposing Photius and replacing him with Ignatius. The first pope of this name allied with Charlemagne after being invaded by the Lombards under Desiderius. The sixth pope of this name served only briefly between Leo X and Clement VII, but found time to launch the counter-reformation as the only Dutch pope. Another pope of this name warred with William the Bad of Sicily and crowned Frederick Barbarossa Holy Roman Emperor. For 10 points, give this name taken by a man born Nicholas Breakspear, the only English pope.
+
+----
+num: 13
+category: History
+difficulty: Open
+fixed: None
+seen: 174
+answer: {Mitch Daniels}
+
+This former CEO of the Hudston Institute was nicknamed "The Blade" for his tenacity at budget-cutting as head of the Office of Management and Budget. A devoted motorcyclist who often hosts charity rides with other bikers, this successor to and victor over Joe Kernan called for a unsuccessful 1% tax increase in his first speech as governor, but eventually settled on projects like leasing his state's toll roads to a Spanish-Australian firm and forcing his state to adopt Daylight Savings Time in full. He earned plaudits for reducing wait times at his state's BMV to record lows but recently took flak from the right after calling for a "truce" on social issues to focus on the economy. For 10 points, identify this a current dark horse contender for the 2012 Republican president nomination and popular governor of Indiana.
+
+----
+num: 14
+category: Social Science
+difficulty: Open
+fixed: None
+seen: 35
+answer: {Richard Hoffstadter}
+
+This thinker borrowed a phrase from Theodore Adorno's The Authoritarian Personality to term a phenomenon in which people mask “a profound if largely unconscious hatred of society” in empty vitriol as “The Pseudo-Conservative Revolt.” One book by this man introduced the study of “status anxiety” and argued that the New Deal differed from the Populist and Progressive movements because it was born out of economic hardship instead of prosperity. He claimed that the replacement of puritan with evangelical religion and the nature of Jacksonian egalitarianism were primary causes of a distrust of higher thought in American history. Another essay by this author of The Age of Reform traces anti-Freemason beliefs in nativist movements through the radical McCarthyism of his day to analyze the place of conspiracy theory in US politics. For 10 points, name this author of Anti-intellectualism in American Life and The Paranoid Style in American Politics.
+
+----
+num: 15
+category: Literature
+difficulty: Open
+fixed: 1
+seen: 34
+answer: Sula
+
+The protagonist of this novel cuts off the tip of her own finger to prevent a group of Irish boys from harassing her. Its prologue describes how a slave was tricked into receiving bad land in exchange for completing some arduous tasks. The title character lives with three adopted boys all named Dewey and her uncle Plum, who is doused in kerosene and burned by Eva. The title character sleeps with her best friend's husband Jude Greene after returning from a ten year journey accompanied by a plague of robins. The World War I veteran Shadrack returns to the central town as a heroin addict and marches the streets with a cowbell and a noose every January 3rd, declaring it National Suicide Day. The protagonist of this novel befriends Nel Wright, who witnesses her accidentally drown Chicken Little. For 10 points, name this work set in the Medallion, Ohio neighborhood called The Bottom, a novel by Toni Morrison.
+
+----
+num: 16
+category: History
+difficulty: Open
+fixed: None
+seen: 46
+answer: {Richelieu} [accept {duc} de {Richelieu}]
+
+One member of this family became Governor General of New Russia, which gained him a statue on top of the Odessa Steps. That member's personal friendship with Alexander I influenced the decision to curtail the Russian occupation of France, and he served as the successor of Talleyrand as Prime Minister of France. Another member was part of the Cellarmare Conspiracy and successfully made Marie Anne de Mailly, the youngest of the Nesle sisters, the mistress of Louis XV. In addition to the enemy of Madame Pompadour, the most famous member of this family created the intendant system and signed the Treaty of Barwalde, paying 400,000 Reichstalers yearly to Sweden. He also signed the Peace of Alais before being targeted in the Day of the Dupes by his former ally Marie de Medici. For 10 points, name this family whose most famous member was the “Red Eminence,” an adviser to Louis XIII.
+
+----
+num: 17
+category: Literature
+difficulty: Open
+fixed: None
+seen: 35
+answer: The {Autumn} of the {Patriarch} [or {El otoño del patriarca}]
+
+The title character of this novel has a mother who paints regular birds to pass them off as exotic and sell them. The protagonist has a son named Emmanuel with the nun Leticia, but both are killed by trained dogs in the marketplace. In one incident, the US ambassador gives the title character a wind machine after purchasing the Caribbean Sea and moving it to Arizona. The title character changes the clocks from three to eight in an effort to get over his obsession with the beauty queen Manuela Sanchez. In another episode from this novel, two thousand children used to rig the weekly lottery are drowned at sea. The title character of this work has his mother embalmed and sends her corpse around the country, feuding with the Catholic Church when they refuse to saint her. This novel is composed of six stream of consciousness paragraphs, which each begin with the death of the 107 to 232 year old “General.” For 10 points, name this dictator novel by Gabriel Garcia-Marquez.
+
+----
+num: 18
+category: History
+difficulty: Open
+fixed: 57
+seen: 49
+answer: Alabama
+
+Areas of this state, along with its northern neighbor, attempted to secede from it during the Civil War and form a neutral state called “Nickajack.” A “platform” named for this state was William Yancey's counter to the Wilmot Proviso, and its later politics were dominated by the populist Big Mule-Black Belt coalition. The civil rights era in this state included the deaths of Denise McNair, Carole Robertson, and two others in the bombing of the 16th Street Baptist Church. Vivian Malone and James Hood's integrated its flagship university, despite its governor “standing in the schoolhouse door.” For 10 points, name this state where Ralph Abernathy and Martin Luther King coordinated with Rosa Parks to lead a bus boycott.
+
+----
+num: 19
+category: Mythology
+difficulty: Open
+fixed: None
+seen: 110
+answer: Heracles [or Hercules]
+
+This figure killed the Thracian giant Alcyoneus by incapacitating him with arrows and dragging him out of his homeland of Pallene. He had his weapons stolen by the mischevious Cercopes but let them go when they made him laugh. This character stole the tripod from the oracle of Delphi after its answer concerning the death of Iphitus displeased him. He discovered the location of the apples of the Hesperides by defeating the shape shifter Nereus, and he stole the belt of the Amazon queen Hippolyte because Admete desired it. This hero served the Lydian queen Omphale for three years after accidentally killing his music teacher Linos and the centaur Chiron. This figure died after contacting a tunic smeared in Nessus's blood given to him by Dianara, and his exploits included capturing the Cattle of Geryon and cleaning the Augean Stables for Eurystheus. For 10 points, name this Greek demigod who completed twelve labors.
+
+----
+num: 20
+category: Science
+difficulty: Open
+fixed: 57
+seen: 60
+answer: {placenta}
+
+This structure secretes hydroxysteroid dehydrogenase, which helps prevent excess glucocorticoid from inhibiting its growth. Its outermost layers are composed of syncytio- and cytotrophoblast cells, and it contains a high concentration of prostaglandins. This structure produces neurokinin B and notably does not present MHC antigens, allowing it to escape attack from the immune system. It functions in part as an endocrine organ, producing hormones like its namesake lactogen and somatomammotropin, as well as human chorionic gonadotropin. Tissue from this organ is collected during a process sometimes used instead of amniocentesis, chorionic villi sampling. For 10 points, name this organ possessed by all eutherian mammals, which allows for the exchange of nutrients and waste products between a mother and the developing fetus.
+
+----
+num: 21
+category: Mythology
+difficulty: Open
+fixed: 1
+seen: 112
+answer: {Pecos Bill}
+
+In one story, this figure wrestles the Bear Lake monster before throwing it all the way to Scotland where it becomes the Loch Ness Monster. He comes across crooked prairie dogs, square eggs, and birds with one leg longer than the other on the perfectly smooth Pinnacle Peak, which he uses to create a perpetual motion machine. His love interest rides a giant catfish and he himself becomes leader of the Hell's Gate gang after throwing his horse over his shoulders, using a rattlesnake as a whip, and riding a cougar a hundred miles. He falls in love with Slue-foot Sue and subdues a cyclone with a lasso. He only realizes he is a man after looking in a stream as an adult, after getting separated from his pioneer parents and being raised by coyotes. For 10 points, name this American folk hero and “greatest cowboy of all time.”
+
+----
+num: 22
+category: History
+difficulty: Open
+fixed: 57
+seen: 46
+answer: {Queretaro}
+
+This region's ancient history saw inhabitants named the Otomi build cities at Ranas and El Cerrito; later, one of their leaders, Conin converted to Catholicism, possibly due to the emergence of a Spanish priest holding up a fiery cross during a battle fought without weapons. A notable aqueduct was constructed here in 1736. During the Mexican War of Independence, a woman known as La Corregidora from here warned nearby rebels of an increased Spanish presence, leading to the issuance of the Grito de Dolores in a neighboring state. During the Mexican-American War, a partially namesake city within it served as the capital of Mexico, and the treaty of Guadelupe-Hidalgo was signed there. It is best known for being the site at which Maximilian I chose to fight the forces of Benito Juarez, leading to his capture. For 10 points, name this central Mexican state.

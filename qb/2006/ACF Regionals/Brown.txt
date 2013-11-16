@@ -1,0 +1,214 @@
+####
+tournament: ACF Regionals
+round: Brown.doc
+year: 2006
+####
+
+num: 1
+category: History
+difficulty: College
+fixed: None
+seen: 68
+answer: the {Atlantic Charter}
+
+Among those present at its signing were Alexander Cadogan and Sumner Welles. It included the provision that the participants would “endeavor... to further the enjoyment by all States... of access... to trade and to... raw materials.” Its third point emphasized “the right of all peoples to choose the form of government under which they will live” and its eighth encouraged all nations to abandon militarism. The meeting at which it was adopted also included a discussion of the Lend-Lease Act but it was not adopted by Josef Stalin. FTP, identify this document signed on the Augusta and Prince of Wales off Newfoundland in August 1941 and in which Churchill and Roosevelt laid out the Allies' war aims.
+
+----
+num: 2
+category: Science
+difficulty: College
+fixed: None
+seen: 81
+answer: {monoclonal antibodies} (prompt on {antibodies} before “{HAMA}”)
+
+Commercial examples of these include Vitaxin, which binds to vascular integrin to inhibit angiogenesis and one which binds to tumor necrosis factor-alpha, infliximab. Their usefulness is limited by the HAMA problem and the first step to creating them is finding myeloma cells that cannot synthesize HGPRT. A method to produce them entails fusing a cancerous B-cell with a spleen cell that has already developed a response to a given antigen. FTP, identify these immune-system molecules so named because they are all identical reproductions of the original cell and because they target only one antigen, the invention of which won Kohler and Milstein the 1984 Nobel Prize in Medicine.
+
+----
+num: 3
+category: Fine Arts
+difficulty: College
+fixed: 57
+seen: 70
+answer: {Faust}, opera
+
+Singing “Avant de quitter ces lieux” in the second act of this opera, an officer entrusts his sister to the care of Siebel. In the fourth act, after returning singing “Gloire immortelle,” that officer duels with the title character and in the last act, the title character and his love sing “Oui, c'est toi que j'aime.” The Tintin character Bianca often sings the Jewel Aria from this opera, the third act of which features a ballad about the King of Thule sung by the main female character at a spinning wheel. That character, Marguerite, appears in a vision for the title character in the first act. FTP, identify this opera beginning with the gift of a magic potion of youth and about a deal with Mephistopheles; the masterpiece of Charles Gounod.
+
+----
+num: 4
+category: History
+difficulty: College
+fixed: None
+seen: 74
+answer: the Battle of {Ayn Jalut} (prompt on the {Battle} of the {Spring} of {Goliath} before it's mentioned)
+
+Prior to this battle, the losing side attempted to ally with Christian forces who were forbidden to participate by Pope Alexander IV. Following the execution of envoys in Cairo, the winning forces marched on the losers' position in Galilee. They met at a site that was supposedly the location of David's legendary victory and is known as the Spring of Goliath. The winning side, under Qutuz, used a feint to lure the forces of Kitbuga into a trap, which was sprung by the leading general on the victor's side, Baybars. FTP, identify this battle fought in 1260 between the remnants of Hulagu's Mongol forces and the Mamelukes and which ended the westward expansion of the Mongol empire.
+
+----
+num: 5
+category: Literature
+difficulty: College
+fixed: None
+seen: 61
+answer: The {Overcoat} or {Shinel}
+
+The crumpled pages of this work alert a rescue party to the location of train wreck survivor Ashoke Ganguli in a 2004 novel. This work's protagonist, a short pock-marked man with reddish balding hair, goes home at night to make capital and lower case letters. He later resolves to deprive himself of nighttime tea and other small comforts to supplement the fourty kopecks he had already saved. The protagonist dies delirious in a snowstorm but his ghost returns to rob the Person of Consequence. FTP, all of these events are related to Akaky Akakievich's obsession with the title object in what Nikolai Gogol short story?
+
+----
+num: 6
+category: Science
+difficulty: College
+fixed: None
+seen: 81
+answer: {parsers} (accept {parsing programs})
+
+One example of this class of programs is the operator-precedence type which has difficulty processing symbols with multiple meanings. Top-down ones include the packrat and the LL algorithm while chart ones include the Earley and the CKY algorithms and are frequently used for natural languages. Handle pruning is a technique used in shift-reduce types of them. Some compilers use a namesake generator, such as GNU Bison, to create one of these for each code. These usually operate on the output of a lexical analyzer and themselves output a tree of tokens. FTP, identify these programs that analyze an input sequence and determine its grammatical structure.
+
+----
+num: 7
+category: Mythology
+difficulty: College
+fixed: 57
+seen: 114
+answer: {Balder} or {Baldur} (accept {Phol} before it's mentioned)
+
+In the Merseburg Incantations, this character is also referred to as Phol and is aided by his family when his mount sprains its foot. The Gylfaginning claims that “none may gainsay his judgments” while Saxo Grammaticus held him to be a historical rival of Hotherus in the Gesta Danorum. Due to the treachery of Thokk, and despite the use of Hringhorni, the largest ship in the world, Hermod failed in his mission to retrieve this god. However, the Voluspa foretells his resurrection following Ragnarok. FTP, identify this son of Frigg mistakenly killed by his brother Hoder's mistletoe arrow; the Norse god of beauty.
+
+----
+num: 8
+category: Science
+difficulty: College
+fixed: None
+seen: 77
+answer: {accretion disk}
+
+One of these bodies is combined with an axial magnetic field through a compact object to extract energy in the Blandford-Znajek process. The Eddington limit gives the upper bound for the rate of their formation and, hence, characteristic temperature and the formation of one of them around a black hole at the center of a galaxy gives rise to an active galactic nucleus. In cases such as those involving dwarf novae, the gases in these objects behave like highly viscous fluids; these gases are heated by frictional churning as they dissipate angular momentum, a process especially notable in the Roche lobes of certain binary systems. FTP, identify these circular objects formed when material coalesces around a gravitational source.
+
+----
+num: 9
+category: Religion
+difficulty: College
+fixed: 1
+seen: 57
+answer: transubstantiation
+
+In a discourse against this concept, John Tillotson claimed that a man could do “nothing more unworthily towards a friend.” In the Eastern Orthodox tradition, the notion of metousiosis forms the basis for this concept and Ignatius of Antioch defended it in 106 CE in his Epistle to the Smyrnaean. Exegetical support for it can be found in First Corinthians 11:27, Matthew 26:26-28, and especially John 6:26. Its justification rests on the distinction between accidents and substance and an analogous Anglican doctrine is known as Real Presence. FTP, identify this dogma confirmed by the Fourth Lateran Council that states that the wine and wafer of the Eucharist literally become the blood and body of Christ.
+
+----
+num: 10
+category: Literature
+difficulty: College
+fixed: 1
+seen: 60
+answer: John {Fowles}
+
+In one historical novel, this author depicts Mr. Bartholomew who sends a prostitute, Rebecca Hocknell, to a cave where she gives birth to Shaker founder Ann Lee. Another novel of his centers on Miles Green who, while in a hospital room, believes his nurse to be the muse Erato. Work on a translation of Claire de Duras's Ourika inspired him to begin his most distinguished work. That work is set in this author's home, Lyme Regis, where Ernestina Freeman's fiancé, the amateur paleontologist Charles Smithson, dumps her to obsessively pursue Sarah Woodruff, the title character. FTP, name this recently deceased British author of Mantissa, Maggot, and The French Lieutenant's Woman.
+
+----
+num: 11
+category: Trash
+difficulty: College
+fixed: -1
+seen: 182
+answer: Richard {B. Riddick}
+
+This character is first seen as one of the twelve survivors of the wreck of the Hunter Gratzner, after which he dislocates his shoulders to escape. In a 2004 game by Starbreeze Studios, he escapes from Butcher Bay with the bounty hunter Johns and his special sight is the result of an operation performed on him by Pope Joe. Aeon Flux creator Peter Chung based a short film subtitled Dark Fury on his adventures and, in a more famous appearance, he defeats the Lord Marshall and the Necromongers, finding out in the process that he is a Furyan warrior. FTP, identify this character first appearing in a movie loosely based on Asimov's Nightfall, Pitch Black; a Vin Diesel character whose Chronicles were told in a 2004 David Twohy movie.
+
+----
+num: 12
+category: Literature
+difficulty: College
+fixed: None
+seen: 60
+answer: The {Libation}-{Bearers} or {Choephori}
+
+At the beginning of this work, one character is asked “May you not hurt your enemy when he struck first?” To carry-out his mission, the protagonist plans to “assume the Parnassian dialect” and his former nurse, Cilissa, is sent to fetch the king without his bodyguards following the advice from the chorus that “it is the messenger who makes the bent word straight.” Disguised as a Daulian from Phocis, the main character enters Argos with his friend Pylades and is told to “let Loxias touch [him]” following his murder of his mother and her lover. FTP name this work centering on the vengeance Orestes visits on Aegisthus and Clytemnestra; the second play of Aeschylus' Oresteia, whose title characters are a chorus of women bearing offerings to the grave of Agamemnon.
+
+----
+num: 13
+category: Science
+difficulty: College
+fixed: 57
+seen: 81
+answer: {SN2} (accept {bimolecular nucleophilic substitution} before “{nucleophilic};” prompt on it afterwards)
+
+This pathway has a vanishing small reaction rate for tertiary halides due to steric hindrance so an alternative carbocation pathway is strongly preferred. During reactions of this type, a complete inversion of configuration takes place and, in them, the substituent concertedly attacks opposite the leaving group. One example of them is the reaction of n-butyl bromide with iodide to produce a bromide and n-butyl iodide, while another example is the reaction of chloromethane and sodium hydroxide to produce methanol and sodium chloride. FTP, identify this type of chemical reaction initiated by the approach of an electron donor species and entailing a nucleophilic substitution with two species.
+
+----
+num: 14
+category: Fine Arts
+difficulty: College
+fixed: None
+seen: 69
+answer: The {Great Wave off Kanagawa} or {Fugaku sanjurokkei}: {Kanagawaoki namiura} (or In the {Hollow} of a {Wave off} the {Coast} at {Kanagawa}; be {generous} with the {title}, as {various translations} are acceptable as {long} as {wave} and {Kanagawa} are {present})
+
+This painting was the inspiration for Rilke's poem Der Berg and was also used for the cover of the first edition of Debussy's La mer. This work inverts the traditional meisho-e conventions by placing the famous place in the background and the titular entity in the foreground. Three fishing boats can be seen in this painting, one moving against the titular object and the other two resting in its trough. The background of this work depicts a snow-capped peak which is also depicted in thirty-five other paintings from the same series by this work's artist. FTP, identify this ukio-e print from Thirty-Six Views of Mount Fuji; the most famous painting of Katsushika Hokusai.
+
+----
+num: 15
+category: History
+difficulty: College
+fixed: None
+seen: 72
+answer: {social Darwinism}
+
+In the second part of Ludwig von Mises' book Human Action, Mises claims that this concept should be understood metaphorically and that its tools can only operate in times of peace. Richard Hofstadter traced it in American thought, identifying Lester Ward as one of its main opponents. This two-word concept titles a book with such sections as “Sociology,” “War,” and “Some Natural Rights” written by William Sumner, but its first and best-known proponent was the man who, in his 1864 work Principles of Biology, coined the term “survival of the fittest.” FTP, name this theory most famously advocated by Herbert Spencer and which sought to apply evolutionary methods to the study of society.
+
+----
+num: 16
+category: Literature
+difficulty: College
+fixed: 57
+seen: 59
+answer: {Leaves} of {Grass}
+
+“To pierce intellectual depths” and “to speak” with “the perfect rectitude” “of the movements of animals” were two of its preface's stated objectives. In a later additions to the collection, the author describes how “on a little promontory... stood, isolated” “A Noiseless Patient Spider” and how, “Aroused and angry,” he resigned himself “To sit by the wounded and soothe them, or silently watch the dead” The fifty-second and final section of its first poem begins “The spotted hawk swoops by and accuses me” before “over the roofs of the world” the untamed poet sounds his “barbaric yawp.” FTP, name this quintessential American poetry collection by Walt Whitman.
+
+----
+num: 17
+category: Science
+difficulty: College
+fixed: -1
+seen: 79
+answer: {phase transitions} (accept equivalents, prompt on {transitions})
+
+The symmetry-preserving Kosterlitz-Thouless type of these occurs in two-dimensional superconductors. Mean-field theories break down in the vicinity of these events, leading to inaccuracies in the Ehrenfest scheme by which they are classified. In the neighborhood of these, fluids may exhibit critical opalescence. Those involving latent heat are known as first-order; the second-order ones are continuous and include the one between paramagnetism and ferromagnetism and the one between viscous flow and superfluidity. FTP, identify these physical events typically characterized by a critical point such as the Curie temperature and some common examples of which are the boiling and freezing of water.
+
+----
+num: 18
+category: History
+difficulty: College
+fixed: 57
+seen: 72
+answer: {Masinissa}
+
+This man changed sides after being ousted by a pretender and hiding out in the Lesser Syrtis region and he won an early victory when he came to the aid of Indibilis, Prince of the Ilergetes. As the second-in-command to Laelius, he coordinated the burning of the camp of Syphax and led the left wing at the battle of the Great Plains. Confirmed as king by the Senate in 203 BCE, this son of Gaia built on his predecessor's founding of Siga and Cirta to build his empire. However, he is most famous for having led the right cavalry wing at a 202 BCE battle against Hannibal. FTP, identify this chieftain of the Massyles and grandfather of Jugurtha; one of the victors at Zama and the founder of the Numidian kingdom.
+
+----
+num: 19
+category: History
+difficulty: College
+fixed: None
+seen: 70
+answer: {Fugitive Slave Acts} or (or {Fugitive Slave} Laws)
+
+An attempt to take advantage of it led to the death of Edward Gorsuch and the Christiana riots that erupted in the aftermath. State legislation attempting to counteract it was held to be unconstitutional in Prigg v. Pennsylvania. One provision of a piece of legislation with this name stipulated a payment of ten dollars when a certificate was granted but only five dollars when it was refused and Abraham Lincoln supported a version of this legislation in his 1854 Peoria speech. A later law with this name was one component of the Compromise of 1850, but the first law with this name was created in 1793 in response to the kidnapping of John Davis. FTP, identify the common name of these two laws which stipulated penalties for aiding escaped slaves.
+
+----
+num: 20
+category: Science
+difficulty: College
+fixed: None
+seen: 82
+answer: Euler {gamma} function
+
+This mathematical object can be approximated with the Lanczos formula and represented in the Weierstrass form. The Legendre duplication formula gives the relationship between this function for an argument and for twice that argument, and its product with itself is given by the Gauss multiplication formula. It can be defined through a power series whose kth coefficient is proportional to the Riemann zeta function evaluated at k. Its values for half-integer arguments are proportional to the square root of pi and, as a function of z, it is typically given as the integral from 0 to infinity of t to the z minus 1, times e to the minus t, dt. FTP, identify this mathematical function; a generalization of the factorial to the complex numbers.
+
+----
+num: 21
+category: Fine Arts
+difficulty: College
+fixed: None
+seen: 63
+answer: the {Venus} de {Milo} (or the {Venus} of {Melos} or the {Aphrodite} of {Melos})
+
+It was said to be the model of the android Hadaly in Villiers de L'Isle-Adam's Tomorrow's Eve and the first paper written on it was by Antoine Quatremere. A tabletop replica of this work is the object of admiration in Honore Daumier's The Connossieur. Its missing plinth was depicted in a drawing by Auguste Debay; this helped classify this work as Hellenistic rather than Classical, as believed by Louis Forbin, the director of the Louvre at the time of its discovery. Due to the efforts of Adolf Furtwangler, who conjectured that this statue originally held a golden apple, it is now believed to have been sculpted by Alexandros of Antioch. FTP, identify this statue discovered on an Aegean island by a Greek farmer and easily recognized due to its missing arms.

@@ -1,0 +1,214 @@
+####
+tournament: HSAPQ Tournament 8
+round: tourn8-15.pdf
+year: 2009
+####
+
+num: 1
+category: Science
+difficulty: HS
+fixed: 1
+seen: 492
+answer: temperature
+
+A drop in this quantity in the universe allowed for the ability to form hydrogen atoms. The value for this quantity known as the lambda point separates helium I from the superfluid helium II. This quantity is related to a particle's speed by the (*) Maxwell-Boltzmann distribution, and is measured by the Rankine scale. Gay-Lussac's Law states that pressure is directly proportional to it. For 10 points, name this quantity measured by the Kelvin and Fahrenheit scales.
+
+----
+num: 2
+category: History
+difficulty: HS
+fixed: 57
+seen: 419
+answer: Massachusetts
+
+Citizens of this state freed Anthony Burns in open defiance of the Fugitive Slave Act. Horace Mann reformed the public schools of this state, which was the site of the Utopian community Brook Farm. The American industrial revolution was sparked by textile mills built in this state's city of (*) Lowell. The Missouri Compromise separated Maine from this state, which was represented by Senators Charles Sumner and Daniel Webster. For 10 points, name this state where the American Revolution began with battles at Lexington and Concord.
+
+----
+num: 3
+category: Science
+difficulty: HS
+fixed: -1
+seen: 479
+answer: {meiosis}
+
+The primitive kidney produces retinoic acid, which stimulates this process in females and suppresses it in males. A prolonged resting phase during this process is known as the dictyotene stage, and the Edward and Klinefelter syndromes result from (*) nondisjunction during it. This process results in oogenesis and spermatogenesis, and this process as a whole evolved from the binary fission of prokaryotes. Resulting in the creation of four haploid daughter cells, for 10 points, name this type of cell division whose second stage is very similar to mitosis.
+
+----
+num: 4
+category: Literature
+difficulty: HS
+fixed: 1
+seen: 451
+answer: Pablo {Neruda} [or {Neftalí Ricardo Reyes Basoalto}]
+
+In one poem by this author, the narrator concludes "speak through my words and my blood" after "scal[ing] the ladder of the earth" to reach the title location. This poet concluded a set of poems with one that begins "Tonight I can write the saddest lines." This author wrote poems "to Conger Chowder" and "to an Artichoke" as part of his Elemental Odes, and included "The Heights of Macchu Picchu" in his collection (*) Canto general. For 10 points, name this Chilean poet of Twenty Love Poems and a Song of Despair.
+
+----
+num: 5
+category: Philosophy
+difficulty: HS
+fixed: 1
+seen: 521
+answer: Martin {Heidegger}
+
+Some of this thinker's lesser known works include "What Are Poets For?" and "The Origin of the Work of Art." He succeeded Edmund Husserl as the chair of philosophy at Freiburg University, where he delivered the speech "What is Metaphysics?" His key idea consists of a person's existentiality, fallenness and thrownness, and is called (*) dasein. For 10 points, name this Nazi-sympathizing German philosopher who never finished his magnum opus Being and Time.
+
+----
+num: 6
+category: History
+difficulty: HS
+fixed: 1
+seen: 418
+answer: Charles André Joseph Marie {de Gaulle}
+
+This leader criticized another country's military in his Discord Among the Enemy, while this man criticized his own country's lack of a mobile, professional army in his The Army of the Future. This successor of René Coty opposed Britain's entry into the European Economic Community, and problems in (*) Algeria brought this man to power a second time with the creation of the Fifth Republic. For 10 points, name this man who worked against the Vichy Regime as leader of the Free French during World War II.
+
+----
+num: 7
+category: Fine Arts
+difficulty: HS
+fixed: 57
+seen: 496
+answer: string {quartet}
+
+Alexander Borodin's second work of this type has a third movement “Nocturne” and is in D major. Beethoven's Grosse Fugue was written for this ensemble. One of these by the man who is credited with inventing their form includes the melody of “Deutschland Uber Alles” and is called the “Emperor.” Franz Schubert wrote one that has a movement of variations on his song (*) “Death and the Maiden.” The four movement works named for these ensembles were written with lots of plucking by Bartok, and Haydn “fathered” them. For 10 points, name this ensemble of a cello, a viola, and two violins.
+
+----
+num: 8
+category: Science
+difficulty: HS
+fixed: 1
+seen: 488
+answer: {Bernoulli's} principle
+
+This equation is applied to find delta-P in one derivation of the Kutta-Joukowski theorem. A limited derivation of this statement can be found by integrating Euler's equation, and a special version of this statement manifests itself in the Venturi effect. Pitot tubes use this principle to measure (*) velocity. It states that the conservation of energy mandates that the sum of kinetic energy density, potential energy density, and pressure is a constant along a streamline, under a steady flow with incompressible fluids. For 10 points, name this principle named for a Swiss scientist, which helps explain how an airfoil creates lift.
+
+----
+num: 9
+category: Fine Arts
+difficulty: HS
+fixed: 57
+seen: 490
+answer: {dogs} [or {clear}-{knowledge} equivalents]
+
+One of Goya's Black Paintings depicts one of these creatures drowning in sand. One of them is present at the titular event in Courbet's Burial at Ornans, and one stands on the bank of a river in Constable's The Hay Wain. One representing fidelity appears at the bottom of The (*) Arnolfini Wedding, and another lies at the foot of a bed in Venus of Urbino. For 10 points, name these creatures who, in a series by C.M. Coolidge, are depicted playing poker.
+
+----
+num: 10
+category: History
+difficulty: HS
+fixed: None
+seen: 425
+answer: Finland [or {Suomi}]
+
+J.K. Paasikivi and Urho Kekkonen developed this nation's neutral stance during the Cold War. The Lapua Movement pushed for a coup following this nation's Civil War, which was won by the Whites. This nation violated the democratic peace theory in the (*) Continuation War, which followed a war in which this nation used the motti strategy to win the Battle of Suomussalmi. Site of fighting in the Ladoga Karelia and the Mannerheim Line, for 10 points, name this Scandinavian country invaded by the Soviet Union in the Winter War.
+
+----
+num: 11
+category: Literature
+difficulty: HS
+fixed: 1
+seen: 442
+answer: Thomas Stearns {Eliot}
+
+The speaker of one poem by this author fears "Eyes I dare not meet in dreams," which supposedly do not appear "in death's dream kingdom." This poet wrote "in the beginning is my end" in a poem divided into sections such as "The Dry Salvages" and "Burnt Norton." The narrator of another poem by this author wonders (*) "Do I dare / disturb the universe?" This author wrote "this is the way the world ends / not with a bang, but a whimper" in his poem "The Hollow Men." For 10 points, name this American-born British poet of "The Love Song of J. Alfred Prufrock" and "The Waste Land."
+
+----
+num: 12
+category: Science
+difficulty: HS
+fixed: 1
+seen: 490
+answer: {retina}
+
+Although it is not the cochlea, this structure has some neuronal cells linked by ribbon synapses. Blood flow in this structure's capillaries can be measured using blue field entoptoscopy to test for Scheerer's phenomenon. The inner and outer plexiform layers are part of this structure, which contains a red dot in Tay-Sachs patients and is subdivided into the (*) fovea and macula. At the point where the optic nerve exits this structure, a blind spot occurs. For 10 points, name this light-sensitive tissue in the inner surface of the eye, which contains photoreceptors like rods and cones.
+
+----
+num: 13
+category: History
+difficulty: HS
+fixed: -1
+seen: 418
+answer: Republic of {South Africa}
+
+In this country, the Dutch native Henrik Verwoerd was assassinated by Dimitri Tsafendas, and members of the “Spear of the Nation” were charged with conspiracy in the Rivonia Trials. Steve Biko was killed by police in this country, and a protest by people who wanted to be taught in English led to police violence in (*) Soweto. The treaty of Vereeniging ended the independence of the Orange Free State and the Transvaal in this modern day country, which had been settled by Boers who spoke Afrikaans. For 10 points, name this country that ended apartheid soon before Nelson Mandela became its first black president.
+
+----
+num: 14
+category: Science
+difficulty: HS
+fixed: 57
+seen: 481
+answer: ideal gas law
+
+This law was first derived by Benoit Clapeyron, and its namesake constant is equal to the Boltzmann constant multiplied by Avogadro's number, which equals approximately 8.3 joules per mole Kelvin. A modification of this law takes into account attractive forces and particle volume and is named for (*) van der Waals. It can be thought of as a combination of Avogadro's, Boyle's, and Charles's laws. For 10 points, name this equation of state approximating behavior of its namesake state of matter, often represented as PV equals nRT.
+
+----
+num: 15
+category: Fine Arts
+difficulty: HS
+fixed: 1
+seen: 490
+answer: Felix {Mendelssohn}
+
+This composer's piano pieces include three "Venetian boat songs," "Spinning Song," and "Spring Song." This composer's fourth symphony ends with a lively saltarello, and his short piano pieces are collected in his Songs Without Words. This composer wrote a Bergomask representing the dance of (*) Nick Bottom and a famous Wedding March based on a Shakespeare play set in the forest of Arden. For 10 points, name this nineteenth century German composer of the "Italian" symphony and incidental music to A Midsummer Night's Dream.
+
+----
+num: 16
+category: Literature
+difficulty: HS
+fixed: 1
+seen: 443
+answer: August {Wilson}
+
+In one play by this author, "Schoolboy" Barton records "That's All Right" and dumps Vera, but is arrested when walking from his mother's funeral. This author wrote a play about Boy Willie, who wants to sell an instrument that Berniece insists on keeping. This author of Two Trains Running and (*) Seven Guitars wrote a play that includes the never-seen Alberta, who has an affair with the man married to Rose, garbageman Troy Maxson. For 10 points, name this author of the "Pittsburgh Cycle," which includes The Piano Lesson and Fences.
+
+----
+num: 17
+category: Mythology
+difficulty: HS
+fixed: -1
+seen: 778
+answer: Hermes
+
+One of this god's sons pursued the nymph Syrinx, causing her to turn into reed pipes. This god killed the giant Argos in order to allow Zeus to abduct Io, and gave the herb moly to Odysseus to help him defeat Circe. This father of Priapus and (*) Pan was the god of trade and thieves, and traveled on a pair of winged sandals. For 10 points, name this messenger of the Greek gods, whose Roman equivalent was Mercury.
+
+----
+num: 18
+category: Literature
+difficulty: HS
+fixed: -1
+seen: 444
+answer: William Gerald {Golding}
+
+In one novel by this author, Mr. Campbell and Mr. Davidson notice that the title character failed to take off his seaboots, despite that character's memory of a World War II stranding at sea. This author also wrote a novel in which the discovery of a downed airman leads to the death of Simon. In that work by this author, (*) Roger lets loose a boulder that crushes Piggy and the conch. For 10 points, name this author of Pincher Martin, who also wrote about a group of British boys like Ralph and Jack who lose control on an island without adult supervision in Lord of the Flies.
+
+----
+num: 19
+category: Philosophy
+difficulty: HS
+fixed: 1
+seen: 518
+answer: Bishop George {Berkeley}
+
+This thinker defended Christianity against freethinkers in Alcipheron and attacked the notion of fluxions and their use in calculus in The Analyst. He argued that human knowledge exists of only ideas and spirits in one work and argued against the rational (*) materialism of Locke in another. He most famously claimed that esse est precipi or "to be is to be perceived". For 10 points, name this idealist English philosopher, the author of Three Dialogues Between Hylas and Philonous, and namesake of a university in California.
+
+----
+num: 20
+category: History
+difficulty: HS
+fixed: 57
+seen: 420
+answer: {Richard} I (or {Richard} the {Lionhearted})
+
+This leader won the siege of Taillebourg after a failed revolt with his brothers Henry and Geoffrey against his father. He defeated Isaac Komnenos to take control of Cyprus, which led to his capture by Leopold V, Duke of Austria, who ransomed him to his mother. This ruler gave power to William Longchamp in his absence and spent his final years battling a former ally, (*) Phillip II of France. This son of Eleanor of Aquitaine was succeeded by King John. For 10 points, name this English king who fought Saladin in the Third Crusade, known for a fiery epithet.
+
+----
+num: 21
+category: Literature
+difficulty: HS
+fixed: 1
+seen: 444
+answer: Republic of {Poland} [or Rzeczpospolita {Polska}]
+
+A novel from this country focuses on Dr. Pimko, who turns the kidnapped writer Johnnie into a young boy, and is called Ferdydurke. An author from this country wrote the historical novel The Teutonic Knights and a novel about Nero's arbiter Petronius, (*) Quo Vadis. The title character of Sophie's Choice is from this country, which was the birthplace of Isaac Bashevis Singer. For 10 points, name this country home to Witold Gombrowicz and Henryk Sienkiewicz, which is the setting of all novels about Auschwitz.

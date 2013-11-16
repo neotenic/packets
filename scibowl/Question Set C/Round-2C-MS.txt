@@ -1,0 +1,319 @@
+####
+tournament: Question Set C
+round: Round-2C-MS.pdf
+####
+
+num: 1
+category: Physical Science
+difficulty: MS
+seen: 5
+answer: Acceleration
+
+What is the most common scientific term for a change in velocity over time?
+
+----
+num: 1
+category: Physical Science
+difficulty: MS
+seen: 5
+answer: 1,000
+
+What is the mass, in grams, of a 1 kilogram object on a planet with a gravitational force of 3 meters per second squared?
+
+----
+num: 2
+category: Earth Science
+difficulty: MS
+seen: 8
+answer: Water
+
+What molecular substance is primarily responsible for moderating wide changes in temperatures on Earth?
+
+----
+num: 3
+category: Math
+difficulty: MS
+seen: 6
+answer: Multiplicative Inverse = !
+53
+;  Additive Inverse = 
+35
+
+What are the multiplicative inverse and additive inverse of !35,
+respectively?
+
+----
+num: 3
+category: Math
+difficulty: MS
+seen: 6
+answer: 75 Cents
+
+If 12 gallons of gasoline costs $36.00, what would 1 quart cost, in cents?
+
+----
+num: 5
+category: Life Science
+difficulty: MS
+seen: 10
+answer: Canine
+
+Found in humans and quite prominent in dogs, what is the name of the conical-shaped tooth used in tearing muscle and other foods and assisting in cutting?
+
+----
+num: 5
+category: Life Science
+difficulty: MS
+seen: 10
+answer: 4
+
+How many canine teeth do humans typically have in early adulthood?
+
+----
+num: 6
+category: Physical Science
+difficulty: MS
+seen: 5
+answer: Atomic Mass = 13;  Net Charge = –1
+
+What is the atomic mass rounded to the nearest whole number and the net charge of an ion with 7 protons, 6 neutrons, and 8 electrons?
+
+----
+num: 8
+category: Math
+difficulty: MS
+seen: 7
+answer: 36
+
+If on average 6 people drink two-thirds of a gallon of lemonade, how many people will drink 4 gallons?
+
+----
+num: 9
+category: General Science
+difficulty: MS
+seen: 6
+answer: Water
+
+What molecular substance is typically considered the most critical for life to exist on another planet?
+
+----
+num: 9
+category: General Science
+difficulty: MS
+seen: 6
+answer: Barnacles;  Corals
+
+Name all of the following 4 organisms that are typically filter feeders in an aquatic environment: barnacles; corals; frogs; kelp
+
+----
+num: 10
+category: Life Science
+difficulty: MS
+seen: 11
+answer: Lipid
+
+If the 4 main classes of biological molecules are protein, lipid, carbohydrate, and nucleic acid, which would butter be classified as?
+
+----
+num: 10
+category: Physical Science
+difficulty: MS
+seen: 5
+answer: Glucose
+
+Cellulose is a polymer of what 6-carbon sugar?
+
+----
+num: 11
+category: Physical Science
+difficulty: MS
+seen: 6
+answer: Water;  Pure Olive Oil;  Pure Honey
+
+Order the following 3 liquids from the one with the 
+LOWEST viscosity to the one with the HIGHEST viscosity at room temperature: pure olive oil; water; pure honey
+
+----
+num: 11
+category: Physical Science
+difficulty: MS
+seen: 5
+answer: Water and Carbon Dioxide
+
+Name all of the following 4 choices that are compounds:water; antimony; carbon dioxide; mercury
+
+----
+num: 12
+category: Earth Science
+difficulty: MS
+seen: 8
+answer: Granite and Basalt
+
+Of the following 5 choices, name 2 that are igneous rocks: rock salt; granite; basalt; sandstone; gypsum
+
+----
+num: 13
+category: Math
+difficulty: MS
+seen: 7
+answer: 59
+18
+
+Change the following mixed number into an improper fraction: 3185
+
+----
+num: 13
+category: Math
+difficulty: MS
+fixed: -1
+seen: 6
+answer: –22
+
+Evaluate the following expression: –6 × 3 + –16 ÷ 4
+
+----
+num: 14
+category: General Science
+difficulty: MS
+seen: 5
+answer: 6.34  × 10^5
+
+Convert the following value into standard scientific notation: 0.00634 × 10^8
+
+----
+num: 14
+category: General Science
+difficulty: MS
+seen: 6
+answer: 12.1
+
+Multiply the following 2 values, giving your answer in the correct number of significant figures: 10.1 × 1.201
+
+----
+num: 15
+category: Life Science
+difficulty: MS
+seen: 11
+answer: Gravity
+
+Geotropism is a response of plants to what external force?
+
+----
+num: 15
+category: Life Science
+difficulty: MS
+seen: 9
+answer: Monocots and Dicots  (Accept: Monocotyledons and 
+Dicotyledons )
+
+Flowering plants are grouped into what 2 classes named after their number of seed leaves?
+
+----
+num: 16
+category: Physical Science
+difficulty: MS
+seen: 6
+answer: 1
+
+What is the ideal mechanical advantage of a single fixed pulley?
+
+----
+num: 17
+category: Earth Science
+difficulty: MS
+seen: 8
+answer: Crust  (Accept:  Continental And/or Oceanic Crust)
+
+The lithosphere is made up of the uppermost mantle and what other layer?
+
+----
+num: 18
+category: Math
+difficulty: MS
+fixed: -1
+seen: 5
+answer: 1 5
+
+What is the sum of all odd one-digit prime positive numbers?
+
+----
+num: 20
+category: Life Science
+difficulty: MS
+seen: 10
+answer: Vein
+
+What general type of human blood vessel returns blood to the heart?
+
+----
+num: 21
+category: Physical Science
+difficulty: MS
+seen: 6
+answer: 1
+
+How many protons does the heaviest isotope of hydrogen have?
+
+----
+num: 21
+category: Physical Science
+difficulty: MS
+seen: 6
+answer: Boiling Point  (Accept: Condensation Point)
+
+Distillation depends mostly upon what physical property?
+
+----
+num: 22
+category: Earth Science
+difficulty: MS
+seen: 8
+answer: Venus
+
+On which of the terrestrial planets does the Sun rise in the west?
+
+----
+num: 23
+category: Math
+difficulty: MS
+seen: 6
+answer: 150
+
+How many U.S. quarters equal 750 U.S. nickels?
+
+----
+num: 23
+category: Math
+difficulty: MS
+fixed: -1
+seen: 7
+answer: 33;  63
+
+Name all of the following 5 numbers that are composite numbers:3, 11, 33, 53, 63
+
+----
+num: 24
+category: General Science
+difficulty: MS
+seen: 5
+answer: 100
+
+Convert 100 milliliters into cubic centimeters:
+
+----
+num: 24
+category: General Science
+difficulty: MS
+seen: 6
+answer: 355
+
+At standard temperature and pressure, how many grams, rounded to the nearest whole number, does the contents in a 12 ounce or 355 milliliter water bottle weigh?
+
+----
+num: 25
+category: Life Science
+difficulty: MS
+seen: 11
+answer: Chromosome
+
+What is the most common name for the polymers of DNA and associated proteins that are found in the eukaryotic nucleus?

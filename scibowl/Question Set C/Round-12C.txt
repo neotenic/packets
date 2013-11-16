@@ -1,0 +1,289 @@
+####
+tournament: Question Set C
+round: Round-12C.pdf
+####
+
+num: 1
+category: Physics
+difficulty: HS
+seen: 25
+answer: 3
+
+The cosmic background radiation discovered by Penzias and Wilson closely matches the radiation from a black body with what temperature Kelvin, to the nearest whole number?
+
+----
+num: 2
+category: Chemistry
+difficulty: HS
+seen: 33
+answer: Nh^3;  Ch^3oh
+
+Name all of the following 4 compounds that exhibit hydrogen bonding: CH^4; H^2S; NH^3; CH^3OH
+
+----
+num: 3
+category: Biology
+difficulty: HS
+fixed: -1
+seen: 38
+answer: 1,  2  and 3  (Accept:  All but #4)
+
+By number or name, identify all of the following 4 processes that contribute directly to genetic variation in humans: 1) random fertilization of ova with sperm; 2) crossing over; 3) independent assortment; 4) mitosis
+
+----
+num: 4
+category: Math
+difficulty: HS
+fixed: -1
+seen: 24
+answer: 11/36
+
+If you roll 2 fair dice simultaneously, what is the probability, given as a fr action, that you will roll the number 6 on AT LEAST one die?
+
+----
+num: 4
+category: Math
+difficulty: HS
+seen: 24
+answer: 2,160
+(Solution:  (14  – 2)(180) = 2,160º)
+
+Find the sum of all interior angles, in degrees, in a regular polygon having 14 sides:
+
+----
+num: 5
+category: Earth Science
+difficulty: HS
+fixed: -1
+seen: 62
+answer: Exosphere;  Thermosphere;  Stratosphere;  Troposphere
+
+Arrange the following 4 layers of the Earth’s atmosphere in order of INCREASING air pressure: stratosphere; exosphere; thermosphere; troposphere
+
+----
+num: 6
+category: General Science
+difficulty: HS
+fixed: -1
+seen: 32
+answer: Nuclear Magnetic Resonance  (Accept:  Nmr or Magnetic 
+Resonance Spectroscopy)
+
+What is the most common name for the technique that places a molecule in a strong magnetic field, irradiates the molecule with radio waves, and finally detects changes in the spin of atoms in the molecule?
+
+----
+num: 7
+category: Astronomy
+difficulty: HS
+seen: 54
+answer: 250  (Accept:  250x or 250 Times)
+(Solution:  5000mm/20mm = 250)
+
+What is the magnifying power of the telescope with a focal length of 5 meters and an eyepiece of 20 millimeters?
+
+----
+num: 9
+category: Chemistry
+difficulty: HS
+fixed: -1
+seen: 35
+answer: 29
+(Solution:  Mgco^3 = 24 + 12 + (3 × 16) = 84;  24/84 = 28.57%)
+
+Rounded to the nearest whole number, what is the percent of magnesium in magnesium carbonate, given the atomic mass of magnesium is 24 grams per mole?
+
+----
+num: 10
+category: Biology
+difficulty: HS
+seen: 40
+answer: Cell = Basidium;  Product = Basidiospore
+
+In the Amanita mushroom, what is the name of the cell in which karyogamy and meiosis occur and what is the product of meiosis, respectively?
+
+----
+num: 11
+category: Math
+difficulty: HS
+seen: 26
+answer: ±2 2 and ±1  (Accept All:  +2 2, −2 2, +1, -1)
+
+Solve the following equation for x, expressing your answer in simplest radical form over the real numbers: x^4 – 9x^2 + 8 = 0
+
+----
+num: 13
+category: General Science
+difficulty: HS
+seen: 30
+answer: Greening  (Accept:  Citrus Greening)
+
+A relatively new scourge to the citrus growers in Florida, what is the common name of the citrus disease caused by a species of bacteria called C. liberibacterand spread by an introduced non-native insect?
+
+----
+num: 14
+category: Astronomy
+difficulty: HS
+fixed: -1
+seen: 55
+answer: West
+
+A sidereal drive is a motor on a telescope that turns it in a certain direction to keep the telescope aimed at a certain celestial object. Giving your answer as north, south, east or west, in what direction does it turn?
+
+----
+num: 16
+category: Chemistry
+difficulty: HS
+seen: 35
+answer: Co;  Hcl;  Libr;  Kf
+
+Arrange the following compounds in order of INCREASING ionic characteristic: HCl; LiBr; CO; KF
+
+----
+num: 18
+category: Math
+difficulty: HS
+fixed: -1
+seen: 25
+answer: Y =  X
+3− 4
+
+What function is the inverse of y = 3x + 4?
+
+----
+num: 18
+category: Math
+difficulty: HS
+fixed: -1
+seen: 25
+answer: ( 1, 2)  (Accept:  1 and 2)
+
+Giving your answer as an ordered pair, find the solution of the system of the following 2 equations: 2x + 3y = 8, and 3x – 2y = –1
+
+----
+num: 19
+category: Earth Science
+difficulty: HS
+seen: 64
+answer: Oil Shale  (Accept:  Shale)
+
+What is the name for the sedimentary rock that carries high concentrations of organic material in the form of kerogen, which can yield oil when heated and distilled?
+
+----
+num: 20
+category: General Science
+difficulty: HS
+fixed: -1
+seen: 29
+answer: 30% Hydrogen Peroxide
+
+Name all of the following 4 reagents that would NOT be labeled as a highly flammable substance:methanol; diethyl ether; 30% hydrogen peroxide; benzene
+
+----
+num: 20
+category: General Science
+difficulty: HS
+fixed: -1
+seen: 30
+answer: Stress Concentration  (Accept:  Stress Concentrati on at the 
+Change in Diameter)  (Do Not Accept:  Stress)
+
+What engineering term is MOST commonly used to describe why a shaft with a radius at a transition in diameter is stronger than the same shaft with an abrupt transition in diameter?
+
+----
+num: 21
+category: Astronomy
+difficulty: HS
+fixed: -1
+seen: 55
+answer: 81  (Accept:  3 ^4)
+
+If the surface temperature of a given star increased from 20,000K to 60,000K, how many times as much energy would the star release?
+
+----
+num: 21
+category: Astronomy
+difficulty: HS
+seen: 56
+answer: Mercury
+
+Name all of the following 4 celestial objects that, when viewed from the Earth, CANNOT be in opposition: Moon; Mercury; Mars; Neptune
+
+----
+num: 22
+category: Physics
+difficulty: HS
+seen: 25
+answer: N-Type
+
+What specific type of semiconductor is produced by adding phosphorus to silicon?
+
+----
+num: 22
+category: Physics
+difficulty: HS
+fixed: -1
+seen: 26
+answer: 200
+(Solution:  12,000/120 = 20,000/x;  X = 200)
+
+How many turns are in the secondary coil of a transformer that has a primary coil with 20,000 turns and is designed to step down 12,000 volts AC to 120 volts AC?
+
+----
+num: 23
+category: Chemistry
+difficulty: HS
+seen: 34
+answer: 5
+
+The hybridization of one ‘s’ (read as: one <pause> s) orbital and 3 ‘p’ (read as: three <pause> p) orbitals and one ‘d’ (read as: one <pause> d) orbital creates how many sp^3d hybrid orbitals?
+
+----
+num: 23
+category: Chemistry
+difficulty: HS
+fixed: -1
+seen: 35
+answer: 0.08  (Do Not Accept 8.0%)
+(Solution:  100g/18 G Mol ^-^1 = 5.56 Moles;  0.5 mol/(5.56 + 0.5) = 0.0825)
+
+A solution contains 0.50 moles of methanol in 100 grams of water. What is the mole fraction of methanol, to the second decimal place?
+
+----
+num: 24
+category: Biology
+difficulty: HS
+seen: 38
+answer: Hemoglobin  (Accept:  Met-Hemoglobin)
+
+Black water fever is a complication of malarial infection. The term black water comes from what oxidized product in the urine of infected individuals?
+
+----
+num: 24
+category: Biology
+difficulty: HS
+seen: 40
+answer: Helper T Cells;  Cd8 Cells;  Cd4 Cells;  Plasma Cells  
+(Accept:  All)
+
+Name all of the following 4 human blood cells that are considered lymphocytes: helper T cells; CD8 cells; CD4 cells; plasma cells
+
+----
+num: 25
+category: Chemistry
+difficulty: HS
+fixed: -1
+seen: 35
+answer: C = 25%;  H = 50%;  O = 25%
+
+Calculate the atom percent composition, rounded to the nearest whole number, for each atom in acetic acid:
+
+----
+num: 25
+category: Chemistry
+difficulty: HS
+fixed: -1
+seen: 32
+answer: C = 40%;  H = 7%;  O = 53%
+(Solution:  C^= 24/60 × 100% = 40%;  H^= 4/60 × 100% = 6.7%;  O^ = 32/60 × 100% = 53.3%)
+
+Calculate the mass percent composition, rounded to the nearest whole number, for each atom in acetic acid:

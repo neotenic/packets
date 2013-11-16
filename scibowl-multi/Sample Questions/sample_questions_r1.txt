@@ -1,0 +1,315 @@
+####
+tournament: Sample Questions
+round: sample_questions_r1.pdf
+####
+
+num: 3
+category: Physical Science
+difficulty: MS
+answer: Z)  1  Kilogram of Gold
+
+Which of the following has the greatest density:
+W ) 10 kilogram of pure water 
+X) 10 kilogram of aluminum
+Y) 2 kilogram of silver 
+Z) 1 kilogram of gold
+
+----
+num: 3
+category: Physical Science
+difficulty: MS
+answer: Z)  1  Kilogram of Gold
+
+Which of the following has the greatest density:
+W ) 10 kilogram of pure water 
+X) 10 kilogram of aluminum
+Y) 2 kilogram of silver 
+Z) 1 kilogram of gold
+
+----
+num: 8
+category: Earth Science
+difficulty: MS
+answer: X)  Marble
+
+Metamorphism transforms limestone into a metamorphic rock called :
+W) quartzite 
+X) marble 
+Y) hornfel 
+Z) granite
+
+----
+num: 8
+category: Earth Science
+difficulty: MS
+answer: X)  Marble
+
+Metamorphism transforms limestone into a metamorphic rock called :
+W) quartzite 
+X) marble 
+Y) hornfel 
+Z) granite
+
+----
+num: 9
+category: Life Science
+difficulty: MS
+answer: X)  Ear
+
+Which of the following is the region of the body where the stapes bone is located:
+W) ankle 
+X) ear 
+Y) wrist 
+Z) knee
+
+----
+num: 9
+category: Life Science
+difficulty: MS
+answer: X)  Ear
+
+Which of the following is the region of the body where the stapes bone is located:
+W) ankle 
+X) ear 
+Y) wrist 
+Z) knee
+
+----
+num: 11
+category: Math
+difficulty: MS
+answer: Y)  Rhomboid
+
+A parallelogram whose adjacent sides are unequal is a:
+W) deltoid 
+X) rectangle 
+Y) rhomboid 
+Z) monogram
+
+----
+num: 11
+category: Math
+difficulty: MS
+answer: Y)  Rhomboid
+
+A parallelogram whose adjacent sides are unequal is a:
+W) deltoid 
+X) rectangle 
+Y) rhomboid 
+Z) monogram
+
+----
+num: 12
+category: General Science
+difficulty: MS
+answer: Z)  the North Star
+
+Which of the following is NOT seen by reflection of sun light:
+W) the moon 
+X) Mercury 
+Y) Mars 
+Z) the north star
+
+----
+num: 12
+category: General Science
+difficulty: MS
+answer: Z)  the North Star
+
+Which of the following is NOT seen by reflection of sun light:
+W) the moon 
+X) Mercury 
+Y) Mars 
+Z) the north star
+
+----
+num: 13
+category: Physical Science
+difficulty: MS
+answer: W )  Malleable
+
+Metals that can be hammered into thin shee ts are called:
+W ) malleab le 
+X) ductile 
+Y) molten 
+Z) pure
+
+----
+num: 13
+category: Physical Science
+difficulty: MS
+answer: W )  Malleable
+
+Metals that can be hammered into thin shee ts are called:
+W ) malleab le 
+X) ductile 
+Y) molten 
+Z) pure
+
+----
+num: 14
+category: Life Science
+difficulty: MS
+answer: X)  Canines
+
+In mammals, what teeth are evolved prim arily to function in gripping and tearing
+W) incissors 
+X) canines 
+Y) molars 
+Z) wisdom
+
+----
+num: 14
+category: Life Science
+difficulty: MS
+answer: X)  Canines
+
+In mammals, what teeth are evolved prim arily to function in gripping and tearing
+W) incissors 
+X) canines 
+Y) molars 
+Z) wisdom
+
+----
+num: 15
+category: Earth Science
+difficulty: MS
+answer: Y)  Two High Tides and Two Low Tides
+
+Each day, most coastal beaches encounter:
+W) one high tide and one low tide 
+X) two high tides and one low tide 
+Y) two high tides and two low tides 
+Z) three high tides and three low tides
+
+----
+num: 15
+category: Earth Science
+difficulty: MS
+answer: Y)  Two High Tides and Two Low Tides
+
+Each day, most coastal beaches encounter:
+W) one high tide and one low tide 
+X) two high tides and one low tide 
+Y) two high tides and two low tides 
+Z) three high tides and three low tides
+
+----
+num: 18
+category: Earth Science
+difficulty: MS
+answer: Z)  1800
+
+The Earth's mantle is approximately how many miles thick :
+W) 1000 
+X) 1200 
+Y) 1500 
+Z) 1800
+
+----
+num: 18
+category: Earth Science
+difficulty: MS
+answer: Z)  1800
+
+The Earth's mantle is approximately how many miles thick :
+W) 1000 
+X) 1200 
+Y) 1500 
+Z) 1800
+
+----
+num: 19
+category: Life Science
+difficulty: MS
+answer: Z)  Centipede
+
+Which of these organisms in not a kind of worm?
+W) planerian 
+X) fluke 
+Y) leech 
+Z) centipede
+
+----
+num: 19
+category: Life Science
+difficulty: MS
+answer: Z)  Centipede
+
+Which of these organisms in not a kind of worm?
+W) planerian 
+X) fluke 
+Y) leech 
+Z) centipede
+
+----
+num: 20
+category: Math
+difficulty: MS
+answer: X)  Undefined
+
+Four divided by zero is:
+W
+X) undefined ) 4
+Y) 0 
+Z) inf inity
+
+----
+num: 20
+category: Math
+difficulty: MS
+answer: X)  Undefined
+
+Four divided by zero is:
+W
+X) undefined ) 4
+Y) 0 
+Z) inf inity
+
+----
+num: 22
+category: Earth Science
+difficulty: MS
+answer: X)  Butte
+
+A flat-topped plateau bordered on all sides by cliffs is called a:
+W) hillock 
+X) butte 
+Y) drumlin 
+Z) karst
+
+----
+num: 22
+category: Earth Science
+difficulty: MS
+answer: X)  Butte
+
+A flat-topped plateau bordered on all sides by cliffs is called a:
+W) hillock 
+X) butte 
+Y) drumlin 
+Z) karst
+
+----
+num: 23
+category: General Science
+difficulty: MS
+answer: Y)  West to East
+
+The moon moves around the earth traveling prim arily:
+W) east to west 
+X) north to south 
+Y) west to east 
+Z) south to north
+
+----
+num: 23
+category: General Science
+difficulty: MS
+answer: Y)  West to East
+
+The moon moves around the earth traveling prim arily:
+W) east to west 
+X) north to south 
+Y) west to east 
+Z) south to north

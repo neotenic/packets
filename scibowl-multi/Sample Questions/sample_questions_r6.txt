@@ -1,0 +1,291 @@
+####
+tournament: Sample Questions
+round: sample_questions_r6.pdf
+####
+
+num: 1
+category: Life Science
+difficulty: MS
+answer: W)  Lung
+
+Which of the following accounts for the largest increase in cancer death rate in the USA between the years 1900 and 1990:
+W) lung 
+X) breast 
+Y) colon 
+Z) stomach
+
+----
+num: 1
+category: Life Science
+difficulty: MS
+answer: X)  Rosalind Franklin
+
+The structure of DNA proposed by Watson and Crick was partly based on the x-ray work of:
+W) Louis Pasteur 
+X) Rosalind Franklin 
+Y) Linus Pauling 
+Z) Eleonore Rubinstein
+
+----
+num: 1
+category: Life Science
+difficulty: MS
+answer: W)  Lung
+
+Which of the following accounts for the largest increase in cancer death rate in the USA between the years 1900 and 1990:
+W) lung 
+X) breast 
+Y) colon 
+Z) stomach
+
+----
+num: 1
+category: Life Science
+difficulty: MS
+answer: X)  Rosalind Franklin
+
+The structure of DNA proposed by Watson and Crick was partly based on the x-ray work of:
+W) Louis Pasteur 
+X) Rosalind Franklin 
+Y) Linus Pauling 
+Z) Eleonore Rubinstein
+
+----
+num: 2
+category: Physical Science
+difficulty: MS
+answer: X)  an Interference Pattern
+
+If light is passed through two pin holes and the patterns allowed to overlap on a wa ll, the pattern produced by the in tersection of waves is called:
+W) an intersection pattern 
+X) an interference p attern 
+Y) an arcing pattern 
+Z) a construction pattern
+
+----
+num: 2
+category: Physical Science
+difficulty: MS
+answer: X)  an Interference Pattern
+
+If light is passed through two pin holes and the patterns allowed to overlap on a wa ll, the pattern produced by the in tersection of waves is called:
+W) an intersection pattern 
+X) an interference p attern 
+Y) an arcing pattern 
+Z) a construction pattern
+
+----
+num: 9
+category: Earth Science
+difficulty: MS
+answer: W)  Nitrogen
+
+Which of the following dom inates the gasses in the 
+Earth’s atm osphere, making up some 78% of the air by volum e:
+W) nitrogen 
+X) oxygen 
+Y) helium
+Z) hydrogen
+
+----
+num: 9
+category: Earth Science
+difficulty: MS
+answer: W)  Nitrogen
+
+Which of the following dom inates the gasses in the 
+Earth’s atm osphere, making up some 78% of the air by volum e:
+W) nitrogen 
+X) oxygen 
+Y) helium
+Z) hydrogen
+
+----
+num: 11
+category: Life Science
+difficulty: MS
+answer: Z)  Chelicerae
+
+Which of the following is a feeding structure in arachnids:
+W) dentipalps 
+X) radula 
+Y) proboscis 
+Z) chelicera e (PRONOUNCED Chill-iss-er-ah)
+
+----
+num: 11
+category: Life Science
+difficulty: MS
+answer: Y)  14
+
+In humans, ovulation usually occurs how m any days before the start of the next m enstrual period:
+X) 9 W) 4
+Y) 14 
+Z) 21
+
+----
+num: 11
+category: Life Science
+difficulty: MS
+answer: Z)  Chelicerae
+
+Which of the following is a feeding structure in arachnids:
+W) dentipalps 
+X) radula 
+Y) proboscis 
+Z) chelicera e (PRONOUNCED Chill-iss-er-ah)
+
+----
+num: 11
+category: Life Science
+difficulty: MS
+answer: Y)  14
+
+In humans, ovulation usually occurs how m any days before the start of the next m enstrual period:
+X) 9 W) 4
+Y) 14 
+Z) 21
+
+----
+num: 14
+category: Life Science
+difficulty: MS
+answer: W)  Sodium and Potassium
+
+In human nerves, the nerve im pulse or message occurs primarily because of the move ment of ions of what two elements across the cell membranes of nerves:
+W) sodium and potassium 
+X) potassium and calcium 
+Y) calcium and sodium
+Z) calcium and magnesium
+
+----
+num: 14
+category: Life Science
+difficulty: MS
+answer: W)  Sodium and Potassium
+
+In human nerves, the nerve im pulse or message occurs primarily because of the move ment of ions of what two elements across the cell membranes of nerves:
+W) sodium and potassium 
+X) potassium and calcium 
+Y) calcium and sodium
+Z) calcium and magnesium
+
+----
+num: 16
+category: Earth Science
+difficulty: MS
+answer: X)  a Large Volcano Erupted
+
+What happened in 1815 to cause that year to be named “the year without a sum mer?”
+W) a large meteor struck the Earth 
+X) a large volcano erupted 
+Y) there was a radical shift in the jet-stream southward 
+Z) several large earthqu akes occurred simultaneously around the globe
+
+----
+num: 16
+category: Earth Science
+difficulty: MS
+answer: W)  at the Cretaceous-Tertiary Boundary
+
+When, in the geologic column, did dinosaurs becom eextinct?
+W) at the Cretaceous-T ertiary boundary 
+X) at the Jurassic-Cretaceous boundary 
+Y) at the Triassic-Jurassic boundary 
+Z) at the Perm ian-Triassic boundary
+
+----
+num: 16
+category: Earth Science
+difficulty: MS
+answer: X)  a Large Volcano Erupted
+
+What happened in 1815 to cause that year to be named “the year without a sum mer?”
+W) a large meteor struck the Earth 
+X) a large volcano erupted 
+Y) there was a radical shift in the jet-stream southward 
+Z) several large earthqu akes occurred simultaneously around the globe
+
+----
+num: 16
+category: Earth Science
+difficulty: MS
+answer: W)  at the Cretaceous-Tertiary Boundary
+
+When, in the geologic column, did dinosaurs becom eextinct?
+W) at the Cretaceous-T ertiary boundary 
+X) at the Jurassic-Cretaceous boundary 
+Y) at the Triassic-Jurassic boundary 
+Z) at the Perm ian-Triassic boundary
+
+----
+num: 17
+category: General Science
+difficulty: MS
+answer: Y)  Form Long Chains of Carbon Atoms
+
+The unique property of carbon that is important to living organisms is its ability to:
+W) conduct electricity in graphite form . 
+X) combine with other elem ents 
+Y) form long chains of carbon atoms 
+Z) exist as both diam ond and graphite
+
+----
+num: 17
+category: General Science
+difficulty: MS
+answer: Y)  Form Long Chains of Carbon Atoms
+
+The unique property of carbon that is important to living organisms is its ability to:
+W) conduct electricity in graphite form . 
+X) combine with other elem ents 
+Y) form long chains of carbon atoms 
+Z) exist as both diam ond and graphite
+
+----
+num: 21
+category: Physical Science
+difficulty: MS
+answer: Z)  Electronic Synthesizer
+
+Which of the following musical instrum ents can produce a pure tone:
+W) violin 
+X) clarinet 
+Y) piano 
+Z) electronic synthesizer
+
+----
+num: 21
+category: Physical Science
+difficulty: MS
+answer: Z)  Electronic Synthesizer
+
+Which of the following musical instrum ents can produce a pure tone:
+W) violin 
+X) clarinet 
+Y) piano 
+Z) electronic synthesizer
+
+----
+num: 25
+category: Earth Science
+difficulty: MS
+answer: Y)   93 Million Miles
+
+About how far away is the closest star to the Earth?
+W) 83 thousand miles 
+X) 19 million miles 
+Y) 93 million miles 
+Z) 2 light years
+
+----
+num: 25
+category: Earth Science
+difficulty: MS
+answer: Y)   93 Million Miles
+
+About how far away is the closest star to the Earth?
+W) 83 thousand miles 
+X) 19 million miles 
+Y) 93 million miles 
+Z) 2 light years

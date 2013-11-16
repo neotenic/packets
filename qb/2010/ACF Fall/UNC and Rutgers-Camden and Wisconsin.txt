@@ -1,0 +1,214 @@
+####
+tournament: ACF Fall
+round: UNC and Rutgers-Camden and Wisconsin.doc
+year: 2010
+####
+
+num: 1
+category: Science
+difficulty: College
+fixed: 57
+seen: 81
+answer: {trapezoid}
+
+Dagan, Golumbic, and Pinter defined the class of graphs that generalize interval and permutation graphs and correspond to this shape. Romberg's algorithm recursively uses a technique named for this shape that is the two points Newton-Cotes formula. That technique uses small line segments to approximate the definite integral. It's not a triangle, but the isosceles version of this shape has diagonals equal to the square root of the sum of the square of the leg length and the product of the bases. The area of this figure is equal to its height times the length of the central median, which is the average of the bases. For 10 points, name this quadrilateral with a pair of parallel sides.
+
+----
+num: 2
+category: History
+difficulty: College
+fixed: 57
+seen: 69
+answer: Benito Amilcare Andrea {Mussolini}
+
+This ruler became head of the Salò Republic after he was rescued from captivity during an operation led by Otto Skorzeny. This leader forced out Zog I when he invaded Albania and made Albania a protectorate of his country. This man brought an arms embargo against his country for an invasion that prompted a speech to be given in Geneva to the League of Nations by the invaded nation's leader. This ruler was a part of the Pact of Steel and came to power after leading a march of his Blackshirts. For 10 points, name this ruler who invaded Ethiopia and forced Haile Selassie out of power, and who ruled a fascist Italy for much of World War II.
+
+----
+num: 3
+category: Trash
+difficulty: College
+fixed: 57
+seen: 190
+answer: {Owl City} [accept {Adam Young} before mentioned]
+
+One of this artist's music videos ends with four boys in black pushing a boy in a flying machine off a cliff. In one of his songs, “a disco ball is just hanging by a thread”. “Vanilla Twilight” and the aforementioned “Umbrella Beach” are singles off this artist's album Ocean Eyes. Another song from that album has a video that features a room full of children's toys and nostalgic items going into operation as this artist plays the piano. That song by this artist mentions ten million of the title animals and has a chorus beginning “I'd like to make myself believe that planet Earth turns slowly.” For 10 points, name this alias of Adam Young whose songs include “Fireflies.”
+
+----
+num: 4
+category: Literature
+difficulty: College
+fixed: 1
+seen: 59
+answer: Upton {Sinclair}
+
+This author created a Swiss born character who befriends Rick and Kurt and joins the talk at Versailles in one novel. That creation of this author appears in a novel set during the Nazi takeover of Germany that takes its name from pyramid-shaped fortifications. Those novels, World's End and Dragon's Teeth, appear in his Lanny Budd series. He wrote about the millionaire James Arnold Ross and his son Bunny in Oil! This author is best known for a work about Lithuanian immigrants who work in the Chicago stockyards. For 10 points, name this author who wrote about Ona and Jurgis Rudkus in a novel which helped reform the meat industry, The Jungle.
+
+----
+num: 5
+category: Science
+difficulty: College
+fixed: -1
+seen: 81
+answer: electric field
+
+In semiconductors, the mobility is multiplied by this entity to get drift velocity. In the Lorentz force law, unlike a similar quantity it is not multiplied by the velocity. Its divergence is equal to the charge density divided by the permittivity of space. The cross product of this quantity with the magnetic field appears in the equation for the Poynting Vector. The Stark effect refers to this entity splitting spectral lines. It polarizes dielectrics, allowing capacitors to store energy in capacitors.  For 10 points, name this field whose magnitude at a location is defined as the strength of the force divided by the point charge that experienced it.
+
+----
+num: 6
+category: History
+difficulty: College
+fixed: 1
+seen: 69
+answer: {Indira} Priyadarshini {Gandhi} [prompt on {Gandhi}]
+
+This leader was responsible for the organization of a large group of children spies called the Monkey Brigade. This politician served as the Minister of Information and Broadcasting under Lal Bahadur Shastri, whose death led to this person's first term as prime minister. As prime minister, this ruler authorized a test at Pokhran of a nuclear device called Smiling Buddha. This leader also ordered Operation Blue Star, which was an attack on the Sikh Golden Temple in Amritsar. For 10 points, name this prime minister of India later assassinated by her Sikh bodyguards in 1984 who was the daughter of Jawaharlal Nehru.
+
+----
+num: 7
+category: Religion
+difficulty: College
+fixed: 1
+seen: 53
+answer: St. {Augustine} of Hippo
+
+One of this man's works quotes the Aeneid to prove that gods can be conquered. That work begins with ten books attacking paganism and adopts Varro's conception of theology. He wrote a religious imitation of Cicero's Orator called De doctrina christiana. He spent most of his last twenty years attacking Pelagianism. One of his works contrasts the title entity, which contains virtuous men and angels, with a similar one “of Man.” In one work, he describes how he rejected Manichaeism and how he was read neo-Platonist works by St. Ambrose of Milan. For 10 points, name this bishop from Hippo who wrote the City of God and the autobiographical Confessions.
+
+----
+num: 8
+category: Fine Arts
+difficulty: College
+fixed: None
+seen: 69
+answer: A {Sunday Afternoon} on the {Island} of La {Grande Jatte} - 1884 [or {Un Dimanche Après}-{midi} à {l'Île} de la {Grande Jatte} – 1884; accept “{Isle}” instead of “{Island}”; accept A {Sunday} on la {Grande Jatte}]
+
+At the dead center of this painting stands a child in white with a hat, clutching the pink skirt of its mother. Another child, in orange, appears to be skipping or running off to the right. In the background of this painting stand a man in orange, blowing a bugle, and two soldiers facing away from both children, towards where four men are rowing a boat. A black dog sniffs the ground near a man in a sleeveless red shirt and black cap, who smokes a pipe in the left foreground. A woman at the right of this painting holds a monkey on a leash. For 10 points, parasol-wielding Parisians proliferate what pointillist masterpiece of Georges Seurat?
+
+----
+num: 9
+category: Literature
+difficulty: College
+fixed: 1
+seen: 56
+answer: {Don Quixote}
+
+At one point in this work, two characters approach an empty boat and imagine themselves traveling two-thousand miles. At another point in this work, Countess Trifaldi tells the central character to board a flying wooden horse. One character in this work is named Samson Carrasco and disguises himself as the Knight of the White Moon to challenge the title character to a duel. This novel focuses on a man in search of his love Dulcinea who rides the steed Rocinante and attacks windmills, believing them to be giants. For 10 points, identify this novel featuring Sancho Panza and the title man of La Mancha, written by Miguel de Cervantes.
+
+----
+num: 10
+category: History
+difficulty: College
+fixed: 1
+seen: 70
+answer: Battle of {Shiloh} [or Battle of Pittsburg Landing before it is read]
+
+A group of reinforcements missed the first day of this battle by trying to take the Shunpike Road while under the direction of Lew Wallace. A force of sixty-two cannon assembled on Duncan Field during this battle was attributed to the command of Daniel Ruggles. That artillery fired on the men of Benjamin Prentiss, whose position in this battle was nicknamed the Hornet's Nest. During the first day of this battle, the Confederate general Albert Sidney Johnston was killed. This battle is also known as the Battle of Pittsburg Landing. For 10 points, name this Civil War victory for the Union under Ulysses S. Grant fought in April 1862 in Tennessee.
+
+----
+num: 11
+category: Fine Arts
+difficulty: College
+fixed: None
+seen: 68
+answer: {Hagia Sophia} [or {Ayasofya}; accept “{Church} of {Holy Wisdom}” before mention]
+
+Two huge marble water jars in this building were brought from Pergamom in the 16th century. Depictions of Ignatius the Younger and John Chrysosthom may be found at its Northern Tympanum. On its southwestern entrance of this building is a mosaic of two important emperors presenting models of this building and its city to the Virgin Mary. It was designed by Isidore of Miletus and Anthemius of Tralles after its predecessor was destroyed in the Nika Revolt. For 10 points, name this Church of Holy Wisdom, which was converted into a mosque in 1453, after the Muslim invasion of its home city of Constantinople.
+
+----
+num: 12
+category: Science
+difficulty: College
+fixed: 57
+seen: 82
+answer: {cyclohexane}
+
+In carbon 13 NMR, this compound has a single peak and 27.1 ppm. Using platinum oxide and hydrogen in acetic acid will reduce benzene to this compound. Substituted ones try to reduce 1 3 diaxial interaction and flagpole hydrogens can destabilize one form of this compound. Its most stable conformation is one in which the carbon-carbon bonds are strained, half of the hydrogens are in an axial position, and the other half are in the equatorial position making the molecule strain free. Its conformations include the twist, boat, and chair.  For 10 points, name this alkane with a saturated six member carbon ring.
+
+----
+num: 13
+category: Geography
+difficulty: College
+fixed: 57
+seen: 130
+answer: {Hudson} Bay
+
+The southeastern border of this body of water is theorized to be a remnant of a crater and is called the Nastapoka Arc. Located west of the Ungava Peninsula, this body of water is home to the Belcher Islands and is known for its low salinity. One city located on this body of water is called the “Polar Bear Capital of the World,” and the Arctic Bridge is a proposed sea route linking Russia and that city of Churchill. It contains an offshoot called James Bay and is surrounded by the Canadian Shield. For 10 points, identify this large body of water bordered by Quebec, Ontario, and Manitoba which takes its name from the English explorer Henry.
+
+----
+num: 14
+category: Fine Arts
+difficulty: College
+fixed: 57
+seen: 72
+answer: Claude {Debussy}
+
+This composer used a habanera rhythm and the double harmonic scale to portray the title “Evening in Granada,” one of his Estampes. “The Sunken Cathedral” joins a mostly pentatonic melody in G-flat depicting the title “Girl with the Flaxen Hair” in his Preludes. The second movement of his most famous orchestral piece is titled “Play of the Waves,” while “Doctor Gradus ad Parnassum” and “Golliwog's Cakewalk” are among the movements in his Children's Corner Suite. For 10 points, name this French Impressionist composer of La Mer, Prelude to the Afternoon of a Faun, and Clair de Lune.
+
+----
+num: 15
+category: Literature
+difficulty: College
+fixed: 57
+seen: 59
+answer: “The {Tell}-{Tale} Heart”
+
+The narrator of this story notes that “I pitied him, although I chuckled at heart” after describing a certain feeling. One sound in this story is compared to the sound “a watch makes when enveloped in cotton.” The narrator of this work tries to perform the central action for eight nights, and on the last night he opens a lantern so that a single ray shines into the next room. Later the narrator offers chairs to three policemen, and is continually bothered by his neighbor's blue “vulture eye.” For 10 points, identify this short story in which a murderer confesses to killing his old neighbor after hearing the beating of the title object, a work of Edgar Allen Poe.
+
+----
+num: 16
+category: Science
+difficulty: College
+fixed: 1
+seen: 79
+answer: lysosomes
+
+Metachromatic leukodystrophy is caused by a problem in one enzyme of this organelle. One genetic disorder in trafficking proteins here is I-cell disease. That trafficking uses the mannose-6-phosphate modification. Pompe's disease and Tay-Sachs disease result when one of its proteins are missing. In order for its enzymes to function, it has a pH that is much more acidic than its surroundings.  One type of programmed cell death occurs when these bodies process old organelles and proteins and is called autophagy. It will often fuse with a vacuole to digest the contents of it. For 10 points, name this organelle which helps the cell to break up debris and food obtained from phagocytosis.
+
+----
+num: 17
+category: Philosophy
+difficulty: College
+fixed: 57
+seen: 54
+answer: Ralph Waldo {Emerson}
+
+In one essay, this thinker described the world as a “system of concentric circles.” One of his works describes “A subtle chain of countless rings” in its opening poem. This author attacked modern Christianity as restraining the spirit in his Divinity School Address. In one speech, this man called for the precepts “Know thyself” and “Study nature” to become one and the same for the title pursuer of knowledge. This man described conformity as an “aversion” to the title virtue of one work, while in another he refers to himself as a “transparent eye-ball”. For 10 points, name this transcendentalist who wrote “Self-Reliance,” “The American Scholar,” and “Nature.”
+
+----
+num: 18
+category: Social Science
+difficulty: College
+fixed: 57
+seen: 50
+answer: Thorstein Bunde {Veblen}
+
+In one work, this thinker stated that modern technology was incompatible with the irrational process of business and finance, contrasting industrial and pecuniary employment. One of his works has a chapter on “The Belief in Luck” and examines the title group's interest in sports like bullfighting and football. This author of The Theory of Business Enterprise has namesake goods which fall in demand when they fall in price due to a perception of lower quality. That ties in with this author's idea that the rich need a way to justify and display their wealth. For 10 points, name this economist who introduced the idea of conspicuous consumption in his Theory of the Leisure Class.
+
+----
+num: 19
+category: Literature
+difficulty: College
+fixed: 1
+seen: 60
+answer: Samuel {Beckett}
+
+One novel by this author features Worm and Mahood, a body and head stuck in a jar. Another work of this author features no characters and is meant to be performed in 35 seconds. This author of Breath and The Unnamable wrote play in which the title sixty-nine year old listens to recordings he made in his youth. This author of Krapp's Last Tape wrote a work featuring two characters that live in trashcans and interact with Hamm and Clov. Another work by this author features the arrival of Lucky and his slave Pozzo. For 10 points, name this author of Endgame who wrote about Vladimir and Estragon in the absurdist work Waiting for Godot.
+
+----
+num: 20
+category: History
+difficulty: College
+fixed: None
+seen: 71
+answer: {Ivan IV} of {Russia} [or {Ivan} the {Terrible}; or {Ivan Grozny}; or {Ivan Vasilyevich}; prompt on {Ivan}]
+
+This ruler's troops won the Battle of Ergeme, which resulted in the dissolution of the Livonian Knights during the unsuccessful Livonian War. This ruler organized the standing army known as the streltsy and he called his country's first “assembly of the land,” or zemsky sobor. This man divided his country's lands into the zemshina and lands overseen by men dressed in black on black horses known for their brutality, the oprichniki. This ruler's murder of his heir led indirectly to the end of the Rurikid dynasty and the start of the Time of Troubles. For 10 points, name this ruler who first took the title of tsar and who is remembered mostly for his cruelty.
+
+----
+num: 21
+category: Literature
+difficulty: College
+fixed: 57
+seen: 57
+answer: {Jorge} Luis {Borges}
+
+In one story by this author, Alexander Cragie becomes fascinated with blue stones. This author of “Blue Tigers” wrote a story about a Babylonian king is stranded in the middle of a desert, and another about a boy who could recall a day's worth of memories at will. This author of “The Two Kings and the Two Labyrinths” and “Funes the Memorious” wrote a story about a structure of infinite hexagonal rooms, as well as a story about the murder of Dr. Stephen Albert. For 10 points, identify this author whose stories “The Library of Babel” and “The Garden of Forking Paths” are collected in Ficciones, a blind author from Argentina.

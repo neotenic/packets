@@ -1,0 +1,450 @@
+####
+tournament: Sample Set 5
+round: Round10.pdf
+####
+
+num: 1
+category: Earth and Space Science
+difficulty: MS
+answer: Z) Arctic
+
+Which of the following is NOT a present -day lithospheric plate?
+W) Philippine
+X) Scotia
+Y) Arabian
+Z) Arctic
+
+----
+num: 1
+category: Earth and Space Science
+difficulty: MS
+answer: W) Faster Than During July
+
+
+During the month of January, the Earth mov es along its orbit at a rate that is which of the following?
+W) Faster than during July
+X) The same rate as any other month of the year 
+Y) Slower than during March or September
+Z) The same rate as it is in June
+
+----
+num: 2
+category: Biology
+difficulty: HS
+seen: 1
+answer: W) Polymerase Chain Rea Ction
+
+Which of the following is a laboratory technique used to generate many copies of a gene?
+W) Polymerase (read as: poh-LIM-eh-rayz) chain reaction
+X) Gel electrophoresis (read as: i-lehk-trōe-foh-REE-sis)
+Y) Southern blot
+Z) Titration
+
+----
+num: 2
+category: Physical Science
+difficulty: MS
+answer: W) Freezing Point Depression and Lowering of Vapor Pressure
+
+In which of the following pairs are both properties colligative?
+W) Freezing point depression and lowering of vapor pressure
+X) Freezing point depression and density 
+Y) Boiling point elevation and color
+Z) Boiling point elevation and ionic strength
+
+----
+num: 3
+category: Energy
+difficulty: HS
+seen: 1
+answer: Y) Calorific Value
+
+Biodiesel generally outperforms regular petro diesel in all of the following categories, EXCEPT:
+W) Cetane rating
+X) Flash point
+Y) Calorific value
+Z) Sulfur content
+
+----
+num: 3
+category: Earth and Space Science
+difficulty: MS
+answer: Z) Sinkholes
+
+Which of the following is associated with 
+Karst topography?
+W) Fossiliferous sandstones
+X) Hydrothermal activity
+Y) Large granitic boulders
+Z) Sinkholes
+
+----
+num: 4
+category: Energy
+difficulty: MS
+answer: X) Gravity
+
+Identify which of the following forces has the weakest relative strength .
+W) Electromagnetic
+X) Gravity
+Y) Weak nuclear
+Z) Strong nuclear
+
+----
+num: 5
+category: Life Science
+difficulty: MS
+answer: Z) Meiosis
+
+Which of the following will NOT alter a somatic cell’s genome during an organism’s lifetime?
+W) Gene amplification
+X) Selective gene loss
+Y) Transposons
+Z) Meiosis (read as: my-ŌE-sis)
+
+----
+num: 5
+category: Life Science
+difficulty: MS
+answer: Z) Tuatara
+
+
+Which of the following reptiles is known as a living fossil?
+W) Komodo dragon
+X) Sea turtle
+Y) Anaconda
+Z) Tuatara (read as: tuh-ah-TAHR-ah)
+
+----
+num: 7
+category: Chemistry
+difficulty: HS
+seen: 1
+answer: Z) Nitric Oxide
+
+In which of the following compounds does nitrogen have an unpaired electron?
+W) Ammonia
+X) Nitrous oxide
+Y) Sodium nitrate
+Z) Nitric oxide
+
+----
+num: 9
+category: Chemistry
+difficulty: HS
+seen: 1
+answer: Y) Percent by Mass
+
+Which of the following is NOT a colligative property of a solution?
+W) Freezing point depression
+X) Osmotic pressure
+Y) Percent by mass
+Z) Boiling point elevation
+
+----
+num: 9
+category: Physical Science
+difficulty: MS
+answer: W) Small Atomic Radii and High Ionization Energies
+
+Atoms of the most active nonmetals have which of the following characteristics?
+W) Small atomic radii and high ionization energies
+X) Small atomic radii and low ionization energies
+Y) Large atomic radii and high ionization energi es
+Z) Large atomic radii and low ionization energies
+
+----
+num: 10
+category: Biology
+difficulty: HS
+seen: 1
+answer: Y) They Are Endemic to New Zealand
+
+Which of the following is NOT true about snowy plovers?
+W) When fighting, they may grab their enemy’s tail with their bills 
+X) They nest on sandy beaches
+Y) They are endemic to New Zealand
+Z) Males nurture their chicks
+
+----
+num: 11
+category: Math
+difficulty: MS
+answer: Z) X^2 – 4x + 3 < 0
+
+Which of the following inequalities has a finite solution set over the integers ?
+W) x^2 + 5x + 6 > 0
+X) |x + 2| > 4 (read as: the absolute value of the quantity x plus 2 is greater than 4)
+Y) 9x – 7 < 3x + 14
+Z) x^2 – 4x + 3 < 0
+
+----
+num: 12
+category: General Science
+difficulty: MS
+answer: X) Live Birth
+
+Monotremes (read as: MOH-noh-treems) are often considered ancestral mammals. Which of the following characteristics are present for every species of mammal except monotremes (read as: MOH-noh-treems)?
+W) Mammary glands
+X) Live birth
+Y) Fur or hair
+Z) Warm-blooded
+
+----
+num: 13
+category: Earth and Space Science
+difficulty: MS
+answer: Y) Flux
+
+Which of the following represents the rate at which atmospheric gases and particles are moved across a surface?
+W) Vertical dispersion
+X) Turbulence
+Y) Flux
+Z) Stratospheric transport
+
+----
+num: 15
+category: Chemistry
+difficulty: HS
+seen: 1
+answer: Z) Diethyl Ether
+
+Which of the following species is NOT considered an electrolyte?
+W) Sodium hydroxide
+X) Hydrogen chloride
+Y) Aluminum nitrate 
+Z) Diethyl ether
+
+----
+num: 15
+category: Life Science
+difficulty: MS
+answer: Y) They Replicate Themselves and Their Own Dna
+
+Which of the following do chloroplas ts have in common with mitochondria (read as: my-toh-KOHN-dree-ah)?
+W) They do not contain ribosomes (read as: RY-boh-sōems)
+X) They have a single membrane
+Y) They replicate themselves and their own DNA
+Z) They contain thylakoids (read as: THY-lah-kohids)
+
+----
+num: 16
+category: General Science
+difficulty: MS
+answer: X) Llama
+
+Which of the following animals does NOT belong to the scientific suborder Ruminata?
+W) Cow
+X) Llama
+Y) Moose
+Z) Wildebeest
+
+----
+num: 16
+category: General Science
+difficulty: MS
+answer: Y) Substance B Is the L Imiting Reagent
+
+In a given reaction, three moles of Substance A react completely with two moles of Substance B to create Substances C and D. The reaction continues to completion and feels cold to the touch, but neither Substance A nor B was cold to th e touch prior to the reaction. Which of the following is TRUE regarding the reaction?
+W) There was a total of 5 moles of products created
+X) The overall reaction was exothermic
+Y) Substance B is the limiting reagent
+Z) The activation energy of the reaction is less than the activation energy of the reverse reaction
+
+----
+num: 17
+category: Math
+difficulty: MS
+answer: Z) the Mean Is Much Larger Than the Median
+
+
+Which of the following features would indicate that a dataset is not from a normal distribution?
+W) The range is equal to 6 standard deviations
+X) There are outliers
+Y) The range is much larger than the interquartile range
+Z) The mean is much larger tha n the median
+
+----
+num: 18
+category: Physics
+difficulty: HS
+answer: W) Tangential to the Rim of the Wheel
+
+On a game show, contestants spin a large wheel to determine the prize associated with correct answers. How should a contestant apply force to spin the wheel as rapidly as possible?
+W) Tangential to the rim of the wheel
+X) At a 45 degree angle to the rim of the wheel
+Y) Away from the center of the wheel
+Z) Towards the center of the wheel
+
+----
+num: 19
+category: Energy
+difficulty: HS
+seen: 1
+answer: W) Ground-Source Heat Pumps
+
+
+Which of the following is NOT an example of smart grid technology?
+W) Ground-source heat pumps
+X) Advanced metering infrastructure
+Y) Conservation voltage reduction
+Z) Substation automation
+
+----
+num: 19
+category: Life Science
+difficulty: MS
+answer: Y) Peas, Because They W Ill Maximize the Nitrogen in the Soil for 
+the Corn
+
+
+A farmer has planted corn in a field for the last 5 years, and has been disappointed with his crop yield for the last 2 years. Which of the following cropsshould he plant next year to maximize the corn yield for the following year?
+W) Nothing, it will let the soil recover completely from being planted
+X) Potatoes, because they have the deepest roots and will aerate the soil
+Y) Peas, because they will maximize the nitrogen in the soil for the corn
+Z) Wheat, because they use different nutrients than the corn
+
+----
+num: 20
+category: Math
+difficulty: HS
+seen: 1
+answer: W) N Is Divisible by 7
+
+The last two digits, in order, of a positive integer n are 1 and 8. 
+Which of the following statements about n can be TRUE?
+W) n is divisible by 7
+X) n is divisible by 5
+Y) n is divisible by 4
+Z) n is a perfect square
+
+----
+num: 21
+category: Earth and Space
+difficulty: HS
+seen: 1
+answer: Z) It Evaporates
+
+Which of the following happens to liquid watersuspended in an air mass descending on the leeward side of a mountain range?
+W) It condenses
+X) It precipitates
+Y) It freezes
+Z) It evaporates
+
+----
+num: 22
+category: Physics
+difficulty: HS
+answer: Y)
+(G
+G^m
+^M/g
+/G^e
+^E)^2
+X) 1
+
+If g^E and g^M are the accelerations due to gravity on the surfaces of Earth and the Moon respectively, and if Millikan’s oil drop experiment could be performed on the two surfaces, the ratio of the electronic charge on the Moon to the electronic charge on the 
+Earth
+X) W) 1g ^E/gwould be^M which of the following?
+Z)
+
+----
+num: 22
+category: Life Science
+difficulty: MS
+answer: W) Scale*
+^* ^[See ^http://www.fw.delaware.gov/fisheries/documents/agegrowth.pdf^ ^To Learn How This Is done.]^
+
+Which of the following parts of a fish can be used to estimate its age?
+W) Scale 
+X) Fin
+Y) Gill
+Z) Mouth
+
+----
+num: 22
+category: Life Science
+difficulty: MS
+answer: X) Primary Active Transport Involves Chemical Energy, While 
+Secondary Active Tra Nsport Involves an Electrochemical Gradient
+
+Which of the following is the principle difference between the two types of active transport?
+W) Primary active transport involves an electrochemical gradient, while secondary active transport involves chemical energy
+X) Primary active transport involves chemical energy, while secondary active transport involves an electrochemical gradient
+Y) Primary active transport involves moving ions into a cell, while secondary active transport involves moving ions out of a cell
+Z) Primary active transport involves moving ions out of a cell, while secondary active transport involves moving ions into a cell
+
+----
+num: 23
+category: Earth and Space
+difficulty: HS
+seen: 1
+answer: W) West Coast
+
+Which of the following U .S. coastlines would changethe LEAST as sea level rises?
+W) West coast
+X) Gulf coast
+Y) Northeast coast
+Z) Florida coast
+
+----
+num: 23
+category: Physical Science
+difficulty: MS
+answer: X) Paramagnetic
+
+Atoms with one or more unpaired electrons are which of the following?
+W) Diamagnetic
+X) Paramagnetic
+Y) Polar
+Z) Radioactive
+
+----
+num: 24
+category: Energy
+difficulty: MS
+answer: Y)  the Water in the Barrel Warmed Slightly
+
+In the mid-nineteenth century, the English physicist James Joule created a device in which falling weights rotated paddles immersed in a barrel of water. Which of the following results did he observe?
+W) The potential energy of the weights transferred entirely into kinetic energy to drive the paddles
+X) The potential energy of the weights transferred entirely into elastic energy to drive thepaddles
+Y) The water in the barrel warmed slightly
+Z) The water in the barrel cooled slightly
+
+----
+num: 25
+category: Biology
+difficulty: HS
+seen: 1
+answer: W) Flatback
+
+Of the seven species of sea turtles, six are found in U.S. waters. Which of the following species of sea turtles is NOT found in U.S. waters?
+W) Flatback
+X) Green
+Y) Kemp’s ridley
+Z) Leatherback
+
+----
+num: 25
+category: General Science
+difficulty: MS
+answer: X) Albite
+
+Which of the following minerals might you use in insulation?
+W) Talc
+X) Albite
+Y) Pyrope (read as: PY-rōep)
+Z) Quartz
+
+----
+num: 25
+category: General Science
+difficulty: MS
+answer: W) Bottom of the Cup in Fresh Water and Top of the Cup in Salt 
+Water
+
+An ice cube dyed with red food coloring is placed into a cup of fresh water at room temperature. An identical cube is placed into salt water. Where will the color go as the ice cubes melt?
+W) Bottom of the cup in fresh water and top of the cup in salt water
+X) Top of the cup in fresh water and bottom of the cup in salt water
+Y) Mixed into the water in both cups
+Z) Bottom of the cup in both cups

@@ -1,0 +1,219 @@
+####
+tournament: Question Set C
+round: Round-5C.pdf
+####
+
+num: 2
+category: Physics
+difficulty: HS
+seen: 27
+answer: White
+(Solution: Adding a Primary Color to the Proper Secondary Color (Called Complementary Colors) Will 
+Give White Light;  Complementary Color Pairs Are One Primary Color and One Secondary Color, e.g. 
+Blue and Yellow, Red and Cyan, or Gre en and magenta.)
+
+What color of light is produced when equal intensities of cyan light and red light are combined?
+
+----
+num: 2
+category: Physics
+difficulty: HS
+seen: 25
+answer: 10
+(Solution:  I  = V/r;  R = V/i;  R = 240/24 = 10 Ohms)
+
+What is the resistance, in ohms, for an electric stove that draws 24 amps on a 240 -volt circuit?
+
+----
+num: 3
+category: Biology
+difficulty: HS
+seen: 39
+answer: Fibrocartilage
+
+What is the most common term for the specific type of cartilage that forms the disks between human vertebrae?
+
+----
+num: 3
+category: Biology
+difficulty: HS
+seen: 40
+answer: Blood;  Adipocytes
+
+Name all of the following 4 choices that are considered part of the connective tissue : blood; adipocytes (read as: ADD-ih-poe-sites); muscles; nerves
+
+----
+num: 4
+category: Math
+difficulty: HS
+fixed: -1
+seen: 25
+answer: Hypotenuse = 24;  Longer Leg = 123 (Accept:  Longer Leg = 20 – 21)
+
+What are the lengths, in centimeters, of the hypotenuse and the longer leg, respectively, of a 30-60-90 degree right triangle if the shorter leg is 12 centimeters long?
+
+----
+num: 4
+category: Math
+difficulty: HS
+seen: 24
+answer: π
+(Solution:  C =  πD;  a = πR^2 = π(10/π)^2 = 100/π)
+
+Giving your answer in terms of pi, what is the area of a circle whose circum ference is 20?100
+
+----
+num: 5
+category: Earth Science
+difficulty: HS
+fixed: -1
+seen: 64
+answer: Lead;  Granite;  Solid Water;  Liquid Water
+(Solution: Lead = 0.03;  Granite = 0.2;  Solid Water = 0.5;  Liquid Water = 1.0 Cal/gºc)
+
+Order the following 4 Earth materials in order of 
+INCREASING specific heat capacity: solid water; liquid water; granite; lead
+
+----
+num: 6
+category: General Science
+difficulty: HS
+fixed: -1
+seen: 31
+answer: 50
+(Solution:  283  – 273 = 10ºc;  10 × 1.8 + 32 = 50ºf)
+
+Rounded to the nearest whole number, convert 283K into degrees Fahrenheit:
+
+----
+num: 8
+category: Chemistry
+difficulty: HS
+seen: 33
+answer: None  (Accept:  Zero)
+
+How many nodes are in an ‘s’ orbital?
+
+----
+num: 9
+category: Physics
+difficulty: HS
+seen: 24
+answer: 3
+(Solution: Power = Work/time = Force × Distance/s  200w = 200n × 3/x; X = 3s)
+
+If Jim expends 200 watts of power to vertically lift a 200-newton rock 3 meters high, how many seconds did it take him to lift the boulder?
+
+----
+num: 11
+category: Math
+difficulty: HS
+seen: 27
+answer: 21
+
+What is the greatest common factor for the numbers 63 and 273?
+
+----
+num: 12
+category: Earth Science
+difficulty: HS
+seen: 65
+answer: Clay
+
+According to the Atterberg and U.S. Department of 
+Agriculture classification scales, what type of soil particles have diameters of less than 0.002 millimeters and are considered the smallest particles of soil?
+
+----
+num: 13
+category: General Science
+difficulty: HS
+fixed: -1
+seen: 32
+answer: Petroleum Products
+
+Which of the following 5 sources accounts for the largest share of energy used in the U.S.: coal; petroleum products; nuclear energy; renewable energy; natural gas
+
+----
+num: 13
+category: General Science
+difficulty: HS
+seen: 33
+answer: 3
+(Solution:  (42 Gal × 19.7)/300 Million People = 3 Gals)
+
+In 2004, 19.7 million barrels of petroleum products were used each day in the U.S. Rounded to the nearest gallon, how much does this represent per person per day?
+
+----
+num: 16
+category: Physics
+difficulty: HS
+fixed: -1
+seen: 26
+answer: 22,000
+(Solution: (5000 Lbs × 5ft) – (200 Lbs × 15 Ft) = 25,000 – 3000 = 22,000 Ft Lbs)
+
+If a 5,000-pound elephant is on one end of a plank at a distance of 5 feet from the pivot point and a 200-pound man is on the other end at a distance of 15 feet from the pivot, what will the available torque be, in foot-pounds, at the pivot while the plank is in motion?
+
+----
+num: 17
+category: Biology
+difficulty: HS
+seen: 37
+answer: Calcium  (Accept:  Calcium 2 + or Ca^2+)
+
+What specific ion is most central to muscle contraction in striated human muscle?
+
+----
+num: 18
+category: Math
+difficulty: HS
+seen: 26
+answer: ^3 15
+
+Reduce the following radical expression to its simplest radical form: ^2 ^3 225 (read as: the square root of the cube root of 225)
+
+----
+num: 21
+category: Astronomy
+difficulty: HS
+seen: 55
+answer: Perihelion
+
+What is the astronomical term for a planet’s orbital point that is closest to the Sun?
+
+----
+num: 22
+category: Chemistry
+difficulty: HS
+seen: 33
+answer: Benzene
+
+C^6H^6 is the molecular formula for what aromatic hydrocarbon?
+
+----
+num: 22
+category: Chemistry
+difficulty: HS
+fixed: -1
+seen: 35
+answer: 0.31
+
+Consider a mixture of nitrogen and oxygen gases that has a total pressure of 0.63 atmospheres. If the partial pressure of nitrogen is 0.32 atmospheres, what is the partial pressure of oxygen in the mixture, in atmospheres to the second decimal place?
+
+----
+num: 24
+category: Biology
+difficulty: HS
+seen: 40
+answer: Peduncle
+
+What is the botanical term for the stem of a group of flowers?
+
+----
+num: 24
+category: Biology
+difficulty: HS
+seen: 41
+answer: Sodium and Potassium  (Accept:  Na+ and K+)
+
+In mammals, the action potential of a neuron is most dependent on the transmembrane movement of what 2 ions?

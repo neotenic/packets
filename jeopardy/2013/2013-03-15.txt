@@ -1,0 +1,457 @@
+####
+tournament: #6565
+round: Show #6565 - Friday, March 15, 2013
+year: 2013
+date: 2013-03-15
+####
+
+num: 1
+category: Trash
+difficulty: 200
+seen: 6
+answer: Boston
+
+"Rizzoli & Isles": solving crime in this New England capital.
+
+----
+num: 2
+category: Literature
+difficulty: 200
+seen: 4
+answer: Jack the Ripper
+
+Anonymous London killer of 1888.
+
+----
+num: 3
+category: Literature
+difficulty: 200
+seen: 4
+answer: Arthur
+
+The Finavar tapestry trilogy by Guy Gavriel Kay includes Lancelot, this king & his dog Cavall.
+
+----
+num: 4
+category: History
+difficulty: 200
+seen: 5
+answer: Havana
+
+In 2012 the Miami Marlins began playing at a new stadium in the neighborhood called Little this world capital.
+
+----
+num: 5
+category: Trash
+difficulty: 200
+seen: 6
+answer: shortwave
+
+Used for long distances, it's radio communication at frequencies between 3,000 & 30,000 kilohertz.
+
+----
+num: 6
+category: Literature
+difficulty: 200
+seen: 4
+answer: Sweet n\' Low
+
+This product's familiar packaging is seen.
+
+----
+num: 7
+category: Trash
+difficulty: 400
+seen: 4
+answer: Louisiana
+
+"Treme" & "True Blood": this state.
+
+----
+num: 8
+category: Literature
+difficulty: 400
+seen: 4
+answer: John the Baptist
+
+In Matthew 3 he heralds the coming of Jesus.
+
+----
+num: 9
+category: History
+difficulty: 400
+seen: 4
+answer: Tarzan
+
+South Beach's Pelican Hotel has individual rooms called Power Flower, Big Bamboo & Me this, You Vain.
+
+----
+num: 10
+category: Trash
+difficulty: 400
+seen: 6
+answer: short-handed
+
+In hockey, the type of goal scored by a team that has a player in the penalty box.
+
+----
+num: 11
+category: Literature
+difficulty: 400
+seen: 4
+answer: figs
+
+Found in newtons & with a sugar content of more than 50%, these are among the sweetest fruits.
+
+----
+num: 12
+category: Trash
+difficulty: 600
+seen: 5
+answer: Seattle
+
+"Grey's Anatomy": this seat of King County.
+
+----
+num: 13
+category: Literature
+difficulty: 600
+seen: 4
+answer: Billy the Kid
+
+He'd killed numerous men by the time he died around age 20 in 1881.
+
+----
+num: 14
+category: Literature
+difficulty: 600
+seen: 3
+answer: Conan
+
+This sword-wielding barbarian from ancient Cimmeria was created by Robert E. Howard.
+
+----
+num: 15
+category: History
+difficulty: 600
+seen: 4
+answer: Jackie Gleason
+
+Catch shows from the Wiggles to the Deftones at the theatre named for this star of "The Honeymooners"; & away you go!.
+
+----
+num: 16
+category: Trash
+difficulty: 600
+fixed: -1
+seen: 6
+answer: short-changed
+
+My order cost $9.25, I gave you a ten & you gave me 50 cents-- you did this!.
+
+----
+num: 17
+category: Literature
+difficulty: 600
+seen: 3
+answer: sweet potatoes
+
+Rich in vitamin A and cultivated in ancient times by the Aztecs,.
+
+----
+num: 18
+category: Trash
+difficulty: 800
+seen: 5
+answer: Chicago
+
+"Mike & Molly": this midwestern city.
+
+----
+num: 19
+category: Literature
+difficulty: 800
+seen: 4
+answer: Mac the Knife
+
+Bobby Darin is among those who've sung this tune about the blade-wielding Macheath.
+
+----
+num: 20
+category: Literature
+difficulty: 800
+seen: 3
+answer: Compass
+
+A large white bear fronts the cover of the first book of the "His Dark Materials" series, known as "The Golden" this.
+
+----
+num: 21
+category: History
+difficulty: 800
+seen: 4
+answer: (Paul) Gauguin
+
+High art at the Lowe Art Museum includes 1882's "The Barge And The Boat" by this Tahiti lover.
+
+----
+num: 22
+category: Trash
+difficulty: 800
+seen: 5
+answer: short order cook
+
+Food prepared quickly is this profession's specialty.
+
+----
+num: 23
+category: Literature
+difficulty: 800
+seen: 4
+answer: Chocolate
+
+Candy is dandy for Marcel Desaulniers in his cookbook "Death By" this sweet ingredient.
+
+----
+num: 24
+category: Trash
+difficulty: 1000
+seen: 5
+answer: Nashville
+
+A show about a fading country superstar played by Connie Britton: this city.
+
+----
+num: 25
+category: Literature
+difficulty: 1000
+seen: 4
+answer: Bob the Builder
+
+This PBS Kids construction whiz & his "Can-Do Crew" entertain kids in 45 languages.
+
+----
+num: 26
+category: Literature
+difficulty: 1000
+seen: 4
+answer: a castle
+
+In a novel by Diana Wynne Jones, Howl, the title wizard, has a "moving" one of these domiciles.
+
+----
+num: 27
+category: History
+difficulty: 1000
+seen: 3
+answer: art deco
+
+This 2-word 1920s style of architecture has a district named for it in South Beach.
+
+----
+num: 28
+category: Trash
+difficulty: 1000
+seen: 5
+answer: a short rib
+
+Cut of beef near the shoulder.
+
+----
+num: 29
+category: Literature
+difficulty: 1000
+seen: 4
+answer: Necco
+
+Sweethearts & wafters come from this company whose name stands in part for "New England".
+
+----
+num: 30
+category: History
+difficulty: 400
+seen: 4
+answer: Philadelphia
+
+On Nov. 15, 1763 Mason & Dixon arrived in this Pennsylvania city & shortly headed west.
+
+----
+num: 31
+category: Science
+difficulty: 400
+seen: 6
+answer: volcanoes
+
+Geologically active, Venus has more of these, like Sif Mons, than any other planet in the Solar System.
+
+----
+num: 32
+category: Art
+difficulty: 400
+seen: 4
+answer: symphonies
+
+These orchestral works by Anton Bruckner, like the 90-minute No. 8, are classics of postromanticism.
+
+----
+num: 33
+category: History
+difficulty: 400
+seen: 4
+answer: garlic
+
+Each July Gilroy, California celebrates this pungent herb with a festival of food & fun.
+
+----
+num: 34
+category: Literature
+difficulty: 400
+seen: 4
+answer: running
+
+This type of "joke" or "gag" recurs in a play for cumulative comic effect.
+
+----
+num: 35
+category: History
+difficulty: 800
+seen: 4
+answer: latitude
+
+M & D used an instrument called a zenith sector for determining degrees of this north of the equator.
+
+----
+num: 36
+category: Science
+difficulty: 800
+seen: 6
+answer: carbon dioxide
+
+Venus' atmosphere is 96% this compound that makes up just .037% of Earth's; no wonder its globe has warmed.
+
+----
+num: 37
+category: Art
+difficulty: 800
+seen: 4
+answer: Christianity
+
+In the late 300s Prudentius went postclassical with poems combining this religion with traditional Latin forms.
+
+----
+num: 38
+category: History
+difficulty: 800
+seen: 4
+answer: a chainsaw
+
+Not Texas but Ridgway, Penn. is home each February to a wood-carving competition using these power tools.
+
+----
+num: 39
+category: Literature
+difficulty: 800
+seen: 4
+answer: manna
+
+Any sudden help, or food miraculously supplied to the Israelites in Exodus.
+
+----
+num: 40
+category: History
+difficulty: 1200
+seen: 4
+answer: an astronomer
+
+Jeremiah Dixon was a surveyor & Charles Mason was employed by the Royal Society in Greenwich in this capacity.
+
+----
+num: 41
+category: Art
+difficulty: 1200
+fixed: -1
+seen: 4
+answer: postmodernism
+
+In the 1960s Robert Venturi pioneered the eclectic style of architecture called post-this.
+
+----
+num: 42
+category: History
+difficulty: 1200
+seen: 4
+answer: Bourbon
+
+This liquor flows for 6 days at a September festival celebrating it in Bardstown, Kentucky.
+
+----
+num: 43
+category: Literature
+difficulty: 1200
+seen: 4
+answer: a perennial
+
+Any plant having a life cycle of more than 2 years.
+
+----
+num: 44
+category: History
+difficulty: 1600
+seen: 4
+answer: the Missouri Compromise
+
+As a border between free & slave states, "Mason-Dixon line" was first used in debates over this 1820 compromise.
+
+----
+num: 45
+category: Science
+difficulty: 1600
+seen: 5
+answer: the Evening Star
+
+Tennyson's "Crossing The Bar" begins, "Sunset and" this item in the sky that's really Venus.
+
+----
+num: 46
+category: Art
+difficulty: 1600
+seen: 4
+answer: the postimpressionists
+
+Not yet 30, Picasso was in the groundbreaking 1910 London art show "Manet and" this group.
+
+----
+num: 47
+category: History
+difficulty: 1600
+seen: 4
+answer: motorcycles
+
+"How many CC you got?" might be heard at the 75-year-old Sturgis, South Dakota rally for these transports.
+
+----
+num: 48
+category: Literature
+difficulty: 1600
+seen: 4
+answer: a manny
+
+This recent addition to English means a male whose job is child care.
+
+----
+num: 49
+category: History
+difficulty: 2000
+seen: 5
+answer: the Calverts
+
+At 5-mile intervals, stones featured the Coat of Arms of the Penn family on one side, this Maryland family on the other.
+
+----
+num: 50
+category: History
+difficulty: 2000
+seen: 6
+answer: Albuquerque
+
+Each year the International Balloon Fiesta held in this southwest city features a mass ascension.

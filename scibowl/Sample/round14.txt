@@ -1,0 +1,230 @@
+####
+tournament: Sample
+round: round14.pdf
+####
+
+num: 1
+category: Chemistry
+difficulty: HS
+fixed: -1
+seen: 36
+answer: Oxidized = Zn (Accept:  Zinc);  Reduced = Cu ( Accept:  Copper)
+
+Name the elements in the following reaction that have been oxidized and reduced, respectively : Zn + CuSO  ZnSO + Cu^(solid) ^4(aqueous) ^4(aqueous) ^(solid)
+
+----
+num: 3
+category: Physics
+difficulty: HS
+seen: 24
+answer: Lead
+
+In the radioactive decay scheme of uran ium, what is the final stable element produced?
+
+----
+num: 3
+category: Physics
+difficulty: HS
+seen: 26
+answer: 0.8
+
+Consider an astronaut on the Moon and g is exactly 1/6^th of g on Earth.
+If he threw an object vertically upwards with an initial velocity of 1.6 meters per se cond, how many meters up would it be after 1 second, rounding your answer to the first decimal place?
+
+----
+num: 4
+category: Math
+difficulty: HS
+fixed: -1
+seen: 25
+answer: 36
+(Solution: 3:4:5; P^base = 3+4+5 = 12m; a = ½Bh = 6 M^2;  Ta = La + 2b = (12)(2) + 2(6) = 36 M^2)
+
+Giving your answer in meters squared, find the total surface area of a right prism whose base is a right triangle with legs of leng th 3 meters and 4 meters and whose altitude is 2 meters:
+
+----
+num: 6
+category: General Science
+difficulty: HS
+fixed: -1
+seen: 30
+answer: 1f4;  3e8;  Bb8
+(Solution: 1f4 = 500;  3e8 =1000;  Bb8 = 3000)
+
+Order the following 3 hexadeci mal numbers from 
+SMALLEST to LARGEST: 3E8; BB8; 1F4;
+
+----
+num: 10
+category: Physics
+difficulty: HS
+seen: 24
+answer: Quarks
+
+Name all of the following 4 sub -atomic particles that are never found in isolation: electrons; protons; quarks; positrons
+
+----
+num: 11
+category: Math
+difficulty: HS
+seen: 23
+answer: X^2 + 4x + 6
+
+Given f(x) = x^2 + 2x + 3, express f(x + 1) in standard polynomial form :
+
+----
+num: 13
+category: Physics
+difficulty: HS
+seen: 25
+answer: 384,000
+(Solution:  E = I^2 R × T = (8a)^2 × 20 Ohms × 300 S = 384,000 Joules)
+
+How many joules of energy are used by an electrical app liance operating on 8 amps of current flowing through a 20 -ohm resistance circuit for 5 minutes?
+
+----
+num: 15
+category: Chemistry
+difficulty: HS
+seen: 34
+answer: 4
+
+How many quantum numbers are required to completely describe a specific electron in a multi -electron atom?
+
+----
+num: 18
+category: Math
+difficulty: HS
+seen: 26
+answer: 1 and 2
+
+In the algebra of real-valued functions, give the name or number of all of the following 3 choices that the implied domain usually excludes: 
+1) numbers causing division by zero
+2) numbers causing imaginary numbers in the range
+3) numbers causing irrational numbers in the range
+
+----
+num: 18
+category: Math
+difficulty: HS
+seen: 24
+answer: (Xx
+−(5
+6x
+)(+
+X2
++)
+2) (Accept: 
+(Xx
++(5
+2x
+)(+
+X2
+−)
+6) )
+
+Add the following rational expressions and give your answer in fullyfactored form: (x+x
+2) +(x4−x
+6)
+
+----
+num: 19
+category: Earth Science
+difficulty: HS
+seen: 62
+answer: Thermosphere
+
+The aurora occur high in what layer of Earth’s atmosphere?
+
+----
+num: 21
+category: Astronomy
+difficulty: HS
+seen: 54
+answer: 81
+
+If the surface temperature of a star increased from 6,000 kelvin to 18,000 kelvin, how many times as much energy would it radiate?
+
+----
+num: 21
+category: Astronomy
+difficulty: HS
+seen: 58
+answer: O
+
+Using the most common temperature -based spectral classification system, as tar with an apparent color of blue and a surface temperature of 55,000 kelvin would have what spectral letter classification?
+
+----
+num: 22
+category: Biology
+difficulty: HS
+seen: 38
+answer: 3-Prime Terminus  (Accept:  Cca 3-Pime End or 3-Prime End or 
+3-Prime)
+
+What is the most common name for the terminus of a tRNA molecule to which amin o acids are attached?
+
+----
+num: 22
+category: Biology
+difficulty: HS
+seen: 39
+answer: P53
+
+What protein, that takes its name from its apparent molecular weight, can arrest cells in the G1 -S checkpoint, initia te apoptosis (read as: aye-pop-TOE-sis) and, when deactivated, is implicated in a wide variety of cancers?
+
+----
+num: 23
+category: Chemistry
+difficulty: HS
+seen: 33
+answer: Iron(ii) Hydroxide;  Barium Sulfate
+
+According to general solubility rules, name all of the following 5 substances that are NOT soluble in water: lithium iodide; sodium chloride; iron(II) hydroxide; sodium nitrate; barium sulfate
+
+----
+num: 23
+category: Chemistry
+difficulty: HS
+seen: 34
+answer: 1 × 10 –^2 (Accept:  0.01)
+(Solution: Ave Rate =  –∆A/∆t = (0.3 – 0.5m)/(50 – 30s) = 0.010 M/s)
+
+Consider a hypothetical reaction, A + B  C + D. At zero time, the concentration of A = 1 molar, after 30 seconds A = 0.5 molar, and after 50 seconds A = 0.3 molar. Calculate the average rate of disappearance of A over the time interval 30 seconds to 50 seconds, in molarity per second:
+
+----
+num: 24
+category: Physics
+difficulty: HS
+seen: 25
+answer: Higgs Field  (Accept:  Higgs)
+
+What is the most common name for the field, which is believed to act somewhat like a fluid that fills space and endows quarks with mass?
+
+----
+num: 24
+category: Physics
+difficulty: HS
+fixed: -1
+seen: 26
+answer: Hydrogen-2;  Oxygen-16;  Iron-58
+
+Order the following 3 isotopes from the one with the LOWEST nuclear binding energy to the HIGHEST: iron -58; hydrogen-2; oxygen-16
+
+----
+num: 25
+category: Biology
+difficulty: HS
+seen: 38
+answer: Matrix
+
+Into what specific mitochondrial compartment are hydrogen ions pumped out during chemiosmosis (read as: chem -ee-oz-MOE-sis)?
+
+----
+num: 25
+category: Biology
+difficulty: HS
+seen: 38
+answer: Thyroxin E;  Epinephrine
+
+Name all of the following 4 hormones that are formed primarily from the amino acid tyrosine: glucagon; thyroxin e; epinephrine; erythropoietin (read as: EE-rith-roe-POE-ih-tin)

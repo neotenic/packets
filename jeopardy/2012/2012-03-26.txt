@@ -1,0 +1,394 @@
+####
+tournament: #6341
+round: Show #6341 - Monday, March 26, 2012
+year: 2012
+date: 2012-03-26
+####
+
+num: 1
+category: Art
+difficulty: 200
+seen: 5
+answer: leaves
+
+Foliation can refer to a plant producing these or to carved decorations in the shapes of these.
+
+----
+num: 2
+category: Literature
+difficulty: 200
+seen: 4
+answer: "As Time Goes By"
+
+Michael Feinstein has couples swaying to his version of this classic from "Casablanca".
+
+----
+num: 3
+category: Science
+difficulty: 200
+fixed: -1
+seen: 8
+answer: nonfat milk
+
+It's also called skim milk.
+
+----
+num: 4
+category: History
+difficulty: 200
+seen: 5
+answer: Ronald Reagan
+
+In January he was sworn in for a second term as president.
+
+----
+num: 5
+category: History
+difficulty: 200
+seen: 5
+answer: John Wesley
+
+Charles Wesley fell out with this big brother & co-founder of Methodism over (what else?) a woman.
+
+----
+num: 6
+category: Art
+difficulty: 400
+seen: 4
+answer: Mecca
+
+A mihrab, a prayer niche in the wall of a mosque, faces this holy city.
+
+----
+num: 7
+category: Literature
+difficulty: 400
+seen: 4
+answer: "What A Wonderful World"
+
+"I see trees of green, red roses too" & couples slow-dancing to this Louis Armstrong tune.
+
+----
+num: 8
+category: Science
+difficulty: 400
+fixed: -1
+seen: 5
+answer: noncommissioned
+
+In the Army an NCO is this type of officer.
+
+----
+num: 9
+category: History
+difficulty: 400
+seen: 4
+answer: Israel
+
+In February this nation finished the first phase of a troop withdrawal from Lebanon.
+
+----
+num: 10
+category: History
+difficulty: 400
+seen: 4
+answer: Shirley MacLaine
+
+Warren Beatty is this actress' little brother.
+
+----
+num: 11
+category: Art
+difficulty: 600
+seen: 4
+answer: the jamb
+
+It's the vertical member at either side of a doorframe; the hinge is attached to it.
+
+----
+num: 12
+category: Literature
+difficulty: 600
+seen: 4
+answer: "When A Man Loves A Woman"
+
+This Percy Sledge No. 1 hit is a perennial favorite at weddings.
+
+----
+num: 13
+category: Science
+difficulty: 600
+seen: 6
+answer: nonviolence
+
+In 1922 Gandhi called this "the first article of" his faith.
+
+----
+num: 14
+category: History
+difficulty: 600
+seen: 5
+answer: Coca-Cola
+
+In April this iconic American drink changed its formula, leading to an overwhelmingly negative reaction.
+
+----
+num: 15
+category: History
+difficulty: 600
+seen: 5
+answer: (the) Younger (Brothers)
+
+Outlaw siblings James, John & Little Bob were these brothers--by last name & also in relation to Cole.
+
+----
+num: 16
+category: Art
+difficulty: 800
+seen: 4
+answer: windows
+
+The arrangement & design of these in a building is called fenestration.
+
+----
+num: 17
+category: Literature
+difficulty: 800
+seen: 3
+answer: "Sunrise, Sunset"
+
+Perfect for a dance with a parent is this show tune that begins, "Is this the little girl I carried".
+
+----
+num: 18
+category: Science
+difficulty: 800
+seen: 6
+answer: non sequitur
+
+It's Latin for "it does not follow", so I'd better get out my umbrella.
+
+----
+num: 19
+category: History
+difficulty: 800
+seen: 4
+answer: Cleopatra
+
+Pharaoh Ptolemy XIII was her little brother.
+
+----
+num: 20
+category: Literature
+difficulty: 1000
+seen: 4
+answer: Kool & The Gang
+
+With the party under way, it's time to "celebrate good times, come on" with an R&B favorite from this group.
+
+----
+num: 21
+category: Science
+difficulty: 1000
+seen: 6
+answer: non-Euclidean
+
+Geometry that doesn't follow the parallel postulate of an ancient Greek mathematician is called this.
+
+----
+num: 22
+category: History
+difficulty: 1000
+seen: 4
+answer: Route 66
+
+In June this iconic U.S. highway was decommissioned & its familiar markers taken down.
+
+----
+num: 23
+category: Literature
+difficulty: 400
+seen: 4
+answer: Martin Luther King
+
+"Hellhound on His Trail" tells of "The Stalking of" this civil rights leader & "the International Hunt for His Assassin".
+
+----
+num: 24
+category: Art
+difficulty: 400
+seen: 4
+answer: duck
+
+A Delmonico's menu from 1899 offers 4 varieties of this: ruddy, red-head, canvas-back & mallard.
+
+----
+num: 25
+category: History
+difficulty: 400
+seen: 4
+answer: embassy cables
+
+In 2011 the U.S. envoy to Mexico quit over remarks in the diplomatic messages known by this old-fashioned name.
+
+----
+num: 26
+category: History
+difficulty: 400
+seen: 4
+answer: Buddhism
+
+Nyingma & Kagyu are the major Bhutanese sects of this religion practiced by about 75% of the population.
+
+----
+num: 27
+category: Literature
+difficulty: 400
+seen: 4
+answer: saints
+
+Hagiolatry is the worship of these, maybe of Peter, Paul & Agatha.
+
+----
+num: 28
+category: Art
+difficulty: 800
+seen: 4
+answer: beer
+
+A Christmas 1926 British army menu lists the food in small black type & this 4-letter beverage in much larger red type.
+
+----
+num: 29
+category: History
+difficulty: 800
+seen: 4
+answer: Rice
+
+Last name of the USA's current U.N. ambassador; it was also the last name of a Bush Secretary of State.
+
+----
+num: 30
+category: History
+difficulty: 800
+seen: 4
+answer: a constitution
+
+Unified in 1907, Bhutan didn't ratify one of these until 2008.
+
+----
+num: 31
+category: Literature
+difficulty: 1200
+seen: 3
+answer: oil
+
+Daniel Yergin won a Pulitzer Prize for "The Prize", about "The Epic Quest" for this commodity.
+
+----
+num: 32
+category: Art
+difficulty: 1200
+seen: 3
+answer: the Brown Derby
+
+The August 23, 1941 menu from this Hollywood eatery named for a colored hat offered a 95-cent tenderloin steak.
+
+----
+num: 33
+category: History
+difficulty: 1200
+seen: 4
+answer: the Philippines
+
+Admiral Raymond Spruance won the 1944 battle of the sea named for this island country to which he was later ambassador.
+
+----
+num: 34
+category: History
+difficulty: 1200
+seen: 3
+answer: a wife
+
+Bhutan's big event of 2011 came when the king took this--just one, unlike his father, who had 4.
+
+----
+num: 35
+category: Literature
+difficulty: 1200
+seen: 4
+answer: sabra
+
+Oddly, this term for a native-born Israeli comes from a Hebrew word for "prickly pear".
+
+----
+num: 36
+category: Literature
+difficulty: 1600
+seen: 5
+answer: Joan Didion
+
+She covered the aftermath of her husband's death in "The Year of Magical Thinking" & of her daughter's in "Blue Nights".
+
+----
+num: 37
+category: Art
+difficulty: 1600
+seen: 5
+answer: the St. Francis Hotel
+
+In 1906 this San Francisco hotel fed the birds--to the customers, that is; chicken & squab were on the menu.
+
+----
+num: 38
+category: History
+difficulty: 1600
+seen: 5
+answer: Algiers
+
+Duff Cooper mediated between Churchill & de Gaulle as Britain's representative to the free French in this N. African city.
+
+----
+num: 39
+category: History
+difficulty: 1600
+seen: 4
+answer: currency
+
+The ngultrum, which is subdivided into chetrums, is the national this.
+
+----
+num: 40
+category: Literature
+difficulty: 1600
+seen: 4
+answer: a bell
+
+Something campaniform is shaped like this noise-making object.
+
+----
+num: 41
+category: Art
+difficulty: 2000
+seen: 5
+answer: Jack Dempsey
+
+In 1945 this ex-heavyweight champ's NYC restaurant offered a $1.75 roast prime sirloin dinner.
+
+----
+num: 42
+category: History
+difficulty: 2000
+seen: 6
+answer: Himalayas
+
+Bhutan is divided into 3 major regions, the Duars Plain & the Great & Lesser these.
+
+----
+num: 43
+category: Literature
+difficulty: 2000
+seen: 6
+answer: pica
+
+In medicine, it's the 4-letter term for the craving or ingestion of such non-food items as dirt, chalk or paint chips.

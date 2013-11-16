@@ -1,0 +1,316 @@
+####
+tournament: Question Set C
+round: Round-3C-MS.pdf
+####
+
+num: 1
+category: Earth Science
+difficulty: MS
+seen: 1
+answer: W)  It Will Rain
+
+The temperature outside is 85º F and the air is holding a maximum amount of moisture. If the temperature drops rapidly to 65ºF, which of the following will 
+MOST likely happen:
+W) it will rain
+X) it will become sunny
+Y) humidity is relatively unchanged
+Z) the relative humidity is lowered by about 25%
+
+----
+num: 2
+category: Math
+difficulty: MS
+answer: Z)  0 =5
+5
+0 =5
+
+Which of the following is NOT true:
+W) 5 × 0 = 0
+X) 2
+Y)505×= ½0 = 5 ÷ 5
+Z)
+
+----
+num: 3
+category: General Science
+difficulty: MS
+answer: W)  1.8
+
+If you are 5 feet 10 inches tall, which of the following is closest to your height, in meters:
+W) 1.8
+X) 1.7
+Y) 1.6
+Z) 1.5
+
+----
+num: 6
+category: Earth Science
+difficulty: MS
+seen: 1
+answer: W)  Volcanic Activity Will Increase
+
+Which of the following is NOT a likely impact of continued global warming:
+W) volcanic activity will increase 
+X) polar ice could melt enough to raise the sea levels
+Y) coral bleaching
+Z) major changes in weather patterns
+
+----
+num: 6
+category: Earth Science
+difficulty: MS
+seen: 1
+answer: Z)  the Proportions of Dissolved Gases in the Ocean Are Nearly 
+the Same as in the Atmosphere
+
+Which of the following is NOT true about ocean water:
+W) cool, salty water is more dense that warm, less salty water 
+X) about 97% of Earth’s surface water is salt water
+Y) about 3.5% of sea water consists of dissolved substances
+Z) the proportions of dissolved gases in the ocean are nearly the same as in the atmo sphere
+
+----
+num: 8
+category: General Science
+difficulty: MS
+answer: Z)  0.0300
+
+Which of the following is a number with 3 significant digits:
+W) 0.003
+X) 0.03030
+Y) 0.033
+Z) 0.0300
+
+----
+num: 9
+category: Life Science
+difficulty: MS
+answer: X)  Foot
+
+Which of the following do clams use as an anchor to fix themselves into the sand:
+W) mantle
+X) foot
+Y) siphon
+Z) ganglia
+
+----
+num: 10
+category: Physical Science
+difficulty: MS
+answer: X)  Joule
+
+Which of the following is the basic unit of energy:
+W) degree
+X) joule
+Y) volt
+Z) pascal
+
+----
+num: 11
+category: Earth Science
+difficulty: MS
+seen: 1
+answer: X)  a Series of Smaller Tremors That Follow a Large 
+Earthquake Within Days or Weeks
+
+Which of the following BEST describes earthquake aftershocks:
+W) all tremors under magnitude 4 on the Richter scale
+X) a series of smaller tremors that follow a large earthquake within days or weeks
+Y) any tremors that originate from the epicenter within a 1 year period
+Z) the tremor that occurs at the initi al point of rupture
+
+----
+num: 11
+category: Earth Science
+difficulty: MS
+answer: Z)  125 Miles
+
+Which of the following is closest to the maximum wavelength of an open ocean tsunami:
+W) 2000 feet
+X) 3 miles
+Y) 30 miles
+Z) 125 miles
+
+----
+num: 13
+category: General Science
+difficulty: MS
+answer: Y)  Oceans
+
+In which of the following biomes does MOST of 
+Earth’s photosynthesis take place:
+W) tundra
+X) tropical forests
+Y) oceans
+Z) taiga
+
+----
+num: 14
+category: Life Science
+difficulty: MS
+answer: X)  Knee
+
+Which of the following is the location of the patella bone:
+W) shoulder
+X) knee
+Y) abdomen
+Z) arm
+
+----
+num: 16
+category: Earth Science
+difficulty: MS
+answer: W)  Radioisotope Half-Life
+
+Studies using which of the following processes is BEST used for calculatin g the age of Earth:
+W) radioisotope half-life 
+X) heat loss from the Sun
+Y) principal of superposition
+Z) ice core sampling
+
+----
+num: 17
+category: Math
+difficulty: MS
+answer: X)  7
+
+The number 3,101 is evenly divisible by which of the following numbers:
+W) 3
+X) 7
+Y) 9
+Z) 11
+
+----
+num: 17
+category: Math
+difficulty: MS
+answer: Y)  2289.06
+
+Which of the following is the product of 3.14 and 9^3:
+W) 27.14
+X) 729.14
+Y) 2289.06
+Z) 2742.04
+
+----
+num: 18
+category: General Science
+difficulty: MS
+answer: W)  Baking Soda
+
+Vinegar reacts with which of the following kitchen ingredients to release bubbles of CO^2:
+W) baking soda
+X) sugar
+Y) flour
+Z) salt
+
+----
+num: 18
+category: General Science
+difficulty: MS
+seen: 1
+answer: Y)  Surface Area
+
+The finer a coffee bean is ground, the stronger the coffee will taste after brewing. This is BEST explained by an increase in the ground coffee beans:
+W) mass
+X) volume
+Y) surface area
+Z) density
+
+----
+num: 19
+category: Life Science
+difficulty: MS
+answer: Y)  Roots, Stems, and Leaves
+
+Which of the following are the 3 basic organs of higher plants:
+W) plastids, cell walls, and golgi
+X) xylem, phloem, and cambium
+Y) roots, stems, and leaves
+Z) cork, bark, and wood
+
+----
+num: 20
+category: Physical Science
+difficulty: MS
+answer: Y)  Momentum
+
+The product of mass and velocity would most commonly be described as:
+W) force 
+X) joules
+Y) momentum
+Z) acceleration
+
+----
+num: 21
+category: Earth Science
+difficulty: MS
+answer: W)  Good Cleavage
+
+A mineral that splits along planes of weakness into even sheets is BEST described as having:
+W) good cleavage
+X) silky luster
+Y) conchoidal fracture
+Z) crystalline shape
+
+----
+num: 21
+category: Earth Science
+difficulty: MS
+seen: 1
+answer: Z)  Granite Is a Widespread Mineral Used in Cement
+
+Which of the following is NOT true about minerals:
+W) cinnabar is the most important mercury ore mineral
+X) pyrite is a common sulfide mineral
+Y) galena is the most important ore of lead
+Z) granite is a widespread mineral used in cement
+
+----
+num: 22
+category: Math
+difficulty: MS
+answer: Z)  the Number 27 Is a Perfect Square
+
+Which of the following is NOT true:
+W) 30% × 60% = 18%
+X) the square of an odd number is always odd
+Y) the reciprocal of the smallest prime number is ½
+Z) t he number 27 is a perfect square
+
+----
+num: 23
+category: General Science
+difficulty: MS
+answer: Z)  Bee
+
+Which of the following is MOST closely related to the wasp:
+W) fly
+X) mosquito
+Y) flea
+Z) bee
+
+----
+num: 25
+category: Physical Science
+difficulty: MS
+answer: Y)  Solution
+
+Which of the following is the MOST appropriate term for a mixture of two liquids that is uniformly distributed and does not separate:
+W) substance
+X) solvent
+Y) solution
+Z) suspension
+
+----
+num: 25
+category: Physical Science
+difficulty: MS
+seen: 1
+answer: X)  Periods
+
+In which of the following organizational sections of the Periodic Table are lit hium, beryllium, boron and carbon all sequentially located:
+W) gases
+X) periods 
+Y) halogens
+Z) groups

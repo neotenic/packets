@@ -1,0 +1,303 @@
+####
+tournament: #6234
+round: Show #6234 - Thursday, October 27, 2011
+year: 2011
+date: 2011-10-27
+####
+
+num: 1
+category: Literature
+difficulty: 200
+seen: 4
+answer: the Simpsons
+
+This family lives at 742 Evergreen Terrace, Springfield, somewhere in the United States.
+
+----
+num: 2
+category: Literature
+difficulty: 200
+seen: 5
+answer: Birds
+
+A game from Rovio:.
+
+----
+num: 3
+category: Science
+difficulty: 200
+seen: 8
+answer: gum
+
+The British Dental Association says that most adults in the U.K. suffer from periodontal, aka this, disease.
+
+----
+num: 4
+category: Literature
+difficulty: 200
+seen: 5
+answer: the best man
+
+Traditionally he gives the first toast to the bride & groom at the reception.
+
+----
+num: 5
+category: Literature
+difficulty: 400
+seen: 5
+answer: SpongeBob
+
+This rather animated guy lives at 124 Conch Street.
+
+----
+num: 6
+category: Literature
+difficulty: 400
+seen: 4
+answer: Tiger
+
+A magazine for teens:.
+
+----
+num: 7
+category: Science
+difficulty: 400
+seen: 6
+answer: fluoride
+
+U.K. dentists recommend no less than 1,000 ppm of this in your 3-year-old's toothpaste.
+
+----
+num: 8
+category: Literature
+difficulty: 400
+seen: 4
+answer: your best foot
+
+Put this body part "forward" to create a favorable initial impression.
+
+----
+num: 9
+category: Literature
+difficulty: 600
+seen: 4
+answer: Ray\'s parents
+
+On "Everybody Loves Raymond", Ray & Debra lived at 320 Fowler; these people, across the street at 319.
+
+----
+num: 10
+category: Literature
+difficulty: 600
+seen: 4
+answer: Leopard
+
+A Mac operating system:.
+
+----
+num: 11
+category: Science
+difficulty: 600
+seen: 5
+answer: an extraction
+
+British dentistry has advanced since medieval barbers performed this procedure using a tool called the pelican.
+
+----
+num: 12
+category: Literature
+difficulty: 600
+seen: 4
+answer: the best boy
+
+Male or female, it's the main assistant to the chief electrician on a movie.
+
+----
+num: 13
+category: Literature
+difficulty: 800
+seen: 4
+answer: 21 Jump Street
+
+Holly Robinson & Peter DeLuise were youthful cops on the show named for this address.
+
+----
+num: 14
+category: Literature
+difficulty: 800
+seen: 4
+answer: monkey
+
+The fruit of the baobab:.
+
+----
+num: 15
+category: Science
+difficulty: 800
+seen: 6
+answer: mercury
+
+The British Dental Association says there is little danger from this element that's always present in amalgams.
+
+----
+num: 16
+category: Literature
+difficulty: 800
+seen: 4
+answer: Best Western
+
+With more than 4,000 hotels, this chain claims to be the world's largest.
+
+----
+num: 17
+category: Literature
+difficulty: 1000
+seen: 4
+answer: dog
+
+A selfish person:.
+
+----
+num: 18
+category: Science
+difficulty: 1000
+seen: 7
+answer: the National Health Service
+
+Missing a molar in Manchester?  Contact the NHS, short for this, & get a list of hospitals with a dentist on call.
+
+----
+num: 19
+category: History
+difficulty: 400
+seen: 4
+answer: the Gettysburg Address
+
+This speech ends, "government of the people, by the people, for the people, shall not perish from the earth".
+
+----
+num: 20
+category: Science
+difficulty: 400
+seen: 6
+answer: kiln
+
+From the Latin for "stove", this brick-lined oven is used to harden & glaze ceramics.
+
+----
+num: 21
+category: Geography
+difficulty: 400
+seen: 8
+answer: Kazakhstan
+
+It's the larger of the 2 "K" stans.
+
+----
+num: 22
+category: History
+difficulty: 800
+seen: 4
+answer: 1775
+
+Patrick Henry gave his rousing "Give me liberty or give me death" address in this pre-revolutionary year.
+
+----
+num: 23
+category: Science
+difficulty: 800
+seen: 5
+answer: blue
+
+Jasperware, introduced by Josiah Wedgwood in 1774, is most commonly made in a pale shade of this color.
+
+----
+num: 24
+category: Geography
+difficulty: 800
+fixed: -1
+seen: 6
+answer: Kyrgyzstan
+
+It's the smaller of the 2 "K" stans.
+
+----
+num: 25
+category: Trash
+difficulty: 800
+seen: 6
+answer: thousand
+
+Shakespearean second-person singular pronoun.
+
+----
+num: 26
+category: History
+difficulty: 1200
+seen: 4
+answer: MacArthur
+
+In a 1951 farewell address after he was fired, he lamented, "Old soldiers never die; they just fade away".
+
+----
+num: 27
+category: Science
+difficulty: 1200
+seen: 6
+answer: clay
+
+Porcelain is basically made from a mixture of 2 ingredients: petuntse & kaolin, a pure white type of this.
+
+----
+num: 28
+category: Geography
+difficulty: 1200
+seen: 8
+answer: Kosovo
+
+Pristina is the capital of this self-declared independent country of the Balkans.
+
+----
+num: 29
+category: Trash
+difficulty: 1200
+seen: 5
+answer: commitee
+
+Perpetrate, like a crime.
+
+----
+num: 30
+category: History
+difficulty: 1600
+seen: 4
+answer: Nehru
+
+About to become prime minister of a new country, he ended his 1947 "Tryst with Destiny" speech "jai hind".
+
+----
+num: 31
+category: History
+difficulty: 2000
+seen: 6
+answer: one-third
+
+In his second inaugural, FDR said this fraction of the U.S. was "ill-housed, ill-clad, ill-nourished".
+
+----
+num: 32
+category: Geography
+difficulty: 2000
+seen: 13
+answer: Kiribati
+
+Though split in two by the international date line, this Pacific republic has all its islands on the same day.
+
+----
+num: 33
+category: Trash
+difficulty: 2000
+seen: 8
+answer: damage
+
+Big river structure.

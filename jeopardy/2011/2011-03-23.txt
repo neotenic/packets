@@ -1,0 +1,403 @@
+####
+tournament: #6113
+round: Show #6113 - Wednesday, March 23, 2011
+year: 2011
+date: 2011-03-23
+####
+
+num: 1
+category: Literature
+difficulty: 200
+seen: 4
+answer: open sesame
+
+Ali Baba takes his son to the cave & teaches him this 2-word password.
+
+----
+num: 2
+category: History
+difficulty: 200
+seen: 5
+answer: Kellogg\'s
+
+Rice Krispies comes from this company's kitchen.
+
+----
+num: 3
+category: Literature
+difficulty: 200
+seen: 4
+answer: consumption
+
+This older name for tuberculosis referred to the disease's wasting away of the body.
+
+----
+num: 4
+category: Literature
+difficulty: 200
+seen: 4
+answer: Ben & Jerry
+
+Born just days apart in 1951, in 1976 they opened their first ice cream shop in a renovated gas station in Vermont.
+
+----
+num: 5
+category: History
+difficulty: 200
+seen: 5
+answer: the friendly ghost
+
+It's what Casper is, according to his theme song.
+
+----
+num: 6
+category: Literature
+difficulty: 400
+fixed: -1
+seen: 4
+answer: Aladdin
+
+An African magician claiming to be this boy's uncle traps him in a cave: a genie gets him out.
+
+----
+num: 7
+category: History
+difficulty: 400
+seen: 4
+answer: Nestlé\'s
+
+Kit Kat is part of this European chocolate company.
+
+----
+num: 8
+category: Literature
+difficulty: 400
+seen: 4
+answer: Down\'s Syndrome
+
+What was once referred to as mongolism is now called this.
+
+----
+num: 9
+category: Literature
+difficulty: 400
+seen: 4
+answer: Rodgers and Hammerstein
+
+In 1944 they won a special Pulitzer for their musical "Oklahoma!".
+
+----
+num: 10
+category: History
+difficulty: 400
+seen: 5
+answer: a girl\'s best friend
+
+In a song from "Gentlemen Prefer Blondes", diamonds are said to be this.
+
+----
+num: 11
+category: Literature
+difficulty: 600
+seen: 3
+answer: Sinbad
+
+This sailor's first voyage begins, "My father left me a considerable estate".
+
+----
+num: 12
+category: History
+difficulty: 600
+seen: 4
+answer: Procter & Gamble
+
+P&G for short, it owns Pampers & Pantene shampoo.
+
+----
+num: 13
+category: Literature
+difficulty: 600
+seen: 4
+answer: epilepsy
+
+In "Julius Caesar", Shakespeare mentions "falling sickness", this disorder characterized bv seizures.
+
+----
+num: 14
+category: Literature
+difficulty: 600
+seen: 4
+answer: Siamese twins
+
+Chang & Eng, born in May 1811 & died in January 1874, were known as this pair.
+
+----
+num: 15
+category: History
+difficulty: 600
+seen: 4
+answer: fair-weather friend
+
+"Meteorological" acquaintance who only hangs out with you when things are good.
+
+----
+num: 16
+category: Literature
+difficulty: 800
+fixed: -1
+seen: 4
+answer: a magic carpet
+
+Prince Houssain buys this transportation device at a bazaar for 40 purses of gold.
+
+----
+num: 17
+category: History
+difficulty: 800
+seen: 4
+answer: Levi Strauss
+
+Dockers are a product of the company named for this man.
+
+----
+num: 18
+category: Literature
+difficulty: 800
+seen: 4
+answer: the grippe
+
+An old name for influenza wasn't grab or clutch but this, from French for "seize".
+
+----
+num: 19
+category: History
+difficulty: 800
+seen: 4
+answer: The Society of Friends
+
+When describing themselves, the Quakers are this religious group.
+
+----
+num: 20
+category: History
+difficulty: 1000
+seen: 4
+answer: Kraft
+
+Philadelphia cream cheese is from this company headquartered in Northfield, Illinois.
+
+----
+num: 21
+category: Literature
+difficulty: 1000
+seen: 4
+answer: writer\'s cramp
+
+Pens down, scrivener's palsy is an old term for this, also known as graphospasm.
+
+----
+num: 22
+category: Literature
+difficulty: 1000
+seen: 3
+answer: (William) Rand (Andrew) McNally
+
+Their first map appeared in an 1872 issue of the "Railway Guide".
+
+----
+num: 23
+category: History
+difficulty: 400
+seen: 5
+answer: Iceland
+
+The largest natural lake on this North Atlantic island is Thingvallavatn near the capital.
+
+----
+num: 24
+category: History
+difficulty: 400
+seen: 4
+answer: John Quincy Adams
+
+Like his dad, he made the big leagues, & his 1794 appointment as minister to the Netherlands pads his intl. stats.
+
+----
+num: 25
+category: Literature
+difficulty: 400
+seen: 4
+answer: spinach/cash nip
+
+Makes you strong to the finish if you eat it all:.
+
+----
+num: 26
+category: History
+difficulty: 400
+seen: 4
+answer: Genghis Khan
+
+Near Ulaanbaatar is the world's largest equestrian statue, a 131-foot-tall one of this Mongol leader.
+
+----
+num: 27
+category: Literature
+difficulty: 400
+seen: 4
+answer: Clara Barton
+
+After learning about the Intl. Red Cross while visiting Europe, she founded the American Red Cross in 1881.
+
+----
+num: 28
+category: History
+difficulty: 800
+seen: 4
+answer: (James) Buchanan
+
+In saying there was no "right of secession" but not backing it up, his PTCWOL (push the Civil War onto Lincoln) is huge.
+
+----
+num: 29
+category: Literature
+difficulty: 800
+seen: 4
+answer: bok choy/boy hock
+
+It's a type of Chinese cabbage:.
+
+----
+num: 30
+category: History
+difficulty: 800
+seen: 4
+answer: the second atomic bomb
+
+A 25' headless shark monument was installed in England Aug. 9, 1986, anniversary of the dropping of one of these.
+
+----
+num: 31
+category: History
+difficulty: 1200
+seen: 5
+answer: Bermuda
+
+Until 1995, the U.S. maintained an air base on St. David's Island in this British group off the coast of Cape Hatteras.
+
+----
+num: 32
+category: Trash
+difficulty: 1200
+seen: 6
+answer: (Paul) Reiser
+
+On the '90s sitcom "Mad About You", he played Paul Buchman.
+
+----
+num: 33
+category: History
+difficulty: 1200
+seen: 4
+answer: Ronald Reagan
+
+His R.E.M. (re-election metric) is killer; he won 49 states--only Minn. said no--& his I.G. (invade Grenada) stats are big, too.
+
+----
+num: 34
+category: Literature
+difficulty: 1200
+seen: 4
+answer: arugula/aura lug
+
+A pungent green:.
+
+----
+num: 35
+category: Literature
+difficulty: 1200
+seen: 5
+answer: Johnstown
+
+In 1889, in one of its earliest relief efforts, the Red Cross aided victims of the killer flood in this Pennsylvania city.
+
+----
+num: 36
+category: Trash
+difficulty: 1600
+seen: 7
+answer: Martin Short
+
+This "SCTV" veteran became the Mad Hatter for a 1999 TV movie of "Alice in Wonderland".
+
+----
+num: 37
+category: History
+difficulty: 1600
+seen: 4
+answer: Nixon
+
+His R.E.M. (re-election metric) is killer; he won 49 states--only Mass. said no--but his TC (term completion) worries me.
+
+----
+num: 38
+category: Literature
+difficulty: 1600
+seen: 4
+answer: watercress/rest arc sew
+
+Its name tells you it's an aquatic plant:.
+
+----
+num: 39
+category: History
+difficulty: 1600
+seen: 4
+answer: (Alexander) Calder
+
+Careful--this American mobile artist's fountain in Barcelona has mercury coursing through it.
+
+----
+num: 40
+category: History
+difficulty: 2000
+seen: 5
+answer: St. Helena
+
+This island was discovered on May 21,1502, the feast day of the mother of Constantine the Great.
+
+----
+num: 41
+category: Trash
+difficulty: 2000
+seen: 9
+answer: (Jim) Cramer
+
+This fiery money manager literally rolls up his sleeves to host CNBC's "Mad Money".
+
+----
+num: 42
+category: History
+difficulty: 2000
+seen: 5
+answer: (Millard) Fillmore
+
+His O-LZT (out-living Zachary Taylor) looms large but I worry about his short pres. career of only 32 months.
+
+----
+num: 43
+category: Literature
+difficulty: 2000
+seen: 5
+answer: romaine lettuce/auctioneer melt
+
+Caesar salad is made with it: auctioneer melt.
+
+----
+num: 44
+category: History
+difficulty: 2000
+seen: 6
+answer: necropolis
+
+Thebes in Egypt is home to a vast one of these, from the Greek for "city of the dead".

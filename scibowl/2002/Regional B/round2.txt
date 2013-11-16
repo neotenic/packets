@@ -1,0 +1,304 @@
+####
+tournament: Regional B
+round: round2.pdf
+year: 2002
+####
+
+num: 1
+category: Chemistry
+difficulty: HS
+seen: 33
+answer: 190
+
+Convert an atmospheric pressure of 0.25 atmospheres into mm Hg:
+
+----
+num: 2
+category: Physics
+difficulty: HS
+fixed: -1
+seen: 25
+answer: Hydrometer
+
+What is the common name for the instrument consisting of a weighted glass tube or bulb which, when floated in a liquid, indicates the liq uid’s relative density?
+
+----
+num: 2
+category: Physics
+difficulty: HS
+seen: 25
+answer: Upper Case A
+
+According to conventional nomenclatur e of nuclear science, what case and letter is used to symbolize mass number?
+
+----
+num: 3
+category: Biology
+difficulty: HS
+seen: 39
+answer: Scolex
+
+Biologists usually refer to the head of a tapeworm by what name?
+
+----
+num: 4
+category: Astronomy
+difficulty: HS
+seen: 56
+answer: Hipparchus
+
+Name the Greek astronomer who ranked the naked-eye stars into six groups of relative brightne ss in the second century B.C.?
+
+----
+num: 5
+category: Math
+difficulty: HS
+seen: 24
+answer: 450
+
+The number 22.5 is 5 percent of what number?
+
+----
+num: 6
+category: Earth Science
+difficulty: HS
+seen: 63
+answer: Caldera
+
+Many large volcanoes are mark ed near their summit by a large, basin-shaped volcanic depression, more or less circular in form and steep-walled, which is called?
+
+----
+num: 7
+category: General Science
+difficulty: HS
+seen: 30
+answer: 5
+
+How many significant figures are in the number 3.8400 × 10 ^4? (read as: three point eight four ze ro zero times ten to the fourth power)
+
+----
+num: 7
+category: General Science
+difficulty: HS
+seen: 31
+answer: 567  (Accept:  566 – 568)
+(Solution:  20 × 28.35 = 567)
+
+To the nearest gram, convert 20 ounces into grams:
+
+----
+num: 8
+category: Computer Science
+difficulty: HS
+seen: 65
+answer: Terabyte
+
+What is the name for the measure of memory or storage capacity that is equal to 2 to the 40th power bytes or, in decimal, approximately a thousand gigabytes?
+
+----
+num: 9
+category: Chemistry
+difficulty: HS
+seen: 33
+answer: Sulfuric Ac Id  (Accept:  H^2so^4)
+
+Acid rain, a major environmental problem, results primarily from the production of what aqueous acid?
+
+----
+num: 9
+category: Chemistry
+difficulty: HS
+seen: 34
+answer: Dessicator
+
+What is the name for the appa ratus commonly found in chemistry labs that is designed to store mate rials in dry air that consists of a glass bowl, an air-tight lid, and a place where a drying agent, such as silica gel, is placed:
+
+----
+num: 10
+category: Physics
+difficulty: HS
+seen: 26
+answer: Average Acceleration
+
+What is the most common term for a change in velocity divided by the time it takes to make the change?
+
+----
+num: 11
+category: Biology
+difficulty: HS
+seen: 39
+answer: Outside of Cells  (Accept: In Between Cells or in the 
+Interstitium)
+
+Where is intercellular fluid normally found?
+
+----
+num: 12
+category: Astronomy
+difficulty: HS
+seen: 54
+answer: 2
+
+How many Viking spacecraft have landed on Mars?
+
+----
+num: 13
+category: Math
+difficulty: HS
+seen: 24
+answer: 80
+
+If the average of 5 numbers is 16, what is the sum of the 5 numbers?
+
+----
+num: 14
+category: Earth Science
+difficulty: HS
+seen: 66
+answer: Asthenosphere
+
+What is the name of the layer lying between the base of the 
+Earth’s lithosphere and a depth of about 2900 kilomete rs, where rock exists in a hot, weak, plastic-like form?
+
+----
+num: 15
+category: General Science
+difficulty: HS
+seen: 31
+answer: 24
+
+Pure gold is how many karats?
+
+----
+num: 15
+category: General Science
+difficulty: HS
+fixed: -1
+seen: 30
+answer: 5.5
+
+How many yards are in 1 rod?
+
+----
+num: 16
+category: Computer Science
+difficulty: HS
+fixed: -1
+seen: 65
+answer: Static  Random Access Memory
+
+What does the acronym SRAM stand for?
+
+----
+num: 17
+category: Chemistry
+difficulty: HS
+seen: 35
+answer: Brønsted-Lowry Theory  (Accept:  Brønsted) ^
+
+Which acid-base theory states that any molecule or ion that can produce a proton is an acid, and any th at can take up a proton is a base:
+
+----
+num: 17
+category: Chemistry
+difficulty: HS
+seen: 34
+answer: Ductile
+
+What general chemical term be st describes a metal that can be drawn out into thin wire or threads without breaking?
+
+----
+num: 18
+category: Physics
+difficulty: HS
+seen: 26
+answer: Yellow
+
+When mixing equal proportions of gr een and red light, what color light is produced?
+
+----
+num: 18
+category: Physics
+difficulty: HS
+seen: 25
+answer: 15 Ohms
+(Solution:  I  = V/r,   R = V/i,  R =  120/8 =15)
+
+For an electric saw that draws 8 am ps on a 120 volt line, what is the resistance of the saw?
+
+----
+num: 19
+category: Biology
+difficulty: HS
+fixed: -1
+seen: 38
+answer: Carpel  (Accept: Pistil)
+
+The stigma, style, and ovary make up what part of a plant?
+
+----
+num: 20
+category: Astronomy
+difficulty: HS
+fixed: -1
+seen: 54
+answer: 225 Million
+
+At the Sun’s distance of 8 kiloparsecs from the Galactic center, how many years would it take for material here to complete one rotational circuit?
+
+----
+num: 21
+category: Math
+difficulty: HS
+seen: 25
+answer: Median = 8.;  Mean = 7;  Mode = 8
+
+What are the median, mean and mode of the following set of numbers: 2, 3, 3, 8, 8, 8, 10, 14
+
+----
+num: 22
+category: General Science
+difficulty: HS
+seen: 30
+answer: One
+
+If you cut a Mobius Strip in half down the center of the strip, how many pieces do you end up with?
+
+----
+num: 22
+category: General Science
+difficulty: HS
+fixed: -1
+seen: 30
+answer: 60  (Accept:  the Same)
+
+If a woman’s mass on Earth is 60 kg, what is her mass, in kilograms, on a planet where the gravity is six times less?
+
+----
+num: 23
+category: Chemistry
+difficulty: HS
+seen: 31
+answer: Lithium
+
+In a flame test for lithium, sodium, potassium, and magnesium, which gives off a red color:
+
+----
+num: 24
+category: Physics
+difficulty: HS
+fixed: -1
+seen: 27
+answer: 0.02 Seconds
+(Solution:  Period = 1 / F)
+
+If a wave has a frequency of 50 hertz , what is its period, in seconds?
+
+----
+num: 25
+category: Biology
+difficulty: HS
+seen: 39
+answer: Themselves
+
+In an autologous tissue transplant, from whom does the person receive the tissue?

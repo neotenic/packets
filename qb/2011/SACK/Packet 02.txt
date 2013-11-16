@@ -1,0 +1,204 @@
+####
+tournament: SACK
+round: Packet 02.doc
+year: 2011
+####
+
+num: 1
+category: History
+difficulty: College
+fixed: 57
+seen: 68
+answer: {Plataea}
+
+Isocrates bemoaned this city's fate in his 14th oration, after its citizens fled Theban domination  for refuge in Athens in 373 BC. This city was the site of the cult of Hellenic Homonoia, as well as the Eleutheria games. It gives its name to an oath – probably specious - in which the Greeks undertook not to rebuild sanctuaries destroyed by the Persians. Mardonius retreated to this Boeotian city situated between Mt. Cithaeron and the Asopus river after his offer of an Athenian alliance was rejected. It was there that the remaining Persians on the Greek mainland were defeated by an alliance of Greek city states fielding north of 30,000 hoplites under the overall command of the Spartan Pausanias on the same day as a counter-attack on the Ionian mainland at Mycale initiated the reconquest of eastern Greek cities. For ten points, name the site of the decisive land victory of the Greek alliance over the Persians in 479 BC.
+
+----
+num: 2
+category: Literature
+difficulty: College
+fixed: 57
+seen: 58
+answer: Orhan {Pamuk}
+
+In this author’s most recent work, after the narrator Kemal runs into his distant cousin Fusun working as a shopgirl in an upscale boutique, he develops an obsession with objects associated with her, eventually putting together the title institution in his mother’s apartment. That work is The Museum of Innocence. An earlier work of this author follows Black as he tries to solve the murders of his would-be father-in-law, Enishte, and the miniaturist Elegant Effendi, both killed over their interest in figurative art. Another of this author’s works dealing with artistic ambivalence treats the suicides of young Muslim women and the state violence intended to intimidate their supporters. Ka, the poet protagonist of that work, tries and fails to mediate between the violent camps dividing the city of Kars. Those works are My Name is Red and Snow. For 10 points, name this Turk who won the Nobel Prize for Literature in 2006.
+
+----
+num: 3
+category: Science
+difficulty: College
+fixed: 57
+seen: 81
+answer: {Angiosperms}
+
+The Anthophyte hypothesis states that this group is a sister group to the Gnetales, but current thought is that an extinct group like the Bennettitales is the true sister of this group. The most basal member of this group is Amborella, a shrub that notably lacks a synapomorphy of this group, the presence of vessel elements in its xylem. Nymphales is another member of this group that lacks a synapomorphy- in that case it is double fertilization, in which one sperm fuses with the egg cell while another sperm, from the same gametophyte, fuses with the two polar nuclei in the embryo sac, forming the endosperm. One clade within this group has triculpate pollen and makes up about 75% of the species in this group. Those are the eudicots. For 10 points, name this group of plants that, unlike gymnosperms, produces flowers.
+
+----
+num: 4
+category: Mythology
+difficulty: College
+fixed: 57
+seen: 111
+answer: {Lakshmi} (accept {Rukmini} until {said})
+
+As the daughter of the king of Vidarbha, this figure's marriage was opposed by her brother who had been a friend of Kamsa, although that did not prevent her from becoming queen of Dwarka. In that form she was the mother of Pradyumna and was known as Rukmini. In the story of her birth as Kamala or Padma, she is generally depicted rising from the water on a certain plant. She is said to be one of the fourteen precious things to come from the churning of the milk ocean. In another form she was born from a furrow in a plowed field and was faithful to her husband while imprisoned on Lanka, even though she is often called the “fickle goddess.” In that form, she was Sita, the wife of Ramachandra. For 10 points, name this golden-skinned Hindu goddess, the epitome of female beauty, best known as the consort of Vishnu and the goddess of good fortune.
+
+----
+num: 5
+category: Philosophy
+difficulty: College
+fixed: None
+seen: 54
+answer: {Increasing Returns} to Scale (prompt on “{Returns} to {Scale}” or “{Economies} of {Scale}”)
+
+This concept is a feature of matching models, in which it gives mathematical meaning to intuitive notions of the “thick market,” where the benefits of trading are greater the larger the number of potential counter-parties with whom to trade. One well-known application of this concept is Krugman’s 1991 paper entitled “[This concept] and Economic Geography,” in which it is used to explain why economic activity in a sector or industry concentrates in particular locations when locations are identical ex-ante. This concept usually enters models through a fixed cost of production, which along with monopolistic competition gives firms market power and non-zero profits. This concept is in general rejected by data on economy-, industry-, and firm-level production, which produce parameter estimates closer to Cobb-Douglas, so its use is disputed despite that models which assume this are successful. For ten points, what is this economic concept meaning that the marginal cost of production falls as the scale of production increases?
+
+----
+num: 6
+category: History
+difficulty: College
+fixed: None
+seen: 70
+answer: {Habsburgs} [accept “{Spanish Habsburgs}” as all {clues pertain} to {Habsburg rulers} of {Spain}]
+
+One king of this dynasty was advised by Ruy Gomez, while another king from this dynasty was mostly controlled by the Duke of Lerma. One ruler from this dynasty appointed Adrian of Utrecht as regent, leading to the Comuneros Rebellion against this dynasty. Yet another king from this dynasty appointed the powerful minister Count-Duke Olivares, who served during the Thirty Years War. The Treaty of the Hague and the Treaty of London, also known as the two partition treaties, unsuccessfully attempted to divide this dynasty’s lands. Another ruler of this dynasty won the Battle of Muhlberg and served as Holy Roman Emperor during the Council of Worms, which condemned Martin Luther. For ten points, name this originally Austrian dynasty that ruled Spain from 1516 to 1700 and included Charles V.
+
+----
+num: 7
+category: Fine Arts
+difficulty: College
+fixed: 1
+seen: 68
+answer: Arthur {Honegger}
+
+This composer's second symphony for strings expresses despair in the middle Adagio mesto movement and concludes with a triumphant trumpet solo marked ad libitum. His third symphony features a “deliberately idiotic” martial march theme which breaks into “a song of peace” in the third movement, Dona nobis pacem, and is subtitled Liturgique. Both of those works were composed in reaction to the horrors of World War Two. Paul Claudel wrote the librettos for this man’s oratorios The Dance of the Dead and Joan of Arc at the Stake. The second of his three symphonic movements features a sports motif, while the chugging momentum of the first was likened to a steam locomotive. For 10 points, name this Swiss composer of Rugby and Pacific 231, a member of Les Six.
+
+----
+num: 8
+category: Science
+difficulty: College
+fixed: 57
+seen: 79
+answer: {heap}
+
+Their decrease-key operation can be done in O (1) (“big O of one”) amortized time in one variant of this whose amortized runtime is analyzed using a potential function which is equal to double the number of marked nodes plus the number of trees. The runtime of Dijkstra's algorithm can be improved by using priority queues that implement that kind of this data structure, which is named for Fibonacci. Smoothsort is a variation of an algorithm that runs in O ( n log n ) (read:“big O of n log n”) time, and has a better worst-case runtime than quicksort, and unlike quicksort, uses only constant auxiliary space. That is its namesake sorting algorithm. In the max version of this data structure, the root node is always the largest. For 10 points, name this tree-based data structure whose namesake property means that child nodes are always smaller or always larger than their parents.
+
+----
+num: 9
+category: History
+difficulty: College
+fixed: None
+seen: 68
+answer: {Turkish} War of {Independence} (accept {variants})
+
+This conflict was set in motion by the Amasya Circular, aimed at opposing the occupations that followed the Armistice of Mudros. Major battles  in this conflict were fought in Marash and Antep against the French, who aimed to set up a puppet state in Cilicia under Armenian sympathizers. Instantiation of the irredentist Megali Idea set the stage for the western theater of this conflict, in which Greek forces seeking political union with resident ethnic Greeks were driven out of Eskishehir and Izmir by armies commanded by Ismet Inonu. The main grievances of the initiators of this conflict were embodied by the Treaty of Sevres, which turned over all of Thrace and large parts of Anatolia to foreign powers and was largely vitiated by the Treaty of Lausanne in 1922. For ten points, name this war of national liberation led by Mustafa Kemal, which founded the modern state whose capital is Ankara.
+
+----
+num: 10
+category: Science
+difficulty: College
+fixed: 57
+seen: 78
+answer: {polynomial}
+
+In representation theory a class of these algebraic objects named after Schur appears in the Frobenius and Weyl character formulas. The Z/2 [read “Z-two”] cohomology of infinite real projective space is this type of ring. Hilbert's Nullstellensatz gives a relationship between the ideal generated by a given set of these and the associated affine algebraic variety. Buchberger’s algorithm gives a way to transform generators of an ideal in this type of ring into a Grobner basis. Eisenstein's criterion gives a method for determining whether one of these is irreducible and can be applied to show irreducibility of cyclotomic types of these if they are of prime degree. Galois Theory proves the impossibility of giving a general solution in terms of radicals for ones of degree five and higher. For 10 points, name this object, a finite sum of variables with non-negative exponents taking coefficients in some ring.
+
+----
+num: 11
+category: Social Science
+difficulty: College
+fixed: 1
+seen: 51
+answer: Lev Semyonovich {Vygotsky}
+
+This thinker noticed that the youngest children cannot repeat “Tanya is standing up” while looking at her sitting down, because the visual field and the field of sense are not separated. This pioneer of defectology wrote that a stick may act as a pivot for cognitive development when a child pretends that it is a horse in “The Role of Play in Development.” He wrote that egocentric speech dialectically transforms into internal speech. His most famous concept deals with the stage between independent problem solving and problem solving through collaboration or assistance. For 10 points, name this Soviet psychologist who introduced the idea of zone of proximal development.
+
+----
+num: 12
+category: Trash
+difficulty: College
+fixed: 1
+seen: 66
+answer: Anna-Lou “Annie” {Leibovitz}
+
+John Loengard took a picture of this photographer emulating Margaret Bourke-White in shooting dancer David Parsons while both were on top of gargoyles on the Chrysler Building. This photographer’s partner influenced a trip during the Balkan war during which a photo of a bicycle on blood-smeared pavement was taken; that work is Sarajevo, Fallen Bicycle of Teenage Boy Just Killed by a Sniper. This photographer was the last to photograph a certain man curled naked next to his fully-clothed wife five hours before he died, inspired by the cover of their album, Double Fantasy, where John and Yoko are kissing.  For 10 points, name this American portrait photographer and lover of Susan Sontag whose terribly revealing pictures of  Miley Cyrus’ back appeared  in Vanity Fair.
+
+----
+num: 13
+category: Literature
+difficulty: College
+fixed: 1
+seen: 63
+answer: Flannery {O’Connor}
+
+This author wrote about two girls who call each other Temple One and Temple Two and see a hermaphrodite at the fair in “A Temple of the Holy Ghost.” In another short story, the central character marries the deaf Lucynell but abandons her at a diner. This woman wrote a novel with a taxi driver who refuses to believe the protagonist isn’t a preacher as he takes him to Leora Watts, even after the protagonist tells the driver he doesn’t believe in anything. That man, Hazel Motes, later does becomes a preacher of sorts when he tries to establish the “Church Without Christ.” The title of of another story comes from a conversation at the Tower between Red Sammy and the grandmother, who makes her son Bailey drive into a ditch where they are found by the Misfit. For 10 points, name this author of Wise Blood and “A Good Man is Hard to Find.”
+
+----
+num: 14
+category: History
+difficulty: College
+fixed: None
+seen: 72
+answer: {Philip} the Good (accept {Philip III})
+
+This man’s faction won the Hook and Cod wars, which gave this man and his Cod supporters, primarily urban merchants, power in the county of Holland. This man inherited a different factional conflict when his father was treacherously assassinated, an act this man blamed on Charles VII of France since it occurred while his father was negotiating with Charles’ agents. It was to thwart Charles that this man ordered that Joan of Arc be turned over to the English. This man acceded to the Treaty of Troyes in the hope of manipulating Henry VI through his own brother-in-law the Duke of Bedford, Henry’s uncle, but he and Bedford clashed. That led this man to sign the Treaty of Arras, seemingly accepting Armagnac control of the French crown, though he offered refuge to the rebellious future Louis XI, who became his son Charles the Bold’s great enemy. For ten points, name this Duke of Burgundy at the height of its wealth and influence.
+
+----
+num: 15
+category: Science
+difficulty: College
+fixed: 57
+seen: 80
+answer: {Scattering}
+
+BART is one type of code used to model this phenomenon when layered spheres are involved, while the discrete dipole approximation is used for modelling this process with non-spherical particles. For simple spherical particles, this phenomenon can be modelled using a solution of Maxwell’s equations named for Lorenz, Debye, and Mie.  Various inelastic versions of this process bear the names of Brillouin, Raman, and Compton. Perhaps the most visible manifestation of this phenomenon is the blueness of the sky, which results from a variety of this phenomenon  named for Rayleigh. For ten points, name this process in which electromagnetic radiation changes its direction due to the presence of deviations from uniformity in the medium through which the light passes.
+
+----
+num: 16
+category: History
+difficulty: College
+fixed: None
+seen: 69
+answer: {Corrupt} Bargain or {Compromise} of 1877 or Bargain of 1877 (anything {related} to the {resolution} of the Election of 1876 acceptable until that {year} is named.)
+
+An alternative name for this is the Wormley House Bargain, in which a bellicose editorial in a Cincinnati newspaper was used by Colonel Edward Burke to extract written promises that codified an earlier arrangement between Andrew Kellar and William Henry Smith. Among those promises were that David Key of Tennessee be given the appointment as Postmaster General and that the Federal government guarantee the debt of numerous public improvement authorities, most importantly Thomas Scott’s Texas-Pacific Railroad. A further provision of this was that a certain number of Democratic votes be forthcoming for James Garfield as Speaker of the House; that provision was not honored. The central provision of this was that federal troops be withdrawn from Louisiana, Florida, and South Carolina. For ten points, what is this agreement that selected Hayes over Tilden after the Election of 1876?
+
+----
+num: 17
+category: Literature
+difficulty: College
+fixed: None
+seen: 59
+answer: The Tragical History of Doctor {Faustus} [do not accept “{Faust},” “{Faustus},” “{Doctor Faust},” etc.]
+
+In one scene of this play, the protagonist visits Pope Adrian VI, whom the protagonist tricks into releasing the Emperor Charles V’s nominee for pope. That release earns him the friendship of the emperor, although one of Charles' knights, Benvolio, tries to kill the protagonist after he humiliates Benvolio by putting antlers on his head. Earlier in this play, Cornelius and Valdes visit the protagonist, causing two other scholars to fear that he has fallen into “that damnèd art” for which those two are infamous. That fear is justified. One of the last acts the protagonist performs is to summon Helen of Troy, before his “four and twenty years expire” and he is dragged to Hell. For ten points, name this Christopher Marlowe play, the “tragical history” of the title doctor.
+
+----
+num: 18
+category: Literature
+difficulty: College
+fixed: None
+seen: 58
+answer: {Either/Or} or {Enten}-{Eller}
+
+One of the aphorisms in this work mentions a clown that informs the public of a backstage fire, which the audience takes as a joke and applauds. Another of this work’s sections consists of a lecture about Elvira and Gretchen, titled “Shadowgraphs,” which is addressed to the “fellowship of the dead.” The proposal that Denmark take on a huge debt to provide entertainment and defeat boredom appears in its theory of social prudence, “Crop Rotation.” This work's second section includes a defense of marriage written by Judge Wilhelm. Cherubino, Papageno, and Don Giovanni are the subjects of “The Immediate Erotic Stages,” an early section in this work, which also includes “The Seducer’s Diary.” For 10 points, name this work subtitled Fragment of Life, in which Kierkegaard discusses the title choice between the aesthetic and the ethical life.
+
+----
+num: 19
+category: Literature
+difficulty: College
+fixed: 57
+seen: 58
+answer: Ben {Jonson}
+
+A braggart captain in one play by this man quotes extensively from The Spanish Tragedy, though not always correctly. In that play, the mostly unconnected subplots are tied up at the end when Justice Clement restores order and the servant Brain-worm is forgiven by his master. In another of his plays, Celia is one of the few honest characters and is offered to the title character by her husband, Corvino. When Mosca refuses to recognize that title character as living, he is sent to a slave galley and the three men after his fortune are also punished in various ways.  In another play by this man, the servant Jeremy enlists the help of Subtle to con Epicure Mammon by promising him the philosopher’s stone. For 10 points, name this author of Volpone, The Alchemist and Every Man in His Humor.
+
+----
+num: 20
+category: Science
+difficulty: College
+fixed: None
+seen: 82
+answer: {Epoxides} or {Oxiranes} (prompt on {Ethers} before mentioned)
+
+These compounds can be formed enantioselectively from alkyl- and aryl- substituted olefins using manganese in a reaction named for Katsui and Jacobsen, or by reacting sulfur ylides with ketones and aldehydes in the Johnson-Corey-Chaykovsky reaction.  Allylic alcohols are converted to chiral alcohols containing this functional group in a reaction named for Sharpless.  A transition state in the synthesis of these compounds is known as the butterfly mechanism, and these compounds are commonly synthesized by reacting an alkene with a peroxyacid. These compounds can also be synthesized from an intramolecular Williamson reaction. For ten points, name these highly strained cyclic ethers with three membered rings.

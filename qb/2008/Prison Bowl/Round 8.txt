@@ -1,0 +1,194 @@
+####
+tournament: Prison Bowl
+round: Round 8.rtf
+year: 2008
+####
+
+num: 1
+category: Science
+difficulty: HS
+fixed: -1
+seen: 459
+answer: {tuberculosis} (accept {TB} before the end of the {question})
+
+ Hippocrates wrote that it was the most widespread disease of his time, and called it phthisis. Edvard Munch's sister, the subject of The Sick Child, died of it. The bacteria that causes it multiplies only about once a day, so infection is easily prevented by those with normal immune systems. Inmates of Georgian prisons are known to swap sputum to be tested positive for this disease and transferred to (*) quarantine prisons with better facilities. In March 2007, Andrew Speaker became the first individual to receive a CDC isolation order since 1963 when he entered the United States while infected with the multi-drug-resistant type of this disease. FTP, name this disease caused by mycobacteria, also known as TB.
+
+----
+num: 2
+category: Literature
+difficulty: HS
+fixed: 57
+seen: 448
+answer: Hermann {Hesse}
+
+He wrote about his disgust with conventional education in Beneath the Wheel, and other early works describe artists, Gertrud and Rosshalde. He was a bookseller until writing about a failed writer in his first novel, Peter Camenzind, while more mature works of his include Narcissus and Goldmund. He was psychoanalyzed by J.B. Lang, the results of which led to Demian. One famous work includes characters like Plinio Designori and Thomas van der (*) Trave, the predecessor of the major character, while another has Kamaswami and Govinda. Along with Hermine and Maria, another work is about Harry Haller, while the first work is about Father Jacobus and Joseph Knecht. FTP, name this author of Steppenwolf, The Glass Bead Game, and Siddhartha. 
+
+----
+num: 3
+category: Mythology
+difficulty: HS
+fixed: -1
+seen: 782
+answer: {Yggdrasil} (accept {Laerad} or {Mimameidr}, prompt on {Tree} of {Life}, {World Tree}, or similar)
+
+Askr and Embla were born from it, four deer run across it, representing the winds, and the Roaring Kettle, which serves as the source of rivers, lies beneath it.  Also known as Laerad, Heidrun and Eikthyrmir eat from it, and Lif and Leifthrasir will use it as shelter.  Urdarbrunnr is used to sustain it while it holds together three levels that contain the Nine Worlds, (*) and the Aesir hold court here.  Nidhogg gnaws at the base of it, and it will eventually be destroyed by Surt.  The source of the mead served in Valhalla, Odin hung upside down for nine nights from it to receive runes.  The golden bird Vidofnir is perched on a hawk at its top, and Ratatösk runs up and down it delivering messages.  FTP, name this giant ash, the world tree in Norse mythology.
+
+----
+num: 4
+category: Fine Arts
+difficulty: HS
+fixed: 1
+seen: 491
+answer: Futurism 
+
+Paintings from this movement include Funeral of the Anarchist Galli by Carlo Carra and The City Rises. It his movement was temporarily endorsed by Fascists, and its manifesto was written by Filippo Marinetti, who expressed a hatred for political and artistic traditions from the past and love for speed, technology, and violence. Paintings in this style sometimes portrayed people in progressive stages of motion, and used Cubist methods of division of space. One painting in this style shows a street lamp emitting light in the shape of V's. (*) Dog on a Leash shows a scurrying dog whose legs are blurred into circles by motion, and Unique Forms of Continuity in Space shows the dynamism of a walking man. FTP, name this movement whose artists include Giacomo Balla, Umberto Boccioni, and Gino Severini.
+
+----
+num: 5
+category: History
+difficulty: HS
+fixed: 57
+seen: 416
+answer: Otto von {Bismarck}
+
+ As ambassador to Russia, he met and befriended Prince Gorchakov, who would later become one of his greatest adversaries, when the Prince would denounce him as having denied Russia's victory by the modification of the Treaty of San Stefano.  The League of Three Emperors thus fell apart during that same month-long meeting he led to decide upon the Eastern Question (*) as the host and mediator of the Congress of Berlin.  Seven years later, he organized another conference in Berlin to decide the fate of African colonization, which precipitated the Scramble for Africa.  FTP, name this German Chancellor to Emperor Wilhelm I, who famously proclaimed the great questions of the day will be decided by iron and blood. 
+
+----
+num: 6
+category: Literature
+difficulty: HS
+fixed: 1
+seen: 442
+answer: Mark {Twain} or Samuel Langhorne {Clemens}
+
+One of his works is about an old man with "white hair descending/in a frothy cataract" who gives a speech to conscripts about the horrors they were praying to inflict on their enemy entitled The War Prayer, while he explains his problems learning "The Awful German language" in an epilogue to one of his more famous works. He wrote a work about Joan of Arc dictating memoirs to Sieur Louis and a collaboration with Charles Dudley Warner which gave its name to (*) The Gilded Age. More famous works are The Tramp Abroad and some that follow a boy who meets Injun Joe in a cemetary and another vagrant son of a drunk who runs away on a raft with the slave Jim. FTP name this author of the books about St. Petersburg, Missouri, The Adventures of Tom Sawyer and Adventures of Huckleberry Finn.
+
+----
+num: 7
+category: Trash
+difficulty: HS
+fixed: 1
+seen: 1021
+answer: the {United States} of America (accept anything reasonable)
+
+This nation won the first match in World Cup history, beating Belgium 3-0, and finished 3rd in that 1930 World Cup, still their best finish to date. Their World Cup appearance in 1990 was the first in 40 years, but in 1950, Joe Gaetjans scored the goal that helped them defeat England 1-0 in the "Miracle on Grass". They finished in last place in the 1998 World Cup, losing to Germany, Yugoslavia, and Iran under coach Steve (*) Sampson 4 years after hosting the tournament, and in 2006, failed to make it past the Group of Death against the Czech Republic, Italy, and Ghana, leading to the departure of coach Bruce Arena. FTP name this country whose soccer team is captained by Carlos Bocanegra and includes players such as DaMarcus Beasley, Landon Donovan, and Freddy Adu.
+
+----
+num: 8
+category: Science
+difficulty: HS
+fixed: 57
+seen: 489
+answer: {Planck} constant or {Planck's} constant (prompt on {h} early, do not accept {h}-{bar})
+
+Classical physics can be defined as the limit of quantum mechanics as this quantity tends to zero. It was originally proposed in reference to black-body radiation, where E, the quantized energy of the photons of radiation, equals this quantity times nu, the frequency. A related constant which is useful when calculating with angular frequency instead of constant frequency is called (*) Dirac's constant, and is simply this constant divided by 2 pi. It is denoted by the letter h and has a value of approximately 6.626 times 10-34 Joule-seconds. FTP, name this physical constant named after a German physicist, which describes the sizes of quanta.
+
+----
+num: 9
+category: Fine Arts
+difficulty: HS
+fixed: 57
+seen: 489
+answer: The {Threepenny} Opera or {Die Dreigroschenoper}
+
+One character in this work opens a store for the most miserable of the miserable, then proceeds to sing his Morning Hymn, and the Instead-Of Song is between him and his wife. The House of Prostitution in Turnbridge is the setting for The Ballad of Sexual Dependency, and a barmaid sings a song about herself, Pirate-Jenny. At the end, the main character is presented Castle Marmarel, but we are first told about his banditry before seeing the opening of that store by Jonathan Jeremiah Peachum. The Jealousy Duet is sung between Lucy and (*) Polly, while the first song of Act I is the most famous, a ballad covered by Lyle Lovett and Louis Armstrong, among others, about the main character, Mack the Knife. FTP, name this opera based on John Gay's Beggar's Opera, a collaboration between Kurt Weill and Bertolt Brecht.
+
+----
+num: 10
+category: Geography
+difficulty: HS
+fixed: 1
+seen: 710
+answer: Ostrov {Sakhalin} (accept {Karafuto} before mentioned)
+
+In 1995, this land mass was struck by an earthquake that destroyed the town of Neftegorsk. Its highest point is Mount Lopatin, and it is separated from the mainland by the Tatar Strait. In 1875 the country that controls it today traded it for a nearby archipelago and ran a penal colony on it before losing its southern half thirty years later. During that time, the island was known as Karafuto, and was handed over according to the Treaty of (*) Portsmouth. Cities on it include Alexandrovsk and Yuzhno, which is the capital of the province formed by this namesake island and the nearby archipelago, part of which is still claimed by Japan, the Kuril Islands. The Sea of Okhotsk lies east of, FTP, what island, the largest in Russia?
+
+----
+num: 11
+category: Literature
+difficulty: HS
+fixed: 57
+seen: 450
+answer: {Maria} von Trapp
+
+Born into the Kutschera family in 1905, she was raised a socialist and atheist, and was cynical towards all religions until she met a Jesuit priest in college. In 1942, she started a music camp on a 660-acre farm in Stowe, Vermont, a location she thought resembled the hills of her native Austria. Unlike her portrayal in a movie, she was governess to only one child (*) of naval captain Georg von Trapp, a daughter who was bedridden with rheumatic fever. FTP, name this woman whose books about her family's escape from the Nazis after the Anschluss were used as the basis for The Sound of Music.
+
+----
+num: 12
+category: Trash
+difficulty: HS
+fixed: 1
+seen: 583
+answer: Marcel {Marceau} or Marcel {Mangel}
+
+His first success was the role of Arlequin in Baptiste, but he first gained international renown with a production of his interpretation of Nikolay Gogol's The Overcoat. He studied at the Sarah Bernhardt Theatre with Étienne Decroux. His movie roles include Professor Ping in Barbarella, and appearances in Paganini and Silent Movie. His most famous characterization was first presented in 1947, and was known as Bip. His album of greatest hits consists of one minute of clapping on each end, surrounding many minutes of (*) silence. This is because the art form for which he was most famous and helped popularize required no talking whatsoever. Retiring in 2005, two years before his September 2007 death, FTP, name this Frenchman, the foremost mime of the 20th century. 
+
+----
+num: 13
+category: Literature
+difficulty: HS
+fixed: 57
+seen: 441
+answer: The {Merchant} of {Venice}
+
+In act 2 of this play Lancelot Gobbo leaves his master and then meets his father, asking where Lancelot lives. Old Gobbo is then convinced that Lancelot is dead. Later, Jessica confides in Lancelot that she is ashamed to be her father's daughter, and then she elopes. The title character is friends with Gratiano, Salarino, and Solario, and he agrees to lend money to (*) Bassanio, who is believed to be his homosexual lover. Bassanio then goes to Belmont to court Portia, who disguises herself in the trial of Antonio to give the "quality of mercy" speech in FTP this William Shakespeare comedy about the Jewish money lender Shylock who sues the title character for "a pound of flesh."
+
+----
+num: 14
+category: Philosophy
+difficulty: HS
+fixed: 1
+seen: 527
+answer: Bertrand {Russell}
+
+He delivered the first Reith Lecture, which was converted into the book Authority and the Individual. In an essay of his he proposed the concept of a tiny celestial teapot that is floating between Mars and the Earth in an attempt to demonstrate that God is a fairy tale like Santa Claus. His most famous work on Religion was Why I am Not (*) A Christian, while criticisms of his most important work involve the axiom of infinity and his namesake paradox, which involves the set of all sets that are not members of themselves. Co-writer of an influential 3-volume work in logic with Alfred North Whitehead this is FTP what British winner of the 1950 Nobel Prize in Literature who helped write Principia Mathemtica.
+
+----
+num: 15
+category: Science
+difficulty: HS
+fixed: 1
+seen: 487
+answer: phlogiston
+
+When it was first proposed, it was the "fat" type of three types of earth that together replaced one of the four main elements, a theory put forth in the 1669 work Subterranean Physics by Johann Becher. Early in the 18th century, one of Becher's students expounded on the theory and gave this substance its more common name. According to that student, Georg Ernst Stahl, it was one of the products of corrosion along with calx, (*) known today as a metal's oxide. Its existence was defended until the beginning of the 19th century by some chemists, including Joseph Priestley, even after being discredited by Antoine Lavoisier. FTP, name this theoretical substance that was thought to explain why wood gets heavier after combustion.
+
+----
+num: 16
+category: History
+difficulty: HS
+fixed: 57
+seen: 421
+answer: Battle of {Long} Island
+
+The final tactical withdrawal from this battle was conducted under the direction of John Glover, whose Marbleheaders did not complete the operation by sunrise as planned, but were luckily saved by a heavy fog.  During the previous day, Israel Putnam's force was engaged with Henry Clinton, but a force led by William Howe marched through the lightly-defended Jamaica Pass to turn Putnam's flank, (*)forcing the Americans to fall back.  With over 2,000 casualties, compared to the British 400, Washington ordered a surprise night retreat across the East River to Manhattan.  FTP – Name this first Revolutionary Battle after the Declaration of Independence on an island in New York.
+
+----
+num: 17
+category: Science
+difficulty: HS
+fixed: 1
+seen: 486
+answer: Omar {Khayyam}
+
+His collaboration with other astronomers led to the creation of the Jalali Calendar, more accurate than the Gregorian and computed from the vernal equinox.  In mathematics, he developed a method to solve cubic equations by intersecting a conic section with a circle, as explained in his 1070 Treatise on Demonstration of Problems of Algebra, and his criticism of The Elements (*) may have contributed to the development of non-Euclidean geometry.  However, he was most notable for composing over a thousand quatrains, many of which were translated by Edward Fitzgerald in 5 editions.  FTP, name this Persian polymath poet whose most famous line from his Rubaiyat may be, A jug of wine, a loaf of bread, and thou. 
+
+----
+num: 18
+category: Philosophy
+difficulty: HS
+fixed: 57
+seen: 485
+answer: categorical {syllogism} (prompt on a response of any other type of {syllogism} until 256 distinct types is read)
+
+A sorite is formed of many of these strung together. There are 256 distinct types of this, because each of the propositions can be of type A, E, I, or O, and it can be in one of four figures. The major premise and the conclusion have the same (*) predicate, while the minor premise and the conclusion have the same subject. It was presented by Aristotle in Prior Analytics.  FTP, name this logical argument, an example of which is: all mortals die, and all men are mortals, therefore all men die. 
+
+----
+num: 19
+category: Science
+difficulty: HS
+fixed: 1
+seen: 478
+answer: {rubber} (prompt on {latex})
+
+This substance's stress-strain behavior exhibits the Mullins effect and the Payne effect. Unlike other materials, it stores strain energy in thermal form as well as electrostatic form. In its natural form, it is a polymer of hydrocarbon monomers called isoprene. It can also be synthesized as a polymer of (*) isoprene or of various other monomers. It often undergoes vulcanization, a process in which it is heated and cured with sulfur. It occurs naturally in the sap of certain plants such as the Pará tree, figs, and euphorbias. FTP, name this elastic material used in most pencil erasers.

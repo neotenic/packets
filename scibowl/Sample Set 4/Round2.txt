@@ -1,0 +1,437 @@
+####
+tournament: Sample Set 4
+round: Round2.pdf
+####
+
+num: 1
+category: Biology
+difficulty: HS
+seen: 41
+answer: Embryo
+
+Two or more structures are said to be homologous if they are alike because of shared ancestry. Ovaries and testes share a developmental ancestry, meaning that the structures arose from the same t issue in what physical stage of human life?
+
+----
+num: 1
+category: Physical Science
+difficulty: MS
+seen: 6
+answer: Constructive
+
+
+Two stones are dropped in a pond and the ripples interfere with each other to create a bigger ripple than each of the original ripples. What is this type of interference called?
+
+----
+num: 2
+category: Math
+difficulty: HS
+seen: 23
+answer: 
+
+Given a standard deck of 52 cards, what is the probability, expressed as a fraction in lo west terms, that the first card dealt is a heart?
+
+----
+num: 2
+category: Math
+difficulty: HS
+seen: 24
+answer: 400
+
+An ichthyologist wants to know the fish population of a pond. She catches 60 fish, tags them, and releases them. Two weeks later, she catches 50 fish and 7 of them have tags. Based on the data, what is the best estimate of the fish population of the pond? 
+Round your answer to the nearest hundred.
+
+----
+num: 2
+category: General Science
+difficulty: MS
+seen: 6
+answer: 17
+
+How many electrons does a chlorine atom have?
+
+----
+num: 4
+category: Math
+difficulty: HS
+seen: 26
+answer: Vector
+
+What do we call a mathematical object that possesses both magnitude and direction?
+
+----
+num: 4
+category: Earth and Space Science
+difficulty: MS
+seen: 5
+answer: 1/2
+
+Is the radius of Mars 1/4, 1/2, 2, or 4 times the size of Earth’s radius?
+
+----
+num: 4
+category: Earth and Space Science
+difficulty: MS
+seen: 6
+answer: Phobos and Deimos
+
+Name the two moons which orbit Mars.
+
+----
+num: 5
+category: Chemistry
+difficulty: HS
+seen: 33
+answer: S
+
+What letter designates the lowest energy subshell in any shell?TOSS -UP
+
+----
+num: 5
+category: Chemistry
+difficulty: HS
+seen: 34
+answer: B Ohr
+
+
+Identify the scientist who proposed the existence of energy levels for the electrons in an atom.
+
+----
+num: 6
+category: Physics
+difficulty: HS
+seen: 26
+answer: Coriolis Effect (Accept: Coriolis Force, Rotation of the Earth)
+
+What causes low-pressure weather systems, such as tropical cyclones, to spin counter-clockwise in the Northern Hemisphere and clockwise in the Southern 
+Hemisphere?
+
+----
+num: 6
+category: Physics
+difficulty: HS
+seen: 28
+answer: Lightning
+
+Billions of tiny ice crystals rub together to produce electron imbalances within storm clouds. What do we see when electrons arc to another cloud or to the ground?
+
+----
+num: 7
+category: General Science
+difficulty: MS
+seen: 6
+answer: Halogens (Accept: Group 17)
+
+The elements chlorine, fluorine, iodine, and bromine are all members of what group of elements?
+
+----
+num: 8
+category: Biology
+difficulty: HS
+seen: 37
+answer: Dissolve/corrode Their Shells
+
+Most shelled organisms in the ocean make their shells out of calcium carbonate. What effect would increasing ocean acidity have on the shells of these organisms?
+
+----
+num: 8
+category: Biology
+difficulty: HS
+seen: 38
+answer: The Earth's Magnetic Field
+
+In the 1960s, a group of bacteria were discovered with magnetic crystals in a specialized organelle. It is believed that these bacteria used the crystals to help them align with what natural phenomenon?
+
+----
+num: 8
+category: Physical Science
+difficulty: MS
+seen: 6
+answer: Solid
+
+At room temperature, what is the state of matter of most elements?
+
+----
+num: 8
+category: Physical Science
+difficulty: MS
+seen: 5
+answer: Reverse Osmosis (Accept: Desalination)
+
+Most submarines can only store enough fresh water to last for about 10 days. In order to obtain fresh water, most submarines are equipped with an apparatus that converts sea water into fresh water. What is the name of the process used to convert the sea water?
+
+----
+num: 9
+category: Earth and Space Science
+difficulty: MS
+seen: 5
+answer: Igneous
+
+Extrusions from a volcano produce what types of rock?
+
+----
+num: 9
+category: Earth and Space Science
+difficulty: MS
+seen: 6
+answer: Gypsum
+
+
+Which of the following is not a form of m etamorphic rock: slate, marble, gypsum, or gneiss (read as: NYS)?
+
+----
+num: 11
+category: Physics
+difficulty: HS
+seen: 25
+answer: Dispersion
+
+What is the term that describes the separation of visible light into its component colors by a prism?
+
+----
+num: 11
+category: Physical Science
+difficulty: MS
+seen: 5
+answer: 7
+
+What pH is considered neutral?
+
+----
+num: 12
+category: Life Science
+difficulty: MS
+seen: 10
+answer: Circulatory (Do Not Accept: Digestive)
+
+When an organism becomes too large for muscular contractions and diffusion to effectively move nutrients throughout the body, what system is needed to transport the nutrients?
+
+----
+num: 13
+category: Math
+difficulty: HS
+fixed: -1
+seen: 25
+answer: (1, -2)
+
+The point (1, 2) is reflected across the x axis. What are the coordinates of its image?
+
+----
+num: 13
+category: Math
+difficulty: HS
+fixed: -1
+seen: 24
+answer: Y ) 1
+
+
+A viper had a length of 30 centimeters at 6 months of age and a length of 1.3 meters at 15 years old. Assuming that its growth was linear, which of the following is closest to its length in meters at 10 years old?
+W) 0.6
+X) 0.8
+Y) 1
+Z) 1.2
+
+----
+num: 13
+category: Math
+difficulty: MS
+fixed: -1
+seen: 7
+answer: 280
+
+
+Simplify 8 x 23 + 8 x 7 + 8 x 5 (read as: 8 times 23 plus 8 times 7 plus 8 times 5). Express the answer as a natural number.
+
+----
+num: 15
+category: Physical Science
+difficulty: MS
+seen: 5
+answer: Simple Machine
+
+What is the general term for the most basic device used to change the direction or magnitude of a force?
+
+----
+num: 15
+category: Physical Science
+difficulty: MS
+seen: 5
+answer: (Accept 4) Lever, Wedge, Pulley, Wheel & Axle, Inclined Plane, 
+Screw
+
+
+Name four of the six kinds of simple machines.
+
+----
+num: 16
+category: Physics
+difficulty: HS
+seen: 26
+answer: Third
+
+When a girl wearing roller blades throws a ball in front of her, she slides backwards. Her movement is an illustration of which of Newton’s Laws of Motion?
+
+----
+num: 16
+category: Math
+difficulty: MS
+seen: 7
+answer: F + 4
+
+Simplify:
+
+----
+num: 16
+category: Math
+difficulty: MS
+seen: 6
+answer: (Read As: One, One Thousand Seventy-Five Ten Thousandths, or 1 Over 1075)
+
+What is the multiplicative inverse, in simplest form, of 43 times 25?
+
+----
+num: 17
+category: Chemistry
+difficulty: HS
+seen: 34
+answer: The Amount of Charge and the Distance Between the Objects
+
+
+The force between two electrically charged objects can be changed by altering what two quantities?
+
+----
+num: 18
+category: Math
+difficulty: HS
+seen: 25
+answer: Y = 2x^3 + 4x
+
+If 8x^3 – 4y = -16x, express y as a function of x in simplest form.
+
+----
+num: 18
+category: Energy
+difficulty: MS
+seen: 6
+answer: Molecular Activity (Ac Cept: Molecular Motion, Average Kinetic 
+Energy, Heat Energy)
+
+Temperature is a measure of energy based on which property of a substance?
+
+----
+num: 19
+category: Energy
+difficulty: HS
+seen: 34
+answer: Gravitational
+
+What kind of potential energy is stored in the reservoir behind a dam?
+
+----
+num: 19
+category: Earth and Space Science
+difficulty: MS
+seen: 6
+answer: Sedimentary Rock
+
+Which of the three main rock types contains most of the fossil fuels we use as energy resources today?
+
+----
+num: 20
+category: Earth and Space
+difficulty: HS
+seen: 45
+answer: 1969
+
+In what year did astronauts first land on the Moon?
+
+----
+num: 20
+category: Math
+difficulty: MS
+seen: 7
+answer: 96
+
+The area of a rectangle is 24 square centimeters. If you double both the length and width, what is the new area in square centimeters?
+
+----
+num: 21
+category: Physics
+difficulty: HS
+seen: 26
+answer: -273 Degrees Celsius (Accept: 273 Degrees Celsius Below Zero)
+
+Providing your answer to the nearest degree, what is absolute zero in degrees Celsius?
+
+----
+num: 21
+category: Physics
+difficulty: HS
+seen: 25
+answer: Expands (Accept: Rises)
+
+
+When air in a closed system is heated, what does it do?
+
+----
+num: 21
+category: Life Science
+difficulty: MS
+seen: 10
+answer: 50%
+
+In most organisms that reproduce sexually, what proportion of genetic material comes from the mother?
+
+----
+num: 22
+category: General Science
+difficulty: MS
+seen: 6
+answer: The Milky Way
+
+By what name is our galaxy typically called?
+
+----
+num: 23
+category: Math
+difficulty: HS
+seen: 25
+answer: 7
+
+Determine the slope of the line that has the equation: y – 14 = 7 (x + 2) - 5.
+
+----
+num: 24
+category: Math
+difficulty: MS
+seen: 6
+answer: 19
+
+What is the largest prime number less than 20?
+
+----
+num: 24
+category: Math
+difficulty: MS
+seen: 6
+answer: 96
+
+What is the sum of the largest prime number less than 50 and the largest square number less than 50?
+
+----
+num: 25
+category: Earth and Space
+difficulty: HS
+fixed: -1
+seen: 46
+answer: Planets Like the Earth
+
+What are scientists hoping to discover with the Kepler telescope?
+
+----
+num: 25
+category: Earth and Space Science
+difficulty: MS
+seen: 6
+answer: Carbon Dioxide
+
+What atmospheric trace gas is a product of aerobic respiration?

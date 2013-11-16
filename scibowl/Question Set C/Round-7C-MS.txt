@@ -1,0 +1,236 @@
+####
+tournament: Question Set C
+round: Round-7C-MS.pdf
+####
+
+num: 1
+category: Physical Science
+difficulty: MS
+seen: 6
+answer: 7
+
+What is the pH of a neutral aqueous solution?
+
+----
+num: 1
+category: Physical Science
+difficulty: MS
+seen: 6
+answer: Hydronium  (Accept:  Hydrogen or H^3o+ or H+)
+
+If a solution has a low pH, what ion predominates in the solution?
+
+----
+num: 3
+category: Math
+difficulty: MS
+seen: 8
+answer: 14.1
+(Solution:  C = a 2 = 10 2 - 14.1m)
+
+Giving your answer in meters to the first decimal place, if one leg of an isosceles right triangle is 10 meters long, how long is the hypotenuse?
+
+----
+num: 3
+category: Math
+difficulty: MS
+seen: 7
+answer: 4
+
+Consider 2 cars that start from the same point along a highway and travel in the same direction. One car travels at a constant rate of 40 miles per hour and the other at a constant rate of 50 miles per hour. How many hours later are the cars 40 miles apart?
+
+----
+num: 4
+category: General Science
+difficulty: MS
+seen: 6
+answer: Nickel  (Accept:  Ni)
+
+What metallic element is silvery white, takes on a high polish, is extensively used for making stainless steel and other corrosion-resistant alloys, and is used in making rechargeable batteries?
+
+----
+num: 5
+category: Life Science
+difficulty: MS
+seen: 10
+answer: Head;  Thorax;  Abdomen  (In Any Order)
+
+The grasshopper body is grossly divided into what 3 parts?
+
+----
+num: 6
+category: Physical Science
+difficulty: MS
+seen: 6
+answer: Wheel and Axle
+
+If a screwdriver is used to tighten a screw, then the screwdriver is an example of what simple machine?
+
+----
+num: 6
+category: Physical Science
+difficulty: MS
+seen: 5
+answer: 686  (Accept:  700)
+
+What is the force, in newtons, with which gravity pulls a 70-kilogram person towards the Earth’s surface?
+
+----
+num: 7
+category: Earth Science
+difficulty: MS
+seen: 8
+answer: Carbon Dioxide  (Accept:  Co
+^2)
+
+Human-induced global climate change is believed to be caused primarily by the release of what gas into the atmosphere?
+
+----
+num: 9
+category: General Science
+difficulty: MS
+seen: 5
+answer: 25.35
+(Solution: 2500cm = 25m;  350mm = 0.35m;  25m + 0.35m = 25.35 Meters)
+
+Giving your answer in meters rounded to the second decimal place, add 2,500 centimeters to 350 millimeters:
+
+----
+num: 10
+category: Life Science
+difficulty: MS
+seen: 10
+answer: 23
+
+How many chromosomes does a mature human sperm typically have?
+
+----
+num: 10
+category: Life Science
+difficulty: MS
+fixed: -1
+seen: 10
+answer: O
+
+Of the 4 main blood types, what type has the LEAST amount of reacting antigens and is therefore the most common type for blood transfusions?
+
+----
+num: 12
+category: Earth Science
+difficulty: MS
+seen: 6
+answer: P-Wave
+
+Of the following 3 seismic waves, name all that can travel through Earth’s liquid outer core: S-wave; surface wave; P-wave
+
+----
+num: 13
+category: Math
+difficulty: MS
+fixed: -1
+seen: 6
+answer: -3
+(Solution: C + 1 = 6, C = 5;  B + 5 = 20, B = 15;  a + 15 = 12, a = -3)
+
+If a + b = 12, b + c = 20, and c + d = 6, find a if d = 1:
+
+----
+num: 13
+category: Math
+difficulty: MS
+seen: 6
+answer: 31,400
+(Solution:  a =  πR^2 = (3.14)(100)^2 = 31,400 Cm^2)
+
+Using π = 3.14, give the integer value, in square centimeters, for the area of a circle whose diameter is 200 centimeters:
+
+----
+num: 15
+category: Life Science
+difficulty: MS
+seen: 11
+answer: Stamen  (Accept: Anther)
+
+What is the scientific term for the male reproductive structure in plants?
+
+----
+num: 15
+category: Life Science
+difficulty: MS
+seen: 10
+answer: Tap Root
+
+What is the MOST common term for the root system in most dicots?
+
+----
+num: 16
+category: Physical Science
+difficulty: MS
+seen: 5
+answer: 5   (Accept 4.87)
+
+What is the total pressure, in atmospheres, at a depth of 40 meters in saltwater?
+
+----
+num: 18
+category: Math
+difficulty: MS
+seen: 7
+answer: No Solution  (Accept:  Empty Set)
+
+Solve the following equation for x:  (x – 3) = –7 (read as: the absolute value of, parenthesis, x – 3, close parenthesis, equals negative 7)
+
+----
+num: 18
+category: Math
+difficulty: MS
+seen: 6
+answer: 16 and  -16
+
+Solve the following equation for x over the real number: (64)^2 = 16x^2
+
+----
+num: 20
+category: Life Science
+difficulty: MS
+seen: 10
+answer: Proteins
+
+Of the 4 general types of biological molecules: proteins, carbohydrates, lipids and nucleic acids, under which one would most enzymes be categorized?
+
+----
+num: 22
+category: Earth Science
+difficulty: MS
+seen: 8
+answer: Subduction
+
+What is the name of the process that occurs along a convergent plate boundary whereby one of the plates bends and sinks into the mantle?
+
+----
+num: 23
+category: Math
+difficulty: MS
+seen: 6
+answer: 2
+(Solution:  1/x = 1/3 + 1/6;  X = 2hrs)
+
+If Dan can paint a wall in 3 hours but Ryan takes 6 hours, how many hours will it take them to paint the wall if they work together?
+
+----
+num: 25
+category: Life Science
+difficulty: MS
+seen: 10
+answer: Molting
+
+What is the scientific term for the process arthropods go through to shed their exoskeleton to allow them to grow into a new one?
+
+----
+num: 25
+category: Life Science
+difficulty: MS
+seen: 11
+answer: Keratin
+
+What is the primary protein from which eagles talons are made?

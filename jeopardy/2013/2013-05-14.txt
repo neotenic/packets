@@ -1,0 +1,501 @@
+####
+tournament: #6607
+round: Show #6607 - Tuesday, May 14, 2013
+year: 2013
+date: 2013-05-14
+####
+
+num: 1
+category: Trash
+difficulty: 200
+seen: 5
+answer: Maria Sharapova
+
+This tennis star's line of gummy candies is called Sugarpova.
+
+----
+num: 2
+category: Social
+difficulty: 200
+seen: 5
+answer: emeritus
+
+In 2010 the U. of Idaho celebrated the 100th birthday of chemist Malcolm Renfrew, holder of this type of professorship.
+
+----
+num: 3
+category: Geography
+difficulty: 200
+seen: 9
+answer: the Nile
+
+It's the longest river in the world that flows mainly from south to north.
+
+----
+num: 4
+category: Trash
+difficulty: 200
+seen: 7
+answer: Goldfish
+
+"The snack that smiles back", this kids' favorite from Pepperidge Farm comes in pizza & Parmesan flavors as well as Cheddar.
+
+----
+num: 5
+category: Literature
+difficulty: 200
+seen: 4
+answer: a picture
+
+"Every" one of these, whether photo or painting, "tells a story".
+
+----
+num: 6
+category: Mythology
+difficulty: 200
+seen: 13
+answer: breathing
+
+Yogis can bear all kinds of problems if they've mastered pranayama, or control of this, especially the deep type.
+
+----
+num: 7
+category: Trash
+difficulty: 400
+seen: 4
+answer: (David) Beckham
+
+According to Forbes, this man born in east London is the world's highest-earning soccer player.
+
+----
+num: 8
+category: Social
+difficulty: 400
+seen: 5
+answer: astronomy
+
+Professor Asaph Hall, who discovered Deimos & Phobos, taught math & this at Harvard.
+
+----
+num: 9
+category: Geography
+difficulty: 400
+seen: 7
+answer: South America
+
+It's the closest of the other continents to Antarctica.
+
+----
+num: 10
+category: Trash
+difficulty: 400
+seen: 5
+answer: matzo
+
+As well as the traditional type, Manischewitz also makes this unleavened bread in the form of smaller crackers.
+
+----
+num: 11
+category: Literature
+difficulty: 400
+seen: 5
+answer: pitchers
+
+"Little" these "have big ears".
+
+----
+num: 12
+category: Mythology
+difficulty: 400
+seen: 14
+answer: lotus
+
+A hatha yogi must bear a posture known as the padmasana, which emulates this flower.
+
+----
+num: 13
+category: Trash
+difficulty: 600
+seen: 5
+answer: Ashley Judd
+
+In 2013 the marriage of Scottish auto racer Dario Franchitti & this actress spun out & hit the wall.
+
+----
+num: 14
+category: Social
+difficulty: 600
+seen: 4
+answer: Spike Lee
+
+This "Do the Right Thing" filmmaker teaches directing at NYU.
+
+----
+num: 15
+category: Trash
+difficulty: 600
+seen: 5
+answer: Ritz
+
+Since 1934 we've been finding new toppings for "Putting on" these round classics.
+
+----
+num: 16
+category: Literature
+difficulty: 600
+seen: 4
+answer: power
+
+This "corrupts"; "absolute" this "corrupts absolutely".
+
+----
+num: 17
+category: Mythology
+difficulty: 600
+seen: 12
+answer: the forehead
+
+Your yogi may bear a tilak, a mark usually made on this body part.
+
+----
+num: 18
+category: Trash
+difficulty: 800
+seen: 5
+answer: Vijay Singh
+
+This Fijian golfer's first name means "victory" in Hindi.
+
+----
+num: 19
+category: Social
+difficulty: 800
+seen: 4
+answer: the Weathermen
+
+As Bill Ayers was in a '60s radical group called this, maybe he forecast later being an Illinois education professor.
+
+----
+num: 20
+category: Geography
+difficulty: 800
+seen: 8
+answer: the Taiwan Strait
+
+This strait named for an island connects the South China Sea with the East China Sea.
+
+----
+num: 21
+category: Trash
+difficulty: 800
+seen: 4
+answer: pretzels
+
+Keebler bills Town House Flipsides as buttery crackers with the added taste of this salty snack.
+
+----
+num: 22
+category: Literature
+difficulty: 800
+seen: 4
+answer: politics
+
+This "makes strange bedfellows".
+
+----
+num: 23
+category: Mythology
+difficulty: 800
+seen: 11
+answer: yellow
+
+The yogi bears with dignity his robe of this primary color, like Buddha wore in "Siddhartha".
+
+----
+num: 24
+category: Trash
+difficulty: 1000
+seen: 6
+answer: Evgeni Malkin
+
+Nicknamed "Geno", this Pittsburgh Penguins center led the NHL with 109 points in the 2011-12 season.
+
+----
+num: 25
+category: Social
+difficulty: 1000
+seen: 5
+answer: Howard Zinn
+
+This radical professor & "People's" historian died aged 87 in 2010.
+
+----
+num: 26
+category: Geography
+difficulty: 1000
+seen: 9
+answer: Estonia
+
+In the trio of nations seen.
+
+----
+num: 27
+category: Literature
+difficulty: 1000
+seen: 4
+answer: the piper
+
+"He who pays" this person "calls the tune".
+
+----
+num: 28
+category: Mythology
+difficulty: 1000
+seen: 13
+answer: Shiva
+
+The kanphata yogi bears the will of this god whose third eye can bring destruction.
+
+----
+num: 29
+category: History
+difficulty: 400
+seen: 4
+answer: the State Department
+
+In July 1789 Congress creted this first cabinet department; Thomas Jefferson was selected to head it.
+
+----
+num: 30
+category: History
+difficulty: 400
+seen: 4
+answer: sequester
+
+It's the set of triggered federal spending cuts that went into effect March 1, 2013.
+
+----
+num: 31
+category: Literature
+difficulty: 400
+seen: 4
+answer: Juliet
+
+In Act II this character says, "Or, if thou wilt not, be but sworn my love".
+
+----
+num: 32
+category: Literature
+difficulty: 400
+seen: 3
+answer: a border
+
+An outer decorative edge, or the official dividing line between 2 countries.
+
+----
+num: 33
+category: Science
+difficulty: 400
+fixed: -1
+seen: 6
+answer: fission
+
+Cytokinesis is the money part of this asexual process by which amoebas reproduce.
+
+----
+num: 34
+category: Trash
+difficulty: 400
+seen: 6
+answer: Eminem
+
+"I'm Slim Shady, yes I'm the real Shady, all you other Slim Shadys are just imitating, so won't the real Slim Shady please stand up?".
+
+----
+num: 35
+category: History
+difficulty: 800
+seen: 4
+answer: the University of North Carolina
+
+In 1795 in Chapel Hill it became the first state university to admit students.
+
+----
+num: 36
+category: History
+difficulty: 800
+seen: 4
+answer: Afghanistan
+
+A "drawdown" is usually of troops, like the 34,000 coming home from this country between early 2013 & '14.
+
+----
+num: 37
+category: Literature
+difficulty: 800
+seen: 4
+answer: mortal
+
+A classic syllogism concludes "Socrates is" this absolute, proved true in 399 B.C.
+
+----
+num: 38
+category: Science
+difficulty: 800
+seen: 5
+answer: platelets
+
+Also called thrombocytes, these disklike cell fragments are important in the clotting process.
+
+----
+num: 39
+category: Trash
+difficulty: 800
+seen: 5
+answer: Snoop Dogg
+
+In "Who Am I?": "Bow wow wow, yippee yo, yippie yay, bow wow wow yippie yo (the bomb)".
+
+----
+num: 40
+category: History
+difficulty: 1200
+seen: 4
+answer: the Encyclopedia Britannica
+
+In 1790 Dobson's Encyclopaedia, the American version of this, began printing, taking 7 years to complete.
+
+----
+num: 41
+category: History
+difficulty: 1200
+seen: 5
+answer: conclaves
+
+2013 brought the first of these powwows of cardinals in 8 years.
+
+----
+num: 42
+category: Literature
+difficulty: 1200
+seen: 4
+answer: Bianca
+
+Baptista's daughters are Kate & her.
+
+----
+num: 43
+category: Literature
+difficulty: 1200
+seen: 4
+answer: impact
+
+A collision between 2 objects; an athlete who helps his team is called that type of "player".
+
+----
+num: 44
+category: Science
+difficulty: 1200
+seen: 6
+answer: alleles
+
+Whether dominant or recessive, different forms of the same gene are called these.
+
+----
+num: 45
+category: Trash
+difficulty: 1200
+seen: 5
+answer: Kanye West
+
+In "Gold Digger": "Cutie the bomb, met her at a beauty salon, with a baby Louis Vuitton under her underarm".
+
+----
+num: 46
+category: History
+difficulty: 1600
+seen: 4
+answer: amnesty
+
+Those who oppose a path to citizenship for illegal immigrants call it this type of collective pardon.
+
+----
+num: 47
+category: Literature
+difficulty: 1600
+seen: 4
+answer: Pericles
+
+We never tire of this Prince of Tyre.
+
+----
+num: 48
+category: Literature
+difficulty: 1600
+seen: 4
+answer: a gaffer
+
+An electrician on the set of a TV show.
+
+----
+num: 49
+category: Trash
+difficulty: 1600
+seen: 6
+answer: LL Cool J
+
+"Don't call it a comeback, I been here for years, rockin' my peers & puttin' suckas in fear... Mama said knock you out".
+
+----
+num: 50
+category: History
+difficulty: 2000
+seen: 5
+answer: Shays\' Rebellion
+
+This 1786-1787 rebellion of debtor farmers in Massachusetts was named for its leader.
+
+----
+num: 51
+category: History
+difficulty: 2000
+seen: 6
+answer: thundersnow
+
+Change the last syllable in "thunderstorm" to get this weather event that hit the Great Plains in winter 2013.
+
+----
+num: 52
+category: Literature
+difficulty: 2000
+seen: 6
+answer: Mistress Quickly
+
+Son of a gun! Pistol is married to this mistress (perhaps swiftly) in "Henry V".
+
+----
+num: 53
+category: Literature
+difficulty: 2000
+seen: 5
+answer: Arctic
+
+The name of this cold region is from the Greek for "of the bear".
+
+----
+num: 54
+category: Science
+difficulty: 2000
+seen: 9
+answer: dinoflagellates
+
+Red tide is caused by a proliferation of these 15-letter aquatic organisms.
+
+----
+num: 55
+category: Trash
+difficulty: 2000
+seen: 8
+answer: the Beastie Boys
+
+"Your mom busted in & said, 'What's that noise?' Aw Mom, you're just jealous, it's" them.

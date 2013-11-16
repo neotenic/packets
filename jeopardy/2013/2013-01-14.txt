@@ -1,0 +1,428 @@
+####
+tournament: #6521
+round: Show #6521 - Monday, January 14, 2013
+year: 2013
+date: 2013-01-14
+####
+
+num: 1
+category: Geography
+difficulty: 200
+seen: 10
+answer: the Amazon
+
+In Brazil, the sandy water of the Solimoes River flows.
+
+----
+num: 2
+category: History
+difficulty: 200
+seen: 5
+answer: the University of Pennsylvania
+
+In 1765 Dr. John Morgan founded the first medical school in the U.S. at the college of Philadelphia, now this Ivy.
+
+----
+num: 3
+category: Literature
+difficulty: 200
+seen: 4
+answer: bro
+
+This 3-letter short form for a sibling can also mean your guy pal.
+
+----
+num: 4
+category: History
+difficulty: 200
+seen: 5
+answer: Saul
+
+Around 1000 B.C. he became the first king of Israel.
+
+----
+num: 5
+category: Literature
+difficulty: 200
+seen: 4
+answer: Chicago
+
+The delta blues went electric thanks to artists like Muddy Waters & Howlin' Wolf moving to this Midwest city.
+
+----
+num: 6
+category: Literature
+difficulty: 200
+seen: 4
+answer: a spa
+
+She's getting a facial & a milk bath at Burke Williams, a "day" type of this facility.
+
+----
+num: 7
+category: Geography
+difficulty: 400
+seen: 7
+answer: the Missouri
+
+This Mississippi tributary nicknamed the "Big Muddy" is described as "too thick to drink and too thin to plow".
+
+----
+num: 8
+category: History
+difficulty: 400
+seen: 3
+answer: measles
+
+Virologist John Franklin Enders helped develop a vaccine for this disease also called rubeola.
+
+----
+num: 9
+category: Literature
+difficulty: 400
+seen: 4
+answer: bedfellows
+
+Temporary friends; politics "makes strange" ones.
+
+----
+num: 10
+category: History
+difficulty: 400
+seen: 3
+answer: Herod
+
+At the time Jesus was born, this man, the Great, was king of judea.
+
+----
+num: 11
+category: Literature
+difficulty: 400
+seen: 4
+answer: a harmonica
+
+Both Sonny Boy Williamson I & II were virtuosos on this hand-held blues instrument.
+
+----
+num: 12
+category: Literature
+difficulty: 400
+seen: 4
+answer: Canada
+
+I'm all out of Yukon Jack, imported from this country.
+
+----
+num: 13
+category: Geography
+difficulty: 600
+seen: 8
+answer: springs
+
+These outlets are associated with clear, cool water --not so with the "boiling mud" ones in Lassen Volcanic National Park.
+
+----
+num: 14
+category: History
+difficulty: 600
+seen: 4
+answer: a hip
+
+Orthopedic surgeon John Charnley invented an artificial one of these joints between the pelvis & the thighbone.
+
+----
+num: 15
+category: Literature
+difficulty: 600
+seen: 4
+answer: playmate
+
+A friend of your child, or one of the gals in Hef's magazine.
+
+----
+num: 16
+category: History
+difficulty: 600
+seen: 4
+answer: the Persian Empire
+
+After his father died, Artaxerxes I became king of this empire.
+
+----
+num: 17
+category: Literature
+difficulty: 600
+seen: 4
+answer: Eric Clapton
+
+This Brit, no slouch on guitar himself, said Buddy Guy is "by far without doubt the best guitar player alive".
+
+----
+num: 18
+category: Literature
+difficulty: 600
+seen: 4
+answer: a handbag
+
+She's shopping for a roomy leather "Hobo" one of these from Chloe; Hobo, cute name for a $1,600 item.
+
+----
+num: 19
+category: Geography
+difficulty: 800
+seen: 7
+answer: the Yellow River
+
+Tons of colorful mud choking the channels of this river, "China's sorrow", cause its catastrophic floods.
+
+----
+num: 20
+category: History
+difficulty: 800
+seen: 4
+answer: hemoglobin
+
+John Scott haldane devised a way to measure the amount of this pigment in blood, still used to diagnose anemia.
+
+----
+num: 21
+category: Literature
+difficulty: 800
+seen: 4
+answer: a familiar
+
+It can mean a human friend as well as an animalistic spirit who aids a witch.
+
+----
+num: 22
+category: History
+difficulty: 800
+seen: 4
+answer: Phillip
+
+This father of Alexander the Great wasn't so bad himself, extending his dominion over all of Greece.
+
+----
+num: 23
+category: Literature
+difficulty: 800
+seen: 4
+answer: single malt
+
+Goodbye Glenmorangie, whose label said it was this type of scotch made at one distillery with one grain.
+
+----
+num: 24
+category: Geography
+difficulty: 1000
+seen: 8
+answer: Idaho
+
+Averaging 5 feet deep, Mud Lake is one of the less shiny jewels of this western "gem state".
+
+----
+num: 25
+category: Literature
+difficulty: 1000
+seen: 3
+answer: a cohort
+
+This term for one of the 10 divisions of a Roman legion has come to refer to a buddy.
+
+----
+num: 26
+category: History
+difficulty: 1000
+seen: 4
+answer: Gilgamesh
+
+This legendary king of uruk ruled in the third millennium B.C.; the "epic" thought to be about him would come later.
+
+----
+num: 27
+category: Literature
+difficulty: 1000
+seen: 4
+answer: Lucille
+
+In the 1950s legendary bluesman B.B. King gave his beloved guitar this female first name.
+
+----
+num: 28
+category: Literature
+difficulty: 1000
+seen: 4
+answer: gauze
+
+She's volunteering at the hospital--no one folds this thin cotton bandaging material like my woman.
+
+----
+num: 29
+category: History
+difficulty: 400
+seen: 4
+answer: perjury
+
+Nixon was impeached in 1989--federal judge Walter Nixon, for this crime of lying to a grand jury.
+
+----
+num: 30
+category: Literature
+difficulty: 400
+seen: 4
+answer: technique
+
+It's the specialized skills or procedures used in a specific field.
+
+----
+num: 31
+category: Trash
+difficulty: 400
+seen: 6
+answer: Mark Wahlberg
+
+Micky Ward in "The Fighter",.
+
+----
+num: 32
+category: Science
+difficulty: 400
+seen: 6
+answer: a fever
+
+The Cleveland Clinic's website on this condition says if it's under 101, no treatment needed.
+
+----
+num: 33
+category: History
+difficulty: 800
+seen: 4
+answer: the Supreme Court
+
+Appointed by George Washington, Samuel Chase is the only member of this body to have been impeached.
+
+----
+num: 34
+category: Literature
+difficulty: 800
+seen: 4
+answer: a clique
+
+A small group of friends or associates.
+
+----
+num: 35
+category: Trash
+difficulty: 800
+seen: 5
+answer: Claire Danes
+
+Julie in "The Mod Squad" from 1999,.
+
+----
+num: 36
+category: Science
+difficulty: 800
+seen: 5
+answer: Mendeleev
+
+Number 101 on your periodic table is named for this guy who created the table.
+
+----
+num: 37
+category: Literature
+difficulty: 1200
+seen: 4
+answer: Dubuque
+
+Named for a French Canadian, it's Iowa's oldest city.
+
+----
+num: 38
+category: Trash
+difficulty: 1200
+seen: 5
+answer: Ryan Goslin
+
+The Driver in "Drive",.
+
+----
+num: 39
+category: Science
+difficulty: 1200
+seen: 5
+answer: a galaxy
+
+Look up at Messier 101, a beautiful pinwheel one of these.
+
+----
+num: 40
+category: History
+difficulty: 1600
+seen: 4
+answer: Grant
+
+Impeached in 1876, William Belknap was this president's Secretary of War.
+
+----
+num: 41
+category: Literature
+difficulty: 1600
+seen: 4
+answer: communique
+
+An official announcement.
+
+----
+num: 42
+category: Trash
+difficulty: 1600
+seen: 6
+answer: Kate Beckinsale
+
+Selene in "Underworld: Awakening",.
+
+----
+num: 43
+category: Literature
+difficulty: 1600
+seen: 4
+answer: (Evelyn) Waugh
+
+The Marchmain family in "Brideshead Revisited" shares the Catholic faith of this author of the book.
+
+----
+num: 44
+category: History
+difficulty: 2000
+seen: 5
+answer: tax evasion
+
+Impeached judge Harry Claiborne was convicted on 2 counts of this charge that also brought down Al Capone.
+
+----
+num: 45
+category: Literature
+difficulty: 2000
+seen: 6
+answer: a macaque
+
+The toque species of this old world monkey is an excellent swimmer.
+
+----
+num: 46
+category: Trash
+difficulty: 2000
+seen: 8
+answer: Michelle Williams
+
+Alma in "Brokeback Mountain",.
+
+----
+num: 47
+category: Science
+difficulty: 2000
+seen: 8
+answer: function keys
+
+In 1986 the 101-key IBM keyboard, which became the PC standard, moved these keys from the left to a line across the top.

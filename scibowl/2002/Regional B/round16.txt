@@ -1,0 +1,317 @@
+####
+tournament: Regional B
+round: round16.pdf
+year: 2002
+####
+
+num: 1
+category: Biology
+difficulty: HS
+seen: 40
+answer: Stroma
+
+In what part of the chloroplas t is carbon fixed during the Calvin cycle?
+
+----
+num: 1
+category: Biology
+difficulty: HS
+fixed: -1
+seen: 41
+answer: Polio Virus,  Rickettsia,  Anthrax Bacillus,  Red Blood Cell
+
+Assuming average size, order the following from the smallest to the largest: red blood cell, Polio viru s, Rickettsia, Anthrax bacillus
+
+----
+num: 2
+category: Chemistry
+difficulty: HS
+fixed: -1
+seen: 34
+answer: -191.92  (Accept:  -191 to -192 Kilojoules)
+(Solution:  ∆E = ∆H - P∆v;  P∆v = (40 Atm)(-2l)(101j/l.atm) = -8.08kj;   
+∆E  = (-200) – (-8.08);  = -191.92 Kj)
+
+The reaction of 2 chemical substances to make a product that has a standard enthalpy of reaction, or ∆H°, (read as: delta H naught) of - 200 kilojoules. If the reaction is carried out at a constant pressure of 40 atmospheres and the volume change is -2.00 liters, what is the total energy change, ∆E, (read as: delta E) in kilojoules, of the system:
+
+----
+num: 3
+category: Physics
+difficulty: HS
+seen: 24
+answer: Quantum Theory
+
+What general theory of science, begun by Max Planck, allows scientists to quantitativel y understand the behavior of atoms, s ubatomic particles, phases of matter, and semiconductors:
+
+----
+num: 3
+category: Physics
+difficulty: HS
+seen: 26
+answer: 27.6 Meters
+(Solution:  Y = v
+^Ot + ½ At^2 = (4 M/sec) (2 Sec) + ½ (9.8 M/sec^2) (2 Sec) = 8 + 19.6 = 27.6 Meters)
+
+Assuming g = 9.8 m/s^2 and negligible air resistance, how far, in meters rounded to the first decimal place, would an object tr avel after 2 seconds if thrown down vertically, with an initial velocity of 4 m/sec from a 100 meter tower?
+
+----
+num: 4
+category: Astronomy
+difficulty: HS
+seen: 54
+answer: 20,000
+(Solution:  Wein’s Law  T = 2.9  × 10^-3 m.k/λ æ  2.9 × 10^-3 m.k / 145 × 10^-9m = .02×10^6=20,000k)
+
+Compute the estimated temperature, in Kelvin, of a stellar body’s surface that emits light with a spec trum that peaks at 145 nanometers:
+
+----
+num: 5
+category: Math
+difficulty: HS
+seen: 25
+answer: (X+
+31)^3
++C
+
+Calculate the following indefinite integral: I = ∫(x+1)^2dx
+
+----
+num: 7
+category: General Science
+difficulty: HS
+seen: 30
+answer: Focal Length
+
+What is the term for the distance, usually given in millimeters, between the optical center of a lens and the point at which rays of light from objects at infinity are brought to focus:
+
+----
+num: 8
+category: Computer Science
+difficulty: HS
+seen: 63
+answer: Object Linking and Embedding
+
+What does the acronym OLE stand for?
+
+----
+num: 9
+category: Biology
+difficulty: HS
+seen: 41
+answer: Plasmodesmeta
+
+Animal cell is to gap junction as plant cell is to:
+
+----
+num: 10
+category: Chemistry
+difficulty: HS
+seen: 34
+answer: Node  (Accept:  Nodal Surface)
+
+A 2s orbital has 2 regions of maximum probability where electrons can be found separated by a spherical surface of 0 probability that is called what?
+
+----
+num: 10
+category: Chemistry
+difficulty: HS
+fixed: -1
+seen: 33
+answer: H^2 = 0.7;  N^2 = 0.2;  He^2 = 0.1  (Accept:  hydrogen=0.7; nitrogen=0.2; helium=0.1)
+(Solution:  H
+^2=14g/2g/mol=7mol;  N
+^2=56g/28g/m=2;  He
+^2=8/8=1;  7/10=0.7;  2/10=.02;  1/10=0.1)
+
+A tank contains the following mixture of gases: 14grams diatomic H^2, 56 grams diatomic N^2, and 8 grams diatomic He^2. To the first decimal place, what is the mole fraction of each gas in the mixture?
+
+----
+num: 11
+category: Physics
+difficulty: HS
+seen: 25
+answer: Oxygen and Hydrogen
+
+Which two elements did Chadwick primarily produce when he bombarded N-14 with alpha particles in the first artificial transmutation of atoms?
+
+----
+num: 12
+category: Astronomy
+difficulty: HS
+seen: 55
+answer: Neutrinos
+
+What are probably the only particles emitted by stellar cores without being influenced apprecia bly by the outermost layers of th e stars, and are detected by an instrument in the Homestake gold mine?
+
+----
+num: 12
+category: Astronomy
+difficulty: HS
+seen: 56
+answer: Argon-37
+
+In the solar neutrino detector in Lead, South Dakota, when a neutrino emitted in positron decay in the sun is ca ptured by a Chlorine-37 nucleus, what isotope is most likely formed?
+
+----
+num: 13
+category: Math
+difficulty: HS
+seen: 24
+answer: -5 <  X < 1
+
+Find the solution set of the following inequality: x^2 + 4x < 5
+
+----
+num: 14
+category: Earth Science
+difficulty: HS
+seen: 63
+answer: Heat Island   (Accept:  Heat Island Effect)
+
+What is the name given to the urban microclimate whereby a region around a city remains up to several degr ees warmer than the surrounding countryside, especially on warm, still summer nights?
+
+----
+num: 15
+category: General Science
+difficulty: HS
+fixed: -1
+seen: 32
+answer: Sir James Dewar  (Accept:  Dewar)
+(Solution:  the Dewar Flask)
+
+During his work in 1892 on the liquefaction of hydrogen, what Scottish chemist invented a double-walled vacuum flask which became widely known and named in his honor?
+
+----
+num: 15
+category: General Science
+difficulty: HS
+fixed: -1
+seen: 32
+answer: Silver;  Copper;  Gold;  Aluminum
+
+Order the following metals in terms of their electrical conductivities from the highest to the lowest : gold; silver; copper; aluminum
+
+----
+num: 16
+category: Computer Science
+difficulty: HS
+seen: 64
+answer: Double-Byte Character Sets
+
+What does the acronym DBCS, a language script that requires two bytes to represent a character, stand for?
+
+----
+num: 17
+category: Biology
+difficulty: HS
+seen: 40
+answer: Nad  (Accept: Nadh, Nicotinamide Adenine Dinucleotide)  (Do Not 
+Accept:  Nadp or Nadph) ^
+
+In many yeasts, what is the majo r coenzyme used in the conversion of acetaldehyde to ethanol?
+
+----
+num: 17
+category: Biology
+difficulty: HS
+seen: 41
+answer: Glyceraldehyde-3-Phosphate;  1,3 Diphosphoglycerate; 
+3-Phosphoglycerate;  Phosphoenolpyruvate
+
+Order the following 4 molecules from the earliest step in glycolysis to the latest: [read slowly!] 3-phosphoglycerate; 1,3-diphosphoglycerate; gl yceraldehyde-3-phosphate; phosphoenolpyruvate
+
+----
+num: 18
+category: Chemistry
+difficulty: HS
+fixed: -1
+seen: 37
+answer: Dihydroxyacetone,  Erythrose,  Xylose,  Glucose
+
+Order the following 4 monosaccharides from the smallest to the largest: erythrose, gluc ose, dihydroxyacetone, xylose
+
+----
+num: 19
+category: Physics
+difficulty: HS
+seen: 25
+answer: 2/3; –1/3; and –1/3
+
+What are the electric charge values for up, down, and strange quarks, respectively?
+
+----
+num: 20
+category: Astronomy
+difficulty: HS
+fixed: -1
+seen: 56
+answer: Mars,  Neptune,  Uranus,  Saturn
+
+Order the following planets from the one with the least number of known moons to the one with the mos t: Saturn, Neptune, Mars, Uranus
+
+----
+num: 21
+category: Math
+difficulty: HS
+fixed: -1
+seen: 27
+answer: 90
+(Solution:  N(a U B) = N(a) + N(b) – N (A ∩ B);  = 75 + 25 – 10 = 90)
+
+Assume A and B are the subsets of the universal set that contains 100 elements. If the number of elements in set A is 75, and the number of elements in set B is 25, and the number of elements in the intersection set of A and B equals 10, then how many elements are in the union set of A and B?
+
+----
+num: 21
+category: Math
+difficulty: HS
+seen: 25
+answer: ⎣⎢
+⎢
+⎢⎡
+^2^1
+^2
+^1
+^4^3^4^1
+⎦⎥⎥⎥⎤
+  (Read As:  ½, ¼, ½, ¾ )  (Must Be in Order)
+
+Giving your answer in the order of the 1 ^st row followed by the 2^nd row and in lowest common fraction form, find th e inverse of the following 2-by-2 matrix: ^⎡ ^3 ^−^1^⎤^⎢^−^2 ^2 ^⎥ (readas: the 1^st row contain the numbers 3 and -1 and the 2 ^nd row contain the numbers -2 and 2) ^⎣ ^⎦
+
+----
+num: 22
+category: Earth Science
+difficulty: HS
+seen: 60
+answer: Stratigraphy
+
+The branch of geology that deals with the study of the origin, composition, distribution, and ordering of layered sedimentary rocks is called what?
+
+----
+num: 24
+category: Chemistry
+difficulty: HS
+fixed: -1
+seen: 36
+answer: Glycine,  Alanine
+
+Using electrophoresis at a pH of 6.0, which two of the following 5 amino acids would move the least remaining at the origin? arginine, glutamic acid, glycine, alanine, lysine?
+
+----
+num: 25
+category: Physics
+difficulty: HS
+fixed: -1
+seen: 24
+answer: Pair Production
+
+What is the most common name for interactions of high-energy photons and atoms that create electrons and positr ons, thus providing an example of the conversion of energy to matter?
+
+----
+num: 25
+category: Physics
+difficulty: HS
+seen: 25
+answer: 32
+(Solution:  Speed =  30^2 +10^2  =  1000  = 32 Km/hr)
+
+Rounded to the nearest whole number in kilometers per hour, what is the net ground-speed of a bird flying at 30 kilomete rs per hour east with a southerly crosswind of 10 kilometers per hour?

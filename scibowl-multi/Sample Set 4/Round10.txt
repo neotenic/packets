@@ -1,0 +1,635 @@
+####
+tournament: Sample Set 4
+round: Round10.pdf
+####
+
+num: 1
+category: Energy
+difficulty: HS
+answer: X) Electrolysis
+
+
+Which of the following has NOT been shown to be a practical use of electrolytic cells?
+W) Recovering pure metal from alloys
+X) Electrolysis 
+Y) Plating of one metal with another
+Z) Manufacturing of sodium hydroxide
+
+----
+num: 2
+category: Chemistry
+difficulty: HS
+answer: Y) Ch ^2o
+
+What is the empirical f ormula for C^6H^12O^6?
+W) C^3H^4O^3
+X) CHO
+Y) CH^2O
+Z) C^6H^12O^6^
+
+----
+num: 2
+category: Chemistry
+difficulty: HS
+seen: 1
+answer: Y) Fe^3(po^4)^2^
+
+What is the formula for iron II phosphate?
+W) Fe^3P^2
+X) FePO^4
+Y) Fe^3(PO^4)^2
+Z) Fe ^3(PO^3)^2
+
+----
+num: 2
+category: Life Science
+difficulty: MS
+answer: Z) More Vigorous Than Their Parents
+
+When plant scientists began crossing different pure lines, they noticed that the hybrid p lants that resulted were:
+W) Less vigorous than their parents
+X) Equally as vigorous as their parents
+Y) Unable to sustain life
+Z) More vigorous than their parents
+
+----
+num: 3
+category: Math
+difficulty: HS
+seen: 1
+answer: Y) 2 Xe^x + 2e^x
+
+Find the derivative of 2xe^x (read as: 2x e to the x).
+W) 
+X) 22xee^x^x + e+2x^x
+Y) 2xe^x + 2e^x
+Z) 2xe^x
+
+----
+num: 3
+category: Energy
+difficulty: MS
+answer: W) Sound Energy Is Produced by Vibrations, Not by Discrete 
+Particles
+
+Which of the following statements about sound energy is true?
+W) Sound energy is produced by vibrations, not by discrete particles
+X) Sound energy can easily be used for production of electrical power
+Y) Sound energy is a form of thermal energy
+Z) Sound energy is related to chemical changes
+
+----
+num: 3
+category: Energy
+difficulty: MS
+answer: Y) to Make Ipod Sound Quality Better
+
+
+Ultrasound is acoustic energy in the form of waves with a frequency above the human hearing range. Which of t he following statements does NOT reflect a use of ultrasonic energy?
+W) To observe the condition of a fetus before birth
+X) To detect motion in the immediate vicinity of a vehicle
+Y) To make iPod sound quality better
+Z) To find schools of fish
+
+----
+num: 4
+category: Physics
+difficulty: HS
+answer: W) Connect the Capacitors in Parallel and the Batteries in 
+Series
+
+How can 2 batteries and three capacitors be arranged to store the maximum amount of energy?
+W) Connect the capacitors in parallel and the batteries i n series
+X) Connect the capacitors in series and the batteries in parallel
+Y) Connect the capacitors and batteries in parallel
+Z) Connect the capacitors and batteries in series
+
+----
+num: 4
+category: Earth and Space Science
+difficulty: MS
+answer: W) Color
+
+Which of the following characteristics is the least reliable when identifying minerals?
+W) Color
+X) Streak
+Y) Cleavage
+Z) Hardness
+
+----
+num: 5
+category: Earth and Space
+difficulty: HS
+answer: X) Increased Predation by Organisms One Trophic Level Down
+
+Which of the following best explains why eliminating one trophic level in an ecosystem often results in a decrease in organisms two trophic levels down?
+W) Abundance of prey in the eliminated trophic level
+X) Increased predation by organisms one trophic level down
+Y) Increased predation by organisms two trophic levels down
+Z) Increased predator diversity
+
+----
+num: 5
+category: Earth and Space
+difficulty: HS
+answer: W) the Chemical Makeup  of Their Shells Reflects the Water 
+Chemistry at Their Time of Formation
+
+
+What property of diatoms make them useful as climate proxies ?
+W) The chemical makeup of their shells reflects the water chemistry at their time of formation
+X) The narrow temperature range in which they exist makes them markers for paleo0ocean temperatures
+Y) Their well-preserved digestive system provide ample evidence for ancient food webs
+Z) Their limited diversity and low adaptability make them key indicators of specific aquatic environments
+
+----
+num: 5
+category: Math
+difficulty: MS
+answer: W) Circumference
+
+Considering a circle of radius 1, which of the following has the largest numerical value?
+W) Circumference
+X) 
+Y) ADreaiameter
+Z) Radius
+
+----
+num: 6
+category: Life Science
+difficulty: MS
+answer: Y) a -T
+
+Which of these constitutes a correct DNA base pairing?
+W) A-C
+X) G-T
+Y) A-T
+Z) C-C
+
+----
+num: 7
+category: Energy
+difficulty: HS
+answer: X)  Neurons Have a Short Life Span
+
+The human brain contains as many as 100 billion neurons. The neurons communicate with each other through electrochemical signals. Which of the following is 
+NOT true?
+W) Each neuron can connect to at least 1,000 other neurons
+X) Neurons have a short life span 
+Y) Brain signals involve less than one-tenth the voltage of an ordinary flashlight battery
+Z) Some messages pass through the nervous system more quickly than others
+
+----
+num: 7
+category: Energy
+difficulty: HS
+answer: Z) Repairing Damaged Neurons
+
+
+Brain computer interfaces can measure minute differences in the voltage between neurons, amplify and filter the signal, and then a computer interprets it. All of the following are current applications of brain computer interfaces, except:
+W) Controlling a computer cursor via mental commands
+X) Interpreting brain signals for movement for someone who can’t physically move
+Y) Providing a communication link for people who suffer from “locked in” syndrome
+Z) Repairing damaged neurons
+
+----
+num: 8
+category: Physics
+difficulty: HS
+answer: X) the Car Will Experience a Greater Speed Than the Truck
+
+During a safety test, a small car and a truck move toward each other at the same speed and experience a head-on collision. Afterward, the two objects move away from each other along the same line. Which of the following is correct?
+W) The truck will experience a greater speed than the car
+X) The car will experience a greater speed than the truck
+Y) The speeds of the truck and the car will be the same
+Z) Sometimes the truck will experience a greater speed and sometimes the car will experience the greater speed
+
+----
+num: 8
+category: Earth and Space Science
+difficulty: MS
+answer: W) It  Never Freezes
+
+Which of the following is NOT true about groundwater?
+W) It never freezes
+X) It ultimately flows to the ocean
+Y) It is replenished by surface water from streams, precipitation and rivers
+Z) It can be depleted by humans in a particular region
+
+----
+num: 9
+category: Energy
+difficulty: HS
+answer: Z) Fuel Cells Convert Chemical Energy Into Electrical Energy 
+by Combining Hydrogen Gas With Oxygen From the Air to Produce Water 
+and Energy
+
+Hydrogen fuel cells use hydrogen to generate energy. Which of the following is true about hydrogen fuel cells?
+W) Fuel cells are similar to batteries and store hydrogen, which is an energy source by itself
+X) Fuel cells extract the hydrogen from other compounds in nature
+Y) Fuel cells dissolve water into hydrogen, creating oxygen and energy
+Z) Fuel cells convert chemical energy in hydrogen into electrical energy by combining hydrogen gas with oxygen from the air to produce water and energy
+
+----
+num: 9
+category: Energy
+difficulty: HS
+answer: Z) Alkaline
+
+
+If you were to use hydrogen fuel cells in spacecraft, what kind of fuel cell type would you most likely prefer?
+W) Phosphoric acid
+X) Molten carbonate
+Y) Solid oxide
+Z) Alkaline
+
+----
+num: 9
+category: Math
+difficulty: MS
+answer: Y) 3.5( T + 3)
+
+
+If Jen ran t + 3 kilometers and Susan ran half as much as Jen and biked twice as much as Jen ran, which expression represents their total kilometers of exercise?
+W) 2.5(t + 3) (read as: 2.5 times the quantity t plus 3)
+X) 3.5t + 3
+Y) 3.5(t + 3) (read as: 3.5 times the quantity t plus 3)
+Z) 1.5 t + 4.5
+
+----
+num: 10
+category: Earth and Space
+difficulty: HS
+seen: 1
+answer: X) Carbonate and Sulfide
+
+What kind of minerals do copper ores tend to be?
+W) Native element
+X) Carbonate and sulfide
+Y) Oxide and phosphate
+Z) Hydrocarbon and halide
+
+----
+num: 11
+category: Biology
+difficulty: HS
+seen: 1
+answer: Z) Instinctual
+
+What kind of behavior causes bees to visit flowers to collect nectar and pollen?
+W) Learned
+X) Conditioned
+Y) Sensitization
+Z) Instinctual
+
+----
+num: 11
+category: Biology
+difficulty: HS
+answer: X) Hypertonic Solution
+
+
+Honey doesn't spoil easily because bacteria falling into the honey are often killed. The water in the bacteria rushes out of th e cell and the bacteria shrivelup because honey is a:
+W) Isotonic solution
+X) Hypertonic solution
+Y) Hypotonic solution
+Z) Inorganic solution
+
+----
+num: 11
+category: Physical Science
+difficulty: MS
+answer: W) Anodizing Aluminum
+ 
+
+The secret to the prevention of oxidation is to provide a layer of protection between the exposed material and the air. Which of the following is 
+NOT an example of a process used to prevent oxidation?
+W) Anodizing aluminum
+X) Waxing a car
+Y) Putting lemon juice on exposed fruit 
+Z) Spraying paint on metal objects
+
+----
+num: 12
+category: Math
+difficulty: HS
+seen: 1
+answer: Y) 4 and -2
+
+What are the solutions for x in the following equation : x^2 −2x = 8?
+W) 0
+X) 0 and 2
+Y) 4 and -2
+Z) -4 and 2
+
+----
+num: 12
+category: General Science
+difficulty: MS
+answer: X) Steam
+
+What is the main component o f volcanic gas?
+W) Sulfur Dioxide
+X) Steam
+Y) Carbon Dioxide
+Z) Nitrogen Dioxide
+
+----
+num: 13
+category: Life Science
+difficulty: MS
+answer: X) Bacteria
+
+Cheese, yogurt, apple cider, olives, and sauerkraut are all made with:
+W) Dehydration
+X) Bacteria
+Y) Yeast
+Z) Paramecium (read as: pah-rah-MEE-shee-uhm)
+
+----
+num: 13
+category: Life Science
+difficulty: MS
+answer: W) Antibiotics Kill Bacteria and You Have a Viral Infection
+
+
+You go to the doctor because you have a sore throat. She looks at your throat and sympathizes, then says, “Go home and rest, you’ll beat that virus in no time!” She does NOT write a prescription for antibiotics, however, because:
+W) Antibiotics kill bacteria and you have a viral infection
+X) Antibiotics are being overused
+Y) Antibiotics are relatively inexpensive
+Z) Antibiotics only work if you have a cold
+
+----
+num: 14
+category: Earth and Space Science
+difficulty: MS
+answer: X) Weather
+
+Meteorology is the study of:
+W) Meteors
+X) Weather
+Y) Space
+Z) Rocks
+
+----
+num: 14
+category: Earth and Space Science
+difficulty: MS
+answer: Y) Deposition
+
+Along with tectonic forces, weathering and erosion, which of the following process also helped to shape landforms on Earth today?
+W) Condensation
+X) Upwelling
+Y) Deposition
+Z) Transpiration
+
+----
+num: 15
+category: Chemistry
+difficulty: HS
+seen: 1
+answer: Z) Potassium^phosphate^
+
+
+Which of the following 1.0 molar solutions will have the largest change in boiling point from that of pure water?
+W) Sodium bromide
+X) Magnesium iodide
+Y) Sucrose
+Z) Potassium^phosphate
+
+----
+num: 15
+category: General Science
+difficulty: MS
+answer: Z) Jurassic
+
+Which of the following geologic periods is the most recent?
+W) Permian
+X) Silurian
+Y) Devonian
+Z) Jurassic
+
+----
+num: 15
+category: General Science
+difficulty: MS
+answer: Z) Only the Female Feeds Their Young
+
+
+Purple martins are the largest member of the swallow family in North America. Which of the following is NOT true about purple martins?
+W) They are monogamous
+X) They eat only flying insects
+Y) The male croak song is always sung in the presence of a female
+Z) Only the female feeds their young
+
+----
+num: 16
+category: Physics
+difficulty: HS
+answer: Y) the Frictional Force Increases and Then Suddenly Drops to a 
+Lower, Nonzero Value
+
+A steadily increasing force is applied to a box that remains at rest for some period of time and then begins to accelerate. Which of the following appropriately describes what ha ppens to the frictional force during the experiment?
+W) The frictional force remains constant throughout the experiment
+X) The frictional force increases throughout the experiment
+Y) The frictional force increases and then suddenly drops to a lower, non-zero value
+Z) The frictional force increases and then suddenly drops to zero
+
+----
+num: 16
+category: Energy
+difficulty: MS
+answer: Y) Changing Light Refraction From Mixing Cool  Air With Warm Air
+
+What phenomenon is responsibl e for the shimmer that rises from cement on a hot day?
+W) Evaporation
+X) Refraction of light off dust particles
+Y) Changing light refraction from mixing cool air with warm air
+Z) An optical illusion
+
+----
+num: 17
+category: Earth and Space
+difficulty: HS
+answer: W) Cloud Formation and Possible Precipitati On
+
+As an airmass ascends into the atmosphere, its water vapor capacity changes, causing which of the following?
+W) Cloud formation and possible precipitation
+X) Evaporation and drying
+Y) Snow
+Z) Hurricane conditions
+
+----
+num: 17
+category: General Science
+difficulty: MS
+answer: W) It Was an Omnivore
+
+
+Which of the following statements is NOT true about the Apatosaurus?
+W) It was an omnivore
+X) It could crack its tail like a whip to ward off would -be attackers
+Y) It had a small jaw
+Z) An adult weighed as much as 20 elephants
+
+----
+num: 18
+category: Biology
+difficulty: HS
+seen: 1
+answer: Z) Zygote Fertilization
+
+Which process will almost certainly result in genetic variation of offspring?
+W) Population dispersion
+X) Enzyme production
+Y) Cell differentiation
+Z) Zygote fertilization
+
+----
+num: 18
+category: Biology
+difficulty: HS
+answer: Y) Only Carry the Mutated Gene if It Is Heritable
+
+If a parent organism experiences a mutation, then all subsequent offspring of that individual will:
+W) Always carry the mutated gene, but only as a recessive
+X) Always carry the gene, but never express it phenotypically
+Y) Only carry the mutated gene if it is heritable
+Z) Never carry the gene as mutations cannot be heritable
+
+----
+num: 20
+category: Biology
+difficulty: HS
+answer: W) Tropomyosin Binds the Calcium Ions and Exposes the Myosin 
+Binding Sites on Act in Filaments
+
+Which of the following is NOT true regarding vertebrate muscle contractions?
+W) Tropomyosin (read as: trōe-poh-MY-oh-sin) binds the calcium ions and exposes the myosin binding sites on actin filaments 
+X) The H zone and I band become shorter
+Y) T Tubules spread action potentials into the muscle fiber
+Z) The contraction is terminated when calcium ions are taken up by the sarcoplasmic reticulum
+
+----
+num: 20
+category: Math
+difficulty: MS
+answer: Y) Mode
+
+You are the manager of a video game store who is trying to decide what type of games to order and re-stock for next month. In looking at past and current sales, which of the following data descriptions would be of most interest to you?
+W) Mean
+X) Median
+Y) Mode
+Z) Range
+
+----
+num: 22
+category: Earth and Space
+difficulty: HS
+seen: 1
+answer: W) Neptune
+
+Which of the following planets has the longest year?
+W) Neptune 
+X) Mars
+Y) Earth
+Z) Mercury
+
+----
+num: 23
+category: Math
+difficulty: HS
+answer: Z) 3:1
+
+A cylinder and a cone share the same radius and height. What is the ratio of the cylinder’s volume to the cone’s volume?
+W) 1:1 (read as: 1 to 1)
+X) 1.5:1 (read as: 1.5 to 1)
+Y) 2:1 (read as: 2 to 1)
+Z) 3:1 (read as: 3 to 1)
+
+----
+num: 23
+category: Math
+difficulty: HS
+answer: Y) 2
+
+
+A math teacher is trying to describe her favorite triangle. The lengths of two sides are 4 centimeters and 6 centimeters. The angle opposite the 4 centimeterside is 12°. How ma ny non-congruent triangles fit this description?
+W) 0
+X) 1
+Y) 2
+Z) An infinite number
+
+----
+num: 24
+category: Biology
+difficulty: HS
+answer: W) Access to Different Food Sources
+
+Darwin's finches differ from other finches in the size ands hape of their beaks. Which of the following factors has been identified as the major influence on the development of the differing beaks?
+W) Access to different food sources
+X) Sexual competition
+Y) Protection against predators
+Z) Genetic drift
+
+----
+num: 24
+category: Energy
+difficulty: MS
+answer: Z) Stagnant
+
+Touching hot objects with oven mitts relies on insulation that slows heat movement from the hot pan to your hand. However, the air in the oven mitt is only a good insulator if convection is not able to happen. That means that the air must be:
+W) Warm
+X) Slow
+Y) Moving
+Z) Stagnant
+
+----
+num: 24
+category: Energy
+difficulty: MS
+answer: Y) It Is Entirely Made From Recycled Materials
+
+Fiberglass insulation is one option for home insulation. It can be placed in attics, within outside walls, under floors, over unheated garages, and in other locations. Which of the following is NOT an advantage of fiberglass insulation?
+W) It reduces heat flow in and out of the home, so less energy is used for heating and cooling
+X) It can reduce transmission of sound from one room to another or from the outside
+Y) It is entirely made from recycled materials
+Z) It is non-combustible
+
+----
+num: 25
+category: Chemistry
+difficulty: HS
+seen: 1
+answer: Y) 
+Z) Zy
+X) R
+
+The enthalpy in the reaction 3Q + 2R + 300 kilojoules !
+W) 
+X) (read as: yields)
+RQ 6Y + Z is +150 kilojoules per mole of :
+
+----
+num: 25
+category: Chemistry
+difficulty: HS
+answer: W) Increasing the Concentration of Oxygen
+
+Which of the following changes will increase the reaction rate of the reaction between solid magnesium and gaseous oxygen: 2 Mg^(s) + O^2(g) ! (read as: yields) 2 MgO^(s) + heat?
+W) Increasing the concentration of oxygen
+X) Removing the magnesium oxide as soon as it is formed
+Y) Reducing the temperature
+Z) Decreasing the concentration of oxygen
+
+----
+num: 25
+category: Physical Science
+difficulty: MS
+answer: X) Pressure
+
+In a closed system, exergonic reactions may NOTincrease the available:
+W) Heat
+X) Pressure
+Y) Entropy
+Z) Energy

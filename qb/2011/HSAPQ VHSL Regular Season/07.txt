@@ -1,0 +1,134 @@
+####
+tournament: HSAPQ VHSL Regular Season
+round: 07.pdf
+year: 2011
+####
+
+num: 5
+category: Fine Arts
+difficulty: HS
+fixed: 1
+seen: 492
+answer: {Jesus} Christ [or Jesus {Christ}; or clear-knowledge equivalents]
+
+One sculpture of this figure was designed by Mateo Alonso and was brought to its current location by Angela Oliveira Cezar de Costa as an emblem of peace between two nations. Another sculpture of this figure was executed by Paul Landowski; that piece lies on the Corcovado Mountain in the harbor of Rio de Janeiro. Michelangelo sculpted this figure clothed in a sash and holding onto the instrument of his death, a cross. For 10 points, name this religious figure who has been sculpted as "the Redeemer."
+
+----
+num: 6
+category: History
+difficulty: HS
+fixed: -1
+seen: 429
+answer: {journalism} [prompt on reasonable equivalents]
+
+The protest singer Phil Ochs claimed that he was a "singing" practitioner of this discipline. The article "The Kentucky Derby is Decadent and Depraved" was described as a work of the "gonzo" variety of this discipline, which was popularized by Hunter S. Thompson. The "yellow" version of this discipline was practiced by William Randolph Hearst and Joseph Pulitzer in the lead-up to the Spanish-American War. For 10 points, name this discipline that involves investigating and reporting, whose practitioners include Bob Woodward and Carl Bernstein.
+
+----
+num: 9
+category: History
+difficulty: HS
+fixed: -1
+seen: 420
+answer: Frederick the Great [or Frederick II of {Prussia}; or {Friedrich der Grosse}; or {Friedrich} II; or
+
+This ruler had a summer residence in Potsdam built for him called Sanssouci Palace (san-SUE-see). This monarch ushered in an era of modernization after winning the Silesian Wars and helping to oversee the First Partition of Poland. This man disregarded the Pragmatic Sanction when he chose to initiate fighting in the War of the Austrian Succession against Maria Theresa. For 10 points, name this enlightened despot from the Hohenzollern line, a Prussian king who was succeeded by Frederick William II.
+
+----
+num: 12
+category: Geography
+difficulty: HS
+fixed: 57
+seen: 717
+answer: Kansas
+
+The western portion of this state features such landmarks as Horse Thief Canyon and the sphinx-like Monument Rocks. This state once included the endpoint of the Chisholm Trail, which brought cattle to its railroad depots at Dodge City and Abilene. Many corporations are headquartered in Overland Park, part of a metroplex centered on two cities named for this state. For 10 points, name this home of Wichita and Topeka, which is found to the west of Missouri and south of Nebraska.
+
+----
+num: 13
+category: Science
+difficulty: HS
+fixed: 1
+seen: 485
+answer: {uranium} [accept {U} prior to mention]
+
+The extraction process for this element requires grinding it up and leeching with sulfuric acid, converting its dioxide into a trioxide. Afterwards, it is enriched by adding elemental fluorine to form its hexafluoride, which is then converted back into the dioxide for conversion into the pellets for its best known use. Available from the pitchblende, this element converts into thorium and potassium in the Earth's core and contains the radioactive 238 isotope. For 10 points, identify this actinide used in nuclear power plants, symbolized U.
+
+----
+num: 15
+category: Literature
+difficulty: HS
+fixed: 57
+seen: 450
+answer: {Deus ex Machina} (accept {God} from the {machine} before mentioned)
+
+Aristophanes parodied this technique in Euripides's method of entering the stage in his own play Thesmophoriazusae. It is used in the story "The Three Apples" from the Arabian Nights. More classical examples of this device occur in the Euripides plays Alcestis and Medea; in the latter play, the title character is whisked away from the wrath of Jacob to safety in a sudden and contradictory move. For 10 points, name this technique in which a "God from the machine" changes the outcome of a dramatic work.
+
+----
+num: 18
+category: Trash
+difficulty: HS
+fixed: 1
+seen: 1023
+answer: Monopoly
+
+A version of this game marketed towards young children uses a funfair theme. This game has a “Here and Now: Edition” while house rules often involve earning 686 dollars for rolling snake eyes. This game’s mascot is known as Rich Uncle Pennybags. This game includes the water works and electric company utilities along with spaces named for Atlantic City locations like “Park Place” and “Boardwalk”. For 10 points, name this board game of Parker Brothers which involves building houses and hotels on different properties.
+
+----
+num: 19
+category: History
+difficulty: HS
+fixed: 57
+seen: 418
+answer: House of {Romanov}
+
+The first ruler of this house was the son of Metropolitan Filaret. This family eventually merged with the Holstein-Gottorp line. This family came to power after the downfall of the Rurik line, which had fallen apart during the Time of Troubles. This dynasty was ended when the royal family was killed at Yekaterinberg. For 10 points, name this line of royals started by Michael and ended after Nicholas II's death, which ruled Russia until the 1917 revolution led to founding of the Soviet Union.
+
+----
+num: 20
+category: Science
+difficulty: HS
+fixed: 57
+seen: 491
+answer: {Fibonacci} numbers [or {Fibonacci} sequence]
+
+Binary coding based on these values depends on Zeckendorf's theorem, which states that any integer can be written as the sum of any one or more of them. Euclid's algorithm for finding a greatest common divisor has a worst-case runtime when consecutive values of this type are inputted. A namesake type of heap uses these numbers in its runtime analysis. The ratio of consecutive numbers of this type approaches the golden ratio. For 10 points, name these numbers, which comprise a sequence that begins 1, 1, 2, 3, 5, and are named for an Italian mathematician.
+
+----
+num: 25
+category: Science
+difficulty: HS
+fixed: 57
+seen: 486
+answer: {multiplication} [or {product}; accept word forms like {multiply}]
+
+The Toom-Cook and Karatsuba algorithms do this operation. In a field, all but one of the elements have an inverse for this operation. A capital pi is used to denote repeatedly doing this over an index. This operation on matrices is non-commutative and requires that the number of columns in the first matrix equals the number of rows in the second. Repeatedly doing this is called exponentiation. For 10 points, name this operation that when applied to two and three yields six.
+
+----
+num: 31
+category: History
+difficulty: HS
+fixed: 57
+seen: 411
+answer: Brazil
+
+One candidate in this nation's 2010 presidential election authorized the sale of Nossa Caixa (CAI-shuh) Bank in 2008. Besides Jose Serra, another candidate in this country's upcoming election is of Bulgarian descent and was once a guerilla in the VAR Palmares organization. That woman is Dilma Rousseff. This nation is currently led by a man who has served as president since 2003 and initiated the anti-hunger Fome Zero project. For 10 points, name this country where President Lula da Silva governs a large Portuguese-speaking population.
+
+----
+num: 33
+category: Science
+difficulty: HS
+fixed: 57
+seen: 483
+answer: {cholera}
+
+The toxin associated with this disease causes G proteins to be constitutively active, and sufferers of cystic fibrosis may be less prone to this disease. One famous outbreak of this disease was preceded by outbreaks in Newcastle and Gateshead, and occurred in the Soho district. That epidemic of this disease is named after Broad Street, and was a case study in epidemiology as investigated by John Snow. For 10 points, name this disease that the aforementioned doctor discovered was transmitted by contaminated water.
+
+----
+num: 34
+category: Religion
+difficulty: HS
+fixed: -1
+seen: 447
+answer: Buddhism
+
+One branch of this religion that includes the concept of sunyata, or emptiness, follows a set of scriptures known as the “three baskets”, and its Four Noble Truths claim that life is suffering. Devotees attempt to follow the Middle Way and the Eightfold Path. It is divided into Theravada and Mahayana branches, the latter of which emphasizes bodhisattvas, as well as including the Japanese Zen tradition. For 10 points, name this religion in which adherents attempt to break the cycle of samsara and achieve nirvana.

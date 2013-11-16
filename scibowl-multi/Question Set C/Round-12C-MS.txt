@@ -1,0 +1,285 @@
+####
+tournament: Question Set C
+round: Round-12C-MS.pdf
+####
+
+num: 2
+category: General Science
+difficulty: MS
+answer: Y)  the Moon Is Gradually Getting Closer to the Earth by 
+About 4 Centimeters Each Year
+
+Which of the following is NOT true of the Moon:
+W) the Moon rotates on its axis at the same rate that it takes to orbit the Earth 
+X) over long periods of time, we can see more than 50% of the Moon’s surface from Earth 
+Y) the Moon is gradually getting closer to the Earth by about 4 centimeters each year
+Z) the Moon’s orbit is elliptical
+
+----
+num: 3
+category: Life Science
+difficulty: MS
+answer: Z)  Amino Acids
+
+Antibodies are composed of:
+W) lipids
+X) nucleic acids 
+Y) glucose
+Z) amino acids
+
+----
+num: 3
+category: Life Science
+difficulty: MS
+answer: X)  Heterozygous
+
+Consider a cross of a pea plant having white flowers with a pea plant having red flowers. Of 50 seedlings from this cross, 25 produce white flowers and 25 produce red flowers. If white is dominant, which of the following is the BEST description for the genetic makeup of the white flowering parent plant:
+W) homozygous for white flowers
+X) heterozygous 
+Y) homozygous for red flowers
+Z) co -dominant for white and red
+
+----
+num: 4
+category: Physical Science
+difficulty: MS
+answer: W)  the Temperature of a Substance Changes During a Phase 
+Change
+
+Which of the following is NOT true:
+W) the temperature of a substance changes during a phase change 
+X) a compound can be broken down by chemical means
+Y) some known elements are unstable and only last for fractions of seconds
+Z) the opposite of vaporization is condensation
+
+----
+num: 5
+category: Earth Science
+difficulty: MS
+answer: Y)  Cretaceous
+
+Except for birds, dinosaurs became extinct after which of the following periods:
+W) Jurassic 
+X) Triassic 
+Y) Cretaceous
+Z) Permian
+
+----
+num: 5
+category: Earth Science
+difficulty: MS
+answer: Y)  Brachiosaurus Had Tail Spikes and Bony Plates Along the 
+Length of Its Back
+
+Which of the following dinosaurs is NOT correctly matched with its description:
+W) Hadrosaurus had a beak, web-feet, and a pelvis very similar to modern ducks
+X) Iguanodon was a mid-sized herbivore
+Y) Brachiosaurus had tail spikes and bony plates along the length of its back 
+Z) Tyrannosaurus rex was a large carnivorous dinosaur
+
+----
+num: 7
+category: General Science
+difficulty: MS
+answer: W)  Wool
+(Solution:  Wool Being a Protein Has the Most Polar Molecules)
+
+Which of the following fabrics would most easily be colored by dyes that contain polar molecules or ions:
+W) wool
+X) nylon
+Y) polyester
+Z) rayon
+
+----
+num: 7
+category: General Science
+difficulty: MS
+answer: Z)  Cesium
+
+There are about 24 essential elements needed to maintain a healthy human body. Which of the following is NOT one of these elements:
+W) iodine
+X) selenium
+Y) sodium
+Z) cesium
+
+----
+num: 8
+category: Life Science
+difficulty: MS
+answer: Z)  to Allow Substances Such as Mrna to Leave the Nucleus
+
+Which of the following is the BEST explanation for the function of nuclear pores:
+W) to prevent damaging hydrogen peroxide from entering the nucleus
+X) to prevent too much pressure from metabolism from building up in the nucleus
+Y) to allow the nucleus to sweat
+Z) to allow substances such as mRNA to leave the nucleus
+
+----
+num: 9
+category: Physical Science
+difficulty: MS
+answer: X)  Silver
+
+Which of the following metals is often used to transform a sheet of regular glass into a mirror:
+W) cobalt
+X) silver
+Y) zinc
+Z) iron
+
+----
+num: 10
+category: Earth Science
+difficulty: MS
+answer: W)  Westward by the Easterly Trade Winds
+
+A hurricane originating in the Eastern tropical Atlantic is driven:
+W) westward by the easterly trade winds 
+X) westward by the prevailing westerlies
+Y) eastward by the easterly trade winds
+Z) eastward by the prevailing westerlies
+
+----
+num: 10
+category: Earth Science
+difficulty: MS
+answer: X)  Rivers and Streams
+
+An organism that inhabits a fluvial environment is one that inhabits:
+W) lakes and ponds
+X) rivers and streams
+Y) deserts
+Z) volcanoes
+
+----
+num: 12
+category: General Science
+difficulty: MS
+answer: X)  Astronomer
+
+Which of the following scientists would most likely use a coronagraph in their experiments:
+W) biologist 
+X) astronomer
+Y) paleontologist
+Z) oceanographer
+
+----
+num: 13
+category: Life Science
+difficulty: MS
+answer: Y)  Scanning Electron Microscopy
+
+Which of the following kinds of microscopes typically is used to view the surface of objects ranging in size from cells to small insects like fleas to reveal minute surface details:
+W) bright field microscopy
+X) interference microscopy
+Y) scanning electron microscopy
+Z) transmission electron microscopy
+
+----
+num: 13
+category: Life Science
+difficulty: MS
+answer: Y)  8
+
+A small human lymphocyte and a red blood cell are both about how m any micrometers across:
+W) 1
+X) 3
+Y) 8
+Z) 16
+
+----
+num: 14
+category: Physical Science
+difficulty: MS
+answer: W)  the More Massive Object Will Have More Thermal Energy
+
+Which of the following MUST be the case for a more massive object versus a less massive object if both are at the same temperature and pressure:
+W) the more massive object will have more thermal energy
+X) the more massive object will have a greater specific heat
+Y) the more massive object will lose heat faster than the smaller object
+Z) the more massive object will have less inertia
+
+----
+num: 15
+category: Earth Science
+difficulty: MS
+answer: W)  Rip Current
+
+Which of the following is the BEST example of a littoral ocean current:
+W) rip current
+X) seismic sea wave
+Y) the Gulf Stream
+Z) equatorial tidal current
+
+----
+num: 17
+category: General Science
+difficulty: MS
+answer: Z)  Polarization
+
+Which of the following BEST describes the property of light as a transverse wave whereby the plane of vibration of the light is restricted to certain planes:
+W) diffraction
+X) reflection
+Y) refraction
+Z) polarization
+
+----
+num: 18
+category: Life Science
+difficulty: MS
+answer: X)  Xylem
+
+In which of the following cell types of woody higher plants is lignin most prominent:
+W) phloem 
+X) xylem
+Y) parenchyma
+Z) collenchyma
+
+----
+num: 18
+category: Life Science
+difficulty: MS
+answer: Y)  Transporting Water in Their Heartwood
+
+Which of the following is the LEAST likely method a maple tree uses to regulate water:
+W) storing water in vacuoles
+X) opening and closing stomata in stems and leaves 
+Y) transporting water in their heartwood
+Z) absorbing water through root hairs
+
+----
+num: 19
+category: Physical Science
+difficulty: MS
+answer: W)  Amalgam
+(Solution:  an Amalgam Is an Alloy of Mercury)
+
+Because they contain mercury, which of the following is the BEST classification of silver dental fillings:
+W) amalgam 
+X) colloid
+Y) mixture
+Z) solution
+
+----
+num: 20
+category: Earth Science
+difficulty: MS
+answer: Y)  the Center of a Glacier Typically Moves Slower Down a 
+Slope Than Do the Edges
+
+Which of the following is NOT true about glaciations:
+W) about 12,000 years ago it was possible to walk from Alaska to Siberia through the Bering Strait
+X) throughout history, times of extensive glaciation coincided with low sea levels
+Y) the center of a glacier typically moves slower down a slope than do the edges 
+Z) alpine glaciers exist on nearly every continent
+
+----
+num: 20
+category: Earth Science
+difficulty: MS
+answer: Z)  6 Pm
+
+If high tide occurs at noon, which of the following is the most likely time that the same beach will experience a low tide:
+W) 3 PM
+X) 4 PM
+Y) 5 PM
+Z) 6 PM

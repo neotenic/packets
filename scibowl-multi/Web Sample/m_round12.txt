@@ -1,0 +1,210 @@
+####
+tournament: Web Sample
+round: m_round12.pdf
+####
+
+num: 2
+category: Earth Science
+difficulty: MS
+answer: Y)  Most of It Escaped Into Space Long Ago Because of Its Low 
+Mass
+
+Which of the following best explains the relative lack of hydrogen in our atmosphere in spite of its abundance in the Universe:
+W) most of it is tied up in the water molecule
+X) most of it is consumed in photosynthesis
+Y) most of it escaped into space long ago because of its low mass
+Z) most of it was an unstable isotope that decayed into helium
+
+----
+num: 2
+category: Earth Science
+difficulty: MS
+answer: X)  Gulf of California
+
+Which of the following locations contains relatively young coasts that formed as a consequence of continental rifting:
+W) southern coasts of the Aleutian Islands
+X) Gulf of California
+Y) Hawaii
+Z) northeastern Japan
+
+----
+num: 4
+category: General Science
+difficulty: MS
+answer: Z)  Ceramic
+
+Which of the following filters can withstand temperatures up to 1400ºC:
+W) paper cellulosic
+X) borosilicate gla ss
+Y) polyester
+Z) ceramic
+
+----
+num: 5
+category: Life Science
+difficulty: MS
+answer: Y)  E Fferent
+
+Which of the following terms most commonly refers to nerves leaving the brain:
+W) posterior
+X) rostral
+Y) efferent
+Z) involuntary
+
+----
+num: 6
+category: Physical Science
+difficulty: MS
+answer: Y)  His Data Was Not Close to the True Value but Reproducible
+
+Randy was precise in his lab experiment but he was not accurate. Which of the following best describes his measurements:
+W) his data was close to the true value but not reproducible 
+X) his data was close to the true value and reproducible
+Y) his data was not close to the true value but reproducible
+Z) his data was not close to the true value and reproducible
+
+----
+num: 7
+category: Earth Science
+difficulty: MS
+answer: Z)  Peridotite
+
+The Earth’s mantle is thought to be composed of which of the following:
+W) coal 
+X) granite
+Y) slate
+Z) peridotite
+
+----
+num: 9
+category: General Science
+difficulty: MS
+answer: W)  Living Fossil Fish
+
+Which of the following best describes a coelacanth(read as: SEE-la-canth):
+W) living fossil fish 
+X) extinct amphibian 
+Y) extinct mammal
+Z) an air -breathing extinct fish
+
+----
+num: 10
+category: Life Science
+difficulty: MS
+answer: Y)  Gametophyte
+
+Into which of the following does a typical fern spore most directly develop:
+W) sporophyte
+X) egg cell
+Y) gametophyte
+Z) sperm cell
+
+----
+num: 11
+category: Physical Science
+difficulty: MS
+answer: W)  Another Molecule Is Reduced
+
+Which of the following most likely occurs when one molecule is oxidized:
+W) another molecule is reduced
+X) there is a release in work
+Y) the system becomes more ordered
+Z) the reaction is at equilibrium
+
+----
+num: 12
+category: Earth Science
+difficulty: MS
+answer: Z)  Basic Lava
+
+Which of the following were NOT produced by the eruption of Mount Saint Helens in 1980:
+W) lahar (read as: lah-HAR) flows
+X) pyroclastic flows
+Y) significant ashfall deposits
+Z) basic lava
+
+----
+num: 14
+category: General Science
+difficulty: MS
+answer: Y)  Cranberries
+
+Which of the following is a native American fruit that is typically grown in bogs and harvested in the fall:
+W) cherries
+X) blueberries
+Y) cranberries
+Z) huckleberries
+
+----
+num: 14
+category: General Science
+difficulty: MS
+answer: Z)  Anthocyanin
+
+Which of the following is the pigment responsible for the characteristic red color of the cranberry:
+W) red dye number 2
+X) carotene
+Y) carmine red
+Z) anthocyanin
+
+----
+num: 15
+category: Life Science
+difficulty: MS
+answer: W)  Characteristics Acquired After Birth Are Passed on to 
+Following Generations
+
+Which of the following is a theory of heredity postulated by 
+Lamarck:
+W) characteristics acquired after birth are passed on to following generations
+X) nature selects for the best characteristic
+Y) only the fittest organisms survive throug h natural selection
+Z) genes determine the phenotype
+
+----
+num: 16
+category: Physical Science
+difficulty: MS
+answer: X)  Hf
+
+Which of the following molecules is considered the most polar:
+W) CH^4
+X) HF
+Y) F^2
+Z) CO ^2^
+
+----
+num: 17
+category: Earth Science
+difficulty: MS
+answer: X)  a Moderate Breeze
+
+A Beaufort number of 4 indicates:
+W) a moderate earth quake
+X) a moderate breeze
+Y) a strong tornado
+Z) a mineral similar in hardness to fluorite
+
+----
+num: 17
+category: Earth Science
+difficulty: MS
+answer: X)  Severe Weather
+
+If cumulus mammatus clouds are heading in your direction, you may soon experience:
+W) clearing skies
+X) severe weather
+Y) high pressure conditions
+Z) snow
+
+----
+num: 20
+category: Life Science
+difficulty: MS
+answer: W)  Stomata
+
+Which of the following is LEAST likely to be found in or on a root of a flowering plant:
+W) stomata
+X) epidermis
+Y) xylem
+Z) phloem

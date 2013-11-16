@@ -1,0 +1,214 @@
+####
+tournament: T-Party
+round: Editors 1 - T Party 2010.doc
+year: 2010
+####
+
+num: 1
+category: Mythology
+difficulty: College
+fixed: -1
+seen: 109
+answer: {kami} [accept {Shinto deities} or {Japanese deities} or equivalents; prompt on “{dwarves}” until “{jewels}” is read]
+
+The omniscience of one of these figures couldn't save him from being flung into space from a millet stalk, while another of these figures owns a pair of jewels that control the tides. One group of these figures travels around on the Treasure Ship and includes an individual who grew a skeleton after being born a leech child. Another of them owns a ring of drums with which he creates thunder. They also include a dancer who married the guardian of the bridge between heaven and earth and created such merriment that the one representing the sun emerged from her cave. For 10 points, identify these deities that include Ryujin, Raijin, Uzume, and Amaterasu.
+
+----
+num: 2
+category: Literature
+difficulty: College
+fixed: 1
+seen: 57
+answer: John {Willoughby} [prompt on “{John}”; do not accept “{John Dashwood}” or “{John Middleton}”]
+
+This character owns “the nicest little black bitch of pointer” the owner of Barton Park has ever seen, and he promises to bring another character a horse from his estate at Somersetshire. He leaves during a heavy rain after his first appearance, in which he appears in hunting garb and assists a character with a twisted ankle. He eventually marries the rich Miss Grey after losing the allowance he received from a relative who had gotten wind of his affair with the ward of Colonel Brandon. For 10 points, name this dashing rogue who is distrusted by Elinor and who throws over Marianne Dashwood in Jane Austen's Sense & Sensibility.
+
+----
+num: 3
+category: Science
+difficulty: College
+fixed: -1
+seen: 82
+answer: {integral transforms} [accept {Abel transform}, {Weierstrass transform}, {Fourier transform where appropriate}]
+
+One of this type of operation is used to effect a time-step on a temperature distribution on an infinite rod and employs a Gaussian with exponent coefficient one over four t; that one is named for Weierstrass. These operations employ a function of two variables, one a dummy, called the “kernel function” or “nucleus”; the kernel is two t over square root of t squared minus u squared for the Abel one. One of these operations is unitary according to Parseval's theorem and moves from the time domain to the frequency domain. For 10 points, name this type of map which uses its namesake operation to take a function to another function, one example of which is named for Fourier.
+
+----
+num: 4
+category: Fine Arts
+difficulty: College
+fixed: 1
+seen: 70
+answer: Sandro {Botticelli} [or {Alessandro di Mariano di Vanni Filipeppi}]
+
+Eight angels hold lilies high and sing antiphons in this man's Raczynski Tondo, while Cosmas and Damian in red kneel amongst six saints in this man's Sant'Ambrogio Altarpiece. His narrative works include a pair on The Story of Virginia and The Story of Lucretia. He used vast amounts of gold for robes and a crown of stars for a work which has the mother and child holding a pomegranate as the Virgin writes in a book, The Madonna of the Magnificat. Agnolo Poliziano's Verses inspired another work, which has one of the Horae offer a cloak with flowers to the title figure, who is blown towards the shore by the Zephyrs. For 10 points, name this painter of the Birth of Venus.
+
+----
+num: 5
+category: History
+difficulty: College
+fixed: None
+seen: 71
+answer: {Mark Antony} [accept {Marcus Antonius}]
+
+This figure's brother and wife Fulvia were defeated in a short lived war in the city of Perugia. This man was defeated at a battle which saw the deaths of the consuls Hirtius and Pansa. This figure was the father of Alexander Helios. While serving as Magister Equitum, this figure violently quelled a series of riots in Rome. This loser at the Battle of Mutina was the subject of Cicero's Philippics, and with the passage of the Lex Titia this man joined a group alongside Marcus Lepidus. For 10 points, identify this figure who, with Octavian, won at the Battle of Philippi, but later lost at the Battle of Actium alongside Cleopatra.
+
+----
+num: 6
+category: Social Science
+difficulty: College
+fixed: 1
+seen: 49
+answer: John Kenneth {Galbraith}
+
+One work by this author claims that companies that control two-thirds of output act to minimize risk rather than maximize profit, since they are controlled not by their shareholders, but by technostructure. That work tracks how large corporations use futures to minimize the volatility of raw materials prices and how they undermine supply and demand via advertising and vertical integration. Another work by this author described the growing wealth of the American private sector while public infrastructure remained impoverished and popularized the phrase "conventional wisdom." For 10 points, name this author of The New Industrial State and The Affluent Society.
+
+----
+num: 7
+category: Literature
+difficulty: College
+fixed: None
+seen: 68
+answer: The {Bacchae} [or The {Bacchantes}]
+
+This play's chorus refers to a character "sprung of a dragon" who is "a savage monster in his very mien... like some murderous giant pitted against heaven" before they summon an earthquake and raze his palace. A tree is bent down to allow that character to sit atop the forest, and he had earlier demanded the cutting of another character's sacred locks. Tiresias' criticisms of those who refuse to engage in the rites prevents his demise, while Cadmus is presented with the head of his grandson by his daughter Agave, who joined the maenads in ripping him apart. For 10 points, name this play which ends with Dionysus' vengeance on Pentheus and the royal family of Thebes, a work of Euripides.
+
+----
+num: 8
+category: Science
+difficulty: College
+fixed: 57
+seen: 82
+answer: {magnetic field} [or {B field}]
+
+The sun decreases this entity's linking number, called its helicity, in coronal mass ejections. In the presence of this entity, the Lyman alpha transition exhibits ten lines instead of two, and the wave propagation vector is parallel to this entity in Alfven waves. An armature rotates within a stator that generates this phenomenon in a dynamo, and this entity is expelled from a superconductor in the Meissner effect. This quantity is proportional to the integral around a loop of wire of the wire element cross the unit vector to the wire over the distance to the wire squared. For 10 points, give this entity, which exerts a force on a charged particle proportional to velocity's cross product with it.
+
+----
+num: 9
+category: History
+difficulty: College
+fixed: 57
+seen: 67
+answer: Earl {Warren}
+
+One case during this man' s time as Chief Justice ruled that it was unconstitutional for the federal government to cancel one's citizenship as punishment. Another case during this man's tenure revolved around a break-in at a pool room in Florida. This man's court ruled that children at an Iowa school could wear black armbands as a sign of protest. The Chief Justice during such cases as Tinker v. Des Moines and Gideon v. Wainwright, this man wrote the majority opinion for the case which ruled “separate but equal” unconstitutional, Brown v. Board of Education. For 10 points, name this liberal who served as Chief Justice from 1953 to 1969.
+
+----
+num: 10
+category: Fine Arts
+difficulty: College
+fixed: None
+seen: 68
+answer: St. {Paul's} Cathedral [accept {St. Paul's Cathedral}]
+
+Bill Viola was recently commissioned to create two plasma-screen altarpieces for this structure, while Grinling Gibbons created its choir stalls and organ case. The towers on its west end each consist of a central cylinder and a quartet of paired buttress-topped Corinthian columns. The wrought-iron gates at its east entrance, like its screens and grilles, were produced by Jean Tijou. The north aisle of its nave features the chapel of St. Dunstan. It features the external Stone and Golden Galleries above its Whispering Gallery, which is found under its 365-foot triple-shelled dome. For 10 points, name this Baroque cathedral on Ludgate Hill in London, the masterpiece of Christopher Wren.
+
+----
+num: 11
+category: History
+difficulty: College
+fixed: None
+seen: 69
+answer: {Mehmet} II [accept: {Mehmet} the {Conqueror}; {Fatih Sultan Mehmet}]
+
+This ruler ordered the execution of Lucas Notaras, allegedly because of Notaras's opposition to pederasty. Alliances against this ruler include the League of Lezhe. At the Battle of Vaslui, Stephen the Great of Moldavia defeated this man. He defeated the White Sheep tribe and conquered the Despotate of Morea and the Empire of Trebizond. This ruler was the son of Murad II. In his most famous action, this he used logs to carry ships across the Golden Horn and made a mosque of the Hagia Sophia. For 10 points, name this Ottoman sultan who captured Constantinople.
+
+----
+num: 12
+category: Trash
+difficulty: College
+fixed: -1
+seen: 187
+answer: {Die Hard}
+
+At one point in this film, a character misidentifies the star of High Noon as John Wayne, while another character incorrectly labels the Stockholm Syndrome the “Helsinki” Syndrome. The antagonist of this film claims to be allied with the Asian Dawn movement, but actually just read about it in Time magazine. Supporting characters in this film are the limo driver Argyle and the tabloid journalist Richard Thornburg. In the climax of this movie, the antagonist falls to his death from the Nakatomi building. For 10 points, name this 1988 action film featuring the battle of wits between the villainous Hans Gruber and cop John McClane, played by Bruce Willis.
+
+----
+num: 13
+category: Science
+difficulty: College
+fixed: 57
+seen: 80
+answer: kidney
+
+The basement membrane of these structures acquires a basket-weave appearance while they scar in Alport syndrome. This organ contains a structure whose slit diaphragms occur in between podocytes, and one hormone produced here forms a blood pressure regulating system with angiotensin. This organ contains a structure that consists of a capillary tuft and is surrounded by Bowman's capsule called the glomerulus. This organ concentrates sodium to retain water in the loop of Henle, and it sits under the glands that produce epinephrine. For 10 points, name this organ, whose central functional unit is the nephron and which produces urine for expulsion by the bladder.
+
+----
+num: 14
+category: Literature
+difficulty: College
+fixed: None
+seen: 60
+answer: {Romance} of the {Three Kingdoms} [accept {Sanguo Yanyi} or, {disappointingly}, {San kuo chih yen}-{i}]
+
+In one section of this work, a man married to a relative of the fire god is “seven times captured, seven times freed!” One character in this work defeats six generals while passing through five gates; after that character's death his spirit possesses Lu Meng at a banquet. A hilarious scene in this novel sees one character chase another around a garden with a spear after catching the latter embracing Diao Chan. Later in this novel, Fledgling Phoenix recommends the services of Sleeping Dragon to a man who'd made an oath in a peach garden with Zhang Fei and Guan Yu. For 10 points, identify this classic Luo Guanzhong novel whose title entities are led by Sun Quan, Liu Bei, and Cao Cao.
+
+----
+num: 15
+category: Philosophy
+difficulty: College
+fixed: 1
+seen: 52
+answer: Ludwig {Wittgenstein} [or {Ludwig Josef Johann Wittgenstein}]
+
+One work by this philosopher likens propositions about the world to hinges that support language and declares that those propositions are outside of both doubt and knowledge. In a preface to another work, this thinker dissected the sentence “Socrates is wise” and defines thought as a “logical picture of a fact”. This author of On Certainty wrote another work that posited a “beetle in a box” to refute the existence of private languages. For 10 points name this Austrian philosopher who declared “of what we cannot speak, we must pass over in silence” and wrote Philosophical Investigations and Tractatus Logico-Philosophicus.
+
+----
+num: 16
+category: History
+difficulty: College
+fixed: None
+seen: 69
+answer: {Steven} [accept: {Stephen}; {Stefan}; {Istvan}]
+
+Under the 1606 Treaty of Vienna, a member of the Bocskay family with this first name became Prince of Transylvania. One king with this first name gained territory at the Treaty of Jam Zapolski, which he signed after defeating Ivan the Terrible. Besides the king who led Poland during the Livonian War, an English king with this name signed the Treaty of Winchester and succeeded Henry I. That king fought with Queen Maud during the Anarchy and was succeeded by Henry II Plantagenet. For 10 points, give this name held by the only English king from the House of Blois.
+
+----
+num: 17
+category: Fine Arts
+difficulty: College
+fixed: None
+seen: 71
+answer: {Scarlatti} [accept things like “{members} of the {Scarlatti family}”; accept the {added given} names {Pietro} ({Filippo}), {Alessandro}, or ({Giuseppe}) {Domenico}]
+
+Johann Hasse's La Contadina premiered during a performance of an opera by one of these composers called Clitarco. Another of them wrote an aria that described the sun rising over the Ganges for his opera Honesty in Love's Affairs; that one also composed the St. Cecilia Mass and the opera Mitridate Eupatore. The catalogue of the works of another of these composers includes the Cat's Fugue and begins with the 30 Essercizi; that catalogue was collected by Ralph Kirkpatrick and contains 555 keyboard sonatas in total. For 10 points, identify this family of Italian Baroque composers that included the aforementioned Pietro, Alessandro, and Domenico.
+
+----
+num: 18
+category: Social Science
+difficulty: College
+fixed: None
+seen: 50
+answer: {B. F. Skinner} [or {Burrhus Frederick Skinner}; or {Fred Skinner} from {esteemed colleagues}]
+
+This thinker offered five remedies to five common obstacles to learning in one work. Another book by him distinguishes between the autoclitic and echoic forms of the titular variables. This psychologist opposed the morally “autonomous man” in a work that proposes to curb objectionable actions through a “technology of behavior”. In another work, this author of The Technology of Teaching imagined a utopian community run by Planners and Managers inspired by a work of Thoureau. For 10 points, name this author of Verbal Behavior, Beyond Freedom and Dignity and Walden Two and invented a namesake box to examine operant conditioning.
+
+----
+num: 19
+category: Science
+difficulty: College
+fixed: 57
+seen: 80
+answer: {colloids}
+
+Polymerization in one type of these entities was first modeled by Smith, Ewart, and Hawkins. These entities exhibit maximum viscosity at their point of zero charge. These entities may be described by a number first calculated rigorously by Dukhin and Semenikhin, whose simplified computation typically assumes a thin double layer and neglects surface conductivity. These entities are destabilized in a process called flocculation, and that stability can be measured by the zeta potential. For 10 points, name these entities, which scatter light according to the Tyndall effect and whose liquid-liquid examples are called emulsions.
+
+----
+num: 20
+category: Literature
+difficulty: College
+fixed: 57
+seen: 57
+answer: Stephen Vincent {Benét}
+
+One of this author's works stars the son of a priest of the Hill people who travels across the river Ou-dis-sun on a “god-road” to the Dead Place after having a vision of the Great Burning. This author of that post-apocalyptic story wrote about falling in love with “the snakeskin-titles of mining claims” in a poem that ends with the line “Bury my heart at Wounded Knee”. Jack Ellyat and Clay Wingate are among the narrators of this man's epic poem about the Civil War, and he also wrote a story in which Mr. Scratch puts Jabez Stone on trial. For 10 points, name this author of “By the Waters of Babylon”, “American Names”, John Brown's Body, and “The Devil and Daniel Webster”.
+
+----
+num: 21
+category: Literature
+difficulty: College
+fixed: 1
+seen: 61
+answer: Charles {Baudelaire}
+
+This man wrote of a figure whose “lucid essence flames with lightnings” as he tells God that “Of light drawn from the holy fount” will “all time and all space” braid him a mystic crown and that “pain is the only nobility.” That figure, the Poet, appears in “Benediction” as well as a poem wherein he is compared to a “prince of the clouds” who pathetically lets his “great white wings” drag after sailors catch him. This man also created a character who “dreams of scaffolds as he smokes his hookah pipe”; that figure is Ennui, who is known to the hypocrite twin. For 10 points, name this author of “The Albatross” and “To the Reader”, poems in his Flowers of Evil.

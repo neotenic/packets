@@ -1,0 +1,647 @@
+####
+tournament: Sample Set 4
+round: Round8.pdf
+####
+
+num: 1
+category: Chemistry
+difficulty: HS
+seen: 1
+answer: W) Alkyne
+
+A molecule having a chemical formula of CH^3CCCH^3 would be classified by w hich of the following ?
+W) Alkyne 
+X) Alkene
+Y) Alkane
+Z) Aldehyde (read as: AHL-deh-hyd)
+
+----
+num: 1
+category: Chemistry
+difficulty: HS
+answer: Y) Lanthanides and Actinides
+
+
+The rare earth elements are primarily composed of elements from which groups of the periodic table?
+W) Transition metals and main group
+X) Alkali and alkaline 
+Y) Lanthanides (read as: LAHN-thah-nyds) and actindies
+Z) Alkaline and transition metals
+
+----
+num: 1
+category: Energy
+difficulty: MS
+answer: Z) Kinetic and Potentia L Energy
+
+A swing converts energy between which two forms?
+W) Kinetic and radiant energy
+X) Mechanical and electrical energy
+Y) Radiant and sound energy
+Z) Kinetic and potential energy
+
+----
+num: 2
+category: Earth and Space
+difficulty: HS
+answer: X ) They Move Slowly
+
+Which of the following is NO T a property of pyroclastic (read as: py-rōe-KLAHS-tik) flows?
+W) They can flow uphill
+X) They move slowly 
+Y) Hot rock and ash flow like a turbulent blanket over the ground
+Z) They glow red at night but appear grey in the daytime
+
+----
+num: 2
+category: General Science
+difficulty: MS
+answer: Y) They Are Rich in Minerals and Vitamins
+
+Why are fruits and vegetables essential in a healthy mammalian diet ?
+W) They have a high water content
+X) They are the best source of protein
+Y) They are rich in minerals and vitamins
+Z) They are the best source of carbohydrates
+
+----
+num: 2
+category: General Science
+difficulty: MS
+answer: Y) Bread, Vegetables , and Fish
+
+Which of the following meals would give humans most of the nutrients needed in a da y?
+W) Vegetables, fruit, and water
+X) Meat, milk, and a piece of chocolate
+Y) Bread, vegetables, and fish
+Z) Meat, fish, and bread
+
+----
+num: 3
+category: Biology
+difficulty: HS
+seen: 1
+answer: X)  Reproductive Organs
+
+During meiosis, haploid cells are created from diploid parent cells. In animals, this process only takes place in:
+W) Gametes
+X) Reproductive organs
+Y) Somatic cells
+Z) Plasma cells
+
+----
+num: 3
+category: Physical Science
+difficulty: MS
+answer: X) Lustrous, Malleable, and  Are Good Conductors
+
+
+Which of the following characteristics best describes metals?
+W) Brittle, highly reactive, and have low melting points
+X) Lustrous, malleable, and are good conductors
+Y) Dense, form salts, and are highly reactive
+Z) Hard, form negatively charged ions, and are good resistors
+
+----
+num: 5
+category: Biology
+difficulty: HS
+seen: 1
+answer: Z) Mosquito
+
+Which of the following organisms is NOT an autotroph?
+W) Pigmented sulfur bacteria
+X) Palm tree
+Y) Nitrifying bacteria
+Z) Mosquito
+
+----
+num: 6
+category: Physics
+difficulty: HS
+answer: Z) When a Permanent Magnet Is Cut in Half, One Piece Will Be a 
+North Pole and One Piece Will Be a South Pole
+
+Which one of the following statements concerning permanent bar magnets is NOT true?
+W) The north pole of a permanent magnet is attracted to a south pole of another magnet
+X) The direction of a magnetic field is indicated by the north pole of a compass
+Y) All permanent magnets are surrounded by a magnetic field
+Z) When a permanent magnet is cut in half, one piece will be a north pole and one a south pole
+
+----
+num: 6
+category: Physics
+difficulty: HS
+answer: Z)  Extension of the Str Ing
+
+The force exerted by a coiled spring is directly proportional to which of the following?
+W) Uncoiled length of the spring
+X) Diameter of the string
+Y) Thickness of the string
+Z) Extension of the string
+
+----
+num: 6
+category: Earth and Space Science
+difficulty: MS
+answer: Z) Magma From the Mantle Is Exposed at the Surface and Cools 
+to Form New Lithospheric Crust
+
+Which of the following is true about divergent plate boundaries where the lithosphere is being pushed and pulled apart?
+W) They only occur along the seafloor 
+X) They are sites of the most explosive volcanism known on earth
+Y) They are no longer active but there is evidence of volcanism from millions of y ears ago
+Z) Magma from the mantle is exposed at the surface and cools to form new lithospheric (read as: li -thoh-SFIR-ik) crust
+
+----
+num: 6
+category: Earth and Space Science
+difficulty: MS
+answer: Y) the East Ern Coast of the United States Is in the Middle of the 
+North American Plate, Not at a Plate Margin Where Trenches Can Occur
+
+Why are there no deep-sea trenches off the east coast of the United States?
+W) There are no trenches in the Atlantic Ocean; trenches exist only in the Pacific Ocean
+X) The Appalachian Mountains are volcanic mountains and trenches are not associated with volcanism
+Y) The eastern coast of the United States is in the middle of the North American Plate, not at a plate margin where trenches can occur
+Z) The deep ocean trenches have been filled with sediments from the many rivers that drain the 
+U.S.
+
+----
+num: 7
+category: Earth and Space
+difficulty: HS
+answer: X) Amphiboles
+
+
+A mineral with the chemical formula 
+Ca ^2Mg^5Si^8O^22(OH)^2 belongs to which of the following mineral groups?
+W) Serpentines
+X) Amphiboles
+Y) Olivines (read as: OH-li-veens)
+Z) Pyroxenes (read as: py-ROHK-seens)
+
+----
+num: 7
+category: Life Science
+difficulty: MS
+answer: W) Maple
+
+
+You are using a dichotomous key to identify a leaf you have picked up. You observe that you have a leaf with several main veins of about equal size, all of which extend from a common point at the base of the blade. Your leaf could be from which of t he following trees?
+W) Maple
+X) Beech
+Y) Birch
+Z) Elm
+
+----
+num: 8
+category: Chemistry
+difficulty: HS
+answer: Y) Synthesis
+
+How would you classify a reaction in which solid potassium and chlorine gas react to form the ionic compound potassium chloride?
+W) Decomposition
+X) Combustion
+Y) Synthesis
+Z) Disproportionation
+
+----
+num: 9
+category: Biology
+difficulty: HS
+answer: W) Allopatric Speciation
+
+The Spotted Owl is considered an endangered species in the western United States, largely due to competition from the introduced Barred Owl. These two species are genetically similar and are believed to have speciated from a common ancestor after separation of the two populations on opposite coasts of the United States. This is an example of:
+W) Allopatric speciation
+X) Sympathetic speciation
+Y) Sympatric speciation
+Z) Genetic drift
+
+----
+num: 9
+category: Energy
+difficulty: MS
+answer: X) Gravitational
+
+If you drop a tennis ball from the first-story window of a building, as it falls it has increasingly less of which of the following forms of energy?
+W) Electrical
+X) Gravitational
+Y) Kinetic
+Z) Thermal
+
+----
+num: 10
+category: Chemistry
+difficulty: HS
+seen: 1
+answer: Y) Group 18
+
+In which of the following groups does the elemental form have a completed valence shell?
+W) Group 8
+X) Group 10
+Y) Group 18
+Z) Group 28
+
+----
+num: 11
+category: Physics
+difficulty: HS
+answer: X) an Insulating Layer of Steam
+
+
+The Leidenfrost effect is what causes w ater to "skitter" across a hot surface such as a pan and can permit a droplet to persist for longer on the hot surface at higher temperatures. On what is the water floating?
+W) A cushion of superheated air
+X) An insulating layer of steam 
+Y) An insulating piece of the surface it sublimed
+Z) A transitory cold zone
+
+----
+num: 12
+category: Math
+difficulty: HS
+seen: 1
+answer: W) 3x +
+
+If x = 4 and y = 2, which of the following expressions is undefined?
+W) 3x +
+Z) Y) X) 2xxy y+ –+ 4x^2x
+
+----
+num: 12
+category: Life Science
+difficulty: MS
+answer: W) Alveoli
+
+Name the tiny air sacs involved in the exchange of oxygen and carbon dioxide in the lungs.
+W) Alveoli (read as: ahl-VEE-oh-ly)
+X) Trachea
+Y) Marrow
+Z) Ventricles
+
+----
+num: 12
+category: Life Science
+difficulty: MS
+answer: X) Secondary
+
+After a forest fire, what specific type of succession rebuilds the ecosystem?
+W) Pioneer
+X) Secondary
+Y) Ecological
+Z) Primary
+
+----
+num: 13
+category: Energy
+difficulty: HS
+seen: 1
+answer: Y) 25
+
+The typical efficiency of an automobile engine is approximately which of the following percentages?
+W) 95
+X) 65
+Y) 25
+Z) 5
+
+----
+num: 14
+category: Earth and Space Science
+difficulty: MS
+answer: W)  High Levels of Evaporation
+
+Which of the following processes increasess alinity in surface waters of the ocean?
+W) High levels of evaporation
+X) Melting sea ice 
+Y) High levels of precipitation
+Z) Abundance of ocean life
+
+----
+num: 14
+category: Earth and Space Science
+difficulty: MS
+answer: W)  Middle of the Atlantic, North of the Equatorial Waters
+
+In which of the following regions of the world will you likely find surface ocean water that is high in salinity and temperature but low in productivity?
+W) Middle of the Atlantic, north of the equatorial waters
+X) North Pacific Ocean, near the shoreline
+Y) Indian Ocean, between India and Africa (Arabian Sea)
+Z) Coral reefs, off the northeast coast of Australia
+
+----
+num: 15
+category: Earth and Space
+difficulty: HS
+seen: 1
+answer: W) Its Deviation From a Circular Orbit
+
+Eccentricity of an orbit describes:
+W) Its deviation from a circular orbit
+X) Its deviation from the ecliptic
+Y) Its time difference from a standard day
+Z) Its tumble ratio
+
+----
+num: 16
+category: Physics
+difficulty: HS
+seen: 1
+answer: Z) 60°45°
+Y) 45°
+
+If a soldier wants to shoot a projectile as far into enemy territory
+X) W) as possible over lev30°0° el ground, at what angle from the ground should the projectile be shot?
+Y)
+
+----
+num: 16
+category: Physics
+difficulty: HS
+answer: Y) 15
+
+A dart is shot from ground level over level ground with a speed of 30 meters per second at an angle of 30° above the ground. Assuming no air resistance, what is the vertical speed in meters per second of the dart when it hits the ground?
+W) 0
+X) 9.8
+Y) 15
+Z) 30
+
+----
+num: 16
+category: Life Science
+difficulty: MS
+answer: W) Oak Tree
+
+Which of the following would be considered an autotroph(read as: AW-toh-trōef)?
+W) Oak tree
+X) 
+Y) T
+Migerushroom
+Z) Human
+
+----
+num: 16
+category: Life Science
+difficulty: MS
+answer: X) Water
+
+The oxygen released by plants and other autotrophs (read as: AW-toh-trōefs) comes from which compound?
+W) Carbon dioxide
+X) Water
+Y) Hydrogen peroxide
+Z) Carbon monoxide
+
+----
+num: 17
+category: Energy
+difficulty: HS
+answer: X) Bituminous
+
+Which of the following types of coal is of high quality and has the highest energy content?
+W) Subbituminous (read as: suhb-bi-tuh-MI-nehs)
+X) Bituminous (read as: bi-TUH-mi-nehs)
+Y) Lignite (read as: LIG-nyt)
+Z) Peat
+
+----
+num: 17
+category: Energy
+difficulty: HS
+answer: X) Wood + Oxygen → Carbon Dioxide + Water + Energy
+
+
+Burning wood leads to the release of chemical energy via the process of oxidation. Which of the following describes this more accurately?
+W) Wood → (read as: yields) Fire
+X) Wood + Oxygen → (read as: yields) Carbon Dioxide + Water + Energy
+Y) Wood + Oxygen → (read as: yields) Coal + Carbon^Dioxide + Energy
+Z) Wood + Oxygen → (read as: yields) Carbon Dioxide + Water + Sulfur Dioxide + Energy
+
+----
+num: 18
+category: Math
+difficulty: HS
+seen: 1
+answer: Z) 120  π
+
+The radius of a bicycle tire is 10 inches. How far does the wheel travel in inches in 6 revolutions?
+W) 45 π
+X) 60 π
+Y) 90 π
+Z) 120 π
+
+----
+num: 18
+category: Math
+difficulty: HS
+seen: 1
+answer: Y ) 2π
+
+If a train’s wheels have a diameter of 4 feet and turn at rate of πradians per second, how fast is the train moving in feet per second?
+W) 2 
+X) 4
+Z) 4Y) 2ππ
+
+----
+num: 18
+category: Earth and Space Science
+difficulty: MS
+answer: Z) Everyone on the Night Side of Earth With a Clear Sky  Can See 
+the Lunar Eclipse
+
+Which of the following is true about a full lunar eclipse?
+W) They occur every month
+X) They tend to occur in the same months as solar eclipses 
+Y) They only occur when the Moon is at perigee (read as: PEHR-i-jee), closest to Earth
+Z) Everyone on the night side of Earth with a clear sky can see the lunar eclipse
+
+----
+num: 19
+category: Energy
+difficulty: HS
+answer: X) Powered by Electricity Until Batteries Are Discharged and 
+Then Powered by Gasoline
+
+
+Plug-in hybrid electric vehicles are:
+W) Completely powered by electricity
+X) Powered by electricity until batteries are di scharged and then powered by gasoline 
+Y) Completely powered by solar energy
+Z) Powered completely by biofuels
+
+----
+num: 19
+category: Math
+difficulty: MS
+answer: Y) Scalene
+
+Which of the following correctl y describes a triangle with side lengths of 2 inches, 3 inches, and 4 inches?
+W) Equilateral 
+X) Isosceles 
+Y) Scalene
+Z) Right
+
+----
+num: 19
+category: Math
+difficulty: MS
+answer: Z) the Triangle Is Similar to All Equilateral Triangles
+
+
+Suppose you have an equilateral triangle with a base of 2 inches. 
+Which of the following is true?
+W) The other sides of the triangle are 1 inch
+X) The triangle could be similar to a right triangle
+Y) The triangle is a right triangle
+Z) The triangle is similar to all equilateral triangles
+
+----
+num: 20
+category: Physical Science
+difficulty: MS
+answer: W) Hydrogen Bonding
+
+Which of the following intermolecular forces is strongest?
+W) Hydrogen bonding
+X) London dispersion force
+Y) Dipole-dipole interaction
+Z) Hydrophobic interaction
+
+----
+num: 21
+category: Biology
+difficulty: HS
+answer: W) Constant
+
+According to the Hardy-Weinberg Law, from generation to generation, gene frequencies and genotype frequency in a randomly-breeding population are:
+W) Constant
+X) Increasing
+Y) Decreasing
+Z) Variable, depending upon habitat limitations
+
+----
+num: 21
+category: Biology
+difficulty: HS
+answer: W) Antibiotic Resistance
+
+
+Some transposons in bacteria carry genes for proteins as well as the gene for transposase. These proteins often benefit the bacteria by imparting:
+W) Antibiotic resistance
+X) Growth factors
+Y) Gamete formation
+Z) New organelles
+
+----
+num: 21
+category: Earth and Space Science
+difficulty: MS
+answer: Y)  They May Serve as Reference Points in the Night Sky
+
+Which of the following is true about constellations?
+W) They are made up of stars that not only appear close together but that are actually physically close together in space
+X) They are all visible throughout the year from all points on Earth’s surface
+Y) They may serve as reference points in the night sky
+Z) The locations of the stars in the constellations have changed significantly since the times of ancient Greeks
+
+----
+num: 21
+category: Earth and Space Science
+difficulty: MS
+answer: X) Pangaea Was Just Bre Aking Up Into the Continents We Know 
+Today
+
+
+Our Solar System orbits the center of our 
+Milky Way Galaxy. One full revolution takes about 200-250 million years. The last time our solar system was where it is now, what was occurring here on Earth?
+W) Humans were trying to survive with dinosaurs
+X) Pangaea (read as: pahn-JEE-ah) was just breaking up into the continents we know today
+Y) There were no living organisms on Earth yet
+Z) There were no animals living on land but the seas were full of life
+
+----
+num: 22
+category: Math
+difficulty: HS
+answer: Z) Line
+
+Given two parallel lines in a plane, the set of points that lie in that plane and are equidistant from the given lines forms a:
+W) Point
+X) Segment perpendicular to the lines
+Y) Circle
+Z) Line
+
+----
+num: 22
+category: General Science
+difficulty: MS
+answer: Y) Peta
+
+Which of the following is the SI (read as: S-eye) unit prefix that represents the largest power of 10?
+W) Giga
+X) Mega
+Y) Peta
+Z) Tera
+
+----
+num: 23
+category: Life Science
+difficulty: MS
+answer: Z) Atp
+
+Which of the following molecules is most commonly used for the transport of energy in cells ?
+W) GTP
+X) GDP
+Y) ADP
+Z) A TP
+
+----
+num: 24
+category: General Science
+difficulty: MS
+answer: Z) Molecular Motion Is Highly Restricted; They Can Only Vibrate 
+in Place
+
+Which of the following describes molecules in solid phase?
+W) Molecules are not in contact with each other and move freely, rapidly, and randomly
+X) Molecular forces are not strong and molecules can rotate and roll over each other
+Y) The molecules may move and assume the shape of the container 
+Z) Molecular motion is highly restricted; they can only vibrate in place
+
+----
+num: 25
+category: Chemistry
+difficulty: HS
+seen: 1
+answer: Z)  Potassium Phosphate
+
+Which of the following 1.0 molar solutions will have the largest change in boiling point from that of pure water?
+W) Sodium bromide
+X) Magnesium iodide
+Y) Sucrose
+Z) Potassium phosphate
+
+----
+num: 25
+category: Earth and Space Science
+difficulty: MS
+answer: Z) It Is Released Into a Pond or Leach Field Where It Can Ei Ther 
+Evaporate or Join Groundwater
+
+What happens to the wastewater in a septic tank?
+W) It is removed weekly by solid waste management companies along with curbside trash pickup
+X) It is piped into the town’s sewer system
+Y) It stays in the septic tank until it is full and it then pumped out about every 50 years 
+Z) It is released into a pond or leach field where it can either evaporate or join groundwater
+
+----
+num: 25
+category: Earth and Space Science
+difficulty: MS
+answer: X) the Drinking Water Wells Mus T Have Enough Protective 
+Covering to Prevent Groundwater From Entering the Well Before 
+Pollutants Have Been Removed
+
+Imagine that you are an engineer designing a new neighborhood in a mountainous region. To reduce the likelihood of polluted groundwater, which of the following is the most important factor when consi dering the placement of drinking water wells, septic tanks, and landfills for the community?
+W) The landfill must be located very close to the neighborhood or else people will not use it
+X) The drinking water wells must have enough protective covering to prevent groundwater from entering the well before pollutants have been removed 
+Y) The septic tanks must be located at the top of the hill to receive the most rainwater, which is vital for the chemical processes that occur inside
+Z) There must be a septic tank and landfill located at each home to provide enough waste management for the community

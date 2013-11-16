@@ -1,0 +1,194 @@
+####
+tournament: NTSS
+round: replacement.pdf
+year: 2010
+####
+
+num: 1
+category: Science
+difficulty: HS
+fixed: 57
+seen: 481
+answer: {gravity} [or {gravitation}, etc.; accept {gravity brightening} or {gravity darkening}]
+
+Stars can appear to be brighter at their poles in this phenomenon's namesake darkening. The Eötvös experiment concerned this force, whose balancing point with outward radiation is the Eddington limit. Its namesake waves were reported by Hulse and Taylor, and its namesake constant was first measured using a torsion balance by Cavendish. General relativity has supplanted Newton's model of this force, which treated it as an inverse-square phenomenon. With its namesake acceleration on earth about equal to 9.81 meters per second squared, name this weakest fundamen- tal force, which is exclusively attractive and acts between objects with mass.
+
+----
+num: 2
+category: Science
+difficulty: HS
+fixed: 57
+seen: 466
+answer: Darwinian {fitness} [or {adaptive value}; or {selective value}]
+
+The probability distribution of phenotypes is part of Hartl's definition of this concept, and an altruistic act must increase this quantity to pass Hamilton's rule. The inclusive variety of this explains why worker bees care for their sis- ters, and when most alleles are neutral for this quantity, genetic drift overtakes natural selection. Most courtship be- havior is driven by the relative type of this quantity, for which mules rate a zero. Generally decreased by inbreeding and increased by adaptability, identify this evolutionary measure of reproductive success, the contribution of an indi- vidual to the gene pool of the next generation, which usually goes up the longer an individual survives.
+
+----
+num: 3
+category: Science
+difficulty: HS
+fixed: -1
+seen: 487
+answer: {cadmium} [accept {Cd} before the end]
+
+The first biological role for this element was discovered in 2000 when it was found in the carbonic anhydrase en- zyme of marine diatoms, and the first spectroscopic definition of the meter was based on this element's red line. Along with bismuth, lead, and tin, this element comprises the alloy known as Wood's metal, and it is the only element in Group 12 that can form complex ions with chloride. The only ore mineral with this element is greenockite. This metal is the basis for the highest-grade yellow pigment, but its ingestion causes itai-itai disease, which includes severe osteo- porosis. Combined with nickel in most rechargeable batteries, identify this transition metal with atomic number 48 and symbol Cd.
+
+----
+num: 4
+category: Science
+difficulty: HS
+fixed: 1
+seen: 491
+answer: stalagmite
+
+These geologic structures can be distinguished from similar phenomena because they lack a central canal, and cal- cite pearls often grow under conditions that do not support the formation of these structures. Rare basalt examples of these structures fill a chamber in Iceland's Arnahellir lava tube, while the ice-type is common in mines where tempera- tures are markedly higher at the ceiling than the floor. Most of these structures occur in karst topology, like the Hall of Giants and Witch's Finger in Carlsbad Caverns, and they are the only dripstone formations that cannot collapse under their own weight. Name these structures that grow from the dripping of calcium carbonate-rich water onto the floor of a limestone cave, sometimes forming the bottom half of a column with a neighboring stalactite.
+
+----
+num: 5
+category: Science
+difficulty: HS
+fixed: -1
+seen: 483
+answer: {centroids} [prompt on {center} of {mass}; prompt on {center} of {gravity}]
+
+This point is collinear with the Nagel Point, incenter, and Spieker center. It is always twice as far from the ortho- center as from the circumcenter, and it is collinear with those points together with the nine-point circle center. Its barycentric coordinates never change, and it always is located in the interior of the triangle. This point is a point of concurrency of three cevians (CHAY-vee-uns), and the ratio of each of the smaller segments of those cevians to point of concurrency is 2 to 1. If a triangle is made of uniform density, this point is located at the center of mass. Name this point of intersection of the medians of a triangle.
+
+----
+num: 6
+category: Science
+difficulty: HS
+fixed: -1
+seen: 486
+answer: ordinary {linear} least-squares {regression line} [accept either or both parts, or anything containing “regres-
+
+This result can be calculated by taking the inverse of the quantity A transpose A, end quantity, times A transpose B, where matrix A has a column of ones on its left or right side. That equation finds what is often considered the “op- timal” solution to an overdetermined system. The accuracy of this result is measured by the square of the correlation coefficient, which equals one for perfect linear fits. Name this process of producing a line that approximately goes through a set of given points.
+
+----
+num: 7
+category: History
+difficulty: HS
+fixed: 1
+seen: 413
+answer: Henry Ross {Perot}
+
+This entrepreneur helped start the “No Pass No Play” rule in Texas. A subject of Ken Follett's On Wings of Ea- gles, this man hired Arthur “Bull” Simmons to rescue two of his employees from Iran. The first company he started was sold to GM for over two billion dollars, and the second company he started was sold to Dell for over three billion dollars. This man's political career was hampered by his unproven allegations that his opponent planned on using nude pictures of this man's daughter and by his selection of James Stockdale. Name this opponent of the first Iraq War and NAFTA who ran for President in 1992 and 1996 as a third-party candidate.
+
+----
+num: 8
+category: History
+difficulty: HS
+fixed: 57
+seen: 419
+answer: {Pragmatic Sanctions}
+
+The best-known example of one of these rulings followed a decree given by the Kingdom of Croatia and the Pac- tum mutuae successionis of 1703. One of these restored the Decree of 1789, while another one issued in 1438 at Bourges gave some independence to the Gallican Church from the Roman Church. Defined as a decree which be- comes law, it generally refers to decrees given by the Holy Roman Emperor. That best known example failed to pre- vent the War of Austrian Succession. Name the 1713 ruling by Charles the Sixth that allowed women to rule the Habsburg Empire.
+
+----
+num: 9
+category: History
+difficulty: HS
+fixed: 57
+seen: 416
+answer: Republic of {Singapore} [or Republik {Singapura}; or {Sîn}-{kâ}-{phô Khiung}-{fò}-{koet}; or {X?nji?p?}
+
+The British were able to establish a presence in this modern-day country because of a dispute between the broth- ers Tengku Abdul Rahman and Tengku Hussein. Its control by Stamford Raffles was strengthened by the Anglo- Dutch Treaty of 1824. In February 1942, it was taken over by the Japanese, who killed Chinese residents in the Sook Ching Massacre. A major part of the Straits Settlement under the British Crown, this nation gained self-governance under Lim Yew Hock in the 1950s and later complete independence under Lee Kuan Yew. Because its Chinese popu- lation caused racial tensions, this country was kicked out of Malaysia in 1965. Identify this small island nation.
+
+----
+num: 10
+category: History
+difficulty: HS
+fixed: 1
+seen: 414
+answer: Robert {Jenkins}
+
+This person was accused of breaking the asiento provision of the Treaty of Utrecht, which limited the slave trade with Spanish colonies. He is responsible for encouraging the fighting that led to King George's War, giving a dramatic speech to the House of Commons in 1738, seven years after he was supposed to speak to King George the Second. While returning to England from Jamaica, his ship was pulled over by the San Antonio, a Spanish Coast Guard ship also known as the Isabela. While tied to the mast of his own ship, the Rebecca, he had a body part cut off. Name this sailor who carried around a pickled jar that contained his ear.
+
+----
+num: 11
+category: Literature
+difficulty: HS
+fixed: 1
+seen: 448
+answer: Neil {Simon}
+
+This playwright wrote a play that takes place in an apartment above Kurnitz's Kandy Store, where Eddie's mother takes care of his sister Bella and his sons Arty and Jay. This writer also completed a trilogy about Eugene Jerome, a New Yorker who goes through basic training in Mississippi near the end of World War Two before trying to become a comedy writer. Another one of this writer's works is about a divorced newswriter named Felix Ungar, who moves in with sportswriter Oscar Madison. The trilogy consisted of Broadway Bound, Biloxi Blues, and Brighton Beach Memoirs. Name this writer of Lost in Yonkers and The Odd Couple.
+
+----
+num: 12
+category: Literature
+difficulty: HS
+fixed: 1
+seen: 445
+answer: James {Hilton}
+
+In one book by this author, Meldrum dies of pneumonia and is replaced by Ralston. That novel is set largely at Mrs. Wickett's house, where the protagonist reminisces about his former wife Kathie, who died in childbirth, and teaching Latin at Brookfield Academy. Another book by this author begins with four Englishmen, including a novelist named Rutherford, talking in Berlin about an airplane that was stolen with four people in it. The four people were Henry Barnard, Roberta Brinklow, Charles Mallinson, and Hugh Conway, and they were taken to a utopian place in the Himalayas. Identify this author of Goodbye, Mr. Chips and Lost Horizon.
+
+----
+num: 13
+category: Literature
+difficulty: HS
+fixed: None
+seen: 448
+answer: {R.U.R.} [or Rossum's Universal Robots; or Rossumovi univerzální roboti]
+
+One character in this work exclaims, “It's astonishing what a number of churches and idiots there are in the world.” This play opens with Sulla typing dictated letters and a visit from a famous man's daughter, who gets upset that all of her sentences are finished for her. Eventually, the life of Alquist is spared because he works with his hands, and he refers to Primus and Helena as Adam and Eve. A different character named Helena burns important docu- ments, which ends up destroying the human race. Identify this play written in Czech by Karel ?apek.
+
+----
+num: 14
+category: Literature
+difficulty: HS
+fixed: 57
+seen: 442
+answer: “{My} Last {Duchess}”
+
+This work might be based on words spoken to Nikolaus Madruz, and its narrator says that he chooses never to stoop. This poem ends with a reference to a bronze statue by Claus of Innsbruck which shows Neptune taming a sea horse. It discusses the joy brought by a white mule or a bough of cherries, which upsets the narrator when those gifts are put on a par with a nine-hundred-years-old name. This work begins with a reference to a painting supposedly by Fra Pandolf, which shows the former wife of the narrator, the Duke of Ferrara. Identify this poem by Robert Brown- ing.
+
+----
+num: 15
+category: Fine Arts
+difficulty: HS
+fixed: 1
+seen: 496
+answer: Gustave {Caillebotte}
+
+One critic criticized an early painting by this artist because of the skinny arms of the three topless men scraping a wooden floor. This painter showed a dog walking away from the painting as two people walk towards it and a person on the right stares into the water in The Europe Bridge. This artist also painted a wide-angle scene near the Gare Saint-Lazare railroad station in which the foreground appears in the half of the painting to the right of the green gas- light. Name this artist who showed a man and woman sharing an umbrella in Paris Street; Rainy Day.
+
+----
+num: 16
+category: Fine Arts
+difficulty: HS
+fixed: 57
+seen: 489
+answer: Hector {Berlioz}
+
+One work by this composer is supposed to end with March for the Presentation of the Colours, but because that part often is omitted, it ends with Judex crederis, which is called both a hymn and a prayer. Another work, a requiem he was not paid for until he threatened to spread a rumor about the French government, is his Grande Messe des morts. The first symphony by this composer, whose sequel is known as Lélio, has its last three of five sections titled Scene in the Country, March to the Scaffold, and Dream of a Witches' Sabbath. Name this composer of Symphonie Fantastique.
+
+----
+num: 17
+category: Geography
+difficulty: HS
+fixed: 57
+seen: 712
+answer: Toronto
+
+A large natural history museum in this city recently built an addition called the Michael Lee-Chin Crystal that was designed by Daniel Libeskind. This city also has a 57 story building designed in 1972 by IM Pei called Commerce Court West and a group of large buildings designed by Mies van der Rohe called the T-D Centre. This is the city where Frank Gehry grew up, and he recently redesigned its Art Gallery, which owns Rubens' Massacre of the Inno- cents, with an overhaul that includes a spiral staircase in Walker Court. Name this city whose skyline's most notable feature, which opened in 1976 and was the tallest free-standing structure on land for thirty years, is the CN Tower.
+
+----
+num: 18
+category: Mythology
+difficulty: HS
+fixed: 57
+seen: 773
+answer: {Priapus} [or {Priapos}; or {Mutunus Tutunus}]
+
+This Greco-Roman god is often identified with the Egyptian god Min. The protector of sailors and fishermen, the best-known drawing of him is near the entrance of the House of the Vettii in Pompeii. Donkeys were sacrificed to this god because he killed a donkey that prevented him from raping Lotis. This god was cursed before birth by Hera be- cause she was jealous of his mother Aphrodite, so he was ugly and impotent. Statues of him often were placed next to gardens to help them grow. Name this male fertility god with large genitalia.
+
+----
+num: 19
+category: Social Science
+difficulty: HS
+fixed: 1
+seen: 382
+answer: Vilfredo {Pareto}
+
+In 1893, this person wrote an introduction to Das Kapital that agreed with its view of history as a class struggle but disagreed that Communism would bring about a classless society. This person also argued that only ordinal utility was necessary rather than quantitative utility in his Manual of Political Economy. This writer's study of income distri- butions led to the generalization that twenty percent of a population controls eighty percent of its wealth. This person is most closely associated with situations in which it is impossible to make one person better off without making somebody else worse off. Name this person whose name often precedes the words “optimality” or “efficiency”.

@@ -1,0 +1,302 @@
+####
+tournament: Sample
+round: round15.pdf
+####
+
+num: 2
+category: Chemistry
+difficulty: HS
+answer: W)  a Reaction That Requires Free Energy Is Spontaneous
+
+Which of the following is NOT true:
+W) a reaction that requires free energy is spontaneous
+X) gases, as a group, have higher entropies than liquids
+Y) standard molar entropies of pure substances are always positive values
+Z) spontaneous processes involve non-equilibrium conditions
+
+----
+num: 3
+category: Biology
+difficulty: HS
+answer: W)  It Is Initiated by a Short Dna Primer
+
+Which of the following is NOT true of DNA replication:
+W) it is initiated by a short DNA primer
+X) the growing strand is polymerized in a 5 -prime to 3-prime direction
+Y) DNA polymerase helps form the phosphodiesterase (read as: FOSS-foe-die-ESS-ter-ase) bonds
+Z) synthesis of the lagging strand is discontinuous
+
+----
+num: 4
+category: Math
+difficulty: HS
+answer: W)   Mean Is 20, Variance Is 40
+
+A data set has a mean of 10 and variance of 10. If every set element is multiplied by 2, which of the following is TRUE of the new mean and variance:
+W) mean is 20, variance is 40
+X) mean is 20, variance is 10
+Y) mean is 20, variance is 20
+Z) mean is 10, variance is 20
+
+----
+num: 5
+category: Earth Science
+difficulty: HS
+answer: Z)  Do Not Intermix
+
+A meromictic lake has layers of water that typically:
+W) intermix once a year
+X) intermix each spring and autumn
+Y) intrtmix only when the winds are favorable
+Z) do not intermix
+
+----
+num: 6
+category: General Science
+difficulty: HS
+answer: W)  Clarification of Beers and Wines
+
+In which of the following processes would isinglass (read as: eye -zen-glass) most likely be used:
+W) clarification of beers and wines
+X) baking of yeast-free breads
+Y) glazing of ceramics
+Z) thickening of puddings
+
+----
+num: 6
+category: General Science
+difficulty: HS
+seen: 1
+answer: Y)  Finding the Statistical Differences Between Two Groups in 
+an Experiment on a Drug’s Effect in Raising or Lowering Blood Pressure
+
+In which of the following instances would using a student t -test be most appropriate:
+W) comparing yes or no answers on a single question on a questionnaire 
+X) determining statistical differences between 5 different age groups of males that received a drug that increases red blood cell production
+Y) finding the statistical differences between two groups in an experiment on a drug’s effect inraising or lowering blood pressure
+Z) comparing the strengths of 5 different types o f fishing lines
+
+----
+num: 7
+category: Astronomy
+difficulty: HS
+answer: Y)  Greatest Eastern Elongation
+
+Which of the following positions is an inferior planet most likely in if it is seen just after sunset:
+W) opposition
+X) superior conjunction
+Y) greatest eastern elongation
+Z) greatest western elongation
+
+----
+num: 8
+category: Physics
+difficulty: HS
+seen: 1
+answer: Y)  Neutrinos Were Changing Flavor on Their Way to Earth
+
+To early astrophysical researchers , the Sun was originally found to emit about one-third of the expected amount of neutrinos. Which of the following BEST explains why:
+W) about 66% of the neutrinos were deflected by the Earth’s magnetic field
+X) two-thirds of the neutrinos were too energetic to be detected
+Y) neutrinos were changing flavor on their way to Earth 
+Z) original estimations of the numbers emitted by the Sun were incorrect
+
+----
+num: 8
+category: Physics
+difficulty: HS
+answer: X)  50% Less
+(Solution:  5.6/8.0 = 0.70;  (0.70)^2 = 0.49 ~ 50%)
+
+If you were using a 50-millimeter camer a lens and changed the lens aperture from 8.0 to 5.6, about how much LESS light would the lens be allowing to pass through it:
+W) 60% less
+X) 50% less
+Y) 35% less
+Z) 22% less
+
+----
+num: 9
+category: Chemistry
+difficulty: HS
+seen: 1
+answer: Y)  Pure Liquids Appear in the Equilibrium Expression but Pure 
+Solids Do Not
+(Solution: Pure Solids and Liquids Do Not Appear in the Equilibrium Expression)
+
+Which of the following is NOT genera lly true of reaction equilibria:
+W) if the temperature of an exothermic reaction is raised, the equilibrium shifts to the left
+X) the equilibrium constants for forward and rev erse reactions are the reciprocals of each other
+Y) pure liquids appear in the equilibrium expression but pure solids do not
+Z) an equilibrium constant greater than 1 means that the reaction favors products at equilibrium
+
+----
+num: 10
+category: Biology
+difficulty: HS
+answer: W)  Large Nuclear to Cytoplasmic Ratio
+
+Which of the following is MOST characteristic of human blast cells in on observation with light microscopy:
+W) large nuclear to cytoplasmic ratio
+X) small nucleolus and mostly heterochromatin in the nucleus
+Y) lack of cytoplasmic granules and small overall size compared to mature cells
+Z) absence of nucleolus (read as: NEW -clee-oh-luss) and endoplasmic reticulum
+
+----
+num: 11
+category: Math
+difficulty: HS
+seen: 1
+answer: Z)  Line
+
+The graph of r = 3 secant (θ) (read as: r = 3 secant theta) is a:
+W) parabola
+X) circle 
+Y) hyperbola 
+Z) line
+
+----
+num: 12
+category: Earth Science
+difficulty: HS
+answer: X)  Particulate Organic Carbon
+
+When sampling for organic matter in seawater, any organic matter retained by a 0.2 micrometer pore filter is classified as:
+W) dissolved organic carbon
+X) particulate organic carbon
+Y) detrital organic carbon
+Z) live or dead marine algae
+
+----
+num: 12
+category: Earth Science
+difficulty: HS
+answer: X)  Aluminum Sulfate
+
+Which of the following soil additives would be most efficient at increasing the acidity of a slightly alkaline soil:
+W) ground chalk
+X) aluminum sulfate
+Y) calcium sulfate
+Z) calcium carbonate
+
+----
+num: 13
+category: General Science
+difficulty: HS
+answer: W)  5.6
+
+Clean or unpolluted rain water has a p H of about:
+W) 5.6
+X) 6.5
+Y) 7.0
+Z) 7.6
+
+----
+num: 13
+category: General Science
+difficulty: HS
+answer: W)  the Ability of Soils and Bedrock to Neutralize the Acid
+
+Which of the following plays the greatest role in the effect of acid rain on the environment:
+W) the ability of soils and bedrock to neutralize the acid
+X) the initial pH of the rain in the upper troposphere
+Y) low-level ozone concentration
+Z) temperature of the troposphere
+
+----
+num: 14
+category: Astronomy
+difficulty: HS
+answer: Y)  4.6 Billion Years
+(Solution: Most Are About the Same Age as Our Solar System)
+
+Which of the following is closest to the age of most chondrites:
+W) 150 million years
+X) 1.5 billion years
+Y) 4.6 billion years
+Z) 13.7 billion years
+
+----
+num: 14
+category: Astronomy
+difficulty: HS
+answer: Z)  Strong
+
+Which of the following best describes the hydrogen spectral line strength for an A -type star of about 3 solar masses:
+W) missing
+X) weak
+Y) medium
+Z) strong
+
+----
+num: 15
+category: Physics
+difficulty: HS
+answer: W)  Orientat Ion of Intrinsic Angular Momenta of Electrons
+
+Which of the following BEST describes spin quantum numbers:
+W) orientation of intrinsic angular momenta of electrons 
+X) centripetal accelerations of atoms
+Y) angular momenta of only hadrons
+Z) centripetal acceleration of electrons
+
+----
+num: 16
+category: Chemistry
+difficulty: HS
+answer: X)  Methylene Chloride
+(Solution: Halogenated Solvents Possess a Higher Density Than Non -Halogenated Ones)
+
+Which of the follo wing substances has the greatest density:
+W) hexane 
+X) methylene chloride
+Y) diethyl ether
+Z) ethyl acetate
+
+----
+num: 16
+category: Chemistry
+difficulty: HS
+answer: Z)  Bef^2
+
+Which of the following molecules is most likely to have a zero dipole moment based on its molecular shape:
+W) PF^3
+X) H^2O
+Y) PCl^3
+Z) BeF^2
+
+----
+num: 17
+category: Biology
+difficulty: HS
+answer: X)  Regulating Cell Cycle
+
+With which of the following are cyclin -dependent kinases most directly involved:
+W) repairing damaged DNA
+X) regulating cell cycle
+Y) digesting plasmids
+Z) insulin’s action on fat cells
+
+----
+num: 20
+category: General Science
+difficulty: HS
+answer: X)  Impaired Kidney Function
+
+Which of the following is the primary detrimental effect to humans and animals who ingest high levels of melamine:
+W) impaired nerve transmission
+X) impaired kidney function
+Y) liver failure
+Z) severe gastrointestinal distress
+
+----
+num: 20
+category: General Science
+difficulty: HS
+answer: Y)  It Can Survey the Entire Celestial Sphere Several Times 
+Each Day
+
+Which of the following is one of the main unique capabilities of the GLAST observatory:
+W) it operates completely on photovoltaic cells
+X) it contains the largest superconducting magnet in space
+Y) it can survey the entire celestial sphere several times each day
+Z) it orbits the Moon

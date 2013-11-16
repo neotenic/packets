@@ -1,0 +1,1068 @@
+####
+tournament: Thomas Jefferson Certamen
+round: Round 1-3
+year: 2008
+####
+
+num: 1
+category: Unlabeled
+difficulty: Intermediate
+seen: 58
+answer: Pebble
+
+Toss-Up #1 Everybody at TJ takes calculus.  What is the meaning of the Latin noun calculus?
+
+----
+num: 1
+category: Unlabeled
+difficulty: Intermediate
+seen: 59
+answer: septem
+
+Toss-Up #1   Responde Latine.  Quot oculi sunt Cerbero et Polyphemo, in toto?
+
+----
+num: 1
+category: Unlabeled
+difficulty: Advanced
+seen: 44
+answer: Present
+
+Toss-Up #1: What tense of the subjunctive is used for the hortatory constructions?
+
+----
+num: 1
+category: Unlabeled
+difficulty: Advanced
+seen: 44
+answer: Scio, scire, to know
+
+TOSS-UP #1: I hope that you are enjoying our Certamen at TJ Sci-Tech.  From what Latin verb with what meaning do we get the word “science”?
+
+----
+num: 1
+category: Unlabeled
+difficulty: Upper
+seen: 39
+answer: Dyrrhacium in 48 B.C.E
+
+Toss-Up #1:  The history theme for the third round is rulers, battles and laws.  During the Civil war with Pompey, where and when did Caesar suffer a major defeat upon landing in Greece?
+
+----
+num: 2
+category: Unlabeled
+difficulty: Intermediate
+fixed: 1
+seen: 56
+answer: {Perseus}
+
+Toss-Up #2 Who am I? It was prophesied that I would kill my grandfather, Acrisius, so I was shut into a wooden box and thrown into the sea.
+
+----
+num: 2
+category: Unlabeled
+difficulty: Intermediate
+fixed: None
+seen: 58
+answer: Pompey, Julius Caesar, Crassus
+
+Toss-Up #2:  Please name the members of the first triumvirate.
+
+----
+num: 2
+category: Unlabeled
+difficulty: Intermediate
+seen: 58
+answer: Vercingetorix
+
+Toss-Up #2:  Which Gallic chieftan led a revolt against Caesar, and was finally defeated in 52 B.C.E?
+
+----
+num: 2
+category: Unlabeled
+difficulty: Advanced
+seen: 44
+answer: Stoicism
+
+Toss-Up #2.  What philosophy teaches that self-control, fortitude, and detachment from distracting emotions allow one to become a clear thinker?
+
+----
+num: 2
+category: Unlabeled
+difficulty: Advanced
+seen: 45
+answer: Gaius
+
+Toss-Up #2: Responde Latine: Quod erat praenomen Caesaris?
+
+----
+num: 2
+category: Unlabeled
+difficulty: Upper
+seen: 37
+answer: Dactyl
+
+Toss-up #2  Ancient poets named a certain metrical foot after their finger, because fingers have a long bone followed by two short bones.  What was this type of foot called?
+
+----
+num: 3
+category: Unlabeled
+difficulty: Intermediate
+seen: 55
+answer: Jocasta
+
+Toss-Up #3 Who was Oedipus’ mother and wife?
+
+----
+num: 3
+category: Unlabeled
+difficulty: Intermediate
+seen: 58
+answer: Hecate
+
+Toss-Up #3 This three-faced goddess ruled crossroads and witchcraft.
+
+----
+num: 3
+category: Unlabeled
+difficulty: Advanced
+fixed: 1
+seen: 45
+answer: Extent of time
+
+Toss-Up #3: What type of accusative is found in the following sentence?  Canis duas menses dormiebat.
+
+----
+num: 3
+category: Unlabeled
+difficulty: Advanced
+seen: 46
+answer: Genitive
+
+Toss-Up #3: What case do the adjectives peritus, cupidus, and plenus take?
+
+----
+num: 3
+category: Unlabeled
+difficulty: Advanced
+seen: 48
+answer: To the Spirits of the Dead
+
+TOSS UP #3:  What does it mean if a Roman tombstone says, “Dis Manibus.”
+
+----
+num: 3
+category: Unlabeled
+difficulty: Upper
+fixed: 1
+seen: 37
+answer: As/how/when
+
+Toss Up 3. We all know that “ut” is a word that often followed by the subjunctive, but when used with the indicative how would one translate it?
+
+----
+num: 3
+category: Unlabeled
+difficulty: Upper
+fixed: -1
+seen: 38
+answer: ‘munus’
+
+Toss Up 3. There are a lot of weapons used in Latin poetry.  Which from the following list is NOT a weapon? ‘tela’, ‘arcus’, ‘ensis’, ‘sagitta’, ‘munus’?
+
+----
+num: 4
+category: Unlabeled
+difficulty: Intermediate
+fixed: 1
+seen: 57
+answer: {April 21, 753 B.C.[E]}
+
+Toss-Up #4:  Please give the exact date for the founding of Rome.
+
+----
+num: 4
+category: Unlabeled
+difficulty: Advanced
+seen: 43
+answer: Danaids
+
+Toss Up #4. This group of daughters were told to kill their husbands on their wedding nights; ninety-eight percent of daughters did. Who were these daughters?
+
+----
+num: 4
+category: Unlabeled
+difficulty: Advanced
+fixed: 1
+seen: 44
+answer: {Nerva, Trajan, Hadrian, Antoninus} Pius, Marcus {Aurelius}
+
+Toss-Up #4:  I think we can all agree that the solutions suggested in the previous round were a little far fetched.  So as we continue to ponder possible answers to our political dilemma, let us get a few normal history questions.  Please name the 5 good emperors in order.
+
+----
+num: 4
+category: Unlabeled
+difficulty: Upper
+fixed: 1
+seen: 38
+answer: Maenads
+
+Toss-Up #4 What was the name given to female followers of Bacchus?
+
+----
+num: 4
+category: Unlabeled
+difficulty: Upper
+fixed: 57
+seen: 38
+answer: Pygmalion
+
+Toss-Up #4   I am the brother of Dido, and I murdered her husband.  In mythology I share my name with Galatea’s husband.  Who am I?
+
+----
+num: 4
+category: Unlabeled
+difficulty: Upper
+seen: 39
+answer: Masculine, Feminine, Neuter
+
+Toss Up 4. What are the possible genders for 4th declension nouns?
+
+----
+num: 5
+category: Unlabeled
+difficulty: Intermediate
+seen: 57
+answer: Albati, Veneti, Prasini, Russati
+
+Toss-up #5:  Give the Latin names of the four teams or factiones that competed in chariot races?
+
+----
+num: 5
+category: Unlabeled
+difficulty: Advanced
+seen: 45
+answer: Possession
+
+Toss-Up #5: Please give the use of the dative case in the following sentence: Mihi est consilium.
+
+----
+num: 5
+category: Unlabeled
+difficulty: Upper
+seen: 37
+answer: Optimi gradus sunt mihi
+
+Toss Up 5. Using the Latin noun for ‘step’, translate the following English sentence into Latin using a dative of possession: “I have the best grades.”
+
+----
+num: 5
+category: Unlabeled
+difficulty: Upper
+fixed: 57
+seen: 38
+answer: {Epicureanism}
+
+Toss-Up #5  Complete this analogy: Self-restraint is to stoicism as pleasure is to ____.
+
+----
+num: 5
+category: Unlabeled
+difficulty: Upper
+fixed: 57
+seen: 38
+answer: {Cyprus}
+
+Toss-Up #5  What island was home to Teucer, Pygmalion, and Venus?
+
+----
+num: 6
+category: Unlabeled
+difficulty: Intermediate
+seen: 60
+answer: septem urbes
+
+Toss-Up #6 Say in Latin, “the seven cities”
+
+----
+num: 6
+category: Unlabeled
+difficulty: Advanced
+seen: 44
+answer: Thalia
+
+Toss Up #6. Who was the muse of comedy?
+
+----
+num: 6
+category: Unlabeled
+difficulty: Advanced
+seen: 43
+answer: Any two from (“of Rome” or “for Rome” or “in/at Rome”)
+
+Toss-Up #6: Give two translations for  Romae.
+
+----
+num: 6
+category: Unlabeled
+difficulty: Upper
+fixed: 57
+seen: 39
+answer: {Mycenae}
+
+Toss-Up #6  Give the name of the city that was the home of Orestes, Clytemnestra, Iphigenia, and Agamemnon.
+
+----
+num: 7
+category: Unlabeled
+difficulty: Intermediate
+fixed: 57
+seen: 60
+answer: {Cleopatra}
+
+Toss-Up #7:  Who was the queen of Egypt who captured the attentions of both Julius Caesar and Marc Antony, thereby gaining the hatred of most Romans?
+
+----
+num: 7
+category: Unlabeled
+difficulty: Intermediate
+seen: 59
+answer: Mucius Scaevola
+
+Toss-Up #7:  Which Roman, in an act of defiance, shoved his right hand into a flame in front of an Etruscan king?
+
+----
+num: 7
+category: Unlabeled
+difficulty: Advanced
+seen: 44
+answer: huic
+
+Toss-Up #7  Complete the analogy:  illius  is to  illi as  huius is to ___.
+
+----
+num: 7
+category: Unlabeled
+difficulty: Advanced
+seen: 46
+answer: melius
+
+Toss-Up #7  Translate the word “better” in the sentence, “This certamen is better than that certamen.”
+
+----
+num: 7
+category: Unlabeled
+difficulty: Advanced
+seen: 42
+answer: quam with a superlative  (to say “as ___ as possible)
+
+TOSS-UP #7: What use of  quam is found in the following sentence?  Advenite domum quam primum.
+
+----
+num: 7
+category: Unlabeled
+difficulty: Upper
+seen: 39
+answer: Corinna
+
+Toss up #7 Publius Ovidius Naso was a prolific writer, and apparently, lover, in ancient Rome.  What was his lover’s name in the “Amores”?
+
+----
+num: 7
+category: Unlabeled
+difficulty: Upper
+seen: 40
+answer: “Res ipsa loquitur” or “in flagrante delicto”
+
+Tossup #7  If your Latin teacher catches you stealing Ecce Romani from the class library with the book in your hand, what legal Latin phrase might she use, despite your protests that it’s not what it seems?
+
+----
+num: 8
+category: Unlabeled
+difficulty: Intermediate
+seen: 59
+answer: Libertus
+
+Toss-Up #8  What was a freed slave called?
+
+----
+num: 8
+category: Unlabeled
+difficulty: Intermediate
+seen: 58
+answer: Pyramus and Thisbe
+
+Toss-Up #8 On what myth, told by Ovid, was “Romeo and Juliet” based?
+
+----
+num: 8
+category: Unlabeled
+difficulty: Intermediate
+seen: 60
+answer: Scylla and Charybdis
+
+Toss-Up #8  Between what two monsters did Odysseus sail?
+
+----
+num: 8
+category: Unlabeled
+difficulty: Advanced
+fixed: 1
+seen: 44
+answer: {verb} and {adjective}
+
+Toss-Up #8: What two parts of speech is a participle?
+
+----
+num: 8
+category: Unlabeled
+difficulty: Advanced
+seen: 43
+answer: Dionysus (Bacchus)
+
+Toss-Up #8: The Maenads followed this god.  Who was he?
+
+----
+num: 9
+category: Unlabeled
+difficulty: Intermediate
+seen: 58
+answer: huius
+
+Toss-Up #9 Complete the analogy:  illi  is to  illius as  huic is to ___.
+
+----
+num: 9
+category: Unlabeled
+difficulty: Intermediate
+fixed: 1
+seen: 54
+answer: Vinci
+
+Toss-Up #9  Give the present passive infinitive form of the verb  vinco, vincere.
+
+----
+num: 9
+category: Unlabeled
+difficulty: Advanced
+seen: 45
+answer: opus, opera/ work
+
+Toss-Up #9: The word “opera,” also the name of a web browser, comes from what Latin noun with what meaning?
+
+----
+num: 9
+category: Unlabeled
+difficulty: Upper
+fixed: 1
+seen: 38
+answer: {Perdix/Talus/Calus}
+
+Toss-Up #9 Quis sum? Filius sororis Daedali eram, et Daedalus me necavit.
+
+----
+num: 10
+category: Unlabeled
+difficulty: Intermediate
+seen: 55
+answer: peristylium
+
+Toss-Up #10 What did the Romans call the open courtyard in the middle of their houses, usually containing a garden and columns?
+
+----
+num: 10
+category: Unlabeled
+difficulty: Intermediate
+seen: 57
+answer: Panem et circenses, or bread and circuses
+
+Toss-Up #10  What, according to the poet Juvenal, were the only remaining cares of Romans under the Empire?
+
+----
+num: 10
+category: Unlabeled
+difficulty: Advanced
+seen: 45
+answer: Plautus
+
+Toss-Up #10.  Of the following, which author is most well known for his comedies: Catullus, Plautus, Martial?
+
+----
+num: 10
+category: Unlabeled
+difficulty: Advanced
+seen: 42
+answer: Engagement
+
+Toss-Up #10. A “sponsalia” was a ceremony announcing what event?
+
+----
+num: 10
+category: Unlabeled
+difficulty: Advanced
+seen: 46
+answer: Polydectes
+
+Toss Up #10:  This man, king of the island upon which the box containing Danae and Perseus landed, wanted to take Danae as his bride.
+
+----
+num: 10
+category: Unlabeled
+difficulty: Upper
+seen: 40
+answer: Bithynia
+
+Toss-Up #10  What province bordering the Black Sea was home to the cities Nicomedia, Chalcedon, Cius, Nicaea and Apamea?  It is also where Catullus spent a year on the staff of Gaius Memmius.
+
+----
+num: 10
+category: Unlabeled
+difficulty: Upper
+fixed: None
+seen: 37
+answer: Cumae
+
+Toss-Up #10  What is the home of the Sibyl who leads Aeneas to the underworld?
+
+----
+num: 11
+category: Unlabeled
+difficulty: Intermediate
+seen: 58
+answer: art is long, life is short
+
+Toss-Up #11 What does the expression  ars longa, vita brevis mean?
+
+----
+num: 11
+category: Unlabeled
+difficulty: Advanced
+seen: 41
+answer: superlative
+
+Toss-Up #11: What degree would be used to indicate that something is very short?
+
+----
+num: 11
+category: Unlabeled
+difficulty: Advanced
+seen: 46
+answer: i-stems (or “semi i-stems” is acceptable)
+
+Toss-Up #11What is the name for those nouns for which the genitive plural ends in  ium?
+
+----
+num: 11
+category: Unlabeled
+difficulty: Upper
+fixed: 1
+seen: 40
+answer: Lex {Gabinia}
+
+Toss-Up #11:  Which law gave Pompey command against the pirates in 67 B.C.E.?
+
+----
+num: 12
+category: Unlabeled
+difficulty: Intermediate
+seen: 57
+answer: 3
+
+Toss-Up #12:  How many wars did the Romans fight with the Samnites?
+
+----
+num: 12
+category: Unlabeled
+difficulty: Intermediate
+fixed: None
+seen: 56
+answer: Augustus, Tiberius, Caligula, Claudius, Nero
+
+Toss-Up #12:  Name the Julio-Claudian emperors in order.
+
+----
+num: 12
+category: Unlabeled
+difficulty: Advanced
+seen: 42
+answer: Licetne tibi vinum bibere?
+
+Toss-Up #12: In Latin, ask me if I am allowed to drink wine.
+
+----
+num: 12
+category: Unlabeled
+difficulty: Advanced
+seen: 45
+answer: quam with a superlative to say “as ___ as possible”
+
+Toss-Up #12: What use of  quam is found in the following sentence?  Advenite domum quam primum.
+
+----
+num: 12
+category: Unlabeled
+difficulty: Upper
+seen: 40
+answer: Quintilian
+
+Toss-up #12  Which of the following authors did NOT write during the “Golden Age”: Propertius, Livy, Ovid, or Quintilian?
+
+----
+num: 12
+category: Unlabeled
+difficulty: Upper
+fixed: 1
+seen: 38
+answer: Two.
+
+Toss up #12 How many elisions are there in this line of poetry, which I will read aloud as prose: “Conticuere omnes, intentique ora tenebant
+
+----
+num: 12
+category: Unlabeled
+difficulty: Upper
+seen: 37
+answer: Zeugma.
+
+Tossup #12  “Elmo was clothed in mystery and a towel.”  What literary device is this an example of?
+
+----
+num: 13
+category: Unlabeled
+difficulty: Intermediate
+fixed: 1
+seen: 54
+answer: One seeking public office
+
+Toss-Up #13  Who wore a  toga candida?
+
+----
+num: 13
+category: Unlabeled
+difficulty: Intermediate
+seen: 58
+answer: Phaethon
+
+Toss-Up #13 Quis sum? Filius solis sum.  Quando ego egi quadrigam solis, Iuppiter me necavit.
+
+----
+num: 13
+category: Unlabeled
+difficulty: Intermediate
+fixed: 57
+seen: 57
+answer: Tantalus
+
+Toss-Up #13 This man was tormented by insatiable hunger and thirst as his punishment in Tartarus:
+
+----
+num: 13
+category: Unlabeled
+difficulty: Advanced
+seen: 45
+answer: Delphi
+
+Toss-Up #13.  Where was the famous oracle dedicated to Apollo?
+
+----
+num: 13
+category: Unlabeled
+difficulty: Advanced
+fixed: 1
+seen: 44
+answer: pebble
+
+Toss-Up #13: Everybody at TJ takes calculus.  What is the meaning of the Latin noun calculus?
+
+----
+num: 13
+category: Unlabeled
+difficulty: Upper
+seen: 37
+answer: Present indicative, present imperative
+
+Toss Up 13. Give the two possible tenses and moods of   loquimini?
+
+----
+num: 13
+category: Unlabeled
+difficulty: Upper
+fixed: 1
+seen: 41
+answer: Bos
+
+Toss Up 13. Which of the following words is not an I-stem: bos, vis, pars, mare, civis?
+
+----
+num: 13
+category: Unlabeled
+difficulty: Upper
+fixed: 1
+seen: 39
+answer: Achilles
+
+Toss-Up #13 What soldier did the Myrmidons serve?
+
+----
+num: 14
+category: Unlabeled
+difficulty: Intermediate
+fixed: None
+seen: 59
+answer: {Sicily}
+
+Toss-Up #14:  Name Rome's first province.
+
+----
+num: 14
+category: Unlabeled
+difficulty: Intermediate
+fixed: None
+seen: 56
+answer: opus, operis, work
+
+Toss-Up #14 The word “opera,” also the name of a web browser, comes from what Latin noun with what meaning?
+
+----
+num: 14
+category: Unlabeled
+difficulty: Intermediate
+fixed: -1
+seen: 56
+answer: in/at Rome
+
+Toss-Up #14 Give the locative translation for the word  Romae.
+
+----
+num: 14
+category: Unlabeled
+difficulty: Advanced
+fixed: 1
+seen: 43
+answer: Baucis and Philemon
+
+Toss-Up #14. We’re known as an elderly couple associated with oak and linden trees.
+
+----
+num: 14
+category: Unlabeled
+difficulty: Advanced
+seen: 42
+answer: Agrippa
+
+Toss-Up #14:  Who constructed the Pantheon, under Augustus’ orders?
+
+----
+num: 14
+category: Unlabeled
+difficulty: Upper
+seen: 39
+answer: Iris
+
+Toss-Up #14 Who was the goddess of the rainbow?
+
+----
+num: 14
+category: Unlabeled
+difficulty: Upper
+fixed: 1
+seen: 38
+answer: Oracles.
+
+Toss-Up #14 What do the following have in common? Dodona, Pytha, Cumae, Delphi.
+
+----
+num: 14
+category: Unlabeled
+difficulty: Upper
+fixed: 1
+seen: 38
+answer: {Lumen} (lumina)
+
+Toss Up 14.  ‘Oculus’ is the usual word for eyes, but what word meaning ‘light’ is used as a poetic substitution for eyes?
+
+----
+num: 15
+category: Unlabeled
+difficulty: Intermediate
+seen: 57
+answer: Livy
+
+Toss-Up #15  Who wrote the major historical work  Ab Urbe Condita?
+
+----
+num: 15
+category: Unlabeled
+difficulty: Intermediate
+seen: 58
+answer: rostra
+
+Toss-Up #15  Where would a Roman NOT go to bathe:  thermae,  balneae,  rostra, or frigidaria?
+
+----
+num: 15
+category: Unlabeled
+difficulty: Advanced
+fixed: 1
+seen: 43
+answer: {Capti sunt}
+
+Toss-Up #15:  Using the verb capio, capere: Translate just the verb in the following sentence:  “The conspirators were seized in Philippi.”
+
+----
+num: 15
+category: Unlabeled
+difficulty: Upper
+fixed: 57
+seen: 40
+answer: {Apollo}
+
+Toss-Up #15  The Pythian games were held in honor of which god?
+
+----
+num: 15
+category: Unlabeled
+difficulty: Upper
+seen: 38
+answer: Pietas
+
+Toss-Up #15  Which Roman value, meaning roughly “duty,” is associated with Aeneas?
+
+----
+num: 16
+category: Unlabeled
+difficulty: Intermediate
+fixed: 1
+seen: 59
+answer: voice, truth, life
+
+Toss-Up #16 Translate the motto of California State University,  vox, veritas, vita.
+
+----
+num: 16
+category: Unlabeled
+difficulty: Intermediate
+seen: 55
+answer: opus means work or achievement, and onus means burden or load
+
+Toss-Up #16 Differentiate in meaning between  opus and  onus.
+
+----
+num: 16
+category: Unlabeled
+difficulty: Advanced
+seen: 44
+answer: Hesperides
+
+Toss-Up #16: What daughters of Atlas were assigned to guard the Golden Apples?
+
+----
+num: 16
+category: Unlabeled
+difficulty: Advanced
+seen: 44
+answer: tempestatis
+
+Toss-Up #16  Complete the analogy: vox is to vocis as tempestas is to __________.
+
+----
+num: 17
+category: Unlabeled
+difficulty: Intermediate
+fixed: -1
+seen: 58
+answer: Matricide
+
+Toss-Up #17 For what crime was Orestes tried?
+
+----
+num: 17
+category: Unlabeled
+difficulty: Intermediate
+seen: 59
+answer: Cincinnatus
+
+Toss-Up #17:  Quis sum? I defended my people against the Aequi, who had trapped the forces of the consul Minucius Esquilinus in the Alban Hills.  Though, by law, I had six months with the powers of dictator, I returned to my farm in 15 days, after defeating the Aequan forces.  There is a city in Ohio named after me.
+
+----
+num: 17
+category: Unlabeled
+difficulty: Intermediate
+seen: 59
+answer: Trajan
+
+Toss-Up #17:  Under whose rule did the Empire reach its greatest extent?
+
+----
+num: 17
+category: Unlabeled
+difficulty: Advanced
+seen: 44
+answer: Cumaen Sibyl
+
+Toss-Up #17.  Name the priestess who resided in a cave near the Greek city of Naples.
+
+----
+num: 17
+category: Unlabeled
+difficulty: Advanced
+seen: 45
+answer: Tango
+
+Toss-Up #17: From what Latin verb, meaning to touch, do we get the English words integral, contiguity, and attain
+
+----
+num: 18
+category: Unlabeled
+difficulty: Intermediate
+seen: 56
+answer: Cupid
+
+Toss-Up #18 Who am I? I disguised myself as my nephew Ascanius so that I could, on my mother’s orders, shoot Dido with an arrow of love.
+
+----
+num: 18
+category: Unlabeled
+difficulty: Intermediate
+seen: 58
+answer: Vigiles
+
+Toss-Up #18  What were Roman policemen-firemen called?
+
+----
+num: 18
+category: Unlabeled
+difficulty: Advanced
+seen: 43
+answer: Optimates and Populares
+
+Toss-Up #18  In America, there are Republicans and Democrats.  In Rome, they didn't really have such organized political parties, but there were names used to divide various political groups.  Name these two groups:
+
+----
+num: 18
+category: Unlabeled
+difficulty: Advanced
+seen: 43
+answer: equator
+
+TOSS-UP #18: Which of the following words is not derived from the same Latin word as the others? Equestrian, equator, equitation, equine,?
+
+----
+num: 18
+category: Unlabeled
+difficulty: Advanced
+seen: 45
+answer: Linus
+
+Toss Up #18.  Heracles killed this music tutor by hurling the teacher’s own lyre at him.
+
+----
+num: 18
+category: Unlabeled
+difficulty: Upper
+fixed: 1
+seen: 39
+answer: servo, all the others take the dative case
+
+Toss Up 18. What verb does not belong for reasons of grammar, and why?  Parco, noceo, servo, persuadeo
+
+----
+num: 18
+category: Unlabeled
+difficulty: Upper
+seen: 37
+answer: Nouns
+
+Toss Up 18. Complete the following analogy: participles are to adjectives as gerunds are to what?
+
+----
+num: 18
+category: Unlabeled
+difficulty: Upper
+seen: 40
+answer: Exi(v)isse ; discessisse; (or synonyms)
+
+Toss Up 18. Translate just the infinitive in the following sentence. “I thought you had left Rome.”
+
+----
+num: 19
+category: Unlabeled
+difficulty: Intermediate
+seen: 55
+answer: Crassus
+
+Toss-Up #19:  Who was chiefly responsible for putting down Spartacus's slave revolt?
+
+----
+num: 19
+category: Unlabeled
+difficulty: Intermediate
+fixed: 1
+seen: 58
+answer: (magistri, magistrae) (multa, multas res) docent
+
+Toss-Up #19 Say in Latin, “Teachers teach many things.”
+
+----
+num: 19
+category: Unlabeled
+difficulty: Intermediate
+seen: 59
+answer: melius
+
+Toss-Up #19 Translate only the word “better” in the sentence, “This certamen is better than that certamen.”
+
+----
+num: 19
+category: Unlabeled
+difficulty: Advanced
+seen: 46
+answer: Ferrum, Iron.
+
+Toss-Up #19: Since this is a TJ certamen, a science question is necessary.  Give the Latin name and English translation of the abbreviation Fe from the periodic table:
+
+----
+num: 19
+category: Unlabeled
+difficulty: Upper
+fixed: 1
+seen: 39
+answer: Medea
+
+Toss-Up #19 This sorceress, after killing her two sons, escaped in a carriage pulled by dragons.
+
+----
+num: 19
+category: Unlabeled
+difficulty: Upper
+seen: 41
+answer: Clytie
+
+Toss-Up #19 What nymph was turned into a sunflower, as she pined away for Apollo’s love?
+
+----
+num: 20
+category: Unlabeled
+difficulty: Intermediate
+seen: 58
+answer: Sirius Black
+
+Toss-Up #20 What JK Rowling character am I?  My first name is another name for the dog-star, quite appropriate given how I can transform.  If my last name were also Latin it would be “Ater” or “Niger.”.
+
+----
+num: 20
+category: Unlabeled
+difficulty: Upper
+seen: 40
+answer: Clodius
+
+Toss-Up #20:  The last history question of the round will connect to The Sopranos, a television show which recently aired its last episode.  Like in the TV show, gangs were also present in ancient Rome.  The most famous occurrence of gangs was during the late Republic with the conflict between Clodius and Milo.  Which of these men died first?
+
+----
+num: 20
+category: Unlabeled
+difficulty: Upper
+seen: 36
+answer: A Portrait of the Artist as a Young Man
+
+Toss-Up #20. Welcome to the  Biblioteca Romana.   What is the name of the English class classic the Romans would have called ”Pictura Artificis Iuvenis”?

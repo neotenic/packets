@@ -1,0 +1,356 @@
+####
+tournament: #6066
+round: Show #6066 - Monday, January 17, 2011
+year: 2011
+date: 2011-01-17
+####
+
+num: 1
+category: Literature
+difficulty: 200
+seen: 4
+answer: Dr. Seuss
+
+A publisher bet him that he couldn't write a book using 50 or fewer words; the result was "Green Eggs and Ham".
+
+----
+num: 2
+category: Art
+difficulty: 200
+seen: 4
+answer: rice
+
+Popular with nutritionists, the brown type of this is intentionally left unmilled.
+
+----
+num: 3
+category: Geography
+difficulty: 200
+seen: 10
+answer: a boa
+
+The split-jawed type of this constricting snake is native to the islands of Mauritius.
+
+----
+num: 4
+category: Religion
+difficulty: 200
+seen: 10
+answer: the Sixth Amendment
+
+Enacted in 1791, it guarantees the right to a trial by jury.
+
+----
+num: 5
+category: Literature
+difficulty: 200
+seen: 4
+answer: Curiosity killed the cat
+
+SpongeBob tells Gary, "Curiosity salted the snail", a play on this feline proverb.
+
+----
+num: 6
+category: History
+difficulty: 200
+seen: 5
+answer: George Steinbrenner
+
+This late Yankees owner said, "Winning is the most important thing in my life, after breathing".
+
+----
+num: 7
+category: Literature
+difficulty: 400
+seen: 3
+answer: (A.A.) Milne
+
+Sketches written for punch became his first novel, "Lovers in London"; Winnie-the-Pooh came 21 years later.
+
+----
+num: 8
+category: Art
+difficulty: 400
+seen: 3
+answer: Kodak
+
+In 1900 this co. introduced the Brownie camera, making photography accessible to the masses.
+
+----
+num: 9
+category: Geography
+difficulty: 400
+seen: 8
+answer: the Siberian tiger
+
+The Amur tiger, aka this tiger, ranges from southeastern Russia to northern China.
+
+----
+num: 10
+category: Religion
+difficulty: 400
+seen: 10
+answer: Adam
+
+Of the 6 prophets of Islam, Muhammad was the last & this early biblical guy was the first.
+
+----
+num: 11
+category: Literature
+difficulty: 400
+seen: 4
+answer: a curio
+
+"Curiosity" was shortened to this word for an unusual artifact.
+
+----
+num: 12
+category: History
+difficulty: 400
+seen: 4
+answer: (George) Clooney
+
+He got 3 Oscar nominations in one year, winning for his supporting role in "Syriana".
+
+----
+num: 13
+category: Art
+difficulty: 600
+seen: 5
+answer: Harpers Ferry
+
+John Brown's raid on the federal arsenal in this town made him a martyr to the antislavery cause.
+
+----
+num: 14
+category: Geography
+difficulty: 600
+seen: 8
+answer: an orangutan
+
+Indonesia's the place to see this ape whose name comes from Malaysian for "person of the forest".
+
+----
+num: 15
+category: Religion
+difficulty: 600
+seen: 9
+answer: zeta
+
+It's the sixth letter in the Greek alphabet, & it's similar to the last letter in ours.
+
+----
+num: 16
+category: Literature
+difficulty: 600
+seen: 4
+answer: to pry
+
+To look into what's none of your business, or to open a paint can.
+
+----
+num: 17
+category: Literature
+difficulty: 800
+seen: 3
+answer: Elmer
+
+David McKee's stories of this patchwork elephant subtly convey the message that it's OK to be different.
+
+----
+num: 18
+category: Art
+difficulty: 800
+seen: 4
+answer: the Brown Derby
+
+The Cobb salad was invented at this Hollywood restaurant named for a hat.
+
+----
+num: 19
+category: Geography
+difficulty: 800
+seen: 7
+answer: the giant squid
+
+Go deep (though not 20,000 leagues) to find Architeuthis dux, this rarely seen cephalopod.
+
+----
+num: 20
+category: Religion
+difficulty: 800
+seen: 9
+answer: yoga
+
+The 6 schools of Hindu philosophy include mimamsa, vedanta & this one, usually associated with serene exercise.
+
+----
+num: 21
+category: Literature
+difficulty: 800
+seen: 4
+answer: a nosy parker
+
+Spider-Man's alter ego Peter could be called this 2-word phrase meaning a busybody.
+
+----
+num: 22
+category: Literature
+difficulty: 1000
+seen: 4
+answer: Lewis Carroll
+
+As well as kids' books, this 19th century author wrote "Examples in Arithmetic" & other math textbooks.
+
+----
+num: 23
+category: Art
+difficulty: 1000
+seen: 4
+answer: apples
+
+The Cortland variety of these brown very slowly after they're cut, making them a good choice for garnishes.
+
+----
+num: 24
+category: Geography
+difficulty: 1000
+seen: 8
+answer: the Cape buffalo
+
+We have good hope you can tell us this alternate name for the African buffalo (it lives in Africa, by the way).
+
+----
+num: 25
+category: Religion
+difficulty: 1000
+seen: 10
+answer: a hexagon
+
+A sexangle is another name for this geometric figure, from the Greek for "six".
+
+----
+num: 26
+category: History
+difficulty: 400
+seen: 4
+answer: California
+
+In 1983 Barbara Boxer punched in as a congresswoman from this state.
+
+----
+num: 27
+category: History
+difficulty: 400
+seen: 4
+answer: a Swiss Army knife
+
+An 1897 officer's knife, aka this, had a corkscrew & second blade; no one's neutral when holding one.
+
+----
+num: 28
+category: Literature
+difficulty: 400
+seen: 3
+answer: the carrot
+
+Idiomatically, the stick is the coercion while this vegetable is the reward.
+
+----
+num: 29
+category: History
+difficulty: 800
+seen: 4
+answer: Geraldine Ferraro
+
+In 1978 she was elected to the house from N.Y.'s Ninth District; in 1984 she was not elected vice president.
+
+----
+num: 30
+category: History
+difficulty: 800
+seen: 4
+answer: a mace
+
+A spray used in self-defense, or a spiked, club-like item to do even more damage.
+
+----
+num: 31
+category: Literature
+difficulty: 800
+seen: 4
+answer: bread & butter
+
+2 basic foods are joined together in this adjective for a type of pickle or for a basic need.
+
+----
+num: 32
+category: History
+difficulty: 1200
+seen: 4
+answer: (Olympia) Snow
+
+She gently drifted down from Maine to D.C. in 1979; she's in the Senate now.
+
+----
+num: 33
+category: History
+difficulty: 1200
+seen: 4
+answer: Excalibur
+
+This sword from some royal tales is said to derive from Caladbolg, a weapon of Irish legend.
+
+----
+num: 34
+category: Literature
+difficulty: 1200
+seen: 4
+answer: a muffintop
+
+A person who wears tight jeans that cause flab to spill out over the waistband is said to have this.
+
+----
+num: 35
+category: History
+difficulty: 1600
+seen: 5
+answer: Katherine Harris
+
+In 2002 this Florida Secretary of State published "Center of the Storm" & was elected to Congress.
+
+----
+num: 36
+category: History
+difficulty: 1600
+seen: 5
+answer: an AK-47
+
+It's an alphanumeric Soviet assault rifle with a cyclic firing rate of 600 rounds per minute.
+
+----
+num: 37
+category: History
+difficulty: 2000
+seen: 6
+answer: Michigan
+
+Former Rep. Debbie Stabenow took a stab & is now a U.S. senator from this state.
+
+----
+num: 38
+category: History
+difficulty: 2000
+seen: 6
+answer: a Stealth Bomber (B-2)
+
+This flat, angular bomber the Air Force unveiled in 1988 can really fly under the radar--or through it.
+
+----
+num: 39
+category: Literature
+difficulty: 2000
+seen: 6
+answer: "A chicken in every pot"
+
+This 1928 Republican campaign slogan originated with a hope that Henry IV had for French peasants.

@@ -1,0 +1,391 @@
+####
+tournament: Web Sample
+round: m_round01.pdf
+####
+
+num: 1
+category: Life Science
+difficulty: MS
+seen: 11
+answer: Nucleus
+
+What organelle functions to isolate a human cell’s chromosomes from the cytoplasm?
+
+----
+num: 1
+category: Life Science
+difficulty: MS
+seen: 10
+answer: Hemoglobin
+
+What is the primary oxygen -carrying protein found in red blood cells?
+
+----
+num: 2
+category: Physical Science
+difficulty: MS
+seen: 6
+answer: Liquid
+
+What physical state of matter is intermediate between a solid and gas?
+
+----
+num: 3
+category: Earth Science
+difficulty: MS
+seen: 7
+answer: Tides
+
+What is the general name for the rising and falling of sea levels in response to the forces exerted by the Moon and Sun?
+
+----
+num: 4
+category: Math
+difficulty: MS
+seen: 6
+answer: 30
+
+How many degrees are in one-third of a right angle?
+
+----
+num: 4
+category: Math
+difficulty: MS
+seen: 6
+answer: 540,000
+
+Round the number 535,279 to the nearest ten -thousand:
+
+----
+num: 5
+category: General Science
+difficulty: MS
+seen: 6
+answer: 6,000  (Accept:  6 × 10 ^3)
+
+Giving your answer in grams, subtract 200 grams from 6.2 kilograms:
+
+----
+num: 6
+category: Life Science
+difficulty: MS
+seen: 10
+answer: 32
+
+How many permanent teeth does a typical adult human have?
+
+----
+num: 6
+category: Life Science
+difficulty: MS
+seen: 10
+answer: 4
+
+How many canine teeth does the typical human adult have?
+
+----
+num: 7
+category: Physical Science
+difficulty: MS
+seen: 6
+answer: 50
+
+Jeff walks west in a straight path for 100 meters and then east in a straight pa th for 150 meters. What is the magnitude of his displacement, in meters?
+
+----
+num: 8
+category: Earth Science
+difficulty: MS
+seen: 7
+answer: Basalt
+
+What is the name of the rock that makes up most of the ocean floor and volcanic ocean islands?
+
+----
+num: 9
+category: Math
+difficulty: MS
+seen: 6
+answer: Hypotenuse
+
+In a right triangle, what is the name for the side opposite the 9 0º angle?
+
+----
+num: 9
+category: Math
+difficulty: MS
+seen: 6
+answer: 13
+(Solution:  5^2 + 12^2 = C^2;  C = 13)
+
+Rounded to the nearest meter, find the length of the hypotenuse of a right triangle if the legs measure 5 and 12 meters?
+
+----
+num: 10
+category: General Science
+difficulty: MS
+seen: 6
+answer: Meter
+
+What is the SI base unit for length?
+
+----
+num: 10
+category: General Science
+difficulty: MS
+seen: 6
+answer: Mach;  Knots
+
+Name all of the following 3 choices that are measurements units for speed: mach; newton; knots
+
+----
+num: 11
+category: Life Science
+difficulty: MS
+seen: 10
+answer: Species
+
+In the taxonomical name Homo sapiens, what taxonomical rank does sapiens represent?
+
+----
+num: 12
+category: Physical Science
+difficulty: MS
+seen: 5
+answer: Electron
+
+What atomic particle balances the charge of protons to produce a neutral atom?
+
+----
+num: 12
+category: Physical Science
+difficulty: MS
+seen: 5
+answer: Neutrons
+
+Isotopes of the same element are based on their different numbers of what atomic particle?
+
+----
+num: 13
+category: Earth Science
+difficulty: MS
+seen: 8
+answer: Jupiter
+
+Which of the Gas giant planets is closest to the Sun?
+
+----
+num: 13
+category: Earth Science
+difficulty: MS
+fixed: -1
+seen: 8
+answer: Heat and Pressure  (In Any Order)
+
+What are the 2 main factors causing the metamorphism ofrocks?
+
+----
+num: 14
+category: Math
+difficulty: MS
+seen: 6
+answer: Radius  (Accept:  Radii)
+
+What is the name for any segment with one endpoint at the center of a circle and the other endpoint on the circle?
+
+----
+num: 14
+category: Math
+difficulty: MS
+seen: 6
+answer: 0.3333  (Accept:  .3333)
+
+Rounded to the nearest ten -thousandth, convert 31^rd to a decimal:
+
+----
+num: 15
+category: General Science
+difficulty: MS
+seen: 5
+answer: 64
+
+If there are 640 ounces of water in 5 gallons, how many ounces are in ½ gallon?
+
+----
+num: 15
+category: General Science
+difficulty: MS
+seen: 6
+answer: H Ectare;  Acre
+
+Name all of the following 4 choices that are measurementunits of area: meter; hectare; acre; mile
+
+----
+num: 16
+category: Life Science
+difficulty: MS
+seen: 10
+answer: The Cell
+
+What is generally considered the basic unit of life?
+
+----
+num: 16
+category: Life Science
+difficulty: MS
+seen: 10
+answer: Chloroplast  (Accept:  Plastid)
+
+In what organelle of a plant cell does photosynthesis occur?
+
+----
+num: 17
+category: Physical Science
+difficulty: MS
+seen: 6
+answer: 1
+
+An ionic state of an atom of hydrogen would have how many protons?
+
+----
+num: 17
+category: Physical Science
+difficulty: MS
+seen: 6
+answer: Fermentation
+
+What is the name for the biochemical process that converts grape juice into wine or soy beans into soy sauce?
+
+----
+num: 18
+category: Earth Science
+difficulty: MS
+seen: 7
+answer: South
+
+Giving your answer as north, south, east, or west, a southerly wind blows FROM what direction?
+
+----
+num: 19
+category: Math
+difficulty: MS
+fixed: -1
+seen: 8
+answer: 6π
+
+What is the exact circumference, in centimeters, of a circle w hose radius is 3 centimeters?
+
+----
+num: 19
+category: Math
+difficulty: MS
+seen: 7
+answer: 10
+30 ;  
+3018
+;  
+3025
+
+Change each of the following 3 fractions, respectively, to equivalentfractions with a denominator of 30: 31; 53; 65
+
+----
+num: 20
+category: General Science
+difficulty: MS
+fixed: -1
+seen: 6
+answer: Hy Drogen Peroxide
+
+What is the common name for the antiseptic, found in many homes, that decomposes into water and oxygen?
+
+----
+num: 20
+category: General Science
+difficulty: MS
+seen: 6
+answer: H
+^2o
+^2
+
+What is the chemical formula for hydrogen peroxide?
+
+----
+num: 21
+category: Life Science
+difficulty: MS
+seen: 11
+answer: Albumen
+
+What is the scientific name for the white of a cooked egg?
+
+----
+num: 21
+category: Life Science
+difficulty: MS
+seen: 10
+answer: Enzymes
+
+What term is generally used for biological catalysts?
+
+----
+num: 22
+category: Physical Science
+difficulty: MS
+seen: 5
+answer: Weigh T
+
+What term do scientists use for the force of gravity acting on anything that has mass?
+
+----
+num: 22
+category: Physical Science
+difficulty: MS
+seen: 5
+answer: 2
+
+How many protons are present in a single helium nucleus?
+
+----
+num: 23
+category: Earth Science
+difficulty: MS
+seen: 8
+answer: Longitudes  (Accept:  Meridians)
+
+What is the name for all Great Circles that pass through the north and south poles?
+
+----
+num: 24
+category: Math
+difficulty: MS
+seen: 7
+answer: 3
+
+Every triangle has how many vertices?
+
+----
+num: 24
+category: Math
+difficulty: MS
+seen: 6
+answer: 17
+
+If the perimeter of a triangle is 45 centimeters and the lengths of two of its sides are 16 and 12 centimeters, find the length of the third side, in centimeters:
+
+----
+num: 25
+category: General Science
+difficulty: MS
+seen: 6
+answer: Latitude
+
+What general term describes the angle or degree north or south of the equator?
+
+----
+num: 25
+category: General Science
+difficulty: MS
+seen: 6
+answer: 90  (Accept:  90º North)
+
+The geographic north pole is at what lati tude?

@@ -1,0 +1,305 @@
+####
+tournament: Question Set C
+round: Round-10C.pdf
+####
+
+num: 1
+category: Biology
+difficulty: HS
+seen: 1
+answer: Z)  38 Moles
+
+Which of the following is closest to the maximum ATP molecules generated from the complete oxidation of 1 mole of glucose in a typical eukaryotic cell:
+W) 8 moles
+X) 16 moles
+Y) 24 moles
+Z) 38 moles
+
+----
+num: 2
+category: Chemistry
+difficulty: HS
+seen: 1
+answer: X)  Hypochlorous Acid
+(Solution: Acid With 1 Ionizable H Atom, Hocl)
+
+Which of the following is considered a monoprotic acid:
+W) sulfuric acid
+X) hypochlorous acid
+Y) carbonic acid
+Z) sulfurous acid
+
+----
+num: 4
+category: General Science
+difficulty: HS
+seen: 1
+answer: W)  Ascaris
+
+Which of the following is an intestinal worm which grows to about 25 centimeters in length and is transferred from person to person by way of contaminated soil:
+W) Ascaris (read as: as-KAH-ris)
+X) guinea worm
+Y) shistosomiasis (read as: SHISS-toe-so-MY-ah-sis)
+Z) lymphatic filariasis (read as: fil-AH-ree-AH-sis)
+
+----
+num: 4
+category: General Science
+difficulty: HS
+seen: 1
+answer: Z)  Low Blood Pressure
+
+Shock is often a life-threatening health condition that is typically and most directly caused by:
+W) low blood pH
+X) loss of brain function
+Y) extremely high cardiac output 
+Z) low blood pressure
+
+----
+num: 5
+category: Earth Science
+difficulty: HS
+seen: 1
+answer: Z)  It Is Divided Into Four Distinct Layers Based Primarily on 
+Pressure Gradients
+
+Which of the following is LEAST accurate about the composition and structure of Earth’s atmosphere:
+W) at the uppermost boundary of the troposphere, air temperature begins to increase with increasing altitude
+X) the ozone layer absorbs UV radiation from the Sun
+Y) there are about one-third as many gas molecules in the air atop Mt. Everest compared to sea level
+Z) it is divided into four distinct layers based primarily on pressure gradients
+
+----
+num: 5
+category: Earth Science
+difficulty: HS
+seen: 1
+answer: X)  Transform Fault Margins
+
+Strike-slip faults MOST commonly occur in which of the following:
+W) areas of continental collision
+X) transform fault margins
+Y) subduction zones
+Z) divergent plate boundaries
+
+----
+num: 7
+category: Astronomy
+difficulty: HS
+seen: 1
+answer: Y)  Very Similar Chemical Compositions
+
+All the stars of the Pleiades open cluster have:
+W) the same luminosities
+X) the same surface temperatures 
+Y) very similar chemical compositions
+Z) the same apparent magnitudes
+
+----
+num: 7
+category: Astronomy
+difficulty: HS
+seen: 1
+answer: X)  Nova
+
+When binary stars are made of a main sequence star and a compact white dwarf, as long as the white dwarf’s mass remains below 1.4 solar masses then the gas falling into the white dwarf is believed to often result in a:
+W) supernova
+X) nova
+Y) pulsar
+Z) quasar
+
+----
+num: 9
+category: Chemistry
+difficulty: HS
+seen: 1
+answer: Y)  Between 4 and 7
+
+The titration of a weak base, 0.100 molar NaCN, with a strong acid, 0.100 molar HCl, results in a solution at the equivalence point having a pH of:
+W) between 7 and 10
+X) 7
+Y) between 4 and 7
+Z) between 1 and 3
+
+----
+num: 10
+category: Physics
+difficulty: HS
+seen: 1
+answer: Y)  Conservation of Charge
+
+Kirchhoff’s First Rule, often called the node or junction rule, is a restatement of which of the following fundamental principles:
+W) conservation of energy
+X) conservation of mass
+Y) conservation of charge
+Z) conservation of momentum
+
+----
+num: 12
+category: Earth Science
+difficulty: HS
+seen: 1
+answer: Z)  They Slide Along the Base and Flow Like a Fluid
+
+Which of the following BEST describes the downward movement of typical alpine glaciers:
+W) they move by mass wasting and surface creep
+X) they move much like a brick sliding down a board
+Y) they flow fastest where the ice is thinnest 
+Z) they slid e along the base and flow like a fluid
+
+----
+num: 12
+category: Earth Science
+difficulty: HS
+seen: 1
+answer: Y)  S-Wave and P-Waves Cancel Each Other Out in the Shadow 
+Zone
+
+Which of the following is NOT true of seismic waves:
+W) P and S waves can travel through solids
+X) S waves cannot travel through Earth’s outer core
+Y) S-wave and P-waves cancel each other out in the shadow zone
+Z) seismographs typically record P waves before S waves
+
+----
+num: 13
+category: General Science
+difficulty: HS
+seen: 1
+answer: X)  Free Radicals Are Not Known to Play a Role in Biological 
+Processes
+
+Which of the following statements is LEAST accurate:
+W) tetraethyl lead was once commonly added to gasoline to prevent engine knocking
+X) free radicals are not known to play a role in biological processes
+Y) catalase reacts with hydrogen peroxide to form water and oxygen
+Z) bottled mineral water typically contains higher total dissolved solids than tap water
+
+----
+num: 13
+category: General Science
+difficulty: HS
+answer: W)  the Main Asteroid Belt
+
+Recent evidence suggests that comets arise not only from reservoirs of the Kuiper Belt and Oort Cloud but also from:
+W) the main asteroid belt
+X) a belt between Neptune and Pluto
+Y) a belt about 100 astronomical units beyond Pluto
+Z) at the heliopause
+
+----
+num: 14
+category: Astronomy
+difficulty: HS
+answer: W)  Low in the Western Sky
+
+In what area of the sky would the planet Venus be MOST likely to be seen a few hours after sunset from mid-northern latitudes:
+W) low in the western sky
+X) high in the southern sky 
+Y) directly overhead
+Z) high in the northern sky
+
+----
+num: 15
+category: Biology
+difficulty: HS
+seen: 1
+answer: Y)  They Will Typical Ly Protect the Person From Infection 
+Within 24 H Ours After Vaccination
+
+Which of the following is NOT true about vaccinations:
+W) they were first developed against viral infections such as small pox
+X) they allow the immune system to respond more quickly and effectively on exposure to the disease causing agent
+Y) they will typically protect the person from infection within 24 hours after vaccination
+Z) they often require adjuvants which are nonspecific irritants for best results
+
+----
+num: 16
+category: Chemistry
+difficulty: HS
+seen: 1
+answer: W)  Water
+
+A molecule whose geometry of electron domains is tetrahedral and whose shape is bent or angular is:
+W) water
+X) sulfur dioxide
+Y) carbon dioxide
+Z) ammonium
+
+----
+num: 17
+category: Physics
+difficulty: HS
+seen: 1
+answer: W)  the Wave Nature of L Ight
+
+Thomas Young’s double slit experiments give the most direct and strongest support for which of the following:
+W) the wave nature of light 
+X) the constancy of the speed of light
+Y) the existence of the photon 
+Z) the particle nature of light
+
+----
+num: 18
+category: Math
+difficulty: HS
+seen: 1
+answer: Y)  6, 13, 20 2 4 8
+...
+
+Which of the following is NOT a geometric sequence:
+W) 30, 6, 56...
+Z) Y) 6, 13, 20...X) a3^2,, a3^3b, ,3a^4...b^2...
+
+----
+num: 19
+category: Earth Science
+difficulty: HS
+seen: 1
+answer: X)  Taiga Biomes Are Characterized by Long Severe Winters and 
+Short Summers
+
+Which of the following is TRUE:
+W) deserts often occur on the windward sides of mountains
+X) taiga biomes are characterized by long severe winters and short summers
+Y) the most fertile soils are typically found in tropical forests
+Z) pedocal soil types are most likely be found in wet, humid environments
+
+----
+num: 19
+category: Earth Science
+difficulty: HS
+seen: 1
+answer: W)  Yellowstone National Park
+
+In which of the following locations would you MOST easily f ind a treasure-trove of rhyolitic rock:
+W) Yellowstone National park
+X) Hawaii
+Y) evaporate deposits in Death Valley, California
+Z) the mid-Atlantic ridge
+
+----
+num: 20
+category: General Science
+difficulty: HS
+seen: 1
+answer: Z)  Two-Metal Corrosion
+
+As an alternative name, galvanic corrosion is MOST commonly called:
+W) pitting corrosion
+X) intergranular corrosion
+Y) stress corrosion 
+Z) two-metal corrosion
+
+----
+num: 20
+category: General Science
+difficulty: HS
+seen: 1
+answer: W)  Nickel Oxide
+
+Which of the following is the MOST conventional composite anode for solid oxide fuel cells that operate on pure hydrogen fuel:
+W) nickel oxide
+X) silicon oxide
+Y) iron oxide
+Z) zinc oxide

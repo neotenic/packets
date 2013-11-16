@@ -1,0 +1,224 @@
+####
+tournament: Princeton Buzzerfest
+round: Penn.doc
+year: 2010
+####
+
+num: 1
+category: Science
+difficulty: College
+fixed: None
+seen: 80
+answer: {UV/Visible} spectroscopy [accept either {UV} or {visible}]
+
+In this procedure, a decrease in the energy difference between two frontier orbitals leads to a bathochromic shift, while an increase in that difference leads to a hypsochromic shift. It uses either a split-beam or single-beam spectrophotometer to measure the output and a deuterium arc or tungsten lamp as a spectrum source. It requires the use of a quartz cuvette to hold the sample and is sometimes used as the detector for an HPLC experiment. An exocyclic double bond adds 5 nm while a secondary amine adds 60 nm according to the empirical rules used to predict the results of this technique, which are named for Woodward and Fieser, and this technique is commonly used to image chromophores with large conjugated pi systems. For 10 points, name this type of spectroscopy that uses wavelengths shorter than IR but longer than X-rays.
+
+----
+num: 2
+category: Literature
+difficulty: College
+fixed: None
+seen: 62
+answer: {Leatherstocking Tales} [accept The {Pioneers} before the first “{series}”]
+
+Billy Kirby kills maple trees to get their sap, and the townspeople waste thousands of fish by letting them rot on the shores of Lake Otsego in the first published book in this series. That novel was only the fourth chronologically; in the third, the protagonist of the series falls in love with Mabel Dunham, only to lose her to Jasper, and in the first, he uses chess pieces found in a chest to help the “daughters” of Thomas Hutter ransom him from the Hurons. That novel, set before The Pathfinder, was criticized for committing 114 out of a possible 115 “offenses against literary art” by Mark Twain. The Pioneers and The Deerslayer are two works in, for 10 points, this series of five novels featuring Natty Bumppo, the second of which is The Last of the Mohicans, written by James Fenimore Cooper?
+
+----
+num: 2
+category: Literature
+difficulty: College
+fixed: None
+seen: 60
+answer: {Leatherstocking Tales} [accept The {Pioneers} before the first “{series}”]
+
+Billy Kirby kills maple trees to get their sap, and the townspeople waste thousands of fish by letting them rot on the shores of Lake Otsego in the first published book in this series. That novel was only the fourth chronologically; in the third, the protagonist of the series falls in love with Mabel Dunham, only to lose her to Jasper, and in the first, he uses chess pieces found in a chest to help the “daughters” of Thomas Hutter ransom him from the Hurons. That novel, set before The Pathfinder, was criticized for committing 114 out of a possible 115 “offenses against literary art” by Mark Twain. The Pioneers and The Deerslayer are two works in, for 10 points, this series of five novels featuring Natty Bumppo, the second of which is The Last of the Mohicans, written by James Fenimore Cooper?
+
+----
+num: 3
+category: Science
+difficulty: College
+fixed: 57
+seen: 79
+answer: {dispersion}
+
+One parameter related to this effect is equal to negative lambda over c times the second derivative of n with respect to lambda. Temporal optical solitons are able to propagate because this effect is balanced by the non-linear Kerr effect, and when a pulse travels through a medium that induces an anomalous version of this behavior, it becomes negatively chirped. The Abbe number measures the extent of this phenomenon in transparent materials, which leads to chromatic aberration, and its extent can be determined by the Sellmeier equation. Caused by a variance in the refractive index for difference wavelenghts of light, for 10 points, name this phenomenon in which light divides into different colors when passed through a medium.
+
+----
+num: 4
+category: Science
+difficulty: College
+fixed: 1
+seen: 81
+answer: cerebellum
+
+Part of this structure is herniated in the Type I Chari malformation, while one population of cells active in it are inhibited by Golgi cells. It is the site of the globus, embelliform, and dentate nuclei, and one type of cells in this organ projects upwards to form a series of parallel fibers in its topmost layer. Complex responses are generated here by inputs from the inferior olives, while more diffuse inputs are provided by mossy fibers. Resting on superior, middle, and inferior peduncles, it contains a granule and molecular layer sandwiching a layer of Purkinje cells. Its divided into a flocconodular lobe, two hemispheres, and a central vermis, and lesions here often cause dysmetria and ataxia. For 10 points, name this structure which is responsible for motor coordination, latin for “little brain”.
+
+----
+num: 5
+category: Fine Arts
+difficulty: College
+fixed: 57
+seen: 67
+answer: {Pyongyang}
+
+One structure in this city contains a plaque honoring Gabonese dictator Omar Bongo at its foot, along with 81 other “allies”, while another monument in this city is at the foot of Moran Hill and contains four vaulted gateways with azaleas carved into them. Besides that copy of the Arc de Triomphe, another arch in this city is in the form of two women holding a depiction of the country in which it is located. This city contains the Liberation monument, which is visited by newlyweds, and the newly constructed three-winged pyramidal hotel known as the 105 Building. Another tower in this country is next to a statue of figures holding a paintbrush, a hammer, and a sickle, and is named for the state ideology. For 10 points, name this city home to the Juche Tower, Kim Il-Sung Stadium, and Kim Il-Sung square, the capital of North Korea.
+
+----
+num: 6
+category: History
+difficulty: College
+fixed: 1
+seen: 71
+answer: Lucius Aelius {Sejanus}
+
+This man's arrest corresponded with the appointment of Naevius Sutorius Macro, and this man was betrayed by his subordinate Satrius Secundus near the end of his life. This man's uncle Junius Blaesus put down the rebellion of Tacfarinas. He managed to seduce Livilla into slowly poisoning one of his rivals, and he put down a revolt in Pannonia with the help of future rival Drusus the Younger. Originally of the equestrian class and executed by being thrown down the Gemonian stairs and torn apart, this man assumed de facto power following his master's retirement to Capri. For 10 points, name this prefect of the Praetorian guard who assumed power during the reign of Tiberius.
+
+----
+num: 7
+category: Religion
+difficulty: College
+fixed: None
+seen: 58
+answer: {Adi Granth} [or {Guru Granth Sahib}]
+
+Max Arthur Macauliffe translated this work into English, and while carrying this work the Waheguru must be recited and it must be guarded by five people. It states that all of mankind should be reckoned as one under the “Fatherhood of God” doctrine, and lists some of the five evils as Kam, Krodh, and Moh. The wealth-sharing notion of Wand Ke Shako is also preached in this work, which also contains the morning prayer known as the Japji and the opening Mul Mantra. This work, which consists largely of divine utterances known as Bani, was compiled by Arjun, who collected the writings of his four predecessors. Written in Punjabi and the successor of Gobind Singh, for 10 points, name this holy book that contains the writings of the ten Gurus, the central scripture of Sikhism.
+
+----
+num: 8
+category: History
+difficulty: College
+fixed: 57
+seen: 69
+answer: {Sherman} Anti-Trust Act
+
+The case Rice v. Norman Williams Co regarded the ability of this act to invalidate a California law that prohibited liquor import, and it immediately followed the passage of the Valentine Act in its proposer's home state. Violations of this law can be sorted into “per se” and “rule of reason” violations. It was upheld by a case that held that a contract violates this law if it results in undue restraint, known as Standard Oil Company vs. United States. One of its first applications was settling the Pullman Strike, and it was also used to break up the Northern Securities Company and the American Tobacco Company. Named for a senator from Ohio and followed up by an act that targeted price discrimination, for 10 points, name this act followed up by the Clayton Antitrust Act, which restrained monopolies.
+
+----
+num: 9
+category: Literature
+difficulty: College
+fixed: None
+seen: 60
+answer: The {Duchess} of {Malfi}
+
+The action of this work begins after one character is told to bring the jewelry of the protagonist to Ancona, while in another scene the spouse of the protagonist drops a horoscope, revealing that he is about to have a son. One character in this work kills his mistress Julia, the wife of Castruchio, with a poisoned Bible after telling of his involvement in the central murder plot, while three others, including Cariola, are killed along with the title character. Daniel de Bosola kills the title character under the orders of Ferdinand in this work, due to the potential loss of inheritance. For 10 points, name this play whose title character is killed after marrying the lowly steward Antonio, a Restoration drama by John Webster.
+
+----
+num: 10
+category: Fine Arts
+difficulty: College
+fixed: None
+seen: 69
+answer: {Hungarian Rhapsodies}
+
+The eighth of these is sometimes called “Lento a capriccio”, and Franz Doppler collaborated with their composer to orchestrate six of these. Most of them followed the form of a slow introduction, or lassu, followed by a faster friska section, and the most-famous second one of these, in C sharp minor, included space for the performer to include his or her own cadenza. They inspired a pair of similarly-titled and structured works for violin and piano by Bela Bartok, and the fifteenth of these piano works uses the Racoczy March as its main theme. For 10 points, name this series of nineteen gypsy music-inspired compositions so named for the country of their composer's origin, by Franz Liszt.
+
+----
+num: 11
+category: Philosophy
+difficulty: College
+fixed: -1
+seen: 54
+answer: {induction}
+
+Kelly and Schulte differentiated this method from algorithms in that it doesn't lead to certainty, and instead proposed relaxing the restriction that this method has to halt. Riechenbach sorted this method into four different types, including a “cross” variety, and set forth the “straight rule” of it. Sandy Zebell generalized a continuum of these methods devised by Johnson and Carnap, and Carnap himself divided it into direct inference, predictive inference, and three other methods. Hume criticized it for begging the question in the Enquiry Concerning Human Understanding, in which he stated it for being probabilistic and lacking the force of reasoning. Nelson Goodman proposed the new riddle of, for 10 points, what epistemological method in which a set of observations about a type of object is generalized to all instances of that object.
+
+----
+num: 12
+category: Literature
+difficulty: College
+fixed: 1
+seen: 60
+answer: Mario {Vargas Llosa}
+
+This man's book-length analysis of Les Miserables is entitled The Temptation of the Impossible. One of this man's works is a biograph of Paul Gaughin and Flora Tristan, and recounts their meeting in Tahiti. Another novel by this author concerns Ricardo's lifelong obsession with an immigrant named Lily, who treats him as a bland interlude between her numerous affairs with increasingly powerful men. Besides The Way To Paradise and Bad Girl, this author recounts Cava's theft of the answer key to a chemistry exam on behalf of The Circle, a group of cadets at the Leoncio Prado Military Academy. Another of his novels has alternating chapters about Pedro Camacho and a protagonist that falls in love with his uncle's sister in law, who are all employees of a radio station. For 10 points, name this author of The Time of the Hero and Aunt Julia and the Scriptwriter.
+
+----
+num: 13
+category: Science
+difficulty: College
+fixed: None
+seen: 82
+answer: {Born}-{Oppenheimer approximation}
+
+A modification of this procedure adds a position term for the center of mass and requires placing the whole system in a potential sphere in order to use the particle in a box method; that procedure is partially named for Huang. The energy calculated in this procedure is a lower bound on the total energy, and the first step of this procedure finds the energy eigenvalue in terms of the position vector R, creating a potential energy surface. A simple application of it is to find the molecular orbitals of an H-two-plus atom, and its second step involves removing the off-diagonal kinetic energy terms, which creates a set of uncoupled motion equations. It states that the one particle only sees the Coloumb potential of another, which removes several terms from an otherwise hairy partial differential equation. For 10 points, name this method which says that nuclear motion can be ignored when modeling a molecule, named for two guys.
+
+----
+num: 14
+category: Mythology
+difficulty: College
+fixed: 57
+seen: 113
+answer: {Thetis}
+
+This figure was given Arkhe's iridescent wings as a gift by Zeus, and when Dionysus was expelled by Lycurgus, he took refuge with this figure. She was tied up by her future husband and proceeded to change into flame, water, and a lioness before consenting to marry him. She once brought Briareus to Olympus to untie Zeus, and with Euronyme, she saved and sheltered Hephaestus after his fall from Olympus. During her wedding on Mount Pelion, her husband was given an ashen spear and the immortal horses Balius and Xanthus. Prophesized to give birth to a son greater than his father, she was married off to Peleus. This figure dipped that son into the River Styx by his heels to make him invulnerable. For 10 points, name this sea nymph, the mother of Achilles.
+
+----
+num: 15
+category: Trash
+difficulty: College
+fixed: 57
+seen: 69
+answer: {Star Trek}
+
+One character in this movie states that he was sent to his current post after losing his commander's pet beagle in an experiment, and this movie was preceded by the events of the series Countdown, which details the destruction of Hobus. Another character uses a fold-out sword after landing on a drill platform, and two of the main characters meet after one of them is marooned on Delta Vega. A ship carrying a large ball of Red Matter is stolen in the climax of this work, after that same substance is used to create a black hole in the center of Vulcan. Nero destroys the USS Kelvin in the opening battle of this movie, whose cast includes Anton Yelchin as Pavel Chekov. For 10 points, name this movie starring Zachary Quinto and Chris Pine as Kirk and Spock, released in 2009.
+
+----
+num: 16
+category: Social Science
+difficulty: College
+fixed: 57
+seen: 50
+answer: Coming of Age in Samoa
+
+This work describes a ritual in which the umbilical cord of a newborn boy is thrown into the sea to ensure that he becomes a good fisherman. It describes a system in which the rudeness of children is tolerated since they are later saddled with the care of their own child. Its final section describes how the money of an American girl is controlled by their parents through the threat of an allowance and states that education should emphasize physical and mental hygiene; that section is titled “Education for Choice”. Its subjects include Fiva, Suna, and Fala, and it was criticized heavily in a work subtitled “The Unmaking of an Anthropological Myth” written by Derek Freeman. It describes the taupou system of institutionalized virginity in a culture in which women have lots of casual sex before marrying. For 10 points, name this anthropological work by Margaret Mead about growing up on the title Pacific Island.
+
+----
+num: 17
+category: History
+difficulty: College
+fixed: None
+seen: 70
+answer: {Hungarian Revolution} of 1956 [prompt with “I {need} a {year}” if they {say} “{Hungarian Revolution}” or any {variants thereof}]
+
+This event was the subject of Security Council Resolution 120, and one of the complaints during this event was the banning of the MEFESZ organization. The proclamation For Freedom and Truth was made near the end of this event, which was put down by Operation Whirlwind. Its protests began next to a statue of the Polish general Jozef Bem, and Emo Gero and Andras Hegedus fled during this event. Cardinal Jozsef Mindszenty was freed by this event and granted asylum in the American embassy, and it ended with the execution of Pal Maleter and Miklos Gimes. Seeing combat between Molotov Cocktail-wielding rioters and tanks, it saw the elevation of Janos Kadar and the death of Imre Nagy. For 10 points, name this revolt against the Soviet government which began in Budapest.
+
+----
+num: 18
+category: Science
+difficulty: College
+fixed: 57
+seen: 82
+answer: {Fibonacci} numbers
+
+Carmichael proved that large ones of these do not share prime factors with other ones, and Wall-Sun-Sun primes are necessarily these. Matiyasevich's disproof of Hilbert's tenth problem relied on these values to show that Diophantine equations have solutions that can grow exponentially, and a pair of them give the Euclidean algorithm its worst-case runtime. Their generating function is x divided by 1 minus x minus x squared, and every positive integer can be written as the sum of non-consecutive ones of these according to Zeckendorf's theorem. The Lucas numbers obey a similar rule as them, and one formula for generating them relies on the Golden Ratio, known as Binet's formula. Defined recursively by summing the previous two numbers in the sequence, for 10 points, name these numbers that begin 1, 1, 2, 3, 5…
+
+----
+num: 19
+category: History
+difficulty: College
+fixed: 1
+seen: 72
+answer: Sir Robert {Peel}, 2nd Baronet
+
+This man's opponents formed the Lichfield House Compact in order to consolidate their power, and his government ordered that factories be cleaned every fourteenth month and that women and children couldn't work more than 12 hours a day in the Factory Act. An insane lumberjack killed this man's personal secretary in an assassination attempt; that assassin was Daniel McNaughton. This man refused to replace Lord Melbourne in an incident in which he asked for the Queen's personal attendants to be replaced, the Bedchamber Crisis. He outlined his party's political philosophy in the Tamworth Manifesto, but his most famous action was in response to the Irish Potato Famine. An ardent opponent of Daniel O'Connell and Catholic emancipation, for 10 points, name this Prime Minister of Britain who repealed the Corn Laws.
+
+----
+num: 20
+category: Literature
+difficulty: College
+fixed: 1
+seen: 61
+answer: “The {Darkling Thrush}”
+
+The narrator of this poem compares bine-stems to the strings of broken lyres in the opening of this work, which also describes wind as a “death-lament”. The narrator describes his surroundings as “The Century's corpse outlent/his crypt the cloudy canopy” and also states that “every spirit upon earth/seemed fervourless as I”. All mankind “sought their household fires” on the night of this poem, whose title figure decided to “fling his soul/upon the growing gloom”. The title figure's sound “was written on terrestrial things” and “trembled through/his happy good night air”. Opening with the narrator leaning upon a coppice gate before viewing the title animal, which is described as “aged […], frail, gaunt, and small”, for 10 points, name this poem by Thomas Hardy about a bird.
+
+----
+num: 21
+category: Science
+difficulty: College
+fixed: 57
+seen: 78
+answer: {compiler}
+
+Tombstone diagrams were originally created to describe these programs, which are the subject of a classic textbook by Aho, Sethi, and Ullman. Static type checking is often employed by these programs, and several methods for optimizing these programs rely on use-define chains and include jump threading, strength reduction, and loop optimization. A call graph is created during the execution of these programs, and a common instance of Byzantine faulting occurs when syntatic information gets out of phase with one component of these programs. The just-in-time variety operates during runtime, and these programs perform lexical analysis and parsing, followed by code generation. For 10 points, name these programs that transform source code from a high-level language into a lower-level language, used to create executables.

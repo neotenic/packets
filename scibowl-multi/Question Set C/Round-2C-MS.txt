@@ -1,0 +1,203 @@
+####
+tournament: Question Set C
+round: Round-2C-MS.pdf
+####
+
+num: 2
+category: Earth Science
+difficulty: MS
+answer: Z)  Condensation
+
+Which of the following is the process by which water vapor changes directly into rain:
+W) sublimation
+X) evaporation
+Y) transpiration
+Z) condensation
+
+----
+num: 4
+category: General Science
+difficulty: MS
+answer: Z)  Fir
+
+Which of the following is a coniferous tree:
+W) poplar
+X) oak
+Y) elm
+Z) fir
+
+----
+num: 4
+category: General Science
+difficulty: MS
+seen: 1
+answer: W)  1000 Milliliter Volumetric Flask
+
+Which of the following pieces of laboratory glassware would be used to MOST accurately measure 1000 milliliters of water:
+W) 1000 milliliter volumetric flask
+X) 1000 milliliter beaker
+Y) 1000 milliliter Erlenmeyer flask
+Z) two, 500 milliliter Erlenmeyer flasks
+
+----
+num: 6
+category: Physical Science
+difficulty: MS
+seen: 1
+answer: X)  Number of Valence Electrons
+
+Which of the following atomic properties most directly determines that elements in the same group of the Periodic Table have similar chemical properties:
+W) number of protons
+X) number of valence electrons
+Y) charge of protons
+Z) stability of neutrons
+
+----
+num: 7
+category: Earth Science
+difficulty: MS
+seen: 1
+answer: X)  Convection Currents in the Mantle
+
+Which of the following is believed to be the process that causes Earth’s tectonic plates to move:
+W) convection currents in the crust
+X) convection currents in the mantle
+Y) gravitational influence of the Sun and Moon directly on continental plates
+Z) volcanic activity along subduction zones
+
+----
+num: 7
+category: Earth Science
+difficulty: MS
+seen: 1
+answer: Z)  at the Mouth of the Mississippi River
+
+In which of the following locations would you typically expect the average salinity of surface sea water to be the LOWEST:
+W) in the Dead Sea 
+X) in the waters off Antarctica
+Y) in the Chesapeake Bay
+Z) at the mouth of the Mississippi River
+
+----
+num: 8
+category: Math
+difficulty: MS
+answer: Y)  0.3 + 0.4 × 2 = 1.4
+
+Which of the following is NOT true:
+W) 23 – 3 × 2 = 17
+X) 72 ÷ 9 – 3 = 5
+Y) 0.3 + 0.4 × 2 = 1.4
+Z) 6 + 6 × 2 = 18
+
+----
+num: 12
+category: Earth Science
+difficulty: MS
+answer: X)  Intrusive Igneous
+
+Rocks that are produced when magma cools and solidifies deep below the Earth’s crust are called:
+W) extrusive igneous 
+X) intrusive igneous
+Y) extrusive metamorphic 
+Z) intrusive sedimentary
+
+----
+num: 16
+category: Physical Science
+difficulty: MS
+answer: Y)  Suspension
+
+Which of the following is the scientific term for a drink that settles and needs to be shaken to redistribute the particles throughout the drink:
+W) homogenous
+X) solvent
+Y) suspension
+Z) colloid
+
+----
+num: 17
+category: Earth Science
+difficulty: MS
+answer: W)  Along Plate Boundaries
+
+Volcanoes and earthquakes occur primarily in which of the following locations:
+W) along plate boundaries
+X) along continental shelves
+Y) at the North and South Poles 
+Z) around the Hawaiian Islands
+
+----
+num: 18
+category: Math
+difficulty: MS
+seen: 1
+answer: Z)  an Example of a Proper Fraction Is  6
+4
+
+Which of the following is NOT true:
+W) two numbers are reciprocals if their product is 1 
+X) one-half of three quarters is three eighths
+Y) a whole number is divisible by 5 if the ‘ones’ digit is 0 or 5
+Z) an example of a proper fraction is 46
+
+----
+num: 19
+category: General Science
+difficulty: MS
+answer: W)  Comets
+
+Which of the following are sometimes called “big dirty snowballs” because of their composition:
+W) comets
+X) asteroids
+Y) meteorites
+Z) dwarf planets
+
+----
+num: 19
+category: General Science
+difficulty: MS
+seen: 1
+answer: W)  to Earth-Bound Observers, Comets Glow Because They Are 
+Nearing Earth’s Atmosphere
+
+Which of the following is NOT true about comets:
+W) to Earth-bound observers, comets glow because they are nearing Earth’s atmosphere
+X) they typically have elliptical orbits
+Y) the Deep Impact probe recently struck a comet
+Z) the solid part of a comet is called the nucleus
+
+----
+num: 20
+category: Life Science
+difficulty: MS
+answer: Z)  Arm
+
+Which of the following is the location of the biceps humoris muscle:
+W) chest
+X) leg
+Y) abdomen
+Z) arm
+
+----
+num: 22
+category: Earth Science
+difficulty: MS
+answer: W)  Limestone
+
+Chalk is a type of:
+W) limestone
+X) coal
+Y) rock salt
+Z) basalt
+
+----
+num: 25
+category: Life Science
+difficulty: MS
+answer: X)  No Nucleus
+
+Which of the following characteristics is MOST typical of bacteria:
+W) numerous mitochondria
+X) no nucleus
+Y) numerous cilia
+Z) reproduction by budding

@@ -1,0 +1,212 @@
+####
+tournament: Regional B
+round: round7.pdf
+year: 2002
+####
+
+num: 1
+category: Chemistry
+difficulty: HS
+seen: 34
+answer: Hess’s Law   (Accept:  Hess)
+
+What is the name of the law th at states that the overall enthalpy change for a reaction is equal to the sum of th e enthalpy changes for the individual steps in the reaction:
+
+----
+num: 2
+category: Physics
+difficulty: HS
+seen: 25
+answer: 8 Centimeters
+
+Consider a lever with a 4-gram mass located 12 centimeters from its fulcrum. A 6-gram mass is placed on the opposite si de of the lever. How far, in centimeters, must the 6-gram mass be placed from the fulcru m to equally balance the 4-gram mass?
+
+----
+num: 3
+category: Biology
+difficulty: HS
+seen: 41
+answer: Hydrogen Peroxide   (Accept:  H^2o^2)
+
+What is the substrate for which catalase has the greatest affinity?
+
+----
+num: 4
+category: Astronomy
+difficulty: HS
+seen: 53
+answer: Gnomon
+
+What is the name of the simple astronomical instrument consisting of a vertical stick placed in a sunny spot to cast a shadow?
+
+----
+num: 5
+category: Math
+difficulty: HS
+seen: 26
+answer: X
+
+Find the derivative of the following function: f( x) = sin (ln x) (read as: f of x equals the sine of the natural log of x)cos(ln x)
+
+----
+num: 7
+category: General Science
+difficulty: HS
+fixed: -1
+seen: 31
+answer: Earth, Wa Ter, Air, Fire  (Accept in Any Order)
+
+According to Aristotle, the portion of the Cosmos lower than the moon is made of what four elements?
+
+----
+num: 9
+category: Chemistry
+difficulty: HS
+fixed: -1
+seen: 35
+answer: 10
+(Solution:  V^1/t^1 = V^2/t^2;  4l/200k = V^2/500k;  = 10l)
+
+If the temperature of a 4L tank of gas changes from 200K to 500K, at constant pressure what is the new volume of gas, in liters:
+
+----
+num: 10
+category: Physics
+difficulty: HS
+seen: 27
+answer: 2 Times
+
+According to the work of Coulomb, if the charge on either one of two tiny objects was doubled, by what multiple would th e total force on the particles increase?
+
+----
+num: 11
+category: Biology
+difficulty: HS
+seen: 41
+answer: Krebs
+
+What scientist in 1936, building on the discoveries of Szent-Gyorgyi, (Pronounced: SENT- GEE-or-gee) postul ated the basic reactio ns of the tricarboxylic (read as: tri-car-box-ill-ick) acid cycle?
+
+----
+num: 12
+category: Astronomy
+difficulty: HS
+seen: 58
+answer: Copernicus
+
+Who is the author of the book titled “On the Revolution of the 
+Heavenly Spheres” which reject ed the Earth-centric universe?
+
+----
+num: 13
+category: Math
+difficulty: HS
+fixed: -1
+seen: 24
+answer: 95%
+
+What percent of a normally distributed sample lies within 2 standard deviations of the mean?
+
+----
+num: 16
+category: Computer Science
+difficulty: HS
+fixed: -1
+seen: 63
+answer: Access Time   (Accept:  Disk Access Time)
+
+The elapsed time between the initiation of a request for data and the receipt of the first b it or byte of that data is called:
+
+----
+num: 17
+category: Chemistry
+difficulty: HS
+seen: 33
+answer: Grahams’ Law
+
+Which Law states that the rate of effusion of a gas is inversely proportional to the square root of its molar mass?
+
+----
+num: 18
+category: Physics
+difficulty: HS
+seen: 26
+answer: Photons
+
+According to quantum electrodynami cs, what is exchanged that gives rise to the electromagnetic for ce between 2 charged particles?
+
+----
+num: 18
+category: Physics
+difficulty: HS
+seen: 26
+answer: 1;  ½;  0
+
+What are the spin quantities for a gauge boson, a lepton, and a kaon, respectively?
+
+----
+num: 19
+category: Biology
+difficulty: HS
+seen: 41
+answer: Histones
+
+A nucleosome is composed of what general class of proteins?
+
+----
+num: 20
+category: Astronomy
+difficulty: HS
+seen: 54
+answer: Sirius
+
+What is the Greek name meaning sparkling or scorching for the star, alpha Canis Majoris?
+
+----
+num: 21
+category: Math
+difficulty: HS
+seen: 25
+answer: Correlation  (Accept:  Pearson’s Correlation or Correlation 
+Coefficient or Pearson’s R, or the Pearson Product Moment Correlation)
+
+What parameter, usually signified by a lower case r, describes the direction and strength of a st raight-line relationship between two quantifiable variables?
+
+----
+num: 21
+category: Math
+difficulty: HS
+fixed: -1
+seen: 24
+answer: 4π
+(Solution:  a = N/360 ×  πR^2;  = 40/360 × 36π = 4π)
+
+In terms of π, what is the area of a sector in a circle whose central angle is 40° bounded by two radii of 6?
+
+----
+num: 24
+category: Physics
+difficulty: HS
+fixed: -1
+seen: 25
+answer: Ion Density and Energy Conf Inement Time  (Accept in Any Order)
+
+Which 2 of the following 4 paramete rs most directly yield the product used in the Lawson criterion for nu clear fusion: ion density; fusion temperature; isotope half-life; energy confinement time
+
+----
+num: 25
+category: Biology
+difficulty: HS
+seen: 42
+answer: Endoderm
+
+Which germ layer in mammals is predominantly responsible for the gut lining and digestive glands?
+
+----
+num: 25
+category: Biology
+difficulty: HS
+seen: 38
+answer: Chagas’ Disease
+
+Shistosomia mansoni is to shistosomiasis as Trypanasoma cruzi (Pronounced as TRY-pana –soma CREW-zeye) is to:

@@ -1,0 +1,289 @@
+####
+tournament: Question Set C
+round: Round-8C.pdf
+####
+
+num: 1
+category: Chemistry
+difficulty: HS
+seen: 1
+answer: X)  Proton Acc Eptor
+
+According to the Bronsted-Lowry system, a base is defined as which of the following:
+W) electron pair acceptor
+X) proton acceptor 
+Y) proton donor
+Z) hydroxide donor
+
+----
+num: 2
+category: Physics
+difficulty: HS
+seen: 1
+answer: W)  Thorium Oxide
+
+In response to the development of incandescent lights, gas lights were vastly improved by soaking the mantles in what substance to help convert heat and UV energy into visible light:
+W) thorium oxide
+X) titanium dioxide
+Y) uranium oxide
+Z) tungsten
+
+----
+num: 3
+category: Biology
+difficulty: HS
+seen: 1
+answer: X)  Lateral Sides of the Head of the Tibia
+
+Which of the following is an insertion of the human biceps femoris muscle:
+W) ventral portion of the head of the femur
+X) lateral sides of the head of the tibia
+Y) ileac crest
+Z) pubic symphisis
+
+----
+num: 5
+category: Earth Science
+difficulty: HS
+answer: W)  Paleomagnetic Studies
+
+Which of the following was the evidence that Alfred 
+Wegener did not have that would have convinced the scientific community that his theory of continental drift was c orrect:
+W) paleomagnetic studies 
+X) apparent fit of the continents
+Y) locations of ancient glacial deposits
+Z) comparative fossil studies
+
+----
+num: 5
+category: Earth Science
+difficulty: HS
+seen: 1
+answer: Z)  S-Waves Cause the Most Damage During an Earthquake
+(Solution:  Surface Waves Cause the Most Damage)
+
+Which of the following is NOT true of seismic waves:
+W) the modified Mercalli scale measures earthquakes based on direct observations of damage
+X) the actual underground point of origin of an earthquake is called the hypocenter
+Y) the typical velocity of a P-wave near the Earth’s surface is about 5 kilometers per second
+Z) S-waves cause the most damage during an earthquake
+
+----
+num: 6
+category: General Science
+difficulty: HS
+seen: 1
+answer: W)  a Situation in Which a Species Is Well Adapted to a Specific 
+Set of Environmental Conditions
+
+Which of the following is the BEST description of an ecological niche:
+W) a situation in which a species is well adapted to a specific set of environmental conditions
+X) the biomass load of a given environment
+Y) a pollutant that becomes concentrated in organisms as it moves up through the food chain
+Z) all the environmental conditions, plants, and animals of an isolated area
+
+----
+num: 7
+category: Astronomy
+difficulty: HS
+answer: Z)  They Experience No Atmospheric Distortion
+
+Which of the following is the MAIN advantage of space-based telescopes over typical ground-based telescopes:
+W) they are not affected by radiation
+X) their mirrors can be any size because of zero gravity
+Y) they are cheaper to maintain
+Z) they experience no atmospheric distortion
+
+----
+num: 7
+category: Astronomy
+difficulty: HS
+answer: W)  Most of Their Stars Have a Low Metal Content
+
+Which of the following is the BEST evidence that globular clusters are composed of mostly old stars:
+W) most of their stars have a low metal content
+X) most of their stars are population one stars
+Y) most of the stars have a very high mass
+Z) most of their stars are white dwarfs
+
+----
+num: 8
+category: Chemistry
+difficulty: HS
+seen: 1
+answer: Y)  Double Replacement
+
+The reaction Ca(OH)^2 + 2HCl ! 2H^2O + CaCl^2, is an example of what class of chemical reaction:
+W) synthesis
+X) single replacement
+Y) double replacement
+Z) decomposition
+
+----
+num: 9
+category: Physics
+difficulty: HS
+seen: 1
+answer: Z)  the Square Root of the Elastic Property Divided by the 
+Inertial Property
+
+Which of the following is the BEST expression of the speed of sound waves in various media:
+W) the product of the elastic property times the inertial property
+X) the value of the inertial property divided by the elastic property
+Y) the value of the elastic property divided by the inertial property
+Z) the square root of the elastic property divided by the inertial property
+
+----
+num: 10
+category: Biology
+difficulty: HS
+answer: Y)  Protostomes Have No True Coeloms
+
+Which of the following is NOT true:
+W) comb jellies or ctenophores (read as: ten-OH-fours) have radial symmetry
+X) lobsters have bilateral symmetry
+Y) protostomes have no true coeloms (read as: SEE-loams)
+Z) flatworms are acoelomates (read as: ah-SEA-low-mates)
+
+----
+num: 11
+category: Math
+difficulty: HS
+seen: 1
+answer: Z)  Regular Hexadecagon
+
+Which of the following is NOT a regular polyhedron:
+W) regular tetrahedron
+X) cube
+Y) regular icosahedron
+Z) regular hexadecagon
+
+----
+num: 12
+category: Earth Science
+difficulty: HS
+seen: 1
+answer: W)  Long Island, New York
+
+Which of the following is a terminal moraine that resulted at the climax of the Wisconsin ice sheet:
+W) Long Island, New York
+X) the northern Bahamas Islands
+Y) Death Valley, California
+Z) Hudson Bay, Canada
+
+----
+num: 12
+category: Earth Science
+difficulty: HS
+answer: Z)  Air Spiraling Outward in a Clockwise Direction
+
+Looking down on the Earth in the Northern Hemisphere, which of the following BEST describes the circulation of air above an anticyclone:
+W) air spiraling inwar d in a counter-clockwise direction
+X) air spiraling outward in a counter-clockwise direction
+Y) air spiraling inward in a clockwise direction
+Z) air spiraling outward in a clockwise direction
+
+----
+num: 13
+category: General Science
+difficulty: HS
+seen: 1
+answer: X)  Guinea Worm
+
+To remove this parasite that erupts from the skin, victims will wrap the end of the emerging worm around a stick and turn the stick over a period of days to slowly remove the worm:
+W) Ascaris
+X) guinea worm
+Y) hookworm
+Z) strongyloid
+
+----
+num: 14
+category: Astronomy
+difficulty: HS
+seen: 1
+answer: X)  a Wide Field Telescope
+
+The Schmidt telescope would BEST be considered:
+W) an advanced adaptive optics telescope with x-ray detection capabilities
+X) a wide field telescope 
+Y) a radio telescope 
+Z) an orbital x-ray telescope
+
+----
+num: 14
+category: Astronomy
+difficulty: HS
+answer: Y)  the Moon Is Found at Over 10 Degrees North of the Ecliptic 
+in a Lunar Standstill Year
+
+Which of the following is NOT true:
+W) the planet Venus has a high albedo
+X) a gnomon is a very simple astronomical instrument
+Y) the Moon is found at over 10 degrees north of the ecliptic in a lunar standstill year
+Z) carbon is probably the fourth most common element in the universe
+
+----
+num: 15
+category: Chemistry
+difficulty: HS
+answer: Y)  the Size of Anions Increases From Left to Right
+
+Which of the following is NOT true regarding general trends for the representative elements in the Periodic Table:
+W) simple positive ions are always smaller than the neutral atoms from which they are formed
+X) elements with low ionization energies lose electrons easily
+Y) the size of anions increases from left to right
+Z) electronegativities increase from left to right
+
+----
+num: 16
+category: Physics
+difficulty: HS
+seen: 1
+answer: Z)  the Ratio of the Speed of Light in a Vacuum to the Speed of 
+Light in the Medium
+
+The index of refraction for a medium is:
+W) the ratio of the angles of refraction of red light and blue light in the medium
+X) the angle of refraction for monochromatic light in the medium
+Y) the ratio of the speed of light in the medium to the speed of light in a vacuum
+Z) the ratio of the speed of light in a vacuum to the speed of light in the medium
+
+----
+num: 17
+category: Biology
+difficulty: HS
+seen: 1
+answer: X) Random Mating, Large Populations, and No Genetic Load
+
+Which of the following BEST meets the premises of the Hardy-
+Weinberg equilibrium:
+W) random mating, small populations, and no genetic load
+X) random mating, large populations, and no genetic load 
+Y) non-random mating, small populations, and no net mutations 
+Z) non-random mating, large populations, and no net mutations
+
+----
+num: 19
+category: Earth Science
+difficulty: HS
+seen: 1
+answer: Y)  Desertification
+
+The catastrophic dust bowl of the 1930’s was caused by which of the following processes:
+W) isostatic adjustment 
+X) basal slip
+Y) desertification
+Z) mass wasting
+
+----
+num: 19
+category: Earth Science
+difficulty: HS
+seen: 1
+answer: W)  Fjord
+
+Which of the following is an example of a U-shaped valley that is partially submerged:
+W) fjord
+X) arete
+Y) paternoster lake
+Z) hanging valley

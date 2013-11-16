@@ -1,0 +1,402 @@
+####
+tournament: #6198
+round: Show #6198 - Wednesday, July 20, 2011
+year: 2011
+date: 2011-07-20
+####
+
+num: 1
+category: History
+difficulty: 200
+seen: 5
+answer: Taylor
+
+The one & only Zachary.
+
+----
+num: 2
+category: History
+difficulty: 200
+seen: 5
+answer: (Joseph) McCarthy
+
+In a 1950 speech he held up what he said was a list of 205 Communists in the State Department.
+
+----
+num: 3
+category: Literature
+difficulty: 200
+seen: 4
+answer: eggs
+
+Attila, enjoy these Sardou: poached, with artichoke hearts, truffles, ham, anchovies & hollandaise.
+
+----
+num: 4
+category: Art
+difficulty: 200
+seen: 4
+answer: (Frida) Kahlo
+
+1937: "Portrait of Diego Rivera".
+
+----
+num: 5
+category: Science
+difficulty: 200
+seen: 7
+answer: equal (in 
+
+Inside "equivalent" is this word meaning equivalent.
+
+----
+num: 6
+category: History
+difficulty: 400
+seen: 4
+answer: John Dillinger
+
+On Jan. 15, 1934 he held up the First National Bank in East Chicago, Indiana (& didn't stop to see a movie).
+
+----
+num: 7
+category: Literature
+difficulty: 400
+seen: 3
+answer: quiche
+
+Despite what a book title said, you'll be a real man after you eat this French dish made in a fluted pan.
+
+----
+num: 8
+category: Art
+difficulty: 400
+seen: 3
+answer: (Paul) Gauguin
+
+1892: "Vahine no te vi" or "Woman with Mango".
+
+----
+num: 9
+category: Science
+difficulty: 400
+seen: 6
+answer: dead (in 
+
+Inside "deceased" is this word meaning deceased.
+
+----
+num: 10
+category: History
+difficulty: 600
+fixed: -1
+seen: 4
+answer: Taft, William Henry Harrison, and Clinton (and McKinley)
+
+3 of the 4 Williams.
+
+----
+num: 11
+category: History
+difficulty: 600
+seen: 4
+answer: John McCain
+
+An admiral's son, he held up under torture in North Vietnam, even refusing early release.
+
+----
+num: 12
+category: Literature
+difficulty: 600
+seen: 4
+answer: chestnuts
+
+I know you like this nut "Roasting On An Open Fire", along with your enemies; try some sweetened ones, as in marrons glaces.
+
+----
+num: 13
+category: Art
+difficulty: 600
+seen: 4
+answer: Lautrec
+
+1892: "Two Women Dancing at the Moulin Rouge".
+
+----
+num: 14
+category: Science
+difficulty: 600
+seen: 6
+answer: frail (in 
+
+Inside "fragile" is this word meaning fragile.
+
+----
+num: 15
+category: History
+difficulty: 800
+seen: 4
+answer: Tyler
+
+The last John alphabetically by last name.
+
+----
+num: 16
+category: History
+difficulty: 800
+seen: 4
+answer: a parable
+
+In this type of story of the Pharisee & the publican, Jesus held up the latter as the example to follow.
+
+----
+num: 17
+category: Literature
+difficulty: 800
+seen: 4
+answer: asparagus
+
+Atty! No blood of the innocent until you've had this 9-letter veggie whose stalks are apple-green with purple-tinged tips.
+
+----
+num: 18
+category: Science
+difficulty: 800
+seen: 6
+answer: male (in 
+
+Inside "masculine" is this 4-letter synonym for masculine.
+
+----
+num: 19
+category: History
+difficulty: 1000
+seen: 4
+answer: Jefferson and Wilson
+
+The 2 Thomases (one went by his middle name).
+
+----
+num: 20
+category: History
+difficulty: 1000
+seen: 5
+answer: Atlas
+
+In the original myth, this Titan held up the sky, not the earth, on his shoulders.
+
+----
+num: 21
+category: Literature
+difficulty: 1000
+seen: 4
+answer: a calzone
+
+I know you hate Italy, but it's obvious you love this Naples fave, a deep-fried, half-moon-shaped stuffed pizza.
+
+----
+num: 22
+category: Art
+difficulty: 1000
+seen: 4
+answer: Picasso
+
+1903: "The Old Guitarist".
+
+----
+num: 23
+category: Science
+difficulty: 1000
+seen: 6
+answer: is (in ex
+
+Inside "exists" is this word meaning exists.
+
+----
+num: 24
+category: History
+difficulty: 400
+seen: 4
+answer: Initial Public Offering
+
+IPO: a company's first stock sold to the general population.
+
+----
+num: 25
+category: Science
+difficulty: 400
+seen: 7
+answer: potassium
+
+Humphry Davy named this element after potash, its much older name.
+
+----
+num: 26
+category: Literature
+difficulty: 400
+seen: 4
+answer: the right guard
+
+He plays between the right tackle & the center, & he probably really needs his deodorant.
+
+----
+num: 27
+category: Literature
+difficulty: 400
+seen: 4
+answer: (Louis) Braille
+
+His alphabet consists of 6 raised points used in multiple combinations.
+
+----
+num: 28
+category: Geography
+difficulty: 400
+seen: 7
+answer: Taiwan
+
+If we make it to this Asian island by November 12, we can celebrate its national holiday of Sun Yat-sen day.
+
+----
+num: 29
+category: History
+difficulty: 800
+seen: 5
+answer: Chief Operating Officer
+
+COO: the executive responsible to the board for the day-to-day running of the business.
+
+----
+num: 30
+category: Literature
+difficulty: 800
+seen: 4
+answer: states\' rights
+
+Doctrine asserting that federal laws shouldn't trump those of Alabama or Idaho.
+
+----
+num: 31
+category: Literature
+difficulty: 800
+seen: 4
+answer: Joe Louis
+
+Raised in Detroit, he won the national Amateur Athletic Union light heavyweight boxing crown in 1934.
+
+----
+num: 32
+category: Geography
+difficulty: 800
+seen: 7
+answer: Hawaii
+
+For a vacation getaway, let's all head to this southernmost U.S. state.
+
+----
+num: 33
+category: History
+difficulty: 1200
+seen: 4
+answer: Profit and Loss
+
+P&L: of concern to all companies.
+
+----
+num: 34
+category: Science
+difficulty: 1200
+seen: 6
+answer: chlorine
+
+This element, atomic no. 17, is used as a bleach.
+
+----
+num: 35
+category: Literature
+difficulty: 1200
+seen: 4
+answer: right as rain
+
+"Shower" us with this 3-word meteorological term meaning everything's a-ok.
+
+----
+num: 36
+category: Literature
+difficulty: 1200
+seen: 4
+answer: Farrakhan
+
+This top leader of the Nation of Islam is an accomplished violinist & once worked as a Calypso singer.
+
+----
+num: 37
+category: History
+difficulty: 1600
+seen: 4
+answer: Return On Investment
+
+ROI: the amount gained, before tax & after depreciation, from a venture.
+
+----
+num: 38
+category: Literature
+difficulty: 1600
+seen: 4
+answer: a right-hand man
+
+In "The Merry Adventures of Robin Hood", Little John is fingered as one of these chief assistants.
+
+----
+num: 39
+category: Literature
+difficulty: 1600
+seen: 4
+answer: Tiffany
+
+The middle name of this Art Nouveau glasswork artist was Comfort.
+
+----
+num: 40
+category: Geography
+difficulty: 1600
+seen: 9
+answer: India
+
+Let's watch some movies when we get to this Asian country that makes more movies than any other, about 900 a year.
+
+----
+num: 41
+category: History
+difficulty: 2000
+seen: 6
+answer: Earnings Per Share
+
+EPS: the net income of a corporation divided by the total units of common stock outstanding.
+
+----
+num: 42
+category: Literature
+difficulty: 2000
+seen: 5
+answer: the Universal Declaration of Human Rights
+
+The U.N. adopted this, the UDHR, in 1948; I guess it'll still apply if we ever get to Alpha Centauri.
+
+----
+num: 43
+category: Literature
+difficulty: 2000
+seen: 6
+answer: Malle
+
+"Pretty Baby" & "Atlantic City" were films by this French director who was married to Candice Bergen.
+
+----
+num: 44
+category: Geography
+difficulty: 2000
+seen: 13
+answer: Sinai
+
+If we trek to the southern section of this Egyptian peninsula, we can visit the mount of the same name.

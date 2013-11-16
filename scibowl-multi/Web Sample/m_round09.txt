@@ -1,0 +1,256 @@
+####
+tournament: Web Sample
+round: m_round09.pdf
+####
+
+num: 2
+category: General Science
+difficulty: MS
+answer: Y)  Intaking or Venting Air
+
+A blimp or airship that uses helium as its lifting gas primarily controls its buoyancy by doing which of the following:
+W) adding or removing small amounts of hydrogen gas because it is lighter than helium
+X) heating or cooling the heli um gas within the outside bladder of the blimp
+Y) intaking or venting air 
+Z) producing or destroying helium gas
+
+----
+num: 4
+category: Physical Science
+difficulty: MS
+answer: W)  Clear
+
+A fifty-fifty solution of distilled water and pure ethanol will appear:
+W) clear 
+X) cloudy
+Y) purple
+Z) heterogeneous
+
+----
+num: 4
+category: Physical Science
+difficulty: MS
+answer: Y)  Becl^2 and Boron Dichloride
+
+Which of the following chemical names is NOT correctly matched with its chemical formula:
+W) H^2SO^4 and sulfuric acid
+X) HCl and hydrochloric acid
+Y) BeCl^2 and boron dichloride
+Z) SO^2 and sulfur dioxide
+
+----
+num: 5
+category: Earth Science
+difficulty: MS
+answer: Z)  Drumlin
+
+Which of the following is a feature made by a continental glacier and NOT made by a n alpine glacier:
+W) cirque
+X) hanging valley
+Y) truncated spur
+Z) drumlin
+
+----
+num: 7
+category: General Science
+difficulty: MS
+answer: Z)  38 Kilometers Per Hour
+
+Which of the following is closest to the maximum running speed of a human:
+W) 0.3 meters per second
+X) 30 meters per second
+Y) 18 kilometers per hour
+Z) 38 kilometers per hour
+
+----
+num: 8
+category: Life Science
+difficulty: MS
+answer: Y)  Neuron
+
+In which of the following cells would myelin most likely be found:
+W) oocyte
+X) red blood cell
+Y) neuron
+Z) skin cell
+
+----
+num: 10
+category: Earth Science
+difficulty: MS
+answer: X)  Calcium Carbonate
+
+The hard coral of coral reefs are primarily made of:
+W) basalt
+X) calcium carbonate
+Y) silicates
+Z) halite
+
+----
+num: 10
+category: Earth Science
+difficulty: MS
+answer: W)  Weathering and Erosion
+
+According to the Rock Cycle, once conglomerate sedimentary rocks are formed, the most direct pathway in the formation of sediments is by which of the following:
+W) weathering and erosi on
+X) compaction and cementation
+Y) cooling and crystallization 
+Z) heat and pressure
+
+----
+num: 11
+category: Math
+difficulty: MS
+answer: X)  if a ≤ 0 Then the Absolute Value of a Equals A
+
+Which of the following is NOT true:
+W) a line that intersects 2 other lines at different p oints is called a transversal
+X) if a ≤ 0 (read as: if a is less than or equal to 0), then the absolute value of a equals a
+Y) the square of an integer is called a perfect square
+Z) the real numbers include all rational and irrational numbers
+
+----
+num: 13
+category: Life Science
+difficulty: MS
+answer: X)  Structural Support
+
+What is the most important function of fiber tracheids (read as: TRAY-key-ids) in woody plants:
+W) energy storage
+X) structural support 
+Y) sugary sap movement
+Z) absorption of nutrients from the soil
+
+----
+num: 13
+category: Life Science
+difficulty: MS
+answer: Y)   e.coli
+
+Which of the following is the smallest object that a typical student compound light microsc ope is able to allow a person to see:
+W) mRNA
+X) ribosomes
+Y) E.coli
+Z) polio virus
+
+----
+num: 14
+category: Physical Science
+difficulty: MS
+answer: Y)  Liquid Water Changes to Solid Water
+(Solution: Freezing Is Exothermic)
+
+Which of the following processes is exothermic:
+W) solid water changes to water vapor
+X) solid water changes to liquid water 
+Y) liquid water changes to solid water
+Z) liquid water changes to water vapor
+
+----
+num: 15
+category: Earth Science
+difficulty: MS
+answer: X)  Slow Cooling
+
+An igneous rock in which individual mineral grains or crystals are visible to the naked eye m ost likely was formed by which of the following processes:
+W) rapid cooling
+X) slow cooling
+Y) quenching
+Z) metamorphosis
+
+----
+num: 17
+category: General Science
+difficulty: MS
+answer: Z)  Less Than 3,500 K
+
+The majority of stars in the universe are thought to have surface temperatures of:
+W) about 20,000 K
+X) about 10,000 K
+Y) about 6,000 K
+Z) less than 3,500 K
+
+----
+num: 18
+category: Life Science
+difficulty: MS
+answer: W)  Lipid
+
+Adipose tissue stores mostly:
+W) lipid
+X) protein
+Y) starch
+Z) glycogen
+
+----
+num: 18
+category: Life Science
+difficulty: MS
+answer: Y)  Phospholipids
+
+Which of the following biological molecules m ake up the main part of the bilayer and hydrophobic region of the plasma cell membrane:
+W) oligosaccharides (read as: oh -LEE-go-SACK-ah-rides)
+X) carbohydrates
+Y) phospholipids
+Z) proteins
+
+----
+num: 20
+category: Earth Science
+difficulty: MS
+answer: W)  Freezing Rain
+
+Which of the following forms of winter precipitation is most likely to cause down ed power lines and broken tree limbs:
+W) freezing rain
+X) sleet
+Y) snow
+Z) hail
+
+----
+num: 20
+category: Earth Science
+difficulty: MS
+answer: Z)  Cirronimbus
+
+Which of the following is NOT one of the 10 major cloud types:
+W) cirrus
+X) cirrocumulus
+Y) cirrostratus
+Z) cirronimbus
+
+----
+num: 23
+category: Life Science
+difficulty: MS
+answer: W)  Long Thin Fibers
+
+Keratins are considered structural prot eins. This is because they are most often arranged in which of the following shapes:
+W) long , thin fibers
+X) spherical and smooth
+Y) short and irregular 
+Z) small, irregular , and hydrophilic
+
+----
+num: 25
+category: Earth Science
+difficulty: MS
+answer: W)  Cold Front
+
+Which of the following is indicated by the following forecast: “A front moves through New England Monday with a few showers. Chillier air moves in behind the front gradually changing to lake -effect snows, followed by clear skies on Tuesday”:
+W) cold front 
+X) warm front
+Y) stationary front 
+Z) inverted front
+
+----
+num: 25
+category: Earth Science
+difficulty: MS
+answer: Z)  3,800
+
+Which of the following is CLOSEST to the estimate of how many million years ago the first bacteria appeared on Earth:
+W) 65
+X) 280
+Y) 1,500
+Z) 3,800

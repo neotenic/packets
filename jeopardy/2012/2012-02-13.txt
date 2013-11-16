@@ -1,0 +1,405 @@
+####
+tournament: #6311
+round: Show #6311 - Monday, February 13, 2012
+year: 2012
+date: 2012-02-13
+####
+
+num: 1
+category: Geography
+difficulty: 200
+seen: 9
+answer: South Dakota
+
+'s the view from the 7,200-foot Harney Peak in the Black Hills of this state.
+
+----
+num: 2
+category: Literature
+difficulty: 200
+seen: 4
+answer: Lincoln
+
+Not surprisingly, at Gettysburg College, the History 340 courses include the Civil War & one on this president.
+
+----
+num: 3
+category: Trash
+difficulty: 200
+seen: 5
+answer: Brittney Spears
+
+Don't be a hater; teary-eyed fan Chris Crocker pleaded, leave this troubled singer alone.
+
+----
+num: 4
+category: Mythology
+difficulty: 200
+fixed: -1
+seen: 13
+answer: the 
+
+Carina is the keel, Puppis is the stern & Vela is the sails of this mythological ship captained by Jason.
+
+----
+num: 5
+category: History
+difficulty: 200
+fixed: -1
+seen: 4
+answer: the Dow Jones
+
+In a single week in October 2008, this indicator fell by 1,874 points, its biggest weekly drop ever.
+
+----
+num: 6
+category: Art
+difficulty: 200
+fixed: -1
+seen: 4
+answer: a rink
+
+This building houses a surface used for skating.
+
+----
+num: 7
+category: Literature
+difficulty: 400
+seen: 3
+answer: Psychology
+
+At the U. of Iowa, electives for this major include "Introduction to Clinical" & "Introduction to Cognitive" this.
+
+----
+num: 8
+category: Trash
+difficulty: 400
+seen: 5
+answer: a double rainbow
+
+Oh my God!  Paul Vasquez' excitement over this weather phenomenon has passed 30 million hits.
+
+----
+num: 9
+category: Mythology
+difficulty: 400
+seen: 13
+answer: a horse
+
+Equuleus is a little one of these.
+
+----
+num: 10
+category: History
+difficulty: 400
+seen: 4
+answer: Activision
+
+In 2011 this "vision"ary company had $400 million in sales in 24 hours of its new "Call of Duty" game.
+
+----
+num: 11
+category: Art
+difficulty: 400
+seen: 4
+answer: a mink
+
+This animal in the weasel family has lovely fur.
+
+----
+num: 12
+category: Geography
+difficulty: 600
+seen: 8
+answer: Nashville
+
+If you're enjoying Rascal Flats at the.
+
+----
+num: 13
+category: Literature
+difficulty: 600
+seen: 4
+answer: vampires
+
+A Wisconsin course on this in lit & cinema includes viewing "Nosferatu" & reading "The Historian".
+
+----
+num: 14
+category: Trash
+difficulty: 600
+seen: 5
+answer: Susan Boyle
+
+A video of this woman singing "I Dreamed A Dream" on "Britain's Got Talent" crossed the Atlantic.
+
+----
+num: 15
+category: Mythology
+difficulty: 600
+seen: 11
+answer: Orpheus
+
+Lyra represents the lyre played by this Greek hero.
+
+----
+num: 16
+category: History
+difficulty: 600
+seen: 4
+answer: butter
+
+The French consume the most of this per capita, 17 pounds a year--salted, unsalted, ca ne fait rien.
+
+----
+num: 17
+category: Art
+difficulty: 600
+seen: 4
+answer: an inkblot
+
+You'll find this pattern in a Rorschach test.
+
+----
+num: 18
+category: Trash
+difficulty: 800
+seen: 5
+answer: Charlie
+
+In a video that has stood the test of time, this little boy "bit my finger--again! ".
+
+----
+num: 19
+category: Mythology
+difficulty: 800
+seen: 12
+answer: a hare
+
+Lepus, which lies under Orion's feet, is this 4-letter critter.
+
+----
+num: 20
+category: Art
+difficulty: 800
+seen: 4
+answer: an inkling
+
+A slight hint or indication.
+
+----
+num: 21
+category: Literature
+difficulty: 1000
+seen: 3
+answer: entomology
+
+In the Oregon State course ENT 300, "Plagues, Pests & Politics", ENT stands for this field of study.
+
+----
+num: 22
+category: Trash
+difficulty: 1000
+seen: 5
+answer: Numa Numa
+
+Gary Brolsma's first viral video sensation has this double-talk name.
+
+----
+num: 23
+category: Mythology
+difficulty: 1000
+seen: 12
+answer: Sagittarius
+
+Both Centaurus & this constellation depict centaurs.
+
+----
+num: 24
+category: History
+difficulty: 1000
+seen: 4
+answer: Russia
+
+Medal counts at the 2008 Summer Olympics were 110 for the U.S., 100 for China & 72 for this nation.
+
+----
+num: 25
+category: Art
+difficulty: 1000
+seen: 4
+answer: hoodwink
+
+Once meaning "to blindfold", it now means "to deceive".
+
+----
+num: 26
+category: Geography
+difficulty: 400
+seen: 7
+answer: South America
+
+Togo is in Africa; Tobago is just off the coast of this continent.
+
+----
+num: 27
+category: Art
+difficulty: 400
+seen: 4
+answer: neon
+
+This gaseous element means "very bright" when it describes the green & yellow colors popular in the '80s.
+
+----
+num: 28
+category: Literature
+difficulty: 400
+seen: 4
+answer: suffrage
+
+This 8-letter word means the right to vote, not to endure pain; the 19th Amendment gave it to American women.
+
+----
+num: 29
+category: Literature
+difficulty: 400
+seen: 4
+answer: London
+
+In the great fire of this capital city in 1666, as much as 80% of the city burned down but fewer than a dozen people perished.
+
+----
+num: 30
+category: Geography
+difficulty: 800
+seen: 8
+answer: Yugoslavia
+
+Slovakia was once part of Czechoslovakia; Slovenia was part of this country until 1991.
+
+----
+num: 31
+category: Art
+difficulty: 800
+seen: 4
+answer: carbon
+
+If blue or black aren't scientific enough for you, you can get jeans in the color of this element, C.
+
+----
+num: 32
+category: Literature
+difficulty: 800
+seen: 4
+answer: lumber
+
+It can mean timber sawed into boards, or to walk heavily.
+
+----
+num: 33
+category: Literature
+difficulty: 800
+seen: 5
+answer: Coca-Cola
+
+This soft drink was advertised in the 1890s as a "brain & nerve drink".
+
+----
+num: 34
+category: Geography
+difficulty: 1200
+seen: 7
+answer: Mauritius
+
+Mauritania is in northwest Africa; this island nation lies 500 miles east of Madagascar.
+
+----
+num: 35
+category: Art
+difficulty: 1200
+seen: 4
+answer: gold
+
+You'll look like a king in the Elvis Grand Heritage lame suit from Rubie's Costume Company; it's this color.
+
+----
+num: 36
+category: Literature
+difficulty: 1200
+seen: 4
+answer: soliloquy
+
+Monologue comes from the Greek for "speaking alone"; this synonym comes from the Latin for "speaking alone".
+
+----
+num: 37
+category: Literature
+difficulty: 1200
+seen: 4
+answer: Alfred Nobel
+
+He endowed some big prizes after reading his own mistakenly printed & harshly critical obituary in 1888.
+
+----
+num: 38
+category: Geography
+difficulty: 1600
+seen: 9
+answer: Bissau
+
+In Africa, there is Guinea & Guinea-this, a neighbor of Guinea.
+
+----
+num: 39
+category: Art
+difficulty: 1600
+seen: 5
+answer: radium
+
+Element No. 88, it was once widely used on glow-in-the-dark watch dials--a curie-ously stylish but bad idea!.
+
+----
+num: 40
+category: Literature
+difficulty: 1600
+seen: 4
+answer: a frenemy
+
+The OED dates a version of this blended word for one who is both a pal & a foe back to the 1950s.
+
+----
+num: 41
+category: Literature
+difficulty: 1600
+seen: 4
+answer: the vestal virgins
+
+These Roman priestesses to a hearth goddess could be punished for unchastity by being buried alive.
+
+----
+num: 42
+category: Geography
+difficulty: 2000
+seen: 14
+answer: the Antillies
+
+The Dominican Republic is part of Hispaniola; Dominica is part of these "Lesser" islands.
+
+----
+num: 43
+category: Art
+difficulty: 2000
+seen: 6
+answer: silver
+
+I'll be most Ag-reeable if you slip into a Frederick's of Hollywood sequin skirt temptress dress in this color.
+
+----
+num: 44
+category: Literature
+difficulty: 2000
+fixed: -1
+seen: 6
+answer: Hard to Find
+
+Flannery O'Connor:.

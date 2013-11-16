@@ -1,0 +1,234 @@
+####
+tournament: HSAPQ National History Bowl
+round: 09.pdf
+year: 2011
+####
+
+num: 1
+category: History
+difficulty: HS
+fixed: 1
+seen: 414
+answer: {Idaho}
+
+This state's current governor was its longest-serving lieutenant-governor and was one of few Republicans not to support the Patriot Act while he served in the House of Representatives. In 2008, Larry LaRocco was defeated by Jim Risch for a U.S. Senate seat in this state that had formerly been occupied by the defamed Larry Craig. Butch Otter governs, for 10 points, which western state with capital Boise?
+
+----
+num: 2
+category: History
+difficulty: HS
+fixed: -1
+seen: 410
+answer: Battle of {Verdun}
+
+One supply line in this battle came to be known as the Sacred Way for its use in this battle. A costly strategic blow to one side in this battle was the loss of Fort Douaumont. The French were ultimately able to reclaim that fort under the leadership of Philippe Petain, though its loss had resulted in 100,000 casualties. For 10 points, name this bloody battle of World War I that ran from February to December of 1916.
+
+----
+num: 3
+category: History
+difficulty: HS
+fixed: 57
+seen: 416
+answer: {William} III [or {William} of {Orange}; prompt on {William}]
+
+The Act of Seclusion barred this man from holding office in one nation. Daniel Defoe wrote The True-Born Englishman in defense of this man. This man defeated much of his opposition with a victory at the Battle of the Boyne, and he agreed to the Bill of Rights. For 10 points, name this king of England who took power in the Glorious Revolution along with his wife Mary.
+
+----
+num: 4
+category: Philosophy
+difficulty: HS
+fixed: 1
+seen: 483
+answer: John {Locke}
+
+This thinker published a series of letters containing child rearing advice as Some Thoughts Concerning Education. As a secretary to the Earl of Shaftesbury, this man drafted the short lived Fundamental Constitutions of Carolina. His theories of “government with the consent of the governed” and individual rights to life, liberty, and property, informed the U.S. founding fathers. For 10 points, name this English philosopher.
+
+----
+num: 5
+category: Fine Arts
+difficulty: HS
+fixed: 1
+seen: 485
+answer: Gilbert {Stuart}
+
+This artist’s first work is considered to be a painting of two spaniels belonging to Dr. William Hunter. His first successful work was a portrait of William Grant entitled The Skater. This artist’s Lansdowne portrait depicts the same man depicted in a work known as The Athenaeum, which appears on the dollar bill. For 10 points, name this painter best known for his unfinished portrait of George Washington.
+
+----
+num: 6
+category: History
+difficulty: HS
+fixed: 1
+seen: 419
+answer: {Maori}
+
+Thor Heyerdahl's theory of this people's origin is based on the fact that the staple crop kumara originates in South America. The first king of this people was Potatu. One treaty to which this group was a party was negotiated by William Hobson and signed by Hone Heke, and is treated as a founding document of the modern nation in which this people resides. For 10 points, name these native people of New Zealand.
+
+----
+num: 7
+category: Trash
+difficulty: HS
+fixed: 1
+seen: 1029
+answer: Charlie {Chaplin}
+
+This director of The Gold Rush made a film which tells of an overworked factory who is fed into a giant assembly machine. After traveling to London for the premiere of his film Limelight, he had his permit to the U.S. revoked for suspected communist sympathies. For 10 points, name this man who directed and starred in such films as City Lights, The Great Dictator, and Modern Times, a prolific actor of the silent film era.
+
+----
+num: 8
+category: Literature
+difficulty: HS
+fixed: 1
+seen: 439
+answer: Sir Walter {Scott}
+
+This author was inspired by the life of John Gow to create Captain Cleveland, the title character of his novel The Pirate. Other historical figures written about by this author include Amy Robsart and Robert Dudley, whose marriage is the subject of his novel Kenilworth. He also wrote a novel about a knight who falls in love with Lady Rowena. For 10 points, name this Scottish historical novelist who wrote Ivanhoe.
+
+----
+num: 9
+category: History
+difficulty: HS
+fixed: 1
+seen: 417
+answer: Strom {Thurmond}
+
+It was revealed that this man fathered a daughter with his parents' maid, Carrie Butler, an African-American. Comments at this man's 100th birthday party lead to the removal of (*) Trent Lott as Senate Majority Leader in 2002, and he holds the record for the longest single person filibuster in the Senate, doing so against the Civil Rights Act of 1957. For 10 points, name this politician who holds the record for the second longest time as U.S. Senator.
+
+----
+num: 10
+category: History
+difficulty: HS
+fixed: 1
+seen: 421
+answer: Dmitry {Medvedev}
+
+At the 2011 Davos World Economic forum, this leader addressed critics by saying “we are the way we are”, only two days after his country’s largest airport was attacked by a suicide bomber. To counter his nation’s declining birth rates, this man declared September 12th as Day of Conception and has given couples the day off. This man dropped plans to install a series of Iskander missiles after NATO decided against installing a (*) missile shield in Poland. Earlier, this man was appointed as chairman of the board of directors of Gazprom. Shortly into his presidency, he invaded Georgia during the South Ossetia War. For 10 points, name this current president of Russia.
+
+----
+num: 11
+category: History
+difficulty: HS
+fixed: 1
+seen: 417
+answer: {Great Flood} of 1993 [or equivalents mentioning floods in the American {Midwest}; or early
+
+William Natcher introduced a bill in the House to provide supplemental funds for the response to this disaster. The Big Muddy National Fish and Wildlife Refuge was created in its aftermath, which also saw James Scott convicted of "intentionally causing a catastrophe." FEMA bought and razed almost twelve thousand homes damaged in this event, which was partially caused by unexpectedly heavy summer (*) rains. Although an astonishing one hundred percent of non-federal levees in Kansas City failed, both Kansas City and St. Louis emerged relatively unscathed. For 10 points, name this 1993 disaster that left much of the Upper Mississippi River and Missouri River basins underwater.
+
+----
+num: 12
+category: Science
+difficulty: HS
+fixed: 1
+seen: 486
+answer: Antoine-Laurent de {Lavoisier}
+
+This scientist performed an experiment in which he shone the sun’s rays on a diamond, producing carbon dioxide, which showed that diamonds are made of carbon. This author of Essays Physical and Chemical was the first to state the law of conservation of mass, in his Elementary Treatise on Chemistry. He also discredited the (*) phlogiston theory and named oxygen and hydrogen, as well as compiling an early list of elements. For 10 points, name this “father of modern chemistry” who was guillotined during the French Revolution.
+
+----
+num: 13
+category: History
+difficulty: HS
+fixed: 1
+seen: 419
+answer: {1968 Democratic National Convention} [or {1968 DNC}; prompt on {1968}]
+
+A controversy at this convention emerged over whether Dan Rostenkowski had forcibly taken the gavel from chairman Carl Albert. In light of the unseating of the entire Mississippi delegation and half of the Georgia delegates, this convention established the McGovern-Fraser Commission to rewrite delegate selection procedures. Both New York and California delegations began the convention not pledged to any delegate because their primary winner had been assassinated. In a speech at this convention, Abe Ribicoff denounced the "Gestapo tactics" used "in the streets," which included the arrest of a (*) pig nominated for president by the Yippies. For 10 points, name this convention that nominated Hubert Humphrey but is better known for Richard Daley's response to mass protests.
+
+----
+num: 14
+category: History
+difficulty: HS
+fixed: 1
+seen: 416
+answer: {Quebec}
+
+In 1949, this region’s town of Asbestos saw the asbestos miners of the Thetford mine go on strike. Containing the autonomy-seeking region of Nunavik, it is home to the La Grande River, on whose shores is a hydroelectric plant named for former premier Robert Bourassa. This region, containing the Chic-Choc Mountains and Gaspe Peninsula, underwent a secularization called the (*) Quiet Revolution. A failed accord named for its Meech Lake strengthened calls for its sovereignty in 1987. For 10 points, name this Canadian province that borders Maine and hosted the 1967 World’s Fair, or Expo ’67, in Montreal.
+
+----
+num: 15
+category: History
+difficulty: HS
+fixed: -1
+seen: 415
+answer: John {Tyler}
+
+This president achieved most favored nation status with China by sending Caleb Cushing to negotiate the Treaty of Wanghia. When the Civil War broke out, he was elected to the Confederate Congress. This president lost two cabinet members in the explosion of the (*) Princeton. All of this man's cabinet, save his Secretary of State, resigned when this man broke with his party. Due to his method of attaining office, this President, who annexed Texas, was known as "His Accidency." For 10 points, name this Virginian who replaced the short-lived William Henry Harrison.
+
+----
+num: 16
+category: History
+difficulty: HS
+fixed: 1
+seen: 426
+answer: assassination of Olof {Palme} [or equivalents]
+
+Bizarrely, an elderly couple received a phone call claiming "the job is done" fourteen minutes after the execution of this crime outside the Dekorima paint shop. Conspiracy theories have implicated in this crime the fascist group Ustasja, the East German Red Army, and the weapons exporter Bofors. However, the most credible conspiracy theory, partially based on comments by Dirk Coetzee, implicates the South African secret police, due to its target's anti-apartheid views. An alcoholic named Christer Petersson had his conviction for this crime overturned, and this crime remains (*) unsolved. For 10 points, name this February 28, 1986 event in which a Swedish Prime Minister was killed.
+
+----
+num: 17
+category: History
+difficulty: HS
+fixed: -1
+seen: 416
+answer: The House of {Lords} [or The House of {Lords Spiritual} and {Temporal} or The House of {Peers}]
+
+One proposal for reforming this entity was offered by the Wakeham Commission. The Salisbury Convention of 1945 limited this entity’s authority on matters that had already undergone a double reading. Chai Patel was among the people who were denied entry into this body as part of the (+) Cash for Honours scandal. The highest member of this body earns the right to use the Woolsack. Jack Straw wrote a 2008 White Paper on reforming this entity. Its membership would have been expanded had it not relinquished and abstained from blocking the 1832 (*) Reform Bill. A similar threat took place when it opposed the People’s Budget put forth by David Lloyd George. For 10 points, name this upper chamber of of the Parliament of the United Kingdom.
+
+----
+num: 18
+category: History
+difficulty: HS
+fixed: 1
+seen: 417
+answer: Julius Robert {Oppenheimer}
+
+Kai Bird and Martin J. Sherwin’s biography of this man labeled him the “American Prometheus” and argued that Lewis Strauss used illegal wiretaps to ruin this man. William Liscum Borden sent an incriminating letter about this man to J. Edgar Hoover, and (+) Haakon Chevalier testified that this man had once belonged to the Communist Party. This civilian helped make sure that the Trinity test was a success. In his most famous role, this man was the civilian counterpart to General Leslie Groves. This man lost his security clearance in part due to the testimony of (*) Edward Teller to the Atomic Energy Commission after supervising the creation of the Little Boy. For 10 points, name this scientific directory of the Manhattan Project, the so-called “father of the atomic bomb”.
+
+----
+num: 19
+category: History
+difficulty: HS
+fixed: 1
+seen: 417
+answer: {Stono} Rebellion
+
+During this event, Thomas Rose and Thomas Elliott were both successfully hidden from a group looking to kill them. Lieutenant Governor William Bull spread the alarm after discovering this event was occurring. The innkeeper of (+) Wallace's Tavern was allowed to live during this rebellion. One cause of this rebellion may have been the Security Act, which required a firearm be carried to church on Sundays by all white men. This uprising was led by an Angolan named Jemmy and resulted in the passage of the (*) Negro Act of 1740. For 10 points, name this slave rebellion that took place in 1739 near Charleston, South Carolina.
+
+----
+num: 20
+category: History
+difficulty: HS
+fixed: 57
+seen: 416
+answer: Jack London
+
+This man collaborated with Arthur George on a satirical essay that recommends the removal of some 300 words such as knave, starvation, and strike from the English language in his work on the "Simplified Language of Socialism." He discussed the use of the opening line (+) "Dear Comrade" and the closing line "Yours for the Revolution" is his essay "Revolution," which looks at the unparalleled global nature of the socialist movement. He was unsuccessful, however, in his two bids for mayor of Oakland on the (*) Socialist Party ticket. For 10 points, name this man better known as the author of The Call of the Wild.
+
+----
+num: 21
+category: History
+difficulty: HS
+fixed: 1
+seen: 417
+answer: {Arlington}, Virginia
+
+The Aurora Highlands, now a wealthy residential neighborhood in this city, have been declared a registered historical place for their role in the Civil War. This city is connected to the neighboring communities of Bailey's Crossroads and (+) Annandale by the Columbia Pike. Residential areas in this city include Ballston. This city's commercial areas include Crystal City, home to many aerospace companies, and Rosslyn, which is near the southern end of the Memorial Bridge. This city is home to the world's largest office building by (*) area, and to an airport named for the 40th President. For 10 points, name this city across the Potomac River from Washington DC, home to the Pentagon and a namesake cemetery.
+
+----
+num: 22
+category: History
+difficulty: HS
+fixed: -1
+seen: 420
+answer: New {York} City
+
+Though not in Georgia, James Oglethorpe's warnings about Spanish-instigated slave uprisings led to seventeen hangings as a result of this city's 1741 "Conspiracy Trials." Earlier, this city suffered the first large-scale (+) slave revolt, which took place in 1712 in the East Ward. During the Revolutionary War, this city was abandoned after a clandestine retreat in August 1776, and it was the intended endpoint of (*) John Burgoyne's march meant to isolate New England from the rest of the colonies. Briefly, this city was renamed New Orange after being recaptured during the Third Anglo-Dutch War. For 10 points, name this large city which was renamed from New Amsterdam.
+
+----
+num: 23
+category: History
+difficulty: HS
+fixed: 1
+seen: 421
+answer: {forty}-{five} [or "The {Forty}-{Five}"]
+
+Radical groups of late 1700's England used this number as a symbol, as it was the issue number of the North Briton that caused the government to prosecute John Wilkes. Coincidentally, it was also the number of (+) Scottish members of the House of Commons by the 1707 Act of Union, and the last two digits of the year during which John Cope lost the Battle of Prestonpans. That battle was part of a larger campaign that ended with the leader of the rebellion fleeing, disguised as an Irish maid, after losing the Battle of (*) Culloden. For 10 points, give the number that colloquially names the Second Jacobite Uprising led by Bonnie Prince Charlie.

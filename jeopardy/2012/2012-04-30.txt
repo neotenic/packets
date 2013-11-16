@@ -1,0 +1,520 @@
+####
+tournament: #6366
+round: Show #6366 - Monday, April 30, 2012
+year: 2012
+date: 2012-04-30
+####
+
+num: 1
+category: Literature
+difficulty: 200
+seen: 4
+answer: s\'mores
+
+You don't need a campfire to make these--put some marshmallows & chocolate between Graham crackers & heat in the oven.
+
+----
+num: 2
+category: Trash
+difficulty: 200
+seen: 6
+answer: swimming
+
+Scissors kick, freestyle, individual medley.
+
+----
+num: 3
+category: History
+difficulty: 200
+seen: 5
+answer: a motorcycle
+
+Bmws also come in 2-wheeled versions, like the 130hp HP2 sport one of these.
+
+----
+num: 4
+category: History
+difficulty: 200
+seen: 5
+answer: the 19th Century
+
+Edison's first U.S. power station lights 10,000 lamps.
+
+----
+num: 5
+category: History
+difficulty: 200
+seen: 5
+answer: Vienna
+
+Until 1918 it was capital of the Austro-Hungarian Empire; today, it's just the capital of Austria.
+
+----
+num: 6
+category: Literature
+difficulty: 200
+seen: 4
+answer: identical twins
+
+They're the type of twins seen.
+
+----
+num: 7
+category: Literature
+difficulty: 400
+seen: 4
+answer: caramel
+
+It's sugar cooked until it melts & turns brown; butterscotch is similar, but with the addition of butter.
+
+----
+num: 8
+category: Trash
+difficulty: 400
+seen: 5
+answer: soccer
+
+Scissors kick, corner kick, header.
+
+----
+num: 9
+category: History
+difficulty: 400
+seen: 4
+answer: the sleigh
+
+In "over the river and through the woods", "the horse knows the way to carry" this "through the white and drifted snow".
+
+----
+num: 10
+category: History
+difficulty: 400
+seen: 4
+answer: Kiev
+
+The coat of arms of this Ukraine capital depicts the Archangel Michael, its heavenly protector.
+
+----
+num: 11
+category: Literature
+difficulty: 400
+seen: 4
+answer: a trident
+
+This spear is a symbol of Poseidon.
+
+----
+num: 12
+category: Literature
+difficulty: 600
+seen: 4
+answer: gingerbread
+
+A heavily ornamented style of architecture is named for this, often used to make "men" & "houses".
+
+----
+num: 13
+category: Trash
+difficulty: 600
+seen: 5
+answer: wrestling
+
+Freestyle, hammerlock, takedown.
+
+----
+num: 14
+category: History
+difficulty: 600
+seen: 4
+answer: a helicopter
+
+It's a rotary-winged aircraft having one or more power-driven rotors on vertical axes.
+
+----
+num: 15
+category: History
+difficulty: 600
+seen: 4
+answer: the 18th Century
+
+King George III is born in London.
+
+----
+num: 16
+category: History
+difficulty: 600
+seen: 5
+answer: Baghdad
+
+This capital on the Tigris river has 9 districts, including Karkh, Rusafa & Sadr City.
+
+----
+num: 17
+category: Literature
+difficulty: 600
+seen: 4
+answer: dentures
+
+A traveling exhibit of objects associated with George Washington includes "the only surviving complete set of his" these.
+
+----
+num: 18
+category: Literature
+difficulty: 800
+seen: 4
+answer: mousse
+
+The French name of this airy dessert means "foam" or "froth"; it also refers to the foam on the surface of champagne.
+
+----
+num: 19
+category: Trash
+difficulty: 800
+seen: 5
+answer: volleyball
+
+Bump, set, spike.
+
+----
+num: 20
+category: History
+difficulty: 800
+seen: 4
+answer: a gondola
+
+This term for a train freight car with fixed sides but no roof can also refer to a canal boat of Venice.
+
+----
+num: 21
+category: History
+difficulty: 800
+fixed: -1
+seen: 4
+answer: the 17th Century
+
+Newton invents calculus.
+
+----
+num: 22
+category: History
+difficulty: 800
+seen: 4
+answer: Buenos Aires
+
+Originally founded in 1536, this Argentine city was abandoned & had to be refounded in 1580.
+
+----
+num: 23
+category: Literature
+difficulty: 800
+seen: 4
+answer: a dependent
+
+On your parents' income tax form & health insurance policy, you're probably listed as one of these.
+
+----
+num: 24
+category: Literature
+difficulty: 1000
+seen: 4
+answer: truffles
+
+If fancy fungi aren't your thing, perhaps you'd enjoy.
+
+----
+num: 25
+category: Trash
+difficulty: 1000
+seen: 5
+answer: water polo
+
+Goal throw, sink, swim-off.
+
+----
+num: 26
+category: History
+difficulty: 1000
+seen: 4
+answer: galleons
+
+These Spanish treasure ships of the conquistador days were heavy, square-rigged warships with multiple decks.
+
+----
+num: 27
+category: History
+difficulty: 1000
+seen: 4
+answer: the 16th
+
+The Church of England breaks away from the Roman Catholic church.
+
+----
+num: 28
+category: History
+difficulty: 1000
+seen: 4
+answer: Tripoli
+
+This Libyan capital's Arabic name is Tarabulus.
+
+----
+num: 29
+category: Literature
+difficulty: 1000
+seen: 4
+answer: sedentary
+
+This adjective describes a lifestyle in which there's a lot of sitting & not much movement or exercise.
+
+----
+num: 30
+category: Science
+difficulty: 400
+seen: 6
+answer: solid, liquid, gas
+
+They're the 3 fundamental phases of matter.
+
+----
+num: 31
+category: Literature
+difficulty: 400
+seen: 3
+answer: a chaffeur
+
+Oui! my name is Jacques & I am this, the guy who drives your limo.
+
+----
+num: 32
+category: Literature
+difficulty: 400
+seen: 4
+answer: "America"
+
+It's the 1-word alternate title of "My Country 'Tis Of Thee".
+
+----
+num: 33
+category: History
+difficulty: 400
+seen: 4
+answer: Isabella
+
+Joan the mad, the daughter of Ferdinand & this woman, became the Queen of Castile in 1504.
+
+----
+num: 34
+category: History
+difficulty: 400
+seen: 4
+answer: for your information
+
+You might preface a fact with FYI, short for this.
+
+----
+num: 35
+category: Literature
+difficulty: 400
+seen: 4
+answer: a vampire
+
+Decades before Bram Stoker, J. Sheridan le Fanu wrote "Carmilla", a tale about a female one of these creatures.
+
+----
+num: 36
+category: Science
+difficulty: 800
+seen: 5
+answer: Fahrenheit
+
+This scale has 180 degrees between the freezing & boiling points of water.
+
+----
+num: 37
+category: Literature
+difficulty: 800
+seen: 4
+answer: a Whiffle ball
+
+Your first bat & ball set may have included this perforated plastic ball that doesn't go very far.
+
+----
+num: 38
+category: Literature
+difficulty: 800
+seen: 4
+answer: makes you stronger
+
+A song by Kelly Clarkson says, "What Doesn't Kill You" does this.
+
+----
+num: 39
+category: History
+difficulty: 800
+seen: 5
+answer: Louis XIV
+
+He succeeded his father as King of France in 1643 at age 4 & reigned for 72 years.
+
+----
+num: 40
+category: History
+difficulty: 800
+seen: 4
+answer: politically correct
+
+According to the initials, a remark that isn't PC, isn't this.
+
+----
+num: 41
+category: Literature
+difficulty: 800
+seen: 3
+answer: Coraline
+
+In a Neil Gaiman novel, this title girl meets the alternate reality "other mother" who has buttons for eyes.
+
+----
+num: 42
+category: Science
+difficulty: 1200
+fixed: -1
+seen: 6
+answer: waves
+
+Sounds (like the ocean's roar) are transmitted via the longitudinal type of these disturbances.
+
+----
+num: 43
+category: Literature
+difficulty: 1200
+seen: 4
+answer: the scruff
+
+Mother cats carry their newborn kittens by this part of the neck.
+
+----
+num: 44
+category: Literature
+difficulty: 1200
+seen: 4
+answer: "The Hokey Pokey"
+
+"You put your right foot in" in this song from the 1940s.
+
+----
+num: 45
+category: History
+difficulty: 1200
+seen: 4
+answer: the axe
+
+On Feb. 8, 1587 for Mary, Queen of Scots it was 2 strokes & you're out--2 strokes of this implement.
+
+----
+num: 46
+category: History
+difficulty: 1200
+seen: 4
+answer: Museum of Modern Art
+
+When in New York City, be sure to visit MoMA, short for this.
+
+----
+num: 47
+category: Literature
+difficulty: 1200
+seen: 4
+answer: Tim Burton
+
+"The Melancholy Death of Oyster Boy & Other Stories" is by this "Alice in Wonderland" movie director.
+
+----
+num: 48
+category: Literature
+difficulty: 1600
+seen: 4
+answer: differential
+
+In the dictionary this word comes before calculus, equation & psychology.
+
+----
+num: 49
+category: Literature
+difficulty: 1600
+seen: 4
+answer: Taylor Swift
+
+She sings, "our song is the slamming screen door, sneaking out late, tapping on your window".
+
+----
+num: 50
+category: History
+difficulty: 1600
+seen: 4
+answer: Trademark
+
+In the office called USPTO for short, the P is for patent & the T is for this.
+
+----
+num: 51
+category: Literature
+difficulty: 1600
+seen: 4
+answer: Hannibal Lecter
+
+Thomas Harris first gave readers a taste of this creepy cannibal in the novel "Red Dragon".
+
+----
+num: 52
+category: Science
+difficulty: 2000
+seen: 8
+answer: the winter solstice
+
+The short day when the path of the sun is farthest south in the northern hemisphere is known by this 2-word term.
+
+----
+num: 53
+category: Literature
+difficulty: 2000
+seen: 6
+answer: Tartuffe
+
+This title impostor in a Moliere comedy doesn't show up until the third act.
+
+----
+num: 54
+category: Literature
+difficulty: 2000
+seen: 6
+answer: Kenny Chesney
+
+This country star is in several football stadiums --including K.C.--at the start of his video "Reality".
+
+----
+num: 55
+category: History
+difficulty: 2000
+seen: 5
+answer: Saudi Arabia
+
+In September 2011 this country's King Abdullah announced that he was giving women the right to vote.
+
+----
+num: 56
+category: History
+difficulty: 2000
+seen: 6
+answer: pertussis
+
+Before starting high school you might have had a DPAT booster that protects against tetanus, diphtheria & this "P".
+
+----
+num: 57
+category: Literature
+difficulty: 2000
+seen: 5
+answer: Edgar Allan Poe
+
+This 19th century American writer's scary short stories include "The Sphinx" & "The Oblong Box".

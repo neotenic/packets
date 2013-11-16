@@ -1,0 +1,266 @@
+####
+tournament: Web Sample
+round: m_round18.pdf
+####
+
+num: 1
+category: Earth Science
+difficulty: MS
+seen: 8
+answer: Calcareous Ooze;  Siliceous Ooze
+
+Name all of the following 4 types of pelagic or marine sediments that are composed of more than 30% of the skeletal remains of microscopic organisms:calcareous (read as: kal-CARE-ee-ous) ooze; terrigenous sediment s; red clay; siliceous ooze
+
+----
+num: 2
+category: Math
+difficulty: MS
+seen: 6
+answer: One  (Accept:  First or I)
+
+Assuming it is in standard position, a 1081º angle will lie in what quadrant of the rectangular coordinate system?
+
+----
+num: 2
+category: Math
+difficulty: MS
+seen: 6
+answer: 6.3
+(Solution: [(0.1)(1 – 2^6)]/(1 – 2)  = 6.3)
+
+Giving your answer to the 1^st decimal place, find the sum of the first sixterms of the geometric sequence whose first three terms are : 0.1, 0.2, 0.4...
+
+----
+num: 4
+category: Life Science
+difficulty: MS
+seen: 10
+answer: Nad+  (Accept: Nad or Nicotinamide Adenine Dinucleotide) 
+(Do Not Accept:  Nadp or Nadh)
+
+What is the oxidizing agent in the citric acid cycle that is derived in part from the vitamin niacin?
+
+----
+num: 6
+category: General Science
+difficulty: MS
+seen: 5
+answer: 0.7
+
+Rounding your answer to the first decimal place, if at its closest approach to the Earth, as atellite in a circular orbit about the Sun is 0.3 astronomical units from Earth, how many astronomical units is the satellite from the Sun?
+
+----
+num: 8
+category: Math
+difficulty: MS
+seen: 6
+answer: A^2 + Ab + B^2
+
+Divide and simplify the following, com bining like terms: aa^3−−bb^3
+
+----
+num: 9
+category: Life Science
+difficulty: MS
+seen: 11
+answer: Zygote;  Lymphocyte
+(Solution: Rbc’s Have No N Uclei)
+
+Name all of the following 4 cells that are typically diploid: zygote; lymphocyte; red blood cell; mature ovum
+
+----
+num: 10
+category: Physical Science
+difficulty: MS
+seen: 6
+answer: 9
+
+How many times as much kinetic energy does a falling rock have if it triples its velocity?
+
+----
+num: 12
+category: Math
+difficulty: MS
+seen: 6
+answer: Standard Deviation
+
+What statistical quantity is computed knowing the square root of the variance and is a measure of a population’s dispersion?
+
+----
+num: 12
+category: Math
+difficulty: MS
+seen: 6
+answer: 28
+(Solution: ^8c^6 = (8·7·6·5·4·3)/(6·5·4·3 ·2·1) = 28)
+
+How many combinations are there of 8 things taken 6 at a time?
+
+----
+num: 13
+category: General Science
+difficulty: MS
+seen: 6
+answer: Water  (Accept:  H
+^2o)
+
+What substance is the most common moderator used in nuclear reactors world -wide?
+
+----
+num: 15
+category: Physical Science
+difficulty: MS
+seen: 5
+answer: 2
+(Solution: Ch^4 + 2o^2  Co^2 + 2h^2o)
+
+When the following chemical equation is balanced, the coefficient of oxygen will be what value: CH^4 + O^2  CO^2 + H^2O
+
+----
+num: 16
+category: Earth Science
+difficulty: MS
+seen: 7
+answer: Oceanic Crust =  2) 5 to 10 Kilometers;  Continental Crust = 1) 25 
+to 90 Kilometers;  Mantle = 3) 2900 Kilometers
+(Accept:  2;  1;  3)
+
+Match each of the following 3 layers of the Earth, oceanic crust, continental crust, and mantle, respectively, with the following 3 approximate depths: 
+1) 25 to 90 kilometers; 2) 5 to 10 kilometers; 3) 2900 kilometers
+
+----
+num: 17
+category: Math
+difficulty: MS
+seen: 6
+answer: 1, 5, 10, 10, 5, 1
+
+If a given row of Pascal’s triangle has the values, 1, 4, 6, 4, 1, give the exact order of values for the next row:
+
+----
+num: 17
+category: Math
+difficulty: MS
+fixed: -1
+seen: 6
+answer: 121
+
+A balanced coin is flipped once and a fair 6-sided die is rolled once. 
+What is the probability, as a fraction in lowest terms, of obtaining a tail AND a 3?
+
+----
+num: 20
+category: Physical Science
+difficulty: MS
+seen: 5
+answer: 2  (Accept:  2 Times)
+
+For 2 planets separated by a given distance, if the mass of one planet doubles, by what factor will the gravitational att raction between the planets be multiplied ?
+
+----
+num: 20
+category: Physical Science
+difficulty: MS
+seen: 5
+answer: 12 Cents
+(Solution:  100 Watts = 0.1 Kw;  0.1 Kw × 10 Hrs × 12 Cents = 12 Cents)
+
+If the cost of electricity is 12 -cents per kilowatt hour, how much does it cost to run a 100 -watt light bulb for 10 hours?
+
+----
+num: 21
+category: Earth Science
+difficulty: MS
+seen: 8
+answer: Inferior Conjunction
+
+What is the most common astronomical term for the geometrical configuration where an inferior planet is between the Earth and the Sun?
+
+----
+num: 21
+category: Earth Science
+difficulty: MS
+seen: 8
+answer: Crescent
+
+Giving your answer as crescent, quarter, half, or full, an inferior planet will be in what phase when at inferior conjunction with Earth?
+
+----
+num: 22
+category: Math
+difficulty: MS
+seen: 6
+answer: Parabola
+
+Classify the graph of, y = x^2 – 6x – 2, as a circle, parabola, straight line, or ellipse:
+
+----
+num: 22
+category: Math
+difficulty: MS
+seen: 7
+answer: 15.7
+(Solution: V = πR^2h = π(1^2)(20) = 62.8;  62.8/4 = 15.7 Cm^3)
+
+A 20-centimeter long straw in the shape of an open right circu lar cylinder has a diameter of 2 centimeters. If the straw is exactly one -quarter filled with water, how many cubic centimeters, rounded to the firs t decimal place and using π = 3. 14, of water are in the straw?
+
+----
+num: 23
+category: General Science
+difficulty: MS
+seen: 5
+answer: Iron
+
+Fusion of which of the following 5 isotopes will produce TOSS-UPthe LEAST amount of net energy gain: hydrogen -1; deuterium; tritium; helium; iron
+
+----
+num: 23
+category: General Science
+difficulty: MS
+seen: 6
+answer: 1:55 Am;  December 10 ^Th
+
+It is 8:55 PM, December 9 in Boston, Massachusetts, which is located at 71º west longitude. What time and day is it in London, England at 0º longitude? 
+Make sure to give the time in AM or PM.
+
+----
+num: 24
+category: Life Science
+difficulty: MS
+seen: 11
+answer: 2
+
+How many carbon dioxide molecules are released in each turn of the Citric Acid Cycle?
+
+----
+num: 24
+category: Life Science
+difficulty: MS
+fixed: -1
+seen: 11
+answer: 1 and 3
+
+By words or numbers, name all of the following 3 places where you would most likely find dense meristematic t issue in a tomato plant:
+1) just behind the root cap; 2) in the stem pith; 3) just behind the terminal buds
+
+----
+num: 25
+category: Physical Science
+difficulty: MS
+fixed: -1
+seen: 6
+answer: 1
+4
+
+If the half-life of a given isotope is 7 days, what fraction of the original isotope will be left after 14 days?
+
+----
+num: 25
+category: Physical Science
+difficulty: MS
+seen: 5
+answer: Bacl
+^2 + 2h
+^2o
+
+Using proper chemical formulas, finish balancing the following equation: Ba(OH)^2 + 2HCl  what?

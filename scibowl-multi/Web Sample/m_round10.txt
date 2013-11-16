@@ -1,0 +1,276 @@
+####
+tournament: Web Sample
+round: m_round10.pdf
+####
+
+num: 2
+category: Life Science
+difficulty: MS
+answer: X)  Connective
+
+Cartilage belongs to which of the following animal tissues types:
+W) epithelial
+X) connective
+Y) nervous
+Z) muscle
+
+----
+num: 3
+category: Physical Science
+difficulty: MS
+answer: Y)  Amplitude
+
+Which of the following MUST change if constructive interference occurs between two light waves:
+W) compression
+X) frequency
+Y) amplitude
+Z) speed
+
+----
+num: 4
+category: Earth Science
+difficulty: MS
+answer: Z)  Mid-Latitude Moist Continental
+(Solution: Hot Summers and C Old Winters; Polar Fronts Moving Northward or Southward)
+
+In which of the following climates are the WIDEST
+ANNUAL temperature variations or temperature ranges most likely to occur:
+W) continental polar
+X) moist tropical
+Y) tropical savanna
+Z) mid-latitude moist continental
+
+----
+num: 4
+category: Earth Science
+difficulty: MS
+answer: Z)  Holes in the Ozone Layer Are Produced by Global Warming
+
+Which of the following is NOT true of the ozone layer:
+W) beneficial stratospheric ozone is produced naturally and harmful tropospheric ozone is humanmade -
+X) the ozone molecule has 3 oxygen atoms
+Y) in addition to chlorine, bromine is also responsible for combining with and breaking down the ozone molecule
+Z) holes in the ozone layer are produced by global warming
+
+----
+num: 5
+category: Math
+difficulty: MS
+answer: Y)  the Side Opposite an Obtuse Angle Is the Shortest Side of a 
+Triangle
+
+Which of the following is NOT true:
+W) the largest angle in a right triangle is 90º
+X) each side of a regular polygon has the same length
+Y) the side opposite an obtuse angle is thes hortest side of a triangle
+Z) a triangle can have only 1 obtuse angle
+
+----
+num: 6
+category: General Science
+difficulty: MS
+answer: W)  Plants
+
+Acid-base indicators are substances that change color with changing pH and are usuall y derived from:
+W) plants
+X) animals
+Y) chemical sedimentary rocks
+Z) alkaline Earth metal
+
+----
+num: 7
+category: Life Science
+difficulty: MS
+answer: W)  Crossing Over
+
+Which of the following is most directly responsible for the exchange of genes during meiosis:
+W) crossing over
+X) kinetochores division
+Y) cytokinesis
+Z) alleles
+
+----
+num: 8
+category: Physical Science
+difficulty: MS
+answer: W)  Vacuum Tubes
+
+Which of the following is an electronic device that amplifies electronic signals and was used as as witching device in the first electronic computers:
+W) vacuum tubes
+X) crystals
+Y) potentiometers
+Z) rheostats
+
+----
+num: 9
+category: Earth Science
+difficulty: MS
+answer: Y)  the Chemical Composition of Magma Primarily Determines 
+Its Texture
+(Solution: Textur E Is Primarily Determined by Cooling)
+
+Which of the following is LEAST accurate:
+W) basalt is the fine -grained equivalent of gabbro
+X) any rock can be metamorphosed
+Y) the chemical composition of magma primarily determines its texture
+Z) a metamorphic rock produced from sandstone is quartzite
+
+----
+num: 11
+category: General Science
+difficulty: MS
+answer: W)  Forests Are Not Negatively Impacted Because They Are 
+Naturally Resistant to Acidic Ph’s
+
+Which of the following is LEAST accurate regardingacid rain:
+W) forests are not negatively impacted because they are naturally resistant to acidic pH’s
+X) lakes with limestone bedrock have some natural protection against acidification
+Y) lakes with pH’s of less than 5 are largely devoid of fish
+Z ) more than half the acid deposition in eastern Canada originates from U.S. emissions
+
+----
+num: 13
+category: Physical Science
+difficulty: MS
+answer: Y)  All Compounds Are Substances and All Substances Are 
+Compounds
+
+Which of the following is NOT true for a substance:
+W) pure substances always contain the same ratio of elements
+X) water and steam are 2 different forms of the same substa nce
+Y) all compounds are substances and all substances are compounds
+Z) a pure substance cannot be separated by physical means
+
+----
+num: 13
+category: Physical Science
+difficulty: MS
+answer: X)  Liquid Water Changing to Water Ice at 25ºc
+
+Which of the following is NOT a spontaneous reaction under normal atmospheric pressure:
+W) rusting of a ship’s hull at sea
+X) liquid water changing to water ice at 25ºC
+Y) the combustion of propane in air
+Z) evaporation of water above 212ºF
+
+----
+num: 14
+category: General Science
+difficulty: MS
+answer: Y)  Reverse Osmosis
+
+Which of the following is a water -purification process that uses pressure across a semi -permeable membrane:
+W) filtering with activated charcoal
+X) ultraviolet treatments
+Y) reverse osmosis
+Z) ozonation
+
+----
+num: 15
+category: Earth Science
+difficulty: MS
+answer: X)  March
+
+During which of the following months will the Sun rise exactly in the east to an observer at mid -northern latitudes:
+W) December
+X) March
+Y) June
+Z) S eptember
+
+----
+num: 15
+category: Earth Science
+difficulty: MS
+answer: X)  Fissure
+
+Which of the following is a type of volcanic eruption that does not build up into the typical cone shape normally associated with volcanoes, even though it erupts huge volumes of flu id lava:
+W) composite
+X) fissure
+Y) Krakatoan
+Z) Strombolian
+
+----
+num: 17
+category: Life Science
+difficulty: MS
+answer: W)  Gametophyte
+
+Which of the following is the botanical term for the haploid generation in moss plants:
+W) gametophyte
+X) archegonia
+Y) style
+Z) ovule
+
+----
+num: 18
+category: Physical Science
+difficulty: MS
+answer: Z)  Sodium Chloride
+
+Which of the following is a substance that does NOT conduct electricity when it is a solid but does conduct electricity when it is melted or in a molten state:
+W) lead
+X) copper
+Y) water
+Z) sodium chloride
+
+----
+num: 18
+category: Physical Science
+difficulty: MS
+answer: W)  Copper and Chlorine
+
+Chemical bonding between which of the following pairs of atoms would MOST likely be ionic:
+W) copper and chlorine
+X) carbon and carbon 
+Y) hydrogen and carbon
+Z) sulfur and oxygen
+
+----
+num: 19
+category: Earth Science
+difficulty: MS
+answer: W)  El Nino
+
+Which of the following is a phenomenon associated with extensive warming of the ocean in the tropical regions of the eastern Pacific:
+W) El Nino
+X) a Chinook
+Y) La Nina
+Z) the Ekman spiral
+
+----
+num: 19
+category: Earth Science
+difficulty: MS
+answer: Z)   Type of Precipitation
+
+Which of the following is LEAST indicated by closely spaced isobars on a weather map:
+W) strong winds
+X) a steep gradient betwee n high and low pressure areas
+Y) a frontal boundary
+Z) type of precipitation
+
+----
+num: 24
+category: Earth Science
+difficulty: MS
+answer: W)  F Lowering Plants
+
+Which of the following is NOT an example of typical 
+Jurassic vegetation:
+W) flowering plants 
+X) ferns
+Y) conifers
+Z) ginkgoes
+
+----
+num: 24
+category: Earth Science
+difficulty: MS
+answer: X)  the Intertropical Convergence Zone Is Mostly Located 
+Near the Equator
+
+Which of the following is TRUE:
+W) all tropical depressions form into tropical storms
+X) the Intertropical Convergence Zone is mostly located near the equator
+Y) most hurricanes originate alo ng the equator 
+Z) all hurricanes have a counterclockwise motion

@@ -1,0 +1,224 @@
+####
+tournament: PACE NSC
+round: PACE NSC 2009 - Round 14.doc
+year: 2009
+####
+
+num: 1
+category: Literature
+difficulty: HS
+fixed: 57
+seen: 450
+answer: Milan {Kundera}
+
+In one work, this author described a young poet whose only friend in school is the janitor's son and who is pampered by his mother Maman. In addition to that novel about Jaromil, Life is Elsewhere, he wrote a work describing Tamina's attempt to retrieve her love letters. In his first novel one character serves six years of hard labor after the interception of a letter that included the comment, “Optimism is the opium of the people!” This author of The Book of Laughter and Forgetting and The Joke also wrote a work ending with the death of Tomas and Tereza in a car accident. For 10 points, name this Czech author who wrote The Unbearable Lightness of Being.
+
+----
+num: 2
+category: Science
+difficulty: HS
+fixed: 1
+seen: 486
+answer: {Mersenne} primes [prompt on {primes}]
+
+The sum of their reciprocals is the Erdos Borwein constant, which is approximately 1.607, and to find the Nth one, S sub n minus two must be zero modulo N according to the Lucas Lehmer test. Their namesake also names a “twister” used to generate random numbers and these numbers are being continuously scouted for by the GIMPS program. Currently only 46 examples are known of, for 10 points, what numbers, which can be expressed in the form 2 raised to the n minus 1 and are named for a French mathematician.
+
+----
+num: 3
+category: History
+difficulty: HS
+fixed: 1
+seen: 416
+answer: {El Cid} Campeador [or Rodrigo “Ruy” {Diaz} de Vivar]
+
+Berenguer II was a longtime enemy of this man, until this man's daughter married Berenguer's son. After his recall he fought off Tashafin's army, which had responded to pleas from local lords by forcing the Battle of az-Zallaqah, a massive Almoravid victory. The actions at the Battle of Cabra by this former subordinate of Sancho the Strong angered Alfonso the Brave, who exiled him despite his service at the Battle of Graus and the siege of Zaragoza. The owner of Colada and Tizona, for 10 points, identify this general whose conquest of Valencia during the Reconquista made him a national hero of Spain.
+
+----
+num: 4
+category: History
+difficulty: HS
+fixed: -1
+seen: 413
+answer: Republic of {Angola}
+
+In March 2009, Pope Benedict XVI addressed concerns about sorcery in this nation's capital. This founder of the African Diamond Producers Association achieved independence under the Alvor agreement, marking a major colonial loss for another state's Estado Novo. Namibia was the site of the Lusaka Protocol, which ended a civil war that saw the Tripartite Agreement and set out this nation's government, currently led by the Mbundu MPLA party under Jose Eduardo Dos Santos despite some opposition in Cabinda. A machete apears on the flag of, for 10 points, what African home of the UNITA party, a former Portuguese colony with capital at Luanda?
+
+----
+num: 5
+category: Fine Arts
+difficulty: HS
+fixed: 57
+seen: 493
+answer: {School} of {Athens}
+
+Dali created a stereoscopic work melded this work with The Fire in the Borgo. This work faces another by the same artist titled La Disputa, and above it, a separate tondo includes a putto holding the phrase “Seek Knowledge of Causes.” A figure in yellow holds a globe over the bent back of a man with Bramante's face who is drawing circles on the ground. Near the center of the painting, a figure a purple frock resting his head on his left hand, and the two central figures hold the Timaeus and the Nichomachean Ethics. For 10 points, identify this fresco in the Stanza della Segnatura, a masterpiece by Raphael that depicts philosophers such as Plato and Aristotle.
+
+----
+num: 6
+category: Literature
+difficulty: HS
+fixed: -1
+seen: 444
+answer: The {Dumb Waiter}
+
+In this play, one man says he is never idle because of his woodworking and model boats. The beginning of this play features discussion of a story about a man who was run over while trying to crawl under a truck that one character introduces by saying the word “Kaw,” and its central characters also talk about a Birmingham-Tottenham soccer game. One character in this play receives a book of matches, leading to an argument over the phrase “light the kettle.” For 10 points, name this play about the hitmen Ben and Gus, in which orders for food are repeatedly sent down to the basement using the titular conveyance, a work by Harold Pinter.
+
+----
+num: 7
+category: History
+difficulty: HS
+fixed: 57
+seen: 418
+answer: {Magna} Carta [or Great Charter]
+
+This entity's creation was preceded by a marriage to Isabella of Angouleme, which cuckolded Hugh IX and led to Otto IV's loss at Bouvines to Philip Augustus. Objections over absurd invocations of Henry II's Assize of the Forest and a drastic increase in scutage rates were more direct causes of the actions which led to this entity's creation, and the renunciation of its Article 61 led to an invasion by Louis XIII in the First Barons' War. For 10 points, identify this document which created a “Great Council” and provided the basis for habeas corpus, an expansion of Henry I's Charter of Liberties that was signed by King John at Runnymede in 1215.
+
+----
+num: 8
+category: Science
+difficulty: HS
+fixed: 1
+seen: 487
+answer: {ferromagnetism}
+
+The quantum mechanical description of it was developed by Heisenberg using his namesake exchange Hamiltonian. This phenomenon arises from direct exchange interactions to minimize Coulomb repulsion, and the first theory explaining it was based on internal alignment of spin states and was developed by Peter Weiss. The induced magnetic field becomes permanent even after the external one is removed in hysteresis associated with this phenomenon, which disappears above the Curie point. For 10 points, identify this type of magnetic behavior exhibited by materials like nickel, cobalt, and iron.
+
+----
+num: 9
+category: Religion
+difficulty: HS
+fixed: 57
+seen: 442
+answer: book of {Isaiah}
+
+Some claim that this book's chapters 24 to 34 describe an idealized King Hezekiah, and the canonical theory of its authorship holds that its middle part was written around the end of the Babylonian Captivity, from which, the section called the “Book of Comfort” attests, the Jews will be delivered by Cyrus. Its chapters forty-two to fifty-three introduce a character intended to restore Israel, who “will bring forth justice to the nations,” the “servant,” and this book contains four “servant songs.” For 10 points, identify this book of prophesy that precedes Jeremiah, a book foretelling the majesty of Zion, written by a prophet who was later sawn in half.
+
+----
+num: 10
+category: Literature
+difficulty: HS
+fixed: 1
+seen: 447
+answer: William {Shakespeare's Sonnets} [prompt on partial answers like {works} of {Shakespeare} or {Sonnets}]
+
+One of these works equates “lust in action” with “the expense of spirit in a waste of shame.” In one, the poet demands “Pluck the keen teeth from the fierce tiger's jaws” and “blunt thou the lion's paw” in an address to “devouring Time.” One of them speaks of a thought that “is as a death which cannot choose/ But weep to have, that which it fears to lose.” One mentions “Bare ruin'd choirs, where late the sweet birds sang” and another ends “So long lives this, and this gives life to thee.” For 10 points, name this set of works with such characters as the Rival Poet, the Fair Youth, and the Dark Lady, which include “Shall I compare thee to a summer's day?”
+
+----
+num: 12
+category: History
+difficulty: HS
+fixed: -1
+seen: 424
+answer: {Axumite} Kingdom
+
+The Viceroy Abraha usurped this kingdom's overseas holdings won by an invasion of the Himyar by Kaleb. One ruler of this kingdom appointed his tutor Frumentius as the first Abune, denying Constantine II's request that Frumentius be returned for heresy. The warrior woman Gudit may have destroyed this predecessor of the Zagwe dynasty, which under Ezana extended control to the Dahlak archipelago. Associated with tall stone obelisks, it was legendarily founded by the Queen of Sheba, who supposedly brought the Ark of the Covenant with her after crossing the Red Sea. For 10 points, identify this African Christian kingdom, located in modern Ethiopia.
+
+----
+num: 13
+category: Fine Arts
+difficulty: HS
+fixed: 1
+seen: 495
+answer: Albrecht {Altdorfer}
+
+One of this artist's works a cross bracketed by two normal-sized figures in red robes. Besides his Crucifixion, A tiny creature with a red underbelly looks imploringly up at a black-armored knight in his St. George and the Dragon. A tall cream-colored house is given a path across a ravine in his Landscape with a Footbridge. In his most famous work, a crescent moon visible in the upper left appears with the setting sun in the lower right of the sky, and an opening in the clouds features a floating red banner, under which two tremendous armies clash. For 10 points, identify this painter of The Battle of Alexander at Issus.
+
+----
+num: 14
+category: Literature
+difficulty: HS
+fixed: 57
+seen: 441
+answer: The {Bell Jar}
+
+The protagonist of this novel reads a short story about a nun and a Jewish man who meet under a fig tree, and that protagonist later has her college tuition paid by the novelist Philomena Guinea. Its protagonist dates the Peruvian chauvinist Marco, who attempts to rape her, and the UN interpreter Constantin after she is prevented from dumping her college boyfriend Buddy Willard when he contracts TB. For 10 points, name this work that takes place during the summer of the Rosenbergs' execution, and sees its protagonist intern at a New York fashion magazine, a novel about the shock therapy and attempted suicide of Esther Greenwood by Sylvia Plath.
+
+----
+num: 15
+category: History
+difficulty: HS
+fixed: 57
+seen: 427
+answer: {Committee} of {Public Safety} [or {Comite} de {Salut Public}; prompt on {National Convention}]
+
+One of this entity's failures was enacting the Maximum Price Act. It also drafted a law calling for the conscription of women and children to serve as auxiliaries, which eventually led them to order General Carrier to start massacring people in the Vendee. Its most famous member created the Cult of the Supreme Being and authored Principles of Political Morality, while other members included Carnot, Danton, and Saint-Just, a target of the Thermidorean Reaction. For 10 points, identify this group created by the National Convention in 1793, used by Robespierre to kill his rivals during the French Revolution, rendering its name somewhat ironic.
+
+----
+num: 16
+category: Fine Arts
+difficulty: HS
+fixed: 57
+seen: 491
+answer: the Pines of {Rome} [or Pina {di Roma}]
+
+This piece's first movement depicts children playing by the movement's namesake structure in 2/8 time, and its second evokes priestly chanting using tenor and bass trombone, while its fourth depicts a march with a long crescendo and its third begins with a piano cadenza and features a recorded nightingale. For 10 points, identify this work whose title objects are found “near a catacomb” and at the Villa Borghese, the Appian Way, and the Janiculum, and which accompanies two other symphonic poems, about festivals and fountains, composed by Ottorino Respighi and named for a certain city's trees.
+
+----
+num: 17
+category: Science
+difficulty: HS
+fixed: 1
+seen: 481
+answer: {auxins}
+
+Binding of these to the TIR1 protein causes the degradation of their namesake proteins, which are otherwise bound to ARF proteins. They are pumped out of cells by PIN proteins, and they can activate the pumping of protons into the cytoplasm, which results in a decrease of pH. They are found in higher concentrations in apical buds than lateral buds, thus playing an important role in apical dominance, and common examples of these include indole-3-acetic acid. For 10 points, identify this class of plant hormones which influence phototropism and geotropism.
+
+----
+num: 18
+category: History
+difficulty: HS
+fixed: 57
+seen: 414
+answer: {Bangkok} [or {Krung Thep}]
+
+The Jim Thompson House in this city commemorates that American's attempt to preserve its nation's culture, and its Erawan Hotel contains a shrine to Brahma. The port of this city is located at Klhong Toei, and this city was formerly divided into two municipalities, one of which was Thon Buri. The Chatuchak shopping extravaganza occurs weekly in this city, whose major sites include Wat Pho University and Wat Phra Kaew, which houses the Emerald Buddha. This city is located in the Chao Phraya River delta, and was modeled after the former capital Ayutthaya. For 10 points, name this home of the King Rama IX Park, the capital of Thailand.
+
+----
+num: 19
+category: History
+difficulty: HS
+fixed: 57
+seen: 419
+answer: {Harlem} [prompt on {New York City}; or {Manhattan}]
+
+The failed Project Uplift was overseen by this area's Youth Opportunities Unlimited group, and this area became the namesake of World War I's 369th Infantry, known as its “Hellfighters.” Its political movement began with the founding of the newspaper The Messenger and the Brotherhood of Sleeping Car Porters by A. Philip Randolph. The Savoy Ballroom and Cotton club became important cultural centers in this area, whose citizens included Alain Locke and congressmen Adam Clayton Powell Jr. For 10 points, name this neighborhood, where Claude McKay, Langston Hughes, and W.E.B. Dubois led a namesake “renaissance” of black culture.
+
+----
+num: 20
+category: Science
+difficulty: HS
+fixed: 1
+seen: 489
+answer: turbidity
+
+This property can be examined from satellite-based observation tools such as AVHRR by looking at the amount of reflected light on a 580-680nm band. Evidence for its namesake currents can be found in the breaking of transatlantic cables during the 1929 Grand Banks earthquake and the presence of submarine fans and at the end of underwater canyons. These currents notably form abyssal plains. Often associated with algae blooms, a high value of this property can be detrimental to aquatic plants. For 10 points, identify this cloudiness of a liquid, which in oceans can be caused by runoff, sediments, and phytoplankton.
+
+----
+num: 21
+category: Mythology
+difficulty: HS
+fixed: 57
+seen: 783
+answer: canopic {jars}
+
+The patrons of these objects were all members of the Souls of Nekhen and were depicted as a group standing on a blue lotus. They are named for the city where the temple of Serapis stood, due to a confusion of the images of Osiris there with these objects. In the Middle Kingdom, they bore human heads, but by the New Kingdom, they displayed a baboon, jackal, and falcon as well. For 10 points, Imset, Hapy, Qebehsenuf, and Duamutef, four sons of Horus, were the patrons of what objects, which stored the intestines, lung, stomach, and liver of an Egyptian mummy?
+
+----
+num: 22
+category: Literature
+difficulty: HS
+fixed: 57
+seen: 445
+answer: {Satan} [or {Lucifer}]
+
+This character supports his uneasy steps with his spear, which is larger than the “tallest pine/ Hewn on Norwegian hills”, and he betrays himself during an internal debate because he displays non-joyous expressions. Mountains are hurled at this character after he introduces cannons, and in addition to tricking Uriel, this character engages in brief single combat with Abdiel. For 10 points, name this father of Death and Sin who famously claims “Better to reign in hell, then serve in Heav'n”, also noted for taking the form of a snake and convincing Eve to eat an apple in Eden in John Milton's Paradise Lost.
+
+----
+num: 23
+category: Fine Arts
+difficulty: HS
+fixed: 1
+seen: 491
+answer: Mary {Cassatt}
+
+A woman tilts her head to the left and fans herself in this artist's Spanish Dancer Wearing a Lace Mantilla, and another sits and picks the strings of a teardrop-shaped instrument in The Mandolin Player. A man in black rows the titular vessel while a woman in a white hat and an infant in pink look on in this artist's The Boating Party. In another of this artist's works, a figure in a green-striped robe sits facing right with a toddler on her lap, toes dangling in a pan of water. For 10 points, identify this American who spent some time in Paris exhibiting with the Impressionists, the painter of many scenes featuring women and children like The Child's Bath.

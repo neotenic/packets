@@ -1,0 +1,177 @@
+####
+tournament: Sample Questions
+round: sample_questions_r10.pdf
+####
+
+num: 4
+category: Life Science
+difficulty: MS
+answer: X)  a Group of Proteins Made by Plasma Cells in Response to 
+a Foreign Substance
+
+Which of the following best describes antibodies:
+W) a class of polysaccharides involved in the immune system
+X) a group of proteins made by plasma cells in response to a foreign substance 
+Y) small bodies of insects that look like ants 
+Z) a class of genes produced by th e immune system to fight disease
+
+----
+num: 4
+category: Life Science
+difficulty: MS
+answer: X)  a Group of Proteins Made by Plasma Cells in Response to 
+a Foreign Substance
+
+Which of the following best describes antibodies:
+W) a class of polysaccharides involved in the immune system
+X) a group of proteins made by plasma cells in response to a foreign substance 
+Y) small bodies of insects that look like ants 
+Z) a class of genes produced by th e immune system to fight disease
+
+----
+num: 6
+category: Physical Science
+difficulty: MS
+answer: Y)  Ultraviolet Light
+
+What causes skin to sunburn after prolonged exposure to sunlight?
+W) infrared light 
+X) X-rays 
+Y) ultraviolet light 
+Z) cosm ic rays
+
+----
+num: 6
+category: Physical Science
+difficulty: MS
+answer: Y)  Ultraviolet Light
+
+What causes skin to sunburn after prolonged exposure to sunlight?
+W) infrared light 
+X) X-rays 
+Y) ultraviolet light 
+Z) cosm ic rays
+
+----
+num: 10
+category: Math
+difficulty: MS
+answer: X)  the Eq Uation Is an Identity
+
+Which of the following is TRUE of the following equation:3x + 9 = 9 + 3x
+W) the equation is cond itional 
+X) the equation is an identity 
+Y) it is an equation with no solution
+Z) the equation has an infinite num ber of solutions
+
+----
+num: 10
+category: Math
+difficulty: MS
+answer: X)  the Eq Uation Is an Identity
+
+Which of the following is TRUE of the following equation:3x + 9 = 9 + 3x
+W) the equation is cond itional 
+X) the equation is an identity 
+Y) it is an equation with no solution
+Z) the equation has an infinite num ber of solutions
+
+----
+num: 14
+category: Earth Science
+difficulty: MS
+answer: X)  They Are Thought to Be the Result of the Lithosphere 
+Moving Over a Hot Spot
+
+Which of the following is true of the Hawaiian cha inof islands:
+W) they show increasing age from the northwest to the southeast 
+X) they are thought to be the result of the lithosphere moving over a hot spot 
+Y) they represent what could happen when plates interact at a convergent boundary 
+Z) all the islands have approxim ately the same age
+
+----
+num: 14
+category: Earth Science
+difficulty: MS
+answer: X)  They Are Thought to Be the Result of the Lithosphere 
+Moving Over a Hot Spot
+
+Which of the following is true of the Hawaiian cha inof islands:
+W) they show increasing age from the northwest to the southeast 
+X) they are thought to be the result of the lithosphere moving over a hot spot 
+Y) they represent what could happen when plates interact at a convergent boundary 
+Z) all the islands have approxim ately the same age
+
+----
+num: 19
+category: Life Science
+difficulty: MS
+answer: Y) Zea Maize
+
+Which of the following is a monocot:
+W) Acer rubrum
+X) Quercus rubra
+Y) Zea maize 
+Z) Echinacea angustifolia
+
+----
+num: 19
+category: Life Science
+difficulty: MS
+answer: Y) Zea Maize
+
+Which of the following is a monocot:
+W) Acer rubrum
+X) Quercus rubra
+Y) Zea maize 
+Z) Echinacea angustifolia
+
+----
+num: 21
+category: Life Science
+difficulty: MS
+answer: X)  It Is Semi-Permeable and Made Mostly of Proteins in a 
+Lipid Bilayer
+
+Which of the following is the best description of a cell m embrane also known as the plasm a membrane?
+W) it is permeable and made of mostly proteins 
+X) it is semi-permeable and m ade mostly of proteins in a lip id bilayer 
+Y) it is impermeable and m ade up mostly of lipids 
+Z) it is a f luid mosaic composed of a protein bilayer
+
+----
+num: 21
+category: Life Science
+difficulty: MS
+answer: X)  It Is Semi-Permeable and Made Mostly of Proteins in a 
+Lipid Bilayer
+
+Which of the following is the best description of a cell m embrane also known as the plasm a membrane?
+W) it is permeable and made of mostly proteins 
+X) it is semi-permeable and m ade mostly of proteins in a lip id bilayer 
+Y) it is impermeable and m ade up mostly of lipids 
+Z) it is a f luid mosaic composed of a protein bilayer
+
+----
+num: 25
+category: Life Science
+difficulty: MS
+answer: Y)  No Energy
+
+Passive transport differs mostly from active transport since pas sive transport requires:
+W)
+X) spectrin proteins ATP
+Y) no energy
+Z) mitochondria
+
+----
+num: 25
+category: Life Science
+difficulty: MS
+answer: Y)  No Energy
+
+Passive transport differs mostly from active transport since pas sive transport requires:
+W)
+X) spectrin proteins ATP
+Y) no energy
+Z) mitochondria

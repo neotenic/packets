@@ -1,0 +1,214 @@
+####
+tournament: ACF Nationals
+round: 2011-ACFNationals-Editors6Final.doc
+year: 2011
+####
+
+num: 1
+category: Science
+difficulty: Open
+fixed: 1
+seen: 56
+answer: {magnetization}
+
+The anisotropy energy of a uniaxial crystal lattice is proportional to the square of this quantity’s z component. The formation of Landau levels in a Fermi gas is responsible for the oscillations in this quantity as a function of applied field, a phenomenon known as the de Haas-van Alphen effect. For a type I superconductor, this quantity goes to zero discontinuously above the critical field, but in type II superconductors, it has a well defined maximum at the first critical value of applied field, after which it goes smoothly to zero. A hysteresis loop is formed when plotting this value against the applied field for a ferromagnetic material and the presence of this bulk quantity induces a bound current given by the curl of this vector quantity. Proportional in linear materials to the applied field by the magnetic susceptibility, for 10 points, identify this bulk quantity, defined as the magnetic dipole moment per unit volume.
+
+----
+num: 2
+category: Literature
+difficulty: Open
+fixed: 1
+seen: 36
+answer: The {Song} of {Maldoror} [or {Les Chantes des Maldoror} ]
+
+In one scene in this work, which mimics a similar scene found in Melmoth the Wanderer, the title character observes from a cliff a single survivor of a shipwreck, whom he then kills before the survivor can reach shore. This work is not Guy Mannering, but its sixth section concerns Mervyn, whose rescue is unsuccessfully attempted by an angel disguised as a crab and who is killed when his body is hurled against the dome of the Pantheon. Another passage in this work describes how God fell drunk from heaven and a man walking by stopped and shat on God’s face for three days. Acts of depravity committed by the title character include carving up the body of a young girl and having sex with a shark, and this work’s introduction hopes that the reader will “find…his…way across…these somber and poison-filled pages.” This novel is the only long work of an author who took his pseudonym from a novel by Eugene Sue and was called “infernal” in contrast to the “celestial” Poe by Ruben Dario. For 10 points, identify this novel, an exploration of evil written by Isidore Ducasse, better known as the Comte de Lautreamont.
+
+----
+num: 3
+category: Fine Arts
+difficulty: Open
+fixed: 1
+seen: 40
+answer: Robert {Rauschenberg}
+
+This artist strapped flashlights to the backs of thirty turtles and released them to wander onstage in his dance Spring Training. He collaborated with Bell Labs engineer Billy Kluver to create multimedia pieces such as Soundings and Oracle, and created a three-part lithograph composed of an autobiographical spiral of words and an X-ray of his skeleton surrounded by an astronomical chart. This artist splashed paint over a pillow, sheet, and quilt to create his piece Bed, and produced another piece by erasing a drawing by Willem de Kooning. After moving in with Jasper Johns in the 1950s, he began including everyday objects in his works, such as a stuffed Angora goat with a tire around it in his piece Monogram. For 10 points, name this American artist who created combines.
+
+----
+num: 4
+category: Literature
+difficulty: Open
+fixed: 1
+seen: 35
+answer: {Spatial Anti-Aliasing}
+
+The midposition between two elements is the key value in the Pitteway-Watkinson algorithm for performing this technique. A hardware approach to performing this technique that varies the position of the electron beam is known as a certain type of phasing. Xialon Wu offered a practical improvement on one algorithm often used in this technique; that algorithm can be implemented by giving extra preference to the position in the center of a weighting mask and is named for Bresenham. This process is usually already applied to the textures manipulated in mipmapping. When this technique is not used, artifacts like staircasing can occur, and this technique is necessary because of low-frequency sampling. Blending SRC_ALPHA and ONE_MINUS_SRC_ALPHA when doing this in OpenGL helps reduce jaggies. After performing this operation, the intensity of pixels along boundary areas is often varied. For 10 points, name this technique for providing smoother edges to lines in computer graphics.
+
+----
+num: 5
+category: Literature
+difficulty: Open
+fixed: 1
+seen: 34
+answer: {Candida}
+
+In the third act of this play, one character repeatedly laments being unable to get past the “flaming sword” separating him from the woman he loves. That character is horrified that the woman he loves performs menial tasks such as chopping onions and refilling lamps. This play’s second act ends with a character accepting an offer to speak at the Guild of St. Matthew, and then asking his secretary Proserpine Garnett and his father-in-law Mr. Burgess to accompany him, deliberately leaving his wife at home with his rival. At its climax, the title character chooses to stay with her husband, a prominent Christian Scientist, instead of an eighteen-year-old poetical aesthete. The second of its author’s Plays Pleasant, it centers on the romantic triangle among James Morell, Eugene Marchbanks, and the title woman. For 10 points, name this comedy by George Bernard Shaw about a clergyman’s wife.
+
+----
+num: 6
+category: Literature
+difficulty: Open
+fixed: 1
+seen: 35
+answer: The {Fable} of the {Bees}
+
+In its final version, this work came bundled with a set of six dialogues in which Cleomenes explicates the meaning of this work to Horatio, as well as several essays, including “An Enquiry into the Origin of Moral Virtue” and “An Essay on Charity and Charity Schools.” George Berkeley’s Alciphron, or the Minute Philosopher was largely a response to this work, which its author would later defend in A Letter to Dion. In one section of this work, Justice is described as departing on a cloud, while another describes soldiers who would stay home for double pay and kings that were “knavishly cheated by their own ministry.” Observing that the title creatures “lived like men” and “wanted dice, yet they had kings,” this work describes a nation in which “every part was full of vice / yet the whole mass a paradise,” until it is undone by Jove’s pledge to rid it of Fraud. Subtitled “Private Vices, Public Benefits,” for 10 points, identify this philosophical poem, a meditation on self-interest whose final section notes “Fools only strive / To make a great and honest hive,” and the most famous work of Bernard de Mandeville.
+
+----
+num: 7
+category: Fine Arts
+difficulty: Open
+fixed: 1
+seen: 36
+answer: Richard {Avedon}
+
+One work by this artist depicts a woman in a flowery shirt holding hands with a bare-chested man; in that work by this artist, both Rusty McCrickard and Tracey Featherston are wearing pins that read “General Admission.” This artist also depicted a man wearing the head of a slaughtered cow and a nearly-hairless Ronald Fischer covered with bees in his collection titled In the American West, and this artist was famous for using the British teenager Twiggy as a model. In 1967, this artist produced a notable series of psychedelic portraits of The Beatles, while his other major works include a portrait of a distraught-looking Marilyn Monroe. One of this artist’s most iconic works depicts a woman in a black dress and white sash with her arm on the trunk of one of the title pachyderms, and is typically known as “Dovima with elephants.” Most notable for his work in fashion, particularly for Harper’s Bazaar and Vogue, for 10 points, identify this American photographer.
+
+----
+num: 8
+category: History
+difficulty: Open
+fixed: 1
+seen: 45
+answer: {Works Progress Administration} [before “{Hopkins}”, prompt on any answer that {gives} the individual branches, e.g. “{Federal Writer’s Project},” “{Federal Theater Project},” etc.]
+
+The existence of this organization was notably opposed by Clifton Woodrum, and a failed amendment proposed by James Byrnes sought to correct what Byrnes saw as the regional unevenness of this organization’s financial impact. Funds distributed by this organization were used as leverage by Secretary of War George Dern in an argument with House Military Affairs Committee chair John McSwain. One branch of this organization was led by Hallie Flanagan, under whose leadership that branch undertook news reenactments called the “Living Newspaper,” series, while another branch of this organization was responsible for producing the American Guide Series. Led, like its predecessor the FERA, by Harry Hopkins, this agency oversaw such programs as the Federal Theater Project and the Writers’ Project. Lasting from its 1935 creation via the Emergency Relief Appropriations act until 1943, for 10 points, identify this massive relief and public works program championed by Roosevelt.
+
+----
+num: 9
+category: Mythology
+difficulty: Open
+fixed: 1
+seen: 116
+answer: {Aesir-Vanir war} [accept obvious equivalents that mention {both parties} ]
+
+George Dumezil argued, against the thesis of Bernhard Salin, that this event was not based on any historical fact by pointing out that most accounts of it did not localize its participants, and that the exchange which followed it was extremely unlikely. According to one account, one participant in this event was known as “Heid,” or “bright one,” and was said to be “the favorite of wicked women,” while another account of this event holds that its conclusion marked the birth of poetry. According to Snorri’s Ynglingsaga, one group of participants in this event lived by the river Tanakvisl, and this event began with the attempt to burn and stab to death a sorceress named Gullveig. The dwarf Kvassir was born as a result of this event, described in stanzas 21-24 of the Voluspa, at the end of which both sides spat into a cauldron to signify a truce. For 10 points, identify this mythological conflict at the end of which one side gained Hoenir as a hostage while sending Njord, Frey, and Freya to Asgard.
+
+----
+num: 10
+category: History
+difficulty: Open
+fixed: 1
+seen: 49
+answer: {Majapahit} kingdom or empire
+
+Notable cultural achievements in this polity include the composition of the epic poem Negaraktragama by its court poet Prapanca. The Pararaton, or “Book of Kings,” is a 16th-century chronicle of the rulers of this polity, which installed Kresna Kapakisan as king after conquering a neighboring kingdom. This kingdom’s final downfall came at the hands of Sultan Trenggana of Demak, who captured this empire’s namesake capital in 1527. The height of this kingdom came under the rule of Hayam Wuruk, who was advised by the minister Gajah Mada. This polity was founded when a prince of the Singhasari kingdom employed Mongol help in ousting the king Jayakatwang in 1292. Founded by Vijaya and controlling Tanjungpura, Madura, Malayu, and Bali, for 10 points, identify this last Hindu kingdom of Indonesia which was based in eastern Java.
+
+----
+num: 11
+category: Science
+difficulty: Open
+fixed: None
+seen: 57
+answer: {matrix}-{assisted} laser {desorption/ionization} [accept {MALDI}-{mass spec}; accept {MALDI}-{time} of {flight} is acceptable]
+
+The “lucky survivors” model of this process was described by one of its original developers and aims to explain the observation fast metastable fragmentation as an outcome of partial neutralization. Knoechnmuss and colleagues have studied the roles of secondary reactions within the plume on the final spectra yielded by this technique. The laser pulse used in this technique is usually in the ultraviolet range, where DHB, sialic acid, and other reagents used to embed the analyte in this process can strongly absorb. Developed roughly simultaneously by Tanaka and by Karas and Hillenkamp, this technique yields mainly singly charged ions with minimal fragmentation, unlike a similar soft ionization technique, electrospray ionization. Like ESI, it is typically coupled to a time-of-flight mass analyzer for analysis of protein size. For 10 points, name this ion generation technique often used to analyze protein molecular weight, in which the analyte is embedded in a organic acid matrix.
+
+----
+num: 12
+category: Philosophy
+difficulty: Open
+fixed: None
+seen: 42
+answer: Percy {Wyndham Lewis}
+
+In one essay, this writer ridiculed Edmund Wilson and Max Eastman for the “Marxist faith,” which holds that “art without politics is nonsense.” In addition to “‘Detachment’ and the Fictionist,” this writer called Communism “the great modern religion of the Not-Self” in a long essay that gives its title to a volume of his work, “Creatures of Habit and Creatures of Change.” This writer’s art criticism is contained in his volume Men Without Art, and he advocated for an authoritarian government of intellectuals in his The Art of Being Ruled. The subject of a 1954 “critical guidebook” by Hugh Kenner, this writer repudiated his erstwhile support for Fascism in the books The Hitler Cult and the satirically titled The Jews, Are They Human? As an author, this man wrote of Percy Hardcaster’s gradual loss of belief in Communism after fighting in the Spanish Civil War. In another of his novels, the albino Horace Zagreus takes on Dan Boleyn as a protégé; that work takes its title from a derogatory moniker applied to artists. A one-time editor of Blast, for 10 points, identify this British essayist, painter, and author of The Revenge for Love and The Apes of God.
+
+----
+num: 13
+category: Fine Arts
+difficulty: Open
+fixed: 1
+seen: 39
+answer: The {Tempest}
+
+In 2003, Paul Moravec composed a fantasy based on this work for the Trio Solisti. Meredith Oakes adapted this work into a libretto in short rhyming couplets for a 2004 Thomas Ades opera based on it. Jean Sibelius wrote the movements “The Oak Tree” and “Dance of the Naiads” for his opus 109 incidental music to this work, which was the second-to-last piece he composed. Vladimir Stasov provided the outline for Tchaikovsky’s opus 18 symphonic fantasy based on this play. According to Anton Schindler, Beethoven claimed that this play was the key to his seventeenth piano sonata. Arthur Sullivan’s incidental music to it includes the songs “While you do here snoring lie” and “Full fathom five thy father lies,” which are respectively sung to Gonzalo and Ferdinand. For 10 points, name this Shakespeare play whose main songs are sung by Ariel, the magical servant of Prospero.
+
+----
+num: 14
+category: Social Science
+difficulty: Open
+fixed: 1
+seen: 38
+answer: {auctions}
+
+In 1999, Perry and Reny showed than when multiple units are considered for these entities, a result established in 1982 by Milgrom and Weber was not necessarily true. Their “linking” principle demonstrates that under incomplete information and affiliated signals, a result regarding these entities that was verified by Riley and Samuelson no longer holds. A result of an equivalence theorem for these entities shows that the expected revenue is the same for the first-price and second-price versions when private values are independently and identically distributed. Examples of open ones include the Dutch type, which differs from the more common English type of these entities by constantly lowering its price. The phenomenon by which the winner of these entities tends to overpay is known as the winner’s curse. For 10 points, name this allocation mechanism in which goods are exchanged through bids.
+
+----
+num: 15
+category: Trash
+difficulty: Open
+fixed: 1
+seen: 247
+answer: the {9/11 terrorist attacks} [accept {clear-knowledge} equivalents]
+
+Guests at a dinner party discuss the implications of this event in the play Omnium Gatherum. In the final story in Patrick McGrath’s Ghost Town, the prostitute Kim Lee sees visions of a victim of this event. In a novel about this event, the protagonist’s son Justin constantly hides behind a window and looks out for the arrival of “Bill Lawton.” The protagonist of that novel, Keith Neudecker, becomes a professional poker player and has an affair with Florence after being traumatized by this event. Claire Messud’s novel The Emperor’s Children is set in the months leading up to this event, which is the subject of Don DeLillo’s essay “In the Ruins of the Future.” After this event took place, Graydon Carter claimed that it portended the end of irony. For 10 points, name this event depicted at the end of DeLillo’s novel Falling Man, in which a group of terrorists led by Mohamed Atta crashed planes into the World Trade Center.
+
+----
+num: 16
+category: Science
+difficulty: Open
+fixed: None
+seen: 57
+answer: {retinoic acid} or {RA} [do not accept “{vitamin} A”; do not accept “{retinol}”; do not accept “{retinal}”; do not accept “{retinaldehyde}”]
+
+This molecule promotes gut homing in T-cells when it is secreted by intestinal dendritic cells. Hogan and Chen discovered that this molecule was synthesized in Hensen’s node, and along with Sonic hedgehog, this molecule regulates Lefty-1 expression to control the left-right axis in limb development. This molecule’s deposition along the anterior-posterior axis is established in part by Cyp26, which degrades it. The most successful example of “differentiation therapy” is the treatment of acute progranulocytic leukemia with the all-trans type of this molecule. Enhancer elements that bind to this irreversibly oxidized molecule’s receptor include several repeats of the sequence GGTCA and are found upstream of the 3-prime HOX genes, explaining this molecule’s caudalizing effects. Defects in formation of the first and second pharyngeal arches were observed in fetal mammals exposed to its 13-cis derivative, the acne treatment Accutane. For 10 points, name this active metabolite of vitamin A.
+
+----
+num: 17
+category: History
+difficulty: Open
+fixed: 1
+seen: 47
+answer: {Urban VIII} [accept {Maffeo Barbarini} before the end]
+
+This man intiated the War of Castro against Odoardo Farnese of Parma, which ended in his defeat when French forces intervened on Odoardo’s side. This man’s goal of establishing effective independence of the polity he ruled led him to fortify the harbor at Civitavecchia and to construct a namesake fort as Castelfranco. By reversing a decree of Gregory XIII, this pontiff opened China and Japan to proselytization by missionaries, for whose training he founded a namesake college, and his papal bull In eminenti was a condemnation of Jansenism. Unlike his successor Innocent X, this pope followed a relatively pro-French policy which was concerned with maintaining neutrality during the Thirty Years’ War. The successor to Gregory XV, this pope initiated the construction of the villa at Castel Gondolfo and was the foremost patron of Gian Lorenzo Bernini. For 10 points, identify this pope from 1623 to 1644 who was born Maffeo Barbarini.
+
+----
+num: 18
+category: Literature
+difficulty: Open
+fixed: 1
+seen: 34
+answer: “ {Tlön} , {Uqbar} , {Orbis Tertius} ”
+
+A footnote in this story mentions a church which maintains the Platonic belief that “All men who repeat a line from Shakespeare are William Shakespeare.” This story describes a language which expresses “the moon rose behind the river” with the sentence “upward behind the onstreaming it mooned,” as well as a society scandalized by a paradox involving the existence of nine lost copper coins. Its narrator learns about those customs from a book sent to Herbert Ashe, and discovers that society thanks to “the conjunction of a mirror and an encyclopedia.” It ends pessimistically with the narrator describing hronir leaking into the real world, and warning reality will become dominated by a world invented to run on the abstract principles of Berkeleian idealism. For 10 points, name this short story by Jorge Luis Borges about the title conspiracy of thinkers, who imagine the title country in order to create the title world.
+
+----
+num: 19
+category: Social Science
+difficulty: Open
+fixed: 1
+seen: 35
+answer: {kafir} [prompt on {infidel} or synonyms]
+
+According to the Murji’ah sect, this status could not be conferred by any human judgment as only God could bestow it during the Day of Resurrection. In the Mu’tazili school, these individuals, along with the mu’min and the fasiq, are the subject of the third thesis which concerns “the names and the statutes,” that are used to determine their fate. According to the Karijites, because Uthman and Ali had practiced nepotism and submitted his claim to rule to human arbitration, respectively, those two had this status, and Rumi claimed that those who die without knowing the qutb, or the most perfect man of their lifetime, would have this status. Those who practice shirk, or the association of a person with divinity, are guilty of having this status according to the Medina surahs, and in its most mild meaning, this term is applied to both Christians and Jews. For 10 points, identify this term from Islamic theology which is generally applied to non-Muslims and translates as “unbeliever.”
+
+----
+num: 20
+category: Social Science
+difficulty: Open
+fixed: 57
+seen: 94
+answer: {stock exchange} [accept any {logical} equivalent like {stock market}; accept {bourse} before “[{Amsterdam}] {Beurs}”]
+
+One of these organizations was formed in France on September 24, 1724 by order of the Royal Council of State, while another was formed in Brussels at the Saint Augustine Convent by the decree of July 2, 1801 of the Napoleonic government. Yet another of these organizations was formed by members of a royal institution who had been expelled for rowdiness and who congregated in Jonathan’s Coffee House before getting their own building in Sweeting’s Alley. That institution later relocated from Threadneedle Street to a new building at Capel Court, where it opened in 1802 with 500 subscribers who had paid fees totalling about 20,000 pounds. Perhaps the first real institution of this kind arose with the formation in 1602 of the Dutch East India company, which led to the trading of stake in the company at the Amsterdam Beurs. For 10 points, identify these types of institutions that exist for trading financial assets, notable examples of which include the London and New York ones.
+
+----
+num: 20
+category: Social Science
+difficulty: Open
+fixed: 57
+seen: 118
+answer: {stock exchange} [accept any {logical} equivalent like {stock market}; accept {bourse} before “[{Amsterdam}] {Beurs}”]
+
+One of these organizations was formed in France on September 24, 1724 by order of the Royal Council of State, while another was formed in Brussels at the Saint Augustine Convent by the decree of July 2, 1801 of the Napoleonic government. Yet another of these organizations was formed by members of a royal institution who had been expelled for rowdiness and who congregated in Jonathan’s Coffee House before getting their own building in Sweeting’s Alley. That institution later relocated from Threadneedle Street to a new building at Capel Court, where it opened in 1802 with 500 subscribers who had paid fees totalling about 20,000 pounds. Perhaps the first real institution of this kind arose with the formation in 1602 of the Dutch East India company, which led to the trading of stake in the company at the Amsterdam Beurs. For 10 points, identify these types of institutions that exist for trading financial assets, notable examples of which include the London and New York ones.

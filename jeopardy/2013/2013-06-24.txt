@@ -1,0 +1,384 @@
+####
+tournament: #6636
+round: Show #6636 - Monday, June 24, 2013
+year: 2013
+date: 2013-06-24
+####
+
+num: 1
+category: Geography
+difficulty: 200
+seen: 8
+answer: Texas
+
+Going Republican in each presidential race since 1980, it's the second-largest state in both area & population.
+
+----
+num: 2
+category: Literature
+difficulty: 200
+seen: 4
+answer: Adam
+
+"I didn't know him from" this name (except for you, of course, Mr. Sandler).
+
+----
+num: 3
+category: Trash
+difficulty: 200
+seen: 6
+answer: David Letterman
+
+"Stupid pet tricks".
+
+----
+num: 4
+category: Literature
+difficulty: 200
+seen: 4
+answer: caulking
+
+word for a way to save energy and money.
+
+----
+num: 5
+category: Science
+difficulty: 200
+seen: 8
+answer: Helium
+
+Because it is less dense than air, when we breathe this 2nd-lightest element, it comes out faster & at a higher frequency.
+
+----
+num: 6
+category: Geography
+difficulty: 400
+seen: 9
+answer: North Carolina
+
+Blackbeard was killed at Ocracoke island in this state's Outer Banks.
+
+----
+num: 7
+category: Literature
+difficulty: 400
+seen: 3
+answer: a bobby pin
+
+A flat, springlike metal hairpin.
+
+----
+num: 8
+category: Trash
+difficulty: 400
+seen: 5
+answer: Conan O\'Brien
+
+"Triumph the insult comic dog goes to the presidential debate".
+
+----
+num: 9
+category: Literature
+difficulty: 400
+seen: 4
+answer: vinegar (or salt)
+
+To clean red wine out of a carpet, sprinkle on this common condiment for 15 minutes, then rinse with soap.
+
+----
+num: 10
+category: Science
+difficulty: 400
+seen: 6
+answer: carbon
+
+Vital for life, it forms more compounds than all the other elements combined.
+
+----
+num: 11
+category: Geography
+difficulty: 600
+seen: 8
+answer: Indiana
+
+Fort Wayne is the seat of Allen County in this state.
+
+----
+num: 12
+category: Literature
+difficulty: 600
+seen: 4
+answer: Tom, Dick & Harry
+
+Meaning people in general, the phrase with these 3 male names dates back to the 1700s.
+
+----
+num: 13
+category: Literature
+difficulty: 600
+seen: 4
+answer: solder
+
+Fix your stained-glass problems using.
+
+----
+num: 14
+category: Science
+difficulty: 600
+seen: 6
+answer: iodine
+
+In solution, this element that can be extracted from seaweed is used as an antiseptic on cuts & scratches.
+
+----
+num: 15
+category: Geography
+difficulty: 800
+seen: 8
+answer: West Virginia
+
+Some of its larger cities, including Huntington & Wheeling, are on the Ohio River.
+
+----
+num: 16
+category: Literature
+difficulty: 800
+fixed: -1
+seen: 4
+answer: Charley
+
+This name is found in a painful leg muscle cramp.
+
+----
+num: 17
+category: Trash
+difficulty: 800
+seen: 5
+answer: Jimmy Fallon
+
+"History of Rap" with Justin Timberlake.
+
+----
+num: 18
+category: Literature
+difficulty: 800
+seen: 4
+answer: a hammer
+
+If you're working with wood that doesn't need a finished look, you can use the waffle-head type of this.
+
+----
+num: 19
+category: Geography
+difficulty: 1000
+seen: 8
+answer: Kansas & Nebraska
+
+The 1854 act named for these 2 states allowed slavery north of 36º 30' latitude.
+
+----
+num: 20
+category: Literature
+difficulty: 1000
+seen: 3
+answer: Nervous Nellies
+
+Lyndon Johnson called some folks uncomfortable with his Vietnam policy these nervous types.
+
+----
+num: 21
+category: Trash
+difficulty: 1000
+seen: 5
+answer: Jimmy Kimmel
+
+"YouTube challenge: I told my kids I ate all their Halloween candy".
+
+----
+num: 22
+category: Literature
+difficulty: 1000
+seen: 4
+answer: a keyhole saw
+
+To cut a hole in drywall.
+
+----
+num: 23
+category: Science
+difficulty: 1000
+seen: 7
+answer: radium
+
+Its 35 known isotopes are all radioactive.
+
+----
+num: 24
+category: Science
+difficulty: 400
+seen: 6
+answer: depression
+
+An ad says this sad state "hurts. Cymbalta can help".
+
+----
+num: 25
+category: History
+difficulty: 400
+seen: 4
+answer: the Stuarts
+
+The wars pitted Scots & Irish as well as English against Charles I & this royal house.
+
+----
+num: 26
+category: Literature
+difficulty: 400
+seen: 3
+answer: Juliet
+
+This Shakespeare title character is only 13 years old.
+
+----
+num: 27
+category: History
+difficulty: 400
+seen: 4
+answer: Sunni
+
+Egypt (a branch of Islam).
+
+----
+num: 28
+category: Literature
+difficulty: 400
+seen: 4
+answer: a turnstile
+
+This device usually has several arms projecting from a post to control the passage of people from one area to another.
+
+----
+num: 29
+category: History
+difficulty: 800
+seen: 4
+answer: Parliament
+
+Executing the king was authorized in 1649 by the legislative body called the "Long" this, which had sat since 1640.
+
+----
+num: 30
+category: Literature
+difficulty: 800
+seen: 4
+answer: Psalms
+
+This book of poetry & wisdom has 150 chapters, the most in the Bible.
+
+----
+num: 31
+category: Literature
+difficulty: 800
+seen: 4
+answer: turf
+
+Sod, or a street gang's territory.
+
+----
+num: 32
+category: Science
+difficulty: 1200
+seen: 5
+answer: melancholy
+
+In ancient physiology, the 4 humors were blood, phlegm, choler & this, aka black bile.
+
+----
+num: 33
+category: History
+difficulty: 1200
+seen: 4
+answer: (Oliver) Cromwell
+
+After 9 years, the wars ended with victory at Worcester by this future Lord Protector.
+
+----
+num: 34
+category: Literature
+difficulty: 1200
+seen: 4
+answer: James Frey
+
+This author was publicly chastised by Oprah after "A Million Little Pieces" just didn't add up.
+
+----
+num: 35
+category: Literature
+difficulty: 1200
+seen: 3
+answer: a tureen
+
+From the French for "earthen", it's a covered, broad & deep dish used to serve soups or stews.
+
+----
+num: 36
+category: Science
+difficulty: 1600
+seen: 5
+answer: seasonal affective disorder
+
+Light therapy can help with SAD, this disorder first described by psychiatrist Norman Rosenthal.
+
+----
+num: 37
+category: History
+difficulty: 1600
+seen: 4
+answer: lots
+
+Captured royalist leader Rowland Laugharne was spared execution by the drawing of these--bad luck, John Poyer.
+
+----
+num: 38
+category: Literature
+difficulty: 1600
+seen: 5
+answer: (Jules) Verne
+
+Prof. Aronnax explains that at 32,000' deep, you'll be squashed by 17.6 million kilos of pressure in a novel by this man.
+
+----
+num: 39
+category: Literature
+difficulty: 1600
+seen: 5
+answer: turpitude
+
+Synonym for depravity; it's often preceded by the word "moral".
+
+----
+num: 40
+category: History
+difficulty: 2000
+seen: 6
+answer: the Roundheads
+
+The royalist cavaliers, with flowing locks, battled these forces named for their close-cropped hair.
+
+----
+num: 41
+category: Literature
+difficulty: 2000
+seen: 6
+answer: (John) Locke
+
+This Englishman's "Two Treatises of Government" held the key to the writing of the Declaration of Independence.
+
+----
+num: 42
+category: Literature
+difficulty: 2000
+seen: 6
+answer: turmeric
+
+In chemistry, white paper soaked in tincture of this cooking herb is used to detect the presence of alkalis.

@@ -1,0 +1,134 @@
+####
+tournament: HSAPQ VHSL Regular Season
+round: 02.pdf
+year: 2011
+####
+
+num: 2
+category: Science
+difficulty: HS
+fixed: 57
+seen: 483
+answer: {acids}
+
+A constant named for these substances appears in the Henderson-Hasselbalch (HOSS-el-bock) equation. That constant, their namesake "dissociation constant," measures their strength in solution. Lewis defined them as electron pair acceptors, while Bronsted and Lowry defined them as proton donors, contrasting them with proton receivers, or bases. For 10 points, name these substances which have a pH of less than seven.
+
+----
+num: 6
+category: Science
+difficulty: HS
+fixed: 57
+seen: 486
+answer: {springs} [prompt on {simple harmonic oscillators}]
+
+Like capacitors, when these objects are placed in parallel, their effective namesake constant becomes equal to the addition of the two individual values of those constants. The angular frequency of a weight connected to one of these objects is given by taking the square root of that constant over the mass. That constant for these objects also shows up in a law that relates the displacement of an object to the restoring force. For 10 points, Hooke's Law problems are often given in the context of a mass on one of what elastic objects?
+
+----
+num: 9
+category: History
+difficulty: HS
+fixed: 57
+seen: 417
+answer: Hugo Rafael {Chavez} Frias
+
+This man led a failed coup against former President Carlos Perez in his early career. In 2005, he criminalized libel against government officials; in 2009, he had his country’s constitution amended to eliminate term limits. In 2005, he announced a program to provide cheap heating fuel to poor U.S. citizens. In a 2006 speech at the United Nations, he referred to the President Bush as the devil. For 10 points, name this president of Venezuela.
+
+----
+num: 10
+category: Trash
+difficulty: HS
+fixed: 1
+seen: 1028
+answer: Gene {Simmons}
+
+Born in Isreal, his Hebrew name is Chiam Witz. He immigrated to Jackson Heights in Queens, New York at the age of eight and took the name of a "jumpin'" rockabilly musician as his stage name. He helped found the band Wicked Lester in the early seventies before donning black and white Kabuki-style makeup and playing bass for one of the most popular bands of that decade. For 10 points, name this fire-breathing performer, the bassist for the rock group KISS and the patriarch on his own "Family Jewels" reality series?
+
+----
+num: 11
+category: Social Science
+difficulty: HS
+fixed: 1
+seen: 380
+answer: {unemployment} rate
+
+According to many economists, a factor in controlling inflation is avoiding attempts to drop this other quantity below its "natural" level. Its types include "frictional," "cyclical," and "structural." The Phillips Curve posits an inverse correlation between this quantity and inflation, which was discredited by the "stagflation" phenomenon of the 1970s. As of August 2010, it stood at 9.5 percent in the U.S. For 10 points, give this term for the percentage of adults who are able and willing to work but do not have jobs.
+
+----
+num: 13
+category: History
+difficulty: HS
+fixed: 1
+seen: 551
+answer: Joe {Biden}
+
+This man presided over Robert Bork’s confirmation hearing as chairman of the Senate Judiciary Committee, a post he held from 1987 to 1995. He currently serves as the head of the Middle Class Working Families Task Force. In 2008, this man erroneously claimed that FDR appeared on television at the outset of the Great Depression. For 10 points, name this former Delaware senator and current Vice President.
+
+----
+num: 20
+category: Literature
+difficulty: HS
+fixed: 1
+seen: 445
+answer: {sonnets}
+
+George Meredith’s bitter collection Modern Love is composed of works in a modified form of this style. Edmund Spenser’s Amoretti is composed of eighty-nine of these, and Elizabeth Barrett Browning wrote a collection of them “from the Portuguese.” Works in the English variety of this form can be divided into three quatrains and a couplet, and the Petrarchan type is divided into an octave and a sestet. For 10 points, name these fourteen-line poems.
+
+----
+num: 21
+category: Science
+difficulty: HS
+fixed: 1
+seen: 607
+answer: {Archimedes} of Syracuse
+
+Apocryphally, this man’s gravestone featured a cylinder that was two-thirds the volume of the sphere in which it was inscribed; that relation was something this man had proven. His namesake claw may have been used in war, but it is unlikely that his heat ray ever existed. Also the inventor of a screw for transporting water, this man determined what metal a crown was made of by applying the buoyancy principle in his bathtub to determine the crown’s density. For 10 points, name this ancient Greek who ran around naked shouting “Eureka!” after that discovery.
+
+----
+num: 25
+category: Fine Arts
+difficulty: HS
+fixed: 1
+seen: 491
+answer: Salvador Felipe Jacinto {Dalí} y Domenech
+
+This artist created a painting in which swans on a pond have reflections that look like elephants. This artist symbolically depicted the horrors of the Spanish Civil War in his painting Soft Construction with Boiled Beans, and collaborated with Luis Buñuel on the film Un Chien andalou. In another of his paintings, ants cover one of several melting clocks. For 10 points, name this Spanish surrealist painter of The Persistence of Memory.
+
+----
+num: 28
+category: Literature
+difficulty: HS
+fixed: 1
+seen: 442
+answer: Emile {Zola}
+
+This author wrote about a violence-obsessed train driver named Jacques Lantier in the novel The Human Beast. That novel is part of a twenty-novel cycle detailing the life of the Rougon-Macquart family, which also includes the novels Nana and Germinal. He also wrote an open letter accusing the French government of anti-Semitism for imprisoning Alfred Dreyfus. For 10 points, name this French naturalist author of "J'accuse."
+
+----
+num: 29
+category: Literature
+difficulty: HS
+fixed: 1
+seen: 433
+answer: William Butler {Yeats}
+
+This author of the mystical A Vision wrote about “the foul rag and bone shop of the heart” in his late poem “The Circus Animals’ Desertion” and lamented that “a terrible beauty is born” in a poem about the failed Easter Rising, “Easter, 1916.” He also wrote a poem involving a “rough beast / Slouching toward Bethlehem to be born” and one which states “This is no country for old men.” For 10 points, name this Irish poet of “The Second Coming” and “Sailing To Byzantium.”
+
+----
+num: 30
+category: History
+difficulty: HS
+fixed: 1
+seen: 415
+answer: {Charlemagne} [or Charles I; or Charles the {Great}; or Charles le {Grand}; or Karl {der Grosse}
+
+This ruler set up a system of authority and law in his namesake Capitulary. A biography of this ruler was written by Einhard. This ruler originally split lands with his brother Carloman after the death of his father, Pepin the Short. This man was unexpectedly crowned while kneeling to pray in St. Peter's Basilica on Christmas by Pope Leo III, becoming by that action "Emperor of the Romans" in the year 800. For 10 points, name this grandson of Charles Martel and Carolingian ruler who greatly expanded the Frankish empire.
+
+----
+num: 34
+category: Science
+difficulty: HS
+fixed: 1
+seen: 488
+answer: {surface tension}
+
+This property stays constant after the CMC, or critical micelle concentration, is reached, which comes after a certain amount of surfactants have been added to a solution. Laplace's Law describes why this property is responsible for the nearly spherical form taken on by bubbles and drops of water. This property occurs due to certain molecules of a liquid not being surrounded by attractive charges, leading to stronger cohesion for those molecules. For 10 points, name this property of liquids that is responsible for the ability of water striders to move atop water.

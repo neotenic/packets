@@ -1,0 +1,74 @@
+####
+tournament: HSAPQ VHSL Regular Season
+round: 01.pdf
+year: 2011
+####
+
+num: 21
+category: Science
+difficulty: HS
+fixed: -1
+seen: 490
+answer: speed of {light} [or {c}]
+
+This parameter is the only parameter in the Lorentz factor. Cerenkov ("CHAIR"-en-kov) radiation is produced by objects exceeding this parameter. This parameter is equal to one over the square root of the product of the permittivity of free space and permeability of free space. It is squared and multiplied by mass in an equation for rest energy developed by Einstein. For 10 points, name this theoretical limit on the speed of an object, which in a vacuum is equal to three times ten to the eighth meters per second.
+
+----
+num: 22
+category: Science
+difficulty: HS
+fixed: 57
+seen: 483
+answer: trees
+
+Each part of these objects is examined once in a process called traversal. A specific type of these objects is modified by the DSW Algorithm. Exemplified by scapegoat and red-black types, these objects, when not completely sorted, are heaps. In the binary search type of these objects, the left side has nodes with keys that are less than the keys on the right. For 10 points, name these data structures from computer science that consist of root and leaf nodes.
+
+----
+num: 23
+category: Literature
+difficulty: HS
+fixed: 57
+seen: 440
+answer: The {Awakening}
+
+Some women in this novel snack on a husband’s gift of bonbons and observe a bilingual parrot. The protagonist of this novel attends the races with Mrs. Highcamp and is moved to tears by Madame Reisz’s performance of a Chopin impromptu. Adèle Ratignolle’s fidelity contrasts with this novel’s protagonist, who cuckolds Léonce by carrying on an affair with Alcée. This book ends when the protagonist is rejected by her true love, Robert Lebrun, and drowns herself. For 10 points, name this novel about Edna Pontellier’s arousal, a work of Kate Chopin.
+
+----
+num: 29
+category: Fine Arts
+difficulty: HS
+fixed: 57
+seen: 499
+answer: {skyscrapers}
+
+Reverend Samuel Cadman dubbed one of these works the “Cathedral of Commerce;” Cass Gilbert created that one for Frank L. Woolworth. The father of these works coined the phrase “Form follows function.” Dankmar Adler designed one of these for Elias Wainwright along with the father of these buildings, Louis Sullivan. For 10 points, name these extremely tall buildings that dominate urban skylines.
+
+----
+num: 30
+category: Literature
+difficulty: HS
+fixed: 1
+seen: 441
+answer: Franz {Kafka}
+
+One of this man’s short stories centers on an apparatus that inscribes men’s bodies with the law they are accused of breaking. This author of “In the Penal Colony” wrote a novel containing the “Parable of the Man Before the Law”; in that novel, Joseph K. is executed despite committing no crime. One of this author’s characters dies from an apple lodged in his back; that character, Gregor Samsa, discovers his transformation into a disgusting insect. For 10 points, name this Czech author of The Trial and “The Metamorphosis.”
+
+----
+num: 32
+category: Literature
+difficulty: HS
+fixed: 1
+seen: 443
+answer: {morality} play
+
+The Castle of Perseverance is one of the earliest examples of this genre, which also includes a play that ends with the title character receiving the sacraments and is accompanied by Good Deeds, but not Beauty or Strength, into the afterlife. Often associated with miracle or mystery plays, this genre is exemplified by the 15th century play Everyman. For 10 points, name this medieval genre of theatre which uses personifications of sins and virtues to convey strong messages to its audience.
+
+----
+num: 33
+category: History
+difficulty: HS
+fixed: 57
+seen: 423
+answer: {Afghanistan}
+
+Salvatore Giunta will soon receive the medal of honor for actions in this country. Operation Mushtarak was recently launched in this country. An issue of Rolling Stone brought about the downfall of Stanley McChrystal’s command in this country, resulting in his replacement by David Petraeus. US operations in this country began with Operation Enduring Freedom. For 10 points, name this country currently led by Hamid Karzai.

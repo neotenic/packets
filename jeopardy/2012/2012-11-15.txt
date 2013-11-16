@@ -1,0 +1,456 @@
+####
+tournament: #6479
+round: Show #6479 - Thursday, November 15, 2012
+year: 2012
+date: 2012-11-15
+####
+
+num: 1
+category: Literature
+difficulty: 200
+seen: 4
+answer: read
+
+DEAR stands for "Drop Everything And" do this; you can even use your Kindle.
+
+----
+num: 2
+category: Literature
+difficulty: 200
+seen: 5
+answer: a stone\'s throw
+
+The length a rock can be hurled, in common practice this phrase is used to mean nearby or a short distance.
+
+----
+num: 3
+category: Literature
+difficulty: 200
+seen: 4
+answer: Aye
+
+Opposite of nay (3).
+
+----
+num: 4
+category: History
+difficulty: 200
+seen: 6
+answer: Martin Luther King, Jr.
+
+He became president of the Southern Christian Leadership Conference in 1957.
+
+----
+num: 5
+category: Trash
+difficulty: 200
+seen: 6
+answer: guard
+
+Basketball's Steve Nash, football's Larry Little.
+
+----
+num: 6
+category: Literature
+difficulty: 400
+seen: 4
+answer: privacy
+
+It's the "P" in FERPA, which makes schools get student or parent permission to release records.
+
+----
+num: 7
+category: History
+difficulty: 400
+seen: 4
+answer: Calcutta
+
+In 1756 this city's "black hole" made news.
+
+----
+num: 8
+category: Literature
+difficulty: 400
+seen: 3
+answer: lump
+
+When you're choked up emotionally, this irregular-shaped mass in the throat is the culprit.
+
+----
+num: 9
+category: Literature
+difficulty: 400
+seen: 3
+answer: autobiography
+
+The story of me, by me (13).
+
+----
+num: 10
+category: History
+difficulty: 400
+seen: 4
+answer: Ken Griffey, Jr.
+
+The son of a veteran outfielder, he hit 630 major league home runs.
+
+----
+num: 11
+category: Trash
+difficulty: 400
+seen: 5
+answer: forward
+
+Hockey's Bobby Hull, basketball's Dennis Rodman.
+
+----
+num: 12
+category: Literature
+difficulty: 600
+seen: 4
+answer: ACT
+
+36 is a perfect score on the college entrance exam known by these 3 letters, kind of the opposite of "SAT".
+
+----
+num: 13
+category: History
+difficulty: 600
+seen: 5
+answer: Martin Luther
+
+This reformer is depicted.
+
+----
+num: 14
+category: Literature
+difficulty: 600
+seen: 4
+answer: (one) scoop
+
+According to ads, there's 1 of these of raisins in half a package of Kellogg's Raisin Bran.
+
+----
+num: 15
+category: Literature
+difficulty: 600
+seen: 5
+answer: anniversary
+
+Bicentennial or jubilee (11).
+
+----
+num: 16
+category: History
+difficulty: 600
+seen: 4
+answer: tanks
+
+Future WWII general George S. Patton Jr. became an early expert in these weapons during WWI.
+
+----
+num: 17
+category: Trash
+difficulty: 600
+seen: 5
+answer: goalie
+
+Hockey's Patrick Roy, Soccer's Hope Solo.
+
+----
+num: 18
+category: Literature
+difficulty: 800
+seen: 4
+answer: pathologist
+
+Students having trouble with articulation may go to an SLP, a speech language this.
+
+----
+num: 19
+category: Literature
+difficulty: 800
+seen: 4
+answer: stretch
+
+It's the "elastic" word for a period of imprisonment.
+
+----
+num: 20
+category: Literature
+difficulty: 800
+seen: 4
+answer: Aspen
+
+Colorado ski resort (5).
+
+----
+num: 21
+category: History
+difficulty: 800
+seen: 4
+answer: (Linda) Brown
+
+Charles Black Jr. helped write the brief for this 10-year-old girl challenging segregation in Topeka.
+
+----
+num: 22
+category: Trash
+difficulty: 800
+seen: 5
+answer: closer
+
+Baseball's Mariano Rivera, TV's Kyra Sedgwick (by the show's title).
+
+----
+num: 23
+category: Literature
+difficulty: 1000
+seen: 4
+answer: Elementary & Secondary Education Act
+
+ESEA, short for this act, dates from the 60's & morphed into No Child Left Behind.
+
+----
+num: 24
+category: History
+difficulty: 1000
+seen: 4
+answer: the Whig Party
+
+Party formed to oppose "King Andrew" Jackson.
+
+----
+num: 25
+category: Literature
+difficulty: 1000
+seen: 3
+answer: bundle
+
+Several items packaged together, such as software that comes with the purchase of a computer.
+
+----
+num: 26
+category: Literature
+difficulty: 1000
+seen: 3
+answer: aviary
+
+This place is for the birds (6).
+
+----
+num: 27
+category: History
+difficulty: 1000
+seen: 4
+answer: William F. Buckley, Jr.
+
+This conservative columnist put his ideas on the "Firing Line".
+
+----
+num: 28
+category: Trash
+difficulty: 1000
+seen: 5
+answer: manager
+
+Baseball's Ozzie Guillen, Dunder Mifflin boss Andy Bernard on "The Office".
+
+----
+num: 29
+category: Geography
+difficulty: 400
+seen: 7
+answer: Venezuela
+
+At the north end of South America, this country borders Colombia, Guyana & Brazil.
+
+----
+num: 30
+category: Literature
+difficulty: 400
+seen: 3
+answer: "Born To Run"
+
+Springsteen: "'cause tramps like us, baby we were...".
+
+----
+num: 31
+category: Literature
+difficulty: 400
+seen: 4
+answer: the press
+
+After some of his writings were suppressed, John Milton argued for freedom of this in "Areopagitica".
+
+----
+num: 32
+category: History
+difficulty: 400
+seen: 4
+answer: realtors
+
+They sell houses.
+
+----
+num: 33
+category: Geography
+difficulty: 800
+seen: 7
+answer: France and Germany
+
+These two countries have the longest international border formed by the Rhine river.
+
+----
+num: 34
+category: Literature
+difficulty: 800
+seen: 4
+answer: "California Girls"
+
+The Beach Boys: "I wish they all could be...".
+
+----
+num: 35
+category: Literature
+difficulty: 800
+seen: 3
+answer: (Jean-Paul) Sartre
+
+Naturally, this French philosopher wrote "Essays in Existentialism" & "Existentialism and Humanism".
+
+----
+num: 36
+category: History
+difficulty: 800
+seen: 4
+answer: reality
+
+A viral video said this "hits you hard, bro".
+
+----
+num: 37
+category: Science
+difficulty: 800
+seen: 5
+answer: reproductive system
+
+Your teenage students might be curious about this system that includes the ductus deferens and the Fallopian tubes.
+
+----
+num: 38
+category: Geography
+difficulty: 1200
+seen: 7
+answer: Gaza
+
+Smuggling tunnels run under Egypt's border with this Hamas-controlled strip.
+
+----
+num: 39
+category: Literature
+difficulty: 1200
+seen: 4
+answer: "Somebody That I Used To Know"
+
+Gotye: "Guess I didn't need that though, now you're just...".
+
+----
+num: 40
+category: History
+difficulty: 1200
+seen: 4
+answer: borealis
+
+The northern hemisphere's aurora.
+
+----
+num: 41
+category: Science
+difficulty: 1200
+seen: 6
+answer: the immune system
+
+The lymphatic system is on the front lines of this system that fights abnormal substances.
+
+----
+num: 42
+category: Geography
+difficulty: 1600
+seen: 8
+answer: South Africa
+
+If you cross any of Lesotho's borders, you can only end up in this other country.
+
+----
+num: 43
+category: Literature
+difficulty: 1600
+seen: 4
+answer: "Manic Monday"
+
+The Bangles: "My I don't have to run day, it's just another...".
+
+----
+num: 44
+category: Literature
+difficulty: 1600
+seen: 4
+answer: Zora Neale Hurston
+
+She's the Zora in Alice Walker's "Looking For Zora".
+
+----
+num: 45
+category: Science
+difficulty: 1600
+seen: 6
+answer: the endocrine system
+
+Composed of 8 glands, this system maintains internal balance by releasing hormones.
+
+----
+num: 46
+category: Geography
+difficulty: 2000
+seen: 15
+answer: Andorra
+
+This wee country has a 40-mile border with Spain.
+
+----
+num: 47
+category: Literature
+difficulty: 2000
+seen: 6
+answer: "Separate Ways"
+
+Journey: "One night will remind you, how we touched & went our...".
+
+----
+num: 48
+category: Literature
+difficulty: 2000
+seen: 6
+answer: the Federalist Papers
+
+All 85 essays in this 1787-88 series appeared over the signature "Publius".
+
+----
+num: 49
+category: History
+difficulty: 2000
+seen: 6
+answer: Realpolitik
+
+Herr Bismarck's doctrine of practical diplomacy.
+
+----
+num: 50
+category: Science
+difficulty: 2000
+fixed: -1
+seen: 8
+answer: skeletal system
+
+In this 8-letter system, some of 270 important parts we have at birth get fused, leaving only 206 in adults.

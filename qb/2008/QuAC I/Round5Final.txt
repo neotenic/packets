@@ -1,0 +1,194 @@
+####
+tournament: QuAC I
+round: Round5Final.doc
+year: 2008
+####
+
+num: 1
+category: History
+difficulty: HS
+fixed: 57
+seen: 415
+answer: {Meiji} Restoration
+
+Brought about in large part due to a rejection of joi, its aftermath brought universal conscription, and one direct result of this event was the creation of the Republic of Ezo. It was instigated by forces loyal to Yoshinobu, the last of his line who voluntarily stepped down in favor of Mutsuhito after the surprise arrival of the Black Ships, Matthew Perry's fleet, in Tokyo harbor. Ushered in with a namesake Constitution in 1890, this is for 10 points, what era in Japanese history that saw the end of the Tokugawa Shogunate and “restoration” of Japan?
+
+----
+num: 2
+category: Fine Arts
+difficulty: HS
+fixed: 1
+seen: 505
+answer: Fountain
+
+Since the original may have been destroyed by William Glackens, a replica of this work has been made by Sidney Janis, and Pierre Pinocelli chipped a version of this work with a hammer while claiming he was trying to rescue it from the institutions of art. Originally submitted to the Society of Independent Artists in 1917, it was deliberately obscured from view at the exhibit, and in 2000, two Chinese performance artists attempted to relieve themselves on a replica of this work. Signed with the pseudonym "R. Mutt" near its bottom, this is, for 10 points, what readymade by Marcel Duchamp which consists of a urinal?
+
+----
+num: 3
+category: Science
+difficulty: HS
+fixed: 57
+seen: 482
+answer: {Maxwell's} equations
+
+Grouped by Oliver Heaviside, they are equivalent to Jefimenko's equations when they are combined with the continuity equation. One statement associated with them would be disproved if magnetic monopoles were shown to exist, while another one of them states that the net outward flux through any closed surface equals 4 times pi times k times the net charge within the surface. Their namesake added the displacement current to yet another of them, Ampere's law. For 10 points, name these four physics equations that involve electricity and magnetism, and are named for a Scotsman.
+
+----
+num: 4
+category: Literature
+difficulty: HS
+fixed: 1
+seen: 441
+answer: The {Old Man} and the {Sea}
+
+The title character of this novel is called “salao”, the worst kind of unlucky, by his closest friend's parents. It begins and ends with descriptions of the narrator's dream of lions at play on a beach, and that protagonist's 84-day run of bad luck seems broken when he encounters the novel's antagonist, whose 18 feet of fight provide a titanic challenge. However, that antagonist is picked clean by sharks before the protagonist can get back to shore. Santiago is the title figure of, for 10 points, what novel, which won the 1953 Pulitzer for Fiction for Ernest Hemingway?
+
+----
+num: 5
+category: Fine Arts
+difficulty: HS
+fixed: 57
+seen: 492
+answer: Bela {Bartok}
+
+An early work of this composer is notable for its jagged “Geyer” motif, while one orchestral work includes a piece that opens with a chromatic, twelve-entry fugue, and his Fourth And Fifth String Quartets exhibit his trademark contrapuntal arch form. This man used a carol about a man and his nine sons hunting as the basis for his Cantata Profana, and his only opera is a sparse production featuring Judith and the titular nobleman within a seven-doored abode. For 10 points, identify this Hungarian composer of the Music for Strings, Percussion, and Celesta, Concerto for Orchestra, and the opera Duke Bluebeard's Castle.
+
+----
+num: 6
+category: Literature
+difficulty: HS
+fixed: 1
+seen: 450
+answer: Henrik {Ibsen}
+
+His first success was his 1865 verse tragedy about the titular priest's struggle to live by an “all or nothing” standard of morality, Brand. Captain Alving's passing on of syphilis to his son is the basis of this author's Ghosts, while another play describes a small town prospering because of its public baths, which are threatened by Dr. Stockmann's efforts in Enemy of the People. One of his most famous plays ends with a famous door slamming Nora leaves her husband Torvald. For 10 points, name this Norwegian playwright of A Doll's House.
+
+----
+num: 7
+category: Science
+difficulty: HS
+fixed: -1
+seen: 484
+answer: {Fibonacci} sequence/numbers
+
+The generating function for this construct has the closed-form solution of x over the quantity 1 minus x minus x squared. Euclid's algorithm has a worst case runtime when the inputs are consecutive numbers. Lucas numbers follow the same recurrence as this series but with starting inputs of 2 and 1, and it was originally developed in the Liber Abaci to follow the multiplication of rabbits. Converging to the golden ration is, for 10 points, what eponymous sequence whose first few terms are 1, 1, 2, 3, 5, and 8?
+
+----
+num: 8
+category: History
+difficulty: HS
+fixed: 1
+seen: 418
+answer: Henry {Clay}
+
+Most historians argue that this man's “Letter on Texas,” in which he stated that he would only annex that territory “without dishonor [and] without war” was decisive in his losing the 1844 election to Polk. He feuded with John Tyler after Tyler vetoed this man's bill trying to resurrect the Bank of the US, and having finished third in the 1824 election, he threw his electoral votes to John Quincy Adams in what Jackson called a “corrupt bargain.” Known as “the Great Compromiser,” for 10 points, name this longtime Speaker of the House from Kentucky who proposed the American System.
+
+----
+num: 9
+category: Trash
+difficulty: HS
+fixed: 1
+seen: 848
+answer: {Joe} the {Plumber} or {Joe Wurzlbacher} or {Sam Wurzelbacher}
+
+Asked about his potential influence, this man said he's “no Matt Damon” but compared himself to “Britney Spears having a headache.” Because of a misspelling of his name, politico.com argued that he should have his voter registration challenged in Holland County, where he also doesn't have a license to practice his profession. Also, despite the claims that brought him to national attention, he would actually get tax relief from Barack Obama's plan, as he makes nowhere close to $250,000 working for Newell Heating and Plumbing. For 10 points, name this chrome-domed flash in the plan, referred to over twenty times in the last presidential debate of 2008.
+
+----
+num: 10
+category: Geography
+difficulty: HS
+fixed: 57
+seen: 705
+answer: {Estonia}
+
+This country's two largest islands are Saaremaa and Hiiumaa, which are popular vacation spots. In the southeast of this country is its highest point, Suur Munamagi, which is roughly translated as Egg Hill. Its largest lake, Lake Peipus forms much of the border between this country and Russia, and the Narva River, the largest river in the country, flows along that Russian border until it empties into the Gulf of Finland. For 10 points, name this country with capital at Tallinn that on May 1, 2004 entered the European Union along with fellow Baltic States Lithuania and Latvia.
+
+----
+num: 11
+category: Trash
+difficulty: HS
+fixed: 57
+seen: 1034
+answer: {Ross} Geller [prompt on Geller]
+
+When he was a kid, he pretended to be Bea Arthur while drinking tea, and as an adult, he once dressed up as “spudnik” for Halloween. He once dated a girl from Poughkeepsie, but at one point, he thought he would not be good enough for Charlie because he had not won any Nobel Prizes. His only son is named Ben, and whenever this character wants to see Ben, he must confront his ex-wife Carol as well as her lesbian lover. He also married and divorced Englishwoman Emily Waltham as well as the character with whom he would eventually get back together in the series' final episode, Rachel. For 10 points, name this paleontologist on the show Friends played by David Schwimmer.
+
+----
+num: 12
+category: Philosophy
+difficulty: HS
+fixed: None
+seen: 512
+answer: Jean-Jacques Rousseau
+
+One work by this man argued against the idea that Geneva would be better off with a theatre, and another stresses the superior value of the nascent society. In addition to writing Discourse on Inequality, this man contributed music articles to Diderot's Encyclopédie. He believed that the individual is essentially good, but is usually warped by society, and his works include Reveries of a Solitary Walker and Emile: or, On Education. His most famous work proposed an elective aristocracy form of government and asserts that “man is born free, but he is everywhere in chains.” For 10 points, name this French philosopher, the author of The Social Contract.
+
+----
+num: 13
+category: Mythology
+difficulty: HS
+fixed: 1
+seen: 786
+answer: pomegranate
+
+In Greek myth, the wife of Orion, Side (see-day), hurled herself off a cliff after Hera made her believe she had killed her own children, and where she died her blood created the first tree of this fruit. A dwarf version of this fruit bears the name of Nana, a virgin Greek nymph who was made pregnant when this fruit fell on her, leading to the birth of Attis. Four seeds of this fruit were eaten by the daughter of an Olympian, leading her to have to spend four months in Hades every year. For 10 points, what is this fruit which was tasted by Demeter's daughter Persephone, leading to the origin of winter in Greek myth?
+
+----
+num: 14
+category: Literature
+difficulty: HS
+fixed: 57
+seen: 448
+answer: “The {Cask} of {Amontillado}”
+
+The narrator of this work uses the vanity of his antagonist against him by suggesting that he will retain the services of Luchresi to help him identify his recent purchase. After they are underground, the antagonist makes an unfamiliar hand gesture, but the narrator jokes that he is a mason and produces a trowel. In the catacombs, the narrator also shows his antagonist his family crest, bearing the motto Nemo me impune necessit, meaning “No one provokes me with impunity”, symbolizing the narrator's crime of vengeance. For 10 points, name this short story by Edgar Allan Poe in which Montresor walls Fortunato up, named for the a jug of wine.
+
+----
+num: 16
+category: History
+difficulty: HS
+fixed: -1
+seen: 419
+answer: {CCC} or {Civilian Conservation Corps}
+
+The Washington-based journal “Happy Days” served as the semi-official press organ of this group, rating the over-500 individual newspapers published in its various camps. Initially restricted to men between 18 and 25 whose fathers received government relief, it was never actually disbanded, as Congress just de-funded it when enrollment drastically dropped after Pearl Harbor. Planting over 17 million trees and completing several other outdoor works projects, for 10 points, name this New Deal program meant to employ and train young men.
+
+----
+num: 17
+category: Social Science
+difficulty: HS
+fixed: 1
+seen: 381
+answer: {cargo cult}
+
+In recent years, this two-word term has been applied in city-planning theory to refer to publicly financed projects, like arenas or railway systems, that are expected without hard evidence to bring outside investment. Some of its practitioners deify Westerners, such as John Frum, who was praised by Melanesians. All members commonly build runways or makeshift control towers to bring in the desired goods from the sky. For 10 points, what term designates folk religions which try to propitiate the delivery of things, perhaps due to their contact with more technologically advanced cultures?
+
+----
+num: 18
+category: History
+difficulty: HS
+fixed: 57
+seen: 409
+answer: {Assyria}
+
+Despite what the Bible may say, the first battle fought between the Kingdom of Israel and these more eastern peoples, the Battle of Qarqar, appears to have been a draw. Later, however, this empire did come back in force under a better general than Shalmaneser III and vanquished the Israelites, creating their first diaspora by scattering ten of their tribes. Tiglath-Pilaser III, called Pul in the Bible, was one of many to rule, for 10 points, what empire with capital at Nineveh, which also included rulers like Ashurbanipal?
+
+----
+num: 19
+category: Science
+difficulty: HS
+fixed: 1
+seen: 485
+answer: tyrosine
+
+Of the aromatic products of the Shikimate pathway, it has the lowest hydropathy index. This molecule's namesake hydroxylase catalyzes the first step in catecholamine synthesis, and it serves as a precursor of melanin, dopamine, and epinephrine. The inability to transform phenylalanine into this amino acid leads to PKU, and it features a bulky aromatic side chain and an OH group. For 10 points, name this amino acid whose one letter abbreviation is Y, and whose three letter abbreviation is TYR.
+
+----
+num: 20
+category: Literature
+difficulty: HS
+fixed: 57
+seen: 440
+answer: {Sophocles}
+
+In one work by this author, the title character in a fit of madness slays a number of sheep whom he believes to be his rivals and keeps one, whom he thinks is Odysseus, to torture. Besides Ajax, he also wrote Philoctetes and was the first to use painted backdrops on the stage and add a third actor to the action. He also wrote of the suicides of Haemon and Eurydice after the live entombment of the title character in a play titled after the sister of Ismene. For 10 points, name this Athenian playwright of Antigone and Oedipus Rex.

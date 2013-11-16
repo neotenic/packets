@@ -1,0 +1,631 @@
+####
+tournament: Sample Set 5
+round: Round1.pdf
+####
+
+num: 1
+category: Chemistry
+difficulty: HS
+seen: 34
+answer: Cobalt Blue (Accept: Blue, Cobalt)
+
+When chemists do flame tests, they often view the flame through a colored transparent piece of glass to filter out any sodium contamination. What color glass do they use?
+
+----
+num: 1
+category: General Science
+difficulty: MS
+seen: 6
+answer: 4.04
+
+Providing your answer as a decimal to the nearest hundredth, what is the density in grams per cubic centimeter of a material with a mass of 2.02 grams and a volume of 0.500 cubic centimeters?
+
+----
+num: 1
+category: General Science
+difficulty: MS
+seen: 6
+answer: 1 and 3
+
+
+By number, identify all of the following four characteristics that are TRUE of hail: 1) most hail is less than 5 inches in diameter; 2) it is formed of partially frozen raindrops; 3) it is formed from chunks of ice; 4) it falls from the clouds as rain.
+
+----
+num: 2
+category: Math
+difficulty: HS
+fixed: -1
+seen: 27
+answer: π/3
+
+What is magnitude of the phase shift of the function y = sinx to y
+4)?= 2sin(3x – π) – 4 (read as: 2 sine of open parenthesis 3x minus pi close parenthesis minus
+
+----
+num: 2
+category: Math
+difficulty: HS
+seen: 26
+answer: 10
+
+An isosceles triangle has a base of 30 feet and height of 15 feet. In feet, h ow far apart are the legs 10 feet above the base?
+
+----
+num: 2
+category: Math
+difficulty: MS
+seen: 6
+answer: 17
+
+In triangle ABC, angle C is a right angle, side AC is equal to 15 units, and side BC is equal to 8 units. What is the length, in units, of side AB?
+
+----
+num: 2
+category: Math
+difficulty: MS
+seen: 6
+answer: 55
+
+By how much is the sum of the first 10 even positive integers greater than the sum of the first 10 positive integers?
+
+----
+num: 3
+category: Physics
+difficulty: HS
+fixed: -1
+seen: 25
+answer: 144
+
+
+A household appliance runs on 120 volts and has an internal resistance of 100 ohms. Providing your answer to the nearest integer, how much power, in watts, does this appliance use?
+
+----
+num: 3
+category: Physical Science
+difficulty: MS
+seen: 4
+answer: 6
+
+How many protons are in an atom of carbon-14?
+
+----
+num: 3
+category: Physical Science
+difficulty: MS
+seen: 5
+answer: 100
+
+
+Given g as 10 meters per second squared, what is the weight, in newtons, of a crate with a mass of 10 kilograms being raised from the floor at a steady speed?
+
+----
+num: 4
+category: Biology
+difficulty: HS
+seen: 38
+answer: Thyroxine (Accept: T4)
+
+What is the name of the hormone that controls metamorphosis in amphibians?
+
+----
+num: 4
+category: Biology
+difficulty: HS
+seen: 40
+answer: 2
+
+In glycolysis (read as: gly-KOH-li-sis), what is the net yield of ATP molecules generated per glucose molecule?
+
+----
+num: 4
+category: Earth and Space Science
+difficulty: MS
+seen: 6
+answer: First Quarter and Last Quarter (Accept: 1 and 2)
+
+By name or number, identify all of the following four moon phases in which a neap tide can occur: 1) first quarter, 2) last quarter, 3) new moon, 4) full moon.
+
+----
+num: 5
+category: Chemistry
+difficulty: HS
+seen: 35
+answer: Helium
+
+What element has the lowest boiling point?
+
+----
+num: 5
+category: General Science
+difficulty: MS
+fixed: -1
+seen: 6
+answer: 50%
+
+A female who is heterozygous for a dominant, X-linked trait crosses with a male who also displays this trait phenotypically. What percentage of their sons will display this trait?
+
+----
+num: 5
+category: General Science
+difficulty: MS
+seen: 5
+answer: Ethene , Acetylene, Benzene (Accept: 2, 3, and 4)
+
+
+By name or number, identify all of the following four choices that are unsaturated hydrocarbons: 1) propane, 2) ethene, 3) acetylene, 4) benzene.
+
+----
+num: 6
+category: Physics
+difficulty: HS
+seen: 26
+answer: 2.5
+
+The resistance of a certain wire is 10 ohms. What would be theresistance in ohms if the radius of the wire were doubled?
+
+----
+num: 6
+category: Physical Science
+difficulty: MS
+seen: 6
+answer: 2
+
+How many valence electrons are in beryllium?
+
+----
+num: 7
+category: Earth and Space
+difficulty: HS
+seen: 47
+answer: Afternoon
+
+
+Lightning is most likely to occur at what time of day: morning, afternoon, evening, or night?
+
+----
+num: 7
+category: Earth and Space Science
+difficulty: MS
+seen: 6
+answer: Carboniferous
+
+In which geologic period did reptiles first appear in Earth’s history?
+
+----
+num: 7
+category: Earth and Space Science
+difficulty: MS
+seen: 5
+answer: Stratosphere and Mesosphere
+
+
+The stratopause is the boundary between which two atmospheric layers?
+
+----
+num: 8
+category: Physics
+difficulty: HS
+seen: 26
+answer: -5 (Accept: 5 Down; Do Not Accept: 5)
+
+Given g as 10 meters per second squared, if a ball is tossed upward at an initial velocity of 20 meters per second, what will be its velocity in meters per second at 2.5 seconds?
+
+----
+num: 8
+category: Physics
+difficulty: HS
+seen: 26
+answer: 500
+
+The frequency of light from a laser radiation source is 6 X 10^14hertz. Using 3 X 10^8 meters per second as the speed of light, what is the wavelength of this light in nanometers?
+
+----
+num: 8
+category: Physical Science
+difficulty: MS
+seen: 6
+answer: 1
+
+When an electron or proton is accelerated through a potential difference of 1 volt, how much energy does it gain in electron volts?
+
+----
+num: 9
+category: Energy
+difficulty: HS
+seen: 36
+answer: Counterbalance (Accept: Counterweight)
+
+
+Non-hydraulic elevators typically use very small motors and block and tackle pulleys. What system component helps reduce the amount of the car’s weight that the motor has to lift?
+
+----
+num: 10
+category: Math
+difficulty: HS
+fixed: -1
+seen: 24
+answer: 1
+
+If f(x) = x^2 – 3 and g(x) = 6 − x, what is the value of f(g(16)) (read as: f of g of 16)?
+
+----
+num: 10
+category: Math
+difficulty: HS
+seen: 24
+answer: 1  or 3 (Must Give Both Answers)
+
+According to Descartes’s Rule of Signs, what are the possible numbers of positive real roots that the following equation might have: x^5 – 7x^3 + 15x^2 + 3 = 10?
+
+----
+num: 10
+category: Math
+difficulty: MS
+seen: 6
+answer: Ellipse
+
+Given that a plane is at an angle between 1 and 89 degrees to the axis of a right circular cylinder, what is the name of the curve formed at their intersection?
+
+----
+num: 10
+category: Math
+difficulty: MS
+seen: 6
+answer: 0.31
+
+To be labeled “sugar free,” a candy must contain less than 0.5 grams of sugar per 40 grams. If a serving of sugar free candy is 25 grams, what is the maximum amount of sugar allowed , to the nearest hundredth of a gram?
+
+----
+num: 12
+category: Physics
+difficulty: HS
+seen: 27
+answer: Center (Accept: Middle)
+
+Applying Bernoulli's principle to vortices, where in a vortex should the pressure be highest?
+
+----
+num: 12
+category: Physics
+difficulty: HS
+fixed: -1
+seen: 26
+answer: 0.3
+
+Providing your answer as a decimal rounded to the nearest tenth, if a normal force of 1 newton is applied to the end of a fixed cylinder with a radius of 1 meter, what pressure, in pascals, is induced in the cylinder?
+
+----
+num: 12
+category: Physical Science
+difficulty: MS
+seen: 5
+answer: 2 : 3 (Accept: 2 to 3, 2/3)
+
+One liter of oxygen and two liters of hydrogen are reacted in a closed container to form a gaseous product. If the temperature within the container is the same before and after the reaction, what is the ratio of final pressure to initial pressure in the container?
+
+----
+num: 13
+category: Earth and Space
+difficulty: HS
+fixed: -1
+seen: 48
+answer: Sulfate (Accept: So ^4^2^-)
+
+In the atmosphere, what ion is formed by the oxidation of sulfur oxides?
+
+----
+num: 13
+category: Earth and Space
+difficulty: HS
+seen: 48
+answer: Advection
+
+
+What do we call the transfer of a property of the atmosphere, such as heat, cold, or humidity, by the horizontal movement of an air mass?
+
+----
+num: 13
+category: Earth and Space Science
+difficulty: MS
+seen: 5
+answer: Shale, Sandstone, Conglomerate (Accept: 3, 2, 1)
+
+
+By name or number, rank the following sedimentary rocks in order of increasing grain size: 1) conglomerate, 2) sandstone, 3) shale.
+
+----
+num: 14
+category: Energy
+difficulty: HS
+seen: 36
+answer: Natural Gas, Kerosene, Wood, Coal (Accept: 3, 4, 1, 2)
+
+By name or number, order the following four fuels from least to greatest amount of carbon dioxide produced annually from stationary combustion in the United 
+States: 1) wood, 2) coal, 3) natural gas, 4) kerosene.
+
+----
+num: 14
+category: Energy
+difficulty: MS
+seen: 6
+answer: Solar Cooker (Accept: Solar Oven)
+
+What is the name of the device that relies on sunshine to cook food when firewood is scarce?
+
+----
+num: 14
+category: Energy
+difficulty: MS
+seen: 6
+answer: Oregon
+
+Which U.S. state will have the first wave -power farm?
+
+----
+num: 15
+category: Biology
+difficulty: HS
+seen: 40
+answer: Auxins
+
+
+What group of hormones is responsible for both phototropism and gravitropism?
+
+----
+num: 15
+category: Life Science
+difficulty: MS
+seen: 10
+answer: Sessile
+
+What kinds of leaves do not possess a petiole (read as: 
+PEH-tee-ōel)?
+
+----
+num: 15
+category: Life Science
+difficulty: MS
+seen: 11
+answer: Serrate = 1; Entire = 3; and Lobed = 2
+
+
+Match the terms serrate, entire, and lobed with the numbers of the following leaf descriptions: 1) they have little bent teeth like those of a saw; 2) they have divisions that do not arrive at the center of half of the blade; 3) they have a smooth margin.
+
+----
+num: 16
+category: Math
+difficulty: HS
+fixed: -1
+seen: 24
+answer: 3π/5
+
+What is the measure in radians of an interior angle of a regular pentagon?
+
+----
+num: 16
+category: Math
+difficulty: MS
+seen: 7
+answer: 3
+
+Bob is building shelves 18 inches long. He uses a saw with a kerf, or cut width, of an eighth of an inch. Considering the kerf, how many shelves exactly 18 inches long can he make from a board that is 72 inches long?
+
+----
+num: 16
+category: Math
+difficulty: MS
+seen: 7
+answer: 24
+
+What is the perimeter, in inches, of an isosceles (read as: eye-SOHS-leez ) trapezoid with parallel sides measuring 4 inches and 10 inches and a height of 4 inches?
+
+----
+num: 17
+category: Biology
+difficulty: HS
+seen: 41
+answer: Salivary
+
+Submandibular, parotid , and lingual are adjectives referring to which type of gland?
+
+----
+num: 17
+category: Biology
+difficulty: HS
+fixed: -1
+seen: 38
+answer: Forest Fire, Hurricane, Flood , and Tsunami (Accept: 1, 2, 4, and 5
+or All but 3)
+
+
+By name or number, identify all of the following five events that could trigger secondary succession: 1) forest fire, 2) hurricane, 3) lava flow, 4) flood, 5) tsunami.
+
+----
+num: 17
+category: Life Science
+difficulty: MS
+seen: 11
+answer: True (Accept: Typical) Owls and Barn Owls
+
+
+What are the common names of the two generally accepted families of living owls?
+
+----
+num: 19
+category: Physics
+difficulty: HS
+fixed: -1
+seen: 25
+answer: 5
+
+
+If a fuse can dissipate 600 watts of power without blowing, how much current , in amperes, can it pass at 120 volts without melting?
+
+----
+num: 19
+category: Physical Science
+difficulty: MS
+seen: 5
+answer: Limiting Reagent
+
+What is the term for the reactant used up first in a reaction?
+
+----
+num: 20
+category: Biology
+difficulty: HS
+fixed: -1
+seen: 41
+answer: Gynosperms, Mosses, Ferns (Accept: 1, 3, and 5)
+
+By name or number, identify all of the following five choices that are considered embryophyta (read as: ehm-bree-ah-FY-tah): 1) gymnosperms (read as: JIM-noh-spehrms), 2) diatoms, 3) mosses, 4) dinoflagellates , 5) ferns.
+
+----
+num: 20
+category: Life Science
+difficulty: MS
+seen: 11
+answer: Plasmid
+
+What is the name of a small, circular piece of bacterial DNA that contains only a few genes?
+
+----
+num: 21
+category: Math
+difficulty: HS
+seen: 27
+answer: 10
+
+If the median of the five numbers 1, 7, 14, 28, and x is 10, what is x?
+
+----
+num: 21
+category: Math
+difficulty: HS
+fixed: -1
+seen: 24
+answer: 1/2
+
+
+To what value does the geometric series that starts 1/3 + 1/9 + 1/27 + ... converge?
+
+----
+num: 21
+category: Math
+difficulty: MS
+seen: 6
+answer: -2 and 2
+
+Identify the real zeros of the function fx  = x^2  4 (read as: f of x equals the square root of the quantity x squared minus 4).
+
+----
+num: 22
+category: Chemistry
+difficulty: HS
+fixed: -1
+seen: 35
+answer: 0.8
+
+The pressure of 2 moles of an ideal gas at 27° Celsius is 1.2 atmospheres. Providing your answer to the nearest tenth, if the temperature is increased by 100° Celsius and the volume of the gas doubles , what is the new pressure of the gas in atmospheres?
+
+----
+num: 22
+category: General Science
+difficulty: MS
+seen: 5
+answer: Squid and Chiton (Accept: 1 and 3)
+
+By name or number, identify all of the following four organisms that are mollusks : 1) squid, 2) sea star, 3) chiton (read as: KY-tun), 4) sea cucumber.
+
+----
+num: 22
+category: General Science
+difficulty: MS
+seen: 6
+answer: Fringing (Accept: 3)
+
+By name or number, identify which of the following three coral reef types is directly attached to a shore, or borders it with an intervening shallow channel or lagoon: 1) atoll, 2) barrier, 3) fringing.
+
+----
+num: 23
+category: Earth and Space
+difficulty: HS
+seen: 46
+answer: Volcanoes
+
+What geologic features of Io are responsible for loading Jupiter’s atmosphere with heavy ionized particles?
+
+----
+num: 23
+category: Earth and Space
+difficulty: HS
+seen: 50
+answer: Southern Highlands Are Older (Accept: Northern Lowlands Are 
+Younger)
+
+
+On Mars, how do the ages of the higher elevation and heavily cratered southern highlands compare to the ages of the lower elevation a nd flat northern lowlands?
+
+----
+num: 23
+category: Earth and Space Science
+difficulty: MS
+seen: 6
+answer: 30
+
+
+Kyanite (read as: KY-ah-nyt) is a metamorphic mineral that forms at temperatures greater than 600° Celsius. Assuming a geothermal gradient of 20° Celsius per kilometer, what is the minimum depth , in kilometers, at which kyanite (read as: KY-ah-nyt) will form?
+
+----
+num: 24
+category: Chemistry
+difficulty: HS
+seen: 35
+answer: Haber Process
+
+What is the common name given to the industrial reaction in which nitrogen and hydrogen are reacted with a catalyst, forming ammonia?
+
+----
+num: 24
+category: General Science
+difficulty: MS
+seen: 6
+answer: Mass and Specific Heat (Accept: 1 and 2)
+
+By name or number, identify all of the following three properties that would be the same at both sea level and the top of Mount Everest : 1) mass, 2) specific heat, 3) weight.
+
+----
+num: 24
+category: General Science
+difficulty: MS
+seen: 6
+answer: Rods
+
+What type of photoreceptor is most abundant in the human eye?
+
+----
+num: 25
+category: Biology
+difficulty: HS
+seen: 39
+answer: Pericycle
+
+In eudicots (read as: yuh-DY-kohts), lateral roots arise from the mitotic activity of which tissue layer?
+
+----
+num: 25
+category: Life Science
+difficulty: MS
+seen: 10
+answer: Conifer (Accept: Evergreen)
+
+What type of tree has cones and needlelike leaves?
+
+----
+num: 25
+category: Life Science
+difficulty: MS
+seen: 10
+answer: Oxygen
+
+What element is most commonly used as the final electron acceptor during oxidative phosphorylation (read as: fahs-fohr-i-LAY-shohn)?

@@ -1,0 +1,258 @@
+####
+tournament: Question Set C
+round: Round-8C.pdf
+####
+
+num: 1
+category: Chemistry
+difficulty: HS
+fixed: -1
+seen: 33
+answer: Hco
+^3–^
+
+What is the molecular formula for the conjugate base of the following Brønsted-Lowry acid: H^2CO^3
+
+----
+num: 2
+category: Physics
+difficulty: HS
+seen: 25
+answer: 1.68
+(Solution:  Fδt = Mδv = Mv^2 – Mv^1 = M(v^2 – 0) = (0.030kg)(56m/s) = 1.68kg.m/s)
+
+A hunter uses a 30-gram arrow that is fired by a bowstring at a velocity of 56 meters per second. What is the impulse on the arrow, to the second decimal place in kilogram meters per second ?
+
+----
+num: 3
+category: Biology
+difficulty: HS
+seen: 42
+answer: Hypot Halamus
+
+What specific area of the human diencephalon is responsible for producing factors that regulate the release of hormones of the pituitary?
+
+----
+num: 4
+category: Math
+difficulty: HS
+seen: 25
+answer: 53
+and !
+53
+
+Given that tangent θ = !43, find the possible values of sine θ:
+
+----
+num: 6
+category: General Science
+difficulty: HS
+seen: 30
+answer: Green Algae and Fungi  (Accept:  Algae or Cyanobacteria for 
+Green Algae)
+
+Lichens are a symbiotic relationship of what 2 general types of organisms?
+
+----
+num: 8
+category: Chemistry
+difficulty: HS
+fixed: -1
+seen: 35
+answer: 7.0
+(Solution:  P
+^1v
+^1 = P
+^2v
+^2;  (800 torr)(10.0l) = (1140 Torr)(v
+^2); v
+^2 = 7.0l)
+
+A gas sample occupies a volume of 10.0 liters at a pressure of 800 torr. If the pressure on the sample becomes 1.5 atmospheres and temperature remains constant, what volume does the gas now occupy, to the first decimal place in liters?
+
+----
+num: 9
+category: Physics
+difficulty: HS
+seen: 24
+answer: 0.39
+(Solution: Wavelength = V/f = 343/880 = 0.389)
+
+If a mandolin string is tuned to 880 hertz and is 28-centimeters long, what is the wavelength, in meters rounded to the second decimal place, of the sound wave produced by this string, assuming that the instrument is at 20ºC and that the speed of sound is 343 meters/second?
+
+----
+num: 10
+category: Biology
+difficulty: HS
+fixed: -1
+seen: 39
+answer: Raspberry and Pineapple
+
+Name all of the following 4 choices that are compound fruits: tomato; raspberry; grape; pineapple
+
+----
+num: 11
+category: Math
+difficulty: HS
+seen: 24
+answer: X ≥ –1 or X ≤ –4 (Must Give Both Answers)
+
+Solve the following quadratic inequality for x: x^2 + 5x + 4 ≥ 0
+
+----
+num: 13
+category: General Science
+difficulty: HS
+fixed: -1
+seen: 31
+answer: Diphtheria; Strep Throat
+
+Name all of the following that are primarily bacterial diseases: diphtheria; herpes zoster; strep throat; rubella; yellow fever
+
+----
+num: 15
+category: Chemistry
+difficulty: HS
+fixed: -1
+seen: 33
+answer: Carbon = 8;  Hydrogen = 18
+
+How many carbons and hydrogens are in the following compound: (read slowly) 2,4 -dimethyl hexane
+
+----
+num: 16
+category: Physics
+difficulty: HS
+seen: 25
+answer: 480
+(Solution λ^N =  λ/N  600 nm/1.25 = 480)
+
+If light of a single wavelength of 600 nanometers moves from air into a medium with a refractive index of 1.25, what is the wavelength, in nanometers, of the light as it travels in the denser medium?
+
+----
+num: 17
+category: Biology
+difficulty: HS
+fixed: -1
+seen: 39
+answer: Lipids;  Proteins;   Carbohydrates  (Accept:  All)
+
+Name all of the following 3 classes of biological molecules whose immediate breakdown product can generate energy by feeding into metabolism at the level of pyruvate or acetyl Co-A: lipids; proteins; carbohydrates
+
+----
+num: 18
+category: Math
+difficulty: HS
+seen: 27
+answer: 768
+(Solution:  a
+^X = A(r)^x^-^1;  a
+^9 = 3(2)^8;  a = 768)
+
+Find the 9^th term of the geometric sequence whose first 3 terms are 3, 6, and 12:
+
+----
+num: 20
+category: General Science
+difficulty: HS
+seen: 30
+answer: Tetanus  (Accept:  Tetany)
+
+What is the medical name for the disease caused by 
+C lostridium bacteria that is prevalent in soils and commonly named lockjaw?
+
+----
+num: 20
+category: General Science
+difficulty: HS
+seen: 30
+answer: Niacin (Accept: Nicotinic Acid)
+
+What is the common name for vitamin B3 that is a central component of coenzymes NAD and NADP+?
+
+----
+num: 21
+category: Astronomy
+difficulty: HS
+seen: 51
+answer: Venus
+
+Which one of the following 4 planets has the smallest orbital eccentricity: Mercury; Jupiter; Venus; Saturn
+
+----
+num: 22
+category: Chemistry
+difficulty: HS
+seen: 34
+answer: 4
+
+What is the pH of a 1 × 10–^4 molar HCl solution?
+
+----
+num: 22
+category: Chemistry
+difficulty: HS
+seen: 35
+answer: S-H;  Cl-H;  O-H;  F-H
+
+Order the following 4 bonds from those with the LOWEST electronegativity difference to the GREATEST difference: F-H; O-H; S-H; Cl-H
+
+----
+num: 23
+category: Physics
+difficulty: HS
+seen: 26
+answer: 4
+
+How many 20-ohm resistors connected in parallel will produce 5 ohms of equivalent resistance?
+
+----
+num: 23
+category: Physics
+difficulty: HS
+fixed: -1
+seen: 26
+answer: 80,000
+(Solution:  F = Ma = (5000 × 6) = 30,000n + W = Mg = 5000 × 10 = 50,000n;  30,000n + 50,000n 
+= 80,000n)
+
+Assuming g = 10 meters per second squared, how many total newtons of thrust are needed to accelerate a 5,000-kilogram rocket vertically at 6 meters per second squared?
+
+----
+num: 24
+category: Biology
+difficulty: HS
+seen: 40
+answer: Pedipalps
+
+The pincers of scorpions are a modification of what arachnid appendage?
+
+----
+num: 24
+category: Biology
+difficulty: HS
+fixed: -1
+seen: 40
+answer: Squid;  Chambered Nautilus
+
+Name all of the following 4 organisms that are cephalopods (read as: 
+SEFF-al-low-pods): squid; mussel; chambered nautilus; slug
+
+----
+num: 25
+category: Physics
+difficulty: HS
+seen: 26
+answer: 1/60 (Accept:  0.016 or 0.017 or 0.0166 or 0.0167)
+
+How many watts are equivalent to 1 joule of energy expended per minute of time?
+
+----
+num: 25
+category: Physics
+difficulty: HS
+seen: 25
+answer: 1500 Kilogram Meters Per Second
+(Solution:  Momentum = Mv = (100kg)(15 M/s) = 1500 kg.m/s)
+
+Michael, who has a mass of 100 kilograms, tries to ski jump with a velocity of 15 meters per second. What is Michael’s momentum, in proper SI units, as he leaves the ski jump?

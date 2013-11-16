@@ -1,0 +1,214 @@
+####
+tournament: Prison Bowl
+round: Round 04.doc
+year: 2010
+####
+
+num: 1
+category: Science
+difficulty: HS
+fixed: -1
+seen: 486
+answer: {quartz} [prompt on {silicate}, prompt on {silicon dioxide} or {silica}]
+
+Cristobalite and tridymite are polymorphs of this mineral, along with its hexagonal beta variety. A felsic mineral, it lies below muscovite at the bottom of Bowen's reaction series. One variety with planar deformation features is often present in nuclear bomb impact sites and at the K-T boundary, the shocked variety. Like topaz, it exhibits piezoelectricity. Gold ore sometimes occurs in veins of this mineral. It comes in many colored varieties, including onyx, citrine, agate, and amethyst. For 10 points, name this silicate mineral with a Mohs hardness of 7.
+
+----
+num: 2
+category: Religion
+difficulty: HS
+fixed: 57
+seen: 437
+answer: {Mormons} [accept word forms, accept {Church} of {Jesus Christ} of {Latter}-{Day Saints} before mentioned]
+
+This religion's priesthood includes the Quorum of Seventy, and it worships the Godhead. Its Articles of Faith are included in The Pearl of Great Price. Supposedly written in "reformed Egyptian," the golden plates of the angel Moroni were the basis of this religion's sacred text. Its largest church is that of Jesus Christ of Latter-Day Saints, and Joseph Smith and Brigham Young were among its leaders. For 10 points, name this Utah-based Christian denomination which no longer condones polygamy.
+
+----
+num: 3
+category: Fine Arts
+difficulty: HS
+fixed: 1
+seen: 487
+answer: (Franz) Joseph {Haydn}
+
+This man's "Emperor" string quartet quotes his "Gott erhalte Franz den Kaiser." He composed six masses for the Eszterházy family and two oratorios, The Creation and The Seasons. In his Symphony No. 45 in F-sharp, the final adagio movement sees each musician leave one by one until only two muted violinists remain, the "Farewell" symphony. His Symphony No. 94 in G major, one of his London Symphonies, features a sudden fortissimo chord for which it is named. For 10 points, identify this composer of the Military and Surprise symphonies.
+
+----
+num: 4
+category: History
+difficulty: HS
+fixed: None
+seen: 415
+answer: Battle of Hastings
+
+Fyrdmen and Housecarls made up one side's army in this battle, which took place near Pevensey, the site of the victors' landing. The winning side broke through the shield wall built by the losers, later ambushed in the Malfosse. Taking place at Senlac Hill, this battle's losing side was weakened by a previous battle at Stamford Bridge. An arrow was shot through the eye of the losing commander, Harold Godwinson, as depicted on the Bayeux Tapestry. For 10 points, name this 1066 victory for William the Conqueror, a decisive battle in the Norman conquest of England.
+
+----
+num: 5
+category: Literature
+difficulty: HS
+fixed: 1
+seen: 448
+answer: The {Satanic Verses}
+
+In this novel Pamela leaves her husband for a martial arts instructor because she believes her husband is dead. Her husband tries to get one character to kill the mountaineer Allie Cone. When that husband and the other protagonist are on a plane to England, they encounter a hijacker and the plane explodes. After this novel's two protagonists survive the crash, Gibreel Farishta becomes the archangel Gabriel and Saladin Chamcha becomes The Devil, in a retelling of religious scripture which angered Muslims.  For 10 points, name this novel by Salman Rushdie.
+
+----
+num: 6
+category: Science
+difficulty: HS
+fixed: 1
+seen: 491
+answer: Antoine-Laurent de {Lavoisier}
+
+This man found that "respirable air" could be turned into "fixed air" through respiration or combustion. He proposed that oxygen is the source of acidity, and called another component of air "azote." He showed that oxygen and hydrogen combine to form water. In his 1789 Elementary Treatise on Chemistry, he demonstrated that weight changes during combustion were a result of combining with oxygen, and not because of negative-mass phlogiston. For 10 points, name this "father of modern chemistry" who first stated the law of conservation of mass.
+
+----
+num: 7
+category: Fine Arts
+difficulty: HS
+fixed: 1
+seen: 493
+answer: Michelangelo Merisi da {Caravaggio} [accept either]
+
+The subject's shoulder mirrors the peach he carries, in this artist's Boy with a Basket of Fruit. The title figure is surprised to touch Christ's wound in his Incredulity of St. Thomas. The two title figures both wear feathers in their hats, with one carrying a dagger, in The Cardsharps. A stone slab juts out toward the viewer in his Entombment of Christ. In another painting of his, a diagonal beam of light symbolizes faith. For 10 points, name this Baroque painter known for his tenebristic style, as well as Supper at Emmaus and The Calling of St. Matthew.
+
+----
+num: 8
+category: Social Science
+difficulty: HS
+fixed: 1
+seen: 382
+answer: An Inquiry into the Nature and Causes of the {Wealth} of {Nations}
+
+This work claims that the fall of the Roman Empire discouraged agriculture in a section on the "Progress of Opulence." It posits that rent is "the highest which the tenant can afford ... in the actual circumstances of the land." Book IV, "Of Systems of Political Economy," argues against protectionist tariffs of mercantilism. This work uses the example of a pin factory to illustrate the division of labor, and claims that individuals will benefit society through self-interest, "led by an invisible hand." For 10 points, name this economic treatise by Adam Smith.
+
+----
+num: 9
+category: Literature
+difficulty: HS
+fixed: 57
+seen: 443
+answer: {Middlemarch}: A Study of Provincial Life
+
+In this work, Naumann paints one man as Thomas Aquinas, in order to get to his wife. Walter Tyke is made hospital chaplain over Farebrother, and Elinor Cadwallader sets up Celia and James Chettam's marriage. In this novel, John Raffles reveals that the town banker made his fortune selling pawned goods. Along with Nicholas Bulstrode, this novel tells of Rosamond Vincy's extravagant lifestyle, which leads Tertius Lydgate to financial trouble. The protagonist marries Will Ladislaw instead of inheriting Edward Casaubon's fortune in, for 10 points, this novel about Dorothea Brooke, by George Eliot.
+
+----
+num: 10
+category: History
+difficulty: HS
+fixed: 1
+seen: 416
+answer: Marcus Tullius {Cicero}
+
+This man gave evidence in Clodius' profanity trial, and unsuccessfully tried to defend Clodius' murderer Milo. This leader fought the Optimates in order to allow Pompey to command an army against Pontus, but the Optimates later were instrumental in making this man a consul. His election as consul prompted Catiline's attempted uprising, which this man exposed to the public. He delivered 14 speeches in support of Octavian after Julius Caesar was murdered in order to warn Rome about the influence of Marc Antony. For 10 points, name this Roman orator who delivered the Demosthenes-inspired Philippics.
+
+----
+num: 11
+category: Philosophy
+difficulty: HS
+fixed: None
+seen: 520
+answer: Immanuel Kant
+
+This thinker compared rational religion to a naked body in Religion within the Bounds of Bare Reason, and discussed pure and mixed ratiocination in The False Subtlety of the Four Syllogistic Figures. He gave "emergence from self-incurred immaturity" as the answer to the title question in "What is Enlightenment?" This author of Groundwork for the Metaphysics of Morals distinguished between a priori and a posteriori knowledge. For 10 points, name this German formulator of the categorical imperative and author of Critique of Pure Reason.
+
+----
+num: 12
+category: Science
+difficulty: HS
+fixed: 57
+seen: 494
+answer: {RNAs} or {ribonucleic} acids [accept {RNA interference during} first sentence]
+
+Their ds type is cleaved by the dicer enzyme and added to RISC, in a pathway named for one type of these molecules. They combine with proteins to form snRNPs [“snurps”], five of which make up a spliceosome. One type is bounded by a poly-A tail, while another type containing pseudo·uridine is cloverleaf-shaped. Retroviruses and ribosomes are made of these molecules. One type is produced in transcription, and another type performs translation. With messenger and transfer types, they contain uracil. For 10 points, name these single-stranded nucleic acids similar to DNA.
+
+----
+num: 13
+category: Trash
+difficulty: HS
+fixed: 1
+seen: 1021
+answer: {Recess} <YC>
+
+On this show, Gelman threatens to hit another character so hard that his clothes will hurt. Two characters on carry a sign reading "China or Bust," The Diggers. Students love the hippie teacher Ms. Grotke, while the four Ashleys say "Scandalous!" in unison, and some tribal kindergarteners terrorize the central characters. King Bob, a sixth grader, rules with a hockey stick scepter, while Randall Weems and Ms. Finster antagonize students Mikey and Spinelli during the title time period. For 10 points, name this animated TV show featuring T.J. Detweiler, set in a school playground.
+
+----
+num: 14
+category: History
+difficulty: HS
+fixed: 57
+seen: 416
+answer: James {Buchanan}
+
+During this politician's campaign, he was criticized for saying that ten cents a day was enough for a worker. His attempts to replace Brigham Young as Governor of the Utah Territory became known as his namesake Blunder. Economic troubles during his presidency were sparked by the wreck of a ship carrying bullion, the Central America. This president's party split during its next convention, leading to his vice president, John C. Breckinridge, being nominated along with Steven Douglas. He lobbied the Supreme Court to vote in favor of the rights of slaveholders in the Dred Scott case. For 10 points, name this Democratic president, who failed to act in the face of secession.
+
+----
+num: 15
+category: Geography
+difficulty: HS
+fixed: 1
+seen: 716
+answer: {Ganges} River
+
+This river with a tributary called Hooghly is dammed at Farakka. With two types of alluvium, bhangar and khadar, its namesake Upper Canal diverts water at the Haridwar dam from its glacial source in the Himalayas. This river's delta region contains a halophytic mangrove forest, the Sundarbans. Heavily polluted from industrial waste and religious practices, it flows through Uttar Pradesh and New Delhi, before emptying into the Bay of Bengal from a wide delta after merging with the Brahmaputra River. For 10 points, name this holy river in India.
+
+----
+num: 16
+category: Literature
+difficulty: HS
+fixed: 57
+seen: 443
+answer: Jack London
+
+One short story by this man ends with Tom King losing a prizefighting bout. Along with "A Piece of Steak," he wrote about Humphrey Van Weyden, who does not murder Larsen, the captain of the schooner "Ghost." He wrote about the poor in London in The People of the Abyss, while the title character of another novel is found by Gray Beaver and maltreated by Beauty Smith. In another novel by this man, Judge Miller's pet Buck becomes the alpha male of a wolf pack. For 10 points, name this author of The Sea Wolf, White Fang and The Call of the Wild.
+
+----
+num: 17
+category: Mythology
+difficulty: HS
+fixed: 1
+seen: 790
+answer: {Aeneas}
+
+This figure oversaw a boxing match between Dares and Entellus. Nursed by Caieta, he took the Lares and Penates with him, and encountered Dedalus carving reliefs on a column. He visited his father's spirit with the help of the Cumaean Sibyl. He became separated from Creusa while escaping with his son Ascanius and father Anchises, and his second wife Lavinia was the daughter of Latinus. This Trojan prince spurned the queen of Carthage, Dido, and his journey ended in the founding of Rome. For 10 points, name this subject of an epic poem by Vergil.
+
+----
+num: 18
+category: History
+difficulty: HS
+fixed: 57
+seen: 417
+answer: Battle of {Midway}
+
+Floyd B. Parks was an early casualty in this battle. One side planned this battle to occur simultaneously with the bombing of Dutch Harbor. The Enterprise and the Hornet sunk the Mikuma in this battle. It was decided by many sorties flown by dive bombers of the Dauntless. The Americans knew that the Japanese were preparing for this battle thanks to Station Hypo cracking the JN-25 code. At its end, the Hiryu's planes damaged the Yorktown, but the former was soon bombed, leaving Japan with no carriers remaining. For 10 points, name this battle which took place near a namesake atoll, the decisive naval battle of the World War II Pacific Theater.
+
+----
+num: 19
+category: Literature
+difficulty: HS
+fixed: 1
+seen: 443
+answer: The Count of {Monte Cristo} or Le {Comte} de {Monte Cristo}
+
+In this novel, the Saint-Mérans are the first victims of Héloïse's poisoning rampage. Barrois drinks the bromine meant for Valentine's paralyzed grandfather. The protagonist saves Valentine after Maximilien confesses his love. The protagonist falls in love with Haydée. The Count of Morcerf, also known as Fernand Mondego, marries Mercédès. The protagonist discovers Abbé Faria's fortune and adopts the title alias while seeking revenge for false imprisonment in the Château d'If by Villefort. For 10 points, name this novel about Edmond Dantès, by Alexander Dumas.
+
+----
+num: 20
+category: Science
+difficulty: HS
+fixed: -1
+seen: 489
+answer: Isaac {Newton}
+
+This man names the ringed pattern produced by a convex lens pressed against a flat plate, along with some formulas with Robert Cotes. His namesake "cradle" demonstrates the conservation of momentum, and he showed that white light is a mixture of colored light in his Opticks. A kilogram-meter per second squared is named after this man, the SI unit of force. His inverse square law of universal gravitation was described in Principia Mathematica, along with three laws of motion. For 10 points, name this British physicist who may have been inspired by a falling apple.
+
+----
+num: 21
+category: History
+difficulty: HS
+fixed: -1
+seen: 415
+answer: {Ramses II} or {Ramses} the Great until “{great}” is read
+
+In the third Syrian campaign, this leader led attacks on Jerusalem and Jericho, reestablishing his nation's sphere of influence in Syria. The Sed festival was held to celebrate this ruler's ascension to godhood. He sponsored the construction of the hypostyle hall at Karnak and completed construction begun under his father Seti. He signed a peace treaty with Hattusili III after winning a battle where the main Hittite army hid behind the fortress of Kadesh. At Abu Simbel, his wife Nefertari has a temple. For 10 points, name this “great” Egyptian pharaoh.

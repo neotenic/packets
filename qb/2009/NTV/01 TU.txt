@@ -1,0 +1,194 @@
+####
+tournament: NTV
+round: 01 TU.pdf
+year: 2009
+####
+
+num: 1
+category: Science
+difficulty: HS
+fixed: None
+seen: 490
+answer: Euclid of Alexandria [or {Eukleíd?s}]
+
+This man's namesake orchard consists of one-dimensional trees planted at lattice points in the plane. His namesake metric is the L-P metric with p equaling two, which is also the “usual” metric. His namesake algorithm subtracts integer multiples of one given number from another to compute the two numbers' greatest common factor. He also names geometries that assume that given a line and a point not on it, there is exactly one line that does not intersect the given line. His most famous work started from five axioms and five postulates. Name this mathematician who created the parallel postulate in his treatise on geometry, The Elements—an ancient Greek.
+
+----
+num: 2
+category: History
+difficulty: HS
+fixed: 1
+seen: 414
+answer: Vidkun Abraham Lauritz Jonssøn {Quisling}
+
+This man announced that he was taking over his country during a newscast, and his government lasted five days before being handed to Josef Terboven. He was Minister of Defense before that but left the government to form the Nasjonal (nash-jo-NAHL) Samling party, and he eventually became Minister President for two years. Resisters against this man often drew an H crossed by a 7 in support of the King Haakon VII, who escaped north to Troms. Along with Albert Hagelin and Ragnar Skancke (SKAN-ke), he was executed in 1945 for treason. Name this fascist who led a puppet government after Germany's invasion of Norway.
+
+----
+num: 3
+category: History
+difficulty: HS
+fixed: 57
+seen: 420
+answer: {Tao Te Ching} [or {Dao} De {Ching}]
+
+The last line of the seventy-seventh section of this work is now translated as saying, “To die but not be forgotten is longevity” since the 1973 discovery of two copies of this text in a tomb. Fourteen new sections were discovered in a tomb in 1993, and the ordering of the previously known 81 sections is now in doubt. This book was supposedly written in the sixth century BCE by a record-keeper at the Zhou court. The religion that holds this piece holy is very popular in China and Southeast Asia, and holds the Yin Yang in high esteem. Name this holy text written by Lao Tzu that preaches serenity, virtue, and following of The Way.
+
+----
+num: 4
+category: Science
+difficulty: HS
+fixed: 57
+seen: 483
+answer: {Ampère's} Circuit Law [or the {Ampère}-{Maxwell} Law]
+
+In combination with the London equation, this law can be used to find the penetration depth in the Meissner effect. Its original form implied that the magnetic field was solenoidal. It can also be expressed as “the curl of the H-field equals the conduction current”, and for static fields, this law is equivalent to the Biot-Savart law. Its original form was incompatible with capacitors, so Maxwell added a term of the time-derivative of the E-field, the displacement current, to this equation. This law states that the free current is proportional to the path integral of magnetic field with respect to displacement. Used to find the magnetic field produced by a wire, name this one of Maxwell's equations, named for a French physicist.
+
+----
+num: 5
+category: Trash
+difficulty: HS
+fixed: -1
+seen: 1023
+answer: Greg {Norman}
+
+Sports Illustrated writer Rick Reilly labeled this golfer's failure at the 1996 Masters the “worst collapse in major tournament history.” This man won the 1986 and 1993 British Opens among dozens of other tournaments, as well as being a main player in golf course architecture and turf production. Among younger fans, he is probably more remembered for his tied-for-third finish at the 2008 Open Championship at the age of 53 and his recent marriage to tennis legend Chris Evert. Identify this man, also nicknamed “The Great White Shark” referencing his blond hair, aggressive style, large frame, and his birthplace of Australia.
+
+----
+num: 6
+category: Literature
+difficulty: HS
+fixed: 57
+seen: 451
+answer: The {Stranger} [or The {Outsider}; or {L'etranger}]
+
+At the end of this novel, the narrator reflects on the “little robot lady” and Celeste's café after fighting the chaplain. Thomas Pérez was the so-called “fiancée” of the mother of the narrator, who has a neighbor named Salamano who beats his dog. Masson invites people to his beach house, Raymond Sintés has the narrator write a letter to his cheating girlfriend, and Marie is the narrator's girlfriend in this book which begins, “Maman died today.” Name this work about the murder of an Arab on a sunny Algerian beach by Merseult, a work by Albert Camus.
+
+----
+num: 7
+category: Fine Arts
+difficulty: HS
+fixed: 57
+seen: 498
+answer: The Death of {Socrates}
+
+This painting shows a figure at the end of a hallway, likely the main character's wife, who is being led away by two men. The right side of this painting is dominated by five men, several of whom either turn away or cover their eyes from the central scene. A broken shackle appears under the bed that the titular event takes place on, and a guard holds a cup with his right hand while an orange-clad Crito grabs the title person's thigh. That person, a bearded man pointing his index finger up in the air, looks away from the person at the foot of the bed, Plato. Name this painting in which a Greek philosopher is about to fatally drink hemlock, a 1787 work by Jacques-Louis David.
+
+----
+num: 8
+category: Literature
+difficulty: HS
+fixed: 57
+seen: 443
+answer: Edith {Wharton}
+
+This author wrote a novel about the painter George Campton, who was living abroad in France when World War I began, leading to the conscription of his son. That novel, A Son at the Front, preceded her collection of four novellas including The Old Maid; that collection is Old New York. One of her better-known works is one in which May Welland is married to Newland Archer despite his feelings for her cousin. Responsible for a work in which the title character attempts suicide by steering a sled into a tree, identify this author of The Age of Innocence, The House of Mirth, andEthan Frome.
+
+----
+num: 9
+category: Mythology
+difficulty: HS
+fixed: 1
+seen: 791
+answer: {Perseus}
+
+After saving the daughter of Cepheus and winning her hand in marriage, this character killed his rival claimant Phineus. While competing in an athletic competition, he accidentally hit his grandfather with a discus, thus fulfilling the prediction of the Oracle of Delphi that he would cause the demise of his grandfather. He stole the only eye among the Graiae in order to obtain information about their sisters. Acrisius had this character and his mother pushed out to sea in a box after Zeus fathered him via a golden shower. On his way to complete a task given him by Polydectes, he borrowed Athena's shield and Hermes' winged sandals. On his way back, he rescued Andromeda. Identify this son of Danaë, the Greek hero who killed Medusa.
+
+----
+num: 10
+category: History
+difficulty: HS
+fixed: 1
+seen: 411
+answer: Simón José Antonio de la Santísima Trinidad {Bolívar} y Palacios Ponte Blanco
+
+This mentee of Baron von Humboldt was victorious in the Admirable Campaign and was able to force the retreat of Jose de Canterac from the Junin Plain. This leader worked with General Santander to win the Battle of Boyaca, and he defended certain war atrocities in his “Decree of War to the Death”. This man's best known lieutenant, who won the Battle of Pichincha, was Antonio Jose de Sucre. This leader's first attempts to set up an independent country failed in 1811 and 1815, but he eventually defeated the Spanish to free most of what is now Venezuela, Colombia, Panama, Ecuador and Peru. Name this first president of Gran Colombia who was known as “the Liberator”.
+
+----
+num: 11
+category: Literature
+difficulty: HS
+fixed: 1
+seen: 448
+answer: {Cat on a Hot Tin Roof}
+
+In this work, one character is accused of playing in “the cut-glass punch bowl” and is referred to a rehab center, Rainbow Hill. Another character recounts a story about a couple who went to the zoo with their son, only to see two aroused elephants. A servant named Sookie is seen as Dr. Baugh and Reverend Tooker deliver some bad news. This play tells the story of a Southern family that features the sexually frustrated Maggie and Brick Pollitt. Name this work that also concerns the cancer-plagued Big Daddy, a work by Tennessee Williams in which Maggie claims that there is nothing more determined than the title animal.
+
+----
+num: 12
+category: Geography
+difficulty: HS
+fixed: 1
+seen: 712
+answer: {Cape Town} [or {Kaapstad}; or {iKapa}]
+
+Suburbs of this city include Constantia, Hout Bay, and Stellanbosch. Tourist attractions in this city include the Victoria and Alfred Waterfront and the Bo-Kaap, the city's former Malay quarter, which lies on the slopes of Signal Hill. Signal Hill along with three other mountains form the borders of the city bowl, which contains the city's downtown, as well as District Six, where 60,000 residents were forcibly evicted in the 1970s. This city, the home of Africa's highest-ranking university, overlooks Table Bay, where Robben Island lies. Table Mountain overlooks this city, and its Green Point Stadium is a 2010 World Cup Venue. Name this legislative capital of South Africa.
+
+----
+num: 13
+category: Fine Arts
+difficulty: HS
+fixed: 57
+seen: 495
+answer: George Frederick {Handel}
+
+This composer wrote two settings of a John Dryden poem in honor of the patron saint of music; the first and more famous composition sees the musician Timotheus inspire a ruler to burn Persepolis. In addition to Alexander's Feast, Ode for St. Cecilia's Day, this composer included an emphatic réjouissance and two minuets in a suite commemorating the Treaty of Aix-la-Chapelle. That suite is often paired today with suites in F, D, and G Major, composed to accompany King George I on the Thames River. Name this Anglo-German composer of Water Music, Music for the Royal Fireworks, and an oratorio containing the “Hallelujah Chorus,” the Messiah.
+
+----
+num: 14
+category: History
+difficulty: HS
+fixed: 1
+seen: 415
+answer: {Nebuchadnezzar} II
+
+This man assumed the throne after winning the Battle of Carchemish, in which he defeated Egypt to conquer Syria and Phoenicia. He went to great lengths to rebuild his empire to its former glory, overseeing construction of Entemenanki, Ezida, Esagila, and the Ishtar Gate during the sixth century BCE. The Hebrew Bible, mainly the books of Daniel and Jeremiah, details his destruction of Jerusalem and the Temple, as well as the attempted murder of three Jews by tossing them into a fiery furnace only to watch them come out unharmed. Name this Chaldean king most famous for the Hanging Gardens of Babylon.
+
+----
+num: 15
+category: Science
+difficulty: HS
+fixed: 57
+seen: 487
+answer: {echinodermata} [or {echinoderms}]
+
+One grouping under this phylum, distinguished by a concentrically arranged skeleton, lives on waterlogged wood and is called sea daisies. These animals possess snapping structures used to keep away small organisms, the pedicellaria, as well as an ambulacral system, used for respiration, locomotion, and defense, and based on water pressure. That water vascular system drives structures used for feeding and gas exchange, the tube feet. This phylum's members have imperfect radial symmetry of five parts, and include sea cucumbers, urchins, and sand dollars. Name this phylum that also includes the class asteroidea—sea stars—with a name that comes from the Greek for “spiny skin”.
+
+----
+num: 16
+category: Social Science
+difficulty: HS
+fixed: 1
+seen: 381
+answer: Stanley {Milgram}
+
+This man coined the term “familiar stranger” and devised an experiment in which he left around letters addressed to hospitals and Nazis and waited to see which got delivered. In another experiment, this man tried to see if a person could get a package to someone across the country through “Six Degrees of Separation.” In addition to the “Lost Letter” and “Small World” experiments, the Nuremburg trials inspired him to create an experiment in which actors responded to questions with incorrect responses, and subjects were told to “please continue” as they delivered what they believed were increasingly painful electrical shocks to the actors. Name this American psychologist who conducted a namesake Obedience to Authority Experiment.
+
+----
+num: 17
+category: Science
+difficulty: HS
+fixed: 57
+seen: 494
+answer: {barium} [accept {Ba} before the end]
+
+Water- or acid-soluble compounds with this element are highly toxic, because this element can block potassium channels in the membranes of neurons. It is considered to be a heavy metal, but not a transition metal. The relatively heavy nuclei of this element helps make its low solubility sulfate an excellent X-ray absorber that can be administered to serve as a radio contrast in the gastrointestinal tract. Like copper, it gives a green flame test. Identify this element with a name from the Greek for “heavy”, and with atomic number 56, symbolized Ba.
+
+----
+num: 18
+category: Literature
+difficulty: HS
+fixed: 57
+seen: 447
+answer: “{My} Last {Duchess}”
+
+In this poem, a “gift of a nine-hundred-years-old name” is given by the speaker, who also refers to “some officious fool” who broke “the bough of cherries”. This poem discusses a figure “too easily impressed” who “liked whate'er she looked on” in addition to riding “round the terrace” on a “white mule”. At the conclusion of the poem, the speaker mentions, in passing, a statue of a sea-horse being tamed by Neptune, “which Claus of Innsbruck cast in bronze” for him. Seeing this poem's title character, whose heart “was too soon made glad”, “looking as if she were alive” even though she is just “painted on the wall”; identify this poem about the Duke of Ferrara's dead wife as depicted in a painting by Frà Pandolf, a work of Robert Browning.
+
+----
+num: 19
+category: History
+difficulty: HS
+fixed: 57
+seen: 411
+answer: John Edgar {Hoover} [prompt on partial answer]
+
+One of this man's books popularized the term “fellow traveler” and concerned subversives and their sympathizers. He was investigated by Frank Church, and he also led the Justice Department's General Intelligence Division, a role in which he researched targets of the Palmer Raids. This government official created the CO-INTEL-PRO, which sabotaged student organizations and the Black Panthers, and he attempted to extort Martin Luther King. Rumors abound that he was a cross-dresser and engaged in a gay relationship with his assistant, and his secret files included extensive dossiers on many public figures. Name this man who before his death in 1972 was the head of the FBI.

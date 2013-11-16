@@ -1,0 +1,392 @@
+####
+tournament: #6535
+round: Show #6535 - Friday, February 1, 2013
+year: 2013
+date: 2013-02-01
+####
+
+num: 1
+category: Literature
+difficulty: 200
+seen: 5
+answer: an island
+
+A land mass surrounded on all sides by water.
+
+----
+num: 2
+category: Mythology
+difficulty: 200
+seen: 12
+answer: Jason
+
+This leader of the Argonauts was raised by the centaur Chiron.
+
+----
+num: 3
+category: Science
+difficulty: 200
+seen: 7
+answer: helium
+
+Good thing the body doesn't contain any of this second-lightest gas, otherwise you might float away.
+
+----
+num: 4
+category: Literature
+difficulty: 200
+seen: 4
+answer: chlorophyll
+
+Chloroform is an old-time anesthetic; this is the pigment that makes plants green.
+
+----
+num: 5
+category: History
+difficulty: 200
+seen: 4
+answer: Darwin
+
+He spent 5 years as a naturalist aboard the H.M.S. Beagle before returning homt to England in 1836.
+
+----
+num: 6
+category: Literature
+difficulty: 400
+seen: 4
+answer: Wednesday
+
+It follows "Ash" in the name of the first day of Lent.
+
+----
+num: 7
+category: Mythology
+difficulty: 400
+seen: 13
+answer: Achilles
+
+His mother Thetis made the mistake of bathing him in the River Styx by holding him by the heel, thus making his heel vulnerable.
+
+----
+num: 8
+category: Science
+difficulty: 400
+seen: 5
+answer: mercury
+
+Oops--it looks like somebody spilled.
+
+----
+num: 9
+category: Literature
+difficulty: 400
+seen: 5
+answer: a mosaic
+
+Prosaic means dull; this is a picture made of small bits of inlaid glass or stone.
+
+----
+num: 10
+category: History
+difficulty: 400
+seen: 4
+answer: Arizona
+
+In August 2012, 19 months after she was shot, former U.S. Rep. Gabrielle Giffords returned home to this state.
+
+----
+num: 11
+category: Literature
+difficulty: 600
+seen: 4
+answer: a psychic
+
+From the Greek for "soul", it's someone who can foresee the future or read minds.
+
+----
+num: 12
+category: Mythology
+difficulty: 600
+seen: 11
+answer: the Gordian knot
+
+The yoke of a chariot was lashed to a pole via this, named for the man who tied it so intricately.
+
+----
+num: 13
+category: Science
+difficulty: 600
+seen: 5
+answer: titanium
+
+This metal that's as strong as steel but 45% lighter is mentioned in a song by Sia & David Guetta.
+
+----
+num: 14
+category: Literature
+difficulty: 600
+seen: 3
+answer: a musical instrument
+
+Helicoid describes something shaped like a spiral; a helicon is a coiled brass type of this.
+
+----
+num: 15
+category: Literature
+difficulty: 800
+seen: 4
+answer: hours
+
+February 2013 has 672 of these units.
+
+----
+num: 16
+category: Mythology
+difficulty: 800
+seen: 10
+answer: Hermes
+
+This Greek messenger was also the conductor of souls to the underworld.
+
+----
+num: 17
+category: Science
+difficulty: 800
+seen: 6
+answer: sodium
+
+To cut down on salt in your diet, you need to cut down on this element.
+
+----
+num: 18
+category: History
+difficulty: 800
+seen: 4
+answer: Mount Vernon
+
+In 1797 George Washington retired to this estate where he died 2 years later.
+
+----
+num: 19
+category: Literature
+difficulty: 1000
+seen: 4
+answer: a knife
+
+A Bowie one is long & dangerous.
+
+----
+num: 20
+category: Mythology
+difficulty: 1000
+seen: 12
+answer: a Minotaur
+
+Asterius was the name of this hybrid creature kept in the labyrinth.
+
+----
+num: 21
+category: Science
+difficulty: 1000
+seen: 7
+answer: arsenic
+
+The hair of Otzi the iceman showed high levels of this poisonous element, no. 33, but that's not what killed him.
+
+----
+num: 22
+category: Literature
+difficulty: 1000
+seen: 4
+answer: basalt
+
+Cobalt is a silver-white metal; this is a hard, dark volcanic rock, common in the earth's crust.
+
+----
+num: 23
+category: History
+difficulty: 1000
+seen: 3
+answer: Maui
+
+The Lahaina historic district on this Hawaiian island was a favorite home of kings & chiefs.
+
+----
+num: 24
+category: Literature
+difficulty: 400
+seen: 4
+answer: (F. Scott) Fitzgerald
+
+He wrote much of "The Great Gatsby" in France & then revised it while he wintered in Rome.
+
+----
+num: 25
+category: Geography
+difficulty: 400
+seen: 7
+answer: the Amazon
+
+It drains an area of 2.7 million square miles in 7 South American countries.
+
+----
+num: 26
+category: History
+difficulty: 400
+seen: 5
+answer: independent
+
+The Senate breaks down as.
+
+----
+num: 27
+category: Literature
+difficulty: 400
+seen: 3
+answer: a mirror
+
+A superstition says breaking one of these brings on 7 years of bad luck.
+
+----
+num: 28
+category: Literature
+difficulty: 800
+seen: 4
+answer: Cassandra Claire
+
+She wrote a piece of Jane Austen fan fiction called "The Beautiful Cassandra", inspiring her pen name.
+
+----
+num: 29
+category: Geography
+difficulty: 800
+seen: 6
+answer: Scotland
+
+2 of this U.K. country's major rivers are the Tay & the Clyde.
+
+----
+num: 30
+category: History
+difficulty: 800
+seen: 4
+answer: a watchdog
+
+John Dingell, who won a 30th 2-year term, is "America's" this canine who keeps an eye on Govt. & private misdeeds.
+
+----
+num: 31
+category: Literature
+difficulty: 800
+seen: 3
+answer: hockey
+
+Ducks, Canucks & other players of this pro sport know it's bad luck to leave your sticks crossed.
+
+----
+num: 32
+category: Literature
+difficulty: 1200
+seen: 4
+answer: R.L. Stine
+
+"I never get scared", says this author of the "Fear Street" books.
+
+----
+num: 33
+category: Geography
+difficulty: 1200
+seen: 7
+answer: the Volga
+
+With just a bit in Kazakhstan, most of the 2,200-mile length of this river is found in Russia.
+
+----
+num: 34
+category: History
+difficulty: 1200
+seen: 5
+answer: Hispanic
+
+Texas now has its first senator of this ethnicity that makes up about 40% of the state's people.
+
+----
+num: 35
+category: Literature
+difficulty: 1200
+seen: 4
+answer: whistling
+
+Even if you're doing it "while you work", it's bad luck to do this backstage at a theater.
+
+----
+num: 36
+category: Literature
+difficulty: 1600
+seen: 4
+answer: a crypt
+
+A burial chamber below ground.
+
+----
+num: 37
+category: Geography
+difficulty: 1600
+seen: 8
+answer: the Yellow River
+
+Called the cradle of Chinese civilization, the Huang He River has this colorful name in English.
+
+----
+num: 38
+category: History
+difficulty: 1600
+seen: 5
+answer: (Elizabeth) Warren
+
+consumer advocate is the first female senator from Massachusetts.
+
+----
+num: 39
+category: Literature
+difficulty: 1600
+seen: 4
+answer: Friday
+
+The Olsen Twins have found fortune despite being born on June 13, 1986, this day of the week.
+
+----
+num: 40
+category: Literature
+difficulty: 2000
+seen: 6
+answer: Truman Capote
+
+This author called his 1966 masterpiece "In Cold Blood" a "nonfiction novel".
+
+----
+num: 41
+category: Literature
+difficulty: 2000
+seen: 5
+answer: a tryst
+
+A secret appointment between lovers.
+
+----
+num: 42
+category: History
+difficulty: 2000
+seen: 7
+answer: the Tea Party
+
+Rep. Michele Bachmann says she formed this caucus to get Congress back to obeying the Constitution.
+
+----
+num: 43
+category: Literature
+difficulty: 2000
+seen: 5
+answer: the opal
+
+Some have thought his October birthstone bad luck, perhaps because it looks like cats' creepy eyes.

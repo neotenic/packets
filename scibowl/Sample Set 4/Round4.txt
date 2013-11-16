@@ -1,0 +1,287 @@
+####
+tournament: Sample Set 4
+round: Round4.pdf
+####
+
+num: 1
+category: Physical Science
+difficulty: MS
+seen: 6
+answer: Gold
+
+Which element derives its symbol from the Latin word 
+Aurum ?
+
+----
+num: 1
+category: Physical Science
+difficulty: MS
+seen: 6
+answer: Diprotic
+
+
+What is the term for a chemical species having two ionizable hydrogen atoms?
+
+----
+num: 2
+category: Life Science
+difficulty: MS
+seen: 12
+answer: Carnivores (Accept: Predators)
+
+What are animals that eat other animals known as?
+
+----
+num: 3
+category: Math
+difficulty: MS
+seen: 6
+answer: 11
+23
+
+Simplify completely the fraction 2311
+.
+
+----
+num: 4
+category: Energy
+difficulty: MS
+fixed: -1
+seen: 7
+answer: France, Bra Zil, India, and China
+
+Put the following countries in order from least to greatest current annual oil consumption: Br azil, France, India, and China.
+
+----
+num: 5
+category: Physical Science
+difficulty: MS
+seen: 6
+answer: Molecule
+ __
+
+What is the smallest non-divisible unit of a covalent compound?
+
+----
+num: 6
+category: Math
+difficulty: MS
+seen: 6
+answer: 12
+
+How many 4 inch square tiles will be needed to cover a rectangular surface 8 inches by 24 inches?
+
+----
+num: 6
+category: Math
+difficulty: MS
+seen: 6
+answer: 8
+
+How many triangular pieces with side lengths of 3 inches, 4 inches, and 5 inches can be cut from a rectangular sheet measuring 8 inches by 6 inches?
+
+----
+num: 7
+category: Life Science
+difficulty: MS
+seen: 11
+answer: Microbiologist
+
+What is the general name given to a scientist who studies microorganisms?
+
+----
+num: 8
+category: Energy
+difficulty: MS
+seen: 7
+answer: Electromagnetic (Accept: Electromagnetic Wave)
+
+Name the form of energy used to transmit and receive signals from radios, cell phones, and televisions.
+
+----
+num: 8
+category: Energy
+difficulty: MS
+seen: 6
+answer: Their Wavelength (Also Accept: Frequency or Period)
+
+What is the main difference between the electromagnetic waves used by a radio and those used by a cell phone?
+
+----
+num: 9
+category: Earth and Space Science
+difficulty: MS
+seen: 6
+answer: Antarctica
+
+Lake Vostok, thought to be a good analogue for an under-ice ocean environment on Europa, can be found underneath glacial ice on which continent?
+
+----
+num: 10
+category: Math
+difficulty: MS
+seen: 7
+answer: X = 5 and Y = 0
+
+If x + y = 5 and 3x – 4y = 15, solve for x and y.
+
+----
+num: 11
+category: Life Science
+difficulty: MS
+seen: 10
+answer: 100,000
+
+
+In a given ecosystem, there are 1 million kilojoules of energy contained in the primary producer biomass. How much energy is available, in kilojoules, to secondary consumers if primary consumers are 10% efficient at converting energy to biomass?
+
+----
+num: 12
+category: Math
+difficulty: MS
+fixed: -1
+seen: 6
+answer: 50%
+
+Mike’s bill for texting last month was $10. This month it was $15. 
+What was the percentage increase in the bill?
+
+----
+num: 12
+category: Math
+difficulty: MS
+fixed: -1
+seen: 6
+answer: $48
+
+Ira puts 20% of his paycheck in savings. If his check is $60 per week, how much money will he save in four weeks?
+
+----
+num: 13
+category: Earth and Space Science
+difficulty: MS
+seen: 6
+answer: Crust
+
+The Mohorovičić (read as: mōe-HOH-rōe-vi-tsik) discontinuity, commonly referred to as the Moho discontinuity, defines a contrast in seismic velocity that is widely accepted to be the boundary between the mantle and what layer?
+
+----
+num: 13
+category: Earth and Space Science
+difficulty: MS
+seen: 5
+answer: Iron
+
+
+The Earth's core is believed to be composed primarily of what element?
+
+----
+num: 14
+category: General Science
+difficulty: MS
+seen: 5
+answer: Ball and Socket
+
+The intersection between the femur and the hipbone can be described as what kind of joint?
+
+----
+num: 15
+category: Earth and Space Science
+difficulty: MS
+seen: 6
+answer: Colorado River
+
+Due to the construction of the Hoover Dam, the delta of what river has been affected by changes in water flow?
+
+----
+num: 15
+category: Earth and Space Science
+difficulty: MS
+seen: 5
+answer: Riparian Zones (Accept: Riparian Areas, Floodplain)
+ 
+
+What are the ecosystems called that are located around rivers and streams, linking water to dry land?
+
+----
+num: 16
+category: Physical Science
+difficulty: MS
+seen: 6
+answer: Solubility Incre Ases
+
+For solid and liquid solutes, changes in pressure have practically no effect on solubility. For gaseous solutes, what happens to solubility with an increase in pressure?
+
+----
+num: 17
+category: General Science
+difficulty: MS
+seen: 6
+answer: Spleen
+
+What body organ destroys and recycles old and damaged red blood cells?
+
+----
+num: 17
+category: General Science
+difficulty: MS
+seen: 6
+answer: Amylase   (Also Accept: Ptyalin)
+
+
+Name the enzyme present in saliva that is responsible for breaking downs tarches into sugars.
+
+----
+num: 20
+category: General Science
+difficulty: MS
+seen: 5
+answer: Amplitude
+
+What is the vertical distance from the undisturbed position of the medium to the top of a crest of a wave called?
+
+----
+num: 22
+category: General Science
+difficulty: MS
+seen: 6
+answer: Gravity
+
+What is the force that determines the shape of planets, stars, and the Solar System?
+
+----
+num: 23
+category: Physical Science
+difficulty: MS
+seen: 5
+answer: Hexagonal (Also Accept: Six-Sided)
+
+Although snowflakes can have many forms, generally, snow crystals have what basic shape?
+
+----
+num: 24
+category: Earth and Space Science
+difficulty: MS
+seen: 5
+answer: Oolitic (Accept: Oolite)
+
+A large portion of the bottom of the Great 
+Salt Lake is covered by smooth, soft and rounded sand, often used in home aquaria. What kind of sand is it ?
+
+----
+num: 25
+category: Math
+difficulty: MS
+seen: 6
+answer: 2
+
+How many modes does the following list of se ven numbers have: 1, 4, 4, 7, 8, 14, 14?
+
+----
+num: 25
+category: Math
+difficulty: MS
+seen: 6
+answer: Outliers
+
+If you have a data set of the following seven values: 1, 2, 547, 550, 560, 580, 540 , what is the name given to values such as 1 and 2?

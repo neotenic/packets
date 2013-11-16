@@ -1,0 +1,234 @@
+####
+tournament: HSAPQ NASAT Tryout Set
+round: nasat-sample-01.pdf
+year: 2009
+####
+
+num: 1
+category: Science
+difficulty: HS
+fixed: 57
+seen: 491
+answer: {complete} [accept {NP}-{complete} before {BPP}]
+
+The Berman-Hartmanis conjecture states that for one certain class, all sets with this property are pairwise P-isomorphic. BPP has no known languages with this property. A tree of this type has all leaves on the last or second to last level, and all on the left. For a complexity class, if a problem is both that class hard and in that class, that problem can be described as having this property. In graph theory, a graph has this property if every pair of vertices is connected by an edge. For 10 points, give this word that when talking about decision problems such as knapsack and traveling salesman is added to the end of NP.
+
+----
+num: 2
+category: Fine Arts
+difficulty: HS
+fixed: 57
+seen: 495
+answer: {Rodeo}
+
+One section of this work quotes the Irish folk song "Gilderoy" between interpretations of "McLeod's Reel." Its composer arranged all but one of its movements into a symphonic suite titled Four Dance Episodes from this work. This work quotes the railroad song "Sis Joe" in its first and fifth movements, and its main theme is taken from a folk song called "Bonaparte's Retreat." Its movements include "Saturday Night Waltz," "Corral Nocturne," and "Buckaroo Holiday." This ballet's plot is driven by rivalry over the Rancher's Daughter between the Champion Roper and the Wrangler, who ends up with the Cowgirl. For 10 points, name this ballet which features a "Hoe Down" and was written by Aaron Copland.
+
+----
+num: 3
+category: Literature
+difficulty: HS
+fixed: 57
+seen: 441
+answer: Republic of {Guatemala}
+
+One novel set in this nation sees Angel Face (an-HELL FAH-say) advise the title figure. Another novel set here depicts Gaspar Ilom's guerrilla war against agribusiness in this nation. Another author from this country was the subject of a book entitled "I," followed by her name, which detailed the war crimes against the Quiche (KEE-chay) peoples committed by its government. A novelist from this country depicted its natives struggling against commercial corngrowers in Men of Maize and used its former leader Estrada Cabrera as inspiration for the novel El Señor Presidente. For 10 points, name this nation, the homeland of Miguel Asturias and Rigoberta Menchu.
+
+----
+num: 4
+category: Social Science
+difficulty: HS
+fixed: 1
+seen: 384
+answer: Marcel {Mauss}
+
+This author used the term "agonistic" to describe a competitive mechanism, which Derrida critiqued as providing only "time." This author's student Maurice Leenhardt coined the term "total social fact" in a reading of one of this man's works, which claims that the title object is imbued with "spiritual mechanisms" as a "total presentation." This author drew on Malinowski's description of the kula ring and the potlatch to argue that exchange creates an obligation to reciprocate, in a work on "the form and reason of exchange in archaic societies." For 10 points, name this French anthropologist, the nephew of Durkheim who wrote The Gift.
+
+----
+num: 5
+category: History
+difficulty: HS
+fixed: 1
+seen: 421
+answer: {North Carolina}
+
+An 1829 ruling by this state's supreme court held that John Mann could not be prosecuted for shooting a slave because "The power of the master must be absolute, to render the submission of the slave perfect." During the Civil War, this state was governed by Zebulon Vance. In 1718, Alexander Spotswood invaded this state in order to capture the pirate Blackbeard. During the American Revolution, Lord Cornwallis won a pyrrhic victory over Nathanael Greene at this state's Battle of Guilford Courthouse. The Tuscarora War was fought in this state, whose fugitive slaves commonly hid out in its northeastern Great Dismal Swamp, which it shares with Virginia. For 10 points, name this state where the Wright brothers made their first successful flight at Kitty Hawk.
+
+----
+num: 6
+category: Science
+difficulty: HS
+fixed: 1
+seen: 481
+answer: amylase
+
+Gibberellins are thought to induce germination by forcing the secretion of this enzyme by aleurone cells. The potency of a preparation of this enzyme may be measured in degrees Lintner. One form of this enzyme is inhibited by a compound isolated from white beans called phaseolamin. This enzyme's gamma form will act on alpha-1,6 bonds and favors acidic environments. Another form of this enzyme successively produces maltose units and functions in ripening; that form is the beta form. This enzyme breaks alpha-1,4-glycosidic bonds and is quickly inhibited by gastric acid. For 10 points, name this group of enzymes that break down starch into sugar, whose best known form is the "salivary" form.
+
+----
+num: 7
+category: Religion
+difficulty: HS
+fixed: -1
+seen: 443
+answer: {seder}
+
+The book P'ri Etz Hadar popularized one of these events, which was established by the mystics of Safed in the sixteenth century. In that version of this event, participants drink white wine, then mixtures of white and red wine, and finally only red wine. In addition to the version of this event celebrated on Tu B'Shvat, participants in a different one of these events sing songs such as "Chad Gayda" and "Adir Hu." That version of this event ends with the phrase "Next year in Jerusalem," and features the hunt for the missing afikomen. Participants in this event place charoset and bitter herbs between matzah and recount the story of the exodus of the Jews from Egypt. For 10 points, name this celebratory meal held during Passover.
+
+----
+num: 8
+category: Literature
+difficulty: HS
+fixed: 57
+seen: 437
+answer: "The {Hollow Men}"
+
+This poem's fourth section compares eyes to Dante's description of heaven as "the perpetual star / Multifoliate rose." This poem's third section laments that "Lips that would kiss / Form prayers to broken stone" and begins "This is the dead land." In the first section of this poem, the title group describe themselves as "Shape without form, shade without colour / Paralyzed force, gesture without motion," and call themselves "stuffed." The speaker of fifth and final section of this poem asserts "Between the idea / And the reality / falls the Shadow" and attempts to recite the Lord's Prayer, before concluding "This is the way the world ends / Not with a bang but a whimper." For 10 points, name this T. S. Eliot poem named for people who are spiritually empty.
+
+----
+num: 9
+category: Fine Arts
+difficulty: HS
+fixed: 57
+seen: 488
+answer: {Tintoretto} [or {Jacopo Robusti}]
+
+An armor-wearing knight almost falls out of a boat while kissing a nude Egyptian princess in this painter's The Liberation of Arsinoe. This artist painted portraits of Antonio Cappello, Nicolo Priull and other procurators of his city. After a 1577 fire devastated the Palazzo Ducale, he was commissioned to create the ceiling panel Defence of Brescia. At the center of another painting by this artist, a bearded, turbaned man holds up broken instruments of torture after a man lying on the ground is freed by St. Mark. In his painting of the Last Supper, a blazing lamp in the upper left lights up a dark room depicted on a diagonal. For 10 points, name this Renaissance artist from Venice who painted The Miracle of the Slave and whose nickname means "little dyer."
+
+----
+num: 10
+category: History
+difficulty: HS
+fixed: 57
+seen: 419
+answer: {Aviz} Dynasty
+
+This dynasty won the throne in a succession crisis that started with the overthrow of Leonor Teles and ended, shortly before its founder signed the Treaty of Windsor with England, with a victory at the Battle of Aljubarrota. The Sixty Years' Captivity began upon the death of Henry I, the last ruler of this dynasty; Henry had succeeded to the throne when Sebastian disappeared, presumed dead, after being defeated at Alcazarquivir. The best-known member of this dynasty did not even rule the country, but sponsored expeditions that sailed around Cape Bojador and reached the mouth of the Gambia River. For 10 points, name this dynasty that ruled Portugal from 1384 to 1580, whose members included Henry the Navigator.
+
+----
+num: 11
+category: Geography
+difficulty: HS
+fixed: 57
+seen: 704
+answer: {Yellow} River [or {Huang He}; or {Huang Ho}]
+
+The middle course of this river cuts through the Loess Plateau, and silt collection at this river's Sanmen Gorge dam has led to erosion in its delta. Ice jams on this river near Kaifeng are broken up by air bombardment, and rises in the Bayan Har Mountains on th Eastern Tibetan Plateau. This river flows through the cities of Xi'an, Lanzhou, and Jinan, and it is connected to the Wei River by the People's Victory Canal. This river's propensity to flood the North China Plain has earned it the nickname "China's Sorrow." For 10 points, name this second longest river in China that flows into its namesake sea.
+
+----
+num: 12
+category: Science
+difficulty: HS
+fixed: 1
+seen: 483
+answer: hysteresis
+
+A model of this phenomenon that plots relays by alpha and beta thresholds scaled by a factor mu is named for Preisach. The creation of a system of a certain type of wire exhibiting this phenomenon results in the Wiegand effect, and it can be measured by plotting magnetic field versus Kerr rotation. Motion in domain walls associated with this leads to the Barkhausen effect. The persistence of magnetization after an external magnetic field is removed is this effect's namesake "loop." For 10 points, name this phenomenon in which a material exhibits "memory" by lagging in response to changes.
+
+----
+num: 13
+category: Literature
+difficulty: HS
+fixed: 1
+seen: 450
+answer: The {Master} and {Margarita}
+
+In this novel's fourth chapter, a poet nicknamed "Homeless" is arrested and taken to a hospital run by Dr. Stravinsky. The main female character of this novel destroys the apartment of the critic Lasunsky after rubbing cream on her body that makes her youthful but turns her into a witch. The antagonist of this novel moves into Apartment number fifty, and gives a ball on Walpurgis Night where Baron Maigel is murdered. That antagonist is accopanied by the demons Azazello, Behemoth, and Korovyev, and is known as Professor Woland. The first title character of this novel writes a novel about Pontius Pilate, and is eventually reunited with the title woman. For 10 points, name this novel in which Satan visits Moscow, the masterpiece of Mikhail Bulgakov.
+
+----
+num: 14
+category: History
+difficulty: HS
+fixed: -1
+seen: 411
+answer: Battle of {Dien Bien Phu}
+
+This battle begun with a nighttime offensive on a position named Beatrice during which the attackers used direct artillery fire because of their lack of experienced gunners. The next phase of this battle centered on Gabrielle and rendered the defenders' airstrip useless, after which many of the indigenous T'ai people abandoned Anne-Marie. Following several days of trench warfare, a final all-out assault was ordered by Vo Nguyen Giap, leading to the capture of over 10,000 prisoners. For 10 points, name this 1954 battle, the decisive engagement in the First Indochina War.
+
+----
+num: 15
+category: Philosophy
+difficulty: HS
+fixed: 1
+seen: 516
+answer: Walter {Benjamin}
+
+In one work, this thinker analyzes the development of the Trauerspiel genre of drama. This author of The Origin of German Tragic Drama and Theses on the Philosophy of History spent years unsuccessfully trying to complete his analysis of certain structures in Paris that were key to the culture of the flaneur or “stroller.” This author of The Arcades Project wrote an essay describing how mass culture shattered the “aura” ritualistically associated with unique pieces of art. For 10 points, name this French philosopher from the Frankfurt School, the author of The Work of Art in the Age of Mechanical Reproduction.
+
+----
+num: 16
+category: Fine Arts
+difficulty: HS
+fixed: 57
+seen: 501
+answer: Samuel Osborne {Barber} II
+
+This composer wrote an extended cantata whose first part climaxes on "Thou art unchanging," which is set to text taken from the journals of Kierkegaard. An opera by this composer features the aria "Must the Winter Come So Soon" and a scene at a New Year's Eve party where the title character becomes engaged to her former lover's son, both of whom are named Anatol. This composer arranged one of his B-flat minor works for eight-part choir as a setting of Agnus dei; that work is in four-two time and was originally the second movement of his first string quartet. For 10 points, name this composer of Vanessa, Concerto for Piano and Orchestra, and Adagio for Strings.
+
+----
+num: 17
+category: Science
+difficulty: HS
+fixed: -1
+seen: 492
+answer: {oxygen}
+
+The solid red epsilon phase of this material has been shown to be a crystal of eight-atom molecules, and its singlet state has been observed in reactions with enzymes such as chloroperoxidase. Its singlet state can also mediate Diels-Alder and other -ene reactions, and this element undergoes a cycle with fluorine in certain massive stars. A lack of nickel or tectonic event are two theories for this element's namesake "catastrophe," or its precipitous increase in the atmosphere millions of years after the development of photosynthetic plants. For 10 points, this is what element of atomic weight 16, symbolized O?
+
+----
+num: 18
+category: Literature
+difficulty: HS
+fixed: 57
+seen: 439
+answer: {Delta Wedding}
+
+Several field hands and servants in this novel live in Brunswicktown, a location contrasted with a mansion that includes the Deadening and Mound Field. In this novel, the field hands prepare Marmion under Uncle Battle's orders. An unappreciated cousin in this novel is saved in a railroad tressle by George, whose wife Robbie is forced to travel to Shellmound to attend the title event. This novel begins with nine year old Laura McRaven taking a train from Jackson to see her cousin participate in the title event. For 10 points, name this novel by Eudora Welty about the marriage of Troy Flavin and Dabney Fairchild.
+
+----
+num: 19
+category: History
+difficulty: HS
+fixed: 57
+seen: 413
+answer: Margaret {Thatcher}
+
+While serving as Secretary of Education, this politician ended the policy of providing free milk for elementary school children, which led critics to call this politician "milk snatcher." The second term of this prime minister featured the privatization of Girobank and the National Grid, and saw this poitician survive an assassination attempt during the Brighton Hotel bombing. Michael Heseltine resigned from this leader's cabinet during the Westland Affair, though better known events from this leader's tenure were the earlier hunger strike led by Bobby Sands and the Falkland Islands War. For 10 points, name this prime minister of Great Britain nicknamed the "Iron Lady."
+
+----
+num: 20
+category: Mythology
+difficulty: HS
+fixed: 1
+seen: 778
+answer: {Hecate}
+
+The Theogony notes that this goddess is "a nurse of the young" and that, although she is an only child, Zeus honors this goddess "above all." Although this goddess was mainly worshipped at Lagina, she is believed to be of Carian origin and possibly originally a daughter of Cybele. According to the Homeric Hymn to Demeter, this daughter of Perses and Asteria also heard Persephone's cries. Female puppies were sacrificed to this goddess, who was sometimes equated with Artemis by the Greeks and moon goddesses by the Romans. Jason made an offering of black ewe's blood and honey to this goddess to obtain her help in applying "the Promethean charm" prepared by Medea, a disciple of this goddess. For 10 points, name this goddess of witchcraft, most associated with black magic.
+
+----
+num: 21
+category: History
+difficulty: HS
+fixed: 57
+seen: 419
+answer: {Schmalkaldic} League
+
+The chief English ambassadors to this entity were Christopher Mont, Edward Foxe, and Nicholas Heath. William Paget and Robert Barnes talked with this group about a common opposition to the Hapsburgs, and considered paying one hundred thousand crowns in return for English membership in this entity. Led by Philip of Hesse and and John Frederick of Saxtony, it eventually lost at Mulhberg to Spanish soldiers led by Charles V. Thomas Cromwell encouraged Henry VIII to support this entity, leading the king to marry Anne of Cleves. Founded at a namesake Thuringian town in 1530, for 10 points, name this group of German protestant states during the Reformation who formed an alliance modeled after the Swabian League.
+
+----
+num: 22
+category: Science
+difficulty: HS
+fixed: -1
+seen: 483
+answer: {brown dwarfs}
+
+One class of these objects was discovered when an expected titanium dioxide absorption band was not found. These objects have fairly consistent radii because light ones are limited by Coulomb pressure, while heavier ones are limited by electron degeneracy pressure. Divided into classes like L, T, and Y, these objects can be identified via the presence of methane, and the majority of them exhibit a lithium line. These objects must be fully convective, with no difference in composition at different depths. For 10 points, name these objects too small to maintain continuous nuclear fusion.
+
+----
+num: 23
+category: Literature
+difficulty: HS
+fixed: 57
+seen: 444
+answer: {Euripedes}
+
+In one of this author's plays, Heracles kills the tyrant Lycus, only to kill his children upon being driven insane by Hera. This playwright wrote about a power struggle in Thebes following the departure of Oedipus in The Suppliants. The title character agrees to take Admetus' place in death in this author's play Alcestis. This author of the only remaining satyr play, Cyclops, wrote a play whose title character kills her rival with a poisoned dress, as well as a play in which Hecuba, Cassandra, and Andromache lament their fates before being taken captive to Greek ships. For 10 points, name this ancient Greek playwright of Medea and The Trojan Women.

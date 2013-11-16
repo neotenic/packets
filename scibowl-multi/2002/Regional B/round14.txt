@@ -1,0 +1,326 @@
+####
+tournament: Regional B
+round: round14.pdf
+year: 2002
+####
+
+num: 1
+category: Chemistry
+difficulty: HS
+answer: X)  Phase Diagram
+
+The triple point of a substance can be represented in what type of graphical representation:
+W) Lewis diagram 
+X) phase diagram 
+Y) energy diagram 
+Z) time-temperature transformation diagram
+
+----
+num: 2
+category: Physics
+difficulty: HS
+seen: 1
+answer: X)  Young’s and Helmholtz’s Three Color Theory of Light
+
+Color photography and the eventual development of the color television was advanced most directly by:
+W) Planck’s quantum theory of light 
+X) Young’s and Helmholtz’s three color theory of light 
+Y) the three color pigment theory 
+Z) Kichoff’s understanding of the photoelectric effect
+
+----
+num: 3
+category: Biology
+difficulty: HS
+seen: 1
+answer: W)  Metaboli Sm, Heart Rate, Sleep
+
+Which of the following are mostly under the control of the hypothalamus:
+W) metabolism, heart rate, sleep 
+X) metabolism, heart rate, ovulation 
+Y) metabolism, heart rate, micturition 
+Z) metabolism, heart rate, balance
+
+----
+num: 4
+category: Astronomy
+difficulty: HS
+seen: 1
+answer: Z)  Never Seen
+
+To a stargazer in Ohio, a star far enough south of the celestial equator to be circumpolar such as Miaplacidus is:
+W) only seen for about 6 hours 
+X) only seen briefly for about half an hour on the horizon 
+Y) only seen on the winter solstice 
+Z) never seen
+
+----
+num: 4
+category: Astronomy
+difficulty: HS
+seen: 1
+answer: Y)  Spend More Than 12 Hours but Less Than 24 Hours Above the 
+Horizon
+
+Non-circumpolar stars that lie north of the celestial equator when viewed from Michigan will:
+W) spend less than 6 hours above the horizon 
+X) spend more than 6 hours but less than 12 hours above the horizon 
+Y) spend more than 12 hours but less than 24 hours above the horizon 
+Z) spend 24 hours above the horizon
+
+----
+num: 5
+category: Math
+difficulty: HS
+answer: X)  Tangent θ × Cotangent θ = 1
+
+Which of the following trigonom etric relationships is TRUE:
+W) sine θ × cotangent θ = 1 (read θ as theta) 
+X) tangent θ × cotangent θ = 1 
+Y) secant θ – cosine θ = 1 
+Z) sine θ + cosecant θ = 1
+
+----
+num: 6
+category: Earth Science
+difficulty: HS
+answer: Y)  Rhyolite
+
+Which of the following is NOT classified as an intrusive igneous rock:
+W) granite 
+X) diorite 
+Y) rhyolite 
+Z) gabbro
+
+----
+num: 7
+category: General Science
+difficulty: HS
+seen: 1
+answer: X)  Degaussing
+
+The neutralization of the magnetic field around a body by encircling it with a conducto r through which a current is maintained is called:
+W) demodulation 
+X) degaussing 
+Y) debugging 
+Z) dehissing
+
+----
+num: 8
+category: Computer Science
+difficulty: HS
+answer: W)  L1
+
+In most microprocessors, cache memory built into the microprocessor is what kind of cache:
+W) L1 
+X) L2 
+Y) L3 
+Z) L4
+
+----
+num: 9
+category: Chemistry
+difficulty: HS
+seen: 1
+answer: Y)  Atomic Absorption Spectrometry
+
+Of the following, which is the most powerful tool available for the quantitative elemental analysis of metals in solutions:
+W) potentiometry 
+X) nuclear magnetic resonance spectrometry 
+Y) atomic absorption spectrometry 
+Z) liquid chromatography
+
+----
+num: 10
+category: Physics
+difficulty: HS
+seen: 1
+answer: W)  Alpha Particles
+
+Which of the following forms of ionizing radiation expends most of its energy over the shortest distan ce when passing through human tissue:
+W) alpha particles 
+X) beta particles 
+Y) x-rays 
+Z) gamma particles
+
+----
+num: 11
+category: Biology
+difficulty: HS
+seen: 1
+answer: X)  100% of the Females Would Be Carriers and 100% of the Males 
+Would Be Normal
+
+Assuming a man has Daltonism and marries a homozygous, normal woman, their children would most likely ha ve which of the following genetic distributions:
+W) 100% of the females would be carriers and 50% of the males would be carriers 
+X) 100% of the females would be carriers and 100% of the males would be normal 
+Y) 50% of the females would be carriers and all of the males would have Daltonsim 
+Z) both the females and the males would all have Daltonsim
+
+----
+num: 12
+category: Astronomy
+difficulty: HS
+answer: Z)  Rodlike
+
+What shape do interstellar dust particles have since the light emitted by stars is dimmed and partially polarized:
+W) sphere 
+X) cube 
+Y) disk 
+Z) rodlike
+
+----
+num: 13
+category: Math
+difficulty: HS
+answer: X)  16
+
+For a population of 100 individuals with a normal distribution, how many individuals will be found to fall greater than 1 standard deviation above the mean:
+W) 12 
+X) 16 
+Y) 32 
+Z) 68
+
+----
+num: 14
+category: Earth Science
+difficulty: HS
+seen: 1
+answer: W)  Quartz
+
+Which of the following minerals has a hardness of 7, often has good crystal shape with 6 sides, varies from colorless to white, pink, purple and several other colors, and exhibi ts conchoidal fracture:
+W) quartz 
+X) diamond 
+Y) pyroxene 
+Z) olivine
+
+----
+num: 15
+category: General Science
+difficulty: HS
+seen: 1
+answer: X)  Population Density
+
+In population ecology, which of the following best defines the number of individuals of a species per unit of area:
+W) population size 
+X) population density 
+Y) biomass 
+Z) cohort
+
+----
+num: 16
+category: Computer Science
+difficulty: HS
+seen: 1
+answer: Z)  Its Size Does Not Ne Ed to Be Explicitly Declared
+
+In Java, a vector is differe nt from an array in that:
+W) it is unordered 
+X) it has no API to support it 
+Y) it can store only integers 
+Z) its size does not need to be explicitly declared
+
+----
+num: 16
+category: Computer Science
+difficulty: HS
+seen: 1
+answer: W)  Unix
+
+Which of the following operating systems came first:
+W) UNIX 
+X) Linux 
+Y) Windows 3.1 
+Z) OS/2
+
+----
+num: 17
+category: Chemistry
+difficulty: HS
+seen: 1
+answer: X)  O-Chlorotoluene ^
+
+Which of the following is the common name for the following compound: benzene with a methyl group on carbon #1 and a chlorine atom on carbon #2
+W) chlorotoluene (Pronounced: KLOR-o-tol-you-een) 
+X) o-chlorotoluene 
+Y) p-chlorotoluene 
+Z) m-chlorotoluene
+
+----
+num: 18
+category: Physics
+difficulty: HS
+seen: 1
+answer: X)  E = 0.5 Hf
+
+If e is energy, f is frequency, and h is Planck’s constant, which of the following is NOT possible according to Planck’s quantum hypothesis:
+W) e = hf 
+X) e = 0.5 hf 
+Y) e = 1 hf 
+Z) e = 2 hf
+
+----
+num: 18
+category: Physics
+difficulty: HS
+seen: 1
+answer: Y)  the Photon Theory of Light
+
+Einstein proposed that the photoe lectric effect was a test for which of the following:
+W) the wave nature of light 
+X) that light traveled a constant speed in a vacuum 
+Y) the photon theory of light 
+Z) the wave particle duality of light
+
+----
+num: 20
+category: Astronomy
+difficulty: HS
+seen: 1
+answer: W)  Low Average Density
+
+Which of the following is not a characteristic of the terrestrial planets:
+W) low average density 
+X) closely spaced orbits 
+Y) craters in old surfaces 
+Z) very few moons
+
+----
+num: 20
+category: Astronomy
+difficulty: HS
+seen: 1
+answer: W)  Kepler Gathered Most of His Data From His Monitoring of 
+the Planets With a Quadrant
+
+Which of the following is NOT true of Kepler’s works in astronomy:
+W) Kepler gathered most of his data from his monitoring of the planets with a quadrant 
+X) Kepler very seldom observed the planets and life looked through a telescope only a few times in his
+Y) many of Kepler’s computations were based on data gathered by Tycho Brahe 
+Z) Kepler assumed planetary motion was not circular
+
+----
+num: 22
+category: General Science
+difficulty: HS
+seen: 1
+answer: Y)  Conservation of Energy
+
+In keeping with developments in the science of physics, Freud incorporated which of the following into his personality theory:
+W) relativity 
+X) quantum theory 
+Y) conservation of energy 
+Z) entropy constantly increases
+
+----
+num: 23
+category: Chemistry
+difficulty: HS
+seen: 1
+answer: Y)  Ornithine
+
+Which of the following is a na turally occurring amino acid that is NOT found in proteins?
+W) threonine (read as: three-oh-neen) 
+X) histidine 
+Y) ornithine (read as: oar-nih-thine) 
+Z) isoleucine

@@ -1,0 +1,241 @@
+####
+tournament: Regional B
+round: round16.pdf
+year: 2002
+####
+
+num: 2
+category: Chemistry
+difficulty: HS
+answer: W)  2-Chloro-2-Bromobutane
+
+Which of the following four molecules can have both right-handed and left-handed forms:
+W) 2-chloro-2-bromobutane 
+X) 1-chloro-2-bromoethene 
+Y) trichloromethane 
+Z) glycerol
+
+----
+num: 4
+category: Astronomy
+difficulty: HS
+seen: 1
+answer: Z)  They Are All Co Ncentrated in a Small Region
+
+Which of the following is the most likely reason that the 
+Pleiades stars were all formed together:
+W) they are all the same size, luminosity, and spectral class 
+X) they all orbit a common larger neutron star 
+Y) they are in the region of a black hole 
+Z) they are all concentrated in a small region
+
+----
+num: 5
+category: Math
+difficulty: HS
+answer: W)  Z)  
+Ee
+^X^x
+−+
+2
+Ee
+^−^−
+^X^x
+E^x −
+2e^−^x
+
+Which of the following is the expr ession that defines the hyperbolic sine function:
+W)
+Y) X) ee^x^x+
+22−2
+ee^−^−^x^x
+
+----
+num: 6
+category: Earth Science
+difficulty: HS
+answer: X)  B-Horizon
+
+In the soil profile, which horizon is know as the zone of accumulation:
+W) A-horizon 
+X) B-horizon 
+Y) O-horizon 
+Z) E-horizon
+
+----
+num: 7
+category: General Science
+difficulty: HS
+seen: 1
+answer: W)  the Longer the Focal Length, the Narrower Its Angle of 
+View Will Be
+
+In the single-lens reflex camera, which of the following is TRUE of focal length of a lens as it pertains to angle of view:
+W) the longer the focal length, the narrower its angle of view will be 
+X) the shorter the focal length, the narrower its angle of view will be 
+Y) the longer the focal length, the wider its angle of view will be 
+Z) the focal length of a lens does not affect the angle of view
+
+----
+num: 8
+category: Computer Science
+difficulty: HS
+seen: 1
+answer: Y)  Ole
+
+The ability to create a ta ble in Microsoft Word and embed it into a section of a spreadsheet created in Excel, is an example of:
+W) OpenGL 
+X) database indexing 
+Y) OLE 
+Z) Direct 3D
+
+----
+num: 9
+category: Biology
+difficulty: HS
+answer: Z)  1/ Vmax
+
+In the double reciprocal Lineweaver-Burke plot of enzyme activity, the line passes through the ordinate, or the one over V zero, axis at:
+W) -1/Vmax (read as: minus one over VEE-max) 
+X) Km/Vmax (read as: Kay M over VEE-max) 
+Y) Km/V^0 (read as: Kay M over VEE-zero) 
+Z) 1/ Vmax (read as: one over VEE-max)
+
+----
+num: 11
+category: Physics
+difficulty: HS
+seen: 1
+answer: W)  a Solid Disk Will Roll Faster Than a Hollow Disk 
+Regardless of the Mass or Outer  Diameter of Either Disk
+
+Which of the following is TRUE concerning objects moving down an inclined plane:
+W) a solid disk will roll faster than a hollow disk regardless of the mass or outer diameter of either disk 
+X) a hollow disk will roll faster than a solid disk regardless of the mass or outer diameter of either disk 
+Y) regardless of the mass or outer diameter of either disk, a solid disk will roll at the same rate as a hollow cylinder 
+Z) a solid disk will roll slower than a hollow disk of twice the mass and outer diameter of the solid disk
+
+----
+num: 13
+category: Math
+difficulty: HS
+answer: Y)  
+23
+(Solution:  R^2 = X^2 + Y^2;  1^2 = (1/2)^2 + Y^2;  Y^2 = ¾;  =  3/2)
+
+If the cosine θ = ½ (read: θ as theta) and θ terminates in Quadrant I of the Cartesian coordinate system , in a unit circle find sine θ:
+X) W) 2
+2332
+Y)
+Z) 2 23
+3
+
+----
+num: 14
+category: Earth Science
+difficulty: HS
+answer: X)  90 °
+
+In geologic mapping, the angular difference between dip and strike is:
+W) 45°
+X) 90°
+Y) 180°
+Z) 360 °
+
+----
+num: 16
+category: Computer Science
+difficulty: HS
+seen: 1
+answer: Y)  Must Implement All Th E Methods Defined in the Interface
+
+In Java, when a class implements an interface it:
+W) may or may not choose to implement the methods defined in the interface 
+X) cannot implement any methods with the same signa ture as those defined in the interface 
+Y) must implement all the methods defined in the interface 
+Z) designates the user language in the interface
+
+----
+num: 18
+category: Chemistry
+difficulty: HS
+seen: 1
+answer: X)  Nonspontaneo Usly at All Temperatures
+
+In the equation for Gibbs free energy, if ∆H (read as: delta H) is positive and ∆S (read as: delta S) is negative, then the reaction will occur:
+W) spontaneously at all temperatures 
+X) nonspontaneously at all temperatures 
+Y) spontaneously only at high temperatures 
+Z) spontaneously only at low temperatures
+
+----
+num: 19
+category: Physics
+difficulty: HS
+answer: X)   Kirchoff’s Law
+
+Which law most directly states th at a black body is a perfect source of thermal radiation:
+W) Carnot’s law 
+X) Kirchoff’s law 
+Y) Planck’s law 
+Z) Dirac’s law
+
+----
+num: 20
+category: Astronomy
+difficulty: HS
+answer: Z)  Venus
+
+Which of the following planets cannot come into quadrature with Earth:
+W) Mars 
+X) Saturn 
+Y) Uranus 
+Z) Venus
+
+----
+num: 22
+category: Earth Science
+difficulty: HS
+answer: W)  30%
+
+At present estimates, the Earth’s planetary albedo is estimated to be:
+W) 30% 
+X) 40% 
+Y) 50% 
+Z) 60%
+
+----
+num: 23
+category: Biology
+difficulty: HS
+answer: Y)  Tertiary
+
+In a non-oligometric protein, reversible denaturation changes which of the following levels of protein structure:
+W) primary 
+X) amino acid sequence 
+Y) tertiary 
+Z) quaternary
+
+----
+num: 23
+category: Biology
+difficulty: HS
+answer: Y)  Chordae Tendonae a Nd Connection of Bones to Muscles
+
+Which of the following structures is NOT properly matched with its function:
+W) synovial lining and joint movement 
+X) corpus luteum and estrogen secretion 
+Y) chordae tendonae and conn ection of bones to muscles 
+Z) intercalated disks and cardiac muscle
+
+----
+num: 24
+category: Chemistry
+difficulty: HS
+answer: X)  5
+
+A molecule that has a trigona l bipyramidal molecular geometry will have how many charge cl ouds around its central atom:
+W) 4 
+X) 5 
+Y) 6 
+Z) 8

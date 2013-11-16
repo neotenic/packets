@@ -1,0 +1,401 @@
+####
+tournament: #6371
+round: Show #6371 - Monday, May 7, 2012
+year: 2012
+date: 2012-05-07
+####
+
+num: 1
+category: History
+difficulty: 200
+seen: 5
+answer: Amelia Earhart
+
+A high school in north Hollywood, California is named for this aviator who lived nearby before she disappeared.
+
+----
+num: 2
+category: Literature
+difficulty: 200
+seen: 4
+answer: Snoopy
+
+At Knott's Berry Farm, there's an area full of rides just for kids called Camp this, after Charlie Brown's beagle.
+
+----
+num: 3
+category: Social
+difficulty: 200
+seen: 5
+answer: a freeze
+
+When a government fixes prices at a set level, it's called one of these--b-r-r-r!.
+
+----
+num: 4
+category: Trash
+difficulty: 200
+seen: 6
+answer: Angelina Jolie
+
+James McAvoy said his movie kiss with this mother of Brad Pitt's children was awkward & sweaty.
+
+----
+num: 5
+category: History
+difficulty: 400
+seen: 4
+answer: Admiral Farragut
+
+Naval ROTC is a key part of the curriculum at the Florida academy named for this Civil War Admiral.
+
+----
+num: 6
+category: Social
+difficulty: 400
+seen: 5
+answer: Consumer Price Index
+
+Abbreviated CPI,.
+
+----
+num: 7
+category: Trash
+difficulty: 400
+seen: 5
+answer: Orlando Bloom
+
+Keira Knightley said Johnny Depp was a better smoocher than this other Caribbean pirate.
+
+----
+num: 8
+category: Science
+difficulty: 400
+seen: 5
+answer: household
+
+Type of "word" so common, it's familiar in everyone's home.
+
+----
+num: 9
+category: Literature
+difficulty: 600
+seen: 4
+answer: Scout
+
+Jean Louise Finch is the real name of the girl with this nickname in "To Kill a Mockingbird".
+
+----
+num: 10
+category: Literature
+difficulty: 600
+seen: 4
+answer: Dollywood
+
+The Smoky Mountain River Rampage is featured at.
+
+----
+num: 11
+category: Social
+difficulty: 600
+seen: 5
+answer: quote
+
+It can be a record of what someone said or the current cost of a security or a stock.
+
+----
+num: 12
+category: Trash
+difficulty: 600
+seen: 5
+answer: Gwyneth Paltrow
+
+This actress told Robert Downey Jr. he didn't know what he was doing when their lips met in "Iron Man 2".
+
+----
+num: 13
+category: Science
+difficulty: 600
+seen: 6
+answer: a holdover
+
+Something kept on from a previous administration.
+
+----
+num: 14
+category: History
+difficulty: 800
+seen: 4
+answer: John Jay
+
+A college of criminal justice in New York is named for this first Chief Justice.
+
+----
+num: 15
+category: Literature
+difficulty: 800
+seen: 4
+answer: Santa Claus
+
+Appropriately, Holiday World is in the Indiana town named for this jolly guy.
+
+----
+num: 16
+category: Social
+difficulty: 800
+seen: 4
+answer: a nestegg
+
+Avian term for a reserve fund of money for retirement or emergencies.
+
+----
+num: 17
+category: Science
+difficulty: 800
+seen: 6
+answer: threshhold
+
+The point at which a stimulus, such as pain, has an effect.
+
+----
+num: 18
+category: History
+difficulty: 1000
+seen: 4
+answer: Williams
+
+This college, Amherst's rival, was named for a colonel killed in the French & Indian War.
+
+----
+num: 19
+category: Literature
+difficulty: 1000
+seen: 4
+answer: Cedar Point
+
+Soak City is part of this Ohio amusement venue--get the point?.
+
+----
+num: 20
+category: Social
+difficulty: 1000
+seen: 4
+answer: an oligopoly
+
+In this market condition with the same last 5 letters as "Monopoly", there's more than one supplier firm, maybe just 3 or 4.
+
+----
+num: 21
+category: Trash
+difficulty: 1000
+seen: 5
+answer: Tom Cruise
+
+Thandie Newton griped that this "Mission: Impossible" star's kisses were "icky & sort of wet".
+
+----
+num: 22
+category: Science
+difficulty: 1000
+seen: 7
+answer: a stronghold
+
+A fortified place of refuge.
+
+----
+num: 23
+category: Literature
+difficulty: 400
+seen: 4
+answer: Cleopatra
+
+She was still a teen when she became queen of Egypt in 51 B.C.
+
+----
+num: 24
+category: Trash
+difficulty: 400
+seen: 6
+answer: Oreos
+
+This beloved sandwich cookie celebrated its 100th birthday on March 6, 2012.
+
+----
+num: 25
+category: Science
+difficulty: 400
+seen: 6
+answer: Pasteur
+
+The bacterium that causes bubonic plague was once named for this French scientist.
+
+----
+num: 26
+category: Geography
+difficulty: 400
+seen: 8
+answer: the Gulf of Mexico
+
+Ports on this gulf include Tampa & Tampico.
+
+----
+num: 27
+category: Literature
+difficulty: 400
+seen: 5
+answer: valedictorian
+
+In high school "Weird Al" Yankovic was this highest-ranking member of the class academically.
+
+----
+num: 28
+category: Literature
+difficulty: 800
+seen: 4
+answer: the pentathlon
+
+Originally featuring only 1 sport--a foot race--the Olympics added this 5-event competition in 708 B.C.
+
+----
+num: 29
+category: Trash
+difficulty: 800
+seen: 5
+answer: One Direction
+
+You might stay "Up All Night" listening to this boy band heard here.
+
+----
+num: 30
+category: Science
+difficulty: 800
+seen: 5
+answer: hemophelia
+
+Christmas disease is a type of this hereditary disease in which the blood doesn't clot normally.
+
+----
+num: 31
+category: Geography
+difficulty: 800
+seen: 7
+answer: the West Indies
+
+Jamaica & Grenada are part of this island chain that got its name because Columbus didn't know where he was.
+
+----
+num: 32
+category: Literature
+difficulty: 800
+seen: 3
+answer: verify
+
+This word that means "to prove the truth of" comes from the Latin for "true".
+
+----
+num: 33
+category: Trash
+difficulty: 1200
+seen: 5
+answer: Ugg
+
+This 3-letter word comes before "Australia" in the name of a brand of sheepskin boots introduced to the U.S. by Brian Smith.
+
+----
+num: 34
+category: Science
+difficulty: 1200
+seen: 6
+answer: gluten
+
+Celiac disease sufferers need to avoid bread or find some that's made without this protein.
+
+----
+num: 35
+category: Geography
+difficulty: 1200
+seen: 8
+answer: Vancouver Island
+
+Canada has a sort of equivalent song to "this land is your land"; its chorus begins, "from" this British Columbia island.
+
+----
+num: 36
+category: Literature
+difficulty: 1200
+seen: 3
+answer: vast
+
+In poetry the legs of "Ozymandias" are this 4-letter synonym for big, "and trunkless".
+
+----
+num: 37
+category: Literature
+difficulty: 1600
+seen: 4
+answer: Socrates
+
+Shortly before drinking poison hemlock, this philosopher discussed with friends the fate of the human soul.
+
+----
+num: 38
+category: Science
+difficulty: 1600
+seen: 6
+answer: dialysis
+
+Kidney failure means you need a transplant or to undergo this treatment that does a kidney's job.
+
+----
+num: 39
+category: Geography
+difficulty: 1600
+seen: 8
+answer: Colombia & Venezuela
+
+(Here's Kelly) Punta Gallinas, South America's northernmost point, lies on the Guajira Peninsula, which is shared by.
+
+----
+num: 40
+category: Literature
+difficulty: 1600
+seen: 4
+answer: verbatim
+
+In exactly the same words.
+
+----
+num: 41
+category: Trash
+difficulty: 2000
+seen: 8
+answer: Powerball
+
+In 2012 an 81-year-old woman hit the jackpot, winning $336 million in the multi-state lottery with this 9-letter name.
+
+----
+num: 42
+category: Science
+difficulty: 2000
+seen: 8
+answer: meningitis
+
+The MCV4 vaccine protects against this childhood disease of the brain membranes.
+
+----
+num: 43
+category: Geography
+difficulty: 2000
+seen: 14
+answer: Minnesota
+
+Lake Itasca, considered the main source of the Mississippi River, is in this state.
+
+----
+num: 44
+category: Literature
+difficulty: 2000
+seen: 6
+answer: a van Dyck
+
+facial feature is named for Flemish painter.

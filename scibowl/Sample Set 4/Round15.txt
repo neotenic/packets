@@ -1,0 +1,441 @@
+####
+tournament: Sample Set 4
+round: Round15.pdf
+####
+
+num: 1
+category: Energy
+difficulty: HS
+seen: 37
+answer: 980
+
+When a 10 kilogram object is lifted 10 meters, in a gravitational field of 9.8 meters per second squared, what is the change in potential energy of the object in joules?
+
+----
+num: 1
+category: Energy
+difficulty: HS
+fixed: -1
+seen: 36
+answer: 500
+
+
+Taking g as 10 meters per second squared and assuming there is no friction, at about what height in meters must a 100 kilogram roller coaster start from rest in order to achieve a speed of 100 meters per second at the bottom?
+
+----
+num: 1
+category: Math
+difficulty: MS
+seen: 6
+answer: 2
+
+How many cubic yards of concrete are needed to pour a sidewalk measuring 4 feet wide, 54 feet long, and 3 inches deep?
+
+----
+num: 1
+category: Math
+difficulty: MS
+seen: 6
+answer: π/2 B + π [Accept: π( ½ B + 1)]
+
+
+You have a cylinder with a radius of b and a height of (2b + 4). A rectangular prism has the same volume as the cylinder. The rectangular prism has a square base with side lengths of 2b. What is the height of the rectangular prism in terms of π?
+
+----
+num: 3
+category: Math
+difficulty: HS
+seen: 27
+answer: Log N!
+
+Express (read as: the summation of x equals 1 to n of log of 
+x) with a factorial.
+
+----
+num: 3
+category: Math
+difficulty: HS
+fixed: 1
+seen: 24
+answer: {360} 
+
+How many different letter arrangements can be formed using the six letters in the word “energy”?
+
+----
+num: 4
+category: Physics
+difficulty: HS
+seen: 25
+answer: 200
+
+If Tajon applies 100 newtons of force on a 2 -meter wrench at aright angle to the wrench and parallel to the plane of rotation, how much torque, in newton meters, is he applying to the bolt?
+
+----
+num: 4
+category: Earth and Space Science
+difficulty: MS
+seen: 6
+answer: Monocline
+
+What is the term for the structural geologic feature in which there is an increased dip in otherwise gently dipping strata?
+
+----
+num: 5
+category: Math
+difficulty: MS
+seen: 6
+answer: 16 π
+
+
+A circle circumscribes a regular hexagon with side lengths of 8 centimeters. In terms of pi, what is the circumference of the circle?
+
+----
+num: 6
+category: Math
+difficulty: HS
+seen: 26
+answer: 10
+
+A triangle has sides of length 5, 7, and 8 meters. In simplest form and in meters squared, what is the area of the triangle?
+
+----
+num: 6
+category: Life Science
+difficulty: MS
+seen: 10
+answer: Hemoglobin
+
+Name the protein that transports oxygen to cells via the circulatory system.
+
+----
+num: 7
+category: Energy
+difficulty: HS
+fixed: -1
+seen: 35
+answer: 0
+
+
+When a ball of mass m is launched vertically to a height h and returns to its original starting point of launch, what is the value of its change in gravitational potential energy?
+
+----
+num: 7
+category: General Science
+difficulty: MS
+seen: 6
+answer: American Eel (Accept: 3)
+
+
+By name or number, identify which of the following organisms demonstrate a catadromous life cycle: 1) sockeye salmon; 2) coho salmon; 
+3) American eel; and/or 4) peacock flounder.
+
+----
+num: 9
+category: Energy
+difficulty: HS
+seen: 33
+answer: Wide Receiver
+
+On a football team, there is a defensive lineman who weighs 350 pounds and can run at 10 miles per hour. On the same team, the wide receiver weighs 175 pounds and can run 20 miles per hour. At top speed, which player has more kinetic energy?
+
+----
+num: 9
+category: Energy
+difficulty: HS
+seen: 34
+answer: 125
+
+
+A race car initially moving with a velocity of 50 meters per second produces a skid mark on the road while braking. Using g as 10 meters per second squared, and providing your answer to the nearest integer, how long is the skid mark in meters if the coefficient of kinetic friction is 1.0?
+
+----
+num: 9
+category: Math
+difficulty: MS
+seen: 6
+answer: 10 ^O Celsius
+
+Convert 50 degrees Fahrenheit to Celsius.
+
+----
+num: 9
+category: Math
+difficulty: MS
+seen: 6
+answer: 1050
+
+
+A pyramid is 14 meters tall and has a square base that is approximately 15 meters on a side. What is its volume in cubic meters?
+
+----
+num: 10
+category: Earth and Space
+difficulty: HS
+seen: 47
+answer: West to East
+
+Transpolar drift is responsible for the net transport of water and ice in what direction in the Arctic Basin?
+
+----
+num: 10
+category: Earth and Space
+difficulty: HS
+fixed: -1
+seen: 49
+answer: The Fram Strait
+
+Most sea ice exiting the Arctic Basin passes through what large strait between Greenland and Svalbard (read as: SVAHL -bahr)?
+
+----
+num: 12
+category: Math
+difficulty: HS
+fixed: -1
+seen: 24
+answer: 36x^2 –12x -
+
+Find the derivative of 12x^3^- 6x^2 + – 25 (read as: 12 x cubed minus 6 x squared plus 3 over x to the fifth minus 25)
+
+----
+num: 12
+category: Math
+difficulty: HS
+seen: 24
+answer: 66
+
+A particle’s displacement in meters can be described by the function f(x) = 2x^3 + 3x^2 - 10x + 30. At x = 5 seconds, what is the acceleration in meters per second squared? Provide your answer to the nearest integer.
+
+----
+num: 12
+category: General Science
+difficulty: MS
+seen: 6
+answer: Green
+
+What color does copper burn in a flame?
+
+----
+num: 12
+category: General Science
+difficulty: MS
+seen: 6
+answer: Eluviation
+
+What is the term for the process of removal of inorganic and organic substances from the “A” soil horizon by leaching?
+
+----
+num: 13
+category: Earth and Space
+difficulty: HS
+seen: 48
+answer: Mars
+
+Besides Earth, what is the only other planet in our solar system known to have water ice on its surface?
+
+----
+num: 14
+category: Math
+difficulty: HS
+seen: 25
+answer: 
+
+What is tan + sin ?
+
+----
+num: 14
+category: Math
+difficulty: HS
+seen: 25
+answer: Not Q Implies Not P (Accept: If Not Q, Then Not P)
+
+What is the contrapositive of the statement p implies q?
+
+----
+num: 14
+category: Earth and Space Science
+difficulty: MS
+seen: 6
+answer: Valley Glaciers (Accept: Glaciers, Ice Sheets, Ice, Glaciations)
+
+Although a number of environmental factors help shape land features, identify the one factor that ty pically produces valleys with a U-shape.
+
+----
+num: 15
+category: Chemistry
+difficulty: HS
+seen: 35
+answer: 13
+
+What is the pH of 1.0 mole of sodium hydroxide dissolved in 10 liters of water?
+
+----
+num: 15
+category: Chemistry
+difficulty: HS
+seen: 35
+answer: Resonance
+
+
+Two Lewis structures depict the ozone molecule equally well and there is no way to distinguish between the two structures. What is the term that describes this phenomenon?
+
+----
+num: 15
+category: General Science
+difficulty: MS
+seen: 7
+answer: Radial Symmetry (Accept 5 -Fold or Pentaradial Symmetry, 
+Secondary Radial Symmetry)
+
+
+What type of symmetry is associated with adult echinoderms (read as: i-KY-neh-dehrms)?
+
+----
+num: 16
+category: Biology
+difficulty: HS
+seen: 39
+answer: Actin; Myosin; Sarcomere; Myofibril; Muscle Fiber; Muscle
+
+Order the following from smallest to largest: myofibril; muscle, actin; myosin; sarcomere (read as: SAHR-koh-mir ); muscle fiber.
+
+----
+num: 17
+category: General Science
+difficulty: MS
+seen: 6
+answer: Xylem and Phloem
+
+What are the names for the two transport tissues in plants?
+
+----
+num: 18
+category: Biology
+difficulty: HS
+fixed: -1
+seen: 38
+answer: 25%
+
+Tay Sachs is a fatal genetic disease. Individuals with Tay Sachs are homozygous for the recessive disease allele. If a husband and wife are both heterozygous for the gene, what is the percent chance that they will have a child with the disease?
+
+----
+num: 18
+category: Physical Science
+difficulty: MS
+seen: 5
+answer: 0.5
+
+A box weighing 20 newtons is moving at a constant speed along a flat surface. It is being pushed with a force of 10 newtons. What is the co efficient of friction?
+
+----
+num: 20
+category: Biology
+difficulty: HS
+seen: 39
+answer: 1) Leopard Frog, 3) Bull Shark and 5) Human
+
+Name all of the following in which the embryonic blastopore becomes the anus, and the mouth originates after the anus: 1) leopard frog, 2) cockroach, 3) bull shark, 4) earthworm, and/or 5) human.
+
+----
+num: 20
+category: Math
+difficulty: MS
+seen: 5
+answer: 1
+
+What is the first and last number of every row of Pascal’s triangle?
+
+----
+num: 20
+category: Math
+difficulty: MS
+seen: 5
+answer: 9
+
+A rectangular landscape box has a base measuring 2 feet by 6 feet, with a height of one foot. If 9 cubic feet of potting soil are placed in the box and evenly spread with a consistent depth, what will be the height in inches of the soil?
+
+----
+num: 22
+category: Earth and Space
+difficulty: HS
+seen: 47
+answer: New Moon
+
+If the moon is in a crescent phase and appears in the eastern sky at sunrise, what phase will be next?
+
+----
+num: 22
+category: Life Science
+difficulty: MS
+seen: 11
+answer: Hypothalamus
+
+What part of the brain links the endocrine and ne rvous systems?
+
+----
+num: 23
+category: Math
+difficulty: HS
+seen: 24
+answer: 5/7
+
+If someone has 1 red shirt, 2 blue shirts, 4 red pants, and 3 green pants from which to choose, what is the probability that a randomly selected shirt and pant combination has at least one red item? Provide your answer as a fraction in simpl est form.
+
+----
+num: 23
+category: Math
+difficulty: HS
+seen: 24
+answer: 11
+
+
+If the mean of a certain sample is 8 and the standard deviation is 0.25, what value has a z -score of 12?
+
+----
+num: 23
+category: Math
+difficulty: MS
+fixed: -1
+seen: 6
+answer: 50
+
+
+What is the length of the hypotenuse in a right triangle with legs of length 14 and 48?
+
+----
+num: 24
+category: Biology
+difficulty: HS
+seen: 40
+answer: Protogynous Flowering (Accept: Protogyny)
+
+Many monoecious plant species avoid self pollination, reducing their likelihood of expressing deleterious recessive alleles in future generations. One strategy used by monoecious plants is to produce pollen long after the carpel of the same flowe r becomes able to receive it. Give the name for this strategy.
+
+----
+num: 25
+category: Earth and Space
+difficulty: HS
+fixed: -1
+seen: 48
+answer: Appalachian Mountains, Rocky Mountains, Colorado River, Great 
+Lakes
+
+Put the formation of the following in chronological order from oldest to youngest: Rocky Mountains, Great Lakes, Colorado River, Appalachian 
+Mountains.
+
+----
+num: 25
+category: Physical Science
+difficulty: MS
+seen: 5
+answer: Electrons
+
+Oxidation-reduction reactions involve the transfer of which charged subatomic particles?
+
+----
+num: 25
+category: Physical Science
+difficulty: MS
+seen: 5
+answer: +2
+
+What is the oxidation state of copper in copper sulfate?

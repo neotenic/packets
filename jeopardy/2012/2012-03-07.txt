@@ -1,0 +1,402 @@
+####
+tournament: #6328
+round: Show #6328 - Wednesday, March 7, 2012
+year: 2012
+date: 2012-03-07
+####
+
+num: 1
+category: Trash
+difficulty: 200
+seen: 6
+answer: Betty Ford
+
+In July 2011 this former First Lady passed away in Rancho Mirage, California at the age of 93.
+
+----
+num: 2
+category: Literature
+difficulty: 200
+seen: 4
+answer: a nursery
+
+A place to buy plants, or a place for your baby.
+
+----
+num: 3
+category: Trash
+difficulty: 200
+seen: 6
+answer: roulette
+
+If you're betting on red or black, or odd or even, you're playing this game.
+
+----
+num: 4
+category: Literature
+difficulty: 200
+seen: 4
+answer: Madonna
+
+"Come on, vogue, let your body move to the music, hey hey hey".
+
+----
+num: 5
+category: Geography
+difficulty: 200
+seen: 10
+answer: San Francisco
+
+In the 1930s this West Coast city hosted a World's Fair & got big new bridges crossing its bay.
+
+----
+num: 6
+category: Science
+difficulty: 200
+seen: 8
+answer: the skin
+
+Dermatology: ailments of this.
+
+----
+num: 7
+category: Trash
+difficulty: 400
+seen: 5
+answer: Ralph Lauren
+
+In 2011 this fashion designer's Double RL Ranch hosted the wedding of his son to a presidential niece.
+
+----
+num: 8
+category: Literature
+difficulty: 400
+seen: 4
+answer: matinée
+
+Although it's French for "morning", it now refers to an afternoon performance.
+
+----
+num: 9
+category: Trash
+difficulty: 400
+seen: 5
+answer: double down
+
+In blackjack if you're dealt an 8 & 3, you might do this to win twice as much as your original bet.
+
+----
+num: 10
+category: Literature
+difficulty: 400
+seen: 4
+answer: Beck
+
+"Where it's at / I got 2 turntables & a microphone".
+
+----
+num: 11
+category: Science
+difficulty: 400
+fixed: -1
+seen: 6
+answer: ear, nose & throat
+
+Otolaryngology: these 3 parts.
+
+----
+num: 12
+category: Literature
+difficulty: 600
+seen: 4
+answer: weather
+
+This word can precede balloon, bureau & vane.
+
+----
+num: 13
+category: Trash
+difficulty: 600
+seen: 5
+answer: coming out
+
+In craps, when a new shooter rolls for the first time, it's called this roll, wherever you are.
+
+----
+num: 14
+category: Literature
+difficulty: 600
+seen: 4
+answer: Justin Timberlake
+
+"I'm bringin' sexy back, them other boys don't know how to act... get your sexy on".
+
+----
+num: 15
+category: Geography
+difficulty: 600
+seen: 9
+answer: the Rainbow Bridge
+
+A sandstone landmark 275' long, or what some bereaved pet owners believe they'll cross with the departed Fifi.
+
+----
+num: 16
+category: Science
+difficulty: 600
+seen: 5
+answer: the liver
+
+Hepatology: this organ.
+
+----
+num: 17
+category: Trash
+difficulty: 800
+seen: 4
+answer: baccarat
+
+In 1990, in 6 days of this game similar to chemin de fer, Akio Kashiwagi was up $9.6 million, then down $10 million.
+
+----
+num: 18
+category: Literature
+difficulty: 800
+seen: 4
+answer: Rihanna
+
+"Under my umbrella ella ella, eh eh eh".
+
+----
+num: 19
+category: Geography
+difficulty: 800
+seen: 8
+answer: the East River
+
+The Hell Gate Bridge from Wards Island to Queens spans a treacherous part of this river.
+
+----
+num: 20
+category: Science
+difficulty: 800
+seen: 6
+answer: blood
+
+Hematology: this substance.
+
+----
+num: 21
+category: Trash
+difficulty: 1000
+seen: 5
+answer: Mark Kelly
+
+This husband of Gabrielle Giffords piloted the final mission of the space shuttle Endeavour.
+
+----
+num: 22
+category: Literature
+difficulty: 1000
+seen: 4
+answer: embrace
+
+A hug, or eager acceptance.
+
+----
+num: 23
+category: Trash
+difficulty: 1000
+seen: 5
+answer: progressive
+
+With this type of slot machine the jackpot keeps growing, so always use the maximum number of coins or you'll miss out.
+
+----
+num: 24
+category: Literature
+difficulty: 1000
+seen: 4
+answer: Nelly Furtado
+
+"I'm like a bird, I'll only fly away / I don't know where my soul is, I don't know where my home is".
+
+----
+num: 25
+category: Geography
+difficulty: 1000
+seen: 7
+answer: Indonesia
+
+The Suramadu Bridge linking Surabaya with Madura Island is this country's longest bridge.
+
+----
+num: 26
+category: Science
+difficulty: 1000
+seen: 6
+answer: obesity
+
+Bariatric surgery: this condition affecting 1/3 of U.S. adults.
+
+----
+num: 27
+category: Literature
+difficulty: 400
+seen: 4
+answer: Banana Republic
+
+This chain of stores owned by The Gap originally had "Travel & Safari Clothing Co." in its name.
+
+----
+num: 28
+category: History
+difficulty: 400
+seen: 4
+answer: soul
+
+A bedtime prayer: "Now I lay me down to sleep, I pray the Lord my ___ to keep".
+
+----
+num: 29
+category: Literature
+difficulty: 400
+seen: 4
+answer: Africa
+
+Harlem Renaissance poet Countee Cullen wrote, "Spicy grove, cinnamon tree, what is" this continent "to me?".
+
+----
+num: 30
+category: History
+difficulty: 400
+seen: 3
+answer: Cape May
+
+This resort "cape" wasn't named for the 5th month but for a 17th century Dutch explorer.
+
+----
+num: 31
+category: Literature
+difficulty: 800
+seen: 4
+answer: mosaic
+
+Tesserae are the small pieces of colored glass used in this type of artwork for which Ravenna, Italy is famous.
+
+----
+num: 32
+category: History
+difficulty: 800
+seen: 4
+answer: opportunity
+
+John McCain (on immigration): "America is still the land of ___".
+
+----
+num: 33
+category: Literature
+difficulty: 800
+seen: 4
+answer: Edward Lear
+
+One of his many nonsense verses says, "On the top of the Crumpetty Tree the Quangle Wangle sat".
+
+----
+num: 34
+category: Literature
+difficulty: 1200
+seen: 4
+answer: fandango
+
+This lively Spanish dance shares its name with a popular movie-ticketing website.
+
+----
+num: 35
+category: History
+difficulty: 1200
+seen: 4
+answer: generation
+
+Ecclesiastes: "One ___ passeth away, and another ___ cometh".
+
+----
+num: 36
+category: Literature
+difficulty: 1200
+seen: 4
+answer: forbidden tree
+
+"Paradise Lost" begins, "Of man's first disobedience, and the fruit of that..." these 2 words.
+
+----
+num: 37
+category: History
+difficulty: 1200
+seen: 4
+answer: Garfield
+
+In 1881 this president was taken to Long Branch to recuperate, but he never cuperated again.
+
+----
+num: 38
+category: Literature
+difficulty: 1600
+seen: 4
+answer: Balmoral
+
+Baltimore is in Maryland; this Aberdeenshire, Scotland castle is a summer residence of the British royal family.
+
+----
+num: 39
+category: History
+difficulty: 1600
+seen: 5
+answer: cause
+
+Both Bush & Obama (on Afghanistan): "Our ___ is just".
+
+----
+num: 40
+category: Literature
+difficulty: 1600
+seen: 4
+answer: Christina Rossetti
+
+This sister of Dante Gabriel Rossetti wrote, "Plant thou no roses at my head, nor shady cypress tree".
+
+----
+num: 41
+category: History
+difficulty: 1600
+seen: 5
+answer: Asbury Park
+
+Greetings from this town named for the founder of Methodism in the United States.
+
+----
+num: 42
+category: Literature
+difficulty: 2000
+seen: 6
+answer: eohippus
+
+The earliest known horse is this small prehistoric critter also known as a "dawn horse".
+
+----
+num: 43
+category: History
+difficulty: 2000
+seen: 5
+answer: Articles
+
+The Continental Congress: "a convention... for the sole and express purpose of revising the ___ of Confederation".
+
+----
+num: 44
+category: Literature
+difficulty: 2000
+seen: 6
+answer: John Donne
+
+His "Holy Sonnets" mention "that tree, whose fruit threw death on else immortal us".

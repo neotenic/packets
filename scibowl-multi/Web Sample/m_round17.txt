@@ -1,0 +1,307 @@
+####
+tournament: Web Sample
+round: m_round17.pdf
+####
+
+num: 1
+category: Physical Science
+difficulty: MS
+answer: W)  Cathode Ray Tube
+
+J. J. Thomson primarily used what instrument to discover electrons:
+W) cathode ray tube
+X) torsion balance
+Y) interferometer
+Z) mass spectrometer
+
+----
+num: 1
+category: Physical Science
+difficulty: MS
+answer: W)  Bombardment With Neutrons
+
+In the early 20^th century, physicists were unknowingly fissioning uranium by which of the following methods:
+W) bombardment with neutrons
+X) combining heavy isotopes of plutonium 
+Y) exposing uranium to high temperatures
+Z) exposing heavy elements to immense pressure using explosive devices in heavy -walled containment vessels
+
+----
+num: 2
+category: Earth Science
+difficulty: MS
+answer: X)  Eutrophication
+
+It is the fate of all lakes and ponds on Earth to eventuall y become dry lands, bogs, marshes, or fens, through a process called:
+W) fossilization 
+X) eutrophication
+Y) mineralization
+Z) oligotrophy
+
+----
+num: 3
+category: Math
+difficulty: MS
+answer: Z)   Right Square Pyramid
+
+The formula, SA = s^2 + 2sl, wheres is one side of the base and l is the slant height, is used to calculate the surface area of which of the following:
+W) right circular cone
+X) right pentagonal prism
+Y) rectangular solid
+Z) right square pyramid
+
+----
+num: 4
+category: General Science
+difficulty: MS
+answer: Y)  Melamine
+
+Which of the following was determined in 2007 to be the cause of hundreds of pet deaths because of pet food contamination:
+W) aspartame
+X) stevia
+Y) melamine
+Z) carrageenan
+
+----
+num: 4
+category: General Science
+difficulty: MS
+answer: W)  Protein
+
+Melamine is sometimes illegally added to food products in order to increase the apparent content of:
+W) protein 
+X) carbohydrate
+Y) enzymes
+Z) B vitamins
+
+----
+num: 5
+category: Life Science
+difficulty: MS
+answer: Y)  Centrifugation
+
+Which of the following techniques was used by Meselson and 
+Stahl to separate samples of DNA that contained different amounts of DNA labeled with a heavy isotope and a light isotope of nitrogen in their experiments on DNA replication:
+W) reverse osmosis
+X) dialysis
+Y) centrifugation 
+Z) liquid chromatography
+
+----
+num: 7
+category: Earth Science
+difficulty: MS
+answer: Z)  Bermuda High
+
+Which of the following is a semi -permanent high pressure system that sits over the Atlantic Ocean during summer:
+W) South Atlantic High
+X) Floridian High 
+Y) North American High
+Z) Bermuda High
+
+----
+num: 7
+category: Earth Science
+difficulty: MS
+answer: X)  Air Spiraling Out From the Center in a Clockwise Direction
+
+Which of the following BEST describes the air circulation pattern above the Bermuda or Azores high in the northern hemisphere in August:
+W) air spiraling into the center in a clockwise direction
+X) air spiraling out from the center in a clockwise direction
+Y) air spiraling into the center in a counter -clockwise direction
+Z) air spiraling out from the center in a counter -clockwise direction
+
+----
+num: 9
+category: General Science
+difficulty: MS
+answer: W)  Sugar
+
+The glycemic index is an index t hat is used to directly predict the rate at which ingested food in the human diet will increase which of the following levels in the blood:
+W) sugar 
+X) lipid
+Y) oxygen
+Z) carbon dioxide
+
+----
+num: 10
+category: Life Science
+difficulty: MS
+answer: X)  Interphase
+
+In which of the following stages in the life of an average dividing cell would it spend most of its time:
+W) mitosis
+X) interphase
+Y) cytokinesis
+Z) karyokinesis
+
+----
+num: 10
+category: Life Science
+difficulty: MS
+answer: Y)  About 50% Dna and 50% Protein
+
+Which of the following BEST describes the chemical makeup of a human chromosome:
+W) 100% DNA
+X) about 99% DNA and 1% protein
+Y) about 50% DNA and 50% protein
+Z) about 1% DNA and 99% protein
+
+----
+num: 11
+category: Physical Science
+difficulty: MS
+answer: Y)  It Theoretically Acts Over Unlimited Distances
+
+Which of the following is most accurate regarding the force of gravity:
+W) it is caused by the weight of an object
+X) it is cannot travel through a vacuum
+Y) it theoretically acts over unlimited distances
+Z) it is caused by the stron g nuclear force within atoms
+
+----
+num: 11
+category: Physical Science
+difficulty: MS
+answer: X)  the Ring Will Accelerate Slower Because All Its Mass in the 
+Outer Rim
+
+Which of the following BEST explains whether a U .S.quarter will accelerate down an inclined plane faster than a silve r ring of the same diameter, assuming both roll without slipping:
+W) the ring accelerates faster because it has less inertia
+X) the ring will accelerate slower because all its mass in the outer rim 
+Y) the quarter will accelerate faster because it has more mass 
+Z) the quarter will accelerate at the same rate as the ring since both have the same diameter
+
+----
+num: 12
+category: General Science
+difficulty: MS
+answer: W)  Upper Left
+
+In the Hertzsprung-Russell diagram, where would 
+Blue Giants be found:
+W) upper left
+X) upper right
+Y) lower left
+Z) lower right
+
+----
+num: 13
+category: Earth Science
+difficulty: MS
+answer: Z)  Stromatolites
+
+Which of the following are the first clearly identifiable fossils from the Precambrian Era which can still be found living along beaches of Shark Bay in western Australia:
+W) echinoderms
+X) trilobites
+Y) sharks
+Z) stromatolites
+
+----
+num: 13
+category: Earth Science
+difficulty: MS
+answer: W)  Its Relative Age
+
+The law of superposition is used by geologists to predictwhich of the following prop erties of a rock:
+W) its relative age
+X) its absolute age
+Y) its radiometric age
+Z) its chemical composition
+
+----
+num: 14
+category: Math
+difficulty: MS
+answer: X)  Y = X^2^
+
+The graph of which of the following equations passes through quadrants one and two:
+W) 
+X) yx= –x2 = 0 ^2^
+Z) Y) yx+ 3 = 0= 5y
+
+----
+num: 15
+category: Life Science
+difficulty: MS
+answer: Z)  the Bacteria Only Grow at the Bottom of the Test Tube
+
+Which of the following will most likely occur for a bacteria that is an obligate or strict anaerobe (read as: an-AYE-robe) when grown in a test tube of nutrient agar that remains undisturbed :
+W) all the bacteria immediately die
+X) the bacteria only grow against the walls of the test tube
+Y) the bacteria only grow at the top of the test tube
+Z) the bacteria only grow at the bottom of t he test tube
+
+----
+num: 15
+category: Life Science
+difficulty: MS
+answer: W)  Nad+
+
+Which of the following molecules primarily functions to carry electrons from one place to another inside a cell:
+W) NAD+
+X) ATP
+Y) UTP
+Z) pyruvic acid
+
+----
+num: 16
+category: Physical Science
+difficulty: MS
+answer: Z)  H
+^2so
+^4
+
+Which of the following is a strong acid since it ionizes almost completely in water:
+W) NaCl
+X) LiOH
+Y) H^2CO^3^
+Z) H^2SO^4
+
+----
+num: 17
+category: General Science
+difficulty: MS
+answer: Z)  31,557,600
+
+How many light-seconds are in a light -year:
+W) 300,000
+X) 360,000
+Y) 1,314,000
+Z) 31,557,600
+
+----
+num: 18
+category: Earth Science
+difficulty: MS
+answer: Y)  Infrared Radiation
+
+The greenhouse effect is produced primarily by the re-emission of which of the following by the atmosphere:
+W) visible light
+X) UV light
+Y) infrared radiation
+Z) sensible heat
+
+----
+num: 18
+category: Earth Science
+difficulty: MS
+answer: W)  Chlorofluorocarbon
+
+Which of the following is a human -made gas that, if released into t he atmosphere, can directly act to destroy ozone in the stratosphere:
+W) chlorofluorocarbon 
+X) carbon dioxide
+Y) methane
+Z) hydrogen cyanide
+
+----
+num: 19
+category: Math
+difficulty: MS
+answer: X)  Scatter Plot
+
+Which of the following is the best exa mple of a graph of ordered pairs that directly shows how much one variable is directly affected by another:
+W) box-and-whiskers plot 
+X) scatter plot
+Y) histogram
+Z) pie chart

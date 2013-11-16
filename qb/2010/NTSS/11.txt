@@ -1,0 +1,204 @@
+####
+tournament: NTSS
+round: 11.pdf
+year: 2010
+####
+
+num: 1
+category: Literature
+difficulty: HS
+fixed: 1
+seen: 448
+answer: Wilfred {Owen}
+
+The fifth section of one of this writer's poems asks that wise people see their task through the eyes of somebody who is not sad, proud, or curious—the happy people with their “veins run cold” described in its first four sections. Another poem by this man starts by asking, “What passing-bells for these who die as cattle?” In a different poem, the narrator has nightmares about somebody “guttering”, “choking”, and “drowning” after seeing somebody who could not get his mask on fast enough during a gas warfare attack during World War I. That poem claims that a line written by Horace is a lie. Identify this poet who wrote “Insensibility”, “Anthem for Doomed Youth”, and “Dulce (DOOL-say) et Decorum Est”.
+
+----
+num: 2
+category: History
+difficulty: HS
+fixed: -1
+seen: 413
+answer: Vasco Núñez de {Balboa} [prompt on {Núñez}]
+
+Martín Fernández de Enciso once threatened to leave this person on the first desert island they found. This ex- plorer was accused of treason by his father-in-law Pedro Arias Dávila and beheaded. Always traveling with his dog Leoncico (lee-on-SEE-koe), he had escaped an unssuccessful stint as a pig farmer on Hispaniola by sneaking onto a boat run by Diego de Nicuesa (nee-KWAY-sah), the founder of Santa Maria de la Antigua del Darien, which was the first permanent European settlement in South America. Name this explorer who climbed a peak after crossing what is now Panama in 1513, becoming the first European to see the Pacific Ocean.
+
+----
+num: 3
+category: Science
+difficulty: HS
+fixed: -1
+seen: 481
+answer: {epinephrine} [accept {adrenaline}, prompt on {epi}]
+
+This hormone is distinguished from other catecholamines (caa-tuh-COHL-uh-meenz) by having a methyl (MEH- thihl) group attached to its nitrogen atom. The action of this hormone is diminished by beta-blockers, and though it is not glucagon (GLOO-kuh-gahn), its receptors in the liver work with adenylate cyclase (uh-DEHN-uh-layt SI-klays) to increase the concentration of cyclic AMP, resulting in the conversion of glycogen (GLI-koh-jehn) to glucose. Other effects of this hormone include the relaxation of smooth muscle and an increase in blood pressure, explaining why it is often administered to patients suffering from anaphylaxis (aa-nuh-fuh-LAAK-siss), asthma, and cardiac arrest. Fa- mously mimicked by the herb ephedra (uh-FED-ruh), name this hormone that dilates air passages, contracts blood vessels, and increases heart rate, all as part of the fight-or-flight response.
+
+----
+num: 4
+category: Mythology
+difficulty: HS
+fixed: -1
+seen: 793
+answer: {Europa}
+
+Though some sources claim that this woman's father was Phoenix, most sources claim that he was her brother and that he founded Phoenicia while looking for her. Her other brothers, who also named cities after themselves after searching for her, were Cilix, Thasus, and Cadmus. Her father Agenor was the King of Tyre. The gifts given to this woman include a dog named Laelaps, a perfect javelin, and a bronze guardian named Talos. This woman was taken to Crete and later gave birth to Sarpedon, Rhadamanthys, and Minos. Name this princess who was abducted by Zeus when he took the form of a white bull.
+
+----
+num: 5
+category: Fine Arts
+difficulty: HS
+fixed: 1
+seen: 493
+answer: Louis {Sullivan}
+
+Late in life, this architect designed the Purdue State Bank and National Farmer's Bank of Owatonna, two of several banks that became known as his jewel boxes. This architect also designed a bronze-gated tomb at Graceland Cemetery that houses Carrie Eliza Getty. Now the namesake of the Carson, Pirie, Scott and Company Building he designed in 1899, most of this architect's major works were done in partnership with a German-born architect, including the cur- rent home of Chicago's Roosevelt University, the Auditorium Building. This architect loaned money for the purchase of a first house by Frank Lloyd Wright, who considered him a mentor. Name this architect whose partnership with Dankmar Adler included the design for a ten-story building in St. Louis, the Wainwright Building.
+
+----
+num: 6
+category: Literature
+difficulty: HS
+fixed: 57
+seen: 447
+answer: John {Steinbeck}
+
+In one novel by this author, Danny inherits two houses, one of which is burned to the ground by his friends Pilon and Pablo. Another work by this writer includes Ivy and Sairy Wilson, who get their car repaired, and a Hooverville resident named Floyd Knowles. In another one of this author's novels, Carlson kills Candy's dog. One of the two main characters in that novel is George Milton. Identify this author who wrote about the town of Monterey in Tortilla Flat, the Joad Family in The Grapes of Wrath, and the mentally deficient Lennie Small in Of Mice and Men.
+
+----
+num: 7
+category: History
+difficulty: HS
+fixed: 1
+seen: 409
+answer: Dag Hjalmar Agne Carl {Hammarskjöld}
+
+This leader claimed that he used the Peking Formula to win the release of fifteen American airmen from China. He organized conferences on the peaceful uses of atomic energy and, working with Canada's Lester Pearson, this man or- ganized the United Nations Emergency Force, which he deployed during the Suez Crisis. This man was working on an agreement between the breakaway province of Katanga and Congo on a visit to Northern Rhodesia, but he died when his airplane exploded. Name the second United Nations Secretary-General, a native of Sweden.
+
+----
+num: 8
+category: Social Science
+difficulty: HS
+fixed: -1
+seen: 379
+answer: The {Chrysanthemum} and the {Sword}
+
+In this work, freedom and indulgence is described as a U shape, maximizing for babies and the old. Because a field trip was impossible, research for this book depended on the work of John Embree. This book's writer wanted to study a subject that supposedly had been described by the most fantastic series of “but also's” ever used. Chapters such as “Clearing One's Name”, “Self Discipline”, and “Taking One's Proper Station” were intended to explain a foreign cul- ture that the author's country was at war with, trying to give insight into why its prisoners were not interested in con- tacting family members. Name this work in anthropology published in 1946 that was written by Ruth Benedict about Japan.
+
+----
+num: 9
+category: Science
+difficulty: HS
+fixed: 57
+seen: 490
+answer: {Monte Carlo} algorithm or method [accept {annealing} or {stochastic} before they are mentioned]
+
+One of these methods using Markov chains and sometimes classified as either an independence chain or a random walk is the Metropolis-Hastings algorithm, which is also considered a type of simulated annealing. Often used in sto- chastic modeling, this method was first used to study radiation shielding by John von Neumann and Stanis?aw Ulam. Often used to approximate integrals, this mathematical method is used to study situations such as Brownian motion, economic modeling, and games of chance when deterministic solutions are unknown or unhelpful. Identify this type of solution that repeatedly uses random numbers which is named after a European city.
+
+----
+num: 10
+category: Science
+difficulty: HS
+fixed: 57
+seen: 483
+answer: {leptons}
+
+Physicists believe that these types of particles far outnumbered other types beginning one second after the Big Bang until the universe cooled to one billion Kelvins. In order for the number named after these particles to be con- served, a neutron admits a third particle when it decays in addition to a proton and an electron. Only the most massive type of this particle is capable of emitting a W boson, and one of these particles was formerly believed to be a meson. This family includes the different types of neutrinos and their associated particles, including the tau and the muon. Identify this family of six particles that includes the electron.
+
+----
+num: 11
+category: Literature
+difficulty: HS
+fixed: 1
+seen: 448
+answer: Philip “{Pip}” Pirrip [accept any part or combination of parts]
+
+This character wonders whether his sister washes herself with a nutmeg grater and tries to eat a breakfast consist- ing largely of diluted milk while being quizzed by his brother-in-law's uncle. Because this protagonist reminds one of his friends of the song “The Harmonious Blacksmith”, his friend calls him Handel. That friend, who challenges this character to a fight in the garden of Satis House, is Herbert Pocket. Pocket is the son of the cousin of the woman that this character believes is his benefactor, Miss Havisham. Identify this character who is kind to the escaped convict Abel Magwitch in Charles Dickens' Great Expectations.
+
+----
+num: 12
+category: Science
+difficulty: HS
+fixed: 57
+seen: 482
+answer: solar {wind} [prompt on {solar flares} before “{flares}”]
+
+The NASA IBEX is now mapping this phenomenon, and scientists believe that the craft observed a reflection of this. Some scientists believe that Earth could not have had an atmosphere until its iron core condensed because of this phenomenon. An unknown mechanism in the polar oval causes this phenomenon to accelerate as it passes through Earth's magnetosphere, and it also forms a solar system-sized bubble in the interstellar medium called the heliosphere. This phenomenon forces the tails of comets to always point away from the Sun, while its periodic flares can cause geomagnetic storms that knock out power grids. Also responsible for the Northern and Southern Lights, name this continuous stream of charged particles emitted by the Sun's corona.
+
+----
+num: 13
+category: History
+difficulty: HS
+fixed: -1
+seen: 420
+answer: Battle of {Actium}
+
+This battle is named after a town between the Ambracian Gulf and the Ionian Sea. An old alliance was broken just after this battle took place when Lucius Pinarius Scarpus killed messengers from his former partner and gave his troops to Gaius Cornelius Gallus. It was preceded by the promotion of Messala Corvinus, and the successful fleet was led by Marcus Vipsanius Agrippa. Alliances were broken immediately before this battle due to one of the generals di- vorcing Octavia. Name this battle in 31 BCE in which Octavian was victorious, leading to the suicides of Mark An- tony and Cleopatra.
+
+----
+num: 14
+category: Fine Arts
+difficulty: HS
+fixed: -1
+seen: 496
+answer: {Ghent Altarpiece} [or The {Adoration} of the {Mystic Lamb}; or {Het Lam Gods}; or The {Lamb} of {God}; or The
+
+In the lower right section of this work, pilgrims are led by Saint Christopher wearing a white headband and red robe, and next to them are the Holy Hermits. The lower left part of this work has sections titled The Knights of Christ and Just Judges, the latter of which was stolen in 1934 and subsequently replaced by a copy by another artist. The bot- tom center of this work shows the octagonal fountain of life and people worshiping an animal that represents Christ. Name this work with twelve panels inside and twelve panels outside completed in 1432 for the Saint Bavo Cathedral by Hubert and Jan (YAHN) van Eyck.
+
+----
+num: 15
+category: History
+difficulty: HS
+fixed: -1
+seen: 413
+answer: {FCC} [or Federal {Communications} Commission]
+
+This organization is currently headed by Julius Genachowski, who replaced Kevin Martin, and it won a 1978 Su- preme Court decision against Pacifica Foundation. In 2005, this group stated that consumers are entitled to connect their choice of devices, run applications of their choice, have competition among network providers, and access con- tent of their choice in its internet policy statement. It recently set rules for the use of white space, or unused frequen- cies. This organization has also been involved in controversies over studies of media ownership concentration. The ability of this commission to levy fines was increased tenfold in 2005 by the Broadcast Decency Enforcement Act. Name this successor of the Federal Radio Commission which was impacted by the 1996 Telecommunications Act.
+
+----
+num: 16
+category: Fine Arts
+difficulty: HS
+fixed: 1
+seen: 492
+answer: Aaron {Copland}
+
+The first symphony by this composer, written at the request of Serge Koussevitsky, was titled Symphony for Organ and Orchestra. Another work by this composer, based on folk songs collected by Ruben Campos and Frances Toor and inspired by a popular dance hall, was El Salón México. A well-known work by this composer is one of ten pieces commissioned by Eugene Goossens for the Cincinnati Symphony Orchestra and became a major theme of this com- poser's third symphony. He also wrote a work that includes narrations of speeches by Abraham Lincoln. Name this American composer of Fanfare for the Common Man who also wrote the ballets Billy the Kid, Appalachian Spring, and Rodeo.
+
+----
+num: 16
+category: Fine Arts
+difficulty: HS
+fixed: 1
+seen: 489
+answer: Aaron {Copland}
+
+The first symphony by this composer, written at the request of Serge Koussevitsky, was titled Symphony for Organ and Orchestra. Another work by this composer, based on folk songs collected by Ruben Campos and Frances Toor and inspired by a popular dance hall, was El Salón México. A well-known work by this composer is one of ten pieces commissioned by Eugene Goossens for the Cincinnati Symphony Orchestra and became a major theme of this com- poser's third symphony. He also wrote a work that includes narrations of speeches by Abraham Lincoln. Name this American composer of Fanfare for the Common Man who also wrote the ballets Billy the Kid, Appalachian Spring, and Rodeo.
+
+----
+num: 17
+category: Science
+difficulty: HS
+fixed: -1
+seen: 492
+answer: {factorial}
+
+This term is used to describe experiments in which at least two factors are tested at all of their possible levels. It more commonly refers to a function which for large values can be estimated by the Stirling approximation. For posi- tive integers, this function shifted to the right by one unit is equal to the gamma function. Most often it is defined re- cursively with the initial value at 0 equaling 1 and the ratio of this function for x divided by this function for the quan- tity x minus one equaling x. This function is often used in combinatorics in the formulas for combinations and permu- tations. Give the name of the function that, for a natural number n, equals the product of all the numbers from 1 to n.
+
+----
+num: 18
+category: Literature
+difficulty: HS
+fixed: 1
+seen: 456
+answer: Eugène {Ionesco} [or Eugen {Ionescu}]
+
+This playwright rewrote Macbeth so that Lady Duncan is one of the witches. In another work by this writer, the maid Mary claims to be Sherlock Holmes. The doorbell rings several times when nobody is there, but Donald and Elizabeth Martin do not ring it when they show up at the Smiths' house. In another work by this writer, a newspaper conspiracy theory is put forth by Botard, and people are told to focus on their work by Papillon. Name this writer who created the Fire Chief in The Bald Soprano and surrounded Berenger with people transforming into animals in Rhinoceros.
+
+----
+num: 19
+category: History
+difficulty: HS
+fixed: -1
+seen: 410
+answer: {Stokely Carmichael} [or {Kwame Ture}]
+
+This activist organized the Lowndes County Freedom Organization, which inspired Huey Newton and Bobby Seale to call themselves the Black Panthers. During college, this man took an active role in the Nonviolent Action Group, and in 1966 he replaced John Lewis as Chairman of the Student Nonviolent Coordinating Committee. That briefly held position was followed by a brief association with the Black Panthers, which this man left because he did not want to work with white liberals. Late in life, this activist changed his first name to match the President of Ghana's and his last name to match the President of Guinea's. In 1998, he died from prostate cancer after pushing for Pan-Africanism in Guinea. Name this activist who along with Willie Ricks popularized the political slogan Black Power.

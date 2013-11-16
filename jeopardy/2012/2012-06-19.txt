@@ -1,0 +1,384 @@
+####
+tournament: #6402
+round: Show #6402 - Tuesday, June 19, 2012
+year: 2012
+date: 2012-06-19
+####
+
+num: 1
+category: Science
+difficulty: 200
+seen: 8
+answer: golf
+
+The irons used in this sport may be either "cast" or "forged".
+
+----
+num: 2
+category: History
+difficulty: 200
+seen: 5
+answer: women
+
+In 1920 the 19th Amendment gave this group the right to vote.
+
+----
+num: 3
+category: Literature
+difficulty: 200
+seen: 4
+answer: crimson
+
+In song it's paired with clover, "over & over".
+
+----
+num: 4
+category: History
+difficulty: 200
+seen: 4
+answer: Louis Armstrong
+
+What a wonderful world! In 2001 the New Orleans airport was renamed to honor this jazz great's 100th birthday.
+
+----
+num: 5
+category: Literature
+difficulty: 200
+seen: 4
+answer: Chex
+
+This General Mills cereal that comes in corn, rice & wheat varieties is also known for its "mix".
+
+----
+num: 6
+category: Science
+difficulty: 400
+seen: 6
+answer: carbon
+
+The most common form of steel is named for this element that alloys with the iron.
+
+----
+num: 7
+category: Literature
+difficulty: 400
+seen: 4
+answer: ruby
+
+It precedes -crowned kinglet & -throated hummingbird.
+
+----
+num: 8
+category: History
+difficulty: 400
+seen: 4
+answer: Gerald Ford
+
+The airport serving Grand Rapids, Michigan is named for this 38th president.
+
+----
+num: 9
+category: Literature
+difficulty: 400
+seen: 4
+answer: Exxon
+
+Brand of gas that wanted to "put a tiger in your tank".
+
+----
+num: 10
+category: Science
+difficulty: 600
+seen: 6
+answer: isotopes
+
+Common iron consists of a mixture of 4 of these, iron-54 , iron-56, iron-57 & iron-58.
+
+----
+num: 11
+category: History
+difficulty: 600
+seen: 5
+answer: Jackson
+
+In 1830 this president signed the Indian removal act allowing the relocation of eastern tribes.
+
+----
+num: 12
+category: Literature
+difficulty: 600
+seen: 4
+answer: Burgundy
+
+Start your wine-ing,.
+
+----
+num: 13
+category: History
+difficulty: 600
+seen: 4
+answer: LaGuardia
+
+The smallest of the 3 major airports serving NYC, it's named for the mayor who oversaw its construction.
+
+----
+num: 14
+category: Literature
+difficulty: 600
+seen: 3
+answer: Texaco
+
+Brand of gas that was sold by "the man who wears the star".
+
+----
+num: 15
+category: History
+difficulty: 800
+seen: 4
+answer: the Navy SEALs
+
+Team 6 of this elite fighting unit killed Osama bin Laden in 2011.
+
+----
+num: 16
+category: Literature
+difficulty: 800
+seen: 4
+answer: maroon
+
+It also means to abandon & leave without aid or resources.
+
+----
+num: 17
+category: History
+difficulty: 800
+seen: 4
+answer: John Wayne
+
+A 9-foot statue of this actor graces the terminal building of the Orange County, California airport named for him.
+
+----
+num: 18
+category: Literature
+difficulty: 800
+seen: 4
+answer: Nextel
+
+This Sprint partner's direct connect service lets your cellphone work like a walkie-talkie.
+
+----
+num: 19
+category: Science
+difficulty: 1000
+seen: 6
+answer: hemoglobin
+
+Iron is necessary for the formation of this blood protein that transports oxygen to the tissues.
+
+----
+num: 20
+category: History
+difficulty: 1000
+seen: 3
+answer: immigration
+
+1952's McCarran-Walter act dropped race-based quotas for this but imposed quotas based on nationality.
+
+----
+num: 21
+category: Literature
+difficulty: 1000
+seen: 4
+answer: The Scarlet Pimpernel
+
+An English aristocrat took this title swashbuckling alter ego in a 1905 novel.
+
+----
+num: 22
+category: History
+difficulty: 1000
+seen: 4
+answer: Pisa
+
+This Italian city's airport is named for native son Galileo Galilei.
+
+----
+num: 23
+category: Literature
+difficulty: 1000
+seen: 4
+answer: Bowflex
+
+Nautilus, Inc. uses infomercials to sell this brand of home gym.
+
+----
+num: 24
+category: History
+difficulty: 400
+seen: 4
+answer: Prussia
+
+Frederick Charles , the "Iron Prince", led this German kingdom's troops to victory at the 1866 Battle of Koniggratz.
+
+----
+num: 25
+category: Science
+difficulty: 400
+seen: 6
+answer: fair (and) far
+
+...into a word meaning "distant" to make it a county exhibition.
+
+----
+num: 26
+category: Literature
+difficulty: 400
+fixed: 1
+seen: 4
+answer: Rudyard {Kipling}
+
+This Brit was living in Vermont in the 1890s when he wrote "Captains Courageous" & most of "Kim".
+
+----
+num: 27
+category: Trash
+difficulty: 400
+seen: 5
+answer: Kanye West
+
+"Yo Britney... I'mma let you be #1, but me and Jay-Z single is one of the best songs of all time!".
+
+----
+num: 28
+category: History
+difficulty: 800
+seen: 4
+answer: the man in the iron mask
+
+Scholars think Eustache Dauger, valet to France's finance minister, was this prisoner who inspired Dumas.
+
+----
+num: 29
+category: Science
+difficulty: 800
+seen: 5
+answer: to weld and to wield
+
+...into a word meaning "to join metals with heat"; now you have a synonym for "to brandish".
+
+----
+num: 30
+category: Literature
+difficulty: 800
+seen: 4
+answer: Larry McMurtry
+
+This author's bookstore, called Booked Up, is only a few blocks from the movie theater seen in "The Last Picture Show".
+
+----
+num: 31
+category: Trash
+difficulty: 800
+seen: 4
+answer: Kim Kardashian
+
+On Oct. 10 , 2011 this reality star (an omen?): "What did you guys think of my wedding? Can't believe it's all over".
+
+----
+num: 32
+category: History
+difficulty: 1200
+seen: 5
+answer: the Iron Duke
+
+Wrestling champ & medicine ball inventor William Muldoon shared this nickname with the winner at Waterloo.
+
+----
+num: 33
+category: Science
+difficulty: 1200
+seen: 5
+answer: her and heir
+
+...into a female pronoun, which becomes an inheritor.
+
+----
+num: 34
+category: Literature
+difficulty: 1200
+seen: 4
+answer: Virginia Woolf
+
+She described the difficulties of female writers in a man's world in her 1929 essay "A Room of One's Own".
+
+----
+num: 35
+category: Trash
+difficulty: 1200
+seen: 5
+answer: Martha Stewart
+
+"It's a good thing" this lifestyle maven asked, "do you think I am hip?".
+
+----
+num: 36
+category: History
+difficulty: 1600
+seen: 5
+answer: Goethe
+
+Gotz with the iron hand, real-life hero of one of this "Faust" author's plays, had a hand shot off in battle.
+
+----
+num: 37
+category: Science
+difficulty: 1600
+seen: 5
+answer: rot and to riot
+
+...into a synonym for "decay"; now you have lawless disorder.
+
+----
+num: 38
+category: Literature
+difficulty: 1600
+seen: 4
+answer: Theodore Dreiser
+
+The lack of success of "Sister Carrie", his first novel, sent him into a severe depression.
+
+----
+num: 39
+category: Trash
+difficulty: 1600
+seen: 6
+answer: George Takei
+
+Mr. Sulu , phasers on stunning: "I'm going to violate Leviticus by wearing a cotton/ polyester blend".
+
+----
+num: 40
+category: History
+difficulty: 2000
+seen: 6
+answer: Iron Eyes
+
+Nickname of Oscar Cody, famous for his tears in a public service announcement.
+
+----
+num: 41
+category: Science
+difficulty: 2000
+seen: 9
+answer: rate and irate
+
+...to the front of a word referring to a fixed charge, making it an angry adjective.
+
+----
+num: 42
+category: Literature
+difficulty: 2000
+seen: 6
+answer: prose
+
+Last name of author Francine, or what she writes in novels like "Household Saints".

@@ -1,0 +1,224 @@
+####
+tournament: Princeton Buzzerfest
+round: BSUNotreDame.doc
+year: 2010
+####
+
+num: 1
+category: Literature
+difficulty: College
+fixed: None
+seen: 61
+answer: {Henry Miller}
+
+In one novel by this author, the title character calls his wife Blanche a “totem pole”. In addition to Moloch, this writer wrote several semi-autobiographical novels, including one in which Katsimbalis is the title character that was inspired by a visit to Greece, another that includes sections titled “The Angel Is My Watermark!” and “Megalopolitan Maniac”, and a trilogy of works that describes his trouble with Mona, who is based on his second wife, and her lover Anastasia. In addition to The Colossus of Maroussi, Black Spring, and Sexus, Plexus, and Nexus, this author wrote another semi-autobiographical work in which the protagonist is a struggling writer in Paris, and its sequel in which he works for the Cosmodemonic telegraph company. For 10 points, who is this American author of The Rosy Crucifixion trilogy, Tropic of Capricorn, and Tropic of Cancer?
+
+----
+num: 2
+category: Social Science
+difficulty: College
+fixed: 57
+seen: 49
+answer: {democracy} [accept {alternate} forms before {titles} are mentioned]
+
+In one work, Robert Dahl spoke about talked about a third transformation of this in a work titled for this “and its critics,” which in an earlier work he had organized along two theoretical principles, contestation and inclusion. That work was a result of Joseph Schumpeter's call for an empirical definition of this concept. 1970's Spain had been the starting point of a “third wave” of this according to Samuel Huntington, and in “An Economic Theory of” this, Anthony Downs provided a theoretical method of voter choice. Robert Jervis wrote that the “Bush Doctrine” revolved around the “peace theory” associated with this, much like Woodrow Wilson. For 10 points, name this form of government, which Joseph Schumpeter wrote about in “Capitalism, Socialism, and” this, and Alexis de Tocqueville wrote about “in America.”
+
+----
+num: 3
+category: History
+difficulty: College
+fixed: 57
+seen: 69
+answer: {Ypres} [prompt on “{Passchendaele}”]
+
+The Langemark war cemetery memorializes those who died during battles named for this place. An incident in which several German units were killed by a small force of experienced Boer War veterans occurred at a battle named for this polity and is called "The Massacre of the Innocents of" this place. A later battle at this place was led primarily to cripple German submarine warfare by capturing German port cities but proved inconclusive, in part because the area surrounding this city was located on reclaimed marshland which turned to thick mud after being repeatedly shelled, and it also marked the first use of poison gas on the Western Front. For 10 points, name this Belgian city, site of multiple World War I battles.
+
+----
+num: 4
+category: Fine Arts
+difficulty: College
+fixed: 57
+seen: 68
+answer: Frida {Kahlo}
+
+One work by this artist shows the title figure in the various stages of the title action, from standing on the balcony to lying on the bloody sidewalk. In addition to The Suicide of Dorothy Hale, this painter is known primarily for a particular type of painting, one of which includes the subject with very short hair sitting on a chair. Others of this type by her include one that depicts the subject on a leafy background with a monkey on one shoulder and a black cat on the other, and another one that has two copies of that subject sitting on a bench on a cloudy background, one wearing a white European-style dress, and one wearing a blue and brown peasant dress. For 10 points, who is this Mexican painter of many self-portraits including one “with Thorn Necklace and Hummingbird” showing her mustache and unibrow?
+
+----
+num: 5
+category: Science
+difficulty: College
+fixed: None
+seen: 85
+answer: {infrared spectroscopy} [or {IR spectroscopy}]
+
+The attenuated total reflection type of this can be used on compounds with a low surface area, while the diffuse reflectance type can be used to study samples that are not sufficiently transparent. The multiplex advantage explains the use of the Fourier Transform type of this. Diatomic bonds are generally not found in the fingerprint region, and the stretching seen using this technique generally occurs at higher frequencies than the bending. Most types of this use some sort of absorption, because each bond in the molecule will absorb only its characteristic frequency. For 10 points, name this type of analytical technique, which categorizes compounds based on the frequency of the vibration of its bonds when exposed to radiation of waves longer than those of visible light.
+
+----
+num: 6
+category: Fine Arts
+difficulty: College
+fixed: 57
+seen: 70
+answer: Sir Christopher {Wren}
+
+This man designed a 202-foot tall Doric column topped with a gilded urn to commemorate an event with Robert Hooke. This man designed the chapel at Pembroke College at Cambridge and the Sheldonian Theatre at Oxford, and his next major project did not follow his preliminary Warrant Design. In the same year, he also designed a library for Trinity College at Cambridge that bears his name. However, he was disappointed when James Thornhill was commissioned to paint eight scenes from the life of the title figure on the dome of the building, which had a similar function to the 53 others that he redesigned in the wake of a man-made disaster. For 10 points, identify this English architect, most famous for recreating St. Paul's Cathedral in the years following the Great Fire of London.
+
+----
+num: 7
+category: Science
+difficulty: College
+fixed: 1
+seen: 83
+answer: determinant
+
+This multilinear function can be used to determine orientation in Euclidean spaces, and the Gram is a type of this obtained from integrals of functions. It can be used to find the eigenvalues of an endomorphism, and can be calculated recursively using cofactors, summing the minors multiplied by one or negative one. It is Abelian, while the structure it is calculated from is not, and is not invertible. The Wronskian is obtained from functions and derivatives. When it has a value of one, that structure is unimodular, a value of zero means that structure is singular, and it remains constant under the transpose operation. It is used in Cramer's Rule to solve systems of linear equations. For 10 points, name this mathematical object derived from matrices, which for a two by two matrix can be calculated as a*d - b*c.
+
+----
+num: 8
+category: Literature
+difficulty: College
+fixed: 57
+seen: 61
+answer: Guy de Maupassant
+
+In one of his early short stories, a severed hand of an executed criminal causes its owner to go mad, and in another, a monkey at a typewriter types a manuscript about metempsychosis, again causing the owner to go mad. Besides "The Dead Hand" and "Doctor Heraclius Gloss", his first success was published in the collection Evenings at Medan and recounted a prostitute who offered her fellow passengers her food and slept with a Prussian officer to continue the journey, but is given a cold shoulder by the other passengers afterward. Another story has Mathilde working for ten years to replace a paste piece of jewelry she had thought real and lost. For 10 points, name this French writer, author of "Boule de Suife" and "The Necklace."
+
+----
+num: 9
+category: History
+difficulty: College
+fixed: 1
+seen: 69
+answer: Arizona
+
+One district in this state is represented by a Democrat who in 2008 won the seat vacated by the indicted Rick Renzi, Ann Kirkpatrick. Another Representative from this state “hosts” a namesake “Hour” at the end of spending debates, in which he asks House members to come to the floor and justify their earmarks, while another Representative compared recent reform to “Soviet-style gulag health care”; those men are Jeff Flake and John Shadegg. This state's two Senators include a man who filed an amicus brief to the Supreme Court with Lindsey Graham in Hamdan v. Rumsfeld, and who is the current Senate Minority Whip, and a man who was part of the Keating Five and rode on the Straight Talk Express. For 10 points, what is this US state, represented in the Senate by Jon Kyl and the 2008 Republican nominee for President, John McCain?
+
+----
+num: 10
+category: History
+difficulty: College
+fixed: 57
+seen: 70
+answer: {Lebanon}
+
+The term of the first president of this country, Charles Debbas, was extended by one year after a proposal to break an electoral deadlock involving Emile Iddi. Iddi would later become the last president of this country under French control, which ended after the Battle of Damour in this country; a subsequent battle led to the Armistice of Acre. That French control had been guaranteed by the terms of the Sykes-Picot Treaty, and it was given its mandate over this country at the San Remo conference. Its National Pact established a division of power along its confessional cleavages, with the office of Prime Minister being reserved for Sunnis and the presidency being given to the Maronite majority. For 10 points, name this country, whose fifteen-year civil war saw invasions by both Israel and Syria, whose capital is Beirut.
+
+----
+num: 11
+category: Mythology
+difficulty: College
+fixed: None
+seen: 111
+answer: {psychopomps} [{also} accept “{guides} of the {dead}” or anything similar until “{guide} of {souls}” is read. Do not accept “{Death}”]
+
+The Aborigines consider the morning star Barnumbirr to be one of these, while the owl-headed Muut is this figure to the Cahuilla tribe. Animals associated with these include dolphins to the Romans and horses to the Celts and Teutons. The Inuit consider the Aurora Borealis to be flickering torchlights lit by these figures, while in Japanese mythology, one of these figures, Jizo, hides children under his robe to save them from having to wait on the shores of the Sanzu River for all eternity. Xolotl from Aztec mythology helps in the crossing of a jaguar-filled river of blood and a field filled with flying knives on the journey to Mictlan. Their collective name, literally meaning “guide of souls,” is derived from the epithet of one of their most well-known examples, Hermes. For 10 points, name these figures whose function is to escort the souls of the dead to the afterlife, represented in Norse mythology by the Valkyries.
+
+----
+num: 12
+category: Science
+difficulty: College
+fixed: 57
+seen: 76
+answer: peat {bogs} [peat {mires}]
+
+These feature a stratum called acrotelm over a layer called catotelm. Phosphates are bound by calcium, iron and humus, which along with dissolved manganese, sulfur, and iron ions render these areas nutrient-poor and inhospitable to plant life. Schwingmoor types are made up of a floating mat of organic material which, because of the lack of oxygen, is unable to decompose fully, while the blanket variety holds that material above ground and exists in flat areas in oceanic climates with high humidity. The high acidity requires specialization of flora, including tyrphobionts such as sphagnum mosses. For 10 points, name these areas where poor drainage causes accumulation of organic material, forming peat.
+
+----
+num: 13
+category: History
+difficulty: College
+fixed: None
+seen: 67
+answer: The {Middle Passage} [accept {trans}-{Atlantic slave trade} before “{slaves}”]
+
+This was predated by the First System run by the Iberian nations and was a closed system closely controlled by the state. Sometimes called the Maafa, V.S. Naipul wrote of its aftereffects in a book named for it. The last known ship to participate in it was the Clotilde, which sailed to Mobile, Alabama. Another ship that sailed it was depicted by J. M. W. Turner in a painting, and Robert Hayden wrote a poem with its name. The actions of the captain of the Zong became notorious in it, and proved a catalyst for people including William Wilberforce to help outlaw it in Great Britain. Another participating ship, whose “cargo” was freed by an 1831 Supreme Court case, was La Amistad. For 10 points, name this leg of the Atlantic triangular trade, which used manufactured goods from Europe to buy slaves and sold them for raw materials in the Americas.
+
+----
+num: 14
+category: Science
+difficulty: College
+fixed: 57
+seen: 85
+answer: {asthma}
+
+This disease is often caused by the transformation of TH0 cells into TH2 cells, which triggers the humeral immune system to produce antibodies. Beta2-adrenergic agonists interrupt the response to this, and can be used to treat this, although recently two such drugs have been removed as treatments because without steroids, they can exacerbate the condition. Leukotriene antagonists relieve symptoms of this by inhibiting the fatty molecules that accompany histamine production. It can be diagnosed by spirometry, which is more accurate than measuring peak flow rates. The characteristic symptom that accompanies it is caused by the production of mucous and a constriction of the bronchi. For 10 points, name this common ailment that inflames the lungs and makes it hard to breathe.
+
+----
+num: 15
+category: Religion
+difficulty: College
+fixed: None
+seen: 184
+answer: {Dao Cao Dai} [or {Dai Dao Tam Ky Pho} Do]
+
+This religion considers Earth to be the 68th out of 72 planets in existence; planet 72 is closest to Hell, while 1 is closest to heaven, of which there are 36 levels. Furthermore, it requires its members to be vegetarian for at least ten days out of every month and pray four times a day. The Era of Annihilation, the third era of revelation in this religion, was brought on when the Supreme Being revealed himself directly through a message sent during a séance. The name of this religion means “high tower”, which also refers to that Supreme Being, who is symbolized by a left-sided Divine Eye. Recognizing three primary saints, two of whom are Sun Yat-Sen and Victor Hugo, this is, for 10 points, what monotheistic religion founded in Vietnam in 1926?
+
+----
+num: 16
+category: History
+difficulty: College
+fixed: None
+seen: 70
+answer: {Horatio Gates}
+
+This man was severely wounded as a major at the Battle of the Monongahela, and he served as an aide to Robert Monckton during his capture of Martinique, also during the Seven Years War. This man was supposedly the choice of the “Conway Cabal” to lead the armies of the nation he served, although he did get a chance to lead all of the southern armies, a role in which he was less successful as he had been previously, commanding a decisive defeat at the Battle of Camden. Earlier, he had taken over from Phillip Schuyler just in time to take credit for victories won mostly by the actions of John Stark and Benedict Arnold, at Bennington and Freeman's Farm. For 10 points, who was this American general who took credit for the victory at the Battle of Saratoga?
+
+----
+num: 17
+category: Fine Arts
+difficulty: College
+fixed: None
+seen: 68
+answer: The {Art} of {Fugue} [or {Die Kunst der Fuge}]
+
+The term "Fragment X" refers to the theorized manuscript containing the final section of this work which was left incomplete at the composer's death. A recurring theme throughout the work is the number 14, which is thought to be representative of the composer's last name. Due to the open scoring of the work and wide range of melodic lines, this work is suspected to be composed for keyboard, though two portions of this work cannot be played by a solo musician on a keyboard instrument. The final unfinished portion introduces the B flat - A - C - B natural subject shortly before its abrupt end. Consisting of four canons and fourteen contrapuncti in D minor, for 10 points, name this work by Johann Sebastian Bach.
+
+----
+num: 18
+category: Literature
+difficulty: College
+fixed: 57
+seen: 61
+answer: Yasunari Kawabata
+
+In one novel by this author, one character has an abortion, while her husband's mistress gets pregnant, although she says the child is not his. In that work, the protagonist hears the titular sound in his dreams, and in another in which the title character discovers that her parents abandoned her when she meets her twin. One novel has Kikuji dominated by Chicako, which prevents his love for a young woman with the titular kimono. In addition to The Sound of the Mountain and The Old Capital, another novel involves a tragic relationship between a geisha and Shimamura, and begins with the line "The train came out of the long tunnel into" the titular location." The earth lay white under the night sky." For 10 points, name this Japanese author of Thousand Cranes and Snow Country.
+
+----
+num: 18
+category: Literature
+difficulty: College
+fixed: -1
+seen: 58
+answer: Yasunari Kawabata
+
+In one novel by this author, one character has an abortion, while her husband's mistress gets pregnant, although she says the child is not his. In that work, the protagonist hears the titular sound in his dreams, and in another in which the title character discovers that her parents abandoned her when she meets her twin. One novel has Kikuji dominated by Chicako, which prevents his love for a young woman with the titular kimono. In addition to The Sound of the Mountain and The Old Capital, another novel involves a tragic relationship between a geisha and Shimamura, and begins with the line "The train came out of the long tunnel into" the titular location." The earth lay white under the night sky." For 10 points, name this Japanese author of Thousand Cranes and Snow Country.
+
+----
+num: 19
+category: History
+difficulty: College
+fixed: None
+seen: 72
+answer: {Syracuse} [prompt on “{Sicily}” before “{Corinth}”]
+
+It was damaged by earthquakes in the 16th and 17th century, and by Operation Husky. It was home to Ibn Hamdis, who was born there during a period of Muslim occupation. Under the leadership of Gelo and later, Hieron, arts flourished, and his theater attracted the "tenth muse" and a tragedian who wrote The Women of Aetna in his honor. A colony of Corinth, it waged war with Carthage, only to ally with Carthage against Rome in the Second Punic War. It withstood a Roman siege due, in part, to an inhabitant's Claw, who was killed when the city was finally taken. For 10 points, name this city, where Sappho lived in exile, and home to Archimedes, located on the island of Sicily.
+
+----
+num: 20
+category: Literature
+difficulty: College
+fixed: 1
+seen: 60
+answer: Percy Bysshe {Shelley}
+
+This author wrote a novel in which the title character seeks revenge on his half-brother for the sins of their father by compelling him to commit suicide. In addition to Zastrozzi, he asserted the values “Love, Hope, and Self-Esteem” in one poem, and in another, he writes about the title landform “Power dwells apart in its tranquility // Remote, serene, and inaccessible” In addition to “Hymn to Intellectual Beauty” and “Mont Blanc”, this man wrote a poem describing the titular being "Wild Sprit, which art moving everywhere // Destroyer and preserver, hear, O hear!", and in a poem that notes a "wrinkled lip, and sneer of cold command" of an object that ironically invites viewers to "Look on my Works, ye Mighty, and despair!" For 10 points, name this English poet, author of "Ode to the West Wind" and "Ozymandias."
+
+----
+num: 21
+category: Literature
+difficulty: College
+fixed: 57
+seen: 58
+answer: Leo {Tolstoy}
+
+This man wrote in one work that professionalism caused the title object to be insincere, and that the real form of the title object could be distinguished by its infectiousness in his “What is Art?” Another of his works includes the vain Lieutenant Rosencranz, who seems to take pleasure in the carnage of the titular action of “The Raid”. In another work by this author, a lawyer named Peter meets his colleague Schwartz on the way to visit the title character, although upon hearing of that title character's disposition, his first thought was of his chances of promotion. The title character of that work finds Gerasim's truthful evaluation of his situation a refreshing change from the dishonesty of his family about his condition, which began as a pain in his right side. For 10 points, name this Russian, who along with “The Death of Ivan Ilyich” also wrote some longer works like War and Peace.

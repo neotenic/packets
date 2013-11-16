@@ -1,0 +1,324 @@
+####
+tournament: HSAPQ 4Q2
+round: 4q2-11.pdf
+year: 2009
+####
+
+num: 1
+category: History
+difficulty: HS
+fixed: 1
+seen: 416
+answer: Dwight David {Eisenhower} [or {Ike Eisenhower}]
+
+This President attempted to intervene with Egypt to save Israeli spies behind the Lavon (luh-VAHN) affair. In Operation Blue Bat, this man sent 15,000 troops to Lebanon as part of his namesake "doctrine" to intervene in countries threatened by Communism. This President oversaw the creation of the Interstate Highway System. This man forced the Arkansas National guard to integrate the Little Rock Nine. Before becoming president, this man served as the first Supreme Commander of NATO. For 10 points, name this World War II general and president of the U.S.
+
+----
+num: 2
+category: Literature
+difficulty: HS
+fixed: 1
+seen: 449
+answer: {Mishima} Yukio
+
+This writer used a Rococo-style stageset in his play centered on the Night of the Long Knives, My Friend Hitler. A boy kills his mother's lover in this author's The Sailor Who Fell from Grace with the Sea. The stammering protagonist of another work by this man is traumatized when his friend Tsurukawa commits suicide. In addition to Mizoguchi, this writer created a character that is reincarnated in books like Runaway Horses and Spring Snow, part of this man's The Sea of Fertility tetralogy. For 10 points, what seppuku-committing author wrote The Temple of Golden Pavilion?
+
+----
+num: 3
+category: Trash
+difficulty: HS
+fixed: 1
+seen: 1031
+answer: Flashforward
+
+Although this television show was based on a Robert Sawyer book, the only character the two have in common is Lloyd Simcoe, who works for CERN in the book but the NLAP on TV. Simcoe has a vision that in six months he will be with Olivia Benford in, for 10 points, what ABC show that stars Joseph Fiennes as Olivia's husband Mark and John Cho as Demetri Noh, an FBI agent who does not experience the title phenomenon?
+
+----
+num: 4
+category: History
+difficulty: HS
+fixed: 1
+seen: 410
+answer: {Arkansas}
+
+This state was the site of the Brooks-Baxter War. This was the home state of the general known as the "Stonewall of the West," Patrick Cleburne (CLAY-burn). Samuel Curtis established Union control of this state near Elkhorn Tavern at the Battle of Pea Ridge. Winthrop Rockefeller was a governor of this state that attempted to desegregate this state's schools. This state's governor Orval Faubus opposed the integration of nine students at Central High in this state's capital. For 10 points, name this home of the Little Rock Nine.
+
+----
+num: 5
+category: Science
+difficulty: HS
+fixed: 57
+seen: 486
+answer: {bubble} sort
+
+A "bidirectional" variation of this algorithm passes through the list twice per iteration and is also called "shuttle" or "cocktail," and "odd-even" sort is a parallel-processing optimized alteration; the first method eliminates the problem of small elements at the big-element end, which are called "turtles" since they uniquely must travel the full length of the list. For 10 points, name this naïve big-oh-of-n-squared sorting algorithm, in which repeated passes are made swapping adjacent out-of-order elements, such that the small elements float to the top.
+
+----
+num: 6
+category: Fine Arts
+difficulty: HS
+fixed: 1
+seen: 500
+answer: Carmina {Burana}
+
+This piece includes the song "In the Tavern," in which a tenor soloist sings as a swan roasting on a spit. This piece was often performed before the composer's semi-staged Passions of Bach. Other songs in this piece include "Court of Love" and "Banziflor and Helen." This piece was derived from a medieval collection of songs discovered by J.A. Schmeller in the Benediktbeuern [beh-nuh-dict-BOY-ern] monastery. For 10 points, name this musical work that begins and ends with songs entitled "O Fortuna" that was written by Carl Orff.
+
+----
+num: 7
+category: Science
+difficulty: HS
+fixed: 1
+seen: 492
+answer: {right} triangles
+
+This adjective describes the only type of scalene triangle for which the angle-side-side congruence conjecture holds. Triangles of this type have an orthocenter at the vertex joining the two smallest sides. The length of a side of this kind of triangle can be found by the Pythagorean Theorem. For 10 points, give this adjective that describes triangles that, because they contain an angle with measure ninety degrees, are neither acute nor obtuse.
+
+----
+num: 8
+category: Literature
+difficulty: HS
+fixed: 1
+seen: 443
+answer: {Romeo} and {Juliet}
+
+One character in this play claims that another character "doth teach the torches to burn bright." This play is set in a place ruled by Prince Escalus, whose relative, Count Paris, wants to marry one of the title characters. One character in this play initially loves Rosaline. In this play, Tybalt kills Mercutio in a duel. Friar Lawrence prepares a potion in this play that makes one character appear dead for twenty-four hours. For 10 points, name this Shakespeare play in which the title characters fall in love despite the enmity between the Capulets and the Montagues.
+
+----
+num: 9
+category: History
+difficulty: HS
+fixed: 57
+seen: 423
+answer: Maximilien François Marie Isidore de {Robespierre}
+
+The author of Report on Degrading Punishments, this man was given the nickname "Monkey of Mirabeau's" by the royalist press. This man opposed Jacques-Rene Hebert's Church of Reason. This leader unsuccessfully attempted suicide at the Hotel de Ville. This man was nicknamed "the Incorruptible." For 10 points, name this leader of the Committee of Public Safety and the Reign of Terror during the French Revolution, who was overthrown in the Thermidorian Reaction and guillotined.
+
+----
+num: 10
+category: Fine Arts
+difficulty: HS
+fixed: 57
+seen: 496
+answer: "{Flight} of the {Bumblebee}"
+
+This piece, which is taken from an opera, is in the same act as the introduction of the thirty-three bogatyrs [BOW-guh-teers] and the Swan-Bird's admonishment. A two-octave chromatic descent characterizes this work written in A-minor, and is almost exclusively sixteenth notes. In the middle of this piece, a pizzicato A minor arpeggio takes over, and the already fast chromatic motions around E increase in octave. This piece uses a solo violin to depict Prince Guidon, [GWEE-don] the protagonist of The Tale of Tsar Saltan, who becomes a stinging insect. For 10 points, name this most famous work by Nikolai Rimsky-Korsakov.
+
+----
+num: 11
+category: Science
+difficulty: HS
+fixed: 57
+seen: 486
+answer: {chloroplasts}
+
+Precursor proteins are imported to this organelle using Tic and Toc proteins. Like mitochondria, these organelles are thought to have evolved through endosymbiosis (EN-do-sim-by-OH-sis). Lamella connect the grana inside this organelle. Those grana are stacks of suborganelles inside of which photophosphorylation (FO-toe-FOSS-for-ill-AY-shun) occurs. These organelles contain thylakoids, which possess light-absorbing pigments like chlorophyll. For 10 points, name this organelle responsible for photosynthesis.
+
+----
+num: 12
+category: History
+difficulty: HS
+fixed: 57
+seen: 422
+answer: {Meiji} Restoration [or {Meiji period}]
+
+The 1889 Constitution was instituted following this event, whose principles were laid out in the Charter Oath. A slogan used by supporters of this event was "Enrich the country and strengthen the military." The country in which this event took place greatly expanded its manufacturing capabilities and railroad network following this event. For 10 points, name this movement which ended the Tokugawa Shogunate and restored imperial rule to Japan, named for the emperor who took power.
+
+----
+num: 13
+category: Religion
+difficulty: HS
+fixed: 1
+seen: 406
+answer: {Yom Kippur}
+
+The practice of wearing white on this holiday is derived from Isaiah 1:18. This holiday ends with a Ne'ilah (nay-EEL-ah) service. A cellist often accompanies one prayer recited on the opening night of this holiday, called the Kol Nidre (coal NEE-dray). This holiday does not deal with transgressions against other people, but rather only atoning with God. For 10 points, name this holiday that takes place eight days after Rosh Hashanah, the final high holiday in Judaism.
+
+----
+num: 14
+category: Literature
+difficulty: HS
+fixed: 57
+seen: 444
+answer: Hans Christian {Andersen}
+
+This man wrote a story in which a child was told by an angel she would dance until she became a skeleton due to her wearing the title footwear. In addition to "The Red Shoes," one of this man's works describes Gerda's attempts to save Little Kay after a piece of the Mirror of the Devil was lodged in his eye. That work is "The Snow Queen." For 10 points, name this Danish author of children's stories such as "The Emperor's New Clothes" and "The Little Mermaid."
+
+----
+num: 15
+category: Science
+difficulty: HS
+fixed: 57
+seen: 486
+answer: {Kepler's} Laws of Planetary Motion
+
+In polar coordinates, one of these statements says that r equals p over quantity one plus epsilon cosine theta, where p is the semilatus rectum and epsilon is the eccentricity. Another states that the time derivative of the areal (AIR-ee-uhl) velocity is zero, or that equal areas are swept out in equal times. The third says that the square of the period is directly proportional to the cube of the semimajor axis. For 10 points, name these laws of planetary motion named after a German astronomer and student of Tycho Brahe.
+
+----
+num: 16
+category: History
+difficulty: HS
+fixed: 57
+seen: 420
+answer: {Syracuse} [or {Siracusa}]
+
+The gamoroi (gah-mo-ROI) government in this polity was broken by the defeat of this city by Hippocrates of Gela. Timoleon's (tih-MOH-lee-ONZ) oligarchy was overthrown by Agathocles here in 317 BCE. This city was defended against the Carthaginians by Dionysius I. It was settled by the Corinthian aristocrat Archias in 734 BCE, and this city's independence declined under the rule of Hieron (HIE-ron) II. For 10 points, name this Sicilian city that was defended against the Romans by the war machines of Archimedes.
+
+----
+num: 17
+category: Religion
+difficulty: HS
+fixed: 1
+seen: 416
+answer: English {Bibles}
+
+One edition of this book was nicknamed for its unusual use of the word "breeches." That edition of this book is more commonly known for its publication in Geneva, where Miles Coverdale worked on translating it. William Tyndale created the first one of these books to be published. The "Great" and "Bishops" editions of these books were other early versions. In modern times, the New American and International Standard versions are popular versions of, for 10 points, what translated texts, which also include an edition published in 1611 called the King James Version?
+
+----
+num: 18
+category: Science
+difficulty: HS
+fixed: -1
+seen: 487
+answer: {muscle}
+
+This tissue's basic functional unit is activated by calcium binding to troponin-C (truh-POH-nin-"C") and is bounded by the Z-line. That unit is called the sarcomere (SAR-co-meer). A disease that affects this tissue is named for Duchenne and is called its "dystrophy." This tissue, which can be smooth, cardiac, or skeletal, forms structures such as the gluteus maximus ("GLUE"-tee-us MAX-ih-mus) and the deltoid (DEL-toyd). For 10 points, name this tissue, which attaches to bone and contracts in order to permit motion.
+
+----
+num: 19
+category: Mythology
+difficulty: HS
+fixed: -1
+seen: 793
+answer: {Priam} [or {Podarces}]
+
+This man was killed on an altar by Neoptolemus, and he achieved a concession by reminding another figure of the death of Peleus. This man's sons Lycaon (liu-KAY-on) and Polydorus were killed on the same day in the Trojan War. Another of his sons was abandoned on Mount Ida after a prophecy foretold the destruction of the city of which this man was king. This man ransomed the corpse of another of his sons from Achilles. For 10 points, name this father of Paris and Hector and husband of Hecuba, who was the last king of Troy.
+
+----
+num: 20
+category: Literature
+difficulty: HS
+fixed: 57
+seen: 448
+answer: Stephen Crane
+
+In one story by this author, Pat Scully watches on as a Swede fights a cowboy and is stabbed by a gambler. In another of this author's stories, the correspondent, the cook, the oiler, and the captain brave the ocean. One novel by this author of "The Blue Hotel" and "The Open Boat" ends with the death of the titular "girl of the streets," Maggie. Another of this author's novels sees Henry Fleming get the titular wound during the Civil War. For 10 points, name this American author who wrote The Red Badge of Courage.
+
+----
+num: 22
+category: Fine Arts
+difficulty: HS
+fixed: 1
+seen: 492
+answer: Franz Peter {Schubert}
+
+This composer remarked "the devil may play it" about his four-movement Wanderer Fantasy, which he himself could never play. This composer's first successful song was "Gretchen at the Spinning Wheel." Part of his incidental music to Rosamunde may have originally been meant for the finale of this composer's eighth symphony, which had only two movements when he died. For 10 points, name this Austrian composer of the Unfinished Symphony and Trout Quintet.
+
+----
+num: 23
+category: History
+difficulty: HS
+fixed: 57
+seen: 420
+answer: Francis Gary {Powers}
+
+This man died in a helicopter crash in 1977 after covering brushfires in Southern California. This man grew up in Pound, Virginia. After graduating from Milligan College, this man joined the Air Force in 1960. This man was trained in dropping atomic bombs, but received later training from the CIA in piloting top-secret, high-altitude planes used to photograph enemy installations. For 10 points, who was shot down over the Soviet Union in May 1960 while flying his U-2?
+
+----
+num: 24
+category: Science
+difficulty: HS
+fixed: 1
+seen: 487
+answer: {shield volcanoes}
+
+Pahoehoe is produced by many of these geological features, which generally do not generate pyroclastic flows. A fissure in one of these geological features can create a curtain of fire. These features are usually formed through effusive eruptions and have very low-viscosity, fluid lava that can spread over long distances, making some of these features the largest mountains on earth. For 10 points, name these gentle-sloped volcanoes that include Mauna Loa and Kiluaea.
+
+----
+num: 25
+category: Literature
+difficulty: HS
+fixed: 57
+seen: 433
+answer: Thomas Ruggles {Pynchon}, Jr.
+
+This author's newest novel is about a private detective who travels to the lost continent of Lemuria from the fictional California town of Gordita Beach, named Doc Sportello. In an earlier novel by this man, a secret postal system called WASTE is run by Pierce Inverarity, whose death leads Oedipa Maas to attend the titular auction. In addition to writing Inherent Vice and The Crying of Lot 49, this author described Tyrone Slothrop's search for the V-2 rocket in another novel. For 10 points, name this famously reclusive author of Gravity's Rainbow .
+
+----
+num: 26
+category: Geography
+difficulty: HS
+fixed: 1
+seen: 711
+answer: {Atlas} Mountains
+
+This mountain range includes the easternmost range formed in the Alleghenian Orogeny. The Draa River runs through part of this mountain range and Jbel Toubkal is the highest peak of this mountain range. Marrakech lies not far from this mountain range, which forms part of the southern boundary to the Strait of Gibraltar. For 10 points, name this mountain range that runs through Tunisia, Algeria, and Morocco in North Africa.
+
+----
+num: 27
+category: Literature
+difficulty: HS
+fixed: 1
+seen: 442
+answer: Andrew {Marvell}
+
+This man's "The Last Instructions to a Painter" is a verse satire on the Dutch War, and he wrote extended conceits in such lyric poems as "A Dialogue between Body and Soul." Another poem by this author imagines finding rubies by the Ganges, and claims that the speaker's "vegetable love" will grow "vaster than empires, and more slow." That poem by this author states that "I always hear time's winged chariot drawing near" in urging a woman to consummate her love. For 10 points, which metaphysical poet wished for "world enough and time" in his poem "To His Coy Mistress?"
+
+----
+num: 28
+category: Fine Arts
+difficulty: HS
+fixed: 1
+seen: 502
+answer: Sir Edward William {Elgar}
+
+This man was inspired by a visit to Alassio to compose his overture In the South, and he depicted his friends in movements like "C.A.E" and "Nimrod" in another work. He also wrote a march that contains a trio that is used as the melody of "Land of Hope and Glory." This man composed an oratorio based on a Cardinal Neuman poem, The Dream of Gerontius. For 10 points, name this Briton who composed the Engima Variations and the Pomp and Circumstance Marches.
+
+----
+num: 29
+category: History
+difficulty: HS
+fixed: 57
+seen: 416
+answer: Battle of {Berlin}
+
+Meliton Kantaria was the subject of a famous photograph taken at the conclusion of this battle. Vasily Chuikov (CHWEE-koff) accepted the losing side's surrender at this battle's conclusion. The Volkssturm (FOLKS-shturm) played a major role in this battle. This battle ended with the raising of the Soviet flag above the Reichstag and with Karl Dönitz (DUHr-nitz) becoming the last Führer (FYUHr-er) of the Third Reich. For 10 points, name this battle that concluded World War II in Europe, during which Adolf Hitler committed suicide in a bunker underneath the namesake city.
+
+----
+num: 30
+category: Fine Arts
+difficulty: HS
+fixed: 1
+seen: 493
+answer: Richard {Wagner}
+
+One of this composer's operas features Walter performing the prize song, after Hans Sachs proposes a singing competition. Another opera by this man sees Senta kill herself to free a sailor from his eternal curse. This man wrote about the lover of the valkyrie (VALL-kuh-ree) Brunnhilde (broon-HIL-duh). This man wrote Siegfried, The Twilight of the Gods, and The Rheingold. For 10 points, name this composer of The Flying Dutchman and The Ring of the Nibelungs (NYE-be-lungs).
+
+----
+num: 31
+category: Literature
+difficulty: HS
+fixed: 1
+seen: 447
+answer: Ernest Miller {Hemingway}
+
+One of this author's characters owns a charter boat that he uses to run guns between Florida and Cuba. That character, Harry Morgan, is the protagonist of his novel To Have and Have Not. This author wrote about El Sordo's last stand in a novel in which Maria falls in love with the bridge bomber Robert Jordan during the Spanish Civil War. This author wrote a novel in which Catherine Barkley is impregnated by Frederick Henry on the Italian front in World War I. For 10 points, name this author of For Whom the Bell Tolls and A Farewell to Arms.
+
+----
+num: 32
+category: Science
+difficulty: HS
+fixed: 57
+seen: 486
+answer: {water} [or {H2O}]
+
+Along with table salt, ammonia, and carbon dioxide, this compound is an input in the Solvay (SOL-VAY) process. It is a byproduct of the Ostwald process used to make nitric acid, and this compound notably has explosive reactions with several pure alkali metals. Combustion of hydrocarbons produces carbon dioxide and this compound, which reacts with strong acids to form hydronium (hy-DRO-nee-um) ions. For 10 points, name this compound sometimes jokingly referred to as "dihydrogen monoxide" (dye-"HIGH"-dro-jen muh-NOX-ide).
+
+----
+num: 33
+category: Science
+difficulty: HS
+fixed: 1
+seen: 488
+answer: {cochlea} [or inner ear before mentioned]
+
+This organ is divided into the scala media, scala tympani, and scala vestibuli (ves-TIB-you-lee). Vibrations on the basilar membrane in this structure are transduced into electrical stimuli by this organ's inner hair cells, which are located in the Organ of Corti (CORE-tee). This snail-shaped organ is the primary sense organ of hearing. For 10 points, name this organ also known as the "inner ear."

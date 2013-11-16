@@ -1,0 +1,219 @@
+####
+tournament: Sample Questions
+round: sample_questions_r3.pdf
+####
+
+num: 3
+category: Earth Science
+difficulty: MS
+answer: X)  Cirrus
+
+Which of the following are the highest of the clouds in the troposphere and are com posed entirely of ice crystals:
+W) stratus 
+X) cirrus 
+Y) cumulus
+Z) alto cumulus
+
+----
+num: 3
+category: Earth Science
+difficulty: MS
+answer: X)  Cirrus
+
+Which of the following are the highest of the clouds in the troposphere and are com posed entirely of ice crystals:
+W) stratus 
+X) cirrus 
+Y) cumulus
+Z) alto cumulus
+
+----
+num: 7
+category: Life Science
+difficulty: MS
+answer: X) Stamen
+
+Which of the following parts of a plant produces pollen:
+W) petal 
+X) stamen 
+Y) pistil 
+Z) sepal
+
+----
+num: 7
+category: Life Science
+difficulty: MS
+answer: X) Stamen
+
+Which of the following parts of a plant produces pollen:
+W) petal 
+X) stamen 
+Y) pistil 
+Z) sepal
+
+----
+num: 10
+category: General Science
+difficulty: MS
+answer: Z)  They Can Only Be Seen When They Pass Through the 
+Atmosphere
+
+Which of the following is NOT true of comets:
+W) they have highly elli ptical orbits around the sun 
+X) they leave a trail of particles that reflect sun light 
+Y) they are made of rocks and condensed gases
+Z) they can only be seen when they pass through the atm osphere
+
+----
+num: 10
+category: General Science
+difficulty: MS
+answer: Z)  They Can Only Be Seen When They Pass Through the 
+Atmosphere
+
+Which of the following is NOT true of comets:
+W) they have highly elli ptical orbits around the sun 
+X) they leave a trail of particles that reflect sun light 
+Y) they are made of rocks and condensed gases
+Z) they can only be seen when they pass through the atm osphere
+
+----
+num: 11
+category: Earth Science
+difficulty: MS
+answer: X)  200
+
+The supercontinent Pangea started to break apart intoour present day continents approximately how many million years ago :
+W) 100 
+X) 200 
+Y) 300 
+Z) 400
+
+----
+num: 11
+category: Earth Science
+difficulty: MS
+answer: X)  200
+
+The supercontinent Pangea started to break apart intoour present day continents approximately how many million years ago :
+W) 100 
+X) 200 
+Y) 300 
+Z) 400
+
+----
+num: 13
+category: Physical Science
+difficulty: MS
+answer: W )  10 Kilogram of Pure Water
+
+Which of the following is the least d ense at standard temperature and pressure:
+W) 10 kilogram of pure water 
+X) 10 kilogram of aluminum
+Y) 2 kilogram of silver 
+Z) 1 kilogram of gold
+
+----
+num: 13
+category: Physical Science
+difficulty: MS
+answer: W )  10 Kilogram of Pure Water
+
+Which of the following is the least d ense at standard temperature and pressure:
+W) 10 kilogram of pure water 
+X) 10 kilogram of aluminum
+Y) 2 kilogram of silver 
+Z) 1 kilogram of gold
+
+----
+num: 16
+category: Physical Science
+difficulty: MS
+answer: Z)  Protons
+
+The particles in an atom that determine which elem ent it is are the:
+W) nuclei 
+X) electrons 
+Y) neutrons 
+Z) protons
+
+----
+num: 16
+category: Physical Science
+difficulty: MS
+answer: Z)  Protons
+
+The particles in an atom that determine which elem ent it is are the:
+W) nuclei 
+X) electrons 
+Y) neutrons 
+Z) protons
+
+----
+num: 17
+category: Life Science
+difficulty: MS
+answer: W)  Ribosomes
+
+Which of the following parts of a cell is most directly responsible for synthesizing proteins:
+W) ribosomes 
+X) endoplasmic reticulum 
+Y) vacuoles 
+Z) lysosomee
+
+----
+num: 17
+category: Life Science
+difficulty: MS
+answer: W)  Ribosomes
+
+Which of the following parts of a cell is most directly responsible for synthesizing proteins:
+W) ribosomes 
+X) endoplasmic reticulum 
+Y) vacuoles 
+Z) lysosomee
+
+----
+num: 22
+category: Math
+difficulty: MS
+answer: W)  5,163
+
+Which of the following num bers is divisible by 3:
+W) 5,163 
+X) 2,465 
+Y) 1,315 
+Z) 313
+
+----
+num: 22
+category: Math
+difficulty: MS
+answer: W)  5,163
+
+Which of the following num bers is divisible by 3:
+W) 5,163 
+X) 2,465 
+Y) 1,315 
+Z) 313
+
+----
+num: 46
+category: Physical Science
+difficulty: MS
+answer: W)  S
+
+What is the nam e of the lowest energy subshell ofan atom where electrons are found:
+X) p W) s
+Y) d 
+Z) a
+
+----
+num: 46
+category: Physical Science
+difficulty: MS
+answer: W)  S
+
+What is the nam e of the lowest energy subshell ofan atom where electrons are found:
+X) p W) s
+Y) d 
+Z) a

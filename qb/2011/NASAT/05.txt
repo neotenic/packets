@@ -1,0 +1,436 @@
+####
+tournament: NASAT
+round: 05.pdf
+year: 2011
+####
+
+num: 1
+category: Science
+difficulty: HS
+fixed: -1
+seen: 488
+answer: {regular}
+
+For Sturm-Liouville problems to be of this type, the two boundary conditions must be linearly
+ independent. This word also describes points at which all coefficient functions in a standard form
+ differential equation are analytic. In both of those definitions, this word contrasts with singular, as it also
+ does to describe matrices that have inverses. All vertices have the same degree in this sort of graph. This
+ word also describes expressions that, like grammars, can define the languages of finite automata; those
+ expressions are often used in string matching. For 10 points, identify this word that also applies to polygons
+ in which the side lengths and angle measures are all equal.
+
+----
+num: 2
+category: History
+difficulty: HS
+fixed: 1
+seen: 413
+answer: Vandals
+
+The last ruler of one branch of these people fled battle after watching his brother Tzazo cut down at
+ Tricamarum. Tribes of these people included the Hasdingi and the Silingi. Belisarius’s first great campaign
+ was against a kingdom of these people led by Gelimer. These believers in Arianism persecuted other
+ Christians after sacking Carthage and making it the capital of their North African kingdom. A letter sent by
+ Licinia Eudoxia requesting assistance from their leader Gaiseric led to the 455 sack of Rome. For 10 points,
+ identify this Germanic tribe whose name has become synonymous with destruction of property.
+
+----
+num: 3
+category: Fine Arts
+difficulty: HS
+fixed: 1
+seen: 489
+answer: motets
+
+One piece of this type is only forty six bars long and was written for Anton Stoll while its composer was
+ working on The Magic Flute. The musical analogue of anthems written by English composers, these pieces
+ include Mozart's Ave verum corpus, as well as a piece celebrating a gift of a golden rose for the high altar
+ of Santa Maria del Fiore. That last great isorhythmic one is called Nuper rosarum flores. The "grande" and
+ "petit" varieties of these pieces were mastered by Jean-Baptiste Lully, who included soloists in them. First
+ composed by the Notre Dame school and later by Guillames de Machaut and Dufay, they typically
+ consisted of a discant sung over a cantus firmus. For 10 points, name this typically polyphonic setting of a
+ sacred text, one of the most popular forms of medieval music along with madrigals.
+
+----
+num: 4
+category: Literature
+difficulty: HS
+fixed: 1
+seen: 441
+answer: Oliver {Goldsmith}
+
+In a novel by this author, Ephraim Jekinson scams Moses out of his money and cheats the protagonist out
+ of a horse. That novel ends with George’s marriage to Arabella Wilmot and the revelation that Sophia is
+ actually married to Mr. Burchell’s alter ego, Squire Thornhill. In one of this author’s plays, two men at the
+ Three Pigeons pub are tricked into staying at a mansion that they believe is an inn, causing them to treat the
+ owners like servants. In that play, Hastings and his lover Constance steal some jewels with Tony Lumpkin,
+ and Charles Marlow is wooed by a woman disguised as a barmaid. For 10 points, name this author who
+ created Dr. Primrose and Kate Hardcastle in The Vicar of Wakefield and She Stoops to Conquer.
+
+----
+num: 4
+category: Literature
+difficulty: HS
+fixed: 1
+seen: 450
+answer: Oliver {Goldsmith}
+
+In a novel by this author, Ephraim Jekinson scams Moses out of his money and cheats the protagonist out
+ of a horse. That novel ends with George’s marriage to Arabella Wilmot and the revelation that Sophia is
+ actually married to Mr. Burchell’s alter ego, Squire Thornhill. In one of this author’s plays, two men at the
+ Three Pigeons pub are tricked into staying at a mansion that they believe is an inn, causing them to treat the
+ owners like servants. In that play, Hastings and his lover Constance steal some jewels with Tony Lumpkin,
+ and Charles Marlow is wooed by a woman disguised as a barmaid. For 10 points, name this author who
+ created Dr. Primrose and Kate Hardcastle in The Vicar of Wakefield and She Stoops to Conquer.
+
+----
+num: 5
+category: Fine Arts
+difficulty: HS
+fixed: 1
+seen: 494
+answer: Benvenuto {Cellini}
+
+This artist created a model with a scimitar and broken lance which was to be the basis for a never
+ realized fifty-four foot high statute of Mars. This man, along with his patron, helped restore the Etruscan 
+Chimera d’Arezzo. He created a marble crucifix for his own tomb but now resides in the Escorial. His
+ portrait work includes a bust of Bindo Altoviti and one of Cosimo I. An antlered stag sticks out above a
+ female nude in his bronze Nymph of Fontainbleau. One of his more famous bronze works shows one title
+ figure holding a sword and the head of the other figure. For 10 points, name this sculptor and goldsmith
+ who created a saltcellar for Francis I and Perseus With the Head of Medusa.
+
+----
+num: 6
+category: Science
+difficulty: HS
+fixed: 57
+seen: 479
+answer: {traveling salesman} problem
+
+Arora's PTAS uses quadtrees to attack a restrict case of this issue, which is the target of the Christofides
+ algorithm. A historical bound on it is given by the Held-Karp algorithm. If the triangle inequality holds,
+ then the restricted case is known as metric; further constraints yield the Euclidean version of this problem.
+ One solution to this problem is the "nearest neighbor" algorithm, though that solution is only optimal in
+ certain cases. An early description of this problem included hypothetical routes through towns in Germany
+ and Switzerland. For 10 points, name this optimization problem in computer science in which a merchant
+ must determine the shortest path that will take him to each city in a route exactly once.
+
+----
+num: 6
+category: Science
+difficulty: HS
+fixed: 57
+seen: 490
+answer: {traveling salesman} problem
+
+Arora's PTAS uses quadtrees to attack a restrict case of this issue, which is the target of the Christofides
+ algorithm. A historical bound on it is given by the Held-Karp algorithm. If the triangle inequality holds,
+ then the restricted case is known as metric; further constraints yield the Euclidean version of this problem.
+ One solution to this problem is the "nearest neighbor" algorithm, though that solution is only optimal in
+ certain cases. An early description of this problem included hypothetical routes through towns in Germany
+ and Switzerland. For 10 points, name this optimization problem in computer science in which a merchant
+ must determine the shortest path that will take him to each city in a route exactly once.
+
+----
+num: 7
+category: Geography
+difficulty: HS
+fixed: 1
+seen: 717
+answer: Lake {Chad}
+
+Cities lying on this body of water include Bol and N’guigmi. When its water levels are high, its water is
+ diverted through a string of basins called the Soro, and its water is also discharged into the Bodélé
+ Depression. It is partially fed by the Yobe River, but primarily by the Chari River, and it separated into
+ northern and southern basins by the Great Barrier. In the 1960s, there was a proposal to divert the Ubangi
+ River into this lake to maintain its volume. For 10 points, name this shrinking lake which borders Niger,
+ Nigeria, Cameroon, and its namesake country.
+
+----
+num: 7
+category: Geography
+difficulty: HS
+fixed: 1
+seen: 724
+answer: Lake {Chad}
+
+Cities lying on this body of water include Bol and N’guigmi. When its water levels are high, its water is
+ diverted through a string of basins called the Soro, and its water is also discharged into the Bodélé
+ Depression. It is partially fed by the Yobe River, but primarily by the Chari River, and it separated into
+ northern and southern basins by the Great Barrier. In the 1960s, there was a proposal to divert the Ubangi
+ River into this lake to maintain its volume. For 10 points, name this shrinking lake which borders Niger,
+ Nigeria, Cameroon, and its namesake country.
+
+----
+num: 8
+category: Science
+difficulty: HS
+fixed: 1
+seen: 479
+answer: {bilirubin} [or {conjugated} , unconjugated, direct or indirect {bilirubin} ]
+
+One disorder that causes increased levels of this compound results from a mutation in the cMOAT gene,
+ while another is caused by mutations leading to decreased UGT1. Besides Dubin-Johnson, Gilbert, and
+ Rotor’s syndrome, inactivating mutations in UDP glucoronosyltransferase lead to accumulation of the
+ unconjugated form of this substance in Crigler-Najjar syndrome. Lab tests usually measure both the direct
+ and indirect versions of this open-chain polypyrrole. Exposing this substance to light transforms it from the
+ ZZ to EE isomer, which is why ultraviolet light is a treatment for the accumulation of this substance in
+ newborns. For 10 points, name this product of heme metabolism, which when elevated causes jaundice.
+
+----
+num: 9
+category: Literature
+difficulty: HS
+fixed: 1
+seen: 442
+answer: Julio {Cortazar}
+
+In one story by this author, a man reading a book in a green armchair overlooking a park is attacked by a
+ character from his book. He also wrote a story about a brother and a sister abandoning their house and
+ throwing away the key because they are frightened by mysterious noises. This author of "The Continuity of
+ Parks" and "House Taken Over" wrote a story in which the narrator switches places with an animal in the
+ Jardin des Plantes. This author of "Axolotl" also wrote a story whose name literally translates as "The
+ Droolings of the Devil" and which is the basis for Antonioni's film Blowup. For 10 points, name this
+ Argentine writer also known for a novel which can be read in two different orders, Hopscotch.
+
+----
+num: 10
+category: History
+difficulty: HS
+fixed: 57
+seen: 421
+answer: {James}
+
+Supporters of two different men of this name fought at the Battle of Sauchieburn, where the Homes and
+ Hepburns killed the third holder of this name and elevated the fourth. An earlier holder of this name was
+ assassinated by Walter, the Earl of Atholl, and wrote the Kingis Quair. The fourth holder of this name
+ allied with France and was thus killed by Thomas Howard, the earl of Surrey, in 1513 after fighting English
+ longbills at Flodden Field. The sixth king of this name, through his descent from the fourth’s marriage to
+ Margaret Tudor, added a new kingdom to his realms. For 10 points, identify this common name for kings
+ of Scotland, one of whom became England’s first Stuart monarch.
+
+----
+num: 11
+category: Social Science
+difficulty: HS
+fixed: 57
+seen: 376
+answer: {liquidity trap}
+
+Svensson proposed a "foolproof" way of dealing with this issue, which is also addressed by Gesell's
+ carry tax. Pigou argued that a low wage rate and the real balance effect could counteract this situation. This
+ situation is represented as an intersection of the IS curve with a flat LM curve. Money and bonds are
+ essentially substitutes when this situation occurs. Traditionally defined as a situation in which the demand
+ for money is infinitely elastic, it occurred in Japan in the 1990s when interest rates dropped almost to zero.
+ For 10 points, name these situations where monetary policies do little to change demand and growth.
+
+----
+num: 12
+category: Fine Arts
+difficulty: HS
+fixed: 1
+seen: 496
+answer: Anthony {van Dyck}
+
+This artist showed a group of individuals holding snakes in The Brazen Serpent, while some of his
+ earliest works are portraits of Margareta and Frans Synders. This artist wears a gold medal he was
+ presented with while he touches a petal in his Self Portrait with a Sunflower. He painted many portraits of
+ Henrietta Maria, along with a triple portrait of her husband in which the two outer personages stare at the
+ central subject. Another of his works shows a ruler standing on the left at the hunt with a walking stick, red
+ pants, and a black hat while his servant stands to the right attending to his horse. For 10 points, name this
+ 17th century Flemish artist known for his portraits of the English king Charles I.
+
+----
+num: 13
+category: Mythology
+difficulty: HS
+fixed: None
+seen: 791
+answer: Heracles [or Hercules]
+
+This man was once forced to spend a night with Echidna in order to retrieve his horses. In another story,
+ he was robbed and mocked by the monkey-like Cercopes. In a wrestling match, he broke off the horn of the
+ river-god Achelous. He rescued princess Hesione from a sea-monster, and along with Telamon, he
+ organized an expedition to sack Troy. During one feat, he lost a toe to a gigantic crab, but triumphed with
+ the help of his nephew Iolaus. This hero used noise makers to slay the Stymphalian Birds, clubbed the
+ Nemean lion, and killed the Hydra. For 10 points, name this Greek hero who completed twelve labors.
+
+----
+num: 14
+category: Literature
+difficulty: HS
+fixed: 1
+seen: 449
+answer: If on a {Winter's Night} a {Traveller} [or {Se una Notte D’inverno un Viaggiatore} ]
+
+In one episode in this novel, the password "Zeno of Elia" is meant to be used in a clandestine suitcase
+ exchange at a train station. One character in this novel visits the Director General of the State Police
+ Archives while infiltrating the totalitarian nation of Ircania as a double agent for Ataguitania. One
+ antagonist in this novel is the translator Ermes Marana, and another character wants to create a machine
+ that condenses literature into a series of numbers. Lotaria's sister Ludmilla becomes the protagonist's love
+ interest after a defective mystery story becomes confused with the novel Outside the Town of Malbork. For
+ 10 points, name this novel written in second person in which The Reader tries to finish a series of ten
+ novels, a work by Italo Calvino.
+
+----
+num: 14
+category: Literature
+difficulty: HS
+fixed: 1
+seen: 444
+answer: If on a {Winter's Night} a {Traveller} [or {Se una Notte D’inverno un Viaggiatore}]
+
+In one episode in this novel, the password "Zeno of Elia" is meant to be used in a clandestine suitcase
+ exchange at a train station. One character in this novel visits the Director General of the State Police
+ Archives while infiltrating the totalitarian nation of Ircania as a double agent for Ataguitania. One
+ antagonist in this novel is the translator Ermes Marana, and another character wants to create a machine
+ that condenses literature into a series of numbers. Lotaria's sister Ludmilla becomes the protagonist's love
+ interest after a defective mystery story becomes confused with the novel Outside the Town of Malbork. For
+ 10 points, name this novel written in second person in which The Reader tries to finish a series of ten
+ novels, a work by Italo Calvino.
+
+----
+num: 15
+category: Philosophy
+difficulty: HS
+fixed: 1
+seen: 519
+answer: Jeremy {Bentham}
+
+This thinker called the U.S. Declaration of Independence a "hodgepodge of confusion" in his "Short
+ Review of the Declaration." He outlined seven criteria, including intensity, duration, and certainty, for the
+ desirability of a given action. He rejected the idea of natural rights, since rights themselves can only be
+ granted by the law. This man attacked another author's "antipathy to reform" of the laws in a critique of
+ William Blackstone's Commentaries. He formulated the "felicific calculus" and wrote the Fragment on
+ Government, in addition to championing the "greatest happiness principle." For 10 points, name this
+ founder of Utilitarianism.
+
+----
+num: 16
+category: History
+difficulty: HS
+fixed: 1
+seen: 422
+answer: {Coxey’s} Army
+
+This event inspired William Hogan and 500 followers to hijack a Northern Pacific Railway train. Jack
+ London participated in one faction of this event named for "General" Kelly. It was led by Christopher
+ Columbus Jones, Carl Browne, and a Populist sand quarry owner who named his son Legal Tender in
+ response to the Panic of 1893. This "Commonweal of Christ" demanded "Peace on Earth, Goodwill to Men,
+ but Death to Interest on Bonds" in Massillon, Ohio, where they and a hundred followers demanded that the
+ government finance more public works projects. For 10 points, name this 1894 march to Washington, D.C.,
+ where its namesake was arrested for trespassing on the Capitol lawn.
+
+----
+num: 17
+category: Literature
+difficulty: HS
+fixed: 1
+seen: 450
+answer: The {Octopus}: A Story of California
+
+In one scene from this novel, Annixter describes his transformation to his eventual wife Hilma Tree.
+ During that scene, he quotes Vanamee who himself had been violently shaken by the death of his lover
+ Angele Varian. Part of this novel is told through the point of view of a poet who wrote “The Toilers” while
+ living on El Rancho de los Muertos. The protagonist's son Lyman is hired as the main lawyer of a group
+ called "The League" who are opposed by the machinations of S. Berhman. Its protagonist, Magnus Derrick,
+ leads a group of ranchers against the growth of the monopolistic railroad. Intended as part of a trilogy with
+ the novels The Pit and The Wolf, for 10 points, name this novel by Frank Norris.
+
+----
+num: 18
+category: History
+difficulty: HS
+fixed: 57
+seen: 421
+answer: {Young Turks} [or {Jonturkler}]
+
+The newspaper Consultation was a major organ of this movement. A key action of this group was a
+ revolt in Rezna that led to the restoration of the constitution of 1876. This group's ascent to power was
+ spearheaded by the 3rd Army Corps, whose Liberty Society spurred the rival League of Private Initiative
+ and Decentralization to merge with the Committee of Union and Progress. Ahmed Riza and Prince
+ Sabehedeen led this group, which took de facto control of the government in a 1908 revolution and
+ introduced modernizations to education and women's rights. For 10 points, name this faction that led the
+ Ottoman Empire into World War I and laid the groundwork for the rise of Mustafa Kemal.
+
+----
+num: 19
+category: Religion
+difficulty: HS
+fixed: 1
+seen: 440
+answer: Epistle to the {Romans}
+
+This work's theme of righteousness can be seen in a passage which describes how God will give to each
+ person according to what he has done, though it also encourages the title recipients to give their bodies as
+ living sacrifices. This book is better known for its third chapter, which says all have sinned and fallen short
+ of the glory of God, as well as its tenth chapter, which includes a request to confess "Jesus is Lord." It ends
+ with an expression of its author's desire to visit the inhabitants of a city who are this letter's audience,
+ though the author's actual visit ended with his beheading during the reign of Nero. For 10 points, name this
+ epistle written by Paul to the inhabitants of the capital of a namesake Empire led by the Caesars.
+
+----
+num: 20
+category: Science
+difficulty: HS
+fixed: 1
+seen: 492
+answer: friction
+
+For a solid-liquid suspension, Ralph Bagnold defined a "dynamic" version of this force and
+ characterized its "effective angle" as the arctangent of the ratio of the normal and shear stresses. The
+ Bilman-Sorine Model modifies the Dahl Model to account for this force's decrease with increasing velocity
+ in the low-velocity regime, an effect discovered by Richard Stribeck. Counterintuitively, it is independent
+ of cross-sectional area by Amontons' Second Law. Amontons' First Law, rediscovered by Charles
+ Coulomb, states that the magnitude of this force is proportional to the normal force. For 10 points, name
+ this force that retards the sliding of two surfaces across each other.
+
+----
+num: 21
+category: Literature
+difficulty: HS
+fixed: 1
+seen: 441
+answer: Heinrich {Boll}
+
+This author wrote a novel in which Hubert goes crazy after his son's death and creates a phony
+ construction firm staffed by fictional Russian workers, which becomes the "Dead Souls" scandal. In that
+ book the nun Sister Rahel befriends Leni Pfeiffer. The title character of another of his novels is heartbroken
+ when his lover Maria Derkum marries Prelate Zupfner. This author of Group Portrait with Lady wrote a
+ novel in which Johanna breaks out of an asylum on a mission to shoot the gym teacher Old Wobbly. The
+ destruction of St. Anthony's Abbey abbey is a plot point in his novel about the Faehmel family. For 10
+ points, name this German author of  The Clown and Billiards at Half-Past Nine.
+
+----
+num: 22
+category: History
+difficulty: HS
+fixed: 57
+seen: 414
+answer: {Maximilian} [prompt on {Max}]
+
+One ruler of this name signed the Treaty of Senlis with Charles VIII and married off his daughter and
+ grandson to Ladislaus II and Sigismund I. That figure lost his commander Heinrich von Fürstenberg on the
+ battlefield of Dornach after the Gemeiner Pfennig tax portion of his Imperial Reform did not sit well with
+ the Swiss. An abortive rescue attempt of another ruler with this name was led by Felix Salm-Salm; that
+ ruler had his navy circumnavigate the globe under the Novara Expedition and married the daughter of King
+ Leopold I of Belgium, later christened Carlota. A marriage of his son Philip to Joanna of Castile enabled a
+ Holy Roman Emperor of this name to expand the Hapsburg line to Spain. For 10 points, identify this name
+ also shared by an assassinated Emperor of Mexico.
+
+----
+num: 23
+category: Science
+difficulty: HS
+fixed: 1
+seen: 478
+answer: DNA {polymerase} [or {Pol} ; prompt on {polymerase} ]
+
+One of these enzymes associates with a donut-shaped dimer known as the sliding clamp, made up of
+ two beta subunits of its holoenzyme. Another of these enzymes, when cleaved by subtilisin, produces a
+ C-terminal fragment known as the Klenow fragment. Arthur Kornberg discovered the first of these
+ enzymes used in Sanger sequencing. The synthesis of two "bypass" ones is induced by the SOS response,
+ and one of those forms a namesake mutasome that incorrectly adds guanine opposite a thymine residue
+ about half as often as it correctly adds adenine. For 10 points, name this family of enzymes that aids in
+ DNA replication by pairing the template strand's nucleotides to free nucleotides, one of which from 
+Thermus aquaticus is used in PCR.

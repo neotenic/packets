@@ -1,0 +1,431 @@
+####
+tournament: #6229
+round: Show #6229 - Thursday, October 20, 2011
+year: 2011
+date: 2011-10-20
+####
+
+num: 1
+category: Trash
+difficulty: 200
+seen: 6
+answer: the (New York) Yankees
+
+8 years after Jackie Robinson broke in with the Dodgers, Elston Howard became the first black player on this A.L. rival.
+
+----
+num: 2
+category: Science
+difficulty: 200
+seen: 7
+answer: fire
+
+The flint core stones seen.
+
+----
+num: 3
+category: History
+difficulty: 200
+seen: 5
+answer: July
+
+Originally the fifth month of the year, now it's the seventh.
+
+----
+num: 4
+category: Literature
+difficulty: 200
+seen: 4
+answer: Oreo
+
+It claims the title of the "world's favorite cookie".
+
+----
+num: 5
+category: Literature
+difficulty: 400
+seen: 3
+answer: because
+
+Meaning "for the reason that", in parent-speak it usually precedes "...I said so!".
+
+----
+num: 6
+category: History
+difficulty: 400
+seen: 5
+answer: a heptathlon
+
+It's a women's track & field competition that consists of 7 events.
+
+----
+num: 7
+category: Literature
+difficulty: 400
+seen: 4
+answer: an omelet
+
+You don't have to go to Denver to enjoy a Denver one of these made with eggs, ham & green pepper.
+
+----
+num: 8
+category: Trash
+difficulty: 600
+seen: 5
+answer: a referee
+
+In 1997 Violet Palmer took the court as the NBA's first female one of these.
+
+----
+num: 9
+category: Literature
+difficulty: 600
+seen: 4
+answer: neither
+
+From the Old English for "which of two", it's a frequent companion of "nor".
+
+----
+num: 10
+category: Science
+difficulty: 600
+seen: 6
+answer: quartz
+
+Flint is a fine-grained variety of this mineral used in crystal-controlled clocks & watches.
+
+----
+num: 11
+category: History
+difficulty: 600
+seen: 4
+answer: John Quincy Adams
+
+He was a Harvard graduate & our sixth U.S. president.
+
+----
+num: 12
+category: Literature
+difficulty: 600
+seen: 4
+answer: olives
+
+I just love the manzanilla type of these stuffed with blue cheese; I can eat a whole jar in one sitting.
+
+----
+num: 13
+category: Trash
+difficulty: 800
+seen: 5
+answer: Oscar Robertson
+
+Led by this "Big O" of basketball, Crispus Attucks High in 1955 won the USA's first state title for an all-black team.
+
+----
+num: 14
+category: Literature
+difficulty: 800
+seen: 4
+answer: Wildfell Hall
+
+Helen Huntingdon takes the name Graham when she goes into hiding at this home in "The Tenant of Wildfell Hall".
+
+----
+num: 15
+category: Science
+difficulty: 800
+seen: 5
+answer: Truth or Consequences
+
+The prehistoric flint projectile points seen.
+
+----
+num: 16
+category: History
+difficulty: 800
+seen: 4
+answer: Salome
+
+In opera, she performs the "Dance of the Seven Veils".
+
+----
+num: 17
+category: Literature
+difficulty: 800
+seen: 4
+answer: oysters
+
+At Antoine's in New Orleans, try these a la Rockefeller or fried on toast with pate de fois gras.
+
+----
+num: 18
+category: Trash
+difficulty: 1000
+seen: 5
+answer: the (Chicago) Cubs
+
+When her family bought this ballclub from the Tribune Co., Laura Ricketts became MLB's first openly gay owner.
+
+----
+num: 19
+category: Literature
+difficulty: 1000
+fixed: -1
+seen: 4
+answer: yet (or but)
+
+Synonyms for this 3-letter word include however, nevertheless & still.
+
+----
+num: 20
+category: Science
+difficulty: 1000
+seen: 7
+answer: the Cliffs of Dover
+
+Dark bands of flint are.
+
+----
+num: 21
+category: History
+difficulty: 1000
+seen: 4
+answer: the Six-Day War
+
+It ended with a victory for Israel June 10, 1967.
+
+----
+num: 22
+category: Literature
+difficulty: 1000
+seen: 4
+answer: onion soup
+
+The "French" type of this soup with a broth base is often topped with croutons & melted cheese.
+
+----
+num: 23
+category: Literature
+difficulty: 400
+seen: 3
+answer: a mast
+
+A coin placed under this vertical sail-holder brings good luck.
+
+----
+num: 24
+category: Literature
+difficulty: 400
+seen: 3
+answer: children
+
+In Adelaide "ankle biters" are these people.
+
+----
+num: 25
+category: History
+difficulty: 400
+seen: 3
+answer: Marco Polo
+
+His travels took him from Venice to Asia & back again (1271-1295); he died in Venice in 1324.
+
+----
+num: 26
+category: Geography
+difficulty: 400
+fixed: -1
+seen: 8
+answer: the United States
+
+This country boasts North America's highest point at 20,320 feet.
+
+----
+num: 27
+category: Science
+difficulty: 400
+fixed: -1
+seen: 6
+answer: nerves
+
+Located in the skin & other tissues, pain receptors are the ends of these fiber bundles.
+
+----
+num: 28
+category: Literature
+difficulty: 800
+seen: 4
+answer: the devil
+
+The seam around a ship's hull was called this, so you might get caught between it & the deep blue sea.
+
+----
+num: 29
+category: Literature
+difficulty: 800
+seen: 4
+answer: Sheila
+
+This name of a "Sweet Little" gal of song is also Australian slang for a young woman.
+
+----
+num: 30
+category: History
+difficulty: 800
+seen: 3
+answer: Genghis Khan
+
+Temujin was the original name of this conqueror & ruler from the steppes who died in 1227.
+
+----
+num: 31
+category: Geography
+difficulty: 800
+seen: 7
+answer: Tanzania
+
+Africa tops out in this country.
+
+----
+num: 32
+category: Trash
+difficulty: 800
+seen: 5
+answer: (Henry) Paulson
+
+In the 2011 TV movie "Too Big to Fail", William Hurt played this GOP Treasury Chief who helped bail out Wall Street.
+
+----
+num: 33
+category: Science
+difficulty: 800
+seen: 6
+answer: a contusion
+
+From Latin for "crushing", it's a fancy term for a bruise.
+
+----
+num: 34
+category: Literature
+difficulty: 1200
+seen: 4
+answer: warlocks
+
+Be careful with any Finns on board--olden sailors say they're these, a word for specifically male witches or wizards.
+
+----
+num: 35
+category: Literature
+difficulty: 1200
+seen: 4
+answer: Matilda
+
+A blanket or bedroll is also called by this female name mentioned by the singing jolly swagman.
+
+----
+num: 36
+category: History
+difficulty: 1200
+seen: 4
+answer: (Allan) Pinkerton
+
+This founder of a private detective agency in Chicago was born in Scotland--which, ironically, he fled to avoid arrest.
+
+----
+num: 37
+category: Geography
+difficulty: 1200
+seen: 8
+answer: Nepal
+
+About 57,000 square miles, it's the smaller of the 2 countries that share Asia's peak peak.
+
+----
+num: 38
+category: Trash
+difficulty: 1200
+seen: 5
+answer: Edie Falco
+
+The 2011 Broadway revival "The House of Blue Leaves" features Mary Beth Hurt alongside this star nurse/mobster's wife.
+
+----
+num: 39
+category: Science
+difficulty: 1200
+seen: 5
+answer: a dislocation
+
+Luxation is another term for this often painful misalignment of a joint, perhaps a shoulder.
+
+----
+num: 40
+category: Literature
+difficulty: 1600
+seen: 4
+answer: a Fiddler\'s Green
+
+A sailor's afterlife of wine, women & song is called this musician's "green".
+
+----
+num: 41
+category: Literature
+difficulty: 1600
+seen: 4
+answer: engaged
+
+If you get a busy signal in Brisbane, the line is said to be this premarital term.
+
+----
+num: 42
+category: Geography
+difficulty: 1600
+seen: 8
+answer: South America
+
+Mount Aconcagua is the highest you can get on this continent.
+
+----
+num: 43
+category: Trash
+difficulty: 1600
+seen: 5
+answer: New York
+
+John Hurt reprised the role of Quentin Crisp for 2009's "An Englishman in" this U.S. city.
+
+----
+num: 44
+category: Literature
+difficulty: 2000
+seen: 5
+answer: beak
+
+If you stick your nose in other people's business, you're a "sticky" this bird part.
+
+----
+num: 45
+category: History
+difficulty: 2000
+seen: 6
+answer: Thomas Paine
+
+An excise officer in England, he hunted for smugglers & collected taxes before coming to America & writing "The Crisis".
+
+----
+num: 46
+category: Geography
+difficulty: 2000
+seen: 15
+answer: Russia
+
+Europe's high point is 18,510-foot Mount Elbrus in this country.
+
+----
+num: 47
+category: Science
+difficulty: 2000
+seen: 8
+answer: referred pain (referral accepted)
+
+Pain originating in one part of the body but felt in another is called this, like a patient who's sent from another doctor.

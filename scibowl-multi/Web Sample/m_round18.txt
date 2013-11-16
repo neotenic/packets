@@ -1,0 +1,285 @@
+####
+tournament: Web Sample
+round: m_round18.pdf
+####
+
+num: 1
+category: Earth Science
+difficulty: MS
+answer: W)  One -Half That of the Moon
+
+The Sun’s tide-generating force is about:
+W) one-half that of the Moon
+X) twice that of the Moon
+Y) one-fourth that of the Moon
+Z) 4-times that of the Moon
+
+----
+num: 3
+category: General Science
+difficulty: MS
+answer: W)  Essential Amino Acids
+
+Leucine and isoleucine are both:TOSS-UP
+W) essential amino acids
+X) fatty acids
+Y) complex carbohydrates
+Z) essential minerals
+
+----
+num: 3
+category: General Science
+difficulty: MS
+answer: X)  1 Table Spoon Cod Liver Oil
+(Solution: Egg ~ 40 Iu;  Cod Liver Oil ~ 1360;  Cheese ~ 12;  Milk ~ 40)
+
+Which of the following would contain the most dietary vitamin D:
+W) 1 egg yolk
+X) 1 table spoon cod liver oil
+Y) 1 ounce Swiss cheese
+Z) 1 cup vitamin D -fortified whole milk
+
+----
+num: 4
+category: Life Science
+difficulty: MS
+answer: Y)  Mitochondria
+
+Which of the following organelles would be most abundant in cells that are producing large amounts of ATP through oxidative metabolism:
+W) smooth ER
+X) rough ER
+Y) mitochondria
+Z) lysosomes
+
+----
+num: 5
+category: Physical Science
+difficulty: MS
+answer: W)  Lowers the Freezing Point and Raises the Boilin G Point
+
+Which of the following best explains the benefit of adding a solution of ethylene glycol, or antifreeze, to the radiator of a car:
+W) lowers the freezing point and raises the boiling point
+X) raises the freezing point and raises the boiling point
+Y) lowers the freezing point and lowers the boiling point
+Z) raises the freezing point and lowers the boiling point
+
+----
+num: 5
+category: Physical Science
+difficulty: MS
+answer: Z) Poor Thermal Conductivity
+
+Metallic bonding accounts for all but which of the following physical characteristics of metals:
+W) strength 
+X) ductility
+Y) high electrical conductivity
+Z) poor thermal conductivity
+
+----
+num: 6
+category: General Science
+difficulty: MS
+answer: Y)  Cepheid Variables
+
+Which of the following is a type of star that is extremely useful in measuring large distances across the universe and led to the discovery that the universe is much bigger than just our Milky Way galaxy:
+W) eclipsing binaries
+X) Wolf-Rayets
+Y) Cepheid variables 
+Z) neutrons
+
+----
+num: 7
+category: Earth Science
+difficulty: MS
+answer: X)  Lava Domes
+
+Sometimes compared to a slow -moving glob of toothpaste extruding from a tube of toothpaste, which of the following has formed several times within the crater Mount Saint Helens since its 1980 eruption:
+W) lava domes 
+X) cinder cones
+Y) flood basalts
+Z) spatter cones
+
+----
+num: 7
+category: Earth Science
+difficulty: MS
+answer: Y)  High Viscosity and Low Gas Content
+
+Knowing that the growth of lava domes is generally nonexplosive and they often grow for many months to years, which of the following best describes their magmas:
+W) low viscosity and low gas content
+X) low viscosity and high gas content
+Y) high viscosity and low gas content
+Z) high viscosity and high gas content
+
+----
+num: 8
+category: Math
+difficulty: MS
+answer: W)   They Coincide
+
+Which of the following is TRUE for the graph of the following two equations: x + y = 8, and, 2x + 2y = 16
+W) they coincide 
+X) they are perpendicular lines
+Y) they are parallel lines 
+Z) they are horizontal lines
+
+----
+num: 9
+category: Life Science
+difficulty: MS
+answer: Z)  Atp
+
+Which of the following is the most common energy intermediate that couples exergonic and endergonic reactions in living cells:
+W) fat
+X) cellulose
+Y) glucose
+Z) ATP
+
+----
+num: 10
+category: Physical Science
+difficulty: MS
+answer: X)  a Mass of 4 Kg  With a Velocity of 8 Meters Per Second
+(Solution:  Ke = ½ Mass × Velocity ^2)
+
+Which of the following has the GREATEST kinetic energy for an object moving in a straight path:
+W) a mass of 2 kg with a velocity of 10 meters per second 
+X) a mass of 4 kg with a velocity of 8 meters per second
+Y) a mass of 6 kg with a velocity of 6 meters per second
+Z) a mass of 8 kg with a velocity of 4 meters per second
+
+----
+num: 11
+category: Earth Science
+difficulty: MS
+answer: Y)  a Large Cluster of Thunderstorms
+
+Which of the following best describes what meteorologists call a mesoscale c onvective complex:
+W) an Alberta clipper
+X) a low-precipitation supercell tornado
+Y) a large cluster of thunderstorms
+Z) a widespread area of cool, clear conditions
+
+----
+num: 11
+category: Earth Science
+difficulty: MS
+answer: W)  Normal
+
+Which of the following is the name for the fault in which displacement of the hanging wall is downward with respect to the footwall:
+W) normal
+X) reverse
+Y) strike-slip
+Z) thrust
+
+----
+num: 13
+category: General Science
+difficulty: MS
+answer: Y)  to Slow Fast Neutrons and Ensure a Sustained Chain 
+Reaction
+
+Which of the following best describes how water typically functions as a moderator in nuclear reactors:
+W) to increase the distance among uranium atoms that are fissioned
+X) to cool the reactor core
+Y) to slow fast neutrons and ensure a sustained cha in reaction
+Z) to provide protons for the initiation of fission
+
+----
+num: 14
+category: Life Science
+difficulty: MS
+answer: Z)  Bacterial and Eukaryotic Ribosomes Are Identical in Shape 
+and Size
+
+Which of the following is NOT true of ribososmes:
+W) they help tran slate mRNA into protein
+X) they are too small to be seen with a compound light microscope
+Y) they are about 20 nanometers in diameter
+Z) bacterial and eukaryotic ribosomes are identical in shape and size
+
+----
+num: 14
+category: Life Science
+difficulty: MS
+answer: Z)  Oxidase
+
+Which of the following enzymes most likely catalyses the removal of electrons:
+W) transferase
+X) nuclease
+Y) hydrolase
+Z) oxidase
+
+----
+num: 15
+category: Physical Science
+difficulty: MS
+answer: W)  Citric Acid
+
+Which of the following would be the most logical choice for neutralizing a small amount of basic sodium hydroxide that was spilled on a lab bench:
+W) citric acid
+X) mercury pillow
+Y) concentrated sulfuric acid
+Z) concentra ted hydrochloric acid
+
+----
+num: 16
+category: Earth Science
+difficulty: MS
+answer: W)  the Grand Tetons, Wyoming
+
+Which of the following is an example of a mountain range that was primarily formed by a process of fault -blocking:
+W) the Grand Tetons, Wyoming
+X) the Andes Mountains
+Y) the Himalayas
+Z) the Hawaiin Islands
+
+----
+num: 18
+category: General Science
+difficulty: MS
+answer: Z)  Cholesterol Is a Common Component of Plant Cell 
+Membranes
+
+Which of the following is NOT true of cholesterol:
+W) cholesterol is transported in blood
+X) LDL’s, or low density lipoproteins, are typically considered the “bad” cholesterol
+Y) elevated cholesterol often begins in childhood
+Z) cholesterol is a common component of plant cell membranes
+
+----
+num: 18
+category: General Science
+difficulty: MS
+answer: X)  1 Whole Egg
+(Solution: Nuts ~ 0;  Egg ~ 213;  Milk ~ 33;  Oil ~ 0 Mg)
+
+Which of the following foods contains the MOST milligrams of cholesterol:
+W) 1 cup dry, roasted cashew nuts
+X) 1 whole egg
+Y) 1 cup whole milk
+Z) 1 cup olive oil
+
+----
+num: 19
+category: Life Science
+difficulty: MS
+answer: X)  Sporophyte
+
+Which of the following is considered the dominant generation in flowering plants:
+W) hypocotyl 
+X) sporophyte
+Y) gametophyte
+Z) anth ophyte
+
+----
+num: 19
+category: Life Science
+difficulty: MS
+answer: Y)  Production of Amniotic Eggs
+
+Which of the following is the most distinguishing characteristic of all vertebrates adapted to life on land from amphibians:
+W) lack of metamorphosis
+X) presence of true kidneys
+Y) production of amniotic eggs
+Z) presence of a coelom (read as: sil -OHM)

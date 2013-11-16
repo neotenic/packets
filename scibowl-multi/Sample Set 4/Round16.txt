@@ -1,0 +1,543 @@
+####
+tournament: Sample Set 4
+round: Round16.pdf
+####
+
+num: 1
+category: Life Science
+difficulty: MS
+answer: Y) Most Thermophiles Are in the Kingdom Eubacteria
+ __
+
+Which of the following statements about thermophiles in 
+Yellowstone National Park is NOT true?
+W) Many thermophiles live in hot pools of water
+X) Studies of thermophiles have been helpful to the process of DNA fingerprinting
+Y) Most thermophiles are in the kingdom Eubacteria (read as: juh-bahk-TIR-ee-ah)
+Z) Thermophiles are often brightly colored
+
+----
+num: 2
+category: Energy
+difficulty: HS
+answer: X) 72%
+
+An electric vehicle has two stages. If the first stage, the battery, has an efficiency of 90% and the second stage, the inverter, has an efficiency of 80%, calculate the approximate overall efficiency of the vehicle.
+W) 56%
+X) 72%
+Y) 89%
+Z) 113%
+
+----
+num: 2
+category: General Science
+difficulty: MS
+answer: Z) Brown Dwarf
+
+Which of the following is NOT considered a variable star?
+W) Cepheid (read as: SEH-feed)
+X) Supernova
+Y) Eclipsing binary star
+Z) Brown dwarf
+
+----
+num: 3
+category: Math
+difficulty: HS
+seen: 1
+answer: X) 1
+
+Which of the following is congruent to ( n + 1) modulus n?
+W) 0
+Z) (X) 1 
+Y) (nn––
+2)1)
+
+----
+num: 3
+category: Earth and Space Science
+difficulty: MS
+answer: Y) Lithosphere, Atmosphere, Hydrosphere, Biosphere
+
+
+Which of the following lists the four upper spheres of Earth in the correct order of their chronological development?
+W) Atmosphere, biosphere, lithosphere, hydrosphere
+X) Hydrosphere, lithosphere, biosphere, atmosphere
+Y) Lithosphere, atmosphere, hydrosphere, biosphere
+Z) Biosphere, atmosphere, hydrosphere, lithosphere
+
+----
+num: 5
+category: Earth and Space Science
+difficulty: MS
+answer: Y) Dragon Storm
+
+Which of the following was a storm observed on Saturn – a large, bright, convective storm that appeared in Saturn’s southern hemisphere?
+W) Dust storms
+X) Great Dark Spot
+Y) Dragon Storm
+Z) Great Red Spot
+
+----
+num: 6
+category: Physical Science
+difficulty: MS
+answer: Y) It Can Be Defined as  the Opposite of Compression
+
+Which of the following is true of tension?
+W) It is the same as stress
+X) Its magnitude is independent of mass
+Y) It can be defined as the opposite of compression
+Z) It is equivalent to force
+
+----
+num: 7
+category: Math
+difficulty: HS
+seen: 1
+answer: Y) 93
+
+
+Evaluate the following expression: (read as: the summation from -1 to 4 of 3 k squared).
+W) 31
+X) 87
+Y) 93
+Z) 243
+
+----
+num: 8
+category: Earth and Space
+difficulty: HS
+answer: W) Carbon -14
+
+Which radioisotope would NOT be appropriate to use to date the age of a 2 billion year old rock?
+W) Carbon -14
+X) Potassium-40
+Y) Rubidium-87
+Z) Uranium-238
+
+----
+num: 9
+category: Math
+difficulty: HS
+seen: 1
+answer: W) 9 Sin(x) - 2
+
+Which of the following has the largest amplitude?
+W) 9sin(x) - 2
+X) 2cos(6x) + 5
+Y) cos(2x)
+Z) 4sin(10x)
+
+----
+num: 9
+category: Earth and Space Science
+difficulty: MS
+answer: Y) Cooler Temperatures in Winter and Hotter Temperatures in 
+Summer
+
+
+If the Earth’s axis lost its tilt, which of the following would least likely occur?
+W) Changes in ocean surface currents
+X) Increased amount of seasonal changes across the planet
+Y) Cooler temperatures in winter and hotter temperatures in summer 
+Z) Days and nights which are equal throughout the entire year across the planet
+
+----
+num: 10
+category: General Science
+difficulty: MS
+answer: Y) Gravity
+
+Which of the following choices is the controlling force behind mass wasting?
+W) The triggering event
+X) Saturation of the material with water
+Y) Gravity
+Z) Removal of anchoring vegetation
+
+----
+num: 10
+category: General Science
+difficulty: MS
+answer: Z) the Movement of Rocks Downslope in an Avalanche Is Called  a 
+Flow
+
+Which of the following statements is NOT true about rock avalanches?
+W) Rock and debris can hurtle downslope at speeds exceeding 125 miles per hour
+X) They can be dated based on isotopes formed from the rock’s exposure to cosmic rays
+Y) They can be caused by earthquakes
+Z) The movement of rocks downslope in an avalanche is called a flow
+
+----
+num: 11
+category: Physics
+difficulty: HS
+answer: W) the Hollow Cylinder Has a Greater Moment of Inertia
+
+If a solid cylinder and a hollow cylinder have the same outer radius and mass, which of the following is true regarding moment of inertia about the cylindrical axis?
+W) The hollow cylinder has a greater moment of inertia
+X) The solid cylinder has a greater moment of inertia
+Y) The moment of inertia would be the same for both
+Z) The moment of inertia depends on the speed of the cylinders
+
+----
+num: 11
+category: Physics
+difficulty: HS
+seen: 1
+answer: Z) Acceleration, Momentum, Displacement
+
+
+Many physics quantities fall under two categories: scalars and vectors. Which of the following does NOT contain a scalar quantity?
+W) Force, energy, mass
+X) Velocity, pressure, time
+Y) Weight, speed, work
+Z) Acceleration, momentum, displacement
+
+----
+num: 11
+category: Energy
+difficulty: MS
+answer: W) Chemolithotroph
+
+
+Which of the following types of organism obtains energy primarily from inorganic compounds?
+W) Chemolithotroph (read as: kee-mōe-LI-thah-trōef)
+X) Chemoorganotroph (read as: kee-mōe-ohr-GAH-nōe-trōef)
+Y) Photolithotroph (read as: fōe-tōe-LI-toh-trōef)
+Z) Photoorganotroph (read as: fōe-tōe-ohr-GAH-nōe- trōef)
+
+----
+num: 12
+category: Earth and Space
+difficulty: HS
+answer: X) Explorer I
+
+What was the name of the first satellite launched into earth orbit by the United States?
+W) Trogdor
+X) Explorer I
+Y) Gemini
+Z) Mercury
+
+----
+num: 12
+category: Earth and Space
+difficulty: HS
+answer: W) Intrusive
+
+Pegmatites are examples of what kind of rock that can be formed by cooling processes within the earth?
+W) Intrusive
+X) Extrusive
+Y) Metamorphic
+Z) Detrital
+
+----
+num: 12
+category: General Science
+difficulty: MS
+answer: Z) It Is Comp Osed of Double-Stranded Proteins
+
+A new virus is discovered and its genetic code is examined. Which of the following cannot be true concerning its genome?
+W) It is composed of double-stranded DNA
+X) It is composed of single-stranded RNA
+Y) It is composed of single-stranded DNA
+Z) It is composed of double-stranded proteins
+
+----
+num: 12
+category: General Science
+difficulty: MS
+answer: Y) the Ebola Virus Originated in Monkeys
+
+Ebola hemorrhagic fever is a severe, often fatal, disease in humans and nonhuman primates. It is caused by infection with the Ebola virus. 
+Which of the following statements is N OT true about Ebola?
+W) Ebola typically occurs in sporadic outbreaks
+X) Health care workers should wear protective clothing such as masks, gowns, goggles, and gloves
+Y) The Ebola virus originated in monkeys 
+Z) The disease takes between 2 days to 3 weeks to incubate
+
+----
+num: 13
+category: Physical Science
+difficulty: MS
+answer: Z) to Prevent Buckling When Materials in the Bridge Expand and 
+Contract With Temperature Changes
+ 
+
+Why do many bridges have expansion joints?
+W) To reduce the vibration of cars traveling across the bridge
+X) To permit quick disassembly in case of flooding or other disasters
+Y) To increase resistance to UVB-induced photo-degradation
+Z) To prevent buckling when the bridge expands and contracts with temperature changes
+
+----
+num: 14
+category: Chemistry
+difficulty: HS
+seen: 1
+answer: 4
+
+To the nearest whole degree Celsius, at what temperature is water the densest?
+
+----
+num: 14
+category: Earth and Space Science
+difficulty: MS
+answer: W) Stable Concentrations of Atmospheric C Arbon Dioxide^
+
+Which of the following is NOT evidence that supports the notion of Snowball Earth?
+W) Stable concentrations of atmospheric carbon dioxide
+X) Dropstones in tropical waters
+Y) Large clay deposits
+Z) Cap carbonates
+
+----
+num: 15
+category: Biology
+difficulty: HS
+answer: Z) Turtles Have a Much Longer Generation Time Than Mice
+
+
+The American bullfrog is a prolific hunter and can eat a wide variety of foods, including native western pond turtles and mice. Currently, western pond turtles are listed as an endangered species. Which of the following best explains why turtle populations would be more impacted than mice by the introduction of bullfrogs?
+W) Bullfrogs like to eat turtles more than they like to eat mice
+X) Turtles run slower than mice so they can’t get away from the bullfrogs
+Y) Mice hide better than turtles
+Z) Turtles have a much longer generation time than mice
+
+----
+num: 15
+category: Math
+difficulty: MS
+answer: W) 4!
+
+Which of the following values is smallest?
+W) 4! (read as: four factorial)
+X) 5^2
+Y)	|! 100|	 x 4 (read	as:	the	absolute	value	of	the	square	root	of	100	times	4)
+Z) |√625| (read as: the absolute value of the square root of 625)
+
+----
+num: 16
+category: Earth and Space
+difficulty: HS
+answer: Y) Reducing
+
+What type of smog in the boundary layer of the atmosphere contains sulfur dioxide?
+W) Oxidizing
+X) Photochemical
+Y) Reducing
+Z) Boundary layer
+
+----
+num: 17
+category: Physics
+difficulty: HS
+answer: X) the Two Sounds Have the Same Pitch and  the Same Timbre
+
+Two sounds of the same intensity will be perceived by the human ear to have the same loudness if:
+W) The two sounds have the same pitch
+X) The two sounds have the same pitch and the same timbre
+Y) The two sounds have the same timbre
+Z) The two sounds are below 100 Hertz
+
+----
+num: 17
+category: Life Science
+difficulty: MS
+answer: X) Leucine
+
+
+Which of the following amino acids must we obtain in our diets?
+W) Cysteine (read as: SIS-teh-een)
+X) Leucine (read as: LUH-seen)
+Y) Glutamine
+Z) Glycine
+
+----
+num: 18
+category: Math
+difficulty: HS
+answer: W)  Reject Ing a True Null Hypothesis
+
+In the use of a statistical test, which of the foll owing constitutes a 
+Type I (read as: type one) error?
+W) rejecting a true null hypothesis
+X) accepting a false null hypothesis
+Y) using a sample size that is too small for the test
+Z) comparing samples that differ too much in size
+
+----
+num: 19
+category: Biology
+difficulty: HS
+seen: 1
+answer: X) 20,000
+
+Which of the following most closely approximates the number of protein -coding genes in the human genome?
+W) 10,000
+X) 20,000
+Y) 50,000
+Z) 100,000
+
+----
+num: 19
+category: Energy
+difficulty: MS
+answer: Z) Inductor
+
+Name the circuit element that stores energy in the form of a magnetic field.
+W) Meter
+X) Ground
+Y) Resistor
+Z) Inductor
+
+----
+num: 20
+category: Chemistry
+difficulty: HS
+seen: 1
+answer: Y) Alkyne
+
+The degree of unsaturation of a hydrocarbon containing two rings is equivalent to the degree of unsaturation of a hydrocar bon containing an:
+W) Alkane
+X) Alkene
+Y) Alkyne
+Z) Alcohol
+
+----
+num: 20
+category: Physical Science
+difficulty: MS
+answer: W) the Boiling Point of the Solution
+
+Which of the following increases with the addition of sodium chloride to water?
+W) The boiling point of the solution
+X) The freezing point of the solution
+Y) The temperature of the solution
+Z) The vapor pressure of the solution
+
+----
+num: 20
+category: Physical Science
+difficulty: MS
+answer: Y) Sulfuric Acid
+
+The addition of equal moles of which of the following to water will decrease the freezing point the most?
+W) Magnesium sulfate
+X) Hydrochloric acid
+Y) Sulfuric acid
+Z) Hydroflouric acid
+
+----
+num: 21
+category: Physics
+difficulty: HS
+answer: Z) Lockheed Martin Engineers Used English Units of 
+Measurement and Nasa Used the Metric System
+
+In 1999, NASA lost a $125 million Mars orbiter because:
+W) The atmosphere on Mars was so corrosive that the orbiter was destroyed
+X) The engine did not fire
+Y) The robotic arm jilted i t out of orbit
+Z) Lockheed Martin engineers used English units of measurement and NASA used the metric system
+
+----
+num: 21
+category: Physics
+difficulty: HS
+answer: Z) 5.8
+
+
+Arturo, whose mass is 45 kilograms, is riding his 5.0 kilogram skateboard down the sidewalk with a constant speed of 6.0 meters per second when he rolls across a 10.0 meter long patch of sand on the pavement. The sand provides a force of friction of 6.0 newtons. What is Arturo’s speed in meters per second as he emerges from the sand?
+W) 0
+X) 1.8
+Y) 3.8
+Z) 5.8
+
+----
+num: 21
+category: Math
+difficulty: MS
+answer: Z) Octagons
+
+Which of the following regular polygons will NOT tessellate?
+W) Triangles
+X) Squares
+Y) Hexagons
+Z) Octagons
+
+----
+num: 22
+category: Chemistry
+difficulty: HS
+seen: 1
+answer: Y) See-Sawing
+
+Which of the following does not describe how atoms in a CH^2group can vibrate?
+W) Rocking
+X) Symmetrical stretching
+Y) See-sawing
+Z) Twisting
+
+----
+num: 22
+category: Life Science
+difficulty: MS
+answer: Y) Enhanced Uptake of Nitrogen
+
+Which of the following choices does NOT represent a benefit of Mycorrhiza (read as: my-koh-RY-zah)?
+W) Enhanced absorption of water
+X) Better survival of root diseases
+Y) Enhanced uptake of nitrogen
+Z) Enhanced soil struct ure
+
+----
+num: 23
+category: Earth and Space Science
+difficulty: MS
+answer: W) the Geographic North Pole
+
+Of the following location s, where on the 
+Earth's surface are you closest to the center of the Earth?
+W) The geographic North Pole
+X) The equator
+Y) Costa Rica
+Z) Saudi Arabia
+
+----
+num: 23
+category: Earth and Space Science
+difficulty: MS
+answer: Y) Low Temperature and High Productivity
+ ___
+
+Which of the following describes the temperature and productivity of surface ocean water in an upwelling zone?
+W) High temperature and low p roductivity
+X) High temperature and high productivity
+Y) Low temperature and high productivity
+Z) Low temperature and low productivity
+
+----
+num: 25
+category: Energy
+difficulty: MS
+answer: W) Force
+
+A compact car and a large SUV are both driving down the freeway at 60 miles per hour. They both must stop to avoid an obstacle 0.3 miles in front of them. What does the SUV require more of relative to the car in order to stop in time to avoid hitting the obstacle?
+W) Force
+X) Momentum
+Y) Velocity
+Z) Torque
+
+----
+num: 25
+category: Energy
+difficulty: MS
+answer: X) the Overall Efficiency of a Battery Would Be Better Than 
+That of a Gas -Powered Electrical Generator
+
+Electrochemical batteries convert chemical energy directly into electrical energy. Would you expect the efficiency of an electrochemical battery, in gener al, to be more or less efficient in generating electrical energy than a gas -powered electrical generator?
+W) It depends on the current
+X) The overall efficiency of a battery would be better than that of a gas -powered electrical generator 
+Y) The overall efficiency of a battery would be worse than that of a gas-powered electrical generator 
+Z) The overall efficiency of a battery would be the equal to that of a gas -powered electrical generator

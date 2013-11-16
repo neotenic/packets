@@ -1,0 +1,214 @@
+####
+tournament: Harvard International
+round: Round 14.doc
+year: 2010
+####
+
+num: 1
+category: History
+difficulty: College
+fixed: None
+seen: 67
+answer: {Harihara} I
+
+This man's father was a royal advisor who was appointed military governor of the region surrounding the village of Hampi. This man came to power by exploiting a power vacuum created when Emperor Veera Ballala III was killed in battle against the Sultan of Madurai. This member of the Sangama dynasty was succeeded by his son Bukka I. Under the leadership of future rulers such as Krishnadevaraya, the polity that this man established would hold off the attacks of the Deccan Sultanates and become the most powerful state in south India since the preceding Hoysala dynasty. For ten points, name this founder of the Vijaynagara Empire.
+
+----
+num: 2
+category: Religion
+difficulty: College
+fixed: None
+seen: 53
+answer: Book of {Judges} [accept: {Sefer Shoftim}]
+
+Early in this book, the three sons of Anak are expelled, the city of Luz is renamed, and an angel brings a message of warning to Bochim. The Jebusites appear in this book and are expelled from their home city. Using an ox goad, Shamgar slays six hundred men in this book, while another character in this book climbs Mount Tabor before an important battle against Jabin, whose champion Sisera is slain. Elgon, an obese king of Moab, is killed in this book when a dagger is thrust into his belly. For ten points, name this book of the Hebrew Bible that tells the story of Ehud, Deborah, Samson, and other non-royal early Israelite leaders. 
+
+----
+num: 3
+category: Literature
+difficulty: College
+fixed: None
+seen: 60
+answer: {Hickey} or {Theodore Hickman}
+
+This character wrote a joking letter to pay back a loan to Madame Mollie Arlington in which he suggests she should take advantage of a bargain deal on baby carriages for her brothel. After this character exits in the first act one man attributes his behavior to “overwork” before telling a story about a quack doctor who claimed work was “the deadliest habit known to science” and sold rattlesnake oil as a medicine. This character gave Hugo Kalmar the nickname “De old Foolosopher” and he tries to convince another character to go outside and take a walk for the first time in twenty years. In the fourth act this character says he felt so guilty because his wife forgave all of his faults that he shot his wife Evelyn while she was sleeping. The policeman Lieb and Moran arrest this character after he confesses to murder, which drives Don Parritt to admit he betrayed his Anarchist mother to Larry Slade. This character announces he has given up drinking and that he plans to make people give up their “pipe dreams” when he enters Harry Hope's saloon. For 10 points, name this salesman who is the title character of Eugene O'Neil's Iceman Cometh.
+
+----
+num: 4
+category: Science
+difficulty: College
+fixed: 57
+seen: 82
+answer: {torque}
+
+The magnetization of the free layer of a ferromagnet is given as the sum of four forms of this quantity, including the Slonczewski form and the Landau-Lifshitz form. The measurement of this quantity allowed R. A. Beth to conclude that Laguerre-Gaussian lasers conferred a related quantity to light. The maximum of this quantity over field strength gives the magnetic moment in the Kennelly approach, and Liouville's generalization of Euler's equations to nonrigid motion gives this quantity for each of three axes. Its presence in a system can induce precession. For 10 points, name this quantity, equal to the cross product of force and lever arm, which is the time derivative of angular momentum and the rotational analogue of force.
+
+----
+num: 5
+category: Social Science
+difficulty: College
+fixed: None
+seen: 52
+answer: {Bruno Latour}
+
+This thinker discussed non-humans and super-humans in an essay with a frame story about Robert Fox's group and a door in La Villette. This author of “Where Are the Missing Masses?” discussed the “shilly-shallying in the seventies” prior to a 1984 decision to halt the construction of a personal rapid transit system. In addition to Aramis, this thinker partnered with Steve Woolgar to discuss the selenium content of water and the presence of peptide TRF(H) as components in an anthropological study of Roger Guillemin's lab at the Salk Institute. Aside from authoring Laboratory Life, We Have Never Been Modern, and Science in Action, this thinker joins John Law and Michel Callon as the foremost developer of action-network theory. For 10 points, identify this French sociologist of science and technology studies.
+
+----
+num: 6
+category: Science
+difficulty: College
+fixed: -1
+seen: 80
+answer: vitamin B12 [prompt on {cobalamins} before mention; accept {methylcobalamin} before mention; accept {cyanocobalamin} before mention]
+
+This compound's total synthesis involves the cyclization of methionine to create alpha-corrnorsterone, which contains this compound's D-ring. Katzung showed that the step that employs this compound to activate methionine synthase is the rate-limiting step of methionine synthesis. This compound is a cofactor in the conversion by methylmalonyl coenzyme A mutase of methylmalonic acid to succinate. This compound can reverse dexamethasone-induced cleft palate in rodent embryos. Its synthesis was made more intimidating by its nine chiral centers, six of which are consecutive; that synthesis was achieved by Woodward and Eschenmoser. Vitamers of this vitamin include one that includes an adenosyl ligand, which is sometimes called dibencozide. This vitamin is lacking in pernicious anemia. This vitamin's forms all possess a cobalt center chelated by a porphyrin-like system with three L-type bonds and one X-type bond. For 10 points, name this vitamin whose most air-stable form is cyanocobalamin, a B vitamin intimately involved in metabolism.
+
+----
+num: 7
+category: History
+difficulty: College
+fixed: -1
+seen: 70
+answer: {Al Capone} [accept: {Alphonse Gabriel Capone}]
+
+This protégé of Johnny Torrio was once embroiled in a conflict with the O'Donnell brothers. The opposition of William Emmett Dever forced this man to relocate to the city of Cicero, but this man later formed a relationship with Big Bill Thompson that allowed him to return and form a headquarters at the Lexington Hotel. This man's top lieutenants include Jack McGurn, and his rivals include Hymie Weiss. This enemy of Buggs Moran was eventually sent to Alcatraz for tax evasion, but not before wiping out his opponents at the St. Valentines Day Massacre. For ten points, name this gangster who, like Seth Teitler, controlled the south side of Chicago.
+
+----
+num: 8
+category: Geography
+difficulty: College
+fixed: 57
+seen: 133
+answer: {Mozambique}
+
+This country controls the Bazaruto Archipelago which contains the city of Vilanculos, and this nation is the site og Gorongosa National Park. The capital city of this nation is indented by Delagoa Bay, and its Central Railway Station was designed by Gustave Eiffel. This nation's Tete province contains Lake Cahora Bassa, and the southern Gaza Province contains the port of Xai-Xai. Bounded on the north by the Ruvuma River, this nation is the site of the mouths of both the Limpopo and Zambezi Rivers, and its second most populous city is the port city of Beira. Containing Matola and formerly known as Portuguese East Africa, for 10 points, name this Southern African nation with capital at Maputo, which has a namesake Channel that separates the African mainland from Madagascar.
+
+----
+num: 9
+category: Philosophy
+difficulty: College
+fixed: None
+seen: 54
+answer: {Nelson Goodman}
+
+This philosopher called pictorial symbol systems “syntactically and semantically dense” and elucidated two categories of works of art, based on whether it could be said that they were forged, allographic and autographic, and contrasts the relationships of “resemblance” and “representation.” The doctoral thesis of this author of Languages of Art was reworked into The Structure of Appearance and outlined a calculus of individuals that did not invoke set theory. He did, however, use set theory in a work written with Leonard that has provided the starting point for much of American mereology; that decision reflects his work with Lesniewski in founding contemporary nominalism. This philosopher is best known for an argument given contra Hempel's confirmation theory that introduced two concepts that were lacking in projectibility, but otherwise seemed as natural as other qualifiers. For 10 points, name this philosopher who addressed a “new riddle of induction” in Fact, Fiction, and Forecast and introduced the hypothetical colors “grue” and “bleen.”
+
+----
+num: 10
+category: Science
+difficulty: College
+fixed: 57
+seen: 80
+answer: {Fischer-Tropsch}
+
+A natural analogue of this process features the reaction between olivine, water, and carbonic acid to give serpentine, magnetite, and the products of this process. A variation of this process that employs water gives highly branched products and is named for Kölbel and Engelhardt. The mechanism proposed by Ponec for this reaction explains the deviations of its products from a Schulz-Flory distribution. The commonly accepted mechanism for this reaction was proposed by Cheryl Rofer-DePoorter and, unlike the earlier Pichler-Schulz mechanism, includes chain growth steps besides alkyl migration to carbonyl. Nickel is avoided for this procedure because of its tendency to favor the formation of methyl, which is the source of one of its starting materials through steam reforming. The distribution of chain length for the products of this reaction is given by the weight fraction of n-length chains over n equals the square of one minus chain growth probability alpha, all times alpha to the n-1. For 10 points, name this process by which carbon monoxide and hydrogen are converted to hydrocarbons.
+
+----
+num: 11
+category: Trash
+difficulty: College
+fixed: 57
+seen: 185
+answer: {Audioslave}
+
+This band sings “Golden soldiers born much older than they'll ever live to be.” In a video for this band, a black radio DJ says that his radio station is named after “the last American hero to whom speed means freedom of the soul.” That song begins “And with the early dawn moving right along” and continues “Is this a cure, or is this a disease?” This band also sings “In your house, I long to be, room by room, patiently” and “Go and save yourself//Take it out on me.” For 10 points, identify this rock group, comprised of the musical members of Rage Against the Machine and Chris Cornell, with hits like “Show Me How to Live,” “Doesn't Remind Me,” and “Like a Stone.”
+
+----
+num: 12
+category: Literature
+difficulty: College
+fixed: 1
+seen: 59
+answer: St. {Petersburg}
+
+This novel's protagonist had a childhood vision of an elastic ball turning into a round fat man who would recite “Pepp... Pepp” before exploding. Another character makes a pun about how anyone who grew up on a farm must have had a “harrowing” experience. This novel's section “Squares, Parallelopipeds, Cubes” sees a major character appreciating the rectilinear streets of the city while driving in a carriage. One character in this book is found next to the body of the man, who he had murdered the previous night with a pair of scissors and mounted. That character kills the double agent Lippanchenko, shrieks in a falsetto whenever he sees a mouse, and has a woman's neck. The character Dudkin appears in this novel in which Apollon Ableukhov is killed by a time bomb in a sardine can by his son. In this novel Nikolai Apollonovich has ears that are large and greenish and is followed by the hooves of an equestrian statue. For 10 points, name this Symbolist masterpiece set in the title city in 1905, written by Andrei Bely.
+
+----
+num: 13
+category: Fine Arts
+difficulty: College
+fixed: None
+seen: 68
+answer: The Massacre at {Chios}
+
+Some figures in this painting were partially based on the artist's earlier study Orphan Girl at the Cemetery and a man wearing a red fez on the left was based on sketches the artist drew of men wearing Suliots. The artist repainted the dark cloudy background after seeing Constable's The Haywain and on the bottom right hand corner a baby grabs the nipple of the corpse of a dead woman. In the center of this work a shadowed figure holding a rifle looms over an embracing couple. This painting was exhibited in the Salon opposite The Oath of Louis XIII, which triggered a rivalry between two artists and Antoine-Jean Gros was so offended by how it borrowed from his piece The Plague of Jaffa that he dubbed this work “The Massacre of Painting.” On the right side of this painting a nude woman is tied to the horse of a turbaned soldier who participates in the title event. For 10 points, name this painting depicting Ottoman soldiers slaughtering Greek civilians, created by Eugene Delacroix.
+
+----
+num: 14
+category: History
+difficulty: College
+fixed: None
+seen: 69
+answer: {Charles Parnell}
+
+The Ashbourne Act, also called the Purchase of Land Act, was an attempt to get this man to switch political affiliation. This man was released from prison after signing the so-called “Kilmainham Treaty”. This man authored the No Rent Manifesto and the Tenant's Relief Bill, and at the height of his power he was a coalition partner of William Gladstone. The Piggott forgeries attempted to link this man to extremists. This man was driven from politics because of his scandalous affair with Kitty O'Shea. For ten points, name this leader of the Home Rule League, who represented Ireland in Parliament in the late 19th century.
+
+----
+num: 15
+category: Mythology
+difficulty: College
+fixed: 57
+seen: 114
+answer: {Lethe}
+
+According to Apollonius of Rhodes, the only person who was immune to the effects of this place was a son of Hermes of Eupolemia named Aethalides, who was the herald of the Argonauts. In Valerius Flaccus's Argonatuica, Medea uses a bough from this place to incapacitate the guardian of the Golden Fleece. This place was allegedly surrounded by its namesake poppies and was located near the mountain Cimmeria, the home of Hypnos. Just beyond this place was the “second” Elysium, a resting place for souls that the Fates had decided to reincarnate. According to Plato, the effects of this place were only felt if one consumed more than a measured amount. In order to be reincarnated, these souls were required to drink the waters of this place so that they would not remember their prior life. For ten points, name this river of forgetfulness in the underworld.
+
+----
+num: 16
+category: Literature
+difficulty: College
+fixed: None
+seen: 56
+answer: Doctor {Aziz}
+
+When this character arrives at a tea party he graciously gives the collar stud of his shirt to another man who broke his button. He delivers ointment to the brother-in-law of a former friend who is injured after entering the Shrine of the Head, which is full of beehives. This character skips the “Bridge Party” organized by Mr. Turton because it was held on the anniversary of his wife's death. After his bike wheel deflates he rents a “tonga” to answer an emergency summons, only to find Major Callendar's bungalow empty. Mr. Amritrao represents this character in a trial presided over by Mr. Das after he is arrested by Mr. McBryde. At the end of the novel in which appears, he crashes his rowboat into the boat of Cyril Fielding, who he scorned for supporting Adela Quested who falsely accused him of rape after a trip to the Marabar Caves. For 10 points, name this Indian doctor from E. M. Forster's A Passage to India.
+
+----
+num: 17
+category: Science
+difficulty: College
+fixed: 57
+seen: 81
+answer: clouds
+
+Matveev developed a two-parameter model to predict which type of these objects will form. One model of the formation of these objects has been extended to organic seeds by Pandis, and they may form in response to orographic uplift. One process that occurs in these objects is named for Bergeron. The formation of these objects are studied in Köhler theory. Ice caps are a type of this object that form over nuclear detonations. These objects may have “overshooting tops” that, if they are present continuously, indicate that these objects are part of a supercell. Noctilucent examples may contain thin sodium and iron coats, leading to their unusually high tendency to reflect radar. Large-scale organizations of these entities include actinoform, open-cell, and closed-cell. Nacreous ones sequester nitric acid, altering nitrogen and chlorine cycles and damaging the ozone layer. For 10 points, name these objects studied in nephology, which come in forms like cirrus and cumulus.
+
+----
+num: 18
+category: History
+difficulty: College
+fixed: None
+seen: 68
+answer: Battle of {Plataea}
+
+According to Herodotus, the general of the winning side of this battle held his troops until he could get a favorable omen for a goat sacrifice, wich occurred just as his Tegean troops came under arrow fire. According to one story, the one side was persuaded to forsake a festival to Hyacinthus and fight in this battle by a persuasive speech of a dinner guest. One force in this battle was led by the general Amompharetus, and one side in this battle camped near the River Asopus. The opposing force waited near Mount Cithaeron, and the general Artabazus retreated from this battle with all of his Bactrian forces. Often paired with the later Battle of Mycale, the winning side was led into battle by the half-blind Aristodemus, who was the sole survivor of the earlier Battle of Thermopylae. For 10 points, identify this battle which saw the death of Mardonius, a victory for the Greek Pausanias which was the final land battle of the Persian Wars.
+
+----
+num: 19
+category: Fine Arts
+difficulty: College
+fixed: None
+seen: 72
+answer: {Jenufa} (accept {Její Pastorkyna})
+
+In this opera's second act one character sings the aria “In a moment” right before stealing another woman's newborn child and running away from a cabin. The tenor demands musicians play the song “Far and Wide” so he can dance scandalously with the soprano, but is interrupted by the local sacristan who forbids him from marrying main character until he goes one year without getting drunk. This opera's first act begins with the chorus waiting to hear who has been drafted in the annual army conscription ceremony and it ends when one admirer slashes the “rosy cheeks” of the protagonist. At the end of this opera the corpse of a baby is discovered in the river next to the mill, and Kostelnicka confesses to murdering the illegitimate child so Laca would marry the title character, who was impregnated by her cousin Steva. For 10 points, name this Janacek opera about a Moravian village girl.
+
+----
+num: 20
+category: Literature
+difficulty: College
+fixed: 1
+seen: 58
+answer: “{Prize Stock}” (accept “The {Catch}”)
+
+In one scene from this work two men exchange gifts of a knotweed cigarette and a dark pipe after one of them fixed the other character's artificial leg. The narrator is annoyed that one official calls him “Frog” and at the beginning of this work one character describes how he put a leather belt around his neck to protect himself while he snuck into a wolf's den to steal a puppy. At the end of this work Clerk dies in a sledding accident in which an airplane tail was used in place of a sled. The protagonist's hand is maimed when his father hacks through his palm with a hatchet to kill a man who was holding him hostage. In this story Harelip envies the narrator who has the responsibility of bringing food to a man who is being held captive in the basement of the town storehouse. For 10 points, name this story in which a Japanese village holds prisoner a black soldier whose plane crashed in the countryside, written by Kenzaburo Oe.
+
+----
+num: 20
+category: Literature
+difficulty: College
+fixed: 1
+seen: 58
+answer: “{Prize Stock}” (accept “The {Catch}”)
+
+In one scene from this work two men exchange gifts of a knotweed cigarette and a dark pipe after one of them fixed the other character's artificial leg. The narrator is annoyed that one official calls him “Frog” and at the beginning of this work one character describes how he put a leather belt around his neck to protect himself while he snuck into a wolf's den to steal a puppy. At the end of this work Clerk dies in a sledding accident in which an airplane tail was used in place of a sled. The protagonist's hand is maimed when his father hacks through his palm with a hatchet to kill a man who was holding him hostage. In this story Harelip envies the narrator who has the responsibility of bringing food to a man who is being held captive in the basement of the town storehouse. For 10 points, name this story in which a Japanese village holds prisoner a black soldier whose plane crashed in the countryside, written by Kenzaburo Oe.

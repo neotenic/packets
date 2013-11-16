@@ -1,0 +1,239 @@
+####
+tournament: Sample
+round: round10.pdf
+####
+
+num: 1
+category: Biology
+difficulty: HS
+seen: 38
+answer: Liver
+
+What human organ produces the majority of immune complement proteins?
+
+----
+num: 4
+category: Math
+difficulty: HS
+seen: 25
+answer: Cotan = 0;  Cosecant = 1
+
+Find the cotangent and cosecant, respectively, of a 90º angle:
+
+----
+num: 6
+category: General Science
+difficulty: HS
+fixed: -1
+seen: 31
+answer: 2,000  (Accept:  2 × 10^3)
+(Solution: 50 ug/0.025 Ml = 2000 Ug/ml = 2000 Ppm)
+
+A 25-microliter blood serum sample contai ns 50 micrograms of an enzyme. What is the enzyme concentration in parts per million?
+
+----
+num: 7
+category: Astronomy
+difficulty: HS
+seen: 54
+answer: Cepheid Variables
+
+What specific class of stars was discovere d by Henrietta Leavitt to have special properties that allowed it to be used in measuring long astronomical distances?
+
+----
+num: 8
+category: Biology
+difficulty: HS
+seen: 39
+answer: Pepsin
+
+Name all of the following 4 substances that would typically be considered exocrine products: insulin; pepsin; hemoglobin; epinephrine
+
+----
+num: 10
+category: Physics
+difficulty: HS
+seen: 26
+answer: 2 Times  (Accept:  2 O^ R Doubles)
+
+By what factor will the gravitational attraction between two masses be multiplied , if the distance between their centers of mass remains the same, but the mass of one doubles?^
+
+----
+num: 11
+category: Math
+difficulty: HS
+fixed: -1
+seen: 25
+answer: Leading Coefficient = –6;  Degree = 5
+
+What are the leading coefficient and degree, respectively, of the following polynomial: 3 x^2 – 6x^5 + 7
+
+----
+num: 11
+category: Math
+difficulty: HS
+seen: 26
+answer: Sin =  12
+13 ;  Cos =  −
+135
+;  Tan =  −
+512
+
+The terminal side of angle θ (read as: theta) in standard position passes through the point (–5, 12). Find the sine, cosine and tangent, in fractional form:
+
+----
+num: 14
+category: Astronomy
+difficulty: HS
+fixed: -1
+seen: 56
+answer: Upper Left
+
+Choosing from upper left, upper right, lower left, and lower right, where on the HR diagram would a blue Supergiant be found?
+
+----
+num: 15
+category: Biology
+difficulty: HS
+seen: 39
+answer: Ribose Sugars  (Accept:  Pentose Sugars or Sugars or Deoxyribose 
+Sugars)
+
+What is the common name for the units in DNA to which phosphates are covalently linked?
+
+----
+num: 17
+category: Physics
+difficulty: HS
+fixed: -1
+seen: 25
+answer: –392  (Must Give Negative Value)  (Accept:  392 Joules Less)
+(Solution:  E = Mgδh = 10kg × 9.8 × (–4) = –392 Joules)
+
+A 10-kilogram hay bale is raised to 5 meters above a barn floor and is then lowered to 4 meters below the floor. Relative to its starting position on the floor, what is the final gravitational potential energy of the bale, in joules, if g is rounded to the first decimal place?
+
+----
+num: 18
+category: Math
+difficulty: HS
+seen: 25
+answer: Hyperbola
+
+Identify the type of conic section represented by the equation, x^2 – 16y^2 = 64:
+
+----
+num: 18
+category: Math
+difficulty: HS
+fixed: -1
+seen: 24
+answer: 720
+(Solution:  La = (P)(h) = (8+10+12+14+16)(12) = 720 Mm^2)
+
+Giving your answer in millim eters squared, find the lateral surface area of a right pentagonal prism whose altitude is 12 millimeters and base has sides of length 8, 10, 12, 14, and 16 millimeters, respectively:
+
+----
+num: 20
+category: General Science
+difficulty: HS
+seen: 31
+answer: Ozone  (Accept:  O^3)
+
+When emissions of nitrogen oxides and VOC’s react in the presence of sunlight, what ground -level pollutant is formed?
+
+----
+num: 21
+category: Astronomy
+difficulty: HS
+seen: 55
+answer: Jupiter;  Saturn
+
+What 2 planets of our solar system are most alike in elemental makeup to the solar nebul a?
+
+----
+num: 21
+category: Astronomy
+difficulty: HS
+seen: 55
+answer: B-7;  K-2;  K-3;  M-10
+
+Order the following 4 stars from the HOTTEST to the 
+COOLEST: K -3; K-2; B-7; M-10
+
+----
+num: 22
+category: Biology
+difficulty: HS
+seen: 39
+answer: Tubulin  (Accept:  Alpha And/or Beta Tubulin)
+
+What is the specific type of p rotein from which spindle fibers are composed?
+
+----
+num: 22
+category: Biology
+difficulty: HS
+seen: 39
+answer: Toxoplasmosis
+
+Name all of the following 4 diseases that are caused by protists: botulism; rabies; typhoid fever; toxoplasmosis
+
+----
+num: 23
+category: Chemistry
+difficulty: HS
+seen: 34
+answer: Hydration
+
+What is the most common term for the direct addition of water to an alkene (read as: al-KEEN) to make an alcohol?
+
+----
+num: 23
+category: Chemistry
+difficulty: HS
+seen: 35
+answer: 30
+(Solution:  P
+^1v^1 = P^2v^2;  (120 Kpa)(2l) = (P^2)(8l);  = 30 Kpa)
+
+Under constant temperatures, a sample of gas at a pressure of 120 kilopascals is allowed to expand from 2 liters to 8 liters. Calculate the new pressure, in kilopascals:
+
+----
+num: 24
+category: Physics
+difficulty: HS
+seen: 26
+answer: Electromagnetic (Force)
+
+Which of the 4 basic forces of the universe is most directly related to the ability of various metals to be hammered and formed into various shapes?
+
+----
+num: 24
+category: Physics
+difficulty: HS
+fixed: -1
+seen: 26
+answer: 338 Meters Per Second  (Must Give Units)
+(Solution:  0.6 × 12 + 331 = 338.2 M/s)
+
+Given that the speed of sound at 0ºC at sea level in dry air is 331 meters per second, what is the speed of sound through dry air at sea level, giving your answer in proper SI units rounded to the nearest whole number, if the temperature of the air is 12 °C?
+
+----
+num: 25
+category: Biology
+difficulty: HS
+seen: 39
+answer: I ^Ge  (Accept:  E or Immunoglobulin E)
+
+What class of immunoglobulins is most directly responsible for hay fever and common allergies in humans?
+
+----
+num: 25
+category: Biology
+difficulty: HS
+fixed: -1
+seen: 38
+answer: Plasma Cells;  Lymphocytes;  Neurons
+(Accept:  All but  Erythrocytes)
+
+Name all of the following 4 cells that typically possess mitochondria: erythrocytes; plasma cells; lymphocytes; neurons

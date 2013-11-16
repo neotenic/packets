@@ -1,0 +1,392 @@
+####
+tournament: #6641
+round: Show #6641 - Monday, July 1, 2013
+year: 2013
+date: 2013-07-01
+####
+
+num: 1
+category: Art
+difficulty: 200
+seen: 4
+answer: van Gogh
+
+He made a fine post-impressionism on us: VVG.
+
+----
+num: 2
+category: History
+difficulty: 200
+seen: 5
+answer: the Space Needle
+
+This 605-foot Seattle landmark opened on the first day of the 1962 World's Fair.
+
+----
+num: 3
+category: Trash
+difficulty: 200
+seen: 5
+answer: (David) Beckham
+
+Posh Spice said, "Mr. Snoopy, you're not taking my husband out", but this man & Snoop Dogg became buddies anyway.
+
+----
+num: 4
+category: Literature
+difficulty: 200
+seen: 4
+answer: right field
+
+Position played by Hank Aaron & Babe Ruth.
+
+----
+num: 5
+category: Mythology
+difficulty: 200
+seen: 12
+answer: a screen door
+
+Spring hinges are used on these mosquito-foiling doors.
+
+----
+num: 6
+category: Art
+difficulty: 400
+seen: 4
+answer: Grandma Moses
+
+She was never too old to paint: really AMRM, but known as GM.
+
+----
+num: 7
+category: History
+difficulty: 400
+seen: 3
+answer: the Leaning Tower of Pisa
+
+In 2001 it reopened after its foundation was stabilized & straightened about 15 inches to prevent collapse.
+
+----
+num: 8
+category: Trash
+difficulty: 400
+seen: 5
+answer: Bill Belichick
+
+In 2009 Jon Bon Jovi got his pal, this Patriots head coach, to take the stage & belt out "Wanted Dead or Alive".
+
+----
+num: 9
+category: Literature
+difficulty: 400
+seen: 4
+answer: a right whale
+
+The lack of a dorsal fin characterizes this member of the balaenidae family.
+
+----
+num: 10
+category: Art
+difficulty: 600
+seen: 4
+answer: (James) Whistler
+
+To call him, just put your lips together & blow: JW.
+
+----
+num: 11
+category: History
+difficulty: 600
+seen: 4
+answer: Boston
+
+In 2009 this city's 60-story John Hancock Tower sold for 8660 million in a foreclosure auction.
+
+----
+num: 12
+category: Literature
+difficulty: 600
+seen: 4
+answer: "You have the right to remain silent."
+
+If you're read your Mirandas, this is the first line you'll hear.
+
+----
+num: 13
+category: Mythology
+difficulty: 600
+seen: 13
+answer: a springbok
+
+South Africa's national Rugby team is named for this antelope that springs about.
+
+----
+num: 14
+category: Art
+difficulty: 800
+seen: 4
+answer: John Singer Sargent
+
+Salute this American painter of the Edwardian age: JSS.
+
+----
+num: 15
+category: History
+difficulty: 800
+seen: 5
+answer: Nelson
+
+His London "column", including his statue by E.H. Baily, was completed in 1843.
+
+----
+num: 16
+category: Trash
+difficulty: 800
+seen: 4
+answer: (Roger) Federer
+
+Come on, Vogue! Anna Wintour has given fashion advice to this Wimbledon-winning Swiss guy pal.
+
+----
+num: 17
+category: Literature
+difficulty: 800
+seen: 4
+answer: Right Reverend
+
+This form of address is used for abbots, Anglican bishops & other prelates.
+
+----
+num: 18
+category: Mythology
+difficulty: 800
+seen: 12
+answer: a wristwatch
+
+The omega brand of this accessory boasts of its tiny but critical silicon balance spring.
+
+----
+num: 19
+category: Art
+difficulty: 1000
+seen: 4
+answer: de Kooning
+
+He was a man of action (painting): W de K.
+
+----
+num: 20
+category: Literature
+difficulty: 1000
+seen: 4
+answer: Right to Life
+
+This national committee was founded in 1968, 5 years before the Roe V. Wade decision it opposes.
+
+----
+num: 21
+category: Mythology
+difficulty: 1000
+seen: 12
+answer: a dragon
+
+In Greek myth cadmus sowed the teeth of this creature, & they sprang up as armed men.
+
+----
+num: 22
+category: History
+difficulty: 400
+seen: 5
+answer: Genghis Khan
+
+When he died in 1227, he passed on to his children land that extended from Beijing to the Caspian Sea.
+
+----
+num: 23
+category: Geography
+difficulty: 400
+seen: 8
+answer: Jamaica
+
+One love, people! The white sand beaches of Montego Bay await you on this country's northern coast.
+
+----
+num: 24
+category: Literature
+difficulty: 400
+seen: 4
+answer: Joan Jett
+
+"I Love Rock 'N Roll", "I Hate Myself for Loving You".
+
+----
+num: 25
+category: History
+difficulty: 400
+seen: 4
+answer: major
+
+In the U.S. Army: second lieutenant, first lieutenant, captain...
+
+----
+num: 26
+category: Literature
+difficulty: 400
+seen: 4
+answer: Cleopatra
+
+About this queen, Shakespeare wrote, "age cannot wither her, nor custom stale her infinite variety".
+
+----
+num: 27
+category: Literature
+difficulty: 400
+seen: 4
+answer: pest/step
+
+A spider in my house is a real ____, but my wife won't let me ____ just on it.
+
+----
+num: 28
+category: History
+difficulty: 800
+seen: 4
+answer: the Medicis
+
+4 popes came from this Italian renaissance family, starting with Leo X, formerly Giovanni de'.
+
+----
+num: 29
+category: Geography
+difficulty: 800
+seen: 7
+answer: Tobago
+
+In 1632 the Dutch settled on this island, about 20 miles northeast of Trinidad.
+
+----
+num: 30
+category: Literature
+difficulty: 800
+seen: 4
+answer: AC/DC
+
+"Back in Black", "Moneytalks".
+
+----
+num: 31
+category: Literature
+difficulty: 800
+seen: 4
+answer: "fountain of age"
+
+Betty Friedan wrote, "to keep... life-giving ties alive...is our" this, the opposite of Ponce de Leon's legendary quest.
+
+----
+num: 32
+category: Literature
+difficulty: 800
+seen: 4
+answer: dawn/wand
+
+____ had just broken when Timmy woke up, eager to play with his magic ____.
+
+----
+num: 33
+category: History
+difficulty: 1200
+seen: 4
+answer: Jerry Buss
+
+This owner's death in 2013 left his kids Jim & Jeanie in charge of the L.A. Lakers.
+
+----
+num: 34
+category: Geography
+difficulty: 1200
+seen: 8
+answer: the Virgin Islands
+
+St. Thomas in these islands was the birthplace of Camille Pissarro.
+
+----
+num: 35
+category: Literature
+difficulty: 1200
+seen: 5
+answer: The Foo Fighters
+
+"The Pretender, "Times Like These".
+
+----
+num: 36
+category: Literature
+difficulty: 1200
+seen: 4
+answer: you\'re getting better
+
+A Clairol slogan proclaimed, "you're not getting older, you're" doing this.
+
+----
+num: 37
+category: Geography
+difficulty: 1600
+seen: 8
+answer: St. Martin
+
+In 1648 the French & the Dutch agreed to share this "saintly" 34-square-mile island.
+
+----
+num: 38
+category: Literature
+difficulty: 1600
+seen: 5
+answer: Kiss
+
+"Christine Sixteen", "Shout It Out Loud".
+
+----
+num: 39
+category: History
+difficulty: 1600
+seen: 4
+answer: Polk
+
+Hail to the next chief: van Buren, Harrison, Tyler...
+
+----
+num: 40
+category: History
+difficulty: 2000
+seen: 6
+answer: the Rothschilds
+
+This banking family of German-Jewish descent helped the British buy part of the Suez Canal.
+
+----
+num: 41
+category: Geography
+difficulty: 2000
+seen: 13
+answer: St. Kitts
+
+The peak that forms much of this partner of Nevis is mount misery; with an average temperature of 80, sounds rough.
+
+----
+num: 42
+category: Literature
+difficulty: 2000
+seen: 6
+answer: The Killers
+
+"Somebody Told Me", "When You Were Young".
+
+----
+num: 43
+category: Literature
+difficulty: 2000
+seen: 6
+answer: (Robert) Browning
+
+This 19th century English poet penned the line "grow old along with me, the best is yet to be".

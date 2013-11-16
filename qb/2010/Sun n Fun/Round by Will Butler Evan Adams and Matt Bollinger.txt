@@ -1,0 +1,254 @@
+####
+tournament: Sun n Fun
+round: Round by Will Butler Evan Adams and Matt Bollinger.docx
+year: 2010
+####
+
+num: 1
+category: Science
+difficulty: College
+fixed: None
+seen: 80
+answer: {buffer overflow} [accept {buffer overrun}; prompt on {code injection}; prompt on {overflow}; accept {stack smashing}]
+
+Lam and Ruwase developed a dynamic approach to stop this from occurring called CRED. Utilizing one of these often involves a NOP sled and one common method of stopping their use places a randomized canary values to be checked in the prologue and epilogue. Recent advances in countering them include instruction set and address space randomization. They commonly involve functions like scanf and strcpy, which are found in C. They are common in languages that do not do bounds-checking on arrays. For 10 points, name this type of flaw in a computer program where data is written beyond the intended boundary of a data structure and are a common source of security vulnerabilities.
+
+----
+num: 2
+category: Literature
+difficulty: College
+fixed: None
+seen: 61
+answer: {Louis MacNeice}
+
+In one of this man's poems, the smell of the title substance reminds a man of “the big/house he visited when he was eight,” but “the mallet slipped long since from the hands…that are not the hands of a child.” This author of “Soap Suds” wrote, “Let them not make me a stone and let them not spill me/otherwise kill me” in a poem that begins “I am not yet born; O hear me.” One of this man's comic poems begins by asserting, “It's no go the merry-go-round, it's no go the rickshaw.” For 10 points, name this author of “Prayer Before Birth” and “Bagpipe Music,” an Irish poet who was friends with W.H. Auden and Stephen Spender.
+
+----
+num: 3
+category: Mythology
+difficulty: College
+fixed: 57
+seen: 110
+answer: {Inti}
+
+This god absorbed attributes from the earlier god Coniraya and from Tutujanawin. Chasca is his attendant and he is served by Cuichu, a rainbow god who is associated with a site important in his worship. He imparted power to people through lines known as ceques and acllas were maidens that were sacrificed to him. The raymi, or festival, dedicated to this god sees him symbolically tied to a post and is held in June.  He is the father of the Ayar brothers, and in one story he sends his children to Earth to help people and tells them to plant a golden rod in the ground to start a city.  He was the primary god worshiped in the Coricancha, where mummies surround a depiction of him consisting of a golden disk.  For 10 points, name this husband of Pachamama and son of Viracocha, the Incan sun god.
+
+----
+num: 4
+category: Fine Arts
+difficulty: College
+fixed: 57
+seen: 69
+answer: Carl {Nielsen}
+
+This man never wrote more than one movement for his first attempt at a symphony entitled, Symphonic Rhapsody for Orchestra. This composer included “Dance of the Prisoners”, “The Festival March”, and “The Marketplace at Isaphan” in his Aladdin Suite. During this man's psychological period he composed the cantata Hymnus amoris and the opera Saul and David.  He adapted a work of Holberg for his other opera, Maskarade.  After the sinking of the Titanic, this man composed a Paraphrase on Nearer my God to Thee, while his 3rd symphony begins with an allegro espansivo movement. This man's 6th and 2nd symphonies are entitled Semplice and The Four Temperaments respectively. For 10 points, name this Danish composer of The Inextinguishable.
+
+----
+num: 5
+category: Science
+difficulty: College
+fixed: 57
+seen: 81
+answer: {Mach} number
+
+The actual pressure coefficient is equal to the low velocity pressure coefficient divided by the square root of one minus this value squared according to the Prandtl-Glauert rule. When the local value of this approaches unity, the freestream value of it, is termed critical. When this number is equal to one at a nozzle, choked flow can occur and when it's less than 0.3, the flow is considered incompressible. This is equal to the velocity of the flow divided by the square root of the product of RT and the ratio of the specific heats at constant pressure and volume respectively. That denominator simplifies to the speed of sound in the medium, meaning this value is the ratio of velocity to the speed of sound. For 10 points, name this number that is greater than one for supersonic velocities.
+
+----
+num: 6
+category: History
+difficulty: College
+fixed: None
+seen: 71
+answer: {Choson} [or {Joseon}; accept {Yi} before {Ye Song}-{gye} is mentioned]
+
+Prince Sado of this dynasty was executed by being shut in a rice box, and its cloth tax was decreased by the Kyunyok Law. It suffered the Imo mutiny and signed the Treaty of Ganghwa. Revolts towards the end of its rule included Kyong-nae's Rebellion and the Donghak Uprising, but its decline really began with the assassination of Queen Min. The ruling elite during this dynasty were known as the Yangban, and it was founded by Yi Song-gye. It employed the kobukson designed by Admiral Yi Sin-sin to fight off Japanese invasions, also known as turtle ships. King Sejong introduced Hangul in this dynasty. For 10 points, name this dynasty which succeeded the Koryo, the longest lasting dynasty of Korea.
+
+----
+num: 7
+category: Philosophy
+difficulty: College
+fixed: 57
+seen: 53
+answer: Johann Gottlieb {Fichte}
+
+Considering the social contract, this man proposed the Staatsburgervertag as a worldly manifestation of the Rechtslehre, or “doctrine of right.' This thinker argued that man discovers his own limitations in his conception of the Anstoss, or “check.” This man proposed that the system of philosophy one chooses depends on the type of person one is in distinguishing between his own philosophy and dogmatism. This thinker proposed the “self-positing of the I” as the foundation of his worldview, the Wissenschaftslehre. In another work, this man argued that laws contrary to morality cannot be the creations of a divine being; that work was published without his name, leading it to be attributed to Kant. For 10 points, name this author of An Attempt at a Critique of All Revelation, a German idealist.
+
+----
+num: 8
+category: Literature
+difficulty: College
+fixed: None
+seen: 60
+answer: {Confessions} of a {Mask} [or {Kamen no kokuhaku}]
+
+The narrator of this novel receives a postcard decorated with a Little Red Riding Hood cartoon. After a forehead injury, the main character has experiences of appearing to be dead but then would come back to life after peeing; he later suffers from amnesia and daydreams about murder.  He remembers the night-soil man, the Joan of Arc picture book, the odor of sweat, and the carrying of the shrine. That character has a sexual encounter with a painting of St. Sebastian and becomes fixated with the armpits of Omi.  He almost marries Sonoko and goes to a brothel whereupon he hopes to die in a B-29 bombing raid. For 10 points, name this novel in which Kochan metaphorically hides behind the titular item, written by Yukio Mishima.
+
+----
+num: 9
+category: History
+difficulty: College
+fixed: 1
+seen: 72
+answer: United States Presidential {Election} of {1880}
+
+A political cartoon from this election depicts one person who failed to become Republican nominee as a giant magnet attracting items including leaches, which represent political machines. A campaign manager, named Wharton Barker, was told to arrange a spontaneous ovation every time he entered the assembly. One of the conventions took 36 ballots and Thomas Bayard was second at the DNC in Cleveland.  One major party candidate was attacked in the general election by the forged Morrey letter and 3rd party candidates included Neal Dow of the Prohibition Party and the Greenback's James Weaver. William English was the Dems' V.P. Candidate and Chester Arthur was the Republican's. For 10 points, identify this election where Winfield Hancock lost to James Garfield.
+
+----
+num: 10
+category: Science
+difficulty: College
+fixed: -1
+seen: 79
+answer: {carbene} [accept {Fischer carbene} before “{high oxidation states}”]
+
+One approach to synthesizing this compound was described by Hegedus and Semmelhack. The reaction for one type of these with alkynes to yield alkoxyphenols was discovered by Karl Dötz and is better known as a benzannulation reaction. One classical way of making these is done by conducting a nucleophilic addition of an organolithium compound to a metal carbonyl and then treating with a trialkyloxonium salt. This compound can be found in Grubb's catalyst and those with high oxidation states and an unpaired triplet state are named for Schrock, which contrast with those named for Fischer. For 10 points, name these organic compounds with a divalent carbon atom that has only six valence electrons.
+
+----
+num: 11
+category: Literature
+difficulty: College
+fixed: 57
+seen: 60
+answer: {Erewhon}
+
+One character in this novel dreams about an organ “like a golden city upon the side of a mountain” and is told that “it is Handel.” Later, that character is involved in a balloon crash, but is rescued by captain Giovanni Gianni. That character runs into problems marrying his love, because her elder daughter Zulora must marry first. A watch is confiscated because the people who have seemingly swapped the ideas of illness and crime also believe that machines would evolve and take over. The main character marries the daughter of Nosnibor, Arowhena after escaping over the mountains from the land he set off with Chowbok. For 10 points, name this Samuel Butler novel centering on Higgs's travels to the titular satire of Victorian England.
+
+----
+num: 12
+category: History
+difficulty: College
+fixed: 57
+seen: 70
+answer: {Bavaria}
+
+One period of this polity's history is known as the Prince Regent Years because Prince Luitpold was forced into power by the madness of his nephew Otto. This polity was restored by the Treaty of Baden after Maximilian II Emanuel's decision to join the French at Blenheim led to its elimination in the Treaty of Ilbersheim. In this region, Anton Arco-Valley assassinated Kurt Eisner, who had set up a republic here in 1918. After Charles Theodore allowed Austria to annex much of this state, Frederick the Great of Prussia forced a return to the status quo at the Treaty of Teschen. Its first king named Ludwig had a dalliance with Lola Montez and its second Ludwig built the castle Neuschwanstein and patronized Wagner. For 10 points, name this German state which hosted the Beer Hall Putsch in its capital Munich.
+
+----
+num: 13
+category: Social Science
+difficulty: College
+fixed: None
+seen: 51
+answer: Daniel {Kahneman}
+
+With Jackson Beatty, this psychologist discovered that when students listened to numbers they had to memorize, their pupils dilated, and contracted when reciting the digits. Along with a common co-author he proposed a problem testing people's understanding of Bayes theorem called the cab problem, and explored the occurrence of people giving special weight to a particular probability called the certainty effect.  This lead to his most famous theory, which is expanded upon in Choice, Values, and Frames. It comes out of the Allais paradox and says that decisions have editing and evaluation phases. That theory supersedes expected utility theory and predicts that people will be risk seeking during losses.  For 10 points, name this man who with Amos Tversky proposed prospect theory.
+
+----
+num: 14
+category: Geography
+difficulty: College
+fixed: 1
+seen: 129
+answer: Republic of {Seychelles}
+
+An important dance from this country, the moutya, is related to a music and dance style more common in its part of the world, the sega. It is home to jellyfish trees and the Coco de Mer species of palm tree. Esmerelda, possibly the world's oldest tortoise, is a member of this nation's Aldabra giant tortoise. Pirate Jean François Hodoul is said to have buried a treasure on this country's Silhouette Island. This nation's first president was James R. Mancham, and the Vallée de Mai nature reserve is located on the island of Praslin. This nation's people speak a creole called Seselwa and its largest island is Mahé. For 10 points, name this island nation with a capital of Victoria, located in the Indian Ocean-north of Madagascar.
+
+----
+num: 15
+category: Science
+difficulty: College
+fixed: None
+seen: 79
+answer: {riboswitch} [prompt on {aptamer} before mentioned]
+
+Abreu-Goodger and Merino devised the most prominent software for detecting these structures that can come in “tuning fork” arrangements. The proposed moco and tuco examples bind to metal containing components and one associated with the B. subtilis glycine cleavage operon has both type I and II components that act cooperatively. They are associated with TH1 box binding to TPP and thus can regulate thiamine biosynthesis. These structures with an expression platform and a natural aptamer are found in the 5' UTR and work by the formation of a stem loop that either stops transcription via terminator loops or prevents transcription by hiding the Shine-Delgarno sequence. For 10 points, name this form of gene regulation in bacteria where the mRNA binds a metabolite and thus turns on or off the expression that mRNA.
+
+----
+num: 16
+category: Literature
+difficulty: College
+fixed: 1
+seen: 61
+answer: Jean {Toomer}
+
+In one of this author's stories, the titular girl is inspired and later disillusioned by the charismatic King Barlo. This author wrote about a “dynamic atom aggregate” in an 835-line poem ending, “Let the big light in!” In another of this man's short stories, Bob Stone carries on an affair with Louisa, but finds him with Tom Burwell, who kills him and is lynched. This man wrote a play in which Ralph returns from New York to teach in the South, but needs help from Fred Halsey and the former slave Father John.  This author collected “Blood-Burning Moon” and “Kabnis” in a volume of African-American poetry, stories, and plays. For 10 points, name this Harlem Renaissance author of Cane.
+
+----
+num: 17
+category: Fine Arts
+difficulty: College
+fixed: 57
+seen: 71
+answer: {Berlin}
+
+Oscar Niemeyer, Arne Jacobsen, and Alvar Aalto, helped to design an experimental housing project in this city for a 1957 Building Exhibition. In addition to the Interbau this city is home to and the namesake of a sculpture by Brigitte and Martin Matschinsky which depicts a giant stainless steel broken chain. This city's tallest building appears to display a cross when hit directly by the sun, a phenomenon known as the “Pope's Revenge.” One monument here consists of a concrete slab for each page of the Talmud, titled “Memorial to the Murdered Jews of Europe.” It also contains a zigzag shaped Jewish museum designed by Daniel Libeskind and a government building here had a glass dome added by Norman Foster. For 10 points, name this home of the Brandenburg Gate and the Reichstag.
+
+----
+num: 18
+category: History
+difficulty: College
+fixed: 57
+seen: 72
+answer: Treaty of {London}
+
+The failures of one treaty at this location caused the Treaty of Bucharest to be negotiated only three months later after another war broke out. That treaty declared Albania an independent state and ended the First Balkan War. An 1841 convention negotiated in this location closed the Dardanelles and the Bosporus to all warships. An 1867 treaty signed here called for the destruction of the fortifications of the so called “Gibraltar of the North” and solved the Luxembourg Crisis. A charter here provided the legal basis for the Nuremberg trials, and an 1839 treaty named for this city commanded all its signatories to guard the newly independent Belgium. This city also names a 1930 follow-up to the Washington Naval Conference. For 10 points, name this treaty hub and English city.
+
+----
+num: 19
+category: Literature
+difficulty: College
+fixed: None
+seen: 57
+answer: The {Trickster} of {Seville}
+
+In this work, two characters discuss Constance, who was called “old” by a Portuguese man, but thought he meant “pretty.” At the end of this work, the title character is served a dish of tarantulas and vipers with wine made of vinegar and ice. The title character of this work puts on the cape of the Marques de la Mota and takes the places of Batricio and Don Octavio. Accompanied by his reluctant servant Catalinon, the title character betrays the lower-class women Tisbea and Aminta. At this play's climax, Don Gonzalo punishes the title character for his deceptions by dragging him to hell. For 10 points, name this drama about the playboy Don Juan, written by Tirso de Molina.
+
+----
+num: 20
+category: Fine Arts
+difficulty: College
+fixed: -1
+seen: 69
+answer: {nativity}
+
+The Master of Hohenfurth's depiction of this scene shows an angel holding a replica of gothic church in the lower right and two servants pouring water into a bucket at the bottom. Geertgen tot Sint Jans is best known for painting a miniscule hovering angel in his version of this scene “at night.” Many versions of this scene contain the characters Zelomi and Salomè, who were banned by the Council of Trent. This scene is at the center of Rogier van der Weyden's Middelburg Altarpiece. The church of this name contains the “Door of Humility” and the Chapel of St. Jerome. Botticelli depicted a choir of twelve angels dangling crowns over it in his “mystical” version. For 10 points, name this scene which is often paired with the “Adoration of the Magi” and generally includes a manger.
+
+----
+num: 21
+category: History
+difficulty: College
+fixed: 1
+seen: 70
+answer: Sir Edward Richard George "Ted" {Heath}
+
+This man's prolonged bitterness at being replaced at the head of his party was called “the longest sulk in history.” He presided over the decimalization of the currency and replaced the “selective employment tax” of his predecessor with the “value added tax” that survives today. As opposition leader, it was he who sacked Enoch Powell from the shadow government. He asked “Who governs Britain?” and called for a snap election attacking Joe Gormley of the National Union of Mineworkers for a strike which had forced him to implement the Three-Day Week. He defeated his eventual successor Harold Wilson in a surprise election, and this leader brought the UK into the European Community in 1973. For 10 points, name this Conservative Prime Minister.
+
+----
+num: 22
+category: Science
+difficulty: College
+fixed: None
+seen: 82
+answer: {urea} cycle [accept {ornithine cycle} before mentioned]
+
+Sodium phenylburate is often used to treat suffers of disorders of this pathway. Defects in transporters found in this pathway can lead to HHH syndrome and Lysinuric Protein Intolerance. N-acetylglutamate is an allosteric activator of a key enzyme in this pathway. Aspartate and Citrullyl-AMP are used in one step of this reaction to form arginosuccinate.  Like a connected pathway, fumarate is a byproduct of this reaction. In the mitochondria, citrulline is formed using a transcarbamoylase. Two amino acids that are part of this pathway are arginine and ornithine, and this cycle is sometimes named for the later. This cycle allows the body to deal with overconsumption of protein. For 10 points, name this cycle which generates a namesake compound allows the body to remove excess nitrogen.
+
+----
+num: 23
+category: Trash
+difficulty: College
+fixed: 57
+seen: 189
+answer: Dante's {Inferno}
+
+In this game, finding Attila's Armor allows you to complete combos uninterrupted even if enemies block them. The “Poetry in Motion” achievement can be won by executing a combo worth 666. At one point, the protagonist of this game fights his obese father who wields a giant metal cross, and winning that fight earns one of the thirty-one relics that can be found. Bosses in this game include Semiramis, Francesco, and a tag team of Cleopatra and Marc Antony. This game follows a crusader who sews a cross shaped tapestry onto his chest and takes a scythe from Death before travelling through nine circles of hell to reclaim the soul of his lover, Beatrice Portinari. For 10 points, name this 2010 game named for the first section of the Divine Comedy.
+
+----
+num: 23
+category: Trash
+difficulty: College
+fixed: 57
+seen: 185
+answer: Dante's {Inferno}
+
+In this game, finding Attila's Armor allows you to complete combos uninterrupted even if enemies block them. The “Poetry in Motion” achievement can be won by executing a combo worth 666. At one point, the protagonist of this game fights his obese father who wields a giant metal cross, and winning that fight earns one of the thirty-one relics that can be found. Bosses in this game include Semiramis, Francesco, and a tag team of Cleopatra and Marc Antony. This game follows a crusader who sews a cross shaped tapestry onto his chest and takes a scythe from Death before travelling through nine circles of hell to reclaim the soul of his lover, Beatrice Portinari. For 10 points, name this 2010 game named for the first section of the Divine Comedy.
+
+----
+num: 24
+category: Religion
+difficulty: College
+fixed: None
+seen: 74
+answer: {St. Juan Diego} [prompt on partial answer]
+
+While addressing a certain figure, this man humbly called himself a “nobody,” a “small rope, a tiny ladder, the tail end, a leaf.” This man almost delayed his holy task after being told that his uncle was dying, but was divinely reassured that his uncle had been saved. On his daily routine, this man saw a shining cloud with a rainbow around it above a hill now called the “Capilla del Cerrito.” John Paul II's canonization of this man was controversial since his historical authenticity is debated. After finding Castilian roses growing in barren soil, this man brought them to his bishop, who was awed by the image of Mary emblazoned on this man's cloak. For 10 points, name this indigenous Mexican to whom the Virgin of Guadalupe appeared.

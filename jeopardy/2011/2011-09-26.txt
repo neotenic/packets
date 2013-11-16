@@ -1,0 +1,348 @@
+####
+tournament: #6211
+round: Show #6211 - Monday, September 26, 2011
+year: 2011
+date: 2011-09-26
+####
+
+num: 1
+category: Literature
+difficulty: 200
+seen: 4
+answer: Copernicus
+
+His notion that the Sun was the center of the solar system was published in 1543.
+
+----
+num: 2
+category: History
+difficulty: 200
+seen: 6
+answer: the Bay of Pigs
+
+'s a Cuban soldier standing on a U.S. B-26 in the aftermath of this failed April 1961 operation.
+
+----
+num: 3
+category: Literature
+difficulty: 200
+seen: 4
+answer: Uncle Sam
+
+This symbol of the United States is derived from 2 earlier symbolic folklore figures--Brother Jonathan & Yankee Doodle.
+
+----
+num: 4
+category: Literature
+difficulty: 200
+seen: 4
+answer: a bull
+
+In a beloved children's tale, Ferdinand is one of these.
+
+----
+num: 5
+category: History
+difficulty: 200
+seen: 5
+answer: (Bill) Gates
+
+In 2011 he was no longer the world's richest person--only because he gave $28 billion to his foundation.
+
+----
+num: 6
+category: Literature
+difficulty: 400
+seen: 4
+answer: Newton
+
+In the shade of apple trees with William Stukeley, he said it was just like when the notion of gravity came to him.
+
+----
+num: 7
+category: Literature
+difficulty: 400
+seen: 4
+answer: Aunt Jemima
+
+In 1970 Quaker introduced this woman's Complete Pancake & Waffle Mix.
+
+----
+num: 8
+category: Literature
+difficulty: 400
+seen: 4
+answer: twins
+
+Mary-Kate & Ashley Olsen, Robin & Maurice Gibb.
+
+----
+num: 9
+category: History
+difficulty: 400
+seen: 4
+answer: Walmart
+
+The bulk of the holdings of No. 10, Christy Walton, the world's richest woman, are in this company.
+
+----
+num: 10
+category: Literature
+difficulty: 600
+seen: 4
+answer: the domino theory
+
+In this theory Truman thought a nation's fall to communism would cause neighboring nations to follow suit.
+
+----
+num: 11
+category: History
+difficulty: 600
+seen: 4
+answer: citizens of Washington, D.C.
+
+The 23rd Amendment, giving these people the right to vote, was ratified March 29, 1961.
+
+----
+num: 12
+category: Literature
+difficulty: 600
+seen: 3
+answer: RAM
+
+Microsoft recommends that your computer have at least 1 gigabyte of this to run Windows 7.
+
+----
+num: 13
+category: History
+difficulty: 600
+seen: 4
+answer: Warren Buffett
+
+This Omahan, third on the list, said, "The asset I most value, aside from health, is... friends".
+
+----
+num: 14
+category: History
+difficulty: 800
+seen: 4
+answer: Eichmann
+
+This Nazi captured in Argentina was sentenced to death in Jerusalem on December 15.
+
+----
+num: 15
+category: Literature
+difficulty: 800
+seen: 4
+answer: Old Mother Hubbard
+
+After a starving dog faked his own death, this nursery rhyme woman "went to the alehouse to get him some beer".
+
+----
+num: 16
+category: Literature
+difficulty: 800
+seen: 4
+answer: an archer
+
+William Tell proved himself an able one of these.
+
+----
+num: 17
+category: History
+difficulty: 800
+seen: 4
+answer: Koch
+
+Big in conservative politics, Charles & David are brothers with this last name & are ranked 18 & 19.
+
+----
+num: 18
+category: History
+difficulty: 1000
+seen: 4
+answer: Yuri Gagarin
+
+In April he orbited the Earth once.
+
+----
+num: 19
+category: Literature
+difficulty: 1000
+seen: 4
+answer: Father Damien
+
+He did his great missionary work after going to Hawaii in 1863 as a substitute for the ailing Father Pamphile.
+
+----
+num: 20
+category: Literature
+difficulty: 1000
+seen: 4
+answer: a goat
+
+Chevre is cheese made from its milk.
+
+----
+num: 21
+category: History
+difficulty: 1000
+seen: 4
+answer: Las Vegas
+
+$23.3 billion gets Sheldon Adelson to No. 16; his $1.9 billion Palazzo resort opened in this city in 2007.
+
+----
+num: 22
+category: Literature
+difficulty: 400
+seen: 3
+answer: buttons
+
+Collectors of these proverbially "cute" items from the notions counter should get a copy of "The Big Book of" them.
+
+----
+num: 23
+category: Science
+difficulty: 400
+seen: 6
+answer: X-rays
+
+CAT scans use this type of electromagnetic radiation, albeit at low doses.
+
+----
+num: 24
+category: Social
+difficulty: 400
+seen: 4
+answer: psych up
+
+Motivational directional term meaning to prepare for an activity by getting excited.
+
+----
+num: 25
+category: History
+difficulty: 400
+seen: 4
+answer: San Diego
+
+Noted for its zoo, this city 15 miles north of Tijuana is often called the "Birthplace of California".
+
+----
+num: 26
+category: Literature
+difficulty: 800
+seen: 4
+answer: needles
+
+Until about the 15th century, these had no eyes.
+
+----
+num: 27
+category: Science
+difficulty: 800
+seen: 5
+answer: lead
+
+OK, Mom, you can stay while we give Timmy his CAT scan, but for safety wear an apron usually made from this metal.
+
+----
+num: 28
+category: Social
+difficulty: 800
+seen: 4
+answer: psychedelic
+
+A type of far out 1960s music, or the class of drugs that inspired it.
+
+----
+num: 29
+category: History
+difficulty: 800
+seen: 4
+answer: (Fort) McHenry
+
+This fort is the "Birthplace of the Star-Spangled Banner".
+
+----
+num: 30
+category: Literature
+difficulty: 1200
+seen: 4
+answer: ribbon
+
+The curling type of this is sold on spools & adds flair to gift wrapping.
+
+----
+num: 31
+category: Science
+difficulty: 1200
+seen: 5
+answer: dye
+
+The scan process may include injecting you with contrast, a type of this 3-letter liquid similar to ink.
+
+----
+num: 32
+category: Social
+difficulty: 1200
+fixed: -1
+seen: 4
+answer: psychoanalysis
+
+In 1896 Sigmund Freud coined this term for how he treated patients for mental illness.
+
+----
+num: 33
+category: History
+difficulty: 1200
+seen: 4
+answer: Dayton
+
+This Ohio city that was home to the Wright Brothers is considered the "Birthplace of Aviation".
+
+----
+num: 34
+category: Science
+difficulty: 1600
+seen: 6
+answer: osteoporosis
+
+Excuse me, madame, it's time to use the CAT scan to measure your bone mineral density to see if you have this 12-letter condition.
+
+----
+num: 35
+category: History
+difficulty: 1600
+seen: 5
+answer: Rhode Island
+
+For its early cotton mill, Pawtucket in this state is the birthplace of "the Amer. Industrial Revolution".
+
+----
+num: 36
+category: Literature
+difficulty: 2000
+seen: 6
+answer: beads
+
+For a puberty ritual, a girl in Ghana wears kente cloth & may be adorned with 50 pounds of these.
+
+----
+num: 37
+category: Social
+difficulty: 2000
+seen: 6
+answer: psychodrama
+
+Jacob Moreno developed this technique in which people act out their problems for an audience.
+
+----
+num: 38
+category: History
+difficulty: 2000
+seen: 5
+answer: Springfield
+
+This Massachusetts city is the "Birthplace of Basketball".

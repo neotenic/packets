@@ -1,0 +1,224 @@
+####
+tournament: Prison Bowl
+round: Round12.doc
+year: 2011
+####
+
+num: 1
+category: Science
+difficulty: HS
+fixed: 1
+seen: 483
+answer: {complex} numbers [prompt on {C}; do not accept "{imaginary numbers}"]
+
+The Cayley-Dickson construction extends the set of these entities to the quaternions and octonions, and the Gaussian integers are a subset of them. Their algebraic closure is a consequence of the fundamental theorem of algebra. Uniquely determined by their absolute value and argument, they can be plotted on an Argand diagram. When expressed in polar form as "r cis theta," they can be multiplied using de Moivre's identity. Each of these numbers has a conjugate, found by reversing the sign of its imaginary part. For 10 points, name these numbers of the form a+bi.
+
+----
+num: 2
+category: Literature
+difficulty: HS
+fixed: 1
+seen: 445
+answer: {Dead Souls} or {Mertvye Dushi}
+
+In this work, Prince Uziakin imprisons the protagonist for forging a will, and another character is described as bearlike and owns furniture that resembles himself. The protagonist is accused first of being Napoleon, and then the one-armed, one-legged Captain Kopeikin, and bets the title items with the gambler Nozdrev. In this novel, Petrushka and Selifan aid the protagonist, a traveling salesman, in his dealings with the landowners Sobakevitch and Manilov. Set in 19th century Russia, the title entities mean status for Pavel Chichikov. For 10 points, name this novel by Nikolai Gogol.
+
+----
+num: 3
+category: Philosophy
+difficulty: HS
+fixed: 1
+seen: 531
+answer: George {Berkeley}
+
+This man opposed the adoption of the sumptuary laws, and stated that spatial depth is by itself invisible in one essay. He countered Shaftesbury and other philosophers in the Alciphron, criticized Newton's philosophy in The Analyst, and put forth his theories of motion in De Motu. This man wrote the aforementioned Essay Towards a New Theory of Vision, and also coined the phrase “Esse et percipi,” or "to be is to be perceived." For 10 points, name this Irish philosopher of Three Dialogues Between Hylas and Philonous.
+
+----
+num: 3
+category: Philosophy
+difficulty: HS
+fixed: 1
+seen: 527
+answer: George {Berkeley}
+
+This man opposed the adoption of the sumptuary laws, and stated that spatial depth is by itself invisible in one essay. He countered Shaftesbury and other philosophers in the Alciphron, criticized Newton's philosophy in The Analyst, and put forth his theories of motion in De Motu. This man wrote the aforementioned Essay Towards a New Theory of Vision, and also coined the phrase “Esse et percipi,” or "to be is to be perceived." For 10 points, name this Irish philosopher of Three Dialogues Between Hylas and Philonous.
+
+----
+num: 4
+category: History
+difficulty: HS
+fixed: 1
+seen: 412
+answer: {Munich} massacre [accept clear-knowledge equivalents mentioning the city of Munich such as Munich Olympics; accept “massacre at the Olympics” or equivalent before giveaway]
+
+In retaliation for this event, a Moroccan waiter was murdered in the Lillehammer affair. During this event, 6 armed police abandoned an ambush aboard a Boeing 727, leaving only five poorly-equipped snipers to fight after the prisoner transfer to a NATO airbase. The group behind this event was also responsible for the hijacking of Sabena 571, and was supported by Fatah. That group was Black September. The first two victims of this event were a wrestling coach and a weightlifter. For 10 points, name this event in a Bavarian city that saw the killing of a policeman and 11 Israeli athletes during the 1972 Olympic Games.
+
+----
+num: 5
+category: Social Science
+difficulty: HS
+fixed: 1
+seen: 384
+answer: {externalities} or {spillovers} [accept word forms]
+
+Positional types of these effects result from competition between actors that leads to inefficiency, such as conspicuous consumption. They can be offset by bargaining and well-defined property rights instead of by government regulation, according to the Coase theorem. Positive types of these give rise to the free rider problem and negative types may be countered by levying Pigovian taxes, such as a “carbon tax.” Common examples of these economic effects include public parks and industrial pollution. By definition, they affect a third party who did not take part in the causative transaction. For 10 points, name these extra costs or benefits not accounted for by prices.
+
+----
+num: 6
+category: Fine Arts
+difficulty: HS
+fixed: 57
+seen: 487
+answer: Grant Wood
+
+This artist depicted the title figure pulling back a red curtain to reveal a man holding a bent cherry tree next to a boy with an axe in Parson Weems’ Fable. Another work of his shows a bird’s eye view of a tall white church steeple passed by the title figure on horseback. He painted three women, one with a teacup, standing in front of a reproduction of Emanuel Leutze’s Washington Crossing the Delaware. In addition to The Midnight Ride of Paul Revere and Daughters of the Revolution, he painted a portrait of his sister and his pitchfork-wielding dentist. For 10 points, name this American regionalist painter of American Gothic.
+
+----
+num: 7
+category: Science
+difficulty: HS
+fixed: 1
+seen: 488
+answer: thymus
+
+A congenital absence of this organ can be caused by DiGeorge syndrome, and tumors of this organ are associated with myasthenia gravis. Following puberty, it is gradually replaced with adipose cells in a process called involution. Nude mice are useful in research because they lack this organ, allowing foreign tissues to be grafted. In its cortex, MHCs are introduced to positively select for hematopoietic progenitor cells that bind strongly. For 10 points, name this immune and lymphatic organ that produces T-cells and facilitates their maturation.
+
+----
+num: 8
+category: History
+difficulty: HS
+fixed: -1
+seen: 421
+answer: {Haymarket} Square massacre or {riot}
+
+Following the Supreme Court case regarding this event, the defendants sang the Marseillaise before being executed. Samuel Fielden was speaking when this incident started. One man indicted for this event shouted "The time will come when our silence will be more powerful than the voices you strangle today!” and prosecutors indicted eight people for inciting this event. Police officer Mathias Degan was killed during this event, which inspired the creation of May Day. August Spies was among the anarchists hanged after this event. For 10 points, name this 1886 event in which a pipe bomb was thrown into a Chicago labor rally at the namesake location.
+
+----
+num: 9
+category: Literature
+difficulty: HS
+fixed: 57
+seen: 442
+answer: Nadine {Gordimer}
+
+This author wrote about Ludi Kroch, Helen Shaw's first love interest, in The Lying Days, and about Izak and Jacobus trying to find work at the Indian Store instead of working for the title character Mehring in The Conservationist. In another novel by this author, Bernard Chabalier has an affair with Baasie's childhood friend, the title character Rosa. Her most famous work sees the title black servant help Maureen Smale's family after they are forced to leave Johannesburg. For 10 points, name this South African author of Burger's Daughter and July's People.
+
+----
+num: 10
+category: Fine Arts
+difficulty: HS
+fixed: 1
+seen: 496
+answer: Stephen {Sondheim}
+
+In one work by this composer, Jules and Yvonne are friends of Dot, the title pointillist’s mistress. In another work, Madame Armfeldt hosts a party and Desiree sings "Send in the Clowns." This creator of the Sunday in the Park with George and A Little Night Music also imagined a rendezvous in the title location between Jack, Rapunzel, and Little Red Ridinghood, among others. He composed a musical in which Judge Turpin sentences Benjamin Barker to 15 years of transportation after which he returns as the title "Demon Barber." For 10 points, name this composer of Into the Woods and Sweeney Todd.
+
+----
+num: 11
+category: Trash
+difficulty: HS
+fixed: 1
+seen: 1030
+answer: University of {Kansas}
+
+Mark Mangino, the head coach of this school’s football team, was fired after the 2009 season following allegations that he had abused his players. A year earlier, this school’s men’s basketball and football teams went a combined 49-4. Notable alums of this school’s basketball program include Kirk Hinrich, Paul Pierce, and Wilt Chamberlain. This school’s basketball program has the second most wins and won the 2008 NCAA men’s basketball championship. For 10 points, name this school with an intense rivalry with the Missouri Tigers dubbed the “Border War,” whose teams are nicknamed the Jayhawks.
+
+----
+num: 12
+category: Science
+difficulty: HS
+fixed: 1
+seen: 487
+answer: {electrons} <LC>
+
+The Auger effect results in the emission of one of these entities, whose magnetic dipole moment is the Bohr magneton. An exciton is composed of a hole and one of these particles, whose deceleration causes Bremsstrahlung. Captured into the nucleus in one form of radioactive decay, they are emitted along with protons and antineutrinos in beta-minus decay. Their charge was measured by Millikan in the oil drop experiment, and their antiparticle is the positron. For 10 points, name these negatively charged elementary particles.
+
+----
+num: 12
+category: Science
+difficulty: HS
+fixed: None
+seen: 490
+answer: {electrons}
+
+The Auger effect results in the emission of one of these entities, whose magnetic dipole moment is the Bohr magneton. An exciton is composed of a hole and one of these particles, whose deceleration causes Bremsstrahlung. Captured into the nucleus in one form of radioactive decay, they are emitted along with protons and antineutrinos in beta-minus decay. Their charge was measured by Millikan in the oil drop experiment, and their antiparticle is the positron. For 10 points, name these negatively charged elementary particles.
+
+----
+num: 13
+category: Literature
+difficulty: HS
+fixed: 1
+seen: 446
+answer: William Somerset {Maugham}
+
+This author created a character who dies in a miscarriage caused by drinking, after being beaten by Jim Blakeston. One work by this author sees the Polish miner Kosti befriend a character who is in love with, but ultimately does not marry, Isabel Bradley. This author of Liza of Lambeth and creator of Larry Darrell in The Razor's Edge wrote a novel in which Sally, Thorpe Athelny's sister, marries the club-footed Philip Carey. He wrote a novel based on the life of Paul Gauguin, in which Charles Strickland moves to Tahiti. For 10 points, name this author of Of Human Bondage and The Moon and Sixpence.
+
+----
+num: 14
+category: Mythology
+difficulty: HS
+fixed: 1
+seen: 788
+answer: Quetzalcoatl
+
+One of this god's forms fell in love with Mayahuel, bringing love into the world. That form, Ehecatl, saved the frozen sun and moon by blowing on them. He threw himself onto a funeral pyre out of remorse for sleeping with a celibate princess, after which his heart became the morning star. He ruled the fifth world cycle during which he mixed his blood with flour made of ground up human bones in order to reintroduce humans to the world. This god’s pale skin caused Moctezuma to mistake Hernan Cortez for him. For 10 points, name this feathered serpent.
+
+----
+num: 15
+category: History
+difficulty: HS
+fixed: 1
+seen: 422
+answer: Dutch {East India} Company or {Verenigde Oost}-{Indische Compagnie}
+
+This group was defeated by the Ming loyalist Koxinga (“KO-sing-a”), who then formed the Kingdom of Tungning on Formosa. Its administration was divided into six chambers, whose leaders were the Lords Seventeen. It was said to have "perished by corruption," a pun in its native language. In its "golden age," this group was aided by Kandy in its conquest of Colombo, and controlled the artificial island of Dejima. It was eventually nationalized by the Batavian Republic, and was the first joint-stock company in the world. For 10 points, name this spice-trading Dutch company that controlled much of modern-day Southeast Asia.
+
+----
+num: 16
+category: Science
+difficulty: HS
+fixed: 1
+seen: 482
+answer: {oxidation} reaction [do not accept "{redox reaction}" or "{oxidation}-{reduction reaction}"]
+
+One reaction of this type uses oxalyl chloride and DMSO, and another uses mCPBA to convert ketones to esters. PCC is used in some reactions of this type, examples of which include the Swern and Baeyer-Villiger reactions. This type of reaction cannot happen to a tertiary alcohol, but can convert a primary alcohol to an aldehyde or a secondary alcohol to a ketone. Half-reactions describing this process include electrons on the right-hand side. It is defined as the loss of electrons or an increase in its namesake state. For 10 points, name this type of reaction often paired with a reduction reaction.
+
+----
+num: 17
+category: Fine Arts
+difficulty: HS
+fixed: 57
+seen: 500
+answer: {nocturnes} or {notturno}
+
+A composition of this musical form by Liszt was entitled "While dreaming." Mozart's K.286 in D major was one of these pieces for four orchestras, while Schubert's Piano Trio Opus 148 in E-flat, marked "Adagio," is an example of this form. Other examples include Debussy's "Clouds," "Festivals," and "Sirens", while this musical form was pioneered by John Field. Often featuring a melody over an arpeggiated accompaniment and usually written for solo piano, 21 of these compositions were written by Chopin. For 10 points, name this form of musical composition evocative of the night.
+
+----
+num: 18
+category: Literature
+difficulty: HS
+fixed: 1
+seen: 446
+answer: Edward Estlin {Cummings}
+
+This author asserted in one work that "it's always ourselves we find in the sea" and created a character described as “being to all intents / a corpse.” This author of "maggie and milly and molly and may" also created a character who refuses to kiss a flag in the poem "i sing of Olaf glad and big." Another of his poems has a character who "sang his didn't" and "danced his did." For 10 points, name this poet of "anyone lived in a pretty how town" known for his lack of capitalization.
+
+----
+num: 19
+category: History
+difficulty: HS
+fixed: 1
+seen: 409
+answer: Grand Duchy of {Luxembourg}
+
+This nation’s capital was built by Siegfried I, and it was returned to Hapsburg rule by the Treaty of Ryswick after the Nine Years’ War. A crisis over this nation in 1867 almost led to war, and this country was ruled by the House of Orange until 1890. Known as the Gibraltar of the North, this nation’s fortifications were improved upon by Vauban under Louis XIV. It is ruled by Grand Dukes of the House of Nassau and draws most of its wealth from banking. For 10 points, name this member of the Benelux, a small nation south of Belgium.
+
+----
+num: 20
+category: Geography
+difficulty: HS
+fixed: 1
+seen: 725
+answer: Borneo <RY>
+
+This island's Gunung Mulu National Park contains distinct karst formations and the largest underground chamber in the world. This area was used as a source of dragon's blood or mercury by Chinese merchants. It is home to Kinabalu National Park, which is located in its Crocker Range. Bordering the Sulu Sea to the northeast and the Java Sea to the South, it is separated by the Makassar Strait from the island of Sulawesi. This island is divided into seven ecoregions, and the burning of the peat swamp forests here has made Indonesia the third-largest CO2 emitter in the world. For 10 points, name this third-largest island in the world that contains Brunei and part of Malaysia.

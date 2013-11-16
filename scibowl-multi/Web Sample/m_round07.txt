@@ -1,0 +1,317 @@
+####
+tournament: Web Sample
+round: m_round07.pdf
+####
+
+num: 1
+category: Physical Science
+difficulty: MS
+answer: Z)  the Law of Conservation of Energy
+
+Which of the following laws most directly limits the ability of a simple machine to an efficiency of 100% or lower:
+W) Hooke’s law
+X) law of equal proportions
+Y) the first law of motion
+Z) the l aw of conservation of energy
+
+----
+num: 2
+category: Earth Science
+difficulty: MS
+answer: X)  Wavelength of 300 Miles
+
+Which of the following characteristics is most commonly associated with a tsunami wave as opposed to a normal ocean wave in the open oce an:
+W) period of 5 seconds
+X) wavelength of 300 miles
+Y) speed of 50 miles per hour
+Z) motion of only the uppermost layer of water
+
+----
+num: 2
+category: Earth Science
+difficulty: MS
+answer: X)  Tidal Bore
+
+Which of the following is a true tida l wave:
+W) tsunami
+X) tidal bore
+Y) rip current
+Z) tidal range
+
+----
+num: 4
+category: General Science
+difficulty: MS
+answer: Y)  Inside
+
+Which of the following does the prefix endo (spell out the letters e, n, d, o) mean, as i n the word endoscope:
+W) under
+X) dark
+Y) inside
+Z) invisible
+
+----
+num: 5
+category: Life Science
+difficulty: MS
+answer: W)  Gill Covers or Opercula
+
+Which of the following anatomical structures do sharks NOT possess:
+W) gill covers or opercula
+X) lateral line s
+Y) cartilaginous skeletons
+Z) livers
+
+----
+num: 6
+category: Physical Science
+difficulty: MS
+answer: Y)  About 1/1,800^th of a Proton
+
+What is the mass of an electron:
+W) about the same as a proton
+X) about ½ as much as a proton
+Y) about 1/1,800^th of a proton
+Z) electrons have no mass
+
+----
+num: 7
+category: Earth Science
+difficulty: MS
+answer: X)  Braided
+
+Streams running off the terminus of glaciers have a high bed load and easily erodible banks, typically forming which of the following types of stream patterns:
+W) meandering
+X) oxbow
+Y) braided
+Z) back swamp
+
+----
+num: 7
+category: Earth Science
+difficulty: MS
+answer: W)  Alluvial Fan
+
+Which of the following is similar to a delta but forms when a steep mountain stream spreads out from a mountain canyon onto a flat, broa d valley:
+W) alluvial fan
+X) levee
+Y) playa
+Z) flood plain
+
+----
+num: 9
+category: General Science
+difficulty: MS
+answer: X)  a Unit of Force
+
+Which of the following BEST describes the SI unit called the Newton:
+W) a unit of power 
+X) a unit of force 
+Y) a unit of work
+Z) a unit of energy
+
+----
+num: 10
+category: Life Science
+difficulty: MS
+answer: Y)  Equilibrium
+
+Which of the following terms is most often used to describe a biochemical reaction where the forward reaction is at t he same rate as the reverse reaction:
+W) isothermic
+X) isotropic
+Y) equilibrium
+Z) homeotropic
+
+----
+num: 11
+category: Physical Science
+difficulty: MS
+answer: W)  Number of Electrons in Their Outer Shells
+
+Alkali metals all have the same:
+W) number of electrons in their outer shells
+X) atomic radii
+Y) electronegativities
+Z) melting points
+
+----
+num: 11
+category: Physical Science
+difficulty: MS
+answer: W)  Distilled Water
+
+Which of the following liquids at room temperature and 1 atmosphere would have the GREATEST surface tension:
+W) distilled water
+X) ethanol
+Y) methanol
+Z) acetone
+
+----
+num: 12
+category: Earth Science
+difficulty: MS
+answer: W)  Glacial Erosion
+
+Which of the following most likely formed a U -shaped valley:
+W) glacial erosion
+X) mountain stream erosion
+Y) wind erosion
+Z) deforestation
+
+----
+num: 12
+category: Earth Science
+difficulty: MS
+answer: Y)  Large Amounts of Suspended Material
+
+Which of the following gives glacial meltwater a quality which is commonly described as glacial milk:
+W) ice crystals in the water
+X) the abundance of trapped air
+Y) large amounts of suspended material
+Z) the abundance of cyanobacteria
+
+----
+num: 13
+category: Math
+difficulty: MS
+answer: Z)  2,520
+
+Which of the following is evenly divisible by each of the counting numbers 1 through 8:
+W) 360
+X) 1,250
+Y) 1,800
+Z) 2,520
+
+----
+num: 14
+category: General Science
+difficulty: MS
+answer: W)  Hydrometer
+
+Which of the following instruments consists of a weighted glass tube or bulb , which is floated in a liquid to measure the liquid’s rela tive density:
+W) hydrometer
+X) hypsometer
+Y) densitometer
+Z) sensometer
+
+----
+num: 15
+category: Life Science
+difficulty: MS
+answer: Z)  Head
+
+In which of the following areas of the human body is the frontal bone found:
+W) pelvis 
+X) spine
+Y) shoulder
+Z) head
+
+----
+num: 15
+category: Life Science
+difficulty: MS
+answer: W)  Pelvis
+
+In which of the following areas of the human body is the ileum bone found:
+W) pelvis 
+X) wrist
+Y) shoulder
+Z) head
+
+----
+num: 16
+category: Physical Science
+difficulty: MS
+answer: Y)  Structural
+
+Which of the foll owing chemical formulas gives an indication of the arrangement of atoms and bonds in a chemical compound:
+W) empirical
+X) molecular
+Y) structural
+Z) polyatomic
+
+----
+num: 17
+category: Earth Science
+difficulty: MS
+answer: Z)  Chert
+
+Which of the following is made of microcrystalline quartz and is very hard and compact:
+W) gypsum
+X) chalk
+Y) limestone
+Z) chert
+
+----
+num: 17
+category: Earth Science
+difficulty: MS
+answer: Z)  They Are Not Found in the u.s.
+
+Which of the following is NOT true of geodes:
+W) they occur in sedimentary and certain volcanic rocks
+X) they look like ordinary rocks from the outside
+Y) their exterior is typically made up of limestone
+Z) they are not found in the U.S.
+
+----
+num: 19
+category: General Science
+difficulty: MS
+answer: X)  Apiology
+
+Which of the following is the study of bees:
+W) herpetology
+X) apiology
+Y) ichthyology
+Z) ornithology
+
+----
+num: 19
+category: General Science
+difficulty: MS
+answer: X)  1.5
+(Solution: (59 in )(2.54 Cm/in)(1 M/100 Cm) = 1.49 M)
+
+Which of the following is CLOSEST to the height, in meters, of a person who is 4 feet and 11 inches tall:
+W) 1.2
+X) 1.5
+Y) 1.8
+Z) 2.2
+
+----
+num: 21
+category: Physical Science
+difficulty: MS
+answer: Z)  Metals React With Nonmetals to Form New Metals
+
+Which of the following is generally NOT true:
+W) the boiling point of water decreases with increased altitude on Earth
+X) the melting point of table salt is much higher than that of glucose
+Y) radon is radioactive
+Z) metals react with nonmetals to form new metals
+
+----
+num: 22
+category: Earth Science
+difficulty: MS
+answer: X)  the Trade Winds
+
+Which of the following most likely made the trip from 
+Europe to the New World possible for early sailors:
+W) the westerlies
+X) the trade winds
+Y) the doldrums
+Z) the jet stream
+
+----
+num: 22
+category: Earth Science
+difficulty: MS
+answer: Z)  Nimbostratus
+
+Which of the following is a dark gray, low cloud associated with continuous falling rain:
+W) altocumulus 
+X) stratocumulus
+Y) cumulus humilis
+Z) nimbostratus

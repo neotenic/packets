@@ -1,0 +1,330 @@
+####
+tournament: #6266
+round: Show #6266 - Monday, December 12, 2011
+year: 2011
+date: 2011-12-12
+####
+
+num: 1
+category: Literature
+difficulty: 200
+seen: 4
+answer: (Walt) Whitman
+
+He published the first edition of "Leaves of Grass" at his own expense & even set some of the type for it.
+
+----
+num: 2
+category: Literature
+difficulty: 200
+seen: 4
+answer: on a stick
+
+Matt Armendariz has a whole book devoted to foods "on a" this! like hot dogs, fried mozzarella & chicken satay.
+
+----
+num: 3
+category: Geography
+difficulty: 200
+seen: 8
+answer: Salem
+
+Witch hunting was more fashionable in this city 16 miles N.E. of Boston than in its West Coast counterpart.
+
+----
+num: 4
+category: Science
+difficulty: 200
+seen: 7
+answer: a bolt
+
+It just came to me out of the blue--it's a measure of cloth, usually 40 yards.
+
+----
+num: 5
+category: Literature
+difficulty: 400
+seen: 4
+answer: Emily Dickinson
+
+Upon this woman's death in 1886, her sister Lavinia found nearly 1,000 poems hidden away in her bureau.
+
+----
+num: 6
+category: Literature
+difficulty: 400
+seen: 4
+answer: carne
+
+In a twist on the meat dish, "How to Cook Everything Vegetarian" has a recipe for chili non this.
+
+----
+num: 7
+category: Geography
+difficulty: 400
+seen: 8
+answer: Augusta
+
+This city that lies about 125 miles from the mouth of the Savannah River is known for a certain golf course.
+
+----
+num: 8
+category: Science
+difficulty: 400
+seen: 6
+answer: gauge
+
+For my daughter's suitors' reference, my shotgun has a bore just under 3/4 of an inch wide, so it's a 12-this.
+
+----
+num: 9
+category: Science
+difficulty: 400
+seen: 5
+answer: clutter
+
+To litter with things in a disorderly manner.
+
+----
+num: 10
+category: Literature
+difficulty: 600
+seen: 4
+answer: (Edgar Allan) Poe
+
+Shortly after becoming engaged to Sarah Shelton, he fell ill in a Baltimore tavern & died 4 days later on October 7, 1849.
+
+----
+num: 11
+category: Literature
+difficulty: 600
+seen: 4
+answer: soup
+
+In "The Lady & Sons Savannah Country Cookbook", Paula Deen has a section on these, including Confederate bean.
+
+----
+num: 12
+category: Science
+difficulty: 600
+fixed: -1
+seen: 6
+answer: lumber (timber)
+
+Please tell us you know that a hoppus foot measures this building material--& tell us chop chop.
+
+----
+num: 13
+category: Literature
+difficulty: 800
+seen: 4
+answer: the Lowells
+
+This family of poets born in & around Boston includes Amy, James Russell & Robert.
+
+----
+num: 14
+category: Literature
+difficulty: 800
+seen: 4
+answer: (James) Beard
+
+This chef whose last name is an anagram of bread published a book "On Bread" in 1973.
+
+----
+num: 15
+category: Geography
+difficulty: 800
+seen: 7
+answer: Jackson
+
+Home of the Cascade Falls, this city in Michigan (not Mississippi) is also called "The Rose City".
+
+----
+num: 16
+category: Science
+difficulty: 800
+seen: 6
+answer: a link
+
+Used in surveying, this unit is equal to one hundredth of a chain.
+
+----
+num: 17
+category: Literature
+difficulty: 1000
+seen: 4
+answer: Ralph Waldo Emerson
+
+In "Concord Hymn", he wrote, "Here once the embattled farmers stood, and fired the shot heard round the world".
+
+----
+num: 18
+category: Literature
+difficulty: 1000
+seen: 3
+answer: Bethenny Frankel
+
+This Bravo star & former "New York Housewife" offers up some easy & healthy recipes in "The Skinnygirl Dish".
+
+----
+num: 19
+category: Geography
+difficulty: 1000
+seen: 9
+answer: Lincoln
+
+It's the seat of Illinois' Logan County & shares its name with the capital of a different Midwest state.
+
+----
+num: 20
+category: Science
+difficulty: 1000
+seen: 7
+answer: rads (or rem)
+
+1 of the 2 units, each 3 letters long & starting with "R", that measure radiation exposure from X-rays.
+
+----
+num: 21
+category: Science
+difficulty: 1000
+seen: 7
+answer: a (star) cluster
+
+This type of heavenly group seen.
+
+----
+num: 22
+category: Art
+difficulty: 400
+seen: 4
+answer: a triangle
+
+In 8-ball the balls are racked in this shape, with the 8 ball in the center.
+
+----
+num: 23
+category: History
+difficulty: 400
+seen: 4
+answer: Orleans
+
+Joan of Arc became the maid of this city when she led French troops to victory there in May 1429.
+
+----
+num: 24
+category: Literature
+difficulty: 400
+seen: 4
+answer: a wheelbarrow
+
+Used to transport small loads like lawn dirt, it's a cart with 1 tire & a shallow body, held & pushed by handles.
+
+----
+num: 25
+category: History
+difficulty: 800
+seen: 4
+answer: Adams
+
+Carolla, Ant & Sandler.
+
+----
+num: 26
+category: Art
+difficulty: 800
+seen: 4
+answer: slate
+
+The bed, or top, of a billiard table is usually made of this rock & can weigh as much as 800 pounds.
+
+----
+num: 27
+category: History
+difficulty: 800
+seen: 4
+answer: Francois Mitterand
+
+On May 10, 1981 France elected as president this socialist who then nationalized most of the private banks.
+
+----
+num: 28
+category: Literature
+difficulty: 800
+seen: 3
+answer: a coaster
+
+It can be a sled or toboggan, someone riding in one, or a mat you put under a drink.
+
+----
+num: 29
+category: History
+difficulty: 1200
+seen: 4
+answer: Ford
+
+Shallow, crossable part of a river.
+
+----
+num: 30
+category: Art
+difficulty: 1200
+seen: 4
+answer: cue ball
+
+This white object gave its name to a bald "Dick Tracy" villain.
+
+----
+num: 31
+category: Literature
+difficulty: 1200
+seen: 4
+answer: caissons
+
+It's a 2-wheeled wagon used to carry artillery ammunition; in song, they "go rolling along".
+
+----
+num: 32
+category: Art
+difficulty: 1600
+seen: 4
+answer: red
+
+Snooker is played with 15 balls of this color & 6 balls of other colors.
+
+----
+num: 33
+category: Literature
+difficulty: 1600
+seen: 5
+answer: a Black Maria
+
+A color & a woman's name combine in this term for a police wagon.
+
+----
+num: 34
+category: Art
+difficulty: 2000
+seen: 6
+answer: the Brunswick Corporation
+
+In 1845 this firm manufactured its first pool table for a Cincinnati meatpacker; it's sold millions of tables since then.
+
+----
+num: 35
+category: History
+difficulty: 2000
+seen: 6
+answer: Agincourt
+
+The October 1415 battle of this fortress, lost to the English, actually took place in a nearby muddy field.
+
+----
+num: 36
+category: Literature
+difficulty: 2000
+seen: 6
+answer: a skeleton
+
+This Olympic sport gets its name from the metal sled introduced in the 1890s & what some people thought it resembled.

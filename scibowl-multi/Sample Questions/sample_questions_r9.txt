@@ -1,0 +1,221 @@
+####
+tournament: Sample Questions
+round: sample_questions_r9.pdf
+####
+
+num: 1
+category: Physical Science
+difficulty: MS
+answer: X)  Frequency
+
+Which of the following co mponents corresponds to the pitch of a sound wave:
+W) wavelength 
+X) frequency 
+Y) amplitude 
+Z) speed
+
+----
+num: 1
+category: Physical Science
+difficulty: MS
+answer: Z)  the Pre Ssure Will Increase
+
+In a closed container, if a gas is heated, which of the following occurs:
+W) molecular m otion will dec rease 
+X) the gas will condense on the inner walls of the container 
+Y) the chemical properties will change 
+Z) the press ure will increase
+
+----
+num: 1
+category: Physical Science
+difficulty: MS
+answer: X)  Frequency
+
+Which of the following co mponents corresponds to the pitch of a sound wave:
+W) wavelength 
+X) frequency 
+Y) amplitude 
+Z) speed
+
+----
+num: 1
+category: Physical Science
+difficulty: MS
+answer: Z)  the Pre Ssure Will Increase
+
+In a closed container, if a gas is heated, which of the following occurs:
+W) molecular m otion will dec rease 
+X) the gas will condense on the inner walls of the container 
+Y) the chemical properties will change 
+Z) the press ure will increase
+
+----
+num: 4
+category: Earth Science
+difficulty: MS
+answer: W)  66 ½° North
+
+The Arctic Circle lies at which of the following latitudes :
+W) 66 ½° North 
+X) 90° North 
+Y) 66 ½° South 
+Z) 90° South
+
+----
+num: 4
+category: Earth Science
+difficulty: MS
+answer: W)  66 ½° North
+
+The Arctic Circle lies at which of the following latitudes :
+W) 66 ½° North 
+X) 90° North 
+Y) 66 ½° South 
+Z) 90° South
+
+----
+num: 8
+category: Earth Science
+difficulty: MS
+answer: W )  the Antarctic Ozone Hole
+
+An increase in chlorine in the stratosphere is believed to be the cause of which of the following:
+W) the Antarctic ozone hole 
+X) increased photolysis of oxygen 
+Y) decreased photolysis of oxygen 
+Z) loss of atmospheric nitrogen
+
+----
+num: 8
+category: Earth Science
+difficulty: MS
+answer: W )  the Antarctic Ozone Hole
+
+An increase in chlorine in the stratosphere is believed to be the cause of which of the following:
+W) the Antarctic ozone hole 
+X) increased photolysis of oxygen 
+Y) decreased photolysis of oxygen 
+Z) loss of atmospheric nitrogen
+
+----
+num: 9
+category: Physical Science
+difficulty: MS
+answer: W )  90°c
+
+At which temperature would water m ost likely boil on Mount McKinley:
+X) 100W) 90°°C 
+C 
+Y) 110°C 
+Z) 120^ °C
+
+----
+num: 9
+category: Physical Science
+difficulty: MS
+answer: X)  Bernoulli’s Law
+
+If one holds a piece of not ebook paper vertically infront of and below the mouth and blows strongly over the paper, the paper rises in the direction that the air is flowing. This illu strates what principle of physics:
+W ) Archimedes’ Principle 
+X) Bernoulli’s Law 
+Y) Pascal’s Law 
+Z) Charles’ Law
+
+----
+num: 9
+category: Physical Science
+difficulty: MS
+answer: W )  90°c
+
+At which temperature would water m ost likely boil on Mount McKinley:
+X) 100W) 90°°C 
+C 
+Y) 110°C 
+Z) 120^ °C
+
+----
+num: 9
+category: Physical Science
+difficulty: MS
+answer: X)  Bernoulli’s Law
+
+If one holds a piece of not ebook paper vertically infront of and below the mouth and blows strongly over the paper, the paper rises in the direction that the air is flowing. This illu strates what principle of physics:
+W ) Archimedes’ Principle 
+X) Bernoulli’s Law 
+Y) Pascal’s Law 
+Z) Charles’ Law
+
+----
+num: 14
+category: Earth Science
+difficulty: MS
+answer: Z)  There Is Evidence of Eye Formation and Sustained Wind 
+Speeds of 74 Mph
+
+A tropical storm will be declared a hurricane when:
+W) it moves out of the tropics 
+X) wind speeds reach 34 mph 
+Y) tornadoes are observed 
+Z) there is evidence of eye for mation and sustained wind speeds of 74 mph
+
+----
+num: 14
+category: Earth Science
+difficulty: MS
+answer: Z)  There Is Evidence of Eye Formation and Sustained Wind 
+Speeds of 74 Mph
+
+A tropical storm will be declared a hurricane when:
+W) it moves out of the tropics 
+X) wind speeds reach 34 mph 
+Y) tornadoes are observed 
+Z) there is evidence of eye for mation and sustained wind speeds of 74 mph
+
+----
+num: 19
+category: Math
+difficulty: MS
+answer: Y)  Distributive Property
+
+The equation y (5+2y) = y × 5 + y × 2y (read as: y times, parentheses, five plus two y, close parentheses, equals y times five plus y times two y) is an exam ple of which algebraic property:
+W) commutative p roperty of addition
+X) associative property of addition 
+Y) distributive property 
+Z) additive identity property
+
+----
+num: 19
+category: Math
+difficulty: MS
+answer: Y)  Distributive Property
+
+The equation y (5+2y) = y × 5 + y × 2y (read as: y times, parentheses, five plus two y, close parentheses, equals y times five plus y times two y) is an exam ple of which algebraic property:
+W) commutative p roperty of addition
+X) associative property of addition 
+Y) distributive property 
+Z) additive identity property
+
+----
+num: 24
+category: Life Science
+difficulty: MS
+answer: Z)  Anabaena
+
+Which of the following is NOT a protist?
+W) Paramecium
+X) Euglena 
+Y) Amoeba
+Z) Anabaen a ( AN-ah-BEEN-ah)
+
+----
+num: 24
+category: Life Science
+difficulty: MS
+answer: Z)  Anabaena
+
+Which of the following is NOT a protist?
+W) Paramecium
+X) Euglena 
+Y) Amoeba
+Z) Anabaen a ( AN-ah-BEEN-ah)

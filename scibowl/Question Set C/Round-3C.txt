@@ -1,0 +1,272 @@
+####
+tournament: Question Set C
+round: Round-3C.pdf
+####
+
+num: 2
+category: Chemistry
+difficulty: HS
+seen: 34
+answer: The Tyndall E Ffect
+
+What is the name for the phenomenon that occurs when a light beam becomes visible after passing through a colloid, an example of which is a beam of light passing through fog at night?
+
+----
+num: 3
+category: Biology
+difficulty: HS
+seen: 40
+answer: 44
+
+How many autosomes are in a normal nucleated human nerve cell in 
+G-zero of the cell cycle?
+
+----
+num: 4
+category: Math
+difficulty: HS
+seen: 26
+answer: 11
+(Solution:  S = 16/ 2 = 11.3 Cm)
+
+What is the side of a square, in centimeters to the nearest whole number, given that its diagonal is 16 centimeters?
+
+----
+num: 5
+category: Earth Science
+difficulty: HS
+fixed: -1
+seen: 65
+answer: 50%
+
+What is the percent relative humidity if the vapor content is one-half the amount of vapor the mass of air can hold?
+
+----
+num: 6
+category: General Science
+difficulty: HS
+fixed: -1
+seen: 32
+answer: 7,200
+
+Convert 2,000 meters per second into kilometers per hour:
+
+----
+num: 7
+category: Astronomy
+difficulty: HS
+fixed: -1
+seen: 55
+answer: Tropical Year   (Accept:  Solar Year)
+
+What is the most common astronomical term for the interval of time between two successive passages of the Sun through the vernal equinox?
+
+----
+num: 8
+category: Physics
+difficulty: HS
+seen: 25
+answer: Resonance
+
+Stories have been told about opera singers breaking crystal glass by singing a certain tone loud enough. What is the most common term for the property that would account for this happening?
+
+----
+num: 8
+category: Physics
+difficulty: HS
+fixed: -1
+seen: 26
+answer: 0.6
+(Solution:  Wavelength = Speed/f  = 360/600 = 0.6 Meters)
+
+What is the wavelength, in meters, of a sound wave that has a frequency of 600 hertz and a speed in a certain medium of 360 meters per second?
+
+----
+num: 10
+category: Biology
+difficulty: HS
+seen: 39
+answer: Latissimus Dorsi
+
+Name all of the following 5 muscles that are NOT part of the human rotator cuff: supraspinatus; infraspinatus; subscapularis; teres minor; latissimus dorsi
+
+----
+num: 11
+category: Math
+difficulty: HS
+fixed: -1
+seen: 25
+answer: 0 < X < 3
+
+Solve the following inequality for x: x^2 < 3x
+
+----
+num: 11
+category: Math
+difficulty: HS
+seen: 25
+answer: 240
+
+What is the least common multiple of the following 4 numbers: 12, 15, 16, 20
+
+----
+num: 12
+category: Earth Science
+difficulty: HS
+seen: 65
+answer: Neap Tides  (Accept:  Neap)
+
+What is the specific name for the tides that occur during the first and third-quarter phases of the Moon and have the smallest range?
+
+----
+num: 13
+category: General Science
+difficulty: HS
+fixed: -1
+seen: 30
+answer: 1 X 10 ^-^4  (Do Not Accept 10^-^4)
+
+Giving your answer in proper scientific notation, convert 100 millimeters into kilometers:
+
+----
+num: 16
+category: Chemistry
+difficulty: HS
+seen: 35
+answer: Fuel Cell  (Accept:  Hydrogen-Oxygen Fuel Cell)
+
+What is the name for the voltaic cells in which the reactants are continuously supplied to the cell and the products are continuously removed?
+
+----
+num: 17
+category: Biology
+difficulty: HS
+seen: 40
+answer: Corpus Callosum
+
+What is the area of the human brain that functions to allow the two hemispheres to communicate?
+
+----
+num: 18
+category: Math
+difficulty: HS
+seen: 26
+answer: Universal Set
+
+In a Venn diagram, what is the most appropriate name of the rectangle tha t contains the circles that represent the subsets?
+
+----
+num: 18
+category: Math
+difficulty: HS
+seen: 25
+answer: 720
+(Solution: 6! = 720)
+
+How many different letter arrangements are possible with the six letters in the word ‘SECOND’?
+
+----
+num: 19
+category: Earth Science
+difficulty: HS
+fixed: -1
+seen: 63
+answer: Cenozoic
+
+In what Era of the geological time scale did mammals and grasses become abundant?
+
+----
+num: 20
+category: General Science
+difficulty: HS
+seen: 31
+answer: Fiber Optics
+
+What technology used to transmit digital information specifically takes advantage of the property of light called total internal reflection?
+
+----
+num: 20
+category: General Science
+difficulty: HS
+seen: 30
+answer: Acetaminophen
+
+What is the generic name for the trade-named drug 
+Tylenol?
+
+----
+num: 21
+category: Astronomy
+difficulty: HS
+seen: 54
+answer: Leo
+
+If a stargazer in Vermont during the midnight April sky follows the pointer stars of the Big Dipper about 35º in the opposite direction of Polaris, which one of the following 5 constellations will she most likely encounter: Bootes; Libra; Canus Major; Leo; 
+Lepus
+
+----
+num: 21
+category: Astronomy
+difficulty: HS
+seen: 54
+answer: First Quarter
+(Solution: To Observers on the Moon the Earth Goes Through Opposite Phases to the Moon)
+
+To an observer on the Moon, in what phase would the Earth appear when an observer on Earth saw the Moon in its 3rd quarter?
+
+----
+num: 22
+category: Physics
+difficulty: HS
+seen: 25
+answer: 5
+
+What is the mass, in kilograms, of a 5-kilogram rock on a planet with a gravitational acceleration one-half that of the Earth’s?
+
+----
+num: 22
+category: Physics
+difficulty: HS
+seen: 24
+answer: 3.0
+(Solution:  188/62.4 = 3.01)
+
+What is the specific gravity, to the first decimal place, of a cubic foot of metal that has a density of 188 pounds per cubic foot if water has a density of 62.4 pounds per cubic foot?
+
+----
+num: 23
+category: Chemistry
+difficulty: HS
+seen: 34
+answer: Cl
+
+Which one of the following 5 atoms can violate the octet rule with more than 8 electrons: O; F; Cl; N; C
+
+----
+num: 24
+category: Biology
+difficulty: HS
+fixed: -1
+seen: 38
+answer: Hcl  (Accept:  Hydrochloric Acid)  (Do Not Accept: Gastric Juices)
+
+What substance converts pepsinogen (read as: pep-SIN-oh-gen) into its active form in the human stomach?
+
+----
+num: 24
+category: Biology
+difficulty: HS
+seen: 38
+answer: Chief Cells  (Accept:  Chief)
+
+What specific cells of the human stomach secrete pepsinogen?
+
+----
+num: 25
+category: Chemistry
+difficulty: HS
+seen: 35
+answer: 100
+(Solution:  Naoh = 40g  × 1 Mol O/16 × 1 Mol Naoh/1 Mol O × 40g Naoh/1 Mol Naoh = 100g)
+
+What mass of sodium hydroxide, in grams, would contain 40 grams of oxygen?

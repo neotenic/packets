@@ -1,0 +1,214 @@
+####
+tournament: HFT
+round: 14 HFT (Finals 1).doc
+year: 2009
+####
+
+num: 1
+category: Fine Arts
+difficulty: HS
+fixed: 1
+seen: 495
+answer: {Symphonies} by Felix {Mendelssohn} [prompt on partial answe]
+
+One of these works by this composer was written to celebrate the four hundredth anniversary of printing. In addition to one titled “Hymn of Praise” the final one introduces the “Dresden Amen” theme and includes a final movement based on the hymn “A Mighty Fortress is Our God.” The fourth one of these works has a notable “Saltarello” fourth movement that incorporates rhythms from the Neapolitan tarantella, while the third one was written during a trip that also inspired the Hebrides Overture. For 10 points, name this series of works including pieces subtitled “Italian” and “Scottish,” written by a German composer who penned the “Wedding March” in his incidental music to A Midsummer Night's Dream.
+
+----
+num: 2
+category: Mythology
+difficulty: HS
+fixed: 57
+seen: 784
+answer: Ganesha
+
+In one story, this figure was fed some roasted cereal grains to prevent him from swallowing Kubera. In another story this figure convinced his brother Kartikeya that he beat him in a race around the world, despite sitting at home the entire time. He was hit by an axe during a fight with Parashurama, and he is often depicted riding a mouse. Called the “Lord of Obstacles,” he served as a scribe for Vyasa, who dictated the Mahabharata to him, and a conflict between his father and mother led to his father decapitating him. For 10 points, identify this son of Shiva and Parvati, a Hindu got of wisdom depicted with the head of an elephant.
+
+----
+num: 3
+category: Literature
+difficulty: HS
+fixed: 57
+seen: 444
+answer: Milan {Kundera}
+
+This author wrote a novel, narrated in his own mind, in which he obsesses over a woman named Agnes. This man wrote Slowness and Immortality. He wrote about Mirek and Zdena is one of the seven stories in his The Book of Laughter and Forgetting. This man penned a book in which a man gets into trouble for writing the line, “Optimism is the opium of the people,” and in that novel Helena is seduced by Ludvik Jahn. In this author's best known novel the professor Franz falls in love with Sabina, who goes to America after ending her affair with Teresa's husband. For 10 points, identify this Czech author who wrote about Tomas in The Unbearable Lightness of Being.
+
+----
+num: 4
+category: History
+difficulty: HS
+fixed: 1
+seen: 422
+answer: Warren Earl {Burger}
+
+Before joining the Supreme Court, this judge wrote a decision allowing an African-American Church participation in an FCC hearing regarding whether a racist radio station should lose its license. This man was appointed to the Supreme Court after the nomination of Abe Fortas failed. This man wrote the majority opinion in Swann v. Charlotte-Mecklenburg Board of Education, which required busing for desegregation. Under this Chief Justice, the Supreme Court extended the Griswold v. Connecticut right to Privacy in Roe v. Wade, and he was replaced by William Rehnquist. For 10 points, name this Chief Justice appointed by Nixon, who replaced Earl Warren.
+
+----
+num: 5
+category: Science
+difficulty: HS
+fixed: 1
+seen: 479
+answer: Hendrik Antoon {Lorentz}
+
+With a similarly named Danish mathematician, this physicist names an equation relating refractive index to polarizability, which in the context of dielectric is named for Clausius and Mossotti. He developed a mathematical description of boosts in Minkowski space, and he is the namesake of the sum of the force on a particle due to electric and magnetic fields. His attempts with FitzGerald to explain the Michelson-Morley experiment led to a namesake length contraction. For 10 points, name this Dutch physicist whose “transformations” describe spacetime in special relativity
+
+----
+num: 6
+category: History
+difficulty: HS
+fixed: -1
+seen: 415
+answer: {Jameson Raid}
+
+One participant in this event, Graham Bower, wrote a "Secret History" of it. Discovery of gold deposits at Witwatersrand encouraged this event, which featured commanders Raleigh Gray and Hercules Robinson. Immediately following this event, its participants fought a losing battle against a force under Piet Cronje. Joseph Chamberlain appointed Alfred Milner Governor of the Cape Colony following this event. It was initially planned by Cecil Rhodes and intended to spark an uprising of the Uitlanders. For 10 points, identify this 1895 British attempt to take control of the Transvaal.
+
+----
+num: 7
+category: Philosophy
+difficulty: HS
+fixed: 1
+seen: 523
+answer: Jacques {Derrida}
+
+This author of an essay on J. L. Austin entitled “Signature Event Context” also engaged with Heidegger in his essay “The Ends of Man.” This author's essay “Cogito and the History of Madness” was collected in a book that also includes a lecture he delivered about “Structure, Sign, and Play.” His best known work introduces the "hinge," the result that there can be no full speech. The former book is Writing and Difference, and the latter sparked a new school of literary theory. For 10 points, name this French-Algerian philosopher who wrote Of Grammatology and founded deconstructionism. 
+
+----
+num: 8
+category: Science
+difficulty: HS
+fixed: 57
+seen: 486
+answer: quicksort
+
+A multikey version of this algorithm employs a three-way radix, and the introsort variant switches to heapsort when a bad case is encountered. In-place implementations of this algorithm requires only O (log n) [big oh of log n] space. Its quadratic worst case, which occurs when a single element is partitioned in each step, is much worse than a similar algorithm whose namesake operation joins two sorted sublists, mergesort, though both perform an average case of O (n log n) [big oh of n log n] comparisons. This algorithm's essential step picks a pivot element and places only smaller elements to the left of it. For 10 points, name this divide-and-conquer sorting algorithm developed by C. A. R. Hoare.
+
+----
+num: 9
+category: Literature
+difficulty: HS
+fixed: 1
+seen: 440
+answer: George {Orwell} [or Eric Arthur Blair]
+
+This author wrote a novel in which London Pleasures is being written by Gordon Comstock. This writer described U Po Kyin's attempts to destroy the reputation Dr Veraswami who is friends with John Flory in another book. This author wrote the novels Keep the Aspidistra Flying and Burmese Days. He described how a man in Moulmein accomplishes the title action with a Winchester rifle in his essay Shooting an Elephant. This author wrote a novel set on Manor Farm that contains a power struggle after the death of Old Major. For 10 points, identify this author who wrote about Snowball and Napoleon in Animal Farm and depicted Winston Smith's resistance to Big Brother in 1984.
+
+----
+num: 10
+category: Trash
+difficulty: HS
+fixed: 1
+seen: 1021
+answer: Orson {Welles}
+
+In one film by this director, Miguel and Susan Vargas investigate the corrupt Mexican captain Hank Qinlan. In another film, the title character is sent away to live with Mr. Thatcher, and later builds an opera house for Susan Alexander, who is a bad singer. This director of The Stranger and Touch of Evil made a film about the title family, whose members include Isabel and George Minafer, based on a novel by Booth Tarkington. This man directed a film in which the title character builds a newspaper empire and dies in Xanadu, uttering the word “Rosebud”. For 10 points, name this American director who created the films The Magnificent Ambersons and Citizen Kane.
+
+----
+num: 11
+category: Philosophy
+difficulty: HS
+fixed: 1
+seen: 517
+answer: Herbert {Spencer}
+
+This intellectual asserted that nothing should infringe on the “laws of life” in a work including a chapter called “The Great Political Superstition.” In addition to writing Man Versus the State, he discussed the “coercive” aspects of reform movements in a work subtitled the “Conditions Essential to Human Happiness.” This author of System of Synthetic Philosophy argued for the application of Lamarck's theory to society in Social Statics. For 10 points, name this thinker who coined the phrase “survival of the fittest” and championed Social Darwinism.
+
+----
+num: 12
+category: History
+difficulty: HS
+fixed: 57
+seen: 427
+answer: the {French} Navy [or La {Marine} de le {France}]
+
+This navy sank an entire Chinese fleet at the Battle of Fuzhou, and it decisively defeated two neighboring navies at the Battle of Palermo. This navy supported an invasion of Mexico during the Pastry War, and this navy won the 1781 Battle of the Capes, which took place off the coast of Virginia. An early defeat for this navy was the Battle of Sluys, where it lost to Edward III, and this navy was also defeated at the Battle of the Nile. For ten points, name this navy defeated by Sir Horatio Nelson at the Battle of Trafalgar, which belongs to a country whose capital is Paris.
+
+----
+num: 13
+category: Fine Arts
+difficulty: HS
+fixed: 57
+seen: 499
+answer: {Pre}-{Raphaelite} Brotherhood
+
+In one painting from this movement Jesus knocks on a door while carrying a lantern. Notable works from this movement include King Cophetua and the Beggar Maid and Light of the World. Another work from this movement features the pale title figure floating next to some weeds, and was created when the model Elizabeth Siddal was forced to stay in an icy tub for several hours. Siddal was also used to model as a character from The Divine Comedy in a painting from this movement titled Beata Beatrix. For 10 points, the identify this movement led by William Holman Hunt, John Everett Millais, and Dante Gabriel Rossetti, which took its name from the rejection of artistic styles after a certain Renaissance painter.
+
+----
+num: 14
+category: Geography
+difficulty: HS
+fixed: None
+seen: 715
+answer: Persian Gulf
+
+The island of Bubiyan is located  in the extreme north of this body of water. The eastern end of this body of water contains Qeshm Island, which is often used as a refueling station. This body of water contains the disputed Hawar Islands, and the region once known as the Trucial States lies on this body of water. This body of water is bounded on the East by the Musandam Peninsula, and the artificial Palm islands extend into this body of water. This home to the King Fahd Causeway is bounded on the east by the Straight of Hormuz. Containing the island of Bahrain, for 10 points, identify this body of water surrounded, among others, by Qatar, Iran, and Saudi Arabia which is known for its oil reserves.
+
+----
+num: 15
+category: Science
+difficulty: HS
+fixed: 1
+seen: 489
+answer: ethers
+
+The Claisen rearrangement operates on allyl vinyl examples of this functionality, a special type of which is created using a sulfur ylide in the Corey-Chaykovsky reaction. Some cyclic examples of this functionality are known as oxiranes, minimal examples of which result from the reaction of an alkene with mCPBA. One type of this functional group useful in phase transfer are the crown ones. Grignard reagents are stored in one member of this functional group. One synthesis of them reacts an alkyl halide with an alkoxide ion in an SN2 mechanism and is named for Williamson. Coming in a diethyl variety once used as an anaesthetic, for 10 points, name this functionality with two alkyl groups bonded to an oxygen atom.
+
+----
+num: 16
+category: Fine Arts
+difficulty: HS
+fixed: 1
+seen: 592
+answer: {Lego}
+
+Zbigniew Libera used this medium to build a crematorium with three chimneys, complete with a body being carried out of a gas chamber, as part of his controversial “Concentration Camp” art. Brendan Powell Smith used this medium to construct such biblical scenes as “When to Stone Your Children” and “When to Stone Your Whole Family." Giant models of St. Paul's Cathedral and Big Ben headline a Windsor, England, theme park devoted to this construction material. Invented by a carpenter from Billund named Ole Kirk Christiansen, they are smaller than the related Duplo product, which is aimed at younger children. FTP, identify this construction toy that consists of interlocking plastic blocks.
+
+----
+num: 17
+category: History
+difficulty: HS
+fixed: 57
+seen: 424
+answer: {Macedonia}
+
+Andriscus was a pretender to the throne of this country, whose last legitimate king was named Perseus. This country lost the Battles of Pydna and Cynoscephalae to the Roman Empire. It was ruled by Antipater and his son Cassander, and later by the Antigonid Dynasty. Its more notable rulers include a man who won the Battle of Chaeronea and conquered Greece, and a man who won the Battles of Issus and Gaugamela and conquered Persia. For ten points, name this ancient country north of Greece that was ruled by Phillip II and his son, Alexander the Great.
+
+----
+num: 18
+category: Literature
+difficulty: HS
+fixed: 1
+seen: 446
+answer: Gabriela {Mistral}
+
+This author wrote, “I am rich with purple and with melancholy” in the poem “Riches,” which appears in a collection that takes its title from the word for cutting down trees. This author asserted, “May my flesh slumber in you, my worry, my trembling,” in the poem “The Sad Mother,” and wrote poem in which the title figure is called “Old Woman Census-taker” and “Anti-Mother of the world.” In addition to writing Tala, this poet's most famous collection was written after the suicide of her fiance Romelio Ureta. The author included her poem “Song of Death” found in the collection Desolacion. For 10 points, identify this author of the Sonnets of Death, a female poet from Chile.
+
+----
+num: 19
+category: Science
+difficulty: HS
+fixed: 1
+seen: 488
+answer: {electron transport chain} [or “ETC” before it is mentioned; prompt on {oxidative phosphorylation} but do not accept “Krebs cycle” or “Citric acid cycle”]
+
+Rotenone can block one part of this pathway, and superoxides can erroneously form in its first and third sites. Iron-sulfur clusters act as carriers in it for the protonated form of Flavin mononucleotides, which are transferred to another protein to form semiquinone. In it, succinate is converted to fumarate prior to the formation of cytochrome c, which an eponymous oxidase alters to enable the formation of two water molecules. It ultimately involves the movement of four protons across the inner membrane of the mitochondria, thereby creating a proton gradient capable of powering the synthesis of ATP. For 10 points, name this series of complexes responsible for oxidative phosphorylation in eukaryotes, often abbreviated ETC.
+
+----
+num: 20
+category: Literature
+difficulty: HS
+fixed: 1
+seen: 445
+answer: {Tender} is the {Night}
+
+In one scene from this novel the main character saves Lady Caroline Sibly-Biers from prison after he had earlier screamed at her while on T. J. Golding's yacht. In this novel Jules Peterson is found murdered in a hotel room in a series of incidents blamed on Abe North. In this novel Elsie Speers manages the career of an actress who starred in the film Daddy's Girl. Dr. Franz Gregorovius runs a Zurich clinic where the main character meets his wife who later has an affair with Tommy Barban. At the end of this novel Nicole Warren asks the protagonist for a divorce because of his affair with Rosemary Hoyt. For 10 points, name this novel about the failed psychologist Dick Diver, written by F. Scott Fitzgerald.
+
+----
+num: 21
+category: Social Science
+difficulty: HS
+fixed: 1
+seen: 408
+answer: Amartya {Sen}
+
+This author determined that the concept of rights ought to be replaced with a concept of capabilities in his essay “Equality of What,” outlining some of his work with Martha Nussbaum. That approach also features prominently in his Inequality Reexamined. This author's liberal paradox suggested that requiring Pareto efficiency of voting schemes was irrational, and he offered relaxing transitivity to suggest voting systems almost good enough for Arrow's impossibility theorem. His best known work illustrates that food distribution mechanisms were often larger factors than food quantity in causing starvation. For 10 points, name this author of Poverty and Famines and Collective Choice and Social Welfare.

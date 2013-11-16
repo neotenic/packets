@@ -1,0 +1,214 @@
+####
+tournament: Prison Bowl
+round: Round 01.doc
+year: 2010
+####
+
+num: 1
+category: Mythology
+difficulty: HS
+fixed: None
+seen: 780
+answer: Horus <WD>
+
+This deity is identified with the crocodile god Khenty-khety, and tricked his rival into eating semen and raced him in a boat made of fake stone. Conceived either by a golden phallus or by divine fire, he bit off that rival's genitals, explaining why the desert is infertile. His eyes represented the sun and moon, and Wedjat was associated with this god, the patron of the pharaohs. His left eye, a symbol of protection, was torn out by his evil uncle Set. For 10 points, name this falcon-headed Egyptian sky god, a son of Isis and Osiris.
+
+----
+num: 2
+category: Science
+difficulty: HS
+fixed: 1
+seen: 486
+answer: {complex} numbers [prompt on {C}, prompt on {imaginary numbers}]
+
+The set of these entities has a two-dimensional normed division algebra, and forms an unordered field, extensions of which include Cayley numbers and quaternions. They can be represented in phasor form as powers of e. They are multiplied more easily in polar form using de Moivre's identity. A quadratic equation with a negative discriminant has these numbers as its solutions. A number of this type plus its conjugate equals two times its first term. For 10 points, name these numbers that can take the form a + bi, consisting of a real number plus an imaginary number.
+
+----
+num: 3
+category: History
+difficulty: HS
+fixed: 57
+seen: 418
+answer: {Iroquois} Confederacy
+
+According to one myth, a founder of this polity used a vessel made of white stone and planted the Tree of Peace. The Peace of Montreal ended one conflict involving this polity, the Beaver War, which also saw its defeat of the Huron. In the Treaty of Fort Stanwix, this polity changed the limit of white settlement and sold the British land between the Ohio and Tennessee Rivers. The Tuscarora nation would later join a polity of this name to become the "Sixth Nation." For 10 points, name these "People of the Longhouse" in modern upstate New York, who had a namesake "Confederacy."
+
+----
+num: 4
+category: Social Science
+difficulty: HS
+fixed: 1
+seen: 386
+answer: Carl {Jung}
+
+This man discussed the impending end of the Christian aion in Answer to Job, and believed that mandalas were a step towards individuation. He wrote about alchemy and religion in one work, and about an "acausal connecting principle" called “synchronicity” in another. This author of Psychological Types introduced the sage, trickster, shadow, animus, and anima, which are collectively termed archetypes. For 10 points, name this psychologist who introduced the terms introvert and extrovert, and proposed that all humanity shares a collective unconscious.
+
+----
+num: 5
+category: Philosophy
+difficulty: HS
+fixed: 1
+seen: 525
+answer: Karl Heinrich {Marx}
+
+This man wrote that "the point" is to change the way philosophers interpret the world, in his Theses on Feuerbach, and criticized Pierre-Joseph Proudhon in Poverty of Philosophy. This author of the Critique of the Gotha Program wrote about "use-value" versus "exchange value," and stated, "from each according to his ability, to each according to his needs." He claimed that exploitation of workers is the basis of capitalism in Das Kapital, while another work speaks of a "spectre ... haunting Europe." For 10 points, name this German philosopher who, along with Friedrich Engels, wrote The Communist Manifesto.
+
+----
+num: 6
+category: History
+difficulty: HS
+fixed: 1
+seen: 417
+answer: Republic of {Mexico}
+
+This nation fought against France in the Pastry War. Its revolutionaries were defeated in the Battles of Calderon Bridge before it gained independence under the Army of Three Guarantees. Lázaro Cárdenas carried out reforms in this nation as a member of a party founded by Plutarco Calles, the PNR. Its first ruler was Agustín de Iturbide, who came to power after an independence movement sparked by the Cry of Dolores, issued by Miguel Hidalgo. Its Revolution featured populist armies led by Emiliano Zapata and Pancho Villa, and began when Francisco Madero overthrew Porfirio Díaz. For 10 points, name this nation led by Antonio de Santa Anna to war against the U.S.
+
+----
+num: 7
+category: Trash
+difficulty: HS
+fixed: 1
+seen: 1024
+answer: Taylor {Swift}
+
+This singer hopes that one title figure thinks of her "when [he] think[s] happiness," and sings that the addressee of another song "should've thought twice before [he] let it all go." This singer of "Should've Said No," cites "the only thing that keeps [her] wishing on a wishing star" as the reason for the title entities of another song. She compares herself to Juliet in one song, while another states "She wears short skirts, I wear T-shirts." For 10 points, name this pop-country singer of "Teardrops on My Guitar," "Love Story," and "You Belong with Me."
+
+----
+num: 8
+category: Fine Arts
+difficulty: HS
+fixed: 1
+seen: 501
+answer: The {Oath of the Horatii} [or Le {Serment des Horaces}]
+
+A long, right-facing spear is mounted on the back wall in this painting. Behind the central figure, a woman in a blue dress holds her two children, one of whom looks innocently towards the central action. One figure with a red tunic holds a spear. Arches in the background frame the three parts of the scene. On the left side, the title characters reach towards the center of the painting, where their father holds out three swords. For 10 points, name this painting depicting the title brothers swearing to defend Rome, by Jacques-Louis David.
+
+----
+num: 9
+category: Literature
+difficulty: HS
+fixed: 57
+seen: 448
+answer: The {Trial} [or {Der Prozess}]
+
+This novel's main character meets Huld, whose nurse becomes his lover. Captain Lanz is allied with one of the Fraüleins who moves in. The protagonist buys a pair of identical landscapes from the painter Titorelli, who recommends infinite deferral, and is told by a priest that he has no control over his future. The main character, a bank employee, ends up being stabbed by two men "like a dog," but is never told what crime he committed. For 10 points, name this posthumous novel about the title mysterious event in the life of Josef K., by Franz Kafka.
+
+----
+num: 10
+category: History
+difficulty: HS
+fixed: 57
+seen: 413
+answer: {Sparta} [accept {Lacedaemon} before mentioned; prompt on {Laconia}]
+
+A king of this polity helped Isagoras oust Cleisthenes from power, Cleomenes I. Its Great Rhetra established a government of 5 ephors and 2 kings, and was introduced by Lycurgus. Led by Lysander at Aegospotami, it was home to the winning commander at the Battle of Plataea, Pausanias, and was defeated by Epaminondas at Leuctra. Its citizens were put through the agoge system at age 7, which was not allowed for the slaves called helots. Led by Leonidas at the Battle of Thermopylae, for 10 points, name this Greek city-state that gave everyone mandatory military training and defeated Athens in the Peloponnesian War.
+
+----
+num: 11
+category: Science
+difficulty: HS
+fixed: 57
+seen: 482
+answer: {halogens} [prompt on {Group 17} or {Group VIIA} before mentioned]
+
+An SN2 reaction performed in acetone, the Finkelstein reaction, exchanges two of these. The heaviest is made by bombarding bismuth with alpha particles. A silver salt of one of these substances is used in cloud seeding and photography. The four lightest ones are diatomic, and form acids with hydrogen. The only group to have solid, liquid, and gaseous elements at STP, they have seven valence electrons and comprise Group 17 of the periodic table. For 10 points, name this group of elements which includes astatine, bromine, iodine, chlorine, and fluorine.
+
+----
+num: 12
+category: Fine Arts
+difficulty: HS
+fixed: 1
+seen: 489
+answer: Ansel {Adams}
+
+Zones 2 through 8 were the "textural range" of this artist's zone system. One of his works shows a field of boulders against a background of Mount Williamson. He made a series of prints depicting everyday life at Manzanar interment camp. Along with Weston and Cunningham, he founded Group f/64. One work shows a small town in the foreground and a white dot in the otherwise black sky, "Moonrise, Hernandez, New Mexico." He also took photos of El Capitan and Half Dome. For 10 points, name this American photographer of Yosemite National Park.
+
+----
+num: 13
+category: Geography
+difficulty: HS
+fixed: 1
+seen: 713
+answer: {English Channel} or La {Manche}
+
+Ushant and the Isles of Scilly mark the western entrance of this body of water. The Bay of Saint-Malo and Lyme Bay lie at the ends of its widest point. The Balliwicks of Guernsey and Jersey lie within it, as does the Isle of Wight. Folkestone and Coquelles are linked by an underground tunnel under it. Brittany lies between this body of water and the Bay of Biscay. Connecting the Atlantic Sea and the North Sea, Calais lies near its narrowest point, the Strait of Dover. For 10 points, name this body of water separating France and Britain.
+
+----
+num: 14
+category: Literature
+difficulty: HS
+fixed: 1
+seen: 439
+answer: The {Catcher} in the {Rye}
+
+One character in this novel passes gas loudly during Ossenburger's speech. James Castle commits suicide by jumping out of a window. This novel's protagonist uses the name of the janitor Rudolf Schmidt when speaking with Ernest Morrow's mother on the train to New York, and later donates ten dollars to two nuns. The protagonist drops a Little Shirley Beans record after he meets a prostitute named Sunny and is beaten up by Maurice; he had bought that record for his sister Phoebe. For 10 points, name this 1951 novel about Holden Caulfield, by J. D. Salinger.
+
+----
+num: 15
+category: Science
+difficulty: HS
+fixed: 1
+seen: 486
+answer: {diffusion} [prompt on {effusion}]
+
+Dynkin's formula describes the It? type of this phenomenon at a stopping time. Ehrenfest's model of it explains the statistical interpretation of the second law of thermodynamics. Its rate is inversely proportional to the square root of particle mass, and its magnitude is proportional to the gradient, according to Fick's law and Graham's law. One form which causes water to move through a semi-permeable membrane is called osmosis. For 10 points, name this movement of particles down a concentration gradient, from areas of high to low concentration.
+
+----
+num: 16
+category: History
+difficulty: HS
+fixed: 1
+seen: 420
+answer: {Peter I} or {Peter} the {Great} of Russia
+
+This man's reign saw the Bulavin Rebellion and Fedor Golovin's failed Grand Embassy. His half-sister Sophia led a rebellion of soldiers upset with his progressive reforms, the Streltsy Uprising. He divided his nation into eight guberniia, each further divided into uzeda. After working as a shipbuilder in Europe, he captured Azov with his newly-built Imperial Navy. His second wife, Catherine I, took over upon his death, and he won the Battle of Poltava against Charles XII's Sweden in the Great Northern War. For 10 points, name this westernizing Russian Tsar who built a new capital city in honor of a saint with whom he shared a name.
+
+----
+num: 17
+category: Literature
+difficulty: HS
+fixed: 1
+seen: 442
+answer: Things {Fall Apart}
+
+In this novel, one character explains how the tortoise lost his smooth shell after a feast with the birds. In its sequel, a man takes bribes to repay the UPU. In this novel, one character is pursued by Ekwefi when she is taken to Agbala by Chielo. Mr. Brown is replaced with the manipulative Reverend Smith, and Nwoye takes the name Isaac. The Week of Peace is broken by a man who defeated Amalinze the Cat in wrestling. The protagonist kills Ikemefuna and is banished from Umuofia. For 10 points, name this novel about Okonkwo, written by Chinua Achebe.
+
+----
+num: 18
+category: Fine Arts
+difficulty: HS
+fixed: 1
+seen: 492
+answer: Achille-Claude {Debussy}
+
+This composer's sole string quartet, in G minor, was labeled opus 10. He composed a symphonic poem that opens with an ascending and descending flute solo. Other works include Golliwogg's Cakewalk from the Children's Corner suite for solo piano, and the opera Pelléas and Mélisande. Known for using whole-tone and pentatonic scales, he composed a piece based on a Paul Verlaine poem, the third movement of his Suite Bergamasque. For 10 points, name this French impressionist composer of Clair de Lune, Prelude to the Afternoon of a Faun, and La Mer.
+
+----
+num: 19
+category: Science
+difficulty: HS
+fixed: 57
+seen: 486
+answer: liver 
+
+Budd-Chiari syndrome can affect this structure surrounded by Glisson's capsule. Containing macrophages called Kupffer cells, it synthesizes C-reactive protein, fibrinogen, and albumin. Attached to the body wall by the falciform ligament, this organ converts ammonia to urea, stores glycogen, and is fed by the portal vein. The only human internal organ capable of regeneration, its scars cause cirrhosis. High levels of bilirubin cause jaundice, a symptom of injuries to this organ, such as hepatitis. For 10 points, name this organ that detoxifies blood and secretes bile.
+
+----
+num: 20
+category: Literature
+difficulty: HS
+fixed: 1
+seen: 440
+answer: "The {Love Song} of J. Alfred {Prufrock}"
+
+This poem mentions a "yellow smoke that slides along the street.” The speaker of this poem is "not Prince Hamlet," but only "an attendant lord," and "shall wear the bottoms of [his] trousers rolled," after stating that he has "measured out [his] life with coffee spoons." This poem's speaker wonders "Do I dare / Disturb the universe?" and "Do I dare to eat a peach?" in "the room where women come and go/Talking of Michaelangelo." For 10 points, name this poem that begins "Let us go then, you and I / When the evening is spread out against the sky," by T. S. Eliot.
+
+----
+num: 21
+category: Literature
+difficulty: HS
+fixed: 1
+seen: 450
+answer: The {Stranger} or L'Etranger
+
+In this novel one character mentions that an old man will suffer sunstroke if he walks too slowly, or sweat and catch a chill if he walks too quickly. Another character Salamano laments the loss of his diseased dog, while the protagonist reacquaints himself with Marie Cardona after his mother's funeral. The protagonist writes a break-up letter for his neighbor Raymond Sintes, whose gun he uses to shoot a corpse four times after initially killing the Arab. For 10 points name this novel about Mersault written by Albert Camus.

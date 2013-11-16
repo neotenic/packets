@@ -1,0 +1,232 @@
+####
+tournament: Question Set C
+round: Round-12C-MS.pdf
+####
+
+num: 1
+category: Math
+difficulty: MS
+fixed: -1
+seen: 6
+answer: (8, 12)
+
+Three points on a graph are connected by lines to form a triangle. If the center of dilation is the origin and one of the points is (4, 6), what is the new point for a dilation factor of 2?
+
+----
+num: 1
+category: Math
+difficulty: MS
+seen: 6
+answer: 5π
+(Solution:  C = 50π;  1/10^th of 50π = 5π)
+
+Giving your answer in terms of π, what is the length of a 36º arc in a circle that has a circumference of 50π?
+
+----
+num: 2
+category: General Science
+difficulty: MS
+seen: 5
+answer: Ringworm;  Jock Itch;  Athletes Foot  (Accept: All of Them)
+
+Name all of the following 3 skin infections that are caused by mold-like fungi called dermatophytes (read as: derr-mat-oh-fights): ringworm; jock itch; athletes foot
+
+----
+num: 4
+category: Physical Science
+difficulty: MS
+seen: 6
+answer: Naoh  (Accept:  Sodium Hydroxide)
+
+Name all of the following 4 substances that are bases:
+MgCl; NaOH; HCl; H^2SO^4
+
+----
+num: 6
+category: Math
+difficulty: MS
+seen: 7
+answer: 3
+42
+
+Express the following radical in its simplest rationalized form: 3
+8
+
+----
+num: 6
+category: Math
+difficulty: MS
+seen: 7
+answer: 30π
+
+Giving your answer in terms of pi, what is the volume, in cubic meters, of a right circular cone that has a height of 10 meters and a radius of 3 meters?
+
+----
+num: 8
+category: Life Science
+difficulty: MS
+seen: 10
+answer: Thymine
+
+What is the common name, not the letter abbreviation, of the nucleotide that is present in DNA but not RNA?
+
+----
+num: 9
+category: Physical Science
+difficulty: MS
+seen: 5
+answer: 116
+(Solution:  58g/mole × 2 Moles = 116 Grams)
+
+How many grams are in 2 moles of sodium chloride, knowing that sodium chloride has a molecular weight of 58?
+
+----
+num: 11
+category: Math
+difficulty: MS
+seen: 6
+answer: 16 X^8y^4 + 24x^4y^2 + 9
+
+Expand the following expression, giving your answer in standard binomial form: (4x^4y^2 + 3)^2
+
+----
+num: 12
+category: General Science
+difficulty: MS
+seen: 6
+answer: The Sun
+
+The coronagraph is used to study what celestial object?
+
+----
+num: 15
+category: Earth Science
+difficulty: MS
+seen: 8
+answer: Core;  Radiative Zone;  Convective Zone;  Corona
+
+Order the following 4 layers of the Sun from the 
+INNERMOST to the OUTERMOST: core; radiative zone; corona; convective zone
+
+----
+num: 16
+category: Math
+difficulty: MS
+fixed: -1
+seen: 6
+answer: 48
+(Solution:  v = L × W × H)
+
+What is the volume, in cubic centimeters, of a rectangular prism that measures 8-centimeters long, 2-centimeter wide, and 3-centimeters high?
+
+----
+num: 16
+category: Math
+difficulty: MS
+seen: 6
+answer: 120
+(Solution:  P(6,3) = 6!/(6-3)! = 6!/3! = 120)
+
+How many different 3-letter arrangements are there of the first 6 letters of the alphabet?
+
+----
+num: 17
+category: General Science
+difficulty: MS
+seen: 6
+answer: 30^
+(Solution:  2 Nm = 20a;  20a + 10a = 30a)
+
+Giving your answer in angstroms, add 2 nanometers to 10 angstroms:
+
+----
+num: 19
+category: Physical Science
+difficulty: MS
+seen: 6
+answer: 800
+(Solution:  10l × 0.8 Moles/l = 8 Moles;  8 Moles × 100 G/mole = 800 Grams)
+
+A chemistry experiment calls for 10.0 liters of a 0.8 molar solution of a chemical with a molecular weight of 100 grams per mole. How many grams of the chemical will you need to weigh out to make this solution?
+
+----
+num: 21
+category: Math
+difficulty: MS
+seen: 5
+answer: 24
+(Solution:  3×2×^3 4!^3 16 = 6^3 64 = 24)
+
+Multiply the following 2 radicals, giving your answer to the nearest whole number: (3^3 4)(2^3 16)
+
+----
+num: 22
+category: General Science
+difficulty: MS
+seen: 5
+answer: 9
+
+When all other things are held constant and a star is1/3 as far from an observer as it originally was, how many times as bright would it appear?
+
+----
+num: 22
+category: General Science
+difficulty: MS
+seen: 7
+answer: Grasses;  Scrubs;  Pine Trees;  Oak Trees
+
+A forest fire in part of the New York Adirondack mountains wipes out all existing vegetation. Arrange the following 4 choices from the FIRST that is most likely to repopulate the land to the LAST to repopulate: pine trees; scrubs; oak trees; grasses
+
+----
+num: 23
+category: Life Science
+difficulty: MS
+seen: 11
+answer: Nodes
+
+In the stem of a higher plant, what is the MOST common scientific term for the points where leaves are attached?
+
+----
+num: 23
+category: Life Science
+difficulty: MS
+seen: 10
+answer: Petiole
+
+What is the scientific term for the stalk of a leaf that joins the leaf to the node of a plant stem?
+
+----
+num: 24
+category: Physical Science
+difficulty: MS
+seen: 5
+answer: Neutron and Photon
+
+Name all of the following 4 particles that cannot be deflected when passing through a magnetic field: photon; electron; neutron; proton
+
+----
+num: 24
+category: Physical Science
+difficulty: MS
+seen: 6
+answer: Harmonic  (Accept:  Simple Harmonic Motion)
+
+What is the most common scientific term for the back and forth oscillating motion of a swinging pendulum?
+
+----
+num: 25
+category: Earth Science
+difficulty: MS
+seen: 7
+answer: West
+
+Giving your answer as north, south, east, or west, plate tectonics show that the eastern side of the North American Plate is moving slowly in what general direction?
+
+----
+num: 25
+category: Earth Science
+difficulty: MS
+seen: 7
+answer: P-Wave;  S-Wave;  Surface Wave
+
+Order the following 3 seismic waves from the FIRST to be detected at a seismographic station to the LAST: S -wave; surface wave; P-wave

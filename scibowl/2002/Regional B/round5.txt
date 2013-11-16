@@ -1,0 +1,274 @@
+####
+tournament: Regional B
+round: round5.pdf
+year: 2002
+####
+
+num: 1
+category: Biology
+difficulty: HS
+seen: 40
+answer: Chemoautotrophs   (Accept:  Chemotrophs, Chemosynthetics, or 
+Chemolithotrophs)
+
+Bacteria that can oxidize inorga nic substances for energy are called:
+
+----
+num: 1
+category: Biology
+difficulty: HS
+seen: 40
+answer: Taxis
+
+What is the common botanical term for the response a cell or plant has towards or away from a stimulus?
+
+----
+num: 2
+category: Chemistry
+difficulty: HS
+seen: 37
+answer: 2fe + 3co^2
+
+Using proper chemical nomenclature, finish balancing the following equation: Fe^2O^3 + 3CO yields what, assuming the iron is totally reduced:
+
+----
+num: 3
+category: Physics
+difficulty: HS
+fixed: 1
+seen: 26
+answer: {2 Amperes} (Solution: Current = Watt S/volts; 200/100 = 2 Amperes)
+
+What is the current, in amperes, running through a 200-watt light bulb running on a 100 volt power source:
+
+----
+num: 3
+category: Physics
+difficulty: HS
+seen: 27
+answer: 12 Newtons
+(Solution:  Cf = M v  ^2 / R  =  12 X 2^2 / 4 = 12 )
+
+What is the centripetal force, in Newtons, required for a 12 kilogram body traveling at 2 meters per second in a pe rfect circle with a ra dius of 4 meters?
+
+----
+num: 4
+category: Astronomy
+difficulty: HS
+seen: 55
+answer: Jupiter
+
+Adastea, Amalthea and Callisto are moons of what planet?
+
+----
+num: 4
+category: Astronomy
+difficulty: HS
+fixed: -1
+seen: 55
+answer: 10 Parsecs  (Accept:  26 Light Years)
+
+What is the standard distance a star would need to be placed for it to appear as bright as its absolute magnitude?
+
+----
+num: 5
+category: Math
+difficulty: HS
+seen: 26
+answer: Quadratic  (Accept:  Quadratic Equation)
+
+In algebra, what is a second degree polynomial equation most commonly called?
+
+----
+num: 5
+category: Math
+difficulty: HS
+seen: 25
+answer: 9 3   (Accept:  15 – 16)
+(Solution:  a =  S^2
+4 3
+= 9 3 )
+
+What is the area of an equilateral triangle whose side is 6?
+
+----
+num: 8
+category: Computer Science
+difficulty: HS
+seen: 64
+answer: Bandwidth
+
+How fast data flows on a given transmission path and the width of the range of frequencies that a signal occupies on a given transmission medium is generally known as:
+
+----
+num: 8
+category: Computer Science
+difficulty: HS
+seen: 63
+answer: 800
+
+Data travels on a 100MHz, 64-bit bus at how many megabytes per second?
+
+----
+num: 9
+category: Biology
+difficulty: HS
+seen: 39
+answer: Prunus
+
+Cherries, plums, and peaches belong to what genus?
+
+----
+num: 10
+category: Chemistry
+difficulty: HS
+seen: 35
+answer: Büchner Funnel  (Accept:  Büchner)
+
+What is the name for a plastic or ceramic funnel that has a flat stage on which a filter paper can be placed that is intended for use under suction with a thick-walled side-arm flask designed to withstand the changes in pressure that occur when the flask is connected to a suction pump?
+
+----
+num: 11
+category: Physics
+difficulty: HS
+seen: 25
+answer: 30 Kilograms  (Accept:  30 Kg or 30,000 Grams)
+
+If a 60 kilogram object displaces 30 kilograms of water when immersed, what will its apparent weight be?
+
+----
+num: 11
+category: Physics
+difficulty: HS
+seen: 26
+answer: Water, Iron, Aluminum, Gold
+
+Assuming all the following substances are in pure form, order them from the WORST electrical conductor to the BEST el ectrical conductor: aluminum, water, iron, gold
+
+----
+num: 12
+category: Astronomy
+difficulty: HS
+fixed: -1
+seen: 55
+answer: Brown Dwarf
+
+At less than 8% solar mass, what is the common term for a potential star that does not gather enough mass to initiate core nuclear fusion and become a main sequence star?
+
+----
+num: 13
+category: Math
+difficulty: HS
+fixed: -1
+seen: 25
+answer: 720°
+
+What is the sum of the interior angles of a 6-sided polygon?
+
+----
+num: 13
+category: Math
+difficulty: HS
+fixed: -1
+seen: 26
+answer: –2
+
+Find the solution set of the following equation: (2x2−3) =(4x2+1)
+
+----
+num: 16
+category: Computer Science
+difficulty: HS
+seen: 62
+answer: 0.101
+
+What is the three-bit natural binary code equivalent ofthe decimal value 58 ?
+
+----
+num: 17
+category: Biology
+difficulty: HS
+fixed: -1
+seen: 38
+answer: Kingdom,  Class,  Orde R,  Family,  Genus,  Species
+
+According to the classical taxonomical system, order the following from the most general taxonomic group to the most spec ific group: order, genus, kingdom, class, family, species
+
+----
+num: 18
+category: Chemistry
+difficulty: HS
+seen: 33
+answer: Simple Distillation  (Accept:  Distillation)  
+(Do Not Accept: Fracti Onal Distillation)
+
+What laboratory method uses a Liebig condenser arranged almost horizontally such that when the liquid mixture is heated and vapors are produced, they enter the condenser and then flow away from the flask to be collected, and is used when only one volatile fraction is to be collected:
+
+----
+num: 20
+category: Astronomy
+difficulty: HS
+seen: 54
+answer: Little Dipper
+
+What is the main part of the Small Bear constellation also commonly called?
+
+----
+num: 20
+category: Astronomy
+difficulty: HS
+seen: 54
+answer: Hubble’s Law  (Accept:  Hubble or Hubble’s)
+
+Which law states that galaxies are receding from one another at velocities directly proportional to the distances separating them?
+
+----
+num: 21
+category: Math
+difficulty: HS
+fixed: -1
+seen: 23
+answer: 5
+3π
+
+Convert 300° into radians:
+
+----
+num: 21
+category: Math
+difficulty: HS
+fixed: -1
+seen: 26
+answer: -24
+(Solution:  N + 1/2n + 1/4n – 8 = 2n -2)
+
+Find the following number: When the number, one-half of the number, and one-quarter of the number are added, and then 8 is subtracted, the result is 2 less than twice the number:
+
+----
+num: 23
+category: Biology
+difficulty: HS
+fixed: -1
+seen: 39
+answer: Potato  (Accept:  Tuber)
+
+What is the most common name fo r the horizontal enlarged stem of 
+Solanum tuberosum?
+
+----
+num: 25
+category: Physics
+difficulty: HS
+seen: 27
+answer: Robert Boyle   (Accept:  Boyle)
+
+Which scientist’s publication entitled “New Experiments Physio-mechanical, Touching the Spring of the Air, a nd its Effects” first enunciated the empirical relationship that states that the pressure of a give n quantity of gas varies in versely as its volume, at constant temperature?
+
+----
+num: 25
+category: Physics
+difficulty: HS
+seen: 26
+answer: 176
+
+If a car, traveling at 15 miles/hr, tr avels 22 feet per second, how many feet per second will it travel at 120 miles/hr?

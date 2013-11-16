@@ -1,0 +1,204 @@
+####
+tournament: Gaddis II
+round: Packet 2.doc
+year: 2009
+####
+
+num: 2
+category: History
+difficulty: College
+fixed: -1
+seen: 72
+answer: {Constitutions} of {Canada} [accept {Canada Acts} or {Canadian Constitution Acts} or {clear knowledge} equivalents; prompt on "{British North America Act}"]
+
+[MB] The "extreme broad wording" in Sections 91 and 92 of one document of this type led to the development of the "double aspect theory", while the "Living Tree Doctrine" arose from the "Persons Case" that interpreted a document of this type.  Changes in one of these documents related to education were to be forbidden by the proposed Fulton-Favreau Formula, while the current document of this type is governed by the 750 formula in regards to changes.  Unsuccessful changes to the current document of this type included calls for the Triple-E Senate, which would have been partially realized had a 1992 referendum proposed by the successor of John Turner passed.  The current document of this type contains multiple sections on ? "Language Rights" in its Charter of Rights and Freedom, and one failed attempt to amend a document of this type was the Meech Lake Accord.  For 10 points, name this type of document which provides the framework for a North American government.
+
+----
+num: 3
+category: Trash
+difficulty: College
+fixed: 57
+seen: 190
+answer: {Rome}, {Open City} [or {Open City}; or {Roma Citta Aperta}]
+
+[TG] In a comic scene from this film one character adjusts a statue of St. Rocco that is positioned to be obscenely staring at a nude statue. That man is later chastised by a sexton, who is forced to cook cabbage instead of chicken, for spending money meant for food to buy books, not realizing those books are hiding funds that will later be secretly delivered past curfew to support five hundred men hiding in the mountains. Later in this movie, Ingrid bribes the actress Marina to reveal information about her former lover to the cruel Major Bergmann.  In a famous scene from this film Pina is shot down while chasing after a paddy wagon holding her fiancée ironically minutes before the wagon is liberated by rebel fighters. This movie ends when the priest Don Pietro is executed after refusing to divulge information about the Italian resistance while watching Giorgio Manfredi being tortured to death by Gestapo agents. For 20 points, name this film about the Nazi occupation of the titular Italian metropolis, directed by Roberto Rossellini.
+
+----
+num: 4
+category: Science
+difficulty: College
+fixed: -1
+seen: 81
+answer: {Quadtree} [accept {PM Quadtree} or {PR Quadtree} before mentioned; prompt on "{Tree}"]
+
+[MB] One type of this data structure has a depth known as its resolution, and can contain a lower bound of 2 to the negative of the resolution number of side lengths.  An extensive analysis of these data structures is given by Samet, who notes that the amortized neighbor finding in them can be done in Big O of 1 time.  Several types of these data structures are differentiated by their handling of q-edges, although they all have the property that their leaf nodes are maximal.  Another variety of this data structure draws a line through the center of a node and recursively divides the node until each node contains at most one endpoint.  The general form of these data structures was first formulated by Finkel and Bentley in a paper on "A Data Structure for Retrieval on Composite Keys", and they come in varieties like Point Region and Polygonal Map, or PR and PM, respectively.  For 20 points, name this hierarchical structure often used for representing two-dimensional data, a type of tree where internal nodes have up to four children.
+
+----
+num: 5
+category: Literature
+difficulty: College
+fixed: None
+seen: 60
+answer: The Book of {Disquietude} [or {Livro} do {Desassossego}]
+
+[SJ] One section of this work simply states that "Having already read The Pickwick Papers is one of the great tragedies of my life. I cannot go back and reread it" and the statement "Every landscape is located nowhere" is under the heading "(lunar landscape)." The author claims he "gathered the soul of all the flowers" for this "book with portals open" in the section "Peristyle", and that "in a lucid, heavily incorporeal torpor, I stagnate" in the section "In the Forest of Alienation." The author claims the only worthwhile profession is that of "The Sensationalist", which precedes Death laying out "the damasks of her oblivion and her consolation" in this work's "Funeral March for King Ludwig II of Bavaria." Sections are dedicated to "Our Lady of Silence" and "The Death of the Prince", the latter of which is referenced in the prefatory letter to Mario de Sa-Carneiro. This "factless autobiography" was written by a man who joins Alberto Caeiro, Alvaro dos Campos, and ? Ricardo Reis among the various names its author wrote under.  For 10 points, name this work written under the 'semiheteronym' Bernardo Soares, a memoir by Fernando Pessoa.
+
+----
+num: 6
+category: History
+difficulty: College
+fixed: 57
+seen: 69
+answer: {Ascension}
+
+[AR] Scriptural support for this event can be found in Mark 16:19 and Luke 24:51. St. Helena is held to have built the first memorial to this event, but it was destroyed by the Persians in 614. In Eastern Orthodox tradition, the holiday to commemorate this event is referred to as both the analepsis and the episozomene. Directly after this event occurs in Acts, Matthais is chosen to replace Judas. In Catholicism, the feast to celebrate this event occurs 40 days after Easter Sunday. In the Gospel of John, Jesus implores Mary Magdalen not to touch him as ? this event has not yet occured and tradition holds that while the exact location of this is unknown, it is presumed to have occurred on the Mount of Olives. For 10 points, name this doctrine of Christianity an event wherein Jesus, in the presence of his 11 Apostles, was transported to heaven.
+
+----
+num: 7
+category: History
+difficulty: College
+fixed: -1
+seen: 71
+answer: {amaXhosa}
+
+[JM] This people's myths include the story of Ironside, who uses an iron rod to save his sister from a group of cannibals. The sons of Phalo fought an early civil war among these people, which resulted in the defeat of Rharhabe. They later fought the "War of the Axe," and they were massacred at the Battle of Gwanga under their leader Siyolo. Their prophet Makana led an assault that was repulsed by Colonel Willshire at the Battle of Grahamstown, and their oral tradition describes their first chief Tshawe. In the nineteenth century, their resistance to colonial forces was organized by their leaders Sandile and Maqomo. The niece of their ruler Mhlakaza, Nongqawuse, led the Cattle-Killing movement, contributing to their decimation by Sir George Grey. Between 1779 and 1878, they fought nine Cape Frontier Wars against British and Boer troops. For 10 points, name this people from ? South Africa whose members include Desmond Tutu and Nelson Mandela, and whose language has fifteen distinct clicks.
+
+----
+num: 8
+category: Science
+difficulty: College
+fixed: None
+seen: 80
+answer: {Nikolai Bogoliubov} [accept any {close sounding pronunciation}]
+
+One of this man's theorems, which is used to create analytic continuations of Wrightman's functions, states that if a function is holomorphic in two contiguous wedges, its holomorphic throughout. In addition to that Edge-of-the-Wedge theorem, he is also the namesake of an inner product which is sometimes called the Kubo-Mori inner product. He is also the namesake of a canonical transformation that enables the diagonalization of quadratic Hamiltonians and was used by this man to come to an independent conclusion of the BCS theory. In addition, he is a set of equations along with Born, Green, Kirkwood, and Yvon, which describe the correlation funcitons of a many body system and which generalize to the Liouville equation for a system of finite number of particles. For 10 points, identify this Russian scientist, who lends his name to an ?inequality used to establish an upper bound on the Helmholtz Free energy of liquid metals along with Gibbs. 
+
+----
+num: 9
+category: Fine Arts
+difficulty: College
+fixed: 1
+seen: 69
+answer: Sofonisba {Anguissola}
+
+[JM] This artist used a mirror to paint a self-portrait featuring a large monogram spelling the letters AMILCARE. After Michelangelo asked this artist to portray a weeping boy, this artist created the sketch Asdrubale Being Bitten by a Crawfish, which directly inspired Caravaggio's painting Boy Bitten by a Lizard. This artist painted a portrait of Elisabeth of Valois wearing a zibellino during this artist's period as court painter to Philip II of Spain from 1559 to 1573. This painter created a self-portrait with a book open to the words "Virgo Seipsam Fecit 1554," and painted a genre scene of the sisters Lucia, Minerva, and Europa playing chess, titled The Chess Game. In a notable double portrait, this artist depicted Bernardino Campi, ? her teacher, in the act of painting her portrait. For 10 points, name this Mannerist painter from Cremona, one of the first female Renaissance artists.
+
+----
+num: 10
+category: Social Science
+difficulty: College
+fixed: 1
+seen: 50
+answer: Georges {Dumézil}
+
+[GT] One of this thinker's works reproduces four sections of the Gesta Danorum as an appendix to a series of essays analyzing Saxo Grammaticus as a source of Scandinavian myth, subtitled for The Saga of Hadingus. This thinker rejected the idea that the Aesir and Vanir are two warring peoples in The Gods of the Ancient Northmen. This man made corrections to a dictionary by Hans Vogt while working with Tevfik Esenç to record the over 80 consonant sounds of Ubykh. He rejected the idea of primitivists like H. J. Rose that the title entity descended from numen in Archaic Roman Religion. One work is split into sections studying the Mahabharata, the founding of Rome, and Ossetian legends about the Narts; that work is the first volume of a three-volume work. He argued that gods like Jupiter, Mitra, and Varuna saved the same purpose in a social hierarchy inherited from a common ancestor. For 10 points, name this Indo-Europeanist who posited that men's roles were split into priests and kings, warriors, and producers of goods in his ? tripartite hypothesis, expounded in works like Mitra-Varuna and Flamin-Brahmin, and also wrote Myth and Epic.
+
+----
+num: 11
+category: Literature
+difficulty: College
+fixed: None
+seen: 61
+answer: {Summer} and {Smoke}
+
+[TG] In an argument over an anatomy chart during this play, one character argues that humans consist only of an upper part hungry for truth, a middle part hungry for food, and a lower part hungry for love, and challenges another character to pinpoint the location of the soul. In this play's final scene, the protagonist claims, “Life is full of little mercies . . . not big mercies,” before offering a traveling shoes salesmen one of her anxiety pills. That character exits after giving a “valedictory salute” to a statue of an angel that reappears throughout this play. A character in this play reforms his ways and goes to Lyon to complete his father's research on vaccines after his father is shot by Mr. Gonzales, the owner of the Moon Lake casino and the father of his lover Rosa. This play is set in Glorious Hill, and centers on the ongoing relationship between the minister's daughter and the scandalous ? Dr. John Buchanan. Rewritten in 1964 as The Eccentricities of a Nightingale, for 10 points, name this play about Alma Winemiller by Tennessee Williams. 
+
+----
+num: 12
+category: Science
+difficulty: College
+fixed: None
+seen: 80
+answer: {oligodendrocytes} [prompt on early {neuroglial cells}; do not prompt on {Schwann Cells}]
+
+[AR] Pelizaeus–Merzbacher Disease and Spastic Paraplegia Type II can be caused by a mutation in the Plp gene which affects these cells' primary function. Some of the factors which influence these cells' differentiation from precursors include neurotrophin 3, GGF and CNTF. Their name was coined in 1921 after Del Rio-Hortega introduced a silver carbonate staining technique to selectively label them. One function of these cells is to synthesize the proteins connexin32 and connexin47 and it has been recently discovered that in the adult, a population of astrocytes located in the subventricular zone can “de-differentiate” to give rise to these types of cells. Apoptosis of these cells is thought to be triggered during ?Multiple Sclerosis and their functional analog in the peripheral nervous system are called Schwann cells. For 10 points name this type of glia found in the central nervous system responsible for myelination of axons.
+
+----
+num: 13
+category: History
+difficulty: College
+fixed: 1
+seen: 69
+answer: Alfred "Alf" Mossman {Landon}
+
+[JM] One of this politician's speeches was roundly mocked for the line "Wherever I have gone in this country, I have found Americans." A song supporting this politician used the melody of "O Susanna," and affirmed that this man "learned a thing or two / he knows the right solution / And in the White House he will stay / within the Constitution." This politician lost much support by choosing John Hamilton as his campaign manager, and gave the "I Will Not Promise the Moon" speech attacking Social Security. This candidate's campaign slogan was "life, liberty, and" his last name, and his running mate was the publisher of the Chicago Daily News, Frank Knox. Modern scientific polling began as a reaction against a poll that erroneously predicted this candidate would win three hundred and seventy electoral votes, conducted by the Literary Digest. Only winning the states of ? Maine and Vermont, for 10 points, name this progressive Republican governor of Kansas who lost the election of 1936 to Franklin Delano Roosevelt.
+
+----
+num: 14
+category: Philosophy
+difficulty: College
+fixed: None
+seen: 55
+answer: {Logical Investigations} [or {Logische Untersuchungen}]
+
+[AR] The author of this work assents to Tardowski's distinctions for types of existence while engaging in a critique of Locke's Universal triangle, in order to put forth a kind of platonism for meaning and mental content, which this work derives from the ideas of Herman Lotze and a student of the author's. Another section of this work objects to the meaning of 'negation' in Sigwart's doctrine regarding the Principle of Contradiction, and in parroting Hobbes, this work suggests that in academia there is a war of all against in all concerning the doctrines of the title subject.  The second volume of this work presents six "descriptive-psychological" or epistemological inquiries on such topics as universals, meaning, and formal ontology of parthood relations or mereology. This work also comments heavily on the ideas of Mill and Spencer to generate an attack on the principles of ? psychologism that occupies most of the first volume. The author devotes a chapter to an analysis of Hume's theory of abstraction and its dependence on Berkeley, a topic that the author of this book takes up again in The Crisis of European Sciences. For 10 points, name this 1901 work of philosophy, the first major elucidation of phenomenology by Edmund Husserl.
+
+----
+num: 15
+category: History
+difficulty: College
+fixed: 57
+seen: 72
+answer: {Arkansas}
+
+[CC] A large force of black Union soldiers was attacked while foraging for corn near Poison Spring in this state, forcing the main Union army back from Camden and into a delaying action at Jenkin's Ferry on the Saline River. The town of Washington served as this state's temporary capital during the war after the loss of Reed's Bridge across Bayou Meto sealed the fate of its original capital and the southernmost hills of Crowley's Ridge provided strong defensive locations for the redoubts that defended Helena from a July 4th, 1863 attack. Confederate cavalry commanders Jo Shelby and John Marmaduke launched several raids across the Boston Mountains in this state while a Union army that marched more than 100 miles in just three days was forced to cross the Illinois River near Cane Hill in a December 1862 battle in this state ?. Union General Samuel Curtis was able to stop a Confederate assault centered on the namesake landmark just off the Bentonville Detour at the Battle of Pea Ridge in, for 10 points, what U.S. state?
+
+----
+num: 16
+category: Literature
+difficulty: College
+fixed: 57
+seen: 59
+answer: {Theocritus}
+
+[JM] This author wrote an encomium addressed to the tyrant Hiero II, his patron. In one of this author's poems, Aeschines describes his turbulent relationship with Cynisca to Thyonichus, who advises him to enlist in the army of Ptolemy Philadelphus. In another, Gorgo and Praxinoë attend the festival of Adonis. Those poems are based on the mimes of Sophron. In the first of a group of poems by this author, Thyrsis sings the story of the tragic death of Daphnis. Another of this author's poems features a singing contest between Simichidas and Lycidas on the way to a harvest. This author lived on Syracuse and Cos, and created a genre of poetry with his ? Idylls. For 10 points, name this third century BCE Greek poet, traditionally regarded as the inventor of pastoral poetry.
+
+----
+num: 17
+category: Fine Arts
+difficulty: College
+fixed: -1
+seen: 69
+answer: {Kindertotenlieder} [or Songs on the Death of {Children}]
+
+[SJ] The second of these pieces uses three cadential six-four chords to support the words  Strahlen, Leuchten, and Sterne, while the words Zusammen, and umschwammen are set to appoggiaturas. That song also claims "mists floated about me/ woven by blinding fate" and that "What to you are only eyes... shall be stars to us." The singer tells himself not to be anxious in the fourth of these works, which repeatedly claims the title figures are walking in the hills and that the day is fair. The fourth work in this cycle is addressed to a figure who "would step in/ with bright joy" following a woman who "who steps into the doorway." The fifth ends claiming the title figures "are covered by the hand of God"  and sees the singer bemoan the "roaring, cruel storm" which besets a "mother's house." The first work in this cycle claims "A little light has been extinguished in my household" and that the sun shines for everyone despite the misfortune that has afflicted the singer. The composer claimed "these ? five songs are intended as one inseparate unit." For 10 points, name this song cycle based on poems of Friedrich Rückert which preceded the death of its composer's daughter Maria by four years, a work of Gustav Mahler. 
+
+----
+num: 18
+category: Science
+difficulty: College
+fixed: 57
+seen: 81
+answer: {Solubility} [prompt on {miscibility}; word forms are {ok}]
+
+[EM] A fractional parameter theory of this quantity is given by the Teas graph, and another method of calculating this quantity that attempts to account for hydrogen bonding named for Burrell. Another method of calculating this value depends on group contribution parameters and is named for Hoy. Another method of calculating this quantity adds the square of dispersion, polar, and hydrogen bond delta values to find a relative energy difference and is named for Hansen. A simpler method from polymer chemistry is the one-component Hildebrand parameter method, which can be used in the Flory-Huggins theory. A differential value of this quantity for two phases is given by the partition coefficient, and it increases in the particle size effect and speciation effect. Equilibria related to this quantity will shift due a variation of Le Chatlier's principle known as the common ion effect ?, while a sharp decrease leads to precipitation. For 10 points, name this quantity, the amount of a solute that will dissolve in a solvent.
+
+----
+num: 19
+category: Literature
+difficulty: College
+fixed: 57
+seen: 62
+answer: {Hopkins}
+
+[JM] One author with this surname wrote a novel about Reuel Briggs, who journeys from Harvard to Africa and is crowned King Ergamenes in the hidden Ethiopian city of Telassar. That author with this surname also wrote a novel about Aurelia Madison's seduction of Cuthbert Sumner, and a novel about the ancestor of Charles Montfont, Will Smith, who marries Sappho Clark. This surname is shared by the author of the novels Of One Blood, Hagar's Daughter, and Contending Forces, Pauline, as well as an author who wrote "Man's mounting spirit in his bone-house, mean house, dwells" in "The Caged Skylark." That author with this surname cried "Comforter, where, where is your comforting?" in "No worst, there is none," and asserted that "the just man justices" instead of "crying What I do is me: for that I came" in his poem "As ? kingfishers catch fire, as dragonflies draw flame." For 10 points, name this surname shared by a British poet who asked "Margaret, are you greiving / over Goldengrove unleaving" in "Spring and Fall" and wrote that "the Holy Ghost over the bent / World broods with warm breast and with ah! bright wings" in "God's Grandeur."
+
+----
+num: 20
+category: History
+difficulty: College
+fixed: None
+seen: 71
+answer: Battle of {Dyrrhachium}
+
+[JM] In one battle of this name, the desertion of Constantine Bodin of Duklja led seven thousand Seljuk Turks sent by the Sultanate of Rûm to desert the losing side. During that battle, the retreating forces of Count Amicetas of Giovinazzo were pursued by Varangians, who were then surrounded by enemy forces and retreated to the Church of the Archangel Michael, only to be burned alive. Another battle of this name was followed by the capture of Gomphi, and featured vast fortifications constructed by both sides. In the later battle of this name, Sichelgaita rallied her husband's troops, and the defending forces of Gregory Pakourianos were crushed by a Norman cavalry charge. The earlier battle of this name saw the defeat of one commander's ninth legion during the Great Roman Civil War; the later battle of this name was a victory for Robert Guiscard over Emperor Alexius of the Byzantine Empire in 1081. For 10 points, give the shared name of these two battles that took place in modern-day Albania, including a 48 BCE victory for Pompey over Caesar that occurred before the Battle of ? Pharsalus.
+
+----
+num: 21
+category: Mythology
+difficulty: College
+fixed: None
+seen: 111
+answer: {Asclepius}
+
+[JM] In The Nature of the Gods, Cicero wrote that King Dionysius ordered a golden beard to be removed from a statue of this figure. According to the Epidaurians, this god was suckled by a goat on Mount Nipple, and according to the Iliad, this figure was the ruler of Tricca. People spending a night in an abaton expected this figure to appear in their dreams. Because of the infidelity of this figure's mother, his father turned a crow's feathers from white to black. According to Apollodorus, this father of Podoleirios and Machaon and nephew of Ixion was given a potion made from the blood of the Gorgon by Athena. In revenge for the death of this figure, his father killed the Cyclopes. This figure was turned into the constellation Ophiucus by Zeus, who had earlier struck him with a ? thunderbolt for bringing the dead back to life. Chiron taught this son of Coronis and Apollo the art of healing. For 10 points, name this Greek god of medicine.

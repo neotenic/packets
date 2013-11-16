@@ -1,0 +1,214 @@
+####
+tournament: Chitin
+round: Round 3 - Vandy 2.doc
+year: 2008
+####
+
+num: 1
+category: Science
+difficulty: HS
+fixed: 1
+seen: 480
+answer: {viscosity}
+
+For an ideal gas, the temperature dependence of this quantity can be calculated with Sutherland's formula, and it usually appears along with the length and a factor of 8 in the denominator of Poiseuille's equation.  Often measured with a Zahn cup, its kinematic form is found by dividing its dynamic form by the density.  It is found as the ratio of shear stress to velocity gradient in Newtonian fluids, for which this quantity remains constant. For 10 points, name this fluid property measured in poise, often defined as the resistance of a material to flow.
+
+----
+num: 2
+category: Literature
+difficulty: HS
+fixed: -1
+seen: 440
+answer: A {Tale} of {Two} Cities
+
+The first part of this work, “Recalled to Life,” begins with Jarvis Lorry traveling to Dover to meet a woman, whom he informs that her father was falsely imprisoned because he knew about attacks by the Marquis de St. Evremonde. The novel's protagonist, who is the nephew of the Marquis, escapes execution due to the appearance of his look-alike who declares that “It is a far, far better thing that I do, than I have ever done.” For 10 points, name this novel, which ends with Sydney Carton taking Charles Darnay's place at the guillotine, a work by Charles Dickens about Paris and London.
+
+----
+num: 3
+category: History
+difficulty: HS
+fixed: -1
+seen: 423
+answer: The {Jewish} War [or the {Great Jewish Revolt}; or the First {Jewish}-{Roman} War – {basically} accept things {involving} the word "{Jewish}" and {fighting.}]
+
+This conflict started in Caesarea over a dispute about bird sacrifices. Agrippa II fled his capital with his sister, and the army of Cestius Gallus was decimated at the battle of Beth Horon, although the eventual Roman victory is celebrated on the arch of Titus. The Antonia fortress fell to the Romans shortly before the end of the siege of the capital, which had been begun by Vespasian, although Masada held out until 73 A.D. For 10 points, identify this war described by Josephus, during which the Second Jerusalem Temple was destroyed by the Romans.
+
+----
+num: 4
+category: Social Science
+difficulty: HS
+fixed: 1
+seen: 390
+answer: {bystander} effect
+
+Latane and Darley were the first to study this phenomenon, and confirmed that as the number of subjects increased, so did the effect's impact.  The most famous example of this phenomenon was the murder of Kitty Genovese, and it can be counteracted by the victim of an attack pointing to a specific individual and asking them directly for help.  For 10 points, name this effect in which a diffusion of responsibility makes people NOT intervene in an emergency situation when many others are present, acting only as the namesake onlookers.
+
+----
+num: 5
+category: Literature
+difficulty: HS
+fixed: 57
+seen: 453
+answer: Pablo {Neruda}
+
+While serving at a diplomatic post in Spain, he helped found the literary review Caballo verde para la poesia.  His political writings include Canto to Stalingrad and a Salute to Batista, while less controversial poems include Extravagaria and Residence on Earth.  One of his collections features works like "The Rivers of Song," "The Conquistadores," and "The Heights of Macchu Picchu," while another disproportionately pairs two contrasting emotions. For 10 points, name this author of Canto General and Twenty Love Poems and a Song of Despair, the 1971 Nobel winning Chilean poet.
+
+----
+num: 6
+category: Science
+difficulty: HS
+fixed: 1
+seen: 489
+answer: lead
+
+The Betterton-Kroll and Betts processes are industrial methods of separating bismuth from this element.  Two of its isotopes, 214 and 210, are in the decay chain of uranium-238, both times after alpha emission by polonium.  In the body, it interferes with ALA enzymes that are important in the formation of heme, leading to microcytic anemia, and in nature it is found in the ore galena. For 10 points, name this transition metal often used in car batteries and x-ray shielding, with an atomic number 82 and symbol Pb.
+
+----
+num: 7
+category: History
+difficulty: HS
+fixed: 57
+seen: 414
+answer: Ralph {Nader}
+
+He wrote the introduction to Mike Gravel's book Citizen Power: A Mandate for Change. His running mates have included Native American Winona LaDuke and now San Francisco Supervisor Matt Gonzalez. A 1965 book by this man pressured automobile companies to introduce improved safety measures in their products. That book, Unsafe At Any Speed, was accompanied by his lawsuit against General Motors. For 10 points, name this consumer and environmental advocate who, in February, announced his fifth Presidential campaign.
+
+----
+num: 8
+category: Philosophy
+difficulty: HS
+fixed: 1
+seen: 514
+answer: Stoicism
+
+According to proponents of this school of philosophy, truth can be distinguished from even the most fallacious statement, even if only a semantic approximation is available.  This school's central belief of the “certainty of truth” can be seen in the writings of Boethius, Epictetus, Seneca the Younger, and the man who wrote that one must be “free of secular desire” in his Meditations, Marcus Aurelius. For 10 points, name this school of philosophy that was founded by Zeno of Citium, which stressed the importance of internal gratification rather than material success.
+
+----
+num: 9
+category: Trash
+difficulty: HS
+fixed: 1
+seen: 1023
+answer: Los Angeles (or Brooklyn) {Dodgers}
+
+They were known as the Superbas and Bridegrooms in their early days. They were the victims of one of the most infamous collapses of all time in 1951, culminating with pitcher Ralph Branca giving up the “Shot Heard ‘Round The World” to the Giants' Bobby Thompson. The first Rookie of the Year award went to a player on this team who was signed by general manager Branch Rickey to break the color barrier, Jackie Robinson. For 10 points, name this National League baseball team that has played in Brooklyn and now Los Angeles.
+
+----
+num: 10
+category: History
+difficulty: HS
+fixed: 1
+seen: 415
+answer: Francois {Duvalier} [or {“Papa Doc”} Duvalier]
+
+This member of Les Groupe des Griots was among the few leaders to recognize the Biafra region of Nigeria as an independent state, and he was excommunicated from the Catholic Church for expelling most of his country's foreign bishops.  He served various posts under President Estimé, and then helped overthrow that man's overthrower, Paul Magloire.  While in power, he relied on the support of his brutal private army, the Tontons Macoutes.  For 10 points, which leader of Haiti from 1957-71 was succeeded by his similarly nicknamed son Jean-Claude?
+
+----
+num: 11
+category: Science
+difficulty: HS
+fixed: 57
+seen: 488
+answer: {parallel} postulate [accept {Euclid's fifth postulate} before read]
+
+Arthur Schopenhauer criticized attempted proofs of this statement from concepts rather than using perception, and G.S. Klügel demonstrated how 28 attempted proofs of it were wrong. It can be equated to Proclus' axiom, and a stronger version of it is Playfair's axiom. Described in Proposition 29, it was shown to be independent of four earlier statements of the same kind. Bolyai, Lobachevsky, and Riemann have all developed geometries in which it doesn't hold. For 10 points, name this fifth postulate in Euclid's Elements, which deals with lines that never intersect.
+
+----
+num: 12
+category: Literature
+difficulty: HS
+fixed: 57
+seen: 443
+answer: Dr. Johann Georg {Faustus}
+
+This character may have been based on similar characters like Theophilus of Adana and Mary of Nijmegen.  Other characters based on him include the main character of a Bulgakov novel in which he deals with Woland, and the composer Adrian Leverkuhn. In works in which he appears, he tries to make a utopia by reclaiming land from the sea, gets led to meet ancient gods by a homunculus, and has a son Euphorion with a woman he conjured, Helen of Troy.  For 10 points, name this legendary figure who made a deal with Mephistopheles to gain infinite knowledge, notably written about by Marlowe and Goethe.
+
+----
+num: 13
+category: Fine Arts
+difficulty: HS
+fixed: 57
+seen: 488
+answer: Boléro
+
+This work grew out of an aborted commission by Ida Rubenstein to orchestrate a set of Albeniz piano pieces.  Arturo Toscanini popularized it in America, but he and the work's composer argued about its tempo. Originally conceived as a ballet, the main melody is played in C major, with other instruments playing the same tune at the same time in other keys. Shostakovich's Leningrad Symphony drew many comparisons to it, especially the extended use of a repetitive snare-drum pattern. For 10 points, name this work based on a namesake Spanish dance by Maurice Ravel.
+
+----
+num: 14
+category: Mythology
+difficulty: HS
+fixed: 1
+seen: 788
+answer: {Odysseus} [or {Ulysses}]
+
+This man went with Diomedes to retrieve the bow of Philoctetes. Earlier, he made Palamedes look like a traitor after Palamedes revealed that he was feigning madness to avoid military service. He received a bag of winds from Aeolus which his men released, and tricked Polyphemus by adopting the name Nobody. Meanwhile, his son Telemachus was trying to ward off suitors for Penelope. For 10 points, name this hero of the Trojan War who underwent a ten-year journey to return home in a namesake epic by Homer.
+
+----
+num: 15
+category: History
+difficulty: HS
+fixed: 1
+seen: 427
+answer: {Umayyad} Caliphate or Empire
+
+This empire's decline was completed after it was defeated in the Battle of Zab, though Abd ar-Rahman managed to start another incarnation of it in Cordoba, Spain.  It featured an internal clash between the Sufyanids and the Marwanids, which was mostly ended by the rule of Abd al-Malik following the deaths of Yazid I and Mu'awiyah II.  At its greatest extent in the early 8th century, this empire based in Damascus ruled over an area extending from Spain nearly to India.  For 10 points, name this first of the Muslim Empires, which was later replaced by the Abbasids.
+
+----
+num: 16
+category: Science
+difficulty: HS
+fixed: 57
+seen: 487
+answer: {pancreas}
+
+The lower and left lateral portions of this organ form the uncinate process, and many of its products empty through the duct of Wirsung. It is primarily composed of acinar cells, while other portions of it have recently been discovered to produce ghrelin in epsilon cells, along with somatostatin in delta cells. Its exocrine portions produce enterokinase, its namesake lipase, and trypsin, which are secreted into the duodenum. For 10 points, name this organ whose alpha and beta cells of the islets of Langerhans produce glucagon and insulin.
+
+----
+num: 17
+category: Geography
+difficulty: HS
+fixed: 57
+seen: 714
+answer: {Mammoth} Cave
+
+It is found next to similar structures at Martin Ridge and Fisher Ridge. Near it, the Nolin River flows into the Green River, the level of which Édouard-Alfred Martel predicted should be related to the Echo River, which flows through it. The Big Clifty Sandstone serves as its cap, overlying the Girkin Formation, and Kaemper's survey data was notably not used in creating entrances like one at Violet City. Containing segments such as Frozen Niagara and Fat Man's Misery, for 10 points, name this national park and cave system of southern Kentucky, the largest in the world.
+
+----
+num: 18
+category: History
+difficulty: HS
+fixed: 1
+seen: 416
+answer: Battle of {Yorktown}
+
+A captured letter, the Wethersfield Intercept, revealed that one of the commanders planned to march south to this battle. The only major advance during it was achieved by Alexander Hamilton, when he captured an enemy redoubt. A British band played “The World Turned Upside Down” at the end of this standoff, and second-in-command Charles O'Hara was directed to surrender to George Washington. For 10 points, name this 1781 battle at which Lord Cornwallis' army was besieged in Virginia, the last major engagement of the American Revolution.
+
+----
+num: 19
+category: Fine Arts
+difficulty: HS
+fixed: 1
+seen: 488
+answer: {Donatello} [or {Donato} di Niccolò di Betto Bardi]
+
+This artist's depictions of St. John the Evangelist include the stucco roundels for the sacristy of San Lorenzo and a statue of him for the Santa Croce church, which also houses his statue of St. Louis of Toulouse. He sculpted a pair of prophets usually called "Jeremiah" and "Zuccone," and his time in the workshop of Ghiberti showed in his Siena baptistery relief "Feast of Herod." The sculptor of the equestrian monument Gattamelata, as well as St. Mark and St. George for Or San Michele, for 10 points, name this artist who showed the title figure standing on a head in his bronze David.
+
+----
+num: 20
+category: Literature
+difficulty: HS
+fixed: 1
+seen: 442
+answer: Theodore {Dreiser}
+
+Sherwood Anderson wrote a noted tribute to this author in Horses and Men. He wrote about tycoon Frank Cowperwood in The Financier, The Titan and The Stoic, his so-called Trilogy of Desire. One of his novels focuses on the title character leaving the country for Chicago, where she begins an affair with George Hurstwood, while his first success came in a book that tells of social climber Clyde Griffiths drowning the pregnant Roberta Alden to avoid marrying her. For 10 points, name this author of Sister Carrie and An American Tragedy.
+
+----
+num: 21
+category: Literature
+difficulty: HS
+fixed: 57
+seen: 437
+answer: {Our Town}
+
+Near the end of this play, one of the main characters re-lives her 12th birthday and realizes how little people appreciate life while they live it.  Also at the play's conclusion, a number of the deceased characters sit in the graveyard and gossip about the lviing.  The godlike Stage Manager serves as the narrator and provides background information on the plot, which centers on the love, marriage, and separation by death of George Gibbs and Emily Webb. For 10 points, name this play set in the fictional Grover's Corners, New Hampshire, written by Thornton Wilder.

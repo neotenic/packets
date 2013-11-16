@@ -1,0 +1,456 @@
+####
+tournament: #6126
+round: Show #6126 - Monday, April 11, 2011
+year: 2011
+date: 2011-04-11
+####
+
+num: 1
+category: Geography
+difficulty: 200
+seen: 10
+answer: the Rhine
+
+Cologne, Germany.
+
+----
+num: 2
+category: Literature
+difficulty: 200
+seen: 4
+answer: Bouvier
+
+It's the maiden name of the gal Homer married in Shotgun Pete's wedding chapel & of the gal JFK married in Newport.
+
+----
+num: 3
+category: Literature
+difficulty: 200
+seen: 4
+answer: a ten-gallon hat
+
+Contrary to its name, this signature cowboy accessory would actually hold about 96 ounces.
+
+----
+num: 4
+category: History
+difficulty: 200
+seen: 5
+answer: Jesse Ventura
+
+This wrestler & Minnesota governor served on a SEAL underwater demolition team in the Vietnam era.
+
+----
+num: 5
+category: Literature
+difficulty: 200
+seen: 4
+answer: godliness
+
+Proverbially speaking, it's what "cleanliness is next to".
+
+----
+num: 6
+category: Geography
+difficulty: 400
+seen: 8
+answer: the Rhine
+
+Basel, Switzerland.
+
+----
+num: 7
+category: Literature
+difficulty: 400
+seen: 4
+answer: a boxer
+
+In "The Homer They Fall", after learning he can withstand any blow to the head, Homer becomes a pro one of these.
+
+----
+num: 8
+category: Literature
+difficulty: 400
+seen: 4
+answer: a knot (or a nautical mile)
+
+Used by junks & schooners alike, it's about 1.15 miles.
+
+----
+num: 9
+category: Science
+difficulty: 400
+seen: 6
+answer: protein
+
+Early studies focused on finding the structure not of carbs & fat but of this compound, collagen being one example.
+
+----
+num: 10
+category: History
+difficulty: 400
+seen: 3
+answer: an admiral
+
+U.S. special operations commander Eric T. Olson is the first SEAL to achieve 4-star status as one of these.
+
+----
+num: 11
+category: Literature
+difficulty: 400
+seen: 4
+answer: the Preakness
+
+Place your bets!  Each May Baltimore's Pimlico Track hosts this Triple Crown race.
+
+----
+num: 12
+category: Geography
+difficulty: 600
+seen: 8
+answer: the Rhine
+
+Strasbourg, France.
+
+----
+num: 13
+category: Literature
+difficulty: 600
+seen: 4
+answer: Ned Flanders
+
+Homer's dislikes include his boss (Mr. Burns), yard work & his next-door neighbor, this man.
+
+----
+num: 14
+category: Literature
+difficulty: 600
+seen: 4
+answer: a 2-by-4
+
+Due to drying & planing, the piece of lumber known by this name is actually 1 1/2 inches by 3 1/2 inches.
+
+----
+num: 15
+category: Science
+difficulty: 600
+seen: 6
+answer: bacteria
+
+These one-celled organisms that may cause disease also produce the "snipping" enzymes that create recombinant DNA.
+
+----
+num: 16
+category: History
+difficulty: 600
+seen: 4
+answer: an astronaut
+
+SEAL Christopher Cassidy completed training as one of these in 2006; he was a mission specialist on STS-127.
+
+----
+num: 17
+category: Literature
+difficulty: 600
+seen: 4
+answer: spineless
+
+It describes any invertebrate animal, or a person lacking courage.
+
+----
+num: 18
+category: Geography
+difficulty: 800
+seen: 8
+answer: the Rhine
+
+Arnhem, Netherlands.
+
+----
+num: 19
+category: Literature
+difficulty: 800
+seen: 4
+answer: the Springfield nuclear plant
+
+Homer's official bio says he's earned "the distinction of being the longest-term entry-level employee" here.
+
+----
+num: 20
+category: Literature
+difficulty: 800
+seen: 3
+answer: an acre
+
+Bring your hoe!  This unit of land is equal to 43,560 square feet.
+
+----
+num: 21
+category: History
+difficulty: 800
+seen: 4
+answer: Bob Kerrey
+
+As a SEAL team leader in Vietnam, this Nebraska senator earned the Medal of Honor.
+
+----
+num: 22
+category: Literature
+difficulty: 800
+seen: 4
+answer: an abyss
+
+From the Greek for "bottomless", it's an immeasurably deep chasm or void.
+
+----
+num: 23
+category: Literature
+difficulty: 1000
+seen: 4
+answer: Abe
+
+Homer's hippie mom abandoned him, so he was raised by a non-hippie dad named this.
+
+----
+num: 24
+category: Literature
+difficulty: 1000
+seen: 3
+answer: millimeters
+
+In a blood pressure reading such as 115/75, the numbers represent these of mercury.
+
+----
+num: 25
+category: Science
+difficulty: 1000
+seen: 6
+answer: hair
+
+Linus Pauling used X-ray crystallography to study the patterns of keratin in this body part.
+
+----
+num: 26
+category: History
+difficulty: 1000
+seen: 4
+answer: Mogadishu
+
+SEAL John Gay survived a firefight in this Somali capital after a bullet deflected off the knife he wore.
+
+----
+num: 27
+category: Literature
+difficulty: 1000
+seen: 4
+answer: truss
+
+After you stuff a turkey, you might do this to it, meaning tie up the wings & legs for easier cooking & a nice appearance.
+
+----
+num: 28
+category: History
+difficulty: 400
+seen: 4
+answer: sails
+
+The Egyptians were the first known civilization to power boats using these, probably large leafy fronds on the bow.
+
+----
+num: 29
+category: Trash
+difficulty: 400
+seen: 6
+answer: (Peter) O\'Toole
+
+"Lawrence of Arabia".
+
+----
+num: 30
+category: History
+difficulty: 400
+seen: 4
+answer: the 1st
+
+"Congress shall make no law".
+
+----
+num: 31
+category: Literature
+difficulty: 400
+fixed: -1
+seen: 4
+answer: Sherlock Holmes
+
+In this detective's 1892 "Adventure of the Blue Carbuncle", the carbuncle was a blue garnet hidden in a goose.
+
+----
+num: 32
+category: Religion
+difficulty: 400
+seen: 10
+answer: a eulogy
+
+It's from the Greek for "well spoken"; Bindi Irwin gave a moving one for her dad.
+
+----
+num: 33
+category: History
+difficulty: 400
+seen: 4
+answer: (Condoleezza) Rice
+
+Secretaries of State:.
+
+----
+num: 34
+category: Trash
+difficulty: 800
+seen: 4
+answer: (Tom) Hanks
+
+"Turner & Hooch" (just Turner, please).
+
+----
+num: 35
+category: History
+difficulty: 800
+seen: 4
+answer: the 2nd Amendment
+
+"A well regulated militia, being necessary".
+
+----
+num: 36
+category: Literature
+difficulty: 800
+seen: 4
+answer: Bluebeard
+
+Created by Charles Perrault, this fairy tale villain who killed 6 wives may be based on real murderer Gilles de Rais.
+
+----
+num: 37
+category: Religion
+difficulty: 800
+seen: 9
+answer: eunuchs
+
+Traditionally they guarded the harem.
+
+----
+num: 38
+category: History
+difficulty: 800
+seen: 4
+answer: rat
+
+Years in the Chinese calendar:.
+
+----
+num: 39
+category: History
+difficulty: 1200
+seen: 5
+answer: green
+
+During the Old Kingdom, Egyptians would paint their eyelids this color using malachite, an oxide of copper.
+
+----
+num: 40
+category: Trash
+difficulty: 1200
+seen: 5
+answer: (George) Clooney
+
+"Fantastic Mr. Fox".
+
+----
+num: 41
+category: Literature
+difficulty: 1200
+seen: 4
+answer: Stephen Crane
+
+4 years after "The Red Badge of Courage", he wrote "The Blue Hotel", considered one of his finest short stories.
+
+----
+num: 42
+category: Religion
+difficulty: 1200
+seen: 9
+answer: Eucharist
+
+It's another name for Holy Communion in the Catholic church.
+
+----
+num: 43
+category: History
+difficulty: 1600
+seen: 5
+answer: the Alexandrian Library
+
+A Greek scholar named Callimachus wrote a bibliographical survey of the authors of the books held here.
+
+----
+num: 44
+category: Trash
+difficulty: 1600
+seen: 6
+answer: Kathleen Turner
+
+"Peggy Sue Got Married".
+
+----
+num: 45
+category: History
+difficulty: 1600
+seen: 4
+answer: the 8th
+
+"Nor cruel and unusual punishments inflicted".
+
+----
+num: 46
+category: Religion
+difficulty: 1600
+seen: 10
+answer: Euclid
+
+Surveyors named this city in northeastern Ohio for a mathematician.
+
+----
+num: 47
+category: History
+difficulty: 1600
+seen: 5
+answer: Kofi Annan
+
+U.N. Secretaries-General:.
+
+----
+num: 48
+category: History
+difficulty: 2000
+seen: 6
+answer: the Egyptian Book of the Dead
+
+In some cases you could buy this guide for the departed "off the rack" & have a scribe fill in your name.
+
+----
+num: 49
+category: History
+difficulty: 2000
+seen: 7
+answer: the 13th
+
+"Neither slavery nor involuntary servitude".
+
+----
+num: 50
+category: Religion
+difficulty: 2000
+seen: 15
+answer: a euphonium
+
+It's the brass instrument heard.

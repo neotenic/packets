@@ -1,0 +1,217 @@
+####
+tournament: Question Set C
+round: Round-3C-MS.pdf
+####
+
+num: 1
+category: Earth Science
+difficulty: MS
+seen: 9
+answer: Troposphere
+
+The summit of Mount McKinley or Denali at about 6,200 meters is foun d in what layer of the Earth’s atmosphere?
+
+----
+num: 2
+category: Math
+difficulty: MS
+seen: 7
+answer: X^3y^4z^2
+
+Simplify the following: (x^3y^4z^2) × (2y^3)^0
+
+----
+num: 3
+category: General Science
+difficulty: MS
+seen: 6
+answer: 1440
+
+Convert 10 square feet into square inches:
+
+----
+num: 4
+category: Life Science
+difficulty: MS
+seen: 10
+answer: Insect  (Accept:  Insecta)
+
+What is MOST commonly noted as the most diverse class of life on Earth ?
+
+----
+num: 4
+category: Life Science
+difficulty: MS
+fixed: -1
+seen: 10
+answer: Centipede
+(Solution: Centipedes Are Chilopods; All Others Are Insects)
+
+Which one of the following 5 organisms is LEAST related to the others: centipede; beetle; fly; bed bug; wasp
+
+----
+num: 5
+category: Physical Science
+difficulty: MS
+seen: 5
+answer: Water  (Accept:  H
+^2o)
+
+The bubbles in boiling water are composed of what molecules?
+
+----
+num: 5
+category: Physical Science
+difficulty: MS
+seen: 6
+answer: 0  (Accept:  None)
+
+How much work is done in holding a steel block in place by applying a force of 800 newtons for 5 seconds?
+
+----
+num: 7
+category: Math
+difficulty: MS
+seen: 6
+answer: 600
+
+If 10% of a certain number is 240, what is 25% of the original number?
+
+----
+num: 8
+category: General Science
+difficulty: MS
+seen: 6
+answer: 6
+
+If a circle’s circumference is divided by its radius, what is the resulting value to the nearest whole number?
+
+----
+num: 9
+category: Life Science
+difficulty: MS
+seen: 11
+answer: Oyster;  Clam
+
+Name all of the following 4 organisms that are bivalve mollusks: octopus; oyster; snail; clam
+
+----
+num: 10
+category: Physical Science
+difficulty: MS
+seen: 6
+answer: Diffraction
+
+What property of sound is most directly responsible for it bending around objects?
+
+----
+num: 12
+category: Math
+difficulty: MS
+seen: 5
+answer: 7
+
+What is the greatest common factor of the numbers 14 and 49?
+
+----
+num: 12
+category: Math
+difficulty: MS
+seen: 6
+answer: Mmvi
+
+What is the Roman numeral equivalent of the year 2006?
+
+----
+num: 14
+category: Life Science
+difficulty: MS
+seen: 11
+answer: Heart
+
+When blood leaves the human lung through the pulmonary vein, to what organ will it first go?
+
+----
+num: 15
+category: Physical Science
+difficulty: MS
+seen: 5
+answer: 12
+
+How many protons does an atom have if it is in group two, period three and is the 12^th element of the of the periodic table?
+
+----
+num: 15
+category: Physical Science
+difficulty: MS
+seen: 6
+answer: 45
+(Solution:  79 – 34 = 45)
+
+If selenium has an atomic mass of 79, and an atomic number of 34, how many neutrons does it have?
+
+----
+num: 16
+category: Earth Science
+difficulty: MS
+seen: 8
+answer: Dwarf Planet(s)  (Accept:  Kuiper Belt Object)
+
+Recently, Pluto was de-listed as a planet. To what category does it now belong?
+
+----
+num: 19
+category: Life Science
+difficulty: MS
+seen: 10
+answer: Root Hairs
+
+What group of modified epidermal cells in the roots of higher plants is responsible for MOST water absorption?
+
+----
+num: 20
+category: Physical Science
+difficulty: MS
+seen: 5
+answer: Condensation
+
+Water beading up on a cold glass on a humid day is an example of what phase change?
+
+----
+num: 22
+category: Math
+difficulty: MS
+seen: 7
+answer: $18.75
+
+What is the price of a $15.00 item that is marked up 25%?
+
+----
+num: 23
+category: General Science
+difficulty: MS
+seen: 6
+answer: Insects
+
+Entomology is the study of what class of organisms?
+
+----
+num: 24
+category: Life Science
+difficulty: MS
+seen: 12
+answer: Objective Lens and Ocular Lens (The Order in Which the 
+Answers Are Given Matters Unless the Student Says Which Lens Goes 
+With Which Part of the Question)
+(Accept: Objective and Ocular)
+
+What are the common names, respectively, for the 2 types of lenses of a compound light microscope that function first to magnify the light just after the light passes through the specimen on the slide and then just before the light enter the observers eyes?
+
+----
+num: 24
+category: Life Science
+difficulty: MS
+seen: 10
+answer: Bacillus  (Accept:  Bacilli)
+
+What is the scientific term scientists use to describe the rod-like shape of most Anthrax bacteria?

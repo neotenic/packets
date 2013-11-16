@@ -1,0 +1,234 @@
+####
+tournament: HSAPQ National History Bowl
+round: sample.pdf
+year: 2011
+####
+
+num: 1
+category: History
+difficulty: HS
+fixed: 1
+seen: 415
+answer: Richard Bruce "Dick" {Cheney}
+
+This man became Acting President during his superior’s sedation for routine colonoscopies. He was the Secretary of Defense during the first U.S. invasion of Iraq and once accidentally shot Harry Whittington. In 2007, his chief of staff was convicted on charges relating to the leak of Valerie Plame's name. For 10 points, name this boss of Scooter Libby and Vice-President under George W. Bush.
+
+----
+num: 2
+category: History
+difficulty: HS
+fixed: 1
+seen: 419
+answer: {Michael} I Romanov [or Mikhail I Romanov]
+
+This ruler captured and impaled the Cossack rebel Ivan Zarutskii, and he signed the Peace of Stolbovo with Sweden. He was once rescued from the Poles by Ivan Susanin. Part of this man’s reign was shared with his father Filaret. This man was elected tsar by the zemsky sobor, ending the Time of Troubles. For 10 points, name this tsar from 1613 to 1645, the first of the Russia's last dynasty.
+
+----
+num: 3
+category: History
+difficulty: HS
+fixed: 1
+seen: 414
+answer: {Japan} [or {Nihon}-{koku}; or {Nippon}-{koku}]
+
+A soldier from this country infamously struck U.S. consul John Allison. During peacetime, the U.S. gunboat Panay was bombed by this country. Its actions were criticized by the U.S. in the Stimson Doctrine. Camps such as Heart Mountain and Manzanar housed emigrants from this country during the 1940s. For 10 points, name this country which fought against the US in the Pacific theater of World War II.
+
+----
+num: 4
+category: History
+difficulty: HS
+fixed: 1
+seen: 419
+answer: {New Mexico}
+
+During the Civil War, Union commander John Slough defeated Charles Pryon at this current state’s Glorieta Pass. Later, this state’s Lincoln County was the site of a conflict involving John Chisum, Pat Garret, and the outlaw Billy the Kid. It is home to the White Sands Proving Ground, where the “Trinity” test was conducted. For 10 points, name this home state of the Los Alamos nuclear laboratory.
+
+----
+num: 5
+category: History
+difficulty: HS
+fixed: 1
+seen: 414
+answer: lay {investiture} controversy
+
+This policy question was the reason for the temporary imprisonment of Paschal II. The Synod of Rockingham came out against St. Anselm's position on this matter. It was settled in 1122 by the Concordat of Worms, and it was the reason that Gregory VII excommunicated Henry IV, prompting the trip to Canossa. For 10 points, name this controversy dealing with the right of kings to appoint bishops.
+
+----
+num: 6
+category: Literature
+difficulty: HS
+fixed: 57
+seen: 447
+answer: Abraham {Lincoln}
+
+One poem dedicated to this man describes dark events “Charging like ceaseless clouds” in “Hush’d Be the Camp To-Day.” Another poem about him notes how the great star “droop’d in the western sky in the night.” In another poem, his lips are “pale and still.” For 10 points, Walt Whitman's “When Lilacs Last in the Dooryard Bloom’d” and “Oh Captain! My Captain!” are both based on whose 1865 assassination?
+
+----
+num: 7
+category: History
+difficulty: HS
+fixed: 1
+seen: 418
+answer: {Louis XIV} [prompt on {Sun King} before it is read; prompt on Le {Roi Soleil}]
+
+This man recognized the accession of William III to the English throne in the Treaty of Ryswick. His Edict of Fontainebleau revoked the toleration of Huguenots granted by the Edict of Nantes. This ruler tried to prevent conspiracies against himself by centralizing power at a former hunting lodge whose most notable feature is its Hall of Mirrors. For 10 points, name this king of France, often called the Sun King.
+
+----
+num: 8
+category: History
+difficulty: HS
+fixed: 57
+seen: 413
+answer: {Gran Chaco} War
+
+Late in this war, one side’s military was commanded by Daniel Salamanca. During it, a small group of Guarani soldiers held off the enemy at Fort Nanawa. The Vickers Vespa biplane was employed during this conflict, which was the first major use of aerial warfare in the Americas. It was triggered by the discovery of oil in the foot of the Andes. For 10 points, name this 1930s conflict between Paraguay and Bolivia.
+
+----
+num: 9
+category: History
+difficulty: HS
+fixed: -1
+seen: 418
+answer: "{J’Accuse}" [or "I {Accuse}"]
+
+This document asks, "How could one hope that a council of war would demolish what a council of war had done?" and alludes to the imminent World's Fair being run by its addressee. The immediate motive for writing this tract, which is addressed to Félix Faure, was the acquittal of (*) Ferdinand Walsin-Esterhazy. It was published in L'Aurore, a newspaper owned by Georges Clemenceau. For 10 points, name this open letter, which defends Alfred Dreyfus from charges of spying and was written by Emile Zola.
+
+----
+num: 10
+category: History
+difficulty: HS
+fixed: 1
+seen: 418
+answer: Robert {McNamara}
+
+Along with his assistant Charles Hitch, he implemented a directive called the Planning, Programming, and Budgeting System. This creator of the "no-cities approach" is the subject of Errol Morris's documentary The Fog of War.. In one post, he surrounded himself with a group of advisors from the RAND Corporation called the “Whiz Kids,” developed the strategy of (*) mutually assured destruction, and oversaw the deployment troops to Vietnam. For 10 points, name this Secretary of Defense under Kennedy and Johnson.
+
+----
+num: 11
+category: History
+difficulty: HS
+fixed: -1
+seen: 416
+answer: Philadelphia
+
+A "Declaration and Remonstrance" was issued in this city after a Scots-Irish mob demanded the expulsion of Indians. Though it is not Boston, men from this city prevented the Polly from landing during its "Tea Party." One native of this city, which was the home of the first American public library and general hospital, delivered the (*) Olive Branch Petition. That document was written here during the same meeting where the Declaration of Independence was signed. For 10 points, name this site of both Continental Congresses.
+
+----
+num: 12
+category: History
+difficulty: HS
+fixed: 57
+seen: 420
+answer: {Catholics} in the United Kingdom [or obvious equivalents]
+
+The Cisalpine Club agitated for the rights of these people. A mob united by hatred for these people burned down the house of Lord Mansfield. In response to an act favoring this group, some of whom had joined with Scots to support the Old Pretender, George (*) Gordon led a riot in London. In 1829, a Relief Act allowed them to sit in Parliament, bringing about their namesake “Emancipation.” For 10 points, name this religious group, who were once scorned in England for practicing “Popery.”
+
+----
+num: 13
+category: History
+difficulty: HS
+fixed: 1
+seen: 427
+answer: {shooting} of Gabrielle {Giffords} [or 2011 {Tucson} shootings; or equivalents]
+
+This event prompted the “Together We Thrive” rally. San Diego’s Judge Larry Burns was picked to preside over a trial resulting from this event. The incident itself caused the death of Judge John Roll and prompted legislation to prevent (*) Westboro Baptists from picketing funeral services. Perpetrated by Jared Lee Loughner, it caused many to question an image of gun crosshairs on Sarah Palin’s webpage. For 10 points, name this event in which an Arizona congresswoman was attacked in a Safeway parking lot.
+
+----
+num: 14
+category: History
+difficulty: HS
+fixed: 1
+seen: 418
+answer: Charles-Louis de Secondat, Baron de {Montesquieu}
+
+This philosopher argued that the fertility of a country's soil affects its type of government, with barren soil leading to republics. His major work claims that differences in (*) climate lead to different national characteristics, and uses the Ottoman Empire as an example of a state ruled by fear. His theory that the legislative, executive, and judicial branches of government should be separated inspired America's founding fathers. For 10 points, name this French author of The Spirit of the Laws.
+
+----
+num: 15
+category: History
+difficulty: HS
+fixed: -1
+seen: 420
+answer: United States Presidential election of 1852
+
+The losing vice-presidential candidate in this election resigned as Secretary of the Navy to campaign and finished ahead of the Free Soil ticket headed by John Hale. The man who won the Vice-Presidency in this election took the oath of office in Cuba and was rumored to be the (*) lover of James Buchanan. The loser of this election later developed the Anaconda Plan and was Mexican War hero Winfield Scott. For 10 points, identify this election which saw Franklin Pierce succeed Millard Fillmore as President.
+
+----
+num: 16
+category: Science
+difficulty: HS
+fixed: 1
+seen: 424
+answer: Nicolaus {Copernicus} [or Mikolaj {Kopernik}]
+
+This scholar was the first person to translate historian Theophylactus Simocattes into Latin. His influences included his onetime roomate, Domenico Novara, who introduced him to a tract by Regiomontanus. After reading that book, he worked out a system that eschewed deferants, equants, and epicycles. As he died, he authorized the publication of (*) Six Books Concerning the Revolutions of the Heavenly Orbs, which outlined a heliocentric theory of the universe. For 10 points, name this Polish predecessor of Galileo.
+
+----
+num: 17
+category: History
+difficulty: HS
+fixed: 57
+seen: 423
+answer: {Copperheads} [or {Peace} Democrats; or {Butternuts}]
+
+In disgust over this group's control of the Illinois legislature, Joseph Forrest started a rumor linking members of this group to the Knights of the Golden Circle. One member of this group was the subject of an (+) ex parte case that concluded that military courts had no jurisdiction where civil courts still functioned; that man, Lambdin (*) Milligan, was implicated in the “Northwestern Conspiracy.” For 10 points, name this group of Democrats, led by Clement Vallandingham, that opposed the Civil War.
+
+----
+num: 18
+category: History
+difficulty: HS
+fixed: 1
+seen: 428
+answer: {Sun} Yat-sen
+
+This man's political philosophy included a platform of nationalism, democracy, and social reform known as the (+) Three Principles of the People. Even though he was not personally involved in the Wuchang Uprising, he is credited for supporting the revolution which overthrew the (*) Qing (CHING) Dynasty. This ally of Chiang Kai-shek was the first provisional president of the Republic of China. For 10 points, name this leader of the Kuomintang or Nationalists.
+
+----
+num: 19
+category: History
+difficulty: HS
+fixed: 57
+seen: 415
+answer: "Dixie"
+
+One theory regarding this work claims that it was originally performed by Ben and Lew Snowden. It was written as a "walkaround," and the final verse features Will-the-weaver. Abraham (+) Lincoln ordered a performance of this song upon hearing of Robert E. Lee's surrender. Disowned by its composer Daniel Decatur Emmett, it was more famously performed by opponents of the (*) Civil Rights movement, and at Jefferson Davis's inauguration. For 10 points, name this minstrel song beginning "I wish I was in the land of cotton", which has become synonymous with segregation and the Southern US.
+
+----
+num: 20
+category: History
+difficulty: HS
+fixed: 1
+seen: 425
+answer: Empress {Matilda} of England [or {Maud}]
+
+This ruler's son was established as the heir to the throne by the Treaty of Wallingford. Her other sons were William of Anjou and Geoffrey of Anjou. This queen's brother, who died when the White Ship sank, was William Adelin. The period known as The (+) Anarchy was characterized by a rivalry between this ruler and her cousin, (*) Stephen of Blois, whom this leader briefly deposed after the Battle of Lincoln. For 10 points, name this daughter of Henry I who briefly ruled England in 1141.
+
+----
+num: 21
+category: History
+difficulty: HS
+fixed: 1
+seen: 417
+answer: {marches} on {Washington} D.C. [prompt on partial answer; prompt on {protest} march; prompt on
+
+One of these events was canceled after the issue of Executive Order 8802. Another one of these events was organized by the so-called "Mobe" and was depicted in Norman Mailer's (+) Armies of the Night. During the best-known of these events, John Lewis claimed that its participants would "splinter the segregated (*) South into a thousand pieces." In 2009 and 2010, FreedomWorks organized two of these events to take place on September 12. For 10 points, name this common protest activity that, in 1963, featured Martin Luther King Jr.'s "I Have a Dream" speech.
+
+----
+num: 22
+category: Fine Arts
+difficulty: HS
+fixed: 57
+seen: 491
+answer: {Sistine Chapel} ceiling [prompt on {Sistine Chapel frescoes}; accept obvious equivalents]
+
+This work depicts a bronze snake wrapped around a pole. In another section, people clamber out of a row boat to a shore where a figure climbs a tree. It also contains depictions resembling bronze shields, as well as twenty male nudes called the ignudi. Also showing sibyls, prophets, the (+) Drunkenness of Noah, and the Great Flood, it is located perpendicular to The Last Judgment. It depicts God (*) touching Adam’s finger during Creation. For 10 points, name this fresco that Michelangelo painted on top of the building where Papal Conclave is held.
+
+----
+num: 23
+category: History
+difficulty: HS
+fixed: 1
+seen: 415
+answer: the 1905 {revolution} in {Russia} [prompt on {Russian Revolution}; accept any descriptive answers
+
+This event was vigorously opposed by groups of nobles called the Black Hundreds. It was initially orchestrated by the Union of Liberation following the suppression of Father (+) Gapon's marchers on Bloody Sunday. This event grew to include a strike on the Trans-Siberian Railroad, the mutiny of the Potemkin, and the formation of the St. Petersburg (*) soviet. For 10 points, name this empire-wide uprising which spurred Nicholas II to issue the October Manifesto and presaged a more succesful revolt twelve years later.

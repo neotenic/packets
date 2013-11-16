@@ -1,0 +1,214 @@
+####
+tournament: MUT
+round: MUT II - Minnesota 3.doc
+year: 2009
+####
+
+num: 1
+category: Mythology
+difficulty: College
+fixed: 57
+seen: 112
+answer: {birds} [accept {woodpeckers} until “{Hraesvelgr}”]
+
+Romulus and Remus were fed by one type of these creatures named Picus. Tasting the blood of Fafnir allowed Sigurd to understand them. The jotun Hraesvelgr took the form of one of them, and Fionnuala and her brothers spent 900 years as a type of them. A Sufi poem sees a "conference" of them cross seven valleys to find Simurgh, and the one representing Ra's soul was called the bennu. One king of them was the son of Kashyap and Vinata, and other myths describe a group of them being scared away from a lake with bronze clappers by Heracles. For 10 points, name these creatures, mythical examples of which include Garuda, the Stymphalian ones, and the phoenix.
+
+----
+num: 2
+category: Literature
+difficulty: College
+fixed: 57
+seen: 60
+answer: As I Lay {Dying}
+
+Minor characters in this work include Samson and Armistid, who serve as hosts for the main characters during their journey. Other characters in this work include Skeet MacGowan, who works in a drugstore, and Mr. Moseley, a smug druggist in Mottson. One chapter in this work is narrated by the Reverend Whitfield, who had an illegitimate affair with one of the characters, which produced the son Jewel. Noted for the line “My mother is a fish” said by the child Vardaman, this work also features Cash and Dewey Dell. For 10 points, name this novel by William Faulkner, which describes the attempts of the Bundren family to bury their recently deceased matriarch.
+
+----
+num: 3
+category: Fine Arts
+difficulty: College
+fixed: 57
+seen: 71
+answer: {Kind} of Blue
+
+This primary artist behind this work was inspired by the work of George Russell, Ravel, and Bartok. Piano playing by Wynton Kelly is featured on the track "Freeloader Freddie" and this work contains a themeless track of Spanish accented solos called "Flamenco Sketches." One track on this album switches between three modes, "Blue in Green," and a melody from bassist Paul Chambers intertwines with a series of broken piano chords from Bill Evans to open the first track, "So What." Featuring Cannonball Adderley and John Coltrane on saxophone, for 10 points, name this experimental 1959 modal jazz album of trumpeter Miles Davis.
+
+----
+num: 4
+category: Science
+difficulty: College
+fixed: 57
+seen: 78
+answer: {compilers}
+
+The WAM is an type of the "stage" version of them, which operate on theoretical systems. Briggs, Cooper, and Torczon made a type of optimization for them known as "rematerialization," while other methods of optimizing them include peepholing, which reduces the total number of instructions. Adding forward declarations makes "single-pass" ones less error-prone. Those that aren't used until runtime are known as "Just-In-Time" ones, and ones written in the language they're used for are called bootstrappers. Usually consisting of a lexical analyzer, a parser, and a code generator, for 10 points, name these objects that convert source code into machine code.
+
+----
+num: 5
+category: History
+difficulty: College
+fixed: None
+seen: 68
+answer: {Fashoda} Incident [or Kodok Incident before that is mentioned; accept synonyms for “{incident}”]
+
+One force involved in this event dismantled and carried the Faidherbe to its location. That force had little luck recruiting local Shilluks, and was not reinforced by a group led by Christian de Bonchamps. Resolved by a 1904 entente signed by Theodore Delcasse, it was caused by Gabriel Hanotaux ordering a force to march from Gabon to the namesake town, now called Kodok. The other side in this event was led in part by Horace Smith-Dorrien had previously won a victory at Omdurman. For 10 points, name this 1898 incident from the Scramble for Africa which was resolved by negotiations between Marchand and Kitchener and took place at a namesake Sudanese town.
+
+----
+num: 6
+category: Literature
+difficulty: College
+fixed: None
+seen: 60
+answer: {Sir Vidiahar Surajprasad} [V.S.] {Naipaul}
+
+In one of this man's novels, the main character nearly crashes into two Jehovah's Witnesses after running over a dog. One of his non-fictional works contrasts Venezuela's war for independence with an aging conquistador's search, his The Loss of El Dorado. Another of his works features Mr. Popo and the poet B. Wordsworth, who never complete any of their projects. Another of his novels sees the “big man” spell trouble for Salim's new shop. The title character of another of his works must put up with his overzealous Tulsi family he marries into. For 10 poitns, name this Trinidadian author of A Bend in the River and A House for Mr. Biswas.
+
+----
+num: 7
+category: Science
+difficulty: College
+fixed: 1
+seen: 82
+answer: glycine
+
+The condensation of this compound and succinyl-coA results in the synthesis of ALA, which is the first step of heme synthesis. Every third residue in collagen features this amino acid, and the interconversion between this compound and serine is performed by serine hydroxymethylase. The presence of this amino acid is obligatory for the opening of channels of the NMDA receptors, and it functions as an inhibitory neurotransmitter in the central nervous system. Like proline, it is usually not found in alpha helices because of its small size, and it is the only amino acid which does not exhibit chirality. For 10 points, identify this simplest of the amino acids.
+
+----
+num: 8
+category: History
+difficulty: College
+fixed: 1
+seen: 68
+answer: Election of {1912}
+
+Unsuccessful candidates for the nomination in this election included Judson Harmon and Champ Clark. On the Republican side, vice presidential nominee James Sherman died before the election took place. Eugene Debs ran for the fourth straight time, and this election also saw a strong third party candidate who was shot by John Schrank. Election slogans this year saw the Democrats pushing for “New Freedom,” while the Progressives, or Bull Mooses, advocated “New Nationalism.” For 10 points, name this election year in which New Jersey Governor Woodrow Wilson ousted incumbent William Howard Taft despite the best efforts of Bull-Moose Teddy Roosevelt.
+
+----
+num: 9
+category: Trash
+difficulty: College
+fixed: -1
+seen: 101
+answer: {nicknames} of {Shaquille O'Neal} [accept obvious equivalents]
+
+One of these appellations pays respect to the star of Jerome Robbins's Opus 19: The Dreamer. Another of these names pays tribute to the title character of a 1966 Jack Kirby and Stan Lee trilogy. Another of these names was self-given after its recipient noted “excellence is not a singular act, it's a habit.” The most recent one is an homage to Eastern Europeans like Vladimir Radmonovic. These appellations include “Big Baryshnikov,” “Big Aristotle,” and Wilt Chamberneezy, and after a deal that saw Shawn Marion traded for their owner, their ranks expanded to include “Big Cactus.” For 10 points, name these names that include “The Diesel” and “Shaq Fu.”
+
+----
+num: 10
+category: Fine Arts
+difficulty: College
+fixed: 1
+seen: 71
+answer: Jacques Louis {David}
+
+One of his paintings shows several men in the nude preparing for battle as the titular Spartan king stares calmly at the viewer, and he depicted several people holding staffs with the title symbols in another work. This artist of Leonidas at Thermopylae and The Distribution of the Eagles also painted The Portrait of Madame Recamier. In one of his paintings the title character points upward while holding a cup as several people turn away in grief, while another shows some sorrowful women in the background as three young men raise their arms to make a pledge. For 10 points, identify this dude who painted The Death of Socrates and The Oath of the Horatii.
+
+----
+num: 11
+category: Philosophy
+difficulty: College
+fixed: 1
+seen: 53
+answer: Michel {Foucault}
+
+He outlined Socratic parrhesia in the lecture series Discourse and Truth. The history of the discontinuous is discussed in his The Archaeology of Knowledge. He discussed the shift from subjects to population and argued against the repressive hypothesis in one work, and analyzed proper scientific discourse and Las Meninas in another. In addition to The History of Sexuality and The Order of Things, this thinker discussed the classical period's ignorance of disease and the eradication of leprosy in one work, and in another, treated Bentham's Panopticon. For 10 points, name this philosopher, author of Madness and Civilization and Discipline and Punish.
+
+----
+num: 12
+category: Literature
+difficulty: College
+fixed: 57
+seen: 74
+answer: Doctor {Faustus}
+
+One character in this work states that female devils have clefts and cloven feet, while the males have horns.  Another character in this work heats congealed blood over a fire, and the words “Homo fuge” are inscribed on the arm of the title character, who knows not where he should fly. That title character calls his servants, Valdes and Cornelius, to bring him books on necromancy.  After he has the books, his first act of magic is to summon a devil, who will become his servant for the next twenty-four years.  For 10 points, name this play in which the title character summons Mephastophilis and sells his soul to the devil, a work by Christopher Marlowe.
+
+----
+num: 13
+category: Science
+difficulty: College
+fixed: 1
+seen: 79
+answer: {surface tension}
+
+When a gradient in this causes mass transfer of fluids, that phenomenon is known as the Marangoni effect, and this quantity is multiplied by volume to the two thirds in an equation which relates it to temperature, the Eotvos rule. The fact that this acts as a proportionality constant between the work done on a liquid-vapor interface and the change in the interfacial area is demonstrated by the Young-Laplace equation, and this phenomenon causes cohesion of molecules, which can explain capillary action. For 10 points, identify this phenomenon which is reduced by surfactants and which allows insects to walk on water.
+
+----
+num: 14
+category: History
+difficulty: College
+fixed: None
+seen: 73
+answer: Treaty of {Waitangi} [or Te {Tiriti o Waitangi}]
+
+This document's second article grants one party "undisturbed possession" of its Lands and Estates Forests Fisheries and was preceded by a declaration of independence written by James Busby. One of this agreement's versions was produced by Henry and Edward Williams, and it was preceded by the Musket War. The signing of this document was followed by the killing of 22 British mercenaries in the Wairau Massacre led by Te Rauparaha in an attempt to uphold its continuation of Rangatiratanga, or chieftainship. Co-authored by William Hobson and signed by 500 Maori chiefs, for 10 points, identify this treaty that created the British colony of New Zealand.
+
+----
+num: 15
+category: Philosophy
+difficulty: College
+fixed: None
+seen: 53
+answer: Willard Van Orman {Quine} [do not accept “William Van Orman {Quince}”]
+
+This man labeled words as “human artifacts” in “Posits and Reality.” He treated the use of the word “rabbit” across tribes and argued for a “naturalized epistemology” in Ontological Relativity. He wrote about "reception and perception" from the body in Roots of Reference, and established the study of knowledge as a branch of science in “Epistemology Naturalized.” He claims that radical translation leads to indeterminancy in meaning, and he describes the difference between synthetic and analytic ideals in another work from his collection From a Logical Point of View. For 10 points, name this author of Word and Object and The Two Dogmas of Empiricism.
+
+----
+num: 16
+category: Literature
+difficulty: College
+fixed: 1
+seen: 61
+answer: Eugene Gladstone {O'Neill}
+
+One of this author's works sees Captain Bartlett learn that he had killed a man to protect a buried treasure that turns out to be a chest of worthless trinkets. In another work, this author described a man who recites Baudelaire to a prostitute named Fat Violet. This author of Gold wrote of a man who encounters the “little formless fears,” a railway car porter who becomes a dictator sought by Smithers and Lem. He also wrote of Mary's descent into morphine addiction, and of the patrons of Harry Hope's bar who deal with their “pipe dreams.” For 10 points, name this author of The Emperor Jones, Long Day's Journey into Night, and The Iceman Cometh.
+
+----
+num: 17
+category: Science
+difficulty: College
+fixed: 57
+seen: 82
+answer: {colloids}
+
+Pair potentials in these systems can be calculated by an equation which uses the Hamaker constant. The earliest model for a charged metal plate in these systems was developed by Helmholtz, and has been replaced by a modification of the Gouy-Chapman theory named for Stern. Richard Zsigmondy invented a microscope to observe these systems, which can be modeled by DLVO theory. Induction of clumping in these systems is termed flocculation, whereas the dispersion of light in these systems is known as the Tyndall effect. For 10 points, identify these systems wherein small particles are suspended in a medium, exemplified by aerosols and emulsions.
+
+----
+num: 18
+category: History
+difficulty: College
+fixed: None
+seen: 69
+answer: {Guelphs} [accept {Black Guelps} until “{Ezzelino III}”]
+
+One leader of this group reasserted power after Charles of Valois dissolved the government of the Cherchi, and they fought a war against Ezzelino III at the battle of Cassano d'Adda with the help of Ezzelino's brother in law Manfred I. They were massacred in a battle during which they were betrayed by Bocca degli Abati, and they are named for the Bavarian Dukes who opposed the rise of the Hohenstaufens. Dante Alighieri was a member of the white party of this group, which held power in cities such as Genoa and Mantua. For 10 points, identify this faction that allied with the papacy and opposed the Ghibellines.
+
+----
+num: 19
+category: Religion
+difficulty: College
+fixed: 1
+seen: 54
+answer: {First Corinthians} [prompt on {Corinthians}]
+
+In one section, this work's author indignantly asks “Don't we have the right to take a wife?”, while another section sees the author appalled at men living with their fathers' wives. This work is marked by such helpful advice as to “eat whatever is put before you,” giving believers the right to eat food sacrificed to idols. Other passages in this work see the author commenting that it is “disgraceful” for women to speak in church, as well as a passage in the thirteenth chapter that describes a certain concept as “patient and kind.” For 10 points, name this Pauline epistle, famous for its passage on “love,” written to the titular residents of a former Greek city-state.
+
+----
+num: 20
+category: Fine Arts
+difficulty: College
+fixed: -1
+seen: 70
+answer: {Peer Gynt Suite}({s}) [or "{incidental music} to {Peer Gynt}"]
+
+One of this piece's movements, titled "You Can Tell Great Men By the Style of Their Mounts", plays after a section depicting the title figure meeting a "Woman in Green". Its last section features the pieces "Shipwreck" and "Whitsun Hymn", while other notable sections include "Aase's Death" and "Solveig's Song". Another piece is whistled by Peter Lorre's character in M and features an accelerating theme that depicts the title character escaping from trolls. For 10 points, identify this work which contains "Morning Mood", "Anitra's Dance", and "In the Hall of the Mountain King", a suite written for an Ibsen play by Edvard Grieg.
+
+----
+num: 21
+category: Literature
+difficulty: College
+fixed: 57
+seen: 61
+answer: Eugene {Ionesco} [or Eugene {Ionescu}]
+
+This author wrote a work in which the fascist Mother Peep gives a speech as Edouard and the main character frantically search for a briefcase containing “evidence” about the title character, who lures victims like Dany to a pool by offering to show them a “picture of the Colonel.” Another of his plays sees The Martins pay a visit to The Smiths, and the Fire Chief plays a game of ding-dong ditch and remarks about the titular unseen character “who always wears her hair in the same way”. For 10 points, name this absurdist playwright of The Killer and The Bald Soprano, who also wrote a work in which everyone but Berengér become the titular animals, Rhinoceros.

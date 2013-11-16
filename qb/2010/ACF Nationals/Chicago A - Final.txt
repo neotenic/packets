@@ -1,0 +1,254 @@
+####
+tournament: ACF Nationals
+round: Chicago A - Final.docx
+year: 2010
+####
+
+num: 1
+category: History
+difficulty: Open
+fixed: None
+seen: 45
+answer: {Jan III Sobieski} (or {John III Sobieski}) or {Jan Sobieski} or {John Sobieski} or {Sobieski}
+
+In early life, this ruler suffered an injury in a duel with a member of the Pacas family that sidelined him while his brother Marek died. His numerous love letters use the pet name "Marysie?ka" for his wife Marie Casimire Louise de la Grange. He would defeat Petro Doroshenko at the Battle of Podhacje and quashed the rebellion incited by his former commander Lubomirski. His victory at Chocim coincided with the death of his predecessor Michael I, allowing him to take power. In another action he came to the aid of Ernst Rüdiger von Starhemberg by leading a charge of his Winged Hussars. For 10 points, name this King of Poland who defeated Kara Mustafa at the 1683 Battle of Vienna.
+
+----
+num: 2
+category: Literature
+difficulty: Open
+fixed: None
+seen: 37
+answer: {Bel Ami}
+
+Disagreement over the existence of Dame Aubert's dispute with a butcher prompts the protagonist of this work to take dueling advice from Jacques Rival for his standoff with Langremont.  The old poet Norbert de Varenne urges the protagonist to marry to stave off loneliness, though he engineers the downfall of Laroche-Mathieu when he divorces his wife. The title character gets his nickname from Laurine, daughter of his lover Clotilde de Marelle, whose affections for him remain undimmed even after he marries Suzanne Walter, daughter of his boss at the publication La Vie Francaise. This novel opens with the penniless title character meeting his friend Charles Forestier. For 10 points, name this novel about George Duroy, a work of Guy de Maupassant.
+
+----
+num: 4
+category: Literature
+difficulty: Open
+fixed: 1
+seen: 36
+answer: Oliver Wolf {Sacks}, MD
+
+This author wrote about a group of fern enthusiasts visiting the titular Mexican province in his Oaxaca Journal, and he wrote about a man who paints incredibly accurate depictions of his hometown of Pontito in “The Landscape of His Dreams,” found in a collection subtitled “Seven Paradoxical Tales.”  Harold Pinter's play A Kind of Alaska was inspired in part by one of this author's works focusing on a group of survivors of a sleeping sickness epidemic of the 1920's.  In addition to An Anthropologist on Mars and Awakenings, he wrote a collection whose title essay focuses on a musician whose severe visual agnosia causes him to confuse his spouse with an item of clothing. For 10 points, name this neurologist who wrote The Man Who Mistook His Wife for a Hat.
+
+----
+num: 5
+category: Literature
+difficulty: Open
+fixed: 1
+seen: 37
+answer: Alice Ann {Munro} (or Alice Ann Laidlaw, I guess)
+
+In one story by this author, the daughter of a fox farmer opens a gate to allow the mare Flora to escape.  In another story by this author, the unnamed narrator and her father, who awaits a heart operation, discuss the title celestial bodies but avoid discussing the narrator's uncommunicative daughter Nichola.  In addition to “Boys and Girls” and “The Moons of Jupiter,” this author wrote a collection whose title story sees the mothers of a bunch of normal children at a piano recital wowed by a retarded girl's rendition of a piece from Gluck's Orfeo ed Eurydice.  That collection was the first of three by this author to win the Governor-General's Award for Fiction.  For 10 points, name this Canadian author of the novel Progress of Love and the short story collection Dance of the Happy Shades.
+
+----
+num: 6
+category: Fine Arts
+difficulty: Open
+fixed: None
+seen: 39
+answer: {Concord Sonata} or Piano {Sonata No.} 2, {Concord}, {Mass.}, 1840-60
+
+This work's performance notes state that the title figure of its fourth movement “much prefers to hear” that movement's optional flute part.  This work's second movement quotes Debussy's “Golliwog's Cake-Walk” and Columbia, Gem of the Oceans, and calls for a 14 ¾-inch strip of wood to be used to produce a massive tone cluster.  All four movements of this piece quote a work of the same form, Beethoven's Hammerklavier.  This work's fourth movement draws on the composer's lost work Walden Sounds, while its first movement draws on the Emerson Overture for Piano and Orchestra.  For 10 points, name this piece whose movements include depictions of Nathaniel Hawthorne, Henry David Thoreau, and other residents of the title city, composed by Charles Ives.
+
+----
+num: 7
+category: Fine Arts
+difficulty: Open
+fixed: None
+seen: 37
+answer: {Descent} From the {Cross} or {Deposition} of {Christ} (accept equivalents)
+
+Artist Walter Verdin created the installation Sliding Time based on this painting for a 2009 exhibition honoring its artist. There is a direct line between the eyes of the figure in the embroidered gold cloak at the center right and the eyes of a skull at the bottom left. The woman on the far left wears a white headdress and tears are clearly visible on her face, while the woman in the bottom center left is shown in a vibrant blue dress and has just fainted. The central figure is rendered in the shape of a crossbow in honor of the Leuven guild that commissioned this painting. Among the identifiable figures are Mary Cleophas, Mary Salome, and Nicodemus, and in total there are ten figures placed in a very cramped space. For 10 points, name this circa 1435 painting, the masterpiece of Rogier van der Weyden.
+
+----
+num: 8
+category: History
+difficulty: Open
+fixed: 57
+seen: 48
+answer: {Vicksburg}
+
+Important primary sources about the conflict to take this location include the diary of Will Tummard and letters exchanged between members of the Lord family, residents of this place. An earlier attempt to take it saw Thomas Craven forced to turn back by mechanical breakdowns while Young's Point and Helena were used as staging grounds. To support the attack Nathaniel Banks struck to the south and, after the Battle of Plains Store, began a siege of Port Hudson.  Commanders inside this city included William Loring, who lost earlier at Champion Hill, and Martin L. Smith who was actually a New Yorker. Assaults on it ordered by Grant were all repulsed, but John C. Pemberton ultimately surrendered this city after 47 days. For 10 points, identify this Mississippi city besieged by the Union during the Civil War.
+
+----
+num: 9
+category: Literature
+difficulty: Open
+fixed: None
+seen: 36
+answer: The {Man} of {Mode}
+
+One character in this work accuses another of having had business “with a vizard at the playhouse” after they have a brief discussion with the Orange-Woman.  The protagonist takes Bellinda as mistress and disguises himself as “Courtage” to charm Lady Woodvil, whose daughter he wishes to marry. At the end Bellair pairs off with Emilia, while Lady Lovewit is left bitter and alone when the protagonist marries Harriet.  Featuring a discussion of fashion between Sir Fopling Flutter and Dorimant, for 10 points, name this play by George Etherege.
+
+----
+num: 10
+category: Science
+difficulty: Open
+fixed: None
+seen: 57
+answer: {Hartree}-{Fock} self-consistent field method [prompt on {self}-{consistent field method}]
+
+This approach accounts for Fermi correlation but fails to account for dynamic correlation, which can be dealt with using the configuration interaction approach.  The one-particle Hamiltonian plus the sum over particles of the difference of the Coulomb and exchange operators gives an operator whose eigenfunctions and eigenvalues are the quantities of interest.  The relevant Coulomb operator uses the mean field to approximate the electron-electron interactions in this method, which applies the variational principle in solving the time-independent Schrödinger equation under the Born-Oppenheimer approximation.  Wavefunctions described by Slater determinants are used in, for 10 points, what self-consistent field method for approximating the ground-state wavefunction and energy of multi-electron systems?
+
+----
+num: 11
+category: Philosophy
+difficulty: Open
+fixed: None
+seen: 38
+answer: {Charles Sanders Peirce} ({pronounced} as in “{purse}”)
+
+This philosopher argued that “metaphysics was the ape of mathematics” in his survey “The Architecture of Theories.” He posited a triadic relation to account for the element of spontaneity that informs the neurological faculties and published a work that argued for a physical explanation of feeling by “framing a molecular theory of protoplasm.”  That work, “Man's Glassy Essence,” was preceded by “Questions Concerning Certain Faculties Claimed by Man,” which held that even abstract thoughts have the character of signs.  In another essay he analogized thinking to a sequence of notes; that work, along with another piece advocating the use of the scientific method, were first published in Popular Science Monthly.  For 10 points, identify this philosopher who wrote “How to Make Our Ideas Clear” and “The Fixation of Belief.”
+
+----
+num: 12
+category: Mythology
+difficulty: Open
+fixed: 57
+seen: 114
+answer: {Tyche} or {Fortuna}
+
+Warning: Greek or Roman version acceptable.  According to Pausanias, inquirers at the oracle of Trophonius in Lebadeia had to spend several days in a house sacred to the ‘Agathos Daimon' and the Greek version of this deity, who was said to be an Oceanid in Hesiod's Theogony.  Like Demeter, she was sometimes depicted carrying a cornucopia or the Ploutos child.  As a patron goddess of various cities she was depicted wearing mural crowns shaped like each city's battlements, and she was often shown carrying a rudder or a ball.  The Roman version of this goddess was associated with Bonus Eventus, while the Greek version was associated with Nemesis, who provided a counterbalance to her favors.  At her temple at Argos, the hero Palamedes supposedly dedicated the first-ever pair of dice.  FTP, name this goddess of luck whose Roman equivalent is invoked in a section of the Carmina Burana.
+
+----
+num: 13
+category: Science
+difficulty: Open
+fixed: None
+seen: 58
+answer: {core formation} [prompt on {planetary differentiation} before (*)]
+
+For the Earth, one step in this process was the incorporation of the Hadean matte into the namesake structure.  Chronometers for this process include the hafnium-182/tungsten-182 system, and the uranium-235/uranium-238/lead-207/lead-206 system.  In large, rocky bodies the final stage of material transport in this process is thought to involve the sinking of large metal diapirs from the bottoms of magma oceans.  The hafnium-tungsten and uranium-lead chronometers for this process rely on the fact that the parent elements are strongly lithophile, while this process preferentially concentrates siderophiles in the central structure.  For 10 points, name this most energetic event in terrestrial planetary differentiation (*) which results in a dense, iron-rich central region underneath a lighter mantle.
+
+----
+num: 14
+category: Fine Arts
+difficulty: Open
+fixed: None
+seen: 40
+answer: {Pauline Borghese} as the {Venus Victrix} (accept either name, as {well} as {Pauline Bonaparte})
+
+The creator of this artwork partly drew on a concurrent portrait of its subject by Marie Benoist. It came to be housed in a building designed by Giovanni Marchetti and in a room containing a ceiling fresco on the same subject by Domenico de Angelis. A brief scandal erupted in 2007 when its artist was accused of taking plaster casts of his sitter's breasts, which proved false, though he did design the crank in its wooden base that allowed it to be rotated. The subject has a bracelet around her right arm, which supports her head, and she holds an apple in her left hand in reference to the “Judgment of Paris.” She reclines on a Roman sofa and is nude above the waist. For 10 points, name this sculpture that sought to equate its subject with Aphrodite, a work by Antonio Canova depicting the sister of Napoleon.
+
+----
+num: 15
+category: Literature
+difficulty: Open
+fixed: None
+seen: 34
+answer: {Livy} or {Titus Livius}
+
+The Oxyrhynchus Epi-tome preserves a partial summary of this author's major work. A later writer championed free discourse and the conflict between upper and lower classes as sources of liberty in republics in a treatise that is nominally a commentary on part of this author's major work. The Periochae is a summary of this man's major work, which draws on writings of Quintus Fabius Pictor and the other Annalists, and on Polybius. In that major work, this man's account of a siege includes the stories of Cloelia and Mucius Scaevola, who impress Lars Porsena, a king of the Etruscans. That work by this man closes with the death of Claudius's father Nero Claudius Drusus, and opens with the arrival of Aeneas's arrival in Italy.  For 10 points, name this historian whose Ab urbe condita is a 142-book history of Rome that inspired some Discourses by Machiavelli.
+
+----
+num: 15
+category: Literature
+difficulty: Open
+fixed: None
+seen: 34
+answer: {Livy} or {Titus Livius}
+
+The Oxyrhynchus Epi-tome preserves a partial summary of this author's major work. A later writer championed free discourse and the conflict between upper and lower classes as sources of liberty in republics in a treatise that is nominally a commentary on part of this author's major work. The Periochae is a summary of this man's major work, which draws on writings of Quintus Fabius Pictor and the other Annalists, and on Polybius. In that major work, this man's account of a siege includes the stories of Cloelia and Mucius Scaevola, who impress Lars Porsena, a king of the Etruscans. That work by this man closes with the death of Claudius's father Nero Claudius Drusus, and opens with the arrival of Aeneas's arrival in Italy.  For 10 points, name this historian whose Ab urbe condita is a 142-book history of Rome that inspired some Discourses by Machiavelli.
+
+----
+num: 16
+category: Literature
+difficulty: Open
+fixed: None
+seen: 34
+answer: {Child} of {God}
+
+At one point, the narrator recounts the story of a man who arrived in town to challenge all to a pigeon shooting contest.  When it turns out that he had strapped firecrackers to the pigeons in an attempt to cheat, the town tars and feathers him. This occurs after the narrator reminisces about how the protagonist worked setting posts for old man Whaley to buy the rifle he always carried.  In another scene the main character comes upon a woman in the road and rips off her white gown; after she accuses him of rape, he is arrested but soon let go. The protagonist, who ends up living in a cave on Frog Mountain, discovers a dead woman and, after dressing her up, has sex with her.  Set in Sevier County, Tennessee, it describes a series of macabre events culminating in the title figure being sent to the State Hospital and dissected.  For 10 points, name this work about Lester Ballard, a novel by Cormac McCarthy.
+
+----
+num: 17
+category: Social Science
+difficulty: Open
+fixed: None
+seen: 35
+answer: {originalism} (accept word forms; accept {judicial restraint}, prompt on {strict construction})
+
+Louis Feldman attempts to reconcile this concept with Joseph Raz's theories, concluding that the attitude this position requires is equivalent to a deference to practical authority. Richard Kay argues for a version of this that goes beyond the mere words of a provision and including the intentions of the text. Amy Guttman coauthored A Matter of Interpretation, which sets forward a theory of this type, justifying it by appealing to the US's common-law history. That book's primary author called this doctrine “The Lesser Evil” in an influential 1989 Cincinnati Law Review article, arguing that it was superior to activist theories.  Those works are by Antonin Scalia. For 10 points, identify this theory of legal interpretation supported by members of the Federalist Society that emphasizes the intent or meaning at the time of formulation.
+
+----
+num: 18
+category: Science
+difficulty: Open
+fixed: 1
+seen: 56
+answer: {potential} [accept {incompressible irrotational} before (*); do not accept or prompt on {incompressible}, but {suit yourself}]
+
+This type of inviscid flow around a cylinder has streamlines that are exactly reproduced outside of a small boundary layer by Hele-Shaw flow.  This type of flow is equivalent to incompressible, irrotational (*) flow, and satisfies Laplace's equation for a namesake function associated with the velocity.  In thermodynamics, this term denotes the internal energy and all Legendre transforms of the internal energy.  In electrodynamics, the Liénard-Wiechert equations give the retarded forms of two versions of this quantity, and the magnetic field equals the curl of the vector version of this quantity.  Any conservative force can be described as the negative gradient of one of these scalar functions.  For 10 points, give this term denoting a type of energy associated with the configuration of a system, such as the energy stored in a compressed spring.
+
+----
+num: 19
+category: Religion
+difficulty: Open
+fixed: None
+seen: 53
+answer: {Institutes} of the {Christian Religion} or {Institutio Christianae religionis}
+
+A tabular summary of this work in Delaune's Epitome provided the basis for the “Hundred Aphorisms.”  This work's third book contains a refutation of Osiander's doctrine of “essential righteousness,” arguing in part from the author's belief that justification comes from the secret or internal agency of the Holy Spirit.  Its first book singles out Servetus in its discussion of contemporary Anti-Trinitarians, and the various editions of this work include an address with a “Plea for the persecuted evangelicals,” written to Francis I.  In addition to the prefatory plea on behalf of the Huguenots, this work includes discussions of a group known as the elect to illustrate the author's concept of predestination.  For 10 points, name this major work of John Calvin.
+
+----
+num: 20
+category: Literature
+difficulty: Open
+fixed: 57
+seen: 35
+answer: Erskine {Caldwell}
+
+One of this author's short stories opens with Miss McAllister sterilizing a pan; that work, “Mamma's Little Girl,” was included in a publication of Complete Stories that drew on earlier collections like Jackpot and Kneel to the Rising Sun.  In a novel by this writer, Dr. Plowden confronts a policeman about racism.  That work follows mixed race siblings Ganus and Kathyanne as they're pursued by whites and is called A Place Called Estherville.  In another work, Darling Jill sleeps with anyone before agreeing to marry the obese Pluto Swint, Will Thompson is murdered, and Buck kills his brother after failing to find gold on their father, Ty Ty Walden's land. This author first gained fame with a novel about the exploits of the poor Georgian Jeeter Lester. For 10 points, identify this author of God's Little Acre and Tobacco Road.
+
+----
+num: 21
+category: History
+difficulty: Open
+fixed: None
+seen: 47
+answer: Battle of {Omdurman} (accept {Battle} of {Karari/Kerreri} before the {book title} is mentioned)
+
+The losers at this battle were organized into units called “flags” with the largest being the “Dark Green Flag” led by the son of the losing commander. Prior to this battle the victors had won the battle of Atbara and encamped in the village of Egeiga, and two months after this battle the losing commander would be killed at Umm Diwaykarat. Famous actions in this battle include the deflection of the Green Flag's flanking maneuver by the commander of the 1st Brigade, Hector MacDonald, and the failed charge of the 21st Lancers on the hill of Jebel Surgham. The losing side in this battle is chronicled by I.H. Zulfo's book Karari, though much better known is Churchill's account, The River War.  For 10 points, name this battle where the Khalifa Abdullah al-Taashi was defeated by Lord Kitchener in 1898, therbey re-establishing British colonial rule in the Sudan.
+
+----
+num: 22
+category: History
+difficulty: Open
+fixed: None
+seen: 45
+answer: {Minamoto} Clan
+
+An emakimono painting commemorates Ban Dainagon's attempts to frame the first man to take this clan's name of the burning of the door of the Imperial Palace. Legendary warriors such as Watanabe no Tsuna and Sakata no Kintoki were among the four famed retainers of another member of this family, who quelled the Oeyama rebellion. Another member of this clan became known as “the son of the God of War” for his exploits against the Abe clan in the Zensunnen war. Members such as Tametomo and Tameyoshi sided with Sutoku in the Hogen rebellion, marking the decline of the Seiwa Genji line. One member of this family heeded Mochimoto's call to arms against Antoku. For 10 points, name this clan, whose member Yoritomo established the Kamakura shogunate.
+
+----
+num: 23
+category: Science
+difficulty: Open
+fixed: None
+seen: 57
+answer: {maximum likelihood} estimation method
+
+When the result of this procedure has a unique value, then that value is a function of every sufficient statistic.  The covariance matrices of quantities generated by this method are commonly approximated by the inverse of the Fisher information matrix.  Under appropriate regularity conditions, this method gives results that are equivariant, consistent, asymptotically normal and asymptotically efficient.  This method's namesake function is the data's joint density treated as a function of the parameter being estimated, and that namesake function appears in Bayes' theorem as the unnormalized ratio of the posterior and prior probability densities.  In carrying out this procedure it is often more convenient to replace that namesake function by its logarithm.  For 10 points, name this method of parameter estimation which gives the parameter values that make the observed data most probable.
+
+----
+num: 24
+category: Literature
+difficulty: Open
+fixed: 1
+seen: 35
+answer: Ezra Weston Loomis {Pound}
+
+This author praised the lack of a direct reproach uttered by the court lady who narrates the poem “The Jewel Stairs' Grievance.”  He set out three categories of poetry, which he termed melopoeia, phanopoeia and logopoeia, in his treatise How to Read.  He adopted the Persian pseudonym Caid Ali in writing a French epigraph to a poem that extends one of his earlier poems which focuses on a writer whose “true Penelope / Was Flaubert.”  One work by this man focuses on Sigismundo Malatesta in its eighth to eleventh sections and opens its second section with the line “Hang it all, Robert Browning,.” In a much shorter work, he wrote the lines, “The apparition of these faces in the crowd; / Petals on a wet, black bough.”  For 10 points, name this author of “Hugh Selwyn Mauberley” and “In a Station of the Metro” who won the first Bollingen Prize for a portion of his massive epic, the Cantos.
+
+----
+num: 25
+category: Mythology
+difficulty: Open
+fixed: None
+seen: 115
+answer: god or {patron} deity (or {whatever}) of {healing} or {medicine} or {doctoring} or equivalents
+
+In Aztec myth this position is held by a deity who is also associated with feasts and gaming, the little black god Ixtlilton, while in Phoenician myth this role is filled by Sidon's tutelary deity Eshmun.  In Shinto myth a god of sorcery and farming named Okuninushi also fills this role, and in Hindu myth Saranyu's sons are divine horsemen who hold this position.  Those gods are all patrons of an activity associated with a magical pigskin retrieved by the sons of Tuireann.  In Greek myth this position is primarily filled by a god whose sons Podalirius and Machaon served the Greek army at Troy, and among the Tuatha Dé Danann this is the role of Dian Cecht.  The Ashvin twins and Imhotep hold, for 10 points, what position also held by Apollo's son by Coronis, the god Asclepius?

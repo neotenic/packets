@@ -1,0 +1,903 @@
+####
+tournament: HOSA Bowl
+round: 3951970
+year: 2011
+####
+
+num: 1
+category: Robert's Rule of Order
+difficulty: Normal
+seen: 0
+answer: According to ROBERTS RULE of ORDER, what are the five types of motions?
+
+1. Main motions 
+
+
+----
+num: 2
+category: Robert's Rule of Order
+difficulty: Normal
+seen: 0
+answer: What is the importance of parliamentary procedure?
+
+To perform and execute a meeting in an organized and timely manner
+
+
+----
+num: 3
+category: Robert's Rule of Order
+difficulty: Normal
+seen: 0
+answer: Where will this year's NLC be held?
+
+Hilton Anaheim, Anaheim California
+
+
+----
+num: 4
+category: Robert's Rule of Order
+difficulty: Normal
+seen: 15
+answer: What is the duty of the state parliamentarian?
+
+1.Be prepared to advise the presiding officer and other Chaptermembers on points of parliamentary procedure 
+
+
+----
+num: 5
+category: Robert's Rule of Order
+difficulty: Normal
+seen: 0
+answer: Is the time fixed which to adjourn debatable?
+
+yes
+
+
+----
+num: 6
+category: Robert's Rule of Order
+difficulty: Normal
+seen: 0
+answer: What national region is TN in?
+
+Region 2
+
+
+----
+num: 7
+category: Robert's Rule of Order
+difficulty: Normal
+seen: 0
+answer: How many regional leadership conferences does TN have?
+
+3
+
+
+----
+num: 8
+category: Robert's Rule of Order
+difficulty: Normal
+seen: 0
+answer: How many National Offices did TN have in the 2006-2007 year?
+
+2
+
+
+----
+num: 9
+category: Robert's Rule of Order
+difficulty: Normal
+seen: 8
+answer: The term "rules of order" refers to what?
+
+Parliamentary procedure
+
+
+----
+num: 10
+category: Robert's Rule of Order
+difficulty: Normal
+seen: 7
+answer: Who presides over a meeting in the absence of the President?
+
+President-elect
+
+
+----
+num: 11
+category: Robert's Rule of Order
+difficulty: Normal
+seen: 0
+answer: A motion requires a ____ to be considered, unless the motion is made on behalf of a ______.
+
+second; committee
+
+
+----
+num: 12
+category: Robert's Rule of Order
+difficulty: Normal
+seen: 0
+answer: Nominations do not need a ______.
+
+second
+
+
+----
+num: 13
+category: Robert's Rule of Order
+difficulty: Normal
+seen: 0
+answer: Every meeting must be _______. A motion to _______ must be seconded.
+
+adjourned; adjourn
+
+
+----
+num: 14
+category: Robert's Rule of Order
+difficulty: Normal
+seen: 0
+answer: Main Motion
+
+The main motion brings business before the assembly and/or introduce a new subject. This motion can only be made when no other business is pending.
+
+
+----
+num: 15
+category: Robert's Rule of Order
+difficulty: Normal
+seen: 5
+answer: Privileged Motions
+
+Privileged Motions do not relate to the pending motion. They relate to special materials of particular importance, and should be allowed to interrupt the consideration of other matters.
+
+
+----
+num: 16
+category: Robert's Rule of Order
+difficulty: Normal
+seen: 0
+answer: Incidental Motions
+
+Incidental motions deal with questions of procedure arising out of another pending motion, or sometimes another item of business.
+
+
+----
+num: 17
+category: Robert's Rule of Order
+difficulty: Normal
+seen: 0
+answer: How many taps of the gavel are requires to adjourn a meeting?
+
+One
+
+
+----
+num: 18
+category: Robert's Rule of Order
+difficulty: Normal
+seen: 0
+answer: Parliamentary procedure
+
+a certain set of "rules" known as parliamentary law or Rober't Rules of Order used to maintain order in a meeting.
+
+
+----
+num: 19
+category: Robert's Rule of Order
+difficulty: Normal
+seen: 0
+answer: gavel
+
+instrument used for maintaining order during a meeting
+
+
+----
+num: 20
+category: Robert's Rule of Order
+difficulty: Normal
+seen: 0
+answer: This number of taps of the gavel signifies the "call to be seated"
+
+single
+
+
+----
+num: 21
+category: Robert's Rule of Order
+difficulty: Normal
+seen: 0
+answer: This number of taps of the gavel "calls the meeting to order"
+
+two
+
+
+----
+num: 22
+category: Robert's Rule of Order
+difficulty: Normal
+seen: 0
+answer: This number of taps "calls members to stand during ceremonies".
+
+three
+
+
+----
+num: 23
+category: Robert's Rule of Order
+difficulty: Normal
+seen: 0
+answer: Voting methods
+
+Voice 
+
+
+----
+num: 24
+category: Robert's Rule of Order
+difficulty: Normal
+seen: 16
+answer: voice vote
+
+saying "aye" or "no"
+
+
+----
+num: 25
+category: Robert's Rule of Order
+difficulty: Normal
+seen: 0
+answer: raising vote
+
+standing or show of hands
+
+
+----
+num: 26
+category: Robert's Rule of Order
+difficulty: Normal
+seen: 0
+answer: secret ballot
+
+written ballot
+
+
+----
+num: 27
+category: Robert's Rule of Order
+difficulty: Normal
+seen: 12
+answer: roll call
+
+secretary polls members
+
+
+----
+num: 28
+category: Robert's Rule of Order
+difficulty: Normal
+seen: 0
+answer: main motion
+
+used to obtain group approval for a new project or some other course of action.
+
+
+----
+num: 29
+category: Robert's Rule of Order
+difficulty: Normal
+seen: 0
+answer: Privileged
+
+motions not related to the main motion.
+
+
+----
+num: 30
+category: Robert's Rule of Order
+difficulty: Normal
+seen: 0
+answer: Incidental
+
+motions used to provide proper and fair treatment to all members/
+
+
+----
+num: 31
+category: Robert's Rule of Order
+difficulty: Normal
+seen: 0
+answer: Subsidiary
+
+motions related to the main motion.
+
+
+----
+num: 32
+category: Robert's Rule of Order
+difficulty: Normal
+seen: 5
+answer: Unclassified
+
+Motions that bring questions back before the assembly.
+
+
+----
+num: 33
+category: Robert's Rule of Order
+difficulty: Normal
+seen: 0
+answer: Amendments
+
+These are used to change or improve a motion.
+
+
+----
+num: 34
+category: Robert's Rule of Order
+difficulty: Normal
+seen: 0
+answer: motion to adjourn
+
+This is used when it is time to close a meeting
+
+
+----
+num: 35
+category: Robert's Rule of Order
+difficulty: Normal
+seen: 0
+answer: To Recess
+
+Not Debatable, Amend (as to time only), Majority
+
+
+----
+num: 36
+category: Robert's Rule of Order
+difficulty: Normal
+seen: 0
+answer: To Lay on the Table
+
+Not Debatable, Not Amendable, Majority
+
+
+----
+num: 37
+category: Robert's Rule of Order
+difficulty: Normal
+seen: 7
+answer: Previous Question
+
+Not Debatable, Not Amendable, 2/3 Vote, Immediately ends debate
+
+
+----
+num: 38
+category: Robert's Rule of Order
+difficulty: Normal
+seen: 0
+answer: Postpone Definitely
+
+Debatable, Amendable, Majority
+
+
+----
+num: 39
+category: Robert's Rule of Order
+difficulty: Normal
+seen: 3
+answer: Refer to a Committee
+
+Debatable, Amendable, Majority
+
+
+----
+num: 40
+category: Robert's Rule of Order
+difficulty: Normal
+seen: 11
+answer: Appeal from the Decision of the Chair
+
+Debatable, Not Amendable, Majority
+
+
+----
+num: 41
+category: Robert's Rule of Order
+difficulty: Normal
+seen: 0
+answer: Rise to a Point of Order
+
+Not Debatable, Not Amendable, Majority
+
+
+----
+num: 42
+category: Robert's Rule of Order
+difficulty: Normal
+seen: 0
+answer: Division of the House
+
+Not Debatable, Not Amendable, NO VOTE- Compelled by member demand
+
+
+----
+num: 43
+category: Robert's Rule of Order
+difficulty: Normal
+seen: 5
+answer: Suspend the Rules
+
+Not Debatable, Not Amendable, 2/3 Vote
+
+
+----
+num: 44
+category: Robert's Rule of Order
+difficulty: Normal
+seen: 0
+answer: To Reconsider
+
+Debatable, Not Amendable, Majority
+
+
+----
+num: 45
+category: Robert's Rule of Order
+difficulty: Normal
+seen: 0
+answer: To Adjourn (UNQUALIFIED)
+
+Not Debatable, Not Amendable, Majority
+
+
+----
+num: 46
+category: Robert's Rule of Order
+difficulty: Normal
+seen: 22
+answer: To Adjourn (QUALIFIED)
+
+Debatable, Amendable, Majority
+
+
+----
+num: 47
+category: Robert's Rule of Order
+difficulty: Normal
+seen: 0
+answer: To Rescind
+
+Debatable, Amendable, 2/3 Vote
+
+
+----
+num: 48
+category: Robert's Rule of Order
+difficulty: Normal
+seen: 0
+answer: To Amend
+
+Debatable, Amendable, Majority
+
+
+----
+num: 49
+category: Robert's Rule of Order
+difficulty: Normal
+seen: 0
+answer: Main Motion
+
+Debatable, Amendable, Majority
+
+
+----
+num: 50
+category: Robert's Rule of Order
+difficulty: Normal
+seen: 2
+answer: abstain
+
+to refrain from something
+
+
+----
+num: 51
+category: Robert's Rule of Order
+difficulty: Normal
+seen: 13
+answer: ad hoc committee
+
+special committee
+
+
+----
+num: 52
+category: Robert's Rule of Order
+difficulty: Normal
+seen: 0
+answer: adjourn
+
+to close the meeting
+
+
+----
+num: 53
+category: Robert's Rule of Order
+difficulty: Normal
+seen: 3
+answer: adopt
+
+to vote, to accept
+
+
+----
+num: 54
+category: Robert's Rule of Order
+difficulty: Normal
+seen: 0
+answer: agenda
+
+an outline of the items of the business to be brought before the assembly during the meeting
+
+
+----
+num: 55
+category: Robert's Rule of Order
+difficulty: Normal
+seen: 0
+answer: amend
+
+to make change to a motion; it can be additions, deletions, or substitutions.
+
+
+----
+num: 56
+category: Robert's Rule of Order
+difficulty: Normal
+seen: 16
+answer: audit
+
+an examination of final records
+
+
+----
+num: 57
+category: Robert's Rule of Order
+difficulty: Normal
+seen: 0
+answer: aye
+
+yes
+
+
+----
+num: 58
+category: Robert's Rule of Order
+difficulty: Normal
+seen: 0
+answer: ballot
+
+a written form used in voting: a method of voting; a list of candidates for office
+
+
+----
+num: 59
+category: Robert's Rule of Order
+difficulty: Normal
+seen: 0
+answer: bylaws
+
+the specific rules that govern an organization, written by the members
+
+
+----
+num: 60
+category: Robert's Rule of Order
+difficulty: Normal
+seen: 10
+answer: carried
+
+adopted, accepted
+
+
+----
+num: 61
+category: Robert's Rule of Order
+difficulty: Normal
+seen: 0
+answer: caucus
+
+a meeting of the members of a political party to make policy decisions and select candidates
+
+
+----
+num: 62
+category: Robert's Rule of Order
+difficulty: Normal
+seen: 24
+answer: chair
+
+chairman, presiding officer, president
+
+
+----
+num: 63
+category: Robert's Rule of Order
+difficulty: Normal
+seen: 23
+answer: committee
+
+a group of members who meet for a specific purpose or task
+
+
+----
+num: 64
+category: Robert's Rule of Order
+difficulty: Normal
+seen: 0
+answer: constitution
+
+the fundamental rules and laws governing a group or organization
+
+
+----
+num: 65
+category: Robert's Rule of Order
+difficulty: Normal
+seen: 0
+answer: convene
+
+assemble formally
+
+
+----
+num: 66
+category: Robert's Rule of Order
+difficulty: Normal
+seen: 0
+answer: debate
+
+to discuss
+
+
+----
+num: 67
+category: Robert's Rule of Order
+difficulty: Normal
+seen: 0
+answer: disbursement
+
+to pay out
+
+
+----
+num: 68
+category: Robert's Rule of Order
+difficulty: Normal
+seen: 21
+answer: gavel
+
+a mallet used by the presiding officer
+
+
+----
+num: 69
+category: Robert's Rule of Order
+difficulty: Normal
+seen: 0
+answer: germane
+
+closely related to or having a direct bearing upon; used in relation to amendments which must be "germane" to the motion being amended
+
+
+----
+num: 70
+category: Robert's Rule of Order
+difficulty: Normal
+seen: 0
+answer: has the floor
+
+has the right to speak
+
+
+----
+num: 71
+category: Robert's Rule of Order
+difficulty: Normal
+seen: 0
+answer: lay on the table
+
+a motion made to put the current motion on hold until a later time
+
+
+----
+num: 72
+category: Robert's Rule of Order
+difficulty: Normal
+seen: 6
+answer: majority
+
+more than 50% of the votes cast by persons legally entilted to vote.
+
+
+----
+num: 73
+category: Robert's Rule of Order
+difficulty: Normal
+seen: 0
+answer: minutes
+
+a record of all the proceeding preformed at the meeting
+
+
+----
+num: 74
+category: Robert's Rule of Order
+difficulty: Normal
+seen: 0
+answer: yield
+
+in the precedence of motions, if the motion takes precedence over another motion, the motion is said " to yield " to the first
+
+
+----
+num: 75
+category: Robert's Rule of Order
+difficulty: Normal
+seen: 22
+answer: motion
+
+a formal proposal in a meeting, made by a member and brought before the assembly for consideration
+
+
+----
+num: 76
+category: Robert's Rule of Order
+difficulty: Normal
+seen: 0
+answer: out of order
+
+to speak out of turn; the person does not have the floor legally
+
+
+----
+num: 77
+category: Robert's Rule of Order
+difficulty: Normal
+seen: 0
+answer: order of the day
+
+to ask the presiding officer to reveal the order of business of the agenda for that meeting
+
+
+----
+num: 78
+category: Robert's Rule of Order
+difficulty: Normal
+seen: 0
+answer: pluarlity
+
+the large number of votes cast when there are more than two choices
+
+
+----
+num: 79
+category: Robert's Rule of Order
+difficulty: Normal
+seen: 12
+answer: point of information
+
+a motion made when a member needs to gather additional information or ask a question
+
+
+----
+num: 80
+category: Robert's Rule of Order
+difficulty: Normal
+seen: 0
+answer: point of order
+
+a motion made to point out that a mistake has occurred in parlimentary procedure
+
+
+----
+num: 81
+category: Robert's Rule of Order
+difficulty: Normal
+seen: 0
+answer: precedence
+
+has priority over, or ranks above other motions
+
+
+----
+num: 82
+category: Robert's Rule of Order
+difficulty: Normal
+seen: 14
+answer: proxy
+
+an authorized agent or a substitute for another person
+
+
+----
+num: 83
+category: Robert's Rule of Order
+difficulty: Normal
+seen: 0
+answer: quorum
+
+the minimum number of members needed to transact business legally; a quorum is a majority of the entire membership
+
+
+----
+num: 84
+category: Robert's Rule of Order
+difficulty: Normal
+seen: 9
+answer: receipt
+
+a written acknowledgement that something has been received
+
+
+----
+num: 85
+category: Robert's Rule of Order
+difficulty: Normal
+seen: 0
+answer: recess
+
+a short intermission which does not close the meeting; business will be resumed after the break
+
+
+----
+num: 86
+category: Robert's Rule of Order
+difficulty: Normal
+seen: 0
+answer: recongize
+
+to acknowledge a member to speak or take the floor
+
+
+----
+num: 87
+category: Robert's Rule of Order
+difficulty: Normal
+seen: 0
+answer: rescind
+
+to make void; to take back to motion
+
+
+----
+num: 88
+category: Robert's Rule of Order
+difficulty: Normal
+seen: 0
+answer: standing committee
+
+a committee that meets year around for a purpose
+
+
+----
+num: 89
+category: Robert's Rule of Order
+difficulty: Normal
+seen: 0
+answer: special committee
+
+a committee that meets for a particular purpose; and then when it has accomplished its purpose, the committee is disbanded
+
+
+----
+num: 90
+category: Robert's Rule of Order
+difficulty: Normal
+seen: 0
+answer: special meeting
+
+a meeting which is held for only a specific purpose; a normal agenda will not be used.

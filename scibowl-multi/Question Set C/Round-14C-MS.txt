@@ -1,0 +1,274 @@
+####
+tournament: Question Set C
+round: Round-14C-MS.pdf
+####
+
+num: 1
+category: Life Science
+difficulty: MS
+answer: Y)  Ribose
+
+What is the name for the basic five carbon sugar that is present in slightly different forms in both DNA and RNA nucleotides:
+W) glucose
+X) fructose 
+Y) ribose 
+Z) maltose
+
+----
+num: 2
+category: Physical Science
+difficulty: MS
+answer: W)  2 Kilograms of Uranium
+
+Which of the following has the greatest density at room temperature:
+W) 2 kilograms of uranium 
+X) 3 kilograms of calcium
+Y) 4 kilogram of lithium
+Z) 5 kilograms of ice
+
+----
+num: 3
+category: Earth Science
+difficulty: MS
+answer: X)  Acid Rain
+
+Which of the following is the primary reason for the decline in fish populations in New England lakes, rivers and streams:
+W) destruction of native species by invasive species 
+X) acid rain
+Y) fertilizer runoff 
+Z) over fishing
+
+----
+num: 4
+category: Math
+difficulty: MS
+answer: Z) Circle
+
+Which of the following BEST describes the graph of the following equation, (x – 1)^2 + (y + 2)^2 = 9
+W) straight line 
+X) parabola
+Y) ellipse
+Z) circle
+
+----
+num: 5
+category: General Science
+difficulty: MS
+answer: X)  It Has a Concave Parabolic Main or Primary Mirror, a Flat 
+Secondary Mirror, and an Eyepiece Lens
+
+Which of the following is the MOST accurate description of a Newtonian reflector telescope:
+W) it has one flat primary mirror and two ocular lenses
+X) it has a concave parabolic main or primary mirror, a flat secondary mirror, and an eyepiece lens
+Y) it has a primary glass lens, a secondary flat mirror, and an ocular lens
+Z) it has 2 convex glass lenses and an ocular lens
+
+----
+num: 5
+category: General Science
+difficulty: MS
+answer: Y)  the Newtonian Focuses All Colors of Light at the Same 
+Focal Point
+
+Which of the following is a MAIN advantage of a 
+Newtonian reflector telescope over a Galilean refractor telescope:
+W) the Newtonian is much smaller and resistant to changes in temperature
+X) the Newtonian can be used in a wider variety of temperatures
+Y) the Newtonian focuses all colors of light at the same focal point
+Z) the Newtonian mirrors are usually made of metal so they cannot easily break
+
+----
+num: 6
+category: Life Science
+difficulty: MS
+answer: Z)  Transmission Electron Microscopy
+
+Which of the following types of microscopes passes negatively charged particles guided by magnetic lenses through a very thin specimen, all in a partial vacuum, to produce an image at high magnification:
+W) bright field microscopy
+X) scanning electron microscopy
+Y) dark field microscopy
+Z) transmission electron microscopy
+
+----
+num: 7
+category: Physical Science
+difficulty: MS
+answer: W)  Hydroxyl
+
+Which of the following functional groups replaces a hydrogen in an alcohol:
+W) hydroxyl 
+X) carboxyl
+Y) ester
+Z) amide
+
+----
+num: 8
+category: Earth Science
+difficulty: MS
+answer: Y)  Prevailing Westerlies
+
+Which of the following is the global wind system that most influences weather in Denver Colorado:
+W) tropical easterlies 
+X) trade winds 
+Y) prevailing westerlies
+Z) polar easterlies
+
+----
+num: 8
+category: Earth Science
+difficulty: MS
+answer: W)  Polar
+
+Which of the following ocean waters typically has the 
+LEAST pronounced thermocline layer:
+W) polar
+X) temperate 
+Y) sub-tropical
+Z) tropical
+
+----
+num: 10
+category: General Science
+difficulty: MS
+answer: X)  Esters
+
+Which of the following is a group of organic compounds that is often added to foods to enhance flavors such as strawberry or banana and are also found in sweet-smelling flowers:
+W) amines
+X) esters
+Y) alcohols
+Z) halogenated hydrocarbons
+
+----
+num: 10
+category: General Science
+difficulty: MS
+answer: Y)  Attracts Water From the Air
+
+Honey is considered hygroscopic because it:
+W) is very dense for a sugar
+X) loses water to its environment
+Y) attracts water from the air
+Z) expands rapidly on heating
+
+----
+num: 11
+category: Life Science
+difficulty: MS
+answer: Z)  It Is Lost as Part of the Bark and Does Not Accumulate in 
+Great Quantities
+
+As a tree ages, which of the following BEST describes what happens to the secondary phloem:
+W) it stops being produced
+X) it accumulates in large quantities into the xylem
+Y) it is crushed between each year’s xylem
+Z) it is lost as part of the bark and does not accumulate in great quantities
+
+----
+num: 11
+category: Life Science
+difficulty: MS
+answer: X)  Vascular Bundles Arranged in a Ring and a Taproot
+
+If an order of plant has floral parts usually arranged in multiples of 4 or 5, it would most likely have:
+W) net venation and one cotyledon
+X) vascular bundles arranged in a ring and a taproot
+Y) diffuse or fibrous root system and 2 cotyledons
+Z) parallel venation and 2 cotyledons
+
+----
+num: 12
+category: Physical Science
+difficulty: MS
+answer: Y)  Radiation
+
+Which of the following can transfer heat through a vacuum:
+W) convection
+X) conduction
+Y) radiation
+Z) sublimation
+
+----
+num: 13
+category: Earth Science
+difficulty: MS
+answer: Y)  Midway Between High and Low Tides
+
+Which of the following is when ocean tidal currents typically reach their maximum velocity:
+W) at high tide extremes 
+X) at low tide extremes
+Y) midway between high and low tides
+Z) during flood tide
+
+----
+num: 13
+category: Earth Science
+difficulty: MS
+answer: W)  the Wisconsinan
+
+Which of the following is the name for the last of 4 glacial episodes recognized in North America:
+W) the Wisconsinan
+X) the Ordovician
+Y) the Alaskan
+Z) the Nebraskan
+
+----
+num: 16
+category: Life Science
+difficulty: MS
+answer: W)  Bacteriophage
+
+What type of virus has the Food and Drug Administration recently approved to be sprayed on certain foods as a preservative against bacterial contamination:
+W) bacteriophage
+X) H5N1
+Y) Marburg
+Z) Ebola
+
+----
+num: 16
+category: Life Science
+difficulty: MS
+answer: X)  Salt Causes an Osmotic Imbalance Leading to Excessive Loss 
+of Water From Cells
+
+Which of the following is the BEST reason why high salt environments are difficult environments for organisms to survive in:
+W) salt is an ionic molecule and causes a charge differential
+X) salt causes an osmotic imbalance leading to excessive loss of water from cells
+Y) salt usually is contaminated with toxic heavy metals
+Z) salt causes heavy metal poisons to be readily absorbed through skin
+
+----
+num: 17
+category: Physical Science
+difficulty: MS
+answer: W)  the Wavelength Will Shorten and Frequency Increases
+
+Which of the following follows from the Doppler effect for a sound wave source where a loud motorcycle is moving towards you:
+W) the wavelength will shorten and frequency increases
+X) the wavelength will shorten and frequency decreases
+Y) the wavelength will increase and frequency increases
+Z) the wavelength will increase and frequency decreases
+
+----
+num: 18
+category: Earth Science
+difficulty: MS
+answer: Z)  Shallow, Warm, and Containing Abundant Nutrients
+
+Eutrophic lakes are most commonly noted for which of the following sets of characteristics:
+W) high temperature differences from top to bottom and extremely deep 
+X) unhealthy containing no living organisms and a very low pH 
+Y) healthy with abundant life and neutral pH 
+Z) shallow, warm, and containing abundant nutrients
+
+----
+num: 20
+category: General Science
+difficulty: MS
+answer: Y)  6.28 Centimeters
+(Solution:  C = π(2cm) = 6.28cm)
+
+Which of the following BEST approximates the circumference of a U.S. nickel:
+W) 1.41 centimeters
+X) 3.14 centimeters
+Y) 6.28 centimeters
+Z) 9.42 centimeters

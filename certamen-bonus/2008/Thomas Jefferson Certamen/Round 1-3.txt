@@ -1,0 +1,851 @@
+####
+tournament: Thomas Jefferson Certamen
+round: Round 1-3
+year: 2008
+####
+
+num: 1
+category: Unlabeled
+difficulty: Intermediate
+seen: 36
+answer: A discus
+
+Bonus: With what object did Perseus indeed kill his grandfather, many years later?
+
+----
+num: 2
+category: Unlabeled
+difficulty: Intermediate
+seen: 34
+answer: veritas
+
+Bonus: What is the Latin word for the noun “truth”?
+
+----
+num: 3
+category: Unlabeled
+difficulty: Intermediate
+seen: 35
+answer: Manumissio
+
+Bonus: What did the Romans call the process of freeing a slave?
+
+----
+num: 4
+category: Unlabeled
+difficulty: Intermediate
+fixed: 1
+seen: 35
+answer: Toga {pulla}
+
+Bonus: What toga was used for mourning?
+
+----
+num: 5
+category: Unlabeled
+difficulty: Intermediate
+seen: 39
+answer: facilius
+
+Bonus: What is the comparative of  facillimum?
+
+----
+num: 6
+category: Unlabeled
+difficulty: Intermediate
+fixed: -1
+seen: 35
+answer: nolo→nolle, volo→velle
+
+Bonus: Name the infinitives of  nolo and volo.
+
+----
+num: 7
+category: Unlabeled
+difficulty: Intermediate
+fixed: None
+seen: 37
+answer: Octavian, Antony, Lepidus
+
+Bonus:  Who made up the second triumvirate?
+
+----
+num: 8
+category: Unlabeled
+difficulty: Intermediate
+fixed: -1
+seen: 35
+answer: Puer lupo visus est/ videbatur
+
+Bonus:  Now translate the whole sentence:
+
+----
+num: 9
+category: Unlabeled
+difficulty: Intermediate
+seen: 37
+answer: incarcerate
+
+Bonus: What English word, meaning “to imprison”, is derived from the Latin word for
+
+----
+num: 10
+category: Unlabeled
+difficulty: Intermediate
+seen: 34
+answer: septima urbs
+
+Bonus: Say in Latin, “the seventh city”
+
+----
+num: 11
+category: Unlabeled
+difficulty: Intermediate
+seen: 37
+answer: Caesarion
+
+Bonus:  Who was her son by Julius Caesar?
+
+----
+num: 12
+category: Unlabeled
+difficulty: Intermediate
+seen: 37
+answer: Laetius
+
+Bonus: Complete the analogy:  laetus  is to  laetior as  laete is to ____.
+
+----
+num: 13
+category: Unlabeled
+difficulty: Intermediate
+seen: 35
+answer: Tablinum
+
+Bonus: What room in a Roman house was the father’s study?
+
+----
+num: 14
+category: Unlabeled
+difficulty: Intermediate
+fixed: -1
+seen: 35
+answer: requiescat in pace
+
+Bonus: What does the abbreviation  R.I.P stand for in Latin?
+
+----
+num: 15
+category: Unlabeled
+difficulty: Intermediate
+seen: 33
+answer: Clytie
+
+Bonus: This nymph turned into a sunflower when she was rejected by the sun god.
+
+----
+num: 16
+category: Unlabeled
+difficulty: Intermediate
+seen: 34
+answer: Augustus
+
+Bonus: Livy wrote during the reign of which emperor?
+
+----
+num: 17
+category: Unlabeled
+difficulty: Intermediate
+seen: 36
+answer: from Sea to Sea
+
+Bonus: Translate the motto of Canada:  a mari usque ad mare
+
+----
+num: 18
+category: Unlabeled
+difficulty: Intermediate
+seen: 36
+answer: viginti novem
+
+Bonus:  Respondite Latine.    Quot dies sunt huic mensi?
+
+----
+num: 19
+category: Unlabeled
+difficulty: Intermediate
+seen: 34
+answer: Alesia
+
+Bonus:  At which battle was he defeated?
+
+----
+num: 20
+category: Unlabeled
+difficulty: Intermediate
+seen: 35
+answer: Amphitrite
+
+Bonus: This goddess was the leader of the Nereids.
+
+----
+num: 21
+category: Unlabeled
+difficulty: Intermediate
+seen: 36
+answer: Lars Porsenna
+
+Bonus:  Who was the Etruscan king?
+
+----
+num: 22
+category: Unlabeled
+difficulty: Intermediate
+seen: 38
+answer: Seven years
+
+Bonus: How long did Odysseus remain on Ogygia?
+
+----
+num: 23
+category: Unlabeled
+difficulty: Intermediate
+seen: 35
+answer: Perfect active
+
+Bonus: What tense and voice of the verb did Caesar use when he said “Veni Vidi Vici?” .
+
+----
+num: 24
+category: Unlabeled
+difficulty: Intermediate
+seen: 34
+answer: iaciens
+
+Bonus: give the present active participle, “throwing”
+
+----
+num: 25
+category: Unlabeled
+difficulty: Intermediate
+seen: 34
+answer: Agrippina the Younger
+
+Bonus:  Who was Nero's overbearing mother?
+
+----
+num: 26
+category: Unlabeled
+difficulty: Intermediate
+seen: 37
+answer: Domus/ humus/ rus
+
+Bonus: We know that cities, towns and small islands take the locative case.  Give two of the additional nouns which have a locative form:
+
+----
+num: 27
+category: Unlabeled
+difficulty: Intermediate
+seen: 34
+answer: apodyterium
+
+Bonus: What was the word for a changing room in a bath?
+
+----
+num: 28
+category: Unlabeled
+difficulty: Intermediate
+seen: 34
+answer: cēdo means yield or move, and caedo means cut or kill
+
+Bonus: Differentiate in meaning between  cēdo and  caedo.
+
+----
+num: 29
+category: Unlabeled
+difficulty: Intermediate
+seen: 35
+answer: Augustus
+
+Bonus:  Who added the most territory to the Empire?
+
+----
+num: 30
+category: Unlabeled
+difficulty: Intermediate
+seen: 34
+answer: Augustus
+
+Bonus: Which emperor instituted the  vigiles?
+
+----
+num: 31
+category: Unlabeled
+difficulty: Intermediate
+fixed: 1
+seen: 38
+answer: (either “quam illud certamen” or “illo certamine”)
+
+Bonus: Now from that same sentence, translate “than that certamen.”
+
+----
+num: 32
+category: Unlabeled
+difficulty: Advanced
+fixed: None
+seen: 29
+answer: Pluperfect
+
+Bonus: What tense of the subjunctive is used for the past contrary to fact constructions?
+
+----
+num: 33
+category: Unlabeled
+difficulty: Advanced
+seen: 27
+answer: Marcus Aurelius
+
+Bonus.  Which emperor of Rome, who reigned jointly with Verus, was a proponent of stoicism?
+
+----
+num: 34
+category: Unlabeled
+difficulty: Advanced
+fixed: 1
+seen: 28
+answer: Subject of infinitive(indirect statement)
+
+Bonus: What type of accusative is found in this sentence?  Puer dixit corpus sepultum esse.
+
+----
+num: 35
+category: Unlabeled
+difficulty: Advanced
+seen: 30
+answer: I have a plan/advice.
+
+Bonus: Give an idiomatic translation of the sentence from the toss-up.
+
+----
+num: 36
+category: Unlabeled
+difficulty: Advanced
+seen: 29
+answer: Terpsichore
+
+Bonus.  Who was the muse of dance?
+
+----
+num: 37
+category: Unlabeled
+difficulty: Advanced
+seen: 29
+answer: laetius
+
+Bonus: Complete the analogy:  laetus  is to  laetior as  laete is to ____.
+
+----
+num: 38
+category: Unlabeled
+difficulty: Advanced
+seen: 30
+answer: noun and verb
+
+Bonus: What two parts of speech is an infinitive?
+
+----
+num: 39
+category: Unlabeled
+difficulty: Advanced
+seen: 27
+answer: Epigrams
+
+Bonus:  What is Martial known for?
+
+----
+num: 40
+category: Unlabeled
+difficulty: Advanced
+seen: 28
+answer: gladii brevissimi sunt
+
+Bonus: Say in Latin, “the swords are very short.”
+
+----
+num: 41
+category: Unlabeled
+difficulty: Advanced
+fixed: 1
+seen: 28
+answer: (Placetne, libetne) tibi agere [vehiculum]?
+
+Bonus: Translate into Latin: “Does driving please you?”
+
+----
+num: 42
+category: Unlabeled
+difficulty: Advanced
+seen: 27
+answer: Mount Parnassus
+
+Bonus.  The oracle was located on the slopes of what mountain?
+
+----
+num: 43
+category: Unlabeled
+difficulty: Advanced
+seen: 30
+answer: Pleiades
+
+Bonus:  To what group of the daughters of Atlas did Maia, mother of Hermes, belong?
+
+----
+num: 44
+category: Unlabeled
+difficulty: Advanced
+seen: 25
+answer: Tarquinius Superbus
+
+Bonus.  To whom did she give the Sybilline books?
+
+----
+num: 45
+category: Unlabeled
+difficulty: Advanced
+seen: 25
+answer: Alea iacta est
+
+Bonus: Responde Latine: Quid dixit Caesar, cum Rubiconem transisset?
+
+----
+num: 46
+category: Unlabeled
+difficulty: Advanced
+seen: 30
+answer: James Joyce
+
+BONUS. What early 20th century Irish author wrote  Ulysses, the story of the  Odyssey set in modern Dublin?
+
+----
+num: 47
+category: Unlabeled
+difficulty: Advanced
+fixed: None
+seen: 27
+answer: see above
+
+Bonus: give another
+
+----
+num: 48
+category: Unlabeled
+difficulty: Advanced
+seen: 28
+answer: (either “quam illud certamen” or “illo certamine”)
+
+Bonus: In the same sentence, translate “than that certamen.”
+
+----
+num: 49
+category: Unlabeled
+difficulty: Advanced
+seen: 28
+answer: Pentheus
+
+Bonus.  The Maenads tore up this cousin of Dionysus, who didn’t believe in Dionysus’s divinity.
+
+----
+num: 50
+category: Unlabeled
+difficulty: Advanced
+fixed: 1
+seen: 27
+answer: cēdo means yield or move, and caedo means cut or kill
+
+Bonus: Differentiate in meaning between  cēdo and  caedo.
+
+----
+num: 51
+category: Unlabeled
+difficulty: Advanced
+fixed: -1
+seen: 30
+answer: interrogative adjective
+
+Bonus: What use of  quam  is found in the following sentence?  Quam arborem ascendit?
+
+----
+num: 52
+category: Unlabeled
+difficulty: Advanced
+seen: 27
+answer: Pyrrha and Deucalion
+
+Bonus.  We’re known as a couple repopulating the earth, one rock at a time.
+
+----
+num: 53
+category: Unlabeled
+difficulty: Advanced
+seen: 28
+answer: Aequus, a, um
+
+Bonus: From what Latin adjective is “equator” derived?
+
+----
+num: 54
+category: Unlabeled
+difficulty: Advanced
+fixed: 57
+seen: 27
+answer: {Andromache}
+
+Bonus: Who was the said wife?
+
+----
+num: 55
+category: Unlabeled
+difficulty: Advanced
+fixed: 1
+seen: 32
+answer: {Requiescat in Pace/} Let/May he/she rest in peace
+
+Bonus:  Give the Latin and English for the abbreviation: RIP
+
+----
+num: 56
+category: Unlabeled
+difficulty: Advanced
+seen: 28
+answer: Lucius Verus
+
+Bonus:  Who co-ruled with Marcus Aurelius, for part of his rule?
+
+----
+num: 57
+category: Unlabeled
+difficulty: Advanced
+seen: 26
+answer: interrogative adjective
+
+Bonus: What use of  quam  is found in the following sentence?  Quam arborem ascendit?
+
+----
+num: 58
+category: Unlabeled
+difficulty: Advanced
+seen: 28
+answer: navis, ship, and  agere/ to drive
+
+Bonus:  Netscape Navigator is another web browser.  From what noun AND verb with what meanings do we get the word “navigator”?
+
+----
+num: 59
+category: Unlabeled
+difficulty: Advanced
+seen: 28
+answer: Dictys
+
+Bonus.  This man, a fisherman and brother of Polydectes, had rescued Danae and Perseus from the box in the first place. He was instated king after Polydectes met his demise.
+
+----
+num: 60
+category: Unlabeled
+difficulty: Advanced
+fixed: -1
+seen: 29
+answer: calx, calcis meaning “stone”, or “heel”, “chalk”, or “goal line”
+
+Bonus: From what Latin noun with what meaning is “calculus” ultimately derived?
+
+----
+num: 61
+category: Unlabeled
+difficulty: Advanced
+fixed: 1
+seen: 27
+answer: Hadrian
+
+Bonus:  Which Roman emperor added the dome to the building?
+
+----
+num: 62
+category: Unlabeled
+difficulty: Advanced
+seen: 27
+answer: Phillipis
+
+Bonus:  Now translate “in Phillippi”.
+
+----
+num: 63
+category: Unlabeled
+difficulty: Advanced
+fixed: 1
+seen: 28
+answer: Weather
+
+Bonus:  What is the meaning of  tempestas, tempestatis?
+
+----
+num: 64
+category: Unlabeled
+difficulty: Upper
+seen: 20
+answer: Minyades/ Minyae
+
+Bonus: Who are we? We sisters scorned the rites of Bacchus, so he turned us into bats.
+
+----
+num: 65
+category: Unlabeled
+difficulty: Upper
+seen: 20
+answer: Meliores gradus sunt meis amicis quam mihi
+
+Bonus. Again using a dative of possession, translate into Latin: “My friends have better grades than me.”
+
+----
+num: 66
+category: Unlabeled
+difficulty: Upper
+fixed: 1
+seen: 19
+answer: {Perseus}
+
+Bonus: Mycenae is said to have been founded by what hero of legend?
+
+----
+num: 67
+category: Unlabeled
+difficulty: Upper
+seen: 15
+answer: Everything had to be done by me at once
+
+Bonus: Now translate that sentence
+
+----
+num: 68
+category: Unlabeled
+difficulty: Upper
+seen: 22
+answer: Rhetoric
+
+Bonus:  What subject did Quintilian primarily concern himself with?
+
+----
+num: 69
+category: Unlabeled
+difficulty: Upper
+seen: 19
+answer: Noli/ Nolite loqui
+
+Bonus:  In school, teachers are much more likely to say ‘Don’t talk’ than ‘Talk!’.  How would you render that in Latin, using the verb  loquor?
+
+----
+num: 70
+category: Unlabeled
+difficulty: Upper
+seen: 22
+answer: Juturna
+
+Bonus: Iris took whose form in book 12 of the Aeneid??
+
+----
+num: 71
+category: Unlabeled
+difficulty: Upper
+seen: 23
+answer: Omphalos stone
+
+Bonus: At the same site as the Pythian games, there was a stone thought by Greeks to be the center of the universe. Give the name of this stone.
+
+----
+num: 72
+category: Unlabeled
+difficulty: Upper
+seen: 18
+answer: Parco (peperci)
+
+Bonus. Of those 4 verbs, which has a reduplicative perfect stem?
+
+----
+num: 73
+category: Unlabeled
+difficulty: Upper
+seen: 19
+answer: Until
+
+Bonus.  “Dum” is a word that means “while” or “as long as” in the indicative, but when used with the subjunctive how would one translate it?
+
+----
+num: 74
+category: Unlabeled
+difficulty: Upper
+seen: 20
+answer: Sychaeus
+
+Bonus: Who was Dido’s murdered husband?
+
+----
+num: 75
+category: Unlabeled
+difficulty: Upper
+seen: 22
+answer: Tomis, on the Black Sea.
+
+Bonus 1:  Ovid was exiled due to his “Carmen et error”.  To what place was he exiled?
+
+----
+num: 76
+category: Unlabeled
+difficulty: Upper
+seen: 17
+answer: Minos
+
+Bonus: Quis sum? Daedalus necavit me in thermis.
+
+----
+num: 77
+category: Unlabeled
+difficulty: Upper
+seen: 23
+answer: Vis, vis, vi, vim, vi
+
+Bonus. Decline  vis in the singular:
+
+----
+num: 78
+category: Unlabeled
+difficulty: Upper
+seen: 19
+answer: Dodona
+
+Bonus: Which of these is an oracle of Jupiter?
+
+----
+num: 79
+category: Unlabeled
+difficulty: Upper
+seen: 20
+answer: Dignitas
+
+Bonus: What other value, meaning “prestige” or “worth,” is associated with Cicero?
+
+----
+num: 80
+category: Unlabeled
+difficulty: Upper
+seen: 19
+answer: Adjectives
+
+Bonus. Complete the following analogy: gerunds are to nouns as gerundives are to what?
+
+----
+num: 81
+category: Unlabeled
+difficulty: Upper
+seen: 21
+answer: Seneca
+
+Bonus:  Medea was a play written by the Greek playwright Euripides, but also by what Roman author of the Silver Age?
+
+----
+num: 82
+category: Unlabeled
+difficulty: Upper
+seen: 22
+answer: Gladius
+
+Bonus.  Give a Latin synonym for ‘ensis’.
+
+----
+num: 83
+category: Unlabeled
+difficulty: Upper
+seen: 20
+answer: Arcuum
+
+Bonus. Translate just the 4th declension word in the following sentence.  “The strings of their bows were very strong.”
+
+----
+num: 84
+category: Unlabeled
+difficulty: Upper
+seen: 16
+answer: Paphos
+
+Bonus: What city, the Cyprus’ capital, was named from the child of Pygmalion- at least according to Ovid?
+
+----
+num: 85
+category: Unlabeled
+difficulty: Upper
+seen: 17
+answer: Deiphobe
+
+Bonus: In the  Aeneid, what is the name of the Cumaean Sibyl?
+
+----
+num: 86
+category: Unlabeled
+difficulty: Upper
+fixed: 1
+seen: 20
+answer: Lex {Manilia}
+
+Bonus:  Which law gave Pompey command against Mithridates that next year?
+
+----
+num: 87
+category: Unlabeled
+difficulty: Upper
+seen: 22
+answer: Bond, or bridge.
+
+Bonus 1:  What does the Greek word “Zeugma” mean?
+
+----
+num: 88
+category: Unlabeled
+difficulty: Upper
+seen: 21
+answer: Aegina
+
+Bonus: On what island, named for a lover of Zeus, did the Myrmidons originate?
+
+----
+num: 89
+category: Unlabeled
+difficulty: Upper
+seen: 17
+answer: Metonymy
+
+Bonus. In Catullus 64, Amphitrite stands for the sea over which she rules. What poetic device is this an example of?
+
+----
+num: 90
+category: Unlabeled
+difficulty: Upper
+seen: 18
+answer: Eat (or synonyms)
+
+Bonus. Translate just the subjunctive in the following sentence. “I don’t know where she is going.”
+
+----
+num: 91
+category: Unlabeled
+difficulty: Upper
+seen: 23
+answer: Coronis
+
+Bonus: A crow told Apollo that this woman had cheated on him.
+
+----
+num: 92
+category: Unlabeled
+difficulty: Upper
+seen: 20
+answer: His Dark Materials
+
+Bonus: Well, you can’t read the serious stuff all the time.  What popular fantasy series would the Romans would have called “Eius Obscurae Materiae”

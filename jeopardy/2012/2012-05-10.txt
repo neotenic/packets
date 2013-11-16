@@ -1,0 +1,393 @@
+####
+tournament: #6374
+round: Show #6374 - Thursday, May 10, 2012
+year: 2012
+date: 2012-05-10
+####
+
+num: 1
+category: Science
+difficulty: 200
+seen: 9
+answer: balance
+
+Velociraptors had ossified tendons in their tails that helped them maintain this while striking & slashing at prey.
+
+----
+num: 2
+category: Trash
+difficulty: 200
+fixed: -1
+seen: 6
+answer: an orchestra
+
+St. Louis has the USA's second-oldest of these, trailing only the New York Philharmonic.
+
+----
+num: 3
+category: Geography
+difficulty: 200
+seen: 10
+answer: Honolulu
+
+The Pacific Aviation Museum & the USS Arizona Memorial.
+
+----
+num: 4
+category: Social
+difficulty: 200
+seen: 4
+answer: nothing gained
+
+NVNG stands for "nothing ventured", this.
+
+----
+num: 5
+category: Art
+difficulty: 200
+seen: 5
+answer: ash
+
+A pale shade of gray, or the powdery residue left after something is burned.
+
+----
+num: 6
+category: Science
+difficulty: 400
+seen: 6
+answer: the spine
+
+(Sarah of the clue crew gives the clue) By examining the dinosaur's skeleton, we can see that the tail contains caudal vertebrae & is actually an extension of this structure.
+
+----
+num: 7
+category: Trash
+difficulty: 400
+seen: 5
+answer: carbon
+
+The basis for all proteins, fats & carbohydrates, this element makes up the 2nd-largest amount of you by mass.
+
+----
+num: 8
+category: Geography
+difficulty: 400
+seen: 7
+answer: Atlanta
+
+The Martin Luther King Jr. National Historic Site & CNN Center.
+
+----
+num: 9
+category: Social
+difficulty: 400
+seen: 5
+answer: male or female
+
+Someone who types "MorF" is probably trying to determine this.
+
+----
+num: 10
+category: Art
+difficulty: 400
+seen: 4
+answer: a dove
+
+Benjamin Moore bird-related gray paints include one named for this "bird of peace".
+
+----
+num: 11
+category: Science
+difficulty: 600
+seen: 5
+answer: stones
+
+Found in the gizzards of some dinosaurs, gastroliths are these, which helped in the digestion of plant matter.
+
+----
+num: 12
+category: Trash
+difficulty: 600
+seen: 5
+answer: Wheaties
+
+The second athlete to appear on a box of this cereal was first baseman Jimmie Foxx in 1934.
+
+----
+num: 13
+category: Geography
+difficulty: 600
+seen: 7
+answer: Denver
+
+The Wings over the Rockies Air & Space Museum & Four Mile Historic Park.
+
+----
+num: 14
+category: Social
+difficulty: 600
+seen: 4
+answer: an FAQ
+
+Acronym for a website section with helpful info; at jeopardy.com it includes "how does one become a contestant?".
+
+----
+num: 15
+category: Geography
+difficulty: 800
+seen: 7
+answer: Nashville
+
+The Grand Ole Opry & the Willie Nelson & Friends Museum & General Store.
+
+----
+num: 16
+category: Social
+difficulty: 800
+seen: 4
+answer: parents
+
+If someone texts CD9, it means "code 9", these are around.
+
+----
+num: 17
+category: Art
+difficulty: 800
+seen: 4
+answer: battleship grey
+
+In the 1890s the U.S. Navy painted its war vessels gray--presumably this shade, also a term for the USS Iowa.
+
+----
+num: 18
+category: Science
+difficulty: 1000
+seen: 7
+answer: diplodocus
+
+You'll find the word "plod" in the name of this dino & at 30 tons, plod was probably what it did.
+
+----
+num: 19
+category: Trash
+difficulty: 1000
+seen: 5
+answer: Clarence Thomas
+
+The second African-American Supreme Court Justice,.
+
+----
+num: 20
+category: Geography
+difficulty: 1000
+seen: 8
+answer: Phoenix
+
+Museo Chicano & the Desert Botanical Garden.
+
+----
+num: 21
+category: Social
+difficulty: 1000
+seen: 4
+answer: to be honest
+
+TBH, short for this, is used before a statement the recipient won't like.
+
+----
+num: 22
+category: Art
+difficulty: 1000
+seen: 4
+answer: platinum
+
+As well as a shade of blond hair, this silver-like metal is a shade of gray.
+
+----
+num: 23
+category: Literature
+difficulty: 400
+seen: 4
+answer: "Casey"
+
+"Responding to the cheers, he lightly doffed his hat, no stranger in the crowd could doubt 'twas ___ at the bat".
+
+----
+num: 24
+category: Art
+difficulty: 400
+seen: 4
+answer: (Claude) Monet
+
+Around 1916 this Impressionist built a new studio at Giverny to paint large versions of his water lilies.
+
+----
+num: 25
+category: Literature
+difficulty: 400
+seen: 4
+answer: a wishbone
+
+It's the more common word for a bird's furcula, a v-shaped bone that may bring a person good luck.
+
+----
+num: 26
+category: Science
+difficulty: 400
+seen: 5
+answer: a lever
+
+A stapler is an example of this simple machine, with the hinge serving as the fulcrum.
+
+----
+num: 27
+category: Literature
+difficulty: 400
+seen: 4
+answer: spinach
+
+This power-packed veggie is espinacas en espana.
+
+----
+num: 28
+category: Literature
+difficulty: 800
+seen: 4
+answer: "drink"
+
+"Water, water, every where, nor any drop to ___ ".
+
+----
+num: 29
+category: Art
+difficulty: 800
+seen: 4
+answer: (Louis) Braillie
+
+Not surprisingly the website for the American Foundation for the Blind features a bio of him.
+
+----
+num: 30
+category: Literature
+difficulty: 800
+seen: 4
+answer: litter
+
+A group of newborn animals, or to toss trash on the ground.
+
+----
+num: 31
+category: Literature
+difficulty: 800
+seen: 4
+answer: cauliflower
+
+Blumenkohl is German for this cabbage family member.
+
+----
+num: 32
+category: Literature
+difficulty: 1200
+seen: 4
+answer: "night"
+
+"Do not go gentle into that good ___".
+
+----
+num: 33
+category: Art
+difficulty: 1200
+seen: 4
+answer: Descartes
+
+This "I think, therefore I am" philosopher invented analytic geometry.
+
+----
+num: 34
+category: Literature
+difficulty: 1200
+seen: 4
+answer: vacate
+
+This verb from the Latin for "to be empty" means to leave a job or office, or the premises.
+
+----
+num: 35
+category: Science
+difficulty: 1200
+seen: 5
+answer: Edwin Hubble
+
+This astronomer's constant is used for measuring the rate of expansion of the universe.
+
+----
+num: 36
+category: Literature
+difficulty: 1200
+seen: 4
+answer: eggplant
+
+This piece of purple produce is melanzana in Italian.
+
+----
+num: 37
+category: Art
+difficulty: 1600
+seen: 4
+answer: Foucault
+
+In 1851 he invented a pendulum that he'd use to demonstrate the rotation of the Earth on !ts axis.
+
+----
+num: 38
+category: Literature
+difficulty: 1600
+seen: 4
+answer: staves
+
+You may want to ward off these strips of wood that make a barrel.
+
+----
+num: 39
+category: Science
+difficulty: 1600
+seen: 5
+answer: tritium
+
+This isotope that's 3 times as heavy as ordinary hydrogen decays to form helium.
+
+----
+num: 40
+category: Literature
+difficulty: 1600
+seen: 4
+answer: tomato
+
+This vine fruit is known as pomidor in Polish.
+
+----
+num: 41
+category: Literature
+difficulty: 2000
+seen: 6
+answer: "disaster"
+
+"If you can meet with triumph and ___ and treat those two imposters just the same".
+
+----
+num: 42
+category: Literature
+difficulty: 2000
+seen: 5
+answer: fabricate
+
+Take a word for cloth or material, add 3 letters & you get this word meaning to make up a story.
+
+----
+num: 43
+category: Literature
+difficulty: 2000
+seen: 5
+answer: cucumber
+
+In Icelandic, agurka is this green-skinned gourd.

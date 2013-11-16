@@ -1,0 +1,364 @@
+####
+tournament: HSAPQ VHSL Regular Season
+round: 12.pdf
+year: 2011
+####
+
+num: 1
+category: Literature
+difficulty: HS
+fixed: 57
+seen: 447
+answer: {Tom Jones} [accept either name]
+
+This character joins the army of the Duke of Cumberland, where an ensign named Northerton insults his love interest and knocks him unconscious with a bottle. This character is sent from the house when his schoolmate accuses him of drinking while his patron lay near death. After that quarrel with Bilfil, this character fears that he has slept with his mother after going to bed with Mrs. Waters, which disrupts this character’s relationship with Sophia Western. For 10 points, name this rascal taken in by Squire Allworthy, a foundling created by Henry Fielding.
+
+----
+num: 1
+category: Literature
+difficulty: HS
+fixed: 57
+seen: 441
+answer: {Tom Jones} [accept either name]
+
+This character joins the army of the Duke of Cumberland, where an ensign named Northerton insults his love interest and knocks him unconscious with a bottle. This character is sent from the house when his schoolmate accuses him of drinking while his patron lay near death. After that quarrel with Bilfil, this character fears that he has slept with his mother after going to bed with Mrs. Waters, which disrupts this character’s relationship with Sophia Western. For 10 points, name this rascal taken in by Squire Allworthy, a foundling created by Henry Fielding.
+
+----
+num: 2
+category: History
+difficulty: HS
+fixed: 57
+seen: 412
+answer: {Berlin}
+
+One event in this city earned Gail Halverson the nickname "Candy Bomber" and was nicknamed "Operation Vittles." One construction in this city was started on August 13th by the orders of Walter Ulbricht. The building of that structure in this city was supervised by Erich Honecker, the future leader of a government in this city. This city was blockaded by the Soviets from 1948 to 1949, which led to its requiring an airlift of supplies. For 10 points, name this city that was the capital of East Germany and was divided by a wall until 1989.
+
+----
+num: 3
+category: History
+difficulty: HS
+fixed: 1
+seen: 416
+answer: {First Crusade}
+
+The Battle of Ascalon occurred at the end of this campaign. One part of this campaign was led by Walter Sans Avoir and the monk Peter the Hermit. This event was trigged by appeals made by Byzantine emperor Alexius I and resulted in the creation of states like Tripoli, Edessa, and Antioch. This event was sparked by the Council of Clermont called by Pope Urban II. For 10 points, name this military expedition launched in 1096, which was the first in a series of Christian attempts to recapture the Holy Land.
+
+----
+num: 4
+category: Literature
+difficulty: HS
+fixed: 1
+seen: 449
+answer: Robert {Frost}
+
+One poem by this author imagines “some boy too far from town to learn baseball” who “all there was to learn about not launching out too soon.” He wrote that “Nature's first green is gold” in his poem “Nothing Gold Can Stay.” He ended one of his poems with the refrain “And miles to go before I sleep.” This author of “Birches” built another poem around the adage “Good fences make good neighbors.” For 10 points, name this New England poet of “Stopping By Woods on a Snowy Evening” and “Mending Wall.”
+
+----
+num: 5
+category: Science
+difficulty: HS
+fixed: 57
+seen: 488
+answer: {sorting} [accept word forms]
+
+In Perl, this process is helped along by the Schwartzian Transform. The “bogo” type of it will randomly shuffle a set however many times it takes to successfully accomplish this action. C.A.R. Hoare invented a way to accomplish it that involves a divide-and-conquer algorithm and the selection of a pivot element and which runs in big O of n log n time. “Quick” and “bubble” are two algorithms that accomplish, for 10 points, what process in computer science that involves the ordering of items in a list?
+
+----
+num: 6
+category: Fine Arts
+difficulty: HS
+fixed: 1
+seen: 491
+answer: Wolfgang Amadeus {Mozart}
+
+The aria "Vedrommi Intorno" is sung by the titular King of Crete in this man’s opera Idomeneo. Another of his operas contains the aria “Ho capito, signor, si” and contains the character Leporello, the servant of a character who kills Donna Anna's father and is dragged to hell at the end of the opera. This man composed "The Queen of the Night Aria" for a well-known piece, and in yet another opera with music composed by him, Ferrando and Guglielmo try to seduce each other's wives; that opera is Così fan tutte ("TWO"-tee). For 10 points name this Austrian composer of the operas Don Giovanni and The Magic Flute.
+
+----
+num: 8
+category: Science
+difficulty: HS
+fixed: -1
+seen: 481
+answer: {muscle}
+
+This tissue can be described by the Hill model. This tissue is comprised of cells with multiple nuclei, and contain T tubules in which calcium flows after being released from the sarcoplasmic reticulum. Cells in this tissue primarily contain structures arranged by desmin at the Z line; those structures are sarcomeres. Fibers of this tissue are classified as oxidative or glycolytic. This tissue can be divided into striated, smooth, and cardiac types. For 10 points, name this tissue that is responsible for generating force and makes up the diaphragm and biceps.
+
+----
+num: 9
+category: Literature
+difficulty: HS
+fixed: 57
+seen: 454
+answer: {epic} poem [accept word forms]
+
+One work of this type features a storm god named Adamastor who haunts the Cape of Good Hope; that work is The Lusiads. Another work of this type tells the story of a Trojan, the son of Anchises, who became the ancestor of the Romans. The titular Greek hero returns home from the Trojan War in another example of, for 10 points, what type of poem, examples of which include The Aeneid and The Odyssey?
+
+----
+num: 10
+category: Science
+difficulty: HS
+fixed: 1
+seen: 480
+answer: {refraction}
+
+The Kerr effect changes the namesake ratio involved in this phenomena in the presence of an electric field. The lensmaker's equation relates one over the focal length to the focal lengths and the ratio of the values associated with this phenomena for the lens and the environment. This phenomena can be described by setting the ratio of the sines of the angles equal to the inverse of the ratio of this phenomena's namesake indices. That description is known as Snell's law. This is caused by the change of the velocity of a wave as it enters a new medium. For 10 points, name this phenomena that makes light bend when it enters water.
+
+----
+num: 10
+category: Science
+difficulty: HS
+fixed: 1
+seen: 494
+answer: {refraction}
+
+The Kerr effect changes the namesake ratio involved in this phenomena in the presence of an electric field. The lensmaker's equation relates one over the focal length to the focal lengths and the ratio of the values associated with this phenomena for the lens and the environment. This phenomena can be described by setting the ratio of the sines of the angles equal to the inverse of the ratio of this phenomena's namesake indices. That description is known as Snell's law. This is caused by the change of the velocity of a wave as it enters a new medium. For 10 points, name this phenomena that makes light bend when it enters water.
+
+----
+num: 11
+category: Science
+difficulty: HS
+fixed: 1
+seen: 612
+answer: {ice age} [accept {glacial age} or {glacial period} before mentioned]
+
+The Huronian one may have been triggered by the oxygen castrastrophe. The Driftless zone was relatively unaffected the last time one of these occurred. Variation within one of these can be caused by Milankovitch cycles. An event called the Wisconsinan occurred during the most recent one which is named for the Pleistocene epoch. During these time periods, relatively drumlins and moraines were formed. For 10 points, name these periods of low global temperatures and increased glacial extent.
+
+----
+num: 12
+category: Literature
+difficulty: HS
+fixed: 1
+seen: 451
+answer: {Romeo} and {Juliet}
+
+One character in this play rails against “calm, dishonorable, vile submission” and declares “you shall find me a grave man” as he dies. Another character in this play notes that “Parting is such sweet sorrow” and claims that “That which we call a rose, by any other name would smell as sweet.” This play opens with a sonnet that discusses “Two households, both alike in dignity, in fair Verona.” For 10 points, name this play about “a pair of star-cross'd lovers,” a tragedy by William Shakespeare.
+
+----
+num: 13
+category: Literature
+difficulty: HS
+fixed: 57
+seen: 445
+answer: {Beloved}
+
+Near the end of this novel, the protagonist attacks her benefactor Mr. Bodwin with an icepick, mistaking him for the wicked Schoolteacher. This novel’s protagonist lives at 124 Bluestone with her friend, Paul D, and daughter, Denver. While staying with Baby Suggs, the protagonist of this novel is found by her former owners, then kills one of her children to save her from enslavement. For 10 points, name this novel in which Sethe is haunted by her dead child’s ghost, written by Toni Morrison.
+
+----
+num: 15
+category: Social Science
+difficulty: HS
+fixed: 1
+seen: 381
+answer: three
+
+The Mayan prefix "ox" or "ux," as in the place-name "Uxmal," means this in English. A defining feature of Semitic languages is that every word is formed from this number of consonantal roots. In German and Latin, this is the number of grammatical genders. In Mandarin and in Japanese, this number is "san." American legal writing preserves an outdated term for quantities that have been multiplied by this number, "trebled." For 10 points, give this number, which in Portuguese and Spanish is "tres."
+
+----
+num: 16
+category: History
+difficulty: HS
+fixed: 57
+seen: 416
+answer: {New York}
+
+Though it is not India, the "Delhi Clique" was the target of one faction in this state's Anti-Rent War. During the Second Great Awakening, one part of this state was known as the "Burned-Over District." Hooker Chemical buried twenty-one thousand pounds of toxic waste beneath the Love Canal neighborhood of a city in the west of this state. This state was the location of the first execution by electric chair and the Triangle Shirtwaist Fire. For 10 points, name this state in which the World Trade Center stood until it was attacked on September 11, 2001.
+
+----
+num: 17
+category: Literature
+difficulty: HS
+fixed: 1
+seen: 449
+answer: {flowers} [accept {roses} before "{Albatross}" is read]
+
+In a poem titled after one type of these, an “invisible worm that flies in the night” “has found out” the “bed of crimson joy” of one of these. A poetry collection titled after these entities contains the poem “The Albatross” and an introduction addressed to the “hypocrite reader.” The Symbolist poet Charles Baudelaire wrote about some of these “of Evil.” For 10 points, name this objects, one type of which titles William Blake’s “The Sick Rose.”
+
+----
+num: 17
+category: Literature
+difficulty: HS
+fixed: 1
+seen: 445
+answer: {flowers} [accept {roses} before "{Albatross}" is read]
+
+In a poem titled after one type of these, an “invisible worm that flies in the night” “has found out” the “bed of crimson joy” of one of these. A poetry collection titled after these entities contains the poem “The Albatross” and an introduction addressed to the “hypocrite reader.” The Symbolist poet Charles Baudelaire wrote about some of these “of Evil.” For 10 points, name this objects, one type of which titles William Blake’s “The Sick Rose.”
+
+----
+num: 18
+category: History
+difficulty: HS
+fixed: 1
+seen: 412
+answer: John {Roberts}
+
+Congressman Peter deFazio recently announced that he is “investigating” impeachment proceedings against this man, based on his actions in a case which struck down corporate limits on “electioneering communications”, Citizens United. He administered the oath of office to Barack Obama twice, after making a mistake during Obama’s inauguration, and was nominated to his current post upon the death of William Rehnquist in 2005. For 10 points, name this current Chief Justice of the U.S. Supreme Court.
+
+----
+num: 19
+category: Science
+difficulty: HS
+fixed: 57
+seen: 483
+answer: {mutations}
+
+These can be identified using a technique known as TILLING. Harris Bernstein discovered the "amber" type of them, which is contrasted with the "ochre" and "opal" types. One example of the "point" variety of these causes sickle-cell anemia, and it is also an example of the "missense" variety, since it results in valine being encoded instead of glutamic acid. They can also be classified as "nonsense" or "frameshift." For 10 points, name these changes in DNA sequences, which may be caused by radiation.
+
+----
+num: 20
+category: Literature
+difficulty: HS
+fixed: 1
+seen: 450
+answer: Marcel {Proust}
+
+An essay by Samuel Beckett about this man describes him as "completely detached from all moral considerations." Characters created by this author a great actress named Berma, an artist named Elstir, and a writer named Bergotte. He also created Albertine, whose disappearance is the subject of the sixth volume of his magnum opus. That work is a novel featuring characters such as Charles Swann which also features the episode of the Madeleine. For 10 points, name this author of Remembrance of Things Past.
+
+----
+num: 21
+category: Science
+difficulty: HS
+fixed: 1
+seen: 488
+answer: ester
+
+This functional group can be formed by a reaction named for Steglich. In the Fries rearrangement, one of them is reacted with a Lewis acid. A cyclic one is known as a lactone, and ethyl formate is one example of this functional group. The Claisen condensation occurs between two of them, or one of them and a carbonyl. It can be formed by reacting an oxoacid with an alcohol. For 10 points, name this functional group which gives many fruits their distinctive smells.
+
+----
+num: 22
+category: Mythology
+difficulty: HS
+fixed: 1
+seen: 787
+answer: Loki
+
+This god slew Fimafeng in the hall of Aegir. The son of Farbauti and Laufey, this deity fathered Narvi and Vali on his wife Sigyn, who holds up a bowl to catch a serpent’s poison dripping on him. This god convinced the blind Hoedr to hurl a shaft of mistletoe at Baldr, thereby killing him. With the giantess Angrboda, this figure fathered such monsters as the Fenris Wolf and the Midgard Serpent. For 10 points, name this Norse trickster god.
+
+----
+num: 23
+category: Fine Arts
+difficulty: HS
+fixed: 57
+seen: 499
+answer: The {Ambassadors}
+
+An iron crucifix can be seen in the top left corner of this painting, which also depicts a man dressed in pink and black holding a dagger. A green curtain dominates the background of this work, which also depicts a polyhedral sundial, a globe, a lute, and an anamorphic skull. The two lone figures in this painting are usually identified as Georges de Selve and Jean de Dinteville, both of whom rest their arms upon a table holding various items representing knowledge and science. For 10 points, name this 1533 painting by Hans Holbein the Younger.
+
+----
+num: 24
+category: Geography
+difficulty: HS
+fixed: 1
+seen: 718
+answer: {Ohio} River
+
+One tributary of this river is the Licking River. During the Civil War, this river was nicknamed the River Jordan, and it also served as an unofficial extension of the Mason-Dixon Line to the west. Its tributaries include the Wabash and the Allegheny, and its confluence with the Mississippi is near Cairo, Illinois. Cities on this river include Pittsburgh and Cincinnati. For 10 points, name this river whose namesake state has its capital at Columbus.
+
+----
+num: 25
+category: Trash
+difficulty: HS
+fixed: 1
+seen: 1026
+answer: {How} I {Met} Your {Mother}
+
+In one episode of this series, a character is referred to as Blah Blah because the narrator can't remember her name. That episode also introduced the euphemism "eating a sandwich." One character is a former Canadian pop star who scored a hit called "Let's All Go to the Mall." That character, Robin Scherbatsky, briefly dates Barney Stinson, as well as dating this show's narrator. For 10 points, name this CBS comedy in which Ted Mosby narrates his romantic history to his children.
+
+----
+num: 26
+category: Religion
+difficulty: HS
+fixed: 1
+seen: 455
+answer: {Thomas} the Apostle [or {Doubting Thomas}; accept {Didymus} before it is read]
+
+Jesus responded to one this man at the Last Supper by saying “I am the way and the truth and the life.” This grandson of Alpheus and son of James was possibly killed by four guards with spears during his ministry in India. The patron saint of architects, this brother of Matthew is sometimes called Didymus, meaning “twin,” but he is better known for proclaim “My Lord and my God” after examining the wounds of Jesus. For 10 points, name this apostle best remembered for doubting the resurrection of Jesus Christ.
+
+----
+num: 27
+category: Literature
+difficulty: HS
+fixed: 1
+seen: 441
+answer: "Chicago"
+
+The narrator of this poem tells its subject that, "they tell me you are wicked and I believe them," but that "I give them back the sneer." The subject of this poem is described as "fierce as a dog with tongue lapping for action" and "laughing the stormy, husky, brawling laughter of Youth." This poem's subject is proud to have such appellations as Tool Maker, Player with Railroads, and Stacker of Wheat. For 10 points, "Hog Butcher for the world" is the first appellation bestowed upon the subject of what Carl Sandburg poem about a Midwestern city?
+
+----
+num: 28
+category: History
+difficulty: HS
+fixed: 1
+seen: 424
+answer: {Victoria} of England
+
+The Jubilee Plot was a failed attempt to assassinate this monarch, who was in power during the administration of such prime ministers as Lord Salisbury and Lord Palmerston. Lord Melbourne was prime minster when this ruler came to power. This ruler was the last of the House of Hanover. A period of prolonged mourning followed the death of this ruler's husband, Prince Albert. This British ruler was also made the first Empress of India. For 10 points, name this long reigning British queen of the nineteenth century.
+
+----
+num: 29
+category: Science
+difficulty: HS
+fixed: 1
+seen: 483
+answer: Max {Planck}
+
+The unit of time after the big bang at which gravity separated from the other forces is named for this man, and a law that is approximated by the Rayleigh-Jeans law and that describes blackbody radiation is also named for him. A constant named after this man is used as the lower bound of error in the Heisenberg Uncertainty Principle and is typically stated in Joules times seconds. For 10 points, name this physicist who himself names a physical constant denoted h.
+
+----
+num: 30
+category: History
+difficulty: HS
+fixed: 1
+seen: 419
+answer: Stonewall {Jackson} [or Thomas Jonathan {Jackson}]
+
+This man's only defeat came from Nathan Kimball at Kernstown, the first battle in this man’s Shenandoah Valley Campaign. Union forces crossed the Rappahannock River while he and his troops were in "Wilderness of Spotsylvania," where he was killed by friendly fire. Before that Battle of Chancellorsville, he gained fame after Union troops could not break the lines of his brigade at the First Battle of Bull Run. For 10 points, name this subordinate of Robert E. Lee, a Confederate general nicknamed "Stonewall."
+
+----
+num: 31
+category: History
+difficulty: HS
+fixed: 1
+seen: 416
+answer: Ronald Wilson {Reagan}
+
+This man launched his political career by giving the "A Time for Choosing" speech for Barry Goldwater. As President, he fired a group of striking air traffic controllers. This President appointed the Tower Commission to investigate a scandal in which Oliver North sold arms to Iran to give money to Nicaraguan rebels. This man spent hundreds of billions on the Strategic Defense Initiative. This President was succeeded by his Vice President George H. W. Bush. For 10 points, name this Republican President of the 1980s.
+
+----
+num: 31
+category: History
+difficulty: HS
+fixed: 1
+seen: 416
+answer: Ronald Wilson {Reagan}
+
+This man launched his political career by giving the "A Time for Choosing" speech for Barry Goldwater. As President, he fired a group of striking air traffic controllers. This President appointed the Tower Commission to investigate a scandal in which Oliver North sold arms to Iran to give money to Nicaraguan rebels. This man spent hundreds of billions on the Strategic Defense Initiative. This President was succeeded by his Vice President George H. W. Bush. For 10 points, name this Republican President of the 1980s.
+
+----
+num: 32
+category: Literature
+difficulty: HS
+fixed: 1
+seen: 453
+answer: Sherlock Holmes [accept either name]
+
+When told about the Copernican theory of the solar system, this character asks, "What the deuce is it to me?" This character is described as an excellent swordsman and boxer, but does not care to know anything about Thomas Carlyle. His brother Mycroft is described as "the most indispensable man in the country." Public outcry caused the author to bring this character back in "The Adventure of the Empty House" after having him tumble over Reichenbach Falls while fighting Professor Moriarty. For 10 points, name this detective and master of deduction, who was created by Arthur Conan Doyle and whose adventures are narrated by Dr. John Watson.
+
+----
+num: 33
+category: History
+difficulty: HS
+fixed: 57
+seen: 423
+answer: Abraham {Lincoln}
+
+This President's cabinet, including attorney general Edward Bates and treasury secretary Salmon Chase, was chronicled in the book Team of Rivals. This president smoothed over the Trent Affair. While travelling through Baltimore, this President survived an assassination plot. He won a second term by defeating George McClellan. While running for the Senate, this man gave a speech declaring "a house divided against itself cannot stand." For 10 points, name this author of the Gettysburg Address who was President during the Civil War.
+
+----
+num: 34
+category: Science
+difficulty: HS
+fixed: 1
+seen: 481
+answer: {neurotransmitters}
+
+One example of these chemicals activates receptors which can also be activated by nicotine or muscarine. SSRIs inhibit the reuptake of one of these chemicals. They can be classified as excitatory or inhibitory, and one example of the former type is glutamate. Parkinson's disease involves a decreased production of one of these, dopamine. For 10 points, name these chemicals which transmit signals across synapses, which include GABA and acetylcholine (uh-SEE-till-CO-lean).

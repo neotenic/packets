@@ -1,0 +1,447 @@
+####
+tournament: #6156
+round: Show #6156 - Monday, May 23, 2011
+year: 2011
+date: 2011-05-23
+####
+
+num: 1
+category: Geography
+difficulty: 200
+seen: 8
+answer: Chattanooga
+
+The name of this Tennessee city is from the Creek, meaning "rock rising to a point", not "choo choo".
+
+----
+num: 2
+category: Literature
+difficulty: 200
+seen: 4
+answer: Queen
+
+"Bicycle Race" & "Another One Bites The Dust".
+
+----
+num: 3
+category: Literature
+difficulty: 200
+fixed: -1
+seen: 4
+answer: Reese\'s
+
+A classic commercial for this sweet had one person say, "you got your chocolate in my peanut butter!".
+
+----
+num: 4
+category: Literature
+difficulty: 200
+seen: 4
+answer: a thimble
+
+You wear one of these to protect your fingers when sewing.
+
+----
+num: 5
+category: History
+difficulty: 200
+seen: 5
+answer: P-H-A-R-A-O-H
+
+was big in Egypt.
+
+----
+num: 6
+category: Geography
+difficulty: 400
+seen: 7
+answer: Costa Rica
+
+Do you know the way to San Jose, the capital of this central American nation?.
+
+----
+num: 7
+category: Literature
+difficulty: 400
+seen: 4
+answer: Guns N\' Roses
+
+"Paradise City" & "November Rain".
+
+----
+num: 8
+category: Literature
+difficulty: 400
+seen: 4
+answer: Kit Kat
+
+This candy bar, crispy wafers in chocolate, says it's for "break time, anytime".
+
+----
+num: 9
+category: Literature
+difficulty: 400
+seen: 4
+answer: a tophat
+
+The one Lincoln wore to Ford's Theatre is in the Smithsonian.
+
+----
+num: 10
+category: Geography
+difficulty: 600
+seen: 8
+answer: Canterbury
+
+The cathedral in this English city is seen.
+
+----
+num: 11
+category: Literature
+difficulty: 600
+seen: 4
+answer: Earth, Wind & Fire
+
+"September" & "Shining Star".
+
+----
+num: 12
+category: Literature
+difficulty: 600
+seen: 4
+answer: Kisses
+
+Hugs are a version of this bite-sized Hershey candy, with milk chocolate hugged by sweet white cream.
+
+----
+num: 13
+category: Literature
+difficulty: 600
+seen: 4
+answer: the shoe
+
+Awaiting the inevitable is like "waiting for the other" this "to drop".
+
+----
+num: 14
+category: History
+difficulty: 600
+seen: 4
+answer: C-Y-P-H-E-R
+
+In England it's.
+
+----
+num: 15
+category: Geography
+difficulty: 800
+seen: 8
+answer: Cyprus
+
+Rich deposits of copper have been found on this Mediterranean island whose name means "copper".
+
+----
+num: 16
+category: Literature
+difficulty: 800
+seen: 4
+answer: Blink-182
+
+"What's My Age Again?" & "All The Small Things".
+
+----
+num: 17
+category: Literature
+difficulty: 800
+seen: 4
+answer: Starburst
+
+These chewy candies were launched in the U.K. under the name "opal fruits".
+
+----
+num: 18
+category: History
+difficulty: 800
+seen: 3
+answer: R-E-Q-U-I-E-M
+
+got mass appeal.
+
+----
+num: 19
+category: Geography
+difficulty: 1000
+seen: 7
+answer: Crimea (Crimean Peninsula)
+
+It's linked to the European mainland by the Perekop Isthmus.
+
+----
+num: 20
+category: Literature
+difficulty: 1000
+seen: 4
+answer: the Foo Fighters
+
+"Everlong" & "Learn To Fly".
+
+----
+num: 21
+category: Literature
+difficulty: 1000
+seen: 5
+answer: Zagnut
+
+One of "Z" best candy bars is this one, crunchy peanut butter & toasted coconut, created way back in 1930.
+
+----
+num: 22
+category: Literature
+difficulty: 1000
+seen: 4
+answer: a racecar
+
+On May 30, 2010 Dario Franchitti claimed a big victory in one.
+
+----
+num: 23
+category: Trash
+difficulty: 400
+seen: 5
+answer: Dan Aykroyd
+
+The distinctive-looking Beldar Conehead.
+
+----
+num: 24
+category: Literature
+difficulty: 400
+seen: 5
+answer: the living
+
+Waxing pragmatic, Mother Jones said, "Pray for the dead & fight... for the" this.
+
+----
+num: 25
+category: Art
+difficulty: 400
+seen: 4
+answer: black
+
+The 8-ball in pool is primarily this color.
+
+----
+num: 26
+category: History
+difficulty: 400
+seen: 4
+answer: Sweden
+
+Gustav V's 1914 borggardstalet, or "courtyard speech", prompted the resignation of this country's government.
+
+----
+num: 27
+category: Literature
+difficulty: 400
+seen: 4
+answer: a bath
+
+In Britain it's a swimming pool; in the U.S. it's something you take in a tub.
+
+----
+num: 28
+category: Literature
+difficulty: 800
+seen: 3
+answer: A.A. Milne
+
+changed a bit in illustrations and movies, but the library has this author's sons original animals, including a.
+
+----
+num: 29
+category: Trash
+difficulty: 800
+seen: 5
+answer: Chris Farley
+
+Motivational speaker Matt Foley.
+
+----
+num: 30
+category: Literature
+difficulty: 800
+seen: 4
+answer: a hellraiser
+
+Mother Jones said of herself, "I'm not a humanitarian, I'm a" this "raiser".
+
+----
+num: 31
+category: Art
+difficulty: 800
+seen: 4
+answer: Hanukkah
+
+The 8-day festival of this utilizes a 9-branched menorah.
+
+----
+num: 32
+category: History
+difficulty: 800
+seen: 4
+answer: Juan Carlos
+
+In 1969 he said, "I receive from... Generalissimo Franco the political legitimacy born of 18 July 1936".
+
+----
+num: 33
+category: Literature
+difficulty: 800
+seen: 4
+answer: a cowboy
+
+To the Brits he can be an unscrupulous businessman, not just a ranch hand or John Wayne character.
+
+----
+num: 34
+category: Literature
+difficulty: 1200
+seen: 4
+answer: Keats
+
+The library has a.
+
+----
+num: 35
+category: Trash
+difficulty: 1200
+seen: 6
+answer: Fred Armisen
+
+New York governor David Paterson.
+
+----
+num: 36
+category: Literature
+difficulty: 1200
+seen: 4
+answer: read
+
+Mother Jones said, "Sit down &" do this to "educate yourself for the coming conflicts".
+
+----
+num: 37
+category: Art
+difficulty: 1200
+seen: 4
+answer: a V-8
+
+Alphanumeric term for your car engine that has 2 banks of 4 cylinders aligned in a specific angle.
+
+----
+num: 38
+category: History
+difficulty: 1200
+seen: 4
+answer: Louis XVI
+
+On January 21, 1793 he told a throng of onlookers, "I die innocent of all the crimes laid to my charge".
+
+----
+num: 39
+category: Literature
+difficulty: 1200
+seen: 3
+answer: a comforter
+
+In Britain it's a baby's pacifier; to us, it's a thick, often down-filled blanket.
+
+----
+num: 40
+category: Literature
+difficulty: 1600
+seen: 4
+answer: here be dragons
+
+The circa 1510 Hunt-Lenox.
+
+----
+num: 41
+category: Trash
+difficulty: 1600
+seen: 5
+answer: Chris Kattan
+
+The monkey-esque Mr. Peepers.
+
+----
+num: 42
+category: Art
+difficulty: 1600
+seen: 5
+answer: center field
+
+On a baseball scorecard, this position player is No. 8; put me in, coach!.
+
+----
+num: 43
+category: History
+difficulty: 1600
+seen: 5
+answer: Nicholas II
+
+In 1895 this czar said that calls for democratic reform by the zemstvos, or rural councils, were merely a "senseless dream".
+
+----
+num: 44
+category: Literature
+difficulty: 1600
+seen: 4
+answer: a biscuit
+
+Here, it's a small quick bread; in Britain, it's a cookie.
+
+----
+num: 45
+category: Trash
+difficulty: 2000
+seen: 9
+answer: Garrett Morris
+
+Dominican baseball great Chico Escuela.
+
+----
+num: 46
+category: Literature
+difficulty: 2000
+seen: 6
+answer: a senator
+
+Talking with a man in prison for stealing shoes, she said if he'd "stolen a railroad he could be" one of these 100 people.
+
+----
+num: 47
+category: Art
+difficulty: 2000
+seen: 6
+answer: (Martin) van Buren
+
+This "Little Magician" was our 8th president.
+
+----
+num: 48
+category: History
+difficulty: 2000
+seen: 6
+answer: Hirohito
+
+In an Aug. 15, 1945 broadcast, this emperor said, "we have ordered the acceptance of the provisions of the joint declaration".
+
+----
+num: 49
+category: Literature
+difficulty: 2000
+seen: 5
+answer: a chemist
+
+In the U.S., it's a scientist who studies what matter is made of; in Britain, a dispensing one is a pharmacist.

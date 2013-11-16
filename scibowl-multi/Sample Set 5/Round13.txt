@@ -1,0 +1,273 @@
+####
+tournament: Sample Set 5
+round: Round13.pdf
+####
+
+num: 2
+category: Life Science
+difficulty: MS
+answer: Y) Random Mating
+
+Which of the following is NOT a cause of microevolution?
+W) Genetic drift
+X) Gene flow
+Y) Random mating
+Z) Mutation
+
+----
+num: 2
+category: Life Science
+difficulty: MS
+answer: X) Karyotyping
+
+Which of the following techniques is best used to diagnose a disease caused by aneuploidy (read as: AHN-yuh-plohi-dee)?
+W) Protein extraction
+X) Karyotyping
+Y) Electrophoresis
+Z)^ Pedigree analysis
+
+----
+num: 3
+category: Energy
+difficulty: MS
+answer: Y) 2 X 10^7
+
+About how fast, in meters per second, does a released neutron travel in a fission reaction?
+W) 1 x 10^5
+X) 3 x 10^6
+Y) 2 x 10^7
+Z) 3 x 10^8
+
+----
+num: 4
+category: Physical Science
+difficulty: MS
+answer: X) Multiply the Force of the Operator
+
+Hydraulic lifts utilize Pascal’s principle and an increased surface area on the lift to do which of the following?
+W) Multiply the force of the object
+X) Multiply the force of the operator
+Y) Decrease the weight of the object being lifted
+Z) Decrease the force of the operator
+
+----
+num: 5
+category: Life Science
+difficulty: MS
+answer: Z) Viruses Contain Protein; Viroids Do Not
+
+Which of the following is true regarding viruses and viroids?
+W) Viroids contain RNA; viruses do not
+X) Viruses contain RNA; viroids do not
+Y) Viroids contain protein; viruses do not
+Z) Vir uses contain protein; viroids do not
+
+----
+num: 5
+category: Life Science
+difficulty: MS
+answer: Z) Telomerase Adds Sequence Repeat S
+
+
+Because DNA polymerase (read as: poh-LIM-eh-rayz) is not able to synthesize DNA in the 3 prime to the 5 prime direction, how do eukaryotes (read as: yuh-KEHR-ee-ōets) prevent loss of base pair sequences from chromosome ends?
+W) Mismatch repair
+X) Nucleotide excision repair
+Y) Topoisomerase (read as: tōe-pōe-y-SOH-meh-rayz) winds up DNA ends
+Z) Telomerase (read as: te-LŌE-meh-rayz) adds sequence repeats
+
+----
+num: 9
+category: General Science
+difficulty: MS
+answer: Z) Cutting a Magnet in Half
+
+Which of the following actions would NOT be likely to move the domains of a magnet?
+W) Putting the magnet in a strong magnetic field opposite of its own
+X) Dropping a magnet
+Y) Heating a magnet
+Z) Cutting a magnet in half
+
+----
+num: 9
+category: General Science
+difficulty: MS
+answer: Y) Low Temperature and High Pressure
+
+
+The ideal gas law begins to break down under which conditions?
+W) High temperature and high pressure
+X) High temperature and low pressure
+Y) Low temperature and high pressure
+Z) Low temperature and low pressure
+
+----
+num: 11
+category: General Science
+difficulty: MS
+answer: Y)  Glycoprotein
+
+The substance known as fish “antifreeze” is which of the following types of molecules?
+W) Phospholipid
+X) Carbohydrate
+Y) Glycoprotein
+Z) Alcohol
+
+----
+num: 15
+category: General Science
+difficulty: MS
+answer: W) Directly Proportional
+
+How is the relationship between the temperature and volume of an ideal gas characterized?
+W) Directly proportional
+X) Inversely proportional
+Y) Exponential 
+Z) Independent
+
+----
+num: 16
+category: Physical Science
+difficulty: MS
+answer: X)  Silver
+
+Which of the following metals is the best conductor of electricity?
+W) Copper
+X) Silver
+Y) Gold
+Z) Aluminum
+
+----
+num: 17
+category: Earth and Space Science
+difficulty: MS
+answer: Y) Pyroxenes
+
+Which of the following silicate mineral groups has a single -chain silicate structure?
+W) Feldspars
+X) Micas
+Y) Pyroxenes (read as: py-RAHK-seens)
+Z) Amphiboles (read as: AHM(P)-fi-bōels)
+
+----
+num: 18
+category: Physical Science
+difficulty: MS
+answer: Y) the Surface Area of  the Liquid in Contact With the Gas
+
+Which of the following factors does NOT impact the vapor pressure of a liquid in a closed container?
+W) The molecular composition of the liquid
+X) The temperature of the liquid
+Y) The surface area of the liquid in contact with the gas
+Z) The intermolecular forces between the molecules in the liquid
+
+----
+num: 19
+category: Energy
+difficulty: MS
+answer: Y) Carbon
+
+Which of the following elements was NOT produced in the Big 
+Bang?
+W) Hydrogen
+X) Helium
+Y) Carbon
+Z) Beryllium
+
+----
+num: 20
+category: Math
+difficulty: MS
+answer: X) M Is Less Than Zero
+
+For a set of two variable data, the correlation coefficient is r = -0.9 and the line of best fit is y = mx + b. Which of the following is a TRUE statement about m?
+W) m is greater than zero
+X) m is less than zero
+Y) m is equal to zero
+Z) m can be any real number
+
+----
+num: 21
+category: Earth and Space Science
+difficulty: MS
+answer: X) Obsidian
+
+
+Quenching of molten materials is an important step in the formation of which of the following kinds of igneous rock?
+W) Pegmatite
+X) Obsidian (read as: ohb-SI-dee-ahn)
+Y) Chert
+Z) Granite
+
+----
+num: 23
+category: Earth and Space Science
+difficulty: MS
+answer: Z)  Uranium
+
+Isotopes of which of the following elements would allow you to determine the age of the oldest rocks on Earth?
+W) Carbon
+X) Lead
+Y) Iron
+Z) Uranium
+
+----
+num: 23
+category: Earth and Space Science
+difficulty: MS
+answer: W) Potassium Feldspar
+
+
+Which of the following is NOT a common mafic silicate mineral?
+W) Potassium feldspar
+X) Olivine
+Y) Pyroxene
+Z) Amphibole (read as: AHM(P)-fi-bōel)
+
+----
+num: 24
+category: Life Science
+difficulty: MS
+answer: W) Microtubule
+
+Which component of the cytoskeleton is actively involved in lining the chromosomes up at the cell equator in preparation for cell division?
+W) Microtubule
+X) Microfilament
+Y) Intermediate filament
+Z) Vesicle
+
+----
+num: 24
+category: Life Science
+difficulty: MS
+answer: W)  Sympatric Speciation
+
+The development of polyploidy in plants plays the most direct role in which of the following?
+W) Sympatric speciation
+X) Allopatric speciation
+Y) Natural selection
+Z) Parapatric speciation
+
+----
+num: 25
+category: Energy
+difficulty: MS
+answer: Y) When the North End of the Permanent Magnet Enters the 
+Coil, a Current That Travels in a Clockwise Direction Is Induced
+
+Which of the following is NOT true about Michael Faraday’s experiment demonstrating electromagnetic induction, which feature d a permanent magnet and a galvanometer connected to a coil of wire around a paper cylinder?
+W) When a permanent magnet is left stationary inside the wire coil, no current is induced
+X) A permanent magnet produces stronger current when it is moved quickly in and out of the wire coil
+Y) When the north end of the permanent magnet enters the coil, a current that travels in a clockwise direction is induced
+Z) When the north end of the permanent magnet enters the coil, a current that travels in a counterclockwise direction is induced
+
+----
+num: 25
+category: Energy
+difficulty: MS
+answer: Z) It Will Freeze
+
+Barium hydroxide and ammonium nitrate are mixed in a 2 to 1 ratio in an Erlenmeyer flask and stirred together at room temperature. Within 30 seconds, the odor of ammonia is evident. The Erlenmeyer flask is then placed in contact with a small amount of liquid water. Which of the following will happen to the water?
+W) It will completely turn into steam
+X) Part of it will remain liquid and part will turn into steam
+Y) It will remain liquid
+Z) It will freeze

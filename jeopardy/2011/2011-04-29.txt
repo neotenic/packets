@@ -1,0 +1,312 @@
+####
+tournament: #6140
+round: Show #6140 - Friday, April 29, 2011
+year: 2011
+date: 2011-04-29
+####
+
+num: 1
+category: Geography
+difficulty: 200
+seen: 9
+answer: New York
+
+Catskill State Park.
+
+----
+num: 2
+category: Literature
+difficulty: 200
+seen: 4
+answer: jacks
+
+Need to change a tire?  No problem if you have one of these portable devices to lift the car.
+
+----
+num: 3
+category: History
+difficulty: 200
+seen: 5
+answer: "It"
+
+This Stephen King novel says, "There was a clown in the stormdrain ... it was a clown, like in the circus or on TV".
+
+----
+num: 4
+category: Literature
+difficulty: 200
+seen: 4
+answer: Cabbage Patch Kids
+
+These "kids" from Babyland General Hospital came with a birth certificate & adoption papers.
+
+----
+num: 5
+category: Geography
+difficulty: 400
+seen: 7
+answer: Virginia
+
+Pocahontas State Park.
+
+----
+num: 6
+category: Literature
+difficulty: 400
+seen: 4
+answer: nick
+
+To hit or injure slightly, or to give yourself a small cut while shaving--ouch!.
+
+----
+num: 7
+category: History
+difficulty: 400
+fixed: -1
+seen: 4
+answer: Mary, Queen of Scots
+
+In 1542 this daughter of Mary of Guise became the Queen of the Scots.
+
+----
+num: 8
+category: Literature
+difficulty: 400
+seen: 4
+answer: jellies
+
+shoes were first a big hit in the 1980s.
+
+----
+num: 9
+category: Geography
+difficulty: 600
+seen: 8
+answer: Massachusetts
+
+Myles Standish State Park.
+
+----
+num: 10
+category: Literature
+difficulty: 600
+seen: 4
+answer: grace
+
+Its definitions include elegance, mercy & moral strength, as well as a prayer said before meals.
+
+----
+num: 11
+category: History
+difficulty: 600
+seen: 4
+answer: John Tyler
+
+President John Tyler was the son of Mary Armistead & this governor.
+
+----
+num: 12
+category: Literature
+difficulty: 600
+seen: 4
+answer: Wacky Wall Walkers
+
+The sticky, octopus-shaped toys called "wacky" these slowly descended when hurled at an upright surface.
+
+----
+num: 13
+category: Geography
+difficulty: 800
+seen: 8
+answer: Oregon
+
+Willamette Stone State Park.
+
+----
+num: 14
+category: Literature
+difficulty: 800
+seen: 4
+answer: Hank
+
+This nickname for Henry can also mean a coil, or a looped bundle of thread.
+
+----
+num: 15
+category: History
+difficulty: 800
+seen: 4
+answer: a chevron
+
+Chevron's red & blue logo is this heraldic shape, meant to convey rank & service.
+
+----
+num: 16
+category: Geography
+difficulty: 1000
+seen: 8
+answer: Indiana
+
+Tippecanoe River State Park.
+
+----
+num: 17
+category: History
+difficulty: 1000
+seen: 3
+answer: William of Orange
+
+In Dutch, this royal was known as Willem Hendrik, Prins van Oranje.
+
+----
+num: 18
+category: Literature
+difficulty: 1000
+seen: 4
+answer: deely
+
+This 5-letter word preceded "boppers" or "bobbers" in the name of novelty bobbing antennas that you wore on your head.
+
+----
+num: 19
+category: Science
+difficulty: 400
+seen: 5
+answer: the eardrum
+
+Injury, infection & loud noises can cause this membrane between the external ear canal & middle ear to rupture.
+
+----
+num: 20
+category: Literature
+difficulty: 400
+seen: 3
+answer: scotch
+
+Drambuie is a brand of liqueur made with honey & this barley whisky.
+
+----
+num: 21
+category: Literature
+difficulty: 400
+seen: 4
+answer: bide
+
+When you do this to "your time", you wait for a favorable opportunity.
+
+----
+num: 22
+category: Art
+difficulty: 400
+seen: 3
+answer: Margaret Thatcher
+
+After the 1979 electoral defeat of the Labour Party, she took over for Prime Minister James Callaghan.
+
+----
+num: 23
+category: Science
+difficulty: 800
+seen: 6
+answer: tinnitus
+
+It may ring a bell that this 8-letter word is the medical term for ringing in the ears.
+
+----
+num: 24
+category: Literature
+difficulty: 800
+seen: 4
+answer: blanc de blancs
+
+Meaning "white of whites", it's wine made entirely from white grapes, like a champagne made from the chardonnay grape.
+
+----
+num: 25
+category: Literature
+difficulty: 800
+seen: 4
+answer: bust
+
+A sculpture head & shoulders above the rest, or slang for to place under arrest.
+
+----
+num: 26
+category: Art
+difficulty: 800
+seen: 4
+answer: Nehru
+
+After Aug. 15, 1947 India & Pakistan emerged as 2 independent countries & he became India's first Prime Minister.
+
+----
+num: 27
+category: Literature
+difficulty: 1200
+seen: 3
+answer: Angostura
+
+This brand of aromatic bitters is named for a town in Venezuela.
+
+----
+num: 28
+category: Literature
+difficulty: 1200
+seen: 4
+answer: bane
+
+A thing that ruins or spoils; perhaps it's the this "of your existence".
+
+----
+num: 29
+category: Literature
+difficulty: 1600
+seen: 4
+answer: brandy
+
+Armagnac is this type of single distilled spirit.
+
+----
+num: 30
+category: Literature
+difficulty: 1600
+seen: 5
+answer: beta
+
+The second of any series, as in chemistry or physics.
+
+----
+num: 31
+category: Art
+difficulty: 1600
+seen: 5
+answer: Gadhafi
+
+After leading a 1969 coup that deposed King Idris, he was named Commander in Chief of Libya's Armed Forces.
+
+----
+num: 32
+category: Literature
+difficulty: 2000
+seen: 5
+answer: agave
+
+The desert plant used to make tequila is blue this.
+
+----
+num: 33
+category: Literature
+difficulty: 2000
+seen: 5
+answer: baht
+
+This monetary unit of Thailand equals 100 satangs.
+
+----
+num: 34
+category: Art
+difficulty: 2000
+seen: 6
+answer: (Stephen) Douglas
+
+After finishing second to Lincoln in the 1860 popular vote for president, this senator died on June 3, 1861.

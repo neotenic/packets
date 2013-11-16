@@ -1,0 +1,374 @@
+####
+tournament: HSAPQ VHSL Regular Season
+round: 30.pdf
+year: 2011
+####
+
+num: 1
+category: History
+difficulty: HS
+fixed: None
+seen: 417
+answer: Constantine the Great [or Constantine I; or {Flavius Valerius} Constantinus; prompt on
+
+This emperor gained full control of his empire after his victory at the Battle of Chrysopolis against Licinius. This emperor was responsible for calling the Council of Nicaea. This ruler crushed the forces of Maxentius at the Battle of Milvian Bridge. Before that battle, this emperor supposedly had a vision that eventually led to his Edict of Milan, which extended religious toleration. For 10 points, name this leader of the Roman Empire who became the first to become a Christian.
+
+----
+num: 1
+category: History
+difficulty: HS
+fixed: -1
+seen: 422
+answer: Constantine the Great [or Constantine I; or {Flavius Valerius} Constantinus; prompt on
+
+This emperor gained full control of his empire after his victory at the Battle of Chrysopolis against Licinius. This emperor was responsible for calling the Council of Nicaea. This ruler crushed the forces of Maxentius at the Battle of Milvian Bridge. Before that battle, this emperor supposedly had a vision that eventually led to his Edict of Milan, which extended religious toleration. For 10 points, name this leader of the Roman Empire who became the first to become a Christian.
+
+----
+num: 1
+category: History
+difficulty: HS
+fixed: 1
+seen: 412
+answer: {Constantine the Great} [or {Constantine I;} or Flavius Valerius Constantinus; prompt on
+
+This emperor gained full control of his empire after his victory at the Battle of Chrysopolis against Licinius. This emperor was responsible for calling the Council of Nicaea. This ruler crushed the forces of Maxentius at the Battle of Milvian Bridge. Before that battle, this emperor supposedly had a vision that eventually led to his Edict of Milan, which extended religious toleration. For 10 points, name this leader of the Roman Empire who became the first to become a Christian.
+
+----
+num: 2
+category: Fine Arts
+difficulty: HS
+fixed: 1
+seen: 496
+answer: Marcel {Duchamp}
+
+This artist was photographed in drag by Man Ray, under the name Rrose Selavy. He created a "shaved" version of one of his artworks, which consisted of a mass-market reproduction of the Mona Lisa on which he drew a mustache, titled L.H.O.O.Q.. Another of his paintings, exhibited at the 1913 Armory Show, was famously derided an "explosion in a single factory". For 10 points, name this painter of Nude Descending A Staircase, No. 2 who was active in the Dada movement and also created "readymades" such as the signed urinal Fountain.
+
+----
+num: 3
+category: Science
+difficulty: HS
+fixed: 57
+seen: 486
+answer: {India}
+
+This nation had a Kerala school of science and mathematics. One mathematician from this country devised a formula that gives the area of general quadrilaterals. Another mathematician from this country had a lost notebook and was "discovered" by G. H. Hardy. A physicist from this country names particles with integer spin and contrast with fermions. For 10 points, name this country that was the birthplace of Ramanujan and Brahmagupta, that became a nuclear power before its neighbor Pakistan.
+
+----
+num: 4
+category: Science
+difficulty: HS
+fixed: 57
+seen: 496
+answer: {memory leak}
+
+To deal with this problem in languages like C++, the idiom "Resource Acquisition is Initialization" is implemented. If this problem is unresolved, it can lead to programs to encountering segmentation faults. Computer languages such as Java have automatic means to resolve this situation known as garbage collection. For 10 points, name this situation in which the eponymous resource cannot be reacquired by the operating system.
+
+----
+num: 5
+category: Social Science
+difficulty: HS
+fixed: 57
+seen: 381
+answer: jury
+
+Peremptory challenges can be used to reject people from joining these entities, and members of these entities can sometimes issue special interrogatories. Batson challenges can be used to prevent the dismissal of members of a specific race from these bodies. A venire of prospective members of these entities is questioned for potential biases in the voir dire process. For 10 points, the Sixth Amendment guarantees the accused a right to a trial by an impartial one of these entities that typically consist of twelve people.
+
+----
+num: 6
+category: Science
+difficulty: HS
+fixed: 1
+seen: 488
+answer: {Vitamin A} [accept {retinol} before mention of "{retina}"]
+
+The pigment cryptoxanthin is readily converted to this vitamin. A deficiency in this vitamin prevents the reformation of rhodopsin. This vitamin binds to nuclear receptors to control gene transcription, though it is better known for being needed for proper retina function. Liver and carrot are the best sources for this vitamin. For 10 points, identify this fat-soluble vitamin, a deficiency of which causes night blindness.
+
+----
+num: 7
+category: History
+difficulty: HS
+fixed: 1
+seen: 410
+answer: {Vietnam} War
+
+This war saw airborne initiatives code named Flaming Dart, Rolling Thunder, and Arc Light. It escalated after an attack on the Maddox and the Turner Joy, which led to a resolution named for the body of water in which they were stationed. This war saw a campaign fought in and around the province of Binh Gia. One side in this war used the pretense of a holiday truce to launch an unexpected attack known as the Tet Offensive. William Westmoreland was the commander of U.S. troops during part of this war. For 10 points, name this war fought in a namesake Asian nation during the 1960s and 70s.
+
+----
+num: 8
+category: Literature
+difficulty: HS
+fixed: 1
+seen: 439
+answer: John {Keats}
+
+Concepts created by this writer include the "Mansion of Many Apartments" and "negative capability." While at Wentworth Place, this poet composed many of his so-called 1819 odes, which include "Ode on Melancholy" and "Ode on Indolence" and another ode which describes the title object as an "unravish'd bride of quietness" and says that "beauty is truth, truth beauty." For 10 points, name this English Romantic Poet of "The Eve of St. Agnes" and "Ode on a Grecian Urn."
+
+----
+num: 9
+category: Fine Arts
+difficulty: HS
+fixed: 1
+seen: 492
+answer: ragtime
+
+Prominent composers of this genre of music included James Scott and Tom Turpin. This kind of music inspired Claude Debussy to compose "Golliwog's Cakewalk," and usually consists of a march rhythm and a syncopated melody. The "king" of this type of music wrote such pieces as "The Cascades," "Heliotrope Bouquet," and "The Entertainer." For 10 points, name this precursor to jazz, which was popularized by Scott Joplin.
+
+----
+num: 10
+category: Religion
+difficulty: HS
+fixed: 1
+seen: 452
+answer: Ramadan
+
+A festival that is repeatedly celebrated during this period commonly involves apricots and sweet milk and is known as the iftar. The twenty-seventh day of this timeframe is known for the ability to multiply merit and is called the Night of Power. This period ends with the coming of Shawwal and the Eid al-Fitr celebration. The pillar of sawm is practiced during this month and includes refraining from impure thoughts as well as food and drink. For 10 points, identify this month of daytime fasting in Islam.
+
+----
+num: 11
+category: Social Science
+difficulty: HS
+fixed: 1
+seen: 376
+answer: {notion} [or word forms]
+
+This English word derives from a Latin verb for "to come to know" that was created by Cicero to translate a Greek term for the act of thinking. The Stamper family of loggers is described in Ken Kesey’s book titled "Sometimes a Great" one of these things. This word can also refer to the small articles used in crafting or sewing. For 10 points, give this word, which also refers to a general idea or impression.
+
+----
+num: 12
+category: History
+difficulty: HS
+fixed: 57
+seen: 420
+answer: {Greece} [or {Hellenic Republic}; or {Ellas}; or {Ellada}; or {Elliniki Dhimokratia}]
+
+Before this country gained independence, it was home to rebellious bands of thieves known as klephts. This country's independence movement was led by Alexander Ypsilanti, and succeeded in part because its allies won the Battle of Navarino. Lord Byron sailed to this country to join its war of independence, but died during the siege of Missolonghi. For 10 points, name this European country which revolted against the Ottoman Empire during the 1820s and whose independence movement was inspired by feelings of panhellenism.
+
+----
+num: 13
+category: Science
+difficulty: HS
+fixed: 1
+seen: 486
+answer: {alpha particle} (accept helium nucleus before mentioned)
+
+Ionization smoke detectors rely on the ability of these entities to ionize oxygen and nitrogen. In a nuclear fusion chain reaction, three of these entities combine to form an atom of carbon in a process that forms a beryllium intermediate. Ernest Rutherford fired a beam of this particle to develop the idea of an extremely small, dense nucleus in his gold foil experiment. Because of this particle’s composition, it is sometimes referred to as a helium nucleus, and uranium decays by emitting this particle. For 10 points, name this particle which contains two protons and two neutrons.
+
+----
+num: 14
+category: History
+difficulty: HS
+fixed: 57
+seen: 417
+answer: Battles of {Saratoga}
+
+During this battle Ebenezer Learned's 2nd, 8th, and 9th Massachusetts lines joined with Benedict Arnold's troops to attack the central Hessian position. This battle consisted of a series of engagements; one was at Freeman's Farm and the second was at Bemis Heights. For 10 points, name this turning point battle in 1777, in which Horatio Gates was victorious over John Burgoyne in New York.
+
+----
+num: 15
+category: Science
+difficulty: HS
+fixed: 57
+seen: 494
+answer: {blindness}
+
+One cause of this condition is hypoplasia of a certain nerve that leads to the organ involved. This condition can result from the “open angle” or “closed angle” form of glaucoma or from the clouding of cataracts. Sufferers of this condition possess acuity of 20/200 or worse. For 10 points, identify this medical condition that results in people using white canes, guide dogs, and Braille.
+
+----
+num: 18
+category: History
+difficulty: HS
+fixed: 1
+seen: 419
+answer: {Women's Christian Temperance} Union
+
+Figures associated with this organization include Annie Wittenmyer and Matilda Carse. Currently, it oversees the publication of the semi-annual The Union Signal and advocates a "White Ribbon" program involving a pledge between mothers and their young children. Under perhaps its best known leader, Francis Willard, it expanded its initiatives from education and sanitation to focus more on advocating the prohibition of alcohol and tobacco. For 10 points, name this group founded in Cleveland in 1874 whose name suggests the gender of its members.
+
+----
+num: 19
+category: History
+difficulty: HS
+fixed: 1
+seen: 413
+answer: abortion
+
+The 1989 Webster case dealt with this issue in that it upheld a Missouri state law that contained provisions prohibiting the use of governmental funds directed towards it. This issue was also at the heart of the 1992 Casey case, which upheld several restrictions in a Pennsylvania state law dealing with it. A version of it was at the center of the more recent case of Gonzalez v. Carhart. The companion case to the case that legalized this action was Doe v. Bolton. For 10 points, name this practice that was upheld through the Supreme Court case of Roe V. Wade.
+
+----
+num: 20
+category: Mythology
+difficulty: HS
+fixed: 57
+seen: 792
+answer: {China}
+
+One figure from the mythology of this country walks using the aid of an iron crutch and is known as a healer who dispenses remedies from his gourd. Another figure from the mythology of this country went through a series of ten trials and had the so-called yellow millet dream, in which he perceived the passing of time much faster than it really happened. Those figures are part of a group known as the Eight Immortals. This nation's stories also include those of the Yellow and Jade Emperors. For 10 points, name this country where Taoism was founded.
+
+----
+num: 21
+category: Literature
+difficulty: HS
+fixed: 1
+seen: 448
+answer: Aristophanes
+
+One of this author's topical plays involves Trygaeus, who miraculously brings about an end to the Peloponnesian War, and was written days before the Peace of Nicias. In addition to Peace, he wrote several vicious satires of the Athenian statesmen Cleon, and he mocks intellectual traditions of Athens in a play where Strepsiades sends his son to the Thinkery. For 10 points, name this ancient Greek comic playwright of The Wasps, Lysistrata, and The Clouds.
+
+----
+num: 22
+category: Trash
+difficulty: HS
+fixed: 1
+seen: 1025
+answer: {Chelsea} F.C.
+
+One of this team's previous coaches is likely to be fired from West Ham before the end of the current season. Avram Grant had been a personal friend of this team's owner Roman Abramovich and took over this club after the departure of Jose Mourinho, who had taken this team to an FA Cup trophy the season before in 2007. Currently starring such internationals as Michael Essien and the goalie Peter Cech, for 10 points, name this English Premier League team which also stars Frank Lampard and Didier Drogba a London team known as "The Blues."
+
+----
+num: 23
+category: Literature
+difficulty: HS
+fixed: 1
+seen: 449
+answer: James Mercer Langston {Hughes}
+
+In one of this man's poems, the speaker asks "and who are you that draws your veil across the stars?" In addition to "Let America Be America Again," this poet wrote about a woman who complains that she "ain't got nobody to share [her] bed" in the poem "50-50." Another one of this man's works begins with an instructor's directions to "Go home and write a page tonight" and yet another features a "drowsy syncopated tune." For 10 points, name this poet of "Theme for English B" and "The Weary Blues," a leading figure of the Harlem Renaissance.
+
+----
+num: 24
+category: Science
+difficulty: HS
+fixed: 1
+seen: 482
+answer: {Normal} Force [prompt on {N}]
+
+One can use this quantity multiplied by the coefficient of friction mu to determine the friction operating on a body, and this quantity is equal to mass times gravity times cosine of the incline of a surface for a solid body. For 10 points, name this quantity which represents the perpendicular component of the contact force exerted by a body on a surface, often symbolized by a capital N.
+
+----
+num: 25
+category: History
+difficulty: HS
+fixed: 57
+seen: 418
+answer: Lisa {Murkowski}
+
+Among the scandals which this candidate faced was a purchase of riverfront land in Kenai from Bob Penney, a campaign contributor. She was appointed to office by her father Frank, then the governor, in 2002, and defeated such Democrats as Tony Knowles and Scott McAdams for re-election. After losing in a primary to Joe Miller in 2010, she became the first person since Strom Thurmond in 1954 to be elected to the Senate as a write-in candidate. For 10 points, name this incumbent Senator from Alaska.
+
+----
+num: 26
+category: Science
+difficulty: HS
+fixed: 1
+seen: 487
+answer: {factorization} (accept word forms)
+
+One algorithm that performs this procedure is Dixon's algorithm, while another is the general number field sieve. Shor's algorithm performs this on a quantum computer. One number that was recently subject to this procedure was RSA-768, so named because RSA encryption relies on the hardness of this. In general, objects that cannot undergo further this are called irreducible, but a special name applies for irreducible integers. For 10 points, name this mathematical procedure whose aim is to decompose a number into its constituent prime multiples.
+
+----
+num: 27
+category: History
+difficulty: HS
+fixed: 1
+seen: 413
+answer: {Ireland} [or {Eire}]
+
+Roger Casement tried to bring guns to rebels in this country led by Patrick Pearse and James Connolly during Easter. The movement for independence in this country included leaders such as Éamon de Valera (AY-mun dev-uh-LAIR-uh), Charles Parnell, and Michael Collins. This country is home to the parties Fianna Fáil (FEE-en-uh FOIL) and Sinn Féin (shin fayn). For 10 points, name this island country that with a northern neighbor that is a part of the United Kingdom, which was also the site in the middle of the nineteenth century of a potato famine.
+
+----
+num: 28
+category: Science
+difficulty: HS
+fixed: 57
+seen: 480
+answer: {corundum} [or {aluminium} oxide before mentioned; or {ruby} before {spinel}]
+
+The Verneuil flame-fusion process was invented to create artificial versions gemstones composed of this material. This and magnesium are found in spinel. Emery is mostly composed of this. Iron and titanium make this blue, while chromium makes it red. This is a nine on the Mohs scale. This is aluminum oxide. For 10 points, name this crystal that makes up rubies and sapphires.
+
+----
+num: 29
+category: Geography
+difficulty: HS
+fixed: 57
+seen: 706
+answer: {Boston}
+
+This city's Museum of Fine Arts features Turner's painting The Slave Ship and Gauguin's painting Where Do We Come From? What Are We? Where Are We Going?. This city's other attractions include Quincy Market and the neighborhoods of Back Bay and Beacon Hill, which can be accessed by this city's public transportation system, the T. The Charles River flows into the Atlantic Ocean at this port city, which is also the site of the Freedom Trail and Fenway Park. For 10 points, name this largest city in Massachusetts.
+
+----
+num: 30
+category: Fine Arts
+difficulty: HS
+fixed: 1
+seen: 613
+answer: I.M. {Pei} [or Ieoh Ming {Pei}]
+
+This architect, a frequent collaborator with Henry N. Cobb, implemented a free-standing concrete staircase for his Everson Museum of Art. Other museums designed by this man include an H-shaped one located in Washington D.C. and one located on a small island off the coast of Doha, Qatar. In addition to the Museum of Islamic Arts and the East Building of the National Gallery of Art, this architect is also known for a glass structure outside of a French museum. For 10 points, name this man responsible for the Louvre Pyramid, a Chinese-American architect.
+
+----
+num: 31
+category: Philosophy
+difficulty: HS
+fixed: 1
+seen: 518
+answer: Georg Wilhelm Friedrich {Hegel} 
+
+This thinker discussed his concept of Sittlichkeit (SIT-tlek-“kite”), or “ethical life,” and criticized a work by Karl Ludwig von Hallerby in his Elements of the Philosophy of Right. During his time at the University of Heidelberg, he published his Encyclopedia of the Philosophical Sciences, which includes a shortened version and some applications of his earlier The Science of Logic. This thinker is better known for another work that introduces the Master-Slave dialectic. For 10 points, name this German philosopher of The Phenomenology of Spirit.
+
+----
+num: 32
+category: Social Science
+difficulty: HS
+fixed: 1
+seen: 374
+answer: {Consumer Price} Index [or {CPI} ]
+
+There are actually two versions of this statistic; one, denoted W, represents Clerical Workers and Urban Wage Earners, while the other, denoted U, also incorporates a "Chained" version. Computed by the Bureau of Labor Statistics, it groups items into eight major categories, such as Housing, Transportation, and Food and Beverages. Thought it does not include non-economic factors such as safety, it is often referred to as a cost-of-living index. For 10 points, name this statistic that computes the price of a representative "basket" of goods bought by consumers, which can therefore be used as a measure of inflation.
+
+----
+num: 33
+category: Literature
+difficulty: HS
+fixed: 57
+seen: 444
+answer: Ralph Waldo {Emerson}
+
+The phrase "Nature centers into balls" begins an essay where this writer compares men to the title geometric shapes. In addition to writing "Circles," this writer was a frequent contributor to The Dial. A speech given to the Phi Beta Kappa Society at Harvard University in 1837 advocating a break with the traditions of Europe was published as "The American Scholar." He also wrote an essay inspired by Hinduism, "The Over-Soul." For 10 points, name this Transcendentalist writer of essays such as "Self-Reliance" and "Nature."
+
+----
+num: 34
+category: Science
+difficulty: HS
+fixed: 1
+seen: 484
+answer: {Pulleys}
+
+An Atwood’s Machine involves a frictionless and massless one of these devices, and students are often asked to calculate the tension on the objects on either side of these. Van de Graaff generators create positive charge by running a belt through a metal and a plastic one of these, and the mechanical advantage of an ideal block and tackle system is equal to the number of these objects in the system. For 10 points, name this simple machine used to lift heavy masses, which is made by wrapping a string around a wheel.
+
+----
+num: 35
+category: Literature
+difficulty: HS
+fixed: 57
+seen: 442
+answer: John Greenleaf {Whittier}
+
+This poet's "The Song of the Vermonters, 1779" was originally attributed to Ethan Allen. One of his poems describes the sadness of the words "It might have been!" Another of his poems describes an incident in which the title character exhorts "Shoot if you must this old grey head, but spare your country's flag." This author of "Maud Muller" and "Barbara Frietchie" also wrote a poem in which a family tells stories while they are trapped in their house by a snowstorm. For 10 points, name this Quaker poet who wrote "Snow-Bound."
+
+----
+num: 36
+category: Literature
+difficulty: HS
+fixed: None
+seen: 441
+answer: Madame Bovary
+
+One character in this novel works with the chemist Homais to try and cure the clubfoot of the boy Hippolyte. The protagonist of this work begins to borrow money from the merchant Lheureux (luh-ROO). This novel's main character starts affairs with the landowner Rodolphe and the law student Léon, which are discovered at the novel's end by her husband Charles. For 10 points, name this work that concludes with the swallowing of arsenic by the title character Emma, a creation of Gustave Flaubert (flow-BAIR).
+
+----
+num: 36
+category: Literature
+difficulty: HS
+fixed: None
+seen: 447
+answer: Madame Bovary
+
+One character in this novel works with the chemist Homais to try and cure the clubfoot of the boy Hippolyte. The protagonist of this work begins to borrow money from the merchant Lheureux (luh-ROO). This novel's main character starts affairs with the landowner Rodolphe and the law student Léon, which are discovered at the novel's end by her husband Charles. For 10 points, name this work that concludes with the swallowing of arsenic by the title character Emma, a creation of Gustave Flaubert (flow-BAIR).

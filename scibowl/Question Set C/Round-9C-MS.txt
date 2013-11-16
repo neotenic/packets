@@ -1,0 +1,248 @@
+####
+tournament: Question Set C
+round: Round-9C-MS.pdf
+####
+
+num: 2
+category: Physical Science
+difficulty: MS
+seen: 5
+answer: Neon
+
+Which one of the following 5 elements is the LEAST likely to react with any other element: neon; fluorine; iron; oxygen; sodium
+
+----
+num: 4
+category: Math
+difficulty: MS
+seen: 6
+answer: 7
+
+When 2 fair dice are rolled simultaneously and the face values added, which of the following five numbers is the most common roll: 5, 6, 7, 9, 11
+
+----
+num: 4
+category: Math
+difficulty: MS
+seen: 6
+answer: 11
+
+Solve the following equation for x: ((xx+! 24
+))= 10
+6
+
+----
+num: 6
+category: Life Science
+difficulty: MS
+seen: 10
+answer: A, U, C, G  (Any Order)
+
+What are the letter abbreviations for the four base nucleotides found in mRNA?
+
+----
+num: 6
+category: Life Science
+difficulty: MS
+seen: 10
+answer: Thyroid
+
+What gland of the human body located in the throat is responsible for regulating metabolic rate and requires a halogen for normal function?
+
+----
+num: 7
+category: Physical Science
+difficulty: MS
+seen: 5
+answer: Salt and Water  (Accept:  Nacl and H
+^2o or Sodium Chloride and 
+Water)
+
+What 2 general products are formed by the reaction of hydrochloric acid and sodium hydroxide?
+
+----
+num: 9
+category: Math
+difficulty: MS
+seen: 6
+answer: 3
+4
+
+Give the slope of the following: 3x – 4y = 12
+
+----
+num: 12
+category: Physical Science
+difficulty: MS
+seen: 6
+answer: 1
+(Solution:  Moles = (2 moles/l)(0.5l) = 1.0 Mole)
+
+If a flask contains 500 milliliters of a 2 molar NaCl solution, how many moles of salt are in the beaker?
+
+----
+num: 13
+category: Earth Science
+difficulty: MS
+seen: 7
+answer: Shield
+
+Of the 3 basic types of volcanoes, what type is large, broad with a low slope, and formed by relatively quiet eruptions, an example of which is Mount Kilauea in 
+Hawaii?
+
+----
+num: 14
+category: Math
+difficulty: MS
+seen: 6
+answer: 32
+(Solution:  2 ^5 = 32)
+
+What is the total number of unique subsets of a set with 5 elements?
+
+----
+num: 14
+category: Math
+difficulty: MS
+seen: 6
+answer: 10
+
+Rounded to the nearest whole number, find the distance between two points whose coordinates are (7, 5) and (9, 15)?
+
+----
+num: 16
+category: Life Science
+difficulty: MS
+seen: 11
+answer: Lipids
+
+Of the 4 general types of biological molecules, proteins, carbohydrates, lipids and nucleic acids, which one will typically release the MOST energy per gram when metabolized by a normal healthy human?
+
+----
+num: 17
+category: Physical Science
+difficulty: MS
+seen: 5
+answer: 4
+
+If the knob of a door knob is 8 centimeters in diameter and the rod that the door knob turns to allow the door to be opened is 2 centimeters in diameter, what is the ideal mechanical advantage of this simple machine?
+
+----
+num: 17
+category: Physical Science
+difficulty: MS
+seen: 5
+answer: 890,000
+
+Giving your answer in numeral form, how many complete vibrations per second are in an 890 kilohertz radio broadcast?
+
+----
+num: 18
+category: Earth Science
+difficulty: MS
+seen: 8
+answer: Least = Continental Crust;  Most = Inner Core
+
+Of the following 4 layers of the Earth, name the one which is 
+LEAST dense and the one that is MOST dense, respectively: oceanic crust; continental crust; inner core; mantle
+
+----
+num: 19
+category: Math
+difficulty: MS
+seen: 7
+answer: 120
+(Solution:  5! = 120)
+
+In how many different ways can 5 different puppets be ordered across a shelf?
+
+----
+num: 19
+category: Math
+difficulty: MS
+seen: 6
+answer: 25x^2 – 250x + 625
+
+Expand the following expression, giving your answer in standard binomial form: (5 x – 25)^2
+
+----
+num: 21
+category: Life Science
+difficulty: MS
+seen: 11
+answer: Bone Marrow  (Accept: Red Marrow)
+
+In what specific tissue of the common adult house cat are red blood cells primarily produced?
+
+----
+num: 21
+category: Life Science
+difficulty: MS
+seen: 11
+answer: Iron
+
+What element is most directly involved with the binding of oxygen in the hemoglobin molecule?
+
+----
+num: 22
+category: Physical Science
+difficulty: MS
+seen: 5
+answer: 60
+
+Consider a jet engine that is 10,000-times as loud as a certain locomotive. If the jet engine is operating at 100 decibels, how loud is the locomotive, in decibels?
+
+----
+num: 23
+category: Earth Science
+difficulty: MS
+seen: 7
+answer: Cenozoic
+
+What is the name for the era of the geological time scale that occurs after the Mesozoic and continues to present day?
+
+----
+num: 23
+category: Earth Science
+difficulty: MS
+seen: 7
+answer: Paleozoic
+
+What era of the geological time scale ended with the largest extinction event in Earth’s history?
+
+----
+num: 24
+category: Math
+difficulty: MS
+seen: 6
+answer: 2
+
+Solve the following logarithmic equation for x: log 2^(^x^^+ 1) = log 8
+
+----
+num: 24
+category: Math
+difficulty: MS
+seen: 5
+answer: Log
+^3 30
+
+Give the following sum as a single logarithm: log^3 10 + log^3 3
+
+----
+num: 25
+category: General Science
+difficulty: MS
+seen: 6
+answer: R Iboflavin
+
+Of the following 4 choices, name all that are vitamins: lysine; lactose; cholesterol; riboflavin
+
+----
+num: 25
+category: General Science
+difficulty: MS
+seen: 5
+answer: An Nular
+
+What is the specific name for the type of solar eclipse of the Sun in which the Moon is positioned to block nearly all of the Sun, causing a symmetrical ring of sunlight at maximum eclipse?

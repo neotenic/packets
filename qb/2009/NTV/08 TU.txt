@@ -1,0 +1,194 @@
+####
+tournament: NTV
+round: 08 TU.pdf
+year: 2009
+####
+
+num: 1
+category: History
+difficulty: HS
+fixed: 1
+seen: 417
+answer: Michele {Bachmann}
+
+In 1993, this politician quit her job as a tax attorney representing the IRS to help open the New Heights Charter School. She recently called herself a “lovable little fuzz ball” and invoked “The Charge of the Light Brigade”, and in 2008 she told the media to “take a great look at the views of the people in Congress and find out are they pro-America or anti-America”. She currently is the sponsor of the Light Bulb Freedom of Choice Act in the US Congress, where she represents a district including St. Cloud. Name this congresswoman associated with the Tea Party Movement, from Minnesota.
+
+----
+num: 2
+category: History
+difficulty: HS
+fixed: 1
+seen: 422
+answer: {Tokugawa} shogunate
+
+The Battle of Sekigahara marked the rise of this Japanese regime, when the founder of this regime defeated Toyotomi clan loyalists. This regime technically controlled about twenty-five percent of Japan, including its major cities and gold mines, and also licensed all foreign trade, though its influence was far greater. During this government's rule, all foreign traders were expelled, with only a small number of Dutch and Chinese merchants allowed in Nagasaki. Name this last shogunate that lasted from 1603 to 1868 and fell during the Meiji Restoration.
+
+----
+num: 3
+category: Science
+difficulty: HS
+fixed: -1
+seen: 485
+answer: {Clostridium botulinum} [accept {botulism}; prompt on {Botox}]
+
+This organism comes in varieties A through G, and often first affects the cranial nerves before leading to respiratory failure. It blocks acetylcholine (uh-see-tul-KOH-leen), paralyzing muscles, often first hitting those in the eyelid. Named after the food it often contaminated, it is the reason infants should not be fed honey. In 1980, its first clinical use was for strabismus, though it has more recently found wider use in cosmetic surgery. The most lethal neurotoxin known to man, with an LD-50 around one microgram, name this bacterial toxin found in poorly-stored food.
+
+----
+num: 4
+category: Literature
+difficulty: HS
+fixed: 1
+seen: 439
+answer: {Animal Farm}: A Fairy Story
+
+In this book, Minimus composes a song with the lyrics, “Never through me shalt thou come to harm!” Another character in this work, after reading Every Man His Own Bricklayer and two other books, designs a windmill. His plans, however, cause him to get chased off the titular location. One character whose mindset is “I will work harder” is also sent off, and soon afterwards one of the seven commandments is rewritten so that alcohol is allowed. This novel, where all of the characters are equal, but some are more equal than others, features Benjamin, Clover, Boxer, Snowball, and Napoleon. Name this work by George Orwell, an allegory for Soviet Russia.
+
+----
+num: 5
+category: Science
+difficulty: HS
+fixed: 57
+seen: 482
+answer: {Marianas} Trench [accept {Challenger Deep} before it is mentioned]
+
+This location, as described by Don Walsh and Jacques Piccard, is covered in diatomaceous (di-ah-tuhm-AY-shus) ooze. Moritella yayanosii was found here in bacteria samples collected byKaiko, and is being studied for treating cancer and hypertension. Charles Wyville Thomson first recorded this place's existence when he was aboard the ship for which its deepest part is named; that section is Challenger Deep. Walsh and Piccard remain the only men to ever visit this location, which they did nearly fifty years ago in a bathyscaphe. Identify this feature near Guam, the deepest- known oceanic trench on Earth.
+
+----
+num: 6
+category: History
+difficulty: HS
+fixed: 1
+seen: 417
+answer: {Teapot Dome} scandal [accept reasonable equivalents for “{scandal}”]
+
+Senator John B. McKendrick introduced a resolution in response to this event, which sparked the McGrain v. Daugherty decision and an investigation by Thomas J. Walsh. In this event, Edward L. Doheney made a grab for Elk Hills and Buena Vista, California, and, as Robert LaFollette's investigation uncovered, Harry F. Sinclair gave $300,000 to the Secretary of the Interior. As a result, Albert B. Fall did some jail time for accepting the bribe. Name this scandal that rocked the Warren G. Harding administration and involved the illegal leasing of the namesake Wyoming oil fields.
+
+----
+num: 7
+category: Fine Arts
+difficulty: HS
+fixed: 57
+seen: 490
+answer: {Venus} [do not accept “{Aphrodite}”]
+
+An eleven-inch sculpture created about twenty-five thousand years ago, called the Woman of Willendorf, is associated with this character. A Canova sculpture portrays Pauline Bonaparte as this figure. A sixteenth-century painting shows Time reaching over this figure while she kisses Cupid. A work naming this figure in its title shows a girl digging through a chest in the background while a dog and a naked woman lie on a bed. A fifteenth-century work shows her being given a cloak while being blown towards shore by Zephyrs. Name this goddess who was portrayed by Sandro Botticelli standing on a half shell.
+
+----
+num: 8
+category: History
+difficulty: HS
+fixed: 57
+seen: 426
+answer: Prince Consort {Albert} [or {Albert} Saxe-Coburg; or {Albert} of Saxe-Coburg and Gotha; or {Francis Albert}
+
+This man's influence increased after the death of William Lamb, Lord Melbourne, and he arranged a meeting with Lord Ashley in an effort to control child labor. He was narrowly elected the Chancellor of Cambridge even though he was a Prince of Saxe-Coburg and Gotha, and one of his nine children became Edward VII. He also presided over the Royal Commission for the Exhibition of 1851, which took place in the Crystal Palace. A large memorial to him is in Kensington Gardens, next to a performance venue named after him. Name this Royal Consort and husband to Queen Victoria.
+
+----
+num: 9
+category: Fine Arts
+difficulty: HS
+fixed: 1
+seen: 495
+answer: Gustav {Mahler}
+
+This composer's unfinished symphony separates pairs of scherzos with a Purgatorio third movement and has been disappointingly completed by Joseph Wheeler, Deryck Cooke, and others. This composer was inspired by Friedrich Ruckert poetry for a five-song cycle, ending with “In this weather!”, and he called for three hammer blows in his sixth symphony. This composer used poetry from Li Po in an attempt to sidestep the “ninth symphony” curse, and this composer of Songs on the Death of Children and the Tragic Symphony set the hymn “Veni, Creator Spiritus” in a symphony featuring hundreds of choristers. Name this Austrian composer of The Song of the Earth and the Symphony of a Thousand.
+
+----
+num: 10
+category: Science
+difficulty: HS
+fixed: 1
+seen: 491
+answer: {Henry's} Law
+
+This law's namesake coefficient can change according to the van't Hoff equation with temperature. In one form, it is similar to Raoult's Law, substituting a coefficient based on the ratio of pressure to concentration for the vapor pressure. Like Raoult's Law, it is based on a limit, and only applies for sufficiently dilute solutions. This law also diverges when the gas chemically reacts with the solvent it is dissolved in. Name this law that explains why pop eventually goes flat when exposed to the atmosphere, which states that for a constant temperature, the amount of gas dissolved in a particular liquid is proportional to the partial pressure of the gas over the liquid.
+
+----
+num: 11
+category: Religion
+difficulty: HS
+fixed: -1
+seen: 448
+answer: {brit} milah [or {bris} milah; accept answers like “Jewish {ritual} circumcision” before end]
+
+Some practitioners of this rite use the practice of metsitsah b'peh, and the main tool used is called an izmel. Some sects add the participation of a kvatter, and all involve a sandek to accompany the central figure of this ritual, which is followed up twenty-three days later with a pidyon ha-ben, and originated with an act Abraham was ordered to perform on himself at the age of ninety-nine, as well as on his sons Ishmael and Isaac. Its Islamic analogue is the khatna. Performed by a mohel (MOIL) and taking place eight days after the birth of a boy, name this Jewish rite of circumcision.
+
+----
+num: 12
+category: Literature
+difficulty: HS
+fixed: 1
+seen: 454
+answer: Francis Scott Key {Fitzgerald}
+
+One short story by this author focuses on a Parisian man who tries to reconnect with his daughter Honoria but often ends up in the Ritz Hotel bar; that story is “Babylon Revisited”. He also wrote a novel about three generations of the Patch family in which Anthony inherits 75 million dollars from Adam, only to live a static and unmotivated life. He also wrote a book about the troublesome marriage between Dick and Nicole Diver. Those novels are The Beautiful and the Damned and Tender is the Night. Name this author who also wrote about George and Myrtle Wilson and Daisy and Tom Buchanan in The Great Gatsby.
+
+----
+num: 13
+category: Mythology
+difficulty: HS
+fixed: 57
+seen: 779
+answer: phoenix
+
+This creature is associated with the Chinese Feng-Huang, Egyptian Benz, and Hindu Garuda. According to Ovid, this creature lives on frankincense and odoriferous gums, and once every five hundred years this creature approaches Heliopolis to deposit an egg on the sun god's altar. This creature lives near a cool well, and its tears can heal any wound. Shakespeare wrote a poem about a turtle dove and one of these animals, which looks like an eagle with purple wings. Name this bird who, upon dying, bursts into flames and is reborn.
+
+----
+num: 14
+category: Literature
+difficulty: HS
+fixed: 1
+seen: 446
+answer: Alfred, Lord {Tennyson}
+
+This poet wrote the lines “…our spirits rush'd together at the touching of the lips/O my cousin, shallow-hearted! O my Amy, mine no more!” in a poem spoken by a nameless soldier reflecting on his childhood home of “Locksley Hall”. This man also instructed readers “To strive, to seek, to find, and not to yield” and declared “I hope to see my Pilot face to face” at the conclusions of “Ulysses” and “Crossing the Bar”. In addition to writing “The Lady of Shalott”, he wrote the lines “Half a league onward,/All in the valley of Death/Rode the six hundred”. Identify this poet who wrote The Idylls of the King, In Memoriam A.H.H. and “The Charge of the Light Brigade”.
+
+----
+num: 15
+category: Science
+difficulty: HS
+fixed: 57
+seen: 495
+answer: {viscosity} [accept {modifier} of “{dynamic}” or “{kinematic}” before {both} have {been} mentioned]
+
+The Navier-Stokes equations can be simplified into the Euler (OY-lur) equations by setting heat conduction and this quantity both equal to zero. Fluids for which this quantity is the same at every point are called Newtonian. One type of this quantity is sometimes called the diffusivity of momentum, while the other equals the ratio of shear stress to the rate of strain. It can be measured in pascal-seconds, which are called poise (PWAHS), or in stokes; those types are the kinematic and dynamic, respectively. Absent in superfluids, name this property of fluids akin to friction in solids.
+
+----
+num: 16
+category: Trash
+difficulty: HS
+fixed: 1
+seen: 1035
+answer: Phil {Jackson}
+
+This Montana native played college basketball for the University of North Dakota before being selected in the second round of the 1967 NBA Draft. He had spinal fusion surgery, causing him to miss his team's first championship season, but he was an important reserve on the Knicks 1973 title team. In 1984, he coached the Albany Patroons to a CBA Championship. Identify this man, sometimes referred to as the “Zen Master”, who holds the NBA record for most titles as a coach with ten, all of which he achieved with the Lakers and Bulls.
+
+----
+num: 17
+category: Religion
+difficulty: HS
+fixed: 1
+seen: 451
+answer: King {David} [or {Dawud}]
+
+One of this man's sons raped his own half-sister, Tamar; that was Amnon, who was subsequently put to death by servants under the command of one of this man's other sons. He was confronted by Nathan about the sinful way he gained one of his wives involving the murder of Uriah. Saul unsuccessfully sabotaged this man's relationship with his friend Jonathan, and his namesake “shield” is a hexagram. Descended from Ruth, name this king who supposedly wrote most of the Psalms, married Bathsheba with whom he fathered Solomon, and conquered Goliath.
+
+----
+num: 18
+category: History
+difficulty: HS
+fixed: 1
+seen: 415
+answer: Konrad {Adenauer}
+
+This leader developed the Hallstein Doctrine, which helped integrate his country into Europe during the drafting of the Schuman Declaration, and he appointed Ludwig Erhard as Minister of Economic Affairs. His popularity declined during the Spiegel Affair. The founder of his Germany's Christian Democratic Union, he was removed from his post as mayor of Cologne twice, the first time for refusing to fly the Nazi flag, and he served time in a concentration camp for his alleged role in the July Plot. Name this politician who served as the first prime minister of West Germany.
+
+----
+num: 19
+category: Social Science
+difficulty: HS
+fixed: None
+seen: 392
+answer: marginal utility [do not accept or prompt on partial answer]
+
+The Edgeworth Box sets this concept to be zero across all points. Eugen Slutsky then derived a formula for choice which utilized the points at which this concept is zero. William Stanley Jevons essentially first described this concept, beginning its namesake revolution. This concept is often illustrated using the example of diamonds and water in a desert. Name this economic concept which diminishes as quantity increases, defined as the amount of benefit gained by an individual when one more unit of a good is produced or purchased.

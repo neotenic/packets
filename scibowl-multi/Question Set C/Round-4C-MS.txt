@@ -1,0 +1,218 @@
+####
+tournament: Question Set C
+round: Round-4C-MS.pdf
+####
+
+num: 1
+category: Math
+difficulty: MS
+seen: 1
+answer: W)  Associative Property of Multiplication
+
+Which of the following BEST describes the number property used in the following equation: (3 × 2) × 5 = 3 × (2 × 5)
+W) associative property of multiplication
+X) commutative property of multiplication
+Y) distributive property of multiplication
+Z) multiplicative property of one
+
+----
+num: 3
+category: Life Science
+difficulty: MS
+answer: W)  Rabbit
+
+Which of the following is NOT a rodent:
+W) rabbit
+X) chipmunk
+Y) prairie dog
+Z) squirrel
+
+----
+num: 4
+category: Physical Science
+difficulty: MS
+answer: W)  Heat
+
+In a modern optimally functioning internal combustion engine, most of the energy is lost as:
+W) heat
+X) unburnt fuel
+Y) CO^2
+Z) carbon monoxide
+
+----
+num: 4
+category: Physical Science
+difficulty: MS
+seen: 1
+answer: Y)  Matter on Earth Is Never in a Plasma State
+
+Which of the following statements is LEAST accurate regarding states of matter:
+W) solids when heated typically expand
+X) gases can be made of a single element
+Y) matter on Earth is never in a plasma state
+Z) gases condense to form liquids
+
+----
+num: 5
+category: Earth Science
+difficulty: MS
+seen: 1
+answer: Y)  Within Sedimentary Rocks Laid Down During the Mesozoic 
+Era
+
+In which of the following locations are you MOST likely to find a well -preserved dinosaur fossil:
+W) within key beds of the Devonian Period 
+X) within metamorphic rocks of the Cretaceous Period 
+Y) within sedimentary rocks laid down during the Mesozoic Era 
+Z) within volcanic casts of the Jurassic Period
+
+----
+num: 7
+category: General Science
+difficulty: MS
+seen: 1
+answer: X)  a Milliliter Is Smaller Than a Picoliter
+
+Which of the following is NOT true of metric volumes:
+W) a liter is larger than a centiliter
+X) a milliliter is smaller than a picoliter
+Y) a deciliter is smaller than a liter
+Z) a microliter is smaller than a milliliter
+
+----
+num: 9
+category: Physical Science
+difficulty: MS
+seen: 1
+answer: Y)  Sodium
+
+Which of the following is a Group 1 metal that gives off a persistent yellow color when burned in a flame test, and is also used in commercial and highway vapor lamps that have a yellow glow:
+W) neon
+X) potassium
+Y) sodium
+Z) zinc
+
+----
+num: 10
+category: Earth Science
+difficulty: MS
+answer: X)  Humidity
+
+A psychrometer (read as: sigh-KROM-meter) is used to measure:
+W) salinity
+X) humidity 
+Y) wind direction
+Z) pressure
+
+----
+num: 12
+category: General Science
+difficulty: MS
+seen: 1
+answer: Y)  Refraction
+
+A dog has a difficult time locating a stick at the bottom of a clear, shallow pool because he perceives it to be in a slightly different spot. This is BEST explained by which of the following properties of light:
+W) diffraction
+X) reflection
+Y) refraction
+Z) polarization
+
+----
+num: 12
+category: General Science
+difficulty: MS
+seen: 1
+answer: X)  Objective Lens
+
+Which of the following typically accounts for the greatest amount of magnification in a compound light microscope:
+W) condenser lens
+X) objective lens
+Y) ocular lens
+Z) diaphragm
+
+----
+num: 14
+category: Physical Science
+difficulty: MS
+seen: 1
+answer: Y)  Steel Turning Red Upon Heating
+
+Which of the following choices is NOT an example of a chemical change:
+W) shiny new copper tarnishing to a green color 
+X) bubbles forming in a solution of vinegar following the addition of baking soda 
+Y) steel turning red upon heating 
+Z) iron rusting
+
+----
+num: 15
+category: Earth Science
+difficulty: MS
+seen: 1
+answer: Z)  Elastic Energy Stored in Rocks
+
+Which of the following is immediately released when an earthquake occurs:
+W) convection currents within the mantle
+X) radiation energy originating from the mantle
+Y) stored heat energy from the Sun
+Z) elastic energy stored in rocks
+
+----
+num: 17
+category: General Science
+difficulty: MS
+answer: Z)  Oxygen
+
+Which of the following gases was most likely LEAST abundant in Earth’s early atmosphere:
+W) carbon dioxide
+X) ammonia
+Y) water
+Z) oxyg en
+
+----
+num: 20
+category: Earth Science
+difficulty: MS
+answer: Z)  the Global Ocean Conveyor System Is Powered Mostly by 
+Surface Winds
+
+Which of the following is NOT true about Earth’s water:
+W) the Antarctic ice sheet holds most of the world’s fresh water
+X) an estuary is a place where a fresh water river is mixed with ocean water
+Y) rivers and lakes make up less than 1% of all fresh water
+Z) the global ocean conveyor system is powered mostly by surface winds
+
+----
+num: 22
+category: General Science
+difficulty: MS
+answer: X)  Natural Gas
+
+Which of the following is NOT typically considered an alternative energy source:
+W) hot springs
+X) natural gas 
+Y) wind energy
+Z) sun energy
+
+----
+num: 25
+category: Earth Science
+difficulty: MS
+answer: Z)  Lightning
+
+Which of the following is NOT directly or indirectly a result of a large earthquake:
+W) fires
+X) tsunami
+Y) mass wasting
+Z) lightning
+
+----
+num: 25
+category: Earth Science
+difficulty: MS
+answer: Z)  Most Convergent Plate Boundaries Are Found
+
+The area known as the ‘ring of fire’ is prone to intense earthquake and volcanic activity because this is where:
+W) the oceanic crust is the thinnest
+X) the oceanic crust is the densest
+Y) density differences between the lithosphere and the mantle are most pronounced
+Z) most convergent plate boundaries are found

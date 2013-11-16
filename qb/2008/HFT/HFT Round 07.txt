@@ -1,0 +1,204 @@
+####
+tournament: HFT
+round: HFT Round 07.doc
+year: 2008
+####
+
+num: 1
+category: History
+difficulty: HS
+fixed: -1
+seen: 417
+answer: {Richard} I (accept {Richard} the {Lionheart} before the last word, but prompt on {Richard})
+
+He pardoned the youth who killed him with a crossbow during his campaign against French King Philip II. He also came into conflict with Leopold V, whose men recognized him despite his pilgrim's disguise by his insistence on eating roast chicken. He had thrown Leopold's flag off the walls of Acre, a city he had reconquered in 1191, and Holy Roman Emperor Henry VI demanded a ransom equal to the amount he had raised in the Saladin Tithe, which had funded his expedition to the Holy Land. FTP, identify this English crusader king nicknamed “Lionheart.”
+
+----
+num: 2
+category: Fine Arts
+difficulty: HS
+fixed: 1
+seen: 488
+answer: Aaron {Copland}
+
+His Short Symphony and other experimentations with jazz led Benny Goodman to commission his Clarinet Concerto, while the Bible inspired his 4 Motets and In the Beginning. He composed a spoken-word “portrait” of a former President, a work that quoted “Camptown Races,” and he wrote the song “The Open Prairie” for inclusion in a ballet choreographed by Eugene Loring. One of his ballets incorporates the Shaker hymn “Simple Gifts,” while another quotes “Bonyparte's Retreat” as the theme of its “Hoe-Down.” FTP, identify this American composer of Billy the Kid, Rodeo, and Appalachian Spring.
+
+----
+num: 3
+category: Science
+difficulty: HS
+fixed: 1
+seen: 483
+answer: {weak} (nuclear) force (accept {weak} interactions)
+
+Feynman and Gell-Mann proposed a V minus A Lagrangian for it to account for one of the ramifications of the Cabibbo-Kobayashi-Maskawa matrix. Its short range of influence, smaller than an atomic nucleus, is caused by its massive gauge bosons. Some interactions of it can result in a change of flavor, and they violate parity symmetry because it affects only left-handed particles. In addition, it is the only fundamental force that affects neutrinos. FTP, identify this force responsible for beta decay, which is carried by the W-plus, W-minus, and Z-zero bosons.
+
+----
+num: 3
+category: Science
+difficulty: HS
+fixed: 1
+seen: 490
+answer: {weak} (nuclear) force (accept {weak} interactions)
+
+Feynman and Gell-Mann proposed a V minus A Lagrangian for it to account for one of the ramifications of the Cabibbo-Kobayashi-Maskawa matrix. Its short range of influence, smaller than an atomic nucleus, is caused by its massive gauge bosons. Some interactions of it can result in a change of flavor, and they violate parity symmetry because it affects only left-handed particles. In addition, it is the only fundamental force that affects neutrinos. FTP, identify this force responsible for beta decay, which is carried by the W-plus, W-minus, and Z-zero bosons.
+
+----
+num: 4
+category: Literature
+difficulty: HS
+fixed: 1
+seen: 449
+answer: Lolita
+
+This novel's protagonist plays mental games based on the word “Quine,” which he finds in the book Who' Who in the Spotlight. The main character's relationship with Rita parallels his earlier solicitation of the prostitute Monique, and he is angry to learn a defrocked Russian colonel, who is reduced to driving cabs has seduced his wife Valeria. After a trip to Shirley Holmes' Camp Q the protagonist of this novel stays at an inn called The Enchanted Hunters, while earlier Frederick Beagle Jr. runs over Charlotte while she is crossing the street to mail letters that would reveal the protagonist's interest in nymphets and Dolores Haze. For 10 points, name this novel about Humbert Humbert written by Vladimir Nabokov.
+
+----
+num: 5
+category: Mythology
+difficulty: HS
+fixed: 1
+seen: 790
+answer: {Ishtar}
+
+This figure once had sixty diseases thrown at her by Namtar, but she was rescued by the eunuch Asu-shu-namir. One well-known story concerning this figure saw her descend through seven gates to the underworld, losing an article of clothing at each, where she confronted her sister Ereshkigal; during this time, all sexual activity ceased on earth. This daughter of Anu made an astral triangle with the sun and moon, Shamash and Sin, and had a sacred city at Erech. This lover of the god of the harvest, Tammuz, was rejected by Gilgamesh. Personifying the planet Venus and a counterpart to the Sumerian Innana, this is, FTP, what Babylonian goddess of fertility, love, and war?
+
+----
+num: 6
+category: History
+difficulty: HS
+fixed: 1
+seen: 421
+answer: United States {State} Department
+
+Men fired from this entity included John Paton Davies, John Carter Vincent, and John Stewart Service, but no one ever identified all 205 of its employees who were mentioned in a speech in Wheeling, West Virginia. Dean Acheson defended the “China Hands” who had worked under him at this entity, but their resignation was demanded by John Foster Dulles. Joe McCarthy never produced a complete list of communist sympathizers in, FTP, what US department that has also been headed by Cordell Hull, George Marshall, Henry Kissinger, and Madeleine Albright?
+
+----
+num: 7
+category: Literature
+difficulty: HS
+fixed: 57
+seen: 436
+answer: {India}
+
+One novel set in this country concerns a man, who starves after he is mistaken for a prophet by a town that coerces him to fast until rain comes to end a long drought. The Guide is part of a series about the fictional town of Malgudi in this country. In another work from this country, a boy who works at the Paradise Pickles Factory falsely testifies against the title character for the accidental drowning of Sophie Mol, and another work centers on a mother's quest to find a husband for Lata. In addition to A Suitable Boy and The God of Small Things, another novel set in this country centers on a group of children born on August 15, 1947 and is narrated by the telepath Saleem Sinai. For 10 points, name this country home to Vikram Seth, Arundhati Roy, and Salman Rushdie.
+
+----
+num: 8
+category: Science
+difficulty: HS
+fixed: 57
+seen: 488
+answer: polynomials
+
+In algebraic geometry, an affine variety is the set of solutions to a system of equations of this type, and modding out by an irreducible one of these always gives a field. The Abel-Ruffini theorem shows that there can be no formula in radicals for the solutions to these in degree greater than four, while Descartes' Rule of Signs can be used to classify the type of their roots. FTP, identify this mathematical object composed of a finite sum of products of coefficients and variables, one example of which is x squared minus x plus 1.
+
+----
+num: 9
+category: History
+difficulty: HS
+fixed: 57
+seen: 419
+answer: {juries} (accept {jury trial})
+
+In 1991, their creation was ruled to be state action in Edmonson v. Leesville Concrete, and in 1972's Johnson v. Louisiana, the Supreme Court refused to apply to the states a federal requirement that they be unanimous. Their composition is determined by voir dire, in which certain candidates can be dismissed after being questioned. The Seventh Amendment describes their role in civil suits, while the Sixth guarantees their use in criminal proceedings. FTP, identify these judicial bodies led by a foreman that usually consist of twelve “of one's peers.”
+
+----
+num: 10
+category: History
+difficulty: HS
+fixed: 57
+seen: 413
+answer: {Vienna} (accept {Wien})
+
+One of this city's mayors, Karl Lueger, famously declared that it was up to him to define who was Jewish, and this city was the capital of Patriotic Front leader Englebert Dolfuss before his assassination. Its most iconic building is the reconstructed St. Stephen's Cathedral, while the Tiergarten contains the world's oldest zoo and is part of its Schonbrunn Palace, seat of government for such men as Franz Josef I and Klemens Von Metternich. FTP, identify this city on the Danube and namesake of an 1815 Congress that is now the capital of Austria.
+
+----
+num: 11
+category: Science
+difficulty: HS
+fixed: 57
+seen: 491
+answer: {catalysts}
+
+Olefin metathesis incorporates one of these named for Grubbs, and a heterogeneous one, often palladium, figures in the hydrogenation of double bonds. It is the role played by iron in the Haber process, and reagents that cannot function as these are added in stoichiometric quantities. They achieve their principal effect by introducing an additional intermediate and hence an additional transition state. They are regenerated after a reaction is complete, and organic examples of them are called enzymes. FTP, identify these substances that lower the activation energy of a chemical reaction to increase its rate.
+
+----
+num: 12
+category: History
+difficulty: HS
+fixed: 57
+seen: 417
+answer: Roman {historians} (accept {chroniclers})
+
+One early author of this type spoke Oscan and wrote his Annales in Saturnian meter, while another feuded with Metelli and wrote the Bellum Poenicum. In addition to Ennius and Naevius, they included one who discussed the Catalinian conspiracy, Sallust, as well as Suetonius. One noted writer of this type wrote of the reigns from Augustus to Domitian, while another compiled 142 books starting with Romulus and ending with the death of Drusus the Elder. FTP, name this profession of Polybius, Tacitus, and Livy, who were later counterparts of Herodotus.
+
+----
+num: 13
+category: Literature
+difficulty: HS
+fixed: 57
+seen: 441
+answer: Les {Fleurs du Mal} [or The Flowers of Evil]
+
+One part of this work describes the title location as “the land of hot and languorous nights . . . where the kisses are like cascades!” In addition to “Lesbos”, another poem in this collection is addressed to “mother of memories, mistress of mistresses” and is titled “The Balcony”. One poem describes what “the men of a crew” do “to amuse themselves”, and another poem talks about a figure who “like the stab of a knife / entered my plaintive heart.” Containing poems such as “The Albatross” and “The Vampyr”, this work is dedicated to Théophile Gautie, and includes the sections Wine, Death, and Spleen and Ideal. For 10 points, name this decadent poetry collection by Charles Baudelaire.
+
+----
+num: 14
+category: Science
+difficulty: HS
+fixed: 57
+seen: 487
+answer: {vaccine} (accept word forms)
+
+The altered peptide ligand approach to this has been used to deliver Flt3 to expand dendritic cells in mice for cancer treatment, but cannot operate in humans. Tattooing was recently found to be a more effective mode of the DNA type of this the method in which viruses deliver epitopes to surface muscle tissue. Traditional methods of it attempt to elicit a cytotoxic T-cell response or the production of antibodies using inactive pertussis toxin to carry pathogen polysaccharides, but they are unavailable for malaria and tuberculosis. FTP, identify this prophylactic approach to combating disease, which, for hepatitis B, involves three injections.
+
+----
+num: 15
+category: History
+difficulty: HS
+fixed: 1
+seen: 416
+answer: abolitionism
+
+Supporters of this movement included Lysander Spooner, Gerrit Smith, Wendell Phillips, and Benjamin Lundy, while many others joined the American Colonization Society. One leading member of it was murdered in Alton, Illinois, while another condemned the Constitution as a “covenant with death” in The Liberator and a third published The North Star after returning from England. Elijah Lovejoy, William Lloyd Garrison, John Brown, and Frederick Douglass were among the leaders of, FTP, what movement to end slavery?
+
+----
+num: 17
+category: Fine Arts
+difficulty: HS
+fixed: 57
+seen: 496
+answer: Paul {Cézanne}
+
+One critic claimed this man's Portrait of Victor Chocquet could induce yellow fever in pregnant women. He depicted wooing country-folk in The Amorous Shepherd and painted a portrait of Ambroise Vollard. This longtime friend of Émile Zola painted series of bathers and card players and liked to draw the Jas de Bouffan, where he lived in Provence. A legendarily slow worker, he is known for a genre including Rideau and Cruchon et Compotier. FTP, name this post-Imperssionist who painted still lifes of apples and made a series of paintings of Mont Sainte-Victoire.
+
+----
+num: 18
+category: Literature
+difficulty: HS
+fixed: 57
+seen: 443
+answer: August {Wilson}
+
+In one of his works Citizen Barlow goes on a journey to find “The City of Bones,” and later Caesar shoots Solly Two Kings, while in another work Harold Loomis searches for his wife Martha after he is released from the title character's chain gang. In addition to Gem of the Ocean and Joe Turner's Come and Gone, Sturdyvant's withdrawal of a contract offer leads to Levee stabbing Toledo at the end of one play, while in another of his works Alberta dies giving birth to the illegitimate child Raynell, who Rose agrees to raise despite the infidelity of her husband Troy Maxson. For ten points, name this playwright who wrote Ma Rainey's Black Bottom, The Piano Lesson, and Fences.
+
+----
+num: 19
+category: Religion
+difficulty: HS
+fixed: 1
+seen: 445
+answer: Sikhism
+
+Heretical groups to break off from this religion include the Minas sect and the Udasi sect, and each sect disagrees over which biographies of this religion's founder, called Janamsakhis, are canonical. Its followers wear the “five K's,” which include a metal bracelet and a comb. This religion's leaders included Tegh Bahadur, who was martyred, and Ram Das, who founded Amritsar, but Gobind Singh was its last guru and was succeeded by the Adi Granth. FTP, identify this religion of the Indian subcontinent that was founded by Guru Nanak.
+
+----
+num: 20
+category: Science
+difficulty: HS
+fixed: 1
+seen: 482
+answer: nebulae
+
+The formation of one type of them involves the Sedov-Taylor phase, while another type includes one with features like the Spire and the Pillars of Creation. Another type, exemplified by the Cat's Eye and the famously bipolar Butterfly, is denser than a type commonly called H II regions, like the Horsehead one. In addition to emission and reflection varieties, these include supernova remnants and dark and planetary varieties. Famously exemplified by the Crab and Great Orion ones, these are, FTP, what clouds of interstellar gas and dust that give rise to new stars?

@@ -1,0 +1,204 @@
+####
+tournament: Chicago Open
+round: PACKET14Magin.doc
+year: 2011
+####
+
+num: 1
+category: History
+difficulty: Open
+fixed: 1
+seen: 44
+answer: {Julian} the Apostate [or {Flavius Claudius Julianus} ]
+
+This ruler feuded with the prefect of Gaul, Florentius, whom he allegedly accused of being a thief and prevented him from raising taxes. As emperor, this man abandoned a plan to restore the Temple of Jerusalem after balls of fire scared away workers. Despite lacking military experience, he recaptured Colonia Agrippina after an ancestor had built the Castra Divitia, and crossed the Rhine after defeating a superior force near Argentorate.. He defended himself from charges of usurping in his Letter to the Athenians. His half-brother Gallus was executed by Constantius II, who named this man Caesar instead. This ruler was fatally speared in a retreat from Ctesiphon after preparing at Antioch, where he wrote the work “Against the Galileans,” against the trickery of a certain religion. FTP, name this late Roman emperor whose embrace of paganism led him to be dubbed "the Apostate."
+
+----
+num: 2
+category: Literature
+difficulty: Open
+fixed: 1
+seen: 37
+answer: {Stella} [or Esther Johnson before mentioned; or {Esther Johnson} before mentioned]
+
+One poem contrasts the “cracks and wrinkles” of Chloe’s mind with this woman’s “breeding, humour, wit, and sense,” and compares her to the “true old Angel Inn.” A poem by the same author declares that Pallas, “in high concern for human kind / Fix'd honour” in this woman’s “infant mind,” and is addressed to this woman visiting the author in his sickness. A poem named for this woman claims that “For Virtue in her daily Race, Like Janus bears a double Face; Looks back with Joy where she has gone, And therefore goes with Courage on.” Another poem tells this woman “be not troubled / although thy size and years are doubled / since first I saw thee at sixteen” because “So little is thy form declined / Made up so largely in thy mind.” That poem begins by stating that this woman “this day is thirty-four,” and it's the earliest of the poems celebrating her birthday written from 1719 to 1727. FTP, give this poetic name of Esther Johnson, the subject of many poems by her close friend Jonathan Swift, who also wrote a “journal” to her.
+
+----
+num: 3
+category: Science
+difficulty: Open
+fixed: None
+seen: 57
+answer: {Fast Fourier} Transform [accept {FFT}, prompt on {Discrete} "{Fourier}" {Transform}]
+
+A similar operation named for Hartley was proven not to be faster than this operation in 1987 by Duhamel and Vetterli. A Cunningham sequence of Sophie Germain primes leads to poor performance of this by Rader's algorithm, which works by changing prime lengths into convolutions. The Winograd method allows decimation by several different factors, and is an extension of the Danielson-Lanczos Lemma which allows a problem of length to be replaced by two problems of length N over two. The best known algorithm for it requires a twiddle factor to separate a sum over a certain complex exponential, that algorithm is named for Cooley and Tukey. FTP, name this efficient method to computer a certain discrete transform between time and frequency domain.
+
+----
+num: 4
+category: Religion
+difficulty: Open
+fixed: 1
+seen: 52
+answer: rainbows
+
+According to a myth from Guam, when a girl named Veronica saw her fellow humans disdaining the gods, she evaded destruction by using one of these.  In Hawaiian myth, a woman associated with these was killed by Kauhi and then revived by an owl multiple times before being buried under a tree; that woman, Kahala, hailed from a valley called Manoa, which was named for these. A creature named after one of these was sometimes called Yulunggul; he was roused from his timeless slumber by the menstrual blood of the Wawalag sisters. In medieval Germany, it was believed that one of these would not occur for forty years before the world ended. In Greek myth, the deity that presided over them was the daughter of Thaumas and Elektra and served as a messenger.  FTP, name these natural objects, which appear in the name of a mythical serpent from Australian myth and a type of bridge watched over by Heimdall known as Bifrost.
+
+----
+num: 5
+category: History
+difficulty: Open
+fixed: 1
+seen: 46
+answer: {Nguyen} Dynasty
+
+One rebellion against this dynasty led to the execution of the missionary Joseph Marchand. Andrew Jackson twice unsuccessfully dispatched Edmund Robert to establish relations with this dynasty, which was represented by one flag consisting of a red circle inside a yellow rectangle surrounded on three sides by a jagged pattern in light blue.  One ruler of this dynasty, which supplanted the Tay Son Dynasty, defeated the forces of his brother Hong Bao and worked to suppress Christianity, causing a French invasion, while another died in a plane crash in Africa after joining the Free French, even though he'd earlier been exiled to Reunion after a coup attempt. Its first ruler was Gia Long, and its last was forced into Japan’s Greater East Asia Co-Prosperity Sphere before being ousted by Prime Minister Ngo Diem. FTP, name this dynasty that included Bao Dai, the last ruling house of Vietnam.
+
+----
+num: 6
+category: Fine Arts
+difficulty: Open
+fixed: 1
+seen: 41
+answer: Lysippos
+
+This artist is thought to have sculpted four bronze horses, each with one front leg raised, which decorated the facade of St. Mark's after being taken to Venice by Crusaders in 1204 AD - those horses were initially at the hippodrome in Constantinople. This sculptor created a piece often known as the "Azara herm," which features an anastole hairstyle, and depicted "Eros Stringing His Bow." Another work shows a muscled mythical figure with full, curly beard who rests on his left armpit while his right hand clutches three apples behind his back. A copy of this artist's work by Glycon probably resulted in the Farnese Hercules. This sculptor from Sicyon featured relatively small heads in works like his Apoxyomenos, which shows a young man scraping oil from his skin. FTP, name this Greek sculptor known for busts of Alexander the Great, who worked in the fourth century BC along with Praxiteles and Scopas.
+
+----
+num: 7
+category: Literature
+difficulty: Open
+fixed: 1
+seen: 36
+answer: Jim {Burden} [or Jim {Burden}; or James {Burden}]
+
+This character ends the book he narrates by declaring “Whatever we had missed, we possessed together the precious, the incommunicable past.” He muses about Virgil’s line “the best days are the first to flee” while being taught classics by Gaston Cleric, who inspires him to attend Harvard. He feels “erased, blotted out” by the landscape after first seeing the setting of the novel he appears in, and impresses his peers by killing an enormous, three-foot long rattlesnake as a youth. In the fourth section of the novel be narrates, he learns from Widow Steavens that one of his childhood friends was impregnated and abandoned by Larry Donovan. In that book’s final section, he compares the title character to “a rich mine of life, like the founders of early races,” upon returning to visit her for the first time in twenty years. FTP, name this character who recalls his relationship with a Bohemian girl from Black Hawk, Nebraska while riding a train, the narrator of My Antonia.
+
+----
+num: 8
+category: Science
+difficulty: Open
+fixed: None
+seen: 59
+answer: {immune} response of a {plant} [accept anything {involving plants} and a {defensive/immune response against} a {pest/pathogen}; accept {Systemic Acquired Resistance} before mention]
+
+Most of the synthesis of one important compound in part of this process is done via the isochorismate pathway, though some is achieved via the phnylpropanoid pathway.  One compound used in this process is structurally similar to prostaglandins and is often conjugated with amino acids like leucine and valine. Those two hormones are antagonistic of each other and SAR is an important part of this process, which requires the accumulation of one of those aforementioned hormones. K+ is pumped out and Ca+2, and H+ are pumped in, to trigger the hypersensitive response, which triggers cell death as part of this process. The lignin is deposited around the lesion, and jasmonates oppose the action of salicylic acid in regulating this. FTP, name this process that could occur after a certain type of organism is exposed to the tobacco mosaic virus.
+
+----
+num: 9
+category: Fine Arts
+difficulty: Open
+fixed: None
+seen: 38
+answer: The {Surrender} of {Breda} [or La {Rendición} de {Breda}; accept {El cuadro} de las {lanzas} before {lances} are mentioned]
+
+The bottom right of this painting features an unfolded piece of paper with four quadrants, lying among some rocks. The same scene was depicted by a six-page engraving by Jacques Callot, which the artist of this piece takes liberties with. It was designed for a room containing ten scenes from Hercules’ life, the Hall of Realms. A self-portrait of the artist appears on the far right, and is separated from the other figures by a large horse in the foreground with his rear to the viewer - above the horse's head is a large blue-and-white checkered flag. Behind the figure on the left, who rests a rifle on his shoulder, are two axes with spikes and three flags. In the title action of this canvas, a man with a pink sash holds a telescope in his left hand and places his right hand on the shoulder of Justin of Nassau, while soldiers on the right hold lances that point upwards. FTP, name this painting in which Ambrosio Spinola receives keys to the title city, a work by Diego Velázquez.
+
+----
+num: 10
+category: Religion
+difficulty: Open
+fixed: 57
+seen: 59
+answer: {Second Vatican} Council [or {Vatican II}]
+
+One document enacted by this council advances the position taken up twenty years earlier in Divino Afflante Spiritu. Josef Frings criticized the Holy Office during this council, and argued with Alfredo Ottaviani, who ultimately capitulated. At the end of this council, the pope enacted a declaration which condemned anti-Semitism and aimed to put quarrels with Muslims in the past, Nostra Aetate. In addition, that pope made a joint declaration with patriarch Athenagoras I. One document to come out of this council asserted that the church was the People of God and hierarchical in nature. That work was Lumen Gentium, or the Dogmatic Constitution of the Church. This ecumenical council produced the Constitution on the Sacred Liturgy, which permitted the use of the vernacular. FTP, name this ecumenical council called by John XXII and later presided over by Paul VI, which lasted from 1962 to 1965 in Rome.
+
+----
+num: 11
+category: Science
+difficulty: Open
+fixed: 1
+seen: 57
+answer: {iron} [accept {Fe} ]
+
+One form of this element is usually coordinated with two His and one Asp or Glu protein residues in enzymes that either require an alpha-keta acid as cosubstrate, or degrade aromatic molecules and catalyze oxidative ring cleavage. The synthesis of a precursor to penicillin is catalyzed by an enzyme of the oxidoreductase family and its active site contains this element. That isopenicillin synthase uses oxygen that binds to this. A protein that regulates this metal in humans is rich in beta sheets and HAMP, and is the gene that encodes that protein, which is generally 25 amino acids long. In addition to being regulated by hepcidin, this metal is found with sulfur in proteins such as cytochrome c, which are found in the electron transport chain of the mitochondria. FTP, name this element that is found in the center of a porphyrin ring in heme.
+
+----
+num: 12
+category: Literature
+difficulty: Open
+fixed: 1
+seen: 36
+answer: La {Vita Nuova} [or The {New Life} ]
+
+David Slavitt’s translation of this book removed its explicating passages. In one poem in this book, love tells the speaker that a woman is called Primavera because her name, Joan, derives from John the Baptist. This book was inspired by a dream in which a figure told the author "Ego dominus tuus" while carrying a woman who then ate the author’s heart. Its author quotes Jeremiah’s line “How solitary lies the city” before writing a poem on the death of its central figure, though part of this book ignores that figure to address a substitute love interest called “the gracious lady.” Referred to by its author as his libello, or little book, this prosimetrum includes poems such as “Ladies, you who can understand love,” one of its canzones. Describing its author’s friendship with the poet Guido Cavalcanti, and written in the 1290s, FTP, name this poetry collection about the author’s love for Beatrice Portinari, written by Dante.
+
+----
+num: 13
+category: History
+difficulty: Open
+fixed: None
+seen: 48
+answer: {Spain}
+
+John Parker Hale was recalled from his post as minister to this country after Horatio Perry accused him of tax evasion.  Daniel Sickles also served as minister to this country, in which role he was rumored to have had an affair with its potential queen. This country paid the U.S. an 80,000 dollar indemnity after the execution of 53 men, including Joseph Fry, when Fry’s ship was seized by its forces.  The freedom of a manumitted slave is compared to the undying nature of the earth in an essay "On the American Dead in" this country, which refers to a group of 2,800 Americans holding their position at a river in this nation. By way of a certain treaty, the U.S. agreed to pay all legal claims against this nation up to five million dollars in exchange for territory - that agreement, also known as the Transcontinental Treaty, saw this country renounce claims to Oregon territory but retain land west of the Sabine River. FTP, name this nation where the Abraham Lincoln Brigade fought in a war, and who signed the Adams-Onis Treaty relinquishing its control over Florida.
+
+----
+num: 14
+category: Social Science
+difficulty: Open
+fixed: None
+seen: 38
+answer: linguistic (or {phonological}) {constraints}
+
+An early version of these entities was posited to account for “conspiracies” in Yawelmani Yokuts in a paper discussing functional unity by Charles Kisseberth. "Templatic" ones of these can be active on a reduplicant to derive its size. These can be “categorical” or “gradient” - an example of the latter are those which, along with Parse, determine whether a language has secondary stress, depending on their relative ranking. Examples of these include Max, Dep, and Ident, which prevent deletion, epenthesis, and changing a sound’s feature. In some languages, the "NoCoda" one is undominated, making all syllables open. In a theory developed by Prince and Smolensky, a pointing hand is assigned to the winning candidate, with the "least bad violation" of these entities. Used by Optimality Theory, FTP, name these linguistic rules which restrict outputs but not inputs.
+
+----
+num: 15
+category: Fine Arts
+difficulty: Open
+fixed: 1
+seen: 39
+answer: Oscar-Arthur {Honegger}
+
+One symphonic poem by this man is called The Song of Nigamon, while another is scored for wind quintet and strings and is called Summer Pastorale. His other works for woodwinds include the Goat Dance for solo flute. His fifth symphony ends each movement with the timpani repeating a certain note, and his second has a trumpet obbligato in its last movement, despite being called “Symphony for Strings.” This composer of “Di tre re” also wrote a Liturgical symphony and scored such films as Les Miserables and Napoleon. The title character’s lament for Saul and Jonathan ends Part 1 of this man’s “dramatic psalm,” Le Roi David. One of his short pieces uses a motive first introduced by a trombone to represent the title sport - that member of his Symphonic Movements is entitled Rugby. FTP, name this member of Les Six, who imitates the sound of a locomotive in his Pacific 231.
+
+----
+num: 16
+category: Philosophy
+difficulty: Open
+fixed: None
+seen: 40
+answer: {Plotinus}
+
+This philosopher influenced Renaissance thinkers by claiming that there is more beauty in the art of a beautiful stone statue than in the stone itself. He asserted that beauty does not consist of the symmetry of material parts in his early treatise On Beauty. He argued that a person tortured in the Bull of Phalaris will only feel pain in their lower soul, not their higher soul. Sections of his major work were translated into Arabic under the title The Theology of Aristotle, influencing early Islamic philosophy. His metaphysics is divided into three hypostases: Soul, the Intellect, and the One, which emanates the Intellect and the Soul, and is derived from Plato’s concept of the Good. Born in Egypt, he studied philosophy under Ammonius Saccus before teaching in Rome from 244 to 268 CE. FTP, name this Neoplatonist philosopher whose works were collected into the Enneads by his student Porphyry.
+
+----
+num: 16
+category: Philosophy
+difficulty: Open
+fixed: None
+seen: 40
+answer: {Plotinus}
+
+This philosopher influenced Renaissance thinkers by claiming that there is more beauty in the art of a beautiful stone statue than in the stone itself. He asserted that beauty does not consist of the symmetry of material parts in his early treatise On Beauty. He argued that a person tortured in the Bull of Phalaris will only feel pain in their lower soul, not their higher soul. Sections of his major work were translated into Arabic under the title The Theology of Aristotle, influencing early Islamic philosophy. His metaphysics is divided into three hypostases: Soul, the Intellect, and the One, which emanates the Intellect and the Soul, and is derived from Plato’s concept of the Good. Born in Egypt, he studied philosophy under Ammonius Saccus before teaching in Rome from 244 to 268 CE. FTP, name this Neoplatonist philosopher whose works were collected into the Enneads by his student Porphyry.
+
+----
+num: 17
+category: History
+difficulty: Open
+fixed: 1
+seen: 74
+answer: Operation {Tidal Wave} [accept {bombing} of {Ploesti}; prompt on “{Black Sunday}” before mentioned]
+
+Alfred Kalberer was silenced upon raising objections to Allied plans for this initiative, which were disrupted when several planners were not allowed to participate out of fear they'd be captured. Another complication arose for the Allies when Colonel Compton decided to make a wrong turn at a railroad intersection. Most of its planning was done by Lewis Brereton and Jacob Smart, who didn't count on the defenses that Alfred Gerstenberg put into place following the HALPRO mission one year earlier. The Allied base at Benghazi was hampered by dysentery. Several time-delayed bombs were used, so as to fly very low to the ground, to minimize civilian casualties, while still disabling the refineries at Concordia Vega and Columbia Aquila. Nicknamed “Black Sunday” due to heavy losses incurred, this 1943 bombing raid targeted a certain oil producing city in Romania. FTP, name this Allied Operation whose code name stems from the repeated air attacks coming from the sea.
+
+----
+num: 18
+category: Science
+difficulty: Open
+fixed: None
+seen: 57
+answer: {WKBJ approximation} [accept {Wentzel}-{Kramers}-{Brillouin}-{Jeffreys approximation}; accept {variations where} the {J} is in the {front too}]
+
+For unbroken supersymmetric systems, a modified form of this method gives the exact energies for systems like the Rosen-Morse and Coulomb. That is because those systems are shape invariant. One ad-hoc correction to it adds a constant addition of 1/4 and is used for spherically symmetric systems where the zeroes of the potential minus the energy is near the origin. In addition to the Langer correction, this method uses the Airy function in connection with formula near turning points between the classically allowed and forbidden zones. Gamow used it in the first successful theory that described quantum tunneling in atomic nuclei during alpha decay. This semiclassical method is based on expanding in terms of powers of Planck’s constant and is used for slowly varying potential. FTP, name this approximated method to solve the Schrodinger’s equation, named for three scientists.
+
+----
+num: 19
+category: Literature
+difficulty: Open
+fixed: 1
+seen: 34
+answer: {Death and the Maiden}
+
+The first scene of this play’s third act ends with a giant mirror descending and covering two characters as the final movement of Mozart’s “Dissonance” quartet plays. Before that mirror descends, one of those characters orders the other to confess at gunpoint after hearing him correct the name of a brutal soldier from “Bud” to “Stud.” This play opens with its main female character crouching down to hide from the headlights of an approaching car. A flat tire causes a doctor to give a ride home to a member of an investigative commission corresponding to the real-life Rettig Commission. Upon seeing that doctor, this play’s only female character ties him up and orders him to confess to raping and torturing her. Throughout this play, Gerardo Escobar and his wife Paulina Salas struggle over how to treat Dr. Roberto Miranda, a former torturer in a dictatorship based on the regime of Augusto Pinochet. Named for the piece of music played by Dr. Miranda before torturing victims, FTP, name this play by Ariel Dorfman which also titles a Franz Schubert composition.

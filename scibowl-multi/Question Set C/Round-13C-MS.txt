@@ -1,0 +1,272 @@
+####
+tournament: Question Set C
+round: Round-13C-MS.pdf
+####
+
+num: 1
+category: General Science
+difficulty: MS
+answer: Y)  Geneticist
+
+Which of the following types of scientists would most likely use the PCR, or polymerase chain reaction, method in their experiments:
+W) nuclear chemist 
+X) astronomer
+Y) geneticist
+Z) physicist
+
+----
+num: 3
+category: Physical Science
+difficulty: MS
+answer: W)  Synthesis
+
+Which of the following BEST describes the following reaction: 4Fe + 3O^2 ! 2Fe^2O^3
+W) synthesis 
+X) combustion
+Y) single replacement
+Z) double replacement
+
+----
+num: 4
+category: Earth Science
+difficulty: MS
+answer: Y )  Karst Topography
+
+Which of the following terms is LEAST related to the action of glaciers:
+W) esker
+X) terminal moraine
+Y) karst topography
+Z) kettle lake
+
+----
+num: 4
+category: Earth Science
+difficulty: MS
+answer: W)  the 14 ^T^h
+
+The Moon is full on September 7, 2006. On which of the following days that month will a last quarter Moon occur:
+W) the 14^th
+X) the 21^st
+Y) the 28^th
+Z) the 29 ^th
+
+----
+num: 6
+category: General Science
+difficulty: MS
+answer: X)  Anthracite
+
+Which of the following forms of coal typically has the 
+HIGHEST percent carbon content:
+W) peat 
+X) anthracite 
+Y) bituminous
+Z) lignite
+
+----
+num: 6
+category: General Science
+difficulty: MS
+answer: Y)  Oil Shale
+
+The U.S. contains a vast energy resource that could fuel the nation for several hundred more years at our current rate of consumption if it were not so difficult and expensive to mine. Which of the following BEST describes this resource:
+W) tar sands
+X) deep underground peat beds
+Y) oil shale
+Z) propane
+
+----
+num: 7
+category: Life Science
+difficulty: MS
+answer: Y)  Different Genes Are Turned on and Off as Cells Mature
+
+Which of the following BEST describes why all mammalian nucleated non-sex cells have the same chromosomes but appear and function in greatly different ways:
+W) different cells lose and acquire different genes as they mature
+X) as cells mature they develop different genes
+Y) different genes are turned on and off as cells mature 
+Z) cells transport pieces of chromosomes called plasmids to control how different cells will functionand appear
+
+----
+num: 8
+category: Physical Science
+difficulty: MS
+answer: W)  Whether a Solution Is Acidic or Basic
+
+A litmus paper test is used to determine:
+W) whether a solution is acidic or basic
+X) simple metallic elements
+Y) rates of reactions
+Z) bacterial counts in drinking water
+
+----
+num: 8
+category: Physical Science
+difficulty: MS
+answer: X)  Organic Acid
+
+A carboxyl group is the functional group in which of the following classes of compounds:
+W) ester
+X) organic acid
+Y) halocarbon
+Z) hydrocarbon
+
+----
+num: 9
+category: Earth Science
+difficulty: MS
+answer: Z)  Winds
+
+Which of the following is the most immediate driving force of surface ocean currents such as the North Pacific Drift and Gulf Stream currents:
+W) tides 
+X) centripetal force of the oceans
+Y) daily temperature variations
+Z) winds
+
+----
+num: 9
+category: Earth Science
+difficulty: MS
+answer: W)  a Counterclockwise Flow of Air Into the Center
+
+Looking at a weather map of the Northern Hemisphere, which of the following BEST describes the circulation of air around a low pressure system, designated with an “L”:
+W) a counterclockwise flow of air into the center
+X) a counterclockwise flow of air out of the center
+Y) a clockwise flow of air into the center
+Z) a clockwise flow of air out of the center
+
+----
+num: 11
+category: General Science
+difficulty: MS
+answer: Y)  Polypropylene
+
+Which of the following is a polymer commonly used to manufacture plastic bottles, toys and indoor/outdoor carpeting:
+W) polyvinyl chloride
+X) polystyrene
+Y) polypropylene 
+Z) nylon
+
+----
+num: 11
+category: General Science
+difficulty: MS
+answer: Z)  Long -Chain Hydrocarbon
+
+Beeswax is BEST described as a:
+W) protein with small amounts of sugar
+X) petroleum derivative
+Y) short-chain carbohydrate
+Z) long-chain hydrocarbon
+
+----
+num: 13
+category: Physical Science
+difficulty: MS
+answer: Z)  Strong Bases Do Not Dissociate in Water
+
+Which of the following statements is NOT true:
+W) neutral pH solutions have small but equal numbers of hydronium and hydroxide ions
+X) when an acid is added to water it will increase the solutions concentration of hydronium ions
+Y) strong acids dissociate almost completely in water
+Z) strong bases do not dissociate in water
+
+----
+num: 13
+category: Physical Science
+difficulty: MS
+answer: X)  Efficiency
+
+If the work input remains the same and there is an increase in the output of a simple machine, there would also have to be an increase in the machine’s:
+W) power
+X) efficiency
+Y) friction
+Z) effort force
+
+----
+num: 14
+category: Earth Science
+difficulty: MS
+answer: Z)  Felsic Rocks Contain Large Amounts of Magnesium and Iron
+
+Which of the following is NOT true about rocks:
+W) corundum is harder than quartz
+X) pyrite is also known as ‘fool’s gold’
+Y) halite occurs as a perfect cubic crystal
+Z) felsic rocks contain large amounts of magnesium and iron
+
+----
+num: 15
+category: Math
+difficulty: MS
+answer: W)  X^2 + Y^2 = 25
+
+Which of the following equations has a graph that is a circle:
+W) x^2 + y^2 = 25
+Y) X) 4yy= = 3x^2 x + 2
+Z) x – 3 = 0
+
+----
+num: 17
+category: Life Science
+difficulty: MS
+answer: X)  Messenger Rna
+
+Which of the following types of nucleic acid carries a complementary copy of a gene from the DNA to the cytoplasm to instruct the order in which amino acids will be made into a protein:
+W) transfer RNA
+X) messenger RNA
+Y) ribosomal RNA
+Z) DNA
+
+----
+num: 18
+category: Physical Science
+difficulty: MS
+answer: X)  Passing Light Through Two Pinholes Can Produce an 
+Interference Pattern
+
+Which of the following is the BEST evidence that light travels as a wave:
+W) a metal that is heated produces different colors
+X) passing light through two pinholes can produce an interference pattern
+Y) light has a constant speed in a vacuum
+Z) high frequencies have short wavelengths
+
+----
+num: 18
+category: Physical Science
+difficulty: MS
+answer: Z)  Kinetic Energy Can Only Decrease When Potential Energy 
+Decreases
+
+Which of the following is NOT true:
+W) weight decreases as you move away from the Earth’s surface
+X) mass times gravitational acceleration is weight
+Y) gravitational potential energy increases with increasing height
+Z) kinetic energy can only decrease when potential energy decreases
+
+----
+num: 19
+category: Earth Science
+difficulty: MS
+answer: X)  Most of the Icebergs Found in the North Atlantic Come 
+From the Iceland Coast
+(Solution:  They Come From Greenland)
+
+Which of the following is NOT true about glaciations:
+W) the land under the West Antarctic Ice Sheet is being pushed down below sea level by the weight of the ice above
+X) most of the icebergs found in the North Atlantic come from the Iceland coast
+Y) current ice sheets can be nearly 2 miles thick
+Z) glaciers can form near the equator at high altitude
+
+----
+num: 19
+category: Earth Science
+difficulty: MS
+answer: W)  the Partial Melting and Refreezing of Snow Crystals Into 
+Ice Grains
+
+In which of the following ways is firn formed on glaciers:
+W) the partial melting and refreezing of snow crystals into ice grains
+X) the polishing of rocks and boulders by abrasion in stream beds
+Y) layers of sand and sediment originating in glaciers that are transported upslope by strong winds
+Z) friction between bedrock along the base of a glacier

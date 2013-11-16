@@ -1,0 +1,214 @@
+####
+tournament: Fall Novice
+round: round01.doc
+year: 2009
+####
+
+num: 1
+category: History
+difficulty: HS
+fixed: 1
+seen: 413
+answer: {Slave} Revolts [accept clear equivalents]
+
+The largest of these events in American history was led by Charles Deslondes and named after the German Coast. Another one of these started after the murder of the Travis family. In addition to those led by Denmark Vesey and Gabriel Prosser, one of these actions done at sea resulted in the Amistad affair. For 10 points, name this common fear of nineteenth century southerners, which included one led by Nat Turner.
+
+----
+num: 2
+category: Religion
+difficulty: HS
+fixed: 57
+seen: 447
+answer: {Bahá'i} Faith
+
+Members of this faith use four or five intercalary days to prepare for a nineteen-day fast during the last of its calendar's nineteen months, and it is symbolized by a nine-pointed star. Sacred writings of this faith include The Seven Valleys and the Book of Certitude. Known for its World Centre in Haifa, Israel, and for its promotion of religious and racial unity, this is, for 10 points, what religion believing in God's gradual revelation through figures like Krishna, Jesus, and, more recently, the Bab and Baha'ullah?
+
+----
+num: 3
+category: Fine Arts
+difficulty: HS
+fixed: 1
+seen: 494
+answer: Antonin {Dvorák} ({Pronounced DVOR}-{zhak})
+
+This composer published sixteen pieces including a "Dumka" and a polka that was inspired by a Hungarian-style work by Brahms. In addition to Slavanic Dances, this man composed the a symphony that quotes "Swing Low, Sweet Chariot" and was inspired by the Song of Hiawatha that has a "largo" movement. For ten points, name this Czech composer who lived in America when he wrote his Symphony Number 9 in E minor, subtitled From the New World.
+
+----
+num: 4
+category: History
+difficulty: HS
+fixed: 57
+seen: 414
+answer: Gaius Julius Caesar
+
+At the Battle of Vosges, this man defeated the Suebi forces led by Ariovistus. At the Battle of Alesia, he defeated Vercingetorix, as described in his Commentaries on the Gallic War, and, at the Battle of Pharsalus, he defeated Pompey the Great. This man also started the Roman Civil War by crossing the Rubicon. For 10 points, name this Roman statesman who, with Crassus and Pompey, formed the First Triumvirate and was assassinated by Cassius and Brutus on the Ides of March.
+
+----
+num: 5
+category: Mythology
+difficulty: HS
+fixed: -1
+seen: 793
+answer: Yggdrasil
+
+The commonly accepted etymology of this object's name is a metaphor for gallows, and one god pierced himself with a spear and hanged himself from this object for nine days and nights in his quest to attain wisdom. This object is cared for by the Norns, and the Aesir meet at the Well of Urd under this object. Its shaking is one of the portents of Ragnarok, the squirrel Ratatosk scurries across it, and it supports the nine realms. For 10 points, name this giant ash, the “World Tree” of Norse mythology.
+
+----
+num: 6
+category: History
+difficulty: HS
+fixed: 57
+seen: 419
+answer: Republic of the {Sudan} or {Jumhuriyat} as {Sudan}
+
+The leader of this nation's southern region is Salva Kiir and a prominent opposition leader in this nation is the Islamist Hassan al-Turabi. The International Criminal Court issued an arrest warrant for this nation's president, Omar al-Bashir, who denies supporting the Janjaweed milita. With capital at Khartoum, this is, for 10 points, what African nation, site of genocide in its Darfur region.
+
+----
+num: 7
+category: Geography
+difficulty: HS
+fixed: 1
+seen: 711
+answer: Pennsylvania
+
+This state's northeastern corner contains the Endless Mountains, and this state's Laurel Highlands contain its highest point, Mount Davis. Wilkes-Barre is on the Susquehanna River in this state, and major cities include the Lehigh Valley's Allentown and Erie. Lancaster County is home to this state's namesake “Dutch”. For 10 points, name this state with capital at Harrisburg, home of Pittsburgh and Philadelphia
+
+----
+num: 8
+category: Social Science
+difficulty: HS
+fixed: 57
+seen: 376
+answer: Adam Smith
+
+“The History of Astronomy” is one of his Essays on Philosophical Subjects, and another work by this man talks about “different progress of opulence” and “the nature, accumulation, and employment of stock” and includes a parable about a butcher, baker, and brewer, whose self-interests promote general welfare. This man also defined a metaphor for the self-regulating nature of free markets. For 10 points, name this Scot who created the “invisible hand,” the author of The Wealth of Nations.
+
+----
+num: 9
+category: Fine Arts
+difficulty: HS
+fixed: 57
+seen: 492
+answer: Salvador {Dali}
+
+This artist created the dream sequence for Hitchcock's Spellbound and collaborated with Luis Bunuel on the film Un Chien Andalou. This creator of Lobster Telephone also painted the “disintegration” of another of his works. That work features yellow cliffs in the upper right and ants swarming on a pocket watch in the bottom left. For 10 points, name this Spanish surrealist who painted three melting clocks in The Persistence of Memory.
+
+----
+num: 10
+category: Literature
+difficulty: HS
+fixed: 1
+seen: 451
+answer: Henrik {Ibsen}
+
+One work by this author describes a doctor's attempts to convince his town that its baths are contaminated and another sees Halvard Solness fall from a tower on the top of his home, An Enemy of the People and The Master Builder. In another play the title character commits suicide with one of her father's pistols. For 10 points, name this Norwegian playwright who wrote about Jørgen Tesman's wife and Nora Helmer's escape from the title dwelling in Hedda Gabler and A Doll's House.
+
+----
+num: 11
+category: Science
+difficulty: HS
+fixed: 1
+seen: 488
+answer: {viscosity}
+
+One form of this property is divided by thermal diffusivity in expression of the Prandtl number. When this property's value equals zero, the Navier-Stokes equations simplify into Euler's equations, and the Reynolds number is the ratio of inertial forces to this property. Its kinematic variety is measured in stokes, while its dynamic variety is measured in poise. Newtonian fluids have a constant value of, for 10 points, what measure of a fluid's resistance to flow?
+
+----
+num: 12
+category: History
+difficulty: HS
+fixed: 57
+seen: 422
+answer: Tsar {Peter} I of Russia or Tsar {Peter} the Great of Russia [prompt on {Peter}]
+
+This leader created the Table of Ranks, and he lost the Battle of Narva before winning the Battle of Poltava, both of which he fought against Charles XII of Sweden in the Great Northern War. This man, who founded his country's Academy of Sciences and forced the nobles to shave their beards, built a new city on the Neva River. That city became the capital of his country and a major port on the Baltic Sea. For 10 points, name this Westernizing tsar of Russia known as "the Great."
+
+----
+num: 13
+category: Literature
+difficulty: HS
+fixed: 1
+seen: 448
+answer: {Jane Eyre}
+
+One character in this novel also serves as the protagonist of Jean Rhys' Wide Sargasso Sea. At Gateshead, the title character is abused by Mrs. Reed, and later, while at Lowood, the protagonist befriends Helen Burns, who dies of consumption. Bertha Mason burns down Thornfield Manor at the end of this work, causing the titular character and former governess to return to Edward Rochester. For 10 points, name this Victorian novel written by Charlotte Bronte.
+
+----
+num: 14
+category: Science
+difficulty: HS
+fixed: 57
+seen: 486
+answer: red {blood cells} [or {erythrocytes}; or {erthryons}; or {haematids}]
+
+Codocytes are target-shaped varieties of these entities, and immature ones are named reticulocytes. These structures usually lack nuclei and are biconcave, but mutate into a crescent-shape when afflicted with sickle-cell anemia. Destroyed in the spleen, for 10 points, name these cellular components developed in the bone marrow which transport hemoglobin and carry oxygen from the lungs to the tissue.
+
+----
+num: 15
+category: History
+difficulty: HS
+fixed: 57
+seen: 415
+answer: Battle of the {Bulge} or {Ardennes}-{Alsace campaign} or {Unternehmen Wacht am Rhein} or {Operation Watch} on the {Rhine} or {Operation Guard} on the {Rhine}
+
+This battle saw Otto Skorzeny impersonating American troops and the perpetration of the Malmedy Massacre. After this battle, the losing side retreated to the Siegfried Line. In the siege of Bastogne during this battle, Anthony MacAuliffe replied to the German demand for surrender from his 101st Airborne Division with “Nuts.” This attack in the Ardennes forest was, for 10 points, what final major German offensive of World War II?
+
+----
+num: 16
+category: Literature
+difficulty: HS
+fixed: 1
+seen: 451
+answer: {Washington Irving}
+
+This author wrote about his time with Mateo Ximenes in Tales of The Alhambra, and his pseudonym purportedly found some of his stories in the papers of Diedrich Knickerbocker. In one short story by this man, the protagonist sleeps in the Catskills for 20 years while in another, Brom Bones scares away Ichabod Crane. For 10 points, name this American author of The Sketchbook of Geoffrey Crayon, which contains “Rip Van Winkle” and “The Legend of Sleepy Hollow.”
+
+----
+num: 17
+category: Science
+difficulty: HS
+fixed: 57
+seen: 491
+answer: {glaciers} (accept {ice caps} or {ice sheets} or equivalents before {paternoster})
+
+The absence of these features can cause isostatic rebound. These features create paternoster lakes and parallel ones are responsible for arêtes. These features also create kames, which often form with kettle lakes. These features often form from firn in cirques and their retreat creates eskers and drumlins and leaves moraine. For 10 points, name these features that can be tidewater, alpine, or continental, slow-moving rivers of ice.
+
+----
+num: 18
+category: Literature
+difficulty: HS
+fixed: 57
+seen: 442
+answer: {Japan} [accept {Nippon}-{koku}; or {Nihon}-{koku}]
+
+One author from this country describes a man who sells his family's land to The Emperor in The Silent Cry. In addition to Oe, a poet from this country wrote about the sea at Sado and a frog jumping into a pond. In addition to the author of Narrow Road to the Deep North, another author from this country described Lady Aoi's relationship with the title prince in The Tale of Genji. For 10 points, name this homeland of Basho and Lady Murasaki.
+
+----
+num: 19
+category: Science
+difficulty: HS
+fixed: None
+seen: 487
+answer: {electrolysis}
+
+Faraday's laws can be used to find the mass of a substance altered in this process. The Hall-Heroult process involves dissolving alumina in cryolite and then performing this process. This method was used by Davy to discover potassium, sodium, barium, and calcium, and performing this process on water yields hydrogen and oxygen gas. Sometimes seeing precipitates at the cathode, for 10 points, name this process in which reactions are driven by an electric current.
+
+----
+num: 20
+category: Fine Arts
+difficulty: HS
+fixed: 57
+seen: 490
+answer: {Michelangelo} di Lodovico Buonarroti Simoni
+
+This artist designed a series of paired Corinthian columns for the dome of St. Peter's Basilica and a never-built pyramid for the tomb of Pope Julius II. That tomb contains his sculpture of a horned biblical figure with a large beard. In addition to Moses, he also carved a sculpture of Mary cradling Jesus in her lap, as well as a huge sculpture of a biblical figure holding a slingshot. For 10 points, name this sculptor of the Vatican Pieta and the huge marble David.
+
+----
+num: 21
+category: Literature
+difficulty: HS
+fixed: 1
+seen: 447
+answer: Stephen {Crane}
+
+In one work by this man, several men on a beach do nothing to help a lifeboat carrying a correspondent and an oiler. In addition to “The Open Boat,” this author wrote a novel in which Pete becomes the title character's lover before she becomes a prostitute and another novel in which wavering troops are led in battle by Wilson and Henry Fleming, who receives the titular wound from a rifle butt. For 10 points, name this author of Maggie: A Girl of The Streets and The Red Badge of Courage.

@@ -1,0 +1,214 @@
+####
+tournament: Chicago Open
+round: 2009 Chicago Open - Finals 2.doc
+year: 2009
+####
+
+num: 5
+category: Science
+difficulty: Open
+fixed: None
+seen: 57
+answer: {Bolzano}-{Weierstrass Theorem}[{accept}: Heine-Borel Theorem until it is mentioned]
+
+Mandelkern shows that this theorem is nonconstructive due to its equivalence to the Limited Principle of Omniscience, which is duplicated by its Brouwerian counterexamples. Its namesake property for ideals is equivalent to a P-point of the Cech-Stone compactification beta-omega, but it fails for ideals when their quotient Boolean algebra has a countably splitting family. Its extension to transfinite step sequences with ordinal indices leads to a proof for the Erdos-Rado theorem. (*) One of its common proofs generates a series of nested intervals, each of which contains the leftmost subinterval of the last, and demonstrates that their left end points are a Cauchy sequence with a limit about which the subinterval contains infinitely many points of an infinite set. It follows from subsequences of real numbers via the Monotone convergence axiom, and may be derived from Cantor's intersection theorem and the Heine-Borel theorem, to which it is equivalent. FTP, name this algebraic theorem stating every bounded infinite sequence contains a convergent subsequence, named for a Czech and a German mathematician.
+
+----
+num: 6
+category: Literature
+difficulty: Open
+fixed: 57
+seen: 37
+answer: {Ferdydurke}
+
+One character in this work attempts to woo the object of his affection by dancing in her bathroom and hiring a bum to stand outside her window with a green twig in his mouth. This work is interrupted by a fable in which the professors Philifor and Anti-Philifor shoot the limbs off each other's lovers. After his companion rapes the Youthfuls' maid the protagonist flees with him only to be set upon by villagers turned into dogs, and he later absconds with his cousin Isabel after his uncle nearly beats the stable boy Bert to death. An important incident in this novel sees the schoolboy Siphon subjected to"violation by the ear" after a battle of grimaces with Mientus over the other boys' innocence.  After waking up from a nightmare at the novel's beginning the protagonist is visited by Professor Pimko, who quizzes him on Latin grammar until he regresses to adolescence and enters the plot of his own novel. For ten points name this novel about Johnnie Kowalski, the masterpiece of Witold Gombrowicz.
+
+----
+num: 7
+category: Science
+difficulty: Open
+fixed: None
+seen: 60
+answer: {turbulence} or {turbulent} flow
+
+The first evidence of this phenomenon is preserved by space-inflation induced stretching of Batchelor-Obukhov-Corrsin temperature spectra, and it first appeared at least ten to the minus 33 seconds following the Big Bang. A Hopfinger Cell is a useful tool in studying it, and laboratory simulations often employ the Smagorinsky Model to determine its local-scale kinematics. Its onset occurs during (*) Taylor-Green conditions in LES simulations, which may be experimentally modeled in the Boussinesq approximation. For small increments the occurrence of molecular diffusion it causes varies as the cube of the viscosity and the inverse of the energy dissipation rate to the one-fourth. That relation is the Kolmogorov length scale, which assumes isotropic flow in small scales, though for larger scales entropy across total vorticity increases. For 10 points, name this characterization of fluids with high Froude and Reynold's numbers typified by chaotic eddy-current shedding, the opposite of laminar flow.
+
+----
+num: 8
+category: Religion
+difficulty: Open
+fixed: None
+seen: 74
+answer: {Dasara} [or {Dusshera}; or {Vijaya Dashami}; prompt on “{Navaratri}” until mentioned]
+
+In some regions, this festival is associated with the worship of a shami tree, and historically that ritual was frequently accompanied by a mock battle where a king's army drove away foreigners from the East. A notable parade which celebrates this event ends at Banni Mantapa after beginning at the Chamundi temple near the Mysore palace in Karnataka. It is celebrated on the 10th day of the waxing moon of the month of Ashwin, and it occurs exactly 18 days before (*) Diwali. In some communities, it is accompanied by a Rama Leela, after which statues of Ravana are burned, while others celebrate this festival in honor of the victory of Durga over the demon Mahishasura. It gets its name from the fact that it celebrated after the nine day period called “navaratri.” For 10 points, identify this prominent festival of India.
+
+----
+num: 9
+category: Science
+difficulty: Open
+fixed: None
+seen: 58
+answer: {Langmuir} Waves
+
+Malaspina and Ergun offer an interpretation of examples of these entities which possess transverse electric fields as eigenmodes of solar wind density cavities. The kinetic equation that describes them may be derived by applying the Wigner-Moyal transform to their respective field relations. Their conversion to electromagnetic radiation is a key mechanism of Type-III Solar Bursts. Their propagation is governed by the (*) Bohm-Gross relation, and the Zakharov equations describe their interaction with the oscillatory modes with which they are always associated, which leads to a deceleration known as Landau Damping. Resulting from density enhancements which violate local charge neutrality, they may generate voltages higher than 100 giga-electron volts per meter. FTP, name these rapid fluctuations in electron density in a plasma, the fastest known matter waves.
+
+----
+num: 10
+category: Literature
+difficulty: Open
+fixed: None
+seen: 37
+answer: The {Ballad} of {Peckham Rye}
+
+One character in this work keeps a copy of Marital Relational Psychology in his desk, and that character murders his mistress with a corkscrew. The drunken Nelly Mahone repeatedly chastizes the protagonist of this work, who is stabbed near the eye while fighiting in an ancient tunnel found under a police station. Miss Cheeseman appoints the protagonist to ghost write her autobiography, and the protagonist first works under Mr Durce at Meadows, Meade & Grindley. The protagonist of this work encourages typewriters working under Mrs. Coverdale to take Mondays off, repeatedly points out the horn-like bumps on his head, and considers his fear of illnesses to be his "fatal flaw." The protagonist's antics drive a wedge in the relationship between Dixie Morse and her fiance Humprey Place, who finally get married as the Scotch protagonist leaves the titular town. For 10 points, identify this novel in which the devilish Dougal Douglas disrupts the quiet life of the title town, a work by Muriel Spark.
+
+----
+num: 11
+category: History
+difficulty: Open
+fixed: None
+seen: 44
+answer: {UNITA} [or {National Union} for the {Total Independence} of Angola; or {União Nacional para} a {Independência Total} de Angola; accept {FALA}; accept {Armed Forces} for the {Liberation} of {Angola}; accept {Forças Armadas} de {Libertação} de {Angola}]
+
+Kapessi Kafundanga was a leader of this organization, as was the awesomely named Abel Chivukuvuku.  Several leaders of this organization were killed in the Halloween Massacre, including Jeremias Chitunda.  Efforts to stop the activity of this group were led by UNAVEM, and this group protested elections soon after accepting the Protocol of Estoril and signing the Bicesse Accords.  A split in this organization led to the creation of the offshoot Renewal faction, and it is now led by (*) Isaias Samakuva.  Largely composed of members of the Chokwe and Ovimbundu ethnic groups, this organization allied with one led by Holden Roberto.  This group was opposed by Cuban troops, while it was itself supported by South Africa in a Cold War proxy war.  It allied itself with the FNLA in a 1975-2002 civil war, in which this group fought against Agostinho Neto and the MPLA, now led by José Eduardo dos Santos.  For 10 points, name this anti-Communist rebel group that went mainstream soon after the 2002 assassination of its leader, Jonas Savimbi, and which was active in Angola.
+
+----
+num: 12
+category: Science
+difficulty: Open
+fixed: None
+seen: 56
+answer: {acentric factor}
+
+The Korsten method sometimes replaces the Edmeister method for calculating this quantity, as the latter deviates significantly for heavier hydrocarbons in petroleum fractions. A more accurate method gives this quantity as a second order function of the Watson characterization number, and in a more often used formulation of that method, this quantity is multiplied by the first order term to give vapor (*) pressure. In addition to being used in the Lee-Kesler method, it is related to the negative logarithm of the reduced saturation pressure at a reduced temperature of 0.7. All fluids which have similar values for this quantity, reduced pressure, and reduced temperature have similar compressibility factors and display similar deviation from ideal behavior. Noble gases are defined to have a value of zero for this quantity, which was introduced by K. S. Pitzer. For 10 points, identify this quantity which describes the degree to which fluid molecules deviate from being spherically symmetric.
+
+----
+num: 13
+category: Trash
+difficulty: Open
+fixed: 57
+seen: 254
+answer: Black {Mages} or Black {Wizards}
+
+Characters with this description gain their final skill after ascending the Tower of Might in one appearance. Some of Donald Duck's weapons in the Kingdom Hearts series appear to have the heads of characters with this description. A band named after these characters plays songs like "Bombing Mission" and "Distant Worlds." Along with his twin sister, one character to hold this description turned into stone after the battle with Kainozzo in order to save Cecil and Tellah. Characters with this description populate an entire village which is invaded by Kuja, and three of them have the description "Waltz." Another character holding this description is the friend of Quon, frequently trips, and gains the ability to cast the spell Firaga from the Octogon Staff. For ten points, identify this character class which frequently wears a blue robes and a wide-brimmed hat over a blank face with glowing yellow eyes, a mainstay of the Final Fantasy series.
+
+----
+num: 14
+category: History
+difficulty: Open
+fixed: None
+seen: 45
+answer: {Essex Junto} [I {suppose} prompt on "{Federalists}"]
+
+This group included the author of the “Loco” letters, and another member of this group wrote the essay “Laocoon” and gave a notable speech while extremely ill in favor of funding a certain treaty.  In addition to Stephen Higginson and Fisher Ames, they included the supposed author of the “Conciliatory Resolutions.”  Accusations of their use of traitorous nighttime signals led to them being labeled (*) “Blue Lights,” and Theophilus Parsons was a member of this group. Another member of this group was the author of the Continental Army's drill manual and succeeded Henry Knox as Secretary of War.  Having a name coined by John Hancock, this group's members included George Cabot and Timothy Pickering, who was dismissed as Secretary of State for supporting war with France contrary to the wishes of this group's enemy, John Adams, who labeled them a “British faction.”  For 10 points, name this group of radical Federalists mainly from Massachusetts who attempted to secede New England from the union and who dominated the Hartford Convention.
+
+----
+num: 15
+category: Literature
+difficulty: Open
+fixed: None
+seen: 35
+answer: The {Lives} of {Others} [or {Das Leben der Anderen}]
+
+One character in this film tells a joke about the difference between a certain man and a telephone after another tells one about that man talking to the sun.  It ends with the protagonist purchasing a copy of Sonata for A Good Man, and late in this film he is demoted to steam-opening letters.  One character takes advantage of his position to rape a woman in a limousine and another character hides a (*) typewriter under the floorboards.  Christa-Maria throws herself in front of a truck after she believes she has betrayed her boyfriend, the playwright Georg Dreyman, who is being watched by Gerd Wiesler, portrayed by Ulrich Muhe.  For Ten Points, name this Florian Henckel von Donnersmarck film about the Stasi's surveillance in East Berlin, winner of the 2007 Best Foreign Language Film Oscar.
+
+----
+num: 16
+category: Literature
+difficulty: Open
+fixed: None
+seen: 35
+answer: "The {Laugh} of the {Medusa}" (or "La {Rire} de la {Meduse}")
+
+Kleist is held up in this work as a poet "who would go to any lengths to slip something by at odds with tradition". Members of the group examined in this work are labelled "precocious" and "have their mouths gagged with pollen" since the prevailing view about them is that "dark is dangerous". This work states that that group's "new history is coming" and will destroy the status quo's "conceptual orthopedics." It claims that classical bisexuality has been "squashed under the emblem of castration fear" and should be rejected in favor of "other bisexuality" that is free of the "false theater of phallocentric representationalism" that characterizes the central activity. This work insists that a woman without a body is a "servant of the militant male" and must overcome that by becoming a "springboard for subversive action" and "seizing the occasion to speak" and "write for herself". For 10 points identify this essay that claims that the "woman who writes cuts herself out a paper penis" by Helene Cixous that advocates for the establishment of a female written counterposition to the "universal male".
+
+----
+num: 17
+category: Science
+difficulty: Open
+fixed: None
+seen: 58
+answer: {Target} of {Rapamycin} [accept {TOR} until mentioned; accept {TORC}; accept any of “{mammalian Target} Of {Rapamycin}” or “{drosophila TOR}” or “{c. elegans TOR};" accept {RAPT1}; accept {FK506}-{Binding protein12}-{rapamycin complex}-{Associated protein} or {FRAP}; I {suppose you can} prompt on "{target} of {sirolimus}" until "{sirolimus}" mentioned; accept any of the listed {correct} answer which {has} a “{1}” or “{2}” {appended}, {such} as {TOR1}” or “{TOR2};”]
+
+This protein phosphorylates GCN2, which itself phosphorylates eIF2 alpha to inhibit translation of mRNA, and it also regulates translation initiation through the downstream activation of S6 Kinase and 4E-BP.  The TSC1, TSC2, and Rheb proteins mediate crosstalk between this protein and PI-3 Kinase pathways. This protein is inactive in nutrient deficient environments, and in Saccharomyces, inactivation of this protein results in cell-cycle arrest at the G1 stage. The (*) mammalian form of this protein forms a complex with the Rictor protein, which decreases its kinase activity, and also with the Raptor protein. This family of proteins gets its name from the fact that they are inhibited by a namesake compound first isolated from Streptomyces hygroscopicus and that compound is alternatively called sirolimus. For 10 points, identify this pathway which is abbreviated as TOR.
+
+----
+num: 18
+category: History
+difficulty: Open
+fixed: None
+seen: 47
+answer: {Phocis} [or the {Phocians}]
+
+One army from this polity was assisted by forces under Nausicles and razed Naryx, and it unsuccessfully attempted to build a fortress at Abae.   After one victory of this polity it carved a privilege for Athens onto a metal wolf, and it later angered an Athenian delegation under Proxenus after going back on its offer to deliver the cities of Alponus, Thronium, and Nicaea.  Notable leaders of this polity include Phalaecus and (*) Phayllus, and another was killed in the Battle of Neon at Tithorea after putting the Thracidae to death and fighting against the Locrians of Amphissa.  This polity allied with Lycophron of Pherae, and it lost a battle where the victors wore laurel wreaths and the aftermath of which saw the drowning of the captured soldiers and the posthumous crucifixion of this polity's commander, Onomarchus.  Soon following that defeat at Crocus Field, this polity had all of its major cities destroyed by Philip II of Macedon, ending a conflict that began when its leader Philomelus seized a certain treasury.  For 10 points, name this district of Greece west of Boeotia that fought for control of Delphi in the second and third Sacred Wars.
+
+----
+num: 19
+category: Literature
+difficulty: Open
+fixed: 57
+seen: 35
+answer: {Culhwch}
+
+This figure threatens Glewlwyd Gavaelvawr that he will let loose three shouts that will make barren every woman in a palace, and this figure apparently got his name because he was born in a swine's burrow.  This man gives a gold ring to Custennin the herdsman, whose son Goreu accomplishes a task for him, and this man's mother made his father promise not to remarry until a briar with two blossoms grows on her grave.   One companion of this figure kills Gwrnach the Giant, and he and his companions have three poisoned darts thrown at them, which they throw back at their attacker.  This figure's step-mother declares that he will not have a wife until he obtains a certain woman, whom this man obtains by accomplishing the tasks of Yspaddaden Penkawr with the help of such figures as Bedwyr and Kai.  For 10 points, name this figure from Welsh myth, a cousin of Arthur who goes on a quest to win the hand of Olwen.
+
+----
+num: 20
+category: Literature
+difficulty: Open
+fixed: None
+seen: 37
+answer: {Anita Desai} (accept {just Desai} before “{daughter}”)
+
+This author's short stories were collected in Diamond Dust and Games at Twilight. One of this author's protagonists lives alone in a mansion known as Carignano, while Matteo and Sophie become attached to a spiritual leader known only as “Mother” in this author's Journey to Ithaca. Sita's unwanted fifth pregnancy leads her to flee to the island on which she grew up in this author's Where Shall We Go This Summer?, while Deven's interview of the Urdu poet Nur Saahib is the subject of this author's In Custody. This author wrote about a cat-loving Jewish refugee fleeing from the Nazis in Baumgartner's Bombay, and the Patton family plays host to an Indian college student named Arun in another of this author's novels, which contrasts Arun with his comely older sister, Uma. The marriage of Raja's daughter reunites Tara with her older sister, the unmarried history teacher Bim, in this author's novel about the Das family. For ten points name this author of Fasting, Feasting and Clear Light of Day whose daughter wrote The Inheritance of Loss.
+
+----
+num: 23
+category: Science
+difficulty: Open
+fixed: None
+seen: 58
+answer: {Bardeen}-{Petterson Effect}
+
+C: The alignment of binary jets in active galactic nuclei is caused by this gravitomagnetic-viscous resonance which drives the inner portion of accretion discs around black holes to precess within the hole's equatorial plane, locking the jets into their north-south preferred orientation.
+
+----
+num: 24
+category: Science
+difficulty: Open
+fixed: None
+seen: 56
+answer: {Bowen's Reaction} Series
+
+A: This famous series begins with a homogenous mafic melt from which successively complex silicates crystallize, and contains a continuous series consisting of plagioclase and discontinuous series progressing from olivine to quartz. Its progenitor used it to explain how multiple igneous rock types may form from a single magma.
+
+----
+num: 26
+category: History
+difficulty: Open
+fixed: None
+seen: 46
+answer: {Usiglio's} Experiment
+
+C: In this experiment of an Italian chemist, five liters of seawater were dessicated to determine the order of crystallization of evaporites. The sequence progressed from calcite and hematite to gypsum, halite, epsomite, and brine salts, explaining the stratigraphy of salt deposits. Van't Hoff later summarized the results of this experiment.
+
+----
+num: 28
+category: Science
+difficulty: Open
+fixed: None
+seen: 55
+answer: {Bloch}-{Grüneisen} Equation
+
+B: The temperature dependence of a material's resistivity is given by this equation which also accounts for dependence on electron velocity and the Debye temperature. It contains a constant, n, which is specified for resistivity origins such as phonon scattering or electron interactions.
+
+----
+num: 29
+category: Science
+difficulty: Open
+fixed: None
+seen: 56
+answer: {van der Pauw} method or technique or standard or configuration
+
+C: This method of determining sheet resistivity uses a four-point thin plate configuration standard through which known currents are passed to determine the sheet resistance from the namesake equation. The same technique is applicable to Hall voltage calculations, which are used to calculate the carrier density.

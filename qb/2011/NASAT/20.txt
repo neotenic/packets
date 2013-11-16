@@ -1,0 +1,404 @@
+####
+tournament: NASAT
+round: 20.pdf
+year: 2011
+####
+
+num: 1
+category: Science
+difficulty: HS
+fixed: 1
+seen: 478
+answer: {strong} nuclear force/interaction
+
+In the study of this force, the Bjorken scaling helped find the dependence of the structure function in the
+ large angle deflection of electrons in deep inelastic scattering. This led to the parton model. With long
+ wavelengths, particles that interact via this force have a full Yukawa cloud, but for short wavelengths, this
+ force vanishes. In a vacuum below .2 GeV, a condensate of particles that interact via this force can form.
+ Separating two particles that interact via this force that has asymptotic freedom requires infinite energy.
+ Gluons carry this force that confines colors, which means only hadrons can be seen and not the constituent
+ particles. For 10 points, name this force that holds quarks together in the protons and neutrons, as opposed
+ to the weak force.
+
+----
+num: 2
+category: Fine Arts
+difficulty: HS
+fixed: -1
+seen: 490
+answer: Jeff {Koons}
+
+This artist depicted a snorkel emerging from the water as a woman grasps her breasts in Woman in Tub.
+ A recent Hunter Jonakin piece is composed of an arcade game in which the player wanders a museum
+ destroying this man’s work with a rocket launcher. He created three identical porcelains of a golden clad
+ pop star holding a monkey titled Michael Jackson and Bubbles. This artist used shiny metallic surfaces for
+ his sculpture of Tulips, which is located in Bilbao near his sculpture of a puppy which is made from
+ flowers. For 10 points, name this American artist best known for kitschy sculptures of balloon animals and
+ other mundane objects.
+
+----
+num: 3
+category: Science
+difficulty: HS
+fixed: 1
+seen: 493
+answer: linear {momentum} [{do not accept "angular momentum"}]
+
+In quantum mechanics, the Fourier transform of this quantity's operator is represented by the position
+ operator, and this quantity's operator is equal to negative i times h bar times the gradient. Translation
+ invariance of the Hamiltonian or Lagrangian implies conservation of this quantity, which is equal to the
+ product of h bar and the wave number for a photon. It is conserved in both elastic and inelastic collisions,
+ and its change in a given time interval is the impulse. Its time derivative is equal to the product of mass and
+ acceleration by Newton's Second Law. For 10 points, identify this product of mass and velocity.
+
+----
+num: 4
+category: Mythology
+difficulty: HS
+fixed: 57
+seen: 787
+answer: {dogs}
+
+One of these animals named Maera brought Erigone to the body of her father, Icarius. Another of these
+ animals was depicted next to the throne of Serapis, the official god of Ptolemaic Egypt. The female doctor
+ Procris of Athens was given one of these animals as a gift after she cured King Minos. One of these
+ animals named Orthrus had two heads and was killed by Hercules during the labor involving the cattle of
+ Geryon. One of these animals, Laelaps, was turned to stone by Zeus after he created a paradox by chasing
+ an uncatchable fox. Odysseus owned another of these animals named Argos. For 10 points, name this
+ animal, examples of which include Cerberus.
+
+----
+num: 5
+category: History
+difficulty: HS
+fixed: 57
+seen: 417
+answer: {iconoclasm}
+
+The man who implemented this policy defended it by claiming a recent eruption of the island of Thera
+ showed God’s wrath. Artabasdus seized power to end this policy, but was overthrown and blinded when
+ Constantine retook control. This policy was supported at the Council of Hieria, which prompted the Syrian
+ monk John of Damascus to attack it. It was partially implemented to curtail the influence of Germanus, and
+ it was defended by Empress Irene. It began when a cross was placed over the Chalke Gate at
+ Constantinople. For 10 points, name this policy implemented by Leo III, in which pictures of saints were
+ destroyed.
+
+----
+num: 6
+category: Literature
+difficulty: HS
+fixed: 57
+seen: 442
+answer: "{Crossing Brooklyn Ferry}"
+
+One section of this poem ends with the declaration, "Everything indicates . . . A necessary film envelops
+ all, and envelops the Soul for a proper time." The speaker claims "the dark threw patches down upon me"
+ before comparing himself to "the wolf, the snake, the hog" to explain his assertion "I am he who knew what
+ it was to be evil." The speaker asks, "What is the count of the scores or hundreds of years between us?"
+ after repeatedly claiming "I am with you" and I project myself." The first section of this poem addresses
+ "Crowds of men and women attired in the usual costumes" and begins, "Flood-tide below me! I watch you
+ face to face." For 10 points, name this member of the "Calamus" poems in which Walt Whitman describes
+ a trip across the East River in Manhattan.
+
+----
+num: 7
+category: Fine Arts
+difficulty: HS
+fixed: 1
+seen: 494
+answer: Pierre-Auguste {Renoir}
+
+Though he is not Fragonard, this artist painted a woman in a blue and white dress timidly stepping on the
+ title object in his painting The Swing. He painted a woman in a striped dress in front of a man peering
+ through opera glasses in his painting of a theater box. This artist painted a red background behind a pair of
+ sisters dressed in the title colors in his Pink and Blue. One painting by this artist shows a woman in a blue
+ and yellow striped dress being leaned over by another woman at a party, and in another painting this artist
+ shows a female figure attempting to kiss a small dog as three different people wear yellow straw hats. For
+ 10 points, name this artist of Dance at the Moulin de la Galette and Luncheon of the Boating Party.
+
+----
+num: 8
+category: Geography
+difficulty: HS
+fixed: 1
+seen: 719
+answer: Maine
+
+This state retained control of Seavey’s Island in a 2001 Supreme Court case contesting its border with its
+ southern neighbor at the Piscataqua River. The first transatlantic balloon crossing was launched from its
+ city of Presque Isle. Much of this state is watered by the Penobscot River, which becomes navigable after
+ running past the city of Bangor. The “Hundred-Mile Wilderness” in this state culminates in Mount
+ Katahdin, the northern terminus of the Appalachian Trail. For 10 points, name this state which was
+ partitioned entirely out of Massachusetts and which has cities named Portland and Augusta.
+
+----
+num: 9
+category: Literature
+difficulty: HS
+fixed: None
+seen: 441
+answer: Knut Hamsun
+
+This author wrote a travelogue about his journey through the Caucasus region in which he describes a
+ Jewish peddler who attempted to sell him a cheap watch. This author of In Wonderland included that
+ episode in his novel Vagabonds. He wrote about a writer named Johannes who is unable to marry the title
+ character after she marries a lieutenant named Otto, while in another work the protagonist shoots his dog
+ Aesop rather than give it to his lover Edvarda. This author wrote about Thomas Glahn in Pan and described
+ the peasants Isak and Inger in The Growth of the Soil. He wrote about an unnamed man who meets Ylajali
+ while suffering from the title affliction in a novel that ironically ends with him refusing a free breakfast.
+ For 10 points, name this Norwegian author of Hunger.
+
+----
+num: 10
+category: History
+difficulty: HS
+fixed: 1
+seen: 408
+answer: {assassination} of {Robert} Francis {Kennedy} [or {assassination} of {RFK}; accept equivalent
+
+Iconic photographs of this event were taken by Boris Yaro and Bill Epperidge, one of which showed
+ Juan Romero shaking the target’s hand. Irwin Stroll and Paul Schrade were wounded in this event. George
+ Plimpton, Rafer Johnson, and Rosey Grier subdued the instigator of this event. Bill Barry disarmed the
+ aggressor in this event, who is currently serving time in Pleasant Valley State Prison and was believed to be
+ motivated by anti-Zionism. The victim had just spoken after a victory in the California primary. This event
+ took place in the kitchen of the Ambassador Hotel. For 10 points, name this event in which Sirhan Sirhan
+ killed a Senator and brother of an assassinated president.
+
+----
+num: 11
+category: Social Science
+difficulty: HS
+fixed: -1
+seen: 380
+answer: {bystander} effect [prompt on {Kitty Genovese effect} before the name is read]
+
+One test of this phenomenon found participants would impulsively touch people holding a live electric
+ wire. In addition to Clark and Word's study about ambiguity's role in promoting it, one test had participants
+ fill out a survey while pumping the room full of smoke, while another test had subjects listen to a recording
+ of a woman screaming. It was first outlined by Bibb Latane and John Darley in an article that argued it may
+ result from the "diffusion of responsibility." For 10 points, name this psychological effect exemplified by
+ the murder of Kitty Genovese that posits people in a large group are less likely to help someone during a
+ crisis.
+
+----
+num: 12
+category: Fine Arts
+difficulty: HS
+fixed: 57
+seen: 499
+answer: The {Carnival} of the Animals [or Le {Carnaval des} animaux]
+
+In one section of this work, the double bass plays a slowed-down, ponderous version of the "Dance of
+ the Sylphs" from The Damnation of Faust. Two pianists play rapid scales up and down the piano in its third
+ section. An offstage clarinet repeats the ostinato C, A flat in a section of this work in order to imitate a
+ being "from the depths of the woods." It instructs performers to deliberately hit wrong notes after playing
+ simple scales in its section "Pianists," and mocks its composer by using a xylophone to quote sections of 
+Danse Macabre in its section "Fossils." Featuring the movements "Aviary," "Aquarium," and "The Swan,"
+ for 10 points, name this "Grand Zoological Fantasy" by Camille Saint-Saens.
+
+----
+num: 13
+category: History
+difficulty: HS
+fixed: 57
+seen: 419
+answer: {Hull} House
+
+The story that a horned baby of the Devil appeared at this place due to the violent actions of a woman's
+ husband was told in the book The Long Road of Woman's Memory. It began as a kindergarten after its
+ building was rented from Helen Culver for sixty dollars a month. Doctors who lived here included Grace
+ Meigs and Alice Hamilton. This location was based on an institution that provided a place for college
+ students in the summer to gain work experience called Toynbee Hall. It expanded to include the first public
+ baths and playground in its city and advocated social welfare issues to the state legislature. For 10 points,
+ name this Chicago house of Ellen Gates Starr and Jane Addams.
+
+----
+num: 14
+category: Science
+difficulty: HS
+fixed: 57
+seen: 483
+answer: {phenolphthalein}
+
+Ferroxyl solution is prepared by adding sodium chloride, potassium hexacyanoferranate, and this
+ substance to water, and when bonded to two extra hydrogen atoms it contains a benzene ring fused to a
+ gamma-lactone. Fluorescin has a higher quantum yield than this molecule due to an additional bridging
+ oxygen, and its most notable property occurs when one of its benzene rings twists out of plane with respect
+ to the other two. When mixed with bromothymol blue, thymol blue, and methyl red, it forms a universal
+ indicator. For 10 points, name this chemical which turns pink in basic solutions and orange in acidic ones.
+
+----
+num: 15
+category: Philosophy
+difficulty: HS
+fixed: 57
+seen: 523
+answer: Moses {Maimonides} [or {Rambam}]
+
+This thinker defended his belief in the world-to-come in his Treatise on Resurrection. In another work
+ this man used the example of a winged elephant to demonstrate how belief in a corporeal god is tantamount
+ to idolatry. This thinker propounded thirteen principles of faith and, though he is not Muslim, this man's
+ most famous work is written in Arabic. In that work, this man attempts to reconcile Aristotelian philosophy
+ with Judaism. For 10 points, name this Jewish philosopher who wrote commentaries on the Mishnah in
+ addition to his Guide for the Perplexed.
+
+----
+num: 16
+category: Literature
+difficulty: HS
+fixed: 57
+seen: 446
+answer: Wilfred of {Ivanhoe}
+
+This character convinces the swineherd Gurth to open a gate by whispering a few unknown words into
+ his ear. That incident occurs while he is disguised as a palmer and helping out Isaac of York. He enters a
+ tournament under the name “Desdichado,” is captured by Maurice de Bracy, and fights a duel with the
+ Templar Brian de Bois-Guilbert. This son of Cedric the Saxon befriends the outlaw Robin Hood and the
+ disguised Richard the Lionhearted. He rescues the Jewess Rebecca from burning at the stake but ultimately
+ marries Lady Rowena. For 10 points, name this title character of a Sir Walter Scott novel.
+
+----
+num: 17
+category: Mythology
+difficulty: HS
+fixed: 1
+seen: 788
+answer: Sleipnir
+
+The kenning for Baldr’s funerary boat contains the name of this figure, whose descendent Grani is a
+ companion of the hero Sigurd. In the Prose Edda, Gangleri is told how Thor bet Hrungnir that this figure
+ was superior to Gullfaxi. He is born after the gods wager the sun, the moon, and Freyja against a builder’s
+ ability to build Valhalla without another man’s help. The builder makes incredible progress with his animal
+ helper Svadilfari, so Loki seduces Svadilfari while disguised as a mare, later giving birth to this figure. For
+ 10 points, name this eight-legged horse of Odin.
+
+----
+num: 18
+category: Science
+difficulty: HS
+fixed: -1
+seen: 487
+answer: {bivalves} [or {bivalva}; or {pelecypoda}; prompt on “{mollusks}” or “{mollusca}”]
+
+Some members of this class remain stationary with the help of byssal threads. The species Crassostrea
+ gigas in this class introduced the parasite MSX to a closely related species. When this class of animals first
+ evolved, they outcompeted and almost entirely replaced a phylum of similar-looking animals called
+ brachiopods. These animals often feed by using elongated siphons to filter water. These animals have an
+ open circulatory system with hemolymph, and like other members of their phylum they move using a single
+ fleshy foot. Unique parts of their anatomy include a hinge, and they are bilaterally symmetrical. For 10
+ points, name this class of mollusks with two shells, which includes clams and oysters.
+
+----
+num: 19
+category: Literature
+difficulty: HS
+fixed: 57
+seen: 446
+answer: Aldous {Huxley}
+
+This man related finding himself standing in “Ten million emblems and mementos of Modern Love”
+ during a beachside stroll with Thomas Mann in his essay on sanitation engineering, “Hyperion to a Satyr.”
+ He represented D. H. Lawrence as Bill Hamblin in The World of Light, and earlier represented him as the
+ painter Mark Rampion in a work also featuring excerpts from the journal of Philip Quarles. In another
+ work, this man described the sport of Centrifugal Bumble-Puppy, the Bokanovsky process, and a caste
+ system of Alphas through Epsilons. For 10 points, name this author of Point Counter Point who also
+ envisioned the Malthusian Drill in his Brave New World.
+
+----
+num: 20
+category: History
+difficulty: HS
+fixed: 57
+seen: 416
+answer: Mark {Antony} [or {Marcus} Antonius]
+
+According to Pliny, this man lost a bet when his lover drank a pearl dissolved in a glass of vinegar. This
+ man violated sanctuary laws in ordering the death of Arsinoe IV at the Temple of Artemis in Ephesus. He
+ paved the way for Herod the Great’s rule by killing Antigonus the Hasmonean after his disastrous attempt
+ to recapture Crassus’s eagles from the Parthians. This target of Cicero’s Philippics lost a naval battle to
+ Agrippa and defeated Cassius at Philippi. With Lepidus and Octavius, he formed the second triumvirate.
+ For 10 points, name this loser at Actium, the friend of Julius Caesar and lover of Cleopatra
+
+----
+num: 21
+category: Literature
+difficulty: HS
+fixed: 1
+seen: 441
+answer: Sylvia {Plath}
+
+One of this poet’s speakers claims “I rocked shut as a seashell” so they "had to pick the worms off me
+ like sticky pearls.” This poet wrote a poem opening “Perfection is terrible, it cannot have children” while
+ another poem has an image of a “statue with one grey toe big as a Frisco seal and a head in the freakish
+ Atlantic.” The speaker asserts “I have done it again. One year in every ten I manage it” in a poem ending
+ with the line “I eat men like air.” This poet of “Munich Mannequins” and “Tulips” wrote a poem whose
+ speaker asserts, “There’s a stake in your fat black heart” before telling the title figure “you bastard, I’m
+ through.” For 10 points, name this wife of Ted Hughes who wrote “Lady Lazarus” and “Daddy.”
+
+----
+num: 22
+category: Science
+difficulty: HS
+fixed: 1
+seen: 487
+answer: {Electron transport} chain [prompt on {oxidative phosphorylation}; prompt on {aerobic}
+
+The antibiotic rotenone inhibits one step of this process, whose final protein has an oligomycin
+ sensitive region. This process sees a protein containing an iron-sulfur cluster interact with a semiquinone
+ intermediate. Coenzyme Q is responsible for transferring substrates to the cytochrome bc1 complex in this
+ process, which then transfers those substrates to cytochrome c oxidase. Peter Mitchell showed that this
+ process operates by chemiosmosis, in which a proton gradient drives the rotation of ATP synthase. NADH
+ and FADH2 from the Krebs cycle feed into this process, which occurs on the inner membrane of the
+ mitochondria. For 10 points, name this final step of oxidative phosphorylation in which 32 ATP are
+ synthesized by moving namesake negatively charged particles from one complex to another.
+
+----
+num: 22
+category: Science
+difficulty: HS
+fixed: 1
+seen: 487
+answer: {Electron transport chain} [prompt on oxidative phosphorylation; prompt on aerobic
+
+The antibiotic rotenone inhibits one step of this process, whose final protein has an oligomycin
+ sensitive region. This process sees a protein containing an iron-sulfur cluster interact with a semiquinone
+ intermediate. Coenzyme Q is responsible for transferring substrates to the cytochrome bc1 complex in this
+ process, which then transfers those substrates to cytochrome c oxidase. Peter Mitchell showed that this
+ process operates by chemiosmosis, in which a proton gradient drives the rotation of ATP synthase. NADH
+ and FADH2 from the Krebs cycle feed into this process, which occurs on the inner membrane of the
+ mitochondria. For 10 points, name this final step of oxidative phosphorylation in which 32 ATP are
+ synthesized by moving namesake negatively charged particles from one complex to another.
+
+----
+num: 23
+category: History
+difficulty: HS
+fixed: 1
+seen: 422
+answer: Lucius Cornelius {Sulla} Felix
+
+In one campaign, this man convinced King Bocchus I of Mauretania to betray a former ally. In The
+ Prince, Machiavelli describes this man as being half fox and half lion. This man is credited as being the
+ primary brains behind the victory of the Cimbri tribe at the Battle of Vercellae. Sulpicius Rufus’s
+ opposition to the appointment of this man to a high post, along with the ensuing chaos, led this man to lead
+ a march on his capital. After a brief skirmish with Dorylaeus, this man defeated Archelaus at the Battle of
+ Orchomenus. Along with Crassus, this man defeated Samnite forces at the Battle of Colline Gate. This man
+ defeated the forces of the Kingdom of Pontus led by Mithradates VI and earlier captured King Jugurtha of
+ Numidia while working under Gaius Marius. For 10 points, name this Roman dictator who ruled in 81 BC.
+
+----
+num: 23
+category: History
+difficulty: HS
+fixed: 1
+seen: 412
+answer: Lucius Cornelius {Sulla} Felix
+
+In one campaign, this man convinced King Bocchus I of Mauretania to betray a former ally. In The
+ Prince, Machiavelli describes this man as being half fox and half lion. This man is credited as being the
+ primary brains behind the victory of the Cimbri tribe at the Battle of Vercellae. Sulpicius Rufus’s
+ opposition to the appointment of this man to a high post, along with the ensuing chaos, led this man to lead
+ a march on his capital. After a brief skirmish with Dorylaeus, this man defeated Archelaus at the Battle of
+ Orchomenus. Along with Crassus, this man defeated Samnite forces at the Battle of Colline Gate. This man
+ defeated the forces of the Kingdom of Pontus led by Mithradates VI and earlier captured King Jugurtha of
+ Numidia while working under Gaius Marius. For 10 points, name this Roman dictator who ruled in 81 BC.

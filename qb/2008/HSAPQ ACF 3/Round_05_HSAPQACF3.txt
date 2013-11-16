@@ -1,0 +1,134 @@
+####
+tournament: HSAPQ ACF 3
+round: Round_05_HSAPQACF3.pdf
+year: 2008
+####
+
+num: 1
+category: Fine Arts
+difficulty: HS
+fixed: 57
+seen: 495
+answer: {Florence} Cathedral [accept {Duomo} of {Florence}; or {Basilica di Santa Maria del Fiore}]
+
+A mosaic of the Annunciation by Ghirlandaio is in this building, as is the Assumption of the Virgin of Nanni di Banco and Tino di Camaino's Tomb of Bishop Orso. Its construction was begun by Arnolfo di Cambio, and Federico Zuccari and Giorgio Vasari created its fresco of The Last Judgment. Giotto designed this building's accompanying (*) bell tower, and a nearby baptistry features doors decorated by Andrea Pisano and Lorenzo Ghiberti as The Gates of Paradise. For 10 points, name this cathedral featuring a gigantic dome designed by Filippo Brunelleschi.
+
+----
+num: 2
+category: Fine Arts
+difficulty: HS
+fixed: 1
+seen: 498
+answer: Richard {Wagner}
+
+This man's son argued for the legalization of suicide in his opera Der Friedensengel and tackled abortion in Der Kobold. One of his own operas sees the dueling arias “Blick' ich umher” and “Dir Göttin der Liebe”; another song contest by this man sees Sixtus Beckmesser self-destruct while trying to perform the “Prize Song.” (*) Elsa and a knight celebrate their marriage in this man's oft-performed Wedding March. For 10 points, name this composer of Tannhäuser, The Mastersingers of Nuremberg, Lohengrin, and four operas comprising his Ring Cycle.
+
+----
+num: 3
+category: History
+difficulty: HS
+fixed: 1
+seen: 416
+answer: {Louis IX} [or {Saint Louis}]
+
+This ruler erected the Sainte-Chapelle to house relics he bought off of Baldwin II. The revolts of Pierre Mauclerc and Duke Raymond of Toulouse were suppressed early in his reign, and, later, he unsuccessfully tried to settle a controversy between Henry III and the English barons. He was succeeded by Philip III and captured at (*) al-Mansurah in 1250. His mother, Blanche of Castile, served as his regent. For 10 points, name this French king who took part in the Seventh and Eighth Crusades, canonized in 1297.
+
+----
+num: 4
+category: History
+difficulty: HS
+fixed: 57
+seen: 415
+answer: Election of {1948}
+
+One candidate in this election declared “You can't shoot an idea with a gun” in the first ever radio debate between candidates. In this election, Minnesotan Harold Statten had an early lead in the Republican primary but lost to Robert Taft in Ohio. The Democrats chose Alben (*) Barkley as VP but suffered a split when a civil rights platform caused Strom Thurmond to storm out of the convention. For 10 points, name this election that saw the continued domination of the Democrats, despite a Chicago Tribune headline claiming “Dewey Defeats Truman.”
+
+----
+num: 5
+category: Fine Arts
+difficulty: HS
+fixed: 57
+seen: 498
+answer: Edward {Hopper}
+
+This artist painted a house with nine columns from an angle that obscures the bottom with brown- orange metal strips, in a work titled House by the Railroad. A barber pole and a fire hydrant cast long shadows in front of a row of shops in his Early Sunday Morning, and two women sit at a table with a blue bowl and red teapot with a visible sign for (*) the title food of his Chop Suey. This man also advertised five-cent Phillies in a painting of two men and a red-haired woman sitting at a diner. For 10 points, name this painter of Nighthawks.
+
+----
+num: 6
+category: Science
+difficulty: HS
+fixed: 57
+seen: 491
+answer: {faults} [or {faultlines}; prompt on {transverse plate boundaries}]
+
+Lines of springs are characteristic of these objects, and the classic theory of their formation is named after Anderson. One type of these objects is divided into “leaky” and “transpressional” types, and in a “reverse” one, the hade is toward the upthrow side. A “reverse” one is almost always a (*) dip-slip type, since in the strike-slip type the walls move horizontally rather than vertically. For 10 points, name these “cracks” in the Earth's crust where one part of the crust moves against another part, a prominent example of which is the San Andreas.
+
+----
+num: 7
+category: Literature
+difficulty: HS
+fixed: 1
+seen: 445
+answer: James Augustine Aloysius {Joyce}
+
+In a play by this man, Bertha turns to Robert Hand after feeling neglected by the writer Richard Rowan. One of his stories focuses on the death of the priest Father Flynn, and another of his stories concerns a party hosted by Julia and Kate Morkan at which Greta reveals her love for the (*) dead Michael Furey. In addition to that story about Gabriel Conroy, he wrote a novel which takes place on June 16, 1904, and follows Leopold Bloom's journey through Dublin. For 10 points, name this author of Exiles, Dubliners, and Ulysses.
+
+----
+num: 8
+category: Science
+difficulty: HS
+fixed: 1
+seen: 493
+answer: Max Karl Ernst Ludwig {Planck}
+
+This scientist lends his name to a theory of dilute colloidal solutions. Vacuum fluctuations at a length scale named for him result in quantum foam. He sought to overcome the deficiencies of the Rayleigh-Jeans law and Wien's law to develop a universal law governing the (*) quantized emission of radiation from a perfect emitter. For 10 points, name this individual who developed a law relating blackbody radiation to temperature, and whose namesake constant, symbolized h, relates the energy of a photon to its frequency.
+
+----
+num: 9
+category: Geography
+difficulty: HS
+fixed: 1
+seen: 719
+answer: {Missouri} River
+
+This river passes through Ponca State Park, and it ultimately begins at Brower's Spring. The Pick- Sloan program developed this river, resulting in the creation of Lake Sharpe behind Big Bend Dam, as well as Fort Peck Dam. It forms near Three Forks where the (*) Gallatin, Jefferson, and Madison rivers meet, and its tributaries include the Yellowstone and Platte rivers. It passes by the state capitals of Bismarck and Pierre after beginning in Montana. For 10 points, name this river that flows past St. Louis before entering the Mississippi in its namesake state.
+
+----
+num: 10
+category: Literature
+difficulty: HS
+fixed: -1
+seen: 442
+answer: {Invisible Man} [do not accept “The {Invisible Man}”]
+
+The title character of this novel dreams that his grandfather makes him look inside a calfskin briefcase, revealing a slur-containing note. Dr. Bledsoe expels the protagonist after he shows Mr. Norton the “seamy” campus. The title character imitates Rinehart and fights Ras the (*) Destroyer after he joins the Brotherhood, and he earlier worked at Liberty Paints. The first chapter of this novel details how black students fight and pick up coins on an electrified mat in the “Battle Royal.” For 10 points, name this novel about an identity-less narrator, by Ralph Ellison.
+
+----
+num: 11
+category: Science
+difficulty: HS
+fixed: 57
+seen: 478
+answer: {ideal} gas equation or {law}
+
+Deviations from this equation can be found by plotting the compressibility factor against pressure; the virial expansion is often used to measure those deviations. The Peng-Robinson equation is a good alternative to this equation at low pressures and the Redlich-Kwong equation is a better alternative at high pressures. A more common alternative is an equation that introduces parameters (*) a and b, the van der Waals equation. For 10 points, name this equation of state describing the behavior of a sufficiently dilute gas, which states that PV equals nRT.
+
+----
+num: 12
+category: Religion
+difficulty: HS
+fixed: 1
+seen: 439
+answer: {John} the {Baptist} [prompt on {John}]
+
+In the Qur'an, he is referred to as the prophet Yahyá and is imprisoned in the citadel Machaerus prior to his death. An angel strikes Zacharias dumb for doubting that this figure will be born. His condemnation of the marriage between Herodias and her brother-in-law Herod Antipas results in his (*) death at the behest of Herodias' daughter Salome. He subsists off locusts and wild honey, and, in Isaiah, he is described as “a voice that crieth out in the wilderness.” For 10 points, name this son of Elizabeth who blessed Jesus by immersing him in the River Jordan.
+
+----
+num: 13
+category: Social Science
+difficulty: HS
+fixed: 1
+seen: 387
+answer: personality
+
+One type of this was measured on the "F-scale" in a book which found that "anti-intraception," superstition, and obsession with sex and power comprised its "authoritarian" type. Histrionic, dependent, and schizoid are among the types of disorders that can affect it. Tests which attempt to categorize this include the TAT and the Minnesota-developed (*) MMPI. Another test divides it into sixteen “types” based on such qualities as "judgment" and "introversion." For 10 points, a Myers-Briggs test evaluates what thing, the sum of an individual's behavioral characteristics?

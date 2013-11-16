@@ -1,0 +1,344 @@
+####
+tournament: HSAPQ 4Q2
+round: 4q2-10.pdf
+year: 2009
+####
+
+num: 1
+category: Science
+difficulty: HS
+fixed: 57
+seen: 488
+answer: {six} [accept {6}]
+
+This is the number of ways to place two indistinguishable balls into three bins. This is the number of size two subsets of a set of four elements. Equivalently, this number is the coefficient of "x squared times y squared" in the expansion of "quantity x plus y to the fourth power." This number is the number of ways to order three distinct elements. This number is equal to four choose two, and it gives the number of possible meal combinations if you have two choices of entrée and three choices of dessert. For 10 points, name this number that is equal to three factorial.
+
+----
+num: 2
+category: Literature
+difficulty: HS
+fixed: 57
+seen: 440
+answer: {Atticus} Finch [prompt on Finch]
+
+This character has a sister named Alexandra and a brother named Jack, and his wife died of a heart attack when his daughter was two years old. This man shoots a dog named Tim Johnson, living up to his former nickname of "one-shot," and he employs a cook named Calpurnia. This man claims that the withered left arm of one character means that he could not have struck a woman, but he cannot prevent Tom Robinson from being convicted of the rape of Mayella Ewell. For 10 points, name this father of Jem and Scout in Harper Lee's novel To Kill a Mockingbird.
+
+----
+num: 3
+category: Science
+difficulty: HS
+fixed: 57
+seen: 484
+answer: {ruby} [accept {corundum} before mentioned]
+
+This precious stone typically displays needle-like intrusions of rutile, and like common mimicks of diamond, this mineral is produced in large scales by the Verneuil process. Synthetic rods of this precious stone are used as a gain medium in some lasers. Its characteristic color comes from chromium, and its most valuable shade is called pidgeon's blood. For 10 points, name this mineral of Mohs hardness nine, the red form of corundum.
+
+----
+num: 4
+category: History
+difficulty: HS
+fixed: -1
+seen: 417
+answer: {Hundred Years} War [prompt on {Armagnac}-{Burgundian Civil War} until "{Mello}"]
+
+During this larger conflict, the rebellion of Simon the Cutler, also called the Cabochien Revolt, occurred. Another uprising during a lapse in this war was led by William Cale. The treaties of Bretigny and Troyes were temporary armistices during this war. The death of John Talbot at the Battle of Castillon is considered the ending point of this war. The aforementioned Jacquerie occurred during this conflict, as did the uprising of Owen Glendower and Henry Hotspur against Henry V. For 10 points, name this medieval conflict between England and France.
+
+----
+num: 5
+category: Religion
+difficulty: HS
+fixed: -1
+seen: 448
+answer: Isaiah [or Isaias; or Yesha'yahu]
+
+The book named for this man includes the statement that "Assyria [is] the rod of my anger," referring to Tiglath-Pileser III's invasion. Along with Micah, he discussed how nations will beat their swords into plowshares and not take up arms against each other. The Septuagint translation of his prophesy claims that a virgin will "conceive and bear a son" who was called Immanuel. For 10 points, name this prophet who warned Israel that its immorality would lead to an invasion, whose namesake book is found between the Song of Songs and Jeremiah.
+
+----
+num: 6
+category: Literature
+difficulty: HS
+fixed: 57
+seen: 447
+answer: A {Doll's House}
+
+Before the action of this play occurs, one of its characters had forged her father's signature to borrow money to travel to Italy. During this play, Dr. Rank confesses his love for the protagonist, who is blackmailed by the man who loaned the money, Nils Krogstad. In this play's final act, the protagonist leaves her husband Torvald. For 10 points, name this play in which Nora Helmer compares her life to a child's toy, written by Henrik Ibsen.
+
+----
+num: 7
+category: Science
+difficulty: HS
+fixed: 57
+seen: 493
+answer: {searching}
+
+This procedure is accomplished in square-root-of-n time using base-two-log-n space on a quantum computer via Grover's algorithm. Varieties of this algorithm on graphs include best-first, breadth-first, and depth-first. A great improvement on naïve methods for doing this assumes that the list is sorted and eliminates half the list on each pass, the "binary" algorithm. For 10 points, name this class of algorithms, the simplest of which simply reads through a list from top to bottom and compares each element to the target.
+
+----
+num: 8
+category: History
+difficulty: HS
+fixed: 57
+seen: 420
+answer: Cambodia
+
+This country was the location of the prison S-21, the site of over 15,000 executions, and Hun Sen was elected prime minister here in 1985. In this nation, the government of Lon Nol was overthrown in 1975, and this country invaded by Vietnam in 1979. For 10 points, name this Southeast Asian nation that was the scene of the "Killing Fields" under the brutal dictatorship of the Khmer Rouge and Pol Pot.
+
+----
+num: 9
+category: Geography
+difficulty: HS
+fixed: 1
+seen: 711
+answer: Commonwealth of {Australia}
+
+This nation's capital city was designed by Walter Burley Griffin and Marion Mahoney Griffin. The Arafura Sea is directly north of this country's Gulf of Carpenteria. The south of this country is home to the Nullarbor Plain, which is north of its "Great Bight." Hobart and Darwin are the capitals of two of its states. Deserts in this country include the Gibson, Great Sandy, and Great Victoria. A giant sandstone formation in this country is called Uluru by its aboriginal inhabitants, and is also known as Ayers Rock. For 10 points, name this country whose cities include Perth, Canberra, and Sydney.
+
+----
+num: 10
+category: Literature
+difficulty: HS
+fixed: 57
+seen: 438
+answer: Ralph Waldo {Emerson}
+
+One of this author's poems includes the line "I am the doubter and the doubt." In addition to "Merlin" and "Brahma," this man wrote, "Unmeasure still my Shakespeare sits lone as the blessed Jew." This author stated "beauty is its own excuse for Being" in his poem "The Rhodora." He used the metaphor of the transparent eyeball in his essay Nature. For 10 points, name this author of the essay The Over Soul and the lecture The American Scholar who was also a leader of the American transcendentalist movement.
+
+----
+num: 11
+category: History
+difficulty: HS
+fixed: 1
+seen: 417
+answer: Joseph Raymond {McCarthy}
+
+This politician lost many supporters because of his rough treatment of General Ralph Zwicker (ZWI-kur). The Hennings Report investigated this politician. This politician's reputation plummeted after Joseph Welch asked him, "Have you no sense of decency?" Roy Cohn worked alongside this politician. This man accused the State Department of harboring a number of Communists. For 10 points, name this Wisconsin Senator who led the post-World War II Red Scare.
+
+----
+num: 12
+category: Fine Arts
+difficulty: HS
+fixed: 1
+seen: 499
+answer: Dmitri Dmitriyevich {Shostakovich}
+
+A piano opens with a tone row in octaves in this composer's Violin Sonata. This composer set Yevtushenko's poetry to the five movements of his Thirteenth Symphony, which commemorates the massacre of the Jews at Babi Yar. Critics accused this composer of making his ninth symphony too light-hearted. A march-like ostinato forms the invasion theme of this composer's seventh symphony, written around the Nazi attack of Russia. For 10 points, name this Soviet composer who feuded with Stalin and wrote the Leningrad Symphony.
+
+----
+num: 13
+category: History
+difficulty: HS
+fixed: 1
+seen: 413
+answer: {Zulu}
+
+These peoples were issued an ultimatum by Henry Bartle Frere, leading to a conflict with colonialists. A militaristic rise amongst these peoples was known as the "Mfecane," (mm-feh-CAN-eh) or "Crushing," and arose near the Tugela (too-GAY-lah) River. These peoples perfected a military formation known as the "Horns of the Buffalo." That formation proved helpful under this group's leader Cetshwayo in a conflict against the British that included battles like Rorke's Drift, Ulundi, and Isandlwana. For 10 points, name these South African peoples who became feared warriors under their ruler Shaka.
+
+----
+num: 13
+category: History
+difficulty: HS
+fixed: -1
+seen: 424
+answer: {Zulu}
+
+These peoples were issued an ultimatum by Henry Bartle Frere, leading to a conflict with colonialists. A militaristic rise amongst these peoples was known as the "Mfecane," (mm-feh-CAN-eh) or "Crushing," and arose near the Tugela (too-GAY-lah) River. These peoples perfected a military formation known as the "Horns of the Buffalo." That formation proved helpful under this group's leader Cetshwayo in a conflict against the British that included battles like Rorke's Drift, Ulundi, and Isandlwana. For 10 points, name these South African peoples who became feared warriors under their ruler Shaka.
+
+----
+num: 14
+category: Literature
+difficulty: HS
+fixed: 57
+seen: 447
+answer: John {Milton}
+
+This author wrote about a son of Bachus and Circe who attempts to kidnap The Lady in his masque Comus. He penned the phrase "Look homeward Angel now" in his elegy on the death of Edward King. He wrote that "books are not absolutely dead things" in his pamphlet advocating free speech, Areopagitica (AIR-ee-oh-pah-JIH-tih-cah). This author is best known for a work that details the construction of Pandemonium and the tempting of Eve. For 10 points, name this British author who wrote about the fall of the rebel angels in his epic poem Paradise Lost.
+
+----
+num: 15
+category: Trash
+difficulty: HS
+fixed: 1
+seen: 1029
+answer: The {Hangover}
+
+In this film, Sid Garner gives his daughter's fiancé a Mercedes to drive for a weekend. One character in this movie reads a prepared speech about how he is in a pack of lone wolves on top of his hotel. In this film, Ken Jeong plays the gangster Leslie Chow, who is found naked in the trunk of a car. Mike Tyson's tiger is stolen by the central group, which includes the dentist Stu and the teacher Phil. This film revolves around Doug's disappearance during his bachelor party. For 10 points, name this movie in which characters played by Justin Burtha, Bradley Cooper, and Zack Galfinakis all travel to Las Vegas.
+
+----
+num: 16
+category: Fine Arts
+difficulty: HS
+fixed: 1
+seen: 491
+answer: Edward Benjamin {Britten}
+
+This composer set Gerald Bullett's "The English Galaxy of Shorter Poems" for voice and harp in his Ceremony of Carols. In another work by this composer, variations A through M on a theme are each played by a different instrument of the orchestra, and each variation is based off a theme from Purcell's Abedalzar. Another work by this composer sets Wilfred Owen to music. For 10 points, name this British composer of War Requiem and A Young Person's Guide to the Orchestra.
+
+----
+num: 17
+category: Science
+difficulty: HS
+fixed: 57
+seen: 478
+answer: {adrenal} glands
+
+One portion of this gland is divided into the zona reticularis (ZONE-uh re-tick-you-LAIR-us), zona fasciculata (ZONE-uh fuh-SICK-you-LAW-taw), and zona glomerulosa (ZONE-uh glo-mair-you-LO-suh). That portion produces DHEA, aldosterone, and the stress hormone, cortisol. This gland's medulla produces a compound which is used to treat Parkinson's disease, dopamine. For 10 points, name this pair of endocrine glands which secrete epinephrine, which is named for its position atop the kidneys.
+
+----
+num: 18
+category: Literature
+difficulty: HS
+fixed: 1
+seen: 445
+answer: Alexander {Pope}
+
+This poet asked "Who breaks a butterfly upon a wheel?" in a poem defending his use of satire. This author wrote a poem in which the goddess Dulness crowns Colley Cibber as the King of Dunces. This author of "Epistle to Dr. Arbuthnot" wrote "A little learning is a dangerous thing" and "fools rush in where angels fear to tread" in his An Essay on Criticism. For 10 points, name this seventeenth-century British poet of The Dunciad and The Rape of the Lock.
+
+----
+num: 19
+category: Science
+difficulty: HS
+fixed: 57
+seen: 487
+answer: {HTML} [or {Hypertext} Markup Language; prompt on {web pages}]
+
+Recent changes proposed to this by Whatwg include canvas and article elements. It comes in strict, traditional, and frameset versions. Common attributes include name, id, and href. Based on work done by Tim Berners-Lee, official specifications are published by the W3C. Components created from this can be manipulated by DOM, styles are applied via CSS, and dynamic interaction through javascript. For ten points identify this markup language used to write web pages.
+
+----
+num: 20
+category: History
+difficulty: HS
+fixed: 1
+seen: 421
+answer: {Peter} the {Great} [or {Peter} I of Russia; prompt on {Peter}]
+
+This man traveled incognito as part of his country's Grand Embassy to the West, during which he learned shipbuilding skills in the Netherlands. This ruler was forced to rule with his half-brother Ivan V for a time due to the influence of the streltsy. This man enforced a beard tax on noblemen in his country. This ruler found military success in the Great Northern War, which allowed him to build his "Window to the West" on the Neva. For 10 points, name this westernizing tsar of Russia who was responsible for building the city of St. Petersburg.
+
+----
+num: 22
+category: Science
+difficulty: HS
+fixed: 1
+seen: 488
+answer: electronegativity
+
+This quantity is modeled for different groups substituted on a benzene ring via the Hammett (HAM-met) equation. One measure for this quantity takes the average energy of a free atom's valence electrons and is named for Allen. A simple measure for this quantity is equal to the mean of first ionization energy and electron affinity, named for Mulliken (MULL-ih-ken), though it is more often measured on the Pauling scale, which gives fluorine a value of 3.98. For 10 points, give this quantity that represents the degree to which an atom or group attracts electron density.
+
+----
+num: 23
+category: History
+difficulty: HS
+fixed: 57
+seen: 413
+answer: Andrew {Johnson}
+
+This man served as military governor of Tennessee during the Civil War, after having served as that state's governor for two terms in the 1850s. This man was the only senator from the South who did not leave after the Confederacy's secession, which eventually led to this man succeeding Hannibal Hamlin (HAM-lin) in another post. This man's removal of Edwin Stanton violated the Tenure of Office Act, leading to this man being the first impeached president. For 10 points, name this man who became president after the assassination of Abraham Lincoln.
+
+----
+num: 24
+category: Science
+difficulty: HS
+fixed: 1
+seen: 491
+answer: {reflection}
+
+The Lambertian model for this phenomenon applies to its diffuse form. The statement that the angle of incidence equals the angle of this phenomenon holds for the specular form of this process. At an angle greater than the critical angle for an interface, the total internal form of this occurs. For 10 points, name this phenomenon in which a wavefront approaches an interface and returns to the same medium, such as when light hits a mirror.
+
+----
+num: 25
+category: History
+difficulty: HS
+fixed: 1
+seen: 421
+answer: {1896} United States Presidential Election
+
+Due to support from two separate parties, one candidate in this election had both Thomas E. Watson and Arthur Sewall as running mates. The winner in this election employed campaign manager Mark Hanna. That winner of this election successfully ran a "front porch campaign," opting not to travel. The Democratic nominee argued against about putting a "crown of thorns" on the "brow of labor" in a speech supporting free silver, the Cross of Gold speech. For 10 points, name this election in which William Jennings Bryan lost to William McKinley.
+
+----
+num: 26
+category: Mythology
+difficulty: HS
+fixed: None
+seen: 789
+answer: Romulus
+
+In some accounts, this man fathered Prima by Hersilia, which was the only married woman taken when this man led a group attempting to find wives among the Sabine Women. This man was attending a sacrifice when his great-uncle Numitor captured his brother. He later killed that brother after claiming to have seen twelve vultures, while his brother saw only six. For 10 points, name this legendary founder of Rome who killed his brother Remus.
+
+----
+num: 27
+category: Science
+difficulty: HS
+fixed: 57
+seen: 483
+answer: {Parkinson's} Disease
+
+Abnormal alpha-synuclein (AL-fuh-sin-NEW-clee-in) proteins known as Lewy ("Louie") bodies were first discovered in patients suffering from this disease. This disease is caused by damage to the pars compacta (PARZ kom-PACK-tuh) of the substantia nigra (sub-STAN-shuh NY-gruh), which is part of the basal ganglia. This disease results in less active dopamine pathways in the brain, which is why it is sometimes treated with L-dopa. For 10 points, name this neural disease that results in a loss of motor skill, often causing tremor and rigidity in muscles.
+
+----
+num: 28
+category: Fine Arts
+difficulty: HS
+fixed: 57
+seen: 493
+answer: Diego Velazquez
+
+This artist's portrait of Pope Innocent the Tenth was modified by the modern painter Francis Bacon. This artist painted the god Bacchus crowning a drunken reveler with laurels in his work Los borrachos. This man painted himself holding a palette and wearing a black robe with a cross on it in his another painting. That painting by this man also depicts a girl stepping on a dog, and a dwarf attending to the Infanta Margarita. For 10 points, name this court painter to Philip IV who painted Maids of Honor in his Las Meninas.
+
+----
+num: 28
+category: Fine Arts
+difficulty: HS
+fixed: 57
+seen: 488
+answer: Diego Velazquez
+
+This artist's portrait of Pope Innocent the Tenth was modified by the modern painter Francis Bacon. This artist painted the god Bacchus crowning a drunken reveler with laurels in his work Los borrachos. This man painted himself holding a palette and wearing a black robe with a cross on it in his another painting. That painting by this man also depicts a girl stepping on a dog, and a dwarf attending to the Infanta Margarita. For 10 points, name this court painter to Philip IV who painted Maids of Honor in his Las Meninas.
+
+----
+num: 29
+category: Literature
+difficulty: HS
+fixed: 1
+seen: 444
+answer: Edith {Wharton} [or Edith Newbold {Jones}]
+
+This author wrote about a woman who tries to romantically involve herself with Simon Rosedale and maintain a friendship with Lawrence Selden. This creator of Lily Bart in House of Mirth also wrote about Mattie Silver, who attempts to sled into a tree. In another of this woman's works, Countess Ellen Olenska tries to have a relationship with the husband of May Welland, a New York socialite. This author created Newland Archer and wrote the novel Ethan Frome. For 10 points, name this female American author who wrote The Age of Innocence.
+
+----
+num: 30
+category: Fine Arts
+difficulty: HS
+fixed: -1
+seen: 488
+answer: {Michelangelo} Buonarotti
+
+A large-scale painting by this man includes many paintings of stone-lined lunettes. Draperies and writhing snakes were later added to cover nude figures in this man's Last Judgement, which also includes a self-portrait of this artist on the flayed skin of St. Bartholomew. His most famous paintings include a depiction of the Libyan sibyl and a painting in which God touches the tip of Adam's finger to give him life. For 10 points, name this man who painted the Sistine Chapel ceiling.
+
+----
+num: 31
+category: Literature
+difficulty: HS
+fixed: 1
+seen: 449
+answer: Italy
+
+An author from this country wrote a work of twenty-seven chapters arranged in a three by three by three pattern, like one titled "The Infinite Lawn." Another work by that author from this country has sections about Olinda and Armilla; that work features Kublai Khan asking Marco Polo about places he has been, and eventually he is asked to describe his native Venice. For 10 points, name this home to the author of Palomar and Invisible Cities, surnamed Calvino.
+
+----
+num: 32
+category: Mythology
+difficulty: HS
+fixed: 57
+seen: 779
+answer: Aztecs
+
+One god of this civilization wore a smoking mirror in place of a leg. A hummingbird god told this civilization to build its capital city where they saw an eagle perched on a cactus and eating a snake. Another god from this civilization's pantheon sailed east on a raft after vowing to return, and was identified as a plumed serpent. Tezcatlipoca (TEZ-COT-lee-PO-kuh) and Huitzilopochtli (HWEET-zill-oh-POACHED-lee) were gods of, for 10 points, which civilization that misidentified the arrival of Hernan Cortes as the return of Quetzalcoatl (QUET-zahl-co-AH-tul)?
+
+----
+num: 33
+category: Literature
+difficulty: HS
+fixed: 57
+seen: 441
+answer: {Moby}-{Dick}; or, The Whale
+
+A man named Elijah asks this novel's protagonist if he has sold his soul to the devil to work for "Old Thunder." Characters in this novel include a Zoroastrian with a turban made from his own beard, a man named Fedallah. Two Quakers in this novel are named Peleg and Bildad. One character in this work nails a gold piece to the mast and throws his pipe overboard the Pequod and is eventually killed by the title creature. This novel begins, "Call me Ishmael." For 10 points, name this novel about Captain Ahab's obsession with a white whale, written by Herman Melville.

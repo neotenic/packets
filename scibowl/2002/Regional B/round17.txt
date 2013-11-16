@@ -1,0 +1,256 @@
+####
+tournament: Regional B
+round: round17.pdf
+year: 2002
+####
+
+num: 1
+category: Physics
+difficulty: HS
+seen: 25
+answer: Air,  Rubber,  Quartz,  Pure Water
+(Solution:  Air = 1.0,  Rubber = 2.8,   Quartz = 4.3,  Pure Water = 80.0)
+
+Order the following from the substance with the lowest dielectric constant to the highest: air, quartz, rubber, pure water
+
+----
+num: 2
+category: Chemistry
+difficulty: HS
+seen: 35
+answer: Avogadro’s Law
+
+The formula Vn = k, at constant T and P, is a representation ofwhat gas law?
+
+----
+num: 3
+category: Biology
+difficulty: HS
+seen: 40
+answer: Primary
+
+Of the primary, secondary, tertiary , and quaternary levels of protein structure, what level is most directly changed in an amino acid substitution?
+
+----
+num: 4
+category: Astronomy
+difficulty: HS
+fixed: -1
+seen: 56
+answer: Charon and Titan
+
+Which two of the following five ce lestial bodies are not moons of 
+Jupiter: Io, Charon, Ti tan, Ganymede, Callisto
+
+----
+num: 5
+category: Math
+difficulty: HS
+seen: 26
+answer: Tetrahedron,  Hexahedron,  Octahedron,  Dodecahedron,  
+Icosahedron  (Accept in Any Order)
+
+Using the Greek-derived names, what 5 polyhedra are often called platonic solids?
+
+----
+num: 6
+category: Earth Science
+difficulty: HS
+seen: 65
+answer: Rime Ice  (Accept:  Rime or Hoar Frost)
+
+What is the form of frost in which a thick coating of ice crystals builds upon leaves, twigs an d fences as is often seen at the tops of snow-covered mountain peaks?
+
+----
+num: 7
+category: General Science
+difficulty: HS
+fixed: -1
+seen: 33
+answer: Continental Shel F;  Tropical Rainforest;  Tundra;  Estuary
+
+Order the following 4 ecosystems from the highest percentage of the Earth’s surface to the lowest: tr opical rainforest; continental shelf; tundra; estuary
+
+----
+num: 9
+category: Physics
+difficulty: HS
+seen: 26
+answer: 27  Kilojoules
+(Solution:  Q = .5 X .9 X 60 = 27 Kilojoules)
+
+Assuming the specific heat of aluminum is 0.9 Joules per gram per degree, how much energy, in kilojoules rounded to the first decimal place, must be added to 500 grams of aluminum to raise its temperature from 10°C to 70°C?
+
+----
+num: 10
+category: Chemistry
+difficulty: HS
+seen: 34
+answer: 2090  (Accept:  + or – 2000 to 2100 J)
+(Solution:  Heat Released = (Mass)( ∆t)(4.18 J/gm°c);  = (10g)(50°c)(4.18j/g°c) = 2090 J)
+
+Calculate the heat energy, in J oules, released when 10 grams of a substance, which has the same specific heat as liquid water, cools from 100°C to 50°C:
+
+----
+num: 11
+category: Biology
+difficulty: HS
+seen: 41
+answer: Fumarate
+
+To what intermediate molecule of the citric acid cycle does succinate dehydrogenase oxidize succinate?
+
+----
+num: 12
+category: Astronomy
+difficulty: HS
+seen: 52
+answer: 40x  (Accept:  40 Times or 40)
+(Solution:  M = 12m / 0.3m = 40x)
+
+What is the total magnifying power of a refracting telescope that has an objective lens focal length of 12 meters and an eyepiece focal length of 0.3 meters?
+
+----
+num: 13
+category: Math
+difficulty: HS
+seen: 24
+answer: Y = 3
+
+Solve the following equation for y: y + (3y5−9)= 4 − (5y3−12)
+
+----
+num: 14
+category: Earth Science
+difficulty: HS
+seen: 65
+answer: Geostrophic Wind
+
+In meteorology, what is the name for the horizontal wind velocity for which the Coriolis acceleration exactly balances the horizontal pressure force?
+
+----
+num: 15
+category: General Science
+difficulty: HS
+fixed: -1
+seen: 33
+answer: China,  Germ Any,  Japan,  Russia
+
+Order the following 4 countries from the lowest to the highest in energy consumption per capita in 1999: Russia, China, Japan, Germany
+
+----
+num: 16
+category: Computer Science
+difficulty: HS
+fixed: -1
+seen: 65
+answer: Modulator-Demodulator
+
+What does the acronym MODEM stand for?
+
+----
+num: 17
+category: Physics
+difficulty: HS
+fixed: -1
+seen: 28
+answer: 240 and 360
+
+If a string vibrates at a fundamental frequency of 120 hertz, what are the frequencies of the first a nd second overtones respectively:
+
+----
+num: 18
+category: Chemistry
+difficulty: HS
+seen: 36
+answer: 1200  (Accept:  1.2 × 10^3 G)
+(Solution:  N = Pv/rt;  = (2atm)(480l)/0.08l.atm/k.mol)(300k);  = 40m;  40m×30g/m=1200g)
+
+A mixture of gases with an av erage molecular weight of 30grams per mole is contained in a 480 liter tank. What is the mass of the gases, in grams, if the temperature of the gas is 300K and the pr essure is 2 atmospheres:
+
+----
+num: 19
+category: Biology
+difficulty: HS
+seen: 40
+answer: Guard Cell
+
+Which one of the following 5 cells is NOT found in a typical angiosperm rhizome? parenchymal, collench ymal, meristematic, epidermal, guard cell
+
+----
+num: 20
+category: Math
+difficulty: HS
+seen: 25
+answer: 1
+2 Sin(2x+ 2) +C
+
+Calculate the following indefinite integral: I = ∫cos(2x+ 2)dx(read as: the integral of the cosi ne of the sum of 2x + 2, dx)
+
+----
+num: 21
+category: Earth Science
+difficulty: HS
+fixed: -1
+seen: 64
+answer: Holocene,  Pliocene ,  Oligocene,  Paleocene
+
+Order the following four geological epochs from the youngest to the oldest: Pliocene, Holocene, Oligocene, Paleocene
+
+----
+num: 22
+category: General Science
+difficulty: HS
+seen: 30
+answer: 4
+(Solution: 4 Color Map Theorem)
+
+What is the least number of colors for any map on a sphere so that regions with common boundari es are distinguished by different colors?
+
+----
+num: 23
+category: Physics
+difficulty: HS
+seen: 26
+answer: Polonium -209 and Francium-223
+
+Which ones, if any, of the followi ng 5 elements is/are radioactive? sulfur-32, polonium-209, lithium-7, deuterium, francium-223
+
+----
+num: 23
+category: Physics
+difficulty: HS
+fixed: -1
+seen: 24
+answer: Water,  Alum Inum,  Iron,  Tungsten
+
+Order the following 4 substances from the one that will show the 
+LEAST increase in temperature for each single calo rie added to one gram of that substance to the one that will show the MOST: aluminum, iron, tungsten, water
+
+----
+num: 24
+category: Chemistry
+difficulty: HS
+seen: 33
+answer: An Aldose
+
+A monosaccharide unit containing a ketone functional group is to a ketose as a monosaccharide unit containing a glucose is to what?
+
+----
+num: 24
+category: Chemistry
+difficulty: HS
+seen: 36
+answer: 24.6  (Accept:  24 to 25 Atm)
+(Solution:   п = Mrt;  = (1m)(0.08l.atm/k.mol)(300k);  = 24.6atm)
+
+What is the osmotic pressure, in atmospheres, of a 1.0 molar solution of sodium chloride in water at 300K?
+
+----
+num: 25
+category: Biology
+difficulty: HS
+seen: 40
+answer: Sternocleidomastoid Muscle
+
+What is the name for the strap-like muscle involved with head movements and abbreviated as the SCM?

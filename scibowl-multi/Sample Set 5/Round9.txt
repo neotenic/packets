@@ -1,0 +1,226 @@
+####
+tournament: Sample Set 5
+round: Round9.pdf
+####
+
+num: 1
+category: General Science
+difficulty: MS
+answer: Z) Semiconservative
+
+Which of the following terms characterizes DNA replication?
+W) Conservative
+X) Parallel
+Y) Dispersive
+Z) Semiconservative
+
+----
+num: 3
+category: Physical Science
+difficulty: MS
+answer: W) It Is Caused by the Influence of Nearby Charged Objects
+
+Which of the following BEST describes electrostatic induction?
+W) It is caused by the influence of nearby charged objects
+X) It occurs between two charged objects
+Y) It transfers electrons from a charged object to a neutral object
+Z) It produces voltage across a conductor by means of a magnetic field
+
+----
+num: 4
+category: Life Science
+difficulty: MS
+answer: Y) Calcium
+
+Which of the following elements is responsible for stimulating muscle contractions?
+W) Iron
+X) Potassium
+Y) Calcium
+Z) Phosphorus
+
+----
+num: 5
+category: General Science
+difficulty: MS
+answer: W) a Multinucleate Cell
+
+Which of the following characterizes a muscle fiber?
+W) A multinucleate cell
+X) A single nucleus cell
+Y) A bundle of single nucleus cells
+Z) Non-cellular tissue
+
+----
+num: 7
+category: Life Science
+difficulty: MS
+answer: W) Nucleolus
+
+Which of the following is the site where small and large subunits of ribosomes (read as: RY -boh-sōems) are assembled?
+W) Nucleolus (read as: n(y)uh-KLEE-oh-lus)
+X) Nucleoplasm
+Y) Golgi (read as: GOHL-jee) body
+Z) Nucleus
+
+----
+num: 7
+category: Life Science
+difficulty: MS
+answer: W) Joining the 3 Prime End of the Dna That Replaces the Primer 
+to the Rest of the Sequence
+
+
+Which of the following is the role of DNA ligase in DNA replication?
+W) Joining the 3 prime end of the DNA that replaces the primer to the rest of the sequence
+X) Unwinding the parental DNA strand
+Y) Relieving strain caused by over-winding the DNA strand
+Z) Synthesis of an RNA primer
+
+----
+num: 8
+category: Physical Science
+difficulty: MS
+answer: X) 92
+
+Which of the following is the low est atomic number above which all elements are synthetic?
+W) 90
+X) 92
+Y) 95
+Z) 100
+
+----
+num: 9
+category: Energy
+difficulty: MS
+answer: Z)  It Will Be Halved
+
+Assuming the potential difference remains constant, if the resistance of a circuit is doubled, which of the following will happen to the power dissipation?
+W) It will increase
+X) It will be zero
+Y) It will decrease by a fourth
+Z) It will be halved
+
+----
+num: 12
+category: Physical Science
+difficulty: MS
+answer: Z) Faster-Moving Fluid Causing Lower Pressure
+
+Which of the following demonstrates Bernoulli’s principle?
+W) Slower-moving fluid causing lower pressure
+X) Still fluid causing lower pressure
+Y) Faster-moving fluid causing higher pressure
+Z) Faster-moving fluid causing lo wer pressure
+
+----
+num: 13
+category: Earth and Space Science
+difficulty: MS
+answer: X) Venus
+
+Water ice is NOT thought to be present on which of the following celestial bodies?
+W) Mars
+X) Venus
+Y) Earth’s moon
+Z) Europa
+
+----
+num: 14
+category: Energy
+difficulty: MS
+answer: W) Faraday's
+
+Transformers are based on the principle of electromagnetic induction, stated by which of the following laws?
+W) Faraday’s
+X) Ampere’s
+Y) Biot-Savart’s
+Z) Lenz’s
+
+----
+num: 15
+category: Life Science
+difficulty: MS
+answer: Y) Plasmodesmata
+
+Which of the following plant cell components is responsible for making a connection between the cytoplasm of adjacent cells?
+W) Peroxisome (read as: peh-ROHK-si-sōem)
+X) Microfilaments
+Y) Plasmodesmata (read as: plahz-moh-DEHZ-mah-tah)
+Z) Centrosome
+
+----
+num: 19
+category: Life Science
+difficulty: MS
+answer: Z) Frameshift Mutation
+
+
+Which of the following is typically the most detrimental type of point mutation?
+W) Silent mutation
+X) Small nucleotide polymorphism
+Y) Intronic mutation
+Z) Frameshift mutation
+
+----
+num: 22
+category: General Science
+difficulty: MS
+answer: Y) It Is Equal and Opposite With Respect to the Gravitational 
+Force Exerted by the Asteroid on the Sun
+
+Which of the following statements is true regarding the gravitational force of the Sun on an asteroid that orbits it?
+W) It is not dependent on the mass of the Sun
+X) It is not dependent on the mass of the asteroid
+Y) It is equal and opposite with respect to the gravitational force exerted by the asteroid on the 
+Sun
+Z) It is greater than the gravitational force exerted by the asteroid on the Sun
+
+----
+num: 22
+category: General Science
+difficulty: MS
+answer: X)  Solidify It and Use X-Ray Crystallography
+
+A new protein is discovered and scientists have deduced its chemical formula. To determine the 3-D shape of the protein, which of the following would be the appropriate step to take?
+W) Use computers to determine the 3-D shape based on its amino acid composition
+X) Solidify it and use X -ray crystallography
+Y) Use a microscope to determine its tertiary and quaternary structures
+Z) Chemically break up the protein into smaller components to determine the overall structure
+
+----
+num: 24
+category: General Science
+difficulty: MS
+answer: X) Heavy Rainfall
+
+Which of the following is NOT a major contributor to ocean mixing?
+W) Changes in temperature
+X) Heavy rainfall
+Y) Major storms
+Z) Changes in density
+
+----
+num: 24
+category: General Science
+difficulty: MS
+answer: X) Carbonyl Group
+
+Which of the following is NOT one of the substituents attached to the asymmetric carbon of an amino acid?
+W) Carboxyl group
+X) Carbonyl group
+Y) Amine group
+Z) Hydrogen atom
+
+----
+num: 25
+category: Physical Science
+difficulty: MS
+answer: Y) When One Element Can Combine With Another to Form More 
+Than One Compound, the Mass Ratios of the Elements in the Compounds
+Are Simple Whole -Number Ratios of Each Other
+
+Which of the following best describes the law of multiple proportions?
+W) When two pure substances react to form a compound, the y do so in a definite proportion by mass
+X) When two substances react with each other to form a compound, they do so in multiple proportions according to their mass
+Y) When one element can combine with another to form more than one compound, the mass ratios of the elements in the compounds are simple whole -number ratios of each other
+Z) There is no change in total mass during a chemical change

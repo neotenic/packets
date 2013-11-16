@@ -1,0 +1,94 @@
+####
+tournament: PACE NSC
+round: PACE NSC 2009 - Round 22 (mini).doc
+year: 2009
+####
+
+num: 1
+category: Geography
+difficulty: HS
+fixed: -1
+seen: 639
+answer: Nevada
+
+One town in this state hosts an annual Old Spice festival in honor of its nickname, the "Armpit of America," while another town is planned to feature a 10,000-year clock on Mount Washington funded by the Long Now Foundation. The eastern portion is home to sights like Cave Lake State Park and Steptoe Valley, near the aforementioned town of Ely. The central portion is fed by the Reese River, which has its terminus at the town of Battle Mountain, joined in the north of this state by towns like Elko and Winnemucca on the Humboldt River. This site of Walker Lake and Pyramid Lake is also home to such cities as Paradise and one known as the "biggest little city in the world." FTP, name this state which boasts Reno and Las Vegas.
+
+----
+num: 2
+category: Science
+difficulty: HS
+fixed: -1
+seen: 486
+answer: cerebrospinal fluid [or {CSF}]
+
+High concentrations of proline in this substance can increase the rate of glutamate release.  This substance is produced by and circulated via the ependymal cells of the choroid plexus. It is typically found in the subarachnoid space, and arachnoid villi are sites of its reabsorption. Increased white blood cell count in this substance can indicate Gullain-Barré syndrome, and testing this liquid is one half of the diagnostic procedure for encephalitis. For 10 points, identify this fluid, the target of a lumbar puncture, a procedure colloquially known as a “spinal tap.”
+
+----
+num: 3
+category: History
+difficulty: HS
+fixed: 1
+seen: 415
+answer: Constantine
+
+One ruler by this name overcame the rebellion of Perbundus and was victorious at the naval Battle of Syllaeum. Another ruler of this name defeated his rival at the Battle of Chrysopolis, while yet another defeated Artabasdus early in his reign and was reportedly responsible for the death of Stephen the Younger. That emperor was the subject of a prophecy when Germanus witnessed him defecate in his baptismal font, and thus gained the nickname Copronymous. The most famous one issued the Edict of Milan and was written about by Eusebius. For ten points, give this name of the winner at the Battle of Milvian Bridge, the first Christian Roman emperor.
+
+----
+num: 4
+category: Social Science
+difficulty: HS
+fixed: 57
+seen: 380
+answer: {Rites} of {Passage}
+
+Alfred Kroeber wrote about similarities between male and female versions of this entity connected with childbirth. J.M. Whiting wrote that harmful types of these are more common in societies in which male infants spend more time with their mothers. These events title a book by Arnold van Gennep that coined this term. For 10 points, identify these rituals, which exist in all societies and mark the transition from one societal or religious status to another, examples of which include coming of age.
+
+----
+num: 5
+category: Philosophy
+difficulty: HS
+fixed: 1
+seen: 523
+answer: Martin {Heidegger}
+
+This man discussed the characteristics of Nietzsche's thoughts in one lecture in What is Called Thinking? and outlined "Two Ways of Transcendental Deduction" in Kant and the Problems of Metaphysics. He examined the meaning of Van Gogh's "A Pair of Shoes" in The Origin of the Work of Art, a work that appeared after this man's philosophy underwent a "turn" or "Die Kehre." For 10 points, identify this philosopher who outlined the threefold structure of scientific questioning in "What is Metaphysics?" and posited that existence, fallenness, and thrownness as the origin of Dasein in his work Being and Time.
+
+----
+num: 6
+category: Literature
+difficulty: HS
+fixed: 1
+seen: 449
+answer: Sigrid {Undset}
+
+One of this author's protagonists is an artist who travels to Rome and eventually commits suicide in a novel entitled Jenny, while a historical novel concerns a woman who marries Vija-Ljot. Another set of this writer's works focus on the love between Olav and Ingunn and include the volumes The Axe and The Snake. In addition to Gunnar's Daughter and The Master of Hestviken, her most famous protagonist ultimately dies of the Black Plague after marrying Erland and being accused of adultery. For 10 points, name this Nobel-winning author, whose novels The Wreath, The Wife, and The Cross make up her trilogy about Kristen Lavransdatter.
+
+----
+num: 7
+category: History
+difficulty: HS
+fixed: 1
+seen: 415
+answer: Cardinal {Richelieu} [accept Duke {Richelieu}, accept {Armand}-{Jean Du Plessis}]
+
+Early in his career, this man's patron Concini was murdered, prompting his temporary exile to Blois. During his later career, he was nearly removed from power by his monarch during the Day of Dupes due to the protestations of Marie de Medici. He had Henri, duc of Montmorenci and governor of Languedoc executed after a insurrection instigated by Gaston of Orleans, and the only other plot against him was that of Cinq Mars. He rebuilt the Sorbonne and founded the French Academy, and he used royal agents called intendants to control the provinces. He negotiated the Peace of Alais after the fall of la Rochelle, which eroded the edict of Nantes. For 10 points, name this French prime minister under Louis XIII.
+
+----
+num: 8
+category: Fine Arts
+difficulty: HS
+fixed: 57
+seen: 493
+answer: Giovanni Pierluigi da {Palestrina}
+
+This man's life was dramatized in a namesake opera by Hans Pfitzner. While his masses are mostly in groups such as the nine Mantuan ones or the “parodies,” he also composed a few “free-style,” including the four-voice Missa brevis. Twenty-nine of this motets are based on the Song of Solomon, and his Vatican portrait shows him holding the score to his motet Accepit Jesus calicem. This composer of 105 masses and 250 motets also created a work that demonstrated the possibilities of music conforming to the Council of Trent's guidelines. For 10 points, name this sixteenth-century Italian composer of the Pope Marcellus Mass.
+
+----
+num: 9
+category: Science
+difficulty: HS
+fixed: 57
+seen: 491
+answer: {drag} [prompt on {resistance}]
+
+The Carpenter number gives the ratio of the effects of this phenomenon to those of inertia; a dimensionless quantity more often used to characterize this behavior generally varies as one over the fluid velocity at low Reynolds number and is equal to unity in the case of total stagnation. Its theoretic absence in potential flow is a paradox named for d'Alambert, which led to the theory of viscous boundary layers largely to explain this force. Causing damping in a harmonic oscillator underwater, for 10 points, name this force that varies as the relative flow speed squared times a namesake coefficient and that opposes the motion of a solid body through a fluid.

@@ -1,0 +1,274 @@
+####
+tournament: Regional B
+round: round10.pdf
+year: 2002
+####
+
+num: 1
+category: Physics
+difficulty: HS
+seen: 26
+answer: 12 Beats Per Second
+
+For two sound sources heard simultaneously, one of which vibrates at 444 hertz and the other vibrates at 456 hertz, wh at is the beat frequenc y in beats per second?
+
+----
+num: 3
+category: Chemistry
+difficulty: HS
+fixed: -1
+seen: 34
+answer: Hclo ^4
+
+Using standard chemical nomen clature, what is the chemical formula for perchloric acid?
+
+----
+num: 3
+category: Chemistry
+difficulty: HS
+seen: 34
+answer: Helium  (Accept :  Liquid Helium or He)
+
+Which element is used in scientif ic research as a cooling agent for extremely low-temperature studies because at 4. 2 K, it has the lowest boiling point of any known substance?
+
+----
+num: 4
+category: Astronomy
+difficulty: HS
+seen: 56
+answer: Sun
+
+A circle with a dot in the center is most commonly the astronomer’s symbol for what?
+
+----
+num: 4
+category: Astronomy
+difficulty: HS
+seen: 52
+answer: Canis Major  (A Ccept:  the Big Dog)
+
+What is the name for the constellation with the brightest star?
+
+----
+num: 5
+category: Math
+difficulty: HS
+seen: 26
+answer: 3
+8π
+  and 67.5°
+
+Convert to both radians and degrees the angle that equals one-half of 34πradians:
+
+----
+num: 5
+category: Math
+difficulty: HS
+seen: 26
+answer: 0.5 Grams of $0.40  Plus  4.5 Grams of $0.60
+
+A merchant wants to mix 2 types of sugar that sell for $0.40 per gram and $0.60 per gram, respectively. If he wants a mixt ure of 5 grams that sells for $0.58 per gram, how many grams of each should he mix?
+
+----
+num: 6
+category: Earth Science
+difficulty: HS
+seen: 67
+answer: Tidal Bore (Accept:  Bore)
+
+What is the term for a tidally generated wave that propagates up a relatively shallow and sloping estuary or river in a solitary wave form , the leading edge of which presents an abrupt rise in level?
+
+----
+num: 7
+category: General Science
+difficulty: HS
+seen: 32
+answer: Hysteresis
+
+What term derived from the Greek word for “shortcoming” generally means an apparent lag in effect behind what is causing it?
+
+----
+num: 9
+category: Physics
+difficulty: HS
+seen: 25
+answer: Neutrons
+
+As exemplified in beta decay, as an atom’s atomic mass increases, more of these particles are needed to maintain nuclear stability:
+
+----
+num: 9
+category: Physics
+difficulty: HS
+fixed: -1
+seen: 25
+answer: C = Q/v
+
+If C is capacitance, Q is charge, a nd V is voltage across the capacitor, what mathematical formula is the most direct repr esentation of the capacitance of a parallel plate capacitor:
+
+----
+num: 10
+category: Biology
+difficulty: HS
+seen: 41
+answer: Spore  (Accept: Endospore)
+
+What specific physical state does Bacillus anthracis form that allows it to survive in an exposed environment for decades?
+
+----
+num: 10
+category: Biology
+difficulty: HS
+seen: 41
+answer: Death  (Accept:  Cell Death)
+
+In apoptosis, what is programmed into the cell:
+
+----
+num: 11
+category: Chemistry
+difficulty: HS
+seen: 35
+answer: Efflorescence
+
+What is the general term for the process in which a crystalline hydrated solid loses water of crystallization to the air, whereby a powdery deposit is gradually formed:
+
+----
+num: 12
+category: Astronomy
+difficulty: HS
+seen: 54
+answer: Microwave  (Accept:  7.35 Cm)
+
+The precise measurements of Wilson and Penzias of cosmic background radiation was in what regi on of the electromagnetic spectrum?
+
+----
+num: 13
+category: Math
+difficulty: HS
+seen: 25
+answer: I and Ii  (Accept:  1 and 2)
+
+The sine of θ (read as: theta) is positive if the angle terminates in what two Quadrants of the Cart esian coordinate system?
+
+----
+num: 13
+category: Math
+difficulty: HS
+fixed: -1
+seen: 23
+answer: 1/3
+
+What is the slope of a line that pa sses through the points (5, 3) and (-1, 1)?
+
+----
+num: 15
+category: General Science
+difficulty: HS
+seen: 31
+answer: Carl Jung  (Accept:  Jung)
+
+Which scientist and scholar is well known for such terms as “transcendental function”, “archet ypes” and “collective unconscious”?
+
+----
+num: 17
+category: Physics
+difficulty: HS
+seen: 25
+answer: 48 Cents
+(Solution:  1200 Watts = 1.2 kw...1. 2 Kw X 4 Hrs X 10 Cents = 48 Cents)
+
+At 10 cents per kilowatt hour, how much does it cost to run a 1200 watt heater for 4 hours?
+
+----
+num: 18
+category: Biology
+difficulty: HS
+seen: 39
+answer: Fructose and Gluc Ose  (Accept in Any Order)
+
+What two monosaccharides make up the disaccharide sucrose?
+
+----
+num: 19
+category: Chemistry
+difficulty: HS
+seen: 34
+answer: Charles’ Law
+
+Which of the gas laws specifically states that the volume of a fixed amount of gas at a constant pressure vari es directly with its absolute temperature?
+
+----
+num: 19
+category: Chemistry
+difficulty: HS
+seen: 33
+answer: Soap
+
+What common product is made by taking water that is filtered through hardwood ashes, evaporating it in iron pots, mixing what remains with tallow, and allowing it to cure for a few weeks:
+
+----
+num: 20
+category: Astronomy
+difficulty: HS
+seen: 55
+answer: Sagittarius  (Accept:  the Archer)
+
+The nominal galactic center lies on the galactic plane in the direction of what constellation?
+
+----
+num: 21
+category: Earth Science
+difficulty: HS
+seen: 65
+answer: Modis  (Accept:  Moderate-Resolution Imaging 
+Spectroradiometer)
+
+Launched by NASA in December of 1999 as part of the 
+EOS Terra payload, what is the name of the inst rument which provides high radiometric sensitivity that can study atmospheric, land, and ocean imaging in a single instrument that can also be custom tailored to the indivi dual needs of the user:
+
+----
+num: 22
+category: General Science
+difficulty: HS
+seen: 31
+answer: Lactobacillus
+
+Which genus of bacteria has been found to be the most successful at restoring the intes tinal flora and relieving the sympto ms of irritable bowel syndrome?
+
+----
+num: 23
+category: Physics
+difficulty: HS
+seen: 25
+answer: Electrons
+
+What was the name eventually given to the particles that make up cathode rays?
+
+----
+num: 23
+category: Physics
+difficulty: HS
+seen: 26
+answer: 1500 Newtons
+(Solution: A X M = F  =  3 X 500 = 1,500 Newtons)
+
+Neglecting friction, what is the ne t force required, in Newtons, to accelerate a 500 Kg object at 3 m/sec ^2 in a horizontal direction:
+
+----
+num: 24
+category: Biology
+difficulty: HS
+seen: 37
+answer: Spleen
+
+Seventy percent of the platelets released from the bone marrow are in the peripheral circulation. Wh ere are most of the rest stored?
+
+----
+num: 25
+category: Chemistry
+difficulty: HS
+seen: 32
+answer: Ph ^3
+
+Using standard chemical nomenclature, what is the chemical formula for phosphine?

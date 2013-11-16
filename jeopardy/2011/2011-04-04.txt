@@ -1,0 +1,503 @@
+####
+tournament: #6121
+round: Show #6121 - Monday, April 4, 2011
+year: 2011
+date: 2011-04-04
+####
+
+num: 1
+category: Literature
+difficulty: 200
+seen: 5
+answer: Dublin
+
+Sean O'Casey's "Juno and the Paycock" is set in the 1920s in a tenement building in this capital city.
+
+----
+num: 2
+category: Literature
+difficulty: 200
+seen: 4
+answer: Hinduism
+
+Possessing 5 faces & 15 eyes, Pancanana is a demon god of this Asian religion.
+
+----
+num: 3
+category: Trash
+difficulty: 200
+seen: 6
+answer: binoculars
+
+Used by bird watchers, these items are simply a connected pair of handheld telescopes.
+
+----
+num: 4
+category: Art
+difficulty: 200
+seen: 5
+answer: Padre
+
+Composer & priest Giovanni Martini is known by this "fatherly" title.
+
+----
+num: 5
+category: History
+difficulty: 200
+seen: 5
+answer: Craigslist
+
+In 2010 this site removed its adult services listings.
+
+----
+num: 6
+category: History
+difficulty: 200
+seen: 4
+answer: a bullfighting arena
+
+Hemingway's "The Dangerous Summer" was inspired by Dominguin, who worked in this type of sporting arena.
+
+----
+num: 7
+category: Literature
+difficulty: 400
+seen: 4
+answer: Kansas
+
+William Inge set both "Picnic" & "Bus Stop" in this Midwestern state.
+
+----
+num: 8
+category: Literature
+difficulty: 400
+seen: 3
+answer: Helen of Troy
+
+According to Christopher Marlowe, hers was "The face that launched a thousand ships".
+
+----
+num: 9
+category: Trash
+difficulty: 400
+seen: 5
+answer: a BlackBerry
+
+President Obama says one of his worst habits is frequently checking this handheld device from RIM.
+
+----
+num: 10
+category: Art
+difficulty: 400
+fixed: -1
+seen: 4
+answer: paddock
+
+Saddle up!  It's from the Middle English for "enclosure".
+
+----
+num: 11
+category: History
+difficulty: 400
+seen: 4
+answer: Farmville
+
+In this rural social networking game from Zynga, you start with 6 plots of land.
+
+----
+num: 12
+category: History
+difficulty: 400
+seen: 4
+answer: Saigon
+
+In 1975, the USS Kirk had to push helicopters off its deck as it helped people fleeing from this Asian capital.
+
+----
+num: 13
+category: Literature
+difficulty: 600
+seen: 4
+answer: Grover\'s Corners
+
+Many believe that this hamlet in the play "Our Town" represented Peterborough, New Hampshire.
+
+----
+num: 14
+category: Literature
+difficulty: 600
+seen: 5
+answer: about-face
+
+This military marching command to reverse is the title of Col. David H. Hackworth's "Odyssey of an American Warrior".
+
+----
+num: 15
+category: Trash
+difficulty: 600
+seen: 5
+answer: castanets
+
+They're the handheld percussion instruments heard.
+
+----
+num: 16
+category: Art
+difficulty: 600
+seen: 4
+answer: Padmé
+
+Princess Amidala, to her friends.
+
+----
+num: 17
+category: History
+difficulty: 600
+seen: 4
+answer: G-O
+
+Online ABC & Disney users know to type these 2 letters prior to ".com" to use those sites.
+
+----
+num: 18
+category: Literature
+difficulty: 800
+seen: 4
+answer: Brigadoon
+
+In a musical, MacConnachy Square is in the heart of this enchanted Scottish village.
+
+----
+num: 19
+category: Literature
+difficulty: 800
+seen: 4
+answer: Veronica
+
+In Catholic lore, when this female saint wiped the sweat from Jesus' face with her veil, an image of him remained there.
+
+----
+num: 20
+category: Trash
+difficulty: 800
+seen: 4
+answer: a prop
+
+4-letter word for any article used to dress a stage for a scene, or any object carried by hand onstage.
+
+----
+num: 21
+category: Art
+difficulty: 800
+seen: 4
+answer: a padlock
+
+This device has a U-shaped bar that goes through a loop called a staple.
+
+----
+num: 22
+category: History
+difficulty: 800
+seen: 3
+answer: WikiLeaks
+
+Julian Assange runs this site known for posting U.S. military documents, to the Pentagon's displeasure.
+
+----
+num: 23
+category: History
+difficulty: 800
+fixed: 1
+seen: 4
+answer: Anna Karenina
+
+A train platform spells final jeopardy for this Tolstoy title heroine.
+
+----
+num: 24
+category: Literature
+difficulty: 1000
+seen: 4
+answer: Cyrano
+
+This title swordsman & poet visits Roxane, whom he loves, at her convent every week for almost 15 years.
+
+----
+num: 25
+category: Literature
+difficulty: 1000
+seen: 3
+answer: Jack London
+
+In 1910 this man published his story collection "Lost Face", which includes "To Build a Fire".
+
+----
+num: 26
+category: Trash
+difficulty: 1000
+seen: 5
+answer: phasers
+
+On "Star Trek" handheld devices included tricorders & these weapons with a "stun" setting.
+
+----
+num: 27
+category: Art
+difficulty: 1000
+seen: 3
+answer: Paducah
+
+Found at the confluence of the Ohio & Tennessee Rivers, it's the seat of McCracken County, Kentucky.
+
+----
+num: 28
+category: History
+difficulty: 1000
+fixed: -1
+seen: 4
+answer: GoDaddy.com
+
+Wake up, pops!  Danica Patrick can be seen in ads for this domain-procuring site.
+
+----
+num: 29
+category: History
+difficulty: 1000
+seen: 4
+answer: wing walking
+
+Alliterative term for a feat done by 1920s barnstorming pilots; the man who did it first had less than a 2-year career.
+
+----
+num: 30
+category: Art
+difficulty: 400
+seen: 4
+answer: a Cape Cod
+
+This style of home named for a Massachusetts peninsula features a gabled roof & a central chimney.
+
+----
+num: 31
+category: Trash
+difficulty: 400
+seen: 6
+answer: Universal City
+
+Starting in 1915, Carl Laemmle built this "city" named for his studio, complete with its own mayor & fire department.
+
+----
+num: 32
+category: Literature
+difficulty: 400
+seen: 4
+answer: "The Raven"
+
+This piece of Edgar Allan Poe-try asks, "Is there--is there balm in Gilead?--tell me--tell me, I implore!".
+
+----
+num: 33
+category: Literature
+difficulty: 400
+seen: 4
+answer: Woolf Blitzer
+
+Combine the last name of writer Virginia & the strong safety who rushes the QB to get this newsman.
+
+----
+num: 34
+category: Art
+difficulty: 400
+seen: 4
+answer: Versailles
+
+The fountains in.
+
+----
+num: 35
+category: Literature
+difficulty: 400
+seen: 4
+answer: berry
+
+It follows blue, cran & straw.
+
+----
+num: 36
+category: Trash
+difficulty: 800
+seen: 5
+answer: the Warner Brothers
+
+These brothers brought sound to the big screen with "The Jazz Singer".
+
+----
+num: 37
+category: Literature
+difficulty: 800
+seen: 4
+answer: Whitman
+
+In "Song of Myself", he asked, "Do I contradict myself?".
+
+----
+num: 38
+category: Literature
+difficulty: 800
+seen: 3
+answer: civil service
+
+A courteous & respectful set of dishes & utensils, as for afternoon tea.
+
+----
+num: 39
+category: Art
+difficulty: 800
+seen: 4
+answer: Rome
+
+This European capitol is famous for its fountains, like the one seen.
+
+----
+num: 40
+category: Literature
+difficulty: 800
+seen: 4
+answer: bashful
+
+This synonym for shy is derived from abash, meaning to embarrass.
+
+----
+num: 41
+category: Art
+difficulty: 1200
+seen: 4
+answer: (Walter) Gropius
+
+From 1938 to 1952 this Bauhaus creator headed Harvard's architecture department.
+
+----
+num: 42
+category: Literature
+difficulty: 1200
+seen: 4
+answer: Eliot
+
+His "Love Song of J. Alfred Prufrock" asks, "Do I dare disturb the universe?".
+
+----
+num: 43
+category: Literature
+difficulty: 1200
+seen: 4
+answer: blue belle
+
+A depressed young southern lady; perhaps her beau is gone.
+
+----
+num: 44
+category: Art
+difficulty: 1200
+seen: 3
+answer: the Bellagio
+
+Take in a night show every 15 minutes in front of.
+
+----
+num: 45
+category: Literature
+difficulty: 1200
+seen: 4
+answer: canter
+
+Slower than a gallop, this horse's gait is named for a pilgrimage site in England.
+
+----
+num: 46
+category: Art
+difficulty: 1600
+seen: 4
+answer: columns
+
+Craftsman homes feature these on the porch, but they're square, not round as in ancient Greek temples.
+
+----
+num: 47
+category: Trash
+difficulty: 1600
+seen: 6
+answer: CinemaScope
+
+Under siege by TV, Darryl F, Zanuck publicly declared every picture he made would now be in this widescreen process.
+
+----
+num: 48
+category: Literature
+difficulty: 1600
+seen: 3
+answer: razing cane
+
+Complete demolition of a tall grass that produces sugar.
+
+----
+num: 49
+category: Art
+difficulty: 1600
+seen: 4
+answer: the Buckingham Fountain
+
+This Chicago fountain seen.
+
+----
+num: 50
+category: Literature
+difficulty: 1600
+seen: 5
+answer: an A
+
+With a small circle above it, this letter represents a unit used to measure light wavelengths.
+
+----
+num: 51
+category: Trash
+difficulty: 2000
+seen: 8
+answer: Marion Davies
+
+William Randolph Hearst was said to have spent.
+
+----
+num: 52
+category: Literature
+difficulty: 2000
+seen: 7
+answer: the nightingale
+
+Keats' ode to this bird ends, "Was it a vision, or a waking dream? Fled is that music: --do I wake or sleep?".
+
+----
+num: 53
+category: Literature
+difficulty: 2000
+seen: 5
+answer: Harte beat
+
+The area or subject covered by 19th c. writer Bret when he was a reporter.
+
+----
+num: 54
+category: Art
+difficulty: 2000
+seen: 5
+answer: Geneva
+
+The fountain seen.
+
+----
+num: 55
+category: Literature
+difficulty: 2000
+seen: 5
+answer: bagatelle
+
+From the Italian for "little property", it can be a trifle or a short, light piece of music or verse.

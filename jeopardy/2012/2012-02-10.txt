@@ -1,0 +1,484 @@
+####
+tournament: #6310
+round: Show #6310 - Friday, February 10, 2012
+year: 2012
+date: 2012-02-10
+####
+
+num: 1
+category: History
+difficulty: 200
+seen: 5
+answer: Air Force One
+
+A modified 707 used by the President in the 1960s was the first plane to be popularly known by this name.
+
+----
+num: 2
+category: Literature
+difficulty: 200
+seen: 5
+answer: an igloo
+
+Spend a night in the.
+
+----
+num: 3
+category: Mythology
+difficulty: 200
+fixed: -1
+seen: 13
+answer: mammoths
+
+A flint spear point from an ancient Mexican civilization was found lodged between 2 ribs of one of these "woolly" animals.
+
+----
+num: 4
+category: Literature
+difficulty: 200
+seen: 5
+answer: J. Edgar Hoover
+
+This future FBI guy learned all about cards & files while working at the Library of Congress in the 1910s.
+
+----
+num: 5
+category: Art
+difficulty: 200
+seen: 5
+answer: Kwanzaa
+
+This holiday whose name is from a Swahili phrase meaning "first fruits".
+
+----
+num: 6
+category: Literature
+difficulty: 400
+seen: 3
+answer: (John Paul) Stevens
+
+He was 11 days shy of 90 when he announced his retirement from the Supreme Court in 2010.
+
+----
+num: 7
+category: Mythology
+difficulty: 400
+seen: 13
+answer: rain
+
+2 major deities of the Zapotecs of Mexico: Coquihani, the god of light, & Cocijo, the god of this weather phenomenon.
+
+----
+num: 8
+category: Art
+difficulty: 400
+seen: 4
+answer: Kraft
+
+This company whose brands include Miracle Whip.
+
+----
+num: 9
+category: History
+difficulty: 600
+seen: 4
+answer: (Lord) Nelson
+
+The Battle of Trafalgar is commemorated aboard the Victory, the restored flagship of this admiral.
+
+----
+num: 10
+category: Literature
+difficulty: 600
+seen: 4
+answer: vertebrae
+
+Snakes have no arms or legs but can have 600 of these bones in their flexible spines.
+
+----
+num: 11
+category: Mythology
+difficulty: 600
+seen: 12
+answer: Venus
+
+In some myths, Quetzalcoatl was identified with this planet, the Evening & Morning Star.
+
+----
+num: 12
+category: Literature
+difficulty: 600
+seen: 4
+answer: the Joker
+
+In 2008 this character's disappearing pencil trick was a memorable moment in "The Dark Knight".
+
+----
+num: 13
+category: Literature
+difficulty: 600
+seen: 4
+answer: Lewis Carroll
+
+From 1855 to 1857 the library of Oxford's Christ Church College was his wonderland.
+
+----
+num: 14
+category: Art
+difficulty: 600
+seen: 4
+answer: a kettle drum
+
+This instrument heard.
+
+----
+num: 15
+category: Literature
+difficulty: 800
+seen: 3
+answer: gloves
+
+These accessories got longer throughout the Victorian Age & reached the elbow by the 1880s.
+
+----
+num: 16
+category: Mythology
+difficulty: 800
+seen: 12
+answer: obsidian
+
+The Aztecs' main weapon, the macuahuitl, was a wooden club edged with sharp pieces of this volcanic glass.
+
+----
+num: 17
+category: Literature
+difficulty: 800
+seen: 4
+answer: the Green Lantern
+
+"In brightest day, in blackest night, no evil shall escape my sight" begins the oath of this hero; beware his power!.
+
+----
+num: 18
+category: Literature
+difficulty: 800
+seen: 4
+answer: Casanova
+
+This 18th century Italian lover wrote his memoirs while working as the ubersexy librarian of a count.
+
+----
+num: 19
+category: Art
+difficulty: 800
+seen: 4
+answer: ketosis
+
+This condition, seen in low-carb high-protein diets, in which the body is in major fat-burning mode.
+
+----
+num: 20
+category: History
+difficulty: 1000
+seen: 4
+answer: "Don\'t give up the ship"
+
+A mortally wounded James Lawrence was referring to the USS Chesapeake when he issued this order.
+
+----
+num: 21
+category: Literature
+difficulty: 1000
+seen: 4
+answer: sauerkraut
+
+To combat scurvy on his voyages, Captain Cook used this briny shredded cabbage as well as lime juice.
+
+----
+num: 22
+category: Mythology
+difficulty: 1000
+seen: 11
+answer: Cuzco
+
+In the 15th century the Inca conquered the Chimu Empire & moved its people to this capital.
+
+----
+num: 23
+category: Literature
+difficulty: 1000
+seen: 4
+answer: Professor X (or Professor Charles Xavier)
+
+James McAvoy (with hair) & Patrick Stewart (not so much) have both played this X-men leader.
+
+----
+num: 24
+category: Literature
+difficulty: 1000
+seen: 3
+answer: Goethe
+
+Perhaps it was a pact with the devil that got this German author a 35-year gig as chief of the Weimar Library.
+
+----
+num: 25
+category: Art
+difficulty: 1000
+seen: 4
+answer: Krishna
+
+This Hindu god, the eighth avatar of Vishnu.
+
+----
+num: 26
+category: Geography
+difficulty: 400
+seen: 7
+answer: the Andes
+
+The world's highest active volcanoes lie in this South American mountain range.
+
+----
+num: 27
+category: Literature
+difficulty: 400
+seen: 4
+answer: West Point & click
+
+The U.S. Military Academy has an interface where you indicate an object on a screen, then use your mouse.
+
+----
+num: 28
+category: History
+difficulty: 400
+seen: 4
+answer: Celsius
+
+A temperature scale is named for this Swede who simplified Fahrenheit's scale.
+
+----
+num: 29
+category: History
+difficulty: 400
+seen: 4
+answer: the Magna Carta
+
+Between 1215 & 1225 this British document was reissued 3 times with various changes.
+
+----
+num: 30
+category: Literature
+difficulty: 400
+seen: 4
+answer: Buffalo Bill
+
+e.e. cummings began a poem this Western bison hunter & showman is "defunct".
+
+----
+num: 31
+category: Trash
+difficulty: 400
+seen: 5
+answer: "Born This Way"
+
+Lady Gaga's album with this anthemic title track is up for album of the year.
+
+----
+num: 32
+category: Geography
+difficulty: 800
+seen: 7
+answer: Iceland
+
+Ash from a 1947 eruption of Hekla in this island country landed as far east as Finland.
+
+----
+num: 33
+category: Literature
+difficulty: 800
+seen: 4
+answer: Bowling Green beans
+
+An Ohio school that sounds like a place you'd pick up a spare serves long, thin legumes.
+
+----
+num: 34
+category: History
+difficulty: 800
+seen: 4
+answer: Caesar
+
+Czar, a male emperor of Russia, is a Slavic variation of this Roman name.
+
+----
+num: 35
+category: History
+difficulty: 800
+seen: 4
+answer: Marathon
+
+Heavily outnumbered, the Greeks repelled the invading Persians on this plain in 490 B.C.
+
+----
+num: 36
+category: Literature
+difficulty: 800
+seen: 4
+answer: Helen of Troy
+
+Stesichorus wrote a poem about this ancient beauty & was blinded for saying she caused a war.
+
+----
+num: 37
+category: Trash
+difficulty: 800
+seen: 4
+answer: the Red Hot Chili Peppers
+
+This band is "red hot" with a nomination for best rock album & election to the Rock & Roll Hall of Fame.
+
+----
+num: 38
+category: Geography
+difficulty: 1200
+seen: 7
+answer: Indonesia
+
+You'll find Gunung Kerinci, this country's highest volcano, on Sumatra.
+
+----
+num: 39
+category: Literature
+difficulty: 1200
+seen: 4
+answer: Texas A & M. Night Shyamalan
+
+Rick Perry's alma mater adds the name of an Indian-American movie director.
+
+----
+num: 40
+category: History
+difficulty: 1200
+seen: 4
+answer: a Ponzi scheme
+
+Early investors get rich, later ones lose big in this scheme named for an Italian-American con man.
+
+----
+num: 41
+category: History
+difficulty: 1200
+seen: 4
+answer: the Basques
+
+In 1979 the Spanish government granted limited self-rule to this ethnic group from the northern part of the country.
+
+----
+num: 42
+category: Literature
+difficulty: 1200
+seen: 4
+answer: Adonias
+
+Shakespeare wrote about Adonis; Shelley portrayed Keats as this "gentle child".
+
+----
+num: 43
+category: Trash
+difficulty: 1200
+seen: 6
+answer: The Stray Cats
+
+Brian Setzer, nominated for "Setzer Goes Instru-Mental", long ago sang "Sexy & 17" for this "feline" band.
+
+----
+num: 44
+category: Literature
+difficulty: 1600
+seen: 5
+answer: Seton Hall pass
+
+The pirates of a Catholic school in New Jersey may need one to get to the bathroom during class hours.
+
+----
+num: 45
+category: History
+difficulty: 1600
+seen: 5
+answer: the Congress of Vienna
+
+Austrian statesman Prince Klemens von Metternich hosted this 1814-1815 European conference.
+
+----
+num: 46
+category: Literature
+difficulty: 1600
+seen: 4
+answer: Gunga Din
+
+"I 'ope you liked your drink", says this helpful Kipling character before he dies; he's "a better man than I am".
+
+----
+num: 47
+category: Trash
+difficulty: 1600
+seen: 7
+answer: Bon Iver
+
+This band, basically Justin Vernon, is nominated for Best New Artist.
+
+----
+num: 48
+category: Geography
+difficulty: 2000
+seen: 13
+answer: Kyushu
+
+Mount Aso on this southernmost main island of Japan is the nation's most active, with 160+ eruptions in the last 1,500 years.
+
+----
+num: 49
+category: Literature
+difficulty: 2000
+seen: 5
+answer: Wake Forest fires
+
+These break out at the home of North Carolina's Demon Deacons, horrifying Smokey the Bear.
+
+----
+num: 50
+category: History
+difficulty: 2000
+seen: 5
+answer: a macadamia nut
+
+This Hawaiian nut was named in 1858 for a Scottish-born chemist.
+
+----
+num: 51
+category: History
+difficulty: 2000
+seen: 6
+answer: Hungary
+
+In 1956 an anti-Communist revolution took root in this country, but Soviet troops quickly ended it.
+
+----
+num: 52
+category: Literature
+difficulty: 2000
+fixed: -1
+seen: 5
+answer: the 
+
+Petit the poet & State's Attorney Fallas are 2 speakers in this Edgar Lee Masters "Anthology".
+
+----
+num: 53
+category: Trash
+difficulty: 2000
+seen: 9
+answer: Barbara Streisand
+
+She's nominated for her 9th Grammy, & the song by Duck Sauce with her name as its title is nominated also.

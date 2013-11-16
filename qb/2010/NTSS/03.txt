@@ -1,0 +1,204 @@
+####
+tournament: NTSS
+round: 03.pdf
+year: 2010
+####
+
+num: 1
+category: History
+difficulty: HS
+fixed: 1
+seen: 417
+answer: Battle of {Lepanto}
+
+This battle followed soon after the Siege of Famagusta. Mahomet Sirocco was able to advance until his ship sank, and his men killed Barbarigo. Sirocco's ally Uluj Ali was able to successfully divide their opponent's forces until rein- forcements arrived, leading to later criticism of Andrea Doria. The Turks, however, were unsuccessful in the middle of this battle, especially after the beheading of Ali Pasha. The victorious commander was Don John of Austria. Name this naval victory by the combined forces of the Papacy, Venice, and Spain in 1571.
+
+----
+num: 2
+category: History
+difficulty: HS
+fixed: 1
+seen: 547
+answer: Patrick Joseph “Pat” {Toomey}
+
+This politician originally replaced Paul McHale in Congress but quit the office in 2004 after three terms as he originally promised. During his recent campaign, he benefited from the endorsement of Democrat Stephen R. Reed but mistakenly claimed that he led a filibuster while in the House of Representatives. After several years as the Presi- dent of Club For Growth, he recently won his primary against Peg Luksik and went on to win the Senate seat he tried to win six years ago. Name this Republican who recently defeated former Vice Admiral Joe Sestak to take over Arlen Specter's Senate seat in Pennsylvania.
+
+----
+num: 3
+category: Science
+difficulty: HS
+fixed: -1
+seen: 493
+answer: {neutralization} reaction [prompt on {acid}-{base reaction}]
+
+The rating of lubricant oils by degree of oxidative degradation employs this type of reaction, while another reaction of this type follows the alkaline hydrolysis step in sulfonamide production. The precipitation of yellow cake uranium relies on magnesia in this type of reaction, and a solution is often said to be at half-this if it is buffered. One product of this reaction is always an addition compound according to the Lewis theory, and a rare endothermic example is the re- action between baking soda and vinegar. Occurring in the common type of titration, identify this chemical reaction in which an acid and base combine to form a salt and water.
+
+----
+num: 4
+category: Science
+difficulty: HS
+fixed: 1
+seen: 487
+answer: median
+
+In image processing, this statistic is used to reduce salt-and-pepper noise. It can be estimated by Pareto interpola- tion, and for continuous distributions this statistic cannot be more than one standard deviation from the mean. For a distribution, this is the point that minimizes the average of the absolute deviations. It can be defined as the spot where the cumulative distribution function equals one half. A measure of central tendency, it is less sensitive to outliers than the mean. Name this value that can be found by finding the value at the fiftieth percentile or, for finite sets with an odd number of elements, the middle number of the set.
+
+----
+num: 5
+category: Literature
+difficulty: HS
+fixed: 57
+seen: 448
+answer: Gabriel Garcia {Marquez} [prompt on {Marquez}]
+
+In one novel by this author, Colonel Aponte (uh-POWN-tay) judges that the Vicario brothers are harmless, allow- ing them to murder Santiago Nasar. His most famous novel describes a girl who starts out as a dirt-eating orphan and ends up as a secluded widow after the death of José Arcadio, while in another novel by this author, a man who devel- ops a province's first sewer system marries Fermina Daza after she has Florentino Ariza return her past gifts; that man is Dr. Juvenal Urbino. Famous for detailing the Colonel Aureliano-led Buendía family in Macondo, identify this au- thor of Chronicle of a Death Foretold, Love in the Time of Cholera, and One Hundred Years of Solitude, a Colombian.
+
+----
+num: 6
+category: Fine Arts
+difficulty: HS
+fixed: 57
+seen: 496
+answer: {Mozart's} Symphony {No.} 41 in C Major, {K.} 551, “{Jupiter}” [accept any underlined part or combination of
+
+This symphony shares a theme with Haydn's 13th Symphony, and its nickname may have been given by Haydn's chief sponsor Johann Peter Salomon. Even as late as 1862, this symphony was instead given a name meaning “Sym- phony with the concluding fugue”. The first movement has a theme similar to its composer's Un baciodimano. This work also refers to the hymn Lucis creator, and its setting in C Major is theorized to conform to Masonic beliefs on light. The last of three summer of 1788 symphonies written by the composer, this is also the last symphony he ever wrote. Identify this work with a mythological name by Wolfgang Mozart.
+
+----
+num: 7
+category: Religion
+difficulty: HS
+fixed: 1
+seen: 446
+answer: Jainism
+
+Believers in this religion disagree as to the gender of the nineteenth person to achieve enlightenment during the cur- rent cycle of time, Mallinath. Followers first attempt to eliminate delusion and then achieve perfect knowledge, vi- sions, and nature to become ahirants. One of its most important texts, which tells of the twenty-four Tirathankars (tir-uh-THAHNK-ars) who achieved complete enlightenment and is read each year during the Paryushana (pahr- yoo-SHAH-nah), is the Kalpasutra (kal-puh-SOO-truh). The most recent Tirathankar, generally considered the founder of this religion, was Vardhamana, who is also known as Mahavira. Name this Eastern religion which, like Hinduism and Buddhism, is closely associated with the concept of ahimsa, or nonviolence.
+
+----
+num: 7
+category: Religion
+difficulty: HS
+fixed: 1
+seen: 450
+answer: Jainism
+
+Believers in this religion disagree as to the gender of the nineteenth person to achieve enlightenment during the cur- rent cycle of time, Mallinath. Followers first attempt to eliminate delusion and then achieve perfect knowledge, vi- sions, and nature to become ahirants. One of its most important texts, which tells of the twenty-four Tirathankars (tir-uh-THAHNK-ars) who achieved complete enlightenment and is read each year during the Paryushana (pahr- yoo-SHAH-nah), is the Kalpasutra (kal-puh-SOO-truh). The most recent Tirathankar, generally considered the founder of this religion, was Vardhamana, who is also known as Mahavira. Name this Eastern religion which, like Hinduism and Buddhism, is closely associated with the concept of ahimsa, or nonviolence.
+
+----
+num: 8
+category: Social Science
+difficulty: HS
+fixed: 1
+seen: 378
+answer: Erik {Erikson}
+
+This writer used Ingmar Bergman's film Wild Strawberries to analyze issues faced by elderly people. Many years ear- lier, this person wrote about the development through introspection achieved by both Sigmund Freud and Martin Lu- ther in his work Young Man Luther. A one-time patient of Anna Freud, he wrote that children can perceive what peo- ple really mean and that they reward love and take revenge on hatred in his book Childhood and Society. In his work In- sight and Responsibility, he wrote about the development of hope, will, purpose, competence, fidelity, love, care, and wisdom as the virtues people develop during their lives. Name this developmental psychologist who wrote about eight conflicts that people face at different stages of their lives.
+
+----
+num: 9
+category: Literature
+difficulty: HS
+fixed: 1
+seen: 447
+answer: Truman {Capote}
+
+One of this author's novels is about a medicine maker named Dolly who lives in a treehouse with Collin and Cath- erine. This author's first novel is about a boy who goes to live with his stepmother Amy Skully and becomes friends with Idabel Thompkins. In addition to The Grass Harp and Other Voices, Other Rooms, this author wrote a novella about a woman who has a miscarriage after trying to control the narrator's horse. Identify this author who wrote about Holly Golightly in Breakfast at Tiffany's and who also wrote In Cold Blood.
+
+----
+num: 10
+category: Science
+difficulty: HS
+fixed: 57
+seen: 482
+answer: {convergence} [accept word forms]
+
+The uniform and pointwise types of this property may be contrasted for sequences, and Cauchy sequences in a complete space always have this property. A limit approaching zero is necessary but not sufficient for this property, which exists when the root test gives a value less than one or the integral test gives a finite number. The harmonic se- ries lacks this property, but the alternating version thereof as well as p-series for p greater than one do have this prop- erty. This term also applies to geometric series with ratio between negative one and one. Give this term that describes series whose sum approaches a finite number, contrasted with divergence.
+
+----
+num: 11
+category: History
+difficulty: HS
+fixed: 57
+seen: 420
+answer: Marie {Antoinette}
+
+One of this woman's closest friends, who was Superintendent of her Household before being killed in the Sep- tember Massacres, was Thérèse de Lamballe. Two of this woman's enemies were Jeanne de la Motte and Louis René Édouard de Rohan, who she put on trial as part of the Diamond Necklace Affair. She was not able to have any chil- dren until after her husband underwent an operation, and her fourth and final child Sophie died before the infant's first birthday. Her father, Francis the First, was the Holy Roman Emperor, a position which passed to her brother Jo- seph the Second and her mother Maria Theresa, and this woman was often derisively referred to as the Austrian. Name this wife of Louis the Sixteenth who, three months after him, was beheaded during the French Revolution.
+
+----
+num: 12
+category: Fine Arts
+difficulty: HS
+fixed: 57
+seen: 495
+answer: The {Pirates} of {Penzance}
+
+This show contains the line “Never was such opportunity to get married with impunity” in the song “Pray observe the magnanimity”. The women being sung about are Mabel, Edith, Kate, and Isabel, the daughters of Stanley. Earlier in the first act of this show, Mabel sings “Poor wandering one” to Frederic, who has been raised incorrectly by Ruth, a maid who was supposed to apprentice Frederic to a ship's pilot. Instead, Frederic is instructed by a group known for its pity towards orphans. The best-known song from this work, in which Stanley brags of his “information vegetable, animal, and mineral,” is “The Major-General's Song”. Name this comic opera by Gilbert and Sullivan.
+
+----
+num: 13
+category: Literature
+difficulty: HS
+fixed: 1
+seen: 446
+answer: The {Winter's Tale}
+
+This work ends when a man who claims “Prosperity's the very bond of love” becomes engaged to a woman whose first husband was eaten by a bear. Before being eaten, that first husband abandoned an infant princess in Bohemia, naming her Perdita. Florizel falls in love with a woman he thinks is a poor shepherd's daughter, but she turns out to be Perdita, whose father once tried to poison Florizel's father. Identify this Shakespeare play in which Hermione, the Queen of Sicilia, is accused of having an affair by her husband King Leontes.
+
+----
+num: 14
+category: Science
+difficulty: HS
+fixed: 57
+seen: 488
+answer: Michael {Faraday}
+
+One object named for this man is used in regenerative amplifiers; that is his namesake rotator, and is based on the effect of light's polarization plane rotating, which is also named for him. He may have been the first to represent vector fields using lines of force, and also was the first to insulate a room with metal foil to block electric fields, creating his namesake cage. Lenz's law is responsible for the negative sign in his namesake law, which relates induced voltage in a current loop to the time-derivative of magnetic flux and was included with Gauss's and Ampère's laws in Maxwell's equations. Name this scientist with an eponymous law of electromagnetic induction, an Englishman.
+
+----
+num: 15
+category: Science
+difficulty: HS
+fixed: 1
+seen: 485
+answer: Edwin {Hubble}
+
+The findings of this person resolved the Shapley-Curtis debate, and he discovered the asteroid now known as 1373 Cincinnati. This person's name is associated with NGC 2261, a variable nebula he observed when he became the first person to look through the Hale Telescope. His tuning-fork diagram separates spiral from barred spiral galaxies, and he showed that Andromeda was not a nebula, but a separate galaxy outside the Milky Way. An approximate age of the universe is given by the inverse of this man's namesake constant, which also appears in his law stating that the velocity of objects receding from the Earth is proportional to their distance; a fact he established by observing the red- shift of galaxies. Famous for proving that the universe is expanding, name this man whose model of the cosmos con- tinues to be supported by the observations of the space telescope named for him.
+
+----
+num: 16
+category: History
+difficulty: HS
+fixed: 1
+seen: 419
+answer: Henry Morton {Stanley} [or {John Rowlands}]
+
+This explorer led the Emin Pasha Relief Expedition and wrote the books Through South Africa, In Darkest Africa, and Through the Dark Continent. The last of those three books described this person's attempt to find the source of the Congo River and led to him assisting Leopold the Second of Belgium in creating the Congo Free State. In 1871, on a mission from the New York Herald, this explorer traveled to Lake Tanganyika to find a certain missionary. Name this Welshman who famously asked, “Dr. Livingstone, I presume?”
+
+----
+num: 17
+category: Fine Arts
+difficulty: HS
+fixed: 1
+seen: 499
+answer: Henri Marie Raymond de {Toulouse}-{Lautrec}-Monfa [prompt on {Lautrec}]
+
+This artist was turned down in favor of Théophile Steinlen by Yvette Guilbert for portraits, but this artist's works showing Guilbert greeting an audience and singing “Linger, Longer, Loo” are now much more valuable. This artist also painted Aristide (ahr-uh-STEED) Bruant, who often wore a red scarf, Louise Weber, who was nicknamed La Goulue (goo-LOO), and Jane Avril, a can-can dancer with long black stockings. Often portraying the area around Montmar- tre (mohnt-MART-ruh), some of his subjects such as The Two Girlfriends or The Medical Inspection were looked down on. One painting by this artist showed May Milton with a green face at the right and himself next to Gabriel Tapié de Céléyran, his much taller cousin. Name this Post-Impressionist painter and poster maker who created At The Moulin Rouge.
+
+----
+num: 18
+category: Literature
+difficulty: HS
+fixed: -1
+seen: 451
+answer: {“Daddy”}
+
+A picture of the subject of this poem shows him with a cleft chin standing at a blackboard, and he is described as having a “neat mustache” and a “bright blue” eye. The writer of this poem claims to have been pulled out of a sack and stuck “together with glue.” She also makes reference to the fact that her husband always wore black, comparing him to a vampire. This poem also compares its writer to a foot and the subject to a shoe. It first appeared in the collection Ariel and is by the same poet and has the same subject as “The Colossus”. One line of this poem states “Every woman adores a Fascist.” Identify this work which compares its subject to a Nazi and the writer to a Jew, written by Sylvia Plath.
+
+----
+num: 19
+category: History
+difficulty: HS
+fixed: 1
+seen: 418
+answer: Daniel {Boone}
+
+This person issued a warning before the Battle of Blue Licks which was not heeded, but his later warnings about Dequindre and Black Fish led to a successful defense. This person's life was saved by Simon Kenton after a Shawnee bullet destroyed his knee, and he was later captured by the Shawnee. An employee of Richard Henderson, he worked for the Transylvania Company on the Wilderness Road. Name this man who led the expedition that widened the Cumberland Gap and after whom the first incorporated town in Kentucky was named.

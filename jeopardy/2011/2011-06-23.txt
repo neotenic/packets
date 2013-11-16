@@ -1,0 +1,402 @@
+####
+tournament: #6179
+round: Show #6179 - Thursday, June 23, 2011
+year: 2011
+date: 2011-06-23
+####
+
+num: 1
+category: Science
+difficulty: 200
+seen: 8
+answer: mass
+
+Technically, the measure of a body's inertia is known as this property of matter.
+
+----
+num: 2
+category: Literature
+difficulty: 200
+seen: 4
+answer: George
+
+Margaret & H.A. Rey:.
+
+----
+num: 3
+category: Literature
+difficulty: 200
+seen: 4
+answer: a blender
+
+You might use this electrical appliance to mix your smoothies.
+
+----
+num: 4
+category: History
+difficulty: 200
+seen: 5
+answer: France
+
+In the 1880s this European nation combined the 3 areas under its control into a unified Vietnam.
+
+----
+num: 5
+category: Science
+difficulty: 200
+seen: 8
+answer: onions
+
+Plant this veggie, allium cepa, near your carrots, as its odor drives off carrot flies, & maybe makes them cry.
+
+----
+num: 6
+category: Science
+difficulty: 400
+seen: 6
+answer: pollen
+
+In palynology scientists study the past distribution of seed plants by looking at grains of this.
+
+----
+num: 7
+category: Literature
+difficulty: 400
+seen: 4
+answer: a canal
+
+The Corinth one in Greece is only 3.9 miles long & has no locks.
+
+----
+num: 8
+category: History
+difficulty: 400
+seen: 4
+answer: a socialist
+
+According to its official name, Vietnam is one of these republics.
+
+----
+num: 9
+category: Science
+difficulty: 400
+fixed: -1
+seen: 6
+answer: seaweed
+
+Full of nitrogen & potassium, this marine product, such as knotted wrack, can make your garden healthier.
+
+----
+num: 10
+category: History
+difficulty: 600
+seen: 5
+answer: the World Trade Organization
+
+In January 2007 Vietnam joined this global trading alliance after waiting 12 years to do.
+
+----
+num: 11
+category: Science
+difficulty: 600
+seen: 6
+answer: earthworms
+
+These annelid creatures improve the soil, so take a census of them in a batch of earth & add mulch if needed.
+
+----
+num: 12
+category: Science
+difficulty: 800
+seen: 6
+answer: van Leeuwenhoek
+
+In 1674 this Dutchman, using microscopes that he made, became the first to describe red blood cells.
+
+----
+num: 13
+category: Trash
+difficulty: 800
+seen: 5
+answer: Buffy
+
+After she jumped into a demonic portal in 2001, her gravestone read "she saved the world a lot".
+
+----
+num: 14
+category: Literature
+difficulty: 800
+seen: 3
+answer: Nancy
+
+Jane O'Connor & Robin Preiss Glasser:.
+
+----
+num: 15
+category: Literature
+difficulty: 800
+seen: 3
+answer: chain-link
+
+This type of fence is made of thick steel wire interwoven in a diamond pattern.
+
+----
+num: 16
+category: History
+difficulty: 800
+seen: 4
+answer: Nguyen
+
+Vietnam's president & prime minister both have this family name, a very popular one there.
+
+----
+num: 17
+category: Science
+difficulty: 800
+seen: 6
+answer: chrysanthemum
+
+The kitazawa seed co. can help you grow the greens of this 4-syllable flower with edible as well as symbolic value in Japan.
+
+----
+num: 18
+category: Science
+difficulty: 1000
+seen: 7
+answer: quarks
+
+The proton consists of 2 types of this elementary particle: 2 up & 1 down.
+
+----
+num: 19
+category: Trash
+difficulty: 1000
+seen: 5
+answer: McLean Stevenson
+
+After his sitcom alter ego died in 1975, this actor surfaced on "The Carol Burnett Show" in a raft, screaming, "I'm OK".
+
+----
+num: 20
+category: Literature
+difficulty: 1000
+seen: 4
+answer: money
+
+In the 1st century B.C., Publilius Syrus wrote that this "alone sets all the world in motion".
+
+----
+num: 21
+category: History
+difficulty: 1000
+seen: 4
+answer: the Hanoi Hilton
+
+At 1 Le Thanh Tong street, you'll find this --an actual hotel, not a hellish prison.
+
+----
+num: 22
+category: Science
+difficulty: 1000
+seen: 7
+answer: a radish
+
+This veggie whose name comes from the Latin for "root" needs to be harvested before root maggots set in.
+
+----
+num: 23
+category: History
+difficulty: 400
+seen: 4
+answer: Peter the Great
+
+Did a lot of "great" things for Russia:.
+
+----
+num: 24
+category: Literature
+difficulty: 400
+seen: 4
+answer: Darling
+
+In "Peter Pan", it's the last name of siblings Wendy, John & Michael.
+
+----
+num: 25
+category: Trash
+difficulty: 400
+seen: 6
+answer: dinosaurs
+
+From the Greek for "fearsome", these creatures last existed in the Cretaceous period.
+
+----
+num: 26
+category: Geography
+difficulty: 400
+seen: 7
+answer: a giraffe
+
+The nose of this tallest ruminant is not as moist as those of other ruminants.
+
+----
+num: 27
+category: Trash
+difficulty: 400
+seen: 5
+answer: Sissy Spacek
+
+This actress won an Oscar for playing Loretta Lynn & did her own singing to boot.
+
+----
+num: 28
+category: History
+difficulty: 800
+seen: 4
+answer: George V
+
+Victoria's grandson:.
+
+----
+num: 29
+category: Literature
+difficulty: 800
+seen: 4
+answer: dumpling
+
+Many terms of endearment are food words, like muffin or this, a round mass of steamed dough, like a wonton.
+
+----
+num: 30
+category: Trash
+difficulty: 800
+seen: 4
+answer: the Deutsch mark
+
+A 2010 Bild magazine survey showed that almost half of all Germans would like to forgo the euro to get this back.
+
+----
+num: 31
+category: Geography
+difficulty: 800
+seen: 8
+answer: an eggtooth
+
+The newborn South African croc seen.
+
+----
+num: 32
+category: Trash
+difficulty: 1200
+seen: 5
+answer: the Batmobile
+
+In the '60s George Barris bought a concept car from Ford for $1; holy swindle! in 1966 we knew it as this fire-spewing TV car.
+
+----
+num: 33
+category: Literature
+difficulty: 1200
+seen: 4
+answer: a pumpkin
+
+In "The Legend of Sleepy Hollow", Ichabod Crane's hat is found next to a shattered one of these gourds.
+
+----
+num: 34
+category: Trash
+difficulty: 1200
+seen: 5
+answer: the Death Star
+
+"You're all clear, kid, now let's blow this thing & go home" is spoken just before this is destroyed in a 1977 movie.
+
+----
+num: 35
+category: Geography
+difficulty: 1200
+seen: 7
+answer: mammoths and mastadons
+
+The proboscis of the elephant is unique to its order, which includes these 2 types of extinct behemoths.
+
+----
+num: 36
+category: Trash
+difficulty: 1200
+seen: 5
+answer: John Gielgud
+
+He was acclaimed onstage as Hamlet in 1929 & onscreen as Arthur's butler in 1981.
+
+----
+num: 37
+category: History
+difficulty: 1600
+seen: 5
+answer: Philip II
+
+He was Armada 'bout you, Spain:.
+
+----
+num: 38
+category: Trash
+difficulty: 1600
+seen: 6
+answer: Chevy
+
+In 1994 this brand extinguished the name of its K5 Blazer, replacing it with Tahoe.
+
+----
+num: 39
+category: Literature
+difficulty: 1600
+seen: 4
+answer: "Honey Bunch"
+
+The first line of "I Can't Help Myself" by The Four Tops is "Sugar Pie" followed by this 2-word term of endearment.
+
+----
+num: 40
+category: Trash
+difficulty: 1600
+seen: 6
+answer: Detroit
+
+From 1881 to 1888 this Midwest city had a baseball team in the National League known as the Wolverines.
+
+----
+num: 41
+category: History
+difficulty: 2000
+seen: 5
+answer: King Olaf
+
+Not Haakon in Norway:.
+
+----
+num: 42
+category: Trash
+difficulty: 2000
+seen: 10
+answer: Pontiac
+
+This brand made both the Fiero (which is actually Italian for "proud") & the Firebird.
+
+----
+num: 43
+category: Trash
+difficulty: 2000
+seen: 8
+answer: the Dunes
+
+"The Miracle in the Desert" was the nickname of this defunct Vegas casino.
+
+----
+num: 44
+category: Geography
+difficulty: 2000
+seen: 12
+answer: a sandstorm
+
+Camels can squeeze their nostrils shut during a haboob, one of these.

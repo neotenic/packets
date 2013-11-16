@@ -1,0 +1,164 @@
+####
+tournament: HFT
+round: HFT Round 10.doc
+year: 2008
+####
+
+num: 2
+category: Social Science
+difficulty: HS
+fixed: 1
+seen: 380
+answer: Margaret {Mead}
+
+This writer wrote about the uses of chicken blood in getting around spoken customs and criticized the socialization of the American middle class in the final chapter of her most famous work because they experience more stress than the community of Ta'u. Lowell Holmes defended her against allegations from Derek Freeman, who caught one woman on videotape claiming that this researcher had believed a practical joke. FTP, identify this controversial anthropologist who discussed sexual promiscuity among adolescents in Coming of Age in Samoa.
+
+----
+num: 3
+category: Science
+difficulty: HS
+fixed: 57
+seen: 490
+answer: {recursion}
+
+This is governed by the lambda calculus, and LISP uses the “tail” version of this to eliminate the need for extra space on the call stack. Programs using this can sometimes be sped up using memorization to store already-computed results or fully converted to iterative versions via dynamic programming. The Ackerman function is defined using this, and successively larger solutions to the Towers of Hanoi problem can be built with this. FTP, name this concept in computer science in which a function is defined in terms of a smaller instance of itself.
+
+----
+num: 5
+category: History
+difficulty: HS
+fixed: None
+seen: 423
+answer: {New} Jersey
+
+One battle fought in this state saw Hugh Mercer's death in a bayonet charge led by Charles Mawhood as well as the surrender to Alexander Hamilton of troops barricaded in Nassau Hall. Another battle in this state saw George Washington swear to rally the retreating troops of Charles Lee and Molly Pitcher assume command of a cannon. A third battle in this state saw Hessians routed on Christmas Day after Washington's forces had crossed the Delaware River. FTP, identify this state that saw the Revolutionary War battles of Monmouth, Princeton, and Trenton.
+
+----
+num: 6
+category: Science
+difficulty: HS
+fixed: -1
+seen: 486
+answer: {Cepheid} variables
+
+Polaris is one of these stars, while another particularly noticeable one is Eta Aquilae, of unknown metallicity. The assumption that metallicity does not affect them is essential to their usefulness. They are used as standard candles because of their consistent period-luminosity relationship; the former varies between three and thirty days, the latter between eight hundred and ten thousand solar. W Virginis stars are sometimes called the “type II” of these entities. FTP, identify this class of stars, named after the delta star of the constellation named for an ancient king.
+
+----
+num: 7
+category: Geography
+difficulty: HS
+fixed: -1
+seen: 710
+answer: River {Thames}
+
+Islands in this river include the Isle of Sheppey, where a fleeing monarch was captured, and the Isle of Dogs, the site of Canary Wharf. The part of this river upstream from Iffley Lock is known as the Isis River, and the Teddington Locks protect it from tides. Palaces located along it include Syon House and Hampton Court, and it winds through Oxford, past Windsor Castle, next to Greenwich Observatory, and under the Tower Bridge en route to the North Sea. FTP, identify this river that passes through London.
+
+----
+num: 9
+category: Science
+difficulty: HS
+fixed: 1
+seen: 488
+answer: {general relativity}
+
+This theory predicts that the inertia of stationary objects will increase when massive objects are nearby. That effect is related to another that applies to objects with nonzero angular or linear momentum. When objects are eclipsed by particularly massive objects multiple distorted images appear. In addition to predicting the Lense-Thirring effect and gravitational lensing, one of its axioms is that a reference frame experiencing gravitational effects appears to be accelerating, called the equivalence principle. FTP, name this theory of gravity developed by Einstein.
+
+----
+num: 10
+category: History
+difficulty: HS
+fixed: 1
+seen: 421
+answer: {World War I} (prompt on {Great War})
+
+One front in this war included amphibious attacks on the Shandong peninsula. On another front, one side set up a naval fortification known as the Otranto Barrage. Another country launched two attacks known as the Brusilov Offensives, while other key battles included Cambrai, Marsurian Lakes, Caporetto, Tannenberg, and Ypres, the last of which saw savage gas attacks. The most memorable early battle of this war saw soldiers rushed to fight in taxis at the Marne to stop the Schlieffen Plan. FTP, name this war that began with the assassination of an archduke in 1914.
+
+----
+num: 11
+category: Literature
+difficulty: HS
+fixed: 1
+seen: 449
+answer: The {Decameron}: Prencipe Galeotto
+
+The ring parable found in this work is the centerpiece of Lessing's Nathan the Wise. In one part of this work Jehannot de Chevigny spurs a Jew to become a clergyman, another section describes the rivalry between Nathan and Mithridates, and another story ends when nobody can recognize Torello's beard and oriental clothing. In addition to those tales narrated by Pamfilo and Filostrato, another tale centers on the poor Griselda and is told by Dioneo. The meta-narrative of this work concerns Neifile, Lauretta, and Pampinea, and begins as the Black Death forces several characters to seek shelter in a Florentine villa. FTP, name this collection of tales by Boccaccio.
+
+----
+num: 12
+category: Science
+difficulty: HS
+fixed: 57
+seen: 485
+answer: {auxins}
+
+Only tordon lacks a phenyl ring, but all of these have a carboxylic acid group. Indole-3-acetic acid is by far the most potent of these hormones. Large quantities stimulate ethylene production, so many are used as herbicides, especially since weeds like dandelions are dicots and therefore particularly susceptible. As naturally secreted, they differentiate xylem from phloem and suppress lateral bud growth. FTP, name this large class of plant hormones, which can be used to delay fruit maturation and have synergistic effects with gibberellins
+
+----
+num: 14
+category: History
+difficulty: HS
+fixed: -1
+seen: 417
+answer: Mahatma Gandhi (accept {Mohandas K.} Gandhi)
+
+He advocated creating an armed battalion to put down the Bambatha Rebellion, but later organized indigo workers in Champaran. He compromised with Edward Irwin, but this author of The Story of My Experiments with Truth continued to advocate wearing khadi, or homespun cloth, as part of his swadeshi boycott of foreign textiles and walked to Dandi to make salt in violation of a British tax. An advocate of satyagraha, he worked with Jawaharlal Nehru as a member of the National Congress. FTP, name this non-violent father of India's independence.
+
+----
+num: 15
+category: Fine Arts
+difficulty: HS
+fixed: 57
+seen: 489
+answer: Frederic {Chopin}
+
+Like Offenbach, he wrote a famous barcarolle, his Opus 60 in F sharp major.  Robert Schumann criticized this man's Sonata No. 2 for lacking cohesion; the third movement in B flat minor names that piece, his Funeral March Sonata.  A circle of fifths provides the order for his Opus 28, the 24 Preludes.  A failed uprising against Russia is commemorated in an 1831 piece, his Revolutionary Etude, and among his most difficult pieces is his posthumously published Fantasie-Impromptu.  A composer of dances such as mazurkas and polonaises, he depicted a dog chasing its tail in his Minute Waltz.  FTP, name this Polish Romantic composer of works for the piano.
+
+----
+num: 16
+category: Mythology
+difficulty: HS
+fixed: 1
+seen: 798
+answer: Horus
+
+An earlier version of this god was depicted as a youth with a lock of hair, and was known as Heru-p-khart, while a later version of this god was a patron of Nekhen and a god of light, Heru-ur. He got his hands back after a clever invention of the crocodile god Sobek. He had a son named Ihy, and four of his sons protected the canopic jars, while this figure is sometimes called a son of Hathor. His eyes often represented the sun and the moon, and the eye of this figure who battled Set became a symbol of Egyptian power. Later replaced by the sun gods Ra and Aten, this was, FTP, what sky and war god, the falcon-headed son of Isis and Osiris?
+
+----
+num: 17
+category: Science
+difficulty: HS
+fixed: -1
+seen: 489
+answer: {carbonyl} (or {aldehyde} before “one of these”)
+
+The Tishchenko reaction dimerizes a compound with a terminal one of these, while the Cannizzaro reaction is a disproportionation of another such compound. This term is also sometimes used in inorganic chemistry to refer to a similar group taken alone and with an additional pi bond, isoelectronic to cyanide, a common ligand with four bridging modes. FMO theory dictates that the LUMO of most compounds containing them is its pi star. FTP, identify this group which is found in amides, ketones, and carboxylic acids, consisting of a carbon double bonded to an oxygen.
+
+----
+num: 18
+category: Literature
+difficulty: HS
+fixed: 1
+seen: 436
+answer: {Japan}
+
+One author of this nationality re-imagined The Turn of the Screw in Aghwee the Sky Monster and created a small plague-infested village filled with rotting carcasses and occupied by fifteen kids from a reform school in Nip the Buds, Shoot the Kids. Another author from this country wrote of a love affair between a prostitute and a ballet aficionado from the city in a hot springs town in Snow Country, while other novels set here include The Silent Cry and Thousand Cranes. FTP, identify this country that was home to Kenzaburo Oe and Yasunari Kawabata.
+
+----
+num: 19
+category: Fine Arts
+difficulty: HS
+fixed: -1
+seen: 493
+answer: {Monticello}
+
+Its architect designed a clock with an hour hand only and a weathervane which can be read from indoors, both located in its east portico. It was one of the earliest buildings with a dumbwaiter, and its dining room table was folded up between meals. Several of its rooms are named for their shape, such as the “North Octagonal” and “South Square” rooms. While the master bedroom incorporates elements from the Roman temple of Fortuna Virilis, the most major influence on it was the villas of Andrea Palladio that its inhabitant and designer had seen while abroad; the Villa Rotonda, for example, inspired its famous dome. FTP, name this Virginia home of Thomas Jefferson.
+
+----
+num: 20
+category: History
+difficulty: HS
+fixed: 57
+seen: 417
+answer: {Baghdad}
+
+The poor people of this so-called “Round City” founded by al-Mansur were armed to defend it against the 812 siege of al-Ma'mun, and it was besieged again in 865 by Turks from Samarra. It was conquered by Turks under Tughrul when it fell to the Seljuks in 1055, and it was here in 1258 that the Caliph al-Musta'sim was rolled in a carpet and trampled by cavalry led by Hulegu, a grandson of Genghis Khan. Once the capital of the Abbasid Caliphate, it has more recently been the capital of Nouri al-Maliki. FTP, identify this city on the Tigris River, site of the Green Zone.

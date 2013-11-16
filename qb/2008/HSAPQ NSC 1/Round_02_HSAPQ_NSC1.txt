@@ -1,0 +1,214 @@
+####
+tournament: HSAPQ NSC 1
+round: Round_02_HSAPQ_NSC1.pdf
+year: 2008
+####
+
+num: 1
+category: Science
+difficulty: HS
+fixed: 57
+seen: 491
+answer: {Fibonacci} numbers or sequence
+
+Zeckendorf representation describes integers as the sum of these, and they can be found by Binet's formula. “z over the quantity 1 minus z minus z squared” is their generating function, and they are a case of the Lucas sequence. Euclid's algorithm is slowest for these since their ratio is given by a continued fraction with all 1's, which converges to the golden ratio at infinity. They give the number of ways to tile a 2 by n strip and model reproducing rabbits. For 10 points, name these numbers equal to the sum of the two previous ones, beginning 1, 1, 2, 3, 5, 8, 13, 21, 34, etc.
+
+----
+num: 2
+category: Social Science
+difficulty: HS
+fixed: 1
+seen: 380
+answer: Margaret {Mead}
+
+This thinker discussed how people in the United States can be part of the "third generation" in the work And Keep Your Power Dry. This author published a transcript of a conversation with James Baldwin in A Rap on Race, and discussed the female-dominant Chambri tribe in Sex and Temperament in Three Primitive Societies. Research for her most famous work was conducted on the island of Tau, and was refuted by Derek Freeman. For 10 points, name this anthropologist who conducted a study of adolescent sexuality in Coming of Age in Samoa.
+
+----
+num: 3
+category: History
+difficulty: HS
+fixed: None
+seen: 421
+answer: Justinian I [or Justinian the {Great} or {Flavius Petrus Sabbatius} Iustinianus]
+
+Generals of this man won the battles of Nisibis, Callinicum and Dara, after which he concluded the Eternal Peace with Khosrau. Other battles fought by the generals of this man include Ad Decimum and Tricamarum. Peter Barsymes served as financial adviser to this man, and another adviser, John the Cappadocian, was a leading cause of the Nika riots. Narses and Belisarius were among his generals, and Tribonian compiled his namesake legal code. For 10 points, name this builder of the Hagia Sophia and husband of Theodora, the greatest Byzantine Emperor.
+
+----
+num: 4
+category: Mythology
+difficulty: HS
+fixed: 1
+seen: 782
+answer: {Athena} [or {Athene}]
+
+Zagreus became an immortal after this figure rescued his heart and enclosed it in a gypsum figure. In another story, Erichthonius is born of Gaea as a result of Hephaestus failing to rape her. She received one of her more common epithets after a fight with Triton nearly kills her daughter. This goddess, sometimes called Pallas, adopted a role in which she aided Telemakhos and Odysseus as Mentor; in that work, she is commonly described as being “grey-eyed.” For 10 points, identify this Greek goddess of wisdom and war.
+
+----
+num: 5
+category: Fine Arts
+difficulty: HS
+fixed: 1
+seen: 498
+answer: Georges {Bizet}
+
+This man drew on Don Pasquale for his comic opera Don Procopio, and his one-act La guzla de l'émir won him an invitation to compose a major work. Cathérine and Simon Glover are two characters in this man's The Fair Maid of Perth. Another of his works sees a high priest named Nourabad sentence to death two characters, Leila and Nadir, and features the duet “Au fond du Temple Saint.” In addition to The Pearl Fishers, this man wrote the music to an opera that features Escamillo, Don Jose, and the “Habanera.” For 10 points, name this French composer of Carmen.
+
+----
+num: 6
+category: Literature
+difficulty: HS
+fixed: 1
+seen: 448
+answer: {Voltaire} [or Francois-Marie {Arouet} de {Voltaire}]
+
+In one of his plays, Polyphonte is a tyrant who wishes to marry the title widow of Cresphontes. In addition to Merope, this man created Cador, who helps queen Astarte of Babylon escape with her lover, the Prime Minister. In another of his works, Paquette gives a venereal disease to the teacher of a man who is separated from his servant Cacambo after being expelled from Thunder ten Tronck. For 10 points, name this creator of Zadig as well as a novel about Dr. Pangloss entitled Candide.
+
+----
+num: 7
+category: History
+difficulty: HS
+fixed: 57
+seen: 417
+answer: Ivan the {Terrible} [or Ivan {IV}; or Ivan {Grozny}; prompt on "{Ivan}"]
+
+Simeon Bekbulatovich held power during an interregnum in this man's reign, and despite early successes such as the annexation of Astrakhan and Kazan, he led his country into the disastrous Livonian War. He sent the oprichniki after the entire city of Novgorod, one of several questionable decisions that led to the sack of Moscow in 1571, and his murder of his son Ivan Ivanovich left only the feeble-minded Fyodor as a legitimate heir. For 10 points, name this crazy Russian czar who earned his epithet for his random bouts of cruelty.
+
+----
+num: 8
+category: Science
+difficulty: HS
+fixed: -1
+seen: 490
+answer: {DNA} [or {deoxyribonucleic acid}]
+
+In one experiment, this molecule was used to show that type II-R pneumococci could become virulent; that experiment was conducted by Avery, MacLeod, and McCarty. This molecule's semi- conservative replication was discovered in the Meselson-Stahl experiment. The strands of this molecule are generally known as the “sense” and “antisense” strands, and the Hershey-Chase experiment confirmed this molecule's purpose. For 10 points, name this molecule that contains the information of the genetic code.
+
+----
+num: 9
+category: Fine Arts
+difficulty: HS
+fixed: 1
+seen: 493
+answer: saxophones
+
+This instrument was played by the arranger of “La Plus Belle Africaine” and “Sophisticated Lady,” Harry Carney. The pianist Tommy Flannagan had a solo in “Strode Rode,” a song on the album named for this instrument's “Colossus” by Sonny Rollins. One performer of this instrument released Ornithology, and it can come in tenor, baritone, alto, and soprano varieties. For 10 points, name this instrument performed by John Coltrane and Charlie Parker, a single reed woodwind made of metal.
+
+----
+num: 10
+category: Science
+difficulty: HS
+fixed: 57
+seen: 483
+answer: {Boyle's} Law
+
+An associate of its namesake built a bone digester and conceived the idea of a piston and cylinder engine. That man, Denis Papin, inspired Thomas Savery to build a machine implementing this principle. It was also discovered by Edme Mariotte, and deviations from it are expressed as the compressibility factor. It is used to calculate changes in the two quantities it relates, which are related to temperature in Gay-Lussac and Charles' Laws. For 10 points, name this law stating that pressure and volume of a gas in a closed system are inversely proportional.
+
+----
+num: 11
+category: Geography
+difficulty: HS
+fixed: 1
+seen: 718
+answer: {Rhone} River
+
+This river is joined by the Valserine at the town of Bellegarde, and it becomes fully navigable at Le Parc. The Genissiat Dam lies on this river, and the Durance, Isere and Saone are its main tributaries. With a delta beginning at Arles, this waterway flows through Avignon and Lyon, and it is the only major river that flows directly into the Mediterranean Sea. For 10 points, name this Alpine River of France and Switzerland that rises at its namesake glacier north of Geneva.
+
+----
+num: 12
+category: Literature
+difficulty: HS
+fixed: 1
+seen: 452
+answer: {Vanity Fair}
+
+In this novel, Lord Steyne presents one character at court with the wife of the younger Sir Pitt, whose aunt Miss Crawley angrily cut her nephew out of her will before Rawdon left for a honeymoon in Brighton. Jos dies mysteriously in Aix-la-Chapelle, and his sister's admirer Captain Dobbin convinces her fiancé to marry her before he is called off to fight at the battle of Waterloo. Involving the wife of George Osborn and a friend of Hers from Miss Pinkerton's, for 10 points, name this “novel without a hero” about Amelia Sedley and Becky Sharpe, written by William Thackeray.
+
+----
+num: 13
+category: History
+difficulty: HS
+fixed: -1
+seen: 415
+answer: {Pedro} I of Brazil [or {Pedro IV} of Portugal and the {Algarves}]
+
+Opposition to this man included that of Muniz Tavares in the assembly, and he later defeated a rebellion by Joaquim do Amor Divino in Pernambuco. The husband of Amelie of Leuchtenberg and Maria Leopoldina of Austria, this man famously gave the "Cry of Ipiranga" with his sword unsheathed. Naming his daughter Maria da Gloria as heir resulted in rebels arriving on the Belfast to proclaim his brother Miguel king in Porto. The son of John VI of Portugal, for 10 points, name this first Emperor of Brazil.
+
+----
+num: 14
+category: Trash
+difficulty: HS
+fixed: -1
+seen: 1032
+answer: {Minnesota Timberwolves} [accept either]
+
+One player on this basketball team ruptured a triceps tendon after a freak golf cart accident. This team has recently acquired Rodney Carney, and its other bench players include Craig Smith and Rashad McCants. This team drafted, but then traded, O. J. Mayo, and notable players on this team include Mike Miller, Kevin Love, and Al Jefferson. This team's coach, Randy Wittman, was recently fired and replaced with Kevin McHale, who traded away Kevin Garnett. For 10 points, name this NBA team that plays home games in the Target Center in Minneapolis.
+
+----
+num: 15
+category: Religion
+difficulty: HS
+fixed: 1
+seen: 443
+answer: Mark
+
+The most reliable information on him is in Philemon 24, in which he is mentioned as sending his greetings from Rome to the Christians of Colossae. His leaving Perga caused Paul and Barnabas to split up, the latter traveling with this man to Cyprus. He is said to be the founder of the Church in Egypt, and he is the patron saint of Venice. Papias claimed that this man was Peter's secretary, and his book is the earliest Gospel and the primary source for information on the ministry of Jesus. For 10 points, name this traditional author of the Gospel that comes between Luke and Matthew.
+
+----
+num: 16
+category: History
+difficulty: HS
+fixed: 57
+seen: 415
+answer: Vichy France
+
+This polity broke off relations with one country after an incident at Mers-el-Kebir, and the Winter Velodrome was packed with prisoners from the Vel'd'hiv raid carried out by its police. It set up office at Sigmaringen and repealed the Marchandeau Act, and earlier opened the camp of Natzweiler. Its namesake 80 boarded the Massilia and was disenfranchised by Pierre Laval. For 10 points, name this puppet state formed in 1940 after Nazi Germany's victory over its western neighbor, led by Marshal Pétain.
+
+----
+num: 17
+category: Literature
+difficulty: HS
+fixed: 1
+seen: 449
+answer: Nathaniel {Hawthorne}
+
+In one of his works, Owen Warland builds a butterfly that is destroyed by Annie's son, and in another story, the narrator take a train to the Celestial City that is driven by Apollyon. The latter story is collected along with “Wakefield” and “The Minister's Black Veil” in Twice Told Tales. One work by this man is narrated by Miles Coverdale and is based on an experience at Brook Farm. For 10 points, name this author of The Blithedale Romance who also wrote about the adultery of Hester Prynne in The Scarlet Letter.
+
+----
+num: 18
+category: Fine Arts
+difficulty: HS
+fixed: 1
+seen: 489
+answer: Jean Louis {Gericault}
+
+He painted a soldier on a bucking white horse that has a leopard skin and head underneath its saddle in An Officer of the Imperial Horse Guards Charging, and his works includes portraits of a woman who obsessively gambles and a kleptomaniac. He painted four horses with all their legs in the air in The Derby at Epsom, and he painted a man standing on a barrel waving a red cloth while his companions writhe and fall into a stormy ocean after a shipwreck. For 10 points, name this painter of The Raft of the Medusa.
+
+----
+num: 19
+category: History
+difficulty: HS
+fixed: 1
+seen: 414
+answer: {Spanish American} War
+
+In this war, an advance guard under Joseph Wheeler engaged the enemy at Las Guasimas, and the largest force in this war was commanded by William Shafter, whose weight and gout forced him to observe the battle of El Caney from a distance. An engagement at Siboney eventually led to a battle at Kettle Hill, which led to the capture of Santiago. For 10 points, name this "splendid little war" with engagements at Guam, the Philippines, and Cuba that launched the career of Teddy Roosevelt, and was incited by the sinking of the USS Maine in Havana Harbor in 1898.
+
+----
+num: 20
+category: Science
+difficulty: HS
+fixed: 57
+seen: 491
+answer: {leaf} [or {leaves}]
+
+The Lotus effect represents the adaptation of this structure to extreme moisture, and arums often contain spathes, which are large bracts, which are a modified form of these. Floccose and bearded are two words commonly used to describe their trichomes, or their “hairs”. Directly below their adaxial epidermis lies the series of cylindrical cells known as the palisade layer, and in angiosperms, they come with lamina and petioles. Analogous to the frond of the fern, for 10 points, name this plant organ which also has guard cells and stomata, the site of photosynthesis.
+
+----
+num: 21
+category: Literature
+difficulty: HS
+fixed: 1
+seen: 440
+answer: {Sense} and {Sensibility}
+
+Much of the action of this novel takes place in Barton Park at a cottage owned by John Middleton. One character is engaged to Lucy Steele, who leaves him for his wealthier brother Robert. After the dastardly actions of John Willoughby, one sister in this novel marries the old but kind Colonel Brandon and another marries Edward Ferrars. For 10 points, name this novel in which Marianne and Elinor Dashwood represent to two title qualities, a work of Jane Austen.

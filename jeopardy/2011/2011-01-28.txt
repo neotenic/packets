@@ -1,0 +1,438 @@
+####
+tournament: #6075
+round: Show #6075 - Friday, January 28, 2011
+year: 2011
+date: 2011-01-28
+####
+
+num: 1
+category: History
+difficulty: 200
+seen: 5
+answer: the Trans-Canada Highway
+
+Built at a cost of more than $200 million, it stretches from Victoria, B.C. to St. John's, Newfoundland.
+
+----
+num: 2
+category: Trash
+difficulty: 200
+seen: 6
+answer: David Letterman
+
+This "Late Show" guy: "Fall is my favorite season in L.A., watching the birds change color & fall from the trees".
+
+----
+num: 3
+category: Literature
+difficulty: 200
+seen: 4
+answer: tequila
+
+Jose Cuervo (the co.) says Jose Cuervo (the man) was the first producer of this Mexican agave liquor, in 1795.
+
+----
+num: 4
+category: Literature
+difficulty: 200
+seen: 4
+answer: her editor
+
+Beatrix Potter, you were engaged to Norman Warne, this professional; way to get out of doing revisions.
+
+----
+num: 5
+category: Social
+difficulty: 200
+seen: 5
+answer: cardiology
+
+You should know by heart that this is the study of the heart.
+
+----
+num: 6
+category: Literature
+difficulty: 200
+seen: 4
+answer: a traffic signal (or red light)
+
+"Pregreening" is the act of creeping forward while waiting for one of these to change.
+
+----
+num: 7
+category: History
+difficulty: 400
+seen: 4
+answer: the Panama Canal
+
+The motto of this 1904-1914 engineering project was "The land divided, the world united".
+
+----
+num: 8
+category: Trash
+difficulty: 400
+seen: 5
+answer: Jon Stewart
+
+This "Daily Show" host: "Why do I have to follow CNN on Twitter? If I want to follow CNN, I can follow them on CNN".
+
+----
+num: 9
+category: Literature
+difficulty: 400
+seen: 3
+answer: Jack Daniel\'s
+
+Stories abound as to why this Tenn. sour mash whiskey has "Old No. 7" on its bottles, but its creator took that secret to his grave.
+
+----
+num: 10
+category: Literature
+difficulty: 400
+seen: 4
+answer: Peter Rabbit
+
+So this brother of Flopsy was a real pet of yours; but didn't your cook say something about making Hasenpfeffer?.
+
+----
+num: 11
+category: Social
+difficulty: 400
+seen: 5
+answer: ornithology
+
+No birdbrain, John James Audubon was most closely associated with this -ology.
+
+----
+num: 12
+category: Literature
+difficulty: 400
+fixed: -1
+seen: 4
+answer: children
+
+"Whinese" is a language they use on long car trips.
+
+----
+num: 13
+category: History
+difficulty: 600
+seen: 4
+answer: Hoover Dam
+
+Boulder City, Nevada was built to house the workers who constructed the 1930s structure now called this.
+
+----
+num: 14
+category: Trash
+difficulty: 600
+seen: 5
+answer: Emmy
+
+Jay Leno on July 8, 2010: The "nominations were announced today... there's no 'me' in" this award.
+
+----
+num: 15
+category: Literature
+difficulty: 600
+seen: 4
+answer: Captain Morgan
+
+This captain's brand took off when its founder bought a spiced rum recipe from 2 Jamaican pharmacists.
+
+----
+num: 16
+category: Literature
+difficulty: 600
+seen: 3
+answer: sheep
+
+Beatrix bred Herdwick these, known for grazing over a wide area; sounds like Beatrix at the buffet.
+
+----
+num: 17
+category: Social
+difficulty: 600
+seen: 4
+answer: chronology
+
+The science of determining dates & the sequence of events, it's also a list of those events by date.
+
+----
+num: 18
+category: Literature
+difficulty: 600
+seen: 4
+answer: phishing
+
+"Pharming" is the practice of creating a fake website to engage in this similarly named illegal gathering of info.
+
+----
+num: 19
+category: Trash
+difficulty: 800
+seen: 5
+answer: Jimmy Kimmel
+
+This "Live" ABC guy, on Pam Anderson: "Don't be fooled by the dumb blonde routine.  This woman is as smart as a rock".
+
+----
+num: 20
+category: Literature
+difficulty: 800
+seen: 4
+answer: Jim Beam
+
+This company claims its product is "not just whiskey. It's the world's finest Kentucky straight bourbon whiskey".
+
+----
+num: 21
+category: Literature
+difficulty: 800
+seen: 3
+answer: whiskers
+
+Trix, these features are the last name of a rat you created; did you get the idea from your upper lip in the mirror?.
+
+----
+num: 22
+category: Social
+difficulty: 800
+seen: 5
+answer: anesthesiology
+
+An expert in this medical field selects & administers the drug that puts a patient out during surgery.
+
+----
+num: 23
+category: Literature
+difficulty: 800
+seen: 3
+answer: at work
+
+"Wurfing" is the act of cruising the Internet while here.
+
+----
+num: 24
+category: History
+difficulty: 1000
+seen: 4
+answer: a lighthouse
+
+John Smeaton is known for the all-masonry one of these he built on Eddystone Reef near Plymouth, England.
+
+----
+num: 25
+category: Social
+difficulty: 1000
+seen: 5
+answer: criminology
+
+This -ology, part of sociology, uses the theory of differential association (i.e., hanging around with a bad crowd).
+
+----
+num: 26
+category: Literature
+difficulty: 1000
+seen: 4
+answer: the big toe
+
+The "fumb" is this body part.
+
+----
+num: 27
+category: Geography
+difficulty: 400
+seen: 8
+answer: Ireland
+
+"The Emerald Isle".
+
+----
+num: 28
+category: Geography
+difficulty: 400
+seen: 8
+answer: Pakistan
+
+Karachi is this country's chief port.
+
+----
+num: 29
+category: Literature
+difficulty: 400
+seen: 4
+answer: French
+
+Flavor retired by Baskin-Robbins in 2010:.
+
+----
+num: 30
+category: History
+difficulty: 400
+seen: 5
+answer: Dred Scott
+
+Some historians consider the 1857 decision in this slave v. Sanford to be the worst ever rendered by the Supreme Court.
+
+----
+num: 31
+category: Art
+difficulty: 400
+seen: 4
+answer: a cot
+
+This light, portable canvas bed is usually on a folding wood frame.
+
+----
+num: 32
+category: Geography
+difficulty: 800
+seen: 7
+answer: Komodo
+
+"The Home of the Dragon Lizard".
+
+----
+num: 33
+category: Geography
+difficulty: 800
+seen: 7
+answer: Afghanistan
+
+Mazar-e Sharif, Ghazni & Kandahar are cities in this country.
+
+----
+num: 34
+category: Literature
+difficulty: 800
+seen: 4
+answer: Dutch
+
+A type of cigar:.
+
+----
+num: 35
+category: History
+difficulty: 800
+seen: 3
+answer: (Antonin) Scalia
+
+Taking his seat in 1986, he's the Associate Justice seen.
+
+----
+num: 36
+category: Literature
+difficulty: 1200
+seen: 4
+answer: Colin Firth
+
+This British sex symbol earned an Oscar nomination as a bereaved prof in "A Single Man".
+
+----
+num: 37
+category: Geography
+difficulty: 1200
+seen: 7
+answer: Kazakhstan
+
+Aralsk, Shu & (Good Lord!) Almaty are cities in this country.
+
+----
+num: 38
+category: Literature
+difficulty: 1200
+seen: 4
+answer: Norwegian
+
+The Beatles knew it was used to make cheap furniture:.
+
+----
+num: 39
+category: History
+difficulty: 1200
+seen: 4
+answer: (Louis) Brandeis
+
+Appointed by Woodrow Wilson, he was the Supreme Court's first Jewish justice.
+
+----
+num: 40
+category: Art
+difficulty: 1200
+seen: 5
+answer: shampoo
+
+You wash your keratinous filaments with this.
+
+----
+num: 41
+category: Geography
+difficulty: 1600
+seen: 9
+answer: Kauai
+
+"The Garden Island" of Hawaii.
+
+----
+num: 42
+category: Literature
+difficulty: 1600
+seen: 4
+answer: George
+
+Arthur Hill won a Tony as this professor in "Who's Afraid of Virginia Woolf?" on Broadway.
+
+----
+num: 43
+category: Literature
+difficulty: 1600
+seen: 4
+answer: Russian
+
+Wine-producing region in Sonoma:.
+
+----
+num: 44
+category: Art
+difficulty: 1600
+seen: 4
+answer: a dinghy
+
+A small boat that's towed behind or carried on a large boat.
+
+----
+num: 45
+category: Literature
+difficulty: 2000
+seen: 6
+answer: Russell Johnson
+
+He played the brilliant "Gilligan's Island" professor who couldn't figure out how to build a raft.
+
+----
+num: 46
+category: Geography
+difficulty: 2000
+seen: 13
+answer: Uzbekistan
+
+You'll find Uchkuduck & the Ustyurt Plateau in this country.
+
+----
+num: 47
+category: History
+difficulty: 2000
+seen: 5
+answer: (William) Marbury
+
+This plaintiff sued to get defendant James Madison to deliver the commission that would make him a judge in D.C.
+
+----
+num: 48
+category: Art
+difficulty: 2000
+seen: 5
+answer: cummerbund
+
+This is the Hindi word for a loin band; you'll see them if you go to a black-tie event.

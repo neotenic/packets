@@ -1,0 +1,254 @@
+####
+tournament: NASAT
+round: 8.pdf
+year: 2010
+####
+
+num: 1
+category: History
+difficulty: HS
+fixed: -1
+seen: 419
+answer: {collective} farms [accept {general} equivalents; accept {collectivization} of {agriculture}; accept
+
+In one country, this policy was implemented with Duris' Laws, while in another country, this policy was proposed in a series of 1957 “Theses” within the government of Matyas Rakosi. In the country with which this policy is most associated, its chief proponent called for its temporary halt in an article entitled “Dizzy with Success.” This policy created kolkhozys, resulted in the death of millions in the Holodomor, and was one of the most notorious aspects of the Five Year Plan. For 10 points, name this general term for agricultural production imposed on the Soviet Union between 1928 and 1940, in which producers shared their land and resources.
+
+----
+num: 2
+category: Science
+difficulty: HS
+fixed: 1
+seen: 489
+answer: friction
+
+Systems affected by this phenomenon exhibit spring-like motion over very small distances in the Dahl effect. Its magnitude unexpectedly decreases at near-zero velocities in the Stribeck Effect. More commonly, it is described by the Coulomb model, which includes Amontons' laws, the first of which states that this force is independent of the contact area and the second of which claims that its magnitude is proportional to that of the normal force. The coefficient associated with this force is denoted by mu and is higher for the static type than the kinetic type. For 10 points, name this force that retards the motion of an object moving along a surface.
+
+----
+num: 3
+category: Mythology
+difficulty: HS
+fixed: 1
+seen: 781
+answer: Arachne
+
+In one version of the myth concerning this figure, she was sprinkled with the juices of the aconite plant. Pliny notes that this figure pioneered the use of nets and linen and bore a son named Closter, who was the first to use the spindle. The forest nymphs stopped what they were doing when this daughter of Colophon, a dyer of Tyrian purple, performed her most famous action in spite of an old woman telling her to curb her pride. In spite of this, this figure depicted the infidelities of Zeus and hung herself in shame when she realized she could not hope to match Athena. For 10 points, name this weaver who was transformed into a spider.
+
+----
+num: 4
+category: Literature
+difficulty: HS
+fixed: None
+seen: 445
+answer: {Kimball} O'Hara 
+
+This character reads a horoscope that tells him his life will be changed by a red bull in a field of green, which comes to pass when he sees the flag of a military unit called the Mavericks. He wears a locket opened by the chaplain Arthur Bennett, which contains a note from his father and a baptism certificate. He saves the life of the horse trader Mahbub Ali and becomes the disciple of a lama who is searching for the River of the Arrow. That lama pays for his education at St. Xavier's before he steals valuable papers from some French and Russian spies. Although his mother is Irish, his skin becomes dark under the sun of Lahore. For 10 points, name this orphan who aids the British secret service as the title character of a novel by Rudyard Kipling.
+
+----
+num: 5
+category: Fine Arts
+difficulty: HS
+fixed: 1
+seen: 487
+answer: {Raphael Sanzio} [or {Raphael} Sanzio]
+
+In one of this artist's paintings, Saint Sixtus and Saint Barbara flank a woman standing on a cloud-covered globe, while two pensive cherubs look up at her from the bottom. Another of this artist's paintings is a tondo usually named for the Spanish family that once owned it, and depicts the infant John the Baptist giving a thin cross to the infant Jesus, who sits in the lap of Mary in a pastoral meadow. In a similar painting by this artist, the infant John the Baptist stands in a meadow and gives a small golden bird to the infant Jesus. This Italian Renaissance artist is renowned for his many Madonnas, which include the Sistine Madonna, the Alba Madonna, and the Madonna of the Goldfinch. For 10 points, name this artist who also showed Plato and Aristotle conversing at the center of his The School of Athens.
+
+----
+num: 6
+category: History
+difficulty: HS
+fixed: 1
+seen: 419
+answer: War of the {Spanish Succession}
+
+An early battle in this war saw the Irish Brigade defend the Po gate of the namesake city following the capture of the Duc de Villeroi. The talks that ended this war gave Britain the right to import forty eight hundred slaves to the Americas and were negotiated at Rastatt and Baden. This war included the early battle of Cremona, which preceded a attempt to take Vienna thwarted by the Duke of Marlborough and Eugene of Savoy. One theater of this war was Queen Anne's War, and its outcome required that Philip of Anjou give up his position as son of the Dauphin in order to inherit the lands of his father Charles II, as determined by the Treaty of Utrecht. For 10 points, name this conflict fought to prevent the house of Bourbon from uniting the thrones of France and Spain.
+
+----
+num: 7
+category: Science
+difficulty: HS
+fixed: 57
+seen: 488
+answer: a {stack}
+
+In x86 architectures, the frame pointer and a pointer by this name are used to access local variables and function information. Factor and Forth are languages based on the structure by this name. Operations in reverse Polish notation and other postfix systems are implemented using the data structure of this name. The canonical machine that decides context-free grammars contains one instance of this data structure. This data structure can be inspected but not modified using the top operation, but is built up and broken down using the operations push and pop. For 10 points, name this data structure that implements first-in last-out ordering, as contrasted with a queue.
+
+----
+num: 8
+category: Fine Arts
+difficulty: HS
+fixed: 1
+seen: 500
+answer: Tosca
+
+The title character of this work sees familiar blue eyes in a painting that lead her to believe that her lover is seeing the Marchesa. In this opera's third act, a man dons women's clothing and is promised "Even if it costs me my life, I'll save you" before a cannonball is fired from the Castel Sant'Angelo. In the first act of this opera, choir boys who mistakenly believe that Napoleon has lost at Marengo rehearse a celebratory "Te Deum." The title character of this opera sings that she lived for art in the aria "Vissi d'arte," which is followed by the suicide of Angelotti. This opera's title character sleeps with the sinister Baron Scarpia in a failed attempt to save the life of her lover, the painter Cavaradossi. For 10 points, name this opera in which the title singer jumps to her death, composed by Giacomo Puccini.
+
+----
+num: 9
+category: History
+difficulty: HS
+fixed: 57
+seen: 409
+answer: Patrice {Lumumba}
+
+Larry Devlin and Sidney Gottlieb were both implicated in the murder of this man, which was attempted with poison placed in a tube of toothpaste. This founder of the MNC party gave an independence day speech sharply contrasting with the one given by King Baudouin, and was involved in a power struggle with Joseph Kasavubu. Shortly after taking power, he appealed for Soviet aid after Moishe Tshombe declared the region of Katanga to be independent. Later, he was deposed by a coup led by Joseph Mobutu. For 10 points, name this first Prime Minister of the Democratic Republic of the Congo, murdered in 1961.
+
+----
+num: 10
+category: Science
+difficulty: HS
+fixed: 1
+seen: 484
+answer: {Van Der Waals} equation of state
+
+Materials that obey this relation have an interparticle potential proportional to d over r to the 6th power, assuming r is greater than d. The isotherm of this equation below the critical temperature was modified by Maxwell to include a flat portion, which removes the metastable states. It assumes the material in question consists of hard spheres of equal radius, and can be derived as a first-order truncation of the virial equation. It contains parameters for inter-particle attraction and particle volume, or a and b respectively. For 10 points, name this modification of the Ideal Gas Law, an equation of state named for a Dutch chemist.
+
+----
+num: 11
+category: Literature
+difficulty: HS
+fixed: 57
+seen: 443
+answer: The Taming of the Shrew
+
+In this play's third act, two characters respectively woo a woman by giving her a paragraph of fake Latin and a gamut containing declarations of passion. In its second act, a woman declares "If I be waspish, best beware my sting," although she later lectures two other women that "Thy husband is thy lord, thy life, thy keeper." In this play's fourth act, its female lead agrees that the sun is the moon and the moon is the sun if the male lead thinks it is. Its frame narrative sees a Lord trick the drunk tinker Sly into thinking he is a noble, for whom the title play is performed. Its male lead has "come to wive it wealthily in Padua," and courts the title character so that Baptista will permit his daughter Bianca to marry. For 10 points, name this Shakespeare play that chronicles Petruchio's courtship of the title headstrong woman, Katherina.
+
+----
+num: 12
+category: History
+difficulty: HS
+fixed: 57
+seen: 412
+answer: George Stanley {McGovern}
+
+This man is the namesake of a 1977 report also called Dietary Goals for the United States. He lost his Senate seat to James Abdnor. In one speech, he told the Senate “this chamber reeks of blood” before urging the passage of an amendment he co-sponsored with Mark Hatfield. That 1970 amendment would have forced complete withdrawal of American troops from Vietnam. During his presidential bid, he was forced to drop his original running mate, who had undergone electroshock therapy. He thus replaced Thomas Eagleton with Sargent Shriver. For 10 points, name this Senator from South Dakota who lost to Richard Nixon in the 1972 presidential election.
+
+----
+num: 13
+category: Fine Arts
+difficulty: HS
+fixed: -1
+seen: 498
+answer: Alexander {Borodin}
+
+This composer adapted a theme from the finale of Beethoven's String Quartet in B minor for the Allegro movement of his String Quartet number one in A major. This composer's second string quartet, in the key of D major, features a third movement Nocturne that is often performed on its own. A symphonic poem by this composer begins with a lone high E played by the violins, uses a theme played by the English horn to represent merchants, and features a pizzicato accompaniment representing camels walking through the desert. The title character of an opera by this composer is captured by Konchak, whose slaves perform the Polovtsian Dances. For 10 points, name this Russian composer of In the Steppes of Central Asia and the opera Prince Igor.
+
+----
+num: 13
+category: Fine Arts
+difficulty: HS
+fixed: 57
+seen: 488
+answer: Alexander {Borodin}
+
+This composer adapted a theme from the finale of Beethoven's String Quartet in B minor for the Allegro movement of his String Quartet number one in A major. This composer's second string quartet, in the key of D major, features a third movement Nocturne that is often performed on its own. A symphonic poem by this composer begins with a lone high E played by the violins, uses a theme played by the English horn to represent merchants, and features a pizzicato accompaniment representing camels walking through the desert. The title character of an opera by this composer is captured by Konchak, whose slaves perform the Polovtsian Dances. For 10 points, name this Russian composer of In the Steppes of Central Asia and the opera Prince Igor.
+
+----
+num: 14
+category: Science
+difficulty: HS
+fixed: -1
+seen: 482
+answer: {transcription} factor [or {TF}; prompt on {DNA binding protein}]
+
+One class of these proteins contain a winged helix or forkhead box domain, while another class of these is inhibited by Rb protein and regulates the production of cyclins, called E2F. Another class of these homodimerizes after being activated by the JAK kinase and regulates the production of interferon, and are known as the STAT proteins. An example of them from yeast used in various experiments is GAL4, which binds to UAS. They operate by recruiting coactivators or histone acetyltransferases and bind to consensus sequences. Many of these proteins contain a leucine zipper or a zinc finger. Basal ones include TFIID, which binds to the TATA box, and most contain an activating domain and a DNA binding domain. For 10 points, name these proteins responsible for recruiting RNA polymerase and promote their namesake process of RNA production.
+
+----
+num: 15
+category: History
+difficulty: HS
+fixed: 1
+seen: 419
+answer: {Crimean} War
+
+Mary Seacole ran a hospital for soldiers injured on the front of this war, which William Howard Russell gained fame for reporting on. Tensions that led to this war increased when Russia insisted that another country follow the conditions of the Treaty of Kuchuk Kainarji, leading to fears that Russia was attempting to establish exclusive influence over that country in violation of the Straits Treaty. The treaty ending this war demilitarized the Åland Islands, made the Black Sea neutral, and prevented Russia from claiming the right to protect the Christians in the Ottoman Empire. For 10 points, name this war which saw the bloody Siege of Sevastopol, and pitted France and Great Britain against Russia in the namesake Ukranian peninsula from 1853 to 1856.
+
+----
+num: 16
+category: Religion
+difficulty: HS
+fixed: 57
+seen: 448
+answer: {Levites} [or Tribe of {Levi}]
+
+Members of this group are exempt from the Pidyon HaBen ceremony that redeems others from priestly obligations. A document named for this group contains an additional Greek footnote describing the central figure's initiation to priesthood and the arrogance of that figure's descendants. Families of three members of this group, Kohath, Merari, and Gershon, were responsible for transporting the Tabernacle. This group's patriarch destroyed the city of Shechem with Simeon in response for the rape of Dinah, and his youngest daughter Jochebed gave birth to Miriam, Aaron, and Moses. For 10 points, name this tribe of Israel founded by the third son of Jacob and Leah.
+
+----
+num: 17
+category: Social Science
+difficulty: HS
+fixed: 57
+seen: 387
+answer: Clifford James {Geertz}
+
+This man differentiated between swidden and sawah in a book written during his time on the Modjokuto Project. He distinguished between symbols that are "models of" the world and "models for" the world in his article "Religion as a Cultural System." This author of Agricultural Involution stated that "culture is public, because meaning is"; another section of that work describes a complicated betting system, the role of the umpire, and men's identification with their participants in the title event, and is entitled Deep Play: Notes on the Balinese Cockfight. For 10 points, name this American anthropologist who pioneered the use of thick description in The Interpretation of Cultures.
+
+----
+num: 17
+category: Social Science
+difficulty: HS
+fixed: 57
+seen: 379
+answer: Clifford James {Geertz}
+
+This man differentiated between swidden and sawah in a book written during his time on the Modjokuto Project. He distinguished between symbols that are "models of" the world and "models for" the world in his article "Religion as a Cultural System." This author of Agricultural Involution stated that "culture is public, because meaning is"; another section of that work describes a complicated betting system, the role of the umpire, and men's identification with their participants in the title event, and is entitled Deep Play: Notes on the Balinese Cockfight. For 10 points, name this American anthropologist who pioneered the use of thick description in The Interpretation of Cultures.
+
+----
+num: 18
+category: Literature
+difficulty: HS
+fixed: 57
+seen: 451
+answer: {Satyricon}
+
+Part of this work is set at Crotona, where the main character suffers from impotence after trying to make love to Circe and flees after killing a goose in a temple run by Oenothea. Another section sees the death of Lichas of Tarentum in a storm. Earlier, in order to keep passage on Lichas's ship, the poet Eumolpos tells the story of the Widow of Ephesus. This work opens with a debate between Agamemnon and Encolpius outside of a literary school. In its best known section, those two characters attend an extravagant feast given by the husband of Fortunata, Trimalchio. For 10 points, name this major work of Petronius.
+
+----
+num: 19
+category: Philosophy
+difficulty: HS
+fixed: 1
+seen: 523
+answer: {Tractatus} Logico-Philosophicus
+
+One section of this work explains that in Parisian courts, cases of traffic accidents are reconstructed by using toy trucks and toy baby carriages to show the spatial relationships of the vehicles, which this work takes as an analogy for how the relationships in a proposition represent the world. It claims that statements which are not built atomistically from empirical facts are meaningless, and thus that mathematics is tautological and metaphysics describes nothing. By its end, this text challenges the usefulness of any language, and advises discarding this book itself as a ladder which has been climbed. Also suggesting to "pass over in silence" that which cannot be spoken of, its propositions were undermined years later by the same author's Philosophical Investigations. For 10 points, identify this text, which was organized in seven sections as a mathematical proof and written by Ludwig Wittgenstein.
+
+----
+num: 20
+category: Literature
+difficulty: HS
+fixed: 57
+seen: 447
+answer: Emily Dickinson
+
+This author compared life to a porcelain cup locked away by a Sexton in a love poem which begins "I cannot live with You / It would be Life." Other poems by this author call publication the "Auction / Of the Mind of Man" and describe a phenomenon that "oppresses, like the Heft / Of Cathedral Tunes." This author of "There's a certain Slant of light" compared the treading of Mourners to the breaking through of sense in a poem whose speaker asserts "I felt a Funeral, in my Brain." This poet called herself "inebriate of air" and "Debauchee of Dew" after drinking "From Tankards scooped in Pearl" in her poem "I taste a liquor never brewed." For 10 points, name this poet known as the "Belle of Amherst," who used a plethora of dashes in poems such as "I heard a fly buzz when I died."
+
+----
+num: 21
+category: Science
+difficulty: HS
+fixed: 57
+seen: 491
+answer: {knots}
+
+Two distinct ones of these cannot have the same exterior by the Gordon-Luecke theorem. Dowker notation can describe their projection. Twist, poke, and slide make up the Reidemeister moves on diagrams of these. They can be described by Jones and Alexander polynomials, which can be generalized to the HOMFLY polynomial. A simple loop is known as the un- one of these; a simple, non-trivial one is the trefoil. Slightly more general structures permitting open ends are known as braids. For 10 points, name these closed non-intersecting curves that cannot be untangled.
+
+----
+num: 22
+category: Geography
+difficulty: HS
+fixed: 1
+seen: 578
+answer: Senegal
+
+The Diola people in the southern Casamance region have long waged a separatist conflict in this nation. The city of Kaolack lies along Saloum River, a major waterway along which mangrove forests have been dying out. The Wolof, Pular and Serer peoples together make up a large majority of the population, which is almost entirely Muslim. This former French colony surrounds Gambia and was once part of the Federation of Mali. For 10 points, name this country formerly ruled by Leopold Senghor, the westernmost continental nation of Africa, whose capital is Dakar.
+
+----
+num: 23
+category: Literature
+difficulty: HS
+fixed: 57
+seen: 447
+answer: the {Cantos}
+
+One of the last of these poems asks "I have brought the great ball of crystal; who can lift it?" The eighty-first of these poems concludes by repeating the phrase "Pull down thy vanity." The forty-fifth of them repeats the words "with usura," and was originally published as part of the "Fifth Decad" of these poems. Some of these poems are largely a collage of the writings of John Adams, while others were published under the title "Section: Rock Drill." A group of these poems praising Confucianism and including Chinese characters is usually known as the "China" ones. In 1948, the first Bollingen Prize was awarded to a group of these poems known as the "Pisan" ones. For 10 points, name this group of long, allusive modernist poems written by Ezra Pound.

@@ -1,0 +1,275 @@
+####
+tournament: Sample
+round: round9.pdf
+####
+
+num: 1
+category: Physics
+difficulty: HS
+fixed: -1
+seen: 25
+answer: 14,400
+
+An emergency floodlight draws 1 ampere from its battery pack. How many coulombs will flow through the light in 4 hours?
+
+----
+num: 3
+category: Biology
+difficulty: HS
+seen: 41
+answer: Guard Cells;  2
+
+What specific cells and how many of them border each stomal pore?
+
+----
+num: 4
+category: Math
+difficulty: HS
+seen: 26
+answer: 7
+(Solution:  a = ½ Ap;  280 = ½ (16)(p); P = 35/5 = 7 Cm)
+
+If the area of a regular pentagon is 280 square centimeters, what is the length, in centimeters, of each side if the apothem is 16 centimeters?
+
+----
+num: 6
+category: General Science
+difficulty: HS
+seen: 31
+answer: Inductive;  Deductive
+
+Name 2 of the following 4 choices that are the 2 main logical reasoning methods used in science: inductive; synthetic; observational; deductive
+
+----
+num: 6
+category: General Science
+difficulty: HS
+seen: 31
+answer: 283
+(Solution: 5/9(50º – 32º) = 10º C + 273 = 283 K)
+
+To the nearest whole number, convert 50ºF into kelvin :
+
+----
+num: 8
+category: Physics
+difficulty: HS
+fixed: -1
+seen: 25
+answer: Farads Per Meter
+
+What are the SI units for permittivity?
+
+----
+num: 9
+category: Chemistry
+difficulty: HS
+seen: 33
+answer: 1.8
+(Solution: 2 – 0.2 = 1.8)
+
+Consider the following equilibrium reaction, 
+PCl ↔ PCl + Cl . If a 2 mole sample of PCl^ dissociates to give 0.2 moles of Cl^5(gas) ^3(gas) ^2(gas) ^5 ^2at equilibrium, find the molar amounts, to the 1 ^st decimal place, of PCl^5 at equilibrium:
+
+----
+num: 10
+category: Biology
+difficulty: HS
+seen: 41
+answer: Pr Ophase-One  (Accept:  Prophase)
+
+During what phase of meiosis-one do homologous chromosomes exchange genetic information?
+
+----
+num: 10
+category: Biology
+difficulty: HS
+fixed: -1
+seen: 40
+answer: Secondary Follicle;  Corpus Luteum;  Corpus Albicans;
+Largest = Corpus Luteum
+
+Order the following 3 choices from the EARLIEST stage to the 
+LATEST stage of ovarian follicle development, and identify which of the structures is typically the 
+LARGEST: secondary follicl e; corpus luteum; corpus albicans
+
+----
+num: 11
+category: Math
+difficulty: HS
+fixed: -1
+seen: 25
+answer: 90
+(Solution: Arc/circumference =  Nº/360º; N = 90º or (8π/2π16)(360º) = 90º)
+
+A circle has a diameter of 32 meters. Find the degree measure of the central angle of a sector o f the circle if its arc length measures 8π meters:
+
+----
+num: 11
+category: Math
+difficulty: HS
+seen: 25
+answer: 250
+
+Find the sum of the first 10 terms of the arithmetic sequence whose first three terms are 7, 11, and 15:
+
+----
+num: 13
+category: General Science
+difficulty: HS
+seen: 28
+answer: All
+
+In the northern hemisphere, name all of the following 4 northern degree latitudes that will experience a 12 -hour length of day during the vernal equinox: 0º; 10º; 15º; 20 º
+
+----
+num: 14
+category: Astronomy
+difficulty: HS
+seen: 55
+answer: Sublimation
+
+As a comet approaches the Sun, most of its icy substances are released during what phase change process?
+
+----
+num: 15
+category: Physics
+difficulty: HS
+seen: 25
+answer: Doping
+
+What is the general t erm for the process of making different types of semiconductors by adding slight amounts of impurities into the silicon matrix?
+
+----
+num: 15
+category: Physics
+difficulty: HS
+seen: 27
+answer: N-Type
+
+What specific type of semiconductor is produced by doping silicon with arse nic?
+
+----
+num: 16
+category: Chemistry
+difficulty: HS
+seen: 35
+answer: O^2^1–
+
+Name all of the following 4 species that contain an odd number of electrons: O^2^1–; O^2^2–; SO^2; CO
+
+----
+num: 17
+category: Biology
+difficulty: HS
+seen: 40
+answer: Middle Lamella
+
+What is the layer typically found between 2 plan t cell walls of adjoining plant cells which is composed of pectin?
+
+----
+num: 18
+category: Math
+difficulty: HS
+seen: 26
+answer: Vertical Line Test  (Accept:  Vertical Line)
+
+What is the name for the test that can be used to visually determine whether or not a relation defined by a graph represents a function?
+
+----
+num: 18
+category: Math
+difficulty: HS
+seen: 24
+answer: X-Intercept = (8, 0) (Accept:  8);  Y-Intercept = (0, 16)  (Accept: 16)
+
+Find the x and y intercepts of the line passing through the point (4, 8) that is perpendicular to the line 3 x – 6y – 12 = 0:
+
+----
+num: 21
+category: Astronomy
+difficulty: HS
+seen: 55
+answer: Distance From Earth;  Intrinsic Brightness
+
+Which 2 of the following 4 factors most di rectly determine the apparent visual magnitude of a star: distance from Earth; intrinsic brightness; color; age
+
+----
+num: 21
+category: Astronomy
+difficulty: HS
+seen: 53
+answer: Apparent Magnitude;  Orbital Period  ( Accept:  Brightness or 
+Magnitude)
+
+What 2 characteristics of Uranus are most common ly noted as the reasons why Uranus was not discovered until the late 1700’s?
+
+----
+num: 22
+category: Physics
+difficulty: HS
+seen: 27
+answer: 2
+
+In the electrolysis of water, if the production of each molecule of oxygen requires 4 units of electricity, each hydrogen molecule will require how many units of electricity?
+
+----
+num: 22
+category: Physics
+difficulty: HS
+seen: 28
+answer: 16
+(Solution: 100w/110 = 0.9 Amps; 15 Amp fuse/0.9 Amp =  16.7 or 16 Bulbs)
+
+What is the maximum number of 100 -watt light bulbs that can run on a 110-volt residentia l circuit protected by a 15 -amp fuse without blowing the fuse?
+
+----
+num: 23
+category: Chemistry
+difficulty: HS
+seen: 35
+answer: Ethylene;  Propylene  (Accept:  Ethene;  Propene)
+
+What are the 2 alkenes (read as: al-KEENS) with the shortest carbon chains and lowest molecular weights?
+
+----
+num: 24
+category: Biology
+difficulty: HS
+seen: 40
+answer: Sclerenchyma
+
+Which one of basic plant cell types has a primary and secondary cell wall that is dead when mature?
+
+----
+num: 24
+category: Biology
+difficulty: HS
+seen: 39
+answer: Cycads;  Conifers
+
+Name all of the following 4 plants that produce seeds: cycads; ferns; mosses; conifers
+
+----
+num: 25
+category: Chemistry
+difficulty: HS
+seen: 35
+answer: Catalyst
+
+What is the general name for a substance that facilitates a chemical reaction by providing an alternative reaction pathway with a lower activation energy while remaining unaltered?
+
+----
+num: 25
+category: Chemistry
+difficulty: HS
+fixed: -1
+seen: 34
+answer: 200
+(Solution: M
+^1v
+^1 = M
+^2v
+^2;  (0.250m)(x) = (0.100m)(500ml), X = 200 Ml)
+
+You need to prepare 500 milliliters of a 0.100 molar NaOH solution from a 0.250 molar solution. What volume, in milliliters, of the 0.250 molar solution must be diluted to 500 milliliters?

@@ -1,0 +1,224 @@
+####
+tournament: HSAPQ ACF 1
+round: Round_12_HSAPQACF1.pdf
+year: 2008
+####
+
+num: 1
+category: Science
+difficulty: HS
+fixed: 57
+seen: 483
+answer: {capacitor}
+
+When used with resistors, they can be used to eliminate signals above or below desired frequencies in high-pass and low-pass filters. The quantity associated with these objects is equal to charge over voltage, and the function of one can be improved by placing an insulating material that conducts electric fields between its two metal plates. For 10 points, identify this circuit element which stores charge, and whose namesake property is measured in Farads.
+
+----
+num: 2
+category: Fine Arts
+difficulty: HS
+fixed: None
+seen: 495
+answer: {trumpet}
+
+In the baroque era, this instrument was manufactured with a slide and may have been referred to as “da tirarsi.” Michael Haydn and Leopold Mozart both wrote concerti for it with only two movements. This instrument poses “The Unanswered Question” in a Charles Ives work, and Jeremiah Clarke may have written a D major work called the “Prince of Denmark's March” which has become known as this instrument's “voluntary.” Related to the cornet, for 10 points, name this instrument played by Winton Marsalis, a brass instrument with three valves.
+
+----
+num: 3
+category: Literature
+difficulty: HS
+fixed: 57
+seen: 439
+answer: “To His {Coy Mistress}”
+
+The speaker of this poem tells its addressee that "The grave's a fine and private place, / But none I think do there embrace." He warns that worms "will try / That long preserv'd virginity," and resolves to "tear our pleasures with rough strife / Thorough the iron gates of life." The speaker concludes that though certiain others cannot make the sun stand still, “yet [they] will make him run,” and argues that the addressee could refuse his advances “Till the Conversion of the Jews,” “had [they] but World enough, and Time.” For 10 points, name this poem by Andrew Marvell.
+
+----
+num: 4
+category: Geography
+difficulty: HS
+fixed: 1
+seen: 708
+answer: Madagascar
+
+The volcanic Ankaratra Massif lies in its center, and this nation's Great Cliff of Angavo is bordered by the Betsimisaraka Escarpment. The Mandrare, Mananara, and Ivondro rivers are located in this nation, and its largest port is Toamasina. Lake Alaotra is its largest lake, its highest peak is Maromokotro, and the coelacanth (SEEL-uh-canth) lives off its shores. This country's largest ethnic group is the Merina, and this former colony of France is located on the east of the Mozambique Channel. For 10 points, name this African island nation, with its capital at Antananarivo.
+
+----
+num: 5
+category: Science
+difficulty: HS
+fixed: -1
+seen: 485
+answer: {titanium} [accept {Ti} before it is read]
+
+Along with organo-aluminum compounds, this element is commonly used to catalyze alkene polymerization via Ziegler-Natta catalysts. An oxide of barium and this element is notable for exhibiting piezoelectricity. It is isolated from its oxide salt in the Kroll process, and that oxide is widely used as a pigment due to its white color. It lies between scandium and vanadium on the periodic table and is the second0lightest transition element. For 10 points, identify this element with atomic number 22 and symbol Ti.
+
+----
+num: 6
+category: Literature
+difficulty: HS
+fixed: 1
+seen: 445
+answer: Sweden
+
+One novel written by a native of this country focuses on a retired public school teacher living in Vastmanland and is entitled Death of a Beekeeper. An author from this country wrote about the twenty- six inch tall strangler of Jehosaphat in The Dwarf, and penned a novel set after the crucifixion of Jesus, Barabbas. This country is home to the playwright of The Ghost Sonata and Miss Julie, as well as Lars Gustaffson, Selma Lagerlof, and Par Lagerkvist. For 10 points, name this home country of August Strindberg, where the Nobel Prize in Literature is awarded in Stockholm.
+
+----
+num: 7
+category: Social Science
+difficulty: HS
+fixed: 1
+seen: 376
+answer: Margaret {Mead}
+
+This thinker collaborated with James Baldwin on A Rap on Race. In addition to work on Pacific Islanders collected in Male and Female, this anthropologist noted that females are the leaders in Chambri in Sex and Temperament in Three Primitive Societies. Derek Freeman criticized this anthropologist's fieldwork, especially a book that proposed that the happiness of the subjects was due to their carefree, unrepressed lifestyle. For 10 points, identify this anthropologist, who wrote Coming of Age in Samoa.
+
+----
+num: 8
+category: History
+difficulty: HS
+fixed: 57
+seen: 421
+answer: {Hanseatic} League [accept the {Hansa}]
+
+This entity signed the Peace of Wordingborg, and reached the height of its power after signing the Peace of Stralsund. It centered around the four kontors of Wisby, Bergen, London, and Bruges. Before being attacked by Waldemar IV, it achieved dominance through the use of cog ships, although its monopoly was eventually broken by the Dutch. Founded in the twelfth century by merchants in Hamburg and Lubeck, for 10 points, name this medieval federation of North German shipping towns.
+
+----
+num: 9
+category: Science
+difficulty: HS
+fixed: -1
+seen: 488
+answer: {Mohorovicic} discontinuity
+
+Early models for it used a constant velocity parametrization model. Those models only considered the regions of mafic and ultramafic rock that surrounded it. First hypothesized due to an event that occurred in the Kulpa valley, it is marked by a rapid increase in the velocity of compressional waves, and its depth ranges from five to fifty kilometers. Named for a Croatian seismologist, for 10 points, identify this region which forms the boundary between the crust and the mantle.
+
+----
+num: 10
+category: Science
+difficulty: HS
+fixed: 57
+seen: 482
+answer: {inverse} [accept word forms]
+
+Matrices that are not square may have retractions and sections without having one of these, and a square matrix doesn't have one if its determinant is zero; in other words, if it is degenerate or singular. The trigonometric functions are made to have one by introducing domain restrictions, though notational difficulties arise due to the traditional use of superscripts. The identity function has one, since it easily passes the horizontal line test. For 10 points, give the term that indicates that a function's action undoes the action of another.
+
+----
+num: 11
+category: Trash
+difficulty: HS
+fixed: 1
+seen: 1019
+answer: {"The End"} [or "In the {End"}]
+
+These two words are preceded by “Chapter 1” in an album which contains “Our Arrival” and “Gotcha Shakin'.” This phrase names a song where the singer is lost in a "Roman wilderness of pain," addressed to a "beautiful friend." Another song with this name claims that “the love you take is equal to the love you make.” In addition to those songs by The Doors and The Beatles, a more recent song places this time period after the singer "tried so hard, and got so far." For 10 points, name this time during which "it doesn't even matter" according to a Linkin Park song.
+
+----
+num: 12
+category: History
+difficulty: HS
+fixed: 1
+seen: 423
+answer: {Poor Richard} [or {Richard Saunders}; prompt on {Richard}]
+
+This character was introduced as a slow-witted astronomer. He opines that hungry men have trouble behaving morally, noting “it is hard for an empty sack to stand upright.” A book whose title saw this figure “improved” was later reissued as The Way to Wealth, and his namesake publication came out each year from 1732 to 1757. His other sayings include “God helps those who help themselves” and “Early to bed and early to rise, makes a man healthy, wealthy, and wise.” For 10 points, name this alias of Benjamin Franklin, the narrator of a certain “Almanac.”
+
+----
+num: 13
+category: Literature
+difficulty: HS
+fixed: 1
+seen: 446
+answer: Robert Louis {Stevenson}
+
+This author wrote about a man who learns “Proot” is the magic word to control Modestine during his trip to St. Jean du Gard in “Travels with a Donkey.” Ebenezer sells his nephew to the Covenant in a novel by this man about David Balfour. In addition to The Master of Ballantrae, another of his novels begins when Old Man Pew comes to the Admiral Benbow to look for Billy Bones, and focuses on Jim Hawkins and Long John Silver. For 10 points, name this author of Kidnapped and Treasure Island.
+
+----
+num: 14
+category: History
+difficulty: HS
+fixed: 1
+seen: 418
+answer: Jawaharlal {Nehru} [accept {Pandit} before it is read]
+
+He was imprisoned in Ahmadnagar fort for twenty months during World War II, and he gave the noted “Tryst With Destiny” speech. He ordered the occupation of the Portuguese colony of Goa, and he was sometimes called Pandit. His adherence to the policy of Non-Alignment was tested with the 1962 Chinese invasion, and he spent nine years of his life in prison for his involvement with the Congress Party and the Quit India Movement. For 10 points, name this father of Indira Gandhi and first prime minister of India.
+
+----
+num: 15
+category: Mythology
+difficulty: HS
+fixed: 57
+seen: 778
+answer: eyes
+
+Two creatures from pre-Islamic Persian myth, the donkey god Khara and the demon Azi Dahaka, had six of these. The Greek monster Typhon issued venom from them, and Horus is said to lose these every time there is an eclipse. A guard killed by Hermes, Argus, had a hundred of these, and some of the creatures who had less than the usual number of these were Steropes, Brontes, Arges, and Polyphemus, who lost his to Odysseus. For 10 points, name these physical features, of which Shiva had three and each Cyclops had but one.
+
+----
+num: 16
+category: Fine Arts
+difficulty: HS
+fixed: 57
+seen: 494
+answer: the {Bird} in {Space} series [or {Bird} in {Flight}]
+
+The creator of this work made a similar "Golden" piece of art that sits on a base of mashed-together trapezoidal prisms. This work was inspired by its creator's previous Maiastra series. Seven works with this name were constructed in marble, while nine are in bronze. This work was taxed in customs for not being "art" upon entry into the United States, and its body is elongated while its head, beak, and feathers are streamlined. For 10 points, name this series of statues by Constantin Brancusi that depicts an avian in the cosmos.
+
+----
+num: 17
+category: History
+difficulty: HS
+fixed: None
+seen: 420
+answer: {Sicily}
+
+Ibn Abbad led a failed rebellion designed to prevent Frederick II from purging this place of Muslims, and the Battle of Benevento led to Angevin rule until this island's namesake Vespers. Operation Husky, designed to liberate this island from Axis control, was the first Allied excursion back into Europe during World War II, and Archimedes's inventions temporarily defended this island's city of Syracuse from Roman attacks. For 10 points, name this island, an Italian possession southeast of Sardinia, which is still home to the Mafia.
+
+----
+num: 18
+category: Philosophy
+difficulty: HS
+fixed: 1
+seen: 525
+answer: Saint {Augustine} of Hippo
+
+He wrote that visible signs or sacraments were the only means to provide religious unity in his Retractions. He also wrote a book which asserts that Scripture must be interpreted reflecting charity and love, advocates memorizing Scripture, and discusses the role of allegory in On Christian Doctrine. After Rome was sacked, he described the relationship between the title entity, the church, and potentially malevolent pagan forces in The City of God. A Manichaean convert influenced by Saint Ambrose, for 10 points, identify this author of Confessions.
+
+----
+num: 19
+category: Literature
+difficulty: HS
+fixed: 1
+seen: 446
+answer: James {Thurber}
+
+In one of his stories, a man ends up barking on all fours on the sidewalk to fool a policeman in “The Topaz Cufflinks Mystery.” A fabricated plan to kill Mr. Fitweiler leads to Ulgine Barrows being fired after she accuses Erwin Martin in his story “The Catbird Seat.” The title character of another of his stories is an expert with the “Webley-Vickers 50.80” and operates on Wellington McMillan before buying a puppy biscuit and picking up his wife. For 10 points, name this author of “The Secret Life of Walter Mitty.”
+
+----
+num: 20
+category: Fine Arts
+difficulty: HS
+fixed: 57
+seen: 495
+answer: Marc {Chagall}
+
+This artist depicted a yellow cat on a sill looking at the Eiffel Tower in his painting Paris Through the Window. He painted a series of Tales from the Arabian Nights, as well as a work where he gestures toward a painting of a red goat and displays an oddly-shaped left hand, Self-Portrait With Seven Fingers. Another of his paintings portrays upside-down houses, a crescent moon, and a sheep looking at a green peasant. For 10 points, name this Russian painter of I and the Village.
+
+----
+num: 21
+category: History
+difficulty: HS
+fixed: 1
+seen: 413
+answer: {Spanish}-{American} War
+
+In this war, Admiral William Sampson ordered the sinking of the USS Merrimac in an unsuccessful attempt to bottleneck the enemy fleet in Santiago. It was ended by the Treaty of Paris, and the “yellow journalism” of William Randolph Hearst contributed to popular support for it. For 10 points, the Battle of Manila Bay occurred during what war between the United States and a European power that was prompted by the explosion of the U.S.S. Maine?
+
+----
+num: 22
+category: Science
+difficulty: HS
+fixed: 57
+seen: 491
+answer: {Parkinson's} disease
+
+Earlier surgical treatments for this conditions involved pallidotomy and thalamotomy, while newer treatments for it can be supplemented by drugs which inhibit monoamine oxidase-B. It is caused by the degeneration of the neurons of the substantia nigra, which decreases the production of dopamine, and L-dopa is most commonly used to treat its symptoms. First described by its namesake British scientist in 1817, for 10 points, identify this disease characterized by tremors and slowness of movement, also called the “shaking palsy.”

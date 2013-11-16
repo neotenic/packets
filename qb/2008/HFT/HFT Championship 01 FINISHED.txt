@@ -1,0 +1,204 @@
+####
+tournament: HFT
+round: HFT Championship 01 FINISHED.doc
+year: 2008
+####
+
+num: 1
+category: Science
+difficulty: HS
+fixed: 57
+seen: 483
+answer: Euler {totient} function (or Euler {phi} function)
+
+The Dirichlet series with the values of this function as coefficients evaluates to zeta of s minus one over zeta of s, while summing it over the divisors of any integer gives the integer itself. The sum of it and the sum of the divisors of an integer n is equal to 2n if and only if n is prime, and it is multiplicative for relatively prime integers. It is the order of the group of units of Z mod Z n, meaning that any unit taken to this power is one, as implied by Euler's theorem. FTP, name this arithmetic function first defined by Euler, which for an integer n is the number of integers less than n that are coprime to n.
+
+----
+num: 2
+category: Literature
+difficulty: HS
+fixed: -1
+seen: 441
+answer: Kobo {Abe}
+
+One of this author's characters sees a rare beetle that can survive on only its own feces; later on, he finds that the Broom Brigade has infiltrated the title object, an underground quarry with a massive toilet. Another of this author's novels sees a character try to win the Dracula's Daughter medal. This writer also wrote about machines that foresee the creation of aquans from aborted human fetuses, and in another work an entomologist is trapped with a widow who must forever shovel at sands that threaten a nearby village. The author of The Box Man and The Ark Sakura, not to mention Kangaroo Notebook, he also wrote a riff on the detective novel, The Ruined Map. FTP, identify this creator of Mole and Niki Junpei, the author of Inter Ice Age 4 and Woman in the Dunes.
+
+----
+num: 3
+category: History
+difficulty: HS
+fixed: 57
+seen: 423
+answer: Battle of {Chickamauga}
+
+This battle was presaged by an encounter on Pigeon Mountain in the Battle of Davis' Cross Roads and by Leonidas Polk's refusal to attack Thomas Crittenden. Benjamin Cheatham's division reinforced the winning commander of this battle, while the losing side retreated to the Lafayette Road. James Longstreet exploited a gap in the Union line, forcing William Rosencrans to retreat, while George Thomas earned the epithet “the Rock” of this place. Occurring shortly after the Battle of Chattanooga, this was, FTP, what 1863 victory for Confederate forces under Braxton Bragg fought in northwestern Georgia?
+
+----
+num: 4
+category: History
+difficulty: HS
+fixed: 1
+seen: 416
+answer: {Zhou Enlai}
+
+Some historians believe he faked an appendectomy to avoid flying on the Kashmir Princess, a plane blown up en route to the Bandung Conference. John Foster Dulles refused to shake his hand at the Geneva Conference, but Henry Kissinger later atoned for the slight. He was the target of the “Criticize Lin, Criticize Confucius” campaign, but remained in power and supported the Four Modernizations after administering China throughout the Cultural Revolution. FTP, identify this comrade who served Mao as China's premier and longtime foreign minister.
+
+----
+num: 5
+category: Fine Arts
+difficulty: HS
+fixed: -1
+seen: 485
+answer: {Der Freischütz} (or “The {Freeshooter}” or “The {Marksman}” and prompt on similar answers)
+
+In Act I of this opera, Kilian sings “Let him gaze on me as king.” Its overture includes antiphonal horn choirs and snippets from the aria “Leise, fromme Weise!”, whiles in its Act II, Ännchen comforts her cousin when a painting falls off the wall. Earlier in this opera, the hero unexpectedly kills an eagle, and in Act III, a song about a bridal wreath precedes the Hunters' Chorus. Zamiel conjures up the image of Agatha drowning herself in the Wolf's Glen scene, but fortunately Kaspar's scheme goes awry and Max wins a shooting contest. Magic bullets are a major plot element in, FTP, what 1821 opera by Carl Maria von Weber?
+
+----
+num: 6
+category: Science
+difficulty: HS
+fixed: 1
+seen: 485
+answer: {Minkowski} space
+
+Its symmetry group is a ten-dimensional noncompact Lie [LEE] group called the Poincare group. The triangle inequality is reversed when operating on it, since if you consider it as a vector space, its inner product is not positive-definite. Instead, it has a signature with one unit vector of different sign from the others, meaning that any orthonormal basis of this space has one vector of different sign, and that vector is called the timelike component. Vectors are analogously called lightlike if their inner product with themselves is zero. FTP, identify this four-dimensional manifold named for a German mathematician, the setting for Einstein's theory of special relativity.
+
+----
+num: 7
+category: Geography
+difficulty: HS
+fixed: 1
+seen: 710
+answer: {Solomon} Islands
+
+Alvaro de Mendaña gave this archipelago its name after discovering gold in the Mataniko River, surmising that it once supplied gold to the Levant. It includes the islands of Santa Isabel and Choiseul and lies north of Vanuatu and south of Nauru, the island on which John F. Kennedy found refuge when commanding PT-109 in this archipelago. Geographically, this island group also contains Bougainville, which is part of Papua New Guinea. Most famous as the site of the World War II battle for Guadalcanal, these are, FTP, what Melanesian islands with capital at Honiara?
+
+----
+num: 8
+category: Mythology
+difficulty: HS
+fixed: -1
+seen: 784
+answer: {deer} (accept {hart}, {stag}, and other equivalents)
+
+In Hungarian folklore, the demon Ördög takes this form when in the underworld, though when on Earth he takes the form of a fox, and when Sigurd first wounds Fafnir, he claims to be this kind of creature. Four of these creatures dwell in the middle of Yggdrasil, while another of these creatures eats from the tree of laered and is named Eiktyrnir. That creature lives with Heidrun the goat on top of Valhalla. Artemis caused one hunter to be devoured by his own dogs by turning him into one of these creatures; that hunter was named Actaeon. The third labor of Hercules was to catch the Ceryneian variety of this animal. FTP, name this woodland creature whose young are called fauns.
+
+----
+num: 9
+category: Literature
+difficulty: HS
+fixed: 1
+seen: 444
+answer: Clarissa
+
+One minor character in this novel, Mr. Mennell, handles the affairs of Mrs. Fretchville and foolishly tries to rent the title character an apartment. At the end of this novel F. J. de la Tour describes a duel in which Colonel Morden kills one of the main characters, and earlier John Belford helps to disprove the false charges that hold the title character in debtor's jail. The title character is tricked into being imprisoned in Mrs. Sinclair's brothel after she escaped from her oppressive father Mr. Harlowe, who is enraged that she rejected the marriage proposal of Roger Solmes. FTP, name this epistolary novel in which Robert Lovelace abducts and rapes the title character, written by Samuel Richardson.
+
+----
+num: 10
+category: Fine Arts
+difficulty: HS
+fixed: 1
+seen: 492
+answer: Rogier {van der Weyden} (accept either underlined part)
+
+Trained by the Master of Flémalle, this artist briefly collaborated with Fra Angelico near the end of his career. One of his works shows one of the evangelists making a silverpoint drawing in a room overlooking a river, while one of his altarpieces shows angels with different-colored cloths hovering in a church nave above the title actions. Portraits of his include those of Francesco d'Este holding a hammer as well as of Burgundian Duke Charles the Bold. His St. John and Miraflores altarpieces are set in late gothic niches, while his Beaune Last Judgment features the archangel Michael weighing souls on a balance. FTP, name this artist of the Seven Sacraments Altarpiece, St. Luke Drawing the Virgin, and Descent from the Cross.
+
+----
+num: 11
+category: Social Science
+difficulty: HS
+fixed: 57
+seen: 388
+answer: Antonio {Gramsci}
+
+He explored class stratification in “Americanism and Fordism” and argued that Marxism was not deterministic in “The Revolution against Das Kapital,” but is better known for rewriting Machiavelli in “The Modern Prince.” Publication of his influential essay on the Southern Question preceded his incarceration, during which he contrasted the traditional intelligentsia with an “organic” one and explained the persistence of the capitalist system with his theory of cultural hegemony. FTP, name this Italian Communist social theorist who wrote the Prison Notebooks.
+
+----
+num: 12
+category: History
+difficulty: HS
+fixed: None
+seen: 416
+answer: Labour Party
+
+A secret deal between two of its leaders was allegedly reached at the Granita restaurant in Islington in 1994. Keir Hardie served as its first chairman, while its leader Jim Callaghan warned in 1978 that his opponents would be “left waiting at the church,” but the so-called “Winter of Discontent” eroded its support. The Zinoviev letter hurt the first member of it to become prime minister, Ramsay MacDonald, and its other leaders included Harold Wilson and Clement Atlee, who succeeded Winston Churchill. FTP, identify this party of Tony Blair and Gordon Brown.
+
+----
+num: 13
+category: Science
+difficulty: HS
+fixed: 1
+seen: 487
+answer: {Friedel}-{Crafts} acylation
+
+The Vilsmeier reaction achieves the same effect as this reaction by proceeding through an iminium intermediate. It is replaced by the Gatterman-Koch reaction with carbon monoxide, and a two-step process beginning with it replaces a related reaction that, unless the starting material is tertiary, will lead to rearrangement. Moreover, that related reaction generates a more reactive product, leading to polyalkylation, so instead this reaction is followed by Clemmensen or Wolff-Kishner reduction. FTP, identify this reaction, catalyzed by Lewis acids like aluminum trichloride, a substitution reaction that links a terminal carbonyl compound to a benzene ring.
+
+----
+num: 14
+category: Literature
+difficulty: HS
+fixed: 57
+seen: 439
+answer: Philip {Roth}
+
+In one of his stories, Sheldon Grossbart tries to elicit favors from Sergeant Marx, and the protagonist of another work mistakenly believes that Amy Willette is Anne Frank while staying at E. I. Lonoff's house. In addition to “Defender of the Faith” and Ghost Writer, one of his novels centers on the marriage between star high school athlete “The Swede” and Miss New Jersey Dawn Dwyer, and the title character of another novel talks about his trysts with “The Pilgrim,” “The Pumpkin,” and “The Monkey.” FTP, name this author who wrote about Nathan Zuckerman in American Pastoral and about Alexander's discussion of sexual urges with Dr. Spielvogel in Portnoy's Complaint.
+
+----
+num: 15
+category: Fine Arts
+difficulty: HS
+fixed: 57
+seen: 496
+answer: {Ruslan} and {Lyudmila}
+
+Act I of this opera imitates the sound of the gusli using the piano and harp as the characters partake of a wedding feast in Svetozar's banquet hall. In Act II, its hero sings “Oh field, field, who has strewn you with dead men's bones,” before encountering a giant talking head, after Farlaf sings the aria “The hour of my triumph is near” when Naine agrees to help him retrieve the titular missing bride. Turkish and Arabian dances are performed at the arrival of Chernomor, the dwarf sorcerer who has kidnapped the love interest of Farlaf, Ratmir, and the titular male lead. A poem by Aleksander Pushkin inspired, FTP, which opera about a pair of lovers by Mikhail Glinka?
+
+----
+num: 16
+category: History
+difficulty: HS
+fixed: None
+seen: 419
+answer: Mediterranean Sea
+
+Henri Pirenne analyzed trade patterns in this geographic feature to form his namesake thesis, while Janet Abu-Lughod discussed its continuity in many of her works, following on the research of the leader of the Annales School, who wrote about the “world” of it in the age of Philip II. In addition to appearing in the works of Ferdinand Braudel, this body of water saw the British navy chase the Goeben at the beginning of World War I and the Holy League defeat the Ottoman Empire at the Battle of Lepanto. FTP, identify this sea once dominated by the Roman Empire.
+
+----
+num: 17
+category: Religion
+difficulty: HS
+fixed: 57
+seen: 446
+answer: {surahs} (or {suwar})
+
+That of “The Light” discusses the idea of zina, which means ornamentation and might refer to jewelry, to breasts, or to hair, while that of “The Earthquake” discusses an eschatological sorting process. The second, that of “The Cow,” discusses Gog and Magog and also contains the “Verse of the Chair,” which is often recited. They are divided into ayat and can be classified by which of two cities they originated in. The first is “al-Fatiha” and begins with “bismillah ar-rahman ar-rahim.” FTP, identify these chapters of the Qur'an.
+
+----
+num: 18
+category: Science
+difficulty: HS
+fixed: 1
+seen: 486
+answer: calcitonin
+
+This hormone is a common treatment for Paget's disease, but under ordinary circumstances, it plays a minimal role in the homeostasis of the ion with which it is most often associated. In many animals, it is secreted in the ultimobranchial body, but in humans it is created by the C cells of the thyroid. It promotes the mineralization of skeletal bone and can act as a mild appetite suppressant. FTP, name this endocrine hormone, antagonist to parathyroid hormone, that in cases of hypercalcemia is used to reduce blood calcium levels.
+
+----
+num: 19
+category: Trash
+difficulty: HS
+fixed: 1
+seen: 1021
+answer: {counting cards} at blackjack
+
+Arnold Snyder devised the zen version of it and Ken Uston invented an “advanced point” kind. Among the first to do it was Edward Thorp, and other practitioners include J. P. Massar, who backed several teams who did it, and Jeff Ma, the subject of Ben Mezrich's tell-all. Someone who does it in Atlantic City cannot be asked to leave, but it can be rendered ineffective by frequent shuffling.  Usually assigning negative point values to tens and aces, this is, FTP, what technique practiced by MIT students playing blackjack in the movie 21?
+
+----
+num: 20
+category: Literature
+difficulty: HS
+fixed: 57
+seen: 442
+answer: {Billiards} at {Half}-{Past Nine}
+
+One character steals a gun from a gardener in an attempt to kill the leader of the “blue-tunics,” Ben Wackes, but accidentally shoots a politician instead. That character Johanna escapes from a mental asylum on the same day that Alfred Schrella returns from his exile in Holland. Joseph is rebuilding St. Anthony's Abbey, which his father Robert had demolished during the war, and the main action of this novel takes place on Heinrich's eightieth birthday. FTP, name this novel centering on the Faehmel family, written by Heinrich Boll.

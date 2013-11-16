@@ -1,0 +1,87 @@
+####
+tournament: Web Sample
+round: m_round01.pdf
+####
+
+num: 2
+category: Physical Science
+difficulty: MS
+answer: W)  Stationary
+
+Which of the following BEST describes the term static:
+W) stationary 
+X) low 
+Y) constant
+Z) used
+
+----
+num: 3
+category: Earth Science
+difficulty: MS
+answer: Y)   Seven-Tenths
+
+Approximately what fraction of Earth’s surface is covered by oceans:
+W) one-half
+X) two-thirds
+Y) seven-tenths
+Z) four-fifths
+
+----
+num: 7
+category: Physical Science
+difficulty: MS
+answer: W)  0
+
+Mary tried to lift her couch by exerting 500 newtons of force but it doesn’t budge. If the couch weighed 2,000 newtons, how much work did she do:
+W) 0 
+X) 50 watts
+Y) 500 joules
+Z) 2000 joules
+
+----
+num: 8
+category: Earth Science
+difficulty: MS
+answer: X)  Water
+
+The hydrologic cycle describes the circulation of Earth’s:
+W) tides
+X) water 
+Y) sediments
+Z) rocks
+
+----
+num: 11
+category: Life Science
+difficulty: MS
+answer: Z)  Muscle
+
+Most of the heart is composed of which of the following types of tissues:
+W) epithelial
+X) connective
+Y) nervous
+Z) muscle
+
+----
+num: 18
+category: Earth Science
+difficulty: MS
+answer: Y)  Cirrus
+
+Which of the following clouds has little vertical development:
+W) altostratus
+X) altocumulus
+Y) cirrus
+Z) nimbostratus
+
+----
+num: 23
+category: Earth Science
+difficulty: MS
+answer: W)  Rain
+
+A weather forecast of 100% relative humidity suggests an increased possibility of:
+W) rain
+X) wind
+Y) rising temperature
+Z) drying conditions

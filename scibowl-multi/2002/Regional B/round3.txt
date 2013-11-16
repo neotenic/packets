@@ -1,0 +1,273 @@
+####
+tournament: Regional B
+round: round3.pdf
+year: 2002
+####
+
+num: 1
+category: Physics
+difficulty: HS
+seen: 1
+answer: X)  That All Balls Underwent Uniform Acceleration
+
+In Galileo’s experiments on balls rolling down an inclined plane, he had originally hypothesized:
+W) that all objects have inertia 
+X) that all balls underwent uniform acceleration 
+Y) the 2^nd law of motion 
+Z) the 3 ^rd law of motion
+
+----
+num: 3
+category: Chemistry
+difficulty: HS
+seen: 1
+answer: Y)  Group 7a
+
+Which of the following groups of elements have the strongest or highest electron affinities, corresponding to the largest release of energy:
+W) group 1A 
+X) group 2A 
+Y) group 7A 
+Z) group 8A
+
+----
+num: 6
+category: Earth Science
+difficulty: HS
+answer: W)  Hard Water
+
+Groundwater that is rich in calcium and magnesium bicarbonates is termed:
+W) hard water 
+X) soft water 
+Y) well water 
+Z) recharge water
+
+----
+num: 6
+category: Earth Science
+difficulty: HS
+seen: 1
+answer: W)  They Were Formed Above Glaciers by the Widening of 
+Crevasses
+
+Which of the following descriptions is NOT true of eskers:
+W) they were formed above glac iers by the widening of crevasses 
+X) they are low, steep-sided ridges of sand and gravel 
+Y) deposits were laid down by running water 
+Z) their deposits are roughly sorted and bedded
+
+----
+num: 8
+category: Computer Science
+difficulty: HS
+answer: W)  an Applet
+
+A Java stock ticker that runs within the user’s Web browser is an example of:
+W) an applet 
+X) liteware 
+Y) firmware 
+Z) a taskbar
+
+----
+num: 8
+category: Computer Science
+difficulty: HS
+answer: X)  14
+
+What is the octal equivalent of the binary number 1100 (read as: one, one, zero, zero)?
+W) 11 
+X) 14 
+Y) 2 
+Z) 4
+
+----
+num: 9
+category: Physics
+difficulty: HS
+answer: X)  Sound Wave
+
+Which of the following moves in the form of a longitudinal compression wave:
+W) ocean wave 
+X) sound wave 
+Y) light wave 
+Z) electromagnetic wave
+
+----
+num: 10
+category: Biology
+difficulty: HS
+answer: Z)  Chelicerata
+
+Which of the following Orders does NOT belong to the Class 
+Insecta:
+W) Lepidoptera 
+X) Diptera 
+Y) Isoptera 
+Z) Chelicerata
+
+----
+num: 10
+category: Biology
+difficulty: HS
+answer: Z)  Influenza
+
+Which of the following diseases is NOT caused by bacteria:
+W) strep throat 
+X) toxic shock syndrome 
+Y) scarlet fever 
+Z) influenza
+
+----
+num: 14
+category: Earth Science
+difficulty: HS
+answer: W)  Varves
+
+Distinctly and finely stratified layers of silt and clay deposited in lakes of gl acial origin are known as:
+W) varves 
+X) moraines 
+Y) drumlins 
+Z) eskers
+
+----
+num: 15
+category: General Science
+difficulty: HS
+answer: X)  1.9
+
+One knot is approximately equal to how many kilometers per hour?
+W) 0.6 
+X) 1.9 
+Y) 1.65 
+Z) 1.0
+
+----
+num: 16
+category: Computer Science
+difficulty: HS
+answer: X)  Rendering
+
+The process of converting 3D information to a 2D screen image is called:
+W) texturing 
+X) rendering 
+Y) rastering 
+Z) modeling
+
+----
+num: 16
+category: Computer Science
+difficulty: HS
+answer: X)  64 Mb
+
+What is the minimum amount of RAM required for the proper execution of Windows 2000 Professional:
+W) 80 MB 
+X) 64 MB 
+Y) 40 MB 
+Z) 32 MB
+
+----
+num: 17
+category: Physics
+difficulty: HS
+answer: Y)  Above 20,000 Hertz  ^
+
+Ultrasonic sound frequencies are typically considered to be:
+W) above 20,000 kilohertz 
+X) below 20,000 kilohertz 
+Y) above 20,000 Hertz 
+Z) below 20,000 Hertz
+
+----
+num: 17
+category: Physics
+difficulty: HS
+answer: Z)  Alpha Particles
+
+Which of the following will depos it the greatest amount of energy per unit path in human tissue:
+W) gamma ray 
+X) x-ray 
+Y) beta particles 
+Z) alpha particles
+
+----
+num: 19
+category: Chemistry
+difficulty: HS
+answer: W)  Ionic
+
+If an atom X, which has an electronegativity of 3.5, bonds with atom Y, which has an electronegativity of 0.9, what type of bond is most likely prevalent:
+W) ionic 
+X) polar covalent 
+Y) non-polar covalent 
+Z) neutral
+
+----
+num: 21
+category: Earth Science
+difficulty: HS
+answer: Y)  Continental Collision
+
+The Alpine-Himalayan mountain chain formed by:
+W) rifting 
+X) transform faulting 
+Y) continental collision 
+Z) continent to ocean subduction
+
+----
+num: 21
+category: Earth Science
+difficulty: HS
+answer: Y)  Graphite
+
+Which of the following minerals is classified as a native element:
+W) gypsum 
+X) quartz 
+Y) graphite 
+Z) clay
+
+----
+num: 22
+category: General Science
+difficulty: HS
+answer: X)  70
+
+A typical 6-ounce brewed cup of tea contains about how many milligrams of caffeine:
+W) 30 
+X) 70 
+Y) 110 
+X) 150
+
+----
+num: 23
+category: Physics
+difficulty: HS
+answer: W)  Horizontal Stabilizer
+
+Pitch in an airplane is typically controlled by which of the following:
+W) horizontal stabilizer 
+X) aileron 
+Y) vertical stabilizer 
+Z) swing arm
+
+----
+num: 24
+category: Biology
+difficulty: HS
+answer: Z)  Yellow Buckeye
+
+Which of the following trees does NOT have simple, toothed leaves:
+W) Quaking Aspen 
+X) Eastern Cottonwood 
+Y) White Birch 
+Z) Yellow Buckeye
+
+----
+num: 25
+category: Chemistry
+difficulty: HS
+answer: W)  Normality
+
+The concentration of a soluti on expressed in the number of gram-equivalent weights of solute per liter of solution is called:
+W) normality 
+X) molality 
+Y) equivalent weight 
+Z) molarity

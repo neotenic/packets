@@ -1,0 +1,244 @@
+####
+tournament: NASAT
+round: 4.pdf
+year: 2010
+####
+
+num: 1
+category: History
+difficulty: HS
+fixed: -1
+seen: 418
+answer: {Lochner} v. New York [accept either order]
+
+One brief in this case argued that the government "has a right to safeguard a citizen against his own lack of knowledge." That brief by Julius Mayer was addressed in the majority opinion written by Rufus Peckham, which led to this case's name becoming a participle used to accuse justices of making up law. The argument that the Fourteenth Amendment does not "enact" Spencer's Social Statics was put forth in Holmes's dissent. Starting an "era" of cases that knocked down regulations on working conditions, this case dealt with a violation of the Bakeshop Act. For 10 points, name this 1905 case that centered on hours of the workday in New York.
+
+----
+num: 2
+category: Science
+difficulty: HS
+fixed: -1
+seen: 490
+answer: {Helicobacter pylori}
+
+This organism dodges the immune system by expressing Lewis blood group antigens, and the most common strains are J99 and 26685. Virulent strains encode a toxin that binds to VIP54 and creates large vacuoles, known as VacA. They encode a Type IV secretory system in the CagA pathogenicity island, which also activates the SH2 kinase. A urease breath test can be used to detect this microaerophile, and the inflammatory response to it induces the secretion of gastrin from G cells. Treating infection with this organism involves two antibiotics and a proton pump inhibitor, and it was studied by Barry Marshall, who notably drank a solution of it to prove that it causes gastritis. For 10 points, name this bacterium responsible for many ulcers.
+
+----
+num: 3
+category: History
+difficulty: HS
+fixed: 1
+seen: 410
+answer: {Tallahassee}
+
+This city hosts free Shakespeare-in-the-park called the “Southern Shakespeare Festival.” A defunct airport in this city was named for a casualty in a 1922 dirigible disaster, the crash of the Roma. Besides Dale Mabry Field, this city contains an administrative building from which the odd demand for 666 Dunkin's Donuts was issued from student protester Marshall Ledbetter in 1991. Near this city was the Battle of Natural Bridge during the Civil War, in which students from what would become a major state university prevented the Union from capturing a certain Confederate capital. That university included a president named Doak Campbell and has an athletic team called the Seminoles. For 10 points, name this capital of Florida.
+
+----
+num: 4
+category: Social Science
+difficulty: HS
+fixed: 57
+seen: 379
+answer: {Gestalt} psychology
+
+The founders of this movement were all students of the man who showed that the horse Clever Hans could not do arithmetic. One of its founders observed that chimpanzees use insight learning to solve tests such as using two short bamboo sticks to reach a banana. This movement argues that the mind groups objects by their similarity and proximity, which are based on the principle of pragnanz. A psychologist who helped found it discovered that a series of slightly different stationary images create the illusion of movement, an illusion known as the phi phenomenon. For 10 points, name this school founded by Kurt Koffka, Wolfgang Kohler and Max Wertheimer, which studies how the whole is greater than the sum of its parts.
+
+----
+num: 5
+category: Literature
+difficulty: HS
+fixed: -1
+seen: 448
+answer: "Ode to a {Nightingale}"
+
+In the second stanza of this poem, its speaker longs for "a beaker full of the warm South" in order to "drink, and leave the world unseen." In this poem's third stanza, the speaker wishes to "fade far away, dissolve, and quite forget" the "weariness, and fever, and the fret" of the world. Its speaker resolves to fly to this poem's title being "on the viewless wings of Poesy," and begins this poem by lamenting "My heart aches, and a drowsy numbness pains my sense / As though of hemlock I had drunk." This poem ends with the word "forlorn" tolling the speaker back to reality after its speaker exclaims "Thou wast not born for death, immortal Bird!" For 10 points, name this ode to the song of the title bird, written by John Keats.
+
+----
+num: 6
+category: Science
+difficulty: HS
+fixed: 57
+seen: 494
+answer: {flux} [accept {more specific} answers {such} as {neutron flux}, {electric flux}, {magnetic flux}, etc.]
+
+A quantity of this name for neutrons is multiplied by the macroscopic fission cross-section to give the fission reaction rate in a nuclear reactor. In a type-II superconductor, the usual version of this quantity is quantized for the H field when the applied field is between two critical values; the inverse of that quantum is the Josephson constant. For electromagnetic energy, this quantity is represented by the Poynting vector. Fick's first law states that this value for a given quantity is equal on net to minus the diffusion constant times the gradient of that quantity. For the electric field, this quantity through a closed surface is proportional to the enclosed charge according to Gauss's Law. For 10 points, name this quantity, equal to the rate at which some physical quantity passes through a location per unit area.
+
+----
+num: 7
+category: Fine Arts
+difficulty: HS
+fixed: 1
+seen: 495
+answer: "{Pastoral}" Symphony [or Ludwig van {Beethoven's} Symphony No. {6}]
+
+In the third movement of this symphony, a bassoon attempts to accompany a theme played by the oboe, but can only play the two notes F and C. At the end of its second movement, an oboe, a flute, and a clarinet respectively imitate the calls of a quail, a nightingale, and a cuckoo. In its fourth movement, a five-note passage for the cellos is played along a similar four-note passage for the double basses, creating an ominous rumbling before the entrance of timpani imitating the sound of thunder during a furious storm. This symphony's five movements include ones titled "By the Brook," "A merry gathering of country folk," and "Cheerful impressions awakened by arrival in the country." Premiered in 1808 along with its composer's C minor fifth symphony, for 10 points, name this Beethoven symphony that portrays rural life and nature.
+
+----
+num: 8
+category: Mythology
+difficulty: HS
+fixed: 1
+seen: 782
+answer: {Quetzalcoatl} [or {White} Tezcatlipoca, but do not accept or prompt on {Tezcatlipoca itself}]
+
+One aspect of this god was worshiped in an airtight cylindrical temple, represented all the cardinal directions, and blew the sun and moon into place. In one story, this god slept with his celibate priestess sister, burning himself to death in shame. This god's heart became the morning star, the twin brother of Venus. This god created the fifth cycle of mankind by letting blood flow from his penis into a meal of ground-up bones of previous races. This analogue of Kukulcan and rival of Tezcatlipoca was mistaken for a horse-riding conquistador. For 10 points, name this feathered serpent from Aztec mythology, who was mistaken for Hernan Cortes.
+
+----
+num: 8
+category: Mythology
+difficulty: HS
+fixed: 1
+seen: 782
+answer: {Quetzalcoatl} [or {White} Tezcatlipoca, but do not accept or prompt on {Tezcatlipoca itself}]
+
+One aspect of this god was worshiped in an airtight cylindrical temple, represented all the cardinal directions, and blew the sun and moon into place. In one story, this god slept with his celibate priestess sister, burning himself to death in shame. This god's heart became the morning star, the twin brother of Venus. This god created the fifth cycle of mankind by letting blood flow from his penis into a meal of ground-up bones of previous races. This analogue of Kukulcan and rival of Tezcatlipoca was mistaken for a horse-riding conquistador. For 10 points, name this feathered serpent from Aztec mythology, who was mistaken for Hernan Cortes.
+
+----
+num: 9
+category: Literature
+difficulty: HS
+fixed: 57
+seen: 458
+answer: The {Robbers} [or {Die Räuber}]
+
+One character in this play asks “What crotchet has that swaggering booby got in his numbskull?,” referring to a traitor whose cronies include Razmann and Schufterle. The villain of this play meets with Pastor Moser before killing himself to avoid facing punishment. The protagonist of this play gives a speech about striking a “generation of vipers to the quick” and is later betrayed by Spielgelberg. Near the end of this play, the protagonist slays his beloved Amelia and turns himself into the law. This occurs shortly after the death of his father, who was tricked into rejecting the protagonist by his other son, Franz. For 10 points, name this play about the tragic Karl Moor, who becomes the captain of the title band of thieves, a work by Friedrich Schiller.
+
+----
+num: 10
+category: History
+difficulty: HS
+fixed: 1
+seen: 417
+answer: Sweden
+
+One future queen of this country named Victoria served as page-turner for Franz Liszt when he visited the Karlsruhe opera, and as king, her husband permitted the German Englebrecht division to pass through this country during World War II. It participated in a war that saw France lose the Franche-Comte as part of an alliance with England and the Dutch Republic.It was united under Margaret I with Norway and Denmark in the Kalmar Union, and members of its royal Vasa family included Charles IX and Christina. For 10 points, identify this country that was once led by Gustavus Adolphus.
+
+----
+num: 11
+category: Science
+difficulty: HS
+fixed: 1
+seen: 484
+answer: {derivative}
+
+In gas chromatography, this word describes a product obtained when silyl groups are added to a molecule of interest to reduce polarity. In multi-variable calculus, one operator with this name is the dot product of a unit vector with the gradient, known as the directional this. In biochemistry, this term refers to a molecule that is synthesized by slightly modifying a given compound, usually by adding a named group - for example, aniline is an amino one of these of benzene. In single-variable calculus, the nth of these of a given function appears in the nth coefficient of the Taylor series of that function. For 10 points, give this common word the one of which from calculus can be used on both dividends of an apparently indeterminate limit according to l'Hôspital's [low-pee-TALZ] rule.
+
+----
+num: 12
+category: Literature
+difficulty: HS
+fixed: 1
+seen: 444
+answer: Philip Morin {Freneau}
+
+This author wrote pro-French satirical letters under a pseudonym he described as "One of the Swinish Multitude," Robert Slender. This author described being taken to "A slaughter-house, yet hospital in name" in a poem about the torturous conditions of the "piles for slaughter, floating on the floods," which was inspired by the capture of the Aurora. A poem by this author laments that "Unpitying frosts and Autumn's power" will leave no vestige of the title object, which is described as a "fair flower, which dost comely grow." The speaker of another of his poems imagines a place where "the hunter still the deer pursues" alongside "the painted chief, and pointed spear." For 10 points, name this early American poet of "The British Prison Ship," "The Wild Honey Suckle," and "The Indian Burying Ground," who is often called the "poet of the American Revolution."
+
+----
+num: 13
+category: Religion
+difficulty: HS
+fixed: 1
+seen: 444
+answer: {Qu'ran} [or {Koran}]
+
+The twenty-ninth section of this book compares believers in other gods to the fragile web created by a spider. This book's ninety-sixth section asserts that God created mankind from a clot of blood. This book's twenty-fourth section compares God to a shining lamp lit from a blessed tree in its "Verse of Light." The ninety-ninth section of this book describes an earthquake on the day of judgment, and almost every section of this book begins with the Bismillah. This book's "Sword verse" exhorts believers to "find and slay pagans," and sections of this book are divided into verses called ayat. Beginning with a section called "the opening," for 10 points, name this book divided into suras, which was revealed in the seventh century by the angel Gibreel to Muhammad.
+
+----
+num: 14
+category: Philosophy
+difficulty: HS
+fixed: 1
+seen: 523
+answer: Martin {Heidegger}
+
+Bernard Stiegler argues that this philosopher first explained the use of clothing and tools as "the naturalized character of prostheses." One of his works contrasts the role of the windmill in pre-industrial states with the construction of a hydroelectric plant on the Rhine to argue that technology has reframed Being. He argued that the title creations as part of the "world" and not the "earth," because they are within the ready-to-hand, in a work that analyzes Vincent Van Gogh's A Pair of Shoes. This author of The Question Concerning Technology and The Origin of the Work of Art discussed ontological hermeneutics and coined the term dasein in his best-known work. For 10 points, name this philosopher who wrote Being and Time.
+
+----
+num: 15
+category: History
+difficulty: HS
+fixed: 1
+seen: 420
+answer: Roger {Taney}
+
+According to U.S. Marshal Ward Lamon, an arrest warrant was issued for this man but never acted upon. This man withdrew government money from the Second Bank of the United States, in favor of the pet bsnks, while serving as Levi Woodbury's predecessor as Secretary of the Treasury. This man dealt with a Maryland man accused of burning bridges during the Civil War named John Merryman. He famously handed down the majority opinion in a case that ruled that the national government could not prohibit slavery in the territories and that slaves could not lodge lawsuits. For 10 points, name this fifth Supreme Court Chief Justice who presided over Dred Scott v. Sandford.
+
+----
+num: 16
+category: Fine Arts
+difficulty: HS
+fixed: -1
+seen: 485
+answer: the {Orsanmichele}
+
+One statue commissioned for this building was rejected by its patrons for having an overlarge head, but was accepted once it was placed unchanged in its final location. Donatello's Saint Louis of Toulouse was intended for this building, but it was replaced by a Verrocchio work in which Christ touches Thomas's head. A semicircular arrangement of Four Crowned Martyrs was sculpted for this building by Nanni di Banco. This building also houses Ghiberti's Saint John the Baptist and Donatello's Saint Mark. The trade guilds that patronized this church filled its fourteen exterior niches with various bronze and stone statues. For 10 points, name this Florentine church whose name translates as the "Kitchen Garden of Saint Michael."
+
+----
+num: 17
+category: History
+difficulty: HS
+fixed: 1
+seen: 422
+answer: Zahir ud-din-Mahommed {Babur}
+
+In his autobiography, this ruler described how he swam across every river he encountered, including the Ganges. After this ruler was asked to invade a neighboring kingdom by Daulat Khan, he won a decisive battle due to artillery commanded by his generals Mustafa and Ustad Ali. This Timurid prince briefly controlled Samarkand, but was driven from it by Shaibani Khan. He defeated the Rajputs commanded by Rana Sanga at the Battle of Khanwa, giving him control over north India. That victory occurred after he smashed the forces of Ibrahim Lodi at the First Battle of Panipat. After his death in 1530, he was succeeded by his son Humayun. For 10 points, name this founder of the Mughal Empire, the grandfather of Akbar.
+
+----
+num: 18
+category: Science
+difficulty: HS
+fixed: 1
+seen: 491
+answer: {alkenes} [or {olefins}]
+
+A common method of reducing these compounds involves using a catalyst containing 3 P-Ph-3 groups and one chlorine atom bound to ruthenium, a method which has largely been replaced by Crabtree's catalyst. Reacting them with carbenes is a common method of producing cyclopropanes. A series of these compounds alternating on a long side chain serves as a chromophore in retinal. When they are reacted with osmium tetraoxide, diols are formed. Acid halides add to these compounds such that the halide adds to the more substituted carbon, a rule named for Markovnikov. For 10 points, identify this class of compounds that can be either cis or trans and are characterized by carbon-carbon double bonds.
+
+----
+num: 19
+category: Fine Arts
+difficulty: HS
+fixed: 1
+seen: 494
+answer: Johannes "Jan" {Vermeer}
+
+In one work by this painter, an oriental rug is draped across the table at right, upon which rests a jug, and a downward-facing mirror reflects the central woman and some square tiles. Another work by this artist shows a painting of Moses on the wall, while the title character is clad in a green kimono and inspects a globe. He produced a painting that shows a bread-filled table on which rests a container that the title servant fills. Another of his paintings shows a woman wearing a blue turban, turning towards the viewer to expose the title piece of jewelry. For 10 points, name this painter of The Music Lesson, The Astronomer, The Milkmaid and Girl with the Pearl Earring, who also depicted the Dutch city where he was born in his landscape View of Delft.
+
+----
+num: 20
+category: Literature
+difficulty: HS
+fixed: 57
+seen: 444
+answer: The {Power} and the {Glory}
+
+In the fourth chapter of this novel's second section, the protagonist stumbles upon an abandoned house and successfully fights a crippled dog over the scraps of meat on a bone. The protagonist of this novel eats a lump of sugar placed by the mouth of a dead Indian boy in a cemetery, and travels to Carmen after discovering his illegitimate daughter Brigitta. The main plot of this novel is juxtaposed with scenes of a mother telling stories about an unrealistically perfect martyr named Juan to her son Luis. The protagonist of this novel crosses the border to hear the dying confessions of the Gringo, although he knows that the mestizo will betray him to the Lieutenant. For 10 points, name this novel about a "whiskey" priest pursued by anti-Catholic authorities in Mexico, written by Graham Greene.
+
+----
+num: 21
+category: History
+difficulty: HS
+fixed: 57
+seen: 423
+answer: {Prince} of Wales
+
+While holding this position, one man survived an assassination attempt by Jean-Baptiste Sipido and became involved in the Tranby Croft Scandal. This position was officially created by the Treaty of Montgomery. The only native to officially hold this position was known as "the Last," and married the daughter of Simon de Montfort; Edmund Mortimer married the daughter of a later native who claimed this position. The motto of this position is "Ich dien." A person who held this position for only five months later sparked "the Fifteen," and another man could not be elevated to this position until it was certain that Arthur Tudor had not gotten his wife, Catherine of Aragon, pregnant. For 10 points, name this position that is traditionally held by the heir apparent to the throne of England and is currently occupied by Charles, son of Queen Elizabeth II.
+
+----
+num: 22
+category: Literature
+difficulty: HS
+fixed: 57
+seen: 440
+answer: {Fences}
+
+One character in this play tells a story about paying ten dollars a month for fifteen years to buy furniture on credit from the devil. In the final scene of this play, two children pay tribute to their dead father by singing about a dog named Blue. The main character of this play warns his son by saying "strike one," "strike two," and "Don't you strike out" before that son attempts to assault him with a baseball bat. At the climax of this play, the protagonist's wife decides to raise Raynell after learning that her husband cheated on her with Alberta. The protagonist refuses to allow his son Cory to play college football, and creates this play's title structures for his wife Rose. For 10 points, name this play set in the 1950s, which focuses on Pittsburgh garbageman Troy Maxson and was written by August Wilson.
+
+----
+num: 23
+category: Science
+difficulty: HS
+fixed: 1
+seen: 487
+answer: uterus
+
+This structure is found immediately ventral to the pouch of Douglas. Scarring in this organ can lead to Asherman's syndrome, and Gartner's ducts may remain in the broad ligament of this organ rather than vanishing during gestation. Agenesis of this organ occurs in MRKH syndrome, and this organ can also be bicornate or unicornate in other malformations. This organ's lining, the endometrium, is sloughed off during menstruation, and when zygotes implant outside of it, ectopic pregnancy occurs. For 10 points, name this organ of the female reproductive system in which gestation occurs.

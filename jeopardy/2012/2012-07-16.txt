@@ -1,0 +1,428 @@
+####
+tournament: #6421
+round: Show #6421 - Monday, July 16, 2012
+year: 2012
+date: 2012-07-16
+####
+
+num: 1
+category: Science
+difficulty: 200
+seen: 8
+answer: motor oil
+
+Valvoline offers this product in viscosity grades including 5W20 & 20W50.
+
+----
+num: 2
+category: Science
+difficulty: 200
+seen: 8
+answer: -en (oxen accepted)
+
+To make "ox" an irregular plural.
+
+----
+num: 3
+category: Literature
+difficulty: 200
+seen: 4
+answer: Achilles
+
+In "Troilus & Cressida", this Greek refuses to fight after his pride is injured.
+
+----
+num: 4
+category: Science
+difficulty: 200
+seen: 7
+answer: plane geometry
+
+This "unadorned" branch of geometry deals with figures in 2 dimensions.
+
+----
+num: 5
+category: Literature
+difficulty: 200
+seen: 4
+answer: pepper spray
+
+You don't want contact lenses in if you encounter this spray named for its oleoresin capsicum ingredient.
+
+----
+num: 6
+category: Science
+difficulty: 400
+seen: 5
+answer: coal
+
+Geologically young & usually found near the earth's surface, lignite is the lowest grade of this product.
+
+----
+num: 7
+category: Science
+difficulty: 400
+seen: 6
+answer: -ly
+
+To make "central" & "ceaseless" into adverbs.
+
+----
+num: 8
+category: Literature
+difficulty: 400
+seen: 3
+answer: Antonia
+
+Willa Cather's daughter of Bohemian immigrants, now a Cornhusker.
+
+----
+num: 9
+category: Science
+difficulty: 400
+seen: 6
+answer: a ray
+
+You can call me this, a half-line that extends in one direction indefinitely & has only one endpoint.
+
+----
+num: 10
+category: Literature
+difficulty: 400
+seen: 4
+answer: a staple gun
+
+No weapons, but bring an Arrow T72 one of these guns to put signs together.
+
+----
+num: 11
+category: Science
+difficulty: 600
+seen: 6
+answer: -able
+
+To make "fashion" & "comfort" into adjectives.
+
+----
+num: 12
+category: Literature
+difficulty: 600
+seen: 5
+answer: Aramis
+
+This swordsman tries to keep the identity of his mistress, Madame de Chevreuse, secret from Athos & his other pals.
+
+----
+num: 13
+category: Science
+difficulty: 600
+seen: 6
+answer: a hypotenuse
+
+10-letter word for the side opposite the 90-degree angle in a right triangle.
+
+----
+num: 14
+category: Literature
+difficulty: 600
+seen: 4
+answer: microphone
+
+Evade bans on loudspeakers: have a group in unison repeat 1 person's words, in "the human" this device.
+
+----
+num: 15
+category: Science
+difficulty: 800
+seen: 6
+answer: prime
+
+As determined by the USDA, it's the highest grade of lamb, veal & beef.
+
+----
+num: 16
+category: Science
+difficulty: 800
+seen: 6
+answer: -ize
+
+To make "alphabet" & "digit" into verbs.
+
+----
+num: 17
+category: Literature
+difficulty: 800
+seen: 4
+answer: Aslan
+
+His mane is shaved off in "The Lion, the Witch and the Wardrobe".
+
+----
+num: 18
+category: Science
+difficulty: 800
+seen: 6
+answer: a cone
+
+A geometric figure with a circular base that rises to a single point.
+
+----
+num: 19
+category: Literature
+difficulty: 800
+seen: 4
+answer: "Sleeping Bag"
+
+Even under a romantic moon in an occupied park, don't approach an enticing stranger with ZZ Top's "Slip Inside My" this.
+
+----
+num: 20
+category: Science
+difficulty: 1000
+seen: 6
+answer: bond paper
+
+This 4-letter superior grade of paper is named for the type of financial document it was used to print.
+
+----
+num: 21
+category: Science
+difficulty: 1000
+seen: 7
+answer: -ity
+
+To make "abnormal" & "similar" into nouns.
+
+----
+num: 22
+category: Literature
+difficulty: 1000
+seen: 4
+answer: Aragorn
+
+He's the title character in "The Return of the King".
+
+----
+num: 23
+category: Science
+difficulty: 1000
+seen: 7
+answer: congruent
+
+From the Latin for "agreeing", it means identical in shape & size, like the two objects seen.
+
+----
+num: 24
+category: Literature
+difficulty: 1000
+seen: 4
+answer: free speech zones
+
+Though you may think they're a mockery of the First Amendment, respect FSZs, short for these.
+
+----
+num: 25
+category: History
+difficulty: 400
+seen: 4
+answer: (John) Marshall
+
+Go through Marbury v. Madison to see how this Chief Justice established the power of judicial review.
+
+----
+num: 26
+category: Geography
+difficulty: 400
+seen: 8
+answer: Algeria
+
+The largest neighbor.
+
+----
+num: 27
+category: Philosophy
+difficulty: 400
+seen: 8
+answer: Christianity
+
+"The 2 great European narcotics" are alcohol & this religion.
+
+----
+num: 28
+category: Literature
+difficulty: 400
+seen: 3
+answer: Patty Hearst
+
+She was born in California in 1954 & was kidnapped in Berkeley 2 weeks shy of her 20th birthday.
+
+----
+num: 29
+category: Literature
+difficulty: 400
+seen: 4
+answer: casual
+
+It can mean uncaring or informal, as in attire for Friday.
+
+----
+num: 30
+category: History
+difficulty: 800
+seen: 3
+answer: (Ernesto) Miranda
+
+Brush up on Earl Warren's opinion for the 5-4 majority in 1966 on this man v. Arizona, regarding police questioning.
+
+----
+num: 31
+category: Art
+difficulty: 800
+seen: 4
+answer: Beyoncé
+
+"Irreplaceable" &.
+
+----
+num: 32
+category: Philosophy
+difficulty: 800
+seen: 7
+answer: women
+
+& "God created" them, "and boredom did indeed cease from that moment".
+
+----
+num: 33
+category: Literature
+difficulty: 800
+seen: 4
+answer: Shirley Temple
+
+This child star & future ambassador was born in Santa Monica in 1928.
+
+----
+num: 34
+category: Art
+difficulty: 1200
+seen: 4
+answer: Sting
+
+"Fortress Around Your Heart" &.
+
+----
+num: 35
+category: Philosophy
+difficulty: 1200
+seen: 7
+answer: soul
+
+"The enlightened man says: I am body only, and nothing beside: and" this "is only a word for something in the body".
+
+----
+num: 36
+category: Literature
+difficulty: 1200
+seen: 4
+answer: Tokyo Rose
+
+Ikuko Toguri, born in Los Angeles in 1916, was one of about a dozen women known by this WWII nickname.
+
+----
+num: 37
+category: Literature
+difficulty: 1200
+seen: 4
+answer: disinterested
+
+Though "dis" word is used to mean "indifferent", in strict usage it only means objective or impartial.
+
+----
+num: 38
+category: History
+difficulty: 1600
+seen: 4
+answer: Sacco & Vanzetti
+
+Look into why these 2 Italian anarchists were tried in 1921 but not sentenced (to death) until 1927.
+
+----
+num: 39
+category: Geography
+difficulty: 1600
+seen: 9
+answer: Volta
+
+Burkina Faso, seen.
+
+----
+num: 40
+category: Art
+difficulty: 1600
+seen: 5
+answer: Belinda Carlisle
+
+"Mad About You" &.
+
+----
+num: 41
+category: Philosophy
+difficulty: 1600
+seen: 7
+answer: superman
+
+"Man is a rope stretched between the animal and" this advanced conception of humanity.
+
+----
+num: 42
+category: Literature
+difficulty: 1600
+seen: 4
+answer: Julia Child
+
+Bon appetit!  This PBS star was born in Pasadena in 1912, long before she attended the Cordon Bleu.
+
+----
+num: 43
+category: Literature
+difficulty: 1600
+seen: 4
+answer: jaded
+
+Mick Jagger's daughter might be this, too weary to care any more.
+
+----
+num: 44
+category: History
+difficulty: 2000
+seen: 5
+answer: Plessy
+
+See how on Earth the justices voted 7-1 in this man v. Ferguson in 1896, advancing the "separate but equal" doctrine.
+
+----
+num: 45
+category: Geography
+difficulty: 2000
+seen: 12
+answer: Chad
+
+& Niger share a vast but shrinking lake.
+
+----
+num: 46
+category: Literature
+difficulty: 2000
+seen: 5
+answer: Amy Tan
+
+This Oakland-born San Jose State grad is known for novels about the Chinese female immigrant experience.
+
+----
+num: 47
+category: Literature
+difficulty: 2000
+seen: 6
+answer: lackadaisical
+
+"Alack the day" is an old expression of dismay; this adjective that comes from it means you won't bother to try.

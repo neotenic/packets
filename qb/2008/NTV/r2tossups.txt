@@ -1,0 +1,164 @@
+####
+tournament: NTV
+round: r2tossups.pdf
+year: 2008
+####
+
+num: 1
+category: Science
+difficulty: HS
+fixed: -1
+seen: 489
+answer: {Komodo} dragon or {Varanus komodoensis} (accept {Komodo monitor} or {ora} or {buaja darat})
+
+(JP) This lizard species was named by W. Douglas Burden, who led an expedition to search for this rumored "land crocodile" in 1926. Found only on certain islands of Indonesia, they are regarded with rev- erence by the natives who believe they are reincarnations of their kinspeople. Their bite is particularly dangerous due to the dozens of bacteria found in their saliva, which can cause infection and eventually death. Name this lizard, which is the largest living lizard species.
+
+----
+num: 2
+category: Science
+difficulty: HS
+fixed: 1
+seen: 488
+answer: {gallbladder} (prompt on {cholecyst})
+
+(JG) Its health may be tested with a HIDA scan, otherwise known as a cholescintigraphy [koh lih SINT ih gra fee]. Its cavities are called the Rokitansky-Aschoff [roh ki TAN skee ASH off] sinuses, and its out- put is regulated by the sphincter of Oddi. It can be affected by a condition called its "strawberry", and it drains into the duodenum. Cholecystokinin [KOH lih siss toh KI nihn] stimulates it to secrete the sub- stance with which it is most associated. It can be affected by stones, which are usually treated by remov- ing this organ. Name this organ of the digestive system that stores bile.
+
+----
+num: 3
+category: History
+difficulty: HS
+fixed: 57
+seen: 411
+answer: Alger {Hiss}
+
+(AS) The subject of Allen Weinstein's famous book Perjury, his work at Yalta was instrumental in de- nying Soviet Russia sixteen votes in the recently formed United Nations General Assembly. A major piece of evidence against him was five rolls of film found in a hollowed-out pumpkin at his accuser's farm. Though his guilt is questionable, this man's testimony before the House Committee on Un- American Activities and subsequent two espionage trials stoked fears of communist infiltration and con- spiracy theories that continue to this day. Name the man accused by Time editor Whittaker Chambers of spying for the USSR.
+
+----
+num: 4
+category: History
+difficulty: HS
+fixed: 57
+seen: 421
+answer: {Taiping} rebellion
+
+(AS/BC) In its later stages, it featured Charles Gordon's "Ever Victorious Army," which proved in- strumental to the victory of the winning side. It was led by a Christian convert, whose fanatical followers took Nanjing and made it China's second capital. The rebels overextended themselves trying to take Shanghai, however, and the Western powers contributed troops, helping the Qing [CHING] defeat the re- bellion. It was the second-bloodiest civil war in human history, in which twenty to thirty million people died from warfare and starvation from 1850 to 1864. Name this Chinese rebellion against the Manchu rulers, largely concentrated in the south of China.
+
+----
+num: 5
+category: Fine Arts
+difficulty: HS
+fixed: 1
+seen: 492
+answer: Gioacchino Antonio {Rossini}
+
+(MS) Some of this artist's late miniatures were orchestrated by Respighi into the ballet La boutique fantastique; those miniatures include the Napoleonic Tarentella and other Soirées musicales, as well as the uncharacteristic La separazione and Nouvelles compositions from circa 1860. Pearshall's Cat Duet is sometimes spuriously attributed to this composer, whose fame from La cambiale di matrimonio led to the commission for La pietra del paragone. His best-known serious works, Semiramide and Otello, balance an oeuvre consisting of comedies like The Thieving Magpie and Cinderella. Name this composer of Wil- liam Tell and The Barber of Seville, an Italian composer of operas.
+
+----
+num: 6
+category: Geography
+difficulty: HS
+fixed: 1
+seen: 713
+answer: {Great Britain} (prompt on {United Kingdom}; accept nothing else)
+
+(RS) This was formed as the Weald-Artios anticline was breached by a lake. Swansea and Stirling are on this island, and early human remains were found on it at Cheddar Gorge. Known to the Romans as In- sula Albionum, it was a base of operations for the Vikings, the Celts [KELTS] and the Anglo-Saxons, and it is now the third most populated island in the world. Some of its oldest cities are Hull, Chichester, Dur- ham, Hereford, and Coventry. Name this location of Scotland, Wales, and England.
+
+----
+num: 7
+category: Mythology
+difficulty: HS
+fixed: 57
+seen: 776
+answer: {Sisyphus}
+
+(JG) He is credited with founding the Isthmian Games, and his story is told in book eleven of the Odys- sey and also in the Iliad. Some sources call him the father of Odysseus, and all accounts give his father as Aeolus. His wife Merope was central to his best-known action, since at his behest she did not perform sacrifices and didn't bury him. This followed a rescue of Death by Ares, and resulted in him having to die twice, leading to his punishment. Name this Greek mythological figure dramatized by Camus who repeat- edly rolls a boulder up a hill after it rolls back down each time.
+
+----
+num: 8
+category: Literature
+difficulty: HS
+fixed: -1
+seen: 442
+answer: {Sherlock Holmes} (accept either or {both parts})
+
+(JG) He sometimes works with Lestrade [less-TROD] and Gregson, and his creator was knighted for services during the Boer War. This character was based on a medical school professor, and interestingly enough a doctor was later based on him. Characters of Poe and Gaboriau anticipated this man, but he himself first appeared in a story concerning a corpse found nearby a blood-written sign. He seems to die when thrown with his nemesis off a cliff, but reappeared by popular demand eight years later. His method focused on eliminating the impossible, so that only the possible (however improbable) remained. Name this man whose biographer was James Watson, the inspiration for TV's Dr. House and the protagonist of detective stories by Sir Arthur Conan Doyle.
+
+----
+num: 10
+category: Science
+difficulty: HS
+fixed: 1
+seen: 485
+answer: Prince Louis Victor Pierre Raymond {de Broglie}
+
+(JG) This man's last published work was called Certitudes and Incertitudes of Science, and another of his works was later refined by David Bohm. That work interpreted quantum mechanics in favor of causal- ity and is a type of hidden variable theory. His most famous work was his doctoral thesis, which also con- cerned quantum theory and introduced the concept for which he is best known. That theory won him the 1929 Nobel Prize in Physics and can be expressed as lambda equals h over the quantity gamma m v. Iden- tify this twentieth century physicist whose namesake wavelength refers to his theory that a wave can be associated with any particle.
+
+----
+num: 11
+category: Science
+difficulty: HS
+fixed: 57
+seen: 496
+answer: George {Boole}
+
+(JG) Schaefer's dichotomy theorem applies to his namesake satisfiability problem, an early NP- complete problem, and his namesake inequality relates probabilities of several events in metric spaces. The satisfiability problem examines whether variables can be assigned so as to make a certain formula evaluate to one. His now most-noted work originally did not garner much notice, but Claude Shannon's MIT master's thesis written 70 years later brought his namesake math into the forefront of the design of telephone relay systems. His branch of mathematics now includes DeMorgan's Laws and is often used with sets and bits. Identify this British creator of an algebra dealing with truth and falsehood and logical operations in which variables often can equal only zero or one.
+
+----
+num: 12
+category: Trash
+difficulty: HS
+fixed: 1
+seen: 1030
+answer: George {Patton}
+
+(SS) The screenplay for this movie was written by the director of The Godfather, and the star had ap- peared in a Kubrick film years earlier as Colonel Turgidson, who engaged in a wrestling match with the Russian diplomat before being instructed not to fight in the War Room. The subject of the film had served in Operation Torch, Operation Cobra, and Operation Husky, in which he liberated Palermo and Messina from the Axis, and he died not in combat but from a car accident. Identify this Best Picture biopic about the World War II general who was reprimanded when he slapped a soldier for having "combat fatigue."
+
+----
+num: 13
+category: Literature
+difficulty: HS
+fixed: 1
+seen: 439
+answer: William Porter or {O. Henry} (prompt on partial answer)
+
+(HT) One of the more accepted explanations behind his pen name is that he chose the last name from a list of people invited to a ball and the first name primarily for its ability to be written without much ef- fort at all, though the name may also be derived from the jail he was incarcerated in. In a short story whose title comes from a poem by Lewis Caroll, he coined the term "banana republic". Among his many other short works, he wrote about the attempts of an Alaskan miner to woo a waitress, a bum named Soapy who wishes to be arrested, a reunion between two men that took place two decades after they had last seen each other, and an obnoxious victim of kidnapping. Name this American author, famous for his twist endings and clever irony, who penned "The Gift of the Magi".
+
+----
+num: 15
+category: Trash
+difficulty: HS
+fixed: 57
+seen: 1027
+answer: The {Brady Bunch}
+
+(JG) A cat appeared in the first episode, and was never heard from again. The actor who played the fa- ther constantly fought with the producers over the comedic nature of the show's writing, and he later died of colon cancer while suffering from AIDS, which Barry Williams wrote about in his book of experiences as an actor on the show. In the last season, Cousin Oliver was introduced to appeal to a younger demo- graphic, but this attempt failed miserably. One episode features the kids trying to raise money for their parents' anniversary gift by singing "It's a Sunshine Day" on TV. Name this early 1970s television show that featured Alice along with Greg, Peter, Bobby, Marcia, Jan, and Cindy as Mike and Carol's kids.
+
+----
+num: 16
+category: Literature
+difficulty: HS
+fixed: -1
+seen: 448
+answer: {Chile}
+
+(DR) One poet from this country wrote the collections Ternura, Desolación, and Sonetos de la Muerte. She received the Nobel Prize in 1945. Other writers include Marjorie Agosín, Gonzalo Rojas, and Vicente Huidobro. Another of its poets wrote odes to salt, tomatoes, and an artichoke, and also wrote a poem that begins, "The memory of you emerges from the night around me." That work appears at the end of a famous collection following twenty love poems. Name this South American country that produced Nobel laureates Gabriela Mistral and Pablo Neruda.
+
+----
+num: 17
+category: Science
+difficulty: HS
+fixed: 57
+seen: 486
+answer: Dmitry Ivanovich {Mendeleyev}
+
+The leader of this man's country sanctioned his bigamy, saying he "has two wives, yes, but I have only one" of him. He invented an explosive for the navy, developed some laws of thermal expan- sion, and tried to determine the material composition of the luminiferous aether. His later work focused on agriculture, the petroleum industry, and economics, reflecting his general goal to bring order to the world. He also determined chemically the ideal proportion of alcohol in vodka. In his most enduring work, he referred to eka-aluminum, which successfully anticipated many properties of gallium. Name this Russian chemist who predicted lots of other elements, too, but left out the noble gases from his first peri- odic table.
+
+----
+num: 18
+category: Fine Arts
+difficulty: HS
+fixed: 1
+seen: 493
+answer: The {Hay Wain} (accept Landscape: Noon before it is mentioned)
+
+(JG) The building shown belonged to Willy Lott and still stands today in Suffolk. A small rowboat with a fisherman is in the lower right corner, and three horses each have red harnesses. Originally exhib- ited under the name Landscape: Noon, Eugène Delacroix claimed to be inspired by this painting, which is at the National Gallery in London. Identify this pastoral British painting that depicts a typical agricultural activity and a cottage by John Constable.

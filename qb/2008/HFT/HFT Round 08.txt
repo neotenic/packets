@@ -1,0 +1,174 @@
+####
+tournament: HFT
+round: HFT Round 08.doc
+year: 2008
+####
+
+num: 2
+category: Literature
+difficulty: HS
+fixed: 1
+seen: 445
+answer: {Don Quixote} de La Mancha
+
+This novel opens with Petrarchan sonnets by Phoebus and Orlando. Its title character wants to retire with an innkeeper, in whose inn he had reunited Cardenio and Luscinda. That title character's epitaph is written by Sanson Carrasco, who worries about his dealings with the barber and the curate. It ends after Carrasco vanquishes the title character while dressed as the Knight of the White Moon, ending his attempts to do good to honor Dulcinea. Featuring Sancho Panza, this is, FTP, what novel about a bumbling knight by Miguel de Cervantes?
+
+----
+num: 3
+category: Social Science
+difficulty: HS
+fixed: 1
+seen: 375
+answer: An Inquiry into the Nature and Causes of the {Wealth} of {Nations}
+
+This work's first chapter uses the pin-making industry to model of division of labor, and its final chapters argue for progressive taxation. Although it predates the theory of comparative advantage, this book argues against the keeping of large gold reserves, protectionist tariffs, and other tenets of mercantilism. Later, this work describes a force that leads individuals to promote societal interest by pursuing their own interests, the “invisible hand.” FTP, name this first major treatise on economics, written in 1776 by Adam Smith.
+
+----
+num: 4
+category: Science
+difficulty: HS
+fixed: 57
+seen: 478
+answer: {intrusive} igneous rocks (accept {plutonic} igneous rocks before “{plutons}”)
+
+During their formation, processes like kaolinization and greisen formation take place. For each rock like basalt and rhyolite, this class has a chemically analogous, phaneritic rock like gabbro and granite. The nature of its formation, separated by a contact from the surrounding country rock, allows characteristically slow cooling and therefore large crystals. Forming in plutons such as dikes and sills, this is, FTP, what class of igneous rock that cools, crystallizes, and solidifies below the surface of the earth?
+
+----
+num: 5
+category: History
+difficulty: HS
+fixed: 1
+seen: 426
+answer: Jamaica
+
+It was on this island that Sir Anthony Shirley burned the town of St. Jago, sixty years before the capture of Tower Isle expelled the Spanish completely. The Spanish had earlier been defeated in Ocho Rios and had abandoned its capital at Spanish Town. Other cities on this island included a base for English pirates, Port Royal, and a city primarily known today as a stop for cruise ships, Montego Bay. Today the third most populous English-speaking country in North America, this is, FTP, what island in the Greater Antilles with capital at Kingston?
+
+----
+num: 6
+category: Fine Arts
+difficulty: HS
+fixed: 1
+seen: 500
+answer: American {Gothic}
+
+The colonial print apron in this work mimics 19th-century photographs, while Northern Renaissance inspiration can be seen in the pointed arch shape of a window, and, in the distance, the tops of the trees and a red barn can be seen. The building in its background is located in Eldon, and the woman stands behind the right shoulder of the man, who was the artist's dentist and wears stitched overalls that mirror the shape of the pitchfork he holds. FTP, identify this iconic painting of a man and his daughter in front of an Iowa farmhouse, a 1930 painting by Grant Wood.
+
+----
+num: 7
+category: Literature
+difficulty: HS
+fixed: 57
+seen: 433
+answer: Evelyn {Waugh}
+
+One of this author's characters is Paul Pennyfeather, whose life approximates a ferris wheel. He also created Brenda, who gets bored and goes to London to cheat on her husband, Tony Last. Another of his characters becomes an alcoholic and ends up as a porter at a Tunisian monastery, after which the protagonist drifts apart from the Marchmain family, and Julia does not marry Charles. FTP, identify this Catholic author of Scoop, Decline and Fall, A Handful of Dust and Brideshead Revisited.
+
+----
+num: 8
+category: Science
+difficulty: HS
+fixed: 1
+seen: 486
+answer: {inverse square} law
+
+For an irrotational field in three-dimensional space, a law of this type implies that the divergence is zero; a specific case of that statement is Gauss's law. The intensity of one of these forces can be correlated to the density of field lines beginning at one body and ending at another or at infinity. Acoustic intensity also obeys this type of law, more famously typified by electric fields by Coulomb's law and by gravitation fields. FTP, identify this type of law that describing fields whose intensity falls off proportionally to a certain power of distance.
+
+----
+num: 9
+category: Literature
+difficulty: HS
+fixed: -1
+seen: 442
+answer: Walt {Whitman}
+
+The speaker of one his poems “saw askant the armies” and the carnage following a battle after crying “approach, strong Deliveress!” in the “death carol” of its sixteenth section. In another of his works, the speaker exclaims about “a woman's Body at auction!” after asserting that “the armies of those I love engirth me.” Besides those poems and his “Calamus” poems, he began his best-known poem by declaring “I celebrate myself, and sing myself. FTP, name this poet of “When Lilacs Last in the Door-yard Bloom'd” and “Song of Myself,” collected in Leaves of Grass.
+
+----
+num: 10
+category: Social Science
+difficulty: HS
+fixed: 57
+seen: 377
+answer: {apartheid}
+
+Violent protests against this included the Church Street Bombing and the St. James Church Massacre, the latter of which was perpetrated by the Azanian People's Liberation Army, while the Rivonia Trial imprisoned eight of its opponents. Protesters of this policy championed by P.W. Botha were victims of the Sharpeville Massacre, while protests against it flared up into the Soweto Uprising. Redressed by the Truth and Reconciliation Commission and ended by F.W. De Klerk and Nelson Mandela, this was, FTP, what policy of racial segregation in South Africa?
+
+----
+num: 11
+category: History
+difficulty: HS
+fixed: 1
+seen: 417
+answer: Shi'ism (prompt on {Islam} before it is mentioned; accept {Zaydi} before the word “{Alamut}”; accept al-{Shi'a}; do not accept {Twelver} or {Sevener} Shi'ism at any point)
+
+One branch of it recognizes any descendant who rises against a corrupt government as a potential leader, while another branch occupied Alamut and plotted to kill certain statesmen. Many adherents of it believe in the occultation, the messianic return of the mahdi, and most followers are part of the “twelver” and “sevener” branches that recognize different numbers of imams descended from Ali, the son of the Prophet Muhammad. FTP, identify this branch of Islam that predominates in Lebanon, Iraq, and Iran and is distinguished from its Sunni counterpart.
+
+----
+num: 12
+category: Science
+difficulty: HS
+fixed: -1
+seen: 481
+answer: {alcohols}
+
+Triphenyl phosphine and DEAD may be used to convert them to esters, while Collins reagent will convert them to aldehydes and ketones. Oxymercuration-demercuration and hydroboration-oxidation are two important methods for their controlled synthesis. Triglycerides have a poly-one as their backbone, linking three fatty acids. One with one carbon, which is highly toxic and causes blindness, is usually added to laboratory stocks of the two-carbon one to discourage ingestion. FTP, identify these compounds with an OH group, which include an isopropyl “rubbing” kind.
+
+----
+num: 13
+category: Literature
+difficulty: HS
+fixed: 1
+seen: 439
+answer: Tennessee {Williams}
+
+Alvaro falls in love with Serafina in this one of this man's plays, while in another a charismatic musician struggles in a repressive town. In addition to The Rose Tattoo and Orpheus Descending, he created a family living near Eunice and Steve Hubbell, who can always be heard. The play sees the male protagonist declare that “every man's a king,” and Mitch tries to date a woman from Belle Reve. He also created Jim O'Connor, who kisses Laura Wingfield. FTP, identify this playwright of Night of the Iguana, The Glass Menagerie, and A Streetcar Named Desire.
+
+----
+num: 14
+category: History
+difficulty: HS
+fixed: 1
+seen: 416
+answer: {Korea} (do not accept either North {Korea} or South {Korea}; accept Kingdom of {Joeson} until the March 1st Movement is mentioned)
+
+This nation repelled an American invasion in 1871, but the March 1st Movement and the Donghak Peasant Rebellion were both crushed. It was the victim of the Treaty of Ganghwa, to which the US assented in the Taft-Katsura Agreement, while in the Treaty of Portsmouth Russia recognized Japan's claim to it. Later the site of negotiations at Panmunjon to end a war between Chinese forces that had crossed the Yalu and American forces that had landed at Inchon, this was, FTP, what peninsula divided at the 38th parallel that saw a war between 1950 and 1953?
+
+----
+num: 15
+category: Fine Arts
+difficulty: HS
+fixed: -1
+seen: 497
+answer: {Beethoven's} Symphony No. {9} in D minor (accept Choral Symphony but do not accept “Ode to Joy”)
+
+Its “Adagio molto e cantabile” third movement begins in B-flat major. The fortissimo recapitulation of its D-minor first movement led Bramwell Tovey to remark, “instead of a distant nebula we now see the heavens on fire.” Its scherzo second-movement features timpani, while its surprisingly long final movement is an “inner symphony” that quotes previous movements before basses introduce the main theme, to which “Freude, schöner Götterfunken!” is later sung. With lyrics taken from Schiller's “Ode to Joy,” this is, FTP, what last symphony of Beethoven?
+
+----
+num: 17
+category: Science
+difficulty: HS
+fixed: 57
+seen: 487
+answer: {steroids}
+
+One structural classification for these terpenoids divides them into the pregnanes, cholanes (KOH laynz), cholistanes (KOH lih staynz), estranes, and androstanes. One of their precursors is squalene, and the secretion of one type of them results in higher blood pressure and blood sugar because that hormone, cortisol, is a glucocorticoid. One kind increases membrane fluidity at low temperatures and decreases it at high temperatures. They are characterized by four fused rings and include cholesterol. FTP, name this class of compounds that also come in an anabolic variety used during high-intensity workouts.
+
+----
+num: 19
+category: Literature
+difficulty: HS
+fixed: 1
+seen: 443
+answer: Lysistrata
+
+The title character of this play discusses a city of “eels and perfectly trimmed gardens,” and later that character constructs a metaphor relating ideal government policies with spinning wool. This play concludes as Kinesias and the Herald use the naked body of a handmaiden named Peace to determine land rights. Beginning with a dialogue with Calonice, the title character leads a horde of women who seize the Acropolis. FTP, name this play in which the women of Greece withhold sex to force an end to the Peloponnesian War, written by Aristophanes.
+
+----
+num: 20
+category: History
+difficulty: HS
+fixed: 1
+seen: 413
+answer: {Napoleon} Bonaparte
+
+Ahmed al-Jazzar tried to defend Jaffa against this man's forces, and he tried to threaten India by taking Acre. His victory at Ulm was followed by a defeat for Kutuzov's forces that led to the Treaty of Pressburg, while Marshal Ney brought reinforcements to prevent his defeat at Eylau. His army forced the Treaty of Tilsit with a victory at Jena-Auerstadt and was successful at Borodino, but a disastrous retreat through Russia and defeat at Leipzig forced his exile to Elba. FTP, identify this diminutive emperor of France exiled to St. Helena after his defeat at Waterloo.

@@ -1,0 +1,244 @@
+####
+tournament: PACE NSC
+round: Packet 23 - Finals 2.doc
+year: 2011
+####
+
+num: 1
+category: History
+difficulty: HS
+fixed: 57
+seen: 415
+answer: {Bacon’s} Rebellion [or {Bacon’s Revolt} or {Bacon’s Uprising} or equivalents that mention {Bacon}]
+
+Some of the participants in this event were captured at the Arthur Allen House by troops deployed from the Young Prince. The first signatory to a peace treaty that followed this event was Cockacoeske, the so-called Queen of the Pamunkey. Early skirmishes in this event included the killing of Robert Hen, probably in retaliation for a debt owed by Thomas Matthew. That killing prompted a subsequent massacre of Doeg Indians. At the June Assembly, this event’s namesake complained of recently added (*) property requirements for voting. John Ingram became the leader of this conflict after its namesake died of dysentery, and that leader had earlier been elected to the House of Burgesses. For 10 points, name this rebellion against Governor William Berkley in colonial Virginia.
+
+----
+num: 2
+category: Geography
+difficulty: HS
+fixed: -1
+seen: 716
+answer: Republic of {Botswana}
+
+Sheila Coulson sparked controversy by claiming a rock sculpture of a python, discovered in this country’s Tsodilo Hills in 2006, was 70,000 years old and thus the oldest extant site of human rituals. This country’s economy was bolstered by a 2000 expansion of its Orapa Mine, while its first economic boom followed a gold rush in its second most populous city, Francistown. This country’s government is engaged in an ongoing controversy over land and water rights with its San (*) Bushmen, and many tourists to this country see the wildlife that congregates in an endorheic basin formed where the Okavango River simply stops flowing in the middle of the Kalahari Desert. For 10 points, name this southern African country whose capital is Gaborone.
+
+----
+num: 2
+category: Geography
+difficulty: HS
+fixed: 57
+seen: 722
+answer: Republic of {Botswana}
+
+Sheila Coulson sparked controversy by claiming a rock sculpture of a python, discovered in this country’s Tsodilo Hills in 2006, was 70,000 years old and thus the oldest extant site of human rituals. This country’s economy was bolstered by a 2000 expansion of its Orapa Mine, while its first economic boom followed a gold rush in its second most populous city, Francistown. This country’s government is engaged in an ongoing controversy over land and water rights with its San (*) Bushmen, and many tourists to this country see the wildlife that congregates in an endorheic basin formed where the Okavango River simply stops flowing in the middle of the Kalahari Desert. For 10 points, name this southern African country whose capital is Gaborone.
+
+----
+num: 3
+category: Fine Arts
+difficulty: HS
+fixed: 57
+seen: 484
+answer: {Dido} and {Aeneas}
+
+Two violins play “Row Well, Ye Mariners” as drunken sailors dance in Act II of this opera, which ends with a chorus of courtiers singing “With drooping wings, ye cupids come.” A ritornello begins this opera’s Grove scene, and it diverges from its source material by including witches, who hatch a plot in its Cave scene. One protagonist of this work asks her sister (*) Belinda for her hand before saying that “darkness shades me” and asking her to “Remember me, but ah, forget my fate.” This opera makes extensive use of ground bass, including in its final aria, When I am laid in earth, its first title character’s namesake lament. For 10 points, name this opera by Henry Purcell about a Roman hero’s dalliance with a Carthaginian queen.
+
+----
+num: 4
+category: Science
+difficulty: HS
+fixed: 57
+seen: 486
+answer: {acetylcholine} [or {ACh}]
+
+The basal nucleus of Meynert contains large amounts of this substance, and antibodies destroy this substance’s receptors in myasthenia gravis. Galantamine inhibits its breakdown. It has ionotropic and G protein-coupled receptors called (*) nicotinic and muscarinic, respectively. This molecule is released in pre- and post-ganglionic parasympathetic neurons, as well as at the motor end plates of skeletal muscle. A deficiency of it was proposed as a cause of Alzheimer’s disease, which is treated using inhibitors of its namesake esterase. For 10 points, name this neurotransmitter that mediates neuromuscular interactions.
+
+----
+num: 5
+category: Mythology
+difficulty: HS
+fixed: 1
+seen: 779
+answer: Izanagi
+
+This deity once broke a tooth off of his comb to use it as a torch. At their first courting, this god’s wife spoke first after they had gone around the Heavenly Pillar, as a result of which this god fathered the Leech Child. After being told that one thousand people would die each day, this man responded that one thousand five hundred would be born. This god beheaded his son, the fire god (*) Kagutsuchi, in a rage. This owner of the Tenkei went to the underworld to find his wife but rejected her when he saw her polluted. He created Amaterasu out of his eye and dipped a spear into the ocean to create eight islands. For 10 points, name this Japanese creator god, the husband of Izanami.
+
+----
+num: 6
+category: History
+difficulty: HS
+fixed: 57
+seen: 418
+answer: {Bolivia} [or {Plurinational} State of {Bolivia}]
+
+Liberal presidents like Ismael Montes controlled this country during its switch to a tin-exporting economy, while its current president once demonstrated the difference between cocaine and its signature crop of coca by holding up a coca leaf at the U.N. That current head of state is a member of the Movimiento al Socialismo Party. In this country, while planning a coup against its liberal president Rene Barrientos, (*) Che Guevara was executed. This country lost the copper-rich territory of Antofagasta after its defeat in a war sometimes called the Saltpeter War. This nation was defeated by Paraguay in a conflict over the supposedly oil-rich Gran Chaco, and it lost its coastline in the War of the Pacific. For 10 points, name this landlocked Latin American country currently ruled by Evo Morales.
+
+----
+num: 7
+category: Fine Arts
+difficulty: HS
+fixed: 1
+seen: 497
+answer: Stephen Michael {Reich}
+
+A maraca beat underlies a work by this composer in which notes of a chord are held progressively longer by four organs. He set the Hebrew text of four psalms for shrill women’s voices in Tehillim. One of his works begins and ends with eleven chords organized into pulses. Works by this composer that pair off identical sets of instruments include 2x5 and (*) Double Sextet. One of his pieces is divided into parts depicting America before World War II and Europe during it. That work has a string quartet mimic the rhythms of recordings of Holocaust survivors, this man’s caretaker, and a former Pullman porter describing travel in the title vehicles. For 10 points, name this minimalist composer of Music for 18 Musicians and Different Trains.
+
+----
+num: 8
+category: Science
+difficulty: HS
+fixed: 57
+seen: 486
+answer: multi-dimensional {arrays}
+
+When these data structures have a low stride they are stored contiguously in memory, which increases throughput. One of these objects is created after determining the min and max of the items to be sorted when implementing counting sort. A form of these objects are implemented using either row-major or column-major order, and full heaps can efficiently be stored using one of these data structures. Dynamic forms of these data structures allow for their size to be increased while still maintaining close to the (*) constant time needed to read and write from them. Multi-dimensional forms of this data structure can be used to represent matrices, and they are often iterated through using for loops. For 10 points, name this simple data structure declared using square brackets in languages with C syntax.
+
+----
+num: 9
+category: Literature
+difficulty: HS
+fixed: 1
+seen: 436
+answer: D. H. {Lawrence}
+
+In one of this author’s works, Thomas Jordan fires Baxter from his factory for throwing him down a flight of stairs. One of this author’s characters abandons his wife Lottie and accompanies Rawdon Lilly to play the flute in Italy. In another of this author’s novels, Gerald’s relationship with Gudrun deteriorates due to his love for his friend, Birkin. This author of (*) Aaron’s Rod and Women in Love wrote a novel in which Clara Dawes and Miriam Leivers fall in love with the protagonist, who cannot reciprocate due to his love for his mother Gertrude. For 10 points, name this British author, who created Paul Morel in Sons and Lovers.
+
+----
+num: 10
+category: History
+difficulty: HS
+fixed: 1
+seen: 419
+answer: Council of {Constance}
+
+The man who called this council traveled to it with this wife, Barbara of Celje, and this council created the Diocese of Samogitia. A conflict between two of the parties here was mediated by Pierre d’Ailly, who balanced the opposing viewpoints on regicide of Paulus Vladimiri and John of Falkenberg. This council condemned adherents of the Utraquist and Taborite factions. It was called by a man who succeeded (*) Wenceslaus on the throne of one nation; that man was Emperor Sigismund. This council challenged the Conciliarism that had been a large factor in the previous council. It also condemned John Wycliffe and supported Gregory XII's resignation as pope. The successor of the Council of Pisa, for 10 points, name this council that executed Jan Hus and elected Martin V as pope, effectively ending the Western Schism.
+
+----
+num: 11
+category: Fine Arts
+difficulty: HS
+fixed: 1
+seen: 492
+answer: Honoré-Victorin {Daumier}
+
+This artist showed a hat flying off a man holding a camera in a hot air balloon in his Nadar raising photography to the height of art. Pablo Picasso included the title character’s sidekick in a painting resembling one by this man, in which the title literary figure holds a staff and rides the white Rocinante. In another work, he showed peasants carrying food up a ramp into the mouth of a king with a (*) pear-shaped head. That lithograph depicts Louis-Philippe as Gargantua. The back of one of his paintings shows two men in top hats among several others sitting close together. On the bench in front of them are a sleeping boy, a hooded woman holding a basket, and a woman breastfeeding. For 10 points, name this French printmaker and painter of Third Class Carriage.
+
+----
+num: 12
+category: Science
+difficulty: HS
+fixed: 1
+seen: 489
+answer: Stephen William {Hawking}
+
+With Thomas Hertog, this physicist suggested top-down cosmology as a way to address the anthropic principle. With Jim Hartle, this physicist suggested that the universe, despite being finite, has no spacetime boundary. The association of a temperature with every solution of the Einstein field equations that contains a causal horizon is named for him and for Gibbons. The (*) trans-Planckian problem arises in considering a phenomenon predicted by this physicist; pair-production near the event horizon of a black hole, a process named for Penrose, can cause the emission of his namesake radiation. For 10 points, name this recently retired Lucasian Chair, a British theoretical physicist.
+
+----
+num: 13
+category: Literature
+difficulty: HS
+fixed: 57
+seen: 447
+answer: The {Age} of {Innocence}
+
+The protagonist of this novel is moved when Montague kisses the velvet ribbon on Ada’s back during a performance of “The Shaughraun.” One character in this novel has a stroke after the banker Julius Beaufort is ruined in a shady Wall Street scheme. At the end of this novel, the protagonist visits Europe with his son Dallas twenty-five years after the main action of the novel. The protagonist of this novel is dominated by his wife’s grandmother, the powerful Mrs. (*) Mingott. At the beginning of this novel, the protagonist is set to marry May Welland, but he falls in love with a recently arrived Polish countess. For 10 points, name this novel about Ellen Olenska and Newland Archer, written by Edith Wharton.
+
+----
+num: 14
+category: Philosophy
+difficulty: HS
+fixed: 1
+seen: 519
+answer: epistemology
+
+James Frederick Ferrier introduced this term in his work The Ontology or Theory of Being, while Bertrand Russell distinguished between the subject of this branch of philosophy’s forms of acquaintance and description. One philosopher concerned with this branch of philosophy described its subject as “justified true belief,” although that was sharply refuted by Edmund (*) Gettier. Traditionally, philosophers in this field have been concerned with its propositional form, and one foundational work in this field is John Locke’s Enquiry Concerning Human Understanding. For 10 points, name this branch of philosophy concerned with the origins and mechanics of human knowledge.
+
+----
+num: 15
+category: History
+difficulty: HS
+fixed: 57
+seen: 414
+answer: Slobodan {Milosevic} [or Slobodan {Miloshevich}]
+
+This man’s police force orchestrated the Prekaz massacre. Although early in his career he participated in the Yogurt Revolution, he was forced from power when the TV station he controlled was rammed with industrial equipment in the Bulldozer Revolution. This man’s government was the target of Operation Allied Force. This man sought to restore his country’s sovereignty over Vojvodina and he was mentored by LCS-leader (*) Ivan Stambolic, a man he’d later succeed as president. Along with Franjo Tudman and Alija Itzetbegovic, he was a signatory to the 1995 Dayton Accords. His campaign against the KLA and ethnic Albanians in his country prompted a response from NATO in 1999. For 10 points, name this former President of Serbia whose policy of ethnic cleansing caused his country to be invaded during the Kosovo War.
+
+----
+num: 16
+category: Science
+difficulty: HS
+fixed: 1
+seen: 479
+answer: {tRNA} [or {transfer RNA}; prompt on RNA]
+
+One enzyme critical for the function of these molecules has a monomeric and a dimeric class, the latter of which targets these molecules’ adenosine 76. A CCA tail is added during processing to the 3’ (“three prime”) end of these structures, which pairs with its 5’ (“five prime”) end to form an acceptor stem. Their D arm functions as a recognition site for an (*) aminoacyl synthase key to their function. They can possess pseudouridine or inosine in their anticodons, which permits wobble pairing; the anticodon is located on one loop of these molecules’ cloverleaf structure. For 10 points, name these molecules that bring amino acids to ribosomes to be added to a growing polypeptide chain during translation.
+
+----
+num: 17
+category: Literature
+difficulty: HS
+fixed: 57
+seen: 452
+answer: Les {Fleurs du Mal} [or The Flowers of Evil]
+
+One poem from this collection begins “Andromache, I think of you!”, linking a recent renovation to the fall of Troy. The speaker of another poem from this collection asks his love to accompany him to a country where “restraint and order bless / luxury and voluptuousness.” This collection contains “The Swan” and “Invitation to the Voyage,” as well as a poem that repeatedly asks “Have pity on my long despair!”, “The (*) Litanies of Satan.” The foreword to this collection describes a figure who “dreams of the gallows in the gaze of his hookah,” “Ennui!” before sharply addressing the “Hypocrite reader!” For 10 points, name this collection containing the sections “Revolt” and “Spleen and Ideal,” a Symbolist work by Charles Baudelaire.
+
+----
+num: 18
+category: Religion
+difficulty: HS
+fixed: -1
+seen: 449
+answer: Saint {Peter}
+
+This figure apocryphally defended Jesus during his arrest by cutting off the ear of one of the Roman soldiers arresting him. During one Pentecost, this figure proclaimed the arrival of the Holy Spirit and gave an open-air sermon, and he was rescued from imprisonment by Herod by an angel. Traditionally depicted holding keys in his left hand, this saint, along with Paul, was the focus of the (*) Book of Acts, and he died by being crucified upside-down because he considered himself unworthy to die as Jesus had. For 10 points, name this figure who denied Christ three times after the Garden of Gesthemane, the leader of the Apostles who is considered to be the first pope.
+
+----
+num: 19
+category: Social Science
+difficulty: HS
+fixed: None
+seen: 413
+answer: {efficient} markets {hypothesis}
+
+Recent work on this theory suggests that most Asian markets are too vulnerable to manipulation for it to hold true. The Behavioral Finance finding that people engage in hyperbolic discounting suggests that this statement isn’t applicable to most markets. The weak form of this theory asserts that all past market prices and data are fully reflected in securities prices, while the strong form argues that all information is reflected. For 10 points, identify this economic theory developed by Eugene Fama.
+
+----
+num: 20
+category: Literature
+difficulty: HS
+fixed: 1
+seen: 444
+answer: Gaius Valerius {Catullus}
+
+In one poem, this man called himself “the least of all poets,” just as Cicero is “the greatest of all lawyers.” Another of this author’s poems asks the “waves of the Lydian lake” to “laugh whatever laughter there is” after addressing the “jewel of peninsulas,” Sirmio. One of this man’s poems begins “Let us live and let us love!”, while another is an adaptation of (*) Sappho’s “He seems to me equal to the gods.” This man wrote two poems concerning his lover’s pet sparrow and another about going to his brother’s funeral rites, which ends “Hail and Farewell!” 10 points, name this Silver Age poet who addressed a number of works to Lesbia.
+
+----
+num: 21
+category: History
+difficulty: HS
+fixed: 1
+seen: 420
+answer: {Tiananmen Square} protests of 1989 [or {Tiananmen Square massacre} of 1989; or {Tiananmen Square incident}; or {June Fourth Incident}; or 6/4 {Incident}; prompt on {Beijing Massacre} or {Beijing Spring}]
+
+Some 200,000 people gathered at the Happy Valley Race Course to mourn this event. A rallying point during this event was a recreation of the Statue of Liberty made by students at the Central Academy of Fine Arts. Participants were attacked for being involved in an “organized conspiracy to sow chaos” in an April 27th editorial in the People’s Daily. This event hurt the popularity of a leader who had earlier advocated the “one country, two systems” policy. This event coincided with the first state visit to the country from (*) Mikhail Gorbachev. It was sparked by the death of Hu Yaobang, and this event prompted Li Peng to declare martial law. Jeff Widener took a famous photograph of “Tank Man” during this event. For 10 points, name this 1989 student protest against the Chinese government in a namesake Beijing locale.
+
+----
+num: 22
+category: Literature
+difficulty: HS
+fixed: 1
+seen: 443
+answer: Rainer Maria {Rilke} [or {René Karl Wilhelm Johann Josef Maria Rilke}]
+
+In one poem, this man described a woman’s “naked arms” whirling like “startled rattlesnakes” after she flickers like a “kitchen match... and suddenly, it is completely fire.” This poet of “The Spanish Dancer” wrote about a creature that “paces in cramped circles,” seeing (*) “a thousand bars, and behind the bars, no world” in one of his “thing-poems.” This man also described a “dark center where procreation flared” in a poem that ends, “You must change your life.” This author of “The Panther” and “Archaic Torso of Apollo” asked, “Who, if I cried out, would hear me among the angelic orders?” in the first of ten poems titled after a castle near Trieste. For 10 points, name this German poet of the Duino Elegies.
+
+----
+num: 23
+category: Science
+difficulty: HS
+fixed: 1
+seen: 489
+answer: Augustin-Louis {Cauchy}
+
+This mathematician gives his name to a type of surface which is intersected exactly once by every non-spacelike curve. One theory named for him states that three-dimensional convex polytopes with congruent corresponding faces must be congruent to each other. Like Lagrange, he gives his name to a form of the remainder in the statement of (*) Taylor’s theorem. He names a weaker condition equivalent to convergence for a real sequence but weaker for the complex numbers. He showed that the path integral of a holomorphic function over a closed path is zero, his namesake integral theorem. For 10 points, name this prolific French mathematician who names the statement that the absolute value of x dot y is less than or equal to the product of the norms of x and y along with Schwarz.

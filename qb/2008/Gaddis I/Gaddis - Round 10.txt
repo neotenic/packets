@@ -1,0 +1,214 @@
+####
+tournament: Gaddis I
+round: Gaddis - Round 10.doc
+year: 2008
+####
+
+num: 1
+category: History
+difficulty: College
+fixed: None
+seen: 71
+answer: {Shanghai People's Commune}
+
+It was contemporaneous with an organization set up in Harbin, and the groundwork for it was elucidated in an editorial in the Hung-ch'i by Cheng Chih-ssu that addressed the "Great Lessons" of its inspiration. It was established by the "January Storm," although its name was quickly changed to the "revolutionary committee" to avoid associations with the democracy of its inspiration, created 95 years before it. A similarly named organization was established in 1927 after a strike of some 800,000 workers, although it was ended by order of Chiang Kai-shek in the April 12 Incident. This polity was dominated by Yao Wenyuan and Zhang Chunqiao, two members of the Gang of Four, and lasted for only a brief period during the Cultural Revolution in 1967. FTP, identify this polity modeled after an 1871 ? government dominated by Adolphe Thiers, established in a city on the Yangtze River Delta.
+
+----
+num: 2
+category: Fine Arts
+difficulty: College
+fixed: None
+seen: 69
+answer: {Children's Corner}
+
+The second piece in this suite quotes from the song Do, do, l'enfant do to represent an elephant being sung to sleep. The first piece in this suite parodies finger exercises, and is named after a collection of studies by Muzio Clementi. Inspired by Mussorgsky's song cycle The Nursery, this suite includes The Little Shepherd and The Snow is Dancing, and ends with a piece based on ragtime melodies which parodies a chord from Wagner's Tristan and Isolde. Including Jimbo's Lullaby, Doctor Gradus ad Parnassum, and ? Golliwog's Cakewalk, FTP, name this suite of six piano pieces by Debussy dedicated to "Chou-Chou," his daughter.
+
+----
+num: 3
+category: Science
+difficulty: College
+fixed: None
+seen: 82
+answer: {uniform} distribution
+
+Van der Corput's theorem concerns sequences whose differences of terms have this property. The Marsaglia polar method is a refinement of the Box-Muller transformation, both of which generate two normally distributed random variables given numbers taken from this distribution. For a Poisson process, the vector of gamma-distributed arrival times has the same distribution as the order statistics of a sample of random variables from this distribution, while the k-th order statistic of n independent and identically-distributed random variables from this distribution is beta-distributed. On the ? unit interval, equidistribution deals with sequences, mod 1, that have this distribution. FTP, name this probability distribution for which each value has the same probability of occurrence.
+
+----
+num: 4
+category: Literature
+difficulty: College
+fixed: 1
+seen: 60
+answer: Gerhart {Hauptmann}
+
+One of this author's title characters murders his wife Lene before sitting on the train tracks where his son Tobias was killed. He wrote about Francesco Vela, a priest who joins a cult devoted to Eros, in "The Heretic of Soana." This author of prose works such as The Fool in Christ, Emanuel Quint and Bahnwärter Thiel is better known for dramas, including a tetralogy about the Atrides and a play about Alfred Loth, Before Dawn. He also wrote a "thieves' comedy" about Mrs. Wolff, who steals the title object from Kruger, and a play about the visions of an abused girl, as well as a play where a song by Moritz Jager inspires a ? rebellion against the factory owner Dreissinger. FTP, name this German playwright of The Beaver Coat and Hannele who dramatized a revolt of workers in Silesia in The Weavers.
+
+----
+num: 5
+category: History
+difficulty: College
+fixed: None
+seen: 65
+answer: {Bar Kochba's} Revolt [accept {Bar Kochba's Rebellion} or {clear}-{knowledge} equivalents]
+
+According to St. Jerome, the leader of one side of this conflict used his breath to fan a lighted blade of straw in his mouth to give the impression he could spew out flames. That side's forces spent fifteen years stockpiling weapons in caves, and began this conflict by defeating Rufus and Publius Marcellus. The tide of this conflict turned when troops under Hadrianus Quintus Lollius Urbicus and Julius Severus captured the cities of Kabul, Sichin, and Magdala. Beginning in the Valley of Rimmon, this rebellion ended after Roman forces destroyed Bethar, and was incited by Hadrian's attempt to construct a temple to Jupiter in ? Jerusalem. Led by a man believed to be the Messiah, FTP, name this Jewish revolt against the Romans from 132 to 135 CE.
+
+----
+num: 6
+category: Geography
+difficulty: College
+fixed: 1
+seen: 137
+answer: Republic of {Puntland} [prompt on {Somalia} before {Garowe}] ({5})
+
+This polity was home to the Sultanates of Hobyo, Sanaag, and Majerteen in the early years of the 20th century, and its most prominent agricultural region is the Hawd. Its climate is divided into the Jilal, Gu, Xagaa, and Dayr, and in April, the French yacht Le Ponant was seized and taken to Garacade, a port city in this polity. Gaalkacyo is the largest city in its Mudugh province, and scores of people have been killed after attempting to seek passage from the former Bender Qassim, now known as Boosaaso, to a country to the north. The closest island to this polity is 'Abd al-Kuri, and it is home to Ra'as Xaafuun, the easternmost point in Africa, and its capital Garowe. For fifteen points, recognize the independence of this state in northeastern Somalia, which is named for an ancient land visited by Hatshepsut's fleet.
+
+----
+num: 7
+category: Science
+difficulty: College
+fixed: None
+seen: 83
+answer: {Ward}-{Takahashi Identities}
+
+He and Yu proved these relations in a four dimensional one-loop system, and one of their namesakes derived transverse relations between Green's functions that complement these statements by replacing inner products with wedge products. In external non-Abelian gauge vector fields, an anomaly in these relations occurs due to the axial current divergence. Originally used to relate the wavefunction of an electron to its vertex renormalization factor, in general they are relations between correlation functions in a quantum field theory. For fifteen points, name these doubly eponymous quantum analogues of Noether's Theorem, named for British and Japanese scientists.
+
+----
+num: 8
+category: Mythology
+difficulty: College
+fixed: 57
+seen: 110
+answer: {Surtr}
+
+Ivaldi gave this figure the mead reserve Byrgir in order to marry his granddaughter Gunnlod. This father of Suttung created the primordial cow Audhumla to nourish Ymir, and this husband of Sinmore later uses the sword Gambantein to kill a god who fights him with a stag's antler. The land he guards was the source of the planets and stars, and mixed with Niflheim in order to create life. His name means "black," and this guardian of ? Muspellheim will kill Freyr at Ragnarok before burning the nine worlds. FTP, identify this fire giant from Norse mythology.
+
+----
+num: 9
+category: Literature
+difficulty: College
+fixed: None
+seen: 58
+answer: "{Ars Poetica}" [or "The {Art} of Poetry"]
+
+This work attacks the corruption and materialism caused by teaching the young how to divide a sum of money into a hundred parts. This work ends by describing a man who urinated on his father's ashes and fastens on unwary readers like a leech, gorging himself in their blood. It begins by describing the absurdity of a painter attaching a horse's neck to a human head, and was first translated into English by Ben Jonson. Its author's third epistle, it is addressed to Lucius Calpurnius Piso and his sons. It states that plays should be five acts, emphasizes the importance of reviewing ? Greek models, and notes that "even Homer nods." It also states that epic poems should begin "ab ovo" and "in medias res." FTP, name this treatise on poetry by Horace.
+
+----
+num: 10
+category: Fine Arts
+difficulty: College
+fixed: None
+seen: 70
+answer: The {Netherlandish Proverbs}
+
+The lower left corner of this painting depicts a man fallen between two chairs and a man in blue biting a column. In the center, a man holds up a lit candle and prays to a devil, while another man pastes a fake white beard on Christ. A shallow river in this painting contains a man using a fan in an attempt to block out the sun and a man attempting to catch an eel by the tail. More amusing characters in this painting include a man armed to the teeth in order to bell a cat, a woman in a red dress putting a blue cloak over her husband's face, and a man shooting arrows at pies in the upper left. Painted in 1559, its layout is similar to its artist's other painting ? Children's Games, and its background alludes to The Blind Leading the Blind, one of the title sayings. FTP, name this painting by Pieter Brueghel the Elder which illustrates over a hundred of the title idioms.
+
+----
+num: 11
+category: Fine Arts
+difficulty: College
+fixed: None
+seen: 72
+answer: {Kim Jong}-{Il} [prompt on {Kim}, accept {Kim Il}-{Sung}, the “{Great Juche Ideal}” until "{38}-{under}" and other things {credited} with {writing this crap}-{both Father} and {Son} are {credited} with {writing every operatic work}]
+
+In his major work of operatic criticism, this composer complained that other composers did not “interweave dance and story very closely.” One of this composer's operas follows the Kotpun family, who are separated from each other even in dreams, and includes arias such as “Balloonflower” and “The Soldier Lives Near the General.” That opera, The Flower Girl, features a chorus which laments that peasants are only harvesting “sorrow and grief.” Though works such as I Will Remain Loyal and Avenge the Punitive Expedition met with little fanfare, he gained more renown for an opera about the founding of a women's association, Sea of Blood, which also harangues the audience about the ? Japanese invasion. FTP, name this composer who once shot a 38-under-par 34 with 11 aces at Pyongyang CC, the current ruler of North Korea.
+
+----
+num: 12
+category: Philosophy
+difficulty: College
+fixed: None
+seen: 57
+answer: The {Myth} of the {Birth} of the {Hero} [or {Der Mythus von der Geburt des Helden}]
+
+The introduction to this book argues that there is "no contrast" between the theories of elementary ideas, original community, and migration, and asserts that all preceding studies of the same subject projected the human psyche onto the processes of nature. Its third section notes that the title concept is “preceded by difficulties, such as continence, or prolonged barrenness, or secret intercourse of the parents.” Its second section compares Jesus Christ with Zoroaster in between discussions of Hercules and Sigfried, and begins by describing Akki the water carrier's rescue of Sargon. This book argues that the essentials of the title concept are descent from noble parents and being exposed to a river in a box, before analyzing the stories of its second section, "The Circle of Myths.” FTP, name this book which psychoanalyzes the ? origins of legendary figures, a work by Otto Rank.
+
+----
+num: 13
+category: Religion
+difficulty: College
+fixed: None
+seen: 54
+answer: {Zurvanism} [accept {Zurvanite Zoroastrianism}, prompt on {Zoroastrianism}] ({3}
+
+The Menok i Khrat gives the best account of the fatalist type of this religion. In the ninth century, this religion was worshiped by the brother of Manushchihr, Zatsparam. This religion is divided into the Materialist type, the religion of the zandiks, and the "Classical" type, which worships the central figure as the creator instead of his son. Ardashir Papak made this the state religion of the Sassanid Empire, and statues depict the central figure of this religion with a snake coiled around his body. The main figure of this religion offered sacrifices for one thousand years in order to bear a son, and eventually conceived ? twins representing good and evil. FTP, name this branch of Zoroastrianism which worships the androgynous, neutral god of infinite space and time.
+
+----
+num: 14
+category: History
+difficulty: College
+fixed: None
+seen: 81
+answer: Baron {Roman Feodorovich von Ungern}-{Sternberg} (accept either; prompt on "{Bloody Baron}")
+
+This man purportedly instituted a religious system based on the belief that in order to obtain good karma upon death, one should immediately be killed after performing a good deed. Killed after a show trial at the Sosyanka Theater in Novonikolayevsk, he supposedly ate his St. George's Cross during his execution so that it wouldn't fall into his enemies' hands, and among his favorite methods of torture was chasing naked people into trees until they fell out and were shot. Among his men were Sepailoff, and he had originally served under Ataman Semonov, before allying with such figures as Djam Balaan of Buryatia and accomplishing his main feat. Restoring the Bogd-Khaan and establishing an independent state under the "Order of Military Buddhists," he captured Urga or Ulaanbaatar in 1921, only to be defeated by Sukhbaatar and captured by the Bolsheviks in the same year. For twenty points, name this White Russian military commander, the so-called "Bloody Baron."
+
+----
+num: 15
+category: Science
+difficulty: College
+fixed: None
+seen: 78
+answer: {bird song} or {singing}
+
+The "Area X" sends signals to the lateral magnonuclear nucleus of the nidopallum which helps coordinate the repetitive nature of this, while Sturnella neglecta was discovered to belong to a separate species from S. magna because of the difference in this. In most organisms, the posterior descending pathway is essential in acquring it while the anterior forebrain pathway  is involved in learning this ? behavior. Those pathways originate at the High Vocal Center, from where signals are directed to the hypoglossal nucleus, and it usually more developed in males. For 10 points, identify this behavior commonly exhibited by Zebra finches and canaries for communication.
+
+----
+num: 16
+category: Literature
+difficulty: College
+fixed: None
+seen: 59
+answer: {Victory} Over the {Sun}
+
+This work was reconstructed and directed by Robert Benedetti in 1981. At one point in this work, Nero and Caligula appear “combined in one person,” while the second scene calls for ten thousand soldiers wearing Turkish costumes to appear onstage. Its libretto was written in the language of zaum by Aleksei Kruchenykh. Act two begins with an argument between “the cowards” and “the new ones,” while in its final scene, an aviatior sings “Ha-ha-ha I am alive” after his plane crashes onstage. This opera describes the triumph of the “strong men” over the title entity, and features a bizarre geometric set designed by Kasimir Malevich. FTP, name this 1913 Futurist opera in which the title ? star is imprisoned in a concrete box.
+
+----
+num: 17
+category: Literature
+difficulty: College
+fixed: None
+seen: 62
+answer: A {Tale} of {Possessors Self}-{Dispossessed}
+
+This work was originally meant to conclude with an epilogue titled A Hair of the Dog. The end of this cycle focuses on the brothers Ethan, Wolfe Tone, Jonathan, and Honey, and includes The Calms of Capricorn. Another play in this cycle features a poet based on Thoreau, Simon Harford, who becomes a business tycoon on the urging of his wife Sara; that play was the intended sequel to a completed play about Con Melody. Based on the Bible verse “What shall it profit a man if he shall gain the whole world and lose his own soul,” this unfinished cycle of plays was burnt by its author in 1953. Including More Stately Mansions and A Touch of the Poet, for fifteen points, name this never-completed cycle of plays by Eugene O'Neill.
+
+----
+num: 18
+category: History
+difficulty: College
+fixed: 57
+seen: 70
+answer: {Sancho}
+
+The first Leonese ruler of this name underwent a massive weight-loss program with the help of Hasdai ibn-Sharput, the Umayyad ruler Abd-ar-Rahman's personal physician, but still did not manage to defeat Ordoño IV the Bad. A second king of this name of Castile was assassinated in Zamora after reuniting Leon and Castile after the battle of Golpejera. A fourth king of this name, the son of Queen Violante and Alfonso X, employed the Genoese admiral Benedetto Zaccaria, and betrayed the Granadan emir Muhammed II, with whom he had formed alliance against the Marinids. The most famous king of this name vassalized Ramon Berenguer, count of Barcelona, and took Leon from Vermudo III in 1034, thus gaining for himself Aragon, Castile, Leon, and his namesake kingdom. Known as Garces or “el Mayor” or “the Great,” he was responsible for the apogee of ? Navarre's rule. FTP, give this common name held by a certain “Panza” in Don Quixote.
+
+----
+num: 19
+category: Science
+difficulty: College
+fixed: -1
+seen: 80
+answer: {antiaromaticity} [accept word forms, accept "{compounds} with {4n electrons}" or {something} like that early]
+
+The theoretical model for the Stevens rearrangement favors a transition state with this property, while photochemical reactions with this transition state prefer a suprafacial configuration. Compounds possessing this property can be stabilized in transition metal complexes, and Li 4 Al 4 is an all metal species that possesses this property. Valance bands are out of phase in the ground state for compounds with this property according to the two state model. Open chain versions of compounds with this property undergo conrotatory cyclizations according to the Woodward-Hoffman rules. This property is associated with a higher magnetic ? susceptibility exaltation due to the induced paratropic ring current and inner protons are significantly more deshielded than outer protons on rings with this property. For 10 points, identify this property exemplified by planar molecules such as cyclobutadiene which have exactly 4 n pi electrons, disobeying Huckel's rules, and are more unstable than non-aromatic compounds.
+
+----
+num: 20
+category: Philosophy
+difficulty: College
+fixed: None
+seen: 54
+answer: “The {Fixation} of Belief”
+
+This work argues that because humans gain an advantage from thinking “pleasing and encouraging” thoughts instead of truthful ones, natural selection might lead to “a fallacious tendency of thought.” The author states that "the greatest intellectual benefactors of mankind have never dared, and dare not now, to utter the whole of their thought" because those who hold a tabooed belief are "treated with a cruelty less brutal but more refined than hunting you like a wolf." It argues that inquiry is motivated by the desire to eliminate the irritation caused by doubt, and explains the methods of tenacity, authority, and a priori reasoning, which lead to the title condition. It concludes that the scientific method, which produces objective certainty about the real world, is the best way to produce the title state. FTP, name this essay by Charles Sanders Peirce, the precursor to ? “How to Make Our Ideas Clear.”
+
+----
+num: 21
+category: Literature
+difficulty: College
+fixed: None
+seen: 57
+answer: {Dom Casmurro}
+
+Early in this novel, an Italian tenor compares life to an opera with a libretto by God and music by Satan. The protagonist debates with Manduca over the outcome of the Crimean War, and decides to write a History of the Suburbs. The title character struggles against his desire for his friend's wife Sancha, and watches a performance of Othello before telling his son Ezekiel that he is not his father. Despite entering a seminary, the title character decides not to become a padre, and he later accuses his wife Capitu of sleeping with his best friend Escobar. FTP, name this 1899 novel about the jealousy of Bentinho Santiago, a work by ? Machado de Assis whose title roughly translates as "Lord Taciturn."

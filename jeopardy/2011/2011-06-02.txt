@@ -1,0 +1,374 @@
+####
+tournament: #6164
+round: Show #6164 - Thursday, June 2, 2011
+year: 2011
+date: 2011-06-02
+####
+
+num: 1
+category: Geography
+difficulty: 200
+seen: 8
+answer: Russia
+
+Bolshevik Island.
+
+----
+num: 2
+category: Trash
+difficulty: 200
+seen: 6
+answer: the Heisman Trophy
+
+First presented in 1935, this bronze college football award weighs 25 pounds.
+
+----
+num: 3
+category: Trash
+difficulty: 200
+seen: 5
+answer: stocks
+
+Those in the world of finance know JASDAQ, like NASDAQ, is a market for these.
+
+----
+num: 4
+category: Social
+difficulty: 200
+seen: 5
+answer: International Airport
+
+It follows "Washington Dulles".
+
+----
+num: 5
+category: Trash
+difficulty: 200
+seen: 7
+answer: a latte
+
+It's espresso with steamed milk, popularized by Starbucks; today many people don't bother to put "caffe" before.
+
+----
+num: 6
+category: Trash
+difficulty: 400
+seen: 6
+answer: the (Miami) Dolphins
+
+In 1974 this team (not a pod!) of mammals (not fish!) won the Super Bowl (not kidding!).
+
+----
+num: 7
+category: Trash
+difficulty: 400
+seen: 5
+answer: broadcast
+
+At spectrum auctions, the government sells parts of this 9-letter spectrum.
+
+----
+num: 8
+category: Social
+difficulty: 400
+seen: 5
+answer: the international date line
+
+It's basically the 180th meridian of longitude.
+
+----
+num: 9
+category: Trash
+difficulty: 400
+seen: 5
+answer: bling
+
+A 5-letter word said once or repeated, it's flashy jewelry worn as an indication of wealth.
+
+----
+num: 10
+category: Trash
+difficulty: 600
+seen: 5
+answer: Drew Brees
+
+Founded in 2003, his dream foundation has committed $4.5 million to charity; this QB is a true saint.
+
+----
+num: 11
+category: Trash
+difficulty: 600
+seen: 5
+answer: (Les) Kelley
+
+In 1926 he published his first "Blue Book of Motor Car Values".
+
+----
+num: 12
+category: Social
+difficulty: 600
+seen: 4
+answer: international waters
+
+We've got to catch that rogue in his speedboat before he reaches these, another term for the high seas.
+
+----
+num: 13
+category: Geography
+difficulty: 800
+seen: 7
+answer: Canada
+
+Ellesmere & Victoria Island.
+
+----
+num: 14
+category: Trash
+difficulty: 800
+seen: 4
+answer: horse collaring
+
+Yanking a player down by his shoulder pads from behind is this "equine" penalty.
+
+----
+num: 15
+category: Trash
+difficulty: 800
+seen: 5
+answer: a racehorse
+
+You're going to a fasig-tipton auction if you want to buy one of these 4-legged competitors.
+
+----
+num: 16
+category: Social
+difficulty: 800
+seen: 4
+answer: an international unit
+
+This measurement used of vitamins isn't a fixed quantity but the amount that produces a biological result.
+
+----
+num: 17
+category: Trash
+difficulty: 800
+seen: 5
+answer: unplugged
+
+Acoustic, like some performances; you might have caught Nirvana on the MTV show of the same name.
+
+----
+num: 18
+category: Trash
+difficulty: 1000
+seen: 5
+answer: (Rex) Ryan
+
+As coach of the Jets, he has the "gang green" defense deal out hard knocks (& enjoy some gosh-darned snacks).
+
+----
+num: 19
+category: Trash
+difficulty: 1000
+seen: 4
+answer: fantasy baseball
+
+The Dynasty League Auction is where you build your lineup for this activity.
+
+----
+num: 20
+category: Social
+difficulty: 1000
+seen: 4
+answer: International Relations
+
+Boston university offers an M.A. in global development through this department.
+
+----
+num: 21
+category: Trash
+difficulty: 1000
+seen: 5
+answer: a metrosexual
+
+The OED has citations back to 1994 for this type of urban man who is fastidious about his grooming & fashion.
+
+----
+num: 22
+category: Science
+difficulty: 400
+seen: 5
+answer: spawn
+
+Fish that are anadromous migrate from the sea to freshwater rivers to do this.
+
+----
+num: 23
+category: Literature
+difficulty: 400
+seen: 4
+answer: shepherd\'s pie
+
+In the U.K., cottage pie generally uses beef, & this similar dish uses lamb.
+
+----
+num: 24
+category: Art
+difficulty: 400
+seen: 4
+answer: Norway
+
+Edvard Munch was born into a middle-class family in Loten in this country.
+
+----
+num: 25
+category: Literature
+difficulty: 400
+seen: 4
+answer: Shakespeare
+
+This dramatist wrote in one of his many sonnets, "if hairs be wires, black wires grow on her head".
+
+----
+num: 26
+category: Science
+difficulty: 400
+seen: 5
+answer: permafrost
+
+Ground that's always frozen in polar regions.
+
+----
+num: 27
+category: Science
+difficulty: 800
+seen: 5
+answer: a rock
+
+The spiny lobster is also named for this object; the redback salamander lives under one.
+
+----
+num: 28
+category: Literature
+difficulty: 800
+seen: 4
+answer: curl
+
+W.S. Gilbert wrote, "he uses language that would make your hair" do this.
+
+----
+num: 29
+category: Science
+difficulty: 800
+seen: 5
+answer: permisiveness
+
+A disposition to allow freedom of choice & behavior.
+
+----
+num: 30
+category: Trash
+difficulty: 1200
+seen: 5
+answer: (Keri) Russell
+
+As Jenna in "Waitress", this "Felicity" star served up pies at Joe's Diner.
+
+----
+num: 31
+category: Literature
+difficulty: 1200
+seen: 4
+answer: peas
+
+A traditional part of British cuisine is a plate of fish & chips served with mashed these on the side.
+
+----
+num: 32
+category: Literature
+difficulty: 1200
+seen: 4
+answer: April
+
+Sara Teasdale: "when I am dead and over me bright" this month "shakes out her rain-drenched hair... I shall not care".
+
+----
+num: 33
+category: Science
+difficulty: 1200
+seen: 6
+answer: a permutation
+
+One of the various ways a group of things can be recombined or rearranged.
+
+----
+num: 34
+category: Literature
+difficulty: 1600
+seen: 5
+answer: cheese
+
+Perhaps at the end of your meal, you'd like to try some caerphilly, sage derby or red Leicester this with some port.
+
+----
+num: 35
+category: Art
+difficulty: 1600
+seen: 4
+answer: expressionism
+
+Munch was one of the pioneers of this art movement, using color & line in a highly personal style to convey emotion.
+
+----
+num: 36
+category: Literature
+difficulty: 1600
+seen: 4
+answer: (Alexander) Pope
+
+His "Rape of the Lock" says, "fair tresses man's imperial race ensnare, and beauty draws us with a single hair".
+
+----
+num: 37
+category: Science
+difficulty: 1600
+seen: 5
+answer: permeability
+
+A substance that can be pervaded by a liquid is said to have this property.
+
+----
+num: 38
+category: Trash
+difficulty: 2000
+seen: 10
+answer: Bridget Fonda
+
+In "It Could Happen to You", Nicolas Cage shares more than his lottery winnings with a waitress played by her.
+
+----
+num: 39
+category: Literature
+difficulty: 2000
+seen: 6
+answer: toad
+
+Sausages baked in a Yorkshire pudding-like batter are referred to in England as this reptile "in the hole".
+
+----
+num: 40
+category: Literature
+difficulty: 2000
+seen: 5
+answer: a shave
+
+"Babies haven't any hair; old men's heads are just as bare; between the cradle and the grave lies a haircut and" this.
+
+----
+num: 41
+category: Science
+difficulty: 2000
+seen: 8
+answer: permian
+
+This sixth & last period of the Paleozoic era saw the birth of the reptiles.

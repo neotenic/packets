@@ -1,0 +1,124 @@
+####
+tournament: Fall Novice
+round: Packet 6.doc
+year: 2010
+####
+
+num: 1
+category: Geography
+difficulty: HS
+fixed: 1
+seen: 714
+answer: Chicago
+
+This city was founded by Jean-Baptiste-Pointe du Sable. It was the site of the World's Columbian Exposition of 1893, and Lake Shore Drive runs along its lakefront. Notable locations in this city include Adler Planetarium, Shedd Aquarium, Navy Pier, and the recently renamed Willis Tower. For 10 points, name this city nicknamed the “Windy City,” which is located on the southwestern shore of Lake Michigan and is the largest city in Illinois.
+
+----
+num: 2
+category: Science
+difficulty: HS
+fixed: 1
+seen: 489
+answer: stratosphere
+
+The name of this region stems from its relative lack of convection. In this region, air temperature increases with altitude, a phenomenon known as thermal inversion. That phenomenon in this layer is mainly caused by the absorption of ultraviolet light by a triatomic compound of oxygen, ozone. The lower boundary of this layer is called the tropopause. For 10 points, name this layer of the earth's atmosphere located between the troposphere and mesosphere.
+
+----
+num: 3
+category: Literature
+difficulty: HS
+fixed: 1
+seen: 448
+answer: The {Inferno} (prompt on {Divine Comedy} or La {Divina Commedia} before it is read)
+
+This work opens with the narrator meeting leopard, a lion, and a she-wolf. One character sits in Malebolge while he gnaws at Archbishop Ruggieri's head. In addition to encountering Ugolino, this work's protagonist meets Paolo and Francesca. The central character of this work is guided by Virgil and sees the inscription “Abandon hope all ye who enter here.” For 10 points, name this first part of the Divine Comedy in which Dante travels through Hell.
+
+----
+num: 4
+category: Science
+difficulty: HS
+fixed: 57
+seen: 487
+answer: {water} [accept {H2O} before it is mentioned]
+
+This compound forms a negative azeotrope with hydrochloric acid and a positive azeotrope with ethanol, while this molecule's large dipole moment enables capillary action in plants and gives this compound's liquid phase high surface tension. This compound's highest density occurs at 4 degrees Celsius, and its solid phase is less dense than its liquid phase. For 10 points, what molecule, known as the universal solvent, has formula H2O?
+
+----
+num: 15
+category: History
+difficulty: HS
+fixed: 1
+seen: 408
+answer: {Theodore} “Teddy” {Roosevelt} [prompt on “{Roosevelt}” or “{TR}”]
+
+This man signed the Elkins Act, fining railroads for offering rebates. One of his policies, including the “three Cs” of Control of Corporations, Consumer Protection, and Conservation, was called the Square Deal. He resigned as Assistant Secretary of the Navy to organize the Rough Riders, and 45 trusts were “busted” in his tenure. Known for running for the Bull Moose party in 1912 and losing, for 10 points, name this Republican, the president before William Howard Taft.
+
+----
+num: 16
+category: Trash
+difficulty: HS
+fixed: -1
+seen: 1036
+answer: {Beauty} and the {Beast}
+
+An object in this movie kept in the forbidden West Wing will finish wilting on one character's twenty-first birthday. A series of stained-glass windows reveals how that object was given to that character by an enchantress just before the song “Bonjour” begins. The words “tale as old as time, word as old as rhyme” are paired with this film's title in a ballroom melody sung by Mrs. Potts. For 10 points, name this Disney classic featuring Belle, Gaston, and a titular monster.
+
+----
+num: 17
+category: History
+difficulty: HS
+fixed: 1
+seen: 421
+answer: {Thirty Years}' War
+
+During this war, Frederick V was defeated by at White Mountain by Count Tilly, who later won at Breitenfeld. Its commanders included Ottavio Piccolomini and Albrecht Wallenstein, the latter of whom retreated from Lutzen after Gustavus Adolphus of Sweden was killed. Richilieu brought France into this war incited by the Defenestration of Prague. Ended by the Treaty of Westphalia, for 10 points, name this religious war in Europe which lasted from 1618 to 1648.
+
+----
+num: 18
+category: Social Science
+difficulty: HS
+fixed: 1
+seen: 378
+answer: Stanley {Milgram's Obedience} to Authority Experiment [accept obvious equivalents]
+
+This experiment's designer used agentic state theory to partly explain it, and in 2009, Horizon, a BBC show, redid it. Conducted at Yale and inspired by the Adolf Eichmann trial, it included a “learner” whose memory was tested and a figure who penalized incorrect answers, the “teacher.” For 10 points, name this experiment testing obedience to authority, which found that about 65 percent of people would follow unavoidable orders to give large electric shocks.
+
+----
+num: 18
+category: Social Science
+difficulty: HS
+fixed: 1
+seen: 382
+answer: Stanley {Milgram's} Obedience to Authority Experiment [accept obvious equivalents]
+
+This experiment's designer used agentic state theory to partly explain it, and in 2009, Horizon, a BBC show, redid it. Conducted at Yale and inspired by the Adolf Eichmann trial, it included a “learner” whose memory was tested and a figure who penalized incorrect answers, the “teacher.” For 10 points, name this experiment testing obedience to authority, which found that about 65 percent of people would follow unavoidable orders to give large electric shocks.
+
+----
+num: 19
+category: Science
+difficulty: HS
+fixed: 1
+seen: 481
+answer: {mollusks} [accept {mollusca}]
+
+Classes in this phylum include Polyplacophora, while another organism in this phylum is the geoduck [GOOEY-duck]. Many classes in it have a broad muscular foot and a scraping tongue called a radula. All organisms in this phylum exhibit bilateral symmetry and contain a mantle cavity, and it includes the largest invertebrate, the colossal squid.  For 10 points, name this diverse invertebrate phylum that includes clams, snails, and octopuses.
+
+----
+num: 20
+category: Science
+difficulty: HS
+fixed: 57
+seen: 488
+answer: {scattering}
+
+One type of this process is the basis for a kind of spectroscopy and has Stokes and anti-Stokes varieties. In addition to the Raman kind of this phenomenon, one inelastic type causes the wavelengths of x-rays and gamma rays to decrease. An elastic type caused by particles in the air makes the sky appear blue. For 10 points, name this phenomenon with varieties named for Compton and Rayleigh, in which radiation deviates from a straight trajectory.
+
+----
+num: 21
+category: Literature
+difficulty: HS
+fixed: 57
+seen: 448
+answer: “The Secret Life of {Walter Mitty}”
+
+The title character of this story picks up overshoes for his wife, and after testifying in a courtroom, he buys “puppy biscuits.” In the beginning of this short story, the protagonist's wife chastises her him for driving too fast after he envisions himself in a “Navy hydroplane.” While smoking against a wall, the protagonist imagines facing a firing squad. For 10 points, name this short story about a man's daydreaming by James Thurber.

@@ -1,0 +1,194 @@
+####
+tournament: MUT
+round: Packet 9 - finalized.doc
+year: 2011
+####
+
+num: 1
+category: Religion
+difficulty: College
+fixed: -1
+seen: 54
+answer: {Sufism} [accept {tawassuf}]
+
+Ma Laichi, a Chinese adherent of this sect founded a school that was called “the silent ones” because they practiced silent invocation of God. Schools of this sect practice dhikr and strive for a primordial state called fitra. The khadims based in Ajmer are followers of a popular scholar in this sect, named Khwaja Moinuddin Chisti, while the Naqshbandi School of this sect traces the silsilah to Mohammed via Abu Bakr. Schools in this sect are led by Murshids. The author of the Spiritual Couplets, Rumi belonged to this sect, while ascetics in this sect are called dervishes. For 10 points, identify this mystical sect of Islam, which advocates a personal relationship with God.
+
+----
+num: 2
+category: Science
+difficulty: College
+fixed: None
+seen: 83
+answer: {free radicals} [prompt on {oxidizing molecules} at any point]
+
+Spin trapping reagents stabilize these molecules so that they may be studied properly in ESR spectroscopy. One molecule that interacts with these types of molecules is a tripeptide that includes a reactive sulfhydryl group and is oxidized during the reaction. The namesake dismutase of one of these molecules disassociates it into hydrogen peroxide and oxygen, and other molecules that degrade these mitogenic molecules in cells include vitamins E and C. Notable examples of these include the superoxide anion, and antioxidants prevent the formation of these molecules. For 10 points, name these molecules that are characterized by having an unpaired electron.
+
+----
+num: 3
+category: History
+difficulty: College
+fixed: 1
+seen: 69
+answer: Arab Republic of {Egypt} [or {Gumhurriyat Misr al Arabiyyah}]
+
+One leader of this country provided military support to Abdullah-as-Sallal against the Zaydi emirs during the North Yemen Civil war of the 1960s, while another leader became unpopular after implementing the infitah policies. The former leader’s government was the target of the protocol of Sevrés. The latter leader of this country came to power after the Free Officer Movement led a coup which deposed King Farouk, while another leader stepped down after massive demonstrations against his corrupt rule at Tahrir square. For 10 points, identify this country which was led by Anwar Sadat, Hosni Mubarak, and Gamal Abdel Nasser.
+
+----
+num: 4
+category: Fine Arts
+difficulty: College
+fixed: 57
+seen: 70
+answer: Edward {Hopper}
+
+This painter’s style was often compared to that of his lifelong friend Charles Burchfield. He showed a door opening directly onto the ocean in his de Chirico-like painting Rooms by the Sea. One painting by this artist shows a woman in a blue dress rummaging through a cabinet and looking at a man sitting at a desk as a dropped paper lingers between them. This artist showed a barber pole and a fire hydrant casting long shadows in another painting. He showed a woman sitting down to dinner with her doppelganger in Chop Suey. For 10 points, name this American painter of Early Sunday Morning who gave free advertising to five-cent Phillies cigars in his Nighthawks.
+
+----
+num: 5
+category: Science
+difficulty: College
+fixed: 57
+seen: 81
+answer: {biomes}
+
+A commonly used scheme devised by Kuchler attempts to describe these entities according to similarities in physiognomic cover types. A seminal paper by Ellis and Ramankutty attempts to describe “anthropogenic” forms of these entities by incorporating information on population density and land use. Walter diagrams describe these regions as functions of average rainfall and average temperature, while less frequently observed ones include mangroves and chaparral. For 10 points, identify these regions which have similar climatic conditions and vegetation, and are exemplified by tundra, taiga, and tropical forests.
+
+----
+num: 6
+category: Philosophy
+difficulty: College
+fixed: 1
+seen: 55
+answer: Jacques {Derrida}
+
+John Searle criticized this philosopher’s work in his essay Reiterating the Difference, to which this man responded in the afterword of another work. Another of his works describes organized crime as a “phantom state”. That work traces the development of the concept of underemployment and describes them as “plagues of capital” and part of the title legacy. This author of Limited Inc. and Spectres of Marx described a concept which combines the meanings of the words “differ” and “defer” and about the futility of escaping infinite context, which led him to write “there is nothing outside the text.” For 10 points, name this French philosopher who coined the term “differance” and wrote Of Grammatology, the founder of deconstructionism.
+
+----
+num: 7
+category: Geography
+difficulty: College
+fixed: 57
+seen: 134
+answer: {Berlin} [accept {East Berlin} or {West Berlin}]
+
+This city was the site of a 1953 strike by construction workers working on a massive boulevard project. Gail Halvorsen is a folk hero in this city, acquiring the nickname “Uncle Wiggly Wings.” This city was where the group Operation Consul killed a foreign minister who signed the Treaty of Rapallo and who also hailed from this city. Lucius Clay and Curtis LeMay planned Operation Vittles to provide aid to this city, while Marinus van der Lubbe was blamed for a 1933 arson attack which destroyed this city’s assembly house. Before becoming chancellor, Willy Brandt was mayor of this city. For 10 points, name this German city, the site of a notable postwar airlift which saw a namesake wall constructed to divide it in 1961.
+
+----
+num: 8
+category: Literature
+difficulty: College
+fixed: 57
+seen: 60
+answer: Luigi Pirandello
+
+In one of this author’s works, which features characters like Cavaliere Tito Lenzi and the theosophy-obsessed Anselmo, Batty Malagna forces the protagonist into an unhappy marriage with Romilda Pescatore. That protagonist wins big in Monte Carlo and finds out that he has been declared dead, prompting him to take up the identity of Adriano Meis. Another of his works ends in confusion after a revolver shot rings out, causing a potential suicide, while the Child drowns in the fountain. That work features a brief appearance by the brothel owner Madame Pace but mostly focuses on the title characters’ interruption of a rehearsal of Rules of the Game. For 10 points, identify this Italian author of The Late Mattia Pascal and Six Characters in Search of an Author.
+
+----
+num: 9
+category: Science
+difficulty: College
+fixed: 57
+seen: 79
+answer: {Hurricanes} [accept “{tropical cyclones}” for the first sentence and prompt {thereafter}; prompt on “{typhoons}”; do not accept: “{tornadoes}”]
+
+The CLIPER models use statistical equations to predict zonal and meridional movements in these phenomena. The BAM model predicts their trajectory as a function of the vertically-averaged horizontal wind at shallow, middle, and deep layers, and has a beta parameter corrects for the variation in Coriolis forces with latitude changes. They don’t occur near the equator because of weak Coriolis forces. Stages leading up to them are called tropical depressions and tropical storms, and their intensities are measured on the Saffir Simpson scale.  For 10 points, identify these phenomena which have windspeeds greater than 74 MPH, recent examples of which include Andrew and Katrina.
+
+----
+num: 10
+category: Literature
+difficulty: College
+fixed: 57
+seen: 60
+answer: August {Wilson}
+
+This author wrote one work in which Levee buys Florsheim shoes using money he won during a game of craps from Cutler, and earlier in that work, Sturdyvant repeatedly warns that he will not put up with the title character’s shenanigans. One character warns Willy that Avery Bryce has already attempted what he wants to accomplish in one work by this author. The title character of the earlier play is a jazz singer, and the titular instrument of one of his plays is prominent in the parlor of Doaker’s house in one play by this author of Ma Rainey’s Black Bottom, and ten of his plays make up the Pittsburgh Cycle. For 10 points, name this playwright who depicted African American culture in plays such as The Piano Lesson and Fences.
+
+----
+num: 10
+category: Literature
+difficulty: College
+fixed: 57
+seen: 60
+answer: August {Wilson}
+
+This author wrote one work in which Levee buys Florsheim shoes using money he won during a game of craps from Cutler, and earlier in that work, Sturdyvant repeatedly warns that he will not put up with the title character’s shenanigans. One character warns Willy that Avery Bryce has already attempted what he wants to accomplish in one work by this author. The title character of the earlier play is a jazz singer, and the titular instrument of one of his plays is prominent in the parlor of Doaker’s house in one play by this author of Ma Rainey’s Black Bottom, and ten of his plays make up the Pittsburgh Cycle. For 10 points, name this playwright who depicted African American culture in plays such as The Piano Lesson and Fences.
+
+----
+num: 11
+category: Trash
+difficulty: College
+fixed: 1
+seen: 117
+answer: Herbert George {Wells}
+
+On an episode of Lois and Clark, this figure helps Superman prevent the villain Tempus from killing Clark Kent as a baby. In a 1979 film, Malcolm McDowell plays this figure as he does battle with Jack the Ripper in 1970’s San Francisco. One film based on this man’s works features the heroic Dr. Clayton Forrester, while antagonists created by this man are the main villains in the second League of Extraordinary Gentlemen comic series. In one movie based on his works, Tom Cruise plays Ray, who tries to protect his children. One of this man’s novels was adapted into a 1938 radio broadcast which frightened Americans into thinking an invasion was happening.   For 10 points, name this author, who in real life penned such novels as The Time Machine and The War of the Worlds.
+
+----
+num: 12
+category: Mythology
+difficulty: College
+fixed: 57
+seen: 112
+answer: {centaurs} [accept {kentauroi} or {kentaurides}]
+
+One of these beings, Hylonome, committed suicide on the death of her husband Cyllarus, another one of them. Another of them died after impaling himself on an ash tree and shared his name with the fisherman that saved Danae. Another of them tried to interrupt Azan’s wedding to Hippolyte or his demand that Dexamenus give him the hand of his daughter Mnesimache. In addition to the aforementioned Dictys and Eurytion, their numbers included a character whose poisoned blood was used to coat a shirt given to Heracles and who attempted to rape Deianeira. The most civilized of them tutored various heroes and traded his immortality for Prometheus’s freedom, though they’re most famous for getting drunk at Pirithous’s wedding, leading to a war with the Lapiths. For 10 points, identify these creatures exemplified by Nessus and Chiron, who were half-human and half-horse.
+
+----
+num: 13
+category: Literature
+difficulty: College
+fixed: 57
+seen: 58
+answer: {Alice} Pleasance Liddell
+
+This character thinks of herself as superior to Mabel who has a "poky little house" and is offended when she is confused for a servant. Her name appears in an acrostic poem that begins "A boat beneath a sunny sky". Characters that she encounters include the servant Bill, and a cook who uses excessive amounts of pepper in her cooking, and a turtle with the head of a calf. She is asked the riddle “Why is a raven like a writing desk?” and she receives a magical mushroom from a caterpillar who smokes a hookah. For 10 points, identify this protagonist who befriends the Dormouse, March Hare, and Mad Hatter during her adventures in Wonderland, as told by Lewis Carroll.
+
+----
+num: 14
+category: History
+difficulty: College
+fixed: 1
+seen: 84
+answer: George Brinton {McClellan}
+
+After achieving one of his positions, this man told his wife he would not be a dictator and praised his “admirable self-denial.” That post came after he won the Battle of Rich Mountain. This man was foiled in one campaign by ruses set up by “Prince John” Magruder. His most important tactical victory came after his army absorbed John Pope’s forces and was keyed by a discovery of the lost Special Order 191. That battle saw this general’s forces engage the enemy at Bloody Lane and Burnside’s Bridge. This man’s only presidential campaign saw him reject his party’s peace platform directed against Abraham Lincoln. For 10 points, name this Union commander at the Battle of Antietam, frequently criticized for being too timid in his command of the Army of the Potomac.
+
+----
+num: 15
+category: Trash
+difficulty: College
+fixed: 1
+seen: 185
+answer: Sir Alfred {Hitchcock} [accept {Hitch} from friends]
+
+One of this director’s films features a Santa Rosa teenager named Charlie Newton, who is contrasted with her visiting uncle, Charlie Oakley. In one of this director’s films, a famous tracking shot zooms through a ballroom down towards a key possessed by heroine Alicia Huberman. That film by this director sees Alicia marry the villainous Alex Sebastian. This director of Shadow of a Doubt and Notorious made a film in which Scottie Ferguson sees Judy Barton fall from a San Francisco mission’s bell tower, while in another of his films, Lila Crane is murdered by a cross-dressing motel owner in a famous shower scene. For 10 points, name this director, noted for such suspense films as Vertigo and Psycho.
+
+----
+num: 16
+category: Social Science
+difficulty: College
+fixed: 57
+seen: 57
+answer: {dividends}
+
+Though it’s not the capital asset pricing model, Lintner’s model for the policy governing these entities invokes a target ratio for these and the time rate of change for these. It is not debt, but one ramification of the Modigliani Miller theorem states that under certain tax law, it is invariant for a corporation to issue these entities as opposed to repurchasing stock. One must hold an equity investment on the “record date” to receive this cash flow.  Many firms continued to issue it despite declining earnings during the great depression, and it has been declining as a proportion of earnings per share. For 10 points, identify this payout issued by corporations to its shareholders.
+
+----
+num: 17
+category: Science
+difficulty: College
+fixed: 57
+seen: 82
+answer: {pendulum} [or {pendula}]
+
+A system named for Rott features has two of these structures with horizontal SFP and BFPs at stable equilibria. In the phase-space representation for the system, the upper-half of the separatrix shows solutions for these systems starting at their inverted positions. Two coupled ones are commonly used to represent chaotic systems. When their displacements are assumed to be small, the sine theta term in the equation is approximated to theta. Another of these was used to demonstrate the rotation of the earth and was named for Foucault. For 10 points, identify these physical systems which can be used to model simple harmonic motions, and which swing back and forth in some clocks.
+
+----
+num: 18
+category: History
+difficulty: College
+fixed: None
+seen: 67
+answer: {Mary}, Queen of {Scots} [accept {Mary Stuart} or {Mary} I of {Scotland}, do not accept {just Mary} I or {Bloody Mary}, as that is {someone else}]
+
+One of this person’s supporters was arrested in Norway on complaint from jilted fiancé Anna Throndsen. This person’s private secretary was brutally stabbed to death by forces under Lord Ruthven. This employer of David Rizzio’s apparent reluctance to marry initiated the so-called War of the Rough Wooing. This figure was said to be the author of the so-called “Casket Letters,” which seemed to provide proof in this person’s involvement with the explosion-related death of Lord Darnley. The Ridolfi plot sought to place this person on the throne, while Sir Francis Walsingham foiled the Babington plot, eventually leading to her death. For 10 points, name this Scottish queen, who was executed by her cousin, Elizabeth I.

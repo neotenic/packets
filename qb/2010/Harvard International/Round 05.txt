@@ -1,0 +1,204 @@
+####
+tournament: Harvard International
+round: Round 05.doc
+year: 2010
+####
+
+num: 2
+category: Social Science
+difficulty: College
+fixed: None
+seen: 50
+answer: {Azande} [accept {Zande}]
+
+One custom of this group of people involves bringing rain by blowing a whistle and pointing in a certain direction, and this tribe was encountered by explorers Carlo Piaggia and Georg Schweinfurth. This tribe was called the Niam-Niam by neighboring races and accused of cannibalism, according to explorer John Petherick. Objects used by this group of people include a rubbing board called the iwa, and one ritual called the dagba involves placing two sticks in a termite mound. Other beliefs include inherent evilness present in undigested food called mangu, and chickens are fed a strychnine based poison in a ritual called benge. For 10 points, identify this tribe of central Africa whose witchcraft, oracles, and magic titled a study by E. E. Evans-Pritchard.
+
+----
+num: 3
+category: History
+difficulty: College
+fixed: 57
+seen: 70
+answer: {Carthage}
+
+During the Year of the Six Emperors, this city was the site of a battle in which the general Capelianus defeated the emperors Gordian I and Gordian II. One general hired by this city captured Marcus Atilius Regulus, and that Spartan named Xanthippus was victorious at the Battle of the Bagradas River. Another figure from this city used guerilla tactics from his stronghold on Mt. Eryx, but could not capture Lilybaeum, and another general from this city was beheaded by Claudius Nero, who tossed his head into his brother's camp after a victory at the Battle of the Metaurus. This polity was defeated at the Battle of Baecula, and this city sought peace after their defeat at Campi Magni. This city's citadel was called the Byrsa, and Gaius Gracchus founded a new colony here called Junonia, despite the fact that its land was salted during its defeat at the hands of Scipio Aemilianus. For 10 points, identify this city, whose leaders included Hanno the Great and Hamilcar Barca, and who fought the Punic Wars against the Roman Empire.
+
+----
+num: 4
+category: Science
+difficulty: College
+fixed: -1
+seen: 82
+answer: {alcohols} [accept {Dakin reaction} before “one {reaction}”; prompt on {Dakin reaction} before “{this functionality}”; accept {carboxylic acids} before “{DABCO}” is read, since {there's no reaction} that {uses DABCO} to {create carboxylic acids}]
+
+One reaction that produces this functionality sees saponification follow peroxide oxidation of aryl aldehydes or ketones, and another reaction uses a DABCO [dab koh] catalyst to form allylic ones. One reaction that forms this functional group uses cesium trichloride to effect the methanolysis of sodium borohydride, thereby favoring the 1,2 reduction. The phenyl example of this functionality is far more stable than its tautomer, cyclohexadienone, and these compounds are formed without rearrangement in a hydroxymercuration-demercuration reaction. This functionality is formed in reactions named for Dakin and for Luche, as well as in the reaction of carbonyl with Grignard reagents. Reacting this functionality with base and then an alkyl bromide is an effective ether synthesis. For 10 points, name this functional group, which contains an -OH unit.
+
+----
+num: 5
+category: Trash
+difficulty: College
+fixed: 57
+seen: 184
+answer: {Mass Effect}
+
+Nirali Bhatia dies at the opening location in this game, and later your character can help her husband by getting her body released by the authorities. Barla Von is an agent of the Shadow Broker, a powerful information dealer. The protagonist meets two characters who state their intended tone at the beginning of their sentences on account of their monotone voice and are members of the Velcor race. By performing such actions as saving civilians, the protagonist earns Paragon points, while making violent choices generally leads to Renegade points. Thirty-five years before the beginning of this game, humanity finds Prothean technology on Mars and eventually meets up with the Turians, Asari, and Salarians, among others. For 10 points, identify this space RPG from Bioware in which Commander Shepard must stop Saren, the Geth, and Sovereign from destroying the galaxy.
+
+----
+num: 6
+category: Fine Arts
+difficulty: College
+fixed: None
+seen: 69
+answer: The {Deposition} from the Cross (prompt on The {Entombment})
+
+A crouching figure in the foreground of this painting is based on a boy from Michelangelo's sketch for a never completed painting of the Battle of Cascina and that boy's naked back is painted bright pink. A bearded man wearing a green cap in the background on the far right is believed to be a self-portrait of the artist. The only landscape visible in this work is a solitary cloud on the upper left. This painting is found above the altar of the Capponi Chapel in the church of Santa Felicita surrounded by pendentives featuring the four Evangelists, some of which were finished by the artist's apprentice Bronzino. Surprisingly no Cross appears in this painting that shows two men on the left carry away a dead body, while the Virgin Mary swoons in the arms of a contorted group of mourners wearing vivid pink and blue robes. For 10 points, name this Mannerist depiction of Christ being removed from the Cross, by Jacopo Pontormo.
+
+----
+num: 7
+category: Literature
+difficulty: College
+fixed: None
+seen: 57
+answer: {My} Name is {Red} [accept {Benim Adim Kirmizi}]
+
+One character in this work gives a speech about how style and signature are imperfections while referring to a picture of debtors being released from prison. Another character tells a story about a man who was an artist for thirty years before spending the rest of his life seeking out and destroying his own work. One test in this novel involves drawing sketches of a horse, but none of those surveyed drew one with strange nostrils. A group consisting of Olive, Stork, and Butterfly are called in for questioning in this novel, and parts of this novel are narrated by a dog, a tree, Satan, and a gold coin. A certain group of workers in this novel face away from the sun as it rises to avoid going blind, and one character commissions a secret book to be illustrated by those figures in Venetian Style. One subplot is the return of the exiled binder Black and his love for Shekure, the daughter of Enishte, and this novel centers around the murder of the calligrapher Elegant Effendi. For 10 points, name this novel set in the 1590s about court miniaturists of the sultan of Istanbul, a work of Orhan Pamuk.
+
+----
+num: 8
+category: History
+difficulty: College
+fixed: None
+seen: 70
+answer: the {Grange} [accept: The {National Grange} of the Order of {Patrons} of {Husbandry}; prompt on “{Patrons} of {Husbandry}”]
+
+One founder of this organization was a botanist who introduced the Navel Orange to California. Apart from William Saunders, early supporters of this organization include Aaron Montgomery Ward, who provided much of its early funding but is not among its seven founders. The nickname of “wet blanket of [this organization]” was given to one of its founders, John Trimble. Chief Justice Morrison Waite upheld laws that this organization supported in Munn v. Illinois, which was later limited in Wabash v. Illinois. This movement was founded by Oliver Hudson Kelly, and it was in favor of regulating railroad rates. For ten points, name this late 19th century fraternal order of farmers.
+
+----
+num: 8
+category: History
+difficulty: College
+fixed: None
+seen: 68
+answer: the {Grange} [accept: The {National Grange} of the Order of {Patrons} of {Husbandry}; prompt on “{Patrons} of {Husbandry}”]
+
+One founder of this organization was a botanist who introduced the Navel Orange to California. Apart from William Saunders, early supporters of this organization include Aaron Montgomery Ward, who provided much of its early funding but is not among its seven founders. The nickname of “wet blanket of [this organization]” was given to one of its founders, John Trimble. Chief Justice Morrison Waite upheld laws that this organization supported in Munn v. Illinois, which was later limited in Wabash v. Illinois. This movement was founded by Oliver Hudson Kelly, and it was in favor of regulating railroad rates. For ten points, name this late 19th century fraternal order of farmers.
+
+----
+num: 9
+category: Fine Arts
+difficulty: College
+fixed: 57
+seen: 70
+answer: Steve {Reich}
+
+In one of this composer's works a theme played by the glockenspiels and marimbas is juxtaposed against an organ and women's chorus who only sing the sound “ee” and play gradually lengthening chord cadences. Daniel Hamm is quoted in a work commemorating six boys who were convicted of murder during the Harlem race riots, and Beryl Knot wrote the libretto of an opera featuring the songs “Who is Hagar?” and “Who is Ishmael” that is titled The Cave. He pioneered a technique where the same musical segment is played on two different instruments at different tempos called “phasing,” which is featured in his pieces Come Out, It's Gonna Rain, and Drumming. One of his works features sections called “Pulses,” while he featured his governess Virginia Davis in a movement called “America-Before the War,” which is part of a string quartet that uses tape recordings of interview with Holocaust survivors. For 10 points, name this minimalist composer who wrote Music for 18 Musicians and Different Trains.
+
+----
+num: 10
+category: History
+difficulty: College
+fixed: 57
+seen: 73
+answer: {Abkhazia}
+
+This region was formerly the site of a kingdom called Egrisi and later called Lazica after the Laz tribe, and a later kingdom established at this place was led by the Anosid Dynasty. This region is the site of the Voronya Cave system, and this site of the Kodori valley is separated from the province of Samegrelo-Zemo Svaneti by the Inguri River. One conflict in this region saw battles at Gagra and Eshera and saw the participation of separatist Shamil Basayev. This region was the site of a short lived civil war involving the CMPC, which came to an end with an agreement signed in nearby Sochi between Eduard Shevardnadze and Vladimir Putin. For 10 points, identify this territory with capital Sukhumi on the Black Sea, which like Ajaria and South Ossetia is an autonomous republic within Georgia.
+
+----
+num: 11
+category: Science
+difficulty: College
+fixed: None
+seen: 79
+answer: {time reversal symmetry}
+
+A simplification of the Frobenius criterion on space groups that gives the degeneracies that double under this statement's corresponding operator is named for Herring. The square of that operator is plus one for integral spin and minus one for half-integral spin. A criterion given by Wolfenstein for this property was applied by Sehgal and van Leusen to analyze CPLEAR, an experiment at CERN that showed a difference between the rates of antikaon to kaon transitions and kaon to antikaon transitions. Loschmidt's paradox concerns its violation in the molecular chaos assumption of Boltzmann's H-theorem. Noether's theorem relates this property to energy conservation. A theorem which would be violated were neutrons to have nonzero electric dipole moment holds that the product of this property with charge conjugation and parity is always preserved. Applying that to a black hole gives a white hole. For 10 points, name statemen, whose corresponding operator would cause events to happen backwards.
+
+----
+num: 12
+category: Literature
+difficulty: College
+fixed: 57
+seen: 59
+answer: Joseph {Conrad}
+
+This author wrote about a rheumatic Count living in Naples who is mugged by a member of the criminal group Camorra in “Il Conde.” One of this writer's characters burns down his house on the Pantai River after his daughter Nina runs away with Dain Maroola. In one novel Mr. Jukes pacifies the Chinese passengers who had their silver dollars scattered across the hull of the Nan-Shan when Tom MacWhir navigates the ship through a storm. He wrote a novel ending when Winnie stabs her husband after Inspector Heat gets him to admit he trained Winnie's retarded brother Stevie to blow up the Greenwich Observatory. In addition to writing Typhoon and The Secret Agent he described Charles Gould entrusting Giovanni Fidanza to hide silver found in the San Tome mines of Costaguana in his novel Nostromo. For 10 points, name this writer who described Marlow going down the Congo to find Kurtz in Heart of Darkness.
+
+----
+num: 13
+category: Mythology
+difficulty: College
+fixed: None
+seen: 115
+answer: {Apophis} [accept {Apep}]
+
+The tomb of Rameses VI contains a depiction of twelve heads representing the souls taken by this figure, and this figure was often depicted as a circular ball on tombs. In one story, this figure was born from the tears of the sun god, who was unable to see his mother because he was so bright. In some stories this figure possessed a flint head, and its name meaning “he who was spat out” refers to his birth when the archer goddess Neith spat him into the primeval waters. This figure was said to be aided by Mot and Sek, and during the seventh hour this figure was bound by Selk, Her-desuf, and Mehen. This figure's death came when it was chopped into pieces by a god in the form of a cat, and a ritual banishing of this creature involved smearing its effigy with mud. This figure is called “the encircler of the world,” and this creature was reborn every day and waited in the Duat for its attack on the solar barque. For 10 points, name this representation of darkness and evil, a serpent from Egyptian mythology who battled Ra every night.
+
+----
+num: 14
+category: Science
+difficulty: College
+fixed: 57
+seen: 80
+answer: {chaos} theory
+
+The sum of certain quantities that arise in this field gives the entropy by Pesin's theorem. Those quantities are involved in a matrix defined as the limit as t increases without bound of the Jacobian times its transpose all raised to one-half t; that limit is guaranteed to exist by the Oseledec theorem and those quantities are Lyapunov exponents. A result about one-dimensional systems in this field is Sharkovskii's theorem, and as two complex eigenvalues of a system emerge, a Hopf bifurcation can occur; the aforementioned theorem gives a result about systems with three-cycles. Three-cycles appear briefly on a plot of the behavior of the logistic map, which experiences period-doubling with a frequency that approaches the Feigenbaum constant. This field studies systems like the Roessler map, the double pendulum, and a result of a weather model called the Lorenz attractor; each of those objects often traces out enormously different trajectories after only small changes in initial conditions. For 10 points, name this field colloquially described by the metaphor of the butterfly effect.
+
+----
+num: 15
+category: Trash
+difficulty: College
+fixed: None
+seen: 106
+answer: The {Rules} of the {Game} (La {Règle du Jeu})
+
+A cook in this film proclaims that he knew his boss was a gentleman when he was able to tell a potato salad was not cooked using white wine. In a famous speech one man claims, “Today everyone lies—the radio, the movies, the newspapers. So why shouldn't simple people like us lie as well?”At the beginning of this film a radio broadcaster interviews an aviator who just landed after flying solo across the Atlantic in twenty-three hours. One character in this film collects mechanical singing birds and ends his affair his Genevieve. La Chesnaye hires one man to clean boots after he is caught poaching rabbits on the estate La Coliniere. The gamekeeper Schumacher sees Christine wearing his wife's hood while having a rendezvous in the greenhouse leading him to accidentally shoot Andre Jurieux mistaking him for Octave. For 10 points, name this film satirizing upper-class French society directed by Jean Renoir.
+
+----
+num: 16
+category: History
+difficulty: College
+fixed: None
+seen: 69
+answer: {Klondike} Gold Rush [accept: {Yukon Gold Rush}; {don't require} “{gold rush}” as part of the answer after it is mentioned]
+
+During this event, order was maintained by the police commissioner Sam Steele, who enforced a rule requiring participants in this event to bring a certain amount of supplies. Lake Lindeman and Lake Bennett were important waterways used for transportation during this event, while a land route used during this event was nicknamed the “deadhorse trail”. This event was sparked by a discovery made by Skookum Jim. Participants in this event often arrived via Skagway and had to navigate the Whitehorse and Five Finger rapids on their way to Dawson City, where they would stake a claim and prospect for precious metals. For ten points, name this late 19th century gold rush in northwestern Canada.
+
+----
+num: 17
+category: Literature
+difficulty: College
+fixed: 1
+seen: 59
+answer: Heinrich {Heine}
+
+One of this author's poems repeats the phrase “Praise be to you, Marie,” and features a mother who undertakes the title healing journey with her sick son William, and another poem by this author tells of a character who steals the pharaoh's treasure and daughter. In addition to writing “The Pilgraimage to Kevlaar” and “Rhampsenit,” one poem by this author begins “Once did I dream of Love's wild-glowing sighs, of shining locks, myrtle and mignonette.” This author of “The Sorrows of Youth” wrote of his travels in “Journey in the Harz” and described a dancing bear that escapes captivity and attempts to lead a revolution against the human race in his satiric epic Atta Troll. He discussed a large coffin that he would use to lower his sorrows into a river in the “Lyrical Intermezzo” of a poetry collection that features the two “North Sea” cycles, the “Homecoming” sequence and includes “The Grenadiers.” For 10 points, identify this German author of the collections Romanzero and Book of Songs, who wrote about a maiden who lures sailors to death in his poem “Die Lorelei.”
+
+----
+num: 18
+category: Science
+difficulty: College
+fixed: None
+seen: 80
+answer: bone {morphogenic} protein
+
+Juvenile hemochromatosis is an iron overload condition caused by mutations in hemojuvelin, which Babitt et al. believe is a cofactor for these proteins. Inhibition of the Wnt signaling pathway by one factor antagonizes the action of these proteins; that aforementioned factor binds to LRP5/6 receptors and is called sclerostin. The expression of fibroblast growth factors and sonic hedgehog require the inhibition of these compounds by gremlin-1. The tenth of these is thought to facilitate heart tabeculation, and the seventh of these triggers SMAD phosphorylation. A metalloprotease in this group cleaves laminin five and three procollagen forms. Noggin and chordin maintain fetus polarity by inhibiting the fourth one of these, which, like many others, is a TGF-beta family protein. For 10 points, name these proteins that can induce new bone to form.
+
+----
+num: 19
+category: Philosophy
+difficulty: College
+fixed: None
+seen: 52
+answer: {Human Action}
+
+This work points out that “real peasants do not engage in ecstatic babble” in “The Myth of the Soil.” This work argues Lucien Levy-Bruhl's work supports its thesis of the uniformity of the logical structure of mind. That uniformity underlies the criticism of “Marxian polylogism” on the grounds that Marx arrogated to himself the right to find absolute truth; hence his polylogism is part of the “revolt against reason” discussed in the third chapter. This work draws on its author's argument against the time preference theories of his mentor Eugene Bohm-Bawerk and also considers the delimitation of the problems of catallactics. Socialism is criticized because it renders impossible the activity of monetary calculation, vital to entrepreneurship. Published seven years before The Anti-Capitalistic Mentality, this work contrasts its central concept with “contentment.” For 10 points, name this work deeming the study of its title concept “praxeology”, the magnum opus of Ludwig von Mises.
+
+----
+num: 20
+category: History
+difficulty: College
+fixed: None
+seen: 71
+answer: {Sigismund} of {Luxemburg} [accept: {Sigismund von Luxemburg}; {Luxemburgi Zsigmond}; {Zikmund Lucembursky}]
+
+Notable cousins of this man include Jobst of Moravia, whom this man put in charge of Brandenburg. This man succeeded Rupert of Wittelsbach in his highest post. At the behest of Pope Boniface IX, this man allied with Venice and launched a crusade against the Turks that ended in failure at the Battle of Nicopolis. This ruler presided over the Council of Constance and led the Catholic side in the Hussite Wars. Although this man personally unified Bohemia, Hungary, and the Holy Roman Empire, the only modern remnant of his empire is a microstate. For ten points, name this 1410-1437 Holy Roman Emperor from the smallest Low Country.

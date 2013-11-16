@@ -1,0 +1,259 @@
+####
+tournament: Sample
+round: round11.pdf
+####
+
+num: 1
+category: Chemistry
+difficulty: HS
+answer: Y)  Methane Has a Higher Boiling Point Than Ethane
+
+Which of the following is NOT true:
+W) any foreign substance added to water will cause a freezing point drop
+X) a nonvolatile solute raises the boiling point of a solvent
+Y) methane has a higher boilin g point than ethane
+Z) freezing point depression is a colligative property
+
+----
+num: 2
+category: Biology
+difficulty: HS
+answer: W)  Proteins
+
+Which of the following types of biological molecules is digested by trypsin:
+W) proteins
+X) nucleic acids
+Y) carbohydrates
+Z) lipids
+
+----
+num: 3
+category: Physics
+difficulty: HS
+answer: Z)  1 Femtometer
+
+Which of the following is closest to the radius of a hydrogen nucleus:
+W) 1 micrometer
+X) 1 angstrom
+Y) 1 picometer
+Z) 1 femtometer
+
+----
+num: 4
+category: Math
+difficulty: HS
+answer: X)  Semi-Circle
+
+The graph of the relation y = − (25 − x^2) is a:
+W) circle
+X) semi-circle
+Y) parabola
+Z) straight line
+
+----
+num: 5
+category: Earth Science
+difficulty: HS
+answer: X)  Outgoing Infrared Solar Radiation Is Trapped by the Lower
+Atmosphere
+
+The Earth’s greenhouse effect is primarily caused by which of the following:
+W) incoming solar ultraviolet light is absorbed by the ozone layer
+X) outgoing infrared solar radiation is trapped by the lower atmosphere
+Y) incoming infrared solar radiation is trapped by the magnetic field
+Z) outgoing X-rays are absorbed by the troposphere and reflected to the Earth’s surface
+
+----
+num: 6
+category: General Science
+difficulty: HS
+answer: Y)  Dry Ice
+(Solution: Mosquitoes Attracted to Co
+^2)
+
+Ed the entomologist is setting up mosquito traps in a farmer’s field in Nebraska. Which of the following would be the BEST mosquito attractant to ensure he traps the greatest number and variety of mosquitoes:
+W) oxygen 
+X) nitrogen 
+Y) dry ice
+Z) methane
+
+----
+num: 7
+category: Astronomy
+difficulty: HS
+answer: Y)  a Red Supergiant Has a Hotter Surface Than Our Sun
+
+Which of the following is LEAST accurate:
+W) most stars visible to the unaided eye are part of the Milky Way galaxy
+X) there are 88 constellations officially recognized by the IAU
+Y) a red supergiant has a hotter surface than our Sun
+Z) the constellation Leo is located within 9º of the ecliptic
+
+----
+num: 7
+category: Astronomy
+difficulty: HS
+answer: Z)  There Is More Lithium Than Carbon in the Universe
+
+Which of the following is NOT true:
+W) the core of a red supergiant is hotter than the core of a main sequence K -type star
+X) helium flash is something that occurs in red giant stars
+Y) the Pleiades is an open star cluster
+Z) there is more lithium than carbon in the universe
+
+----
+num: 8
+category: Chemistry
+difficulty: HS
+answer: W)  Iron
+
+Carbon monoxide, or CO, will be adsorbed (read as: ADD -sorbed) onto the surface of which of the following metals the MOST strongly:
+W) iron
+X) nickel
+Y) cobalt
+Z) gold
+
+----
+num: 9
+category: Biology
+difficulty: HS
+answer: W)  2
+
+At which of the following pH levels will human pepsin be most active:
+W) 2
+X) 4
+Y) 6
+Z) 8
+
+----
+num: 10
+category: Physics
+difficulty: HS
+answer: Z)  Perpendicular to the Magnetic Field
+
+Which of the following best describes the direction of the force on an electron moving through a magnetic field:
+W) opposite to the direction of the velocity
+X) the same direction as the velocity
+Y) the same direction as the magnetic field
+Z) perpendicular to the magnetic field
+
+----
+num: 11
+category: Math
+difficulty: HS
+answer: W)  500º
+
+Which of the following is a second quadrant angle in standard position:
+W) 500º
+X) –180º
+Y) –680º
+Z) 930º
+
+----
+num: 12
+category: Earth Science
+difficulty: HS
+answer: W)  Biotite
+
+Which of the following minerals occurs in small amounts in many igneous rocks, is black and shiny, often occurs in small hexagonal blocks, and is soft with good cleavage:
+W) biotite
+X) olivine
+Y) plagioclase
+Z) quartz
+
+----
+num: 12
+category: Earth Science
+difficulty: HS
+answer: Z)  They Are Both Intrusive Igneous Rocks
+(Solution: Basalt = Extrusive;  Gabbro = Intrusive)
+
+Which of the following is NOT true of basalt and gabbro:
+W) they formed from magma at the same temperature
+X) they are derived from basaltic magma
+Y) they formed from magma with the same silica content
+Z) they are both intrusive igneous rocks
+
+----
+num: 13
+category: General Science
+difficulty: HS
+answer: Z)  Prevent Water Evaporation
+
+A standard rain gauge consists of a metal canister open at the top in which a funnel drains rainwater into a narrow cylinder. Each time they ar e deployed to the field, a small amount of light oil is added to the cylinder. This is done to:
+W) deter birds from drinking the water
+X) stop the canister from oxidizing
+Y) prevent the growth of blue-green algae
+Z) prevent water evaporation
+
+----
+num: 13
+category: General Science
+difficulty: HS
+answer: X)  Acetaminophen
+
+Which of the following is a widely -used analgesic and antipyretic medication which is not considered an NSAID (read as: en -say’d):
+W) acetylcysteine
+X) acetaminophen
+Y) acetylsalicylic acid
+Z) ibuprophen
+
+----
+num: 14
+category: Astronomy
+difficulty: HS
+answer: Z)  the Planet Mercury Within 10 Degrees of the  Zenith
+
+Which of the following is LEAST likely to occur for a stargazer observing from mid -northern latitudes during summer months:
+W) the planet Venus passing within a few degrees of the Moon a few hours after sunset 
+X) the Moon at perigee
+Y) the planet Saturn passing with 5 degrees of the Moon
+Z) the planet Mercury within 10 degrees of the zenith
+
+----
+num: 15
+category: Chemistry
+difficulty: HS
+answer: W)  Freezing Point Depression
+
+The molal (read as: moe -lahl) is a concentration uni t that is most appropriately used in experimental designs that determine:
+W) freezing point depression
+X) osmotic pressure
+Y) density
+Z) vapor pressure lowering
+
+----
+num: 16
+category: Biology
+difficulty: HS
+answer: Y)  Cell Wall Synthesis
+
+Which of the following is the main target of bacteria by the antibiotic penicillin:
+W) energy production
+X) DNA synthesis 
+Y) cell wall synthesis 
+Z) translation
+
+----
+num: 17
+category: Physics
+difficulty: HS
+answer: X)  a Proton Changes to a Neutron
+
+During positron emission, which of the following most likely occurs:
+W) a proton changes to an electron
+X) a proton changes to a neutron 
+Y) a neutron changes to an electron 
+Z) a neutron changes to a proton
+
+----
+num: 20
+category: General Science
+difficulty: HS
+answer: X)  the Wood of an Evergreen Tree of the Laurel Family
+
+From which of the following is camphor derived:
+W) petroleum distillate
+X) the wood of an evergreen tree of the laurel family
+Y) the bark of a fir tree from the Mediterranean 
+Z) the seed pod of the camphor herb

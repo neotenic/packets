@@ -1,0 +1,357 @@
+####
+tournament: #6412
+round: Show #6412 - Tuesday, July 3, 2012
+year: 2012
+date: 2012-07-03
+####
+
+num: 1
+category: Literature
+difficulty: 200
+seen: 4
+answer: Friends, Romans, countrymen, lend me your ears.
+
+Marc Antony precedes "I come to bury Caesar, not to praise him" with this 7-word line.
+
+----
+num: 2
+category: Literature
+difficulty: 200
+seen: 4
+answer: U-Haul
+
+Back when the company was launched in 1945, you could rent one of these do-it-yourself movers for $2 per day.
+
+----
+num: 3
+category: Trash
+difficulty: 200
+seen: 6
+answer: a squeegee
+
+It's an implement edged with rubber used to remove excess water.
+
+----
+num: 4
+category: Trash
+difficulty: 200
+seen: 6
+answer: scratching
+
+Turntable expert Grandmaster Flash excels at moving the record back & forth under the needle, also called this action.
+
+----
+num: 5
+category: Literature
+difficulty: 400
+seen: 4
+answer: the Declaration of Independence
+
+This document says of the British, "We must...hold them, as we hold the rest of mankind, enemies in war, in peace friends".
+
+----
+num: 6
+category: Geography
+difficulty: 400
+seen: 7
+answer: Greece
+
+'s where western civilization began.
+
+----
+num: 7
+category: Literature
+difficulty: 400
+seen: 3
+answer: P. Diddy
+
+From 2001 to 2005 the rapper and businessman seen.
+
+----
+num: 8
+category: Trash
+difficulty: 400
+seen: 5
+answer: Jeepers creepers
+
+In song it precedes, "where'd ya get those peepers?".
+
+----
+num: 9
+category: Trash
+difficulty: 400
+seen: 5
+answer: Lazy Susan
+
+"Lethargic" name for the revolving turntable found on some kitchen tables.
+
+----
+num: 10
+category: Literature
+difficulty: 600
+seen: 4
+answer: "With A Little Help From My Friends"
+
+This song begins, "What would you think if I sang out of tune, would you stand up and walk out on me".
+
+----
+num: 11
+category: Geography
+difficulty: 600
+seen: 8
+answer: Brazil
+
+occupies almost half of its continent.
+
+----
+num: 12
+category: Literature
+difficulty: 600
+seen: 4
+answer: a C-section
+
+Reasons for having one of these: the baby's too big: it's in distress; it's not in a head-down position.
+
+----
+num: 13
+category: Trash
+difficulty: 600
+seen: 5
+answer: peewee
+
+Rhyming word meaning very tiny: 4 of its 6 letters.
+
+----
+num: 14
+category: Geography
+difficulty: 800
+seen: 7
+answer: Monaco
+
+We bet you know this tiny country highlighted.
+
+----
+num: 15
+category: Literature
+difficulty: 800
+seen: 4
+answer: T. rex
+
+Sue, who resides at the Field Museum in Chicago, was a 42-foot-long one of these.
+
+----
+num: 16
+category: Trash
+difficulty: 800
+seen: 4
+answer: greenskeeper
+
+It's the job of someone charged with the maintenance of a golf course.
+
+----
+num: 17
+category: Trash
+difficulty: 800
+seen: 5
+answer: Stevie Wonder
+
+His "Songs in the Key of Life" include "I Wish" & "Isn't She Lovely".
+
+----
+num: 18
+category: Geography
+difficulty: 1000
+seen: 9
+answer: Burma (or Myanmar)
+
+Last night I dreamt I went to Mandalay again, in.
+
+----
+num: 19
+category: Literature
+difficulty: 1000
+seen: 4
+answer: K rations
+
+Adopted by the army in 1942, these individual meals in a box were first used by paratroopers.
+
+----
+num: 20
+category: Literature
+difficulty: 400
+seen: 4
+answer: stop
+
+"Because I could not ____ for death".
+
+----
+num: 21
+category: Literature
+difficulty: 400
+seen: 4
+answer: Joseph McCarthy
+
+Better dead than red? His health ruined by drinking, this crusader against communism found out May 2, 1957.
+
+----
+num: 22
+category: Trash
+difficulty: 400
+seen: 5
+answer: inside the park
+
+Ichiro Suzuki is the only player ever to hit one of these home runs in an all-star game.
+
+----
+num: 23
+category: Literature
+difficulty: 400
+seen: 5
+answer: the bald eagle
+
+The Protection Act of 1940 for this bird says you best not mess with me, Mac! I'm only the symbol of our country!.
+
+----
+num: 24
+category: History
+difficulty: 400
+seen: 4
+answer: trucks
+
+The main attraction of the event called Monster Jam is watching these vehicles.
+
+----
+num: 25
+category: Literature
+difficulty: 800
+seen: 4
+answer: I sing
+
+"I ____ the body electric".
+
+----
+num: 26
+category: Literature
+difficulty: 800
+seen: 4
+answer: a roadrunner
+
+Yes, I can fly! But as a Chaparral Cock, aka this bird, I prefer the ground! & no, I won't say "beep beep" for you!.
+
+----
+num: 27
+category: History
+difficulty: 800
+fixed: -1
+seen: 3
+answer: the chairlift
+
+Based on banana-hanging hooks, it was invented in 1936 to transport skiers at Sun Valley, Idaho.
+
+----
+num: 28
+category: Literature
+difficulty: 1200
+seen: 4
+answer: W.C. Fields
+
+This comic died of alcohol-related causes in Pasadena, not Philadelphia, on Christmas Day 1946.
+
+----
+num: 29
+category: Literature
+difficulty: 1200
+seen: 4
+answer: the woodpecker
+
+Yeah, I'm the redheaded species of this bird. oh, I damaged your lovely wooden home with my beak? Hmm, do I care? No.
+
+----
+num: 30
+category: History
+difficulty: 1200
+seen: 4
+answer: Harry Reid
+
+Now Senate majority leader, he boxed in Vegas as a Golden Gloves middleweight.
+
+----
+num: 31
+category: Literature
+difficulty: 1600
+seen: 4
+answer: Errol Flynn
+
+This dashing "Captain Blood" star died in 1959 at the end of a week-long binge.
+
+----
+num: 32
+category: Trash
+difficulty: 1600
+seen: 7
+answer: insider trading
+
+In November 1986 Ivan Boesky was penalized $100 million for this type of illegal activity.
+
+----
+num: 33
+category: Literature
+difficulty: 1600
+seen: 4
+answer: a mockingbird
+
+As a northern type of this bird, I've been known to imitate songs of 32 different birds in 10 mins., but I do not do requests!.
+
+----
+num: 34
+category: History
+difficulty: 1600
+seen: 4
+answer: a mothership
+
+This maternal term for a vessel that guards or serves smaller ones is used in sci-fi to refer to a vast alien craft.
+
+----
+num: 35
+category: History
+difficulty: 1600
+seen: 5
+answer: Fred Thompson
+
+In 2010 this ex-Tennessee senator was all bull, returning to acting as Bull Hancock in "Secretariat".
+
+----
+num: 36
+category: Literature
+difficulty: 2000
+seen: 5
+answer: (Franklin) Pierce
+
+After years of heavy drinking, this 14th president died in 1869 of liver problems.
+
+----
+num: 37
+category: Literature
+difficulty: 2000
+seen: 6
+answer: a quail
+
+I'm just goin' out with my covey, Ma! As Montezumas, I know we're a small variety of this bird, but I'll be ok! Gosh!.
+
+----
+num: 38
+category: History
+difficulty: 2000
+seen: 6
+answer: the driver on the left side
+
+This innovation in the Model T may have resulted from better roads, making oncoming cars more of a worry than ditches.
+
+----
+num: 39
+category: History
+difficulty: 2000
+seen: 5
+answer: Tokyo
+
+Colorado senator Ben Nighthorse Campbell was on the U.S. Judo team at the 1964 Summer Olympics in this Asian city.

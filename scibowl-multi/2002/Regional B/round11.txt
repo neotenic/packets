@@ -1,0 +1,305 @@
+####
+tournament: Regional B
+round: round11.pdf
+year: 2002
+####
+
+num: 2
+category: Biology
+difficulty: HS
+seen: 1
+answer: Y)  It Kills Most of the Germs in the Milk by Moderate Heating
+
+Which of the following is most accurate about the pasteurization of milk:
+W) it heats milk to the boiling point for about 1minute 
+X) it kills all bacteria by passing steam through the milk 
+Y) it kills most of the germs in the milk by moderate heating 
+Z) it kills all the bacteria but not the viruses in the milk
+
+----
+num: 4
+category: Astronomy
+difficulty: HS
+seen: 1
+answer: W)  the Escape  Velocity Would Be Doubled
+(Solution: Escape Velocity ~ (M/r)1/2; v
+^E = √2gm/r)
+
+If you could shrink the Earth to a quarter its present diameter while maintaining its mass, by what fact or would the escape velocity change?
+W) the escape velocity would be doubled 
+X) the escape velocity would be four times larger 
+Y) the escape velocity would remain unchanged 
+Z) the escape velocity would be reduced by half
+
+----
+num: 6
+category: Earth Science
+difficulty: HS
+answer: Z)  Coming From  a Hotspot Within the Mantle
+
+The Hawaiian Islands originated from magma:
+W) intruding along the boundary between two lithospheric plates 
+X) formed within an island arc 
+Y) injected along a mid-ocean fracture zone 
+Z) coming from a hotspot within the mantle
+
+----
+num: 6
+category: Earth Science
+difficulty: HS
+answer: Z)  Quartz
+
+Which of the following is classified as a silicate mineral:
+W) gypsum 
+X) malachite 
+Y) halite 
+Z) quartz
+
+----
+num: 8
+category: Computer Science
+difficulty: HS
+answer: W)  Gopher
+
+This distributed information system was prevalent in the years before the World Wide Web:
+W) Gopher 
+X) SSL 
+Y) LINUX 
+Z) Fox
+
+----
+num: 8
+category: Computer Science
+difficulty: HS
+seen: 1
+answer: Y)  the Value It Holds Must Be Dynamically Refreshed Every 
+Few Milliseconds
+
+Dynamic RAM is called such because:
+W) the value it holds can be dynamically changed at any time 
+X) the address space the RAM refers to can be dynamically changed 
+Y) the value it holds must be dynamically refreshed every few milliseconds 
+Z) the value it holds must be dynamically refreshed once a session
+
+----
+num: 9
+category: Physics
+difficulty: HS
+answer: Z)  Copper
+
+Which of the following exhibits the least resistivity at 20 °C:
+W) gold 
+X) tungsten 
+Y) iron 
+Z) copper
+
+----
+num: 10
+category: Biology
+difficulty: HS
+seen: 1
+answer: X)  Hepatitis a and Serum Hepatitis
+(Solution:  Hepatitis a Causes Infectious Hepatitis)
+
+Which of the following infectious agents is NOT properly matched with its disease:
+W) Trichophyton (read as:TR I-co-fie-ton) and ringworm 
+X) Hepatitis A and serum hepatitis 
+Y) Rubella and German measles 
+Z) Epstein Barr and infectious mononucleosis
+
+----
+num: 11
+category: Chemistry
+difficulty: HS
+seen: 1
+answer: W)  Free Radical Vinyl Polymerization From the Monomer 
+Styrene
+
+Polystyrene is produced by which of the following reactions:
+W) free radical vinyl polymerization from the monomer styrene 
+X) metalocene catal ysis polymerization 
+Y) graft copolymerization 
+Z) butadiene polymerization
+
+----
+num: 11
+category: Chemistry
+difficulty: HS
+answer: W)  Bent
+
+Which of the following mol ecular shapes would you expect from O^3:
+W) bent 
+X) trigonal planar 
+Y) linear 
+Z) see-saw
+
+----
+num: 12
+category: Astronomy
+difficulty: HS
+answer: Z)  Standard Candle/tully-Fisher Relation
+
+Which of the following distance-measuring techniques measures the farthest:
+W) radar ranging 
+X) stellar parallax 
+Y) variable stars 
+Z) standard candle/Tully-Fisher relation
+
+----
+num: 13
+category: Math
+difficulty: HS
+answer: Y)  68%
+
+In a normal distribution, a mean of a sample population, plus or minus 1 standard deviation, includes what percentage of the sample:
+W) 16% 
+X) 32% 
+Y) 68% 
+Z) 95%
+
+----
+num: 14
+category: Earth Science
+difficulty: HS
+answer: Y)  Twinned
+
+When two halves of a crystal aggregate are mirror images of each other and joined together in some definite, shared crystallographic orientation, such crystals are referred to as being:
+W) polymorphs 
+X) symmetrical 
+Y) twinned 
+Z) anhedral
+
+----
+num: 14
+category: Earth Science
+difficulty: HS
+seen: 1
+answer: W)  It Is an Apparent Force Due to the Precession of the Earth
+
+Which of the following is FALSE about the Coriolis 
+Effect:
+W) it is an apparent force due to the precession of the Earth 
+X) it is an apparent force due to the rotation of the Earth 
+Y) it causes winds in the Northern Hemi sphere to be deflected to the right 
+Z) it causes winds in the Southern He misphere to be deflected to the left
+
+----
+num: 16
+category: Computer Science
+difficulty: HS
+answer: Y)  Laser
+
+Which printer uses bits of plastic that effectively are melted onto the surface of the paper:
+W) thermal 
+X) ink jet 
+Y) laser 
+Z) dot matrix
+
+----
+num: 16
+category: Computer Science
+difficulty: HS
+seen: 1
+answer: X)  Each Parent Node Has No More Than Two Children
+
+Which of the following is true for a binary tree but not for a regular tree:
+W) it stores only zeros and ones 
+X) each parent node has no more than two children 
+Y) its branches are ordered 
+Z) nodes without child ren are called leaves
+
+----
+num: 17
+category: Physics
+difficulty: HS
+answer: Z)  650-700 Nanometers ^
+
+Red light has a wavelength of:
+W) 300-350 nanometers 
+X) 450-500 nanometers 
+Y) 550-600 nanometers 
+Z) 650-700 nanometers
+
+----
+num: 19
+category: Chemistry
+difficulty: HS
+answer: Z)  Radium-226
+
+Which of the following radi oactive isotopes emits alpha particles:
+W) hydrogen-3 
+X) cobalt-60 
+Y) carbon-14 
+Z) radium-226
+
+----
+num: 20
+category: Astronomy
+difficulty: HS
+answer: W)  Measure the Energy Output of the Sun
+
+A bolometer (pronounced: bowl-O-meter) is used to:
+W) measure the energy output of the Sun 
+X) measure the length of a bowling alley 
+Y) measure the size of celestial bodies 
+Z) standardize the azimuth of a sextant
+
+----
+num: 21
+category: Earth Science
+difficulty: HS
+answer: Z)  Limestone to Marble
+
+As the intensity of metamorphism increases, which of the following transformations occurs:
+W) granite to slate 
+X) schist to slate 
+Y) gneiss to quartzite 
+Z) limestone to marble
+
+----
+num: 21
+category: Earth Science
+difficulty: HS
+answer: W)  30 ° North
+
+In which of the following latitudes would you expect belts of high pressure to typically develop:
+W) 30° North 
+X) 0°
+Y) 50° North 
+Z) 60° South
+
+----
+num: 22
+category: General Science
+difficulty: HS
+answer: Y)  Lignin
+
+Which of the following is classified as a water-insoluble fiber:
+W) algal polysaccharides 
+X) pectin 
+Y) lignin 
+Z) gums
+
+----
+num: 23
+category: Physics
+difficulty: HS
+answer: Z)  Individual Atoms
+
+The line spectra of low density gases is usually produced by the emission or absorption of light by:
+W) molecules 
+X) crystals 
+Y) crystal lattices 
+Z) individual atoms
+
+----
+num: 25
+category: Chemistry
+difficulty: HS
+answer: X)  Aldehyde
+
+Reaction with a copper compound is a qualitative test for which functional group:
+W) alcohol 
+X) aldehyde 
+Y) ketone 
+Z) carboxylic acid

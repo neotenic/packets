@@ -1,0 +1,356 @@
+####
+tournament: #6332
+round: Show #6332 - Tuesday, March 13, 2012
+year: 2012
+date: 2012-03-13
+####
+
+num: 1
+category: History
+difficulty: 200
+seen: 5
+answer: Charles Darwin
+
+scientist's work didn't result in slow, gradual change--its impact was revolutionary.
+
+----
+num: 2
+category: Literature
+difficulty: 200
+seen: 4
+answer: the fist bump
+
+The Obamas have employed.
+
+----
+num: 3
+category: Trash
+difficulty: 200
+seen: 5
+answer: Pabst
+
+This company no longer brews its own Blue Ribbon brand but owns Schaefer, Schlitz & 30 other brands.
+
+----
+num: 4
+category: Geography
+difficulty: 200
+seen: 8
+answer: sunlight
+
+Sediment from erosion hurts rivers because this can't penetrate the water, hindering the ecosystem.
+
+----
+num: 5
+category: History
+difficulty: 400
+seen: 5
+answer: Jackie Kennedy
+
+much-admired woman helped set fashion trends for many years.
+
+----
+num: 6
+category: Literature
+difficulty: 400
+seen: 4
+answer: a spoiler alert
+
+This 2-word warning lets you know that crucial plot elements of a book or movie are about to be given away.
+
+----
+num: 7
+category: Trash
+difficulty: 400
+seen: 5
+answer: the head
+
+The thickness of this top part of your draft beer is measured in fingers.
+
+----
+num: 8
+category: Geography
+difficulty: 400
+seen: 8
+answer: pesticides
+
+Surface runoff from farms or your lawn can add these chemicals, like chlordane, to your local river.
+
+----
+num: 9
+category: History
+difficulty: 600
+seen: 4
+answer: (Winston) Churchill
+
+Reporter, politician, orator, historian, & all-around amazing 20th-century bobblehead seen.
+
+----
+num: 10
+category: Literature
+difficulty: 600
+seen: 4
+answer: Photoshop
+
+Phobar is an acronym indicating that this Adobe software has been used so that an image is "beyond all recognition".
+
+----
+num: 11
+category: Trash
+difficulty: 600
+seen: 5
+answer: a microbrewery
+
+This type of "brewery" is defined as one producing less than 15,000 barrels a year; its name even means "small".
+
+----
+num: 12
+category: Geography
+difficulty: 600
+seen: 8
+answer: Italy
+
+This country's Sarno river is the most polluted in Europe.
+
+----
+num: 13
+category: History
+difficulty: 800
+seen: 4
+answer: Appomattox Courthouse
+
+The two bobbleheads seen.
+
+----
+num: 14
+category: Literature
+difficulty: 800
+seen: 3
+answer: chameleon
+
+A social one of these reptiles changes the way he interacts depending on the people he's around.
+
+----
+num: 15
+category: Trash
+difficulty: 800
+seen: 6
+answer: Tecate
+
+This Mexican beer, the top-selling canned import in the U.S., is named for a town in Baja California.
+
+----
+num: 16
+category: History
+difficulty: 1000
+seen: 4
+answer: beatification
+
+On May 1, 2011, the bobblehead seen.
+
+----
+num: 17
+category: Literature
+difficulty: 1000
+seen: 4
+answer: a hot mess
+
+To describe a fashion don't, "Project Runway" winner Christian Siriano used the catchphrase "hot" this.
+
+----
+num: 18
+category: Trash
+difficulty: 1000
+seen: 5
+answer: bock
+
+This type of beer follows "Shiner" in a brew introduced in 1913.
+
+----
+num: 19
+category: Geography
+difficulty: 1000
+seen: 8
+answer: cholera
+
+You may not love the time of this disease that's been called the "archetype of waterborne illnesses".
+
+----
+num: 20
+category: Geography
+difficulty: 400
+seen: 7
+answer: Bulgaria
+
+Kazanlak, 100 miles east of Sofia in the Valley of Roses of this country, is known for its roses used in perfumes.
+
+----
+num: 21
+category: Trash
+difficulty: 400
+seen: 5
+answer: Dean Martin
+
+The duo of him & Jerry Lewis broke up after making the 1956 film "Hollywood or Bust".
+
+----
+num: 22
+category: Science
+difficulty: 400
+seen: 6
+answer: the ozone layer
+
+The dangerous thinning of this atmospheric layer is most pronounced over the poles.
+
+----
+num: 23
+category: History
+difficulty: 400
+seen: 4
+answer: a cookbook
+
+Every Colonial home had to have "The Compleat Housewife", an early collection of "receipts", i.e. this type of book.
+
+----
+num: 24
+category: History
+difficulty: 400
+seen: 4
+answer: a witness
+
+Testis is Latin for this participant in a trial; can I get a testis?!.
+
+----
+num: 25
+category: Geography
+difficulty: 800
+seen: 7
+answer: Sweden
+
+Gotland is this country's largest island.
+
+----
+num: 26
+category: Trash
+difficulty: 800
+seen: 4
+answer: Harold & Kumar
+
+After surviving Gitmo, these 2 title guys had a Very 3D Christmas.
+
+----
+num: 27
+category: Science
+difficulty: 800
+seen: 6
+answer: aurora
+
+The southern lights are also called this australis.
+
+----
+num: 28
+category: History
+difficulty: 800
+seen: 4
+answer: Patrick Henry
+
+When his House of Burgesses speech in 1765 was called treasonous, he replied, "If this be treason, make the most of it".
+
+----
+num: 29
+category: History
+difficulty: 800
+seen: 4
+answer: subpoena
+
+Meaning "under the penalty", you've been served! (with this word from Latin, right now).
+
+----
+num: 30
+category: Geography
+difficulty: 1200
+seen: 7
+answer: Krakow
+
+This city on the Vistula river was Poland's capital from 1038 to 1596.
+
+----
+num: 31
+category: Trash
+difficulty: 1200
+seen: 5
+answer: Flight of the Conchords
+
+It's New Zealand's "Fourth most-popular guitar-based digi-bongo a cappella-rap-funk comedy folk duo".
+
+----
+num: 32
+category: Science
+difficulty: 1200
+seen: 5
+answer: Arabic
+
+A thunderstorm downdraft that picks up dust as it surges can cause a.
+
+----
+num: 33
+category: History
+difficulty: 1200
+seen: 4
+answer: Williamsburg
+
+In 1716 the first theater in the colonies was built in this Colonial capital of Virginia.
+
+----
+num: 34
+category: Geography
+difficulty: 1600
+seen: 9
+answer: the Pyrenees
+
+The mountains of.
+
+----
+num: 35
+category: Trash
+difficulty: 1600
+seen: 6
+answer: the Smothers Brothers
+
+Dick's brother, Tom of this pair plays golf & is known to sink putts using a yo-yo.
+
+----
+num: 36
+category: History
+difficulty: 1600
+seen: 4
+answer: (Noah) Webster
+
+In 1793 this lexicographer founded the American Minerva, New York City's first daily newspaper.
+
+----
+num: 37
+category: History
+difficulty: 1600
+seen: 4
+answer: an affidavit
+
+This Latin word, still used today, originally meant "he pledged"; today, it's a sworn written statement.
+
+----
+num: 38
+category: Science
+difficulty: 2000
+seen: 8
+answer: the Bay of Bengal
+
+Bangladesh's Barisal guns are unexplained booming noises, perhaps seismic in origin, heard over this bay.
+
+----
+num: 39
+category: History
+difficulty: 2000
+seen: 6
+answer: chaplain
+
+William Emerson has been called the U.S. Army's first of these; his grandson Ralph Waldo went into a similar field.

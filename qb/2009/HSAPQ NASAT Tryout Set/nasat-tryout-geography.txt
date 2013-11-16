@@ -1,0 +1,34 @@
+####
+tournament: HSAPQ NASAT Tryout Set
+round: nasat-tryout-geography.pdf
+year: 2009
+####
+
+num: 2
+category: Geography
+difficulty: HS
+fixed: 1
+seen: 715
+answer: Indonesia
+
+This nation is home to the Buddhist monuments of Borobudur and Prambanan. This country also shares an island with a nation with capital at Dili, Timor, and controls the islands which were the destination of Ferdinand Magellan, the Moluccas, or Spice Islands. This nation is also home to a volcano whose eruption created the Year Without a Summer, Mount Krakatoa. Its western province of Aceh was devastated by a tsunami in 2004. For 10 points, name this nation which includes the islands of Java, Sumatra, and Borneo with capital at Jakarta.
+
+----
+num: 5
+category: Geography
+difficulty: HS
+fixed: 57
+seen: 714
+answer: Mount {Kilimanjaro}
+
+One trail found on this mountain stops by the "Garden of the Senecios" and the Barranco Wall. One landslide in this mountain created the Western Breach, which leads up to the Lava Tower. Near its summit is the retreating Furtwangler Glacier, which is passed by on the Northern Circuit, Rongai, and Umbwe routes. The Kibo, Mawenzi, and Shira are the three cones that make up this stratovolcano, the tallest freestanding mountain in the world at 19,334 feet. Located in Tanzania, for 10 points, name this tallest mountain in Africa.
+
+----
+num: 6
+category: Geography
+difficulty: HS
+fixed: 1
+seen: 724
+answer: {Andes} Mountains
+
+The largest lake in this mountain range is split by the Strait of Tiquina (tick-EE-nuh). This range is bordered on the northeast by Los Llanos (YAN-os). Split into regions called the Cordillera (cor-dee-YEAR-uh), its Occidental portion contains the extinct volcano Chimborazo, and its Oriental Range includes Lake Titicaca. Its highest point is Aconcagua. For 10 points, name this mountain range that runs along the western edge of South America, from Venezuela to Chile.

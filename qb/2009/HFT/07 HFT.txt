@@ -1,0 +1,214 @@
+####
+tournament: HFT
+round: 07 HFT.doc
+year: 2009
+####
+
+num: 1
+category: Mythology
+difficulty: HS
+fixed: 1
+seen: 795
+answer: Amaterasu 
+
+In one story, a group of weavers working for this figure were killed when this figure's brother threw a dead horse at them and shattered their loom. This figure ruled from the High Celestial Plain and sent Ninigi to pacify the lands. The emperor Jimmu was claimed to be a direct descendent of this figure. In one legend, the sensuous dancing of Uzume lured this figure out of hiding, which had come about because of the actions of Susano'wo. For 10 points, identify this daughter of Izanagi who hid in a cave and removed light from the world, the Japanese sun goddess.
+
+----
+num: 2
+category: Literature
+difficulty: HS
+fixed: 57
+seen: 443
+answer: The {Stranger} [or {L'Etranger}]
+
+The protagonist of this novel goes to the movies with Emmanuel and eats lunch at Celeste's restaurant before he hears Salamano weeping about his lost dog. The primary action of this novel is set off when Masson cares for his friend Raymond Sintes after he was cut in a knife fight during a trip the protagonist took to the beach with his girlfriend Marie Cardona. This novel begins with the protagonist emotionlessly attending his mother's funeral. For 10 points, identify this novel in which Mersault is executed after senselessly killing an Arab, by Albert Camus.
+
+----
+num: 3
+category: Fine Arts
+difficulty: HS
+fixed: 1
+seen: 493
+answer: Franz {Lizst}
+
+This composer may have adapted the overture of his chorale Les Quatre Elements for his tone poem Les Preludes. This composer's “Bagatelle without tonality” is sometimes included in a work whose first movement is subtitled “The Dance in the Village Inn” and borrows its program from Nicholas Lenau's Faust. In addition to The Mephisto Waltzes, he is best known for composing a set of nineteen piano works including pieces titled “Heroide Elegiaque” and “The Rakoczy March.” For 10 points, name this piano virtuoso who wrote the Hungarian Rhapsodies.  
+
+----
+num: 4
+category: Science
+difficulty: HS
+fixed: 1
+seen: 485
+answer: {strong} nuclear force
+
+A "residual" form of this phenomenon is modeled through the exchange of virtual pions and may be approximated by the Yukawa potential. This interaction's gauge group is SU(3). This interaction leads to charmonium and the J/psi particle. Characterized by confinement and asymptotic freedom, this force, modeled by QCD, results from color charge and is mediated by gluons. For 10 points, name this fundamental force which holds together particles like quarks to form hadrons such as protons and neutrons.
+
+----
+num: 5
+category: Trash
+difficulty: HS
+fixed: 1
+seen: 1028
+answer: women's {figure skating}
+
+One past rivalry in this sport was between American Linda Fratianne and East German Anett Pötzsch, while a 1988 competition in this sport was nicknamed the “Battle of the Carmens.” Surya Bonaly never managed better than fourth at the Olympics in this sport. Irina Slutskaya earned a silver medal in this sport at the Turin Olympics, which were another disappointment for a competitor once defeated by Tara Lipinski. For 10 points, identify this sport whose other champions have included Kristi Yamaguchi, Sarah Hughes, and Michelle Kwan.
+
+----
+num: 6
+category: History
+difficulty: HS
+fixed: -1
+seen: 413
+answer: {Rameses} II [or {Rameses} the {Great}, prompt on “{Rameses}”]
+
+This man constructed a temple at Beit el-Wali to commemorate his campaigns in Nubia. This ruler signed a peace treaty with the king Hattusili III roughly fifteen years after he fought Muwatallis II  and the Hittites at the Battle of Kadesh. This son of Seti I constructed the largest tomb in the Valley of the Queens for his wife Nefertari. Ruling for sixty-six years in the thirteenth century B.C., for 10 points, identify this Egyptian pharaoh of the nineteenth dynasty known for his temples at Abu Simbel and for being identified with the pharaoh in the Biblical book of Exodus.
+
+----
+num: 7
+category: Fine Arts
+difficulty: HS
+fixed: 57
+seen: 493
+answer: Fauvism
+
+One work from this movement depicts a green city in the background over water divided into red, yellow, and blue sections. In addition to Charing Cross Bridge by Andre Derain, one painting from this movement depicts a dark-haired woman in red with a stripe down her face, while another depicts nudes laying in a yellow field with a pink tree at the right. Exemplified by the paintings The Green Line and The Joy of Life, for 10 points, identify this art movement that took its name from the French for "wild beasts" and was led by Henri Matisse.
+
+----
+num: 8
+category: Literature
+difficulty: HS
+fixed: 57
+seen: 447
+answer: {Okonkwo}
+
+This character becomes angry when his son takes the new name “Enoch,” and he gained fame by defeating Amalinze the Cat in a great wrestling match. This character spent seven years in exile after his gun accidentally went off and killed a boy in his clan, and this figure breaks the week of peace by beating his wife for not cooking him dinner. This character participated in the killing of Ikemefuna, and his biggest fear is becoming like his father Unoka. The father of Nwoye and a member of the Umuofia clan, for 10 points, identify this Ibo who resisted British colonizers, the protagonist of Chinua Achebe's novel Things Fall Apart.
+
+----
+num: 9
+category: History
+difficulty: HS
+fixed: 57
+seen: 409
+answer: {Denmark}
+
+According to legend, this country's current flag was adopted after it fell from the sky during a war against Estonia. This country signed the Treaty of Stralsund when its king, Valdemar IV, was defeated by the Hanseatic League. During the Thirty Years War, this country fought on the Protestant side under King Christian IV. English kings from this country included Sweyn Forkbeard, and it lost a war against Bismarck over control of Schleswig and Holstein, which form its southern border with Germany. For 10 points, name this country with capital Copenhagen.
+
+----
+num: 10
+category: Science
+difficulty: HS
+fixed: 1
+seen: 485
+answer: {recursion} [accept word forms, accept {dynamic programming} before mention]
+
+The use of this technique to solve optimization problems is evaluated by the Bellman equation and is known as dynamic programming. This programming technique has a tail form that can always be converted to loops. Functions that are effectively calculable by this process via the lambda calculus are the subject of the Church-Turing thesis. A method for finding the factorial of n uses this technique by multiplying n by the factorial of n - 1 until the function hits its base case. For 10 points, name this programming technique invoked when a function calls itself.
+
+----
+num: 11
+category: History
+difficulty: HS
+fixed: 1
+seen: 488
+answer: political {parties}
+
+Giovanni Sartori invented a method for classifying systems of these entities based on number and degree of fragmentation, while Maurice Duverger distinguished between “cadre” and “mass” ones and devised a namesake “law” about how a first-past-the-post structure would lead to having two of them. Edmund Burke was among the first to formally define these entities, which George Washington openly distrusted and refused to join. Examples of them include the Egyptian Wafd, the Taiwanese Guomindang, the Israeli Likud and Kadima, the Syrian Ba'th, and the Indian BJP. For 10 points, identify these political organizations that run candidates in elections, such as the Whig and Democratic ones.
+
+----
+num: 12
+category: Science
+difficulty: HS
+fixed: 1
+seen: 487
+answer: {lysosome}
+
+This organelle can malfunction in a disease sometimes called acid maltase deficiency in which it fails to break down glycogen. Another disease associated with this organelle may be treated by letting sialidase metabolize GM2 gangliosides. Proteins destined for this organelle are tagged with mannose-6-phosphate. A disease caused by a hexosaminidase A deficiency in this organelle results in a retinal red spot and death by the age of four, Tay-Sachs. It uses membrane proton pumps to keep its internal pH at 5. For 10 points, name these digestive organelles.
+
+----
+num: 13
+category: History
+difficulty: HS
+fixed: 57
+seen: 418
+answer: Most Serene Republic of {Venice} [or Serenissima Repubblica {di Venezia}; prompt on “La Serenissima”]
+
+During the Crusades, this city and Jerusalem signed the Pactum Warmundi alliance. This city disputed King Imre I of Hungary for control of Zara. The League of Cambrai was formed against this city. Under its leader Enrico Dandalo, this city funded the Fourth Crusade, which ultimately sacked Constantinople. Its patron saint is Mark, for whom its cathedral is named. It was founded by Romans who escaped the Goths by moving to a marsh, and its leaders were called doges. For 10 points, name this northern Italian city famous for its gondolas and canals.
+
+----
+num: 14
+category: Geography
+difficulty: HS
+fixed: None
+seen: 721
+answer: Colorado
+
+This state's Trail Ridge Road is the highest highway in the United States. This state contains Mt. Harvard, Mt. Princeton, and Mt. Yale in its Collegiate Peaks range, and its national parks include Great Sand Dunes and Black Canyon of the Gunnison. Containing Dinosaur National Monument on its western border and the historic Mesa Verde, its highest peak is Mt. Elbert, though another mountain in this state inspired “America the Beautiful.” For 10 points, identify this state, home to Pike's Peak, which contains the cities of Aurora, Boulder, and its capital, Denver.
+
+----
+num: 15
+category: Literature
+difficulty: HS
+fixed: 1
+seen: 439
+answer: {Jane Eyre}
+
+This character has a traumatic experience when she is locked in the supposedly haunted "Red Room" where her uncle John Reed died. This character's future husband blames a torn wedding veil on the drunken Grace Poole. This character's friend Helen Burns dies in her arms due to the poor facilities provided by the stingy Mr. Brocklehurst who oversees Lowood School. After living with her cousin St. John Rivers, this character returns to Thornfield to marry Mr. Rochester. For 10 points, name this governess and title character of a Charlotte Bronte novel.
+
+----
+num: 16
+category: Philosophy
+difficulty: HS
+fixed: 57
+seen: 516
+answer: The {Leviathan} or the {Matter}, {Forme} and {Power} of a {Common Wealth Ecclesiasticall} and {Civil}
+
+This work notes the similarity between "one action of many men and the many actions of one multitude" in the section titled "Of the Difference of Manners." This work's fourth part considers scriptural misinterpretation, which can bring about the "Kingdom of Darkness." This work's posthumous follow-up consisted of a dialogue between A and B about the nature of rebellion. This work includes the phrase "bellum omnium contra omnes" and asserts that life is "solitary, poor, nasty, brutish and short." For 10 points, identify this book advocating an absolute monarchy by Thomas Hobbes.
+
+----
+num: 17
+category: History
+difficulty: HS
+fixed: 57
+seen: 413
+answer: John {Tyler}
+
+This president was earlier the only senator to vote against a bill that authorized Andrew Jackson to use force if necessary to end the nullification crisis. Two members of this man's cabinet were killed in an explosion on the USS Princeton, which was testing an experimental new cannon, and he vetoed all attempts to create a Third National Bank, despite being elected on a Whig ticket against Martin Van Buren. For 10 points, name this man, who became president on the death of William Henry Harrison, whose name completes the slogan “Tippecanoe and [him] too.”
+
+----
+num: 18
+category: Science
+difficulty: HS
+fixed: 57
+seen: 482
+answer: {polarity} [accept word forms]
+
+The mobile phase of HPLC may be optimized using an index named for Snider and this property. Amphipathic molecules typically have one group with this property and one without. A molecule acquires this property by possessing an uneven charge distribution, leading to an electric dipole, which owes to differences in electronegativity; that is why water, but not methane, possesses this property. For 10 points, give this term which, when applied to a chemical bond, refers to the degree to which electrons are equally shared.
+
+----
+num: 19
+category: Religion
+difficulty: HS
+fixed: 57
+seen: 447
+answer: {Daoism} [or {Taoism}]
+
+One figure from this religion asked his servant to watch his corpse for seven days and wait for his spirit to return, but the servant burnt the body after six and a half days. Iron Crutch Li lives on Mount Panglai as one of this religion's Eight Immortals. Moderation, compassion, and humility form this religion's Three Jewels, and its supreme god is the Jade Emperor. One of this religion's tenets meaning “without action” is called “wu wei” and is outlined in its central text, the Tao Te Ching. For 10 points, name this eastern religion founded by Laozi.
+
+----
+num: 20
+category: Literature
+difficulty: HS
+fixed: 57
+seen: 449
+answer: The {Bell Jar}
+
+In this novel, Joan Gilling hangs herself after the protagonist starts hemorrhaging after sleeping with a Harvard professor named Irwin. The protagonist has a failed romance with Constantin and abandons Buddy Willard after he gets tuberculosis. The novelist Philomela Guinea pays for the main character to see Dr. Nolan after Dr. Gordon forced her to undergo electroshock therapy. Its protagonist interns at the Ladies' Day magazine in New York City during the summer of the Rosenbergs. For 10 points, name this novel about Esther Greenwood by Sylvia Plath.
+
+----
+num: 21
+category: History
+difficulty: HS
+fixed: 1
+seen: 421
+answer: {Mali}
+
+This empire's capital has been repeatedly sacked by the Tuareg peoples, most recently in 1997. One ruler of this empire sponsored mysterious sea voyages and eventually disappeared while leading a large fleet into the Atlantic. The founder of this empire defeated Sumangaru at the Battle of Kirina. Apart from Sundiata, another ruler of this empire was Mansa Musa, who brought so much gold on his hajj to Mecca that he caused the price of gold to plummet. For 10 points, name this African empire whose capital was Timbuktu.

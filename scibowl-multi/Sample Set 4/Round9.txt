@@ -1,0 +1,629 @@
+####
+tournament: Sample Set 4
+round: Round9.pdf
+####
+
+num: 2
+category: Earth and Space
+difficulty: HS
+answer: Y) Vertisols
+
+A geologic map uses a combination of lines, symbols and colors to show the composition and structure of earth materials across and beneath the 
+Earth’s surface. Which of the following would NOT be included on a geologic bedrock map?
+W) Limestone
+X) Granite
+Z) Y) 
+SVertisolslate
+
+----
+num: 2
+category: Life Science
+difficulty: MS
+seen: 1
+answer: X) Tissues
+
+Muscle, connective, nerve, and epithelial are four basic types of animal:
+W) Cells
+X) Tissues
+Y) Organs
+Z) Organ systems
+
+----
+num: 3
+category: Physics
+difficulty: HS
+seen: 1
+answer: Y) Both Vehicles Experience the Same Force
+
+A golf cart and a fire truck collide. Which vehicle experiences a greater force in the collision?
+W) Golf cart
+X) Fire truck
+Y) Both vehicles experience the same force
+Z) Depends on the speeds of the vehicles
+
+----
+num: 3
+category: Physics
+difficulty: HS
+answer: W) the Light Marble
+
+
+Before a light marble and a heavy marble experience a head -on elastic collision, the heavy marble has a much higher speed than the light marble. During the collision, which marble experiences greater ac celeration?
+W) The light marble
+X) The heavy marble
+Y) Both experience the same acceleration
+Z) In an elastic collision, neither marble accelerates
+
+----
+num: 4
+category: Chemistry
+difficulty: HS
+seen: 1
+answer: X)  Beryllium Acetate
+
+Which of the following compounds is insoluble in water?
+W) Barium acetate
+X) Beryllium acetate
+Y) Lead acetate
+Z) Silver acetate
+
+----
+num: 4
+category: Energy
+difficulty: MS
+answer: Z) an Incentive Program That Credits or Pays Customers Who 
+Wish to Supplement the Utility's Electricity With Their Own Sources
+
+Utility companies have adopted a net metering approach with consumers who have renewable sources connected to the electric network. What is net metering?
+W) A program in which people pay for total energy consumption rather than per unit consumption
+X) A program in which people donate a certain amount of funds to those who have trouble paying for their electricity bill
+Y) The power company’s method to reduce consumption during peak periods
+Z) An incentive program that credits or pays customers who wish to supplement the utility's electricity with their own sources
+
+----
+num: 4
+category: Energy
+difficulty: MS
+answer: X) Work
+
+A perfectly efficient engine would transform the chemical energy in gasoline into:
+W) Heat
+X) Work
+Y) Motion
+Z) Electricity
+
+----
+num: 5
+category: Biology
+difficulty: HS
+answer: Z) the Herring Used the Energy of Its Food for Metabolic 
+Processes and Entropy
+
+Salmon dine on smaller fish like tiny herring, thus acquiring the energy in the herring’s meat. The herring ate a lot of food energy over its lifetime that was not transferred to the salmon, however. What happened to that ener gy?
+W) The energy was destroyed by electrical impulses
+X) The herring converted the energy to oxygen 
+Y) The herring converted the energy to carbon dioxide
+Z) The herring used the energy of its food for metabolic processes and entropy
+
+----
+num: 5
+category: Biology
+difficulty: HS
+answer: W) They Are Sustainable Locations for Deep-Sea Fishing
+
+
+Underwater mountains called seamounts provide a solid surface to cling to for many kinds of marine animals. Seamounts are important for all of the f ollowingreasons , except:
+W) They are sustainable locations for deep-sea fishing 
+X) They may be breeding grounds 
+Y) They support distinctive groups of animals, including corals
+Z) Their altitude they causes complex current patterns
+
+----
+num: 5
+category: General Science
+difficulty: MS
+answer: Y) Inversely Proportional to Molecular Mass
+
+
+At a given temperature, the velocity of gases is:
+W) Directly proportional to molecular size
+X) Indirectly proportional to molecular size
+Y) Inversely proportional to molecular mass 
+Z) Directly proportional to molecular mass
+
+----
+num: 7
+category: Chemistry
+difficulty: HS
+answer: Z) They Change the Amount of Product That Is Produced
+
+
+Which of the following is NOT true about enzymes?
+W) They catalyze most of the chemical changes that occur in a cell
+X) They are unchanged by the reaction they catalyze
+Y) They do not change the normal equilibrium positio n of a chemical system
+Z) They change the amount of product that is produced
+
+----
+num: 7
+category: Life Science
+difficulty: MS
+seen: 1
+answer: X) Bacteria
+
+Which of the following organisms is not a eukaryote (read a s: yuh-KEHR-ee-ōt)?
+W) Protist
+X) Bacteria
+Y) Fungi
+Z) Plant
+
+----
+num: 8
+category: Physics
+difficulty: HS
+answer: Y) John Has Twice a S Much Kinetic Energy as Carl
+
+John has twice the mass of Carl. They jump off a cliff into the water bel ow. Just before the splash:
+W) John has half as much kinetic energy as Carl 
+X) John and Carl have the same kinetic energy
+Y) John has twice as much kinetic energy as Carl
+Z) John has four times as much kinetic energy as Carl
+
+----
+num: 8
+category: Physics
+difficulty: HS
+answer: Y) It Is the Same Before and After the Crash
+
+In a safety crash test, a big truck and a small car have a head-on collision. What can we say about total system momentum?
+W) It is equal to zero
+X) It is less after the crash than before the crash
+Y) It is the same before and after the crash
+Z) It is more after the crash than before the crash
+
+----
+num: 8
+category: Energy
+difficulty: MS
+answer: W) Aluminum Can
+
+Which of the following items, commonly found in most American households, represents significant energy input if made from its common ore; however, recycling this item saves enough energy to run a TV for 3 hours.
+W) Aluminum can
+X) Glass bottle
+Y) Plastic jug
+Z) Tin can
+
+----
+num: 9
+category: Energy
+difficulty: HS
+seen: 1
+answer: X) Coal
+
+Which of the following produces the largest share of electric power generation in the U.S.?
+W) Natural gas
+X) Coal
+Y) Nuclear power
+Z) Hydropower
+
+----
+num: 9
+category: Energy
+difficulty: HS
+seen: 1
+answer: X) Methane Extraction From Methane Hydrate Has Been 
+Documented in Large-Scale Field Experime Nts
+
+
+Methane hydrate is a cage-like lattice of ice inside which are trapped molecules of methane, the chief c onstituent of natural gas. Which of the following is 
+NOT true about methane hydrate?
+W) Deposits generally occur beneath Arctic permafrost and the ocean floor
+X) Methane extraction from methane hydrate has been documented in large-scale field experiments 
+Y) If pressures are high enough, it is stable far above the melting point of water ice
+Z) The energy content of methane hydrate is very high
+
+----
+num: 11
+category: Physics
+difficulty: HS
+seen: 1
+answer: X) It Decreases
+
+
+When a fighter pilot fires on a plane directly in front of her, the momentum of the fighter pilot and her plane changes in what way?
+W) It increases
+X) It decreases
+Y) It stays the same
+Z) It changes direction
+
+----
+num: 11
+category: Life Science
+difficulty: MS
+answer: W) Prokaryotes
+
+Most scientists believe that protists evolved from which of the following?
+W) Prokaryotes (read as: prōe-KAHR-ee-ōets)
+X) Fungi
+Y) Plants
+Z) Euglenoids (read as: yuh-GLEE-nohids)
+
+----
+num: 11
+category: Life Science
+difficulty: MS
+answer: X) Moisture
+
+
+Protist habitats are often characterized by the presence of which of the following?
+W) Soil
+X) Moisture
+Y) Algae
+Z) High altitude
+
+----
+num: 12
+category: Energy
+difficulty: HS
+answer: Z) Organic Sediment Transformed Over Time by Bacteria, 
+Pressure, and Temperature
+
+Petroleum comes from:
+W) Accumulated carbon rich plant materials
+X) Dinosaur remains
+Y) Meteorite rocks that impacted the Earth millions of years ago found deep underground
+Z) Organic sediment transformed over time by bacteria, pressure, and temperature
+
+----
+num: 12
+category: Energy
+difficulty: HS
+answer: Z) 86%
+
+Unleaded gasoline pumped at a filling station comes from crude oil. About what percentage of the oil’s original energy content is present in gasoline when it is pumped into the vehicle at the station ?
+X) 36W) 13%%
+Y) 50%
+Z) 86%
+
+----
+num: 12
+category: General Science
+difficulty: MS
+answer: Z) Organic Matter
+
+What substance most commonly makes soil black?
+W) Minerals
+X) Burned wood
+Y) Clay
+Z) Organic matter
+
+----
+num: 13
+category: Math
+difficulty: HS
+seen: 1
+answer: X) 8
+
+The length of a rectangle is 5 inches less than twice the width. 
+What is the width in inches if the perimeter is 38 inches?
+W) 5 
+X) 8 
+Y) 11 
+Z) 14
+
+----
+num: 13
+category: Math
+difficulty: MS
+answer: Y)  S Times R Is Less Than 0
+
+On a number line, the coordinate of S is -6 and the coordinate of Ris 3. Which statement is true?
+W) S divided by R is greater than 0
+X) R minus S is less than 0
+Y) S times R is less than 0
+Z) S plus R is greater than 0
+
+----
+num: 14
+category: Energy
+difficulty: HS
+answer: X) Space Heating
+
+Of the following choices, what is the primary direct use of geothermal energy?
+W) Aquaculture
+X) Space heating
+Y) Gold mining
+Z) Dehydration of vegetable and fruit products
+
+----
+num: 14
+category: Energy
+difficulty: HS
+answer: Z) Consistent Water Circulation Enables Year -Round Harvesting 
+of Consistently-Sized Fish
+
+Aquaculture applications for geother mal energy are particularly promising for all of the following reasons, except:
+W) A variety of freshwater or marine organisms can be raised
+X) There is an abundance of geothermal resources at the required temperature range
+Y) Consistent water temperatures increase survival rates
+Z) Consistent water circulation enables year-round harvesting of consistently-sized fish
+
+----
+num: 15
+category: Earth and Space Science
+difficulty: MS
+answer: W) Troposphere
+
+Most of the mass of Earth’s atmosphere is located in which of the following layers?
+W) Troposphere
+X) Mesosphere
+Y) Thermosphere
+Z) Stratosphere
+
+----
+num: 15
+category: Earth and Space Science
+difficulty: MS
+answer: Z) It Sinks, Creating a High Pressure System Near the Surface
+ 
+
+Which of the following is true about air over the north and south poles?
+W) It evaporates at a much faster rate than air found elsewhere
+X) It rises, creating a region of high snowfall
+Y) It freezes and falls to earth as ice, forming the ice sheets
+Z) It sinks, creating a high pressure system near the surface
+
+----
+num: 16
+category: Biology
+difficulty: HS
+answer: X) Habituation
+
+The common shore ragworm only leaves its sandy tube to feed. 
+If a shadow passes overhead, it will quickly return to the safety of its burrow. If the shadow passes overheard repeatedly and nothing happens, the worm will eventually ignore the shadow. 
+This type of lear ning is called:
+W) Sensitization
+X) Habituation
+Y) Conditioned response
+Z) Mimicry
+
+----
+num: 16
+category: Physical Science
+difficulty: MS
+answer: Y) the Prism Separates the White Light Into Its Component Parts
+
+Which of the following explains why w hite light entering a prism exits and projects a rainbow ?
+W) The prism's crystal lattice colors the white light, like stained glass
+X) Different parts of the prism absorb different colors of light
+Y) The prism separates the white light into its component parts
+Z) The prism acts as a polarizing filter
+
+----
+num: 17
+category: General Science
+difficulty: MS
+answer: Z) Powdered Sugar
+
+
+Which of the following substances does not react with either vine gar or iodine?
+W) Baking soda
+X) Baking powder
+Y) Cornstarch
+Z) Powdered sugar
+
+----
+num: 18
+category: Earth and Space
+difficulty: HS
+seen: 1
+answer: Y) Coastal Antarctic
+
+Which of the following marine environments has the fewest trophic levels?
+W) Coastal Arctic
+X) Subtropical gyre
+Y) Coastal Antarctic
+Z) Peruvian upwelling zone
+
+----
+num: 18
+category: Life Science
+difficulty: MS
+answer: W ) Endocytosis
+
+Which of the following proces ses is NOT classified as passive transport?
+W) Endocytosis (read as: EHN-doh-sy-TŌE-sis)
+X) Facilitated diffusion
+Y) Filtration
+Z) Osmosis
+
+----
+num: 20
+category: Chemistry
+difficulty: HS
+seen: 1
+answer: X) Iron Ii Chloride
+
+Which of the follow ing compounds has the lowest solubility product constant at pH 7?
+W) Sodium carbonate
+X) Iron II chloride
+Y) Magnesium chloride
+Z) Ammonium nitrate
+
+----
+num: 20
+category: General Science
+difficulty: MS
+answer: W) Beaker, Hot Plate, and Thermometer
+
+Which of the following sets of equipment could be used to measure the boiling point of a liquid ?
+W) Beaker, hot plate, and thermometer
+X) Balance, thermometer, and test tube
+Y) Stopwatch, test tube, and microscope
+Z) Test tube, hot plate, and balance
+
+----
+num: 20
+category: General Science
+difficulty: MS
+seen: 1
+answer: Z) Condensation
+
+Which of the following p rocesses releases energy?
+W) Evaporation
+X) Melting
+Y) Boiling
+Z) Condensation
+
+----
+num: 21
+category: Math
+difficulty: MS
+answer: Y) Range
+
+Considering a number set {1,2,4,7,50}, which of the following values is the largest?
+X) 
+Y) W)
+RMManedianeange
+Z) Third quartile
+
+----
+num: 22
+category: Earth and Space
+difficulty: HS
+answer: X) Gas Near the Sun’s Higher Latitudes Rotate More Quickly Than 
+Gas Near Its Equator
+
+Which of the following is NOT true about the Sun?
+W) It vibrates in multiple modes like a bell that is repeatedly struck
+X) Gas near the Sun’s higher latitudes rotate more qu ickly than gas near its equator
+Y) It contains about 99% of the mass in the solar system
+Z) It is magnetic
+
+----
+num: 22
+category: General Science
+difficulty: MS
+answer: X) Coastal Greenland
+
+In which of the following locations would you expect a scientist who was studying tundra to col lect his or her samples?
+W) The Pacific Ocean
+X) Coastal Greenland
+Y) The tropics
+Z) The Sahara
+
+----
+num: 23
+category: Biology
+difficulty: HS
+seen: 1
+answer: Z) Fly Wing
+
+The bones of a human forearm are homologous to all of the following structures except for a:
+W) Whale flipper
+X) Dog forelimb
+Y) Bat wing 
+Z) Fly wing
+
+----
+num: 23
+category: Physical Science
+difficulty: MS
+answer: X) Nuclear  Fission
+
+When you bombard uranium-235 with a slow-moving neutron, the resulting atomic change is called:
+W) Nuclear fusion
+X) Nuclear fission
+Y) Electron addition
+Z) Nuclear degradation
+
+----
+num: 23
+category: Physical Science
+difficulty: MS
+answer: Y) Nuclear  Binding Energy
+ 
+
+In nuclear chemistry, a mass defect exists due to:
+W) The high energy of electrons
+X) Unsymmetrical configurations
+Y) Nuclear binding energy
+Z) Weak nuclear forces
+
+----
+num: 24
+category: Chemistry
+difficulty: HS
+seen: 1
+answer: W) Yellow to Green
+
+In what range of colors do fireflies generally emit light?
+W) Yellow to green
+X) Orange to red
+Y) Red to blue
+Z) Blue to violet
+
+----
+num: 24
+category: Chemistry
+difficulty: HS
+answer: X) Bioluminesence Occurs in Living Organisms and Requires an 
+Enzyme Catalyst
+
+What are the two conditions that distinguish bioluminescence from chemiluminescence (read as: keh-mee-luh-mi-NEH-sehns)?
+W) Bioluminescence occurs in living orga nisms and has hydrogen as a common reactant
+X) Bioluminescence occurs in living organisms and requires an enzyme catalyst
+Y) Bioluminescence occurs in living organisms and involves the emission of light at a lower energy than chemiluminescence (read as: keh-mee-luh-mi-NEH-sehns)
+Z) Bioluminescence occurs uniquely in living organisms and has oxygen as a common reactant
+
+----
+num: 24
+category: Earth and Space Science
+difficulty: MS
+answer: Y) 100,000
+
+What is the approximate air pressure at the surface of the Earth in pascals?
+W) 5,000 
+X) 10,000 
+Y) 100,000 
+Z) 500,000
+
+----
+num: 25
+category: Biology
+difficulty: HS
+answer: W) It Is an Inadvertent Product of Collecting Food
+
+Bees are essential pollinators, pollinating approximately 80% of flowering agricultural crops. Why do bees pollinate?
+W) It is an inadvertent product of collecting food
+X) Bees benefit when plants procreate
+Y) Bees harvest the fruits for food
+Z) It is an inadvertent product of mating
+
+----
+num: 25
+category: Biology
+difficulty: HS
+seen: 1
+answer: Z) Some Species Are Only Pollinated by Honey Bees and Would 
+Therefore Need to Be Hand Pollinated or Face Extinction
+
+In recent years, honey bee populations have been decreasing. 
+What impact would the extinction of honey bees have on human agriculture?
+W) Different types of pollinators could be used; there would be no impact on agriculture
+X) All honey bee pollinated plants would go extinct
+Y) Plants would asexually reproduce instead; there would be no impact on agriculture
+Z) Some species are only pollinated by honey bees and would therefore need to be hand pollinated or face extinction
+
+----
+num: 25
+category: Earth and Space Science
+difficulty: MS
+answer: W) Using Too Much Well Water in a Short Time Can Over-Pump the 
+F Resh Groundwater, Drawing Seawater Into the Well
+
+Which of the following is a major concern for oceanfront homes using well water and septic tanks?
+W) Using too much well water in a short time can over-pump the fresh groundwater, drawing seawater into the well
+X) Water systems of coastal homes are particularly susceptible to pollution due to excessive toilet flushing 
+Y) Washing food into the sink drain will attract crabs and fish into the septic tank and lead to infestations 
+Z) Dishwashers must only be run with the incoming tide so the food from the plates can be washed out with the outgoing tide

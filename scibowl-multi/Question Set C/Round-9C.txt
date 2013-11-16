@@ -1,0 +1,296 @@
+####
+tournament: Question Set C
+round: Round-9C.pdf
+####
+
+num: 3
+category: Biology
+difficulty: HS
+seen: 1
+answer: W)  Vascular Tissue
+
+Which of the following is missing in bryophytes and is anevolutionary advancement of higher plants:
+W) vascular tissue
+X) epidermal tissue
+Y) chloroplasts
+Z) plasmodesmata (read as: PLAS-mo-dez-MAH-tah)
+
+----
+num: 5
+category: Earth Science
+difficulty: HS
+seen: 1
+answer: W)  Ephemeral
+
+What type of stream only bears water during and immediately after a rainstorm:
+W) ephemeral
+X) intermittent
+Y) perennial
+Z) dendritic
+
+----
+num: 5
+category: Earth Science
+difficulty: HS
+seen: 1
+answer: Z)  Spring High Tides Typically Have Greater Ranges in the 
+Northern Hemisphere During Summer Than During Winter
+(Solution:  During Winter at Perihelion, Earth Is Closer to the Sun)
+
+Which of the following is NOT true about ocean tides:
+W) the Moon’s influence on Earth’s tides is about 2-times greater than the Sun’s influence
+X) a complete tidal day is about 24 hours 50 minutes long
+Y) some coastlines have 2 high tides and 2 low tides each lunar day whereas some have only have 1 high tide and 1 low tide each lunar day
+Z) spring high tides typically have greater ranges in the Northern Hemisphere during summer than during winter
+
+----
+num: 6
+category: General Science
+difficulty: HS
+seen: 1
+answer: X)  Dopamine Will Not Cross the Blood Brain Barrier
+
+Which of the following is the BEST reason why 
+Parkinson’s disease cannot be treated by simply administering dopamine into the blood stream:
+W) dopamine’s blood half-life is too short
+X) dopamine will not cross the blood brain barrier
+Y) dopamine is the precursor to the real effective transmitter in Parkinson’s disease
+Z) it is not known why dopamine will not work if administered directly into the blood
+
+----
+num: 7
+category: Astronomy
+difficulty: HS
+seen: 1
+answer: Z)  Spitzer Infrared Spectrograph
+
+Which of the following was the primary instrument used to gather 5 to 35 micrometer spectra data from the Deep Impact mission:
+W) Chandra X-ray observatory
+X) Arecibo radio telescope
+Y) Hubble gamma-ray telescope
+Z) Spitzer infrared spectrograph
+
+----
+num: 8
+category: Physics
+difficulty: HS
+seen: 1
+answer: X) 1.9  × 10^8^
+(Solution: 3.00 × 10^8/1.55 = 1.9 × 10^8)
+
+What is the speed of light in meters per second for monochromatic li ght of 780 nanometers in glass with a refractive index of 1.55:
+W) 1.5 × 10^8 
+X) 1.9 × 10^8
+Y) 4.65 × 10^7
+Z) 4.65 × 10^8
+
+----
+num: 9
+category: Chemistry
+difficulty: HS
+seen: 1
+answer: Z)  Co^2
+
+Which of the following is a nonpolar molecule:
+W) HCN
+X) HBr
+Y) CHCl^3
+Z) CO^2
+
+----
+num: 9
+category: Chemistry
+difficulty: HS
+seen: 1
+answer: W)  C
+^Nh
+^2n
+
+Which of the following is the general formula for a noncyclic alkene (read carefully as: al -KEEN) with n number of carbon atoms:
+W) C^nH^2n
+X) C^nH^2n+2
+Y) C^nH^2n–^2
+Z) C H ^n ^2n+1
+
+----
+num: 10
+category: Biology
+difficulty: HS
+seen: 1
+answer: Y)  in the Mitochondrion
+
+The conversion of pyruvate to Acetyl Co-A occurs:
+W) in the cytosol
+X) in the ER
+Y) in the mitochondrion
+Z) in the lysosome
+
+----
+num: 12
+category: Earth Science
+difficulty: HS
+seen: 1
+answer: Z)  Trilobites Are an Important Index Fossil of the Mesozoic Era
+
+Which of the following is LEAST accurate regarding paleontology:
+W) endothermic mammals thrived during the Cenozoic Era
+X) the fossil records of birds is poor because of their thin bones and lack of teeth
+Y) the mastodon was a Proboscidian mammal of the Cenozoic Era
+Z) trilobites are an important index fossil of the Mesozoic Era
+
+----
+num: 12
+category: Earth Science
+difficulty: HS
+seen: 1
+answer: X)  Eskers
+
+Deposited by subglacial streams, ridges of sand and gravel that form beneath the ablation zone of a glacier are called:
+W) cirques
+X) eskers
+Y) horns
+Z) kames
+
+----
+num: 13
+category: General Science
+difficulty: HS
+seen: 1
+answer: W)  Activated Charcoal
+
+Which of the following is MOST commonly used for removing many organic compounds in water in municipal water treatment plants:
+W) activated charcoal
+X) precipitation reactions
+Y) reverse osmosis
+Z) dredging
+
+----
+num: 13
+category: General Science
+difficulty: HS
+seen: 1
+answer: Z)   Listeria Is a Waterborne Parasite
+(Solution:  It Is Food-Borne)
+
+Which of the following is NOT true:
+W) the epilimnion is the upper warm layer of water of a lake in summer
+X) in cameras, the larger the f-number, the greater the depth of field
+Y) crab grass is better adapted to hot dry weather than Kentucky blue grass
+Z) Listeria is a waterborne parasite
+
+----
+num: 14
+category: Astronomy
+difficulty: HS
+seen: 1
+answer: Y)  Earth’s Aphelion Occurs on the Summer Solstice
+
+Which of the following is LEAST accurate:
+W) recent evidence suggests a subsurface salty ocean is present on the Moon Europa
+X) spiral galaxies are actively forming stars
+Y) Earth’s aphelion occurs on the summer solstice
+Z) Julian days are often used as the time reference on light curves of stars
+
+----
+num: 14
+category: Astronomy
+difficulty: HS
+answer: Y)  Cooler Summers and Warmer Winters
+
+What would happen in the mid-northern latitudes if the tilt of the Earth’s axis decreased by 15 degrees:
+W) warmer summers and warmer winters
+X) cooler summers and cooler winters
+Y) cooler summers and warmer winters
+Z) colder summers and colder winters
+
+----
+num: 15
+category: Physics
+difficulty: HS
+seen: 1
+answer: W)  When White Light Is Passed Through a Diffraction Grating, 
+Shorter Wavelengths Are Diffracted the Most
+
+Which of the following is generally NOT true regarding diffraction of light:
+W) when white light is passed through a diffraction grating, shorter wavelengths are diffracted the most
+X) diffraction is wavelength dependent
+Y) if laser light is passed through a diffraction grating it will produce an interference pattern as a series of dots on a screen
+Z) white light passing through a diffraction grating is spread into a rainbow of colors
+
+----
+num: 16
+category: Chemistry
+difficulty: HS
+seen: 1
+answer: X)  Gas Mixtures
+
+Dalton’s gas law applies primarily to:
+W) non-ideal gases
+X) gas mixtures
+Y) density of gases
+Z) molar mass of gas
+
+----
+num: 16
+category: Chemistry
+difficulty: HS
+seen: 1
+answer: X)  Peroxides
+
+The oxidation number of oxygen is –1 in:
+W) normal oxides
+X) peroxides
+Y) superoxides
+Z) lithium oxide
+
+----
+num: 17
+category: Biology
+difficulty: HS
+seen: 1
+answer: Z)  Non -Nucleated Thermophiles
+
+According to the 3 domain system of classification with the 3 domains being, Archaea, Bacteria and Eukarya, which of the following would be LEAST likely to belong to the domain Bacteria:
+W) chlamydia
+X) spirochetes (read as: spy-row-keets)
+Y) gram positive bacteria
+Z) non-nucleated thermophiles
+
+----
+num: 17
+category: Biology
+difficulty: HS
+seen: 1
+answer: Z)  Calvin Cycle
+
+In which of the following does the RUBISCO enzyme play a central role:
+W) Photosystem One
+X) Electron Transport
+Y) Photosystem Two
+Z) Calvin Cycle
+
+----
+num: 19
+category: Earth Science
+difficulty: HS
+seen: 1
+answer: Y)  the Easterly Trade Winds
+
+A hurricane originating in the Eastern tropical Atlantic is driven westward by:
+W) the intertropical convergence zone
+X) the prevailing westerlies
+Y) the easterly trade winds
+Z) the doldrums
+
+----
+num: 19
+category: Earth Science
+difficulty: HS
+seen: 1
+answer: X)  Galena
+
+Which of the following is NOT a silicate:
+W) mica
+X) galena
+Y) olivine
+Z) potassium feldspar

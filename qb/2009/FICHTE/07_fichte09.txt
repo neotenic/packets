@@ -1,0 +1,264 @@
+####
+tournament: FICHTE
+round: 07_fichte09.doc
+year: 2009
+####
+
+num: 1
+category: History
+difficulty: College
+fixed: None
+seen: 69
+answer: {Oda Nobunaga}
+
+This man ended guild taxation and road-tolls. He razed the main Tendai temple to diminish monastic influence. A descendant of the Fujiwaras, he first established a base of power in Owari, and struck beyond those borders by defeating Imagawa Yoshimoto using the new (*) muskets. He then built his greatest castle at Azuchi and deposed the last Ashikaga shogun before killing himself in the Honnoji incident during Mitsuhide's treachery. For 10 points, name this first Great Unifier, preceding Hideyoshi.
+
+----
+num: 2
+category: Literature
+difficulty: College
+fixed: 57
+seen: 60
+answer: “A Good {Man} is {Hard} to {Find}”
+
+The author of this story wrote an essay on it, which compares the climax to a "mustard-seed" and predicts that a "great crow-filled tree" will be formed in one character's heart. One character in this story remarks that Jesus “thrown everything off balance.” Another  blames Europe as a whole for “the way things were now” and expresses admiration for (*) barbecue owner Red Sammy, before the cat Pitty Sing frightens a driver into crashing. For 10 points, name this story which ends with the renunciation of “meanness” and shooting of the grandmother by The Misfit, written by Flannery O'Connor.
+
+----
+num: 3
+category: History
+difficulty: College
+fixed: 57
+seen: 68
+answer: {Visconti}
+
+Prior to this dynasty's victory at the Battle of Desio, Urban IV appointed one of their early members as archbishop as part of an alliance against the Della Torres. John XXII, however, used an interdict and crusade to try to dislodge this family. They divided their lands in half between the Galeazzo brothers, and in (*) 1447 their doom was sealed when their last ruler, Filippo Maria, gave emergency powers to his son-in-law Francesco Sforza. For 10 points, name these high medieval rulers of Milan.
+
+----
+num: 4
+category: Science
+difficulty: College
+fixed: None
+seen: 121
+answer: {Huffman} coding
+
+This technique cleverly avoids violation of the Kraft inequality and employs an algorithm composed of stages in which the two lowest weight packages are combined and selector bits are prefixed. It utilizes a bottom-up mechanism, unlike the top-down (*) Shannon-Fano technique. It terminates at the point in which a prefix-free state is impossible and it assigns a zero bit codeword to every symbol. For 10 points, name this process that achieves lossless data compression through a minimum-redundancy entropy coding algorithm.
+
+----
+num: 5
+category: Fine Arts
+difficulty: College
+fixed: -1
+seen: 61
+answer: {Anna Bolena} [accept {Anne Boleyn} since it's an obvious {translation} of the {title into English}]
+
+The harp accompaniment to this opera's “Deh! non voler...” aria is played on stage by a character in the story. The main character of this opera wishes that Giovanna wear a crown of thorns. A cannon is heard from a far-off wedding after Smeton visits the title character in jail. Along with the rarely performed (*) Roberto Devereaux and Maria Stuarda, this opera comprises the "Tudor Trilogy." For 10 points, name this Gaetano Donizetti work about the second wife of Henry VIII.
+
+----
+num: 6
+category: Science
+difficulty: College
+fixed: None
+seen: 79
+answer: {Bose}-{Einstein condensate} (or {BEC})
+
+Its creation and annihilation operators can be replaced by their expectation values according to the Bogoliubov approximation. The Thomas-Fermi approximation ignores the kinetic energy operator in the (*) Gross-Pitaevskii equation, which describes its zero-temperature properties. It involves the formation of a shared low energy quantum state of integer spin particles and was first observed in gaseous rubidium atoms. For 10 points, name this substance in which particles coalesce into a single quantum mechanical entity.
+
+----
+num: 7
+category: Philosophy
+difficulty: College
+fixed: 1
+seen: 51
+answer: Jose {Ortega} y {Gasset}
+
+In a late work, he quotes Cicero for a title and says that the unquestioning acceptance of the validity of the law was the basis for Roman power. In addition to Concord and Liberty, this author of The (*) Dehumanization of Art claimed that the population explosion in Europe was leading to “the barbarism of specialization.” For 10 points, name this philosopher who tried to “Europeanize” his homeland in Invertebrate Spain and wrote The Revolt of the Masses.
+
+----
+num: 8
+category: Trash
+difficulty: College
+fixed: 57
+seen: 185
+answer: {Fight Club}
+
+The ending of this film gives significance to one character wearing a rubber glove in an earlier scene. Its script called for one character to proclaim a desire for an (*) abortion, which was replaced with a reference to “grade school.” The Pierson Towers motto "a place to be somebody" and the signs for Paper Street both point to Wilmington, Delaware as its setting, as do the credit card buildings blowing up at the end. For 10 points, name this story of Tyler Durden, starring Brad Pitt and Ed Norton.
+
+----
+num: 9
+category: History
+difficulty: College
+fixed: None
+seen: 69
+answer: {Belva Lockwood}
+
+This activist wrote amendments to the Arizona, Wyoming, and Oklahoma constitutions in the same year and claimed to have been defrauded out of half of Oregon's votes. The inventor of the cold food diet, Marietta Stow, was the first VP nominee for this (*) National Equal Rights Party candidate, following her graduation from the ancestor of George Washington University's law school. For 10 points, name this suffragist who became the first woman to argue at the Supreme Court.
+
+----
+num: 10
+category: Literature
+difficulty: College
+fixed: 57
+seen: 59
+answer: Vaclav {Havel}
+
+One of his plays contains the First and Second Chaps and First and Second Sidneys, who become involved in Leopold Nettles's impending arrest for subversive writing. Dr. Balcar cries when Eduard Huml exposes the fraud of the (*) Puzuk machine in another of his plays. In addition to Largo Desolato and The Increased Difficulty of Concentration, he wrote about a social gathering of the Liquidation Office in The Garden Party. For 10 points, name this Czech dissident and politician.
+
+----
+num: 11
+category: History
+difficulty: College
+fixed: None
+seen: 70
+answer: {Sutton Hoo}
+
+The leading scholar of this site, Rupert Bruce-Mitford, wrote of spoons with Greek inscriptions and a silver dish stamped with the seal of Byzantine emperor Anastasius I that were retrieved, along with over forty gold pieces, from this cenotaph found in (*) 1939. A vassal of Penda named Athelhere or a Christian apostate named Raedwald are possible identities for the object of this site,  For 10 points, name this place near Suffolk where an East Anglian king was given a ship-burial.
+
+----
+num: 12
+category: Trash
+difficulty: College
+fixed: -1
+seen: 183
+answer: {University} of {Florida} and {University} of {Tennessee football} teams
+
+The 1995 matchup of these teams saw a huge hit and forced fumble by Lawrence Wright on Joey Kent, while a James Wilhoit field goal won the 2004 edition. The 1996 game saw the eventual national (*) champion jump out to a 35-0 lead over a team with Peerless Price and Peyton Manning, while the last four matchups have been won by teams led by Chris Leak and coached by Urban Meyer. For 10 points, name these two SEC East schools, one coached by Lane Kiffin and the other featuring Tim Tebow.
+
+----
+num: 13
+category: Mythology
+difficulty: College
+fixed: 57
+seen: 114
+answer: {Garuda}
+
+He's not Tengri, but a dance named for him accompanies rounds of traditional Mongolian wrestling. Krishna's banner contains an image of this figure, who made himself small to avoid spikes (*) on the spokes of a wheel. His stepmother Kadru imprisoned his mother in Patala and mothered the creatures this being hates. This son of Vinita and Kashyapa retrieved amrita for the nagas and gained immortality from a deal made with Vishnu. For 10 points, name this bird, the mount of Vishnu.
+
+----
+num: 14
+category: Literature
+difficulty: College
+fixed: 1
+seen: 58
+answer: Helen Hunt {Jackson}
+
+This writer's poetry includes the twelve-part "Calendar of Sonnets." Animals star in her Mammy Tittleback and Her Family and Letters From a Cat, while she depicted her friend Emily Dickinson in Mercy Philbrick's Choice. Father Gaspara agrees to perofrm a marriage between the shepherd (*) Allesandro and the biracial title character of one of her novels, who thwarts the anti-Indian Señora Moreno. For 10 points, name this author of Ramona and the history of abuses towards Indians, A Century of Dishonor.
+
+----
+num: 15
+category: Social Science
+difficulty: College
+fixed: 57
+seen: 55
+answer: {conservatives}
+
+The "dogmatics" of this kind were written of by Robert Nisbet, who is often called the leading sociologist of this type. The author of What Is Political Philosophy? and On Tyranny is often called the founder of a school with this word in its name, which the writer of The (*) Closing of the American Mind is also sometimes grouped in. The “conscience” of this type of person was described by Barry Goldwater. For 10 points, and Leo Strauss and Allan Bloom are exemplars of the alleged “neo” variety of what political stripe?
+
+----
+num: 16
+category: Social Science
+difficulty: College
+fixed: None
+seen: 52
+answer: {genomic imprinting} (prompt on {epigenetic mechanism})
+
+A proposed mechanism for its occurrence involves methylation of a CpG dinucleotide. This phenomenon has been linked to Prader-Willi and (*) Angelman syndromes and it evolutionary origins are in the struggle for control o of resource expenditure during pregnancy. In some insect species, entire parental chromosomes can be eliminated through this process. For 10 points, name this phenomenon in which an epigenetic marker regulates the allelic expression of a gene depending on its maternal or paternal origin.
+
+----
+num: 17
+category: Fine Arts
+difficulty: College
+fixed: 57
+seen: 69
+answer: {View} of {Delft}
+
+This painting can be dated to the summer of 1660 because it shows an empty bell tower, corresponding to the months when the Hemony firm took down the carillons for repair. The Old Church tower is shown much smaller than its actual size, while the New Church is twice as large as it should be. Depicting (*) rooftops on the Lange Geer canal from across the river, with several boats moored, for 10 points, name this landscape showing the hometown of painter Jan Vermeer.
+
+----
+num: 18
+category: Science
+difficulty: College
+fixed: 57
+seen: 81
+answer: specific heat capacity
+
+This value for thermally excited electrons can be obtained from Fermi-Sommerfeld theory. This value is proportional to the square of the Einstein temperature in the Einstein (*) model. According to Debye's theory of this value, it is proportional to the cube of the temperature below the Debye temperature. This value is 3 times the gas constant divided by the molar mass according to the Dulong-Petit-law. For 10 points, name this quantity that equals the ratio of the heat absorbed by a material to its change in temperature.
+
+----
+num: 19
+category: Trash
+difficulty: College
+fixed: 57
+seen: 185
+answer: Nevada
+
+In 2008, this state's third Congressional district changed hands, as incumbent Jon Porter lost to political science professor Dina Titus. Fellow Democrat Shelley Berkley and Republican Dean Heller round out its House delegation. In the 1990s, its Senator led a crusade to cut funding for SETI, and when that man retired, he was replaced by current Republican junior Senator (*) John Ensign. Its other Senator, a Democrat, is the first Mormon to be Senate Majority Leader. For 10 points, name this home state of Harry Reid.
+
+----
+num: 20
+category: Trash
+difficulty: College
+fixed: 57
+seen: 175
+answer: {Sierra Leone}
+
+One recent book by a native of this country describes the use of "brown-brown" and the experience of receiving a Run DMC tape from Nurse Esther. In addition to A Long Way Gone by former child soldier (*) Ishmael Beah, this country was featured in VH1's documentary Bling and in a 2006 film involving Captain Poison, who is involved in smuggling with Danny Archer, played by Leonardo DiCaprio. For 10 points, a Kanye West song that samples a James Bond theme also refers to “diamonds from” what war-torn country?
+
+----
+num: 21
+category: Geography
+difficulty: College
+fixed: -1
+seen: 136
+answer: {Ellsworth Mountains}
+
+The Minnesota Glacier separates this chain into the Heritage Range and Sentinel Range. This chain was first spotted by Herbert Hollick-Kenyon and its namesake. Including Hammer Col and Mount Rutford, this range's highest peak is named for a (*) Georgia Senator. They are found in an eponymous region to the east of Marie Byrd Land, between the Bellingshausen Sea and Ronne Ice shelf. For 10 points, name this mountain chain that includes Vinson Massif in Antarctica.
+
+----
+num: 22
+category: History
+difficulty: College
+fixed: None
+seen: 71
+answer: {War Communism}
+
+Under this program, strikers were put to death, and the "prodrazvyorstka," or confiscation of anything beyond a pre-defined surplus, was introduced. Instituted following the loss by treaty of Ukraine (*) breadbaskets, it included the demonetization of the economy and the banning of all private trade in food. After leading to searches for alleged hidden grain hoards, it was replaced by the New Economic Policy. For 10 points, name this program instituted by Lenin during the namesake conflict between Reds and Whites.
+
+----
+num: 23
+category: Science
+difficulty: College
+fixed: None
+seen: 81
+answer: {magnetar} (prompt on {neutron star})
+
+These objects display self-organized criticality. Their luminosity can be up to a million times brighter than the Eddington limit and they can deform atoms to below the relativistic wavelength of the electron. They were theorized to explain the observation of (*) soft gamma repeaters and anomalous X-ray pulsars. They possess internally twisted field lines and are characterized by large-scale dynamo effects and starquakes. For 10 points, name these neutron stars surrounded by a magnetic field that exceed the quantum critical limit.
+
+----
+num: 24
+category: Literature
+difficulty: College
+fixed: 1
+seen: 58
+answer: {Aeneas}
+
+Literary critics are compared to this figure in the concluding section of Viktor Shklovsky's Third Factory. This character observes "the towers that men contrive" when he is "far from home at nightfall by the Potomac" in an Allen Tate poem that finds him “at Washington.” In Troilus and Cressida, he delivers (*) Hector's challenge to the Greek warriors. In another work, he is trapped in a cave by a storm with romantic results, and he holds funeral games for his father Anchises. For 10 points, name this hero of a Roman epic.
+
+----
+num: 25
+category: Science
+difficulty: College
+fixed: -1
+seen: 82
+answer: {Alzheimer's} disease
+
+Free radical peroxidation of apolipoprotein E has been linked to this disease and the drug Namenda treats its symptoms by acting as an N-methyl-D-aspartate receptor antagonist. It has recently been discovered that individuals possessing a single mutated copy of the APP (*) gene are resistant to this disease. It is commonly associated with the presence of abnormal microtubule-associated tau proteins which form neurofibrillary tangles and beta-amyloid aggregates. For 10 points, name this neurodegenerative disease associated with memory loss and dementia.
+
+----
+num: 26
+category: History
+difficulty: College
+fixed: None
+seen: 70
+answer: {Alexander Haig}
+
+Baader-Meinhof attempted to kill this man with a land mine during his five yers as commander of NATO forces in the late 1970s. A helicopter pilot who won the Distinguished Service Cross at the Battle of Ap Gu, this man was White House Chief of Staff following the resignation of HR Haldeman during Watergate. In a later position, he attempted to (*) mediate the Falklands War and Israeli-Lebanon crisis. For 10 points, name this Reagan Secretary of State, who erroneously asserted “I am in control here” when Reagan was shot.

@@ -1,0 +1,229 @@
+####
+tournament: Web Sample
+round: m_round07.pdf
+####
+
+num: 1
+category: Physical Science
+difficulty: MS
+seen: 5
+answer: 1.7
+(Solution:  Ma = Ea/ra = 340/200 = 1.7)
+
+To the first decimal place, what is the ideal mechanical advantage of a lever with a resistance arm of 200 centimeters and an effort ar m of 3.4 meters?
+
+----
+num: 3
+category: Math
+difficulty: MS
+seen: 6
+answer: X^2
+
+Divide x^5 by x^3 and simplify:
+
+----
+num: 3
+category: Math
+difficulty: MS
+seen: 6
+answer: 4
+101
+
+Evaluate the following and give your answer as a mixe d fraction in lowestterms: 921– 5 2
+5
+
+----
+num: 4
+category: General Science
+difficulty: MS
+seen: 6
+answer: 30 Yards Per Hour;  3 Feet Per Minute;  5 Yards Per Minute
+
+Arrange the following 3 choices in order of INCREASING speed: 3 feet per minute; 5 yards per minute; 30 yards per hour
+
+----
+num: 5
+category: Life Science
+difficulty: MS
+seen: 12
+answer: Gregor Mendel  (Accept:  Mendel)
+
+What scientist is sometimes considered the father of genetics because of his extensive studies on the patterns of inheritance?
+
+----
+num: 6
+category: Physical Science
+difficulty: MS
+seen: 5
+answer: 250,000  (Accept:  2.5 × 1 0^5)
+(Solution:  Ps = 10,000 N × 25 M = 250,000 J)
+
+A 10,000-newton car is on the top floor of a parking garage 25 meters above the ground. Relative to the ground, what is the gravitational potential energy, in joules, of the car?
+
+----
+num: 8
+category: Math
+difficulty: MS
+seen: 6
+answer: 6
+
+Solve the following equation for x: 15x + 8x – 3x = 120
+
+----
+num: 8
+category: Math
+difficulty: MS
+seen: 6
+answer: 2725
+
+Divide 95by 53and give your answer as a proper fraction in lowest terms:
+
+----
+num: 9
+category: General Science
+difficulty: MS
+seen: 7
+answer: 11
+
+Rounded to the nearest whole number, how many meters per second is equal to 40 kilometers per hour?
+
+----
+num: 10
+category: Life Science
+difficulty: MS
+seen: 11
+answer: 2
+
+How many phalanges are in a human thumb?
+
+----
+num: 13
+category: Math
+difficulty: MS
+seen: 6
+answer: 1 and 2
+
+Name all of the following 3 statements which are always TRUE:
+1) a square is a regular polygon
+2) an equilateral triangle is equiangular
+3) a scalene triangle has 2 sides of equal length
+
+----
+num: 14
+category: General Science
+difficulty: MS
+seen: 5
+answer: Lanolin = Animal;  Silk = Animal;  Jute = Plant
+
+Identify each of the following 3 materials as derived from a plant or animal source, respectively: lanolin; silk; jute
+
+----
+num: 16
+category: Physical Science
+difficulty: MS
+seen: 5
+answer: 27
+
+How many total atoms are in any one molecule of 
+Epsom salts, or MgSO^4•7H^2O (read as: Mg, S, O, 4, dot, 7, H, 2, O)
+
+----
+num: 18
+category: Math
+difficulty: MS
+seen: 5
+answer: 1
+
+Give the numerical value of 8 factorial divided by 8 factorial:
+
+----
+num: 18
+category: Math
+difficulty: MS
+seen: 7
+answer: 10
+
+Evaluate the following expression: 10 + [8 + (2 – 10)] (read as: 10 plus, open bracket, 8 plus, open parenthesis, 2 minus 10, close parenthesis, close bracket)
+
+----
+num: 20
+category: Life Science
+difficulty: MS
+seen: 11
+answer: Vacuole
+
+In what organelle do parenchymal (read as: PAR -en-KYM-al) cells store most of a plant’s ce llular fluid?
+
+----
+num: 20
+category: Life Science
+difficulty: MS
+fixed: -1
+seen: 10
+answer: Mosses
+
+Name all of the following 3 groups of plants that have no xylem: mosses; ferns; conifers
+
+----
+num: 21
+category: Physical Science
+difficulty: MS
+seen: 6
+answer: 67
+(Solution: 400/600 = 0.6 7 × 100 = 67%)
+
+What is the percent efficiency, rounded to the nearest whole number, of a simple machine that requires 600 joules of energy input to achieve 400 joules of energy output?
+
+----
+num: 23
+category: Math
+difficulty: MS
+seen: 6
+answer: 0
+
+Evaluate yxwhen x = 0 and y = –8:
+
+----
+num: 23
+category: Math
+difficulty: MS
+seen: 6
+answer: Dimes = 10;  Quarters = 5
+
+Jill has $2.25 consisting of U.S. dimes and quarters. If she has 5 more dimes than quarters, how many dimes and quarters, respectively, does she have?
+
+----
+num: 24
+category: General Science
+difficulty: MS
+seen: 5
+answer: Big Bang
+
+What is the common term for the most accepted theory on how the universe came into being?
+
+----
+num: 24
+category: General Science
+difficulty: MS
+seen: 5
+answer: C
+
+What letter is most often used by scientists as a symbol for light or the speed of light?
+
+----
+num: 25
+category: Life Science
+difficulty: MS
+seen: 11
+answer: Adrenals  (Accept:  Adrenal Cortex)
+
+What glands of the human body are most responsible for producing what is sometimes called the stress hormone cortisol?
+
+----
+num: 25
+category: Life Science
+difficulty: MS
+seen: 10
+answer: All
+
+Name all of the following 3 choices that are common functions of feathers on birds: thermal insulati on; sexual selection; flight

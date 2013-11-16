@@ -1,0 +1,148 @@
+####
+tournament: Regional B
+round: round1.pdf
+year: 2002
+####
+
+num: 1
+category: Biology
+difficulty: HS
+seen: 1
+answer: Y)  in Probability and Mathematics
+
+Mendel succeeded in forming the ba sis of modern hereditary theory in part because of his training:
+W) as a printer of rare and scientific documents 
+X) in calligraphy of scientif ic manuscripts for the Roya l Austrian Science Society 
+Y) in probability and mathematics 
+Z) as a scientific apostolic nuncio
+
+----
+num: 3
+category: Physics
+difficulty: HS
+seen: 1
+answer: X)  10 Ki Lograms of Tungsten
+(Solution:  W = 19.3 G/cc, Hg = 13.5 G/cc, Ag = 10.5 G/cc, H ^2o = 1.0 G/cc)
+
+Which of the following is the mo st dense at standard temperature and pressure:
+W) 10 kilograms of pure water 
+X) 10 kilograms of tungsten 
+Y) 2 kilograms of silver 
+Z) 1 kilogram of mercury
+
+----
+num: 6
+category: Earth Science
+difficulty: HS
+seen: 1
+answer: X)  Divergen T Margin Boundaries
+
+Boundaries that form where lithospheric plates are breaking apart to move away from each other are called:
+W) transform boundaries 
+X) divergent margin boundaries 
+Y) suture zone boundaries 
+Z) subduction boundaries
+
+----
+num: 8
+category: Computer Science
+difficulty: HS
+seen: 1
+answer: X)  Shareware
+
+Software that is often dist ributed free of charge and usually intended for sale after a trial period is called:
+W) freeware 
+X) shareware 
+Y) open source 
+Z) public-domain
+
+----
+num: 10
+category: Chemistry
+difficulty: HS
+seen: 1
+answer: X)  Valence-Shell Electrons
+
+Which of the following atomic features is the most important in controlling the reactivity of an atom:
+W) core electrons 
+X) valence-shell electrons 
+Y) protons 
+Z) neutrons
+
+----
+num: 12
+category: Astronomy
+difficulty: HS
+seen: 1
+answer: X)  Lenses
+
+Refracting telescopes always c ontain which of the following:
+W) mirrors 
+X) lenses 
+Y) television systems 
+Z) film
+
+----
+num: 14
+category: Earth Science
+difficulty: HS
+seen: 1
+answer: Z)  End
+
+Which of the following types of moraines does NOT parallel ice flow:
+W) medial 
+X) lateral 
+Y) double lateral 
+Z) end
+
+----
+num: 14
+category: Earth Science
+difficulty: HS
+seen: 1
+answer: X)  Urban Dust Dome
+
+The combination of lingering air and abundance of particulates and other pollutants in the air over cities produces what is commonly known as the:
+W) urban depletion area 
+X) urban dust dome 
+Y) urban frontal zone 
+Z) urban overcast zone
+
+----
+num: 16
+category: Computer Science
+difficulty: HS
+seen: 1
+answer: Z)  Music
+
+The file extension .MID (read as: dot, M, I, D) usually means that the file can be opened by what type of program:
+W) text editor 
+X) graphics 
+Y) database 
+Z) music
+
+----
+num: 22
+category: Earth Science
+difficulty: HS
+seen: 1
+answer: W)   Saffir-Simpson
+
+What scale is used to classify the strength of hurricanes based on its greatest wind speed:
+W) Saffir-Simpson 
+X) Beaufort 
+Y) Modified Mercalli 
+Z) Fujita
+
+----
+num: 22
+category: Earth Science
+difficulty: HS
+seen: 1
+answer: W)  Altostratus
+
+Which of the following is NOT classified as a low-level cloud:
+W) altostratus 
+X) nimbostratus 
+Y) stratocumulus 
+Z) stratus

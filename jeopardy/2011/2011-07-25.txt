@@ -1,0 +1,356 @@
+####
+tournament: #6201
+round: Show #6201 - Monday, July 25, 2011
+year: 2011
+date: 2011-07-25
+####
+
+num: 1
+category: Geography
+difficulty: 200
+seen: 10
+answer: Antarctica
+
+July temperatures on this continent range from about -94 to a balmy high of around -40.
+
+----
+num: 2
+category: History
+difficulty: 200
+seen: 5
+answer: the American Medical Association
+
+Founded in 1847, the AMA.
+
+----
+num: 3
+category: Science
+difficulty: 200
+seen: 9
+answer: Omega
+
+This watch brand with a Greek letter name says it made the world's first diver's watch.
+
+----
+num: 4
+category: History
+difficulty: 200
+seen: 5
+answer: a bald-faced (or bare-faced) lie
+
+An untruth told with shameless confidence is this type of "lie".
+
+----
+num: 5
+category: Geography
+difficulty: 400
+seen: 9
+answer: Australia
+
+This continent covers only about 5% of the earth's land area; deserts cover about 1/3 of the continent.
+
+----
+num: 6
+category: Science
+difficulty: 400
+seen: 5
+answer: phases of the moon
+
+A "complication" is a watch feature showing anything besides the time; Blancpain's grand complication has the phases of this.
+
+----
+num: 7
+category: History
+difficulty: 400
+seen: 4
+answer: bounced
+
+When a check failed to clear because of insufficient funds, we say it did this.
+
+----
+num: 8
+category: Geography
+difficulty: 600
+seen: 7
+answer: Africa
+
+This continent has the longest freshwater lake, 420 miles, in the world.
+
+----
+num: 9
+category: History
+difficulty: 600
+seen: 4
+answer: a backboard
+
+On Nov. 13, 1979 the 76ers' Darryl Dawkins shattered one of these.
+
+----
+num: 10
+category: Geography
+difficulty: 800
+seen: 8
+answer: Asia
+
+Both the highest & lowest places on earth are on this continent.
+
+----
+num: 11
+category: History
+difficulty: 800
+seen: 4
+answer: the Knights of Columbus
+
+The K of C, all 1.8 million of them.
+
+----
+num: 12
+category: Science
+difficulty: 800
+seen: 5
+answer: longitude
+
+The timepiece that in 1760 solved the problem of determining the degrees of this at sea still runs.
+
+----
+num: 13
+category: History
+difficulty: 800
+seen: 4
+answer: bachelorhood
+
+The state of being a single guy.
+
+----
+num: 14
+category: Geography
+difficulty: 1000
+seen: 8
+answer: South America
+
+A waterfall on this continent has the longest drop in the world, 3,212 feet.
+
+----
+num: 15
+category: History
+difficulty: 1000
+seen: 5
+answer: the Sons of the American Revolution
+
+Similar to the DAR, the SAR.
+
+----
+num: 16
+category: History
+difficulty: 1000
+seen: 4
+answer: bicuspid
+
+Terminating in 2 points, like certain teeth.
+
+----
+num: 17
+category: History
+difficulty: 400
+seen: 4
+answer: Gandhi
+
+He was in jail at Poona when time named him its man of the year for 1930.
+
+----
+num: 18
+category: Geography
+difficulty: 400
+seen: 8
+answer: Maine
+
+Washington county in this state is the easternmost county in the contiguous 48 states.
+
+----
+num: 19
+category: Mythology
+difficulty: 400
+seen: 13
+answer: a wetsuit
+
+Aquatic aid on display.
+
+----
+num: 20
+category: Art
+difficulty: 400
+seen: 4
+answer: Apollo Creed
+
+Carl Weathers played this boxer who slugged it out with Rocky.
+
+----
+num: 21
+category: Literature
+difficulty: 400
+seen: 4
+answer: poi
+
+Hawaiians carefully boil the taro root to make this staple, as the raw tubers are poisonous--no pun intended.
+
+----
+num: 22
+category: History
+difficulty: 800
+seen: 4
+answer: the Black Panthers
+
+Stokely Carmichael was "honorary prime minister" of these '60s radicals.
+
+----
+num: 23
+category: Geography
+difficulty: 800
+seen: 7
+answer: New York
+
+Oneida county, Idaho was named for the lake Oneida area in this state from which many of the early settlers emigrated.
+
+----
+num: 24
+category: Mythology
+difficulty: 800
+seen: 10
+answer: a wormhole
+
+Shakespeare used this word for a tunnel made by an invertebrate; he didn't know it would come up in astrophysics.
+
+----
+num: 25
+category: Art
+difficulty: 800
+seen: 4
+answer: Vulcan
+
+It's only logical that Spock hailed from this rock.
+
+----
+num: 26
+category: Literature
+difficulty: 800
+seen: 3
+answer: seaweed
+
+Intertidal zones are a good place to find dulse, a reddish purple type of this popular in the North Atlantic.
+
+----
+num: 27
+category: Geography
+difficulty: 1200
+seen: 9
+answer: Florida
+
+This state's Citrus County was named for its citrus trees; today Bellamy Grove is the only remaining commercial grove.
+
+----
+num: 28
+category: Literature
+difficulty: 1200
+seen: 4
+answer: kimchee
+
+Forget Kim Jong Il; South Koreans are worried about shortages of this other "kim", their pungent national dish.
+
+----
+num: 29
+category: History
+difficulty: 1600
+seen: 4
+answer: Fulgencio Batista
+
+Frank Pais was a leader of the 26th of July movement, which sought to overthrow this man's Caribbean regime.
+
+----
+num: 30
+category: Geography
+difficulty: 1600
+seen: 8
+answer: the Allegheny
+
+The 2 most populous Penn. counties are Philadelphia & this one that shares its name with a Pittsburgh river.
+
+----
+num: 31
+category: Science
+difficulty: 1600
+seen: 5
+answer: A- (a negative)
+
+One single photography image in which brightness values are reversed.
+
+----
+num: 32
+category: Mythology
+difficulty: 1600
+seen: 11
+answer: a winch
+
+5-letter word for a hauling machine using a chain wrapped around a drum.
+
+----
+num: 33
+category: Art
+difficulty: 1600
+seen: 4
+answer: Titans
+
+Remember these rockets? They propelled both the Gemini spacecraft & missiles aimed at the Russkies.
+
+----
+num: 34
+category: Literature
+difficulty: 1600
+seen: 4
+answer: scrapple
+
+Triple word score is yours if you can name this sliced pork loaf made famous by the Pennsylvania Dutch.
+
+----
+num: 35
+category: History
+difficulty: 2000
+seen: 5
+answer: the Partisans (the People\'s Liberation Army)
+
+During World War II, Josip Broz led these Yugoslav resistance fighters against Nazi occupation.
+
+----
+num: 36
+category: Geography
+difficulty: 2000
+seen: 12
+answer: Cibola
+
+New Mexico's last created county, it doesn't have "7 cities", just 2, the county seat of Grants & the village of Milan.
+
+----
+num: 37
+category: Mythology
+difficulty: 2000
+seen: 21
+answer: a warthog
+
+African creature is.
+
+----
+num: 38
+category: Art
+difficulty: 2000
+seen: 6
+answer: a Mars Bar
+
+What American chocolate lovers call a Milky Way, the British call this.
+
+----
+num: 39
+category: Literature
+difficulty: 2000
+seen: 5
+answer: a whelk
+
+Okay, Lawrence, we've turned off.

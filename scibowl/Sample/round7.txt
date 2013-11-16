@@ -1,0 +1,286 @@
+####
+tournament: Sample
+round: round7.pdf
+####
+
+num: 1
+category: Biology
+difficulty: HS
+seen: 40
+answer: Carboxyl
+
+If one end of a single polypeptide chain has an amino group exposed, what functional group is typically exposed at the opposite end?
+
+----
+num: 1
+category: Biology
+difficulty: HS
+seen: 39
+answer: Dna Polymerase  (Accept:  Polymerase)
+
+What is the most common name of the protein that synthesizes DNA?
+
+----
+num: 4
+category: Math
+difficulty: HS
+fixed: -1
+seen: 25
+answer: –10
+(Solution: D = Ad – Bc = 4(-4) – (-3)(2) = -10)
+
+What is the determin ant of a 2-by-2 square matrix whose rows are 4, 2 and –3, –4?
+
+----
+num: 5
+category: Earth Science
+difficulty: HS
+seen: 61
+answer: Thermocline
+
+What is the most common name for the temperature -slope or depth interval over which temperature changes with depth in a lake?
+
+----
+num: 6
+category: General Science
+difficulty: HS
+fixed: -1
+seen: 33
+answer: 1 0,000
+(Solution: 10 Cm/yr = 1 × 10^-^4 Km/yr (100,000,000 Yr) = 10,000 Km)
+
+If one of Earth’s tectonic plates moves at a rate of about 10 centimeters per year, how many kilometers will it mo ve in 100 million years?
+
+----
+num: 7
+category: Astronomy
+difficulty: HS
+seen: 54
+answer: Mars
+
+From data primarily on the motions of what planet did Kepler propose that planets follow elliptical orbits?
+
+----
+num: 7
+category: Astronomy
+difficulty: HS
+seen: 55
+answer: Moon  (Accept:  Full Moon)
+
+What object in the night sky can reach a maximum apparent magnitude of negative 12.6?
+
+----
+num: 8
+category: Biology
+difficulty: HS
+seen: 40
+answer: Myoglobin
+
+What is the main respiratory pigment of skeletal muscle cells?
+
+----
+num: 8
+category: Biology
+difficulty: HS
+seen: 39
+answer: Secondary
+
+Choosing from primary through quaternary, what level of protein structure is conferred by a beta pleated sheet?
+
+----
+num: 9
+category: Chemistry
+difficulty: HS
+seen: 34
+answer: 7
+(Solution: (0.5l)(0.1 Mol/l) = 0.05 M Ol (142 G/mol) = 7.1 G)
+
+To the nearest whole number, how many grams of Na^2SO^4, whose formula weight is 142, are needed to prepare a 500 milliliter 0.100 molar solution?
+
+----
+num: 10
+category: Physics
+difficulty: HS
+seen: 27
+answer: 1;  2;  3
+
+Give by name or number all of the following 4 choices that would be considered units of electric al power: 1) ampere volt; 2) joules per second; 3) watts; 4) coulombs
+
+----
+num: 11
+category: Math
+difficulty: HS
+seen: 25
+answer: Left
+
+Giving your answer as up, down, left, or right, the graph of the equation x = 5y – 8y^2 – 1 opens in what direction?
+
+----
+num: 11
+category: Math
+difficulty: HS
+seen: 25
+answer: $11,025
+(Solution: A = P[1 + (R/n)] ^Nt;  = $10,000[1 + (0.05/1)]^(1x2) = $11,025)
+
+If $10,000 is placed in a savings account that pays 5% interest compounded annually, what is the total amount of money in the account at the end of 2 years, to the nearest dollar?
+
+----
+num: 12
+category: Earth Science
+difficulty: HS
+seen: 62
+answer: Stationary  (Accept:  Stationary  Frontal Boundary or 
+Stationary  Front)
+
+On a weather map, what type of frontal boundary is represented by alternating blue and red lines with blue triangles pointing toward the warmer air and red semicircles pointing toward the colder air?
+
+----
+num: 14
+category: Astronomy
+difficulty: HS
+seen: 53
+answer: Canis Major
+(Solution: Alpha Canis Majoris
+Sky) , Also Called Sirius, Is in Canis Major and Is the Brightest Star in The
+
+In what constellation is the brightest -appearing star in the night sky?
+
+----
+num: 15
+category: Biology
+difficulty: HS
+seen: 39
+answer: Photosynthesis
+
+What specific biological process is believed to have produced most of the diatomic oxygen in the Earth’s at mosphere?
+
+----
+num: 15
+category: Biology
+difficulty: HS
+seen: 40
+answer: Splitting of Water
+
+In photosynthesis II (read as: two), what is light energy most notably used to initially accomplish?
+
+----
+num: 16
+category: Chemistry
+difficulty: HS
+seen: 35
+answer: Tetrahedral
+
+According to VSEPR bonding theory, what type of geometry does a molecule have when the central atom is surrounded by 4 bonded groups, such as in methane?
+
+----
+num: 17
+category: Physics
+difficulty: HS
+seen: 25
+answer: Capacitor
+
+What is the MOST common name for the electrical device often made of two parallel conducting plates separated by a paper insulator all rolled into a cylinder to f unction in storing electrical energy?
+
+----
+num: 17
+category: Physics
+difficulty: HS
+seen: 27
+answer: Farad
+
+What is the SI unit of capacitance equal to one coulomb per volt?
+
+----
+num: 18
+category: Math
+difficulty: HS
+seen: 25
+answer: 2 ^Nd (Accept:  2)
+
+In what quadrant does θ (read as: theta) terminate if sine θ is positive and secant θ is negative?
+
+----
+num: 21
+category: Astronomy
+difficulty: HS
+seen: 54
+answer: Gravity
+
+What basic force is responsible for forming the liquid -metallic hydrogen layer on the planet Jupiter?
+
+----
+num: 21
+category: Astronomy
+difficulty: HS
+seen: 55
+answer: July
+
+During what month is the average surface temperature of the 
+Earth typically the highest?
+
+----
+num: 22
+category: Biology
+difficulty: HS
+seen: 42
+answer: Seminiferous Tubules
+
+In what specific part of the testes does spermatogenesis occur in mammals?
+
+----
+num: 22
+category: Biology
+difficulty: HS
+seen: 42
+answer: Thymus
+
+What human gland, which is mostly lymphoid tissue, is critical to the normal development of cell mediated immunity and, if removed after young adulthood, seems to have no ill effects on the immune system?
+
+----
+num: 23
+category: Chemistry
+difficulty: HS
+fixed: -1
+seen: 34
+answer: Hydrogen
+
+When a strip of sodium reacts with dilute HCl, what gas is produced?
+
+----
+num: 24
+category: Physics
+difficulty: HS
+seen: 25
+answer: Brine  (Accept:  Salt Water)
+
+What was the electrolyte used in the first voltaic piles built by Volta?
+
+----
+num: 24
+category: Physics
+difficulty: HS
+fixed: -1
+seen: 27
+answer: 180 Ohms
+(Solution:  R = V/i = 9/0.05 = 180 Ohms)
+
+What is the resistance, giving your answer in standard SI units, of an electric device operating on a 9 -volt battery that requires 0.05 amps to run?
+
+----
+num: 25
+category: Biology
+difficulty: HS
+seen: 39
+answer: Pollen (Accept:  Pollen Grains)
+
+What is the most common name for the micro -gametophyte in flowering plants?
+
+----
+num: 25
+category: Biology
+difficulty: HS
+seen: 40
+answer: P Hloem
+
+Sieve cells and sieve tube members are types of what specific conductive plant cell type?

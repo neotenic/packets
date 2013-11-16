@@ -1,0 +1,102 @@
+####
+tournament: Web Sample
+round: de3_for_web.pdf
+####
+
+num: 1
+category: General Science
+difficulty: MS
+seen: 5
+answer: 9.8  (Accept: 10)
+
+How m any newtons does one kilogram of water weigh at the surface of the Earth ?
+
+----
+num: 3
+category: Mathematics
+difficulty: MS
+seen: 36
+answer: 13
+
+What is the square root of 169?
+
+----
+num: 4
+category: Life Science
+difficulty: MS
+seen: 11
+answer: Spleen
+
+What organ of the hum an body is primarily responsible for eliminating abnormal red blood cells from the circulation and then recycling iron to the bone m arrow ?
+
+----
+num: 8
+category: Mathematics
+difficulty: MS
+seen: 36
+answer: 2112
+
+The number 2002 is a palindrome because it is the sam e number read forward or backward. What is the next year that is a palindrom e?
+
+----
+num: 11
+category: General Science
+difficulty: MS
+seen: 5
+answer: Copper
+
+What metal recently replaced aluminum as the interconnect m etal of choice on com puter chips due to its low electrical resistance?
+
+----
+num: 12
+category: Earth Science
+difficulty: MS
+seen: 7
+answer: The Doldrums
+
+What is the name of the region of low pressure located arou nd the equator?
+
+----
+num: 15
+category: Physical Science
+difficulty: MS
+seen: 6
+answer: Electrons
+
+Most televisions use a cathode ray tube to generate the picture on the screen. A cat hode ray is made up of what subatomic particle s?
+
+----
+num: 15
+category: Physical Science
+difficulty: MS
+seen: 5
+answer: Electrons (Accep T: Valence Electrons)
+
+Which subatomic particle is most directly responsible for the chemical properties of an elem ent?
+
+----
+num: 17
+category: Earth Science
+difficulty: MS
+seen: 8
+answer: 1350 Meters
+
+The contour interval for a topographic m ap is 150 meters. Starting at 150 m eters and on uniform incline, what is the elevation 8 contour lines away ?
+
+----
+num: 18
+category: Mathematics
+difficulty: MS
+seen: 35
+answer: 39
+
+Twelve pool balls numbered 1 to 12 are on the pool table. Kira noticed that when she sepa rated the balls into two equal groups the sumof the balls was the same in each g roup. What was the common sum ?
+
+----
+num: 22
+category: Earth Science
+difficulty: MS
+seen: 8
+answer: The San Andreas Fault  (Accept San Andreas)
+
+California has a very long strike-slip fault that has been associated with several dam aging earthquakes during historical times. W hat is the nam e given to this very long z one of crustal confrontation?

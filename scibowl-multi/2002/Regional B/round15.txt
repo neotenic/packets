@@ -1,0 +1,260 @@
+####
+tournament: Regional B
+round: round15.pdf
+year: 2002
+####
+
+num: 1
+category: Physics
+difficulty: HS
+answer: X)  a Subgroup of Hadrons
+
+Which of the following best describes mesons:
+W) a subgroup of leptons 
+X) a subgroup of hadrons 
+Y) hadronic leptons 
+Z) particles with a spin of 1
+
+----
+num: 1
+category: Physics
+difficulty: HS
+seen: 1
+answer: W)  Wavelength Equals Planck’s Constant Over the Quantity 
+Mass Times Velocity
+
+Which of the following most di rectly describes the de Broglie wavelength:
+W) wavelength equals Planck’s consta nt over the quantity mass times velocity 
+X) wavelength equals mass times velocity over Planck’s constant 
+Y) energy equals Planck’s constant times frequency 
+Z) Planck’s constant equals mass times the speed of light over the frequency
+
+----
+num: 2
+category: Biology
+difficulty: HS
+answer: Z)  Degree of Ba Se Pairing Between Dna Strands
+
+Species similarity is partly based on DNA hybridization studies that determine:
+W) similarity in where restriction enzymes cleave 
+X) determining exact nucleotide sequences 
+Y) generating a restriction enzyme map 
+Z) degree of base pairing between DNA strands
+
+----
+num: 3
+category: Chemistry
+difficulty: HS
+answer: X)  an Ester
+
+A fermentation reaction and a saponification reaction are similar in that they both can produce:
+W) a soap 
+X) an ester 
+Y) an alcohol^
+Z) an acid
+
+----
+num: 5
+category: Math
+difficulty: HS
+answer: Z)  Cotangent a
+(Solution:  Cot ^2a × (Sina/cosa);  = Cot^2a Tan A;  = Cot A)
+
+Simplify the following trigonometri c equation for a right triangle ABC cosine(90° - A)whose right angle is at B: (cosecant ^2A – 1) × sine(90° - A)
+W) sine A 
+X) cosine A 
+Y) tangent A 
+Z) cotangent A
+
+----
+num: 6
+category: Earth Science
+difficulty: HS
+answer: W)  Foraminifera
+
+Which of the following organisms eventually sediments onto the ocean seafloor as a calcareous ooze:
+W) foraminifera 
+X) radiolarians 
+Y) diatoms 
+Z) fish scales
+
+----
+num: 7
+category: General Science
+difficulty: HS
+answer: W)  Vitamin B^12
+
+Cyanocobalamin (Pronounced SIGH-ano-CO-bal-amin) is more commonly known as:
+W) vitamin B^12
+X) vitamin D 
+Y) vitamin A 
+Z) vitamin K ^3
+
+----
+num: 8
+category: Computer Science
+difficulty: HS
+answer: Y)  Subscript
+
+In C programming, the number used to refer to a particular element of an array is called its:
+W) numerator 
+X) superscript 
+Y) subscript 
+Z) exponent
+
+----
+num: 8
+category: Computer Science
+difficulty: HS
+seen: 1
+answer: Y)  Lisp Is Only Effective for Explicitly Defined Problems
+
+The following are all reasons why the LISP programming language is NOT widely used except:
+W) its dependence on recursion 
+X) most LISP systems are interpreted, and thus slower 
+Y) LISP is only effective for explicitly defined problems 
+Z) dynamic storage allocation is expensive
+
+----
+num: 11
+category: Chemistry
+difficulty: HS
+seen: 1
+answer: Y)  a Weak Ac Id and Its Conjugate Base
+
+In general, a buffer solution used in titrations is characteristically which of the following:
+W) a strong acid and its conjugate base 
+X) a strong base and its conjugate acid 
+Y) a weak acid and its conjugate base 
+Z) a solution that changes very rapidl y in pH when acids or bases are added
+
+----
+num: 11
+category: Chemistry
+difficulty: HS
+answer: X)  1
+
+According to the Henderson-Hasselbalch equation, the pH equals the pK ^a (read as: p, k, a) when the ratio of the conjugate base and weak acid equals:
+W) 0 
+X) 1 
+Y) 2 
+Z) 7
+
+----
+num: 14
+category: Earth Science
+difficulty: HS
+seen: 1
+answer: Z)  They Develop in Waters of at Least 80°f Between 5° and 20°
+Latitude
+
+Which of the following is TRUE regarding the development of a hurricane:
+W) they develop in waters of at least 80 °F at 0° latitude 
+X) they develop in waters of at least 80 °F between 20° and 40° latitude 
+Y) a hurricane originating in the eastern tropica l Atlantic is driven westward by westerly trade winds in the tropics 
+Z) they develop in waters of at least 80 °F between 5° and 20° latitude
+
+----
+num: 15
+category: General Science
+difficulty: HS
+seen: 1
+answer: X)  Anti-Aliasing
+
+In computer graphics, the electronic process of eliminating or reducing jaggies in an image is called:
+W) pixelation 
+X) anti-aliasing 
+Y) digitizing 
+Z) radial filling
+
+----
+num: 15
+category: General Science
+difficulty: HS
+answer: W)  Herbivore
+
+A termite is best classi fied in which trophic level:
+W) herbivore 
+X) omnivore 
+Y) primary detritivore 
+Z) secondary detritivore
+
+----
+num: 16
+category: Computer Science
+difficulty: HS
+seen: 1
+answer: Y)  the Interface That Interprets Commands Between the User 
+and the Operating System
+
+In the Operating System environment, what is a shell:
+W) a specific type of operating system 
+X) a user application program written in Java 
+Y) the interface that interprets commands between the user and the operating system 
+Z) the part of the operating system which allocates blocks of memory to a process
+
+----
+num: 17
+category: Physics
+difficulty: HS
+seen: 1
+answer: Z)  0.87 Yards
+(Solution:  L^1 = L √(1-(V/c)^2) = 1 Yard √(1-0.25) = 1 × √.75 = 0.8660)
+
+If a person passes a yard stick at 1/2 light speed, what length would he measure the yard to be, rounded to the second decimal place:
+W) 1.13 yards 
+X) 0.13 yards 
+Y) 0.75 yards 
+Z) 0.87 yards
+
+----
+num: 18
+category: Biology
+difficulty: HS
+answer: Z)  0.22 Microns
+
+Which of the following pore-size filters would typically be the upper size limit to ensure removal of all bacteria:
+W) 5.0 microns 
+X) 1.5 microns 
+Y) 0.85 microns 
+Z) 0.22 microns
+
+----
+num: 19
+category: Chemistry
+difficulty: HS
+answer: Y)  a Corkscrew
+
+Which of the following is considered a chiral object:
+W) a coffee cup 
+X) a tennis ball 
+Y) a corkscrew 
+Z) a banana
+
+----
+num: 22
+category: General Science
+difficulty: HS
+seen: 1
+answer: W)  the Habitual Presence of Disease Within a Geographic 
+Population
+
+When referring to disease, endemic refers to:
+W) the habitual presence of disease within a geographic population 
+X) the occurrence of a group of illnesses clearly in excess of normal expectancy 
+Y) a worldwide epidemic 
+Z) diseases which often exhibit a seasonal pattern
+
+----
+num: 25
+category: Chemistry
+difficulty: HS
+seen: 1
+answer: X)  the Concentration of  a Species That Absorbs Light Can Be 
+Measured by the Amou Nt of Light Absorbed
+
+According to Beer’s law:
+W) the energy of a photon of light is inversely proportional to its wavelength 
+X) the concentration of a species that absorbs light can be measured by the amount of light absorbed 
+Y) the energy of characteristic X-rays increases with increasing atomic number of the emitting element 
+Z) excitation of the electrons in a molecule ta kes place on a shorter time scale than motion of the nuclei

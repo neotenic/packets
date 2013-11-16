@@ -1,0 +1,328 @@
+####
+tournament: Sample
+round: round10.pdf
+####
+
+num: 1
+category: Biology
+difficulty: HS
+answer: Z)  Protein S
+
+With which of the following does human interstitial fluid differ in concentration the most when compared with plasma:
+W) sodium ions
+X) potassium ions
+Y) magnesium ions
+Z) proteins
+
+----
+num: 2
+category: Chemistry
+difficulty: HS
+answer: W)  H
+^2c
+^2o
+^4
+(Solution: Oxalic Acid With 2 Acidic H Atoms )
+
+Which of the following is a diprotic acid:
+W) H^2C^2O^4^
+X) H^3PO^4
+Y) HCl
+Z) HNO ^2
+
+----
+num: 2
+category: Chemistry
+difficulty: HS
+answer: Y)  When a Gas Is Compressed, Its Temperature Always Increases
+
+Which of the following statements is NOT true:
+W) an ideal gas cannot undergo condensation
+X) the less mass a particle has, the faster it will effuse
+Y) when a gas is compressed, its temperature always increases
+Z) a gas is easier to compress than a liquid
+
+----
+num: 3
+category: Physics
+difficulty: HS
+answer: W)  to Switch on and Off or Amplify Electronic Signals
+
+Which of the following BEST describes the most common functions for which most transistors are used:
+W) to switch on and off or amplify electronic signals
+X) to allow electric current to pass in only one direction while increasing or decreasing the voltage
+Y) to store electrical energy
+Z) to regulate the frequency of electrical sine waves
+
+----
+num: 3
+category: Physics
+difficulty: HS
+answer: X)  Mosfet
+
+Which of the following is the abbreviated name of the most common field effect transistor in modern electronic circuitry:
+W) DET
+X) MOSFET
+Y) BJT
+Z) BFET
+
+----
+num: 4
+category: Math
+difficulty: HS
+answer: Y)  (3, 0)
+(Solution: D =  (X
+^2 − X
+^1)^2 +(Y
+^2 − Y
+^1)^2 ;   (3−1)^2 +(0 −(−2))^2 =  8 )
+
+Which of the following points is closest to the point (1, –2):
+W) (3, –5)
+X) (0, 3)
+Y) (3, 0)
+Z) ( –5, –5)
+
+----
+num: 5
+category: Earth Science
+difficulty: HS
+answer: X)  Mo No Lake, California
+
+In which of the following lakes in North America would you typically find a thriving community of halophiles and alkaliphiles:
+W) Lake Michigan
+X) Mono Lake, California
+Y) Great Slave Lake, Canada
+Z) Lake Powell, Utah/Arizona
+
+----
+num: 5
+category: Earth Science
+difficulty: HS
+answer: W)  It Has No Outlet and a High Evaporation Rate
+
+Which of the following BEST explains why Mono Lake in 
+California is hypersaline:
+W) it has no outlet and a high evaporation rate
+X) it is subject to extreme saltwater intrusion emanating fr om a vast system of underground aquifers
+Y) it is underlain by massive salt domes formed 250 million years ago
+Z) it has been subjected to periodic eruptions of volcanic ash
+
+----
+num: 6
+category: General Science
+difficulty: HS
+answer: W)  Hydrocarbons
+
+Most VOC’s, or volatile organic compounds, are:
+W) hydrocarbons
+X) oxides
+Y) nitrogenous wastes
+Z) particulates
+
+----
+num: 7
+category: Astronomy
+difficulty: HS
+answer: W)  Kirchhoff’s Second Law
+
+Which of the following most directly addresses that a gas of low de nsity, when excited, will emit light of a certain wavelength:
+W) Kirchhoff’s second law
+X) Bode’s second law
+Y) Wien’s law
+Z) Balmer’s law
+
+----
+num: 8
+category: Biology
+difficulty: HS
+answer: X)  Hemoglobin
+
+Which of the following molecules would have the most peptide bonds:
+W) glycogen
+X) hemoglobin
+Y) lecithin
+Z) DNA
+
+----
+num: 9
+category: Chemistry
+difficulty: HS
+answer: Z)  Mass Spectrometry
+
+Which of the following would be LEAST applicable for determining the end point in a titration experiment:
+W) pH meter
+X) phenolphthalein (read as: fee-knoll-THAY-lean) solution
+Y) potentiometer
+Z) mass spectrometry
+
+----
+num: 9
+category: Chemistry
+difficulty: HS
+answer: Y)  Helium
+
+Which of the following gases will have the LOWEST freezing point:
+W) hydrogen
+X) water
+Y) helium
+Z) carbon dioxide
+
+----
+num: 10
+category: Physics
+difficulty: HS
+answer: Z)  Electrons Are Transferred From the Glass Tube to the Silk
+
+Which of the following occurs when a glass tube is rubbed with a silk cloth:
+W) protons are transferred from the silk to the glass tube 
+X) protons are transferred from the glass tube to the silk
+Y) electrons are transferred from the silk to the glass tube
+Z) electrons are transferred from the glass tube to the silk
+
+----
+num: 12
+category: Earth Science
+difficulty: HS
+answer: Z)  Zircon
+
+Which of the following is both fluorescent and radioactive:
+W) calcite
+X) halite
+Y) talc
+Z) zircon
+
+----
+num: 12
+category: Earth Science
+difficulty: HS
+answer: W)  Ruby and Sapphire
+
+Which of the following both h ave very similar chemical compositions but exhibit different colors:
+W) ruby and sapphire
+X) opal and pearl
+Y) diamond and quartz
+Z) amber and citrine
+
+----
+num: 13
+category: General Science
+difficulty: HS
+answer: Y)  the Gulf of Mexico
+
+Which of the following has the largest seasonal hypoxic zone in coastal waters of the western hemisphere:
+W) the Chesapeake Bay
+X) the Gulf of Maine
+Y) the Gulf of Mexico
+Z) Hudson Bay
+
+----
+num: 13
+category: General Science
+difficulty: HS
+answer: X)  Nitrogen
+
+The hypoxic zone in the Gulf of Mexico, and many other areas in the world, is largely caused by the influx of which of the following into waterways:
+W) phosphorous
+X) nitrogen 
+Y) potassium
+Z) sulfur
+
+----
+num: 14
+category: Astronomy
+difficulty: HS
+answer: Y)  They Typically Will Not Damage Space-Based Satellites
+
+Which of the following is NOT true of coronal mass ejections:
+W) they can lead to a loss in radio communications 
+X) they can indirectly cause damage to electrical transformers
+Y) they typically will not damage space -based satellites
+Z) the next peak of ejections will likely be during the years 2010 to 2012
+
+----
+num: 15
+category: Biology
+difficulty: HS
+answer: Y)  All Genes Independently Segregate
+(Solution: Genes on the Same Chromosome Do Not Independently Segregate)
+
+Which of the following is LEAST accurate regarding human genetics:
+W) genes from gametes are typically unchanged during their passage to the zygote
+X) the zygote gets 1 allele from each pa rental gene pair
+Y) all genes independently segregate
+Z) the number of copies of a particular gene can vary among individuals
+
+----
+num: 16
+category: Chemistry
+difficulty: HS
+answer: X)  White Phosphorous
+
+Which of the following is a substance that is very reactive with the oxygen in air and must be stored under water or some other substance to keep it from becoming incendiary:
+W) fullerene
+X) white phosphorous
+Y) calcium fluoride
+Z) calcium oxide
+
+----
+num: 16
+category: Chemistry
+difficulty: HS
+answer: W)  Homogeneous
+(Solution: All in the Same Phase, Namely Gases)
+
+Which of the following best describes the catalyst in the destruction of ozone by chlorofluorocarbons:
+W) homogeneous
+X) heterogeneous
+Y) enzymatic
+Z) autocatalytic
+
+----
+num: 17
+category: Physics
+difficulty: HS
+answer: Z)  as Temperature Increases, Resistance Increases Because 
+Atoms Vibrate More, Increasing Electron Scattering
+
+Which of the following BEST describes how and why electrical resistance is related to temperature:
+W) as temperature in creases, resistance decreases because electrons move faster
+X) as temperature increases, resistance decreases because electrons are lost from the conductor 
+Y) as temperature increases, resistance increases because protons move faster
+Z) as temperature increases, resistance increases because atoms vibrate more , increasing electronscattering
+
+----
+num: 19
+category: Earth Science
+difficulty: HS
+answer: W)  Winds
+
+Aeolian sandstones are produced primarily by sand grain motion as a result of:
+W) river currents 
+X) ocean currents
+Y) glacial transport s
+Z) winds
+
+----
+num: 19
+category: Earth Science
+difficulty: HS
+answer: W)  80
+
+According to the Continental Drift Theory, Australia remained attached to Antarctica until the 2 entities drifted apart about how many million years ago:
+W) 80
+X) 120
+Y) 250
+Z) 350
+
+----
+num: 20
+category: General Science
+difficulty: HS
+answer: X)  Seaweed
+
+From which of the following sources is the food additive carrageenan (read as: carr-ah-GEE-nan) derived:
+W) petroleum
+X) seaweed
+Y) corn husks
+Z) yarrow root

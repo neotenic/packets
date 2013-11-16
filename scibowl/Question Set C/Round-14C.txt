@@ -1,0 +1,242 @@
+####
+tournament: Question Set C
+round: Round-14C.pdf
+####
+
+num: 2
+category: Physics
+difficulty: HS
+seen: 23
+answer: Gluon
+
+Within the Standard Model of Particle Physics what particle is responsible for carrying the strong nuclear force?
+
+----
+num: 2
+category: Physics
+difficulty: HS
+seen: 25
+answer: Heisenberg Uncertainty Principle  (Accept:  Uncertainty 
+Principle)
+
+What is the principle or law that fundamentally limits the accuracy of specifying at the same time the momentum and position of a particle?
+
+----
+num: 3
+category: Biology
+difficulty: HS
+fixed: -1
+seen: 39
+answer: 1n and 2s
+
+If 2n is the number of chromosomes and 2s is the DNA content of a diploid human cell in G1 of the cell cycle, what are the n ands values, respectively, of a human spermatogonia at the end of telophase one of meiosis?
+
+----
+num: 4
+category: Math
+difficulty: HS
+seen: 25
+answer: 1
+(Solution:  B^2 - 4ac = 0;  100 – 4(k)(25) = 0;  K = 1)
+
+Find the value of k that will result in a unique, real solution for the following equation: kx^2 + 10x + 25 = 0
+
+----
+num: 6
+category: General Science
+difficulty: HS
+seen: 30
+answer: Nitric Acid  (Accept:  Nitrous)
+
+About two-thirds of the cause of acid precipitation is the production of sulfuric acid in the atmosphere. The production of what acid accounts for about the other one-third of acid rain?
+
+----
+num: 9
+category: Physics
+difficulty: HS
+seen: 27
+answer: Zinc Sulfide  (Accept:  Zns)
+
+Most of the early classical experiments with alpha particles were done by Rutherford and co-workers using a simple scintillation detector, which was a screen most commonly coated with what substance?
+
+----
+num: 10
+category: Biology
+difficulty: HS
+seen: 36
+answer: 1 and 3  (Accept:  1  - Longitudinal Section of a Terminal Bud and 
+3 - Transverse Section of a Lateral Root Tip)
+
+By number or name, identify all of the following 4 areas of plants where you would be MOST likely to see meristematic tissue:
+1) longitudinal section of a terminal bud
+2) cross-section of the pith of a sunflower stem
+3) transverse section of a lateral root tip
+4) cross-section of central parenchymal cells of a corn stem
+
+----
+num: 11
+category: Math
+difficulty: HS
+seen: 26
+answer: 3
+
+Giving your answer as one, two, three, or four, in what quadrant will theta terminate if sine θ and secant θ are both negative?
+
+----
+num: 11
+category: Math
+difficulty: HS
+fixed: -1
+seen: 24
+answer: 1
+X
+
+Differentiate and simplify the following with respect to x: y = ln x(read as: y = natural log of absolute value of x)
+
+----
+num: 14
+category: Astronomy
+difficulty: HS
+seen: 55
+answer: Zeeman Effect
+
+What is the MOST common scientific term for the specific spectral line-splitting effect resulting when atoms absorb or emit radiation in the presence of a magnetic field?
+
+----
+num: 16
+category: Physics
+difficulty: HS
+seen: 26
+answer: Bosons
+
+In the Standard Model of particle physics, all forces arise because of the exchange of what fundamental class of particles?
+
+----
+num: 18
+category: Math
+difficulty: HS
+seen: 25
+answer: Sin θ
+
+Simplify the following trigonometric expression completely: cos θ tan θ(read as: cosine theta tangent theta)
+
+----
+num: 18
+category: Math
+difficulty: HS
+seen: 26
+answer: 420
+(Solution:  P = N!/(n^1! N^^2! n^^3!...); P = 8!/(4! 2! 2!) = 420)
+
+In how many ways can 4 green, 2 yellow, and 2 red tee-shirts be given to 8 soccer players standing in a row if each player receives only one tee -shirt?
+
+----
+num: 20
+category: General Science
+difficulty: HS
+seen: 31
+answer: Gray
+
+What is the SI unit for absorbed dose of ionizing radiation?
+
+----
+num: 21
+category: Astronomy
+difficulty: HS
+seen: 55
+answer: Inferior Conjunction
+
+What is the most common astronomical term for the geometrical configuration where Venus is between the Earth and the Sun?
+
+----
+num: 21
+category: Astronomy
+difficulty: HS
+seen: 53
+answer: 65 Degrees
+(Solution:  15 Degrees Per Hour)
+
+How many degrees of arc are in 4 hours and 20 minutes of right ascension?
+
+----
+num: 22
+category: Physics
+difficulty: HS
+seen: 25
+answer: –6
+(Solution: Radius of Curvature = 2 × Focal Length)
+
+What is the focal length, in centimeters and giving the proper sign, of a convex mirror that has a radius of curvature of 12 centimeters?
+
+----
+num: 22
+category: Physics
+difficulty: HS
+fixed: -1
+seen: 25
+answer: Oxygen  (Accept:  O Xygen-17 or O-17)
+(Solution:  He-4 + N-14 ! O-17 + Proton)
+
+Rutherford and coworkers in the early 20^th century found that when alpha particles strike nitrogen-14 nuclei, they most commonly produce what element?
+
+----
+num: 23
+category: Chemistry
+difficulty: HS
+fixed: -1
+seen: 33
+answer: 120º  (Accept:  Three 120º)
+
+Predict the bond angles, in degrees, for atoms in a molecule of boron trichloride:
+
+----
+num: 23
+category: Chemistry
+difficulty: HS
+fixed: -1
+seen: 34
+answer: 74
+(Solution:  v = (Nrt)/p = [(3.0 Mol)0. 0821l.atm/mol.k)(300k)]/1 Atm = 73.89l)
+
+Consider a flexible balloon filled with 3.0 moles of helium at a temperature of 27ºC and at a pressure of 101.3 kilopascals. What is the volume in the balloon, in liters to the nearest whole number?
+
+----
+num: 24
+category: Biology
+difficulty: HS
+seen: 38
+answer: S
+
+In which of the following 4 phases of cell cycle would a chemical that causes mispairing of bases during replication do the most damage: G-1; G-2; S; M
+
+----
+num: 24
+category: Biology
+difficulty: HS
+fixed: -1
+seen: 42
+answer: 6/16  (Accept: 3/8)
+(Solution:  3/16 + 3/16)
+
+For a dihybrid cross between parent plants that are each heterozygous for both traits, if there is complete dominance and independent assortment, what is the total fraction of the offspring that will have a recessive phenotype for either trait and the dominant for the other?
+
+----
+num: 25
+category: Physics
+difficulty: HS
+seen: 25
+answer: 3
+(Solution:   τ = V/r = 3/1 = 3 Rad/sec)
+
+What is the angular velocity, in radians per second, of a wagon wheel with a diameter of 2 meters and a surface velocity of 3 meters per second?
+
+----
+num: 25
+category: Physics
+difficulty: HS
+seen: 26
+answer: 20
+(Solution:  Fb = Dgv = (1000 kg/m^3)(9.8m/s^2)(1.10m^3) = 10,780n;  10,780n – (100kg)(9.8m/s^2) = 
+9,800n.  Each Pers on Weighs (50kg)( 9.8m/s^2) = 490n;  9800n/490n = 20 Pirates)
+
+The dread pirate Roberts orders his crew into a 100 kilogram rowboat to sail to an island to look for buried treasure. If the rowboat has a capacity of 1.10 cubic meters and is in freshwater, how many 50 kilogram pirates can board the rowboat before it would sink?

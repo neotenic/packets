@@ -1,0 +1,329 @@
+####
+tournament: #6420
+round: Show #6420 - Friday, July 13, 2012
+year: 2012
+date: 2012-07-13
+####
+
+num: 1
+category: Trash
+difficulty: 200
+seen: 5
+answer: a motel
+
+In 1925 the first of these lodging places along highways & byways appeared in San Luis Obispo, California.
+
+----
+num: 2
+category: Literature
+difficulty: 200
+seen: 4
+answer: Murder
+
+This crime "at the Vicarage".
+
+----
+num: 3
+category: History
+difficulty: 200
+seen: 5
+answer: (the ten) plagues (of Egypt)
+
+Murrain, a cattle disease, is No. 5 on this Biblical list.
+
+----
+num: 4
+category: Trash
+difficulty: 400
+seen: 6
+answer: Dr. Phil (McGraw)
+
+In 1998 this relationship guru began his rise to fame by appearing on Oprah's show every Tuesday.
+
+----
+num: 5
+category: Literature
+difficulty: 400
+seen: 4
+answer: None
+
+"And Then There Were" this many.
+
+----
+num: 6
+category: History
+difficulty: 400
+seen: 3
+answer: the Inca Empire
+
+Europeans learned of potatoes when the Spanish conquered this empire in the 1530s.
+
+----
+num: 7
+category: Trash
+difficulty: 600
+seen: 5
+answer: Harvard
+
+A donation of 120 pounds & 400 books helped the Mass. Bay Colony start a college in the 1600s, today known as this.
+
+----
+num: 8
+category: Literature
+difficulty: 600
+seen: 4
+answer: The Mirror
+
+This object "Crack'd from Side to Side".
+
+----
+num: 9
+category: History
+difficulty: 600
+seen: 5
+answer: brass tacks
+
+Proverbially, to deal with the essential facts of a matter is to "get down to" these 2-word metallic fasteners.
+
+----
+num: 10
+category: History
+difficulty: 600
+seen: 5
+answer: Western Australia
+
+Of the 6 states of Australia, the largest by area is this "directional" one.
+
+----
+num: 11
+category: Literature
+difficulty: 600
+seen: 4
+answer: Sandra Bullock
+
+On July 26, 1964 this Oscar winner was born in Arlington, Virginia.
+
+----
+num: 12
+category: Trash
+difficulty: 800
+seen: 5
+answer: Sputnik
+
+The Space Age began October 4, 1957 with the launch of this satellite.
+
+----
+num: 13
+category: Literature
+difficulty: 800
+seen: 4
+answer: the library
+
+"The Body in" this room of the house.
+
+----
+num: 14
+category: History
+difficulty: 800
+seen: 3
+answer: Dorsey
+
+Last name of brothers Jimmy & Tommy, who formed a big band orchestra popular in the 1930s.
+
+----
+num: 15
+category: History
+difficulty: 800
+seen: 4
+answer: 12 and -12
+
+The two different integer values of the square root of 144.
+
+----
+num: 16
+category: Literature
+difficulty: 800
+seen: 4
+answer: bullfrogs
+
+Named for their call, these semi-aquatic critters can reach 18 inches in length when you include their hind legs.
+
+----
+num: 17
+category: Literature
+difficulty: 1000
+seen: 4
+answer: the pigeon
+
+"Cat Among" these birds.
+
+----
+num: 18
+category: History
+difficulty: 1000
+seen: 4
+answer: the binary system
+
+26 is rendered 11010 in this numbering system.
+
+----
+num: 19
+category: History
+difficulty: 1000
+seen: 4
+answer: the Congressional Record
+
+Printed by the GPO & also available on the Internet, it's the daily record of House & Senate activities.
+
+----
+num: 20
+category: Literature
+difficulty: 1000
+seen: 3
+answer: bullion
+
+Gold or silver in block form.
+
+----
+num: 21
+category: Art
+difficulty: 400
+seen: 4
+answer: Carmen
+
+This female Spanish character sings the "Habanera" (lyrics in French).
+
+----
+num: 22
+category: Literature
+difficulty: 400
+seen: 4
+answer: hieroglyphics
+
+By about 300 B.C., there were more than 6,000 symbols used in this Egyptian writing.
+
+----
+num: 23
+category: History
+difficulty: 400
+seen: 3
+answer: the sinking of the 
+
+As a 2-month-old, Millvina Dean was placed in lifeboat No. 10 during this tragic 1912 event; she outlived all other survivors.
+
+----
+num: 24
+category: Literature
+difficulty: 800
+seen: 4
+answer: the lowdown
+
+You're gonna give me this 7-letter word meaning the true, secret or inside info.
+
+----
+num: 25
+category: History
+difficulty: 800
+seen: 3
+answer: Ireland
+
+The Kerryman Newspaper,.
+
+----
+num: 26
+category: History
+difficulty: 800
+seen: 4
+answer: Iwo Jima
+
+In 2007 Charles W. Lindberg passed away at age 86, the last survivor of the 1st flag raising on this Japanese island in WWII.
+
+----
+num: 27
+category: Literature
+difficulty: 1200
+seen: 4
+answer: hibernate
+
+Bear down & tell us it's from the Latin for "to spend the winter".
+
+----
+num: 28
+category: Science
+difficulty: 1200
+seen: 6
+answer: fly
+
+Put these 3 letters before "wheel" to get a wheel that regulates a machine's speed & uniformity of motion.
+
+----
+num: 29
+category: Art
+difficulty: 1600
+seen: 5
+answer: Verdi
+
+He composed "La Donna E Mobile".
+
+----
+num: 30
+category: Literature
+difficulty: 1600
+seen: 4
+answer: low blood pressure
+
+3-word term also known as hypotension.
+
+----
+num: 31
+category: Science
+difficulty: 1600
+seen: 6
+answer: a turbine
+
+The water wheel & the windmill are simple types of this, a machine with a rotor to turn flow into energy.
+
+----
+num: 32
+category: History
+difficulty: 1600
+seen: 4
+answer: (the Battle of) the Alamo
+
+The last survivor of this battle wasn't one of Santa Anna's men but 1-year-old Alejo Perez Jr., who lived until 1918.
+
+----
+num: 33
+category: Literature
+difficulty: 2000
+seen: 6
+answer: a hiatus
+
+It's a break or interruption in the continuity of work.
+
+----
+num: 34
+category: Science
+difficulty: 2000
+seen: 8
+answer: a dynamo
+
+It's someone with a lot of energy, or a device that generates electric current by using coiled wire in a magnetic field.
+
+----
+num: 35
+category: History
+difficulty: 2000
+seen: 6
+answer: Canada
+
+The Nunatsiaq News,.
+
+----
+num: 36
+category: History
+difficulty: 2000
+seen: 6
+answer: the Charge of the Light Brigade
+
+Edwin Hughes, AKA Balaclava Ned, died in 1927, the last survivor of this attack in the Battle of Balaclava.

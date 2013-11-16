@@ -1,0 +1,234 @@
+####
+tournament: HSAPQ Tournament 11
+round: tourn11-09.pdf
+year: 2009
+####
+
+num: 1
+category: Literature
+difficulty: HS
+fixed: 1
+seen: 442
+answer: Yukio {Mishima} [or {Mishima Yukio}; do not accept or prompt on "{Yukio}" by {itself}; or {Kimitake}
+
+This man described the homosexuality of Kochan in his work Confessions of a Mask. He wrote another work in which Isao (EYE-sow), Ying Chan, and Toru are all successive incarnations of Kiyaoki, who appears in Spring Snow. That work by this author centers on the lawyer Shigekuni Honda. This author ended a novel with Mizoguchi's arson of the titular (*) Temple of the Golden Pavilion. All of those works were completed prior to this author's televised suicide by seppuku (SEH-puh-koo). For 10 points, name this Japanese author who wrote the Sea of Fertility tetralogy.
+
+----
+num: 2
+category: Fine Arts
+difficulty: HS
+fixed: None
+seen: 494
+answer: Ralph Vaughan Williams
+
+This man's first symphony sets poems from Whitman's Leaves of Grass and contains the movements "The Explorers" and "On the Beach at Night Alone". He wrote a piece for violin and orchestra based on a George Meredith poem that depicts a (*) bird rising up to the heavens. Another of this man's works was inspired by the music of the composer of the motet Spem in alium. For 10 points, identify this British composer of A Sea Symphony and The Lark Ascending who wrote fantasias on "Greensleeves" and on a Theme by Thomas Tallis.
+
+----
+num: 3
+category: History
+difficulty: HS
+fixed: 57
+seen: 417
+answer: Gamal Abdel {Nasser}
+
+This politician decried the forced removal of Ali Maher as an attack on his nation's sovereignty. After his country's defeat in a war with Israel, this man united with Muhammad Naguib to lead the Free Officers movement in a rebellion against the monarchy. Later, his undertaking of the (*) High Dam project in part caused the resulting reservoir to be named for him. His nationalization of a major waterway sparked the Suez Canal Crisis. For 10 points, name this Egyptian president and pan-Arab leader who was succeeded by Anwar Sadat.
+
+----
+num: 3
+category: History
+difficulty: HS
+fixed: 57
+seen: 415
+answer: Gamal Abdel {Nasser}
+
+This politician decried the forced removal of Ali Maher as an attack on his nation's sovereignty. After his country's defeat in a war with Israel, this man united with Muhammad Naguib to lead the Free Officers movement in a rebellion against the monarchy. Later, his undertaking of the (*) High Dam project in part caused the resulting reservoir to be named for him. His nationalization of a major waterway sparked the Suez Canal Crisis. For 10 points, name this Egyptian president and pan-Arab leader who was succeeded by Anwar Sadat.
+
+----
+num: 4
+category: Literature
+difficulty: HS
+fixed: 1
+seen: 445
+answer: Carl {Sandburg}
+
+One poem by this author opens with orders to "pile the bodies high," and to "shovel them under," to let the title substance "work." Another poem by this author of "Grass" sees the title entity coming on "little cat feet." This poet described "magnetic curses" flung by a "Player with Railroads (*) and Freight Handler to the Nation" in a work that declares a certain location the "City of the Big Shoulders" and "Hog Butcher for the World." For 10 points, name this American poet of "Fog" and "Chicago."
+
+----
+num: 5
+category: Science
+difficulty: HS
+fixed: -1
+seen: 482
+answer: {IP} [or {Internet} Protocol; accept {TCP/IP} or {Transmission Control Protocol/Internet Protocol}
+
+Its namesake suite is modeled in four layers, including those named "Link," "Transport," and "Application." Values important to this system can be represented in CIDR ("cider") notation. The newest version of this replaces ARP ("A-R-P") with a procedure called (*) "Neighbor Discovery" and also allows strings of zeroes to be represented by double colons. That new version, its sixth, also uses a 128-bit system for its namesake addresses. For 10 points, identify this network addressing protocol commonly paired with TCP.
+
+----
+num: 6
+category: History
+difficulty: HS
+fixed: 57
+seen: 422
+answer: {Ivan} the Terrible [or {Ivan IV} Vasilyevich; or {Ivan} Chetvyorty; or {Ivan} Grozny; prompt on
+
+This ruler was betrayed by Andrei Kurbsky in the Livonian War, leading to a fear of aristocrats that encouraged him to form a secret police, whose insignia was a dog's head and broom, called the Oprichniki (OP-reech-NEE-kee). This man's murder of Dmitri ended the Rurik line and resulted in the (*) Time of Troubles. Initially the Grand Prince of Moscow, he was the first man to take a broader title. For 10 points, name this first tsar of Russia, who was known for his iron-fisted rule.
+
+----
+num: 7
+category: Science
+difficulty: HS
+fixed: 1
+seen: 493
+answer: pi
+
+It is the result of the BPP formula and Machin-like formulas. Divided by four, it is equal to the Gregory series. When dividing it by two, it is the answer to Buffon's needle problem. It is multiplied times i in Euler's (OY-lurz) identity. Lindermann proved that it is (*) transcendental, implying that the circle cannot be squared. It is equal to 180 degrees divided by one radian. For 10 points, name this number, equal to the ratio of a circle's circumference and its diameter, and symbolized by a Greek letter.
+
+----
+num: 8
+category: History
+difficulty: HS
+fixed: 1
+seen: 415
+answer: Commonwealth of {Virginia}
+
+This state is the namesake of an outdated alternate name for francium. A man from this state kills Trampas in a duel and marries the schoolteacher Molly Wood in a novel by Owen Wister. A plan calling for representation in the U.S. legislature to be (*) proportional to population was introduced at the Constitutional Convention by delegates from this state. During a 2006 Senate race in this state, the Republican incumbent lost in part due to using an ethnic slur against a Jim Webb campaign volunteer. For 10 points, name this "Old Dominion" and "mother of Presidents."
+
+----
+num: 9
+category: Mythology
+difficulty: HS
+fixed: -1
+seen: 792
+answer: {Quetzalcoatl} ({ket}-{ZAL}-{co}-{ahh}-{tl})
+
+This god threw himself onto a funeral pyre and then became the planet Venus. He mixed the bones from the previous four worlds with his own blood to create humanity. The twin brother of this god is a dog-faced lightning deity named (*) Xolotl (SHO-lot-el). This god was once exiled by the "smoking mirror" Tezcatlipoca (TEZ-kat-lee-poe-kah). Because this god had light skin and a light beard, believers made the grave mistake of confusing this feathered serpent with Hernan Cortes (cor-TEZ). For 10 points, name this chief deity of the Aztecs.
+
+----
+num: 10
+category: Social Science
+difficulty: HS
+fixed: 1
+seen: 382
+answer: the {prisoner's dilemma}
+
+Changing this situation to make the reward worth more than the temptation creates a stag hunt, which has two Nash equilibria as compared to one for this situation. Merrill Flood, Melvin Dresher, and Robert (*) Axelrod were among the scholars who studied this scenario as applicable to nuclear arms. The "tit for tat" strategy is one approach to this situation. For 10 points, identify this fundamental game theory problem, in which two suspects must each choose to defect or cooperate.
+
+----
+num: 11
+category: Science
+difficulty: HS
+fixed: 1
+seen: 486
+answer: Niels {Bohr}
+
+The distance from a hydrogen atom nucleus that an electron is most likely to be found is known as this man's namesake radius. This man posited that simultaneous wave-particle duality was impossible to observe as part of the (*) Copenhagen interpretation of quantum mechanics he created with Heisenberg (HIGH-zuhn-buhrg). This man's model of the atom modified that of Rutherford. For 10 points, name this physicist who posited that atoms consist of negatively charged electrons that follow circular orbits around a dense, positively charged nucleus.
+
+----
+num: 12
+category: Fine Arts
+difficulty: HS
+fixed: 1
+seen: 496
+answer: {Leonardo da Vinci} [or Leonardo di ser Piero {da Vinci}]
+
+The only work by this painter that is permanently held in the United States is his portrait of Ginevra di Benci (jih-NAVE-ruh dee BEN-chee). In another work, he depicted the angel Uriel holding the infant John the Baptist, who is ushered towards the infant Christ by Mary. This artist of Lady with an Ermine used the sfumato (sfoo-MAH-toe) style to paint his works. This artist of (*) Virgin of the Rocks traced out ideal human proportions in his sketch of the Vitruvian Man. For 10 points, name this artist who also painted the enigmatically smiling Mona Lisa.
+
+----
+num: 13
+category: History
+difficulty: HS
+fixed: 1
+seen: 418
+answer: War of {1812}
+
+During this war, Phineas Riall declared "Those are regulars, by God!" Congreve rockets were used during the Battle of Bladensburg in this war. Oliver Perry declared "We have met the enemy and they are ours" after the Battle of (*) Lake Erie during this war. It was instigated due to the impressment controversy and the "land hunger" of the "War Hawks." It included the burning of the White House, and was ended by the Treaty of Ghent. For 10 points, name this war between the U.S. and Britain, which began in the namesake year.
+
+----
+num: 14
+category: Literature
+difficulty: HS
+fixed: 57
+seen: 444
+answer: Albert {Camus} ({ca}-{MOO})
+
+One of this author's fictional characters watches dead rats pile up, treats Father Paneloux, and stays in contact with his wife, who left Oran. In an essay, this author confronts the absurdity of existence by referencing a Greek figure who rolled a rock up a hill in The (*) Myth of Sisyphus. In one of this novels, a character learns his mother has died and shoots an Arab on the beach. Protagonists created by this author include Dr. Rieux (ree-OO) and Meursault (mer-SOH). For 10 points, name this French existentialist who wrote The Plague and The Stranger.
+
+----
+num: 15
+category: Fine Arts
+difficulty: HS
+fixed: 1
+seen: 488
+answer: Gioachino Antonio {Rossini}
+
+This composer wrote about Don Magnifico trying to arrange a marriage to Ramiro for Clorinda or Tisbe, the stepsisters of the title character, Cinderella. This composer created an opera in which the title character repeats his own name in "Largo al Factotum" and Doctor Bartolo's ward marries Count (*) Almaviva. He wrote about a revolt against Gesler by a Swiss patriot in an opera that involves an apple on Jemmy's head that must be shot off. For 10 points, name this composer of The Barber of Seville and William Tell.
+
+----
+num: 16
+category: Science
+difficulty: HS
+fixed: 1
+seen: 490
+answer: {blood} type [or {blood group}; prompt on {blood}]
+
+When this classification is different for a fetus and its mother, HDN can occur, and must be treated with Rho(D) immune globulin. This classification system is determined by whether (*) A or B antigens are present; if both are not, the person in question is an "O." For 10 points, name this classification system that governs which donors provide fluids for transfusion.
+
+----
+num: 17
+category: Religion
+difficulty: HS
+fixed: 1
+seen: 454
+answer: Jainism
+
+A central symbol of this religion is a hand with a wheel on its palm. One sect of this religion requires that members be "sky-clad," or nude, and the other sect believes that the figure Mallinath was female. This religion, which is divided into the (*) Svetambara (sh-VET-ahm-bara) and Digambara (DEE-gam-bara) sects, venerates twenty-four "ford-builders" or tirthankaras (TEAR-than-karas), including the final one, Mahavira. For 10 points, name this Indian religion which emphasizes ahimsa, or nonviolence.
+
+----
+num: 17
+category: Religion
+difficulty: HS
+fixed: 1
+seen: 442
+answer: Jainism
+
+A central symbol of this religion is a hand with a wheel on its palm. One sect of this religion requires that members be "sky-clad," or nude, and the other sect believes that the figure Mallinath was female. This religion, which is divided into the (*) Svetambara (sh-VET-ahm-bara) and Digambara (DEE-gam-bara) sects, venerates twenty-four "ford-builders" or tirthankaras (TEAR-than-karas), including the final one, Mahavira. For 10 points, name this Indian religion which emphasizes ahimsa, or nonviolence.
+
+----
+num: 18
+category: Literature
+difficulty: HS
+fixed: 57
+seen: 448
+answer: Samuel {Johnson}
+
+This author noted that "When one is tired of London, one is tired of life," and claimed that "Patriotism is the last refuge of the scoundrel." This writer was the first to refer to John Donne and his contemporaries as the metaphysical poets in his work (*) Lives of the Most Eminent English Poets. This man wrote one work about a trip he took to Scotland with a friend. A biography about this man was written by that friend, James Boswell. For 10 points, name this English author of the Dictionary of the English Language.
+
+----
+num: 19
+category: Geography
+difficulty: HS
+fixed: 1
+seen: 720
+answer: {Madrid}
+
+A New Year's Eve tradition in this city is to eat twelve grapes at the Puerta del Sol. Upon gazing upon this city's ornate Segovia Bridge, one figure suggested either selling the bridge or buying a new river. Though it sits on the banks of the tiny Manzanares, it boasts such attractions as a former hospital that became the Queen Sofia Museum and the Las Ventas (*) bullfighting ring. This city was originally a fortress defending Toledo (toe-LAY-doh), and was chosen as capital for its neutrality. For 10 points, name this home to the Prado and capital of Spain.
+
+----
+num: 20
+category: History
+difficulty: HS
+fixed: 1
+seen: 413
+answer: {Henry} Morton {Stanley} [or John {Rowlands}]
+
+In honor of his perseverance in traveling upriver, this man was given the name "Bula Matari" (BOO-luh mah-TAH-ree), meaning "Breaker of Rocks." This Welsh-born man became a journalist after fighting in the American Civil War. The New York Herald financed his 1874 expedition to trace the course of the (*) Congo River, three years after his journey to locate a missing Scottish missionary. He found the missionary several months later, in poor health, at Lake Tanganyika (tahn-gahn-YEE-kuh). For 10 points, what explorer reportedly uttered the greeting "Dr. Livingstone, I presume"?
+
+----
+num: 21
+category: History
+difficulty: HS
+fixed: 57
+seen: 417
+answer: {Berlin}
+
+A meeting in this city set the precedent of allowing "Minority Treaties" at the Paris Peace Conference. One meeting in this city officially recognized the independence of Romania, Serbia, and Montenegro. The colonizing efforts of Pierre de Brazza prompted another meeting in this city, which began a "Scramble." That (*) 1884 conference in this city regulated Europe's colonization of Africa. In 1878, a congress here signed a treaty to amend the Treaty of San Stefano. For 10 points, name this city that was the center of the Weimar Republic and is now the capital of Germany.

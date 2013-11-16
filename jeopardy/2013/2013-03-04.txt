@@ -1,0 +1,428 @@
+####
+tournament: #6556
+round: Show #6556 - Monday, March 4, 2013
+year: 2013
+date: 2013-03-04
+####
+
+num: 1
+category: Art
+difficulty: 200
+seen: 5
+answer: a rook
+
+This piece that starts off in the corner is generally worth about 5 pawns.
+
+----
+num: 2
+category: Literature
+difficulty: 200
+seen: 3
+answer: a doe
+
+A female goat can be referred to as a nanny goat or this, just like a female deer.
+
+----
+num: 3
+category: History
+difficulty: 200
+seen: 6
+answer: Victor Hugo
+
+After declaring Napoleon III a traitor to France, this "Les Miserables" author went into exile for 19 years.
+
+----
+num: 4
+category: Literature
+difficulty: 200
+seen: 5
+answer: J.C. Penney
+
+It revamped its stores in 2012:JCP.
+
+----
+num: 5
+category: Geography
+difficulty: 200
+seen: 9
+answer: Venezuela
+
+The highest point in this country is Pico Bolivar.
+
+----
+num: 6
+category: Art
+difficulty: 400
+seen: 4
+answer: Grandmaster
+
+To earn this title, a player must attain a minimum of 2500 rating points.
+
+----
+num: 7
+category: Literature
+difficulty: 400
+seen: 4
+answer: gin
+
+Cheers to you if you know that London dry is a common type of this.
+
+----
+num: 8
+category: History
+difficulty: 400
+seen: 4
+answer: Dante
+
+In 1302 this poet was exiled from Florence by political enemies & faced being burnt at the stake if he returned.
+
+----
+num: 9
+category: Literature
+difficulty: 400
+seen: 4
+answer: American Eagle
+
+Take flight with this patriotic-sounding clothing store: AE.
+
+----
+num: 10
+category: Geography
+difficulty: 400
+seen: 7
+answer: Vancouver
+
+Stanley Park occupies 1,000 acres of this British Columbia city.
+
+----
+num: 11
+category: Art
+difficulty: 600
+seen: 4
+answer: a bishop
+
+To fianchetto one of these pieces is to move it onto one of the board's long diagonals.
+
+----
+num: 12
+category: Literature
+difficulty: 600
+seen: 4
+answer: "Columbia, Gem of the Ocean"
+
+In a patriotic song Columbia is the this "of the ocean".
+
+----
+num: 13
+category: History
+difficulty: 600
+seen: 5
+answer: Roman Polanski
+
+In the '70s this Oscar-nominated "Chinatown " director fled the United States.
+
+----
+num: 14
+category: Literature
+difficulty: 600
+seen: 4
+answer: Victoria\'s Secret
+
+It has a line called pink: VS.
+
+----
+num: 15
+category: Geography
+difficulty: 600
+seen: 8
+answer: Venice
+
+This major city on the Adriatic is vulnerable to floods, as was the case in 2008.
+
+----
+num: 16
+category: Art
+difficulty: 800
+seen: 4
+answer: blitz
+
+A game in which each player is allotted 5 minutes or less is called this type, German for "lightning".
+
+----
+num: 17
+category: Literature
+difficulty: 800
+seen: 4
+answer: poi
+
+This Hawaiian dish made from cooked taro root that's pounded to a paste is eaten with the fingers.
+
+----
+num: 18
+category: Literature
+difficulty: 800
+seen: 4
+answer: Ann Taylor
+
+Clothes for the working woman: AT.
+
+----
+num: 19
+category: Geography
+difficulty: 800
+seen: 7
+answer: Vienna
+
+Of Austria's 9 states, it's the smallest in area.
+
+----
+num: 20
+category: Art
+difficulty: 1000
+seen: 4
+answer: Sicilian
+
+One of black's most popular defenses is called this, a term for a person from a Mediterranean island.
+
+----
+num: 21
+category: Literature
+difficulty: 1000
+seen: 4
+answer: rad
+
+A unit of energy, it has also been used in slang to mean cool, great, wonderful.
+
+----
+num: 22
+category: History
+difficulty: 1000
+seen: 4
+answer: anarchy
+
+The government of Russia didn't like Peter Kropotkin's being lead thinker of this no-government philosophy.
+
+----
+num: 23
+category: Literature
+difficulty: 1000
+seen: 3
+answer: Bergdorf Goodman
+
+There's one at 5th & 58th in NYC: BG.
+
+----
+num: 24
+category: Geography
+difficulty: 1000
+seen: 7
+answer: Vatican City
+
+This "City" was created in 1929 by the Lateran treaty.
+
+----
+num: 25
+category: Geography
+difficulty: 400
+seen: 8
+answer: Iceland
+
+In the 1780s fumes & lava from the Laki volcano in this North Atlantic nation killed most of its livestock.
+
+----
+num: 26
+category: History
+difficulty: 400
+seen: 4
+answer: the marathon
+
+This was changed from 25 to 26.2 miles at London's 1908 Games so it would end in front of the royal family's box.
+
+----
+num: 27
+category: Art
+difficulty: 400
+seen: 3
+answer: the Capitol
+
+The Senate & house wings as we know them of this D.C. building were added by Thomas Walter in the 1850s.
+
+----
+num: 28
+category: Literature
+difficulty: 400
+seen: 4
+answer: Culture Club sandwich
+
+Boy George's group that's a double-decker creation with bacon, lettuce, tomato & turkey on 3 slices of bread.
+
+----
+num: 29
+category: Literature
+difficulty: 400
+seen: 4
+answer: easy
+
+It's not difficult.
+
+----
+num: 30
+category: Geography
+difficulty: 800
+seen: 7
+answer: the Aleutians
+
+Cleveland Volcano in this Alaskan island group just keeps on erupting; a June 19, 2012 belch sent ash 35,000 feet up.
+
+----
+num: 31
+category: History
+difficulty: 800
+seen: 4
+answer: Hungary
+
+Including 1952's "Magnificent Magyars", it has won more men's soccer medals than any other current country.
+
+----
+num: 32
+category: Art
+difficulty: 800
+seen: 4
+answer: Disney World
+
+Michael Graves, a leader of the post-modernism movement, designed hotels for this Orlando-area theme park.
+
+----
+num: 33
+category: Literature
+difficulty: 800
+seen: 4
+answer: cream Puff the Magic dragon
+
+Dairy-filled pastry that frolicked in the autumn mist in a land called Honah Lee.
+
+----
+num: 34
+category: Literature
+difficulty: 800
+seen: 4
+answer: teepee
+
+A tent used by Native Americans.
+
+----
+num: 35
+category: Geography
+difficulty: 1200
+seen: 7
+answer: Krakatoa
+
+When this volcano in the Sunda Strait erupted Aug. 27, 1883, the shock wave traveled around the world 7 times.
+
+----
+num: 36
+category: History
+difficulty: 1200
+seen: 4
+answer: badminton
+
+After teams from China, South Korea & Indonesia were disqualified in 2012, this sport mulled format changes.
+
+----
+num: 37
+category: Art
+difficulty: 1200
+seen: 4
+answer: Frank Lloyd Wright
+
+In 1904 in Buffalo he designed one of the USA's first all air-conditioned office buildings.
+
+----
+num: 38
+category: Literature
+difficulty: 1200
+seen: 4
+answer: egg roll-on deodorant
+
+A fried Asian appetizer that you use for personal grooming like Ban or Dry Idea.
+
+----
+num: 39
+category: Literature
+difficulty: 1200
+seen: 3
+answer: essay
+
+A short non-fiction literary composition, or to try.
+
+----
+num: 40
+category: Geography
+difficulty: 1600
+seen: 7
+answer: Mount Pinatubo
+
+Materials in the atmosphere from the 1991 eruption of this volcano on Luzon caused the world's temp. to drop by 1 degree.
+
+----
+num: 41
+category: Literature
+difficulty: 1600
+seen: 5
+answer: Peppermint Patty melt
+
+Charlie Brown's gal pal is a hamburger with Swiss cheese & onions served on grilled rye.
+
+----
+num: 42
+category: Literature
+difficulty: 1600
+seen: 5
+answer: Guernsey
+
+Mary Ann Shaffer & Annie Barrows:.
+
+----
+num: 43
+category: Literature
+difficulty: 1600
+seen: 4
+answer: seedy
+
+Shabby & rundown, or like a watermelon.
+
+----
+num: 44
+category: History
+difficulty: 2000
+seen: 5
+answer: upstream & downstream
+
+The numbered gates in the canoe slalom have 2 colors, red & green, which stand for these 2 directions on a river.
+
+----
+num: 45
+category: Art
+difficulty: 2000
+seen: 6
+answer: Hearst
+
+California's first licensed female architect, Julia Morgan, designed this tycoon's castle.
+
+----
+num: 46
+category: Literature
+difficulty: 2000
+seen: 5
+answer: Southern Comfort food
+
+Bourbon-&-peach liqueur that's a cozy dish from childhood, like meatloaf or macaroni & cheese.
+
+----
+num: 47
+category: Literature
+difficulty: 2000
+seen: 5
+answer: any
+
+Before "one" it means this one, that one, whatever one.

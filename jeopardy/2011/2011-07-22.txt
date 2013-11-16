@@ -1,0 +1,383 @@
+####
+tournament: #6200
+round: Show #6200 - Friday, July 22, 2011
+year: 2011
+date: 2011-07-22
+####
+
+num: 1
+category: Literature
+difficulty: 200
+seen: 4
+answer: John the Baptist
+
+When this man "saw many of the Pharisees ... come to his baptism, he said unto them, o generation of vipers".
+
+----
+num: 2
+category: Trash
+difficulty: 200
+seen: 5
+answer: Black Jack
+
+John J. Pershing, commander of the AEF during WWI, had this rhyming nickname.
+
+----
+num: 3
+category: History
+difficulty: 200
+seen: 5
+answer: Helen Keller
+
+This woman who triumphed over blindness & deafness was the granddaughter of Confederate gen. Charles W. Adams.
+
+----
+num: 4
+category: History
+difficulty: 200
+seen: 5
+answer: the State of the Union address
+
+Of this, the Constitution says the pres. "shall from time to time give to... Congress Information on the State of the Union".
+
+----
+num: 5
+category: Art
+difficulty: 200
+seen: 4
+answer: a tune
+
+A song from the eighth planet.
+
+----
+num: 6
+category: Literature
+difficulty: 400
+seen: 4
+answer: Moses
+
+"He returned to the land of Egypt: and (he) took the rod of God in his hand".
+
+----
+num: 7
+category: Trash
+difficulty: 400
+seen: 5
+answer: the King of Swing
+
+Gene Krupa dubbed Benny Goodman this.
+
+----
+num: 8
+category: History
+difficulty: 400
+seen: 4
+answer: Patton
+
+Benjamin D. Wilson, an early mayor of Los Angeles, was the grandfather of this general, "Old Blood and Guts".
+
+----
+num: 9
+category: History
+difficulty: 400
+seen: 4
+answer: the Internal Revenue Service
+
+This service determines, assesses & collects internal revenue in the United States.
+
+----
+num: 10
+category: Art
+difficulty: 400
+seen: 4
+answer: a mer
+
+French "sea" on the innermost planet.
+
+----
+num: 11
+category: Literature
+difficulty: 600
+seen: 4
+answer: David
+
+He "put his hand in his bag, and took thence a stone, and slang it".
+
+----
+num: 12
+category: Trash
+difficulty: 600
+seen: 5
+answer: chintz
+
+Decorator Mario Buatta is "the prince of" this indoor fabric.
+
+----
+num: 13
+category: History
+difficulty: 600
+seen: 5
+answer: Douglas MacArthur
+
+Both this general & his father Arthur fought in the Philippines, the father in 1898, the son in 1944.
+
+----
+num: 14
+category: History
+difficulty: 600
+seen: 4
+answer: the Washington Monument
+
+8 small windows are located at the 500-foot level of this Washington monument.
+
+----
+num: 15
+category: Art
+difficulty: 600
+seen: 4
+answer: turn
+
+To move around the axis of the second-biggest planet.
+
+----
+num: 16
+category: Literature
+difficulty: 800
+seen: 4
+answer: Peter
+
+"Then began he to curse and to swear, saying, I know not the man.  And immediately the cock crew".
+
+----
+num: 17
+category: Trash
+difficulty: 800
+seen: 5
+answer: "Killer" Diller
+
+Early in the career of comedian Phyllis, Time magazine dubbed her this.
+
+----
+num: 18
+category: History
+difficulty: 800
+seen: 4
+answer: David Eisenhower
+
+In 1968 this grandson of a general & U.S. president married Julie Nixon with Norman Vincent Peale officiating.
+
+----
+num: 19
+category: History
+difficulty: 800
+seen: 4
+answer: the Pentagon
+
+Even though it's in Arlington, VA., the address for this building is 1400 Defense Pentagon, Washington D.C. 20301.
+
+----
+num: 20
+category: Art
+difficulty: 800
+seen: 5
+answer: a pit
+
+The area for the orchestra on the biggest planet.
+
+----
+num: 21
+category: Trash
+difficulty: 1000
+seen: 4
+answer: "No-Drama" Obama
+
+The current president is known as this, for his cool demeanor in messy situations.
+
+----
+num: 22
+category: History
+difficulty: 1000
+seen: 4
+answer: the Mayflower Compact
+
+Ulysses S. Grant could count among his ancestors Richard Warren, a signer of this 1620 document.
+
+----
+num: 23
+category: History
+difficulty: 1000
+seen: 4
+answer: Housing and Urban Development
+
+This cabinet department is responsible for housing needs & the improvement & development of urban areas.
+
+----
+num: 24
+category: Art
+difficulty: 1000
+seen: 5
+answer: art
+
+Culture from the "third rock".
+
+----
+num: 25
+category: Trash
+difficulty: 400
+seen: 5
+answer: "Born to Run"
+
+This Springsteen song mentions "suicide machines sprung from cages out on Highway 9, chrome wheeled, fuel injected".
+
+----
+num: 26
+category: Literature
+difficulty: 400
+seen: 3
+answer: Lords
+
+Parliament has a whole "House of" them.
+
+----
+num: 27
+category: Geography
+difficulty: 400
+seen: 7
+answer: Pakistan
+
+The Tarbela Dam is located on the Indus River not far from Islamabad in this country.
+
+----
+num: 28
+category: Trash
+difficulty: 800
+seen: 5
+answer: "Little Red Corvette"
+
+Back in 1983 Prince drove this song to No. 6.
+
+----
+num: 29
+category: Literature
+difficulty: 800
+seen: 3
+answer: Earl (the Pearl)
+
+The oldest title, it's also the first name of basketball's Mr. Monroe.
+
+----
+num: 30
+category: Geography
+difficulty: 800
+seen: 8
+answer: the Aswan High Dam
+
+It supplies about 15% of Egypt's electric power.
+
+----
+num: 31
+category: Literature
+difficulty: 800
+seen: 4
+answer: E (for error)
+
+In baseball scoring it refers to a fielder's boo-boo.
+
+----
+num: 32
+category: Art
+difficulty: 1200
+seen: 5
+answer: Jacob
+
+Jose de Ribera's rendition.
+
+----
+num: 33
+category: Trash
+difficulty: 1200
+seen: 5
+answer: a Mercedes Benz
+
+Janis Joplin sang, "oh lord, won't you buy me" this car? "my friends all drive Porsches, I must make amends".
+
+----
+num: 34
+category: Literature
+difficulty: 1200
+seen: 3
+answer: Baron
+
+Used by one who holds his title only for life, it's also a homophone for a desolate adjective.
+
+----
+num: 35
+category: Geography
+difficulty: 1200
+seen: 7
+answer: the Snake
+
+The Oxbow, Brownlee & Hells Canyon dams all dam this winding river.
+
+----
+num: 36
+category: Art
+difficulty: 1600
+seen: 5
+answer: (Hieronymus) Bosch
+
+This low country painter disturbs Prado patrons with his "Garden of Earthly Delights".
+
+----
+num: 37
+category: Trash
+difficulty: 1600
+seen: 6
+answer: "Pink Cadillac"
+
+Aretha Franklin sang about "ridin' on the freeway of love" in this car; it was later the title of a hit by Natalie Cole.
+
+----
+num: 38
+category: Literature
+difficulty: 1600
+seen: 4
+answer: Duke
+
+There's one of Beaufort & one of Bedford & also a university in North Carolina.
+
+----
+num: 39
+category: Trash
+difficulty: 2000
+seen: 8
+answer: "I Can\'t Drive 55"
+
+Sammy Hagar protested the speed limit in this hit.
+
+----
+num: 40
+category: Literature
+difficulty: 2000
+seen: 5
+answer: Viscount
+
+Princess Margaret's son holds this fourth-highest rank, preceding "Linley".
+
+----
+num: 41
+category: Geography
+difficulty: 2000
+seen: 13
+answer: the Rio Grande
+
+In the 1910s the Elephant Butte Dam was built on this river to provide water & irrigation to Texas & New Mexico.
+
+----
+num: 42
+category: Literature
+difficulty: 2000
+seen: 5
+answer: W (Wolfram)
+
+Tungsten, on the periodic table.

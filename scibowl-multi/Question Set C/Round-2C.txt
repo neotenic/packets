@@ -1,0 +1,276 @@
+####
+tournament: Question Set C
+round: Round-2C.pdf
+####
+
+num: 2
+category: Physics
+difficulty: HS
+answer: Z)  the Wheels on the Outside of the Corner Rotate Faster 
+Because They Have More Distance to Travel
+
+If a car is going around a corner, which of the following statements correctly describes the relationship among the speeds of the wheels on the car:
+W) the wheels all rotate at the same speed 
+X) the wheels on the inside of the corner rotate faster because they have less distance to travel
+Y) the wheels on the inside of the corner rotate faster because they have more distance to travel 
+Z) the wheels on the outside of the corner rotate faster because they have more distance to travel
+
+----
+num: 3
+category: Biology
+difficulty: HS
+seen: 1
+answer: Y)  Homozygous
+
+What is the most appropriate term for the genetic character of an organism having a pair of identical alleles for a certain trait:
+W) dominant
+X) recessive
+Y) homozygous
+Z) heterozygous
+
+----
+num: 3
+category: Biology
+difficulty: HS
+seen: 1
+answer: X)  Jugular Artery
+
+Which of the following is NOT a blood vessel located in the human head or neck:
+W) jugular vein 
+X) jugular artery
+Y) internal carotid artery
+Z) temporal vein
+
+----
+num: 5
+category: Earth Science
+difficulty: HS
+seen: 1
+answer: Z)  Sedimentation
+
+Which of the following is NOT a process that makes up the 
+Earth’s hydrologic cycle:
+W) precipitation
+X) condensation
+Y) transpiration
+Z) sedimentation
+
+----
+num: 6
+category: General Science
+difficulty: HS
+seen: 1
+answer: X)  0.9%
+
+An isotonic solution of sodium chloride, also known as normal saline, is what percent by mass:
+W) 0.045%
+X) 0.9%
+Y) 2.5%
+Z) 10%
+
+----
+num: 6
+category: General Science
+difficulty: HS
+seen: 1
+answer: X)  100 Nanometers
+
+Which of the following BEST describes the size of a typical animal virus:
+W) 600 micrometers
+X) 100 nanometers
+Y) 1 nanometer
+Z) 1 angstrom
+
+----
+num: 7
+category: Astronomy
+difficulty: HS
+seen: 1
+answer: Y)  G-Type Star
+
+Our Sun is a:
+W) A-type star
+X) B-type star
+Y) G-type star
+Z) K -type star
+
+----
+num: 9
+category: Physics
+difficulty: HS
+seen: 1
+answer: Z)  Joule
+
+Which of the following is the SI unit for the product of newtons and meters:
+W) henry
+X) watt
+Y) erg
+Z) joule
+
+----
+num: 9
+category: Physics
+difficulty: HS
+seen: 1
+answer: X)  4 to 1
+
+In a gearing arrangement where a 10-tooth pinion drives a 40-tooth gear, what is the gear ratio:
+W) 1 to 4
+X) 4 to 1
+Y) 1 to 10
+Z) 40 to 1
+
+----
+num: 10
+category: Biology
+difficulty: HS
+seen: 1
+answer: W)  Smooth
+
+The type of muscle that is in the walls of human arteries is:
+W) smooth 
+X) striated
+Y) skeletal
+Z) fast twitch
+
+----
+num: 12
+category: Earth Science
+difficulty: HS
+seen: 1
+answer: W)  Oceans
+
+Which of the following is the largest global reserve of carbon on Earth:
+W) oceans
+X) soils
+Y) vegetation
+Z) atmospheric CO^2^
+
+----
+num: 13
+category: General Science
+difficulty: HS
+answer: X)  Mercury
+
+Which of the following is a trace element in coal that is a pollutant and neurotoxin released into the atmosphere when coal is burned, for which some states are currently developing technologies to reduce these emissions by 70 to 90%:
+W) sulfur
+X) mercury
+Y) carbon
+Z) chromium
+
+----
+num: 14
+category: Astronomy
+difficulty: HS
+answer: Y)  the Sun’s Rays Strike the Northern Hemisphere More 
+Directly in Summer
+
+Which of the following is the BEST explanation for why the 
+Northern Hemisphere’s summer occurs when the Sun is not the closest to Earth in Earth’s orbit around the Sun:
+W) the Sun’s rays are made of mostly neutrinos that have such small mass that distance does not matter
+X) the Sun emits different amounts of energy at different times of the year 
+Y) the Sun’s rays strike the Northern Hemisphere more directly in summer
+Z) because of precession
+
+----
+num: 16
+category: Physics
+difficulty: HS
+seen: 1
+answer: W)  Is Zero
+
+Ignoring air resistance, wind velocity, and the rotation of the Earth, if a projectile is fired directly upwar ds, the horizontal component of the projectile’s velocity:
+W) is zero
+X) remains a non zero constant
+Y) continuously increases
+Z) continuously decreases
+
+----
+num: 17
+category: Biology
+difficulty: HS
+seen: 1
+answer: X)  Human Arm
+
+Which of the following is a homologous structure to a whale flipper:
+W) insect wing
+X) human arm
+Y) a fish operculum
+Z) shark fin
+
+----
+num: 19
+category: Earth Science
+difficulty: HS
+seen: 1
+answer: W)  the Aleutian Islands
+
+In which of the following locations is oceanic crust converging with oceanic crust:
+W) the Aleutian Islands 
+X) the Himalayan Mountains
+Y) the Mid-Atlantic Ridge
+Z) the E ast Pacific Rise
+
+----
+num: 19
+category: Earth Science
+difficulty: HS
+seen: 1
+answer: Z)  100%
+
+About what percent of all glaciers in the world are retreating today:
+W) 25%
+X) 50%
+Y) 75%
+Z) 100%
+
+----
+num: 20
+category: General Science
+difficulty: HS
+seen: 1
+answer: Z)  Homogenization
+
+The process in which fat globules in milk are broken up into smaller, more evenly dispersed particles is BEST described as:
+W) lactation 
+X) pasteurization 
+Y) fermentation
+Z) homogenization
+
+----
+num: 20
+category: General Science
+difficulty: HS
+answer: Y)  Petrochemicals Are Used to Make Latex
+
+Which of the following is LEAST accurate regarding non-fuel petroleum products:
+W) petroleum jelly is often used to make household toiletries
+X) asphalt is often used in making roof shingles
+Y) petrochemicals are used to make latex
+Z) printing inks and paint solvents are often petroleum-based
+
+----
+num: 23
+category: Physics
+difficulty: HS
+seen: 1
+answer: Y)  45º
+
+Neglecting air resistance, at what angle above the horizontal would you aim your garden hose nozzle to obtain the greatest horizontal distance if the nozzle is at ground level:
+W) 0º
+X) 30º
+Y) 45º
+Z) 60º
+
+----
+num: 24
+category: Biology
+difficulty: HS
+seen: 1
+answer: Y)  Skull
+
+The lambdoid suture is found in which of the following parts of the human body:
+W) scapula
+X) pelvis
+Y) skull
+Z) knee

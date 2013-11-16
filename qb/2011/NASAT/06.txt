@@ -1,0 +1,387 @@
+####
+tournament: NASAT
+round: 06.pdf
+year: 2011
+####
+
+num: 1
+category: Philosophy
+difficulty: HS
+fixed: 1
+seen: 524
+answer: An {Enquiry Concerning Human Understanding}
+
+In this work, one character pretends to be Epicurus defending his religious beliefs. In an earlier section,
+ the author of this work declares that mathematical sciences are Relations of Idea, which are distinct from
+ Matters of Fact. Largely a reaction to the inductive reasoning of Locke, this work considers cause and
+ effect in arguing that we understand complex ideas because of simple ideas, a concept called the Copy
+ Principle. It later argues that miracles can’t exist because they contradict the laws of nature, and it earlier
+ presents an exception to the Copy Principle by imagining a “missing shade of blue.” For 10 points, name
+ this book that draws on A Treatise of Human Nature, also by David Hume.
+
+----
+num: 2
+category: Fine Arts
+difficulty: HS
+fixed: 1
+seen: 492
+answer: Henri {Matisse}
+
+This artist decorated the house of his longtime patron Sergei Shchukin, who also commissioned a second
+ version of an earlier painting in which the central nudes are painted red instead of skin tones. The French
+ stockbroker Genevieve Habert noticed that one of his final works, Le Bateau, had been hung upside in the
+ MOMA for over a month. In one of this man’s paintings, a woman arranges fruit on a table that blends in
+ with the red wall behind it. He painted his wife Amelie Noellie with a stripe dissecting her face in The
+ Green Line and with fruit on her head in Woman with a Hat. For 10 points, name this French painter who,
+ with Andre Derain, led the Fauvist movement.
+
+----
+num: 3
+category: Mythology
+difficulty: HS
+fixed: 1
+seen: 781
+answer: {dwarves} [accept: {dvergr}; {svartalfen}; {black elves}]
+
+The original owners of the pots Othrerir, Bothn, and Son were members of this race named Fjalar and
+ Galar, who were killed by Sutungr after killing the god Kvasir. Loki once turned into a fly and bit one of
+ these creatures named Eitri, in an attempt to prevent one of these creatures named Brokkr from winning a
+ bet. One of these creatures named Alvis attempts to marry the daughter of Thor, but is asked questions until
+ the sun rises and turns him into stone. The sons of Ivaldi are members of this race who built the ship of
+ Freyr and the spear of Odin. This race may be the same as the svartalfen, or black elves. For 10 points,
+ name this race from Norse mythology, notable for being short.
+
+----
+num: 4
+category: Science
+difficulty: HS
+fixed: -1
+seen: 489
+answer: {impedance}
+
+In waveguides, this quantity is proportional to the square root of permeability over permittivity times
+ either the wave number or the inverse of the wave number, depending on whether the wave is transverse
+ magnetic or transverse electric. In general, this quantity emerges as a constant of proportionality when the
+ Poynting theorem is used to calculate the power flow into a given surface. This complex quantity is
+ inversely proportional to the frequency for a capacitor and directly proportional to the frequency for an
+ inductor. This is the ratio of the complex voltage to the complex current. For 10 points, identify this
+ quantity composed of a real resistance and an imaginary reactance, the generalized resistance of alternating
+ current flow.
+
+----
+num: 5
+category: History
+difficulty: HS
+fixed: 57
+seen: 414
+answer: {Richard} I [or {Richard} the Lion-Hearted before it is read; prompt on {Richard}]
+
+This ruler's prohibition of Jews at his coronation led to an anti-Jewish massacre when some nevertheless
+ showed up to offer gifts. One story about this man said that he was lying ill on a stretcher from scurvy and
+ successfully shot several opponents with a crossbow while prone. He was later captured by Leopold of
+ Austria and ransomed. At the Battle of Arsuf, this man defeated Saladin's forces, though he failed to
+ capture Jerusalem. For 10 points, name this son of Henry II and Eleanor of Aquitaine who led the Third
+ Crusade and was known as "the lionhearted."
+
+----
+num: 6
+category: Literature
+difficulty: HS
+fixed: 57
+seen: 444
+answer: {Cunegonde}
+
+This character has an arrangement to visit Don Issachar three days a week and the Grand Inquisitor four
+ days. This character suggestively drops her handkerchief after seeing Paquette having sex behind some
+ bushes. Her brother is a commandant who claims to have been brought back to life by the Jesuits. She
+ becomes the mistress to two Portuguese men before having a relationship with the governor of Buenos
+ Aires. This character is freed from slavery in Constantinople after Cacambo helps her lover locate her and
+ ultimately agrees to work in a garden. This character is the daughter of Baron Thunder-ten-tronckh, who
+ employs the tutor Dr. Pangloss. For 10 points, name this long-suffering love interest of Candide.
+
+----
+num: 7
+category: Science
+difficulty: HS
+fixed: 1
+seen: 478
+answer: {Nematoda} [or {Nematodes}]
+
+Strongyloidiasis is caused by a member of this phylum, three different members of which are the
+ causative agents of lymphatic filariasis. This phylum is divided into the classes Adenophorea and
+ Secernentea. Members of this phylum reproduce by using spicules to transfer amoeba-like gamete cells that
+ crawl into the genital pore of the female. One organism in this phylum was used by Fire and Mello to
+ characterize RNAi; that species’ hermaphrodite contains exactly 959 somatic cells, all of which have been
+ fate-mapped. That organism, which was first studied by Sydney Brenner, is C. Elegans. For 10 points,
+ name this phylum which contains the roundworms.
+
+----
+num: 8
+category: Literature
+difficulty: HS
+fixed: -1
+seen: 442
+answer: {Who’s Afraid} of {Virginia Woolf?}
+
+In one speech from this a play a character says he will battle another man “with one hand on his
+ scrotum” after accusing him of planning to use genetic engineering to make ugly people sterile. In the third
+ act a man enters with a bouquet of snapdragons throwing them as spears at another character he calls
+ “houseboy.” This play ends with a woman saying “I am” in response to the wittiest thing said at the party
+ that evening. A game called “Get the Guest” reveals one woman had a hysterical pregnancy in its second
+ act titled “Walpurgisnacht.” A story about a man who dies in a car crash by swerving to avoid a porcupine
+ leads to the revelation that the central couple’s son is imaginary. Nick and Honey are invited over for
+ drinks by George and Martha, for 10 points, in this play by Edward Albee.
+
+----
+num: 9
+category: Social Science
+difficulty: HS
+fixed: 57
+seen: 377
+answer: Philip {Zimbardo}
+
+This psychologist did an experiment in which participants were asked to sign up for additional trials after
+ trying to memorize a list of words and were shocked regardless of performance. He described a process in
+ which groups provide an environment where individuals lose self-awareness, which he called
+ “deindividuation.” This psychologist worked with Lynne Henderson to create the Shyness Clinic. His most
+ famous experiment, run at Jordan Hall, saw a subject adopt a fake Southern accent from Cool Hand Luke
+ and call himself “John Wayne” before the study was shut down after just six days. For 10 points, name this
+ psychologist who ran the Stanford Prison Experiment.
+
+----
+num: 10
+category: History
+difficulty: HS
+fixed: 1
+seen: 419
+answer: Stalwarts
+
+Two Senators from this political faction resigned to protest the violation of a patronage deal known as
+ the "Treaty of Fifth Avenue." One member of this faction was nicknamed “Me Too" and later became a
+ political boss who united the five boroughs of New York into a single city to increase his power. This
+ faction included Thomas Platt and the "Immortal 306," who refused to vote for James Garfield. This faction
+ attempted to nominate Ulysses S. Grant for a third term. Chester A. Arthur was considered a member of
+ this faction, as he was a follower of its leader, Roscoe Conkling. For 10 points, name this Gilded Age
+ faction of the Republican Party and opponents of the Half-Breeds.
+
+----
+num: 11
+category: Fine Arts
+difficulty: HS
+fixed: 57
+seen: 495
+answer: Paul {Hindemith}
+
+Kemal Ataturk commissioned this composer to reorganize musical education in Turkey. This composer
+ collaborated with Leonid Massine on a ballet about the life of St. Francis, Nobilissima Visione, and with
+ George Balanchine on the ballet The Four Temperaments. This proponent of "Gebrauchsmusik" paid
+ tribute to the Brandenburg Concertos by writing a series of chamber concerti he called "Kammermusik."
+ He adapted incidental music from Turandot to compose his Symphonic Variations on Themes by Von
+ Weber, and wrote an opera about the life of Matthias Grunewald. For 10 points, name this 20th century
+ neo-Classical German composer of Mathis der Mahler.
+
+----
+num: 12
+category: History
+difficulty: HS
+fixed: 1
+seen: 425
+answer: Kingdom of {Thailand} [or {Ratcha Anachak Thai}; or {Prathet Thai}]
+
+The Catholic martyrs of this country were seven local Christians who were executed as French spies in
+ 1940. The three southern provinces of this country have populations that are over thirty percent Muslim.
+ The majority religion in this country venerates Lokesvara and believes that this country’s head of state is a
+ boddhisatva, two remnants of an earlier Mahayana strain that survived into the current Theravada
+ dominance of Buddhism here. The majority of young men in this country spend at least a few months as
+ Buddhist monks, and the prevalence of that religion led to a failed 2007 initiative to have Buddhism
+ declared the state religion in, for 10 points, what country, home to the world’s largest Theravada
+ population?
+
+----
+num: 13
+category: Literature
+difficulty: HS
+fixed: 57
+seen: 449
+answer: {Dracula}
+
+One character in this novel feeds a fly to a spider and the spider to a bird before himself eating the bird.
+ That character, R. M. Renfield, is a resident of a lunatic asylum run by one of the main characters. The
+ protagonist of this work names his son after the Texan Quincey Morris, who is killed in the climactic battle
+ at its end. The title character sails the Czarina Catherine to England, where he attacks Arthur Holmwood’s
+ fiancée Lucy Westenra. That title character of this novel is hunted by Dr. Seward, Mina Murray, Dr. Van
+ Helsing, and Jonathan Harker. For 10 points, name this Bram Stoker novel about a Transylvanian count
+ who happens to be a vampire.
+
+----
+num: 14
+category: Fine Arts
+difficulty: HS
+fixed: 1
+seen: 487
+answer: the {can}-{can}
+
+In one opera, it is performed during the song "Ja, wir sind es, die Grisetten" in Hanna's house before
+ Danilo arrives from Maxim's. In addition to that appearance in Franz Lehar's The Merry Widow, it also
+ appears as a reprise to close out an opera immediately after a lightning bolt blocks one person's path, and
+ originally is used in that opera after a series of minuets by Jupiter are denounced as boring. It is
+ accompanied by the "Galop Infernal" and danced by the Olympian gods in that opera by Jacques
+ Offenbach, Orpheus in the Underworld. For 10 points, identify this Moulin Rouge dance involving high leg
+ kicks.
+
+----
+num: 15
+category: Literature
+difficulty: HS
+fixed: 57
+seen: 441
+answer: Robert {Lowell}
+
+This poet asks why the "blessed structures, plot and rhyme" are "no help" when "I want to make /
+ something imagined, not recalled?" in the poem "Epilogue." The speaker laments, "All you recovered from
+ Poseidon died / with you, my cousin" in a poem whose sixth section is dedicated to "Our Lady of
+ Walsingham." He ended one poem with the assertion, "A savage servility / slides by on grease." Another of
+ his poems claims, "I myself am hell / nobody's here" and begins by discussing "Nautilus Island's hermit
+ heiress." His collection  Lord Weary's Castle includes "The Quaker Graveyard in Nantucket." He wrote a
+ poem discussing the old South Boston Aquarium that claims Colonel Shaw's monument "sticks like a
+ fishbone / in the city's throat." For 10 points, name this poet who wrote "Skunk Hour" and "For the Union
+ Dead."
+
+----
+num: 16
+category: History
+difficulty: HS
+fixed: 1
+seen: 419
+answer: War of the {Spanish Succession}
+
+The Hague Partition Treaty was an unsuccessful attempt to prevent this war. This war’s most notable
+ naval battle was fought at Malaga. This war resulted in the asiento, an agreement that gave England the
+ right to supply slaves to South America. Many battles in this war were won as the result of cooperation
+ between the Austrian General Eugene of Savoy and the English General Duke of Marlborough, including
+ the Battle of Blenheim. England gained control of Gibraltar because of this war. This war began with the
+ death of Charles II and ended with a French prince becoming King Philip V. For 10 points, name this war
+ ended by the Treaty of Utrecht, fought over who should rule the namesake country with capital Madrid.
+
+----
+num: 17
+category: Science
+difficulty: HS
+fixed: -1
+seen: 486
+answer: the {normal} vector [or {N}; or {unit normal} vector]
+
+The flux of a vector field across a surface is given by the double integral, over the surface, of the vector
+ field dotted with this quantity. The direction of this vector determines the orientation of a surface. For a
+ plane, it can be found by taking the cross product of any two vectors in the plane; for a curve in space, it is
+ equal to the derivative of the tangent vector. The direction of this vector, along with any point in the plane,
+ defines the plane. For 10 points, name this vector, which is perpendicular to a surface.
+
+----
+num: 18
+category: Geography
+difficulty: HS
+fixed: 1
+seen: 720
+answer: Arizona
+
+According to local legend, Jacob Waltz established the Lost Dutchman's Gold Mine near this state’s
+ Superstition Mountains. Brigham Young’s son John built Fort Moroni on this state's San Francisco Peak,
+ which includes its highest point, Humphreys Peak. This state’s northern border straddles Monument
+ Valley, where John Ford filmed many of his movies. Its largest cities include Chandler and Scottsdale, and
+ it is home to the Big Horn Mountains and Sonoran Desert. The Colorado River forms this state’s most
+ notable feature. For 10 points, name this home of the Grand Canyon.
+
+----
+num: 18
+category: Geography
+difficulty: HS
+fixed: 1
+seen: 723
+answer: Arizona
+
+According to local legend, Jacob Waltz established the Lost Dutchman's Gold Mine near this state’s
+ Superstition Mountains. Brigham Young’s son John built Fort Moroni on this state's San Francisco Peak,
+ which includes its highest point, Humphreys Peak. This state’s northern border straddles Monument
+ Valley, where John Ford filmed many of his movies. Its largest cities include Chandler and Scottsdale, and
+ it is home to the Big Horn Mountains and Sonoran Desert. The Colorado River forms this state’s most
+ notable feature. For 10 points, name this home of the Grand Canyon.
+
+----
+num: 19
+category: Science
+difficulty: HS
+fixed: 57
+seen: 491
+answer: {amines}
+
+This functional group is found attached to a deoxyketose in Amadori compounds. One test detects them
+ with sodium hydroxide and benzenesulfonyl chloride. A methylation with iodide produces an alkene and
+ one of these compounds, which are exemplified by epinephrine. Potassium phthalimide tranforms alkyl
+ halides into this functional group in one synthesis. Detected by the Hinsberg Reaction, they are produced
+ by the Zincke Reaction, Hoffman Elimination, and Gabriel Synthesis. Exemplified by aniline, they have a
+ fishy smell. For 10 points, name this functional group consisting of three groups singly bonded to a
+ nitrogen atom.
+
+----
+num: 20
+category: History
+difficulty: HS
+fixed: 57
+seen: 415
+answer: Jefferson Davis
+
+John Reagan served as Postmaster General during the entirety of this president’s administration. After
+ only seven months in office, this president was forced to shake-up his cabinet, firing Leroy Walker as
+ Secretary of War and Robert Toombs as Secretary of State. This president’s navy secretary, former Florida
+ Senator Stephen Mallory, authorized innovative ships like the Hunley. Several posts in this man’s cabinet
+ were filled by Judah P. Benjamin, a Jew from Louisiana. Serving alongside Vice President Alexander
+ Stephens, this man appointed as commander of the Army of Northern Virginia Robert E. Lee. For 10
+ points, name this President of the Confederate States of America.
+
+----
+num: 21
+category: History
+difficulty: HS
+fixed: 1
+seen: 420
+answer: {Charles Martel} [or {Charles} the Hammer; prompt on “{hammer}”]
+
+This ruler patronized St. Boniface, whose early ministrations were interrupted by his war against the
+ Frisian king Radbod. He was imprisoned by his stepmother Plectrude after being neglected in the will of
+ his father, Pippin II of Herstal. This man defeated Chilperic II and Eudes in a series of battles which gave
+ control of Neustria and Burgundy to the Mayor of the Palace. Near the town of Poitiers, this man defeated
+ the Cordoban governor Abd-ar-Rahman in 732 AD, earning himself the epithet “the Hammer.” For 10
+ points, name this victor at the Battle of Tours and grandfather of Charlemagne.
+
+----
+num: 22
+category: Literature
+difficulty: HS
+fixed: 57
+seen: 449
+answer: {Fanny} Price [accept {Fanny Price} before {Price} is read]
+
+When this character meets her sisters Betsey and Susan for the first time, they fight over a silver knife.
+ Her brother is a sailor on the Thrush named William, who gives her an amber cross, forcing her to decide
+ which of her suitors’ gold chains to wear it on. Her uncle’s friend Yates encourages her to act in the play 
+Lovers’ Vows, but her uncle returns from his plantation in Antigua and stops the production of the play. Her
+ cousin Maria marries Henry Crawford, who proposes to this character in spite of her love for her cousin
+ Edmund. She is brought up by Mrs. Norris and the Bertrams, her aunt and uncle. For 10 points, name this
+ member of the Price family, the protagonist of Jane Austen’s Mansfield Park.
+
+----
+num: 23
+category: Science
+difficulty: HS
+fixed: -1
+seen: 490
+answer: neutrinos
+
+The Goesgen experiment used a nuclear reactor to observe their spectra. Experimental setups to study
+ these down to the 6.5 megavolt range usually only observe B8 products. Their dynamics show large and
+ small mixing angle solutions. Those dynamics are enhanced by the MSW mechanism. One method for
+ finding these makes use of large quantities of perchloroethylene such as in the Homestake experiment.
+ Research has shown that they can undergo flavor oscillations, and these half-integer spin particles are only
+ affected by the weak force. They were first postulated in the form of their antiparticles by Pauli. For 10
+ points, name these non-charge-carrying leptons of little mass involved in beta decay.

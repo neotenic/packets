@@ -1,0 +1,264 @@
+####
+tournament: PACE NSC
+round: Round 3.doc
+year: 2008
+####
+
+num: 1
+category: Science
+difficulty: HS
+fixed: 1
+seen: 477
+answer: {convection}
+
+The Nusselt number is a ratio between the coefficients of this process and a similar process, which can be estimated with the Churchill-Bernstein equation. Benard cells are formed during certain types of this process, and quantities named for Grashof and Prandtl describe the onset of this process. It occurs when the critical value is exceeded by the Rayleigh number. For 10 points, identify this method of heat transfer commonly observed in fluids.
+
+----
+num: 2
+category: History
+difficulty: HS
+fixed: 1
+seen: 416
+answer: Andrew {Johnson} [prompt on {Johnson}]
+
+According to Eric Foner, this man opposed “America's Unfinished Revolution.” He drank a great deal of whiskey before his inauguration to one office, resulting in a bizarre speech in which he repeatedly exclaimed “I'm a plebeian!” He served five months of a second Senate term before dying, and first term ended with his appointment as governor of Tennessee. He was not forced to yield his highest position to Benjamin Wade during a quarrel with Edwin Stanton over the Tenure of Office Act. For 10 points, name this man who succeeded Lincoln as President.
+
+----
+num: 3
+category: Literature
+difficulty: HS
+fixed: 57
+seen: 442
+answer: The {Cherry Orchard} [or {Vishnyovy sad}]
+
+One character in this play is nicknamed "Twenty-Two Calamities," and the main character rips up her foreign telegrams, pronouncing, "I'm done with Paris." Boris earns a great fortune when profitable "white clay" is discovered on his land, and the "eternal student" Peter Trofimov decides to live with Anna. It ends when Firs is abandoned in a locked house, includes Lopakhin, who acquires, from Madame Ranevsky, the title area. For 10 points, name this play which ends with the sounds of axes swinging, written by Anton Chekov.
+
+----
+num: 4
+category: Science
+difficulty: HS
+fixed: 1
+seen: 491
+answer: {fractional distillation} [prompt on {distillation}]
+
+The Fenske equation is used to describe the minimum number of theoretical plates required in this process, while the McCabe-Thiele method can be used to model it. Raschig rings and Perkin triangles are used to increase its efficiency, and it needs a condenser to allow revaporization, which in turn causes different substances to separate due to Raoult's law. For 10 points, name this process often seen in petroleum processing plants, which makes use of a Vigreux column and the different boiling points of substances to separate a mixture into its component parts.
+
+----
+num: 5
+category: Philosophy
+difficulty: HS
+fixed: 1
+seen: 519
+answer: Herbert {Spencer}
+
+He asks “What knowledge is of most worth?” in the first chapter of his Education: Intellectual, Moral, and Political, and outlined his most famous theories in his ten-volume System of Synthetic Philosophy. He's more famous for talking about the “new Toryism” in his The Man Versus the State, and also for predicting that humanity would evolve into a state of perfect equilibrium. For 10 points, name this man who coined the phrase “survival of the fittest”, a social Darwinist and author of Social Statics.
+
+----
+num: 6
+category: Literature
+difficulty: HS
+fixed: 57
+seen: 441
+answer: John Millington {Synge}
+
+This author wrote a work in which the absence of a can prevents Sarah Casey and Michael Byrne's wedding. In addition to The Tinker's Wedding and In the Shadow of the Glen, this author wrote about Conchubor's failed attempt to wed the title character in Deirdre of the Sorrows and Bartley returning drowned to his mother Maurya in Riders to the Sea. He may be best remembered for a play in which Pegeen breaks her engagement to Shawn Keogh to wed Christy Mahon. For 10 points, name this Irish playwright of The Playboy of the Western World.
+
+----
+num: 7
+category: Fine Arts
+difficulty: HS
+fixed: 1
+seen: 496
+answer: {bassoon}
+
+Though not a tuba, Wagner asked Wilhelm Heckel to extend its bell so it could reach a half-step below its normal range, to A1. This instrument solos in the “Tale of the Kalendar Prince” movement of Scherezade and plays the first melodies of the Allegro in The Sorcerer's Apprentice and “In the Hall of the Mountain King.” It also represents the grandfather in "Peter and the Wolf." For 10 points, name this double-reed instrument that is much lower in range than the oboe.
+
+----
+num: 8
+category: Fine Arts
+difficulty: HS
+fixed: 1
+seen: 749
+answer: Stephen Collins {Foster}
+
+One of the influences on his writing was the black churches that his family servant Olivia Pise took him to as a child. Much of his work was done for Firth, Pond, and Company, which saw a ten thousand percent return on the fee it paid him for "Old Uncle Ned." He later worked for the Edwin Christy minstrel show, which comissioned his "Old Folks at Home." For 10 points, name this man who died shortly after he wrote "Poor Dropping Maiden" and created popular, black-influenced tunes from the 1850s, such as "Camptown Races" and "Oh Susanna."
+
+----
+num: 9
+category: History
+difficulty: HS
+fixed: 1
+seen: 419
+answer: Asoka
+
+James Prinsep was the first to decipher his commands, and this man sent his children Mahendra and Sanghamitra as missionaries. Legends about him are collected in the Avadana, and he advocated a policy of “conquest by dharma. Spreading his message through the Rock Edicts, he had undergone a spiritual crisis after conquering Kalinga. For 10 points name this Buddhist, a Mauryan emperor of India.
+
+----
+num: 10
+category: Philosophy
+difficulty: HS
+fixed: 1
+seen: 517
+answer: Michel {Foucault}
+
+He ventured into methodology with his The Archaeology of Knowledge. One of his works begins with a chapter analyzing Las Meninas, while others posit an “unequal gaze” between guard and prisoner and a “medical gaze” between doctor and patient. He also wrote of the Great Confinement, failed to complete his six-volume History of Sexuality, and posited that the former experience of religious ecstasy is now viewed as insanity in his Madness and Civilization. For 10 points, name this French philosopher whose history of prisons is entitled Discipline and Punish.
+
+----
+num: 11
+category: Science
+difficulty: HS
+fixed: 1
+seen: 486
+answer: insulin
+
+The Somogyi effect is caused by an abundance of this hormone during sleep, and it is released in reaction to the presence of IP3 and the activation of the GLUT2 protein. Consisting of three short helices, it has effects such as an increase of glycogen synthesis and a decrease in blood sugar levels, as it increases cellular uptake of glucose. For 10 points, name this hormone produced in the beta cells of the pancreatic islets of Langerhans, a lack of which causes type 1 diabetes.
+
+----
+num: 12
+category: History
+difficulty: HS
+fixed: -1
+seen: 418
+answer: Wilson's {Fourteen Points} [accept {14 Point}]
+
+They drew from a committee that included Isaiah Bowman and was directed by Edward House and Sidney Mezes, dubbed “The Inquiry.” The speech that introduced them claimed that they settled a certain “moral climax.” One of them inspired the March First Movement in Korea, and they included the readjustment of the frontiers of Italy and the creation of an independent Poland with access to the sea. For 10 points, name this set of proposals, including the establishment of the League of Nations, which were put forth before Versailles by Woodrow Wilson.
+
+----
+num: 13
+category: Literature
+difficulty: HS
+fixed: 1
+seen: 435
+answer: snow
+
+Schizophrenic Paul dreams of a world made of this, in a Conrad Aiken story about a "silent" and "secret" type of it. Inspired by his wife's death, Henry Longfellow claimed he wore a "cross of" it. The alleged killing of Carl Heine by a Japanese American is at the center of a David Guterson novel about it "Falling on Cedars," and Robert Frost wrote of woods filling up with it in a poem that ends "And miles to go before I sleep." For 10 points, name this phenomenon, which Ernest Hemingway found atop Mount Kilimanjaro.
+
+----
+num: 14
+category: Science
+difficulty: HS
+fixed: 1
+seen: 486
+answer: Alpine or Arctic {tundra} [prompt on {arctic} before mentioned]
+
+Common plants found in this type of area include tufted saxifrage and the Labrador tea, which has evergreen leaves and is a favorite of nearby peoples. One area classified as this is the youngest biome in the world, dated to 10,000 years ago. The Scandinavian one is the warmest with winter temperatures around -8 degrees Celsius, and this biome typically features shrubby vegetation such as mosses, heaths, and lichens, often growing through a layer of permafrost. For 10 points, name this cold, dry biome found throughout the Arctic and Antarctica.
+
+----
+num: 15
+category: Trash
+difficulty: HS
+fixed: 1
+seen: 1026
+answer: Clocks <Nagler>
+
+This noun's singular and plural forms both name bands: the singular form designates a group featuring Def Leppard guitarist Vivian Campbell that recorded the album Through Time, while the plural form names a band that released the single "That Much Better" in 2006. The sounds of several of these are heard as the intro to track 3 on Pink Floyd's Dark Side of the Moon. Coal Chamber released a song with the singular form as its title. For 10 points, name this object whose plural form is the title of a Grammy-winning single off of A Rush of Blood to the Head by Coldplay, an object frequently found around the neck of Flava Flav.
+
+----
+num: 16
+category: Fine Arts
+difficulty: HS
+fixed: 57
+seen: 498
+answer: Frank Lloyd {Wright} [or {Frank Lincoln Wright}; accept {Kentuck Knob} before "{this person}" is read]
+
+Hexagonal red-cypress skylights and a copper roof feature in this person's design for Kentuck Knob. He adapted plans for a Baghdad opera house into the Gammage Auditorium and used dendriform columns in the parking garage and Great Workroom of the Johnson Wax Headquarters. This man also designed broad footings that were supposed to allow Tokyo's Imperial Hotel to float on mud, while his most famous studio was called Taliesin. For 10 points, identify this proponent of the Usonian home and the Prairie style, the architect of Fallingwater.
+
+----
+num: 17
+category: History
+difficulty: HS
+fixed: 57
+seen: 420
+answer: {tortillas}
+
+Seventy-five thousand people marched in a February 2007 protest over these items, and economy minister Eduardo Sojo has promised government action to cap their prices, which were fully set by law until 1999. Such suppliers as Cargill and Maseca participated in a 2007 "gentleman's agreement" capping their prices at 78 cents a pound, though the average price for these is expected to rise forty percent this summer, largely due to increased demand for ethanol in fuels. For 10 points, name this corn-based staple whose inflation has caused consternation in Mexico.
+
+----
+num: 18
+category: Geography
+difficulty: HS
+fixed: 57
+seen: 637
+answer: Republic of the {Congo} [or {République du Congo}; or {Congo}-{Brazzaville}; prompt on the {Congo}]
+
+Many of this country's farms are near the Niari River. This country's major airport is found at Maya Maya, and its capital, which is found on the west of the Malebo Pool, includes such neighborhoods as Poto-Poto and Makélékélé. Point-Noire is a major Atlantic port of this country, which is found to the north of the enclave of Cabinda and is the only eastern neighbor of Gabon. For 10 points, name this country whose entire eastern border abuts a much larger and similarly named "democratic republic."
+
+----
+num: 19
+category: History
+difficulty: HS
+fixed: -1
+seen: 415
+answer: Eamon de {Valera}
+
+This man became president of the Council of the League of Nations in 1932, eleven years after he was imprisoned by the ministry of William Cosgrave. He abolished the oath of allegiance and land-purchase annuities as taoiseach, and later refused Allied access to his country's ports during World War II. He escaped execution for his role in the Easter Rising because of his American birth, and he subsequently escaped Lincoln Jail with the help of Michael Collins. For 10 points, name this founder of the Fianna Fail party and longtime president of the Republic of Ireland
+
+----
+num: 20
+category: Science
+difficulty: HS
+fixed: 57
+seen: 486
+answer: {glycolysis} [accept {Embden}-{Myerhoff}-{Parnas pathway}]
+
+One version of it named for Entner and Doudoroff occurs only in prokaryotes and utilizes different dehydrase and aldolases. It utilizes enzymes such as Triosephosphate isomerase and Phosphoglycerate mutase, and the Warburg effect attributes its high frequency in cancer cells to an excess of the first enzyme used in it, hexokinase. The counterpart of gluconeogenesis, For 10 points, name this series of reactions that precedes the Krebs cycle in aerobic respiration, resulting in the formation of ATP and pyruvate from the catalysis of a glucose molecule.
+
+----
+num: 21
+category: Literature
+difficulty: HS
+fixed: 57
+seen: 446
+answer: {ode}
+
+Andrew Marvell used one of their two chief Roman models for his poem about Cromwell's return from Ireland. A comic one by Thomas Gray ends "Nor all that glisters, gold," and tells of Selima's death in a tub of goldfish. Wordsworth's most famous notes "Our birth is but a sleep and a forgetting" and shows "Intimations of Immorality." Another Romantic one ends "Fled is that music—Do I wake or sleep?", and another declares "Beauty is truth, truth beauty." For 10 points, name this lyric form that Keats used to discuss a nightingale and a Grecian Urn.
+
+----
+num: 22
+category: Fine Arts
+difficulty: HS
+fixed: 1
+seen: 502
+answer: Diego María Concepción Juan Nepomuceno Estanislao de la {Rivera} y Barrientos Acosta y Rodríguez
+
+In one of this artist's early works, a man playing two pipes sits at the left, several figures are adorned with medieval-style haloes, and the center of the work is cut away with a different version of the scene occupying the inset. Four wing-like shapes form an X at the center of another of his works, which shows men in gas masks at the top left and a hand holding a crystal ball at the center. For 10 points, name this painter of Creation and Man at the Crossroads, which was removed from Rockefeller Center; a noted muralist from Mexico.
+
+----
+num: 23
+category: History
+difficulty: HS
+fixed: -1
+seen: 419
+answer: {Hohenzollern}
+
+This house ruled Romania until 1947, and one member, Albert Achilles, issued the Dispositio on its succession. Its Franconian line took control of the margraviates of Ansbach and Kulmbach, and, with the extinction of its Hechingen branch, Charles Anton of its Sigmaringen line took the title of Furst. The candidature of one member of this dynasty, Leopold, for the Spanish throne led to the Franco-Prussian War. For 10 points, Frederick the Great and Kaiser Wilhelm I were members of what ruling house of Prussia and Imperial Germany?
+
+----
+num: 24
+category: Literature
+difficulty: HS
+fixed: 1
+seen: 437
+answer: lilacs
+
+One poem about them discusses "the patron and imager of gold Don John," and another poem about one ends by noting the "Spring avenging flight / To Dooms of Balm." In addition to the Wallace Stevens poem about the "last looks" at this object and Emily Dickinson's poem about this kind of "sea," it appears in a poem which states "in secluded recesses/a shy and hidden bird is warbling a song." For 10 points, name this flower which titles a poem in which the "great star early droop'd in the Western Sky," written on the death of Abraham Lincoln by Walt Whitman.
+
+----
+num: 25
+category: Philosophy
+difficulty: HS
+fixed: -1
+seen: 518
+answer: Gottfried Wilhelm von {Leibniz}
+
+This man claimed that medieval philosophers were valuable resources in a work that attempted to critique a dispute between Malabranche and Arnauld. He represented himself as Theophilus and John Locke as Philalethe in his chapter-by-chapter critique of Locke's New Essays on Human Understanding, and he expounded his idea of the Principle of Plentitude in his Theodicee. He also introduced a theoretical, irreducibly simple “substantial form of being.” For 10 points, name this formulator of the "orinciple of sufficient reason and author of Monadology.
+
+----
+num: 26
+category: Science
+difficulty: HS
+fixed: 1
+seen: 484
+answer: cyclotrons
+
+The namesake parameter of these entities is a frequency given by the magnetic induction times the particle charge-to-mass ratio. These objects utilize a static axial magnetic field, which causes them to fail when relativity becomes significant. The main electrodes of these devices are known as “dees” and were initially used to create betas in the one-megaelectronvolt range by Edmund Wilson. For 10 points, name these early, particle accelerators named for the sinusoidal time variation of applied voltage and because they are circular.

@@ -1,0 +1,324 @@
+####
+tournament: HSAPQ 4Q2
+round: 4q2-08.pdf
+year: 2009
+####
+
+num: 1
+category: History
+difficulty: HS
+fixed: 1
+seen: 415
+answer: John {Quincy Adams} [prompt on {Adams}; do not accept or prompt on "{John Adams}"]
+
+This man was the first American minister to Russia. While serving as Secretary of State, this man negotiated a treaty that transferred Florida from Spanish to American control; that treaty was named for this man and Luis de Onis (OH-niss). This man named Henry Clay as his Secretary of State after Clay helped him win a presidential election over Andrew Jackson with the so-called "corrupt bargain." For 10 points, name this man who wrote the Monroe Doctrine, and who became president in 1824, following in the footsteps of his father.
+
+----
+num: 2
+category: Literature
+difficulty: HS
+fixed: 1
+seen: 448
+answer: {Death of a Salesman}
+
+The protagonist of this play is annoyed to see the anemic Bernard succeed with the help of Charley. One character in this play stops attending a summer remedial math class after discovering his father having an affair in Boston. Another character in this play has visions of his brother Ben returning from the jungle and discovering diamonds. This play ends with the title character stepping in front of a car to enable his wife Linda to collect insurance money. For 10 points, name this play about Willy Loman, who is fired from the title job, written by Arthur Miller.
+
+----
+num: 3
+category: Trash
+difficulty: HS
+fixed: 57
+seen: 1044
+answer: {Black Eyed Peas}
+
+In one song by this group, the male vocalist declares "you know you got me by a string, baby," and in another, the singer describes how the titular objects "drive these brothers crazy." This group's album Monkey Business included "Don't Phunk with my Heart." A recent song by this group features the line "you're so 2000 and late." Another of their songs requests "some guidance from above" before asking the titular question. For 10 points, name this hip-hop group whose members include will.i.am and Fergie, known for songs such as "Boom Boom Pow," "My Humps," and "Where is the Love?"
+
+----
+num: 4
+category: History
+difficulty: HS
+fixed: 1
+seen: 415
+answer: {Sinners} in the {Hands} of an {Angry God}
+
+One part of this work discusses "natural man," whose care for his own life does not concern this work's title figure. The bulk of this work is laid out in ten "considerations," one of which claims that pains and contrivances taken by wicked men will never be successful. This work attributes man's state on earth to the "mere pleasure" of God. A spider hanging by a thread over a fiery pit with God ready to cut the thread at any moment is one of this sermon's most famous images. For 10 points, name this sermon by Jonathan Edwards delivered first on July 8, 1741.
+
+----
+num: 5
+category: History
+difficulty: HS
+fixed: 1
+seen: 418
+answer: Republic of {Poland} or Rzeczpospolita {Polska}
+
+According to legend, one leader of this nation gave food to two angelic figures before defeating the Germans and founding the Piast dynasty. Another dynasty in this country won in the battle of Grunwald against the Teutonic knights while allied with Lithuania, known as the Jagiellon Dynasty. One movement in this nation centered on the Gdansk shipyard was known as Solidarity and was led by Lech Walesa. For 10 points, name this European country that was the home of Pope John Paul II, and whose capital city named the Soviet Union's Warsaw Pact.
+
+----
+num: 6
+category: Science
+difficulty: HS
+fixed: 1
+seen: 485
+answer: malaria
+
+Drugs like mefloquine (ME-flo-kwine) and doxycyclin (DOCKZ-ee-SY-klin) are used prophylactically (PRO-fill-ACT-ic-al-ee) to prevent this disease, which was first treated in the nineteenth century with drugs extracted from cinchona. Resistance to this illness is observed in carriers of another sickle cell anemia. This illness is caused by the destruction of red blood cells by the sporozoite form of a parasite of genus Plasmodium. For 10 points, name this disease that is transmitted by the Anopheles mosquito and treated with quinine.
+
+----
+num: 7
+category: Social Science
+difficulty: HS
+fixed: 1
+seen: 381
+answer: Milton {Friedman}
+
+This economist co-wrote A Monetary History of the United States with Anna Schwartz, and co-wrote Free to Choose with his wife Rose. He popularized the quantity theory of money with his 1956 restatement of it, and he argued against the Bretton Woods system and occupational licensing in Capitalism and Freedom. For 10 points, name this economist who, along with George Stigler, is considered one of the founders of the Chicago School.
+
+----
+num: 8
+category: History
+difficulty: HS
+fixed: 57
+seen: 412
+answer: {Catherine} II of Russia [or {Catherine} the {Great}; or {Yekaterina} II; or {Yekaterina Velikaya}]
+
+During this leader's reign, the treaties of Jassy and Kuchuk Kainarji were signed with the Ottomans, allowing this ruler to acquire Crimea. Southern Ukraine was colonized by Grigory Potemkin during this leader's reign. This ruler faced a rebellion of Yaik Cossacks led by Pugachev, which was put down by Alexander Suvorov. This ruler was succeeded by Paul. This ruler ascended to the throne when Gregory Orlov murdered her husband, Peter III. For 10 points, name this Enlightened Despot, the Empress of Russia in the late nineteenth century.
+
+----
+num: 9
+category: Science
+difficulty: HS
+fixed: 1
+seen: 485
+answer: derivative
+
+Faa Di Bruno's Formula gives an explicit formula for one type of this operation. Operations of this type for a vector function form the entries of the Jacobian matrix, and operations of this type form the entries of the gradient. L'Hospital's Rule uses a quotient of these operations to calculate limits. For composite functions, this operation is applied using the chain rule. This operation finds the slope of a curve's tangent line, and is defined as the "limit as h goes to zero of 'f of x plus h' minus 'f of x', all over h." For 10 points, name this basic operation of calculus, the inverse of the integral.
+
+----
+num: 10
+category: Fine Arts
+difficulty: HS
+fixed: 57
+seen: 492
+answer: Jean {Sibelius}
+
+The harmonies of this composer's fourth symphony center on the repeated tritones. In one work by this composer, an English horn depicts a bird swimming around the island of the dead; that work, "The Swan of Tuonela," is grouped with three other works by this composer based on the Kalevala. This composer of the Lemminkainen Suite also wrote a symphonic poem against Russians that includes a patriotic hymn. For 10 points, name this nationalistic composer of Finlandia.
+
+----
+num: 11
+category: Science
+difficulty: HS
+fixed: 1
+seen: 485
+answer: computer {monitors} [accept {cathode ray tubes} or {CRTs} until "{pixels}"]
+
+To save bandwidth, some versions of these objects make use of a technique in which all odd lines, then all even lines, are traced. That technique is called interlacing. Most Windows NT-based operating systems use a setting of 60 hertz as the default refresh rate for these pieces of hardware. Older examples of them can suffer from phosphor burn-in, while newer versions can suffer from dead or stuck pixels. For 10 points, identify these pieces of computer hardware, which are now less likely to use CRTs than LCDs, and which are used to display images.
+
+----
+num: 12
+category: Literature
+difficulty: HS
+fixed: -1
+seen: 444
+answer: Prince {Hamlet}
+
+This character laments that his "native hue of resolution is sicklied o'er with the pale cast of thought" and that "conscience does make cowards of us all." This character wishes that his "too too solid flesh would melt, thaw, and resolve itself into a dew!" after a ghost tells him to revenge his father's death. Later, this character murders Polonius while visiting his mother Gertrude. For 10 points, name this character who wonders "to be, or not to be," a prince of Denmark who names a Shakespearean tragedy.
+
+----
+num: 13
+category: Science
+difficulty: HS
+fixed: 57
+seen: 486
+answer: {Google}
+
+Its Courgette (core-ZHET) program takes advantage of machine instruction labels. It is the source of the a distributed storage system called Bigtable and a distributed compute framework called MapReduce. Hidden classes are important in its V8 project which is used for its chromium project. The home of a namesake code repository service and it recently announced a programming language called Go. For 10 points name, this large technology company best known for Internet searching.
+
+----
+num: 14
+category: Literature
+difficulty: HS
+fixed: 57
+seen: 445
+answer: The {Little Prince} [or Le {Petit Prince}]
+
+The title character of this work drew a picture of a boa constrictor that ate an elephant that adults view as a hat. A fox in this work informs the title character that he must be tamed before he can be a friend, and a talking rose prompts the main character to go on a journey. The title character of this work is a native of planet B612 and is taken to other worlds by a flock of birds. For 10 points, name this work about a diminutive monarch by Antoine de Saint-Exupery.
+
+----
+num: 15
+category: Mythology
+difficulty: HS
+fixed: 1
+seen: 782
+answer: {Persephone} [or {Kore}; or {Cora}]
+
+This goddess mothered Zagreus and turned Minthe into an actual mint plant. Because he lusted for this figure, Pirithous (pie-RITH-o-US) was condemned to sit on a chair with snakes coiled around his feet. Aphrodite disputed with this goddess over Adonis, who spent four months of the year with each of them. In the best known myth involving this figure, her mother neglects the duties of the earth after she is pulled into the Earth by a chariot and eats three pomegranate seeds. The Romans knew her as Proserpine. For 10 points, name this daughter of Demeter and wife of Hades.
+
+----
+num: 16
+category: Fine Arts
+difficulty: HS
+fixed: 1
+seen: 491
+answer: The {Four Seasons} [or Le {Quattro Stagioni}; accept The {Contest} Between {Harmony} and
+
+A series of poems about these pieces discuss its representation of Zephyr and Boreas fighting while a Shepherd weeps. One part of this work sees a violin represent a shepherd while a viola represents a sheepdog. This collection is part of a larger work that was dedicated to Wenzel von Morzin called The Contest Between Harmony and Invention. It is made up of four violin concertos. For 10 points, name this series including "La Primavera" and "L'autunno," composed by Antonio Vivaldi about different times of the year like Winter and Summer.
+
+----
+num: 17
+category: Science
+difficulty: HS
+fixed: -1
+seen: 483
+answer: {Higgs} Boson
+
+This object is not present in a series of models dubbed "Technicolor." One theory on how to produce one of these objects is based on gluons decaying into a top quark and its antiparticle, then fusing. Another theory on how they form involves the fusion of certain "W" and "Z" particles. The Standard Model predicts the existence of this particle, while conformation of its existence will hopefully be supplied by experiments in the Large Hadron Collider. For 10 points, name this "God Particle" that is a boson named for a scientist.
+
+----
+num: 18
+category: History
+difficulty: HS
+fixed: 57
+seen: 415
+answer: United States {Secretary} of State
+
+While serving in this government post, Frank Kellogg sponsored a namesake pact with French foreign minister Aristide Briand (ah-riss-TEED bri-AND). Cyrus Vance opposed a rescue attempt of American hostages while serving in this post. Cordell Hull promoted the Good Neighbor Policy while serving in this post. Dean Rusk defended the Vietnam War while serving in this capacity. William Seward served in this post under Abraham Lincoln. Thomas Jefferson was the first to hold this post. For 10 points, name this government post held by Madeleine Albright and Colin Powell.
+
+----
+num: 19
+category: Science
+difficulty: HS
+fixed: 57
+seen: 492
+answer: {phosphorus} [or {P}]
+
+A reagent with this element makes alkenes (AL-keenz) from carbonyl (CAR-bo-NEEL) compounds in the Wittig (VIT-tig) reaction. Its black form has a structure like graphite. Its white allotropes has a tetrahedral structural unit, and the red kind forms a network of those tetrahedrons chained together. For 10 points, name this element, whose oxide is found in the backbone of DNA, and which is located immediately below nitrogen on the Periodic Table.
+
+----
+num: 20
+category: Literature
+difficulty: HS
+fixed: 1
+seen: 448
+answer: Thomas Kennerly "Tom" {Wolfe}, Jr.
+
+This author described how American architectural forms were displaced by Europeans in From Bauhaus to Our House. His other nonfiction includes a chronicle of the Merry Pranksters, led by Ken Kesey, in The Electric Kool-Aid Acid Test, and a book about the early days of NASA, The Right Stuff. A virtuous female student is shocked to find debauchery at an elite Southern college in one of this author's novels. For 10 points, name this white-suit-wearing Richmond native who wrote I Am Charlotte Simmons and The Bonfire of the Vanities.
+
+----
+num: 21
+category: Science
+difficulty: HS
+fixed: 57
+seen: 492
+answer: coral reef
+
+This biome is the subject of a hypothesis confirmed by Harry Ladd. That hypothesis, by Charles Darwin, states that this biome increases to keep up with the sinking of the Earth's crust. Organisms that contribute to this biome's matrix are known as framework builders; those organisms produce calcium carbonate and silica. This biome comprises the inner and outer parts of an atoll. For 10 points, name this marine biome produced mostly by its namesake animal, an example of which is the Great Barrier one off the coast of Australia.
+
+----
+num: 22
+category: History
+difficulty: HS
+fixed: 1
+seen: 418
+answer: Heinrich {Himmler}
+
+This man was stripped of his offices when it was revealed that he attempted to negotiate a peace with the Swedish Count Folke Bernadotte. This man orchestrated an attempted assassination on Albert Speer in February 1944, and he masterminded the purge of the SA in 1934. His ordering of the deportation of 8,000 Jews in January 1943 sparked the Warsaw Ghetto uprising, and this man established Nazi Germany's first concentration camp at Dachau. For 10 points, name this Nazi leader who headed the SS.
+
+----
+num: 23
+category: Science
+difficulty: HS
+fixed: 1
+seen: 491
+answer: single displacement {reaction} [{or} single replacement reaction]
+
+One common example of this type of reaction is the thermite (THUR-mite) reaction used in welding. Whether or not this type of reaction will occur can be determined by a metal's place in the activity series. This type of reaction is exemplified by active metals, such as calcium and magnesium, reacting with water to form metal oxides and hydrogen gas. For 10 points, name this type of reaction, in which a more active element replaces a less active element in a compound.
+
+----
+num: 24
+category: History
+difficulty: HS
+fixed: 1
+seen: 416
+answer: {Indira Gandhi} [prompt on {Gandhi}]
+
+This leader of the New Congress declared a period known as the Emergency in 1975. Operation Blue Star, in which government troops raided the Golden Temple of Amritsar, was ordered by this leader during her second stint in power. Her heir-apparent Sanjay died in a 1980 plane crash, and she was succeeded as prime minister by her son Rajiv. For 10 points, name this Indian prime minister who was assassinated by her bodyguards in 1984.
+
+----
+num: 25
+category: Geography
+difficulty: HS
+fixed: 57
+seen: 718
+answer: {Dubai} [or {Dubayy}]
+
+This city is home to a self-proclaimed seven-star hotel. This city is ruled by the Maktoum family, and the man-made Palm and World Islands are found off the coast of this city. The government of this city has been criticized due to its lax standards for treatment of this city's large guest worker population. In 2006, a company owned by the government of this city controversially attempted to purchase the contracts to operate six United States seaports. For 10 points, name this home of the world's tallest building, the largest city in the United Arab Emirates.
+
+----
+num: 26
+category: Literature
+difficulty: HS
+fixed: 57
+seen: 440
+answer: {Portugal}
+
+One author from this nation wrote an epic poem called the Lusiads, and another wrote novels such as The Stone Raft and one in which an ophthalmologist's wife is the only figure not afflited with the title condition, Blindness. The former novel sees the Iberian peninsula break off from the rest of Europe. A series of forty-four love poems by Elizabeth Barret Browning were disguised as though they were written by someone from this country. For 10 points, name this nation home to José Saramago, which is visited by Candide in time for an earthquake in Lisbon.
+
+----
+num: 27
+category: Religion
+difficulty: HS
+fixed: 1
+seen: 442
+answer: Sikhism
+
+One holy figure in this religion, Amar Das, compiled the Goindval Pothis. Members of this religion practice in gurdwaras, and an idealized figure in religion is Gobind. This religion's emblems of the Khalsa, which include long shorts, a steel bracelet, a comb, a ceremonial dagger, and uncut hair are known as the "Five Ks." The holiest shrine in this religion is Amritsar's Golden Temple, and its scripture is the Adi Granth. For 10 points, name this Indian religion founded by Guru Nanak.
+
+----
+num: 28
+category: History
+difficulty: HS
+fixed: 1
+seen: 418
+answer: War of {1812}
+
+This war saw Winfield Scott wounded during the indecisive battle at Lundy's Lane. One battle in this war was fought with help from Jean Lafitte (luh-FEET). The Battle of Bladensburg (BLAHD-uns-burg) was a major defeat for American forces in this war. Andrew Jackson won the Battle of New Orleans after this war ended. During this war, British troops were able to burn Washington, D.C., including the White House. For 10 points, name this war that re-established American independence from Great Britain, which was ended by the Treaty of Ghent.
+
+----
+num: 29
+category: Science
+difficulty: HS
+fixed: 1
+seen: 487
+answer: mitochondria
+
+Damage to one component of this organelle may cause Leber optic atrophy, and its membrane contains a protein whose release triggers caspase nine and thereby induces apoptosis. That protein, called cytochrome (SY-toe-krome) c, is essential to a transport process that ends with ATP synthase. The electron transport chain, which takes place in this organelle, uses the redox potential of NADH and FADH2 to generate ATP from fuel. For 10 points, name these cellular power plants, whose cristae and matrix host glycolysis (gly-CALL-ih-sis).
+
+----
+num: 30
+category: Literature
+difficulty: HS
+fixed: -1
+seen: 446
+answer: Le Morte D'Arthur [or The {Death} of {Arthur}]
+
+The title of this book was originally intended only for its final chapter, and may have come from a misunderstanding on the part of William Caxton. The historical source for the stories collected in this book may have been a Celtic military leader. This collection was based partially on the work of Chretien de Troyes. This work was based on English and French myths about the title character, who is the son of Uther Pendragon and employs Lancelot. For 10 points, name this collection of Arthurian tales written by Thomas Malory.
+
+----
+num: 31
+category: Science
+difficulty: HS
+fixed: 57
+seen: 488
+answer: {cartilage}
+
+This type of tissue can be divided into hyaline and fibro- types based on the amount and distribution of proteoglycans (PRO-tee-oh-GLY-cans) and collagen fibers. The fibro- type is found in intervertebral (IN-tur-vur-TEE-bruhl) disks, and the hyaline (HI-uh-line) type is replaced in rheumatoid arthritis. A third, elastic type of this highly nonvascular tissue gives structure to the external ear. For 10 points, give this type of connective tissue found in the nose and on the surface of bones.
+
+----
+num: 32
+category: Religion
+difficulty: HS
+fixed: -1
+seen: 448
+answer: Simon {Peter} [or Petros; or Cephas; or Kephas]
+
+The First Letter to the Corinthians states that this figure was the first to see Jesus risen. In Matthew, this figure attempted to imitate Jesus by walking on water, but failed. This man argued with Paul over the importance of circumcision for Christians. This man asked Jesus to wash not only his feet but his also head and hands before the Last Supper, and he was called a "fisher of men" along with his brother, Andrew. For 10 points, name this apostle who betrayed Jesus three times and was "rock" upon which Jesus built his Church, the first pope.

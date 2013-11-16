@@ -1,0 +1,393 @@
+####
+tournament: #6462
+round: Show #6462 - Tuesday, October 23, 2012
+year: 2012
+date: 2012-10-23
+####
+
+num: 1
+category: History
+difficulty: 200
+seen: 4
+answer: Charlie Watts
+
+"Charlie's good tonight, isn't he?" Mick Jagger asks the crowd on a live album, referring to this drummer.
+
+----
+num: 2
+category: Literature
+difficulty: 200
+seen: 4
+answer: Tara
+
+Scarlett O'Hara's plantation home.
+
+----
+num: 3
+category: Literature
+difficulty: 200
+seen: 4
+answer: Rip Van Winkle
+
+A cantilever bridge named for this Washington Irving sleeper stretches almost a mile across the Hudson at Catskill.
+
+----
+num: 4
+category: Social
+difficulty: 200
+seen: 5
+answer: bonding
+
+This development of close relationships with family members & friends sounds like you're gluing them together.
+
+----
+num: 5
+category: History
+difficulty: 400
+seen: 4
+answer: Elvis Costello
+
+Pete Thomas is the longtime drummer for this English Elvis.
+
+----
+num: 6
+category: Literature
+difficulty: 400
+seen: 4
+answer: Rebecca
+
+This title gal's Manderley, which had an "iron gate leading to the drive".
+
+----
+num: 7
+category: Social
+difficulty: 400
+seen: 5
+answer: primal
+
+This adjective refers to basic urges & emotions; in a form of therapy, it precedes "scream".
+
+----
+num: 8
+category: Literature
+difficulty: 400
+seen: 4
+answer: (Wolfgang) Puck
+
+"Flashdance" composer Giorgio Moroder suggested that this chef call his restaurant Spago.
+
+----
+num: 9
+category: History
+difficulty: 600
+seen: 4
+answer: The Clash
+
+Topper Headon laid down the big beats on this band's "Safe European Home" & "Rock The Casbah".
+
+----
+num: 10
+category: Literature
+difficulty: 600
+seen: 4
+answer: Wuthering Heights
+
+Title place where Hindley hates Heathcliff.
+
+----
+num: 11
+category: Literature
+difficulty: 600
+seen: 4
+answer: Eleanor Roosevelt
+
+In 1945 this First Lady moved from the White House to Val-Kill, a mansion near the Hudson.
+
+----
+num: 12
+category: Social
+difficulty: 600
+seen: 4
+answer: an episode
+
+A psychological event that affects one's behavior, it also refers to a single installment of a TV series.
+
+----
+num: 13
+category: Literature
+difficulty: 600
+seen: 4
+answer: the tongue
+
+Chicago's Grant Achatz used his kitchen discipline to beat back cancer of this, a horror for a chef.
+
+----
+num: 14
+category: History
+difficulty: 800
+seen: 4
+answer: The Kinks
+
+Mick Avory pounded the skins on this band's "Come Dancing" & "(Wish I Could Fly Like) Superman".
+
+----
+num: 15
+category: Literature
+difficulty: 800
+seen: 4
+answer: Thornfield Hall
+
+Jane Eyre met Mr. Rochester at this hall.
+
+----
+num: 16
+category: Literature
+difficulty: 800
+seen: 4
+answer: the Rhine
+
+The natural beauty of the Hudson River has given it the nickname "America's" this, a comparison to a German river.
+
+----
+num: 17
+category: Literature
+difficulty: 800
+seen: 4
+answer: KFC
+
+French food isn't moist inside & crunchy outside, so Michel Richard "discovered texture" at this fast food place.
+
+----
+num: 18
+category: History
+difficulty: 1000
+seen: 4
+answer: Muse
+
+Perhaps Euterpe inspires Dominic Howard when he drums for this "Black Holes And Revelations" band.
+
+----
+num: 19
+category: Literature
+difficulty: 1000
+seen: 4
+answer: Sand & Fog
+
+An Iranian colonel & a troubled young woman fight over Andre Dubus III's "House of" these 2 things.
+
+----
+num: 20
+category: Social
+difficulty: 1000
+seen: 5
+answer: the ego
+
+One of the 3 divisions of the psyche in psychoanalytic theory, it's ruled by the reality principle.
+
+----
+num: 21
+category: Literature
+difficulty: 1000
+seen: 4
+answer: Alice Waters
+
+If you know what mesclun & arugula are, it's because she opened Berkeley's Chez Panisse in 1971.
+
+----
+num: 22
+category: History
+difficulty: 400
+seen: 4
+answer: Washington
+
+...this American general at the 1776 battle of Long Island.
+
+----
+num: 23
+category: Science
+difficulty: 400
+seen: 6
+answer: Gutenberg
+
+This 15th century German created a special oil-based ink to go along with his printing press.
+
+----
+num: 24
+category: Literature
+difficulty: 400
+seen: 4
+answer: a Rubik\'s cube
+
+The cube this Hungarian developed proved a useful tool for teaching algebraic group theory.
+
+----
+num: 25
+category: Art
+difficulty: 400
+seen: 4
+answer: Wagner
+
+The character of Beckmesser in this composer's "Die Meistersinger" is a caricature of music critics.
+
+----
+num: 26
+category: Geography
+difficulty: 400
+seen: 8
+answer: arson (in C
+
+This crime is in Nevada's capital.
+
+----
+num: 27
+category: History
+difficulty: 800
+seen: 4
+answer: the Luftwaffe
+
+...this German Air Force in 1940's Battle of Britain.
+
+----
+num: 28
+category: Trash
+difficulty: 800
+seen: 5
+answer: Babar
+
+In an animated series on Disney Junior, this elephant king has a grandson named Badou.
+
+----
+num: 29
+category: Science
+difficulty: 800
+seen: 4
+answer: a snail
+
+The ancient Phoenicians developed Tyrian purple dye from the glands of this gastropod.
+
+----
+num: 30
+category: Literature
+difficulty: 800
+seen: 3
+answer: RuPaul
+
+You better work if you want to name.
+
+----
+num: 31
+category: Geography
+difficulty: 800
+fixed: -1
+seen: 8
+answer: gust (in Au
+
+This wind in Maine's.
+
+----
+num: 32
+category: Science
+difficulty: 1200
+seen: 5
+answer: yellow
+
+Chamomile, turmeric & saffron have been used to produce natural dyes of this primary color.
+
+----
+num: 33
+category: Literature
+difficulty: 1200
+seen: 4
+answer: Salman Rushdie
+
+This author of "The Satanic Verses" played himself in "Bridget Jones's Diary".
+
+----
+num: 34
+category: Art
+difficulty: 1200
+seen: 4
+answer: Covent Garden
+
+The land on which this London "Garden" opera house sits was once part of a monastery.
+
+----
+num: 35
+category: Geography
+difficulty: 1200
+seen: 8
+answer: ramen (in Sac
+
+This noodle in California's.
+
+----
+num: 36
+category: History
+difficulty: 1600
+seen: 4
+answer: Scotland
+
+...these invaders from the north at the 1513 Battle of Flodden, "England's revenge for Bannockburn".
+
+----
+num: 37
+category: Literature
+difficulty: 1600
+seen: 4
+answer: Wilma Rudolph
+
+In 1960 this sprinter became the first American woman to win 3 track-&-field gold medals in a single Olympics.
+
+----
+num: 38
+category: Art
+difficulty: 1600
+seen: 5
+answer: (Jean) Sibelius
+
+The only opera this Finn ever composed was "The Maiden in the Tower".
+
+----
+num: 39
+category: Geography
+difficulty: 1600
+seen: 8
+answer: ash (in N
+
+This tree in Tennessee's.
+
+----
+num: 40
+category: History
+difficulty: 2000
+seen: 5
+answer: Napoleon
+
+...a fleet at the 1798 Battle of the Nile, leaving this general's invading army trapped in Egypt.
+
+----
+num: 41
+category: Trash
+difficulty: 2000
+seen: 9
+answer: "An Elephant Fly"
+
+"I've seen a peanut stand, heard a rubber band" are lyrics from the song in "Dumbo" "When I See" this.
+
+----
+num: 42
+category: Science
+difficulty: 2000
+seen: 7
+answer: Rit
+
+"Never say dye... say" this 3-letter fabric dye company founded in 1917.
+
+----
+num: 43
+category: Literature
+difficulty: 2000
+seen: 5
+answer: Ann Rutledge
+
+Abe Lincoln was fond of this New Salem girl who died in 1835, but a grand romance is not supported by historical evidence.

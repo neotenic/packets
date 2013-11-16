@@ -1,0 +1,297 @@
+####
+tournament: Regional B
+round: round4.pdf
+year: 2002
+####
+
+num: 1
+category: Physics
+difficulty: HS
+seen: 26
+answer: 8 Rad/sec
+(Solution:   T = V/r = 120/15 = 8)
+
+What is the angular velocity of a wh eel with a radius of 15 meters and a surface velocity of 120 meters/sec:
+
+----
+num: 1
+category: Physics
+difficulty: HS
+seen: 26
+answer: 5 Seconds
+(Solution: V = At, F = Ma  => T = V/ a  = v M / F = 20 X 5 / 20 = 5 Seconds)
+
+Assuming friction is negligible, how long will it take an object to stop if it has an initial velocity of 5 meters per second, if the average braking force is 20 Newtons, and if the object’s mass is 20 kilograms?
+
+----
+num: 3
+category: Biology
+difficulty: HS
+seen: 40
+answer: Iris
+
+What anatomical structure is responsib le for the various colors of eyes in humans?
+
+----
+num: 4
+category: Astronomy
+difficulty: HS
+seen: 56
+answer: Saturn
+
+Cassini’s division is associated with what planet?
+
+----
+num: 5
+category: Math
+difficulty: HS
+fixed: -1
+seen: 26
+answer: 3
+4π
+
+Convert 135° into radians:
+
+----
+num: 5
+category: Math
+difficulty: HS
+seen: 25
+answer: X < -2
+
+Solve the following inequality: 3 – 6 x > 15
+
+----
+num: 6
+category: Earth Science
+difficulty: HS
+seen: 65
+answer: Ablation
+
+In reference to glacial ice, th e process by which ice below the snow line is lost by evaporation and melting is called what?
+
+----
+num: 7
+category: General Science
+difficulty: HS
+fixed: -1
+seen: 30
+answer: Scalar
+
+What is a quantity that has only a magnitude most commonly called?
+
+----
+num: 8
+category: Computer Science
+difficulty: HS
+seen: 63
+answer: 8
+
+In most computer systems, a byte is a unit of data that is how many binary digits long?
+
+----
+num: 8
+category: Computer Science
+difficulty: HS
+seen: 66
+answer: Nibble  (Accept:  Nybble)
+
+What is the term for half a byte, or four bits?
+
+----
+num: 9
+category: Physics
+difficulty: HS
+seen: 27
+answer: Antinodes
+
+In a standing wave of a vibrating wire cord, what are the points of constructive interference most commonly called where the cord os cillates with maximum amplitude?
+
+----
+num: 9
+category: Physics
+difficulty: HS
+fixed: -1
+seen: 25
+answer: 1/8  (Accept:  12.5%)
+
+For a radioactive element with a half -life of 5000 years, if a sample of the radioactive element is left to decay for 15,000 years, what fraction of the original radioactive atoms in the sample will be left?
+
+----
+num: 10
+category: Chemistry
+difficulty: HS
+fixed: -1
+seen: 33
+answer: Beryllium;  Magnesium;  Calcium;  Strontium;  Barium;  Radium
+
+From the lowest to the highest atomic number, give the full names of any 4 alkaline earth metals:
+
+----
+num: 11
+category: Biology
+difficulty: HS
+seen: 38
+answer: Neutrophil  (Accept:  Pmn)
+
+Which is the more common specific name for the polymorphonuclear (read as: pol y-morph-oh-nuclear) leukocyte?
+
+----
+num: 11
+category: Biology
+difficulty: HS
+seen: 40
+answer: Nightshade   (Accept:  Solanaceae)
+
+Tobacco, jimsonweed, belladonna, and tomatoes all belong to what family of plants?
+
+----
+num: 12
+category: Astronomy
+difficulty: HS
+seen: 55
+answer: 53
+
+How many degrees above the horizon will the north celestial pole be for someone standing at latitude 53 ° North?
+
+----
+num: 12
+category: Astronomy
+difficulty: HS
+seen: 54
+answer: Neutron Stars  (Do Not Accept:  Pulsar)
+
+What kind of celestial bodies ha ve cores that consist primarily of neutral particles in a superfluid state and are thought to have evolved from stars with masses more than about 1.4 times the Chandrasekhar limit?
+
+----
+num: 13
+category: Math
+difficulty: HS
+fixed: -1
+seen: 26
+answer: 34
+πR^3  (Read As:  Four Third Pi Radius Cubed)
+
+What is the formula for the volume of a sphere?
+
+----
+num: 13
+category: Math
+difficulty: HS
+seen: 24
+answer: –8x ^3y + 9x^3y^2 + X^2y^3 + 3y
+
+Subtract the following 2 polynomials: (-4x ^3y + 2x^3y^2 + 2x^2y^3 + 2y) – (4x^3y – 7x^3y^2 + x^2y^3 – y)
+
+----
+num: 14
+category: Earth Science
+difficulty: HS
+seen: 63
+answer: Littoral Zone  (Accept:  Intertidal Zone)
+
+In coastal engineering terms, the area from the shoreline to just beyond the breaker zone is called what?
+
+----
+num: 15
+category: General Science
+difficulty: HS
+seen: 31
+answer: b.f. Skinner  (Accept:  Skinner)
+
+What ardent behaviorist and author of “Walden Two” believed that human behavior is strongly influenced by what he referred to as operant reinforcement?
+
+----
+num: 16
+category: Computer Science
+difficulty: HS
+seen: 64
+answer: Font
+
+In word processing, a collection of letters and associated characters in the same type face, style and point size is called:
+
+----
+num: 17
+category: Physics
+difficulty: HS
+seen: 26
+answer: 350 Newtons  (Accept:  350)
+(Solution:  F=ma; F=70x5; F=350)
+
+A runner, with her feet braced ag ainst her starting blocks, accelerates with a horizontal magnitude of 5 meters per second squared. How much horizontal force, in 
+Newtons, must she exert on the blocks to produc e this acceleration if th e she has a mass of 70 kilograms?
+
+----
+num: 18
+category: Chemistry
+difficulty: HS
+seen: 32
+answer: 10
+
+How many electrons would fill the 4d energy subshell?
+
+----
+num: 19
+category: Biology
+difficulty: HS
+seen: 41
+answer: Hypothalamus
+
+What section of the brain is sometimes referred to as the body’s thermostat?
+
+----
+num: 20
+category: Math
+difficulty: HS
+seen: 25
+answer: Standard Deviation
+
+In statistics, what is the square root of the variance most commonly known as?
+
+----
+num: 20
+category: Math
+difficulty: HS
+seen: 26
+answer: 33  (Accept:  32 – 34)
+(Solution:  v = 4/3 πR^3;  = 4/3 (3.14)(8);  = 33.49)
+
+To the nearest cubic inch, find the volume of a sphere whose diameter is 4 inches:
+
+----
+num: 22
+category: General Science
+difficulty: HS
+seen: 31
+answer: American Chestnut  (Do Not Accept Chestnut)
+
+What native tree, prized for its wood, which looked like oak, and valued also for its fruit, is no w almost extinct in the wild in the US?
+
+----
+num: 23
+category: Physics
+difficulty: HS
+seen: 25
+answer: Index of Refraction
+
+The speed of light in a vacuum divided by the speed of light in a specific material is a way to co mpute what common optical value:
+
+----
+num: 23
+category: Physics
+difficulty: HS
+seen: 27
+answer: 7
+(Solution:  v = 35/5 = 7 Volts)
+
+What is the potential difference, in volts, if 35 joules of work is needed to move 5 coulombs of charge in a uniform electric field?
+
+----
+num: 24
+category: Chemistry
+difficulty: HS
+seen: 33
+answer: Iron(ii) Carbonate  (Read As: Iron 2 Carbonate)   
+(Do Not Accept:  Ferrous Ca Rbonate or Iron Carbonate)
+
+What is the systematic name for the compound FeCO^3?

@@ -1,0 +1,247 @@
+####
+tournament: Web Sample
+round: m_round15.pdf
+####
+
+num: 1
+category: General Science
+difficulty: MS
+seen: 6
+answer: Heat  (Accept:  High Temperatures)
+
+To anneal a metal, what do you generally treat it with?
+
+----
+num: 4
+category: Earth Science
+difficulty: MS
+seen: 7
+answer: Firn
+
+What is the specific name for accumulated snow or ice that survives one melt season on a gla cier?
+
+----
+num: 5
+category: Physical Science
+difficulty: MS
+seen: 6
+answer: 1
+
+The specific heat of water is about 10 -times that of copper. By words or numbers, name all of the following 3 statements that are TRUE:
+1) 1 gram of water requires more energy than 1 gram of copper to raise its temperature by 1ºC
+2) water will cool down in the same environment much faster than a sample of copper of the same mass
+3) 1 gram of water has 10-times as much average translational kinetic energy than 1 gram of copper at the same temperature
+
+----
+num: 6
+category: Math
+difficulty: MS
+seen: 6
+answer: 100
+(Solution: 50 Bags × $6 = $300; 300 – 200 = $100)
+
+A hardware store-owner buys a 100-pound box of nails for $200. If the owner repackages the nails into 2 -pound bags and sells them each for $6.00 per bag, find his profit in dollars after selling all the nails:
+
+----
+num: 9
+category: Earth Science
+difficulty: MS
+seen: 8
+answer: P -Wave;  S-Wave;  L-Wave
+
+Arrange the following 3 types of seismic waves from the 
+FIRST to arrive at a seismic recording station to the LAST from a given earthquake: 
+S-wave; L-wave; P-wave
+
+----
+num: 11
+category: Math
+difficulty: MS
+seen: 6
+answer: 96
+(Solution:  [3(100%) + 2(90%)]/5 = 96%)
+
+Ebony has taken 5 math tests and averaged 90% on her first 2 tests but averaged 100% on the next 3 tests. What is her overall percent average after these 5 tests, assuming all are weighted equally?
+
+----
+num: 12
+category: Life Science
+difficulty: MS
+seen: 12
+answer: Spleen
+
+In certain diseases, red blood cells are damaged and destroyed in massive numbers. What organ will often enlarge under these circumstances and be central in the removal of the abnormal red blood cells and their breakdown products?
+
+----
+num: 12
+category: Life Science
+difficulty: MS
+seen: 11
+answer: Adrenaline;  Dopamine;  Serotonin  
+(Accept:  All but Sphingosine)
+
+Name all of the following 4 mo lecules that serve as neurotransmitters in vertebrates: adrenaline; dopamine; serotonin; sphingosine (read as: SFING -go-seen)
+
+----
+num: 13
+category: General Science
+difficulty: MS
+seen: 6
+answer: Mirrors
+
+Instead of lenses, what do refractor telescope use to collect light from celestial objects?
+
+----
+num: 13
+category: General Science
+difficulty: MS
+seen: 6
+answer: White Dwarf  (Accept:  Black Dwarf)
+
+What is the most common term for the final stage of a star with between 1 and 3 solar masses?
+
+----
+num: 15
+category: Physical Science
+difficulty: MS
+seen: 6
+answer: 2
+
+Consider a catapult on a cliff 20 meters above the gr ound directly below. If air resistance is ignored, how many seconds, rounded to the nearest whole second, will it take a rock launched horizontally from the catapult at 25 meters per second to hit the ground?
+
+----
+num: 16
+category: Math
+difficulty: MS
+seen: 6
+answer: 7
+
+A carpenter is building a vertical wall and using one, 2 -by-4 vertical stud every 16 inches. If the wall is 8 feet long, how many vertical studs will he use?
+
+----
+num: 16
+category: Math
+difficulty: MS
+seen: 6
+answer: 8π
+(Solution:  C = 80π;  36 º/360º = 1/10 × 80π = 8π)
+
+A circle has a circumference of 80π. Giving your answer in terms of π, find the length of a 36º arc of this circle:
+
+----
+num: 17
+category: Life Science
+difficulty: MS
+seen: 10
+answer: Saturated
+
+What is the most common term used to describe a hydrocarbon chain that has all single bonds between carbons?
+
+----
+num: 19
+category: Earth Science
+difficulty: MS
+seen: 7
+answer: Permian Extinction  (Accept:  Permian or Permian-Triassic or 
+Permo-Triassic)
+
+What is the name for the largest extinction event when nearly all life on Earth came to an end?
+
+----
+num: 20
+category: Physical Science
+difficulty: MS
+seen: 5
+answer: Acetic Acid
+
+Name all of the following 3 substances that will likely form a weak electrolyte when dissolved in pure water: acetic acid; magnesium chloride; sodium hydroxide
+
+----
+num: 21
+category: Math
+difficulty: MS
+seen: 6
+answer: Slope
+
+Choosing from x-coordinate, y-coordinate, slope and height, w hat value of the graph of a linear funct ion is always constant?
+
+----
+num: 21
+category: Math
+difficulty: MS
+seen: 6
+answer: 20
+
+What is the exact value of the log ^10 10^20? (read as: log base 10, of 10 to the 20 ^th power)
+
+----
+num: 22
+category: Life Science
+difficulty: MS
+seen: 10
+answer: 92
+
+If a normal human lymphocyte unde rwent mitosis but NOT cytokinesis, how many chromosomes would the cell have?
+
+----
+num: 22
+category: Life Science
+difficulty: MS
+seen: 10
+answer: Primary
+
+The structure of proteins is classified from primary through quaternary levels. Which level is determined by the sequence of its amino acids?
+
+----
+num: 23
+category: Physical Science
+difficulty: MS
+seen: 6
+answer: Citric Acid
+
+Name all of the following 4 choices that are organic acids: citric acid; hydrochloric acid; nitric acid; hydrogen sulfide
+
+----
+num: 23
+category: Physical Science
+difficulty: MS
+seen: 5
+answer: All
+
+Name all of the following 3 physical properties of a block of iron that change when the temperature of an object is raised: electrical conductance; volume; density
+
+----
+num: 24
+category: Earth Science
+difficulty: MS
+seen: 7
+answer: Oxygen
+
+The smelting of pure iron ore is done to remove what atoms which are bonded to the iron atom?
+
+----
+num: 24
+category: Earth Science
+difficulty: MS
+seen: 8
+answer: Fog  (Accept:  Arctic Fog)
+
+Also known as Arctic sea smoke, what is the meteorological term for what often forms over open water in frigid temperatures as a result of vapor condensation?
+
+----
+num: 25
+category: Math
+difficulty: MS
+seen: 7
+answer: Tangent
+
+What is the name for an y line in the same plane as a circle and intersecting the circle at exactly one point?
+
+----
+num: 25
+category: Math
+difficulty: MS
+seen: 7
+answer: 7
+
+Solve the following equation for x: 256 = 2^(^x^ ^+ 1)

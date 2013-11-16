@@ -1,0 +1,184 @@
+####
+tournament: Collaborative MS Tournament
+round: CMST_Round04.pdf
+year: 2010
+####
+
+num: 1
+category: History
+difficulty: MS
+fixed: 1
+seen: 3032
+answer: Battle of {Waterloo}
+
+During this battle, Marshal Ney led a cavalry assault that was turned back by infantry squares on the road to Brussels. It ended with the repulse of an attack by grenadiers of the Imperial Guard and the arrival of Blucher's (“BLUE-kers”) Prussian army, which saved a combined force of Dutch and British led by the Duke of Wellington. For 10 points, name this 1815 battle, the final defeat of Napoleon.
+
+----
+num: 2
+category: Literature
+difficulty: MS
+fixed: -1
+seen: 2861
+answer: William Faulkner
+
+In this author's first Pulitzer Prize-winning work, the Generalissimo orders the execution of Corporal Zsettslani (“SET-slah-nee”). His second Pulitzer-winning novel revolves around Lucius Priest, a resident of Yoknapatawpha (“YOCK-NAH-puh-TAH-fuh”) County. This author wrote novels about Thomas Sutpen and about the death of Addie Bundren. For 10 points, name this American author of Absalom! Absalom!, As I Lay Dying, and The Sound and the Fury.
+
+----
+num: 3
+category: Science
+difficulty: MS
+fixed: 1
+seen: 3778
+answer: potential {energy} [or {potential} energy after “energy”; prompt on {energy}]
+
+One form of this concept is equal to the product of charge and voltage. For a spring, this quantity is given by one-half times the spring constant times the square of the distance from equilibrium. The gravitational form of this quantity is equal to an object's weight times its height. For 10 points, give this “stored” energy that is converted into kinetic energy.
+
+----
+num: 4
+category: Fine Arts
+difficulty: MS
+fixed: 1
+seen: 2820
+answer: The {Parthenon}
+
+Friezes removed from this building in 1812 are now housed in the British museum and are known as the Elgin Marbles. This building housed a statue that holds Nike in her right hand; that statue was created by Phidias (“FID-ee-us”) and is a cult statue dedicated to Athena. For 10 points, name this temple with Doric columns on the Acropolis in Athens.
+
+----
+num: 5
+category: Geography
+difficulty: MS
+fixed: -1
+seen: 4447
+answer: {London}
+
+One Canada Square, the tallest building completed in this city, is meant to rival its traditional financial center, home to a cathedral designed by Christopher Wren. Its namesake “Eye” is Europe's tallest Ferris wheel. Landmarks here include the Tate Modern and Westminster Abbey. For 10 points, Buckingham Palace in located in what city on the Thames (“temz”), the capital of the United Kingdom?
+
+----
+num: 6
+category: History
+difficulty: MS
+fixed: 1
+seen: 3045
+answer: Republic of {Chile}
+
+Early in January 2010, copper miners working for Codelco in this nation ended a strike. The government of this country was criticized for utilizing the military to restore order, citing the oppression of former president Augusto Pinochet (“PIN-oh-shay”). It is led by outgoing president Michelle Bachelet (“BASH-uh-lay”). For 10 points, name this South American country, which recently was struck by a devastating earthquake.
+
+----
+num: 7
+category: Religion
+difficulty: MS
+fixed: -1
+seen: 2751
+answer: {Moses}
+
+This figure protected the seven daughters of Jethro, one of whom, Zipporah, became this figure's wife. This son of Yocheved (“YO-keh-ved”) once killed an Egyptian overseer who was beating a slave, after which this brother of Miriam fled to Midian until God appeared to him in the form of a burning bush. For 10 points, name this leader of the Israelites who begged Pharaoh to “let my people go.”
+
+----
+num: 8
+category: History
+difficulty: MS
+fixed: 1
+seen: 3020
+answer: Mohandas (Karamchand) {Gandhi} [or Mahatma {Gandhi} before mentioned]
+
+In 1948 Nathuram Godse (“nuh-THOO-ram GOD-see”) shot this man, whose major work, Hind Swaraj (“HINNED SWAR-ahzh”), was published in South Africa before World War I. His protest against the salt tax was part of his campaign of satyagraha (“SOT-yuh-GRAH-hah”), which sought to undermine British rule through non-cooperation. For 10 points, what nonviolent leader of India's independence movement was known as the Mahatma?
+
+----
+num: 9
+category: Science
+difficulty: MS
+fixed: 1
+seen: 3789
+answer: carrying {capacity} [prompt on {k} before mentioned]
+
+The Dewar equation defines this quantity for density-dependent variables. Species that exhibit exponential population growth appear to lack this value, and in logistic population growth, the per capita rate of increase approaches zero near this value. For 10 points, name this ecological term, often denoted k, which is the maximum population that can be sustained by an ecosystem.
+
+----
+num: 10
+category: Trash
+difficulty: MS
+fixed: -1
+seen: 5505
+answer: The {Beatles} [accept {Lovely Rita} before "{this group}"]
+
+The title figure looks "a little like a military man" in this group's song about a meter maid, "Lovely Rita." Peter Frampton starred in a movie based on this group's album Sergeant Pepper's Lonely Hearts  Club Band. They recorded the album Abbey Road shortly before breaking up in 1970. For 10 points, name this band from Liverpool, England whose hit “Eleanor Rigby” was written by Paul McCartney.
+
+----
+num: 11
+category: Mythology
+difficulty: MS
+fixed: 1
+seen: 4230
+answer: Odin
+
+One of this deity's possessions is a ring that creates eight copies of itself every nine nights. This deity learned nine songs and eighteen runes after hanging from the world tree for nine days. Huginn (“HOO- ginn”) and Muninn (“MOO-ninn”) bring information from the various lands of this deity's pantheon to his throne. Fenrir (“FEN-reer”) will kill this deity at Ragnarok (“RAG-nuh-rock”). For 10 points, name this god of poetry and wisdom, the leader of the Norse pantheon.
+
+----
+num: 12
+category: Science
+difficulty: MS
+fixed: 1
+seen: 3799
+answer: {fault}
+
+Two of these entities are responsible for the Great Rift Valley located in East Africa. Subduction zones are found along them. Several of them are responsible for the area of volcanic activity known as the Ring of Fire, though movement along them more famously causes earthquakes. For 10 points, identify these gaps in the Earth's crust, which include one in California called the San Andreas.
+
+----
+num: 13
+category: Literature
+difficulty: MS
+fixed: 1
+seen: 2868
+answer: Jules {Verne}
+
+In one work, this writer wrote about Otto, whose scientific curiosity is not shared by Axel Lidenbrock (“LIE-den-brock”). In another of his novels, the Abraham Lincoln is captained by Pierre Aronnax (“AIR- oh-nax”) and the Nautilus is captained by Captain Nemo. For 10 points, name this French writer who wrote Journey to the Center of the Earth and Twenty Thousand Leagues Under the Sea.
+
+----
+num: 14
+category: Social Science
+difficulty: MS
+fixed: -1
+seen: 4313
+answer: affirmative action
+
+The first Supreme Court case to deal with this doctrine was Regents of the University of California v.  Bakke, which dealt with the question of whether it should be viewed as reverse discrimination. Although it also covers jobs and promotions, for 10 points, what doctrine is most controversial for its attempts to provide members of disadvantaged groups enhanced opportunities for admission to educational institutions?
+
+----
+num: 15
+category: Fine Arts
+difficulty: MS
+fixed: 1
+seen: 2817
+answer: {piano} [accept {pianoforte}]
+
+Paul Wittgenstein (“VIT-gen-SHTINE”) commissioned concertos for this instrument that used only the left hand. This instrument is said to have been invented by Bartolomeo Cristofori (“BAR-tow-lo- MAY-oh KRIS-tow-for-ee”). It was originally named for its ability to play both loud and soft sounds, which made it an improvement over the clavichord and harpsichord. For 10 points, name this musical instrument that has thirty-six black and fifty-two white keys.
+
+----
+num: 16
+category: Literature
+difficulty: MS
+fixed: 1
+seen: 4773
+answer: Hermione Granger [accept either]
+
+This character was named after the wife of King Leontes in The Winter's Tale. This character forms an organization called S.P.E.W., and purchases a half-cat, half-kneazle (“NEE-zul”) known as Crookshanks. Though she is called a “mudblood” because of her dentist parents, she is smart enough to have memorized “Hogwarts: A History.” For 10 points, name this female companion to Harry and Ron in the “Harry Potter” series.
+
+----
+num: 16
+category: Trash
+difficulty: MS
+fixed: -1
+seen: 5461
+answer: {Hermione Granger} [accept either]
+
+This character was named after the wife of King Leontes in The Winter's Tale. This character forms an organization called S.P.E.W., and purchases a half-cat, half-kneazle (“NEE-zul”) known as Crookshanks. Though she is called a “mudblood” because of her dentist parents, she is smart enough to have memorized “Hogwarts: A History.” For 10 points, name this female companion to Harry and Ron in the “Harry Potter” series.
+
+----
+num: 17
+category: Science
+difficulty: MS
+fixed: 1
+seen: 3764
+answer: rational
+
+This term denotes any algebraic expression written as the quotient of two polynomials. If the discriminant of a quadratic equation is a perfect square, then both roots of that equation are of this type. All numbers denoted by this term are algebraic. For 10 points, give this term that denotes any number that can be written as a over b, where a and b are integers.

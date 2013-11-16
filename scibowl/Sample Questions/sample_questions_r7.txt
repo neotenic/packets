@@ -1,0 +1,222 @@
+####
+tournament: Sample Questions
+round: sample_questions_r7.pdf
+####
+
+num: 2
+category: Math
+difficulty: MS
+seen: 6
+answer: 0.7
+
+What is the square root of 0.49?^
+
+----
+num: 2
+category: Math
+difficulty: MS
+seen: 7
+answer: 4x^2 – 3x + 2
+
+Simplify the following algebraic expression: 3x ^2 + 4 – (3x + 2 – x^2)
+
+----
+num: 2
+category: Math
+difficulty: MS
+fixed: -1
+seen: 6
+answer: 0.7
+
+What is the square root of 0.49?^
+
+----
+num: 2
+category: Math
+difficulty: MS
+seen: 5
+answer: 4x^2 – 3x + 2
+
+Simplify the following algebraic expression: 3x ^2 + 4 – (3x + 2 – x^2)
+
+----
+num: 9
+category: Physical Science
+difficulty: MS
+seen: 6
+answer: 9
+
+If the distance separating two charges is tripled, the force between them decreases by what factor?
+
+----
+num: 9
+category: Physical Science
+difficulty: MS
+seen: 6
+answer: 9
+
+If the distance separating two charges is tripled, the force between them decreases by what factor?
+
+----
+num: 10
+category: Math
+difficulty: MS
+seen: 6
+answer: 1
+3
+
+Reduce 5418to its lowest fraction:
+
+----
+num: 10
+category: Math
+difficulty: MS
+seen: 7
+answer: 1
+3
+
+Reduce 5418to its lowest fraction:
+
+----
+num: 14
+category: Life Science
+difficulty: MS
+seen: 10
+answer: Genus and Species
+
+Binomial nomenclature is clas sically made up of what two taxonom ical term s?
+
+----
+num: 14
+category: Life Science
+difficulty: MS
+seen: 11
+answer: Genus and Species
+
+Binomial nomenclature is clas sically made up of what two taxonom ical term s?
+
+----
+num: 16
+category: Life Science
+difficulty: MS
+seen: 11
+answer: Spleen
+
+What organ of the hum an body is primarily responsible for rem oving abnormal red blood cel ls from the circulation ?
+
+----
+num: 16
+category: Life Science
+difficulty: MS
+seen: 11
+answer: Spleen
+
+What organ of the hum an body is primarily responsible for rem oving abnormal red blood cel ls from the circulation ?
+
+----
+num: 20
+category: Math
+difficulty: MS
+seen: 6
+answer: Prime Numbers
+
+If in a sequence of natural numbers, starting with 2, you begin eliminating every secon d number after 2, then every third number after 3, then every fourth number after 4, and so on, what type of numbers will be lef t?
+
+----
+num: 20
+category: Math
+difficulty: MS
+seen: 6
+answer: Prime Numbers
+
+If in a sequence of natural numbers, starting with 2, you begin eliminating every secon d number after 2, then every third number after 3, then every fourth number after 4, and so on, what type of numbers will be lef t?
+
+----
+num: 21
+category: Physical Science
+difficulty: MS
+seen: 5
+answer: At Its Surface
+
+Where is the gravitational force the greatest for a uniform spherical planet:
+
+----
+num: 21
+category: Physical Science
+difficulty: MS
+seen: 5
+answer: At Its Surface
+
+Where is the gravitational force the greatest for a uniform spherical planet:
+
+----
+num: 23
+category: Physical Science
+difficulty: MS
+seen: 6
+answer: Archimedes’ Principle
+
+What is the following statement most commonly known as: “A body immersed in a fluid is supported by a force equal to the weight of the fluid it displaces.”
+
+----
+num: 23
+category: Physical Science
+difficulty: MS
+seen: 5
+answer: Archimedes’ Principle
+
+What is the following statement most commonly known as: “A body immersed in a fluid is supported by a force equal to the weight of the fluid it displaces.”
+
+----
+num: 24
+category: Life Science
+difficulty: MS
+seen: 11
+answer: Knee Cap,  Shoulder Blade,  Big Toe
+
+Give the common colloquial na mes in respective order for the followin g 3 anatomical structures: patella, scapula, hallux
+
+----
+num: 24
+category: Life Science
+difficulty: MS
+seen: 11
+answer: Knee Cap,  Shoulder Blade,  Big Toe
+
+Give the common colloquial na mes in respective order for the followin g 3 anatomical structures: patella, scapula, hallux
+
+----
+num: 25
+category: Math
+difficulty: MS
+seen: 6
+answer: 10
+
+What is the length of the hypotenus e of a right triangle whose other two sides are 6 and 8 units long?
+
+----
+num: 25
+category: Math
+difficulty: MS
+seen: 7
+answer: $50
+
+If you were to invest $1000 in a savings account that pays 5% simple annual interest, how m uch interest in dollars will you earn in 1 year?
+
+----
+num: 25
+category: Math
+difficulty: MS
+seen: 5
+answer: 10
+
+What is the length of the hypotenus e of a right triangle whose other two sides are 6 and 8 units long?
+
+----
+num: 25
+category: Math
+difficulty: MS
+seen: 6
+answer: $50
+
+If you were to invest $1000 in a savings account that pays 5% simple annual interest, how m uch interest in dollars will you earn in 1 year?

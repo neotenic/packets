@@ -1,0 +1,234 @@
+####
+tournament: ACF Nationals
+round: 2011-ACFNationals-Editors1Final.doc
+year: 2011
+####
+
+num: 1
+category: Science
+difficulty: Open
+fixed: 1
+seen: 56
+answer: {Landau} theory of phase transitions [ also accept: {Ginzburg-Landau theory} of {phase transitions} if given but do not accept Ginzburg-Landau theory of superconductivity or anything that mentions superconductivity ]
+
+Because this theory is a mean-field theory, its validity is limited to regions in which the mean-square fluctuation of its central quantity over the correlation volume is small. When applied to magnetization, the cubic term in this theory’s central expansion goes to zero because magnetization must be invariant under time reversal. The central quantity in this theory is non-zero in the unsymmetrical state and zero in the symmetrical state. In this theory, thermodynamic potentials are expanded in powers of the order parameter, and this theory can break down when the fluctuations around the critical point are too large, as they are around helium’s lambda point. For ten points, identify this eponymous theory which gives a phenomenological description of continuous phase transitions.
+
+----
+num: 1
+category: Science
+difficulty: Open
+fixed: 1
+seen: 57
+answer: {Landau} theory of phase transitions [{also} accept: {Ginzburg}-{Landau theory} of {phase transitions} if {given} but do not accept {Ginzburg}-{Landau theory} of {superconductivity} or anything that mentions {superconductivity}]
+
+Because this theory is a mean-field theory, its validity is limited to regions in which the mean-square fluctuation of its central quantity over the correlation volume is small. When applied to magnetization, the cubic term in this theory’s central expansion goes to zero because magnetization must be invariant under time reversal. The central quantity in this theory is non-zero in the unsymmetrical state and zero in the symmetrical state. In this theory, thermodynamic potentials are expanded in powers of the order parameter, and this theory can break down when the fluctuations around the critical point are too large, as they are around helium’s lambda point. For ten points, identify this eponymous theory which gives a phenomenological description of continuous phase transitions.
+
+----
+num: 2
+category: Literature
+difficulty: Open
+fixed: 1
+seen: 36
+answer: the {sonnets} of {John Milton} [prompt on partial answer]
+
+The ninth of these poems praises a woman who "shun'd the broad way and the green" to "labor up the Hill of heavenly truth," and is addressed to "a virtuous young lady." The seventh of these poems exclaims, "How soon hath Time, the subtle thief of youth / Stolen on his wing my three and twentieth year?", while the thirteenth celebrates the "tuneful and well-measured song" of Henry Lewes. In the last of these poems, the speaker dreams of the return of "his late espoused Saint," only to end "But O as to embrace me she inclined / I woke, she fled, and day brought back my night." In the nineteenth of these poems, the speaker asks "does God exact day labour, light denied," and hears patience reply, "they also serve who only stand and wait." For ten points, name these fourteen-line poems, such as "When I consider how my light is spent," which were written by the author of Samson Agonistes and Paradise Lost.
+
+----
+num: 3
+category: Philosophy
+difficulty: Open
+fixed: 1
+seen: 39
+answer: {intelligence tests} [do not accept or prompt on " intelligence "]
+
+Anne Anastasi wrote a major 1954 text about these entities, and was known as the "guru" of them. Alan and Nadeen Kaufman used the CHC model to develop several of these entities, including the KABC and the KAIT. Robert Sternberg developed his triarchic theory because of his concerns that these entities are dissociated from the real world. Louis Thurstone applied multiple-factor analysis to these entities, causing him to posit seven "primary abilities." Many of them, such as Raven's Progressive Matrices, are based on Charles Spearman's concept of a general factor, or g. Stephen Jay Gould argued that the hereditarian interpretation of these entities in The Bell Curve promoted scientific racism in The Mismeasure of Man. For ten points, name these entities, such as ones named for Weschler and Stanford-Binet, which often measure IQ.
+
+----
+num: 4
+category: Literature
+difficulty: Open
+fixed: 1
+seen: 49
+answer: {The Protocols of the Elders of Zion}
+
+This book's comparison of newspapers to the hundred arms of Vishnu has led many scholars to argue that it was plagiarized from earlier texts. It was translated into English by Victor Marsden from the edition included as an appendix to The Great and the Small by Sergei Nilus. Much of it was adapted from The Dialogue in Hell between Machiavelli and Montesquieu, a satire against Napoleon III by Maurice Joly. Philip Graves's articles attacking this book were cited in the 1934 Berne trial discrediting it. This book begins by claiming that "right lies in might," and argues that the "Symbolic Snake" is closing around Europe. It describes plans to create a world "super-government" and manufacture economic crises in order to destroy states, and was published by Henry Ford as The International Jew. For ten points, name this notorious anti-Semitic forgery about a Jewish conspiracy to rule the world.
+
+----
+num: 4
+category: History
+difficulty: Open
+fixed: None
+seen: 50
+answer: The {Protocols} of the {Elders} of {Zion}
+
+This book's comparison of newspapers to the hundred arms of Vishnu has led many scholars to argue that it was plagiarized from earlier texts. It was translated into English by Victor Marsden from the edition included as an appendix to The Great and the Small by Sergei Nilus. Much of it was adapted from The Dialogue in Hell between Machiavelli and Montesquieu, a satire against Napoleon III by Maurice Joly. Philip Graves's articles attacking this book were cited in the 1934 Berne trial discrediting it. This book begins by claiming that "right lies in might," and argues that the "Symbolic Snake" is closing around Europe. It describes plans to create a world "super-government" and manufacture economic crises in order to destroy states, and was published by Henry Ford as The International Jew. For ten points, name this notorious anti-Semitic forgery about a Jewish conspiracy to rule the world.
+
+----
+num: 5
+category: Science
+difficulty: Open
+fixed: 1
+seen: 57
+answer: {pachytene} or {pachynema} [prompt on {prophase} I until “ {checkpoint} named for {this stage} ” is read; {don’t} prompt on {meiosis} or {meiosis} I at any point]
+
+NDT80-mediated transcription of Polo-like kinase allows cells to exit from this stage, and Piwi-interacting RNAs are classified by whether they appear during or before this stage. In C. elegans, cells in this stage are located proximal to the transition zone. In many organisms, this stage can be distinguished by the presence of maximal SYP3 staining, which represents the assembly, upon bivalents (BIV-uh-lentz), of fully formed synaptonemal complexes. The trans face of the Golgi expands in size during this phase in males due to the synthesis of proacrosin and acrogranin. Defects in Holliday junction formation can trigger the checkpoint named for this stage, also called the recombination checkpoint, and exit from this stage is regulated by middle meiotic gene expression. For ten points, name this third stage of meiotic prophase 1 that precedes diplotene and follows zygotene.
+
+----
+num: 5
+category: Science
+difficulty: Open
+fixed: None
+seen: 59
+answer: {pachytene} or {pachynema} [prompt on {prophase} I until “{checkpoint} named for {this stage}” is read; {don’t} prompt on {meiosis} or {meiosis} I at any point]
+
+NDT80-mediated transcription of Polo-like kinase allows cells to exit from this stage, and Piwi-interacting RNAs are classified by whether they appear during or before this stage. In C. elegans, cells in this stage are located proximal to the transition zone. In many organisms, this stage can be distinguished by the presence of maximal SYP3 staining, which represents the assembly, upon bivalents (BIV-uh-lentz), of fully formed synaptonemal complexes. The trans face of the Golgi expands in size during this phase in males due to the synthesis of proacrosin and acrogranin. Defects in Holliday junction formation can trigger the checkpoint named for this stage, also called the recombination checkpoint, and exit from this stage is regulated by middle meiotic gene expression. For ten points, name this third stage of meiotic prophase 1 that precedes diplotene and follows zygotene.
+
+----
+num: 6
+category: Mythology
+difficulty: Open
+fixed: 1
+seen: 112
+answer: {Polynices}
+
+This man’s marriage to Argia, the daughter of a king who gave him shelter, would make him the uncle by marriage of Diomedes, who was the son of Argia’s sister Deiphyle. In order to secure the allegiance of Amphiaraus, this man bribed Eriphyle with the necklace of Harmonia. The position once sought by this man would eventually be achieved by his son Thersander, who also bribed Eriphyle with Harmonia’s robe to persuade Alcmaeon to accompany him. Companions of this man included Capaneus and Hippomedon, and this man was one of two cursed for refusing to give his father shelter. Of those who accompanied this man on his most famous quest, including Tydeus and Parthenopaeus, only Adrastus survived, and this man’s burial was carried out against Creon’s order by this man’s sister, Antigone. For ten points, identify this son of Oedipus and Jocasta and member of the expedition of the Seven against Thebes, who died fighting his brother Eteocles.
+
+----
+num: 7
+category: History
+difficulty: Open
+fixed: 1
+seen: 46
+answer: {Anne} of {Austria} [prompt on partial answer]
+
+At one point, this monarch was opposed by a movement nicknamed the “cabal of the important,” whose leader, the duke of Beaufort, this ruler imprisoned as a result. Despite the advice of a close counselor, this ruler forbade the surrender of Dunkirk to England, resulting in that city’s capture by an Anglo-Spanish force. This ruler was humiliated by a rival’s spies when she was caught visiting the nunnery at Val-de-Grace to correspond with her brother, Philip IV of Spain, in the midst of a war. Earlier, this ruler had been unsuccessful in persuading her husband to dismiss Cardinal Richelieu during the Day of the Dupes, and in 1651 she was forced to dismiss Mazarin as a result of the Fronde uprising. For ten points, identify this French queen who ruled as regent after the death of her husband Louis XIII in 1643 until her son, Louis XIV, came of age in 1654.
+
+----
+num: 8
+category: Fine Arts
+difficulty: Open
+fixed: 1
+seen: 42
+answer: {violin sonatas} [or {sonatas} for {violin} and {piano} ]
+
+One of these pieces by Max Reger includes notes that spell the German words for sheep and monkey in order to mock his critics. Heinrich Franz von Biber pioneered the use of scordatura in fifteen of these pieces based the life of Jesus, which are known as the "Rosary" or "Mystery" ones. One of these pieces by Arcangelo Corelli consists of variations on "La Folia," and is the twelfth and final piece in his opus 5. Cesar Franck wrote one in A major to celebrate the wedding of Eugene Ysaye. The first one composed by Brahms is based on a theme of three dotted D's, and is in G major. Beethoven composed ten of them, including one in F major nicknamed "Spring." The standard repertoire of these pieces includes the ones that J. S. Bach paired with partitas. For ten points, name these pieces that showcase a solo string instrument.
+
+----
+num: 9
+category: Literature
+difficulty: Open
+fixed: 1
+seen: 35
+answer: {Aucassin and Nicolette} or {Aucassin et Nicolette}
+
+In his essay collection The Renaissance, Walter Pater referred to this work as an expression of “‘the spirit of freedom,’ in which law shall have passed away.” While searching for one character in this work, another character encounters an ogre leaning on a large club and compensates him 20 sous for the loss of the ogre’s ox. For a time, the title characters of this work live in Torelore, whose king lies in bed pretending to give birth while his wife is in the field with the armies. This work is notable for its chante-fable format, in which the story is told in verse interspersed with poetry. At the end of this work, one title character sings a song that reveals her to be the daughter of the king of Carthage, though she had previously been purchased by the Viscount from the Saracens. For ten points, identify this 13th century romance of Provence about the love between the titular son of the Count Garin de Beaucaire and a slave girl.
+
+----
+num: 10
+category: Philosophy
+difficulty: Open
+fixed: 1
+seen: 40
+answer: {Cambridge Platonists}
+
+One member of this group argued that properties of space are analogous to the attributes of God in his Enchiridium metaphysicum. Another member of this group attacked the “Pharisaical Righteousness” of what he called “Scripture Christianity,” which he held to be as legalistic as Judaism, in a sermon collected in his Discourses. The most famous member of this group divided atheism into hylozoic, hylopatian, and cosmo-plastic variants, and argued that the so-called “Plastick Nature” of life was the medium by which God made his presence known in his creation. The work in which that philosophy is contained is entitled The True Intellectual System of the Universe, and other works by members of this group include A Discourse of the Freedom of the Will by Peter Sterry and the Aphorisms of Benjamin Whitcote. Including Nathaniel Culverwell and John Smith, and led by Henry More and Ralph Cudworth, for ten points, identify this group of English philosophers based out of a certain university.
+
+----
+num: 11
+category: Science
+difficulty: Open
+fixed: 1
+seen: 58
+answer: {hypergeometric}
+
+The statistical distribution described by this term describes the probability of drawing a specified number of successful samples from a finite distribution without replacement. The differential equation of this name is sometimes known as Gauss’ differential equation and Murphy’s formula can be used to express Legendre polynomials in terms of functions described by this term. Klein solved the icosahedral equation in terms of functions described with this term, thereby giving a closed-form solution for the roots of the quintic. The series described by this term is one in which the ratio of successive terms can be written as a rational function of the term index. For ten points, identify this term which describes series that extend those series in which the ratio of successive terms is constant.
+
+----
+num: 12
+category: History
+difficulty: Open
+fixed: 1
+seen: 47
+answer: Nelson {Aldrich}
+
+David Graham Phillips argued that this politician and Arthur Gorman were the leaders of the "political trust" in "The Treason of the Senate." This senator became the chairman of the National Monetary Commission after the passage of an emergency currency act passed in response to the Panic of 1907, which was named for him and Edward Vreeland. In 1911, that commission produced this Republican's namesake economic plan, which became the basis for much of the Federal Reserve. His dominance of American economic policy during the 1890s and 1900s caused him to be nicknamed "the General Manager of the Nation." A politician named for this senator served as Governor of New York from 1958 to 1973 and was appointed as the vice president of Gerald Ford. For ten points, name this Republican senator from Rhode Island who wrote a 1909 tariff bill that was combined with a bill sponsored by Sereno Payne.
+
+----
+num: 13
+category: Fine Arts
+difficulty: Open
+fixed: 1
+seen: 37
+answer: {Madonna} with {Chancellor Rolin} or {Virgin} with {Chancellor Rolin} or {Madonna} with the {Chancellor Rolin} or {Virgin} with the {Chancellor Rolin} or {Madonna} of {Chancellor Rolin} or or {Virgin} of {Chancellor Rolin} ({basically} accept anything that mentions {Madonna} or {Virgin} and {Chancellor Rolin})
+
+A small garden that includes irises and lilies can be seen in the center of this painting, which also features an arcade whose columns are carved with various scenes from Genesis. Its background shows two men peering out from a terrace at a city on the water that depicts buildings its creator had seen in Utrecht and Liege. One figure in this painting holds an orb with a cross on it and blesses another figure, who is bowing before a prie-dieu draped in blue with an open Book of Hours on it. On the right of the painting, an angel holding a gold crown hovers above a red- robed woman who holds a child in her lap. This 1435 painting preceded a subsequent work on the same theme, which depicts Christ and his mother with Canon van der Paele. For ten points, identify this painting that depicts a namesake nobleman in the service of Philip the Good of Burgundy, a work by Jan van Eyck.
+
+----
+num: 14
+category: Religion
+difficulty: Open
+fixed: 1
+seen: 54
+answer: {Buddhist monks} [accept {sangha} or {samgha} before mention; accept any equivalent which {indicates Buddhism} and {monasticism} ]
+
+A reorganization of this group was one of the main achievements of the sage Moggaliputtatissa. In order to have the force of law, actions by members of this group must be performed within a boundary known as sima, according to the correct karmavacana, or formula. Tasks delegated to members of this group include pariyatti and patipatti, and violating any of the parajika injunctions, such as by claiming to possess superhuman powers, is grounds for expulsion from this group. Male members of this group are known as bhikkhu and female members are known as bhikkhuni, and on the days of the full and new moon, members of this group must recite the Pratimoksha. This group, whose rules of conduct are outlined in the Vinaya Pitaka, traces its origin to the time when Siddhartha Gautama accepted five men as followers after preaching his first sermon. Known collectively as the sangha, for ten points, identify this community of ascetics of a major world religion.
+
+----
+num: 15
+category: Literature
+difficulty: Open
+fixed: 1
+seen: 32
+answer: {Tom Wingfield} [prompt on {Wingfield} ]
+
+In the fourth scene of the play he appears in, this character tells a story about going to a magic show and seeing a magician escaping from a nailed-down coffin. He calls his mother an "ugly — babbling — witch" for returning his DH Lawrence novel to the library, and tells her that he envies "how lucky dead people are" every time he wakes up to go to his job at a shoe warehouse. At the end of the play in which he appears, he begs his sister to "blow out the candles," and reveals that he descended a fire escape to join the Merchant Marine. In the opening scene of the play in which he appears, this character tells the audience that it is based on his memories. The climax of that play occurs when he invites Jim O'Connor over for dinner, causing Jim to kiss and then abandon his fragile sister Laura. For ten points, name this character who narrates The Glass Menagerie.
+
+----
+num: 16
+category: History
+difficulty: Open
+fixed: 1
+seen: 46
+answer: {Ivan III}
+
+This ruler’s armies won a major victory against Lithuanian forces at the Battle of the Verdosha River and later made peace with Lithuania by marrying his daughter to its grand duke, Alexander. His most notable triumph over domestic enemies occurred at the Shelon River and this ruler made a military alliance with Mengli Girei. This ruler married Zoe Paleologus and had to fend off a revolt from his brothers Andrei and Boris, while his campaign against Khan Ahmed pushed the forces of the Golden Horde across the Ugra River. This ruler’s major domestic achievement, during which he abolished the veche and the office of posadnik, was the subjugation of Novgorod in 1478 and the acquisition of the territories of Pskov and Tver. Despite initially favoring his grandson Dimitry, this son of Basil II eventually designated Basil III as his successor. For ten points, identify this Grand Prince of Moscow, the builder of the Kremlin and the first to hold the title “sovereign of all Russia,” who ruled from 1462 to 1505.
+
+----
+num: 17
+category: Fine Arts
+difficulty: Open
+fixed: 1
+seen: 37
+answer: {Papageno}
+
+This character reassures a woman that her lover will save her in the duet "Bei Mannern, welche Liebe fuhlen." In the first act of the opera in which he appears, he hums the beginning of a quintet after having a padlock placed over his mouth as punishment for lying. This character's arias were composed for Emanuel Schikaneder, who wrote the libretto for the opera he appears in. He introduces himself with the comic aria "Der Vogelfänger bin ich ja," which he accompanies by playing a simple theme on pan pipes. In the second to last scene, he is saved from suicide by playing his silver bells, which bring his lover onstage, causing him to repeatedly stutter the syllables "pa...pa...pa." This baritone is dressed in a suit of feathers in order to help him catch birds. For ten points, name this character who accompanies Tamino to the court of Sarastro in Mozart's opera The Magic Flute.
+
+----
+num: 18
+category: Science
+difficulty: Open
+fixed: 1
+seen: 58
+answer: {esterification} [accept equivalents like {ester synthesis} , {don’t} accept {etherification} or {ether synthesis} ]
+
+In one type of this reaction, DMAP is employed to prevent a side reaction that forms N-acyl ureas. LCAT modifies steroids by this reaction, and cutinases can be used industrially to ensure regioselectivity in reactions of this type. In the Nicolau and Holton total Taxol syntheses, a moiety formed by a variant of this reaction is the leaving group in the intermolecular SN2 reaction that forms the D ring; that leaving group can be a mesylate or a tosylate. This type of reaction is used to produce benzocaine from PABA, and, when run in reverse, it is known as saponification. A form of this reaction which uses DCC as a coupling agent is named for Steglich, while the acid-catalyzed reaction of an alcohol with a carboxylic acid is the best-known type of this reaction. For ten points, name this class of reactions whose end product is a chemical with formula R-C-O-O-R-prime, one of which is named for Fischer.
+
+----
+num: 19
+category: History
+difficulty: Open
+fixed: None
+seen: 58
+answer: {Kargil} War [accept {Fourth Indo}-{Pakistani war} or obvious equivalents; prompt on partial answers like “{Indo}-{Pakistani war}”]
+
+The attackers who launched this conflict had correctly anticipated a reduction in the defense force for the winter and planned for their attack to seize control of National Highway 1A. The attackers in this conflict had partially planned it as retribution for the FCNA losing the Siachen Glacier to the other side in this war 15 years prior. This conflict was sparked when a division of the Northern Light Infantry crossed the Line of Control, and major fighting in this war occurred around the Tololing Heights, which overlook the Srinigar-Leh highway. The counter-attack in this conflict was codenamed “Operation Vijay,” and was so successful that Nawaz Sharif was forced to recall all of his country’s troops from the occupied areas. Notable in part for its possible risk of escalating into a nuclear action, for ten points, identify this conflict fought around a namesake region of Kashmir between Pakistan and India.
+
+----
+num: 20
+category: Literature
+difficulty: Open
+fixed: None
+seen: 36
+answer: The {White Tiger}
+
+The protagonist of this novel siphons gas from his employer in order to pay for a Ukrainian prostitute with long blond hair, only to be outraged when he discovers that her hair is dyed. Its protagonist takes over the position of Ram Presad by exposing him as a secret Muslim, and is forced to massage the feet of his aged employer as part of his duties. This novel is punctuated by the repeated exclamation of "what a fucking joke" by Pinky Madam, the American-born wife of the protagonist's master. Framed as a series of seven letters to Wen Jiabao, this novel recounts how its main character escaped the "darkness" of Laxmangarh by stealing a red bag stuffed with rupees after using a broken whiskey bottle to kill Mr. Ashok. Its narrator resolves to commit that murder after imagining the title animal disappearing from its cage. For ten points, name this novel about the rise of Balram Halwai, which won the 2008 Booker Prize for its author, Aravind Adiga.

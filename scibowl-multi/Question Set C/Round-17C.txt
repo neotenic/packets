@@ -1,0 +1,232 @@
+####
+tournament: Question Set C
+round: Round-17C.pdf
+####
+
+num: 3
+category: Biology
+difficulty: HS
+seen: 1
+answer: W)  Cyclins and Cyclin-Dependent Kinases
+
+The movement of cells from G-1 in the cell cycle into S-phase is mostly under the control of:
+W) cyclins and cyclin-dependent kinases
+X) the availability of purines and pyrimidines
+Y) ubiquitin (read as: you-BIK-qui-tin) and proteosomes (read as: PRO-tee-oh-somes)
+Z) G proteins and APC’s
+
+----
+num: 3
+category: Biology
+difficulty: HS
+seen: 1
+answer: Z)  the Labels Would Mix Evenly on the Outside of the Cell
+
+If you fluorescent-labeled the outsides of the trans-membrane proteins of one mammalian cell with a yellow label and another cell with a red label and fused them, which of the following would MOST likely occur over about 1 hour at 37ºC:
+W) the labels would remain unevenly distributed on the outside of the cells
+X) the labels would quickly disappear
+Y) one color would show up in the inside of the cell and the other would remain on the outside
+Z) the labels would mix evenly on the outside of the cell
+
+----
+num: 4
+category: Math
+difficulty: HS
+seen: 1
+answer: W)  Lies on a Coordinate Axis
+
+By definition, a quadrantal angle is an angle in standard position where its terminal side:
+W) lies on a coordinate axis
+X) is a central angle
+Y) lies only in quadrants one and three
+Z) lies only in quadrants two and four
+
+----
+num: 5
+category: Earth Science
+difficulty: HS
+seen: 1
+answer: Z)  Radioisotope Half -Lives
+
+Which of the following is NOT used in determining relative geologic time:
+W) principle o f superposition
+X) principle of original horizontality
+Y) principle of cross-cutting
+Z) radioisotope half -lives
+
+----
+num: 6
+category: General Science
+difficulty: HS
+seen: 1
+answer: Z)  Plant Auxin Is Typically Produced in Bud Scales and Has the 
+Restricted Role of Cellular Elongation
+
+Which of the following is NOT true:
+W) electron tunneling is a phenomenon known since the early formulations of quantum mechanics
+X) interstellar dust is now believed to constitute less than 1% of the mass in the interstellar medium
+Y) antibiotic resistance in bacteria can arise from bacteria incorporating exogenous DNA into their genomes
+Z) plant auxin is typically produced in bud scales and has the restricted role of cellular elongation
+
+----
+num: 7
+category: Astronomy
+difficulty: HS
+seen: 1
+answer: X)  the Chandrasekhar Limit
+
+Which of the following MOST directly predicts that the maximum mass possible for a white dwarf is about 1.4-times that of the Sun:
+W) the Hubble constant
+X) the Chandrasekhar limit (read as: chan-dra-SAY-kar)
+Y) General Relativity
+Z) the Fornax theorem
+
+----
+num: 8
+category: Chemistry
+difficulty: HS
+seen: 1
+answer: Z)  Mgo
+(Solution: Naf = 993ºc; Nacl = 801; Caf
+^2 = 1423; Mgo = 2800ºc)
+
+Which of the following ionic compounds would have the highest melting p oint:
+W) NaF 
+X) NaCl
+Y) CaF^2
+Z) MgO
+
+----
+num: 9
+category: Physics
+difficulty: HS
+answer: W)  Electrons Are Directly Affected by the Strong Nuclear 
+Force
+Bonus
+9)  Physics  Short Answer Ashley, Who Weighs 450 Newtons, Is With Her Dad at the Playground, 
+and She Is Sitting on a Swing That Is 0.60 Meters Above the Ground.  Her Dad Pulls Her Back and Lets 
+Her Go When the Swing Is 1.1 Meters Above the Ground.  How Fast, in Meters Per Second to the First 
+Decimal Place, Is Ashley Moving When the Swing Passes Through Its Lowest Position?
+Answe R:  3.1  (Accept:  3.2)
+(Solution:  Pe
+^G = Fd = (450n)(0.6 – 1.1m) = -225j.  Ke = -Pe
+^G = ½Mv^2 ! v =  2
+Mke
+=
+2(225j)
+= 3.13 M/s)
+450n / 9.8m/ S^2
+
+Which of the following is NOT true:
+W) electrons are directly affected by the strong nuclear force
+X) general relativity predicts the existence of black holes
+Y) a deuterium atom has two nucleons 
+Z) many cosmologists believe that neutrinos make up about as much mass as all the stars in the universe
+
+----
+num: 10
+category: Biology
+difficulty: HS
+seen: 1
+answer: W)  Tryptophan Activates Its Repressor and Lactose Leads to 
+an Inactive Repressor
+
+Which of the following is the primary difference in regulation between the lactose and tryptophan operons:
+W) tryptophan activates its repressor and lactose leads to an inactive repressor
+X) when tryptophan is present, the repressor is inactive and the opposite is true for allolactose in the lac operon
+Y) allolactose is considered a co-repressor whereas tryptophan is actually an inducer
+Z) when tryptophan is not present, the co-repressor is able to inactivate the promoter directly
+
+----
+num: 12
+category: Earth Science
+difficulty: HS
+seen: 1
+answer: Y)  Last Year’s Snow Is Still Covering the Glacial Ice
+
+If you were hiking on a glacier in the summertime, which of the following is the BEST way to recognize if you were walking on the zone of accumulation:
+W) large amounts of rocks eroded from the nearby mountainsides have accumulated
+X) you were walking mostly on exposed, bare ice
+Y) last year’s snow is still covering the glacial ice
+Z) a bergschrund delineates the start of the accumulation zone
+
+----
+num: 13
+category: General Science
+difficulty: HS
+seen: 1
+answer: Z)  Lichens Are Prone to Desiccation and Death if Water Is 
+Withheld for More Than a Few D Ays
+
+Which of the following is NOT typically true about lichens:
+W) lichens produce a rock-dissolving acid as they grow
+X) few animals other than caribou can eat lichens
+Y) lichens take nutrients from the air 
+Z) lichens are prone to desiccation and death if water is withheld for more than a few days
+
+----
+num: 15
+category: Chemistry
+difficulty: HS
+seen: 1
+answer: W)  the Concentration of N
+^2 Increases
+
+Consider the following reaction, N + 3H ↔ 2NH , ^2(gas) ^2(gas) ^3(gas)whose heat of reaction, or delta H, is –91.8 kilojoules. If the temperature for the reaction is increased, which o f the following will occur:
+W) the concentration of N^2 increases 
+X) the concentration of H^2 decreases
+Y) the concentration of NH^3 increases
+Z) the concentration of N^2 decreases
+
+----
+num: 16
+category: Physics
+difficulty: HS
+seen: 1
+answer: Y)  Cooper Pairs
+
+Which of the following is MOST closely related to the movement of charge in non-ceramic superconductors:
+W) charge confinement
+X) Josephson effect
+Y) Cooper pairs
+Z) Hall movement
+
+----
+num: 17
+category: Biology
+difficulty: HS
+seen: 1
+answer: X)  the Competition of Carbon Dioxide and Molecular Oxygen 
+for Rubisco
+
+Which of the following is the BEST description of photorespiration:
+W) the process whereby primitive bacteria use light to help oxidize inorganic molecules
+X) the competition of carbon dioxide and molecular oxygen for Rubisco
+Y) the gaining of chemical energy in photosynthesis
+Z) the loss of reduced electrons from photosystem one
+
+----
+num: 20
+category: General Science
+difficulty: HS
+seen: 1
+answer: Y)  10^10^100
+
+Which of the following is the equivalent of a googolplex:
+W) 10
+X) 10^10^100^10
+Y) 10^1000^10^100^^
+Z) 10
+
+----
+num: 20
+category: General Science
+difficulty: HS
+seen: 1
+answer: Y)  a Simian Immunodeficiency Virus of Chimps
+
+Most scientific evidence currently supports the belief that HIV-1 evolved from:
+W) a rotovirus of monkeys
+X) a retrovirus of monkeys
+Y) a simian immunodeficiency virus of chimps
+Z) a picorna immunodeficiency virus of monkeys

@@ -1,0 +1,234 @@
+####
+tournament: HSAPQ Tournament 9
+round: tourn9-09.pdf
+year: 2009
+####
+
+num: 1
+category: Geography
+difficulty: HS
+fixed: 1
+seen: 721
+answer: {Yellow Sea} [or Huang Hai; or Hwanghae; prompt on East China Sea]
+
+The unique floor of this sea was submerged within the past ten thousand years. This sea's Bo Hai arm includes Laizhou Bay and is separated from the rest of this sea by the Shandong and Liaodong peninsulas. Ports on this sea include Nampo and Inchon, and the (*) Huang He and Yangtze rivers empty into this sea. For 10 points, name this sea, lying between China and Korea, that takes its name from the color its receives from the sediments of its deltas.
+
+----
+num: 2
+category: History
+difficulty: HS
+fixed: -1
+seen: 417
+answer: Battle of Hastings
+
+One commander in this battle received word of his opponents' approach from Vitalis, a vassal of Odo. This battle was preceded by a landing at Pevensey. One commander in this battle had recently defeated the forces of (*) Harald Hardrada and Tostig at Stamford Bridge. That commander was killed during this battle by an arrow to the eye, according to the Bayeux Tapestry. For 10 points, name this 1066 battle in which Harold II was killed by the forces of William the Conqueror, who successfully invaded England by winning here.
+
+----
+num: 3
+category: Philosophy
+difficulty: HS
+fixed: 1
+seen: 519
+answer: George {Berkeley}
+
+This philosopher criticized infinitesimal calculus in The Analyst, and wrote that "Ideas can only resemble Ideas" in A Treatise Concerning the Principles of Human Knowledge. His most famous work is a dialogue in which one character represents John Locke, and which presents his belief that "to (*) be is to be perceived." For 10 points, name this philosopher who wrote Three Dialogues between Hylas and Philonous and shares his name with a California university.
+
+----
+num: 4
+category: Fine Arts
+difficulty: HS
+fixed: 1
+seen: 489
+answer: {unfinished symphonies} [prompt on symphonies]
+
+One of this type of composition by Alexander Borodin, in A minor, was later orchestrated by Glazunov. The Allegro brilliante from Tchaikovsky's composition of this type in E flat was reworked into his third piano concerto. Mahler wrote one of these with (*) Adagio and Purgatorio movements. Another composition of this type begins in the low strings and has its main theme stated in the oboes and clarinets; that piece only has two movements and comes before its composer's "Great" composition in C major. For 10 points, name these works like Schubert's eighth, all of which were never completed.
+
+----
+num: 5
+category: Science
+difficulty: HS
+fixed: 1
+seen: 478
+answer: array
+
+Special types of these include ones that are indexed by non-integer values or begin at index 1 and stores children at 2n and 2n+1, and are known as hash tables and heaps, respectively. Addressing in this structure uses (*) pointers to refer to a specific memory address. A one-dimensional one of these can also be known as a vector. For 10 points, name this data structure, analogous to the matrix in mathematics, which stores multiple elements of the same type in contiguous memory locations.
+
+----
+num: 6
+category: Literature
+difficulty: HS
+fixed: 1
+seen: 446
+answer: Alexander {Pope}
+
+One of this author's poems calls mankind "the glory, jest, and riddle of the world!" and advises "Know then thyself, presume not God to scan." After being asked to write a couplet for a monument commemorating Newton, this author wrote "Nature and Nature's laws lay hid in night: God said, Let Newton be! And all was light." This author wrote a poem in which sylphs fail to prevent the Baron from using (*) scissors to cut off some of Belinda's hair, and he used heroic couplets to write "An Essay on Criticism" and "An Essay on Man." For 10 points, name this eighteenth-century English poet of "The Rape of the Lock."
+
+----
+num: 7
+category: History
+difficulty: HS
+fixed: 57
+seen: 415
+answer: Simón {Bolívar}
+
+This man argued for the system of government "that is most likely to succeed" and attempted to rally British and American support in his "Letter from Jamaica." This leader's chief of staff won the battles of Pichincha and Ayacucho. This man won one battle with his future vice president, Francisco Santander, at Boyocá, and this leader also commanded Antonio José de (*) Sucre. This ruler was the first president of a country he created, Gran Colombia. For 10 points, name this man who worked against Spanish rule as "The Liberator" in South America.
+
+----
+num: 8
+category: Fine Arts
+difficulty: HS
+fixed: 57
+seen: 497
+answer: The {Blue Rider} [or {Der Blaue Reiter}; prompt on {German Expressionism}]
+
+One painting done by a member of this art movement depicts a long-necked deer next to two red boars. That painting, The Fate of the Animals, was completed by an artist of this movement who also painted Fighting Forms. Another artist of this movement discussed its use of color in his book On the (*) Spiritual in Art and painted Squares with Concentric Circles. This movement's foremost painters were Franz Marc and Wassily Kandinsky. For 10 points, name this German expressionist art movement whose name was inspired by a painting of an azure-clad man on horseback.
+
+----
+num: 9
+category: Literature
+difficulty: HS
+fixed: 1
+seen: 451
+answer: Katherine O'Flaherty “Kate” {Chopin}
+
+In one story by this author, a man is burning a cradle and two sets of clothes when he discovers that it is he, Armand Aubigny (AW-bin-yee), and not his exiled wife, who is secretly biracial. In addition to writing “Desiree's Baby,” this author described Louise Mallard's death from a (*) heart attack after her supposedly dead husband walks in the door in “The Story of an Hour.” This writer also wrote a novel in which painting, moving into the “pigeon house,” and dating Robert Lebrun all fail to satisfy New Orleans resident Edna Pontellier (poh-TELL-yeh). For 10 points, name this writer of The Awakening.
+
+----
+num: 10
+category: History
+difficulty: HS
+fixed: 1
+seen: 419
+answer: {Gaul} [or {Gallia}; prompt on {France} before “named for {this region}” is read; do not accept or
+
+In this region, the German king Ariovistus was invited to become king of a certain group in order to make war against the Aedui (EYE-doo-ee). That alliance provoked a larger conflict named for this region, that included the siege of Gergovia (ger-GO-vee-uh) by the Averni and the decisive battle of (*) Alesia (al-EE-zee-uh). The wars named for this place ended when Vercingetorix (VER-sin-GET-or-icks) was defeated by Julius Caesar, who wrote a book named for the campaign here. The Romans then portioned this region into Transalpine and Cisalpine provinces. For 10 points, identify this ancient equivalent of France.
+
+----
+num: 11
+category: Trash
+difficulty: HS
+fixed: -1
+seen: 1032
+answer: Ryan {Howard}
+
+This player's 41 runs batted in during September 2006 was the highest single-month total since July 1962. In that same month, he hit his 49th home run of the season, breaking the previous franchise single-season record. One notable 2009 home run by this player was retrieved by a twelve-year -old girl, who was allegedly bribed with candy into giving this player his (*) 200th career home run, an accomplishment that he took fewer career games to achieve than any previous player. For 10 points, name this 2006 National League MVP, a power-hitting first baseman for the Philadelphia Phillies.
+
+----
+num: 12
+category: Science
+difficulty: HS
+fixed: -1
+seen: 492
+answer: {universal} or ideal {gas} constant
+
+This and the Faraday constant are the only two constants appearing in the Nernst equation, and in the Arrhenius equation, e is taken to the power of negative activation energy divided by the product of temperature and this constant. It is equal to (*) Boltzmann's constant multiplied by Avogadro's number. For 10 points, name this constant equal to approximately 8.3 joules per mole Kelvin and which appears with pressure, volume, temperature, and number of moles in a law modeling the "ideal" variety of its namesake state of matter.
+
+----
+num: 13
+category: Social Science
+difficulty: HS
+fixed: 1
+seen: 383
+answer: the {bystander} effect [accept {Kitty Genovese effect} before "{Kitty Genovese}" is read]
+
+The Ringelmann effect is partly responsible for this phenomenon. It was first scientifically demonstrated in experiments involving a person with epilepst and smoke filling up a room, conducted by Darley and Latane. Good Samaritan Laws are aimed at reducing it. Winston Moseley killed its most famous (*) victim, Kitty Genovese, who was stabbed to death despite the presence of many neighbors. diffusion of responsibility leads to, for 10 points, what social phenomenon, that occurs when the presence of other people reduces helping behavior?
+
+----
+num: 14
+category: History
+difficulty: HS
+fixed: 57
+seen: 416
+answer: Romania
+
+One leader of this country overthrew Carol II with help from the Iron Guard, a fascist group in this nation. The new puppet king, Michael, later overthrew his former fascist ally, Ion (*) Antonescu. Gheorghe Gheorghiu-Dej (GYOR-gyeh gyor-GYOO-desh) was replaced as leader of this country by another Communist, whose rule of this country was ended when that man and his wife Elena were executed on Christmas in 1989. For 10 points, name this Eastern European country once ruled by Nicolae Ceausescu (chow-SESS-koo).
+
+----
+num: 16
+category: Literature
+difficulty: HS
+fixed: -1
+seen: 443
+answer: The {Master} and {Margarita} [or {Master} i {Margarita}]
+
+At the beginning of this novel, a sunflower oil spill leads to the accidental decapitation of Berlioz. Another character in this novel is temporarily decapitated during a black magic act at the Variety Theatre. One of the title characters hosts a Satanic ball after flying naked on a broom to Apartment Fifty, and the other title character is the author of a novel about (*) Pontius Pilate. Azazello and Behemoth, a talking cat, accompany the Devil during his visit to Moscow in, for 10 points, what novel by Mikhail Bulgakov?
+
+----
+num: 17
+category: Mythology
+difficulty: HS
+fixed: 1
+seen: 781
+answer: Adonis
+
+This figure's mother was turned into a tree that produced the Balm of Gilead. This figure was conceived after Cinyras was seduced by his daughter Myrrha. Drops of this man's blood turned into anemone (ah-NEH-mow-nee). Aphrodite killed Orpheus to spite Calliope (cuh-LIE-oh-pee) for giving this man to (*) Persephone (per-SEF-uh-nee) for half of the year. This figure's beauty was so prized that he was hidden in a chest until his violent death. For 10 points, name this beautiful mortal who was killed by a boar sent by a jealous Ares.
+
+----
+num: 18
+category: Literature
+difficulty: HS
+fixed: 57
+seen: 445
+answer: {Satan} [or {Lucifer}; prompt on the {devil} or equivalents]
+
+This character considers the possibility of asking forgiveness for his actions on Mount Niphates, but instead declares "Evil, be thou my good!" This character laments "Which way I fly is Hell; my self am Hell" after tricking Uriel into showing him the way to (*) Earth. This character leads a council in Pandemonium after waking up in a lake of fire, and he pridefully asserts "Better to reign in Hell, then serve in Heav'n" after losing a rebellion against God. For 10 points, name this character from Milton's Paradise Lost who enters the body of a serpent in the Garden of Eden to tempt Eve.
+
+----
+num: 19
+category: Fine Arts
+difficulty: HS
+fixed: 1
+seen: 492
+answer: Eero {Saarinen}
+
+This architect of the General Motors Technical Center in Warren, Michigan is known for his "thin-shell" designs, such as the Kresge Auditorium at MIT and the TWA terminal at New York's (*) JFK Airport. He is also responsible for the main terminal at Washington's Dulles Airport. His best known work, the tallest monument in the United States, sits at the Jefferson National Expansion Memorial and is in the shape of a catenary curve. For 10 points, name this Finnish-American architect who designed St. Louis's Gateway Arch.
+
+----
+num: 19
+category: Fine Arts
+difficulty: HS
+fixed: 57
+seen: 494
+answer: Eero Saarinen
+
+This architect of the General Motors Technical Center in Warren, Michigan is known for his "thin-shell" designs, such as the Kresge Auditorium at MIT and the TWA terminal at New York's (*) JFK Airport. He is also responsible for the main terminal at Washington's Dulles Airport. His best known work, the tallest monument in the United States, sits at the Jefferson National Expansion Memorial and is in the shape of a catenary curve. For 10 points, name this Finnish-American architect who designed St. Louis's Gateway Arch.
+
+----
+num: 20
+category: Science
+difficulty: HS
+fixed: -1
+seen: 486
+answer: Vitamin {C} [accept {ascorbic} acid]
+
+This molecule acts as a cofactor in catecholamine synthesis, such as the conversion of dopamine to norepinephrine. Ingestion of this molecule may decrease the risk or severity of cataracts, and it may help regenerate other (*) antioxidants such as Vitamin E. Ingestion of large doses of this molecule was advocated by Linus Pauling, though it does not appear to help prevent the common cold. For 10 points, name this vitamin that prevents scurvy and is found in citrus fruits.
+
+----
+num: 21
+category: Literature
+difficulty: HS
+fixed: 57
+seen: 449
+answer: The {Jungle}
+
+Pat Callahan sends the protagonist of this novel to jail when he assaults his wife's boss Connor. The protagonist relates his story to the guests of Hind's Hotel and later meets Ostrinsky, who introduces him to (*) socialism. The protagonist leaves the Back of the Yards after his child drowns in urban muddy water. Earlier, Ona, his wife, had died in childbirth. For 10 points, name this novel about the Lithuanian immigrant Jurgis Rudkis, who works in the Chicago meatpacking industry, written by Upton Sinclair.
+
+----
+num: 22
+category: Science
+difficulty: HS
+fixed: 57
+seen: 492
+answer: {precession}
+
+Llewellyn Thomas gives his name to a relativistic corrected form of this effect, and accurate prediction of this of the perihelion of Mercury is seen as success for general relativity. This phenomenon in magnetic fields is named for Larmor. This concept plays a key role in Milankovitch cycles, and one cycle of this for the Earth is (*) 26,000 years. It can occur when a torque causes a motion of the angular momentum vector. For 10 points, name this phenomenon seen in seen in the movement of a spinning top.
+
+----
+num: 23
+category: History
+difficulty: HS
+fixed: 57
+seen: 421
+answer: Winfield {Scott}
+
+He led some militia who were famously characterized by their opponents as "Regulars, By God!" at the Battle of Chippewa. This man chose William Alexander Graham as his running mate in one election after beating out Millard Fillmore and Daniel Webster for the Whig Party nomination. During the Civil War, this figure designed the (*) blockade system known as the Anaconda Plan. This general led American forces in the march to Mexico City after assaulting Veracruz in the Mexican War. For 10 points, name this general, known as "Old Fuss and Feathers."

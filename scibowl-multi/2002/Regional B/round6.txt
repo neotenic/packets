@@ -1,0 +1,269 @@
+####
+tournament: Regional B
+round: round6.pdf
+year: 2002
+####
+
+num: 1
+category: Biology
+difficulty: HS
+answer: Y)  an Amino Acyl Trna
+
+Transfer RNA charged with an amino acid is most accurately called:
+W) a nascent tRNA 
+X) a tRNA with an amino acid attached 
+Y) an amino acyl tRNA 
+Z) t-primed RNA
+
+----
+num: 2
+category: Chemistry
+difficulty: HS
+answer: Z)  Geometric
+
+In general, which of the fo llowing stereoisomers are the most dissimilar in terms of their phys ical and chemical properties:
+W) conformational 
+X) mirror-image 
+Y) enantiomers (EE-nan-tee-oh-mers) 
+Z) geometric
+
+----
+num: 4
+category: Astronomy
+difficulty: HS
+answer: Y)  Between Thr Ee and Four Billion Years Old
+
+The lunar maria are:
+W) composed of granite 
+X) less than one billion years old 
+Y) between three and four billion years old 
+Z) older than the lunar highlands
+
+----
+num: 6
+category: Earth Science
+difficulty: HS
+answer: W)  Nebraska
+
+Portions of the Ogallala aquifer are located under:
+W) Nebraska 
+X) the San Jaoquin valley 
+Y) Arizona 
+Z) Florida
+
+----
+num: 7
+category: General Science
+difficulty: HS
+answer: Z)  Lead
+
+Because of its enhanced capacity to refract light, which glass formula is most suitable for making lenses and prisms, as well as for imitation jewels:
+W) soda-lime 
+X) potassium silicate 
+Y) borosilicate 
+Z) lead
+
+----
+num: 8
+category: Computer Science
+difficulty: HS
+answer: Y)  Windows 3.11 and Windows 95
+
+The allowing of long file names was a primary difference between:
+W) DOS and Windows 3.11 
+X) Windows 3.11 and Windows for Workgroups 
+Y) Windows 3.11 and Windows 95 
+Z) Windows 95 and Windows 98
+
+----
+num: 8
+category: Computer Science
+difficulty: HS
+answer: Z)  255
+
+In Windows 98, long file names can be up to how many characters long:
+W) 35 
+X) 75 
+Y) 100 
+Z) 255
+
+----
+num: 10
+category: Chemistry
+difficulty: HS
+answer: W)  Dipole-Dipole
+
+Hydrogen bonding is due to a combination of forces, the most important of which is what type of interaction:
+W) dipole-dipole 
+X) dipole-induced dipole 
+Y) induced dipole-induced 
+Z) induced
+
+----
+num: 10
+category: Chemistry
+difficulty: HS
+answer: W)  Nh
+^4+
+
+Which of the following com pounds contains a coordinate covalent bond:
+W) NH^4+
+X) N^2H^4
+Y) N^2
+Z) NH ^3
+
+----
+num: 12
+category: Astronomy
+difficulty: HS
+answer: W)  Widmanstätten Pattern
+
+What is the most common na me for the pattern found etched on samples of iron meteorites?
+W) Widmanstätten pattern 
+X) Rhombic pattern 
+Y) Halley’s pattern 
+Z) Chondritic Rhombite pattern
+
+----
+num: 13
+category: Math
+difficulty: HS
+answer: X)  Rhomboid
+
+A parallelogram whose adjacent sides are unequal is called a:
+W) rhombus 
+X) rhomboid 
+Y) deltoid 
+Z) rectangle
+
+----
+num: 14
+category: Earth Science
+difficulty: HS
+answer: Z)  Surface
+
+What type of seismic wave causes the most damage during an earthquake:
+W) shear 
+X) compressional 
+Y) expansional 
+Z) surface
+
+----
+num: 15
+category: General Science
+difficulty: HS
+answer: W)  Palmately Lobed
+
+The leaf of the Sugar Mapl e tree is considered to be:
+W) palmately lobed 
+X) palmately compound 
+Y) pinnately lobed 
+Z) pinnately compound
+
+----
+num: 15
+category: General Science
+difficulty: HS
+answer: X)   Varicella-Zoster
+
+Which of the following is the causative agent for chicken pox:
+W) Bordetella pertussis
+X) Varicella-zoster
+Y) Variolla-zoster 
+Z) Vermicelli pertussis
+
+----
+num: 16
+category: Computer Science
+difficulty: HS
+answer: Y)  Warm Boot
+
+Resetting a computer that is already turned on to its initial state whereby any data or programs in main memory are erased is called a:
+W) clean boot 
+X) cold boot 
+Y) warm boot 
+Z) hot boot
+
+----
+num: 18
+category: Chemistry
+difficulty: HS
+answer: W)  Cyclic Alkane
+
+The IUPAC name 1,4-dimethylcyclohexane is an example of which of the following:
+W) cyclic alkane 
+X) branched alkane 
+Y) straight chain alkane 
+Z) haloalkane (pronounced: HAL-o-alkane)
+
+----
+num: 18
+category: Chemistry
+difficulty: HS
+answer: Y)  Carbon  Tetrachloride and Octane
+
+Which of the following solutions are miscible:
+W) carbon tetrachloride and water 
+X) oil and water 
+Y) carbon tetrachloride and octane 
+Z) octane and water
+
+----
+num: 19
+category: Physics
+difficulty: HS
+answer: W)   Fresnel Biprism
+
+Which of the following types of prisms was developed for obtaining interference between 2 sections of a wave front with diffraction largely eliminated:
+W) Fresnel biprism 
+X) Littrow prism 
+Y) Nicol prism 
+Z) Broca prism
+
+----
+num: 22
+category: Earth Science
+difficulty: HS
+answer: W)  Arête
+
+A sharp ridge of erosion-resistant rock formed between adjacent cirque glaciers, often forming a saw-toothed mountain ridge is known as:
+W) arête 
+X) scree 
+Y) levee 
+Z) moraine
+
+----
+num: 22
+category: Earth Science
+difficulty: HS
+answer: X)  Diorite and Andesite
+
+Two common igneous rocks derived from andesitic magma are:
+W) andesite and alkali basalt 
+X) diorite and andesite 
+Y) komatite and rhyolite 
+Z) rhyolite and kimberlite
+
+----
+num: 23
+category: Biology
+difficulty: HS
+answer: Z)  Vita Min B-1 and Pellagra
+
+Which of the following vitamins is NOT properly matched with one of its major symptoms of deficiency:
+W) vitamin C and bleeding of gums 
+X) vitamin D and poor bone structure 
+Y) vitamin A and night blindness 
+Z) vitamin B-1 and pellagra
+
+----
+num: 24
+category: Chemistry
+difficulty: HS
+answer: Y)  Bakelite
+
+Which of the following polymers is the first man-made polymer:
+W) nylon 
+X) Teflon 
+Y) bakelite 
+Z) celluloid

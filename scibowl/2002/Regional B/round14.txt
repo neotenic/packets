@@ -1,0 +1,242 @@
+####
+tournament: Regional B
+round: round14.pdf
+year: 2002
+####
+
+num: 1
+category: Chemistry
+difficulty: HS
+fixed: -1
+seen: 34
+answer: Hi;  Hbr;  Hcl;  Hf
+
+Based on the acid dissociation constants of the following acids, order the following 4 acids from the strongest to th e weakest in acid strength: HBr; HCl; HF; HI
+
+----
+num: 2
+category: Physics
+difficulty: HS
+seen: 26
+answer: 11.5 Meters
+
+Ignoring friction and assuming g = 9.8 m/s ^2, how high will a stone reach, in meters rounded to the first decimal place , if launched vertically from rest at 15 m/s?
+
+----
+num: 3
+category: Biology
+difficulty: HS
+seen: 40
+answer: Myelin Sheath  (Accept: Myelin)
+
+Oligodendrocytes are responsible for producing what nerve coating that speeds nerve conduction:
+
+----
+num: 5
+category: Math
+difficulty: HS
+fixed: -1
+seen: 26
+answer: 1  (Accept:  1)
+(Solution:  R ^2 = (X
+^1 – 0)^2 + (Y
+^1 – 0)^2;  = (–4/5)^2 + (3/5)^2;  = 1)
+
+Given the points, (0, 0) and (–4/5, 3/5), find the distance between them:
+
+----
+num: 6
+category: Earth Science
+difficulty: HS
+fixed: -1
+seen: 61
+answer: Basaltic, Andesitic, Rhyolitic
+
+Order the following three types of magma based on their typical percentage of dissolved gas, starting w ith the lowest: andesitic, basaltic, rhyolitic
+
+----
+num: 7
+category: General Science
+difficulty: HS
+seen: 32
+answer: Wilhelm Röntgen  (Accept:  Röntgen)
+
+For his discovery of a new form of radiation in 1895, what person received the first Nobel prize in physics?
+
+----
+num: 8
+category: Computer Science
+difficulty: HS
+fixed: -1
+seen: 63
+answer: Arithimetic Logic Unit
+
+A component of the CPU, what does the acronym ALU stand for?
+
+----
+num: 9
+category: Chemistry
+difficulty: HS
+fixed: -1
+seen: 32
+answer: 25
+(Solution:  Mass = 1.5gnacl × 100g Soln / 6gnacl;  = 25g Solution)
+
+A sodium chloride solution in water has a weight percent of 6%. 
+What mass of solution, in grams, contains 1.5 grams of sodium chloride?
+
+----
+num: 10
+category: Physics
+difficulty: HS
+seen: 26
+answer: 1685  (Accept:  1680 to 1690)
+(Solution: 0 .6 X 10 = 6 æ 6 + 331 = 337 æ 337 X 5 = 1685 Meters)
+
+Consider a sailor off the coast of Cape Cod, Massachusetts. How far from a fog horn, in meters, is the sailor if it takes 5 seconds to hear the horn at 10° C?
+
+----
+num: 11
+category: Biology
+difficulty: HS
+seen: 37
+answer: Dna Ligase  (Accept:  Dna Polymerase I)
+
+Okazaki (read as: OH-kah-zak-ee) fragments are joined by what specific enzyme?
+
+----
+num: 12
+category: Astronomy
+difficulty: HS
+seen: 53
+answer: Prismatic Astrolabe  (Accept:  Astrolabe or Impersonal  
+Astrolabe)
+
+What astronomical instrument, used to determine the position of celestial bodies, uses light in pa rallel rays falling on a mercury surface, which then pass through a prism and into a telescope?
+
+----
+num: 14
+category: Earth Science
+difficulty: HS
+fixed: -1
+seen: 64
+answer: 40%
+(Solution:  Rh = 10/25 × 100% = 40)
+
+Calculate the percent relative humidity for air at 70 °F containing 10 millibars of water vapor if the saturation vapor pressure is 25.0 millibars at that temperature:
+
+----
+num: 15
+category: General Science
+difficulty: HS
+seen: 31
+answer: Caves
+
+Recent studies of Troglodytes indicate they are some of the most sensitive endangered life forms. In what specific environment do Troglodytes typically live?
+
+----
+num: 17
+category: Chemistry
+difficulty: HS
+seen: 34
+answer: +6  (Accept:  6)
+(Solution:  2(+1) + S + 4(-2) = 0;  S = +6)
+
+What is the oxidation numbe r of the sulfur atom in H^2SO^4?
+
+----
+num: 19
+category: Biology
+difficulty: HS
+seen: 36
+answer: 3 Prime Hydroxyl    (Accept: 3 Prime End)
+
+Give the common chemical name for where new bases are added to a 
+DNA strand:
+
+----
+num: 19
+category: Biology
+difficulty: HS
+seen: 41
+answer: Citric Acid
+
+Which one of the following 5 intermediates of the citric acid cycle is considered a 6 carbon intermediate: citric acid, oxa loacetic acid, succinic ac id, alpha ketogluteric acid, fumaric acidd
+
+----
+num: 21
+category: Math
+difficulty: HS
+seen: 23
+answer: –  24
+25
+(Solution:  Sin  θ = 3/5;  Cos θ = -4/5;  Sin 2θ = 2 Sin θ Cos θ; = 2(3/5)(-4/5) = -24/25)
+
+Find sin 2θ (read as: sine 2 theta) given that tan θ (read as: tangent theta) equals minus three-fourths and θ is in the second quadrant:
+
+----
+num: 21
+category: Math
+difficulty: HS
+seen: 24
+answer: -3 ±  3
+
+Find the solution set of the following equation: x^2 + 6x + 6 = 0
+
+----
+num: 22
+category: General Science
+difficulty: HS
+fixed: -1
+seen: 30
+answer: Lead
+(Solution:  Iron – 80.2;  Lead - 35.3;   Tin – 66.6;  Magnesium - 156;  Zinc – 116)
+
+Which of the following 5 metals has the lowest thermal conductivity: iron; lead; tin; magnesium; zinc
+
+----
+num: 23
+category: Chemistry
+difficulty: HS
+seen: 35
+answer: Valine,  Alanine
+
+Which two of the following 5 amino acids contain nonpolar R groups? valine, lysine, argi nine, alanine, histidine
+
+----
+num: 24
+category: Physics
+difficulty: HS
+seen: 27
+answer: 1.4
+
+If the Earth was the same mass but half its present diameter, by what multiple, to the first decimal place, would escape velocity increase?
+
+----
+num: 24
+category: Physics
+difficulty: HS
+seen: 25
+answer: 0.020 (Accept:  0.020 Kilowatt – Hours)
+(Solution:  W = (2a)^2 × 5 Ohms × 1 Hr = .020 Kilowatt-Hours)
+
+What is the energy used in Kilo watt–hours if a current of 2 amps flows though a circuit whose resistance is 5 ohms for one hour?
+
+----
+num: 25
+category: Biology
+difficulty: HS
+seen: 38
+answer: Chlorophyll   (A Ccept:  Any Chlorophyll)
+
+What common organic molecule has a hydrocarbon phytol tail and a multi-ring structure with a magnesi um metal ion in the center?
+
+----
+num: 25
+category: Biology
+difficulty: HS
+fixed: -1
+seen: 40
+answer: Glyceraldehyde,  Threose,  Xylose
+
+Order the following 3 monosaccharides from the smallest to the largest: xylose, threose, glyceraldehyde

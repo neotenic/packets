@@ -1,0 +1,519 @@
+####
+tournament: Sample Set 5
+round: Round5.pdf
+####
+
+num: 1
+category: Math
+difficulty: HS
+seen: 25
+answer: 6
+
+What is the sum of the smallest prime number and the smallest composite number?
+
+----
+num: 1
+category: Math
+difficulty: HS
+fixed: -1
+seen: 24
+answer: 120/17
+
+
+A right triangle has sides with lengths of 8, 15, and 17 meters. As a fraction in lowest terms and in meters, what is the length of the altitude to the hypotenuse?
+
+----
+num: 1
+category: Math
+difficulty: MS
+fixed: -1
+seen: 7
+answer: 180π
+
+
+You have a right circular cylinder with a radius of 6 inches and a height of 6 inches. You drop a ball with a radius of 3 inches into the cylinder. How much empty space,in cubic inches and in terms of π, remains in the cylinder?
+
+----
+num: 2
+category: Biology
+difficulty: HS
+fixed: -1
+seen: 40
+answer: Staphylococcus  Aureus
+
+What is the full binomial name of the staph bacteria which is resistant to beta -lactams?
+
+----
+num: 3
+category: Energy
+difficulty: HS
+seen: 36
+answer: 147
+
+
+Taking g to be 9.8 meters per second squared, a 500 kilogramelevator needs how much energy, in kilojoules, to go up 30 meters, a typical height for the 10 ^thfloor?
+
+----
+num: 3
+category: Energy
+difficulty: MS
+seen: 6
+answer: Hydrokinetic Turbine
+ 
+
+What kind of device is powered by moving water but is different from traditional hydropower turbines in that it is placed directly in a river, ocean, or tidal current?
+
+----
+num: 4
+category: Physics
+difficulty: HS
+seen: 26
+answer: 4
+
+An 80 kilogram person dives horizontally off a 100 kilogram rowboat. If the diver’s speed after leaving the rowboat is 5 meters per second, what is the speed in meters per second of the rowboat?
+
+----
+num: 5
+category: Biology
+difficulty: HS
+seen: 41
+answer: Chirping (Accept: Singing, Calling)
+
+What characteristic of male crickets do organisms of the genus
+Ormia use in order to find the crickets and lay their eggs on and around them?
+
+----
+num: 5
+category: Life Science
+difficulty: MS
+seen: 10
+answer: Microtubule
+
+What structural component of the cell cytoskeleton is shaped like a hollow tube?
+
+----
+num: 5
+category: Life Science
+difficulty: MS
+seen: 10
+answer: Cellulose (Accept: 3)
+
+
+By name or number, identify all of the following four choices that are NOT considered lipids: 1) cholesterol, 2) steroids, 3) cellulose, 4) sex hormones.
+
+----
+num: 6
+category: Math
+difficulty: HS
+seen: 26
+answer: 4.5
+
+Providing your answer in decimal form, what is the area under the curve y = x between 0 and 3?
+
+----
+num: 6
+category: Math
+difficulty: HS
+seen: 24
+answer: -64
+
+Find (1 + i)^12 (read as the quantity 1 plus i to the twelfth).
+
+----
+num: 6
+category: Math
+difficulty: MS
+seen: 6
+answer: 1
+
+What is the surface area, in square feet, of a box that measures half of a foot by half of a foot by a quarter of a foot?
+
+----
+num: 7
+category: General Science
+difficulty: MS
+seen: 6
+answer: Electromagnetic Induction (Accept: Induction)
+ _______
+
+What is the name of the process that causes an electrical current in a changing magnetic field?
+
+----
+num: 8
+category: Earth and Space
+difficulty: HS
+fixed: -1
+seen: 46
+answer: Nucleosynthesis
+
+What is the collective term for the stella r process in which lighter nuclei fuse to build the nuclei of heavier elements than helium?
+
+----
+num: 9
+category: Chemistry
+difficulty: HS
+seen: 33
+answer: Exa
+
+What is the SI prefix that multiples a unit by a factor of 10^18?
+
+----
+num: 9
+category: Chemistry
+difficulty: HS
+fixed: -1
+seen: 35
+answer: 14
+
+
+How many atoms are in one molecule of butane?
+
+----
+num: 9
+category: General Science
+difficulty: MS
+seen: 6
+answer: Glass, Rubber , and Wax (Accept: 1, 2 , and 4)
+
+
+By name or number, identify all of the following four choices that are amorphous solids: 1) glass, 2) rubber, 3) ice, 4) wax.
+
+----
+num: 10
+category: Biology
+difficulty: HS
+seen: 38
+answer: Arthropoda (Do Not Accept: Arthropods)
+
+What is the scientific name of the phylum characterized by the presence of joi nted appendages?
+
+----
+num: 10
+category: Biology
+difficulty: HS
+seen: 41
+answer: Hogpeanut (Accept: Wild Peanut ) (Do Not Accept: Peanut)
+
+What is the common name for the native annual plant with the following description: It has stems that coil around a support for climbing, the leaves are alternate compound with 3 leaflets, and it has a thin -walled fruit that the Chippewa traditionally used as a food source and digestive aid.
+
+----
+num: 10
+category: Life Science
+difficulty: MS
+seen: 11
+answer: Thylakoid
+
+The light-dependent reactions of photosynthesis occur on which membrane-bound compartment inside chloroplasts?
+
+----
+num: 11
+category: Chemistry
+difficulty: HS
+seen: 35
+answer: Beta (Accept: Beta Minus)
+
+Nuclides that have neutron-to-proton ratios that are too high compared with stable nuclides tend to undergo what kind of decay?
+
+----
+num: 11
+category: General Science
+difficulty: MS
+seen: 6
+answer: West
+
+In what direction does an observer have to look in order to see Venus at sunset?
+
+----
+num: 12
+category: Math
+difficulty: HS
+seen: 25
+answer: 3
+
+By number, identify which one of the following statements is TRUEregarding the set of means of samples of size n from a given population : 1) the mean of the set of sample means varies inversely as the square root of n; 2) the variance of the set of sample means varies directly as n; or 3) the standard deviation of the set of sample means varies inversely as the square root of n.
+
+----
+num: 12
+category: Math
+difficulty: MS
+seen: 6
+answer: (2, 3)
+
+The point (-3, -2) is reflected through the line y = -x. What are the coordinates of its image?
+
+----
+num: 12
+category: Math
+difficulty: MS
+seen: 7
+answer: 41
+
+Providing your answer in simplest radical form, what is the distance,in units , between the points (2, 3) and (-2, 8)?
+
+----
+num: 13
+category: Physics
+difficulty: HS
+fixed: -1
+seen: 26
+answer: 1/16
+
+Two charges, initially 2.0 centimeters apart, experience a repulsive force of 1.0 newtons. Providing your answer as a fraction in simplest form, when the charges are moved to 8.0 centimeters apart, what force in newtons exists between them?
+
+----
+num: 13
+category: Physics
+difficulty: HS
+seen: 25
+answer: Zero
+
+
+A solid conducting sphere with a radius of 2 centimeters has a charge of 8 microcoulombs. Concentric with the solid sphere is a hollow conducting spherical shell with an inner radius of 4 centimeters, outer radius of 5 centimeters, a nd charge of -4 microcoulombs. Find the magnitude of the electric field in newtons per coulomb at a radius of 4.5 centimeters.
+
+----
+num: 13
+category: Physical Science
+difficulty: MS
+seen: 5
+answer: 2
+
+How many valence electrons do the alkaline earth metals possess?
+
+----
+num: 13
+category: Physical Science
+difficulty: MS
+seen: 6
+answer: Stomach Acid, Soda Pop, Water, Blood, Soap (Accept: 3, 5, 1, 4, 2)
+
+
+By name or number, rank the following five substances from lowest to highest on the pH scale: 1) water, 2) soap, 3) stomach acid, 4) blood,
+5) soda pop.
+
+----
+num: 14
+category: Biology
+difficulty: HS
+seen: 40
+answer: Epiglottis
+
+What is the term for the flap of elastic cartilage that prevents food from entering a human’s trachea when swallowing?
+
+----
+num: 14
+category: Life Science
+difficulty: MS
+seen: 11
+answer: Synapse
+
+What is the name of the junction between two neurons?
+
+----
+num: 15
+category: Chemistry
+difficulty: HS
+fixed: -1
+seen: 33
+answer: 8
+
+
+How many electrons with quantum number l = 1 (read as: L equals 1) are in an atom of silicon in its ground state ?
+
+----
+num: 16
+category: Physics
+difficulty: HS
+seen: 26
+answer: Axions, Photinos , and Quark Nuggets (Accept: 1, 2, and 3 or All)
+
+By name or number, which of the following three choices are possible constituents of cold dark matter: 1) axions, 2) photinos, 3) quark nuggets?
+
+----
+num: 16
+category: Physics
+difficulty: HS
+seen: 26
+answer: 210
+
+What is the wavelength, rounded to the nearest ten meters, for the carrier wave of the AM radio station WDOE 1410?
+
+----
+num: 16
+category: Physical Science
+difficulty: MS
+seen: 5
+answer: They Will Move Towards Each Other
+
+If you suspend two empty aluminum soda cans next to each other and blow quickly between them, how will the cans move with respect to each other?
+
+----
+num: 17
+category: Earth and Space
+difficulty: HS
+seen: 47
+answer: Loihi
+
+What is the youngest volcano in the Hawaiian chain?
+
+----
+num: 17
+category: Earth and Space
+difficulty: HS
+fixed: -1
+seen: 46
+answer: Chlorine and Bromine (Accept: 3 and 4)
+
+
+By name or number, identify all of the following five elements which destroy ozone: 1) hydrogen, 2) nitrogen, 3) chlorine, 4) bromine, 5) argon.
+
+----
+num: 18
+category: Physics
+difficulty: HS
+seen: 25
+answer: Gluon
+
+What subatomic particle is considered the messenger of the strong force?
+
+----
+num: 18
+category: Physics
+difficulty: HS
+seen: 25
+answer: 4
+
+When connected to a 5-volt battery, how many 5 microfarad capacitors must be connected in parallel in order to store a charge of 100 microcoulombs?
+
+----
+num: 18
+category: Physical Science
+difficulty: MS
+seen: 6
+answer: 16
+
+Four identical 4 ohm resistors are connected in series. 
+What is the total resistance in ohms?
+
+----
+num: 19
+category: Energy
+difficulty: MS
+seen: 6
+answer: Biosolids (Accept: Treated Sludge)
+
+What is the term for the solid, organic by-products of wastewater treatment?
+
+----
+num: 20
+category: Math
+difficulty: HS
+seen: 25
+answer: -6
+
+Let f(x) be a function with antiderivative g(x) satisfying g(1) = 2 and g(3) = 4. Calculate ^32fx dx - ^35fx dx (read as: the integral from 1 to 3 of 2 f of x dx minus the integral from 1 to 3 of 5 ^1f of x ^1dx).
+
+----
+num: 20
+category: Math
+difficulty: MS
+seen: 6
+answer: X Is Less Than -½ or X Is Greater Than 0
+
+Consider the line y = 2x + 1. For what values of x will x and y have the same sign?
+
+----
+num: 21
+category: Earth and Space
+difficulty: HS
+seen: 47
+answer: Rigel (Accept: Beta Orionis)
+
+What is the name of the blue -white supergiant that is also the brightest star in the constellation Ori on?
+
+----
+num: 21
+category: Earth and Space Science
+difficulty: MS
+seen: 5
+answer: Methane
+
+
+Titan, one of Saturn’s moons, has an average temperature far below the triple point of water. Instead, it has solid, liquid, and vapor phases of what compound?
+
+----
+num: 22
+category: Physics
+difficulty: HS
+seen: 26
+answer: Bosons
+
+In a Bose-Einstein condensate, what general type of particles co-exist in the lowest possible quantum state?
+
+----
+num: 22
+category: Physics
+difficulty: HS
+seen: 27
+answer: $1100
+
+A 9-volt battery costs $1.49 and will run a portable DVD player for 6 hours, supplying 25 milliamperes of current. What is the cost per kilowatt hour of the battery’s energy to the nearest $100?
+
+----
+num: 22
+category: Physical Science
+difficulty: MS
+seen: 5
+answer: 2.5
+
+If a car goes from 0 to 20 meters per second in 8 seconds, providing your answer as a decimal to the nearest tenth, what is its average acceleration in meters per second squared?
+
+----
+num: 23
+category: Earth and Space
+difficulty: HS
+fixed: -1
+seen: 49
+answer: 7 Am and 7 Pm (Accept: 0700 and 1900)
+
+Radiosondes are released at 0 UTC and 1200 UTC daily at multiple locations around the globe. What are the corresponding times in Eastern
+Standard Time?
+
+----
+num: 23
+category: Earth and Space Science
+difficulty: MS
+seen: 6
+answer: Thunder
+
+What occurs when air is rapidly superheated by lightning and expands, cools , and then contracts?
+
+----
+num: 23
+category: Earth and Space Science
+difficulty: MS
+seen: 6
+answer: Trellis
+
+
+Due to the presence of folds in the 
+Appalachian Mountains, what type of dra inage would you expect to find there?
+
+----
+num: 24
+category: Energy
+difficulty: HS
+seen: 34
+answer: Heterotrophic Absorption
+
+Protists are classified by how they acquire energy. What is the specific phrase used to describe the diffusion of nutrients into the organisms after they have digested organic compounds through the secretion of exoenzymes?
+
+----
+num: 24
+category: Energy
+difficulty: MS
+seen: 6
+answer: Iodine-131 and Cesium-137 (Accept: Iodine-132, Cesium-134, 
+Tellurium -132)
+
+Name two radioactive isotopes released from the Fukushima 
+Daiici nuclear power plant, crippled by the March 11, 2011 earthquake and tsunami.

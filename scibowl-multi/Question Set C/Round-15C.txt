@@ -1,0 +1,330 @@
+####
+tournament: Question Set C
+round: Round-15C.pdf
+####
+
+num: 1
+category: Physics
+difficulty: HS
+seen: 1
+answer: W)  Allowing Imaging at Resolutions Below the Diffraction 
+Limit of Light
+
+A material with a negative index of refraction has which of the following technologically significant implications:
+W) allowing imaging at resolutions below the diffraction limit of light
+X) superluminal light
+Y) improved spin coherence times
+Z) realization of high temperature superconductors
+
+----
+num: 1
+category: Physics
+difficulty: HS
+seen: 1
+answer: Z)  Impurity Concentration in an Unkown Crystalline Sample
+
+The experimental technique of x-ray diffraction would be inappropriate for obtaining which of the following physical parameters of a material:
+W) periodicity of a quantum well structure
+X) the atomic spacing of a crystal lattice
+Y) the amount of strain in a crystal lattice
+Z) impurity concentration in an unknown crystalline sample
+
+----
+num: 2
+category: Chemistry
+difficulty: HS
+seen: 1
+answer: X)  Trigonal Bipyramidal and Seesaw
+
+What is the electronic pair geometry and the molecular geometry typical of the molecule with the general formula AB^4U, where A represents the central atom, B represent the bonded atoms, and U represent the unbonded electron pair:
+W) tetrahedral and angular
+X) trigonal bipyramidal and seesaw
+Y) octahedral and square pyramidal 
+Z) octahedral and square planar
+
+----
+num: 3
+category: Biology
+difficulty: HS
+seen: 1
+answer: Y)  Inject Small Amounts of Corticotropin and Find if the 
+Adrenals  Produce Corticosteroids
+
+If a person had low levels of corticosteroid, which of the following would be the BEST way to test whether the adrenal glands themselves are not functioning or if it is the fault of the pituitary gland:
+W) monitor the kidney for sodium excretion
+X) measure the blood plasma for high levels of potassium
+Y) inject small amounts of corticotropin and find if the adrenals produce corticosteroids 
+Z) monitor the urine for high amounts of protein and sodium
+
+----
+num: 5
+category: Earth Science
+difficulty: HS
+seen: 1
+answer: Z)  Syncline
+
+Which of the following BEST describes a fold in a layered rock that arches into a downward, trough-shaped fold:
+W) anticline
+X) graben
+Y) heterocline
+Z) syncline
+
+----
+num: 5
+category: Earth Science
+difficulty: HS
+seen: 1
+answer: Z)  on Average, Tidal Currents Reach Maximum Velocity During 
+Flood Current
+
+Which of the following statements is NOT true about tides:
+W) tidal range is not the same over a whole ocean basin
+X) tidal ranges generally increase with increasing distance from amphidromic points
+Y) tidal bores are true tidal waves
+Z) on average, tidal currents reach maximum velocity during flood current
+
+----
+num: 6
+category: General Science
+difficulty: HS
+seen: 1
+answer: W)   Acetone
+
+A steroid will dissolve BEST in which of the following:
+W) acetone
+X) 50% ethanol
+Y) 95% ethanol
+Z) distilled water
+
+----
+num: 7
+category: Astronomy
+difficulty: HS
+seen: 1
+answer: Y)  Young Stars Acquire Metals When They Form From Previous 
+Stars That Created the Metals
+
+Which of the following is the BEST explanation of why 
+Population One stars have a high metal content:
+W) old stars lose their metals as they age
+X) old stars convert their metals to non-metals
+Y) young stars acquire metals when they form from previous stars that created the metals 
+Z) all stars accumulate metals early in their development
+
+----
+num: 7
+category: Astronomy
+difficulty: HS
+seen: 1
+answer: W)  71% Hydrogen, 27% Helium, and 2% Other
+
+Which of the following is the BEST description of the composition of our Sun:
+W) 71% hydrogen, 27% helium, and 2% other
+X) 80% hydrogen, 19% helium, and 1% other
+Y) 90% hydrogen, 9% helium, and 1% other
+Z) 99% hydrogen, 1% helium
+
+----
+num: 8
+category: Physics
+difficulty: HS
+seen: 1
+answer: Z)  1 Foot From One of the Supporting Walls Half Way Down 
+From the Top Edge
+
+Consider an electrician who is about to drill holes though a series of 2-inch by 10-inch by 16-foot floor joists that are supported only at their ends by walls. Which of the following hole locations would DECREASE the load strength of each joist the LEAST:
+W) 7 feet in from one of the supporting walls near the bottom edge 
+X) 7 feet from one of the supporting walls near the top edge 
+Y) 1 foot from one of the supporting walls near the bottom edge 
+Z) 1 foot from one of the supporting walls half way down from the top edge
+
+----
+num: 9
+category: Chemistry
+difficulty: HS
+seen: 1
+answer: W)  Tyrosine
+
+Phenylalanine (read as: FEE-nal-AL-ah-neen) is converted into which of the following amino acids by the enzyme phenylalanine hydroxylase:
+W) tyrosine
+X) tryptophan
+Y) threonine
+Z) methionine
+
+----
+num: 9
+category: Chemistry
+difficulty: HS
+seen: 1
+answer: W)  Product-Favored Only at High Temperatures
+
+In the equation for the Gibbs free energy change, if ∆H (read as: delta H) is positive and ∆S (read as: delta S) is positive, then the reactions are:
+W) product-favored only at high temperatures
+X) product-favored only at low temperatures
+Y) product-favored at all temperatures 
+Z) reactant -favored at all temperatures
+
+----
+num: 10
+category: Biology
+difficulty: HS
+seen: 1
+answer: X)  to Allow for More Hemoglobin Molecules Per Red Blood 
+Cell
+
+Which of the following would most hematologists agree is the 
+MOST likely reason mammalian erythrocytes contain no nuclei or mitochondria:
+W) to prevent oxidation of hemoglobin
+X) to allow for more hemoglobin molecules per red blood cell
+Y) to limit the lifespan of the red cell to 120 days
+Z) to allow it to retain its bi-concave shape
+
+----
+num: 12
+category: Earth Science
+difficulty: HS
+seen: 1
+answer: Y)  High Pressures Created by the Mass Movement of Ice Can 
+Produce Meltwater Deep Within a Glacier
+
+Which of the following BEST describes the dynamics of a typical alpine glacier:
+W) the relative position of particles within the ice remains stationary
+X) retreating glaciers carve out V-shaped valleys 
+Y) high pressures created by the mass movement of ice can produce meltwater deep within a glacier
+Z) they move downhill primarily under the influence of ice avalanching
+
+----
+num: 13
+category: General Science
+difficulty: HS
+seen: 1
+answer: Z)  Eutrophic
+
+Consider a pond that has high amounts of phosphorus and nitrogen. The pond shows signs of large amounts of algae. This pond would most likely be considered:
+W) anticlinic
+X) oligotrophic (read as: oh-lig-oh-tro-fick)
+Y) synclinic
+Z) eutrophic
+
+----
+num: 13
+category: General Science
+difficulty: HS
+seen: 1
+answer: W)  Cathodic Versus Anodic
+
+The galvanic series typically lists metals in which of the following orders:
+W) cathodic versus anodic
+X) passive versus reactive
+Y) pure metal versus alloy 
+Z) lowest to highest electrode potential
+
+----
+num: 15
+category: General Science
+difficulty: HS
+seen: 1
+answer: Y)  Nanoscale Electronics That Involve Manipulation and 
+Observation of Electron Spin
+
+Which of the following BEST describes the field of study called spintronics:
+W) studying the angular momentum of celestial bodies
+X) using high strength centripetal forces to separate materials in solution
+Y) nanoscale electronics that involve manipulation and observation of electron spin
+Z) quantum manipulation of quark and gluon spin states
+
+----
+num: 16
+category: Chemistry
+difficulty: HS
+seen: 1
+answer: Y)  Sodium Bromide and Rubidium Chloride
+
+Which of the following will NOT produce a precipitate after the two aqueous solutions are mixed:
+W) barium chloride and sodium sulfate
+X) lead nitrate and sodium chloride
+Y) sodium bromide and rubidium chloride
+Z) mercury one nitrate and calcium chloride
+
+----
+num: 16
+category: Chemistry
+difficulty: HS
+seen: 1
+answer: X)  Nh
+^4+
+
+Which of the following is NOT an example of a weak base:
+W) NH^3
+X) NH^4+
+Y) CH^3NH^2
+Z) C^6H^5NH^2
+
+----
+num: 18
+category: Physics
+difficulty: HS
+seen: 1
+answer: W)  Creating Large Electric Fields That Push Particles Along 
+on Electromagnetic Waves
+
+Which of the following BEST explains how a linear accelerator speeds up charged particles:
+W) creating large electric fields that push particles along on electromagnetic waves
+X) using magnets to push them along their trajectories
+Y) using superconducting magnets to accelerate particles to near light speed
+Z) using synchrotron radiation to ionize particles which are then accelerated by superconducting magnets
+
+----
+num: 18
+category: Physics
+difficulty: HS
+seen: 1
+answer: X)  Linear Accelerators Do Not Need the Large, Expensive 
+Magnets of Circular Accelerators and Do Not Have as Much Radiation 
+Loss
+
+Particle accelerators used by physicists are generally linear or circular. Which of the following is a major advantage of linear designs over circular:
+W) high energy electrons can only be obtained in linear accelerators
+X) linear accelerators do not need the large, expensive magnets of circular accelerators and do not have as much radiation loss
+Y) they typically can produce more chances for collisions because they use fixed targets
+Z) they can be used in fixed target experiments while circular accelerators cannot
+
+----
+num: 19
+category: Earth Science
+difficulty: HS
+seen: 1
+answer: Z)  Birds
+
+Which of the following probably originated in the Jurassic 
+Period from thecodonts or early theropod dinosaurs:
+W) ammonoids
+X) marsupials
+Y) proboscidians
+Z) birds
+
+----
+num: 19
+category: Earth Science
+difficulty: HS
+seen: 1
+answer: X)  Pedalfers
+
+In soil taxonomy, which of the following is a leached acidic soil rich in iron oxides and aluminum and typically found in the Eastern U.S. and Canada under forest landscapes:
+W) pedocals 
+X) pedalfers
+Y) particulites 
+Z) laterites
+
+----
+num: 20
+category: Biology
+difficulty: HS
+seen: 1
+answer: X)  Atp
+
+Which of the following is the most effective allosteric inhibitor of enzymes such as phosphofructokinase (read as: phos-foe-FRUCK-toe-kynase), in glycolysis:
+W) ADP
+X) ATP
+Y) cyclic AMP 
+Z) NAD+

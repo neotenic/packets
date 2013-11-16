@@ -1,0 +1,221 @@
+####
+tournament: Regional B
+round: round8.pdf
+year: 2002
+####
+
+num: 1
+category: Physics
+difficulty: HS
+seen: 26
+answer: 12
+(Solution:  a = F/m;  a = 144/12; a = 12 M/sec^2)
+
+Neglecting friction, what is the a cceleration, in meters per second squared, when a force of 144 Newtons is applied to a 12 kilogram object:
+
+----
+num: 2
+category: Chemistry
+difficulty: HS
+seen: 35
+answer: Para and Ortho
+
+Normal hydrogen at room temperat ure contains what two forms of hydrogen, as defined by the spins of their electrons and nuclei?
+
+----
+num: 4
+category: Astronomy
+difficulty: HS
+fixed: -1
+seen: 53
+answer: Right Ascension   (Accept:  Ascension)
+
+What is the most common astronomical term for the angle analogous to geogra phical longitude?
+
+----
+num: 5
+category: Math
+difficulty: HS
+seen: 25
+answer: Y = 4x + 5
+
+What is the equation of a line that has a slope of 4 and a y-intercept of 5?
+
+----
+num: 5
+category: Math
+difficulty: HS
+fixed: -1
+seen: 23
+answer: ( X – 2)(x + 2)(x^2 + 4)
+
+Factor the following expressi on as completely as possible: x^4 – 16
+
+----
+num: 8
+category: Computer Science
+difficulty: HS
+seen: 62
+answer: Firewire  (Accept :  Ieee 1394, I-Link, and Lynx)
+
+What is the name for the high-speed serial bus developed by Apple and Texas Instruments that allows for the connection of multiple devices, supports hot-swapping, and transfers data at rates of up to 400 million bytes per second:
+
+----
+num: 10
+category: Chemistry
+difficulty: HS
+seen: 36
+answer: 3
+
+The f subshell is associated with what L quantum number?
+
+----
+num: 11
+category: Biology
+difficulty: HS
+fixed: -1
+seen: 38
+answer: Iga
+
+What is the predominant immunoglobulin class found in human saliva?
+
+----
+num: 11
+category: Biology
+difficulty: HS
+seen: 38
+answer: Condenser
+
+What is the common name for the part of a compound light microscope that functions to converge a light source so that it passes through the specimen:
+
+----
+num: 13
+category: Math
+difficulty: HS
+seen: 26
+answer: 1, 2, 3, 4, 5, 6
+
+If the universal set is represented by the numbers 1, 2, 3, 4, 5, 6, 7, and set A is represented by the numbers 1, 2, 3; se t B by the numbers 3, 4, 5, 6; and set C by the numbers 2, 3, 4, then what set is represented by the union of sets A and B?
+
+----
+num: 13
+category: Math
+difficulty: HS
+seen: 25
+answer: 240
+
+In the US Senate, Senator Bill receive d four-sixths of the votes, Senator 
+George received two- tenths of the votes, and Senator Mary received the remaining votes. If 48 votes were cast for Senator Mary, ho w many votes did Senator Bill receive?
+
+----
+num: 14
+category: Earth Science
+difficulty: HS
+seen: 66
+answer: Magma
+
+A mixture of molten rock, su spended mineral grains, and dissolved gasses that forms in the crust or mantle when temperatures are sufficiently high, is a definition of what?
+
+----
+num: 15
+category: General Science
+difficulty: HS
+fixed: -1
+seen: 31
+answer: Silver and Tin
+
+A widely used dental amalgam is formed by reacting metallic mercury with an alloy consisting primarily of which 2 metals?
+
+----
+num: 17
+category: Physics
+difficulty: HS
+seen: 26
+answer: Galileo ^
+
+What scientist was th e first to propose that in the absence of air resistance, all objects fall with the same constant acceleration?
+
+----
+num: 17
+category: Physics
+difficulty: HS
+fixed: -1
+seen: 27
+answer: 3.2
+(Solution:  Wavelength = 2l;   = (2)(1.6) = 3.2 Meters)
+
+If a piano string is 1.6 meters long and has a fundamental frequency of 320 Hertz, what is the wavelengt h, in meters, of the fundamental?
+
+----
+num: 18
+category: Chemistry
+difficulty: HS
+seen: 34
+answer: Diamagnetic
+
+What general term describes a substance whose electrons are all spin-paired and that are weak ly repelled by magnetic fields?
+
+----
+num: 19
+category: Biology
+difficulty: HS
+seen: 42
+answer: Rotator Cuff
+
+What is the name for the group of muscles that stabilize the shoulder joint by holding the head of the humerus in its socket?
+
+----
+num: 19
+category: Biology
+difficulty: HS
+seen: 42
+answer: Neurospora
+
+The “one gene one enzyme” rule proposed by Beadle and Tatum was mostly based upon their work with what genus of organisms?
+
+----
+num: 20
+category: Math
+difficulty: HS
+seen: 26
+answer: 8
+(Solution:  R = S/ α;  = 2π / (π/4);  = 8)
+
+An arc of length 2π is cut off by a central angle of π4 radians. What isthe radius of the circle?
+
+----
+num: 20
+category: Math
+difficulty: HS
+seen: 26
+answer: X+1  (Accept:   1) + X
+
+Simplify the following equation: 9x+9 − 4x+ 4
+
+----
+num: 22
+category: General Science
+difficulty: HS
+seen: 31
+answer: Euclid
+
+What contemporary of Auto lycus wrote a set of thirteen books titled “Elements”, which remains among the mo st studied works in human thought and was a culmination of classical geometry?
+
+----
+num: 24
+category: Chemistry
+difficulty: HS
+seen: 33
+answer: Ideal Gas Law
+
+Which of the gas laws descri bes how the volume of a gas is affected by changes in pressure, temperature, and amount?
+
+----
+num: 25
+category: Biology
+difficulty: HS
+seen: 38
+answer: Transduction
+
+In bacterial transference of genes, what is the term for when naked 
+DNA enters the cell from the surroundings:

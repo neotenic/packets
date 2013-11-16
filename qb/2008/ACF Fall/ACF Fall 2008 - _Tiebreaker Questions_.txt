@@ -1,0 +1,104 @@
+####
+tournament: ACF Fall
+round: ACF Fall 2008 - _Tiebreaker Questions_.doc
+year: 2008
+####
+
+num: 1
+category: Science
+difficulty: College
+fixed: None
+seen: 80
+answer: {Riemann zeta} function [prompt on partial]
+
+When the parameter is set to one, it can be expanded as a series whose coefficients are Stieltjes constants, and it can be evaluated using Parseval's theorem. A generalization of it is called the Hurwitz function, and it resembles a p-series. When evaluated at 2, it gives the solution to the Basel problem, and Ramanujan showed that it is equal to minus one twelfths when evaluated at negative one. 1.5 million roots have been shown to lie on the critical strip, but it is not known whether all roots have a real part 1/2, and this function is closely associated with the prime number theorem. For 10 points, identify this function named for a German mathematician who has a namesake hypothesis
+
+----
+num: 2
+category: Literature
+difficulty: College
+fixed: 57
+seen: 58
+answer: Seamus {Heaney}
+
+He meditates on a cobblestone thrown at his grandmother on her wedding day because she married a Catholic in his elegies, “Clearances,” which are found in his collection Haw Lantern, while his other works include Wintering Out and Station Island. The speaker of one poem comments, “Between my finger . . . the squat pen rests; as snug as a gun” while observing his father digging, and in the title poem of one work Mrs. Walls' mundane explanation of reproduction contrasts with his adventures in the “flax-dam” gathering frog spawn. For 10 points, identify this Irish poet of Death of a Naturalist, who translated Beowulf.
+
+----
+num: 3
+category: History
+difficulty: College
+fixed: 57
+seen: 73
+answer: Charles V [or Charles I of Spain]
+
+He fought with William the Rich until the Treaty of Venlo gave him the Duchy of Guelders, and with the help of his sister Eleanor, the Queen of France, he secured the Peace of Crepy.  He defeated Barbarossa to capture Tunis, and he defeated the Schmalkaldic League at Muhlberg with the help of the Duke of Alba.  His general Charles of Lannoy secured the Treaty of Madrid for this man by defeating Francis I at Pavia.  The son of Philip the Handsome and Joanna the Mad, he issued an edict condemning Martin Luther after calling the Diet of Worms.  For 10 points, name this Habsburg father of Philip II who ruled both Spain and the Holy Roman Empire.
+
+----
+num: 4
+category: Literature
+difficulty: College
+fixed: 57
+seen: 61
+answer: Alice {Walker}
+
+In one of this author's stories, a mother prevents her daughter Dee from taking the family quilts from her younger sister Maggie; that work is “Everyday Use.” This author wrote about Tashi, who murders the female circumciser M'Lissa, and in another work Brownfeld has an affair at the Dew Drop Inn with his father's lover Josie. In addition to Possessing Secret Joy and The Third Life of Grange Copeland, in another work Corrine and Reverend Samuel take in Nettie, while the protagonist is forced into an abusive marriage with Mr. [blank] before having a relationship with Shug Avery. For 10 points, name this author who wrote about Celie in The Color Purple.
+
+----
+num: 5
+category: Literature
+difficulty: College
+fixed: None
+seen: 57
+answer: The {Three Sisters} [or {Tri sestry}]
+
+One character in this play is wary of going to the city because he heard a story of a man dying from eating fifty pancakes. Another character attempts to dismiss the old maid Anfisa and tries to force refugee victims of a local fire out of the house under the pretense of protecting her baby Bobik. In the last act Baron Tuzenbach is killed by Solony in a duel over one central character, while Captain Vershinin's transfer to another post leaves one title character trapped in her marriage to Kulygin. For 10 points, Irina, Olga, and Masha are the title characters of which Anton Chekhov play?
+
+----
+num: 6
+category: History
+difficulty: College
+fixed: None
+seen: 68
+answer: {Henry} the {Navigator} [or Infante {Henrique} of {Portugal}, {Duke} of {Viseu}; or {Henry} the {Seafarer}]
+
+He oversaw the transition of the throne to his brother Pedro after the death of Duarte and pacified Leonor of Aragon after her temper tantrum at Alemquer castle, and Gil Eanes rose to fame under this man. As an advisor to Edward, he agreed to give Zala ben Zala's son back in exchange for the captured Ferdinand at the failed invasion of Tangiers, though he was successful earlier in the capture of Ceuta. He was appointed governor of the Algrave province, and this son of Joao I established a colony at the Vila do Infante near Cape Vincent which produced such innovations as the caravel. For 10 points, identify this Portuguese prince best remembered for his love for exploring.
+
+----
+num: 7
+category: Science
+difficulty: College
+fixed: 57
+seen: 81
+answer: {inner} core [prompt on {core} until “{F}-{layer}”]
+
+Its translational motions are commonly called Slichter modes, and early models for it included a 450 km thick F-layer on its exterior. An important discovery about its differential rotation was made by Dziewonski, and it was hypothesized by Inge Lehmann in 1936. The cause of faster propagation of seismic waves parallel to earth's rotation axis in this region is uncertain, and its interactions with the region above it generate the earth's magnetic field according to the geodynamo theory. For 10 points, identify this region composed mainly of a iron-nickel alloy, which may be found below the outer core.
+
+----
+num: 8
+category: Literature
+difficulty: College
+fixed: 57
+seen: 58
+answer: Robert {Frost}
+
+This poet asks in one poem, “What to make of a diminished thing?” and the speaker of another poem discusses a “luminary clock” that “proclaimed the time was neither wrong nor right” before asserting that he is “acquainted with the night.” In addition to “Oven Bird” he wrote about a boy who has his hand cut off by a saw in “Out! Out!,” while Silas is the title character of one poem, who is eventually found by Warren "huddled against the barn-door." The speaker of another poem says his apples will never disturb his neighbor's pine cones despite the maxim “good fences make good neighbors.” For 10 points, name this poet of “Death of the Hired Man” and “Mending Wall.”
+
+----
+num: 9
+category: Fine Arts
+difficulty: College
+fixed: 57
+seen: 69
+answer: John Singer Sargent
+
+This man's works such as Israel and the Law and Frieze of Prophets were painted for the Triumph of Religion series at the Boston Public Library. He painted portraits of Frederick Law Olmstead and Lady Agnew of Lochnaw, in addition to depicting Evelyn, Mabel, and Mildred Vickers in The Misses Vickers. He also depicted soldiers holding rifles walking in a file with bandages over their eyes in Gassed, while a better known work shows two girls lighting Chinese lanterns and is called Carnation, Lily, Lily, Rose. Better known for a scandalous depiction of Virginie Gautreau, for 10 points, identify this American artist of Madame X.
+
+----
+num: 10
+category: Science
+difficulty: College
+fixed: 57
+seen: 82
+answer: {calcite}
+
+Ancient forms of this material have been found to contain tetravalent uranium. Glendonite is an example of this material which retains the shape of ikatite, which is itself a hydrated form of this mineral. Vaterite and aragonite are polymorphs of this substance, which is used as the standard for 3 on Mohs hardness scale, and exhibits perfect rhombohedral cleavage along 3 planes. A special example of it found in standing waters in caves is called Dogtooth spar, and it is also found in marble and limestone. For 10 points, identify this mineral that is mostly made of calcium carbonate.

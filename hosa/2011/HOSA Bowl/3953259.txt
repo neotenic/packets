@@ -1,0 +1,4738 @@
+####
+tournament: HOSA Bowl
+round: 3953259
+year: 2011
+####
+
+num: 1
+category: Anatomy and Physiology
+difficulty: Normal
+seen: 0
+answer: nutrients
+
+Your body needs __________ found in foods.
+
+
+----
+num: 2
+category: Anatomy and Physiology
+difficulty: Normal
+seen: 0
+answer: energy
+
+Nutrients provide __________ and materials for cell development, growth, and repair.
+
+
+----
+num: 3
+category: Anatomy and Physiology
+difficulty: Normal
+seen: 0
+answer: cell development
+
+Nutrients provide energy and materials for __________ __________, growth, and repair.
+
+
+----
+num: 4
+category: Anatomy and Physiology
+difficulty: Normal
+seen: 30
+answer: growth
+
+Nutrients provide energy and materials for cell development, __________,and repair.
+
+
+----
+num: 5
+category: Anatomy and Physiology
+difficulty: Normal
+seen: 0
+answer: repair
+
+Nutrients provide energy and materials for cell development, growth, and __________.
+
+
+----
+num: 6
+category: Anatomy and Physiology
+difficulty: Normal
+seen: 3
+answer: internal temperature
+
+You need energy for every activity and to maintain a steady __________ __________.
+
+
+----
+num: 7
+category: Anatomy and Physiology
+difficulty: Normal
+seen: 0
+answer: replacement
+
+Proteins are used for __________ and repair of body cells and for growth.
+
+
+----
+num: 8
+category: Anatomy and Physiology
+difficulty: Normal
+seen: 3
+answer: repair
+
+Proteins are used for replacement and __________ of body cells and for growth.
+
+
+----
+num: 9
+category: Anatomy and Physiology
+difficulty: Normal
+seen: 1
+answer: growth
+
+Proteins are used for replacement and repair of body cells and for __________.
+
+
+----
+num: 10
+category: Anatomy and Physiology
+difficulty: Normal
+seen: 28
+answer: amino acids
+
+Proteins are made of __________ __________.
+
+
+----
+num: 11
+category: Anatomy and Physiology
+difficulty: Normal
+fixed: 57
+seen: 18
+answer: {eggs}
+
+Proteins are found in __________, milk, cheese, and meat.
+
+
+----
+num: 12
+category: Anatomy and Physiology
+difficulty: Normal
+fixed: 57
+seen: 12
+answer: {milk}
+
+Proteins are found in eggs, __________, cheese, and meat.
+
+
+----
+num: 13
+category: Anatomy and Physiology
+difficulty: Normal
+seen: 0
+answer: cheese
+
+Proteins are found in eggs, milk, __________, and meat.
+
+
+----
+num: 14
+category: Anatomy and Physiology
+difficulty: Normal
+seen: 0
+answer: meat
+
+Proteins are found in eggs, milk, cheese, and __________.
+
+
+----
+num: 15
+category: Anatomy and Physiology
+difficulty: Normal
+seen: 0
+answer: Essential amino acids
+
+__________ __________ __________ amino acids must be supplied by the foods you eat.
+
+
+----
+num: 16
+category: Anatomy and Physiology
+difficulty: Normal
+seen: 0
+answer: carbohydrates
+
+The main source of energy for your body are __________.
+
+
+----
+num: 17
+category: Anatomy and Physiology
+difficulty: Normal
+fixed: 57
+seen: 0
+answer: {carbon}
+
+Carbohydrates are made up of __________, hydrogen, and oxygen atoms; energy holds these atoms together.
+
+
+----
+num: 18
+category: Anatomy and Physiology
+difficulty: Normal
+seen: 0
+answer: hydrogen
+
+Carbohydrates are made up of carbon, __________, and oxygen atoms; energy holds these atoms together.
+
+
+----
+num: 19
+category: Anatomy and Physiology
+difficulty: Normal
+fixed: 57
+seen: 21
+answer: {oxygen}
+
+Carbohydrates are made up of carbon, hydrogen, and __________ atoms; energy holds these atoms together.
+
+
+----
+num: 20
+category: Anatomy and Physiology
+difficulty: Normal
+seen: 0
+answer: simple
+
+Sugars are __________ carbohydrates.
+
+
+----
+num: 21
+category: Anatomy and Physiology
+difficulty: Normal
+seen: 0
+answer: complex
+
+Starch and fiber are __________ carbohydrates.
+
+
+----
+num: 22
+category: Anatomy and Physiology
+difficulty: Normal
+seen: 0
+answer: Sugars
+
+__________ are found in fruits, honey, and milk.
+
+
+----
+num: 23
+category: Anatomy and Physiology
+difficulty: Normal
+seen: 0
+answer: Starches
+
+__________ are found in potatoes and pasts.
+
+
+----
+num: 24
+category: Anatomy and Physiology
+difficulty: Normal
+seen: 24
+answer: Fiber
+
+__________ is found in whole-grain breads, beans, and peas.
+
+
+----
+num: 25
+category: Anatomy and Physiology
+difficulty: Normal
+seen: 25
+answer: lipids
+
+Fats are also called __________.
+
+
+----
+num: 26
+category: Anatomy and Physiology
+difficulty: Normal
+seen: 0
+answer: energy
+
+Fats provide __________ and help your body absorb vitamins.
+
+
+----
+num: 27
+category: Anatomy and Physiology
+difficulty: Normal
+seen: 0
+answer: vitamins
+
+Fats provide energy and help your body absorb __________.
+
+
+----
+num: 28
+category: Anatomy and Physiology
+difficulty: Normal
+seen: 30
+answer: energy
+
+Because fat is a good storage unit for __________, any excess energy is converted to fat.
+
+
+----
+num: 29
+category: Anatomy and Physiology
+difficulty: Normal
+seen: 0
+answer: fat
+
+Because fat is a good storage unit for energy, any excess energy is converted to __________.
+
+
+----
+num: 30
+category: Anatomy and Physiology
+difficulty: Normal
+seen: 0
+answer: unsaturated
+
+Fats are classified as __________ or saturated based on their chemical structure.
+
+
+----
+num: 31
+category: Anatomy and Physiology
+difficulty: Normal
+seen: 0
+answer: saturated
+
+Fats are classified as unsaturated or __________ based on their chemical structure.
+
+
+----
+num: 32
+category: Anatomy and Physiology
+difficulty: Normal
+fixed: 57
+seen: 0
+answer: {cholesterol}
+
+Saturated fats are associated with high __________.
+
+
+----
+num: 33
+category: Anatomy and Physiology
+difficulty: Normal
+seen: 10
+answer: growth
+
+Vitamins are needed for __________, regulating body functions, and preventing disease.
+
+
+----
+num: 34
+category: Anatomy and Physiology
+difficulty: Normal
+seen: 32
+answer: regulating
+
+Vitamins are needed for growth, __________ body functions, and preventing disease.
+
+
+----
+num: 35
+category: Anatomy and Physiology
+difficulty: Normal
+seen: 0
+answer: disease
+
+Vitamins are needed for growth, regulating body functions, and preventing __________.
+
+
+----
+num: 36
+category: Anatomy and Physiology
+difficulty: Normal
+seen: 0
+answer: well balanced diet
+
+A __________-__________ __________ usually gives your body all the vitamins it needs.
+
+
+----
+num: 37
+category: Anatomy and Physiology
+difficulty: Normal
+seen: 0
+answer: vitamins
+
+A well-balanced diet usually gives your body all the __________ it needs.
+
+
+----
+num: 38
+category: Anatomy and Physiology
+difficulty: Normal
+seen: 0
+answer: water soluble
+
+There are two groups of vitamins: __________-__________ vitamins and fat-soluble vitamins.
+
+
+----
+num: 39
+category: Anatomy and Physiology
+difficulty: Normal
+seen: 22
+answer: fat soluble
+
+There are two groups of vitamins: water-soluble vitamins and __________-__________ vitamins.
+
+
+----
+num: 40
+category: Anatomy and Physiology
+difficulty: Normal
+seen: 0
+answer: inorganic
+
+Minerals are __________ nutrients.
+
+
+----
+num: 41
+category: Anatomy and Physiology
+difficulty: Normal
+seen: 0
+answer: chemical reactions
+
+Minerals regulate many __________ __________ in your body.
+
+
+----
+num: 42
+category: Anatomy and Physiology
+difficulty: Normal
+seen: 7
+answer: calcium
+
+Of all the minerals used by your body it uses __________ and phosphorous the most.
+
+
+----
+num: 43
+category: Anatomy and Physiology
+difficulty: Normal
+seen: 23
+answer: phosphorous
+
+Of all the minerals used by your body it uses calcium and __________ the most.
+
+
+----
+num: 44
+category: Anatomy and Physiology
+difficulty: Normal
+seen: 13
+answer: Water
+
+__________ is required for survival.
+
+
+----
+num: 45
+category: Anatomy and Physiology
+difficulty: Normal
+seen: 29
+answer: Cells
+
+__________ need water to carry out their work.
+
+
+----
+num: 46
+category: Anatomy and Physiology
+difficulty: Normal
+seen: 0
+answer: water
+
+Cells need __________ to carry out their work.
+
+
+----
+num: 47
+category: Anatomy and Physiology
+difficulty: Normal
+seen: 27
+answer: nutrients
+
+Most __________ your body needs must be dissolved in water.
+
+
+----
+num: 48
+category: Anatomy and Physiology
+difficulty: Normal
+seen: 0
+answer: water
+
+Most nutrients your body needs must be dissolved in __________.
+
+
+----
+num: 49
+category: Anatomy and Physiology
+difficulty: Normal
+seen: 1
+answer: sixty
+
+The human body is about __________ percent water.
+
+
+----
+num: 50
+category: Anatomy and Physiology
+difficulty: Normal
+seen: 0
+answer: perspire
+
+You lose water each day when you __________, exhale, and get rid of wastes.
+
+
+----
+num: 51
+category: Anatomy and Physiology
+difficulty: Normal
+seen: 0
+answer: exhale
+
+You lose water each day when you perspire, __________, and get rid of wastes.
+
+
+----
+num: 52
+category: Anatomy and Physiology
+difficulty: Normal
+seen: 0
+answer: wastes
+
+You lose water each day when you perspire, exhale, and get rid of __________.
+
+
+----
+num: 53
+category: Anatomy and Physiology
+difficulty: Normal
+seen: 0
+answer: variety
+
+Because no food has every nutrient, you should eat a __________ of foods.
+
+
+----
+num: 54
+category: Anatomy and Physiology
+difficulty: Normal
+seen: 17
+answer: nutrient
+
+Because no food has every __________, you should eat a variety of foods.
+
+
+----
+num: 55
+category: Anatomy and Physiology
+difficulty: Normal
+seen: 12
+answer: food pyramid
+
+The __________ __________ helps people select foods that supply all the nutrients they need.
+
+
+----
+num: 56
+category: Anatomy and Physiology
+difficulty: Normal
+seen: 0
+answer: food group
+
+Foods that contain the same nutrients belong to a __________ __________.
+
+
+----
+num: 57
+category: Anatomy and Physiology
+difficulty: Normal
+seen: 10
+answer: bread, cereal
+
+The five food groups include __________ and __________, vegetable, fruit, milk, and meat.
+
+
+----
+num: 58
+category: Anatomy and Physiology
+difficulty: Normal
+seen: 4
+answer: vegetable
+
+The five food groups include bread and cereal, __________, fruit, milk, and meat.
+
+
+----
+num: 59
+category: Anatomy and Physiology
+difficulty: Normal
+seen: 2
+answer: fruit
+
+The five food groups include bread and cereal, vegetable, __________, milk, and meat.
+
+
+----
+num: 60
+category: Anatomy and Physiology
+difficulty: Normal
+fixed: 57
+seen: 0
+answer: {milk}
+
+The five food groups include bread and cereal, vegetable, fruit, __________, and meat.
+
+
+----
+num: 61
+category: Anatomy and Physiology
+difficulty: Normal
+seen: 23
+answer: meat
+
+The five food groups include bread and cereal, vegetable, fruit, milk, and __________.
+
+
+----
+num: 62
+category: Anatomy and Physiology
+difficulty: Normal
+seen: 0
+answer: digestion
+
+The process that breaks down food into small molecules that can be absorbed by blood is called __________.
+
+
+----
+num: 63
+category: Anatomy and Physiology
+difficulty: Normal
+seen: 29
+answer: small molecules
+
+Digestion breaks food down into __________ __________ that can be absorbed by blood.
+
+
+----
+num: 64
+category: Anatomy and Physiology
+difficulty: Normal
+seen: 16
+answer: mechanical
+
+When food is chewed, mixed, and churned __________ digestion is taking place.
+
+
+----
+num: 65
+category: Anatomy and Physiology
+difficulty: Normal
+seen: 7
+answer: chemical
+
+When food is broken down by chemical reactions __________ digestion is taking place.
+
+
+----
+num: 66
+category: Anatomy and Physiology
+difficulty: Normal
+seen: 0
+answer: enzyme
+
+An __________ is a type of protein that speeds up the rate of chemical reaction in your body.
+
+
+----
+num: 67
+category: Anatomy and Physiology
+difficulty: Normal
+fixed: 57
+seen: 21
+answer: {enzymes}
+
+Many __________ are involved in the digestion of carbohydrates, proteins, and fats.
+
+
+----
+num: 68
+category: Anatomy and Physiology
+difficulty: Normal
+seen: 21
+answer: accessory
+
+Food does not pass through the __________ organs which include the tongue, teeth, salivary glands, liver, gallbladder, and pancreas.
+
+
+----
+num: 69
+category: Anatomy and Physiology
+difficulty: Normal
+seen: 14
+answer: mouth
+
+The __________ is where your tongue, teeth, and saliva change food into a soft mass called a bolus.
+
+
+----
+num: 70
+category: Anatomy and Physiology
+difficulty: Normal
+fixed: 57
+seen: 18
+answer: {esophagus}
+
+The __________ is a muscular tube that moves food to the stomach using peristalsis, or waves of muscle contractions.
+
+
+----
+num: 71
+category: Anatomy and Physiology
+difficulty: Normal
+seen: 0
+answer: peristalsis
+
+Food moves through your digestive system by waves of muscle contractions called __________.
+
+
+----
+num: 72
+category: Anatomy and Physiology
+difficulty: Normal
+fixed: 1
+seen: 0
+answer: stomach
+
+In the __________ food is digested mechanically by peristalsis and chemically by digestive solutions with the help of enzymes.
+
+
+----
+num: 73
+category: Anatomy and Physiology
+difficulty: Normal
+seen: 0
+answer: mechanically
+
+In the stomach food is digested __________ by peristalsis and chemically by digestive solutions with the help of enzymes.
+
+
+----
+num: 74
+category: Anatomy and Physiology
+difficulty: Normal
+seen: 2
+answer: chemically
+
+In the stomach food is digested mechanically by peristalsis and __________ by digestive solutions with the help of enzygmes.
+
+
+----
+num: 75
+category: Anatomy and Physiology
+difficulty: Normal
+seen: 0
+answer: peristalsis
+
+In the stomach food is digested mechanically by __________ and chemically by digestive solutions with the help of enzymes.
+
+
+----
+num: 76
+category: Anatomy and Physiology
+difficulty: Normal
+fixed: 57
+seen: 0
+answer: {enzymes}
+
+In the stomach food is digested mechanically by peristalsis and chemically by digestive solutions with the help of __________.
+
+
+----
+num: 77
+category: Anatomy and Physiology
+difficulty: Normal
+seen: 0
+answer: small intestine
+
+The __________ __________ contains villi which increase surface area to help with the absorption of nutrients.
+
+
+----
+num: 78
+category: Anatomy and Physiology
+difficulty: Normal
+seen: 17
+answer: villi
+
+The small intestine contains __________ which increase surface area to help with the absorption of nutrients.
+
+
+----
+num: 79
+category: Anatomy and Physiology
+difficulty: Normal
+seen: 18
+answer: blood
+
+Once nutrients are absorbed by the villi they are then transported to cells by __________.
+
+
+----
+num: 80
+category: Anatomy and Physiology
+difficulty: Normal
+seen: 17
+answer: surface area
+
+The small intestine contains villi which increase __________ __________ to help with the absorption of nutrients.
+
+
+----
+num: 81
+category: Anatomy and Physiology
+difficulty: Normal
+seen: 0
+answer: large intestine
+
+The __________ __________ absorbs water from undigested chyme.
+
+
+----
+num: 82
+category: Anatomy and Physiology
+difficulty: Normal
+seen: 0
+answer: chyme
+
+The food liquid produced by the stomach is called __________.
+
+
+----
+num: 83
+category: Anatomy and Physiology
+difficulty: Normal
+seen: 0
+answer: water
+
+The main function of the large intestine is to absorb excess __________.
+
+
+----
+num: 84
+category: Anatomy and Physiology
+difficulty: Normal
+seen: 0
+answer: three
+
+When chyme enters the large intestine peristalsis slows down and can stay in the large intestine for __________ days.
+
+
+----
+num: 85
+category: Anatomy and Physiology
+difficulty: Normal
+seen: 0
+answer: rectum
+
+The __________ and anus control the release of solid wastes from the body.
+
+
+----
+num: 86
+category: Anatomy and Physiology
+difficulty: Normal
+seen: 0
+answer: anus
+
+The rectum and __________ control the release of solid wastes from the body.
+
+
+----
+num: 87
+category: Anatomy and Physiology
+difficulty: Normal
+seen: 0
+answer: Bacteria
+
+__________ live in many of the organs of your digestive tract and make vitamins your body needs.
+
+
+----
+num: 88
+category: Anatomy and Physiology
+difficulty: Normal
+seen: 0
+answer: vitamins
+
+Bacteria live in many of the organs of your digestive tract and make __________ your body needs.
+
+
+----
+num: 89
+category: Anatomy and Physiology
+difficulty: Normal
+seen: 13
+answer: synapse
+
+A ________ is a small space across which an impulse travels to move from one neuron to another.
+
+
+----
+num: 90
+category: Anatomy and Physiology
+difficulty: Normal
+seen: 0
+answer: central
+
+The ________ nervous system is made up of the brain and spinal cord.
+
+
+----
+num: 91
+category: Anatomy and Physiology
+difficulty: Normal
+seen: 0
+answer: peripheral
+
+The ________ nervous system is made up of all the nerves outside the brain and spinal cord.
+
+
+----
+num: 92
+category: Anatomy and Physiology
+difficulty: Normal
+seen: 7
+answer: dendrite
+
+What is the branch part of the neuron that receives messages and sends them to the cell body?
+
+
+----
+num: 93
+category: Anatomy and Physiology
+difficulty: Normal
+seen: 0
+answer: axon
+
+What is the branch part of the neuron that transports messages away from the cell body?
+
+
+----
+num: 94
+category: Anatomy and Physiology
+difficulty: Normal
+seen: 0
+answer: neuron
+
+A ________ is made up of a cell body, dendrite, and axon.
+
+
+----
+num: 95
+category: Anatomy and Physiology
+difficulty: Normal
+seen: 0
+answer: reflex
+
+When a movement causes the spinal cord to interpret an impulse from the brain from sensory receptors this movement is called a ________.
+
+
+----
+num: 96
+category: Anatomy and Physiology
+difficulty: Normal
+seen: 19
+answer: spinal cord
+
+Which part of the body is made up of bundles of neurons that carry impulses from all parts of the body to the brain and from the brain to all parts of the body?
+
+
+----
+num: 97
+category: Anatomy and Physiology
+difficulty: Normal
+seen: 0
+answer: homeostasis
+
+The regulation of steady, life-maintaining conditions inside an organisms is called ________.
+
+
+----
+num: 98
+category: Anatomy and Physiology
+difficulty: Normal
+seen: 26
+answer: cerebrum
+
+This is the largest part of the brain.
+
+
+----
+num: 99
+category: Anatomy and Physiology
+difficulty: Normal
+fixed: 1
+seen: 0
+answer: cerebellum
+
+This part of the brain coordinates voluntary muscle movements.
+
+
+----
+num: 100
+category: Anatomy and Physiology
+difficulty: Normal
+seen: 24
+answer: stimuli
+
+The senses act as the body's alert system, reacting to ________ and transmitting impulses to the brain.
+
+
+----
+num: 101
+category: Anatomy and Physiology
+difficulty: Normal
+seen: 13
+answer: light rays
+
+The eye detects ________ ________ and transmits impulses to the brain through the optic nerve.
+
+
+----
+num: 102
+category: Anatomy and Physiology
+difficulty: Normal
+seen: 19
+answer: optic nerve
+
+The eye detects light rays and transmits impulses to the brain through the ________ ________.
+
+
+----
+num: 103
+category: Anatomy and Physiology
+difficulty: Normal
+seen: 8
+answer: sound waves
+
+The ear, along with detecting and transmitting ________ ________, also controls the body's balance by reacting to motion and gravity.
+
+
+----
+num: 104
+category: Anatomy and Physiology
+difficulty: Normal
+seen: 21
+answer: balance
+
+The ear, along with detecting and transmitting sound waves, also controls the body's ________ by reacting to motion and gravity.
+
+
+----
+num: 105
+category: Anatomy and Physiology
+difficulty: Normal
+seen: 15
+answer: olfactory cells
+
+The ________ ________ in the nasal passages detect molecules in the air, transmitting these impulses as odors.
+
+
+----
+num: 106
+category: Anatomy and Physiology
+difficulty: Normal
+seen: 25
+answer: molecules
+
+The olfactory cells in the nasal passages detect ________ in the air, transmitting these impulses as odors.
+
+
+----
+num: 107
+category: Anatomy and Physiology
+difficulty: Normal
+seen: 0
+answer: taste buds
+
+On the tongue ________ ________ can detect five different stimuli: sweet, sour, bitter, salty, and the taste of MSG.
+
+
+----
+num: 108
+category: Anatomy and Physiology
+difficulty: Normal
+seen: 0
+answer: sweet
+
+The taste buds on your tongue can detect the stimuli of ________, sour, bitter, salty, and the taste of MSG.
+
+
+----
+num: 109
+category: Anatomy and Physiology
+difficulty: Normal
+seen: 0
+answer: sour
+
+The taste buds on your tongue can detect the stimuli of sweet, ________, bitter, salty, and the taste of MSG.
+
+
+----
+num: 110
+category: Anatomy and Physiology
+difficulty: Normal
+seen: 21
+answer: bitter
+
+The taste buds on your tongue can detect the stimuli of sweet, sour, ________, salty, and the taste of MSG.
+
+
+----
+num: 111
+category: Anatomy and Physiology
+difficulty: Normal
+seen: 25
+answer: salty
+
+The taste buds on your tongue can detect the stimuli of sweet, sour, bitter, ________, and the taste of MSG.
+
+
+----
+num: 112
+category: Anatomy and Physiology
+difficulty: Normal
+seen: 0
+answer: stimulus
+
+A ________ is any change inside or outside your body that brings about a response in a living organism.
+
+
+----
+num: 113
+category: Anatomy and Physiology
+difficulty: Normal
+fixed: 57
+seen: 0
+answer: {neurons}
+
+Your nervous system is made up of ________ which are made up of a cell body and branches of dendrites and axons.
+
+
+----
+num: 114
+category: Anatomy and Physiology
+difficulty: Normal
+seen: 12
+answer: dendrite
+
+This is the part of the neuron that receives messages and send them to the cell body.
+
+
+----
+num: 115
+category: Anatomy and Physiology
+difficulty: Normal
+seen: 23
+answer: axon
+
+This is the part of the neuron that carries messages away from the cell body.
+
+
+----
+num: 116
+category: Anatomy and Physiology
+difficulty: Normal
+seen: 0
+answer: impulses
+
+Messages carried by nerve cells are called ________.
+
+
+----
+num: 117
+category: Anatomy and Physiology
+difficulty: Normal
+seen: 0
+answer: three
+
+You have ________ kinds of nerve cells.
+
+
+----
+num: 118
+category: Anatomy and Physiology
+difficulty: Normal
+seen: 0
+answer: sensory
+
+Nerve cells that receive information and send impulses to the brain or spinal cord are called ________ neurons.
+
+
+----
+num: 119
+category: Anatomy and Physiology
+difficulty: Normal
+seen: 0
+answer: interneurons
+
+Nerve cells that relay impulses from sensory nerve cells to motor nerve cells are called ________.
+
+
+----
+num: 120
+category: Anatomy and Physiology
+difficulty: Normal
+seen: 0
+answer: motor
+
+Nerve cells that conduct impulses from the brain to muscles and glands throughout your body are called ________ neurons.
+
+
+----
+num: 121
+category: Anatomy and Physiology
+difficulty: Normal
+seen: 0
+answer: touch
+
+Nerve cells do not ________ each other, yet still pass impulses to each other.
+
+
+----
+num: 122
+category: Anatomy and Physiology
+difficulty: Normal
+seen: 0
+answer: impulses
+
+Nerve cells do not touch each other, yet still pass ________ to each other.
+
+
+----
+num: 123
+category: Anatomy and Physiology
+difficulty: Normal
+seen: 0
+answer: space
+
+A synapse is a ________ between nerve cells.
+
+
+----
+num: 124
+category: Anatomy and Physiology
+difficulty: Normal
+seen: 0
+answer: synapse
+
+A ________ is a space between nerve cells.
+
+
+----
+num: 125
+category: Anatomy and Physiology
+difficulty: Normal
+seen: 0
+answer: chemical
+
+When an impulse reaches the end of an axon, the axon releases a ________.
+
+
+----
+num: 126
+category: Anatomy and Physiology
+difficulty: Normal
+seen: 0
+answer: dendrite
+
+When an impulse reaches the end of an axon, the axon releases a chemical that flows across the synapse and relays the impulse to the ________ of the next neuron.
+
+
+----
+num: 127
+category: Anatomy and Physiology
+difficulty: Normal
+fixed: 57
+seen: 27
+answer: brain
+
+The ________ coordinates all of your body activities.
+
+
+----
+num: 128
+category: Anatomy and Physiology
+difficulty: Normal
+seen: 1
+answer: cerebrum
+
+This is the part of the brain that interprets impulses from the senses, stores memory, and controls movements.
+
+
+----
+num: 129
+category: Anatomy and Physiology
+difficulty: Normal
+seen: 0
+answer: cerebrum
+
+Thinking takes place in this part of the brain.
+
+
+----
+num: 130
+category: Anatomy and Physiology
+difficulty: Normal
+seen: 0
+answer: cerebrum
+
+This is the largest part of the brain.
+
+
+----
+num: 131
+category: Anatomy and Physiology
+difficulty: Normal
+seen: 0
+answer: cortex
+
+The outer layer of the brain is called the ________, which allows more complex thoughts to be processed.
+
+
+----
+num: 132
+category: Anatomy and Physiology
+difficulty: Normal
+fixed: 1
+seen: 0
+answer: cerebellum
+
+This part of the brain is located behind and under the cerebrum.
+
+
+----
+num: 133
+category: Anatomy and Physiology
+difficulty: Normal
+fixed: 1
+seen: 0
+answer: cerebellum
+
+This part of the brain interprets stimuli from the eyes, ears, muscles, and tendons.
+
+
+----
+num: 134
+category: Anatomy and Physiology
+difficulty: Normal
+fixed: 1
+seen: 0
+answer: cerebellum
+
+This part of the brain coordinates voluntary muscle movements, maintains muscle tone, and helps maintain balance.
+
+
+----
+num: 135
+category: Anatomy and Physiology
+difficulty: Normal
+seen: 0
+answer: brain stem
+
+The ________ ________ is the part of the brain the extends from the cerebrum and connects it to the spinal cord.
+
+
+----
+num: 136
+category: Anatomy and Physiology
+difficulty: Normal
+seen: 0
+answer: brain stem
+
+What part of the brain is made up of the midbrain, the pons, and the medulla?
+
+
+----
+num: 137
+category: Anatomy and Physiology
+difficulty: Normal
+seen: 0
+answer: medulla oblongata
+
+What part of the brain stem controls involuntary actions such as heartbeat, breathing, and blood pressure?
+
+
+----
+num: 138
+category: Anatomy and Physiology
+difficulty: Normal
+seen: 0
+answer: spinal cord
+
+Which part of the nervous system is made up of bundles of nerve cells that carry impulses to and from the brain?
+
+
+----
+num: 139
+category: Anatomy and Physiology
+difficulty: Normal
+seen: 0
+answer: peripheral
+
+The ________ nervous system connects your brain and spinal cord to the rest of your body.
+
+
+----
+num: 140
+category: Anatomy and Physiology
+difficulty: Normal
+seen: 0
+answer: two
+
+The peripheral nervous system has ________ systems.
+
+
+----
+num: 141
+category: Anatomy and Physiology
+difficulty: Normal
+seen: 3
+answer: somatic
+
+In the peripheral nervous system the ________ system controls voluntary actions.
+
+
+----
+num: 142
+category: Anatomy and Physiology
+difficulty: Normal
+seen: 0
+answer: autonomic
+
+In the peripheral nervous system the ________ system controls involuntary actions.
+
+
+----
+num: 143
+category: Anatomy and Physiology
+difficulty: Normal
+seen: 7
+answer: injury
+
+Any ________ to the brain or spinal cord can be serious.
+
+
+----
+num: 144
+category: Anatomy and Physiology
+difficulty: Normal
+seen: 5
+answer: paralysis
+
+Injury to the spine can result in loss of muscle movement called ________.
+
+
+----
+num: 145
+category: Anatomy and Physiology
+difficulty: Normal
+seen: 0
+answer: safety gear
+
+It is important to wear ________ ________ when playing sports or riding in a car or on a bicycle.
+
+
+----
+num: 146
+category: Anatomy and Physiology
+difficulty: Normal
+seen: 18
+answer: reflex
+
+A ________ is an involuntary, autonomic response to a stimulus controlled by the spinal cord.
+
+
+----
+num: 147
+category: Anatomy and Physiology
+difficulty: Normal
+seen: 24
+answer: alcohol
+
+Drugs like ________ and caffeine affect your nervous system.
+
+
+----
+num: 148
+category: Anatomy and Physiology
+difficulty: Normal
+seen: 28
+answer: caffeine
+
+Drugs like alcohol and ________ affect your nervous system.
+
+
+----
+num: 149
+category: Anatomy and Physiology
+difficulty: Normal
+seen: 0
+answer: slows
+
+Alcohol ________ the activities of the central nervous system.
+
+
+----
+num: 150
+category: Anatomy and Physiology
+difficulty: Normal
+seen: 0
+answer: speeds
+
+Caffeine ________ up the activity of the central nervous system.
+
+
+----
+num: 151
+category: Anatomy and Physiology
+difficulty: Normal
+seen: 2
+answer: five
+
+Your body has ________ senses.
+
+
+----
+num: 152
+category: Anatomy and Physiology
+difficulty: Normal
+fixed: 1
+seen: 0
+answer: {retina}
+
+When light energy enters your eye the cornea and lens focus it onto the ________.
+
+
+----
+num: 153
+category: Anatomy and Physiology
+difficulty: Normal
+seen: 0
+answer: rods
+
+The light energy that enters your eye stimulates the ________ and cones located in your retina.
+
+
+----
+num: 154
+category: Anatomy and Physiology
+difficulty: Normal
+seen: 0
+answer: cones
+
+The light energy that enters your eye stimulates the rods and ________ located in your retina.
+
+
+----
+num: 155
+category: Anatomy and Physiology
+difficulty: Normal
+seen: 18
+answer: optic nerve
+
+The rods and cones send impulses to the ________ ________, which carries them to the visual area of the cortex.
+
+
+----
+num: 156
+category: Anatomy and Physiology
+difficulty: Normal
+seen: 0
+answer: nearsighted
+
+When light is focused in front of the retina a person is ________.
+
+
+----
+num: 157
+category: Anatomy and Physiology
+difficulty: Normal
+seen: 31
+answer: farsighted
+
+When light is focused in behind the retina a person is ________.
+
+
+----
+num: 158
+category: Anatomy and Physiology
+difficulty: Normal
+seen: 0
+answer: front
+
+When light is focused in ________ of the retina a person is nearsighted.
+
+
+----
+num: 159
+category: Anatomy and Physiology
+difficulty: Normal
+seen: 21
+answer: behind
+
+When light is focused ________ the retina a person is farsighted.
+
+
+----
+num: 160
+category: Anatomy and Physiology
+difficulty: Normal
+seen: 0
+answer: concave
+
+To correct nearsightedness a person needs to wear a ________ lens which is thicker at the edges than in the middle.
+
+
+----
+num: 161
+category: Anatomy and Physiology
+difficulty: Normal
+seen: 18
+answer: convex
+
+To correct farsightedness a person needs to wear a ________ lens which is thicker in the middle than at the edges.
+
+
+----
+num: 162
+category: Anatomy and Physiology
+difficulty: Normal
+seen: 15
+answer: sound waves
+
+When an object vibrates, it produces ________ ________ necessary for hearing sound.
+
+
+----
+num: 163
+category: Anatomy and Physiology
+difficulty: Normal
+seen: 10
+answer: pinna
+
+Your outer ear called the ________ captures sound waves and sends them to the ear canal.
+
+
+----
+num: 164
+category: Anatomy and Physiology
+difficulty: Normal
+seen: 0
+answer: eardrum
+
+In the middle ear, sound waves cause the ________ to vibrate.
+
+
+----
+num: 165
+category: Anatomy and Physiology
+difficulty: Normal
+seen: 14
+answer: hammer
+
+In the middle ear when the eardrum vibrates it will vibrate tiny bones called the ________, anvil, and stirrup.
+
+
+----
+num: 166
+category: Anatomy and Physiology
+difficulty: Normal
+seen: 0
+answer: anvil
+
+In the middle ear when the eardrum vibrates it will vibrate tiny bones called the hammer, ________, and stirrup.
+
+
+----
+num: 167
+category: Anatomy and Physiology
+difficulty: Normal
+seen: 28
+answer: stirrup
+
+In the middle ear when the eardrum vibrates it will vibrate tiny bones called the hammer, anvil, and ________.
+
+
+----
+num: 168
+category: Anatomy and Physiology
+difficulty: Normal
+seen: 12
+answer: cochlea
+
+In the inner ear, vibrations cause the fluids in the ________ to vibrate, stimulating nerve endings.
+
+
+----
+num: 169
+category: Anatomy and Physiology
+difficulty: Normal
+seen: 0
+answer: balance
+
+The cristae ampullaris and the maculae in the middle ear control the body's ________.
+
+
+----
+num: 170
+category: Anatomy and Physiology
+difficulty: Normal
+seen: 0
+answer: molecules
+
+Food and other objects give off ________ into the air.
+
+
+----
+num: 171
+category: Anatomy and Physiology
+difficulty: Normal
+seen: 0
+answer: olfactory cells
+
+When you smell, molecules from food and other objects stimulate nerve cells called ________ ________ in your nasal passages.
+
+
+----
+num: 172
+category: Anatomy and Physiology
+difficulty: Normal
+seen: 27
+answer: taste buds
+
+What are the major sensory receptors for taste?
+
+
+----
+num: 173
+category: Anatomy and Physiology
+difficulty: Normal
+seen: 0
+answer: taste buds
+
+Your tongue contains ________ ________ that help you to sense tastes.
+
+
+----
+num: 174
+category: Anatomy and Physiology
+difficulty: Normal
+seen: 0
+answer: internal organs
+
+For your sense of touch sensory receptors are found in ________ ________ and skin.
+
+
+----
+num: 175
+category: Anatomy and Physiology
+difficulty: Normal
+seen: 0
+answer: skin
+
+For your sense of touch sensory receptors are found in internal organs and ________. These sensory receptors can pick up changes in touch, pressure, pain, and temperature.
+
+
+----
+num: 176
+category: Anatomy and Physiology
+difficulty: Normal
+seen: 0
+answer: hormones
+
+In the endocrine system __________ help regulate and coordinate body systems.
+
+
+----
+num: 177
+category: Anatomy and Physiology
+difficulty: Normal
+seen: 1
+answer: hormones
+
+The endocrine glands found throughout the body manufacture chemical messengers called __________.
+
+
+----
+num: 178
+category: Anatomy and Physiology
+difficulty: Normal
+seen: 18
+answer: ductless
+
+Endocrine glands release hormones directly into the blood because they are __________.
+
+
+----
+num: 179
+category: Anatomy and Physiology
+difficulty: Normal
+seen: 20
+answer: negative-feedback
+
+In a __________-__________ system the endocrine glands gives chemical messages to control the production and release of hormones.
+
+
+----
+num: 180
+category: Anatomy and Physiology
+difficulty: Normal
+seen: 5
+answer: male
+
+The __________ reproductive system has both internal and external organs.
+
+
+----
+num: 181
+category: Anatomy and Physiology
+difficulty: Normal
+seen: 24
+answer: testes
+
+The __________ are organs that produce the male hormone testosterone and reproductive cells called sperm.
+
+
+----
+num: 182
+category: Anatomy and Physiology
+difficulty: Normal
+seen: 0
+answer: sperm
+
+The testes produce reproductive cells called __________.
+
+
+----
+num: 183
+category: Anatomy and Physiology
+difficulty: Normal
+seen: 0
+answer: semen
+
+Internal organs combine sperm with a fluid energy source producing __________.
+
+
+----
+num: 184
+category: Anatomy and Physiology
+difficulty: Normal
+seen: 9
+answer: ovaries
+
+Internal organs called __________ produce egg cells.
+
+
+----
+num: 185
+category: Anatomy and Physiology
+difficulty: Normal
+seen: 18
+answer: ovulation
+
+Once a month the __________ process releases an egg.
+
+
+----
+num: 186
+category: Anatomy and Physiology
+difficulty: Normal
+seen: 0
+answer: uterus
+
+A hollow, pear-shaped, muscular organ in which fertilized eggs develop is called the __________.
+
+
+----
+num: 187
+category: Anatomy and Physiology
+difficulty: Normal
+seen: 0
+answer: vagina
+
+The __________, or birth canal, is a muscular tube that opens to the outside of the body.
+
+
+----
+num: 188
+category: Anatomy and Physiology
+difficulty: Normal
+seen: 0
+answer: menstrual cycle
+
+The monthly cycle of changes in the female reproductive system is called the __________ __________.
+
+
+----
+num: 189
+category: Anatomy and Physiology
+difficulty: Normal
+seen: 0
+answer: estrogen
+
+Endocrine hormones called __________ and progesterone control the menstrual cycle.
+
+
+----
+num: 190
+category: Anatomy and Physiology
+difficulty: Normal
+seen: 10
+answer: progesterone
+
+Endocrine hormones called estrogen and __________ control the menstrual cycle.
+
+
+----
+num: 191
+category: Anatomy and Physiology
+difficulty: Normal
+seen: 0
+answer: menstruation
+
+The release of blood and the uterine lining tissue that occurs in phases in the female reproductive system is called __________.
+
+
+----
+num: 192
+category: Anatomy and Physiology
+difficulty: Normal
+seen: 22
+answer: menstrual flow
+
+Phase one of the menstrual cycle begins when __________ __________ starts and usually lasts about 4 to 6 days.
+
+
+----
+num: 193
+category: Anatomy and Physiology
+difficulty: Normal
+seen: 0
+answer: ovulation
+
+Phase two of the menstrual cycle involves the thickening of the uterus lining and __________, or egg release.
+
+
+----
+num: 194
+category: Anatomy and Physiology
+difficulty: Normal
+seen: 0
+answer: decreasing
+
+Phase 3 of the menstrual cycle continues with uterine preparation and ends with __________ hormone levels and uterine lining breakdown if no fertilized egg arrives.
+
+
+----
+num: 195
+category: Anatomy and Physiology
+difficulty: Normal
+seen: 24
+answer: menopause
+
+The gradual shutdown of the ovaries which end ovulation and menstrual periods is called __________.
+
+
+----
+num: 196
+category: Anatomy and Physiology
+difficulty: Normal
+seen: 13
+answer: fertilization
+
+The uniting of the egg and sperm is called __________.
+
+
+----
+num: 197
+category: Anatomy and Physiology
+difficulty: Normal
+fixed: None
+seen: 8
+answer: {zygote}
+
+When the nucleus of the sperm joins with the nucleus of the egg a cell called a __________ is formed.
+
+
+----
+num: 198
+category: Anatomy and Physiology
+difficulty: Normal
+seen: 0
+answer: mitosis
+
+A zygote divides into more genetically identical cells by a process called __________.
+
+
+----
+num: 199
+category: Anatomy and Physiology
+difficulty: Normal
+seen: 5
+answer: fraternal
+
+When more than one egg is fertilized __________ twins will develop.
+
+
+----
+num: 200
+category: Anatomy and Physiology
+difficulty: Normal
+seen: 0
+answer: identical
+
+When the egg or the zygote splits in two __________ twins develop.
+
+
+----
+num: 201
+category: Anatomy and Physiology
+difficulty: Normal
+seen: 30
+answer: two, two
+
+Fraternal twins form from __________ different eggs and __________ different sperm.
+
+
+----
+num: 202
+category: Anatomy and Physiology
+difficulty: Normal
+seen: 9
+answer: one, one
+
+Identical twins form from __________ egg and __________ sperm.
+
+
+----
+num: 203
+category: Anatomy and Physiology
+difficulty: Normal
+seen: 0
+answer: Multiple
+
+__________ births result from multiple egg release (fraternal twins) or division of the zygote (identical twins).
+
+
+----
+num: 204
+category: Anatomy and Physiology
+difficulty: Normal
+seen: 23
+answer: pregnancy
+
+The period of development before birth is called __________.
+
+
+----
+num: 205
+category: Anatomy and Physiology
+difficulty: Normal
+seen: 22
+answer: embryo
+
+When the zygote moves from the oviduct to the uterus it attaches and becomes an __________.
+
+
+----
+num: 206
+category: Anatomy and Physiology
+difficulty: Normal
+seen: 0
+answer: umbilical cord
+
+The __________ __________ connects the embryo to the placenta which provides nourishment from the mother and removes wastes from the embryo.
+
+
+----
+num: 207
+category: Anatomy and Physiology
+difficulty: Normal
+seen: 14
+answer: amniotic sac
+
+The __________ __________ cushions the embryo and stores nutrients and wastes.
+
+
+----
+num: 208
+category: Anatomy and Physiology
+difficulty: Normal
+seen: 0
+answer: fetus
+
+The embryo is called a __________ after the first two months of development.
+
+
+----
+num: 209
+category: Anatomy and Physiology
+difficulty: Normal
+seen: 13
+answer: muscular contractions
+
+During the birthing process __________ __________ of the uterus push the baby out through the vagina.
+
+
+----
+num: 210
+category: Anatomy and Physiology
+difficulty: Normal
+seen: 25
+answer: umbilical cord
+
+After the baby is born the __________ __________ is cut.
+
+
+----
+num: 211
+category: Anatomy and Physiology
+difficulty: Normal
+seen: 0
+answer: cesarean section
+
+Babies who cannot be delivered through the birth canal must be delivered by a surgery called a __________ __________.
+
+
+----
+num: 212
+category: Anatomy and Physiology
+difficulty: Normal
+seen: 12
+answer: infancy
+
+The first 18 months of life is called __________.
+
+
+----
+num: 213
+category: Anatomy and Physiology
+difficulty: Normal
+fixed: 57
+seen: 32
+answer: {stress}
+
+Newborns experience fetal __________ as they adapt to life outside the uterus.
+
+
+----
+num: 214
+category: Anatomy and Physiology
+difficulty: Normal
+seen: 0
+answer: neonatal
+
+The first four weeks of infancy is known as the __________ period.
+
+
+----
+num: 215
+category: Anatomy and Physiology
+difficulty: Normal
+seen: 0
+answer: depend
+
+Human babies __________ on their parents for survival.
+
+
+----
+num: 216
+category: Anatomy and Physiology
+difficulty: Normal
+seen: 0
+answer: childhood
+
+From 18 months to puberty a child's physical and mental development continues. During this time a human is in the stage of __________.
+
+
+----
+num: 217
+category: Anatomy and Physiology
+difficulty: Normal
+seen: 28
+answer: adolescence
+
+When a child hits puberty (reproductive maturity) the child is now in the __________ stage of life.
+
+
+----
+num: 218
+category: Anatomy and Physiology
+difficulty: Normal
+seen: 0
+answer: secondary sex
+
+During adolescence hormones cause males and females to develop __________ __________ characteristics.
+
+
+----
+num: 219
+category: Anatomy and Physiology
+difficulty: Normal
+seen: 0
+answer: adulthood
+
+From age 18 through old age a person is in his/her __________ stage.
+
+
+----
+num: 220
+category: Anatomy and Physiology
+difficulty: Normal
+seen: 7
+answer: adulthood
+
+During __________ a person's muscles and bones stop growing.
+
+
+----
+num: 221
+category: Anatomy and Physiology
+difficulty: Normal
+seen: 0
+answer: middle
+
+In __________ adulthood (30 to 60) the body begins to slowly decline.
+
+
+----
+num: 222
+category: Anatomy and Physiology
+difficulty: Normal
+seen: 25
+answer: older
+
+After age 60 a person enter __________ adulthood.
+
+
+----
+num: 223
+category: Anatomy and Physiology
+difficulty: Normal
+seen: 0
+answer: seventy five
+
+The average life span of a human today is age __________ __________.
+
+
+----
+num: 224
+category: Anatomy and Physiology
+difficulty: Normal
+seen: 0
+answer: target tissue
+
+Tissues affected by hormones.
+
+
+----
+num: 225
+category: Anatomy and Physiology
+difficulty: Normal
+seen: 0
+answer: sperm
+
+Male reproductive cells.
+
+
+----
+num: 226
+category: Anatomy and Physiology
+difficulty: Normal
+seen: 7
+answer: testes
+
+Male reproductive organs.
+
+
+----
+num: 227
+category: Anatomy and Physiology
+difficulty: Normal
+seen: 0
+answer: ovaries
+
+Produce eggs in the female.
+
+
+----
+num: 228
+category: Anatomy and Physiology
+difficulty: Normal
+seen: 0
+answer: uterus
+
+Muscular organ in which a fertilized egg develops into a baby.
+
+
+----
+num: 229
+category: Anatomy and Physiology
+difficulty: Normal
+seen: 0
+answer: vagina
+
+The birth canal.
+
+
+----
+num: 230
+category: Anatomy and Physiology
+difficulty: Normal
+seen: 22
+answer: ovulation
+
+The process of releasing eggs on a monthly basis.
+
+
+----
+num: 231
+category: Anatomy and Physiology
+difficulty: Normal
+seen: 0
+answer: menstruation
+
+The monthly discharge of the lining of the uterus.
+
+
+----
+num: 232
+category: Anatomy and Physiology
+difficulty: Normal
+seen: 0
+answer: menopause
+
+This occurs when the menstrual cycle becomes irregular and then stops.
+
+
+----
+num: 233
+category: Anatomy and Physiology
+difficulty: Normal
+seen: 15
+answer: embryo
+
+The fertilized egg during the first two months of pregnancy.
+
+
+----
+num: 234
+category: Anatomy and Physiology
+difficulty: Normal
+seen: 0
+answer: semen
+
+A mixture of sperm and fluid.
+
+
+----
+num: 235
+category: Anatomy and Physiology
+difficulty: Normal
+seen: 0
+answer: menstrual cycle
+
+The monthly cycle of changes in the female reproductive system.
+
+
+----
+num: 236
+category: Anatomy and Physiology
+difficulty: Normal
+seen: 23
+answer: amniotic sac
+
+This cushions the developing baby.
+
+
+----
+num: 237
+category: Anatomy and Physiology
+difficulty: Normal
+seen: 0
+answer: fetus
+
+The developing baby after the first two months of pregnancy.
+
+
+----
+num: 238
+category: Anatomy and Physiology
+difficulty: Normal
+seen: 2
+answer: pregnancy
+
+The period of development lasting nine months.
+
+
+----
+num: 239
+category: Anatomy and Physiology
+difficulty: Normal
+seen: 0
+answer: hormones
+
+These are endocrine secretions.
+
+
+----
+num: 240
+category: Anatomy and Physiology
+difficulty: Normal
+seen: 7
+answer: pineal gland
+
+This endocrine gland produces a hormone called melatonin that helps your body to regulate wake/sleep patterns.
+
+
+----
+num: 241
+category: Anatomy and Physiology
+difficulty: Normal
+seen: 0
+answer: pituitary gland
+
+This endocrine gland produces hormones that affect a wide range of body activities, from growth to reproduction.
+
+
+----
+num: 242
+category: Anatomy and Physiology
+difficulty: Normal
+seen: 0
+answer: thymus
+
+This endocrine gland produces infection-fighting cells called T-helper cells or T-cells. These are a special type of white blood cell.
+
+
+----
+num: 243
+category: Anatomy and Physiology
+difficulty: Normal
+seen: 0
+answer: testes
+
+This endocrine gland primarily produces a hormone called testosterone.
+
+
+----
+num: 244
+category: Anatomy and Physiology
+difficulty: Normal
+fixed: 57
+seen: 30
+answer: {testosterone}
+
+This hormone plays an important role in the production of sperm and secondary male characteristics.
+
+
+----
+num: 245
+category: Anatomy and Physiology
+difficulty: Normal
+seen: 2
+answer: thyroid gland
+
+This endocrine gland produces hormones that regulate metabolic rate, control the uptake of calcium by bones, and promotes normal nervous system development.
+
+
+----
+num: 246
+category: Anatomy and Physiology
+difficulty: Normal
+seen: 14
+answer: parathyroid glands
+
+These endocrine glands help regulate calcium levels in the body.
+
+
+----
+num: 247
+category: Anatomy and Physiology
+difficulty: Normal
+seen: 0
+answer: adrenal glands
+
+These endocrine glands produces a variety of hormones and some of these play a critical role in helping your body adapt to physical and emotional stress.
+
+
+----
+num: 248
+category: Anatomy and Physiology
+difficulty: Normal
+fixed: 57
+seen: 2
+answer: {pancreas}
+
+This endocrine gland produces a hormone called insulin which helps your body to control blood sugar levels in the bloodstream.
+
+
+----
+num: 249
+category: Anatomy and Physiology
+difficulty: Normal
+seen: 21
+answer: ovaries
+
+These endocrine glands produce the hormones estrogen and progesterone which help regulate the female reproductive cycle and are responsible for producing and maintaining female sex characteristics.
+
+
+----
+num: 250
+category: Anatomy and Physiology
+difficulty: Normal
+fixed: 57
+seen: 0
+answer: {lungs}
+
+The __________ are organs made up of alveoli.
+
+
+----
+num: 251
+category: Anatomy and Physiology
+difficulty: Normal
+seen: 17
+answer: diaphragm
+
+The __________ is a large sheet of muscle across the bottom of the chest cavity.
+
+
+----
+num: 252
+category: Anatomy and Physiology
+difficulty: Normal
+seen: 0
+answer: bronchi
+
+The trachea connects to two short branches called __________.
+
+
+----
+num: 253
+category: Anatomy and Physiology
+difficulty: Normal
+seen: 11
+answer: larynx
+
+The __________ is the place where the vocal chords are attached.
+
+
+----
+num: 254
+category: Anatomy and Physiology
+difficulty: Normal
+fixed: 57
+seen: 14
+answer: {alveoli}
+
+The lungs contain thin-walled sacs called __________.
+
+
+----
+num: 255
+category: Anatomy and Physiology
+difficulty: Normal
+seen: 0
+answer: trachea
+
+A 12-cm tube located below the larynx is the __________.
+
+
+----
+num: 256
+category: Anatomy and Physiology
+difficulty: Normal
+seen: 0
+answer: nasal cavity
+
+The __________ __________ warms and moistens air and filters dust particles.
+
+
+----
+num: 257
+category: Anatomy and Physiology
+difficulty: Normal
+seen: 0
+answer: epiglottis
+
+The __________ prevents food from entering the trachea.
+
+
+----
+num: 258
+category: Anatomy and Physiology
+difficulty: Normal
+fixed: 1
+seen: 0
+answer: diffusion
+
+The process of __________ is how oxygen and carbon dioxide molecules through the walls of the alveoli and capillaries.
+
+
+----
+num: 259
+category: Anatomy and Physiology
+difficulty: Normal
+fixed: 57
+seen: 4
+answer: {alveoli}
+
+The lungs are made up of masses of __________.
+
+
+----
+num: 260
+category: Anatomy and Physiology
+difficulty: Normal
+seen: 31
+answer: chest cavity
+
+The diaphragm is a large sheet of muscle that stretches across the bottom of the __________ __________.
+
+
+----
+num: 261
+category: Anatomy and Physiology
+difficulty: Normal
+seen: 0
+answer: inhale
+
+The diaphragm contracts when you __________.
+
+
+----
+num: 262
+category: Anatomy and Physiology
+difficulty: Normal
+seen: 0
+answer: exhale
+
+The diaphragm relaxes when you __________.
+
+
+----
+num: 263
+category: Anatomy and Physiology
+difficulty: Normal
+seen: 30
+answer: exhale
+
+The air pressure in the chest cavity increases when you __________.
+
+
+----
+num: 264
+category: Anatomy and Physiology
+difficulty: Normal
+seen: 25
+answer: inhale
+
+The air pressure in the chest cavity decreases when you __________.
+
+
+----
+num: 265
+category: Anatomy and Physiology
+difficulty: Normal
+seen: 19
+answer: exhale
+
+The gases inside the lungs are pushed out through air passages when you __________.
+
+
+----
+num: 266
+category: Anatomy and Physiology
+difficulty: Normal
+seen: 0
+answer: inhale
+
+Gases are pulled into the lungs through air passages when you __________.
+
+
+----
+num: 267
+category: Anatomy and Physiology
+difficulty: Normal
+seen: 10
+answer: exhale
+
+The volume of the chest cavity decreases when you __________.
+
+
+----
+num: 268
+category: Anatomy and Physiology
+difficulty: Normal
+seen: 16
+answer: inhale
+
+The volume of the chest cavity increases when you __________.
+
+
+----
+num: 269
+category: Anatomy and Physiology
+difficulty: Normal
+fixed: 57
+seen: 0
+answer: {oxygen}
+
+The main function of the respiratory system is to supply __________ to the body.
+
+
+----
+num: 270
+category: Anatomy and Physiology
+difficulty: Normal
+seen: 14
+answer: breathing
+
+The movement of the chest that brings air into the lungs and removes waste gases is called __________.
+
+
+----
+num: 271
+category: Anatomy and Physiology
+difficulty: Normal
+seen: 0
+answer: cellular respiration
+
+The process that cells use where oxygen is used to release energy from glucose is called __________ __________.
+
+
+----
+num: 272
+category: Anatomy and Physiology
+difficulty: Normal
+seen: 0
+answer: carbon dioxide
+
+The waste products of cellular respiration are __________ __________ and water.
+
+
+----
+num: 273
+category: Anatomy and Physiology
+difficulty: Normal
+seen: 0
+answer: pharynx
+
+The __________ is a tube-like passageway used by food, liquid, and air.
+
+
+----
+num: 274
+category: Anatomy and Physiology
+difficulty: Normal
+seen: 0
+answer: epiglottis
+
+At the lower end of the pharynx there is a flap of tissue called the __________ that prevents food or liquid from entering the trachea.
+
+
+----
+num: 275
+category: Anatomy and Physiology
+difficulty: Normal
+seen: 10
+answer: larynx
+
+Air passes through the __________, which contains the vocal chords used to speak.
+
+
+----
+num: 276
+category: Anatomy and Physiology
+difficulty: Normal
+seen: 0
+answer: trachea
+
+The tube held open by rings of cartilage and is lined with cilia and mucus is called the __________.
+
+
+----
+num: 277
+category: Anatomy and Physiology
+difficulty: Normal
+seen: 14
+answer: bronchi
+
+At the lower end of the trachea, two short tubes called __________ branch into smaller tubes.
+
+
+----
+num: 278
+category: Anatomy and Physiology
+difficulty: Normal
+seen: 0
+answer: bronchioles
+
+Smaller tubes that branch off of the bronchi in the lungs are called __________.
+
+
+----
+num: 279
+category: Anatomy and Physiology
+difficulty: Normal
+fixed: 57
+seen: 0
+answer: {alveoli}
+
+At the end of the bronchioles are clusters of small air sacs called __________.
+
+
+----
+num: 280
+category: Anatomy and Physiology
+difficulty: Normal
+seen: 0
+answer: capillaries
+
+The alveoli are surrounded by __________ where oxygen enters the blood and waste products like carbon dioxide exit the blood.
+
+
+----
+num: 281
+category: Anatomy and Physiology
+difficulty: Normal
+seen: 0
+answer: brain, contract
+
+In order to breath signals from your __________ tell muscles in your chest and abdomen to __________ and relax.
+
+
+----
+num: 282
+category: Anatomy and Physiology
+difficulty: Normal
+seen: 0
+answer: brain, relax
+
+In order to breath signals from your __________ tell muscles in your chest and abdomen to contract and __________.
+
+
+----
+num: 283
+category: Anatomy and Physiology
+difficulty: Normal
+seen: 20
+answer: increases
+
+If carbon dioxide levels in the blood increase, your breathing rate __________.
+
+
+----
+num: 284
+category: Anatomy and Physiology
+difficulty: Normal
+seen: 0
+answer: decreases
+
+If carbon dioxide levels decrease, your breathing rate __________.
+
+
+----
+num: 285
+category: Anatomy and Physiology
+difficulty: Normal
+seen: 23
+answer: pneumonia
+
+Respiratory infections include colds, the flu, and __________.
+
+
+----
+num: 286
+category: Anatomy and Physiology
+difficulty: Normal
+seen: 27
+answer: chronic bronchitis
+
+When a person has __________ __________ the bronchial tubes become irritated and swell, too much mucus is produced, and excess coughing occurs.
+
+
+----
+num: 287
+category: Anatomy and Physiology
+difficulty: Normal
+seen: 1
+answer: cilia
+
+When a person has chronic bronchitis excess coughing can damage __________ and form scar tissue.
+
+
+----
+num: 288
+category: Anatomy and Physiology
+difficulty: Normal
+seen: 0
+answer: scar tissue
+
+When a person has chronic bronchitis excess coughing can damage cilia and form __________ __________.
+
+
+----
+num: 289
+category: Anatomy and Physiology
+difficulty: Normal
+seen: 0
+answer: emphysema
+
+A disease called __________ is a disease of the alveoli, which causes the alveoli to enlarge and fail to function effectively.
+
+
+----
+num: 290
+category: Anatomy and Physiology
+difficulty: Normal
+seen: 7
+answer: emphysema, breath
+
+A disease called __________ can cause a shortness of __________ and can lead to heart problems.
+
+
+----
+num: 291
+category: Anatomy and Physiology
+difficulty: Normal
+seen: 0
+answer: emphysema, heart
+
+A disease called __________ can cause a shortness of breath and can lead to __________ problems.
+
+
+----
+num: 292
+category: Anatomy and Physiology
+difficulty: Normal
+seen: 10
+answer: lung cancer
+
+When uncontrolled cell growth occurs in the lungs a person has __________ __________.
+
+
+----
+num: 293
+category: Anatomy and Physiology
+difficulty: Normal
+seen: 28
+answer: smoking
+
+The greatest contributing factor of lung cancer is __________.
+
+
+----
+num: 294
+category: Anatomy and Physiology
+difficulty: Normal
+fixed: 57
+seen: 0
+answer: {asthma}
+
+A breathing disorder called __________ occurs when bronchial tubes contract quickly, causing a shortness of breath, wheezing, or coughing.
+
+
+----
+num: 295
+category: Anatomy and Physiology
+difficulty: Normal
+seen: 0
+answer: lymphatic system
+
+The ________ ________ collects tissue fluid and returns it to the blood.
+
+
+----
+num: 296
+category: Anatomy and Physiology
+difficulty: Normal
+seen: 22
+answer: tissue fluid
+
+The lymphatic system collects ________ ________ and returns it to the blood.
+
+
+----
+num: 297
+category: Anatomy and Physiology
+difficulty: Normal
+seen: 0
+answer: blood
+
+The lymphatic system collects tissue fluid and returns it to the ________.
+
+
+----
+num: 298
+category: Anatomy and Physiology
+difficulty: Normal
+seen: 0
+answer: lymph
+
+When tissue fluid has diffused into the lymphatic capillaries it is called ________.
+
+
+----
+num: 299
+category: Anatomy and Physiology
+difficulty: Normal
+seen: 0
+answer: water
+
+Lymph contains ________ and dissolved substances.
+
+
+----
+num: 300
+category: Anatomy and Physiology
+difficulty: Normal
+seen: 31
+answer: dissolved substances
+
+Lymph contains water and ________ ________.
+
+
+----
+num: 301
+category: Anatomy and Physiology
+difficulty: Normal
+seen: 29
+answer: lymphocytes
+
+Lymph contains ________ which are a type of white blood cell that helps the body defend itself against disease causing organisms.
+
+
+----
+num: 302
+category: Anatomy and Physiology
+difficulty: Normal
+seen: 0
+answer: white
+
+Lymph contains lymphocytes which are a type of ________ blood cell that helps the body defend itself against disease causing organisms.
+
+
+----
+num: 303
+category: Anatomy and Physiology
+difficulty: Normal
+seen: 22
+answer: lymphatic capillaries
+
+Lymph is carried through ________ ________ and lymphatic vessels to large veins near the heart.
+
+
+----
+num: 304
+category: Anatomy and Physiology
+difficulty: Normal
+seen: 29
+answer: lymphatic vessels
+
+Lymph is carried through lymphatic capillaries and ________ ________ to large veins near the heart.
+
+
+----
+num: 305
+category: Anatomy and Physiology
+difficulty: Normal
+seen: 0
+answer: veins
+
+Lymph is carried through lymphatic capillaries and lymphatic vessels to large ________ near the heart.
+
+
+----
+num: 306
+category: Anatomy and Physiology
+difficulty: Normal
+seen: 0
+answer: muscles
+
+Lymph is moved by the contraction of ________.
+
+
+----
+num: 307
+category: Anatomy and Physiology
+difficulty: Normal
+seen: 0
+answer: valves
+
+Lymphatic vessels have ________ to keep lymph flowing backward.
+
+
+----
+num: 308
+category: Anatomy and Physiology
+difficulty: Normal
+seen: 0
+answer: lymph nodes
+
+A type of lymphatic organ called ________ ________ are bean-shaped organs of varying size found throughout the body.
+
+
+----
+num: 309
+category: Anatomy and Physiology
+difficulty: Normal
+seen: 5
+answer: lymph nodes
+
+A type of lymphatic organs called ________ ________ filter microorganisms and foreign materials from lymphocytes.
+
+
+----
+num: 310
+category: Anatomy and Physiology
+difficulty: Normal
+seen: 0
+answer: tonsils
+
+A type of lymphatic organ called ________ protect your body from harmful microorganisms that enter through the mouth and throat.
+
+
+----
+num: 311
+category: Anatomy and Physiology
+difficulty: Normal
+seen: 0
+answer: thymus
+
+A type of lymphatic organ called the ________ is located behind the sternum and makes lymphocytes.
+
+
+----
+num: 312
+category: Anatomy and Physiology
+difficulty: Normal
+fixed: 57
+seen: 0
+answer: {spleen}
+
+A type of lymphatic organ called the ________ is located behind the stomach and filters blood by removing damaged red blood cells from the blood stream.
+
+
+----
+num: 313
+category: Anatomy and Physiology
+difficulty: Normal
+seen: 31
+answer: lymphocytes
+
+The HIV virus attacks ________ called helper T-cells.
+
+
+----
+num: 314
+category: Anatomy and Physiology
+difficulty: Normal
+seen: 24
+answer: T-cells
+
+The HIV virus attacks lymphocytes called helper ________.
+
+
+----
+num: 315
+category: Anatomy and Physiology
+difficulty: Normal
+seen: 22
+answer: skin
+
+Your ________ is the largest organ of your body.
+
+
+----
+num: 316
+category: Anatomy and Physiology
+difficulty: Normal
+seen: 0
+answer: three
+
+Your skin is made of ________ layers of tissue.
+
+
+----
+num: 317
+category: Anatomy and Physiology
+difficulty: Normal
+seen: 30
+answer: epidermis
+
+The ________ is the outer, thinnest layer of skin.
+
+
+----
+num: 318
+category: Anatomy and Physiology
+difficulty: Normal
+seen: 6
+answer: dead
+
+The outermost cells of your skin are ________ and rub off when your touch anything.
+
+
+----
+num: 319
+category: Anatomy and Physiology
+difficulty: Normal
+seen: 0
+answer: cells
+
+New ________ are constantly produced at the base of the epidermis.
+
+
+----
+num: 320
+category: Anatomy and Physiology
+difficulty: Normal
+seen: 0
+answer: melanin
+
+Cells produce ________, which is a pigment that protects your skin and gives it color.
+
+
+----
+num: 321
+category: Anatomy and Physiology
+difficulty: Normal
+seen: 14
+answer: dermis
+
+The second layer of skin is called the ________.
+
+
+----
+num: 322
+category: Anatomy and Physiology
+difficulty: Normal
+seen: 30
+answer: thicker
+
+The dermis is ________ than the epidermis.
+
+
+----
+num: 323
+category: Anatomy and Physiology
+difficulty: Normal
+seen: 18
+answer: blood vessels
+
+The dermis contains ________ ________, nerves, muscles, oil, sweat glands, and other structures.
+
+
+----
+num: 324
+category: Anatomy and Physiology
+difficulty: Normal
+seen: 11
+answer: nerves
+
+The dermis contains blood vessels, ________, oil, sweat glands, and other structures.
+
+
+----
+num: 325
+category: Anatomy and Physiology
+difficulty: Normal
+seen: 0
+answer: sweat glands
+
+The dermis contains blood vessels, nerves, oil, ________ ________, and other structures.
+
+
+----
+num: 326
+category: Anatomy and Physiology
+difficulty: Normal
+seen: 17
+answer: oil
+
+The dermis contains blood vessels, nerves, ________, sweat glands, and other structures.
+
+
+----
+num: 327
+category: Anatomy and Physiology
+difficulty: Normal
+seen: 0
+answer: fatty
+
+The ________ layer insulates the body.
+
+
+----
+num: 328
+category: Anatomy and Physiology
+difficulty: Normal
+seen: 16
+answer: insulates
+
+The fatty layer ________ the body.
+
+
+----
+num: 329
+category: Anatomy and Physiology
+difficulty: Normal
+seen: 0
+answer: protective
+
+Your skin forms a ________ covering over the body the prevents injury.
+
+
+----
+num: 330
+category: Anatomy and Physiology
+difficulty: Normal
+seen: 0
+answer: organisms
+
+Many disease-causing ________ cannot pass through the skin.
+
+
+----
+num: 331
+category: Anatomy and Physiology
+difficulty: Normal
+seen: 0
+answer: skin
+
+Many disease-causing organisms cannot pass through the ________.
+
+
+----
+num: 332
+category: Anatomy and Physiology
+difficulty: Normal
+seen: 0
+answer: water
+
+You skin prevents excess ________ loss.
+
+
+----
+num: 333
+category: Anatomy and Physiology
+difficulty: Normal
+seen: 10
+answer: nerve
+
+In your skin ________ cells detect and relay information to the brain.
+
+
+----
+num: 334
+category: Anatomy and Physiology
+difficulty: Normal
+seen: 0
+answer: vitamin D
+
+Your skin forms ________, which helps your body absorb calcium.
+
+
+----
+num: 335
+category: Anatomy and Physiology
+difficulty: Normal
+fixed: 1
+seen: 14
+answer: skin
+
+Your ________ regulates your body temperature.
+
+
+----
+num: 336
+category: Anatomy and Physiology
+difficulty: Normal
+seen: 0
+answer: heat
+
+Blood vessels in the skin help release or hold ________.
+
+
+----
+num: 337
+category: Anatomy and Physiology
+difficulty: Normal
+seen: 0
+answer: sweat glands
+
+Perspiration from the ________ ________ eliminates excess heat that has been produced by muscle contractions.
+
+
+----
+num: 338
+category: Anatomy and Physiology
+difficulty: Normal
+seen: 4
+answer: wastes
+
+The sweat glands in your skin help your body to eliminate ________.
+
+
+----
+num: 339
+category: Anatomy and Physiology
+difficulty: Normal
+seen: 19
+answer: cells
+
+When injured, the skin produces new ________ and repairs tears.
+
+
+----
+num: 340
+category: Anatomy and Physiology
+difficulty: Normal
+seen: 0
+answer: bruise
+
+When tiny blood vessels beneath the skin burst and leak into surrounding tissues a ________ forms.
+
+
+----
+num: 341
+category: Anatomy and Physiology
+difficulty: Normal
+seen: 0
+answer: scab
+
+When you have a cut, a ________ forms to prevent bacteria from entering your body.
+
+
+----
+num: 342
+category: Anatomy and Physiology
+difficulty: Normal
+seen: 0
+answer: infection
+
+When your have a cut, cells in the surrounding blood vessels fight ________.
+
+
+----
+num: 343
+category: Anatomy and Physiology
+difficulty: Normal
+seen: 1
+answer: grow
+
+When your body forms a scab skin cells beneath the scab ________ to fill in the gap of the torn skin.
+
+
+----
+num: 344
+category: Anatomy and Physiology
+difficulty: Normal
+seen: 23
+answer: repair
+
+Doctors can ________ severe skin damage with skin grafts.
+
+
+----
+num: 345
+category: Anatomy and Physiology
+difficulty: Normal
+seen: 28
+answer: skin grafts
+
+Pieces of skin that are cut from one part of a person's body and moved to the injured area are called ________ ________.
+
+
+----
+num: 346
+category: Anatomy and Physiology
+difficulty: Normal
+seen: 0
+answer: epidermis
+
+Doctors are now beginning to grow large sheets of ________ from small pieces of the victim's health skin.
+
+
+----
+num: 347
+category: Anatomy and Physiology
+difficulty: Normal
+seen: 3
+answer: body
+
+Blood vessels carry blood to every part of your __________.
+
+
+----
+num: 348
+category: Anatomy and Physiology
+difficulty: Normal
+fixed: 57
+seen: 20
+answer: {oxygen}
+
+Blood moves __________ and nutrients to cells.
+
+
+----
+num: 349
+category: Anatomy and Physiology
+difficulty: Normal
+seen: 12
+answer: nutrients
+
+Blood moves oxygen and __________ to cells.
+
+
+----
+num: 350
+category: Anatomy and Physiology
+difficulty: Normal
+seen: 0
+answer: carbon dioxide
+
+Blood carries __________ __________ and other wastes away from cells.
+
+
+----
+num: 351
+category: Anatomy and Physiology
+difficulty: Normal
+seen: 0
+answer: wastes
+
+Blood carries carbon dioxide and other __________ away from cells.
+
+
+----
+num: 352
+category: Anatomy and Physiology
+difficulty: Normal
+fixed: 1
+seen: 2
+answer: diffusion
+
+Movement of materials into and out of your cells occurs by __________ and active transport.
+
+
+----
+num: 353
+category: Anatomy and Physiology
+difficulty: Normal
+seen: 15
+answer: cardiac
+
+Your heart is made of __________ muscle tissue.
+
+
+----
+num: 354
+category: Anatomy and Physiology
+difficulty: Normal
+seen: 0
+answer: four
+
+Your heart has __________ chambers.
+
+
+----
+num: 355
+category: Anatomy and Physiology
+difficulty: Normal
+seen: 9
+answer: atriums
+
+The two upper chambers of your heart are called __________.
+
+
+----
+num: 356
+category: Anatomy and Physiology
+difficulty: Normal
+seen: 0
+answer: ventricles
+
+The two lower chambers of your heart are called __________.
+
+
+----
+num: 357
+category: Anatomy and Physiology
+difficulty: Normal
+seen: 0
+answer: valve
+
+A one-way __________ separates each atrium from the ventricle below it.
+
+
+----
+num: 358
+category: Anatomy and Physiology
+difficulty: Normal
+seen: 0
+answer: mixing
+
+The wall between the right and left ventricles and atriums prevents oxygen poor blood from __________ with oxygen rich blood.
+
+
+----
+num: 359
+category: Anatomy and Physiology
+difficulty: Normal
+seen: 0
+answer: three
+
+Scientists have divided the circulatory system into __________ sections.
+
+
+----
+num: 360
+category: Anatomy and Physiology
+difficulty: Normal
+seen: 0
+answer: coronary
+
+The flow of blood to and from the tissues of the heart is called __________ circulation.
+
+
+----
+num: 361
+category: Anatomy and Physiology
+difficulty: Normal
+seen: 4
+answer: pulmonary
+
+The flow of blood through the heart to the lungs and back to the heart is called __________ circulation.
+
+
+----
+num: 362
+category: Anatomy and Physiology
+difficulty: Normal
+fixed: 57
+seen: 0
+answer: {oxygen}
+
+When blood is pumped into your lungs __________ is picked up by red blood cells.
+
+
+----
+num: 363
+category: Anatomy and Physiology
+difficulty: Normal
+seen: 0
+answer: carbon dioxide
+
+When blood is pumped to your lungs __________ __________ is released by red blood cells.
+
+
+----
+num: 364
+category: Anatomy and Physiology
+difficulty: Normal
+seen: 0
+answer: arteries
+
+Blood vessels that pump blood away from the heart are called __________.
+
+
+----
+num: 365
+category: Anatomy and Physiology
+difficulty: Normal
+fixed: 57
+seen: 0
+answer: {oxygen}
+
+Arteries carry blood that is rich in __________.
+
+
+----
+num: 366
+category: Anatomy and Physiology
+difficulty: Normal
+seen: 12
+answer: pulmonary
+
+The right ventricle is connected to the __________ artery.
+
+
+----
+num: 367
+category: Anatomy and Physiology
+difficulty: Normal
+fixed: 57
+seen: 0
+answer: {aorta}
+
+The left ventricle is connected to the __________.
+
+
+----
+num: 368
+category: Anatomy and Physiology
+difficulty: Normal
+fixed: 57
+seen: 0
+answer: {aorta}
+
+The largest artery in the human body is called the __________.
+
+
+----
+num: 369
+category: Anatomy and Physiology
+difficulty: Normal
+seen: 16
+answer: veins
+
+The blood vessels that carry blood back to the heart are called __________.
+
+
+----
+num: 370
+category: Anatomy and Physiology
+difficulty: Normal
+seen: 0
+answer: valves
+
+Veins have one-way __________ that keep blood moving toward the heart.
+
+
+----
+num: 371
+category: Anatomy and Physiology
+difficulty: Normal
+seen: 0
+answer: superior vena cava
+
+The __________ __________ __________ returns blood from your head and neck back to the heart.
+
+
+----
+num: 372
+category: Anatomy and Physiology
+difficulty: Normal
+seen: 16
+answer: inferior vena cava
+
+The __________ __________ __________ returns blood from your abdomen and lower body back to the heart.
+
+
+----
+num: 373
+category: Anatomy and Physiology
+difficulty: Normal
+seen: 24
+answer: capillaries
+
+Arteries and veins are connected by microscopic blood vessels called __________.
+
+
+----
+num: 374
+category: Anatomy and Physiology
+difficulty: Normal
+seen: 29
+answer: one
+
+The walls of capillaries are only __________ cell thick.
+
+
+----
+num: 375
+category: Anatomy and Physiology
+difficulty: Normal
+seen: 13
+answer: diffuse
+
+Nutrients and oxygen __________ into body cells through the thin capillary walls.
+
+
+----
+num: 376
+category: Anatomy and Physiology
+difficulty: Normal
+seen: 5
+answer: diffuse
+
+Waste materials and carbon dioxide __________ from body cells into the capillaries.
+
+
+----
+num: 377
+category: Anatomy and Physiology
+difficulty: Normal
+seen: 18
+answer: arteries
+
+Blood pressure is highest in __________.
+
+
+----
+num: 378
+category: Anatomy and Physiology
+difficulty: Normal
+seen: 29
+answer: veins
+
+Blood pressure is lowest in __________.
+
+
+----
+num: 379
+category: Anatomy and Physiology
+difficulty: Normal
+seen: 0
+answer: blood pressure
+
+The force of the blood on the walls of the blood vessels is called __________ __________.
+
+
+----
+num: 380
+category: Anatomy and Physiology
+difficulty: Normal
+seen: 0
+answer: heartbeat
+
+The rise and fall of your blood pressure in your blood vessels occurs with each __________.
+
+
+----
+num: 381
+category: Anatomy and Physiology
+difficulty: Normal
+seen: 1
+answer: systolic
+
+When you measure blood pressure when the heart contracts your are measuring __________ pressure.
+
+
+----
+num: 382
+category: Anatomy and Physiology
+difficulty: Normal
+seen: 0
+answer: diastolic
+
+When you measure blood pressure when the heart relaxes your are measuring __________ pressure.
+
+
+----
+num: 383
+category: Anatomy and Physiology
+difficulty: Normal
+seen: 0
+answer: normal
+
+Your body tries to keep blood pressure __________.
+
+
+----
+num: 384
+category: Anatomy and Physiology
+difficulty: Normal
+fixed: 1
+seen: 0
+answer: heart
+
+In the United States the leading cause of death is __________ disease.
+
+
+----
+num: 385
+category: Anatomy and Physiology
+difficulty: Normal
+seen: 8
+answer: atherosclerosis
+
+A disease called __________ occurs when fatty deposits build up on the walls of arteries.
+
+
+----
+num: 386
+category: Anatomy and Physiology
+difficulty: Normal
+seen: 27
+answer: hypertension
+
+What is another name for high blood pressure?
+
+
+----
+num: 387
+category: Anatomy and Physiology
+difficulty: Normal
+seen: 0
+answer: heart failure
+
+What happens when the heart cannot pump blood efficiently?
+
+
+----
+num: 388
+category: Anatomy and Physiology
+difficulty: Normal
+seen: 4
+answer: salt
+
+To prevent cardiovascular disease you should choose to eat foods that are low in __________, sugar, cholesterol, and saturated fats.
+
+
+----
+num: 389
+category: Anatomy and Physiology
+difficulty: Normal
+seen: 5
+answer: sugar
+
+To prevent cardiovascular disease you should choose to eat foods that are low in salt, __________, cholesterol, and saturated fats.
+
+
+----
+num: 390
+category: Anatomy and Physiology
+difficulty: Normal
+fixed: 57
+seen: 0
+answer: {cholesterol}
+
+To prevent cardiovascular disease you should choose to eat foods that are low in salt, sugar, ____________, and saturated fats.
+
+
+----
+num: 391
+category: Anatomy and Physiology
+difficulty: Normal
+seen: 4
+answer: saturated fats
+
+To prevent cardiovascular disease you should choose to eat foods that are low in salt, sugar, cholesterol, and ____________ ____________.
+
+
+----
+num: 392
+category: Anatomy and Physiology
+difficulty: Normal
+seen: 8
+answer: relax
+
+Learning to __________ and having a regular program of exercise can help prevent tension and relieve stress.
+
+
+----
+num: 393
+category: Anatomy and Physiology
+difficulty: Normal
+seen: 0
+answer: exercise
+
+Learning to relax and having a regular program of __________ can help prevent tension and relieve stress.
+
+
+----
+num: 394
+category: Anatomy and Physiology
+difficulty: Normal
+seen: 12
+answer: smoke
+
+Another way to prevent cardiovascular disease is to not __________.
+
+
+----
+num: 395
+category: Anatomy and Physiology
+difficulty: Normal
+seen: 16
+answer: faster
+
+Smoking causes the blood vessels to contract, and makes the heart beat __________ and harder.
+
+
+----
+num: 396
+category: Anatomy and Physiology
+difficulty: Normal
+seen: 2
+answer: harder
+
+Smoking causes blood vessels to contract and makes the heart beat faster and __________.
+
+
+----
+num: 397
+category: Anatomy and Physiology
+difficulty: Normal
+fixed: 1
+seen: 0
+answer: kidneys
+
+Blood carries waste products from your cells to your __________ to be removed.
+
+
+----
+num: 398
+category: Anatomy and Physiology
+difficulty: Normal
+seen: 0
+answer: nutrients
+
+Blood transports __________ and other substances to your body cells.
+
+
+----
+num: 399
+category: Anatomy and Physiology
+difficulty: Normal
+seen: 22
+answer: infections
+
+Cells and molecules in blood fight __________ and help heal wounds.
+
+
+----
+num: 400
+category: Anatomy and Physiology
+difficulty: Normal
+fixed: 57
+seen: 13
+answer: {plasma}
+
+The liquid part of blood is called __________.
+
+
+----
+num: 401
+category: Anatomy and Physiology
+difficulty: Normal
+fixed: 57
+seen: 29
+answer: {plasma}
+
+Which part of your blood transports dissolved nutrients, minerals, and oxygen?
+
+
+----
+num: 402
+category: Anatomy and Physiology
+difficulty: Normal
+seen: 0
+answer: red blood cells
+
+Which blood cell contains hemoglobin?
+
+
+----
+num: 403
+category: Anatomy and Physiology
+difficulty: Normal
+fixed: 57
+seen: 4
+answer: hemoglobin
+
+A molecule found in red blood cells that binds to oxygen and carbon dioxide is called __________.
+
+
+----
+num: 404
+category: Anatomy and Physiology
+difficulty: Normal
+seen: 0
+answer: white blood cells
+
+Which blood cell fights bacteria, viruses, and other invaders of your body?
+
+
+----
+num: 405
+category: Anatomy and Physiology
+difficulty: Normal
+seen: 22
+answer: platelets
+
+Which blood cell helps clot blood?
+
+
+----
+num: 406
+category: Anatomy and Physiology
+difficulty: Normal
+seen: 18
+answer: four
+
+In humans there are __________ blood types.
+
+
+----
+num: 407
+category: Anatomy and Physiology
+difficulty: Normal
+seen: 0
+answer: antigens
+
+Blood types A, B, and AB have chemical identification tags called __________.
+
+
+----
+num: 408
+category: Anatomy and Physiology
+difficulty: Normal
+seen: 17
+answer: red blood cells
+
+Antigens can be found on the surface of which blood cells?
+
+
+----
+num: 409
+category: Anatomy and Physiology
+difficulty: Normal
+seen: 0
+answer: antigens
+
+Blood type O has no __________ on the surface of red blood cells.
+
+
+----
+num: 410
+category: Anatomy and Physiology
+difficulty: Normal
+seen: 0
+answer: antibodies
+
+In blood types A, B, and O there are __________ that destroy or neutralize substances that do not belong in or are not part of your body.
+
+
+----
+num: 411
+category: Anatomy and Physiology
+difficulty: Normal
+seen: 0
+answer: O, A
+
+If you have type A blood you can receive blood from blood types __________ and __________.
+
+
+----
+num: 412
+category: Anatomy and Physiology
+difficulty: Normal
+seen: 25
+answer: O, B
+
+If you have blood type B you can receive blood from blood types __________ and __________.
+
+
+----
+num: 413
+category: Anatomy and Physiology
+difficulty: Normal
+seen: 0
+answer: all
+
+If you have blood type AB you can receive blood from __________ blood types.
+
+
+----
+num: 414
+category: Anatomy and Physiology
+difficulty: Normal
+seen: 0
+answer: O
+
+If you have blood type O you can receive blood from blood type __________.
+
+
+----
+num: 415
+category: Anatomy and Physiology
+difficulty: Normal
+seen: 27
+answer: A, AB
+
+You have blood type A and you want to donate blood. Which other blood types can you donate blood to?
+
+
+----
+num: 416
+category: Anatomy and Physiology
+difficulty: Normal
+seen: 0
+answer: B, AB
+
+You have blood type B and you want to donate blood. Which other blood types can you donate blood to?
+
+
+----
+num: 417
+category: Anatomy and Physiology
+difficulty: Normal
+fixed: 1
+seen: 31
+answer: {AB}
+
+You have blood type AB and you want to donate blood. Which other blood types can you donate blood to?
+
+
+----
+num: 418
+category: Anatomy and Physiology
+difficulty: Normal
+seen: 0
+answer: all
+
+You have blood type O and you want to donate blood. Which other blood types can you donate blood to?
+
+
+----
+num: 419
+category: Anatomy and Physiology
+difficulty: Normal
+seen: 0
+answer: A antigens
+
+You have blood type A. What antigens are found on your red blood cells?
+
+
+----
+num: 420
+category: Anatomy and Physiology
+difficulty: Normal
+seen: 1
+answer: B antigens
+
+You have blood type B. What antigens are found on your red blood cells?
+
+
+----
+num: 421
+category: Anatomy and Physiology
+difficulty: Normal
+seen: 30
+answer: A and B antigens
+
+You have blood type AB. What antigens are found on your red blood cells?
+
+
+----
+num: 422
+category: Anatomy and Physiology
+difficulty: Normal
+seen: 15
+answer: No antigens
+
+You have blood type O. What antigens are found on your red blood cells?
+
+
+----
+num: 423
+category: Anatomy and Physiology
+difficulty: Normal
+seen: 0
+answer: Anti-B antibodies
+
+What antibodies can be found in the blood of a person with blood type A?
+
+
+----
+num: 424
+category: Anatomy and Physiology
+difficulty: Normal
+fixed: 1
+seen: 4
+answer: {Anti}-{A antibodies}
+
+What antibodies can be found in the blood of a person with blood type B?
+
+
+----
+num: 425
+category: Anatomy and Physiology
+difficulty: Normal
+seen: 19
+answer: No antibodies
+
+What antibodies can be found in the blood of a person with blood type AB?
+
+
+----
+num: 426
+category: Anatomy and Physiology
+difficulty: Normal
+seen: 0
+answer: Anti-A and Anti-B antibodies
+
+What antibodies can be found in the blood of a person with blood type O?
+
+
+----
+num: 427
+category: Anatomy and Physiology
+difficulty: Normal
+seen: 0
+answer: Rh+
+
+If the Rh factor is on red blood cells, the person has __________ blood.
+
+
+----
+num: 428
+category: Anatomy and Physiology
+difficulty: Normal
+seen: 25
+answer: Rh-
+
+If the Rh factor is not on red blood cells, the person has __________ blood.
+
+
+----
+num: 429
+category: Anatomy and Physiology
+difficulty: Normal
+seen: 0
+answer: No
+
+Can a person with Rh+ blood donate blood to a person with Rh- blood?
+
+
+----
+num: 430
+category: Anatomy and Physiology
+difficulty: Normal
+seen: 0
+answer: Yes
+
+Can a person with Rh- blood donate blood to a person with Rh+ blood?
+
+
+----
+num: 431
+category: Anatomy and Physiology
+difficulty: Normal
+seen: 0
+answer: Mastoids
+
+These muscles help you to turn your head up, down, and from side to side.
+
+
+----
+num: 432
+category: Anatomy and Physiology
+difficulty: Normal
+seen: 27
+answer: Mastoids
+
+These muscles help you to chew and swallow your food.
+
+
+----
+num: 433
+category: Anatomy and Physiology
+difficulty: Normal
+seen: 13
+answer: Trapezoids (Traps)
+
+These muscles help you to pull your shoulders up.
+
+
+----
+num: 434
+category: Anatomy and Physiology
+difficulty: Normal
+seen: 28
+answer: Deltoids
+
+What muscles help you to pull your arm up?
+
+
+----
+num: 435
+category: Anatomy and Physiology
+difficulty: Normal
+seen: 0
+answer: Pectorals (Pecs)
+
+What muscles help you pull your shoulders forward?
+
+
+----
+num: 436
+category: Anatomy and Physiology
+difficulty: Normal
+seen: 5
+answer: Biceps
+
+These muscles help you to pull your forearm up.
+
+
+----
+num: 437
+category: Anatomy and Physiology
+difficulty: Normal
+seen: 28
+answer: Abdominals (Abs)
+
+These muscles help you to to pull your upper body down and your lower body up.
+
+
+----
+num: 438
+category: Anatomy and Physiology
+difficulty: Normal
+seen: 8
+answer: Obliques
+
+Which muscles help you to pull your upper and lower body form side to side?
+
+
+----
+num: 439
+category: Anatomy and Physiology
+difficulty: Normal
+seen: 17
+answer: Groin
+
+These are muscles that pulls your thighs together.
+
+
+----
+num: 440
+category: Anatomy and Physiology
+difficulty: Normal
+seen: 28
+answer: Quadriceps
+
+These muscles pull your lower leg up.
+
+
+----
+num: 441
+category: Anatomy and Physiology
+difficulty: Normal
+seen: 8
+answer: Hamstrings
+
+These muscles pull your lower leg down.
+
+
+----
+num: 442
+category: Anatomy and Physiology
+difficulty: Normal
+seen: 27
+answer: Calves
+
+When you use these muscles they move your ankle up and down.
+
+
+----
+num: 443
+category: Anatomy and Physiology
+difficulty: Normal
+seen: 8
+answer: Front Forearm Muscles
+
+By using these muscles you can open your hand and pull back your wrist.
+
+
+----
+num: 444
+category: Anatomy and Physiology
+difficulty: Normal
+seen: 0
+answer: Back Forearm Muscles
+
+By using these muscles you can close your hand and pull down your wrist.
+
+
+----
+num: 445
+category: Anatomy and Physiology
+difficulty: Normal
+seen: 0
+answer: Triceps
+
+Which group of muscles can be used to pull back your forearm to make your arm straight?
+
+
+----
+num: 446
+category: Anatomy and Physiology
+difficulty: Normal
+seen: 0
+answer: Deep Back Muscles
+
+If you use these muscles you can sit up and stand up straight because they pull on your vertebrae.
+
+
+----
+num: 447
+category: Anatomy and Physiology
+difficulty: Normal
+seen: 5
+answer: Glutes
+
+These are a group of muscles that help you pull back your whole leg. You also sit on these muscles!
+
+
+----
+num: 448
+category: Anatomy and Physiology
+difficulty: Normal
+seen: 4
+answer: Achilles tendon
+
+This is the largest tendon in your body.
+
+
+----
+num: 449
+category: Anatomy and Physiology
+difficulty: Normal
+seen: 0
+answer: Skeletal Muscle Tissue
+
+__________ __________ __________ is a type of voluntary muscle tissue that is striated and moves the skeleton.
+
+
+----
+num: 450
+category: Anatomy and Physiology
+difficulty: Normal
+seen: 10
+answer: Smooth Muscle Tissue
+
+__________ __________ __________ is a type of involuntary muscle tissue that forms your blood vessels and makes up the organs of your digestive and urinary system.
+
+
+----
+num: 451
+category: Anatomy and Physiology
+difficulty: Normal
+seen: 0
+answer: Cardiac Muscle Tissue
+
+__________ __________ __________ is a type of involuntary muscle tissue that your heart is made of.
+
+
+----
+num: 452
+category: Anatomy and Physiology
+difficulty: Normal
+seen: 0
+answer: Voluntary Muscles
+
+Muscles that you have direct control over.
+
+
+----
+num: 453
+category: Anatomy and Physiology
+difficulty: Normal
+seen: 0
+answer: Involuntary Muscles
+
+Muscles that you do not have direct control over.
+
+
+----
+num: 454
+category: Anatomy and Physiology
+difficulty: Normal
+seen: 0
+answer: Skeletal Muscle Cells
+
+Skeletal muscles are made of what kind of cells?
+
+
+----
+num: 455
+category: Anatomy and Physiology
+difficulty: Normal
+seen: 9
+answer: Smooth Muscle Cells
+
+Smooth muscles are made of what kind of cells?
+
+
+----
+num: 456
+category: Anatomy and Physiology
+difficulty: Normal
+seen: 14
+answer: Cardiac Muscle Cells
+
+Cardiac muscles are made of what kind of cells?
+
+
+----
+num: 457
+category: Anatomy and Physiology
+difficulty: Normal
+seen: 8
+answer: pull
+
+Muscles always __________ on your bones when you move.
+
+
+----
+num: 458
+category: Anatomy and Physiology
+difficulty: Normal
+seen: 9
+answer: push
+
+Muscles never __________ on your bones when you move.
+
+
+----
+num: 459
+category: Anatomy and Physiology
+difficulty: Normal
+seen: 0
+answer: Skeletal Muscles
+
+These muscles contract quickly and tire easily.
+
+
+----
+num: 460
+category: Anatomy and Physiology
+difficulty: Normal
+seen: 0
+answer: Smooth Muscles
+
+These muscles contract and relax slowly.
+
+
+----
+num: 461
+category: Anatomy and Physiology
+difficulty: Normal
+seen: 0
+answer: pairs
+
+You move because __________ of muscles work together.
+
+
+----
+num: 462
+category: Anatomy and Physiology
+difficulty: Normal
+seen: 16
+answer: contracts
+
+When one muscle of a pair __________, the other relaxes.
+
+
+----
+num: 463
+category: Anatomy and Physiology
+difficulty: Normal
+seen: 0
+answer: relaxes
+
+When one muscle of a pair contracts, the other __________.
+
+
+----
+num: 464
+category: Anatomy and Physiology
+difficulty: Normal
+seen: 0
+answer: striated
+
+Cardiac muscle is __________ like skeletal muscle.
+
+
+----
+num: 465
+category: Anatomy and Physiology
+difficulty: Normal
+seen: 11
+answer: Skeletal Muscles
+
+These muscles look striped, or striated.
+
+
+----
+num: 466
+category: Anatomy and Physiology
+difficulty: Normal
+seen: 0
+answer: Skeletal Muscles
+
+You have more of these muscles than any other types of muscles.
+
+
+----
+num: 467
+category: Anatomy and Physiology
+difficulty: Normal
+seen: 18
+answer: Tendons
+
+These thick bands of tissue attach muscle to bone.
+
+
+----
+num: 468
+category: Anatomy and Physiology
+difficulty: Normal
+seen: 5
+answer: Ligaments
+
+These thick bands of tissue attach bone to bone.
+
+
+----
+num: 469
+category: Anatomy and Physiology
+difficulty: Normal
+fixed: 57
+seen: 15
+answer: {muscle}
+
+A __________ is an organ that can relax and contract, and provides the force needed to move your body parts.

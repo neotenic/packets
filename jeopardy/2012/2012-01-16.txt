@@ -1,0 +1,376 @@
+####
+tournament: #6291
+round: Show #6291 - Monday, January 16, 2012
+year: 2012
+date: 2012-01-16
+####
+
+num: 1
+category: Science
+difficulty: 200
+seen: 8
+answer: trapezius
+
+A knot I've found, oh, heck! / in this muscle of the upper part of my neck / but not in my ol' a-sneezius! / no! 'tis in my...
+
+----
+num: 2
+category: Literature
+difficulty: 200
+seen: 4
+answer: slow pitch
+
+The ball must arc at least 3 feet in this type of softball.
+
+----
+num: 3
+category: Trash
+difficulty: 200
+seen: 6
+answer: the 49ers
+
+1988: John Taylor, Jerry Rice; Taylor caught Super Bowl XXIII's game-winning pass, but Rice got MVP.
+
+----
+num: 4
+category: Literature
+difficulty: 200
+seen: 4
+answer: a punchline
+
+No joke, it comes at the end of a joke.
+
+----
+num: 5
+category: History
+difficulty: 200
+seen: 5
+answer: the Roman Empire
+
+The territory of Judea became part of this empire in 63 B.C.
+
+----
+num: 6
+category: Science
+difficulty: 400
+seen: 6
+answer: triceps
+
+Arising from 3 heads / this extensor muscle's dead / my upper arm does no more reps / until some help for my...
+
+----
+num: 7
+category: Literature
+difficulty: 400
+seen: 4
+answer: a slow cooker
+
+Hamilton beach sells a programmable one of these to keep pot roast at the right temperature.
+
+----
+num: 8
+category: Trash
+difficulty: 400
+seen: 5
+answer: the New England Patriots
+
+2009: Wes Welker, Randy Moss; they had a pretty good quarterback.
+
+----
+num: 9
+category: Literature
+difficulty: 400
+seen: 4
+answer: sucker punch
+
+An unexpected blow, or a 2011 movie about a girl named baby doll with a wild imagination.
+
+----
+num: 10
+category: Science
+difficulty: 600
+seen: 6
+answer: minimus
+
+The innermost of the 3 in each rear / is a pain when I try to sit in a bus / it is amiss, now please do this / fix my gluteus...
+
+----
+num: 11
+category: Literature
+difficulty: 600
+seen: 4
+answer: bang the drum slowly
+
+In "The Streets of Laredo", this line that became a book & movie title precedes "& play the fife lowly".
+
+----
+num: 12
+category: Trash
+difficulty: 600
+seen: 5
+answer: the Indianapolis Colts
+
+2008: Marvin Harrison, Reggie Wayne; they had a pretty good quarterback.
+
+----
+num: 13
+category: Literature
+difficulty: 600
+seen: 4
+answer: the Restoration
+
+Fighting puppets Punch & Judy have been around since this period that began in 1660 with the return of Charles II.
+
+----
+num: 14
+category: Science
+difficulty: 800
+seen: 5
+answer: sartorius
+
+The longest in the body / this muscle feels ungodly / rest my thigh at the bar? glorious! / now work on my...
+
+----
+num: 15
+category: Literature
+difficulty: 800
+seen: 3
+answer: Slowhand
+
+"Layla" guitarist's lazy moniker.
+
+----
+num: 16
+category: Trash
+difficulty: 800
+seen: 5
+answer: the (Oakland) Raiders
+
+1976: Fred Biletnikoff, Cliff Branch (Fred's in the Hall of Fame; Cliff may get there, too).
+
+----
+num: 17
+category: Literature
+difficulty: 800
+seen: 3
+answer: a rabbit punch
+
+A blow to the back of the neck is the punch named for this animal.
+
+----
+num: 18
+category: History
+difficulty: 800
+seen: 4
+answer: Herod
+
+This ruler of Judea attempted to kill the infant Jesus.
+
+----
+num: 19
+category: Science
+difficulty: 1000
+seen: 6
+answer: oblique
+
+Internal or external / the pain there's infernal / feel my abdomen go weak / it means indirect, it's my...
+
+----
+num: 20
+category: Literature
+difficulty: 1000
+seen: 3
+answer: slow motion
+
+What camera crews call "over-cranking" produces this effect.
+
+----
+num: 21
+category: Trash
+difficulty: 1000
+fixed: -1
+seen: 5
+answer: the Steelers
+
+1978: John Stallworth, Lynn Swann; who do you double cover with that combo?.
+
+----
+num: 22
+category: Literature
+difficulty: 1000
+seen: 4
+answer: sangria
+
+The name of this red wine punch is from the Spanish for "Bleeding".
+
+----
+num: 23
+category: History
+difficulty: 1000
+seen: 4
+answer: Palestine
+
+Galilee, Samaria & Judea in the south were the 3 traditional divisions of this ancient area with a still-current name.
+
+----
+num: 24
+category: Art
+difficulty: 400
+seen: 4
+answer: New Zealand
+
+This country's coat of arms features a Maori chieftain & a European woman supporting the shield.
+
+----
+num: 25
+category: Literature
+difficulty: 400
+seen: 4
+answer: Eli Whitney
+
+His cotton gin gets all the press, but he had a nail-making business even before he went to Yale.
+
+----
+num: 26
+category: History
+difficulty: 400
+seen: 4
+answer: Seattle
+
+Bertha Landes, the first woman mayor of a large U.S. city, presided over this largest Washington city in the 1920s.
+
+----
+num: 27
+category: Literature
+difficulty: 400
+seen: 4
+answer: against the grain
+
+This expression meaning opposite one's basic temperament refers to the direction of fibers in wood.
+
+----
+num: 28
+category: Art
+difficulty: 800
+seen: 4
+answer: a pine tree
+
+The coat of arms of Norfolk Island in the South Pacific features the Norfolk species of this conifer.
+
+----
+num: 29
+category: Literature
+difficulty: 800
+fixed: -1
+seen: 4
+answer: Bell
+
+On Feb. 14, 1876 Elisha Gray was a few hours behind this man at the U.S. Patent Office, filing a speech-transmitting device.
+
+----
+num: 30
+category: Literature
+difficulty: 800
+seen: 3
+answer: the Sinai
+
+It was just deserts for Burton Bernstein with his study of "The Great & Terrible wilderness" of this desert of Moses.
+
+----
+num: 31
+category: History
+difficulty: 800
+seen: 4
+answer: the Surgeon General
+
+Formerly director of Arkansas' department of health, in 1993 Joycelyn Elders was appointed to this higher post.
+
+----
+num: 32
+category: Literature
+difficulty: 800
+seen: 4
+answer: up the creek
+
+To be in a tight spot is to be here "without a paddle".
+
+----
+num: 33
+category: Literature
+difficulty: 1200
+seen: 4
+answer: John Deere
+
+In 1837 he built a smooth, hard moldboard out of a circular saw, & seeing nothing ran like 'em, began to make steel plows.
+
+----
+num: 34
+category: History
+difficulty: 1200
+seen: 4
+answer: Sotomayor
+
+Born in New York to parents from Puerto Rico, this Supreme Court justice calls herself a "Nuyorican".
+
+----
+num: 35
+category: Literature
+difficulty: 1200
+seen: 5
+answer: pass the hat
+
+Street performers collect money by doing this, literally & figuratively.
+
+----
+num: 36
+category: Literature
+difficulty: 1600
+seen: 5
+answer: smoke
+
+Sir Frederick Abel's invention of cordite eliminated this, produced by gunpowder, from the battlefield.
+
+----
+num: 37
+category: History
+difficulty: 1600
+seen: 5
+answer: Health, Education & Welfare
+
+Oveta Culp Hobby, the only woman in Eisenhower's cabinet, was the first head of this department, HEW for short.
+
+----
+num: 38
+category: Art
+difficulty: 2000
+seen: 5
+answer: Malaysia
+
+On Singapore's coat of arms, the lion represents Singapore itself & a tiger represents its historical link to this country.
+
+----
+num: 39
+category: Literature
+difficulty: 2000
+seen: 7
+answer: (George) Eastman
+
+In 1888 his lightweight, box-shaped invention eliminated the need for glass photographic plates.
+
+----
+num: 40
+category: History
+difficulty: 2000
+seen: 6
+answer: Hubert Humphrey
+
+His widow Muriel became Minnesota's first female senator when she filled his vacant seat in 1978.
+
+----
+num: 41
+category: Literature
+difficulty: 2000
+seen: 5
+answer: on the bridge
+
+One item in a violinist's bag of tricks is the thin, glassy tone made by playing "sul ponticello", Italian for this.

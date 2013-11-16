@@ -1,0 +1,365 @@
+####
+tournament: #6467
+round: Show #6467 - Tuesday, October 30, 2012
+year: 2012
+date: 2012-10-30
+####
+
+num: 1
+category: Literature
+difficulty: 200
+seen: 4
+answer: mushrooms
+
+For a tasty appetizer, try crab-stuffed portobello ones of these.
+
+----
+num: 2
+category: Literature
+difficulty: 200
+seen: 4
+answer: Romeo and Juliet
+
+Shakespeare wrote about these 2, "Never was a story of more woe".
+
+----
+num: 3
+category: Literature
+difficulty: 200
+seen: 4
+answer: a vest
+
+Part of a man's 3-piece suit.
+
+----
+num: 4
+category: Science
+difficulty: 200
+seen: 8
+answer: a glider
+
+No motor needed when soaring in a sailplane, one type of this.
+
+----
+num: 5
+category: Science
+difficulty: 200
+seen: 9
+answer: precipitation
+
+As well as rain or snow, it can mean the process of separating a solid from a solution.
+
+----
+num: 6
+category: Literature
+difficulty: 400
+seen: 4
+answer: a calzone
+
+Hot out of the oven is one of.
+
+----
+num: 7
+category: Literature
+difficulty: 400
+seen: 4
+answer: Rhett Butler
+
+He's the "him" in Scarlett O'Hara's line at the end of "Gone with the Wind", "I'll think of some way to get him back".
+
+----
+num: 8
+category: Literature
+difficulty: 400
+seen: 3
+answer: a viper
+
+Poisonous "pit" snake.
+
+----
+num: 9
+category: Science
+difficulty: 400
+seen: 6
+answer: a triplane
+
+Numerical name for the early 20th century craft seen.
+
+----
+num: 10
+category: Science
+difficulty: 400
+seen: 5
+answer: a fish
+
+A mouthbreeder is one of these, especially a cichlid, that carries eggs or young in its mouth.
+
+----
+num: 11
+category: Literature
+difficulty: 600
+seen: 4
+answer: cabbage leaves
+
+The Russian dish golubtsy is traditionally made with these leaves, stuffed & rolled.
+
+----
+num: 12
+category: Literature
+difficulty: 600
+seen: 4
+answer: Emma
+
+This Jane Austen protagonist eventually falls in love with George Knightley, brother of her sister's husband.
+
+----
+num: 13
+category: Science
+difficulty: 600
+seen: 6
+answer: a volcanic eruption
+
+A pelean one of these events is a violent one.
+
+----
+num: 14
+category: Literature
+difficulty: 800
+seen: 4
+answer: a chile relleno
+
+This Mexican dish whose name means "stuffed pepper" is typically a green chile stuffed with cheese, covered in batter & fried.
+
+----
+num: 15
+category: Science
+difficulty: 800
+seen: 5
+answer: a fighter-bomber
+
+Used in Vietnam, the F-105 was this kind of craft, combining the 2 basic types of combat aircraft.
+
+----
+num: 16
+category: Science
+difficulty: 800
+seen: 6
+answer: a carrier
+
+A big name in air conditioning, or one immune to a disease but able to transmit it.
+
+----
+num: 17
+category: Literature
+difficulty: 1000
+seen: 4
+answer: olives
+
+Miss Leone's "Fire in the Pit" are queen ones of these stuffed with hot peppers.
+
+----
+num: 18
+category: Literature
+difficulty: 1000
+seen: 4
+answer: vittles
+
+"Tender" eats for felines.
+
+----
+num: 19
+category: Science
+difficulty: 1000
+seen: 8
+answer: a DC-3
+
+This Douglas plane with an alphanumeric all-rhyming name dominated airline travel in the '30s.
+
+----
+num: 20
+category: Science
+difficulty: 1000
+seen: 7
+answer: an alkaloid
+
+"Oid" vey! My grandson is into all kinds of these nitrogenous compounds, like nicotine & ephedrine.
+
+----
+num: 21
+category: History
+difficulty: 400
+seen: 4
+answer: Elizabeth I
+
+Her reign from 1558 until her death in 1603 is often called the golden age of English history.
+
+----
+num: 22
+category: Geography
+difficulty: 400
+seen: 7
+answer: the Potomac River
+
+Widely considered the most beautiful.
+
+----
+num: 23
+category: Literature
+difficulty: 400
+seen: 4
+answer: a mouthpiece
+
+This term for a piece of sporting equipment protecting your teeth also refers to a criminal lawyer.
+
+----
+num: 24
+category: History
+difficulty: 800
+seen: 4
+answer: the Magna Carta
+
+The first section of this 1215 document states that "the English church shall be free".
+
+----
+num: 25
+category: Art
+difficulty: 800
+seen: 4
+answer: an Akita
+
+A plush tail that curves over its back is a trademark of.
+
+----
+num: 26
+category: Art
+difficulty: 800
+seen: 4
+answer: Agnes De Mille
+
+Cecil B. De Mille's dancin' niece, she choreographed her last ballet, "The Other", in 1992 at age 86.
+
+----
+num: 27
+category: Geography
+difficulty: 800
+seen: 7
+answer: the Snake River
+
+This winding tributary of the Columbia River rises in a corner of Yellowstone National Park in Wyoming.
+
+----
+num: 28
+category: Literature
+difficulty: 800
+seen: 4
+answer: bender
+
+A "Futurama" robot, or slang for a drinking spree.
+
+----
+num: 29
+category: History
+difficulty: 1200
+seen: 4
+answer: the Wars of the Roses
+
+Some call the 1487 Battle of Stoke won by Henry VII the last battle in this war between 2 royal houses.
+
+----
+num: 30
+category: Art
+difficulty: 1200
+seen: 4
+answer: terriers
+
+Breeds of this dog group include the Airedale & Bedlington.
+
+----
+num: 31
+category: Art
+difficulty: 1200
+seen: 4
+answer: Anna Pavlova
+
+Among the few filmed sequences of this Russian ballerina are clips of her "dying swan" from 1907.
+
+----
+num: 32
+category: Geography
+difficulty: 1200
+seen: 7
+answer: Mobile Bay
+
+On August 5, 1864 it was "damn the torpedoes, full speed ahead" into this bay with Admiral Farragut's flagship in the lead.
+
+----
+num: 33
+category: Literature
+difficulty: 1200
+seen: 4
+answer: a ball and chain
+
+This 3-word term for a restrictive device is used facetiously (we hope) when referring to one's wife.
+
+----
+num: 34
+category: Art
+difficulty: 1600
+seen: 5
+answer: a Maltese
+
+Originally from the Mediterranean, its' the aristocratic lapdog seen.
+
+----
+num: 35
+category: Literature
+difficulty: 1600
+seen: 4
+answer: the gravy train
+
+All aboard this transport toting a topping for turkey--it means an easy, lucrative job.
+
+----
+num: 36
+category: History
+difficulty: 2000
+seen: 5
+answer: Bedlam
+
+A London hospital founded for the order of the Star of Bethlehem became known as this, also meaning a madhouse.
+
+----
+num: 37
+category: Literature
+difficulty: 2000
+seen: 6
+answer: Isla Fisher
+
+Sacha Baron Cohen.
+
+----
+num: 38
+category: Art
+difficulty: 2000
+seen: 6
+answer: the Saluki
+
+Believed to be the oldest purebred dog, this greyhoundlike canine was sacred to the Egyptians.
+
+----
+num: 39
+category: Geography
+difficulty: 2000
+seen: 13
+answer: Lake Mead
+
+The old Mormon town of St. Thomas, Nev. lies beneath this lake, & when the water is low, remnants can still be seen.
+
+----
+num: 40
+category: Literature
+difficulty: 2000
+seen: 5
+answer: a poison pill
+
+"Deadly" 2-word alliterative term for a strategy used to prevent a corporate takeover.

@@ -1,0 +1,164 @@
+####
+tournament: NTV
+round: r6tossups.pdf
+year: 2008
+####
+
+num: 1
+category: History
+difficulty: HS
+fixed: -1
+seen: 420
+answer: {Nicene Creed}
+
+(JP) This writing was specially designed to combat the heresy of Arius of Alexandria. The addition of a clause that asserted that the Holy Ghost proceeds from the Son and the Father was approved by the Coun- cil of Toledo in 589 CE, which became a primary cause of the schism between the Roman Catholic and Eastern Orthodox churches. Name this statement of doctrine formulated by the Council of Nicaea in 325 CE, which is still recited as part of every Catholic Mass.
+
+----
+num: 2
+category: Science
+difficulty: HS
+fixed: 1
+seen: 486
+answer: {Bernoulli} effect (accept clear knowledge equivalents for "effect")
+
+(JG) When this theory was originally presented it was poorly explained, so the author's father reworked the theory significantly, after which d'Alembert and Prandtl worked on it further. A 1980s storage drive by Iomega used this effect, and it is measured with the Venturi tube. Boomerangs are thrown parallel to the ground to exploit this effect, which also causes shower curtains to be pulled inwards rather than bil- lowed outwards, and helps baseballs break downwards. It is unnecessary for the applications it is most closely associated with, since Newton's Laws can also be used to explain the behavior of aerofoils and the lift effect. Name this law about ideal fluids that relates their flow rate and the pressure they exert, named for a Swiss mathematician.
+
+----
+num: 4
+category: Literature
+difficulty: HS
+fixed: -1
+seen: 437
+answer: "The {Road} Not {Taken}"
+
+(DR) When this poem was written, the poet had in mind a friend named Edward Thomas who was al- ways hard on himself. People's interpretation of the work depends on whether or not they attach a positive connotation to the word "sigh" and to the last word of the poem, which is "difference". This poem states, "I shall be telling this with a sigh somewhere ages and ages hence." The poet and Thomas often went for walks in London, though the poem just says that it is set in a "yellow wood". Name this Robert Frost poem, whose narrator went a way that was "grassy and wanted wear".
+
+----
+num: 6
+category: Literature
+difficulty: HS
+fixed: 1
+seen: 441
+answer: Aldous Leonard {Huxley}
+
+(JG) Volumes of his poetry include Arabia Infelix, The Cicadas, and Jonah, and he also wrote some es- says collected in Along the Road, On the Margin, and Vulgarity in Literature. His most notable essay col- lection explores Platonic philosophy, art, and a particular portal. It takes its title from a Blake poem. The novel for which he is best known was followed up by Island, and tells the story of users of "soma" that have been created by the Bokanovsky process. Name this hallucinogen-using English author of The Doors of Perception and Brave New World.
+
+----
+num: 7
+category: Science
+difficulty: HS
+fixed: 57
+seen: 495
+answer: {coelom} [either {KOH}-{lum} or {SEAL}-{um}] (prompt on {body cavity} before it is mentioned)
+
+(JG) In embryonic development, it forms between the archenteron and the blastopore. In humans, the development is between the splanchnic layer and the somatic layer, but this feature may date back to phy- lum Cnidaria. This animal feature may have evolved and disappeared repeatedly over the years, and its shape is dependent on whether the organism is a protostome or a deuterostome. Nematodes have only a partial muscle layer, which forms an incomplete version of this, in contrast to some other animals' full or true version in which internal organs are suspended. Identify this mesodermal body cavity featured in higher animal phyla.
+
+----
+num: 8
+category: Fine Arts
+difficulty: HS
+fixed: 57
+seen: 495
+answer: {Gayané} [{guy} AN {eh}] ballet
+
+(JG) The most famous piece from this work is written presto and consists mainly of rapid alternations of eighth notes; that number appears in the second suite after "Choosing a Bride" and a lullaby. The title character, whose lover is Kasakov, is the daughter of the head of a collective farm, and she catches a spy to help her friend. Soon the peasant farmers are celebrating the triumph of life in the Soviet Union. Stalin loved this ballet, which he saw shortly after its premiere during World War II. Its four acts also include "The Hunt" and "Matsak and Armen". Name this Armenian ballet by Aram Khachaturian [ka cha TOOR ee ann] that features the Sabre Dance.
+
+----
+num: 10
+category: Trash
+difficulty: HS
+fixed: 57
+seen: 856
+answer: kaleidoscope
+
+(JG) Patented in 1817, a year after its invention by David Brewster in connection with his research on the polarization of light, this device's name comes from the Greek for "beautiful form watcher". One usu- ally contains two or three mirrors which create rotationally symmetric images of colored objects within, and liquid can be added for even more variable effects. Identify these tubular objects, of which the viewer looks through one end and can see a pretty image, popular as children's toys.
+
+----
+num: 11
+category: Fine Arts
+difficulty: HS
+fixed: -1
+seen: 494
+answer: {pop} art
+
+(JG) Some notable examples included Tom Wesselman's Great American Nudes and the version by Larry Rivers of Washington Crossing the Delaware. It grew in part as a response to abstract expression- ism and sometimes consisted of comic strips with the dots emphasized. Also contributing to its rise was the Dada movement, and some of its practitioners included George Segal, Claes Oldenburg, and Roy Lichtenstein. The man most associated with this movement coined the phrase "fifteen minutes of fame" and was shot by Valerie Solanas. Name this twentieth century artistic movement that produced Whaam! and Andy Warhol's Campbell's Tomato Soup.
+
+----
+num: 12
+category: History
+difficulty: HS
+fixed: -1
+seen: 415
+answer: The {World's Columbian Exposition} or the {Chicago World's Fair} or the {World's Fair} of
+
+(TB) Frederick Law Olmsted, the architect of New York's Central Park, was a key figure in ensuring this event's location. One of its goals was to celebrate the beauties and wonders of a modern city as the United States was entering a period of urbanization. It also coincided with an economic depression and served to lift people's spirits and the marvels of technology it displayed. Frederick Jackson Turner also used this stage to present his thesis about the closing of the American frontier. The book Devil in the White City takes its name and setting from this event. Name this global event that introduced the world to Aunt Jemima's Pancake Mix, Shredded Wheat, Quaker Oats, the Ferris Wheel, and electricity.
+
+----
+num: 13
+category: Social Science
+difficulty: HS
+fixed: -1
+seen: 375
+answer: {game theory} (accept {prisoner's dilemma} before *)
+
+(HT) A contest involving this was won by Anatol Rapoport, who used a program a mere four lines of code long. A critical scene in a famous James Dean movie (*) involves an application of this field. Those involved in this field might concern themselves with a bar in New Mexico, the El Farol, or with a whole bunch of pirates. Though this branch of applied mathematics finds use across a wide spectrum, it is par- ticularly useful to economists modeling the behaviors of oligopolies. Identify this branch of math, of which John Nash was a pioneer, whose most well known problem is the prisoner's dilemma.
+
+----
+num: 14
+category: Literature
+difficulty: HS
+fixed: 1
+seen: 440
+answer: Aristophanes
+
+(DR) Near the end of Plutarch's tenth volume of Moral Essays, this writer is compared unfavorably with Menander. In one of his plays, the title character is imprisoned on Mount Olympus in a deep pit cov- ered with heavy stones. Another work involves a series of conflicts between Procleon and his son Anti- cleon, while another is about a man who has a huge wall built around his city and becomes dictatorial. In a work that is perhaps his best-known, the title character finds a creative way to end the Peloponnesian War. Name this playwright who wrote Peace, The Wasps, The Birds, and Lysistrata.
+
+----
+num: 15
+category: History
+difficulty: HS
+fixed: 1
+seen: 413
+answer: {Byzantine} Empire or {Eastern} Roman Empire (accept {Constantinople} before *)
+
+(AS) Its enemies ranged from the Bulgarian king Samuil and the Persian Sassanids to the Umayyad caliphs and Attila the Hun. Byron called its culture "the Triple Fusion": the body of a Roman, the mind of Greek, and the soul of a mystic. In the early years, its leaders included (*) Zeno, a barbarian ruler who held his territory together even as the Ostrogoth Odoacer sacked the capital of his compatriots to the west. Later rulers Heraclius, Basil II and Justinian expanded the territory of the empire, only to see their gains melt away when their successors took the throne. Identify this empire with capital in modern day Istanbul.
+
+----
+num: 16
+category: Mythology
+difficulty: HS
+fixed: 57
+seen: 781
+answer: {Dionysus} or {Bacchus}
+
+(DT) His followers referred to him as Taurokeros [taw roh KEHR ohs] or Tauroprosopos [taw roh PROH soh pohs], as they believed he took the form of the beast sacrificed during the omophagia [oh moh FAY jee ah]. According to the Orphic tradition, this god was torn to pieces by the Titans, but his heart was saved, and given to his mother to consume. Tyrrhenian [turr EE nee un] pirates who kidnapped him were turned into dolphins, and in retaliation for trying to prevent the worship of this deity, Pentheus [pen THEE us] was ripped apart by his own mother, who was part of the Maenads. The son of Zeus and Se- mele [SEH muh lee], identify this god of wine.
+
+----
+num: 17
+category: Science
+difficulty: HS
+fixed: 1
+seen: 485
+answer: {Gibbs} free energy (prompt on partial answer)
+
+(SS) This quantity can be determined by the negative product of the actual potential difference at a certain voltage, and the total charge on all the electrons in the system for a galvanic cell. If the actual po- tential is positive, the process will be spontaneous. At equilibrium, it can equal the product of the ideal gas constant, absolute temperature, and the natural log of the K sub e q. The quantity can also be calcu- lated by the difference between the enthalpy change of the reaction and the product of the absolute tem- perature and entropy of reaction. In this case, the reaction will always be spontaneous if the reaction is exothermic and has increasing disorder. Name this type of energy named after an American chemist that represents the amount of "usable" work that could be done by a system.
+
+----
+num: 18
+category: History
+difficulty: HS
+fixed: 1
+seen: 419
+answer: Robert Michael {Gates}
+
+(JP) He joined the CIA in 1966 and is the only career officer to ever rise to the level of director of that agency, a position he held from 1991 until 1993. A former president of Texas A&M University, he took the oath of his current office in late 2006. The CIA experience formed the perspective for his memoir, From the Shadows: The Ultimate Insiders Story of Five Presidents and How They Won the Cold War, published in 1996. Identify this cabinet secretary who replaced Donald Rumsfeld and has accepted Barack Obama's request to continue as Secretary of Defense in his administration.
+
+----
+num: 19
+category: History
+difficulty: HS
+fixed: 57
+seen: 413
+answer: {Ethiopia}
+
+(DR) According to legend, this modern country was ruled by Wainaba until that evil serpent was tricked into eating a poison goat. It includes Lake Tana and Lake Chamo, and its eastern region is the Ogaden Desert. This country also includes the Shewa region, which used to be an autonomous kingdom. In 1887, Shewa won the Battle of Chelenqo, expanding its territory to include the home of French poet Arthur Rimbaud. In 1896, it won the Battle of Adwa over Italy, though Italy would take its revenge forty years later. Before and after Italian control, it was headed by an emperor who claimed to be a descendant of King Solomon and the Queen of Sheba. This nation also is the homeland of Aida. Name this country formerly known as Abyssinia whose capital is Addis Ababa.

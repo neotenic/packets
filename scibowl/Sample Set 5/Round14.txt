@@ -1,0 +1,628 @@
+####
+tournament: Sample Set 5
+round: Round14.pdf
+####
+
+num: 1
+category: Chemistry
+difficulty: HS
+seen: 35
+answer: Calcium (Accept: Lithium , Strontium, Rubidium)
+
+To identify the chemical compounds dissolved in a sample, a student dips a clean piece of nichrome wire into the sample and burns it in a flame. The flame burns red. What metal does the mixture probably contain?
+
+----
+num: 1
+category: Chemistry
+difficulty: HS
+seen: 32
+answer: Electron Capture, Argon-37
+
+
+What are the decay mode and the daughter nuclide, respectively, of potassium-37?
+
+----
+num: 1
+category: General Science
+difficulty: MS
+seen: 5
+answer: Chondrichthyes 
+
+
+In what class of fish do sharks belong?
+
+----
+num: 2
+category: Math
+difficulty: HS
+seen: 25
+answer: 27
+
+What is the maximum number of spheres with a radius of 1 that can fit inside a cube with edge lengths of 6?
+
+----
+num: 2
+category: Math
+difficulty: MS
+seen: 6
+answer: (0, -3)
+
+A tic-tac-toe game is played by placing Xs or Os at consecutive lattice points of a coordinate system. If your opponent had marks at (-1, -2) and (1, -4), what are the coordinates of the point where you would place your mark in order to block your opponent?
+
+----
+num: 2
+category: Math
+difficulty: MS
+seen: 6
+answer: X > 2/3
+
+Solve the inequality 3 ^3^x^–^^2 > 1 (read as: 3 to the power of the quantity 3 x minus 2 is greater than 1).
+
+----
+num: 3
+category: Physics
+difficulty: HS
+seen: 26
+answer: Pair Production
+
+What is the phrase that describes the process of producing an electron and a positron when a high -energy photon travels through matter, directly converting radiant energy into matter?
+
+----
+num: 3
+category: Physics
+difficulty: HS
+seen: 25
+answer: 420
+
+
+A living room has floor dimensions of 3.5 meters by 4.2 meters and a height of 2.4 meters. Given air density of 1.2 kilograms per cubic meter, g of 10 meters per second squared, and providing your answer to the nearest ten, what does the air in the room weigh in newto ns?
+
+----
+num: 3
+category: Physical Science
+difficulty: MS
+seen: 5
+answer: Electron Affinity
+
+What is the name of the change in energy of an atom in the gaseous state when an electron is added to the neutral atom to form a negative ion?
+
+----
+num: 3
+category: Physical Science
+difficulty: MS
+seen: 5
+answer: 1, 2, and 3 (Accept: All)
+ ________
+
+By number, identify all of the following three statements that are TRUE about Lewis acids and bases: 1) Lewis acids accept an electron pair; 2) Lewis bases donate an electron pair; 3) Lewis acids and bases do not require the presence of water.
+
+----
+num: 4
+category: Biology
+difficulty: HS
+seen: 39
+answer: 1, 4 )  Epidermis, Cortex, Endodermis, Pericycle, Phloem (Accept: 2, 5, 3,
+
+By name or number, order the following five cell layers in a eudicot(read as: yuh-DY-koht) root from most lateral to most medial: 1) pericycle, 2) epidermis, 3) endodermis, 4) phloem, 5) cortex.
+
+----
+num: 4
+category: Life Science
+difficulty: MS
+seen: 11
+answer: Baleen Whales and Toothed Whales
+
+What are the common names of the two main groups of cetaceans (read as: si-TAY-shehns)?
+
+----
+num: 5
+category: Chemistry
+difficulty: HS
+fixed: -1
+seen: 34
+answer: Secondary Amine
+
+Give the specific name for the following functional group: a nitrogen atom bonded to two carbon chains and a hydrogen atom?
+
+----
+num: 5
+category: Chemistry
+difficulty: HS
+fixed: -1
+seen: 34
+answer: 7
+
+
+At 25° Celsius, the vapor pressure of water is about 3 kilopascals and the vapor pressure of methanol is about 15 kilopascals. Assuming no deviation from Raoult’s law, determine the vapor pressure, in kilopascals, of a mixture of 1 mole of methanol and 2 moles of water.
+
+----
+num: 6
+category: Physics
+difficulty: HS
+seen: 25
+answer: Velocity (Accept: Centripetal Force) and Radius (Accept: 
+Circumference , Diameter)
+
+The period of revolution of a particle traveling in uniform circular motion is a function of what two variables?
+
+----
+num: 6
+category: Physics
+difficulty: HS
+seen: 26
+answer: Iron
+
+You are asked to determine whether a king’s crown is really made of gold. You weigh the crown; it weighs 8 newtons in air and 7 newtons in water. Its volume is 0.0001 cubic meters. Given that the density of gold is 19,00 0 kilograms per cubic meter, the density of lead is 11,000 kilograms per cubic meter, and the density of iron is 8,000 kilograms per cubic meter, the king’s crown is made of which material?
+
+----
+num: 6
+category: Physical Science
+difficulty: MS
+seen: 6
+answer: Triple
+
+For a given pair of atoms, which of the following kinds of bonds are the shortest: single, double, or triple?
+
+----
+num: 7
+category: Earth and Space
+difficulty: HS
+seen: 48
+answer: North Carolina
+
+The freshwater and saltwater zones within coastal aquifers are separated by a transition zone, also called the zone of dispersion, within which there is mixing between freshwater and saltwater. Which state of the Northern Atlantic Coastal 
+Plain Aquifer System has the shallowest depth to the top of the transition zone?
+
+----
+num: 7
+category: Earth and Space
+difficulty: HS
+fixed: -1
+seen: 46
+answer: Epilimnion (Accept: 2)
+
+
+In a stratified period of a lake, oxygen supplied directly by the atmosphere and photosynthetic organisms replenishes the dissolved oxygen of which of the following three choices: 1) epilimnion (read as: eh-pi-LIM-nee-ohn), 2) hypolimnion (read as: hy-pōe-LIM-nee-ohn), or 3) thermocline?
+
+----
+num: 7
+category: Earth and Space Science
+difficulty: MS
+seen: 6
+answer: Geothite
+
+Give the name of the most frequently occurring iron-bearing oxide mineral in soil that has a characteristic yellowish brown color and often forms under cool temperatures, moist soil conditions, and in the presence of comparatively large amounts of organic matter.
+
+----
+num: 8
+category: Physics
+difficulty: HS
+seen: 29
+answer: 20
+
+Neglecting friction, a 33-kilogram cart rolls down a slope that is 20 meters high and 60 meters long. Using 10 meters per second squared for g, what is the velocity in meters per second at the base of the slope?
+
+----
+num: 8
+category: Physics
+difficulty: HS
+seen: 25
+answer: 2 X 10 ^−^5 West
+
+A long straight wire carries a 10 ampere current north. Give the magnitude in teslas and the direction of the magnetic field induced at a point 10 centimeters directly under the wire?
+
+----
+num: 8
+category: Physical Science
+difficulty: MS
+fixed: -1
+seen: 6
+answer: It Decreases (Accept: Becomes  More Negative)
+
+As electrons are gained by an element in a redox reaction, what happens to the oxidation state of that element?
+
+----
+num: 8
+category: Physical Science
+difficulty: MS
+seen: 6
+answer: +4
+
+What is the oxidation state of tin in (NH^4)^2SnCl^6?
+
+----
+num: 9
+category: Energy
+difficulty: MS
+seen: 6
+answer: Piezoelectric
+
+
+What is the adjective for a material that generates an electric charge when mechanically deformed?
+
+----
+num: 10
+category: Math
+difficulty: HS
+fixed: -1
+seen: 26
+answer: 3(6 X + 5)e
+^−^3^x [Accept: (18x + 15)e
+^−^3^x]
+
+Find the second derivative of the function f(x) = (3 + 2x)e^−^3^x.
+
+----
+num: 10
+category: Math
+difficulty: MS
+seen: 6
+answer: $22.94
+
+If local sales tax is 9%, and tax is rounded to the nearest cent, what is the most a purchase can cost, before tax, to not exceed a total of $25 including tax?
+
+----
+num: 11
+category: Earth and Space Science
+difficulty: MS
+seen: 6
+answer: Positive
+
+As sea ice melts, the Earth reflects less sunlight back into space, resulting in further warming and more loss of ice. What kind of feedback relationship is this?
+
+----
+num: 12
+category: Physics
+difficulty: HS
+seen: 25
+answer: 1
+
+Pam buys a pendulum clock at a discount store and discovers when she gets home that it loses 6 minutes each day. If the pendulum has a period of 2 seconds, by how much must the length be changed, to the nearest centimeter, so that the clock keeps accurate time?
+
+----
+num: 13
+category: Earth and Space
+difficulty: HS
+fixed: -1
+seen: 45
+answer: 1, 2, 3 and 4
+
+
+Eclipsing binaries are binary star systems whose members eclipse each other, blocking one another’s light and thereby causing the system to look fainter to observers on Earth. Assuming that the eclipsing binary stars are spherical with circular orbits, by number, identify all of the following 5 choices which could influence the light curve of an eclipsing binary: 1) orbital inclination, 2) luminosities of the stars, 3) orbital period, 4) radii of the stars, 5) spectral type of the stars.
+
+----
+num: 13
+category: Earth and Space Science
+difficulty: MS
+seen: 6
+answer: West
+
+
+On a topographic map, a river runs from east to west. If a north-south-trending contour line crosses the river and forms a V that points to the right, in which direction is the river likely flowing?
+
+----
+num: 14
+category: Energy
+difficulty: HS
+seen: 35
+answer: Bioreactor
+
+What is the term for a kind of landfill technology, currently in research and development, that accelerates the biological decomposition of organic wastes in a landfill by promoting the conditions necessary for the microorganisms that degrade the waste?
+
+----
+num: 14
+category: Energy
+difficulty: HS
+seen: 36
+answer: Zir Conium Cladding (Accept: Zirconium)
+
+When water levels drop in a spent nuclear fuel pool, temperatures in the fuel assembly rise, accelerating the oxidation of the material that encases uranium oxide pellets. If the oxidation reactions become self -sustaining, a fire can form that proceeds as a burn front along the axis of the fuel rod toward the source of the oxidant. What is the name of the encasing material that is burning?
+
+----
+num: 14
+category: Energy
+difficulty: MS
+seen: 6
+answer: Potassium Iodide
+
+If you live near a nuclear power plant, you may be issued tablets of what compound, which, in the event of a release of radioactive iodine, can prevent it from being collected in your thyroid?
+
+----
+num: 14
+category: Energy
+difficulty: MS
+seen: 6
+answer: 4, 2, 1, 3
+
+By number, rank the following four sources of radiation from least to greatest annual relative millirem doses: 1) diagnostic radiology, 2) natural radioactivity in the body, 3) radon in the average home, 4) living near a normally operating nuclear power station.
+
+----
+num: 15
+category: Biology
+difficulty: HS
+seen: 37
+answer: Brood Parasite
+
+Cowbirds, common cuckoos, and African honeyguides lay their eggs in the nests of other birds. As a result, what term is typically used to describe these birds?
+
+----
+num: 15
+category: Biology
+difficulty: HS
+seen: 40
+answer: Alanine  and Aspartate (Accept: 2 and 5)
+
+
+By name or number, identify all of the following five choices that are NOT essential amino acids for humans: 1) phenylalanine, 2) alanine, 3) tryptophan, 4) histidine, 5) aspartate?
+
+----
+num: 15
+category: Life Science
+difficulty: MS
+seen: 10
+answer: California Condor
+
+What is the common name of the land bird with the largest wingspan of any North American bird?
+
+----
+num: 15
+category: Life Science
+difficulty: MS
+seen: 11
+answer: Pupa 
+
+
+What is the stage of the insect life cycle, lacking in hemimetabolous (read as: heh-mi-meh-TAH-boh-luhs) insects, during which many tissues degenerate and are reorganized?
+
+----
+num: 16
+category: Math
+difficulty: HS
+fixed: -1
+seen: 25
+answer: ^-
+^Y^x
+
+If x^2 + y^2 = 5^2, find ^dy^dx in terms of x and y in simplest form.
+
+----
+num: 16
+category: Math
+difficulty: HS
+seen: 25
+answer: 4
+
+A rectangle has both a changing height and a changing width, but the height and width change so that the area of the rectangle is always 200 square feet. What is the rate of change of the width of the rectangle in feet per second when the height is 5 feet, if the height is decreasing at that moment at the rate o f 0.5 feet per second?
+
+----
+num: 16
+category: Math
+difficulty: MS
+seen: 6
+answer: 5
+
+What is the degree of the polynomial 6x^2y + 3yx^4 – 2x?
+
+----
+num: 16
+category: Math
+difficulty: MS
+seen: 6
+answer: 3
+
+Consider the system of two equations: 3x   4y = 23 and 2x    5y =20. What is the value of x + y?
+
+----
+num: 17
+category: Biology
+difficulty: HS
+fixed: -1
+seen: 39
+answer: Dysplastic Nevus (Accept: Dysplastic Melanocytic Nevus)
+
+
+What is the scientific name for a type of skin growth that looks different than a common mole? It is usually larger, with borders that are not easy to see, uneven colors, and is partially raised above the skin surface.
+
+----
+num: 17
+category: Life Science
+difficulty: MS
+seen: 11
+answer: Platelets
+
+What small, regularly-shaped cell fragments circulate in the blood of mammals and lead to the formation of blood clots?
+
+----
+num: 18
+category: Energy
+difficulty: HS
+seen: 36
+answer: Company B
+
+Companies A, B, and C are forced to pay one dollar of tax per ton of carbon dioxide equivalent emissions. If Company A emits 100 tons of carbon dioxide and 4 tons of nitrous oxide, Company B emits 10 tons of carbon dioxide and 5 tons of nitrous oxide, and Company C emits 200 tons of carbon dioxide and no nitrous oxide, which company has to pay the largest tax?
+
+----
+num: 18
+category: Energy
+difficulty: MS
+seen: 6
+answer: Solar, Geothermal, Wind, Biofuels, Hydropower
+4) (Accept: 5, 1, 3, 2,
+
+By name or number, rank the following five renewable energy sources in order from least to greatest according to their contribution to U.S. energy production in 2009: 1) geothermal, 2) biofuels, 3) wind, 4) hydropower, 5) solar.
+
+----
+num: 19
+category: Physics
+difficulty: HS
+fixed: -1
+seen: 26
+answer: 2, 3, and 4
+
+By number, identify all of the following four situations in which an object is NOT in equilibrium : 1) when moving to the right with a constant velocity; 2) whenslowing to a stop; 3) when moving with a constant speed in a circle; 4) when in free fall.
+
+----
+num: 19
+category: Physics
+difficulty: HS
+seen: 25
+answer: 1.5
+
+
+A brass ball with a mass of 200 grams at 20° Cel sius is placed in boiling water until it reaches equilibrium. Given that the specific heat of brass is 0.094 kilocalories per kilogram degree Celsius, and providing your answer as a decimal to the nearest tenth, how much thermal energy in kilocalories is a bsorbed by the ball?
+
+----
+num: 20
+category: Biology
+difficulty: HS
+fixed: 1
+seen: 40
+answer: Infectious Bovine Rhinotracheitis (Accept: Ibr) (Do Not Accept: {Mad Cow Disease})
+
+What is the name of a highly contagious, infectious viral disease in cows that causes symptoms such as respiratory disease, conjunctivitis, encephalitis, and brain infections?
+
+----
+num: 20
+category: Biology
+difficulty: HS
+fixed: -1
+seen: 38
+answer: Icterids and  Polyplacophores (Accept: 4 and 5)
+
+By name or number, identify all of the following five choices that are NOT arthropods: 1) trilobites, 2) chelicerates (read as: ki-LI-keh-rah-tehs), 3) crustaceans, 
+4) icterids (read as: ik-TEHR-ids), 5) polyplacophores (read as: poh-lee-PLAH-koh-fors).
+
+----
+num: 20
+category: Life Science
+difficulty: MS
+seen: 10
+answer: Entomophagy
+
+Identify the term used to describe the process of humans purposely ingesting insects.
+
+----
+num: 21
+category: Math
+difficulty: HS
+fixed: 1
+seen: 25
+answer: {1} 
+
+What is the limit of x^x as x approaches 0 from the positive side?
+
+----
+num: 21
+category: Math
+difficulty: MS
+seen: 7
+answer: 30°
+
+If a 20 meter tree casts a 20 3 meter shadow, what is the angle of elevation, in degrees, of the Sun?
+
+----
+num: 21
+category: Math
+difficulty: MS
+seen: 6
+answer: X < -1/3 or X > 2/5
+(Note: Students Must Give Both Answers)
+
+
+Solve the inequality : 15x^2 – 2 > x.
+
+----
+num: 22
+category: Chemistry
+difficulty: HS
+fixed: -1
+seen: 33
+answer: Brass, Sterling Silver, and Pewter (Accept: 1, 3 , and 4)
+
+By name or number, identify all of the following four substances that are substitutional alloys: 1) brass, 2) steel, 3) sterling silver, 4) pewter.
+
+----
+num: 22
+category: General Science
+difficulty: MS
+seen: 5
+answer: Tantalum
+
+What rare earth element with atomic number 73 is used in GPS systems, laptop computers, cellular phones, hearing aids, and some video game systems?
+
+----
+num: 22
+category: General Science
+difficulty: MS
+seen: 5
+answer: 75%
+
+For many types of bees, fertilized eggs become females while unfertilized eggs become males, and females have two sets of chromosomes while males only have one set. For sister bees that have the same parents, what is the average percent age of DNA that they share?
+
+----
+num: 23
+category: Earth and Space
+difficulty: HS
+fixed: -1
+seen: 46
+answer: Presence of a Magnetic Field, Strength of a Magnetic Field 
+(Accept: 1 and 2)
+
+
+By name or number, identify all of the following three properties that Zeeman splitting can be used to determine: 1) presence of a magnetic field, 2) strength of a magnetic field, 3) metal abundances?
+
+----
+num: 23
+category: Earth and Space Science
+difficulty: MS
+seen: 5
+answer: Barycenter
+
+What is the name of the common point around which both the Earth and the Moon revolve?
+
+----
+num: 23
+category: Earth and Space Science
+difficulty: MS
+seen: 5
+answer: Perihelion
+
+
+Earth is nearest the Sun around January 3^rd. What is the term for this point in Earth’s orbit?
+
+----
+num: 24
+category: Chemistry
+difficulty: HS
+seen: 33
+answer: 45
+
+The molar mass of carbon dioxide is 44 grams. Providing your answer to the nearest integer, if 88 grams of solid carbon dioxide sublimates, how many liters of carbon dioxide gas will be formed at standard temperature and pres sure?
+
+----
+num: 24
+category: Life Science
+difficulty: MS
+seen: 10
+answer: Caecilians (Accept: Amphisbaenids)
+
+Which group of amphibians is characterized by their surficial resemblance to earthworms or snakes?
+
+----
+num: 25
+category: Biology
+difficulty: HS
+seen: 39
+answer: Bacterial Toxins (Accept: Toxins)
+
+Amebocytes from Limulus organisms are currently used in the medical field to test for the presence of what substance s?
+
+----
+num: 25
+category: Biology
+difficulty: HS
+seen: 40
+answer: ) Endorphins, Serotonin, Enkephalins, Dopamine (Accept: 1, 2, 4, And
+
+By name or number, identify all of the following five molecules that function as vertebrate neurotransmitters: 1) endorphins, 2) serotonin, 3) biotin, 4) enkephalins, 5) dopamine.
+5

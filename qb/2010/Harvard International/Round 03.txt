@@ -1,0 +1,194 @@
+####
+tournament: Harvard International
+round: Round 03.doc
+year: 2010
+####
+
+num: 2
+category: Fine Arts
+difficulty: College
+fixed: 1
+seen: 72
+answer: Elizabeth {Vigee}-{Lebrun} [prompt on {Lebrun}]
+
+This artist depicted a half nude angel inscribing text on a shield while a small flame burns on his head in the painting The Genius of Alexander. Similarly, Prince Heinrich Lubomirski is shown as a crouching angel holding a laurel wreath in The Genius of Fame. A nude woman reclines next to a grape vine on a red velvet couch and only covers herself with a tiger-skin in this artist's Bacchante. This painter paid homage to Rubens' Portrait of Susanna Lunden, also called Chapeau de Paille, in Self-Portrait in a Straw Hat. This rival of Labille-Guiard painted several self-portraits with her daughter Julie while working as the court painter to Marie Antoinette. For 10 points, name this French female Neoclassicist artist, who shares part of her hyphenated surname with an artist who helped decorate Versailles.
+
+----
+num: 3
+category: Literature
+difficulty: College
+fixed: None
+seen: 61
+answer: {Woyzeck}
+
+In one scene from this play a doctor discusses the process of “progressive donkeyification” to a group of medical students by showing a man who uses two muscles to wiggle his ears after forcing that man to catch a furious cat that the doctor dropped from an attic. A grandmother tells a fairy tale about an orphan who finds everything on Earth dead and goes to the Sun only to it is a withered sunflower. This play's opening scene sees the captain chiding the protagonist for “think[ing] too much” while getting a shave. Later the protagonist sees his lover dancing the Horse and Stars Tavern leading him to tell his friend Andres while they're sleeping in the barracks about his delirious dream where he heard the words, “Stab! Stab!” The title character of this play is paid to be a subject in a scientific experiment in which he can only eat peas and in the final scene he wades into a pond to look for a knife he threw into the water after stabbing his lover for her affair with the Drum Major. For 10 points, name this unfinished play about the lover of Marie that was written by Georg Buchner and was adapted into an opera by Alban Berg.
+
+----
+num: 4
+category: Science
+difficulty: College
+fixed: None
+seen: 79
+answer: {Bell's theorem}
+
+One generalization of this statement bounds a sum of the correlations between a, b, a', and b' between two and negative two. An inequality-free form of this statement concerns only perfectly correlated states and was developed by Greenberger, Horne, and Zeilinger. Doubt was cast on the former generalization, named for Clauser, Horne, Shimony, and Holt, by the experiments of Alain Aspect, while the latter generalization of this statement, which attempts to explain wavefunction collapse when non-commuting variables are measured, is intended to explicitly distinguish entanglement and the possibility of hidden variables. For 10 points, name this statement, which suggests that no local hidden variables theory can reproduce all the results of quantum mechanics.
+
+----
+num: 5
+category: Philosophy
+difficulty: College
+fixed: None
+seen: 52
+answer: {private language}
+
+As part of a counterargument against this concept, Blackburn gives the example of a man who worries that car tires will become square after January 1, 1984, suggesting that conforming to “bent rules” is more than just a dispositional fact, indeed having real behavioral implications. The epistemological problem of other minds can be phrased as the suggestion that our beliefs about other people's mental states constitutes one of these. One of its conceivers used the example of a diary about a sensation initially denoted S, and questions whether the author would be able to continue to make the same connection between the sign and sensation without a “criterion for correctness,” which would have to be external. For 10 points, name this construct developed by Wittgenstein in Philosophical Investigations, the possibility of which he doubted because its creator couldn't possibly understand it.
+
+----
+num: 6
+category: Geography
+difficulty: College
+fixed: 57
+seen: 129
+answer: {Irrawaddy} River
+
+N'mai and Mali rivers in Kachin Province. At one time this river flowed into the Sittoung and continued on to the Gulf of Martaban, and cities on its banks include Hinhada and Mogok. The first European to sail this river was a Venetian named Nicolo di Conti who was traveling to the city of Ava, and this body of water was the site of the golden barges of its kings. One city on this river was founded by King Mindon and was given a name meaning “Mound of Gems.” This river is often the site of the transport of teak logs, and much of this river's traffic is due to the fact that the nearby Salween River is barely navigable. Emptying into the Andaman sea and passing through the city of Mandalay, for 10 points, identify this river which empties into the sea at Yangon, the principal river of Burma.
+
+----
+num: 7
+category: History
+difficulty: College
+fixed: None
+seen: 69
+answer: {Bar}-{Lev Line} [accept: {Kav Bar Lev}; {Khatt Barlif}]
+
+Lexicon Road and Artillery Road ran alongside this fortification. Gaps in this fortification included the Great Bitter Lake, which was thought too wide to cross. When this fortification finally saw combat, many parts of it were knocked down using only high-pressure water hoses. “Orcal” and “Budapest” were among the names given to the eleven strongholds along this fortification, each of which housed a company of defending troops. Earlier, this fortification had been the site of the so-called “War of Attrition”. Destroyed during the early stages of the Yom Kippur War and crossing the Sinai Peninsula, for ten points name this fortification that once separated Israel from Egypt.
+
+----
+num: 8
+category: Literature
+difficulty: College
+fixed: 1
+seen: 60
+answer: Aimé {Césaire}
+
+One collection by this author refers to guilt as “stowing heavy hearts,” and contains a poem that repeats the phrase “I see” titled “Salute to the Third World.” This author wrote a poem that mentions the Empress Josephine and repeats the phrases “The inert town” and “at the end of daybreak.” One of his plays contains a character called “The Great Promoter” while the protagonist is only called “The Rebel.” This author of the collection Shackles wrote a play in which the title character orders servants to build a royal Citadel like the pyramids as the title king of Haiti, while another play chronicles the death of Patrice Lumumba. In addition to writing And the Dogs Kept Quiet, The Tragedy of King Cristophe, and A Season in Congo, this author depicted Ariel as a mulatto and Caliban as a slave in a his reworking of The Tempest. For 10 points, name this author of Notebook of a Return to the Native Land, a writer from Martinique who along wide Leon Damas and Leopold Senghor co-founded the Negritude movement.
+
+----
+num: 9
+category: Science
+difficulty: College
+fixed: 1
+seen: 79
+answer: {cryptography} [accept equivalents]
+
+Methods in this field employing elliptic curves were developed by Koblitz and Miller. A technique named for Cramer and Shoup is useful even if there existed an “oracle” resource that would almost always reverse it; that property is called “malleability.” One method employed in this field relies on a property of algorithms like Pollard's lambda for solving the discrete logarithm problem; that method often uses a “safe prime” to prevent the Pohlig-Hellman algorithm from working too quickly and is the Diffie-Hellman method. The majority of widely used methods in this field adhere to Kerckhoff's principle, which holds that systems should be secure even when their workings are public; such methods include RSA, whose security relies on the difficulty of factoring large primes. Naïve methods in this field include ROT13 and Caesar's cipher. For 10 points, name this study of the practice of hiding information.
+
+----
+num: 10
+category: Fine Arts
+difficulty: College
+fixed: None
+seen: 70
+answer: {Winter Palace}
+
+An occasional dining room in this building was named for four large black bodyguards assumed to be Ethiopians who guarded its owner; that room connected to a Concert Hall with life size plinths of the Muses. The Concert Hall, in turn, is part of the three room enfilade designed by Giacomo Quarenghi for this building, which contains Malachite and Gold drawing rooms. Domenico Trezzini designed its third incarnation, while this building's rotonda is lit by an oculus and was designed by Auguste de Montferrand, who also designed the Field Marshal's Hall. The Jordan Staircase and the Grand Church still have Rastrelli's rococo styling, much of which was destroyed by an 1837 fire, after which native architects such as Vasily Stasov were hired. For 10 points, name this building whose Great Throne Room is connected to the Hermitage, once the official residence of Russian tsars.
+
+----
+num: 11
+category: Social Science
+difficulty: College
+fixed: None
+seen: 51
+answer: {Tristes Tropiques} [or A {World} on the {Wane}]
+
+One chapter of this work describes using the author's love of Debussy to interpret the more hackneyed third etude of Chopin, Op. 10, before describing the writing of a play involving a meditation on policeman. Besides “The Apotheosis of Augustus”, this work describes a garimbo colony as well as the lifestyle of the people of Cuiaba in “Gold and Diamonds”, which joins “The Good Savage” as part of a discussion of one tribe. This work describes Kaingang pottery and the intensity of maté in its discussion of another tribe. Besides discussing Brazilians such as the Bororo and Caduveo, this work ironically begins “I hate traveling and explorers.” It ends with a section on “The Return” and was published three years after its author's UNESCO commissioned work, Race and History. For 10 points, name this anthropological memoir by Claude Levi-Strauss.
+
+----
+num: 12
+category: History
+difficulty: College
+fixed: None
+seen: 71
+answer: {Glass}-{Steagell} Act
+
+Leo Crowley became the first chairman of one agency created by this act. The Camp case saw the Supreme Court create a two-part test for interpreting this law, while in a 1984 case called SIA II, the Supreme Court held that this law extended to Commercial Paper. Part of this act was known as “Regulation Q” and allowed the federal government to control interest rates, and this also created the FDIC. The Gramm–Leach–Bliley Act repealed this act in 1999, but Paul Volcker has suggested bringing it back. For ten points, name this 1933 act that prevented banks from serving both consumers and investors.
+
+----
+num: 13
+category: Trash
+difficulty: College
+fixed: None
+seen: 189
+answer: (1969) {Seattle Pilots} [prompt on “{Brewers}” before mention]
+
+They aren't the Indians, but this team's play-by-play man, Jimmy Dudley was given the Ford Frick Award in 1997. This team's first-ever draft pick was Buzz Stephen, who pitched only 11 innings in the Majors. In the sixth round of that first draft, this team selected future Cy Young winner Mike Marshall. Mike Hegan was the namesake of this team's first bat day and was named an All-Star while serving a platoon role for this team. This team was put together by General Manager Marvin Milkes. Tommy Davis and Don Mincher batted clean-up for this team, which played their home games at Sick's Stadium and was owned by Dewey Soriano. This team was renamed and moved after being sold to Bud Selig. For ten points, name this Major League Baseball team that existed for one season before becoming the Milwaukee Brewers, and who played in the home town of Boeing.
+
+----
+num: 14
+category: Science
+difficulty: College
+fixed: None
+seen: 81
+answer: {Taxol} [or {paclitaxel}]
+
+One synthesis of this compound uses a Corey-Chaykovsky reaction followed by epoxide opening to give the oxirane D ring and begins with the Wieland-Miescher ketone; that synthesis is by Danishefsky. Essential to one route to this compound is a pinacol coupling and a Shapiro reaction, which form the eight-membered B ring; that route relies on a convergent synthesis that links an amide tail to the A and C rings and was developed by Nicolaou. This compound is often delivered in Cremophor EL and ethanol, or it is bound to albumin and sold as Albraxane. This compound's commercial semisynthesis adds the Ojima lactam to the starting material from an early route to this compound, 10-deacetylbaccatin; that route was developed by Potier and quickly improved upon by Robert Holton. First isolated from the Pacific yew tree, for 10 points, name this inhibitor of microtubule assembly used in chemotherapy.
+
+----
+num: 15
+category: Fine Arts
+difficulty: College
+fixed: 1
+seen: 73
+answer: Gabriel {Faure}
+
+This composer adapted a poem ending with the line “Forever, hail!” for his collection based on poems titled “After a Dream,” “Hymn,” and “Barcarolle.” He wrote an “allegro vivo” Gavotte for the third movement of a work ending with a section called “Pastorale: andante tranquillo” that was commissioned by the Prince of Monaco. Along with Masques et Bergamasques, the title character of an operas talks with the shepherd Eumee while standing on a hill looking for her husband's ship in the second act of his opera about the queen of Ithaca, Pénélope. He composed a mass commemorating the fishermen of the village of Villerville, while he won first prize for composition at the École Niedermeyer when he was nineteen for a work based on the text “Verbe égal au Trés-Haut.” In addition to Cantique de Jean Racine, he composed a choral work ending with the section “In Paradisum deducant angeli,” which features the most famous setting of “Pie Jesu” and does not include the traditional “Dies Irae.” For 10 points, name this French composer who mentored Maurice Ravel and wrote Requiem in D Minor.
+
+----
+num: 16
+category: Literature
+difficulty: College
+fixed: 1
+seen: 61
+answer: Doc
+
+This character recalls a walking trip he took to forget about a lover during which he was shunned by locals when he told them the real purpose of his trip, but was treated well and given free food whenever he claimed he was taking the trip to win a bet. Later this man claims to have a liver condition so a waitress will make him a beer milkshake. A boy is institutionalized after he breaks into a jewelry store to steal an onyx clock that he was going to offer as a gift to this character. He cares for the mentally handicapped boy Frankie and he gives advice to help nurse the prostitute Darling who lives in a brothel called the Bear Flag Restaurant that is run by Dora Flood. Mack and the boys go out collecting frogs for this character and they borrow money from Lee Chong to organize a birthday party for him. For 10 points, name this marine biologist who lives on the titular Monterey street in John Steinbeck's novel Cannery Row.
+
+----
+num: 17
+category: History
+difficulty: College
+fixed: None
+seen: 70
+answer: {Poland} and {Sweden} [accept: {Polska} and {Szwecja}; {Polen} and {Sverige}]
+
+The navies of these two countries fought each other at the Battle of Oliwa, while their armies fought each other at the Battle of Dirschau. Treaties signed by these two countries include those of Stumsdorf, Altranstadt, and Altmark. These countries once came into conflict because they were each ruled by a different branch of the Vasa dynasty. One of them invaded the other during the “Deluge”, and during the Time of Troubles both of these countries invaded Russia, their common neighbor. For ten points, name these European countries with capitals at Warsaw and Stockholm.
+
+----
+num: 18
+category: Religion
+difficulty: College
+fixed: 1
+seen: 55
+answer: Emperor {Jimmu} Tenno
+
+This figure's wife was conceived when a deity changed into a red arrow and struck a maiden's genitals, and one man under the commander of this figure found a sword balancing on its hilt with its blade toward the sky in a storeroom after a thunder god visited him in a dream. After defeating one foe, this figure entertained his men by singing a song about how one should give his best beef to youngest wives and the leftovers to older wives. This figure found a winged man riding atop a turtle who became his guide, and this figure reached Kumano after receiving advice from a red three-legged bird. This wielder of the sword Futsu-no-mitama gained help from the bird Yatagarasu and fought against Nagasunekiho at Kusaka, which resulted in the death of this figure's brother Itsuse, who was buried at Mt. Kama. This figure set off on his quest at the age of forty-five, and this grandson of Hikohoho set out to establish imperial rule at Yamato. A descendent of the goddess Amaterasu, for 10 points, identify this legendary first emperor of Japan. 
+
+----
+num: 19
+category: Science
+difficulty: College
+fixed: None
+seen: 80
+answer: {coenzyme Q10} [or {ubiquinone}; or {ubidecarenone}]
+
+Clofibrate and salicilic acid increase levels of this compound in rats, a result attributed to their agonistic effect on PPAR alpha. This compound is a cofactor in the uncoupling protein used in fatty acid-dependent proton transport, and it is a cosubstrate of the enzyme that effects de novo pyrimidine synthesis, DHOD. A synthetic analogue of this compound sometimes used to treat Friedrich's ataxia is idebenone, which is being tested as a treatment for Leber's hereditary optic neuropathy, which arises from mutations in the genes for the ND4, ND1 and ND6 subunits. One name for this compound comes in part from its ten isoprene repeats. A less energetic reaction this compound participates in is the oxidation of succinate to fumarate, and its reduction by NADH generates four cytosolic protons in its reduction by NADH in complex I. For 10 points, name this component of the electron transport chain, a quinone derivative which passes electrons to cytochrome c.
+
+----
+num: 20
+category: Literature
+difficulty: College
+fixed: None
+seen: 58
+answer: {Our Man} in {Havana}
+
+The end of this novel features a game of checkers where pieces are substituted with small bottles of whiskey and whenever someone takes a piece he must drink the bottle. The protagonist is invited by Dr. Baum to give a speech at the blank club where he accidentally poisons the dog belonging to a waiter. Hawthorne gives the main character a copy of Charles Lamb's essays before Dr. Hasselbacher is shot. Captain Segura wants to marry the main character's daughter who precipitates the action of this novel by begging her father for a membership to Rotary Club to ride her horse. In this novel the secretary Beatrice Severn is assigned to assist the titular vacuum salesman who gets his second job to support his teenage daughter Milly. For 10 points, name this novel in which James Wormold works as a spy in Cuba, written by Graham Greene.

@@ -1,0 +1,353 @@
+####
+tournament: HOSA Bowl
+round: 3979457
+year: 2011
+####
+
+num: 1
+category: Health Occupations
+difficulty: Normal
+seen: 0
+answer: Orthodontics
+
+alignment or straightening of the teeth
+
+
+----
+num: 2
+category: Health Occupations
+difficulty: Normal
+seen: 0
+answer: Opthalmologist
+
+diseases and disorders of the eye
+
+
+----
+num: 3
+category: Health Occupations
+difficulty: Normal
+seen: 0
+answer: Psychiatrist
+
+diseases and disorders of the mind
+
+
+----
+num: 4
+category: Health Occupations
+difficulty: Normal
+seen: 23
+answer: Oral surgery
+
+surgery on the teeth, mouth, and jaw
+
+
+----
+num: 5
+category: Health Occupations
+difficulty: Normal
+seen: 0
+answer: Neurologist
+
+disorders of the brain and nervous system
+
+
+----
+num: 6
+category: Health Occupations
+difficulty: Normal
+seen: 9
+answer: Gynecologist
+
+diseases of the female reproductive system
+
+
+----
+num: 7
+category: Health Occupations
+difficulty: Normal
+seen: 14
+answer: Cardiologist
+
+diseases of the heart and blood vessels
+
+
+----
+num: 8
+category: Health Occupations
+difficulty: Normal
+seen: 3
+answer: Geroncologist
+
+diseases of elderly individuals
+
+
+----
+num: 9
+category: Health Occupations
+difficulty: Normal
+seen: 0
+answer: Pediatrician
+
+diseases and disorders of children
+
+
+----
+num: 10
+category: Health Occupations
+difficulty: Normal
+seen: 0
+answer: Obstrecian
+
+pregnancy and childbirth
+
+
+----
+num: 11
+category: Health Occupations
+difficulty: Normal
+seen: 0
+answer: Dental hygienist
+
+works under supervision of a dentist to remove stains and deposits from the teeth and expose and develop radiographs (X-rays)
+
+
+----
+num: 12
+category: Health Occupations
+difficulty: Normal
+seen: 0
+answer: Electroencephalographic Technologist (EEG)
+
+operates machine to record electrical activity in brain
+
+
+----
+num: 13
+category: Health Occupations
+difficulty: Normal
+seen: 0
+answer: Radiologic technologist
+
+works with X-rays, radiation, nuclear medicine, ultrasound
+
+
+----
+num: 14
+category: Health Occupations
+difficulty: Normal
+seen: 1
+answer: EMT
+
+provides basic care for medical emergencies, illness, injury
+
+
+----
+num: 15
+category: Health Occupations
+difficulty: Normal
+seen: 0
+answer: Health information technician
+
+organizes and codes patient records, gathers statistical data
+
+
+----
+num: 16
+category: Health Occupations
+difficulty: Normal
+seen: 0
+answer: Heath care administrator
+
+manages the operation of a health care facility
+
+
+----
+num: 17
+category: Health Occupations
+difficulty: Normal
+seen: 0
+answer: Geriatric aides/assistants
+
+nurse assistants who works with elderly individuals
+
+
+----
+num: 18
+category: Health Occupations
+difficulty: Normal
+seen: 0
+answer: Pharmacists
+
+dispenses medications on written orders from others who are authorized to prescribe medications
+
+
+----
+num: 19
+category: Health Occupations
+difficulty: Normal
+seen: 0
+answer: Recreational therapist
+
+uses recreational and leisure activities as form of treatment
+
+
+----
+num: 20
+category: Health Occupations
+difficulty: Normal
+seen: 13
+answer: Optometrists
+
+examines eyes for vision problems and defects, not an MD
+
+
+----
+num: 21
+category: Health Occupations
+difficulty: Normal
+seen: 10
+answer: Embalmer
+
+prepares a body for interment
+
+
+----
+num: 22
+category: Health Occupations
+difficulty: Normal
+seen: 1
+answer: Epidemiologists
+
+identifies and treats diseases as they occur in a group of people
+
+
+----
+num: 23
+category: Health Occupations
+difficulty: Normal
+seen: 0
+answer: Forensic science technician
+
+investigates crimes by collecting and analyzing physical evidence
+
+
+----
+num: 24
+category: Health Occupations
+difficulty: Normal
+seen: 15
+answer: Medical interpreters/ translators
+
+assists cross-cultural communication processes by converting one language to another
+
+
+----
+num: 25
+category: Health Occupations
+difficulty: Normal
+seen: 0
+answer: Genetic counselors
+
+provides information to individuals and families on genetic diseases or inherited conditions
+
+
+----
+num: 26
+category: Health Occupations
+difficulty: Normal
+seen: 26
+answer: Process technicians
+
+operates and monitors the machinery that is used to prouce biotech products
+
+
+----
+num: 27
+category: Health Occupations
+difficulty: Normal
+seen: 0
+answer: Multicompetent or multiskilled workers
+
+workers who can perform a variety of health care skills
+
+
+----
+num: 28
+category: Health Occupations
+difficulty: Normal
+seen: 0
+answer: Certification
+
+a professional association or government agency ragulating a particular health career issues a statement that a person has fulfilled the requirements of education and performance and meets the standards and qualifications established
+
+
+----
+num: 29
+category: Health Occupations
+difficulty: Normal
+seen: 0
+answer: Licensure
+
+a government agency authorizes an individual to work in a given occupation after the individual has completed an approved education program and passed a state board test
+
+
+----
+num: 30
+category: Health Occupations
+difficulty: Normal
+seen: 20
+answer: Registration
+
+a regulatory in a health care area administers examinations and maintains a current list of qualilfied personnel
+
+
+----
+num: 31
+category: Health Occupations
+difficulty: Normal
+seen: 0
+answer: CEU
+
+continuing education units
+
+
+----
+num: 32
+category: Health Occupations
+difficulty: Normal
+seen: 4
+answer: Entrepreneur
+
+an individual who organizes, manages, and assumes the risk of a business
+
+
+----
+num: 33
+category: Health Occupations
+difficulty: Normal
+seen: 0
+answer: Urologist
+
+diseases of the kidney, bladder, or urinary system
+
+
+----
+num: 34
+category: Health Occupations
+difficulty: Normal
+seen: 0
+answer: Family physician
+
+illness or injury in all age groups
+
+
+----
+num: 35
+category: Health Occupations
+difficulty: Normal
+seen: 0
+answer: Periodontics
+
+treatment and prevntion of diseases of the gums, bone, and structures supporting the teeth

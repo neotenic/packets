@@ -1,0 +1,439 @@
+####
+tournament: #6471
+round: Show #6471 - Monday, November 5, 2012
+year: 2012
+date: 2012-11-05
+####
+
+num: 1
+category: Literature
+difficulty: 200
+seen: 3
+answer: humus
+
+Though it sounds like what you eat on a pita, it's actually the dark organic material in soils found in some forest floors.
+
+----
+num: 2
+category: Trash
+difficulty: 200
+seen: 6
+answer: Rodney Dangerfield
+
+He finally got some respect when he made his "Ed Sullivan Show" debut in 1967 & appeared more than a dozen times.
+
+----
+num: 3
+category: History
+difficulty: 200
+seen: 4
+answer: data
+
+A body of facts, or a Starfleet lieutenant commander.
+
+----
+num: 4
+category: Art
+difficulty: 200
+fixed: -1
+seen: 4
+answer: a tusk (ivory)
+
+As you might guess, an oliphant was a medieval horn carved out of this.
+
+----
+num: 5
+category: Social
+difficulty: 200
+seen: 5
+answer: to beam
+
+To smile radiantly.
+
+----
+num: 6
+category: History
+difficulty: 400
+seen: 4
+answer: a dahlia
+
+With deep red blooms, the Bert Pitt is an attractive garden type of this flower.
+
+----
+num: 7
+category: Art
+difficulty: 400
+seen: 4
+answer: an organ
+
+Made by Wurlitzer beginning in the early 1900s, the "unit orchestra" was one of these instruments.
+
+----
+num: 8
+category: Literature
+difficulty: 600
+seen: 4
+answer: bats
+
+Birds & these creatures, which include flying foxes, are agents of pollination in tropical forests.
+
+----
+num: 9
+category: Trash
+difficulty: 600
+seen: 5
+answer: George Carlin
+
+Just months before his 2008 death, he recorded his 14th & last HBO stand-up special, "It's Bad for Ya".
+
+----
+num: 10
+category: History
+difficulty: 600
+seen: 4
+answer: diaspora
+
+Term for any group that has been dispersed outside its traditional homeland.
+
+----
+num: 11
+category: Art
+difficulty: 600
+seen: 4
+answer: a bass
+
+About 6 feet long, it's sometimes called a bull fiddle.
+
+----
+num: 12
+category: Social
+difficulty: 600
+seen: 5
+answer: steam
+
+It's generated when H.
+
+----
+num: 13
+category: Literature
+difficulty: 800
+seen: 4
+answer: monsoon
+
+Teak trees & bamboo are typical of the southeast Asian forests known by the name of this rainy season.
+
+----
+num: 14
+category: Trash
+difficulty: 800
+seen: 5
+answer: Eddie Murphy
+
+He toned down the funny for his role as singer James "Thunder" Early in "Dreamgirls".
+
+----
+num: 15
+category: History
+difficulty: 800
+seen: 4
+answer: Dhaka
+
+Seat of power in Bangladesh.
+
+----
+num: 16
+category: Literature
+difficulty: 800
+seen: 4
+answer: the Tropic of Cancer
+
+The Tropic of Cancer,.
+
+----
+num: 17
+category: Art
+difficulty: 800
+seen: 4
+answer: steel drums
+
+Nothing says tropical vacation like.
+
+----
+num: 18
+category: Social
+difficulty: 800
+seen: 5
+answer: blaspheme
+
+To say offensive things about God or religion.
+
+----
+num: 19
+category: Literature
+difficulty: 1000
+fixed: -1
+seen: 4
+answer: the honey badger
+
+forest dweller, also known as the ratel, does care to break into bees' nests to get the sweet stuff.
+
+----
+num: 20
+category: Trash
+difficulty: 1000
+seen: 5
+answer: Jim Carrey
+
+Alrighty then!  At age 10 this "Yes Man" sent his resume to "The Carol Burnett Show".
+
+----
+num: 21
+category: History
+difficulty: 1000
+seen: 4
+answer: Decca
+
+Record label for Lionel Hampton & Bill Haley.
+
+----
+num: 22
+category: Literature
+difficulty: 1000
+seen: 4
+answer: Hudson Bay
+
+The Mariana Trench,.
+
+----
+num: 23
+category: Art
+difficulty: 1000
+seen: 4
+answer: a glockenspiel
+
+In "The Magic Flute" the music for Papageno's magic bells is performed on this German-named instrument.
+
+----
+num: 24
+category: Social
+difficulty: 1000
+seen: 4
+answer: teem
+
+To swarm with a large number of moving, writhing things.
+
+----
+num: 25
+category: History
+difficulty: 400
+seen: 4
+answer: Van Buren
+
+Later president,.
+
+----
+num: 26
+category: History
+difficulty: 400
+seen: 3
+answer: Williamsburg
+
+A ghost tour may include hearing eerie tapping at the Wythe House in this Colonial Virginia city.
+
+----
+num: 27
+category: Geography
+difficulty: 400
+seen: 8
+answer: Tunisia
+
+For most of the 5th century, what is today.
+
+----
+num: 28
+category: Literature
+difficulty: 400
+seen: 4
+answer: accessible
+
+It means "easy to approach"; you'll also find it a lot after "wheelchair".
+
+----
+num: 29
+category: Literature
+difficulty: 400
+seen: 4
+answer: J.K. Rowling
+
+This author writes that while traveling back to London on a train, "the idea of Harry Potter simply fell into my head".
+
+----
+num: 30
+category: Literature
+difficulty: 400
+seen: 4
+answer: vampires
+
+"30 Days of Night" & "Fright Night".
+
+----
+num: 31
+category: History
+difficulty: 800
+seen: 4
+answer: Secretary of State
+
+In 1861 William Seward left the Senate to take on this post in the Cabinet.
+
+----
+num: 32
+category: History
+difficulty: 800
+seen: 4
+answer: Saul
+
+In the Bible, the ghost of Samuel told this king that he'd be defeated by the Philistines.
+
+----
+num: 33
+category: Geography
+difficulty: 800
+seen: 8
+answer: Ethiopia
+
+Most of the literature of this Horn of Africa country is written in either classical Ge'ez or modern Amharic.
+
+----
+num: 34
+category: Literature
+difficulty: 800
+seen: 4
+answer: angelic
+
+Resembling a seraph, a cherub or any Victoria's Secret model.
+
+----
+num: 35
+category: Literature
+difficulty: 800
+seen: 3
+answer: (Ian) Fleming
+
+In 1929 this James Bond creator became a Moscow correspondent for Reuters.
+
+----
+num: 36
+category: Literature
+difficulty: 800
+seen: 4
+answer: lions
+
+"The Ghost and the Darkness".
+
+----
+num: 37
+category: History
+difficulty: 1200
+seen: 4
+answer: (Jean) Laffite
+
+The ghost of this 19th c. Louisiana pirate is said to sail Galveston Bay searching for a lost love who fell overboard.
+
+----
+num: 38
+category: Literature
+difficulty: 1200
+seen: 3
+answer: Roald Dahl
+
+The biography "Pat and Roald" covers his life with wife Patricia Neal.
+
+----
+num: 39
+category: History
+difficulty: 1600
+seen: 4
+answer: (Kirsten) Gillibrand
+
+When she replaced Hillary Clinton in 2009, she was the youngest senator, at age 42.
+
+----
+num: 40
+category: Geography
+difficulty: 1600
+seen: 8
+answer: zebu
+
+Mauritania is home to large herds of these cattle, also called brahmins, which you'll find near the end of the alphabet.
+
+----
+num: 41
+category: Literature
+difficulty: 1600
+seen: 4
+answer: adroit
+
+From the French for "right" comes this "skillful" word.
+
+----
+num: 42
+category: Literature
+difficulty: 1600
+seen: 4
+answer: (Thomas) Hardy
+
+This "Far from the Madding Crowd" author's first published work under his own name was 1873's "A Pair of Blue Eyes".
+
+----
+num: 43
+category: Literature
+difficulty: 1600
+seen: 4
+answer: big rabbits
+
+"Night of the Lepus".
+
+----
+num: 44
+category: History
+difficulty: 2000
+seen: 7
+answer: Alfonse d\'Amato
+
+"Power, Pasta, and Politics" was.
+
+----
+num: 45
+category: History
+difficulty: 2000
+seen: 6
+answer: Catherine Howard
+
+This beheaded fifth wife of Henry VIII haunts Hampton Court Palace; she's been heard shrieking Henry's name.
+
+----
+num: 46
+category: Geography
+difficulty: 2000
+seen: 13
+answer: Luanda
+
+This capital of Angola once had "Sao Paulo de" before its name.
+
+----
+num: 47
+category: Literature
+difficulty: 2000
+seen: 5
+answer: avuncular
+
+It means "characteristic of an uncle".
+
+----
+num: 48
+category: Literature
+difficulty: 2000
+seen: 5
+answer: (Kazuo) Ishiguro
+
+Born in Japan, he's published 6 novels, including "Never Let Me Go".

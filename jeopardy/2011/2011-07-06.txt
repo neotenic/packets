@@ -1,0 +1,359 @@
+####
+tournament: #6188
+round: Show #6188 - Wednesday, July 6, 2011
+year: 2011
+date: 2011-07-06
+####
+
+num: 1
+category: History
+difficulty: 200
+seen: 5
+answer: Obama
+
+The one who married a Michelle.
+
+----
+num: 2
+category: Trash
+difficulty: 200
+seen: 6
+answer: golf
+
+Little Tigers know that the WMF is the World Federation for the "Mini" version of this sport -- look out for the windmill.
+
+----
+num: 3
+category: Literature
+difficulty: 200
+seen: 3
+answer: Heads up, 7Up
+
+Recess?  Time for this game with a soft drink in its name, where a septet of students are "it".
+
+----
+num: 4
+category: Literature
+difficulty: 200
+seen: 4
+answer: Baskin-Robbins
+
+More than 60 years ago, this brand started with 31 flavors; today it has over 1,000.
+
+----
+num: 5
+category: Literature
+difficulty: 200
+seen: 4
+answer: an ostrich
+
+After I hatch from my.
+
+----
+num: 6
+category: Literature
+difficulty: 200
+fixed: -1
+seen: 4
+answer: an A
+
+With a plus, it's the highest grade possible on a standard report card.
+
+----
+num: 7
+category: History
+difficulty: 400
+seen: 4
+answer: Clinton
+
+The one who had Al Gore as his Vice President.
+
+----
+num: 8
+category: Trash
+difficulty: 400
+seen: 5
+answer: horse
+
+In this "equine" basketball game, you get a letter if you miss a shot & your rival makes one -- if you spell the game, you lose.
+
+----
+num: 9
+category: Literature
+difficulty: 400
+seen: 4
+answer: velcro
+
+Get out the door faster in shoes that fasten using this material of tiny hooks & loops instead of laces.
+
+----
+num: 10
+category: Literature
+difficulty: 400
+seen: 4
+answer: Dairy Queen
+
+In January of 2011, pecans fruit & chocolaty bits in vanilla soft serve was this brand's "Blizzard of the Month".
+
+----
+num: 11
+category: Literature
+difficulty: 400
+seen: 4
+answer: a frog
+
+I look a little fishy right now at an.
+
+----
+num: 12
+category: Literature
+difficulty: 400
+seen: 4
+answer: e-mail
+
+A book called "Send" is "The Essential Guide" to this type of "mail".
+
+----
+num: 13
+category: History
+difficulty: 600
+seen: 4
+answer: FDR
+
+The only President to be elected 4 times to the job.
+
+----
+num: 14
+category: Trash
+difficulty: 600
+seen: 4
+answer: marbles
+
+Use soccer balls to play a giant version of this game where the shooter knocks rolling targets out of a ring.
+
+----
+num: 15
+category: Literature
+difficulty: 600
+seen: 4
+answer: Owly
+
+In comic books,.
+
+----
+num: 16
+category: Literature
+difficulty: 600
+fixed: -1
+seen: 4
+answer: Good Humor
+
+Candy Center Crunch & Strawberry Shortcake are ice creams on a stick from this "good" company, man.
+
+----
+num: 17
+category: Literature
+difficulty: 600
+seen: 4
+answer: a ladybug
+
+Don't recognize.
+
+----
+num: 18
+category: Trash
+difficulty: 800
+seen: 5
+answer: hopscotch
+
+Hinkspiel is a German version of this game where you jump from one numbered space to another.
+
+----
+num: 19
+category: Literature
+difficulty: 800
+seen: 4
+answer: Lunchables
+
+Ham & American sub is one of these Oscar Mayer combos that sound perfect for the noon meal.
+
+----
+num: 20
+category: Trash
+difficulty: 1000
+seen: 5
+answer: a scavenger hunt
+
+In one of these "hunts" named for the behavior of certain animals, you & your friends compete to gather items on a list.
+
+----
+num: 21
+category: Literature
+difficulty: 1000
+seen: 4
+answer: Dan Zanes
+
+DZ for short, this maker of music for the whole family used to be in a grown-up band, the Del Fuegos.
+
+----
+num: 22
+category: Mythology
+difficulty: 400
+seen: 13
+answer: Poseidon
+
+This Greek god could command the waves of the sea & create storms.
+
+----
+num: 23
+category: Trash
+difficulty: 400
+seen: 5
+answer: Jaden Smith
+
+This son of Will Smith turns 13 this week & says math is his favorite subject-- let's get him a textbook.
+
+----
+num: 24
+category: Science
+difficulty: 400
+seen: 6
+answer: Jupiter
+
+Due to its size, this planet is responsible for the Kirkwood gaps in our galaxy's asteroid belt.
+
+----
+num: 25
+category: Literature
+difficulty: 400
+seen: 4
+answer: Old King Cole
+
+The smallest book in the collection, 1/25 of an inch square, tells the story of this "merry old soul" in a nursery rhyme.
+
+----
+num: 26
+category: Trash
+difficulty: 400
+seen: 4
+answer: Q-U-A-K-E-R
+
+Spell this Christian group that's often found before "Oats".
+
+----
+num: 27
+category: Mythology
+difficulty: 800
+seen: 12
+answer: Hera
+
+This Greek goddess of marriage & childbirth was jealous of Zeus' frequent infidelities.
+
+----
+num: 28
+category: Trash
+difficulty: 800
+seen: 5
+answer: Gnomeo
+
+In a 2011 animated film, Emily Blunt voices Juliet & James McAvoy voices this other title character.
+
+----
+num: 29
+category: Literature
+difficulty: 800
+seen: 3
+answer: laws that are passed by Congress
+
+The loc.gov feature called Thomas lets you search for these made by Congress, like H.R. 575.
+
+----
+num: 30
+category: Trash
+difficulty: 800
+fixed: -1
+seen: 5
+answer: G-O-S-L-I-N-G
+
+Spell this word for the young of a goose that's also the surname of an actor named Ryan.
+
+----
+num: 31
+category: Trash
+difficulty: 1200
+seen: 6
+answer: Zeke & Luther
+
+On a Disney show, these 2 best friends try to be the world's greatest skateboarders.
+
+----
+num: 32
+category: Science
+difficulty: 1200
+seen: 5
+answer: liquids
+
+An emulsion is a mixture of 2 or more of these that don't dissolve in each other.
+
+----
+num: 33
+category: Literature
+difficulty: 1200
+seen: 4
+answer: Braille
+
+In 1931 the library began providing sound recordings of books as well as books written in this.
+
+----
+num: 34
+category: Trash
+difficulty: 1200
+seen: 5
+answer: M-I-L-L-I-M-E-T-E-R
+
+Spell this metric measurement equal to .03937 of an inch.
+
+----
+num: 35
+category: Mythology
+difficulty: 1600
+seen: 11
+answer: Aphrodite
+
+Melanion had to ask for help from this Greek love goddess on how to win Atalanta's hand.
+
+----
+num: 36
+category: Mythology
+difficulty: 2000
+seen: 21
+answer: Cerberus
+
+This 3-headed watchdog eats mortals who dare enter the underworld.
+
+----
+num: 37
+category: Trash
+difficulty: 2000
+seen: 9
+answer: Herbert
+
+A video game in the "Club Penguin" series is titled his "Revenge".
+
+----
+num: 38
+category: Science
+difficulty: 2000
+seen: 9
+answer: salt
+
+Humans can drink sea water once it has been desalinated, meaning this has been removed.
+
+----
+num: 39
+category: Literature
+difficulty: 2000
+seen: 6
+answer: the Psalms
+
+The LOC holds the oldest book printed in North America, a 1640 translation of these Biblical verses.

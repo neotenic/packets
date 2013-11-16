@@ -1,0 +1,249 @@
+####
+tournament: Question Set C
+round: Round-4C.pdf
+####
+
+num: 1
+category: Biology
+difficulty: HS
+seen: 37
+answer: Echinoderms;  Sea Urchins
+
+Name all of the following 4 organisms that would be considered to have radial symmetry: flatworms; cestodes; Echinoderms; sea urchins
+
+----
+num: 2
+category: Chemistry
+difficulty: HS
+seen: 35
+answer: Mercury;  Water;  Ethanol
+
+Arrange the following 3 liquids in order of DECREASING surface tension at 20ºC: water; ethanol; mercury
+
+----
+num: 4
+category: Math
+difficulty: HS
+seen: 26
+answer: 10
+(Solution:  2 ^2 + 10^2 = C^2;  C = 10.20 = 10)
+
+Rounded to the nearest centimeter, if side A of a right triangle measures 2 centimeters and side B measu res 10 centimeters, what is the length of the hypotenuse?
+
+----
+num: 6
+category: General Science
+difficulty: HS
+fixed: -1
+seen: 31
+answer: Mdcclxxvi
+
+What is the Roman numeral equivalent of the year 1776?
+
+----
+num: 7
+category: Astronomy
+difficulty: HS
+seen: 54
+answer: 22
+
+The north magnetic pole of the Sun reverses every so many years. 
+How many years does it take for one complete cycle for the Sun to return to its original state or what might be looked at as two reversals?
+
+----
+num: 9
+category: Chemistry
+difficulty: HS
+seen: 34
+answer: Hydrogenation
+
+The conversion of olein, a liquid oil, into stearin, a solid fat, by the addition of hydrogen in the presence of a catalyst and high heat is commonly known as what type of reaction?
+
+----
+num: 9
+category: Chemistry
+difficulty: HS
+seen: 34
+answer: 4
+(Solution:  8  × 10^-^6g/2g = 4 × 10^-^6g = 4 Ppm)
+
+How many parts per million of arsenic are in a 2-gram water sample if it contains 8.0 micrograms of arsenic?
+
+----
+num: 10
+category: Physics
+difficulty: HS
+seen: 26
+answer: Magnitude and Direction  (Accept:  Speed for Magnitude)
+
+What are typically given as the two parameters of a velocity vector?
+
+----
+num: 11
+category: Math
+difficulty: HS
+seen: 25
+answer: 2
+
+Boolean algebra involves ideas or subjects that have how many possible states?
+
+----
+num: 11
+category: Math
+difficulty: HS
+seen: 25
+answer: 60
+
+What is the least common denominator of the following 3 fractions:2
+5 , 67and 127
+
+----
+num: 15
+category: Biology
+difficulty: HS
+seen: 39
+answer: Photosynthesis
+
+Most of the molecular oxygen in Earth’s atmosphere came from what biological process?
+
+----
+num: 16
+category: Chemistry
+difficulty: HS
+fixed: -1
+seen: 34
+answer: Methanol  (Accept:  Ch
+^3oh or Methyl Alcohol or Wood Alcohol)
+(Solution:  Co + 2h
+^2 ! Ch
+^3oh)
+
+What simple alcohol is commercially produced by reacting carbon monoxide and hydrogen gas under pressure and heat and in the presence of a catalyst?
+
+----
+num: 16
+category: Chemistry
+difficulty: HS
+fixed: -1
+seen: 35
+answer: 1s^22s^22p^5 (Accept:  [He]2s^22p^5)
+
+In standard chemical nomenclature, what is the ground-state electron configuration for fluorine?
+
+----
+num: 17
+category: Physics
+difficulty: HS
+seen: 25
+answer: Red
+
+Which one of the following 5 colors of light has the LEAST angle of refraction in normal glass: blue; green; orange; yellow; red
+
+----
+num: 17
+category: Physics
+difficulty: HS
+seen: 25
+answer: Second
+
+For a standing wave on a guitar string, the first overtone representswhat harmonic?
+
+----
+num: 18
+category: Math
+difficulty: HS
+seen: 23
+answer: ^3 X^2
+
+Simplify the following, giving your answer in simplest radical form: ^9 x^6 (read as: the ninth root of x to the sixth power)
+
+----
+num: 18
+category: Math
+difficulty: HS
+seen: 25
+answer: A^3^4
++ 2a^3^2
+B^3^2
++B^3^4
+
+Multiply the following, giving your answer in standard form and withoutnegative exponents or radicals: (a^2^3 +b^2^3)^2^
+
+----
+num: 21
+category: Astronomy
+difficulty: HS
+seen: 54
+answer: Parsec
+
+What is the astronomical distance at which a star would have a parallax of 1 arcsecond?
+
+----
+num: 22
+category: Biology
+difficulty: HS
+seen: 40
+answer: Spiracles
+
+What is the scientific name for the openings in the grasshopper body through which air enters?
+
+----
+num: 22
+category: Biology
+difficulty: HS
+seen: 40
+answer: Centrioles;  Flagella;  Lysosomes
+(Solution:  Flagella Are Found in Certain Plants Sperm Cells; Centrioles in Some Algae)
+
+Name all of the following 4 cellular structures that are NOT typically found in diploid higher plant cells: centrioles; flagella; lysosomes; plasmodesmata
+
+----
+num: 23
+category: Chemistry
+difficulty: HS
+fixed: -1
+seen: 34
+answer: C
+^6h
+^11n
+^2o
+
+What is the empirical formula for the following: C^18H^33N^6O^3
+
+----
+num: 24
+category: Physics
+difficulty: HS
+seen: 26
+answer: 4 Times
+
+At normal operating speed for a motor vehicle, how many times as much kinetic energy does a car have if its velocity is doubled?
+
+----
+num: 24
+category: Physics
+difficulty: HS
+fixed: -1
+seen: 26
+answer: 125
+(Solution:  Pe = 25 N × 5 M =  125 J)
+
+Relative to the floor, what is the gravitational potential energy, in joules, of a 25-newton bag of beans on a shelf 5 meters above the floor?
+
+----
+num: 25
+category: Biology
+difficulty: HS
+seen: 40
+answer: 2
+
+Organisms that have radial symmetry and belong to the Radiatatypically have how many germ layers?
+
+----
+num: 25
+category: Biology
+difficulty: HS
+seen: 41
+answer: Tunicates;  Rotifers
+
+Name all of the following 5 animal groups that are NOT echinoderms: sea urchins; sand dollars; tunicates; rotifers; brittle stars

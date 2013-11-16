@@ -1,0 +1,204 @@
+####
+tournament: HFT
+round: HFT Round 01.doc
+year: 2008
+####
+
+num: 1
+category: History
+difficulty: HS
+fixed: 1
+seen: 420
+answer: Mexico
+
+William Jennings Bryan sent Reginald Del Valle to this country to check up on Henry Lane Wilson, the American ambassador, who was involved with rebels who overthrew President Francisco Madero. When the government of this country, where Venustiano Carranza overthrew Victoriano Huerta, received the Zimmerman Telegram, Woodrow Wilson was already involved there, having sent John Pershing to capture Pancho Villa after Villa's raid on New Mexico. FTP, name this country that lost a more famous war with the United States in 1848.
+
+----
+num: 2
+category: Science
+difficulty: HS
+fixed: 1
+seen: 476
+answer: {polarity} (accept word forms {such} as {polar})
+
+The protein clathrin regulates this property in cells, and molecules that partially have this property may form micelles. Surfactants exploit it to promote emulsions, and soaps and detergents take advantage of it to carry away otherwise insoluble dirt. Although important when forming bonds, it may also be calculated as a net quantity across a molecule by taking the sum of the molecule's dipoles. Resulting in partial positive and negative charges, this is, FTP, what term denoting the uneven distribution of charge across a molecule, as with water but not oxygen gas?
+
+----
+num: 3
+category: Literature
+difficulty: HS
+fixed: 57
+seen: 445
+answer: Virginia {Woolf}
+
+This author created William Rodney, who is convinced to court Cassandra Otway by his fiancée Katherine Hilbery in Night and Day, while Rhoda jumps to her death and Neville waits to hear his beloved's footsteps on the stairs in a novel about six friends connected through Percival. In another work, Sally Seton talks with Peter Walsh and the title character learns that Septimus Smith has committed suicide, while another of her novels ends when Lily Bristow completes her portrait of Mrs. Ramsey. FTP, name this author of The Waves, To the Lighthouse and Mrs. Dalloway.
+
+----
+num: 4
+category: Trash
+difficulty: HS
+fixed: 1
+seen: 1029
+answer: pitching a {perfect} game (prompt on no-hitter before the word “{Sanborn}”)
+
+John Lee Richmond accomplished this on no sleep thanks in part to a 9-3 putout, but this term was not coined until I.E. Sanborn used it to describe the achievement of Addie Joss. Others who did it include Len Barker, Mike Witt, and Jim Bunning. Bob Hendley gave up just one hit, but lost a game when Sandy Koufax did this, but only Don Larsen is notable for having done it in the World Series. Most recently accomplished by David Wells, David Cone, and Randy Johnson, this is, FTP, what pitching accomplishment in which no batter reaches base?
+
+----
+num: 5
+category: Social Science
+difficulty: HS
+fixed: 1
+seen: 381
+answer: archaeology
+
+Important theorists of this discipline included Lewis Binford, who championed the scientific, hypothesis-based “New” type of it. Controversy over a book criticizing Israeli practitioners of it, Facts on the Ground, nearly cost Nadia Abu El-Haj tenure at Columbia University. It was practiced by Lawrence Stager at Ashkelon, while a German practitioner who tried to find evidence for the historicity of the Iliad and the Odyssey was Heinrich Schliemann. FTP, identify this discipline also performed by Howard Carter when he discovered King Tut's tomb.
+
+----
+num: 6
+category: History
+difficulty: HS
+fixed: 57
+seen: 419
+answer: Mikhail {Gorbachev}
+
+He took advantage of Mathias Rust's landing a plane near his residence to fire the defense minister who opposed his policies, which were originally called uskoreniye. He also replaced longtime foreign minister Andrei Gromyko with Eduard Shevardnadze, restructured Aeroflot, reversed the New Economic Policy, banned vodka, and shook up the bureaucracy after he failed to get reliable information about Chernobyl. FTP, identify this port wine-stained politician best known for advocating glasnost and perestroika as the final leader of the Soviet Union.
+
+----
+num: 7
+category: Literature
+difficulty: HS
+fixed: 1
+seen: 443
+answer: Langston {Hughes}
+
+One of his characters calls women “sweet worriations” in “Rude Awakening,” and one of his poems begins when a teacher instructs “Go home and write / a page tonight / and let that page come out of you” in “Theme for English B.” The speaker of one of his poems says he “slept like a rock or a man that's dead” after “down on Lennox Avenue” he heard a “drowsy, syncopated tune.” In another poem, he asks if the title object “crust[s] and sugar[s] over” or “just sags / like a heavy load.” FTP, name this poet of “A Dream Deferred” and “A Negro Speaks of Rivers.”
+
+----
+num: 8
+category: Science
+difficulty: HS
+fixed: 1
+seen: 487
+answer: {orthogonal} (accept {perpendicular} after the {phrase} “{dot product}”)
+
+A linear transformation has this property if it preserves the inner product, and the functions sine and cosine have this property with respect to the Lesbesgue measure. This type of matrix is a unitary matrix with all entries real, and the Gram-Schmidt process can take a set of vectors and produce another set that is both this and normal, a special kind of basis. This is also the relationship between two vectors with a dot product of zero and two lines whose slopes are negative reciprocals. FTP, identify this property possessed by the diagonals of a rhombus and the sides of a square.
+
+----
+num: 9
+category: History
+difficulty: HS
+fixed: 1
+seen: 420
+answer: Jakarta
+
+This city gained great trading wealth because of its Sunda Kalapa port at the mouth of the Ciliwung River long before Jan Pieterszoon Coen saved its colonial buildings from destruction and renamed it Batavia. Nationalist forces moved their capital from it to Yogyakarta when it was recaptured by the Dutch following World War II, but in 1949 it became the seat of an independent government led by Mohammad Hatta and Sukarno. It was later Suharto's capital and is now home to Susilo Yudhoyono. FTP, identify this city on Java, the capital of Indonesia.
+
+----
+num: 10
+category: Literature
+difficulty: HS
+fixed: 1
+seen: 444
+answer: The {Cherry Orchard}
+
+One character in this play, dubbed “Twenty-Two Calamities,” is the old servant Firs, who babbles about the pre-emancipation era, while Boris Pishchik comically asks for loans and depends on bizarre money-making schemes. The main family includes Leonid Andreievitch Gayev, who explains pool shots when nervous and censures his sister's behavior, such as her affair in Paris; afterwards, he realizes his niece Anya has overhead him in the doorway. FTP, name this Chekhov drama about a “remarkable” feature of a Russian estate that gets chopped down.
+
+----
+num: 11
+category: Science
+difficulty: HS
+fixed: -1
+seen: 492
+answer: immune tolerance
+
+Its central type typically requires apoptosis, while the transcription of relevant proteins in the thymus is initiated by AIRE. TCR-alpha and light chain receptor editing happens in some cases; in others, naïve cells in the absence of costimulation merely display anergy. In the absence of its acquired form, transplant rejection may occur; its induced form is used to treat allergies so the immune system will stop responding to the presence of an antigen. FTP, identify this characteristic that can be built up over time by someone who frequently consumes drugs, poison, or alcohol.
+
+----
+num: 12
+category: History
+difficulty: HS
+fixed: 57
+seen: 421
+answer: {Shays}' Rebellion
+
+William Shepherd fired at participants in it before Benjamin Lincoln's militia took control. It began with an impassioned meeting at Conkey's Tavern and found support in Pelham and Amherst, where farmers were angry at a regressive capitation tax and the inability to pay their debts. It was defeated at Petersham after its leaders failed in Springfield to prevent the Massachusetts Supreme Court from meeting. George Washington saw evidence of the need for a strong central government in, FTP, what 1786 rebellion by farmers in western Massachusetts?
+
+----
+num: 13
+category: Philosophy
+difficulty: HS
+fixed: 1
+seen: 523
+answer: {will} (accept {free will} before the word “serve”)
+
+A form of this concept arising from the conflation of quality with quantity was paired with “time” in Henri Bergson's doctoral thesis, while Thomas Hobbes thought that form of it as absurd as “accidents of bread in cheese” and defined it as one's last appetite or aversion preceding action. Another thinker argued that knowledge exists to serve it, since Schopenhauer believed The World consists of it and Representation. The Wanderer and His Shadow introduced and The Gay Science explained another kind of, FTP, what term that Nietzsche paired with “to power”?
+
+----
+num: 14
+category: Literature
+difficulty: HS
+fixed: 57
+seen: 432
+answer: Chinua {Achebe}
+
+He wrote about thieves who demand one hundred pounds from Jonathan, who earns a living giving bike rides, in his “Civil Peace.” Another of his novels sees one character murdered by the secret police after a joke about minting new coins with the President's face is misinterpreted as a call for a beheading, and Ikem's death convinces Chris Oroki to flee the city of Bassa and Sam's dictatorship of Kangan. Another novel sees Clara have an abortion at Obi's insistence. FTP, identify this author of Anthills of the Savannah and No Longer at Ease who wrote about Ikemefuna's sacrifice by Okonkwo in Things Fall Apart.
+
+----
+num: 15
+category: Religion
+difficulty: HS
+fixed: 1
+seen: 440
+answer: Shinto
+
+This religion's places of worship are reached by paths called sando and contain sacred ropes with hanging flax pendants and a gohei, or wand with hanging strips of paper. Its priests wear white socks and black sandals, and today its places of worship often contain fortune vending machines, whose bad fortunes are usually tied to a pine tree, and a sacred mirror to commemorate the end of a certain dance in this faith's lore. With deities such as the fox-loving Inari, the war god Hachiman, Uzume, Susano'o, and Amaterasu, this is, FTP, what native religion of Japan?
+
+----
+num: 16
+category: Fine Arts
+difficulty: HS
+fixed: 57
+seen: 489
+answer: {fresco} (do not accept “{mural};” do not accept “{wall painting}”)
+
+The tombs at Paestum contain ancient examples of them, but their technique was best explained by Cennino Cennini. They were seldom made in Venice, but proliferated elsewhere after the decoration of the Upper Church of St. Francis at Assisi, and they can be secco or buon. In addition to Mantegna's in the Camera degli Sposi and Piero's History of the True Cross in his cycle at Arezzo, famous ones include Giotto's in the Arena chapel, Masaccio's The Tribute Money, and Michelangelo's Sistine Chapel ceiling. FTP, name this type of painting done on plaster.
+
+----
+num: 17
+category: History
+difficulty: HS
+fixed: 57
+seen: 423
+answer: {Tokugawa Ieyasu} (accept either)
+
+This leader was sometimes advised by the English sailor William Adams. He took the lands of the Imagawa Clan and received the Kanto Provinces in return for defeating the Hojo Clan. His Komaki campaign led to victory at Nagakute, and his attack on daimyos allied with Mitsunari led to victory at Sekigahara; eventually, he besieged and killed Hideyori in Osaka Castle. This ally of Oda Nobunaga gave his name to a period that lasted until 1863 and saw the expulsion of all foreigners. FTP, identify this Japanese military leader who founded a namesake shogunate.
+
+----
+num: 18
+category: Science
+difficulty: HS
+fixed: 57
+seen: 493
+answer: nuclear {fission} 
+
+The four factor formula is used to gauge the sustainability of this process in an infinite medium, and this process occurred underground at Oklo, Gabon, around two billion years ago. In that case, water seeping through the ore slowed down neutrons, making them more likely to be absorbed, but now beryllium is often used as a neutron reflector in order to lower the necessary supercritical mass. For 10 points, name this physical process where the nucleus of a large atom is split into two pieces by a neutron, releasing more neutrons and sometimes causing a chain reaction.
+
+----
+num: 19
+category: Fine Arts
+difficulty: HS
+fixed: 57
+seen: 488
+answer: {sonata}-allegro form
+
+Edward T. Cone called this form the ideal to which others “aspire.” Its second section often features prolongation called a “retransition,” while the first section typically consists of two distinct themes, the second usually in the dominant or relative major. Its final section is generally in the tonic. Consisting of an exposition, development, and recapitulation, this term can describe movements of symphonies as well as a type of chamber work. FTP, name this form associated with the fast first movements of Beethoven pieces or with a certain “Moonlight” composition.
+
+----
+num: 20
+category: Mythology
+difficulty: HS
+fixed: 1
+seen: 790
+answer: {Aeneas}
+
+Some accounts say he was visited by his former lover's sister, Anna, who drowned while escaping his jealous second wife. He had earlier escaped peril with the help of the stranger Achaemenides despite that man's confession that he had been on Odysseus's crew. Only the intervention of the gods saved him from Diomedes, and in later war he defeated Turnus. Having descended through Avernus with the Cumaean Sibyl, he was instructed to “spare the vanquished” by the shade of his father, whom he had carried on his shoulders from their destroyed city. FTP, name this Trojan prince who spurned Dido to settle in Italy and found the Roman people, the subject of a work by Virgil.

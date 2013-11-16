@@ -1,0 +1,411 @@
+####
+tournament: #6605
+round: Show #6605 - Friday, May 10, 2013
+year: 2013
+date: 2013-05-10
+####
+
+num: 1
+category: Literature
+difficulty: 200
+seen: 5
+answer: a doormat
+
+Someone who submits to abuse, or something to wipe your feet on to avoid abuse when entering Mom's house.
+
+----
+num: 2
+category: Literature
+difficulty: 200
+seen: 4
+answer: Stuart Little
+
+It's a surprise to his parents when this E.B. White character is born with a tail & whiskers.
+
+----
+num: 3
+category: Literature
+difficulty: 200
+seen: 4
+answer: trigonometry
+
+You've got to figure the angles when studying "trig".
+
+----
+num: 4
+category: Trash
+difficulty: 200
+seen: 6
+answer: Scrabble
+
+Nigel Richards:  This board game, after winning the decisive game 475-298: that's a lot of Qs & Zs.
+
+----
+num: 5
+category: History
+difficulty: 200
+seen: 5
+answer: the 20th century
+
+Emperor Hirohito.
+
+----
+num: 6
+category: Literature
+difficulty: 400
+seen: 4
+answer: the snooze
+
+You get a precious 9 extra minutes with this feature introduced on a G.E. alarm clock in 1956.
+
+----
+num: 7
+category: Literature
+difficulty: 400
+seen: 5
+answer: Rip Van Winkle
+
+This sleepy Dutch-American character has a dog named Wolf & a daughter named Judith.
+
+----
+num: 8
+category: Literature
+difficulty: 400
+seen: 4
+answer: New Mexico
+
+"Breaking Bad" takes place in this "Land of Enchantment" state.
+
+----
+num: 9
+category: Literature
+difficulty: 400
+seen: 4
+answer: details
+
+I know you guys went out!  Now I need some "deets"!.
+
+----
+num: 10
+category: Trash
+difficulty: 400
+seen: 6
+answer: darts
+
+Michael van Gerwen:  this "flighty" pub sport-- get the point?.
+
+----
+num: 11
+category: History
+difficulty: 400
+seen: 4
+answer: 19th
+
+Millard Fillmore.
+
+----
+num: 12
+category: Literature
+difficulty: 600
+seen: 4
+answer: gooseneck lamp
+
+"Beastly" type of desk lamp with a long, flexible shaft, helpful in studying without waking a roommate.
+
+----
+num: 13
+category: Literature
+difficulty: 600
+seen: 4
+answer: Lolita
+
+Charlotte Haze is a middle-aged widow & mother to 12-year-old Dolores, better known by this title name.
+
+----
+num: 14
+category: Literature
+difficulty: 600
+seen: 4
+answer: merchandise
+
+In the club, the lead singer might urge you to get a CD at the "merch" table.
+
+----
+num: 15
+category: Trash
+difficulty: 600
+seen: 5
+answer: snooker
+
+Ronnie O'Sullivan: this British billiards variant.
+
+----
+num: 16
+category: History
+difficulty: 600
+seen: 4
+answer: the 16th century
+
+Sir Francis Drake.
+
+----
+num: 17
+category: Literature
+difficulty: 800
+seen: 4
+answer: a screen
+
+In old movies ladies undressed by standing behind the privacy type of this & draping their undies over it.
+
+----
+num: 18
+category: Literature
+difficulty: 800
+seen: 4
+answer: the Sons of Anarchy
+
+This title motorcycle gang revs up in Charming, California.
+
+----
+num: 19
+category: Literature
+difficulty: 800
+seen: 4
+answer: helicopters
+
+The script for "Zero Dark Thirty" describes "helps" disappearing into the night.
+
+----
+num: 20
+category: Trash
+difficulty: 800
+seen: 5
+answer: dominoes
+
+Chris Wahren:  this board game using numbered rectangular blocks.
+
+----
+num: 21
+category: History
+difficulty: 800
+fixed: -1
+seen: 4
+answer: the 15th century
+
+England's Richard III.
+
+----
+num: 22
+category: Literature
+difficulty: 1000
+seen: 4
+answer: a midshipman\'s knot
+
+This useful type of hitch knot shares its name with certain undergraduates in Annapolis.
+
+----
+num: 23
+category: Literature
+difficulty: 1000
+seen: 4
+answer: the perpetrator
+
+When a crime is committed, the police try to catch the "perp".
+
+----
+num: 24
+category: Trash
+difficulty: 1000
+seen: 5
+answer: Othello
+
+Yusuke Takanashi:  this board game named for a Shakespeare character.
+
+----
+num: 25
+category: Science
+difficulty: 400
+seen: 6
+answer: tires
+
+Goodyear's air maintenance technology uses a regulator that adds air when pressure falls in these.
+
+----
+num: 26
+category: Trash
+difficulty: 400
+seen: 5
+answer: (Jennifer) Lawrence
+
+Some of the costumes she wore in her Oscar-winning role in "Silver Linings Playbook" went up for auction.
+
+----
+num: 27
+category: Geography
+difficulty: 400
+seen: 8
+answer: the Thames
+
+From the Cotswolds to Teddington Lock.
+
+----
+num: 28
+category: Literature
+difficulty: 400
+seen: 4
+answer: cars
+
+The Horseless Age, first published in 1895, was the first American magazine devoted to this subject.
+
+----
+num: 29
+category: Trash
+difficulty: 400
+seen: 5
+answer: hitched
+
+To be married is to get this.
+
+----
+num: 30
+category: Art
+difficulty: 400
+seen: 4
+answer: Whistler
+
+The mother of all.
+
+----
+num: 31
+category: Science
+difficulty: 800
+seen: 6
+answer: 3-D
+
+This term from movie watching is also used for the "printing" of solid objects, as with the Makerbot Replicator.
+
+----
+num: 32
+category: Trash
+difficulty: 800
+seen: 5
+answer: the Harlem Shake
+
+A 2013 Internet sensation gets its name from.
+
+----
+num: 33
+category: Geography
+difficulty: 800
+seen: 7
+answer: the Danube
+
+From the Black Forest to the Black Sea (it's blue, though).
+
+----
+num: 34
+category: Trash
+difficulty: 800
+seen: 4
+answer: a hit-and-run
+
+An accident after which the person responsible flees the scene.
+
+----
+num: 35
+category: Art
+difficulty: 800
+seen: 4
+answer: (Andy) Warhol
+
+Seen in a portrait.
+
+----
+num: 36
+category: Science
+difficulty: 1200
+seen: 5
+answer: Bluetooth
+
+Attach a stick-n-find sticker to a valued item & you can locate it using your phone & this popular headset technology.
+
+----
+num: 37
+category: Trash
+difficulty: 1200
+seen: 6
+answer: Emma Stone
+
+She & Andrew Garfield were caught in a web of love after co-starring in "The Amazing Spider-Man".
+
+----
+num: 38
+category: Geography
+difficulty: 1200
+seen: 8
+answer: the Shannon
+
+From the Cuilcagh Mountains to the Atlantic west of Limerick.
+
+----
+num: 39
+category: Trash
+difficulty: 1200
+seen: 5
+answer: to hit the ground running
+
+This idiom meaning to get a quick start implies your feet are already moving in midair.
+
+----
+num: 40
+category: Art
+difficulty: 1200
+seen: 4
+answer: Frida Kahlo
+
+Mexican woman didn't just paint her mom; she included her dad, both sets of grandparents, & herself, twice.
+
+----
+num: 41
+category: Trash
+difficulty: 1600
+seen: 5
+answer: hitting for the cycle
+
+A baseball player getting a single, double, triple & home run all in one game is doing this.
+
+----
+num: 42
+category: Art
+difficulty: 1600
+seen: 4
+answer: (Grant) Wood
+
+son of Iowa painted his mother Hattie in the same style as his later American Gothic.
+
+----
+num: 43
+category: Science
+difficulty: 2000
+seen: 8
+answer: hydraulic
+
+A new Antarctic.
+
+----
+num: 44
+category: Trash
+difficulty: 2000
+seen: 8
+answer: (Branch) Rickey
+
+In the movie "42" Chadwick Boseman is Jackie Robinson & Harrison Ford is this executive who signed Jackie to the Dodgers.
+
+----
+num: 45
+category: Geography
+difficulty: 2000
+seen: 13
+answer: the Volga
+
+From the Valdai Hills to the Caspian Sea.

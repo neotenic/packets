@@ -1,0 +1,264 @@
+####
+tournament: Question Set C
+round: Round-2C.pdf
+####
+
+num: 1
+category: Chemistry
+difficulty: HS
+fixed: -1
+seen: 35
+answer: Oxygen;  Water  (Accept:  O
+^2, H
+^2o)
+
+In addition to iron, what 2 substances must be present for iron to rust?
+
+----
+num: 1
+category: Chemistry
+difficulty: HS
+seen: 33
+answer: Halogen = Iodine;  Metalloid = Silicon;  Transition Metal = Iron
+
+Classify the following 3 elements as a halogen, metalloid, or transition metal, respectively: silicon; iron; iodine
+
+----
+num: 2
+category: Physics
+difficulty: HS
+seen: 26
+answer: 76
+(Solution: 8km/h × 9.5 H = 76 Km)
+
+How many kilometers will a mosquito travel in 9.5 hours if it moves in a straight path with an average speed of 8 kilometers per hour?
+
+----
+num: 4
+category: Math
+difficulty: HS
+seen: 26
+answer: All Real Numbers  (Accept:  + Infinity to –Infinity)
+
+Solve the following inequality for x: |(x + 5)| > –7 (read as: the absolute value of, open parenthesis, x + 5, close parenthesis, is greater than –7)
+
+----
+num: 4
+category: Math
+difficulty: HS
+fixed: -1
+seen: 24
+answer: $550.00
+(Solution:  10,000 – 4000 = 6000 Bal;  6000 × 0.1 = 600;  6,600 ÷ 12 Months = $550.00)
+
+The Adams family bought a home entertainment system for $10,000.00. 
+They paid $4,000.00 down and must pay off the balance in 12 equal payments. If the simple interest on the balance is 10% of the amount borrowed, how much is each monthly installment?
+
+----
+num: 5
+category: Earth Science
+difficulty: HS
+fixed: -1
+seen: 66
+answer: Troposphere
+
+What is the name for the lowermost 12 to 18 kilometers of 
+Earth’s atmosphere?
+
+----
+num: 7
+category: Astronomy
+difficulty: HS
+seen: 55
+answer: Helium
+
+What element was first discovered through spectroscopic analysis of the Sun?
+
+----
+num: 8
+category: Chemistry
+difficulty: HS
+seen: 35
+answer: Carbon
+
+What element is central to synthetic chemistry because of the unique ability of its atoms to bind to one another with single, double and triple bonds and form chains, branches and rings of varying sizes?
+
+----
+num: 10
+category: Biology
+difficulty: HS
+seen: 41
+answer: Clam;  Oyste R;  Mussel
+
+Name all of the following 4 organisms that are bivalves:clam; oyster; mussel; snail
+
+----
+num: 11
+category: Math
+difficulty: HS
+fixed: -1
+seen: 25
+answer: 1.6 × 10^-^23
+
+Simplify the following, giving your answer in proper scientific notation: (2.0 × 10^-^6)^4
+
+----
+num: 11
+category: Math
+difficulty: HS
+seen: 24
+answer: 62
+(Solution:  2 + 4 + 8 + 16 + 32 = 62)
+
+What is the sum of the first 5 terms of the geometric sequence in which the first term is 2 and the common ratio is 2?
+
+----
+num: 12
+category: Earth Science
+difficulty: HS
+seen: 62
+answer: Enceladus
+
+What moon of Saturn was shown by the Cassini space-craft to be spewing a watery, gassy plume from its geothermally heated south pole?
+
+----
+num: 13
+category: General Science
+difficulty: HS
+seen: 30
+answer: Doping
+
+What is the term for the process of the addition of small amounts of certain elements that makes semiconductors become useful electronic materials?
+
+----
+num: 15
+category: Chemistry
+difficulty: HS
+seen: 35
+answer: Distillation  (Accept:  Fractional or Simple Distillation)
+
+What is the MOST common method for separating a mixture of liquids based on the di fferences in component volatilities?
+
+----
+num: 15
+category: Chemistry
+difficulty: HS
+fixed: -1
+seen: 34
+answer: Hydrogen Bonding
+
+What type of interaction occurs between molecules of H^2O that causes it to have a higher boiling point than H^2S?
+
+----
+num: 16
+category: Physics
+difficulty: HS
+fixed: -1
+seen: 26
+answer: North
+(Solution:  Fingers of Right Hand Go Towards East (Direction of Earth’s Rotation) and Thumb Goes North)
+
+Giving your answer as north, south, east, or west relative to a point on the Equator, in what direction is the Earth’s angular velocity as it rotates daily about its axis?
+
+----
+num: 17
+category: Biology
+difficulty: HS
+seen: 39
+answer: Muscle
+
+A sarcomere is a basic unit in what specific tissue of mammals?
+
+----
+num: 18
+category: Math
+difficulty: HS
+seen: 25
+answer: 0
+
+Evaluate the following radical expression: 5 3− 75
+
+----
+num: 18
+category: Math
+difficulty: HS
+seen: 24
+answer: 100
+(Solution:  N^th = A(r)^n^-^1;  10,000 = 1r^3^-^1 = 100;  100 × 100 = 10,000)
+
+Find the positive geometric mean between the numbers 1 and 10,000:
+
+----
+num: 21
+category: Astronomy
+difficulty: HS
+seen: 55
+answer: The Ecliptic
+
+What scientific term is given to the apparent path of the Sun around the celestial sphere?
+
+----
+num: 21
+category: Astronomy
+difficulty: HS
+seen: 54
+answer: Galaxies
+
+The local group is a collection of what type of astronomical bodies?
+
+----
+num: 22
+category: Chemistry
+difficulty: HS
+seen: 36
+answer: Electrolysis
+
+What general term BEST describes the use of electrical current tocause a normally non -spontaneous reaction to occur?
+
+----
+num: 22
+category: Chemistry
+difficulty: HS
+seen: 36
+answer: Half-Life  (Accept:  T½ )
+
+In a chemical reaction, what is the term that describes the time required for a reactant to reach half its original concentration?
+
+----
+num: 23
+category: Physics
+difficulty: HS
+seen: 26
+answer: 3
+(Solution:  T = 60s/ 20drops = 3 Sec)
+
+Tim hears water dripping from a faucet while trying to take a nap. If he counts 20 drops in one minute, what is the period of the drops, in seconds?
+
+----
+num: 24
+category: Biology
+difficulty: HS
+fixed: -1
+seen: 37
+answer: Esophagus;  Cervix
+
+Name all of the following 5 organs in the human body that are NOT typically considered part of the respiratory system: nose; bronchi; pharynx; esophagus; cervix
+
+----
+num: 25
+category: Physics
+difficulty: HS
+seen: 26
+answer: Ohm
+
+What is the SI unit given to a volt per ampere?
+
+----
+num: 25
+category: Physics
+difficulty: HS
+seen: 24
+answer: 15
+(Solution:  Current = Watts/volts; 3600/240 = 15 Amperes)
+
+What is the current, in amperes, for a 3600-watt electric conveyor operating on a 240-volt power source?

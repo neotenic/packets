@@ -1,0 +1,204 @@
+####
+tournament: Gaddis II
+round: Packet 5.doc
+year: 2009
+####
+
+num: 1
+category: Science
+difficulty: College
+fixed: None
+seen: 81
+answer: {Clausius}-{Mosotti} equation [accept early ({Clausius}-{Mosotti})-{Lorenz}-{Lorentz equation}]
+
+The Maxwell Garnet equation can be derived either from Rayleigh scattering or from this equation, and in liquid crystals, the Maier-Meier equations are roughly analogous to this equation.  Buckingham and Pople approximated the right side of this equation as an infinite series by multiplying the left side by the molar volume, and the Kirkwood correction is used for certain non-ideal substances.  Debye modified this equation to account for temperature dependence and the presence of permanent dipoles.  The left side of this equation is the ratio of a certain constant ?minus one and that constant plus two.  This equation is equivalent to the Lorenz-Lorentz equation when the index of refraction is used.  For 10 points, name this doubly-eponymous relation between a molecule's polarizability and its dielectric constant.
+
+----
+num: 2
+category: History
+difficulty: College
+fixed: None
+seen: 67
+answer: {Algiers} [or {al}-{Jazair}; or {Dzayer}]
+
+[GK] This city was re-established by a dude who won several battles against the Zanatah tribes, and that man became the first emir of the Zirid dynasty.  In the Roman empire, the city of Icosium was located where this city currently stands. In addition to being ruled by Yusuf Buluggin, this city was spared from capture by a gale that destroyed 400 ships sent by Charles V in 1541.  Two brothers who ruled this city, Oruc Reis and Hayareddin Barbarossa, made it a part of the Ottoman empire.  The expulsion of diplomat Thomas Lear V from this city sparked a war which involved the capture of the Meshuda and saw a peace signed aboard the Guerriere.  That conflict also saw Genearl Bourmont ? depose Hassan, the last Dey ruler of this city.  For 10 points, name this city involved in the Second Barbary War, the modern day capital of a nation whose independence was agigated for by the FLN.
+
+----
+num: 3
+category: Fine Arts
+difficulty: College
+fixed: None
+seen: 71
+answer: Hannah {Hoch}
+
+[JM] This artist depicted black beetles crawling next to the letters "OZ" in a painting with zero hits on Google, Oz the Tragedy. This artist depicted a naked woman with a shrunken head wearing huge glasses in Strange Beauty, and replaced the forward-facing head of an African rider with the backwards-facing head of a white woman in Abduction, part of this artist's series Ethnography Museum. Another of this artist's works portrays Friedrich Ebert and his defense minister in bathing suits, surrounded by a mermaid and butterflies. That work, Heads of State, was created in a medium this artist developed along with Raoul Haussman. This artist of Da-dandy and High Finance used two wrestlers to form the mustache of Wilhelm II in another work, which also depicts an exotic dancer with the head of Friedrich von Hindenburg, wheels, gears, ball-bearings, and the head of Kathe Kollwitz pierced by a spear below a cut-out of the dancer "Niddy" Impekoven. For 10 points, name this Dada artist of photomontages such as ? Cut with the Dada Kitchen Knife through the Last Weimar Beer-Belly Cultural Epoch in Germany.
+
+----
+num: 4
+category: Literature
+difficulty: College
+fixed: 1
+seen: 59
+answer: The Life of Mr. {Jonathan Wild} the Great
+
+[JM] One character in this novel is nearly raped, in succession, by the captain of an English man-o-war, a count, a hermit, two soldiers, and an African chief magistrate. In this novel's chapter "Of hats," the protagonist chastises factions quarreling over cocked hats and trencher hats, arguing that "[a] hat [is] best which will contain the largest booty." While pregnant with the protagonist, his mother dreams that she is ravished by Mercury and Priapus. The protagonist is baptized by Titus Oates, and creates "a horrible uproar" in Newgate after catching his "Achates," Fireblood, in the arms of his sluttish wife, Laetitia Snap. Throughout this novel, the author contrasts ordinary "goodness" to the title character's "GREATNESS," which consists of "bringing all manner of mischief to mankind." The title character maintains his power by informing on Fierce and Mr. Blueskin, and devotes himself to ruining a jeweler, Mr. Heartfree, in order to sleep with his beautiful wife. Caricaturing Robert Walpole as the amoral title character, for 10 points, name this novel by ? Henry Fielding about a leader of a gang of thieves.
+
+----
+num: 5
+category: Philosophy
+difficulty: College
+fixed: None
+seen: 53
+answer: Science and {Health} with {Key} to the {Scriptures}
+
+[AR] Chapter 5 of this work discusses the conclusions of a committee, which included such figures as Roux, Bouillaud, and Cloquet that was commissioned to explore the claims of Monsieur Berna on clairvoyance and magnetism. That chapter, "Animal Magneticism Unmasked" is followed by one that quotes Thomas De Quincey's line, "mathematics has not a foot to stand upon which is not purely metaphysical." The preface to this work mentions that a biographical sketch of its author can be found in Retrospection and Introspection. The last chapter in the second titular section discusses "Fruitage" and after quoting ? Jesus, Paul and Solomon's Song cites a number of testimonials regarding the healing of Epilepsy, Rheumaticism as well as a successful case of mental surgery. For 10 points, name this foundational work of Christian Science written by Mary Baker Eddy.
+
+----
+num: 6
+category: History
+difficulty: College
+fixed: None
+seen: 81
+answer: {Velupillai Prabhakaran} or {Velupillai Pirabaharan}
+
+[CC] This man faced a revolt by the "Karuna Faction" over disagreements with the TMVP and this man allegedly ordered the massacre of Buddhist monks at Anuradhapura. He sent his wife to Sweden in the 1980s with their children to avoid the IPKF and has held only held one public press conference, which took place in 2002 with Anton Balasingham at Kilinochchi. This man's son Charles Anthony was a noted chemical bomb-maker and this one-time resident of Chennai has been charged by Interpol and by the Madras High Court for the Central Bank bombing. This fan of Clint Eastwood and Napoleon recently attempted to flee the Mutavalli pocket and in 2003 broke off Norway-brokered peace talks. His first accused murder was of the mayor of ? Jaffna in 1975 and although this man described the assassination of Rajiv Gandhi as a “tragic incident,” he has been suspected of plotting that attack and many others using the "Black Tiger" suicide squads. More recently, photos showing his dead body were released. For 10 points, name this recently deceased leader of the Liberation Tigers of Tamil Elaam.
+
+----
+num: 7
+category: Science
+difficulty: College
+fixed: None
+seen: 78
+answer: {Inert pair} effect (accept {Lone pair effect})
+
+[EM] This effect was first described by the same scientist who outlined the importance of dative bonds in coordination complexes, Nevil Sidgwick. A thermodynamic explanation of this effect relies on low values of metal-ligand bond enthalpies and was outlined by Drago, but it is believed that this effect arises from the relativistic contraction in the Bohr atomic model. This effect is used to explain why PbO is more stable than PbO2, why the +1 oxidation state of titanium is so common, and also explains why group 14 elements tend to form compounds in a +2 oxidation state. Occurring due to electrons pulling closer to heavier nuclei, for 10 points, name this effect in which heavier members of the p-block tend to have an oxidation number ? two less than their valency, due to a namesake group of two electrons not participating in bonding.
+
+----
+num: 8
+category: History
+difficulty: College
+fixed: None
+seen: 112
+answer: {Church} Committee [or {United States} Senate {Select} Committee to {Study Governmental Operations} with {Respect} to Intelligence {Activities}]
+
+"Revelations" of this body make up an entire chapter of the recent work Unchecked and Unbalanced, co-authored by the chief counsel for this group, Frederick A. O. Schwarz, Jr.  Seymour Hersch's reports on the "Family Jewels" led to the creation of this entity, which was the counterpart of the House's Pike Committee and which publicized Project Shamrock.  Its namesake was reportedly targeted in HT Lingual, a program unearthed by this entity, while the assassination in Greece of Richard Welch was popularly blamed on this body's actions.  Barry Goldwater was a member of it though it was headed by a namesake Idaho senator, and it resulted in the creation of ? FISA.  Also revealing the campaign against Martin Luther King, Jr. by the FBI, for 10 points, identify this Senate committee that operated from 1973 to 1975 and which investigated abuses in intelligence agencies following the Watergate revelations.
+
+----
+num: 9
+category: Philosophy
+difficulty: College
+fixed: None
+seen: 54
+answer: {Wilfrid Sellars}
+
+[JM] This thinker's student Willem de Vries wrote a 2005 guide to his philosophy. This philosopher responded to Nelson Goodman's arguments about counterfactuals in the essay "Counterfactuals, Dispositions and Causal Modalities," and compared words to chess pieces in "Some Reflections on Language Games." This philosopher argued that "characterizing an episode or a state as that of knowing" means "placing it in the logical space of reasons," and refuted the "layer cake" view of scientific theories in Science, Perception, and Reality. He considered the problem of understanding a pink ice cube in an essay distinguishing the "manifest image" from the title concept, "Philosophy and the Scientific Image of Man." Another of his essays compares the thoughts of a being who uses language to molecules inside a gas, by describing people who have mastered a "Rylean language" and a genius named Jones. For 10 points, name this American analytic philosopher who criticized foundationalism as the ? "myth of the given" in “Empiricism and the Philosophy of Mind.”
+
+----
+num: 10
+category: Literature
+difficulty: College
+fixed: None
+seen: 62
+answer: The {Invention} of {Morel} [or {Morel's Invention} or La {invencion} de {Morel}]
+
+[JM] The narrator of this book steals a copy of Belidor's Travaux, only to discover the exact same copy two weeks later. This book's narrator travels to its central locale with the help of an Italian rugseller in Calcutta named Dalmacio Ombrellieri. The main female character in this book was inspired by its author's love for the actress Louise Brooks. Its narrator is disturbed when two moons and two suns rise over the central location, and writes a diary which begins when a group of characters mysteriously appear. At the end of this book, the nameless narrator decides to subject himself to the title character's machine, which turns people into three-dimensional projections, in order to be with Faustine. Octavio Paz and Jorge Luis Borges both called this book a perfect novel, and it begins with a political fugitive going to a strange Polynesian island, where he encounters an endlessly playing recording created by the title scientific genius. The basis for ? Alan Resnais's movie Last Year in Marienbad, for 10 points, name this book by Adolfo Bioy Casares.
+
+----
+num: 11
+category: Fine Arts
+difficulty: College
+fixed: None
+seen: 72
+answer: The {Mystical Nativity}
+
+[TG] Rab Hatfield argues that twelve figures each holding a banner with an inscription at the top of this painting represent the twelve “privileges” of the Virgin Mary. The bizarre Greek inscription written at the top of this work states it was painted “according to the 11th chapter of Saint John in the second woe of the Apocalypse during the loosing of the devil for three and a half years; then he will be chained in the 12th chapter and we shall see [him buried] as in this picture.” In the foreground of this work several small devils are hiding themselves in the holes of the earth, while above twelve angels dangle golden crowns from the sky, which has opened to reveal the golden light of Heaven. At the bottom of this work three angels surprisingly embrace three humans and crown them with olive branches, while another angel with pink wings on the right speaks to two shepherds who genuflect beside the title event. An abnormally large baby Jesus and Virgin Mary sit under a thatched roof in this painting ?purportedly inspired by the sermons of Savonarola. For 10 points, name this 1500 depiction of the birth of Christ, which is Botticelli's only signed work.
+
+----
+num: 12
+category: Literature
+difficulty: College
+fixed: 57
+seen: 61
+answer: {Rudin}
+
+[JM] This novel's third chapter ends with the protagonist narrating a Scandinavian legend comparing human life to the flight of a bird. In its sixth chapter, a former colleague contrasts the protagonist's surface brilliance with the nobility of Pokorsky. In this novel's epilogue, the protagonist describes his failed scheme to divert a river with Kurbeyev to Mikhailo Mikhaylych Lezhnev. Basistov is enchanted with this novel's protagonist, who defends philosophy from the extreme skepticism of Pigasov. The climax of this novel occurs at Avdyukhin pond, where the title character tells his lover to submit to her mother Darya Mikhaylovna. The title character's eloquence inflames the heart of Natalya Alexeyevna Lasunsky, but his cowardice causes him to return to Tambov before dying on a barricade in Paris in 1848. Focusing on a "man of the forties," for 10 points, name this novel about an intellectual based on Bakunin, written by ? Ivan Turgenev.
+
+----
+num: 13
+category: Social Science
+difficulty: College
+fixed: 1
+seen: 51
+answer: George {Ritzer}
+
+[JM] This thinker drew on the work of Baudrillard and DeBord to analyze the way implosions of time and space create spectacles in a book about modern "cathedrals of consumption," Enchanting a Disenchanted World. This thinker defined the desire of nations and organizations "to impose themselves on various geographic areas" as "grobalization." Along with Don Slater, this social scientist founded the Journal of Consumer Culture, and this author of the seminal textbook Sociological Theory described the expansion of "nonplaces" like shopping malls and casinos, as well as "nonthings, nonpeople, and nonservices," in The Globalization of Nothing. This sociologist updated Weber's theory of rationalization to describe how the forces of "Efficiency, Calculability, Predictability, Increased Control, and the Replacement of Human by Non-human Technology" increasingly make aspects of modern life resemble a ? fast-food chain. For 10 points, name this American sociologist, the author of The McDonaldization of Society.
+
+----
+num: 14
+category: Science
+difficulty: College
+fixed: None
+seen: 80
+answer: {Fisher}-{Yates Shuffle} [or {Knuth Shuffle}]
+
+[MB] A parallel implementation of this algorithm by Gustedt et al notes that the implementation of it by Moses and Oakford and Durstenfeld causes many cache misses due to accessing memory unpredictably, a parallel algorithm that makes heavy use of recursive sampling of a communication matrix.  One variant of this algorithm operates on the range 1 to n - i rather than 1 to n - i + 1 at each step and allows for cyclic varieties of its output.  Besides being related to Sattolo's Algorithm, its optimized running time of Big O of n is achieved through making use of the back of the array, and it operates by iteratively finding a random number k in the range 1 to n and then swapping the elements at the k and n positions.  For 10 points, name this algorithm for randomly ? permuting the elements of a set, sometimes named for the computer scientist who created the MMIX computer architecture and who popularized the algorithm in his The Art of Computer Programming.
+
+----
+num: 15
+category: History
+difficulty: College
+fixed: None
+seen: 71
+answer: {Spartacus} League [or {Spartakusbund}; prompt on "{KPD}" or "{Communist Party} of {Germany}" before mentioned]
+
+[MB] The repeated call to "crucify it" is the answer to the pamphlet "What Does [This Group] Want?", which also called for the "replacement of the military cadaverdiscipline by voluntary discipline of the soldiers".  This group's manifesto alleged that "your governments, too, have carried on the war for the sake of the big money bags", and it lends its name to an uprising that began in the Wolff Telegraph Bureau.  Several of this group's leaders were murdered on the orders of the Free Corps, and their manifesto stated "this must be the ? last war" and that "the 'League of Nations' amounts to the same base brigandage as the peace of Brest-Litovsk."  Renaming itself the KPD in 1918, it was founded by figures like Rosa Luxemburg and Karl Liebknecht.  For 10 points, name this socialist group active in Germany during World War I, named for a Roman revolutionary.
+
+----
+num: 16
+category: History
+difficulty: College
+fixed: 57
+seen: 64
+answer: {Aborigines}
+
+[JM] According to these people, their sacred artifacts were created when two endlessly pregnant sisters broke off pieces of their incredibly long vulvas. A goddess of these people was tormented by her offspring growing inside her until Barraiya speared her, resulting in their birth from her newly created vagina. Figures in their mythology include Yurlungur, a reptile who swallowed and then regurgitated the Wawalag sisters, and the creator goddess Eingana. According to these people, women should be wary of Julana, a spirit who travels under the sand to chase and rape women, and everyone should watch out for small creatures with suction cups on their hands and feet that feed on human blood, the Yara-ma-ya-who. Their island of the dead, Beralku, is the origin of their Djanggawul trinity, and they fear bellowing monsters which hide in waterholes, ? bunyips. In another of their myths, Bobbi-bobbi tore out one of his ribs to create the first boomerang. For 10 points, name these people who believe the Earth was created by the Rainbow Serpent during Dreamtime.
+
+----
+num: 17
+category: Science
+difficulty: College
+fixed: None
+seen: 81
+answer: {Sertoli} cells
+
+[EM] The SF-4 and MSC-1 cell lines were created for these cells, though the most established culture model for them is the TM4 line. During differentiation, these cells express Desert Hedgehog, and these cells are absent in germ cell aplasia, also known as Del Castillo syndrome. These cells express the ERM transcription factor and a particular globulin, that is a glycosylated version of SHBG. In addition to expressing ABP, Sox9 is specifically expressed in these cells during development. During development these cells secrete a TGF-beta family member responsible for promoting the formation of the Wolffian duct, known as anti-Mullerian hormone ?. Their formation is SRY-dependent, and these cells secrete inhibin and activin, which is responsible for modulating their responses to FSH. These cells exist in the seminiferous tubules, where they tight junction to each other to form the blood-testes barrier. For 10 points, name these cells responsible for nursing sperm during their development, named for an Italian.
+
+----
+num: 18
+category: Fine Arts
+difficulty: College
+fixed: None
+seen: 69
+answer: {Iannis Xenakis}
+
+[JM] This composer wrote a piece in which a children's chorus sings nonsense syllables from an anagram of a poem by Rimbaud, Pu Wijnuej we fyp. This composer incorporated ceramic flowerpots into pieces like Oophaa and Komboï, and directed brass players to play while walking around the center of a stage in Eonta. For Sigmund Palm, this composer created a piece for solo cello dedicated to Aristoxenus, Evariste Galois, and Franz Klein, Nomos Alpha. This composer of the percussion pieces Rebons and Psappha used Brownian motion to create the melody for Mikka and N'Shima, and wrote an organ piece whose title is a free anagram of "organon," Gmeeoorh. This composer developed his early style after being encouraged to draw upon his career as an architect by Olivier Messiaen. He developed the programs GENDY and UPIC to help compose his works, and created the pieces ST/10 and Atrées using ? algorithms. For 10 points, name this composer of Metastaseis, a Greek pioneer of stochastic and electronic music.
+
+----
+num: 19
+category: Literature
+difficulty: College
+fixed: None
+seen: 58
+answer: {Gentlemen Prefer Blondes}
+
+[JM] In the sequel to this novel, its main character stars in a movie about the sex life of Dolly Madison. In Vienna, Sigmund Freud tells the protagonist of this novel to cultivate a few inhibitions after learning that she had shot her boss Mr. Jennings, who had tried to rape her in her home town of Little Rock. In its final section, "Brains Are Really Everything," the protagonist marries a man who makes a living censoring dirty movies, Henry Spofford. Its protagonist tells American governmental secrets to Major Falcon while sailing to London, where she manipulates Sir Francis Beekman into buying her a diamond tiara. The protagonist is often mocked by her sarcastic friend Dorothy, and goes on many shopping trips financed by a sugar daddy nicknamed the Button King of Chicago, Gus Eisman. For 10 points, name this novel about professional gold digger ? Lorelei Lee, written by Anita Loos and named for a certain hair color.
+
+----
+num: 20
+category: History
+difficulty: College
+fixed: None
+seen: 69
+answer: {Leo X} (accept {Giovanni} de' {Medici} before mentioned)
+
+[MB] This founder of the League of Mechlin was able to repeal the Pragmatic Sanction of Bourges by signing the French Concordat with the winner at the Battle of Marignano, although that ceded Parma and Piacenza from papal control.  Cardinal Riario was forced to pay the absurdly high fine of 150,000 ducats after he was implicated in a plot that sent a physician to try to kill this man, and Alfonso Petrucci was also strangled by a Moor for his involvement in that plot.  One of his most prized possessions, a gift from Manuel I of Portugal, was made to bow three times before him and spit water at him.  Besides that white elephant named Hanno, this pope supported Frederick ? the Wise over Charles I of Spain in the election for Holy Roman Emperor, and worked to stop the Fifth Lateran Council which started a year before his election.  A more serious problem for this pope was not rectified by the bulls Exsurge Domini or Decet Romanum Pontificem, both targeted at Martin Luther.  For 10 points, name this Renaissance Pope, the successor of Julius II who was originally known as Giovanni de' Medici.

@@ -1,0 +1,312 @@
+####
+tournament: #6101
+round: Show #6101 - Monday, March 7, 2011
+year: 2011
+date: 2011-03-07
+####
+
+num: 1
+category: Art
+difficulty: 200
+seen: 4
+answer: the unicorn
+
+Jean Duvet was "the master of" this one-horned creature because of his series of engravings featuring it.
+
+----
+num: 2
+category: Trash
+difficulty: 200
+seen: 5
+answer: Indiana Jones
+
+Break out the hat & the whip--Harrison Ford has played this character in 4 movies.
+
+----
+num: 3
+category: Trash
+difficulty: 200
+seen: 5
+answer: Brown
+
+It was founded in 1764 as the College of Rhode Island.
+
+----
+num: 4
+category: Science
+difficulty: 200
+seen: 8
+answer: Mercury
+
+It orbits the sun at an average distance of .3871 astronomical units, the lowest average of all the planets.
+
+----
+num: 5
+category: Art
+difficulty: 400
+seen: 4
+answer: Toulouse-Lautrec
+
+Models for this painter & lithographer included dancer La Goulue & singer Aristide Bruant.
+
+----
+num: 6
+category: Trash
+difficulty: 400
+seen: 5
+answer: Columbia
+
+Its official street address is 2960 Broadway.
+
+----
+num: 7
+category: Science
+difficulty: 400
+seen: 5
+answer: Venus
+
+Though bright in the night sky, it has a clouded surface, so the image.
+
+----
+num: 8
+category: Trash
+difficulty: 400
+seen: 4
+answer: September 12th
+
+On this date Rudy Giuliani said, "Show your confidence.  Show you're not afraid.  Go to restaurants.  Go shopping".
+
+----
+num: 9
+category: History
+difficulty: 400
+seen: 5
+answer: the Cape of Good Hope
+
+The discovery of this promontory was taken as a positive sign that India could be reached by sea from Europe.
+
+----
+num: 10
+category: Art
+difficulty: 600
+seen: 4
+answer: impressionism
+
+In 1874 art critic Louis Leroy coined this term for the movement that included Monet & Pissarro.
+
+----
+num: 11
+category: Trash
+difficulty: 600
+seen: 5
+answer: Eddie Murphy
+
+He's been a Nutty Professor twice, a Donkey 4 times, Dr. Dolittle twice & Axel Foley 3 times.
+
+----
+num: 12
+category: Trash
+difficulty: 600
+seen: 5
+answer: Princess Di
+
+In 1995 she said, "I'd like to be a queen in people's hearts... someone's got to go out there & love people & show it".
+
+----
+num: 13
+category: History
+difficulty: 600
+seen: 4
+answer: Goodwill
+
+Be charitable & name this organization whose logo is seen.
+
+----
+num: 14
+category: Art
+difficulty: 800
+seen: 5
+answer: Gauguin
+
+Known for his Tahitian paintings, he served as a laborer in Panama in 1887 while France attempted to build a canal.
+
+----
+num: 15
+category: Trash
+difficulty: 800
+fixed: -1
+seen: 5
+answer:  & 
+
+Yo, these are Sly Stallone's 2 franchises; he's made 6 of one & 4 of the other.
+
+----
+num: 16
+category: Trash
+difficulty: 800
+seen: 5
+answer: Harvard
+
+Its school color is crimson, & that's the veritas.
+
+----
+num: 17
+category: Trash
+difficulty: 800
+seen: 5
+answer: (Émile) Zola
+
+Alphabetically, this French novelist is the last man quoted in "Bartlett's".
+
+----
+num: 18
+category: History
+difficulty: 800
+seen: 5
+answer: good Samaritan law
+
+This type of law exempts from legal liability those who give reasonable aid to strangers in grave physical distress.
+
+----
+num: 19
+category: Art
+difficulty: 1000
+seen: 4
+answer: Socrates
+
+Jacques-Louis David's 1787 painting "The Death of" this Athenian shows him being offered a cup of hemlock.
+
+----
+num: 20
+category: Trash
+difficulty: 1000
+seen: 4
+answer: Cornell
+
+This "Big Red" school was partly endowed by the Morrill Act of 1862.
+
+----
+num: 21
+category: Trash
+difficulty: 1000
+seen: 5
+answer: "Keep on truckin\'"
+
+Cartoonist R. Crumb gets the credit for this 3-word slogan.
+
+----
+num: 22
+category: History
+difficulty: 1000
+seen: 3
+answer: good neighbor
+
+FDR's First Inaugural gave this nickname to his policy towards Latin America.
+
+----
+num: 23
+category: Literature
+difficulty: 400
+seen: 4
+answer: Honey
+
+Launched in 1924 & still around today, Bit-o-this features a bee on the wrapper.
+
+----
+num: 24
+category: Literature
+difficulty: 400
+seen: 4
+answer: where the heart is
+
+These 4 words that complete the saying "home is..." are the title of a Billie Letts novel.
+
+----
+num: 25
+category: Literature
+difficulty: 400
+seen: 4
+answer: dogwood
+
+Woof!  Missouri's tree is the flowering this.
+
+----
+num: 26
+category: Literature
+difficulty: 800
+seen: 4
+answer: Ike
+
+Chewy fruit-flavored candies are rhymingly called Mike & him.
+
+----
+num: 27
+category: Literature
+difficulty: 800
+seen: 4
+answer: the heart of darkness
+
+"The brown current ran swiftly out of" this title place, wrote Joseph Conrad.
+
+----
+num: 28
+category: Literature
+difficulty: 800
+seen: 4
+answer: poppy
+
+The Wicked Witch of the West might say the Golden State's California this will put you to sleep... but it won't.
+
+----
+num: 29
+category: Literature
+difficulty: 1200
+seen: 4
+answer: Andes
+
+These after-dinner mints come individually wrapped in foil that depicts a mountain range.
+
+----
+num: 30
+category: Literature
+difficulty: 1200
+seen: 3
+answer: Sarah Palin
+
+Her latest book is titled "America by Heart: Reflections on Faith, Family & Flag".
+
+----
+num: 31
+category: Literature
+difficulty: 1200
+seen: 4
+answer: a forget-me-not
+
+I'm having a hard time remembering this state flower of Alaska.
+
+----
+num: 32
+category: Literature
+difficulty: 1600
+seen: 5
+answer: Crows
+
+Dots are fruit-flavored gumdrops; this is the avian name for licorice-flavored dots.
+
+----
+num: 33
+category: Literature
+difficulty: 1600
+seen: 4
+answer: the magnolia
+
+This is both the state tree & flower of Mississippi.
+
+----
+num: 34
+category: Literature
+difficulty: 2000
+seen: 6
+answer: Conversation
+
+In the name of candies with sayings on them, this 12-letter word comes between "Sweethearts" & "Hearts".

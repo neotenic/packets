@@ -1,0 +1,267 @@
+####
+tournament: Regional B
+round: round3.pdf
+year: 2002
+####
+
+num: 1
+category: Physics
+difficulty: HS
+seen: 26
+answer: 9 Newtons
+(Solution:  Cf = M v ^2 / R  =  10 X 3^2 / 10 = 9 )
+
+What is the centripetal force, in Ne wtons, that is required to cause a 10 kilogram body to move at 3 meters per second in uniform circular motion with a radius of 10 meters?
+
+----
+num: 2
+category: Biology
+difficulty: HS
+seen: 39
+answer: Bacillus Anthracis
+
+Give the genus and species name for the first bacterium shown to be the cause of a disease:
+
+----
+num: 2
+category: Biology
+difficulty: HS
+seen: 39
+answer: Robert Koch
+
+In the late 1800’s, who was the first person to isolate and grow numerous pathogenic Monerans?
+
+----
+num: 3
+category: Chemistry
+difficulty: HS
+seen: 36
+answer: Fluorine  (Accept:  F)
+
+What element is a corrosive, green ish-yellow gas, is widely used in the manufacturing of polymers su ch as Teflon, and is the 13 ^th most abundant element in the Earth’s crust?
+
+----
+num: 4
+category: Astronomy
+difficulty: HS
+seen: 55
+answer: Weaker Gravitational Pull  (Accept:  Smaller Mass)
+
+Containing roughly ten times mo re gas than Earth’s, why does 
+Titan’s atmosphere extend some ten times farther into space than does our own?
+
+----
+num: 4
+category: Astronomy
+difficulty: HS
+seen: 57
+answer: The Zodiac
+
+What is the most common term for the imaginary band on either side of the ecliptic where the path of the Sun, Moon, and planets are generally found?
+
+----
+num: 5
+category: Math
+difficulty: HS
+fixed: -1
+seen: 24
+answer: 2 
+32
+  (Accept:  2.66)
+
+On a blueprint, if three-qua rters of an inch represents 1 foot, then 2 inches will represent what distance, in feet, expr essed as the most reduced compound fraction?
+
+----
+num: 5
+category: Math
+difficulty: HS
+fixed: -1
+seen: 27
+answer: 18
+(Solution:  X – 4 = ½(X + 10))
+
+How old is Michelle if 4 years ago she was one-half the age she will be 10 years from now?
+
+----
+num: 7
+category: General Science
+difficulty: HS
+seen: 30
+answer: Tundra
+
+What major biome occurs only in the Northern 
+Hemisphere and is composed of both Low Arctic and High Arctic areas?
+
+----
+num: 7
+category: General Science
+difficulty: HS
+seen: 29
+answer: 10 ^18;  10^15;  10^9
+
+Give the respective SI multipliers for the following prefixes: exa; peta; and giga
+
+----
+num: 9
+category: Physics
+difficulty: HS
+seen: 26
+answer: 686 Newtons
+
+Assuming g = 9.8 m/sec^2, what is the weight on Earth, in Newtons, of a 70 kilogram person?
+
+----
+num: 11
+category: Chemistry
+difficulty: HS
+seen: 34
+answer: 3
+
+What is the pH of a solutio n at 25°C that has a hydrogen ion concentration of 0.001?
+
+----
+num: 11
+category: Chemistry
+difficulty: HS
+fixed: -1
+seen: 34
+answer: Helium,  Neon,  Ar Gon  (Accept:  He, Ne, Ar)
+
+Which 3 Noble gases undergo no chemical reactions and form no known compounds?
+
+----
+num: 12
+category: Astronomy
+difficulty: HS
+seen: 53
+answer: Carbon Dioxide  (Accept:  Co^2)
+
+What gas makes up most of the atmosphere of Mars?
+
+----
+num: 12
+category: Astronomy
+difficulty: HS
+seen: 53
+answer: Declination
+
+Longitude is to right as cension as latitude is to:
+
+----
+num: 13
+category: Math
+difficulty: HS
+fixed: -1
+seen: 26
+answer: 31, 37, 41, 43, 47
+
+In order, what are the prime numbers between 30 and 50?
+
+----
+num: 13
+category: Math
+difficulty: HS
+seen: 25
+answer: 2×3×5×5×7  (Accept:  2×3×5 ^2×7)
+
+Find the prime factorization of 1050:
+
+----
+num: 14
+category: Earth Science
+difficulty: HS
+seen: 65
+answer: Surf
+
+What is the term for wave activity between the line of breakers and the shore, produced as an ocean wave steepens and falls forward?
+
+----
+num: 15
+category: General Science
+difficulty: HS
+seen: 33
+answer: Parfocal  (Accept:  Parfocality)
+
+What term describes the ability of a microscope to remain very nearly in focus when switc hing from one objective lens to another:
+
+----
+num: 18
+category: Biology
+difficulty: HS
+seen: 40
+answer: Commensalism
+
+One species benefits while th e other is unaffected is most specifically an example of wh at symbiotic relationship?
+
+----
+num: 18
+category: Biology
+difficulty: HS
+seen: 40
+answer: Lenticel
+
+What is the term for the epiderma l rupture in cork cells, common to the birch tree, that allows air to diffuse trough the bark?
+
+----
+num: 19
+category: Chemistry
+difficulty: HS
+seen: 37
+answer: Material Safety Data Sheet
+
+What does the acronym MSDS, the safety information sheet for a particular chemical substance, stand for?
+
+----
+num: 20
+category: Astronomy
+difficulty: HS
+seen: 53
+answer: Maria
+
+What is the common astronomical term that derives its name from the Latin word meaning ocean or ‘seas’ that is used to label the darker and smoother parts of the moon’s surface:
+
+----
+num: 20
+category: Astronomy
+difficulty: HS
+seen: 54
+answer: The Solar Wind
+
+What celestial phenomenon most directly causes a comet's tail to point away from the Sun:
+
+----
+num: 22
+category: General Science
+difficulty: HS
+seen: 28
+answer: Id
+
+In Freudian theory, libidinal drives reside in what division of the personality?
+
+----
+num: 23
+category: Physics
+difficulty: HS
+seen: 26
+answer: 0.1 Meters
+(Solution:  Wavelength = Speed  / F  = 350 / 3,500 = 0.1 Meters)
+
+What is the wavelength, in mete rs, of a sound wave that has a frequency of 3,500 hertz and a speed in a ce rtain medium of 350 meters per second?
+
+----
+num: 24
+category: Biology
+difficulty: HS
+seen: 39
+answer: Flexion
+
+What is the anatomical term for m ovement of a bone that results in a decrease in the angle of a joint, bringing bones together?
+
+----
+num: 25
+category: Chemistry
+difficulty: HS
+seen: 34
+answer: Sodium  (Acce Pt:  Sodium Hydroxide)
+
+In the chemical reaction that expands a typical car air bag, when sodium azide is broken down, what main toxic product is released in the first reaction?

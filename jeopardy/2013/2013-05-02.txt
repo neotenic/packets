@@ -1,0 +1,383 @@
+####
+tournament: #6599
+round: Show #6599 - Thursday, May 2, 2013
+year: 2013
+date: 2013-05-02
+####
+
+num: 1
+category: Geography
+difficulty: 200
+seen: 8
+answer: Chicago
+
+This city's 1st district station is on State Street, that great street.
+
+----
+num: 2
+category: History
+difficulty: 200
+seen: 5
+answer: submarine
+
+The Seawolf class of this vessel has 8 torpedo tubes.
+
+----
+num: 3
+category: Trash
+difficulty: 200
+seen: 5
+answer: Indians
+
+Residents of New Delhi or Mumbai.
+
+----
+num: 4
+category: Literature
+difficulty: 200
+seen: 4
+answer: moth
+
+Butterfly cousin.
+
+----
+num: 5
+category: Geography
+difficulty: 400
+seen: 8
+answer: San Francisco
+
+This city's Tenderloin District station is on Eddy Street.
+
+----
+num: 6
+category: Religion
+difficulty: 400
+seen: 10
+answer: pickles
+
+Cornichons are itty bitty these, made from gherkins.
+
+----
+num: 7
+category: Trash
+difficulty: 400
+seen: 5
+answer: pirates
+
+Capt. Jack Sparrow & Capt. Blood.
+
+----
+num: 8
+category: Literature
+difficulty: 400
+seen: 4
+answer: metro
+
+Nickname for the subway in Paris.
+
+----
+num: 9
+category: Geography
+difficulty: 600
+seen: 7
+answer: Montreal
+
+This city's Poste de Quartier 31 is right near the Expos' old Jarry Park.
+
+----
+num: 10
+category: History
+difficulty: 600
+seen: 5
+answer: aircraft carrier
+
+The USS Carl Vinson, this type of ship, is nearly as long as the Empire State Building is tall.
+
+----
+num: 11
+category: Religion
+difficulty: 600
+seen: 9
+answer: horseradish
+
+Maror, the bitter herb found on the Passover table, is usually this root.
+
+----
+num: 12
+category: Trash
+difficulty: 600
+seen: 6
+answer: brewers
+
+Arthur Guinness & Adolphus Busch.
+
+----
+num: 13
+category: Literature
+difficulty: 600
+seen: 4
+answer: tore
+
+Sped off, or pulled apart.
+
+----
+num: 14
+category: Geography
+difficulty: 800
+seen: 8
+answer: Detroit
+
+If you lose yourself in this city, call the 12th precinct station on West 7 Mile.
+
+----
+num: 15
+category: Religion
+difficulty: 800
+seen: 10
+answer: mustard
+
+In 1866 Colman's, a British brand of this condiment, received a special seal of approval from Queen Victoria.
+
+----
+num: 16
+category: Literature
+difficulty: 800
+seen: 4
+answer: term
+
+Where American college kids say semester, Brits are more likely to say this 4-letter word.
+
+----
+num: 17
+category: Geography
+difficulty: 1000
+seen: 8
+answer: Florida
+
+Mouth off to a highway patrolman in this state & you may find yourself at the Broward County station.
+
+----
+num: 18
+category: History
+difficulty: 1000
+seen: 4
+answer: battleship
+
+In 1992 the USS Missouri, the last of this type of heavily armored warship in the U.S. Navy, was decommissioned.
+
+----
+num: 19
+category: Religion
+difficulty: 1000
+seen: 10
+answer: tahini
+
+This thick paste made from sesame seeds flavors hummus & baba ganoush.
+
+----
+num: 20
+category: Trash
+difficulty: 1000
+seen: 4
+answer: Blue Jays
+
+Mr. Leno & Mr. Mohr, in a sad mood.
+
+----
+num: 21
+category: Literature
+difficulty: 1000
+seen: 4
+answer: Home
+
+A key that returns the cursor to the beginning of the line you're on.
+
+----
+num: 22
+category: History
+difficulty: 400
+seen: 4
+answer: Georgia
+
+Waynesboro near the Savannah River in this state is known as the "bird dog capital of the world".
+
+----
+num: 23
+category: Trash
+difficulty: 400
+seen: 5
+answer: Judy Garland
+
+In 2012 Tracie Bennett starred on Broadway as this entertainer in "End of the Rainbow".
+
+----
+num: 24
+category: Science
+difficulty: 400
+seen: 6
+answer: Venus
+
+This planet shines the brightest in our sky.
+
+----
+num: 25
+category: History
+difficulty: 400
+seen: 4
+answer: the Seine
+
+In 845 the Vikings rowed up this river & plundered Paris; they left only after accepting a bribe from Charles the Bald.
+
+----
+num: 26
+category: History
+difficulty: 400
+seen: 4
+answer: invincible
+
+This adjective meaning undefeatable & unconquerable was often applied to the Spanish Armada.
+
+----
+num: 27
+category: History
+difficulty: 800
+seen: 4
+answer: St. Mark\'s
+
+After this Venice cathedral burned down during a 976 uprising, it was rebuilt twice over the next 120 years.
+
+----
+num: 28
+category: History
+difficulty: 800
+seen: 4
+answer: convention
+
+One on women's rights was held at Seneca Falls, New York in 1848.
+
+----
+num: 29
+category: History
+difficulty: 1200
+seen: 5
+answer: Churchill
+
+Last name of brothers John & Henry, who in 1874 provided 80 acres for what became the home of the Kentucky Derby.
+
+----
+num: 30
+category: Trash
+difficulty: 1200
+seen: 6
+answer: Jessica Lange
+
+She went near the edge herself playing fragile actress Frances Farmer in a 1982 film.
+
+----
+num: 31
+category: Science
+difficulty: 1200
+seen: 5
+answer: Earth
+
+It's where you'll find the Haviland Crater.
+
+----
+num: 32
+category: History
+difficulty: 1200
+seen: 3
+answer: wheel
+
+In the Middle Ages, to be "broken on" one of these, like St. Catherine, was to be lashed to it & beaten.
+
+----
+num: 33
+category: History
+difficulty: 1200
+seen: 5
+answer: convoy
+
+You don't have to be a CBer to know that it's a group of military vehicles traveling together for safety.
+
+----
+num: 34
+category: Trash
+difficulty: 1600
+seen: 5
+answer: Michelle Williams
+
+In 2011 she starred as Marilyn Monroe in "My Week with Marilyn".
+
+----
+num: 35
+category: Science
+difficulty: 1600
+seen: 5
+answer: Mercury
+
+There a day is twice as long as a year, 4,222 hours to 2,111.
+
+----
+num: 36
+category: History
+difficulty: 1600
+seen: 4
+answer: Xanadu
+
+After a journey of 3 1/2 years, Marco Polo reached Shang-tu, China, which was called this in "Kubla Khan".
+
+----
+num: 37
+category: History
+difficulty: 1600
+seen: 4
+answer: Bougainvillea
+
+A popular wallflower in warm climates, it's the colorful shrub seen.
+
+----
+num: 38
+category: History
+difficulty: 2000
+seen: 6
+answer: Newport
+
+Known for its jazz festival, this Rhode Island city also has a Greek festival & a chowder cook-off.
+
+----
+num: 39
+category: Trash
+difficulty: 2000
+seen: 8
+answer: Faye Dunaway
+
+In her own memoir, she politely called "Mommie Dearest" "a turning point" in her career.
+
+----
+num: 40
+category: Science
+difficulty: 2000
+seen: 8
+answer: Mars
+
+It has the solar system's deepest canyon.
+
+----
+num: 41
+category: History
+difficulty: 2000
+seen: 5
+answer: St. Thomas Aquinas
+
+His "Summa Against the Gentiles" may have been intended as a teaching & study manual for missionaries.
+
+----
+num: 42
+category: History
+difficulty: 2000
+seen: 5
+answer: anvil
+
+It's the more common name for the tiny ear bone called the incus.

@@ -1,0 +1,496 @@
+####
+tournament: Sample Set 5
+round: Round3.pdf
+####
+
+num: 1
+category: Math
+difficulty: HS
+answer: X) X − X^3/3! + X^5/5!
+
+
+Which of the following is the sum of the first three nonzero terms of the Taylor series of sin(x) around 0?
+X) W) xx−+ xx^3^3/3/3!!+ + xx^5^5/5! /5! (read as: x plus x cubed over 3 factorial plus x to the fifth over 5 factorial)
+Y) 1 − x^2/2! + x^4/4! 
+Z) 1 + x^2/2! + x^4/4!
+
+----
+num: 2
+category: Chemistry
+difficulty: HS
+answer: W) Alpha
+
+Which of the following types of decay does uranium-238 experience in order to yield thorium-234?
+W) Alpha 
+X) Beta 
+Y) Double beta 
+Z) Gamma
+
+----
+num: 2
+category: General Science
+difficulty: MS
+answer: X) Protactinium
+
+Which of the following elements exists in nature?
+W) Berkelium
+X) Protactinium (read as: prōe-tahk-TI-nee-uhm)
+Y) Mendelevium (read as: mehn-deh-LEE-vee-uhm)
+Z) Curium
+
+----
+num: 2
+category: General Science
+difficulty: MS
+answer: X)  Both Have the Same M Ass
+
+Which of the following is NOT true regarding one mole of two different stable isotopes of the same atom?
+W) Both have the same number of molecules
+X) Both have the same mass
+Y) If used in the same chemical reaction, both produce the same number of moles of products
+Z) Both have the same number of protons
+
+----
+num: 3
+category: Earth and Space
+difficulty: HS
+answer: Y) Terrigenous
+
+
+Mineral grains weathered from continental rocks and transported to the oceans are deposited as which of the following kinds of sediments?
+W) Calcareous (read as: kahl-KEHR-ee-is) ooze
+X) Atoll
+Y) Terrigenous (read as: teh-RI-jeh-nis)
+Z) Hydrogenous
+
+----
+num: 3
+category: Earth and Space Science
+difficulty: MS
+answer: W)  Very Massive
+
+In order for a star to enter a supernova phase, it must be which of the following?
+W) Very massive
+X) Very young
+Y) Very cool
+Z) Very distant
+
+----
+num: 3
+category: Earth and Space Science
+difficulty: MS
+answer: Y) There Are More Sunspots
+
+
+The Sun is now transitioning from a “quiet” portion of the solar cycle to an “active” portion. Which of the following indicates this is occurring?
+W) There are much stronger aurora australis than aurora borealis
+X) Summer temperatures are higher
+Y) There are more sunspots
+Z) The speed of the solar wind has increased significantly
+
+----
+num: 4
+category: Chemistry
+difficulty: HS
+answer: Y) Hybridization
+
+Which of the following is the term for the mixing of atomic orbitals to explain covalent bond s?
+W) Transmutation
+X) Ionization
+Y) Hybridization 
+Z) Localization
+
+----
+num: 5
+category: Biology
+difficulty: HS
+answer: Y)  Switching to Higher-Energy Food Sources
+
+Which of the following is NOT a way that monarch butterflies manage energy on their migrations?
+W) Fat storage in the abdomen
+X) Flying with the wind
+Y) Switching to higher-energy food sources
+Z) Gliding instead of flapping
+
+----
+num: 6
+category: Chemistry
+difficulty: HS
+answer: X) Methanol
+
+Denatured alcohol contains which of the following toxic substances added to ethanol?
+W) Propanol
+X) Methanol
+Y) Hexanol
+Z) Octanol
+
+----
+num: 6
+category: Chemistry
+difficulty: HS
+answer: Z) Sodium Hydroxide
+
+Pyrex glassware contains silicon dioxide, which has acidic properties and should not be used to store which of the following?
+W) Dihydrogen monoxide
+X) Acetic acid
+Y) Sodium chloride
+Z) Sodium hydroxide
+
+----
+num: 9
+category: Life Science
+difficulty: MS
+answer: Y) Impetigo
+
+Which of the following is the name of a highly contagious skin infection that mainly affects infants and children, appearing primarily as red sores on the face?
+W) Cellulitis (read as: sehl-yeh-LY-tis)
+X) Shingles
+Y) Impetigo
+Z) Herpes simplex
+
+----
+num: 9
+category: Life Science
+difficulty: MS
+answer: Y) the Nail Is White
+
+
+Fingernails can reveal much about a person’s overall health. Which of the following nail appearances corresponds to liver disease?
+W) Half of the nail is pink and half of the nail is white
+X) The nail bed is red
+Y) The nail is white
+Z) The nail is yellowish, with a slight blush at the base
+
+----
+num: 10
+category: General Science
+difficulty: MS
+answer: Y)  Paper
+
+Which of the following substances makes up the highest percentage of U.S. municipal waste composition?
+W) Food scraps
+X) Yard trimmings
+Y) Paper
+Z) Plastics
+
+----
+num: 11
+category: Physics
+difficulty: HS
+answer: W) 0.5
+
+
+What is the average force, in newtons, exerted on a 25-gram egg by a bed-sheet if the egg hits the sheet at 4 meters per second and takes 0.2 seconds to stop?
+W) 0.5
+X) 1.5
+Y) 5
+Z) 50
+
+----
+num: 11
+category: Physical Science
+difficulty: MS
+answer: X) Flammability
+
+Which of the following is NOT a physical property?
+W) Color
+X) Flammability
+Y) Melting point
+Z) Density
+
+----
+num: 12
+category: Earth and Space
+difficulty: HS
+answer: X) It Will Expand Forever, but the Speed of Its Expansion Will 
+Slowly Approach Zero
+
+If Omega is exactly one, which of the following is 
+TRUE about the universe?
+W) It will expand forever at an accelerating rate
+X) It will expand forever, but the speed of its expansion will slowly approach zero
+Y) It will eventually coll apse upon itself
+Z) It will eventually be destroyed by a black hole
+
+----
+num: 12
+category: Earth and Space Science
+difficulty: MS
+answer: Z) Permanent Rock Folding
+
+All except which of the following indicate that glaciers modified a landscape ?
+W) Arêtes (read as: ah-RATES), cirques, and horns
+X) Moraines, drumlins, and kettle lakes
+Y) Glacial flour and glacial striations
+Z) Permanent rock folding
+
+----
+num: 13
+category: Physics
+difficulty: HS
+answer: Y) It Can Be Turned on and Off by Switching Current on and Off
+
+Which of the following represents one advantage of an electromagnet over a permanent magnet?
+W) It does not require a power source
+X) It does not have magnetic polarity
+Y) It can be turned on and off by switching current on and off
+Z) It can readily be found in nature
+
+----
+num: 13
+category: Physical Science
+difficulty: MS
+answer: Z) Solid
+
+The particles of which of the following states of matter have the strongest attraction between them?
+W) Gas
+X) Liquid
+Y) Plasma
+Z) Solid
+
+----
+num: 14
+category: Energy
+difficulty: MS
+answer: W)  Wood
+
+Which of the following types of biomass energy do we use the most in the United States?
+W) Wood
+X) Biofuels
+Y) Trash
+Z) Landfill gas
+
+----
+num: 14
+category: Energy
+difficulty: MS
+answer: Y)  Texas
+
+As of 2008, which of the following states consumed the most energy , including residential, commercial, industrial , and transportation sectors?
+W) California
+X) Florida
+Y) Texas
+Z) New York
+
+----
+num: 15
+category: Math
+difficulty: HS
+answer: W) I
+
+The line with equation y = −3x – 5 contains points in each quadrant 
+EXCEPT which of the following ?
+W) I
+X) II
+Y) III
+Z) IV
+
+----
+num: 16
+category: Earth and Space
+difficulty: HS
+answer: X) Freezing Temperature
+
+Which of the following characteristics changes most significantly in local water bodies when rock salt is sprayed on icy winter roads?
+W) Water temperature 
+X) Freezing temperature
+Y) pH
+Z) Phosphate concentration
+
+----
+num: 16
+category: Earth and Space
+difficulty: HS
+answer: Y)  They Provide Excelle Nt Views of the Polar Regions
+
+Which of the following is NOT true of satellites in geostationary orbits?
+W) They are in the line-of-sight of more than one third of the Earth’s surface
+X) They are useful for weather monitoring and communications 
+Y) They provide excellent views of the polar regions
+Z) They can receive transmissions from free-floating balloons, buoys, and remote automatic data collection stations
+
+----
+num: 16
+category: Earth and Space Science
+difficulty: MS
+seen: 1
+answer: W) Shell Fragments
+
+A rock is described as a bioclastic sedimentary rock. Of which of the following could it be composed?
+W) Shell fragments 
+X) Quartz grains
+Y) Peat moss
+Z) Massive gypsum
+
+----
+num: 17
+category: Physics
+difficulty: HS
+answer: W) the Amount of Thermal Energy Required to Change the 
+Temperature of a Substance by a Certain  Amount Per Unit of Mass
+
+Which of the following statements BEST describes specific heat capacity?
+W) The amount of thermal energy required to change the temperature of a substance by a certain amount per unit of mass
+X) The amount of thermal energy required to alter the physical state of a given substance
+Y) The total amount of thermal energy in a specific system
+Z) The average kinetic energy of molecules in a system
+
+----
+num: 18
+category: Math
+difficulty: HS
+answer: X) Cosine
+
+Which of the following is an even function?
+W) Sine
+X) Cosine
+Y) Tangent
+Z) Cotangent
+
+----
+num: 19
+category: Energy
+difficulty: MS
+answer: Z) Reduction in the Number of Consumers
+
+Typical households using natural gas consumed 22% less natural gas in 2009 than in 1990. Which of the following is NOT a reason for the decline?
+W) Increased efficiency of appliances
+X) Population shift towards warmer regions
+Y) Decreased use of natural gas for home heating
+Z) Reduction in the number of consumers
+
+----
+num: 19
+category: Energy
+difficulty: MS
+answer: X) 30%
+
+
+According to the Energy Information Administration, as of 2009, a pproximately what percentage of U.S. crude oil production took place in the Gulf of Mexico?
+W) 15%
+X) 30%
+Y) 45%
+Z) 60%
+
+----
+num: 20
+category: Biology
+difficulty: HS
+answer: X) It Is Attached to an Amino Acid at the 5 Prime End
+
+Transfer RNA has all of the following characteristics, EXCEPTwhich of the following?
+W) It travels from the nucleus to the cytoplasm in eukaryotes
+X) It is attached to an amino acid at the 5 prime end 
+Y) Its three dimensional structure is roughly L-shaped
+Z) It can be used repeatedly
+
+----
+num: 20
+category: Life Science
+difficulty: MS
+answer: Z) Elephant
+
+Which of the following animals has the longest gestationperiod?
+W) Horse
+X) Hippopotamus
+Y) Lion
+Z) Elephant
+
+----
+num: 22
+category: Biology
+difficulty: HS
+answer: Z) Nitrile
+
+Which of the following organic groups is NEVER bound to the central carbon atom of an amino acid?
+W) Carboxyl
+X) Methyl
+Y) Amine
+Z) Nitrile
+
+----
+num: 22
+category: Earth and Space Science
+difficulty: MS
+seen: 1
+answer: W) Core
+
+Gamma rays released during the Sun’s fusion would take thousands of years to reach the Sun’s surface from which of the following solar layers?
+W) Core
+X) Radiative zone
+Y) Convective zone
+Z) Photosphere
+
+----
+num: 23
+category: Energy
+difficulty: HS
+answer: Z)  Uni-Directional Metering
+
+Which of the following does NOT represent a po tential benefit of smart grids?
+W) Facilitation of the use of plug -in hybrids and electric vehicles
+X) Optimization of power plant utilization
+Y) Integration of renewable energy sources
+Z) Uni-directional metering
+
+----
+num: 23
+category: Energy
+difficulty: MS
+seen: 1
+answer: X) the Car’s Kinetic Energy
+
+The work required to stop a moving car is equal to which of the following?
+W) Power output of the car
+X) The car’s kinetic energy
+Y) The product of the mass of the car and its acceleration
+Z) The momentum of the car
+
+----
+num: 23
+category: Energy
+difficulty: MS
+answer: X) 10
+
+
+Almost everywhere across the entire planet, the layer of ground at a depth between 3 and 100 meters is a relatively constant temperature. In degrees Celsius, which of the following temperatures is it?
+W) 5
+X) 10
+Y) 20
+Z) 25
+
+----
+num: 24
+category: Physical Science
+difficulty: MS
+answer: W) Oxygen
+
+Which of the following el ements will most likely gain two electrons during a chemical reaction?
+W) Oxygen 
+X) Strontium
+Y) Nitrogen
+Z) Fluorine
+
+----
+num: 25
+category: Biology
+difficulty: HS
+answer: Z) Apical Meristem
+
+In plants, which of the following groups of cells is responsible for the growth of shoots?
+W) Secondary meristem
+X) Parenchyma (read as: pah-REHN-ki-mah) cells
+Y) Guard cells
+Z) Apical (read as: AY-pi-kahl) meristem
+
+----
+num: 25
+category: Life Science
+difficulty: MS
+answer: Z) Proboscis Monkey
+
+Which of the following organisms is NOT a habitual biped?
+W) Kangaroo mouse
+X) Ostrich
+Y) Gibbon
+Z) Proboscis monkey

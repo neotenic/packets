@@ -1,0 +1,324 @@
+####
+tournament: HSAPQ 4Q2
+round: 4q2-03.pdf
+year: 2009
+####
+
+num: 1
+category: Science
+difficulty: HS
+fixed: -1
+seen: 487
+answer: {parallelity}
+
+Playfair's Postulate states that, given a point and a line, only one object with this property can be constructed. That postulate is logically equivalent to Euclid's fifth postulate, which is sometimes named after this property. Corresponding angles are equal if the transverse line generating them intersects two lines with this property. This property is exhibited by two lines that have the same slope but different intercepts. For 10 points, give this property that is exhibited by any two coplanar lines that do not intersect.
+
+----
+num: 2
+category: History
+difficulty: HS
+fixed: 57
+seen: 419
+answer: Daniel {Boone}
+
+This man returned to North Carolina from the French and Indian War in 1756 and married Rebecca Bryan, with whom he had ten children. This man was placed in charge of laying out a road from present-day Kingsport, Tennessee, through the Cumberland Gap and onto the Kentucky River, where this man later resettled with his family in a town he named after himself. For 10 points, name this iconic American explorer and woodsman whose adventures made him one of the first U.S. folk heroes.
+
+----
+num: 3
+category: Science
+difficulty: HS
+fixed: 57
+seen: 490
+answer: {Permian} Period
+
+Animals extant during this period include Edaphosaurus and Dimetrodon, and the dominant lifeforms during this period were therapsids, the direct ancestors of mammals. Gymnosperms became the dominant form of plant life during this period. During this period, the supercontinent of Pangaea was formed. This was the last period of the Paleozoic Era. For 10 points, name this period lasting from approximately 290 to 248 million years ago, which ended with the largest mass extinction ever recorded on Earth.
+
+----
+num: 4
+category: History
+difficulty: HS
+fixed: 57
+seen: 414
+answer: the 1963 {March} on {Washington} for Jobs and Freedom
+
+Bayard (BAY-urd) Rustin was responsible for organizing the logistics of this event. John Lewis, the youngest person to speak at this event, controversially criticized John F. Kennedy in his speech. The most famous speech given at this event mentioned coming to this event's location to "cash a check" and expressed hope that "this nation will rise up and live out the true meaning of its creed." For 10 points, name this 1963 protest rally "for Jobs and Freedom" that featured Martin Luther King's "I Have a Dream" speech, which took place at the Lincoln Memorial.
+
+----
+num: 5
+category: Science
+difficulty: HS
+fixed: 1
+seen: 487
+answer: serotonin
+
+This substance activates its 5-HT receptors, and tyrosine (TY-ro-seen) is the metabolic precursor of this substance. It is released in the Raphe (RAW-fay) nuclei. Overdoses of this neurotransmitter (NUR-oh-"TRANS"-mitt-ur) can lead to high heart rate and muscle twitching, and this neurotransmitter's levels have been shown to increase with exercise. This substance's "reuptake inhibitors" include Zoloft and Prozac. For 10 points, name this neurotransmitter, low levels of which can cause depression.
+
+----
+num: 6
+category: Literature
+difficulty: HS
+fixed: 1
+seen: 442
+answer: William Carlos {Williams}
+
+This man's works include a long poetic description of a New Jersy town, Paterson. He wrote about an item "glazed with rain water beside the white chickens" in a poem in which "so much depends upon" that titular object, and in another of his poems, the speaker apologizes for "eating all the plums that were in the icebox and which you were probably saving for breakfast." For 10 points, name this poet and physician who wrote "The Red Wheelbarrow" and "This Is Just To Say."
+
+----
+num: 7
+category: Science
+difficulty: HS
+fixed: 1
+seen: 486
+answer: {ideal} gas [prompt on {gas}]
+
+The free electron model analyzes the valence electrons of a metal as though they behaved like one of these entities. Substances tend to behave more like these as temperature increases and particle number decreases, thereby decreasing the relative size of intermolecular (IN-ter-mo-LECK-you-lur) forces. For 10 points, name these substances, whose namesake equation of state is often given as PV (P-V) equals nRT (N-R-T).
+
+----
+num: 8
+category: Fine Arts
+difficulty: HS
+fixed: 57
+seen: 490
+answer: Kingdom of {Spain} [or {Reino} de {Espana}]
+
+After a visit to this nation, Mikhail Glinka wrote an orchestral piece about a summer night in this nation's capital. "Evocacion" [eh-vo-kah-see-own] opens one composer's suite of twelve works about this nation. Another composer from this nation wrote a ballet, The Three-Cornered Hat, as well as three nocturnes for piano and orchestra entitled Nights in the Gardens of this nation. For 10 points, name this nation that is the subject of the Iberia suite, home to the composers Isaac Albeniz and Manuel de Falla.
+
+----
+num: 9
+category: Science
+difficulty: HS
+fixed: 57
+seen: 483
+answer: {pendulums}
+
+One of these devices named for Persoz can measure a sample's hardness. The double type of this object is a classic example of chaotic behavior. A useful approximation when working with these objects involves assuming that "sin theta equals theta." These objects have period approximately equal to "two pi times the square root of quantity length over gravitational acceleration." These devices exhibit simple harmonic motion, and one of these was used to show the rotation of the earth by Leon Foucault. For 10 points, name these devices consisting of a weight suspended from a pivot.
+
+----
+num: 10
+category: History
+difficulty: HS
+fixed: -1
+seen: 422
+answer: Gaius Julius Caesar {Augustus} [or Octavian; or Gaius Octavius Thurinus]
+
+This emperor is said to have cried, "Varus, give me back my legions," after a loss to Arminius at the Battle of Teutoburg Forest. This ruler was the subject of a philippic by Cicero. This man's general Agrippa was successful in the Battle of Actium over his political opponent, who formed the Second Triumvirate with himself and Marcus Lepidus. This emperor was succeeded by Tiberius. For 10 points, name this first emperor of the Roman Empire, the adopted son of Julius Caesar.
+
+----
+num: 11
+category: Mythology
+difficulty: HS
+fixed: 1
+seen: 779
+answer: Ixion
+
+This man's wife Dia was the mother of Pirithous (pie-RITH-o-US), though legends differ whether this man or Zeus was the father. This man's horses were seized after he failed to keep his promise of a gift to his wife's father Eioneus, and this man became the first mortal to murder a family member when he cast Eioneus into a pit. This man became father of the Centaurs after making love to the cloud Nephele, which this figure thought was Hera. For 10 points, name this man who was punished by Zeus by being bound to a fiery wheel for eternity.
+
+----
+num: 12
+category: Literature
+difficulty: HS
+fixed: 57
+seen: 445
+answer: {Invisible} Man [do not accept "The {Invisible Man}"]
+
+This novel's protagonist empties a spittoon on a man whom he confuses for a person that gave him false letters of recommendation. The protagonist of this novel listens to Homer Barbee, after which the protagonist is mistaken for Rinehart and ends up fighting with Lucius Brockway. This novel ends with a riot in Harlem because of Tod Clifton's death. For 10 points, name this novel that contains the scene "Battle Royal" and features Brother Jack of the Brotherhood, whose anonymous title character was created by Ralph Ellison.
+
+----
+num: 13
+category: History
+difficulty: HS
+fixed: 57
+seen: 414
+answer: {Pericles}
+
+This man established a colony at Amphipolis (am-PHI-poh-liss), and he attempted to call a Panhellenic congress in 448 BCE. This man was an opponent of the Areopagus, and he became a prominent figure by prosecuting Cimon. This man destroyed Euboea in 446 BCE after it revolted against the Delian League, and he oversaw a 445 truce between Sparta and his city that allowed for a flourishing of the arts. For 10 points, name this Athenian statesman of that city's Golden Age.
+
+----
+num: 14
+category: Science
+difficulty: HS
+fixed: 1
+seen: 483
+answer: {cell membrane}
+
+Cadherins (cad-HERE-inz) and integrins (IN-tuh-grinz) are among the many proteins that span this structure, and flippases (FLIP-ay-suhz) aid molecule movement in it. The fluid mosaic model of this structure states that it is composed of structures like lipid rafts and protein complexes floating freely in a phospholipid bilayer (FOSS-fo-LIP-id BY-lay-ur). Ion channels aid ion transport through this entity to enter or exit the cell. For 10 points, name this barrier that separates a cell from the outside environment.
+
+----
+num: 15
+category: History
+difficulty: HS
+fixed: 57
+seen: 422
+answer: Republic of {Georgia} [or {Sakartvelos Respublika}]
+
+This country's southwest is the autonomous province of Ajaria. The northwestern extension of this country is another ethnic enclave called Abkhazia. The most recent area of contention in this country is a region in its central north centered on Tshkinvali, where forces from this country fought with Russian troops in the fall of 2008. This country, which claims control over the breakaway region of South Ossetia, is a Caucasian state that borders Azerbaijan, Armenia, Turkey, Russia, and the Black Sea. For 10 points, name this country that shares its name with a U.S. state.
+
+----
+num: 16
+category: Literature
+difficulty: HS
+fixed: 1
+seen: 451
+answer: Aleksandr Isayevich {Solzhenitsyn}
+
+In one work by this author, the prisoner Sologdin attempts to trade his “voice encoder” for his freedom. In another of this man's novels, Pavel Rusanov, the government informer with a large tumor on his neck, is one of the figures that Oleg Kostoglov meets at the hospital. This author of First Circle and The Cancer Ward also wrote a work that begins with a trumpet signaling the awakening of the title character, who lives in a gulag labor camp. For 10 points, name this Soviet author who emigrated to the U.S. and wrote One Day in the Life of Ivan Denisovich.
+
+----
+num: 17
+category: Trash
+difficulty: HS
+fixed: 1
+seen: 1034
+answer: The {Beatles}
+
+In one song, this band says that "We would shout and swim about the coral that lies beneath the waves," if they were at the titular location. A folk song by this band sees the title character lose a shootout with Dan. Another song by this band laments a preacher "writing the words of a sermon that no one will hear," and asks where all the lonely people come from. A guitarist for this band wrote a song that repeatedly states, "I don't want to leave her now." For 10 points, name this band originally from Liverpool, England, that sang "Rocky Raccoon," "Eleanor Rigby," and "Something."
+
+----
+num: 18
+category: Literature
+difficulty: HS
+fixed: 57
+seen: 453
+answer: The {Canterbury} Tales
+
+In one part of this work, Celia survives boiling and beheading because of her Christian faith. In another section of this work, Chanticleer tricks Reynard into letting him go. This work includes the story of Nicholas telling John the Carpenter about a flood to sleep with his wife Allison. In its first story, Arcite and Palomon fight over Emily. For 10 points name this work in which characters like the Manciple, Nun's Priest, Miller, and Knight tell stories while on a pilgrimage, a work of Geoffrey Chaucer.
+
+----
+num: 19
+category: Science
+difficulty: HS
+fixed: 1
+seen: 485
+answer: Mac {OSX} [or Macintosh Operating System {Ten}; accept letter-by-letter pronunciations of
+
+This operating system is based on Darwin, a flavor of BSD. This operating system includes the "Terminal" application, through which Unix commands may be entered into a command line. The visual interface of this operating system is called Aqua. Specific versions of this operating system include Tiger, Jaguar, and, most recently Snow Leopard. For 10 points, name this operating system found on Apple Computers.
+
+----
+num: 20
+category: History
+difficulty: HS
+fixed: 57
+seen: 420
+answer: {Louis XIV} [accept {Sun King} before read; prompt on {Louis}]
+
+One invasion under this ruler led to the death by beating of Cornelis and Johan de Witt before the treaty of Nijmegen ended the Dutch War. That war led to the ascension to power of this man's longtime enemy, William III. Charles II's granting of Spain to this ruler's grandson sparked the War of the Spanish Succession. This man revoked the rights given to Protestants in his country by Henry IV in the Edict of Nantes in his own Edict of Fontainebleau. For 10 points, name this French monarch, whose long rule led to his being named the Sun King.
+
+----
+num: 21
+category: Science
+difficulty: HS
+fixed: 57
+seen: 483
+answer: sand {dunes}
+
+Ralph Bagnold's work on the formation of these entities, though written in 1941, is still mostly accurate. Barchans (BAR-chanz) are formed where there is little of their namesake substance, which is made up of particles of diameter between 0.1 and 1.6 millimeters. The most common type of these objects is the crescentic type, which are wider than they are long. Star ones are found in the Namib and Sahara Deserts. For 10 points, name these massive hills built by wind-blown sand.
+
+----
+num: 22
+category: Fine Arts
+difficulty: HS
+fixed: 1
+seen: 490
+answer: Johann Sebastian {Bach} [prompt on {Bach}; prompt on {Johann Bach}]
+
+This composer used strings to accompany the words of Jesus, creating a so-called "halo" effect, in his setting of the sufferings of Christ. This composer wrote fifteen Two-Part Inventions for his pupils, as well as choral works such as the St. Matthew Passion. Glenn Gould specialized in playing works of this composer, such as The Art of the Fugue [FYOOG] and the Goldberg Variations. For 10 points, name this eighteenth-century German composer of The Well-Tempered Clavier [kluh-VEER] and the Brandenburg Concertos.
+
+----
+num: 23
+category: Mythology
+difficulty: HS
+fixed: 1
+seen: 787
+answer: {Artemis}
+
+After the death of Meleager, this figure transformed his sisters into guinea hens. This deity accidentally killed the nymph Callisto after she had been turned into a bear. This deity was caught bathing and turned her gawker, Actaeon, into a stag. With her brother, this goddess killed the children of Niobe for offending this goddess's mother, Leto. For 10 points, name this Greek goddess of the moon and the hunt, the twin sister of Apollo.
+
+----
+num: 24
+category: Literature
+difficulty: HS
+fixed: 1
+seen: 440
+answer: Sherman {Alexie}
+
+This man wrote about an enchanted guitar in his novel Reservation Blues. "A Drug Called Tradition" is one of a collection of 21 stories set on a Spokane reservation, The Lone Ranger and Tonto Fistfight in Heaven. Many of this man's works include members of the Spokane tribe, like the character Thomas Builds-the-Fire. For 10 points, name this Native American author of The Absolute True Diary of a Part-Time Indian.
+
+----
+num: 25
+category: History
+difficulty: HS
+fixed: 57
+seen: 417
+answer: Republic of {South Africa}
+
+One event in this country involved students planning a meeting in Orlando Stadium after marching past Phefeni (feh-FAY-nee) Junior Secondary School. A similar event involved a protest of this country's use of pass laws. This country home to the Soweto (soh-WAY-toh) uprising and Sharpeville massacre also saw P.W. Botha replaced by a man who drafted a new constitution and released a prisoner from Robben Island. For 10 points, name this country home to F.W. de Klerk, a man who worked with the ANC and Nelson Mandela to bring an end to apartheid.
+
+----
+num: 26
+category: Literature
+difficulty: HS
+fixed: 1
+seen: 448
+answer: James Augustine Aloysius {Joyce}
+
+This author wrote a novel that begins and ends in the middle of the same sentence. Another of this man's novels opens with a lullaby about a moocow that meets Baby Tuckoo. This author wrote about Gabriel Conroy's realization about his wife Gretta in his short story “The Dead.” He created the character Buck Mulligan in a novel that features a Jewish businessman who is cuckolded by Molly. For 10 points, name this author of Finnegans Wake, A Portrait of the Artist as a Young Man, Dubliners, and a book about Leopold Bloom, Ulysses.
+
+----
+num: 27
+category: Mythology
+difficulty: HS
+fixed: None
+seen: 786
+answer: King {Arthur}
+
+This leader, who was born at Tintagel Castle, was raised by Ector because he was conceived out of wedlock. He left for the Isle of Avalon to heal his wounds after fighting his son Mordred at the Battle of Camlan. After his struggle against Carmelide, he married that king's daughter Guinevere despite Merlin's warnings. For 10 points, Camelot belonged to what son of Igraine and Uther Pendragon, who wielded the sword Excalibur and led the Knights of the Round Table?
+
+----
+num: 28
+category: Literature
+difficulty: HS
+fixed: 57
+seen: 448
+answer: The {Crucible}
+
+This play includes a scene in which the tale of a voodoo doll is told to Giles Corey by Ezekiel Cheever. In the fourth act of this play, the events leading to the condemnation of women like Elizabeth cannot be halted by Reverend Parris. All this occurs because of Abigail's attempts to seduce John Proctor while supposedly under the influence of the slave Tituba. For 10 points, name this play about the Salem Witch Trials, written by Arthur Miller.
+
+----
+num: 29
+category: Philosophy
+difficulty: HS
+fixed: 1
+seen: 521
+answer: David {Hume}
+
+This philosopher divided his first major work into sections examining passions, morals and understanding, and titled it A Treatise of Human Nature. In another work, he investigates the possibility of singular events contradicting laws of nature in a section title "Of Miracles," a work that Kant credited as waking him from his "dogmatic slumber." The author of An Enquiry Concerning Human Understanding, for 10 points, name this Scottish empiricist philosopher.
+
+----
+num: 30
+category: History
+difficulty: HS
+fixed: 57
+seen: 417
+answer: {Mughal} Empire
+
+One ruler of this dynasty fell to his death down several steps in his library and had reclaimed his empire from the usurper Sher Shah Suri. The golden age of this dynasty occurred under an illiterate king whose court included the "Nine Jewels," including Birbal. The jizya tax for non-Muslims was reinstated by this dynasty's emperor Aurangzeb (ore-ANG-zehb), the son of a ruler who erected a public monument for his wife Mumtaz. This empire was founded by the Afghani ruler Babur and ruled by Shah Jahan and Akbar. For 10 points, name this late-medieval Islamic empire in India.
+
+----
+num: 31
+category: Fine Arts
+difficulty: HS
+fixed: 1
+seen: 485
+answer: The {School} of {Athens}
+
+The background of this work is dominated by huge vaulted arches and marble sculptures. One figure sprawled across the central staircase in this painting may represent Diogenes of Sinope. The two central characters, one of whom holds a large book and one of whom points to the ceiling, wear red and blue drapes. For 10 points, name this Renaissance fresco in the Palace of the Vatican depicting scholars such as Aristotle and Plato.
+
+----
+num: 32
+category: Science
+difficulty: HS
+fixed: 1
+seen: 482
+answer: {pituitary} gland
+
+In developing embryos, part of this structure forms from Rathke's (RATH-keez) pouch, and it is located in a depression known as the sella turcica (SELL-uh TUR-kih-kuh), which is found in the sphenoid (SFEE-noyd) bone. Herring bodies are found in the axons that connect this entity to the hypothalamus. It regulates the body's water content by releasing vasopressin (VAZ-oh-PRESS-in) from its posterior lobe. For 10 points, name this "master gland" that releases prolactin and sits at the base of the brain.

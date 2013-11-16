@@ -1,0 +1,314 @@
+####
+tournament: HSAPQ VHSL Regular Season
+round: 11.pdf
+year: 2011
+####
+
+num: 1
+category: Science
+difficulty: HS
+fixed: 1
+seen: 494
+answer: capacitors
+
+Barium titanate is commonly used in ceramic ones. Their namesake metric is equal to the relative permittivity times the ratio of area to spacing. They are subject to leakage and are represented as a straight line separated from a curved line in circuit diagram. Leyden jars were an early example of these. They are measured by dividing the charge by the potential difference. They consist of a dielectric in between two conducting plates. For 10 points, name these devices that store charge in a circuit.
+
+----
+num: 3
+category: Literature
+difficulty: HS
+fixed: 57
+seen: 444
+answer: Sinclair Lewis
+
+One of this author’s protagonists attempts to convince a literary club to produce Androcles and the Lion, but The Girl from Kankakee is put on instead. Another of this author’s characters uses his position as Reverend to seduce Hettie Dowler and Lulu Bains. This creator of Elmer Gantry also wrote about a member of the bourgeois who has an affair with Tanis Judique to break his conformity. For 10 points, name this creator of Carol Kennicott and the city of Zenith, the American author of Main Street and Babbitt.
+
+----
+num: 4
+category: Fine Arts
+difficulty: HS
+fixed: 1
+seen: 491
+answer: The {Night Watch} [or De {Nachtwacht}; accept The {Shooting Company} of {Franz Banning Cocq}
+
+In this painting, a small brown dog stands next to a figure on the far right holding a marching drum. In the center background, a man can be seen holding a blue and yellow flag. In the front, Willen van Ruytenbruch, dressed in yellow with a white sash, stands next to the main figure, who is dressed in black with a red sash. The figures seen in this work are from a militia company led by Captain Franz Banning Cocq. For 10 points, name this Rembrandt work that shows a group of soldiers against a dark background.
+
+----
+num: 5
+category: Science
+difficulty: HS
+fixed: -1
+seen: 491
+answer: {HTTP} [or {Hypertext Transfer} Protocol]
+
+One project attempting to replace this protocol is SPDY (speedy). Comet is set of techniques to allow pushing over this protocol. Version 1.1 added pipelining. Two less commonly used verbs are TRACE and HEAD, while the two most important methods are POST and GET. The secure version uses TLS and SSL for encryption. This usually operates over port 80. For 10 points, name this protocol used to request HTML documents and other items on the web, and whose name is seen before the colon slash slash in a web address.
+
+----
+num: 6
+category: Literature
+difficulty: HS
+fixed: 57
+seen: 449
+answer: {Daisy Miller}
+
+One character in this novella calls flirting "a purely American custom." That character comes from Schenectady, New York, and meets the title character in Vevey, Switzerland. The title character goes walking with Giovanelli, arousing the jealousy of Winterbourne, who warns her about walking around in Rome, because of the risk of getting Roman fever. The titular American girl ultimately dies of Roman fever in, for 10 points, what novella by Henry James?
+
+----
+num: 7
+category: Science
+difficulty: HS
+fixed: 57
+seen: 476
+answer: {force}
+
+An electric field at a point is equal to this divided by charge. An inverse square law is used to describe one type of this in a law named for Coulomb and in another discovered by Newton. Work is equal to this over a distance. Torque is equal to the crossproduct of the displacement vector and this. All of these associated with an object are shown in a free body diagram. For 10 points, name this concept that is equal to mass times acceleration.
+
+----
+num: 8
+category: History
+difficulty: HS
+fixed: 1
+seen: 419
+answer: {Vietnam} War
+
+One president at the time of this war defended his country's involvement by promising "peace without conquest." The commanders of U.S. operations in this war were William Westmoreland and Creighton Abrams. This war began with an air offensive called Operation Rolling Thunder. During this war, the United States was dealt a psychological blow by the Tet Offensive. This war was sparked after the USS Maddox was attacked, leading to the Gulf of Tonkin Resolution. For 10 points, name this war in Southeast Asia that lasted from 1965 to 1975.
+
+----
+num: 9
+category: Science
+difficulty: HS
+fixed: -1
+seen: 492
+answer: double bond
+
+The letters E and Z are used to distinguish how atoms are located relative to one of these structures. Because of resonance, each of the nitrogen-oxygen bonds in nitrate partially has this structure. Possessing this structure distinguishes an alkene from an alkane as well as an unsaturated fat from a saturated fat. In ethylene, they are formed from both the overlap of sp2 orbitals and the overlap of p orbitals and thus consist of a sigma and pi bond. For 10 points, name this type of chemical bond that has bond order of two.
+
+----
+num: 10
+category: Literature
+difficulty: HS
+fixed: 1
+seen: 441
+answer: The {Hunchback} of {Notre Dame} [or {Notre}-{Dame} de {Paris}]
+
+This novel ends with the opening of a tomb revealing the embracing skeletons of its two protagonists. One of its characters marries the poet Pierre Gringoire and owns the goat Djali. The villain of this novel stabs the Captain of the King's Archers, Phoebus, and is thrown off a tower by the title character, who is crowned Pope of Fools and made deaf by his job of ringing bells. For 10 points, name this Victor Hugo novel about the gypsy Esmerelda and the deformed Quasimodo.
+
+----
+num: 11
+category: History
+difficulty: HS
+fixed: 1
+seen: 413
+answer: War of {1812}
+
+During this war, Robert Ross led one side in a landing at Benedict before winning the Battle of Bladensburg. During a naval battle in this war, one commander composed the message "We have met the enemy and they are ours." In addition to Oliver Hazard Perry, other commanders during this war included Edward Pakenham, who lost to a group of pirates and Andrew Jackson at New Orleans after the conclusion of the Treaty of Ghent. For 10 points, name this war between the US and Britain, named for the year it began.
+
+----
+num: 13
+category: Literature
+difficulty: HS
+fixed: 1
+seen: 445
+answer: Rudyard {Kipling}
+
+One of this man’s poems is the origin of the aphorism, “the female of the species is more dangerous than the male.” This author wrote about a boy who serves with Mahbub Ali and Colonel Creighton in the British Secret Service in the novel Kim. Controversial for the imperialist sentiments he espoused in “The White Man’s Burden,” this author also created the tiger Shere Khan, who hunts a feral child named Mowgli. For 10 points, name this British author of The Jungle Book
+
+----
+num: 13
+category: Literature
+difficulty: HS
+fixed: 1
+seen: 449
+answer: Rudyard {Kipling}
+
+One of this man’s poems is the origin of the aphorism, “the female of the species is more dangerous than the male.” This author wrote about a boy who serves with Mahbub Ali and Colonel Creighton in the British Secret Service in the novel Kim. Controversial for the imperialist sentiments he espoused in “The White Man’s Burden,” this author also created the tiger Shere Khan, who hunts a feral child named Mowgli. For 10 points, name this British author of The Jungle Book
+
+----
+num: 14
+category: Mythology
+difficulty: HS
+fixed: 57
+seen: 789
+answer: {Apollo}
+
+This killer of the satyr Marsyas served as Kind Admetus’s shepherd for a year as punishment for killing the Cyclops that provided the lightning bolt that Zeus used to kill his son Ascelpius (uh-SKLEE-pee-uhs). This son of Leto killed the children of Niobe. He romantically pursued a nymph who turned into a laurel tree; that nymph was named Daphne. This twin brother of Artemis also procured a lyre from Hermes. For 10 points, name this Greek god of light and music.
+
+----
+num: 15
+category: Literature
+difficulty: HS
+fixed: 1
+seen: 437
+answer: {Pride} and {Prejudice}
+
+One character in this novel causes an embarrassment with her bad singing at a ball at Netherfield. Another character says of the protagonist, "She is tolerable, but not handsome enough to tempt me." Lydia elopes with a man who spreads rumors about this novel's main male character, George Wickham. Ultimately, the protagonist of this novel marries Fitzwilliam Darcy. For 10 points, name this novel about Elizabeth Bennet by Jane Austen.
+
+----
+num: 16
+category: Science
+difficulty: HS
+fixed: 1
+seen: 493
+answer: {combustion} reaction
+
+Acetylaldehyde is typically produced when ethanol undergoes this type of reaction. The reaction of hydrogen gas and oxygen gas to form water is another example of this reaction. There are complete and incomplete forms of this reaction; the complete type releases water and carbon dioxide but not carbon monoxide. For 10 points, name this type of exothermic chemical reaction between an oxidant and a fuel like gasoline.
+
+----
+num: 17
+category: Literature
+difficulty: HS
+fixed: 1
+seen: 441
+answer: Tennessee {Williams} [accept Thomas Lanier {Williams}]
+
+Nine of this man’s short stories can be found in his collection Hard Candy, while one of his plays revolves around Revered Shannon’s time at a Mexico motel. The title of another of his works refers to Maggie, the daughter-in-law of “Big Daddy” Pollitt. This author of Night of the Iguana and Cat on a Hot Tin Roof is better known for a play featuring the lonely Laura Wingfield and one about the contrasting characters Stanley Kowalski and Blanche Dubois. For 10 points, name this American playwright of The Glass Menagerie and A Streetcar Named Desire.
+
+----
+num: 19
+category: Literature
+difficulty: HS
+fixed: 57
+seen: 450
+answer: {realism}
+
+James Wood criticized Zadie Smith and David Foster Wallace for using the "hysterical" version of this style. Its "socialist" version is seen in The Lower Depths by Maxim Gorky and the work of other writers from the Soviet Union. Its main tenet is expressed in the metaphor of a mirror being carried along a road, which was created by one of its practitioners, Stendhal. For 10 points, name this literary style exemplified by Flaubert and Balzac, whose "magical" variety is practiced by Gabriel García Márquez.
+
+----
+num: 20
+category: Literature
+difficulty: HS
+fixed: 1
+seen: 440
+answer: Nikolai {Gogol}
+
+One of this author’s novels ends with the titular Cossack being chained to a tree and burned alive, while another of his novels sees Manilov sell some of the titular people to Chichikov. In addition to Taras Bulba, he also wrote the short story collection Arabesques and a story in which Major Kovaliov wakes up missing a certain body part. This author of Dead Souls may be better known for a story in which the copyist Akaky Akakievich dies shortly after losing the titular garment. For 10 points, name this Russian author of “The Nose” and “The Overcoat.”
+
+----
+num: 21
+category: Science
+difficulty: HS
+fixed: -1
+seen: 480
+answer: {mimicry}
+
+Octopuses of the genus Thaumoctopus are commonly named after this behavior. One form of this behavior in plants is known as pseudocopulation. It frequently involves aposematic species, which can be seen in the Müllerian complex of the viceroy and monarch butterflies. In addition to the Müllerian type, it also comes in a Batesian variety. For 10 points, name this behavior whereby a species benefits from its similarity to another species.
+
+----
+num: 22
+category: History
+difficulty: HS
+fixed: 1
+seen: 415
+answer: Adolf {Hitler}
+
+This man established the Twenty-Five Point Plan for his party at the Bamberg Conference. In one incident, this man and his forces tried to overthrow Gustav von Kahr. He gave the codename "Operation Hummingbird" to his forces' execution of Ernst Röhm ("Rome"), the leader of the SA, during the Night of the Long Knives. After this leader of the Beer Hall Putsch became head of state upon Paul von Hindenburg’s death, he established the Third Reich. The author of Mein Kampf, for 10 points, name this Führer of Nazi Germany.
+
+----
+num: 23
+category: Trash
+difficulty: HS
+fixed: 1
+seen: 1026
+answer: {Pirates} of the {Caribbean}: The Curse of the {Black Pearl}
+
+One character in this movie claims to have escaped from an island by weaving the hair off his back into rope, which he used to wrangle some sea turtles. Mr. Gibbs helps the protagonist of this movie find a crew on the island of Tortuga. In this movie, the blood of “Bootstrap Bill’s” son, Will Turner, is needed to free Captain Barbossa’s crew from an Aztec curse. For 10 points, name this swashbuckling Jerry Bruckheimer film featuring Captain Jack Sparrow.
+
+----
+num: 24
+category: Philosophy
+difficulty: HS
+fixed: 1
+seen: 514
+answer: {evolution} [or {natural selection}]
+
+Georges Cuvier was an early opponent of this theory, one proponent of which was Geoffroy Saint-Hilaire. Arguments used against this theory include William Dembski's concept of specified complexity and Michael Behe's irreducible complexity, which argues that this theory cannot explain how the eye developed. This theory was developed by Alfred Russell Wallace independently of the man most associated with it. For 10 points, name this theory presented in Darwin's On the Origin of Species.
+
+----
+num: 25
+category: Literature
+difficulty: HS
+fixed: -1
+seen: 447
+answer: The {Color Purple}
+
+The protagonist of this novel advises her stepson Harpo to beat his wife Sophia, then asks God for forgiveness. Although the protagonist of this novel is raped by her stepfather and married off to the abusive Albert, she overcomes adversity with the help of her husband’s lover, Shug Avery, and her sister, Nettie. This novel’s plot develops through a series of letters written to God by the protagonist, Celie. For 10 points, name this epistolary novel by Alice Walker.
+
+----
+num: 26
+category: Philosophy
+difficulty: HS
+fixed: 1
+seen: 528
+answer: The {Republic}
+
+One section of this work describes a shepherd named Gyges who commits unethical acts after he discovers a ring that grants him invisibility. This work describes the Sun as a being the child of the Form of the Good to detail an ideal society ruled by philosopher kings. One part of this work describes a group of men who watch the shadows a fire casts on a wall and mistakes them for reality. That section is known as the Allegory of the Cave. For 10 points, name this philosophical by Plato that describes the city state.
+
+----
+num: 28
+category: Science
+difficulty: HS
+fixed: 1
+seen: 483
+answer: {benzene} [accept {C6H6} before mention]
+
+The structure of this compound was confirmed by Kathleen Lonsdale using X-ray diffraction. It is acylated in the most basic form of the Friedel-Crafts acylation. When one of its hydrogen atoms is replaced by a functional group, it forms a derivative such as phenol or toluene. Its structure supposedly came to Kekulé in a dream, in which he envisioned a snake biting its own tail, which resembles its ring-like structure. For 10 points, name this aromatic compound whose formula is C6H6.
+
+----
+num: 29
+category: History
+difficulty: HS
+fixed: 1
+seen: 421
+answer: Henry {Knox}
+
+A Frenchman named Ducondray nearly displaced this man in his military post. Timothy Pickering succeeded this man in his highest government position. This man came up with the idea of the Society of the Cincinnati. This man was responsible for organizing Washington’s crossing of the Delaware as chief artillery officer. During the Revolutionary War, this man led an expedition that used ox-drawn sleds to transport artillery captured at Fort Ticonderoga back to Boston. For 10 points, name this man who later served as the first Secretary of War.
+
+----
+num: 30
+category: Literature
+difficulty: HS
+fixed: 57
+seen: 443
+answer: {sonnet}
+
+Vikram Seth’s novel The Golden Gate is composed of ones named after Alexander Pushkin, which he used for his work Eugene Onegin. Examples of them include those written “from the Portuguese” by Elizabeth Browning, and another type of this literary form was used in such works as Amoretti and The Faerie Queene; those are named after Edmund Spenser. Other types of this form are named after Petrarch and after a man who wrote 154 of them, William Shakespeare. For 10 points, name this poetic form usually consisting of fourteen lines.
+
+----
+num: 31
+category: Social Science
+difficulty: HS
+fixed: 1
+seen: 385
+answer: John Broadus {Watson}
+
+This man published his book Psychological Care of Infant and Child during his time working at the J. Walter Thompson advertising agency. This came after his resignation from Johns Hopkins University, which was prompted by his affair with one of his assistants. That woman, Rosalie Rayner, aided him in an experiment in which a loud noise and a white mouse were simultaneously presented to a small infant, causing him to fear the mouse and other similar objects. For 10 points, name this behaviorist psychologist who conducted the Little Albert experiment.
+
+----
+num: 32
+category: History
+difficulty: HS
+fixed: 57
+seen: 419
+answer: {France} [or {French} Republic; or {République Française}]
+
+On the day World War II ended, rioting occurred in one of this country’s colonies in the Sétif massacre. This country saw rioting in the wake of a general strike in May 1968, leading to the formation of the UDR party. This losing nation of the Battle of Dien Bien Phu was led in the 1980s by President Mitterand. Its Fifth Republic was established in 1958 under Charles de Gaulle. Currently led by Nicolas Sarkozy, for 10 points, name this European nation where President Jacques Chirac dealt with the 1995 bombings on the Paris metro.
+
+----
+num: 33
+category: History
+difficulty: HS
+fixed: -1
+seen: 420
+answer: {Populists} [or {People’s} Party]
+
+After one major defeat, this political party’s leadership went to the conservative Georgia senator Tom Watson. The first presidential candidate for this party was James B. Weaver. Ignatius Donnelly wrote the preamble to this party’s Omaha Platform, which demanded such reforms as the abolition of banks and free coinage of silver. This party fused with the Democrats in 1896 to support the candidacy of William Jennings Bryan. For 10 points, name this late nineteenth century party of workers and farmers.
+
+----
+num: 34
+category: Science
+difficulty: HS
+fixed: 1
+seen: 488
+answer: cell {membrane} or {plasma membrane} [do not accept "{cell wall}"]
+
+Enzymes called flippases regulate a form of movement in this organelle. The sodium potassium pump is another enzyme found in this organelle. Attached to this organelle are peripheral and integral proteins, whose movement is described by the fluid mosaic model. Stabilized by cholesterol, it is primarily composed of phospholipids which form a bilayer that contains a hydrophobic interior. Materials can pass through it via diffusion or active transport. For 10 points, name this cell organelle that surrounds an animal cell.

@@ -1,0 +1,317 @@
+####
+tournament: Question Set C
+round: Round-6C-MS.pdf
+####
+
+num: 1
+category: Life Science
+difficulty: MS
+seen: 1
+answer: Y)  Eating Uncooked Beef
+
+Which of the following is the MOST common manner for transmission of beef tapeworms to humans:
+W) drinking contaminated water 
+X) swimming in contaminated water
+Y) eating uncooked beef 
+Z) stepping in cow manure
+
+----
+num: 1
+category: Life Science
+difficulty: MS
+answer: X)  Earthworm
+
+Which of the following is a segmented worm:
+W) hook worm
+X) earthworm
+Y) round worm
+Z) nematode
+
+----
+num: 2
+category: Physical Science
+difficulty: MS
+seen: 1
+answer: W)  an Acid Is Added to a Clear Solution in a Test Tube and a 
+White Substance Appears and Falls to the Bottom of the Test Tube
+
+Which of the following is the BEST example of a chemical reaction:
+W) an acid is added to a clear solution in a test tube and a white substance appears and falls to the bottom of the test tube 
+X) milk is added to water and the water turns a milky color
+Y) molten metal hardens upon cooling
+Z) salt is dissolved in water
+
+----
+num: 3
+category: Earth Science
+difficulty: MS
+answer: W)  North
+
+As the eyewall of hurricane Katrina approached Louisiana, on which of the following sides of the hurricane were the highest speeds clocked:
+W) north
+X) south
+Y) east
+Z) west
+
+----
+num: 5
+category: General Science
+difficulty: MS
+answer: W)  1013
+
+Which of the following is closest to average barometric pressure at sea level, in millibars:
+W) 1013
+X) 760
+Y) 10
+Z) 1
+
+----
+num: 7
+category: Physical Science
+difficulty: MS
+answer: Z)  Power
+
+Doing a given amount of work at different rates always involves a different amount of:
+W) mass
+X) efficiency 
+Y) potential energy
+Z) power
+
+----
+num: 8
+category: Earth Science
+difficulty: MS
+answer: X)  Focus
+
+Which of the following is the actual location where slippage of rock masses first occurs in an earthquake:
+W) seismic front 
+X) focus
+Y) Richter point
+Z) foreshock
+
+----
+num: 10
+category: General Science
+difficulty: MS
+seen: 1
+answer: X)  12 Centimeters
+
+Which of the following is closest to the height of the typical standard 12 -ounce soda can:
+W) 6 centimeters
+X) 12 centimeters
+Y) 18 centimeters
+Z) 24 centimeters
+
+----
+num: 10
+category: General Science
+difficulty: MS
+seen: 1
+answer: W)  Polymer Plastic
+
+Which of the following BEST describes the composition of the Proton Exchange Membrane in fuel cells used to power automobiles:
+W) polymer plastic
+X) metal foil
+Y) organic fiber
+Z) biofilm
+
+----
+num: 11
+category: Life Science
+difficulty: MS
+answer: Z)  1 Day
+
+Which of the following is closest to the length of time it takes for a typical human cell to complete mitosis:
+W) 1 second 
+X) 1 minute
+Y) 1 hour
+Z) 1 day
+
+----
+num: 12
+category: Physical Science
+difficulty: MS
+seen: 1
+answer: Y)  Erlenmeyer Flask
+
+Which of the following is an example of laboratory equipment that is specifically designed to mix fluids without spilling:
+W) pipette
+X) centrifuge
+Y) Erlenmeyer flask 
+Z) graduated cylinder
+
+----
+num: 12
+category: Physical Science
+difficulty: MS
+answer: Y)  Bromine
+
+Which of the following elements is NOT a gas in its standard state:
+W) fluorine
+X) nitrogen
+Y) bromine
+Z) neon
+
+----
+num: 13
+category: Earth Science
+difficulty: MS
+answer: Y)  Trilobite
+
+Which of the following fossils is the oldest:
+W) fossil of the earliest flowering plant 
+X) fossilized frog’s egg 
+Y) trilobite
+Z) mastodon
+
+----
+num: 13
+category: Earth Science
+difficulty: MS
+answer: X)  Asthenosphere
+
+Which of the following is a layer of the Earth that is primarily characterized as rock with the properties of being hot, weak and plastic:
+W) lithosphere
+X) asthenosphere
+Y) inner core
+Z) outer core
+
+----
+num: 15
+category: General Science
+difficulty: MS
+seen: 1
+answer: Z)  Conjunctivitis
+
+You wake up in the morning and your eyelids are stuck together with a thin or thick discharge caused by inflammation of the clear membrane that covers the white part of your eyes. Which of the following is MOST likely your problem:
+W) sinusitis 
+X) cellulitis
+Y) osteomyelitis
+Z) conjunctivitis
+
+----
+num: 15
+category: General Science
+difficulty: MS
+seen: 1
+answer: W)  Chewing or Smokeless Tobaccos Are Safe When Used 
+Properly Because Nicotine Cannot Be Absorbed Through the Mucous 
+Membrane
+
+Which of the following is NOT true about nicotine:
+W) chewing or smokeless tobaccos are safe when used properly because nicotine cannot be absorbed through the mucous membrane
+X) nicotine and cyanide have been found in cigarettes
+Y) during pregnancy, nicotine concentrates in breast milk and fetal blood
+Z) nicotine is a plant alkaloid that is poisonous to most animals
+
+----
+num: 17
+category: Physical Science
+difficulty: MS
+seen: 1
+answer: Z)  Heat of Vaporization
+
+Which of the following is the scientific term for the energy needed to transform a given quantity of a substance from a liquid to a gas at standard pressure:
+W) heat of boiling 
+X) heat of fusion
+Y) heat of transition
+Z) heat of vaporization
+
+----
+num: 18
+category: Earth Science
+difficulty: MS
+answer: X)  Carbonate
+
+Calcite belongs to which of the following mineral groups:
+W) oxide
+X) carbonate 
+Y) sulfate
+Z) silicate
+
+----
+num: 20
+category: General Science
+difficulty: MS
+answer: X)  the Tilt of Earth’s Axis With Respect to the Sun
+
+Earth’s seasons are primarily caused by:
+W) Earth’s distance from the Sun
+X) the tilt of Earth’s axis with respect to the Sun
+Y) Earth’s elliptical orbit around the Sun
+Z) Earth’s rotational period
+
+----
+num: 21
+category: Life Science
+difficulty: MS
+answer: Y)  Savanna
+
+What biome is dominant in sub-Saharan Africa and characterized by the dominant plants being fire resistant:
+W) chaparral
+X) tundra 
+Y) savanna 
+Z) temperate
+
+----
+num: 22
+category: Physical Science
+difficulty: MS
+seen: 1
+answer: Z)  Orange Juice With Pulp
+
+Which of the following is the BEST example of a suspension:
+W) water with 10% ethanol added to it
+X) olive oil in water
+Y) table sugar completely dissolved in water
+Z) orange juice with pulp
+
+----
+num: 22
+category: Physical Science
+difficulty: MS
+seen: 1
+answer: X)  the Net Useful Energy Must Decrease
+
+According to thermodynamics, whenever energy is converted from one form to another then:
+W) the net useful energy remains the same
+X) the net useful energy must decrease
+Y) the total energy of the system increases
+Z) the total energy of the system decreases
+
+----
+num: 23
+category: Earth Science
+difficulty: MS
+answer: W)  a Huge Depression Formed After a Magma Chamber 
+Collapses
+
+A caldera is:
+W) a huge depression formed after a magma chamber collapses
+X) a long tube where magma pours out onto the surface
+Y) a lateral vent that spews only gases
+Z) another name for a fumarole
+
+----
+num: 24
+category: Math
+difficulty: MS
+answer: W)  Trapezoid
+
+Which of the following is a quadrilateral with only one pair of parallel lines:
+W) trapezo id
+X) rhombus
+Y) rectangle
+Z) hexagon
+
+----
+num: 25
+category: General Science
+difficulty: MS
+answer: X)  Chlorine
+
+Which of the following elements acts as a catalyst for destroying ozone in the upper atmosphere:
+W) sulfur
+X) chlorine
+Y) nitrogen
+Z) helium

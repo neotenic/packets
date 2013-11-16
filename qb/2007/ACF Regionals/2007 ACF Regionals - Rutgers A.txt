@@ -1,0 +1,214 @@
+####
+tournament: ACF Regionals
+round: 2007 ACF Regionals - Rutgers A.doc
+year: 2007
+####
+
+num: 1
+category: Fine Arts
+difficulty: College
+fixed: None
+seen: 71
+answer: {Melancholy} and {Mystery} of a {Street}
+
+This painting is alluded to in Chilean writer Rosamel del Valle's Eva the Fugitive and was featured on the cover of an edition of Philip Pullman's The Subtle Knife. A red flag is seen in the background towards the top of this work and like the painter's creation of the previous year, The Soothsayer's Recompense, this painting features multiple arcades, one of which shades an abandoned horse trailer. A half-shadow of a man appears at the far end of the title setting, and each of the planes in this painting have their own perspective. Most famous for its image of a girl rolling a hoop with a stick, for ten points, identify this painting by Giorgio de Chirico.
+
+----
+num: 2
+category: Science
+difficulty: College
+fixed: None
+seen: 80
+answer: {Q} cycle
+
+In photosystem II, this process involves electron transfer to and within the cytochrome b/f complex.  In mitochondria, it sees the first donated electron reduce Cytochrome C while the second passes through cytochromes b566 (“b 566”) and b562 (“b 562”).  Assimilation of matrix protons into the radical molecule replenishes the reducing agent, ubiquinol.  Each ubiquinol oxidation is accompanied by the release of four protons into the intermembrane space, producing the pH gradient for chemiosmotic ATP synthesis.  FTP, identify this proton-motive cycle sharing its single-letter designation with a key coenzyme.
+
+----
+num: 3
+category: History
+difficulty: College
+fixed: None
+seen: 70
+answer: {Hay}-{Bunau}-{varilla} treaty
+
+One of the men responsible for negotiating this agreement had earlier published evidence in Le Matin which exonerated Alfred Dreyfus. Among the smaller islands addressed by this agreement were Perico, Naos, Culebro, and Flamenco, while damage resulting to private parties from construction was to be appraised by a joint commission from both countries party to it. It also provided for sanitation and water distribution in the city of Colon, while providing for an initial payment of $10 million and yearly payments of $250,000, and was repealed by the Torrijos-Carter agreement. Superseding a treaty bearing the name of one of its namesakes and that of Herran, for ten points, identify this 1903 agreement which gave the United States exclusive control of the Panama Canal.
+
+----
+num: 4
+category: Philosophy
+difficulty: College
+fixed: 1
+seen: 69
+answer: Ethics
+
+At one point, the author uses the metaphor of building a house, saying that people will pronounce a house perfect when it is completed, but that one cannot pronounce anything perfect without knowing the intention of its maker. The paradox of Buridan's Ass is rejected as irrational, and its author later concludes that rational man is freer abiding by the laws of a State than living independently in solitude in part four, “Of Human Bondage, Or The Strength of the Emotions.” Presenting its author's double aspect theory of the mind, its first part, “Concerning God,” begins the distinction between such ideas as substance, attribute, and mode. FTP, name this magnum opus “presented in a geometrical order,” by Baruch Spinoza.
+
+----
+num: 5
+category: Literature
+difficulty: College
+fixed: 1
+seen: 60
+answer: Joaquim Maria {Machado} de {Assis}
+
+In one of this man's short stories, the narrator is mesmerized by the translucent skin and blue veins of a local notary's wife, with whom he spends Christmas Eve. In addition to "Midnight Mass," he wrote a story in which Dr. Bacamarte imprisons everyone in the town of Itaguai for insanity, "The Psychiatrist." He penned the poetry collection Crisalidas and a novel in which the protagonist goes mad pretending to be Napoleon III after inheriting the title creature. Another of his novels chronicles the title character's jealousy over Capitolina, Dom Casmurro. The creator of Quincas Borba, for ten points identify this Brazilian author of Philosopher or Dog and The Posthumous Memoirs of Bras Cubas.
+
+----
+num: 6
+category: Geography
+difficulty: College
+fixed: 57
+seen: 133
+answer: {Helsinki}
+
+This city is home to a 10-kilometer-long Central Park, as well as Esplanadi Park, and its Uspenski Cathedral is considered the largest Orthodox Church in Western Europe. A great number of its buildings were designed by Carl Ludvig Engel, including its university's library. Located in part on the bay of Töölö, Rauta-tien-tori is a major square adjacent to its Ateneum museum and Central Railway Station, designed by another major architect. A bronze statue of Alexander II lies in the Senate Square, which was home to the nation's Parliament until the Eduskunta building replaced it. FTP, name this “White City of the North,” the capital of Finland.
+
+----
+num: 7
+category: Science
+difficulty: College
+fixed: None
+seen: 79
+answer: integer or prime {factorization}
+
+Computationally equivalent to determining if a number is a quadratic residue modulo a prime, among the algorithms proposed to solve it are an elliptic curve method named for Lenstra. Pollard's rho algorithm for achieving this iterates a polynomial formula until it falls into a cycle, while Fermat's method uses trials to find an appropriate difference of two squares and generalizes to the continued fraction method. A fast method for it is the quadratic sieve, and it can be done in polynomial time by the quantum-computational Shor's algorithm. For ten points, identify this problem in NP and co-NP, whose difficulty insures the success of RSA encryption, and which consists of breaking an integer into a product of primes.
+
+----
+num: 8
+category: History
+difficulty: College
+fixed: None
+seen: 81
+answer: {Julian} the {Apostate} or {Julian} II or {Flavius Claudius Iulianus}
+
+He stated that he only vomited once in his life and confessed that his breast was shaggy in the self-satirical Misopogon, or Beard-Hater.  His Gallic campaign saw victory at Strasbourg, and ended when he was ordered to put down the siege of Amida, which led the Petulantes to revolt and crown him in Paris.  He ordered Alypius of Antioch to rebuild the second temple of Jerusalem and promulgated the School Edict, which prevented Christian schools from using pagan texts.  He also reversed the policies of his predecessor, Constantius II, declaring freedom of religion in a 362 edict.  Known for attempting to revive Hellenism, FTP name this Roman Emperor whose moniker came from his rejection of Christianity.
+
+----
+num: 9
+category: Religion
+difficulty: College
+fixed: None
+seen: 57
+answer: The Book of {Joshua} or {Sefer Yehoshua}
+
+Martin Noth conjectured that it was the second of five historical works written by an author known as D. In its seventh chapter, the thief Achan was stoned in the valley of Achor. It ends with the burial of Eleazar next to his son and the bones of Joseph at Shechem, where were brought safely back from Egypt, and its chapter 24, verse 20 contains its namesake's famous farewell address. Its famous episode was preceded by an encounter with the Commander of the Lord's army in which the title figure took off his sandals, and it mentions that the Book of Jasher also recounted the event in which the moon stopped in the Valley of Aijalon and the sun stopped over Gibeon so that God gave the Israelites victory over the five kings.  FTP, name this Old Testament book that saw the conquest of Canaan, including the Battle of Jericho.
+
+----
+num: 10
+category: Literature
+difficulty: College
+fixed: 57
+seen: 60
+answer: The {Tin Drum}
+
+The main character of this novel seduces Lena, and one of the main character's friends is killed by a ship's axe after trying to make love to a wooden figurehead called Niobe. The main character uses one of his talents to help Jan steal a necklace for his mother, and during a visit to a cathedral places the title object in the hands of the baby Jesus. The main character's grandmother at one point hid Joseph Koljaiczek in her skirts, while the man who gives him his last name swallows his Nazi party pin and dies when the Russians invade. The protagonist's voice can shatter glass, and he decides to stop growing at age three. For ten points, identify this novel about Oskar Matzerath, the first work in Gunther Grass' Danzig Trilogy.
+
+----
+num: 11
+category: Fine Arts
+difficulty: College
+fixed: 57
+seen: 69
+answer: George {Gershwin} or {Jacob Gershovitz}
+
+This man's last painting was a portrait of his neighbor and tennis partner, Arnold Schoenberg.  He bought a copy of Forsyth's Orchestration for use in working on a commission from Damrosch.  He was the soloist at the premiere of that work, which was preceded on the program by Glazunov's 5th symphony, chosen for the Charleston rhythm featured in his Concerto in F.  He bought four taxi horns for a work inspired by a trip to Europe, and the rhythms of a train ride in Boston inspired another piece that opens with a clarinet glissando.  FTP, name this composer of An American in Paris and Rhapsody in Blue.
+
+----
+num: 12
+category: Mythology
+difficulty: College
+fixed: 57
+seen: 110
+answer: {Anchises}
+
+The father of Echepolus shared his name with this son of Capys and Themiste or Hieromneme.  His first daughter-in-law shared her name with a daughter of Erechtheus who was the mother of Ion, Achaeus and Dorus.  He traveled with Antenor to demand the return of his cousin Hesione, and secretly bred his mares with the immortal horses of his uncle Laomedon.  His son was the result of a dalliance with a goddess disguised as a Phrygian princess, who later saved him by using her girdle to divert a thunderbolt thrown at him after he boasted about the affair.  This made him lame, so he had to be carried away from Troy on his son's shoulders.  FTP, name this mortal lover of Aphrodite, the father of Aeneas.
+
+----
+num: 13
+category: Literature
+difficulty: College
+fixed: 1
+seen: 61
+answer: Henry Wadsworth {Longfellow}
+
+He penned a dramatic poem about a sick knight who can only be cured by a maiden sacrificing her life for him, “The Golden Legend.”  That poem is collected with a retelling of Christ's life called the Divine Tragedy, which forms his Christus trilogy, along with another duo of poems that ends with a scene of St. John wandering the face on the earth.  That scene appears in his New England Tragedies after two tales of Puritans and witchcraft, John Endicott and Giles Corey.  One of his poems considers “These Hebrews in their graves” in the title locale, and another focuses on the grandson of Nokomis.  FTP, name this American poet of “The Jewish Cemetery at Newport” and The Song of Hiawatha.
+
+----
+num: 14
+category: History
+difficulty: College
+fixed: -1
+seen: 69
+answer: {Griswold} v. {Connecticut}
+
+In order to find that the plaintiffs had standing, the majority opinion distinguished this case from Tiletson v. Ullman. The majority also "declined the invitation" that Lochner "be our guide," while Justice Brennan joined a concurring opinion that favorably cited Harlan's dissent in Poe v. Ullman. That concurrence was written by Justice Goldberg, who noted that "the concept of liberty protects those personal right that are fundamental," and rested his argument on the 9th. Representing the first use of William Douglas' "penumbral" reasoning, the principles established in this case were later extended by Eisenstadt v. Baird, and this case is famous for Justice Stewart's dissent, in which called the law in question "uncommonly silly." FTP, identify this 1965 case concerning contraceptive distribution to married couples.
+
+----
+num: 15
+category: Literature
+difficulty: College
+fixed: 57
+seen: 59
+answer: Susan {Sontag}
+
+This author's critical work includes a discussion of Nathalie Sarraute's novel The Planetarium.  Walter Benjamin's essay on Nikolai Leskov, "The Storyteller," is praised in her Under the Sign of Saturn. Her last novel was based on the life of the actress Helena Modjeska, and attracted controversy with claims that she plagiarized Willa Cather.  Max dies at the end of her story "The Way We Live Now," and she discussed the work of Edward Weston, Lewis Hine, and Diane Arbus in On Photography.  She also wrote a novel about Emma Hamilton, The Volcano Lover, and an essay about Illness as Metaphor. FTP, identify this American author of "Notes on 'Camp,'" which was collected in Against Interpretation.
+
+----
+num: 16
+category: Science
+difficulty: College
+fixed: None
+seen: 79
+answer: {Helmholtz} free energy or {function}
+
+The Gibbs-Bogoliubov inequality can be used in conjunction with a trial state to give an upper bound on this quantity, while Weekes-Chandler-Andersen perturbation has been applied to Lennard-Jones fluids to give an analytic solution. Proportional to Boltzmann's constant and the natural logarithm of a system's equilibrium constant at constant volume, a system in thermal equilibrium minimizes it. Defined as the internal energy of a system minus the product of its absolute temperature and entropy, FTP name this thermodynamic potential, a free energy named for a German physicist.
+
+----
+num: 17
+category: Social Science
+difficulty: College
+fixed: None
+seen: 49
+answer: {moral hazard}
+
+Tom Baker authored an article “on the genealogy of” this economic concept. Roland Maude-Griffin and John Nyman have written a paper on the welfare effects of it in a belated response to a work by Mark Pauly on the economics of this. First coined by Kenneth Arrow, this term arises in international law in the case of odious debt where loans give incentives to foster corrupt regimes, but the classic case of this phenomenon deals with health insurance, the possession of which may inefficiently affect how patients make use of medical services. FTP give the economic term for the irresponsible behavior people tend to exhibit when all risk is transferred away from them.
+
+----
+num: 18
+category: History
+difficulty: College
+fixed: 57
+seen: 72
+answer: Pedro Alvares {Cabral}
+
+This explorer established a trading post in Calicut on the Malabar Coast, but it was attacked by a band of Muslims, and he was forced to return and bombard the post. Earlier in that same journey, he had sailed into Porto Seguro and after spotting Mount Pascoal, he dubbed his discovery Vera Cruz, a holy appellation in honor of it being Easter. He returned and was received by Manuel I, but mysteriously never again sailed. Some argue that his major find merely confirmed a discovery of Amerigo Vespucci, but in any case it was quickly renamed for the red dye-producing wood discovered there. FTP, name this Portuguese explorer, known as the discoverer of Brazil.
+
+----
+num: 19
+category: Science
+difficulty: College
+fixed: 57
+seen: 82
+answer: {reductions}
+
+One example of this type of chemical reaction is the Meerwein-Ponndorf-Verley procedure, which is carried out with isopropanol, and is the opposite of the Oppenauer Reaction. This type of reaction will convert camphor into borneol. Another example is the CBS reaction, though a more famous one of these creates 1,4 cyclohexadienes and is named for Birch. Another one involves heating with amalgamated zinc in hydrochloric acid, or it can be done with Raney nickel by hydrogenation. FTP, name this type of organic reaction including the Clemmensen, the opposite of oxidation.
+
+----
+num: 20
+category: Literature
+difficulty: College
+fixed: 57
+seen: 59
+answer: The {Merry Wives} of {Windsor}
+
+A side plot of this work involves a Welsh clergyman and his rival, a French doctor, who believe that a local innkeeper dislikes their accents, prompting them to band together for revenge.  One man spends part of this play disguised as Mr. Brook, and beats another man disguised as the wise woman of Brentford; the latter appears in the final scene dressed as Herne the Hunter.  Fenton beats out Slender and Doctor Caius for the hand of Anne, the daughter of one of the title characters, who dump into the Thames a load of laundry containing Falstaff.  FTP name this Shakespeare comedy in which Falstaff courts Mistresses Ford and Page.
+
+----
+num: 21
+category: Science
+difficulty: College
+fixed: None
+seen: 76
+answer: {bottleneck} effect (accept {population bottleneck}, {genetic bottleneck}, or {variations})
+
+Animals that show evidence of this include European bisons and northern elephant seals, and it is thought to have occurred in giant pandas about 43,000 years ago.  Because of this effect, skin grafts from one cheetah to another do not create an immune response.  A variant that occurs when a small group separates from the rest of a population, resulting in increased genetic drift and inbreeding, is called the founder effect.  FTP, name this evolutionary event in which a significant percentage of the population or species is killed or unable to reproduce, resulting in a population reduction of 50% or more.

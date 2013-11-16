@@ -1,0 +1,222 @@
+####
+tournament: Web Sample
+round: m_round03.pdf
+####
+
+num: 1
+category: Earth Science
+difficulty: MS
+answer: Z)  Rocky Coast With Small Spits and Pocket Beaches
+
+Which of the following is a coastal morphology most characteristic of the west coast of the U.S.:
+W) numerous estuaries
+X) depositional coast
+Y) extensive barrier islands
+Z) rocky coast with small spits and pocket beaches
+
+----
+num: 1
+category: Earth Science
+difficulty: MS
+answer: W)  Compaction and Cementation
+
+Which of the following best describes how a sedimentary rock can form:
+W) compaction and cementation
+X) slow cooling and hardening of magma 
+Y) fast cooling and hardening of magma
+Z) high temperature and pressure causing recrystalization
+
+----
+num: 3
+category: General Science
+difficulty: MS
+answer: X)  Both
+
+Which of the following does the prefix “ambi” (spell out the letters a, m, b, i) mean, as in the word ambidextrous:
+W) equal
+X) both
+Y) neither 
+Z) always
+
+----
+num: 6
+category: Earth Science
+difficulty: MS
+answer: X)  at Plate Boundaries
+
+The greatest geophysical impacts from the movement of 
+Earth’s lithospheric plates are most often seen and felt in which of the following areas:
+W) at the center of the plates
+X) at plate boundaries
+Y) evenly distributed throughout the entire plate
+Z) along riverbeds within the plates
+
+----
+num: 9
+category: Life Science
+difficulty: MS
+answer: Y)  Haploid
+
+If an animal has 42 chromosomes in its normal, non -gamete or somatic cells, what term would be given to the gametes that have 21 chromosome s:
+W) somatic
+X) unigentic
+Y) haploid
+Z) solitary
+
+----
+num: 10
+category: Physical Science
+difficulty: MS
+answer: Y)  the Force Needed to Accelerate 1 Kilogram at One Meter 
+Per Second Squared
+
+Which of the following BEST describes how the 
+SI unit called the Newton is derived:
+W) the product of force times time
+X) the energy in one kilogram traveling at one meter per second
+Y) the force needed to accelerate 1 kilogram at one meter per second squared
+Z) the power needed to accelerate 1 kilogram at one kilometer per hour
+
+----
+num: 11
+category: Earth Science
+difficulty: MS
+answer: W)  Seismology
+
+The best evidence for the model of Earth's interior comes from the study of:
+W) seismology
+X) paleontology
+Y) paleomagnetism
+Z) glaciology
+
+----
+num: 11
+category: Earth Science
+difficulty: MS
+answer: Z)  It Is Based on a Logarithmic Scale
+
+Which of the following is TRUE of the Richter Scale:
+W) values are always given in whole numbers
+X) an earthquake measuring 5 has 50 -times more energy than an earthquake measuring 4
+Y) it is based on a scale of 0 to 14
+Z) it is based on a logarithmic scale
+
+----
+num: 15
+category: Physical Science
+difficulty: MS
+answer: Y)  Atomic Number
+
+When using the periodic chart, what number gives the number of protons in a given element:
+W) period number
+X) group number
+Y) atomic number
+Z) average atomic mass
+
+----
+num: 15
+category: Physical Science
+difficulty: MS
+answer: Z)  All Oxygen Molecules Have 8 Neutrons
+
+Which of the following is NOT true:
+W) compounds have atoms from more than one element
+X) atoms can bond together to ma ke molecules
+Y) all helium atoms have one more proton than all hydrogen atoms
+Z) all oxygen molecules have 8 neutrons
+
+----
+num: 16
+category: Earth Science
+difficulty: MS
+answer: W)  the Gulf of Alaska
+
+Most blizzards that strike the continental U.S. most directly originated in which of the following locations:
+W) the Gulf of Alaska
+X) the Gulf of Mexico
+Y) along the Gulf Stream
+Z) in the North Sea
+
+----
+num: 18
+category: General Science
+difficulty: MS
+answer: X)  Topographic
+
+Which of the following types of maps would be most useful on a hiking trip through the Alps:
+W) synoptic
+X) topographic
+Y) planimetric
+Z) Mercator projection
+
+----
+num: 18
+category: General Science
+difficulty: MS
+answer: Z)  a Binary Digit That Stores Information
+
+Regarding computer technology, which of the following BEST describes the bit:
+W) an analogue magnetic storage sequence 
+X) a computer processor
+Y) a memory value of 1 through 8
+Z) a binary digit that stores information
+
+----
+num: 20
+category: Physical Science
+difficulty: MS
+answer: X)  They Are Highly Compressible
+
+Which of the following is TRUE of gases:
+W) they have a definite shape
+X) they are highly compressible
+Y) they behave like a fluid
+Z) their particles are in uniform motion
+
+----
+num: 21
+category: Earth Science
+difficulty: MS
+answer: Y)  Perfect One Way
+
+Which of the following terms best describes the cleavage of a mineral:
+W) silky
+X) brittle
+Y) perfect one way
+Z) sub -metallic
+
+----
+num: 21
+category: Earth Science
+difficulty: MS
+answer: W)  Troposphere
+
+Which of the following is a region of Earth’s atmosphere where co nvection is most likely to take place:
+W) troposphere
+X) stratosphere
+Y) tropopause
+Z) thermosphere
+
+----
+num: 24
+category: Life Science
+difficulty: MS
+answer: Z)  Glomerulus
+
+Which of the following is part of the nephro n in the kidney:
+W) islet cells (read as: EY -let)
+X) ureter
+Y) amygdala (read as: ah -MIG-dih-la)
+Z) glomerulus (read as: glow -MAIR-you-lus)
+
+----
+num: 25
+category: Physical Science
+difficulty: MS
+answer: X)  Concrete Conducts Heat Better Than Wood
+
+Which of the following BEST explains why a concrete floor feels colder than a wooden floor if both are at 21ºC:
+W) wood is not as dense as concrete
+X) concrete conducts heat better than wood
+Y) wood is alive and concrete is not
+Z) concrete is much less elastic than wood

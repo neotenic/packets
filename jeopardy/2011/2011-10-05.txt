@@ -1,0 +1,429 @@
+####
+tournament: #6218
+round: Show #6218 - Wednesday, October 5, 2011
+year: 2011
+date: 2011-10-05
+####
+
+num: 1
+category: Trash
+difficulty: 200
+seen: 5
+answer: the U.N.
+
+I swear I saw Dag Hammarskjold in Times Square; he's the top man in this nearby organization.
+
+----
+num: 2
+category: Literature
+difficulty: 200
+seen: 4
+answer: shag
+
+A rug with a thick pile, or to chase & catch fly balls.
+
+----
+num: 3
+category: History
+difficulty: 200
+seen: 5
+answer: Love
+
+Actress Jennifer Hewitt.
+
+----
+num: 4
+category: Trash
+difficulty: 200
+seen: 6
+answer: Shea Stadium
+
+Unfortunately for the Mets, on September 28, 2008, the Marlins beat them 4-2 in the last game played here.
+
+----
+num: 5
+category: Religion
+difficulty: 200
+seen: 11
+answer: atonement
+
+One reference to Yom Kippur is found in Leviticus 23, which calls for a "day of" this.
+
+----
+num: 6
+category: Trash
+difficulty: 400
+seen: 5
+answer: francs
+
+Going to Cannes?  Make sure you've got plenty of these, made the monetary unit over there in 1795.
+
+----
+num: 7
+category: Literature
+difficulty: 400
+seen: 4
+answer: deny
+
+This negative verb is found in "For He's A Jolly Good Fellow".
+
+----
+num: 8
+category: History
+difficulty: 400
+seen: 4
+answer: Bysshe
+
+The Romantic Percy Shelley.
+
+----
+num: 9
+category: Trash
+difficulty: 400
+seen: 5
+answer: Fenway Park
+
+Prior to becoming the New England Patriots, the Boston Patriots played their home games at this ballpark.
+
+----
+num: 10
+category: Religion
+difficulty: 400
+seen: 10
+answer: Aramaic
+
+The Kol Nidre, an introductory prayer of Yom Kippur eve, is traditionally sung in this language of Jesus.
+
+----
+num: 11
+category: Trash
+difficulty: 600
+seen: 5
+answer: Truman Capote
+
+I'm looking forward to lots more books from.
+
+----
+num: 12
+category: Literature
+difficulty: 600
+seen: 3
+answer: a newt
+
+An eft is the juvenile terrestrial stage of this amphibian.
+
+----
+num: 13
+category: History
+difficulty: 600
+seen: 4
+answer: Jacob
+
+Fur magnate & dynasty founder John Astor.
+
+----
+num: 14
+category: Trash
+difficulty: 600
+seen: 5
+answer: Madison Square Garden
+
+John L. Sullivan was the first heavyweight champ to box in this original venue; in 1971, Joe Frazier beat Ali there.
+
+----
+num: 15
+category: Religion
+difficulty: 600
+seen: 8
+answer: the pomegranate
+
+Traditional Rosh Hashanah foods include this fruit, with the hope that one's merits increase in number to match its seeds.
+
+----
+num: 16
+category: Trash
+difficulty: 800
+seen: 4
+answer: CompuServe
+
+This "comp"any gave the first e-mail capability for PC users, & they'll rule the Internet for decades.
+
+----
+num: 17
+category: Literature
+difficulty: 800
+seen: 3
+answer: nave
+
+The name of this central part of a church comes from the Latin for "ship", a reference to its shape.
+
+----
+num: 18
+category: History
+difficulty: 800
+seen: 4
+answer: Lloyd
+
+Abolitionist William Garrison.
+
+----
+num: 19
+category: Trash
+difficulty: 800
+seen: 5
+answer: the (L.A.) Coliseum
+
+It's hosted 2 Olympic Games, 2 Super Bowls & one World Series; it's also home to the USC Trojans.
+
+----
+num: 20
+category: Religion
+difficulty: 800
+seen: 9
+answer: the shofar
+
+Teruah, meant to sound like sobbing, is one type of blast on.
+
+----
+num: 21
+category: Literature
+difficulty: 1000
+seen: 3
+answer: a Hemi
+
+This powerful engine from Dodge gets its name from the half-sphere shape of the combustion chamber.
+
+----
+num: 22
+category: History
+difficulty: 1000
+seen: 4
+answer: Ilyich
+
+Tell Peter Tchaikovsky the news.
+
+----
+num: 23
+category: Religion
+difficulty: 1000
+seen: 10
+answer: scapegoat
+
+In ancient times on Yom Kippur, a priest laid the sins of the people upon an animal, leading to this term.
+
+----
+num: 24
+category: Trash
+difficulty: 400
+seen: 5
+answer: Benihana
+
+I have teriyaki steak prepared just for me at my table in this restaurant founded by Rocky Aoki.
+
+----
+num: 25
+category: Social
+difficulty: 400
+seen: 4
+answer: Belarus
+
+Russian is an official language of Kazakhstan, Kyrgyzstan & this nation once known as Byelorussia.
+
+----
+num: 26
+category: Trash
+difficulty: 400
+seen: 5
+answer: "Girls Just Want To Have Fun"
+
+"Oh daddy dear you know you're still number one", sang Cyndi Lauper in this 1984 hit.
+
+----
+num: 27
+category: Geography
+difficulty: 400
+seen: 7
+answer: ice
+
+Fairbanks hosts one of the world's biggest competitions in sculpting this material.
+
+----
+num: 28
+category: Art
+difficulty: 400
+seen: 4
+answer: sailors
+
+"Fancy Free" follows 3 of these on leave in New York City.
+
+----
+num: 29
+category: Literature
+difficulty: 400
+seen: 4
+answer: nightingale
+
+Keats' ode to this bird begins, "My heart aches, and a drowsy numbness pains my sense".
+
+----
+num: 30
+category: Trash
+difficulty: 800
+seen: 5
+answer: lily
+
+All by itself, the calla this makes a nice bouquet--oh, I shouldn't have.
+
+----
+num: 31
+category: Social
+difficulty: 800
+seen: 5
+answer: Mandarin
+
+This Chinese tongue is spoken by more than a billion people.
+
+----
+num: 32
+category: Trash
+difficulty: 800
+seen: 5
+answer: brown eyed girl
+
+Van Morrison wistfully recalled "Makin' love in the green grass, behind the stadium with you, my" this title female.
+
+----
+num: 33
+category: Geography
+difficulty: 800
+fixed: -1
+seen: 7
+answer: a panhandle
+
+Like Tallahassee, Florida, Alaska's capital of Juneau is located in a strip of land called this.
+
+----
+num: 34
+category: Literature
+difficulty: 800
+seen: 4
+answer: nephrology
+
+It's the branch of science that specializes in the kidney.
+
+----
+num: 35
+category: Trash
+difficulty: 1200
+seen: 5
+answer: rock collecting
+
+Safe rock climbing requires a partner; rockhounding, also called this, I can do solo.
+
+----
+num: 36
+category: Trash
+difficulty: 1200
+seen: 5
+answer: Rihanna
+
+This single-named singer, a girl from Barbados, had a No. 1 hit in 2010 with "Only Girl (In The World)".
+
+----
+num: 37
+category: Geography
+difficulty: 1200
+seen: 7
+answer: Kodiak
+
+This city on an island now better known for a type of grizzly bear was the capital of Russian Alaska.
+
+----
+num: 38
+category: Literature
+difficulty: 1200
+seen: 3
+answer: a netherworld
+
+It's an 11-letter synonym for "hell".
+
+----
+num: 39
+category: Trash
+difficulty: 1600
+seen: 6
+answer: salsa
+
+On a night of this Afro-Cuban-based dancing, I specialize in solos, called "shines".
+
+----
+num: 40
+category: Trash
+difficulty: 1600
+seen: 7
+answer: "because the doggone girl is mine"
+
+In 1983 Michael Jackson & Paul McCartney duetted, "Don't waste your time, because the doggone" this.
+
+----
+num: 41
+category: Geography
+difficulty: 1600
+seen: 8
+answer: the Aleuts (the Aleutians accepted)
+
+"Alaska" means "mainland" in the language of these natives who gave their name to a long Alaskan island chain.
+
+----
+num: 42
+category: Literature
+difficulty: 1600
+seen: 4
+answer: Nathaniel
+
+This male first name is from the Hebrew for "gift of God".
+
+----
+num: 43
+category: Trash
+difficulty: 2000
+seen: 7
+answer: an airplane
+
+I like to take me for a ride in my Cri-cri, a one-seat type of this, 13 feet long.
+
+----
+num: 44
+category: Social
+difficulty: 2000
+seen: 6
+answer: Quito
+
+The Colorado language is spoken by around 2,000 in the jungle west of this capital of Ecuador.
+
+----
+num: 45
+category: Trash
+difficulty: 2000
+seen: 8
+answer: Ipanema
+
+Appropriately, the 2011 film "Rio" featured the 1960s hit about "The Girl From" this place.
+
+----
+num: 46
+category: Geography
+difficulty: 2000
+seen: 14
+answer: the Yukon
+
+Alaska's major river system, it flows in from that big Canadian territory next door.
+
+----
+num: 47
+category: Literature
+difficulty: 2000
+seen: 6
+answer: Neufchâtel
+
+This soft white cheese with a French name is similar to cream cheese.

@@ -1,0 +1,375 @@
+####
+tournament: #6251
+round: Show #6251 - Monday, November 21, 2011
+year: 2011
+date: 2011-11-21
+####
+
+num: 1
+category: Literature
+difficulty: 200
+seen: 4
+answer: Meow Mix
+
+(I'm not singing it, you'll just have to imagine that part) "Meowmeow meowmeow, meowmeow meowmeow...".
+
+----
+num: 2
+category: Geography
+difficulty: 200
+seen: 8
+answer: Wyoming
+
+Disappointment Peak,.
+
+----
+num: 3
+category: Trash
+difficulty: 200
+seen: 7
+answer: a shoplifter
+
+A kleptomaniac in a department store.
+
+----
+num: 4
+category: Literature
+difficulty: 200
+seen: 4
+answer: Snoopy
+
+He was born at the Daisy Hill Puppy Farm & has a mustache-wearing brother named Spike.
+
+----
+num: 5
+category: Literature
+difficulty: 200
+seen: 4
+answer: the queen
+
+In early European decks what's now this lady was the upper viceroy.
+
+----
+num: 6
+category: Literature
+difficulty: 400
+seen: 5
+answer: Sure
+
+"Raise your hand if you're" this deodorant.
+
+----
+num: 7
+category: Trash
+difficulty: 400
+seen: 5
+answer: a forklift
+
+A truck with 2 long metal bars at the front for moving heavy objects.
+
+----
+num: 8
+category: Literature
+difficulty: 400
+seen: 4
+answer: Odie
+
+Jim Davis named this faithful friend of Garfield after a character he created for a car commercial.
+
+----
+num: 9
+category: Literature
+difficulty: 400
+seen: 4
+answer: tarot
+
+The addition of a fifth suit to the medieval Italian deck produced this deck used for fortune telling.
+
+----
+num: 10
+category: Literature
+difficulty: 600
+seen: 4
+answer: Southwest
+
+"Wanna get away?"  Fly this airline.
+
+----
+num: 11
+category: Geography
+difficulty: 600
+seen: 8
+answer: Colorado
+
+Matchless Mountain, Aspen Mountain.
+
+----
+num: 12
+category: Trash
+difficulty: 600
+seen: 5
+answer: weightlifting
+
+You perform the snatch & the clean & jerk in this sport.
+
+----
+num: 13
+category: Literature
+difficulty: 600
+seen: 4
+answer: Marmaduke
+
+Cartoonist Brad Anderson based the personality of.
+
+----
+num: 14
+category: Literature
+difficulty: 600
+seen: 4
+answer: a jack
+
+In the 19th century initial letters were added to cards' corners; to avoid confusion with the king, the knave became this.
+
+----
+num: 15
+category: Literature
+difficulty: 800
+seen: 4
+answer: Jeep
+
+"The things we make, make us", including this rugged vehicle turning 70.
+
+----
+num: 16
+category: Trash
+difficulty: 800
+seen: 5
+answer: Montgomery Clift
+
+He played Private Prewitt in "From Here to Eternity".
+
+----
+num: 17
+category: Literature
+difficulty: 800
+seen: 3
+answer: Sandy
+
+Arf!  Little Orphan Annie found this furry friend as a pup behind Mrs. Bottle's store.
+
+----
+num: 18
+category: Literature
+difficulty: 800
+seen: 5
+answer: an ace
+
+In Spanish & Italian card games, this international trumper is merely a one.
+
+----
+num: 19
+category: Literature
+difficulty: 1000
+seen: 4
+answer: Club Med
+
+This resort chain is "The antidote for civilization".
+
+----
+num: 20
+category: Geography
+difficulty: 1000
+seen: 8
+answer: California
+
+Mount Disappointment,.
+
+----
+num: 21
+category: Trash
+difficulty: 1000
+seen: 6
+answer: liftoff
+
+At 9:32 A.M. on July 16, 1969, Jack King declared, "We have" this "on Apollo 11".
+
+----
+num: 22
+category: Literature
+difficulty: 1000
+seen: 4
+answer: Hagar the Horrible
+
+The little dog Snert wears a Viking helmet with horns just like this warrior owner.
+
+----
+num: 23
+category: History
+difficulty: 400
+seen: 3
+answer: "the wild blue yonder"
+
+The song most commonly associated with the Air Force begins, "Off we go into" this.
+
+----
+num: 24
+category: History
+difficulty: 400
+seen: 4
+answer: Lindbergh
+
+This courageous aviator was known as "the Lone Eagle".
+
+----
+num: 25
+category: Literature
+difficulty: 400
+seen: 4
+answer: a birthstone
+
+Depending on the month, it can be a peridot or a diamond.
+
+----
+num: 26
+category: History
+difficulty: 400
+seen: 5
+answer: Lenin
+
+April 22 is Earth Day & the birthday of this leader of the 1917 Russian Revolution.
+
+----
+num: 27
+category: History
+difficulty: 800
+seen: 4
+answer: Florence Griffith Joyner
+
+To track & field fans, she was simply "Flo Jo".
+
+----
+num: 28
+category: Literature
+difficulty: 800
+seen: 4
+answer: Rosencrantz & Guildenstern
+
+According to the title of a Tom Stoppard play, these 2 attendant lords "are Dead".
+
+----
+num: 29
+category: History
+difficulty: 800
+seen: 4
+answer: Tet
+
+Occurring the first new moon after the sun enters Aquarius, it's Vietnamese new year.
+
+----
+num: 30
+category: History
+difficulty: 1200
+seen: 4
+answer: laser
+
+By the end of the Vietnam War, the USAF was guiding bombs with this acronymic technology dating from around 1960.
+
+----
+num: 31
+category: History
+difficulty: 1200
+seen: 5
+answer: Calamity Jane
+
+Old West personality Martha Jane Cannary was known by this misfortunate handle.
+
+----
+num: 32
+category: Literature
+difficulty: 1200
+fixed: -1
+seen: 4
+answer: offscreen
+
+An event that happens in a movie but that the audience doesn't see is said to have taken place here.
+
+----
+num: 33
+category: History
+difficulty: 1200
+seen: 4
+answer: Maundy Thursday
+
+This "Thursday" before Easter commemorates the Last Supper.
+
+----
+num: 34
+category: History
+difficulty: 1600
+seen: 5
+answer: the Air National Guard
+
+The continental U.S.-based interceptor force is provided by this homefront body formed the same day as the USAF.
+
+----
+num: 35
+category: History
+difficulty: 1600
+seen: 5
+answer: Robert Burns
+
+Shakespeare was "the Bard of Avon"; this Scotsman was "the Bard of Ayrshire".
+
+----
+num: 36
+category: Literature
+difficulty: 1600
+seen: 4
+answer: rhinoceros
+
+Ionesco's play named for this pachyderm is about totalitarianism.
+
+----
+num: 37
+category: Literature
+difficulty: 1600
+seen: 4
+answer: a backsplash
+
+The vertical section of tile behind the sink.
+
+----
+num: 38
+category: History
+difficulty: 1600
+seen: 5
+answer: dolls
+
+Held on March 3, Japan's Hinamatsuri festival celebrates young girls & these toys popular with them.
+
+----
+num: 39
+category: History
+difficulty: 2000
+seen: 6
+answer: a sparrow
+
+Diminutive chanteuse Edith Piaf was known as "the Little" this bird.
+
+----
+num: 40
+category: Literature
+difficulty: 2000
+seen: 5
+answer: nightshade
+
+"Deadly" herb also known as belladonna.
+
+----
+num: 41
+category: History
+difficulty: 2000
+seen: 5
+answer: San Jacinto
+
+In Texas April 21 is a day to remember this battle, Sam Houston's 1836 victory over a passel of Mexicans.

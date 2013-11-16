@@ -1,0 +1,393 @@
+####
+tournament: #6502
+round: Show #6502 - Tuesday, December 18, 2012
+year: 2012
+date: 2012-12-18
+####
+
+num: 1
+category: Literature
+difficulty: 200
+seen: 4
+answer: bobby socks
+
+This term for a teenage girl of the 1940s refers to ankle socks folded over at the top.
+
+----
+num: 2
+category: Trash
+difficulty: 200
+seen: 6
+answer: an assist
+
+In basketball a helpful pass resulting in a score gets you this on the scoresheet.
+
+----
+num: 3
+category: History
+difficulty: 200
+seen: 5
+answer: the U.S. Senate
+
+In 1797 Tennessee's William Blount became the first man expelled from this body & its only member impeached by the House.
+
+----
+num: 4
+category: Trash
+difficulty: 200
+seen: 6
+answer: H&R Block
+
+This company says it "has helped clients obtain nearly $50 billion in tax refunds" & other benefits.
+
+----
+num: 5
+category: Mythology
+difficulty: 200
+fixed: -1
+seen: 13
+answer: a bedbug
+
+bloodsucking insect preys on humans. Sleep tight.
+
+----
+num: 6
+category: Literature
+difficulty: 400
+seen: 4
+answer: the heel
+
+Unlike most other kinds, tube socks aren't shaped to fit this part of your foot.
+
+----
+num: 7
+category: History
+difficulty: 400
+seen: 4
+answer: Woodrow Wilson
+
+From 1913 to 1918 Chattanooga lawyer William McAdoo, this man's son-in-law, was also his Treasury secretary.
+
+----
+num: 8
+category: Trash
+difficulty: 400
+seen: 6
+answer: Blockhead
+
+It was Lucy's usual term of non-endearment directed at Charlie Brown.
+
+----
+num: 9
+category: Literature
+difficulty: 600
+seen: 5
+answer: a stocking stuffer
+
+2-word term for an extra little Christmas gift; you can get some at the Starbucks store.
+
+----
+num: 10
+category: History
+difficulty: 600
+seen: 4
+answer: the Ku Klux Klan
+
+Governor during reconstruction, William Brownlow mobilized the Tennessee guard to crush this then-new hate group.
+
+----
+num: 11
+category: Trash
+difficulty: 600
+seen: 5
+answer: Blockbuster
+
+A hit movie, or an aerial bomb weighing several tons.
+
+----
+num: 12
+category: Literature
+difficulty: 800
+seen: 4
+answer: argyle
+
+Originally green & white, these socks worn by the Campbell clan were named for a county in west Scotland.
+
+----
+num: 13
+category: Trash
+difficulty: 800
+seen: 4
+answer: jai alai
+
+A cesta is the basket used to catch & throw the pelota, or ball, in this fast sport.
+
+----
+num: 14
+category: History
+difficulty: 800
+seen: 5
+answer: the USS Nautilus
+
+In 1958 Tennessean William Anderson commanded this submarine on the first voyage under the North Pole's ice pack.
+
+----
+num: 15
+category: Trash
+difficulty: 800
+seen: 5
+answer: butcher\'s block
+
+Occupational name for a type of wood-topped table.
+
+----
+num: 16
+category: Mythology
+difficulty: 800
+seen: 12
+answer: a seal
+
+One of the fiercest predators of penguins is the leopard variety of this mammal.
+
+----
+num: 17
+category: Literature
+difficulty: 1000
+seen: 4
+answer: tennis
+
+In 1931 ankle socks caused a sensation when Mrs. Fernley-Whittingstall wore them playing this at Forest Hills.
+
+----
+num: 18
+category: Trash
+difficulty: 1000
+seen: 5
+answer: schuss
+
+This 6-letter German term means to make a straight downhill run on skis.
+
+----
+num: 19
+category: History
+difficulty: 1000
+seen: 4
+answer: Knoxville
+
+A real-life "Bones", forensic anthropologist William Bass founded the "Body Farm" at the U. of Tenn. in this city.
+
+----
+num: 20
+category: Trash
+difficulty: 1000
+seen: 5
+answer: a beta blocker
+
+Alliterative term for a substance taken to reduce the heart rate or to prevent migraines.
+
+----
+num: 21
+category: Mythology
+difficulty: 1000
+seen: 13
+answer: a barracuda
+
+Called the tiger of the sea, this streamlined ocean predator can be a threat to swimmers wearing shiny objects.
+
+----
+num: 22
+category: History
+difficulty: 400
+seen: 4
+answer: Notre Dame
+
+Tradition has it that the first stone for this Paris cathedral was laid in 1163 by Pope Alexander III.
+
+----
+num: 23
+category: Social
+difficulty: 400
+seen: 5
+answer: a double negative
+
+In standard usage this equals a positive, so "I didn't do nothing" means "I did something".
+
+----
+num: 24
+category: History
+difficulty: 400
+seen: 4
+answer: Ford
+
+The P-51 Mustang's reputation was so great, in the mid-'60s executives at this companv named a youth-oriented coupe after it.
+
+----
+num: 25
+category: Art
+difficulty: 400
+seen: 4
+answer: a dome
+
+Pendentives are used to place this vaulted circular roof atop a square room.
+
+----
+num: 26
+category: Trash
+difficulty: 400
+seen: 5
+answer: a guitar
+
+Woody had a Gibson one of these on which he placed the sticker that read, "This machine kills Fascists".
+
+----
+num: 27
+category: History
+difficulty: 800
+seen: 4
+answer: a supernova
+
+In 1181 this type of exploding star lit up the nighttime sky in Cassiopeia & remained visible for 185 days.
+
+----
+num: 28
+category: History
+difficulty: 800
+seen: 4
+answer: the United Nations
+
+The Mustang was the main fighter of this international organization when it began fighting the Korean War.
+
+----
+num: 29
+category: Art
+difficulty: 800
+seen: 4
+answer: webbing
+
+In a ribbed vault, the ribs provide support, or seem to, for this arachnid-sounding material between the ribs.
+
+----
+num: 30
+category: Trash
+difficulty: 800
+seen: 4
+answer: Springsteen
+
+Woody didn't like bosses, but this "Boss" gave a speech honoring him at 2012's South by Southwest music festival.
+
+----
+num: 31
+category: History
+difficulty: 1200
+seen: 3
+answer: Bern
+
+Berthold V founded this future Swiss capital in 1191 as a military post on the Aare river.
+
+----
+num: 32
+category: Social
+difficulty: 1200
+seen: 4
+answer: an adverb
+
+Some grammar mavens complain about the use of "hopefully" as a sentence one of these, modifying the whole sentence.
+
+----
+num: 33
+category: History
+difficulty: 1200
+seen: 4
+answer: (Chuck) Yeager
+
+This sound barrier breaker flew a Mustang for most of his 12.5 aerial kills during World War II.
+
+----
+num: 34
+category: Art
+difficulty: 1200
+seen: 4
+answer: Palm Springs
+
+As in the home seen.
+
+----
+num: 35
+category: Trash
+difficulty: 1200
+seen: 5
+answer: folk music
+
+The aging, ailing Woody was visited by Joan Baez & other stars in the early-'60s revival of this 4-letter style of music.
+
+----
+num: 36
+category: History
+difficulty: 1600
+seen: 5
+answer: surgery
+
+One of the first books on this branch of medicine also practiced by barbers advocated molten lard.
+
+----
+num: 37
+category: Social
+difficulty: 1600
+seen: 6
+answer: to be
+
+To change a sentence from active to passive voice, you usually add a form of this common verb.
+
+----
+num: 38
+category: History
+difficulty: 1600
+seen: 4
+answer: the Tuskegee Airmen
+
+Often flying P-51 Mustangs, this distinguished African-American unit flew more than 1,500 missions during WWII.
+
+----
+num: 39
+category: Art
+difficulty: 1600
+seen: 4
+answer: Louis Sullivan
+
+Recipients of the Pritzker Prize receive a medallion based on designs by this Chicagoan, the "Father of the Skyscraper".
+
+----
+num: 40
+category: Trash
+difficulty: 1600
+seen: 5
+answer: the Communist Party
+
+In May 1939 Guthrie began writing his column "Woody Sez" for People's World, this party's newspaper.
+
+----
+num: 41
+category: Social
+difficulty: 2000
+seen: 7
+answer: the possessive
+
+In "Der Ring Des Nibelungen", the -en ending indicates this grammatical case, also called the genitive.
+
+----
+num: 42
+category: Art
+difficulty: 2000
+seen: 5
+answer: Christopher Wren
+
+Inigo Jones restored St. Paul's cathedral from 1633 to 1642, before it burned & was rebuilt by this man.
+
+----
+num: 43
+category: Geography
+difficulty: 2000
+seen: 14
+answer: Canada
+
+MacKenzie King Island.

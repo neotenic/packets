@@ -1,0 +1,651 @@
+####
+tournament: Sample Set 4
+round: Round15.pdf
+####
+
+num: 2
+category: Chemistry
+difficulty: HS
+seen: 1
+answer: Y) Perchloric Acid
+
+Which of the following is the name of the compound HClO ^4?
+W) Hydrogen perchlorite
+X) Chloric acid
+Y) Perchloric acid
+Z) Hypochloric acid
+
+----
+num: 2
+category: Chemistry
+difficulty: HS
+seen: 1
+answer: Z) Heat
+
+Which of the following is NOT a state function?
+W) Volume
+X) Energy
+Y) Pressure
+Z) Heat
+
+----
+num: 2
+category: Life Science
+difficulty: MS
+answer: Z) Both Produce and Consume Carbon Dioxide and Oxygen
+
+Plant metabolism must:
+W) Produce carbon dioxide and consume oxygen
+X) Neither produce nor consume carbon dioxide or oxygen
+Y) Consume carbon dioxide and produce oxygen
+Z) Both produce and consume carbon dioxide and oxygen
+
+----
+num: 3
+category: Energy
+difficulty: MS
+answer: W) Is Greater
+
+When the ambient temperature increases, the value of resistance for a typical resistor:
+W) Is greater
+X) Is smaller
+Y) Does not change
+Z) May change depending on the flow of charges
+
+----
+num: 3
+category: Energy
+difficulty: MS
+answer: X) Not Increase Because the Value of Capacitance Is Unaffected 
+by Temperature
+
+
+At high temperatures, the capacitance of a capacitor will:
+W) Not increase, because the magnetic field is too strong
+X) Not increase because the value of capacitance is unaffected by temperature 
+Y) Increase slightly
+Z) Increase greatly
+
+----
+num: 4
+category: Physics
+difficulty: HS
+answer: W) They Transmit Compressive Forces Along Their Length to the 
+Ground, Uniformly Bearing the Load of Gravity
+
+What makes arches and domes more stable than flat roofed structures?
+W) They transmit compressive forces along their length to the ground, uniformly bearing the load of gravity
+X) Each section is under great tension, using the stronger dimension of the components
+Y) Torsional resistance to sideways swaying ensures that such structures are stable, even in high winds
+Z) The surface tension of the arched shape allows the building components to be hollowed out, saving weight.
+
+----
+num: 4
+category: Earth and Space Science
+difficulty: MS
+answer: Y) Coal
+
+Which of the following natural resources is most abundant in the continental Unit ed States?
+W) Natural gas
+X) Petroleum
+Y) Coal
+Z) Uranium
+
+----
+num: 5
+category: Earth and Space
+difficulty: HS
+answer: X)  Quartz
+
+Which of the following is a common mineral that is composed entirely of silicon and oxygen?
+W) Pyrite
+X) Quartz
+Y) Bauxite (read as: BOHK-syt)
+Z) Feldspar
+
+----
+num: 5
+category: Earth and Space
+difficulty: HS
+answer: Z) Pyroxene
+
+
+Which of the following minerals is a mafic silicate?
+W) Fluorite
+X) Diamond
+Y) Muscovite
+Z) Pyroxene (read as: py-ROHK-seen)
+
+----
+num: 6
+category: Math
+difficulty: HS
+answer: Y) F( X) = 5x^3 + 9
+
+Which of the following functions is one -to-one?
+W) f( x) = |x| + 3 (read as: f of x equals the absolute value of x plus 3)
+X) f(x) = x^2 – 6x + 11 (read as: f of x equals x squared minus 6 x plus 11)
+Y) f(x) = 5x^3 + 9 (read as: f of x equals 5 x cubed plus 9)
+Z) f(x) = (read as: f of x equals 1 over x squared)
+
+----
+num: 6
+category: Life Science
+difficulty: MS
+answer: Z) Circulatory System
+
+What is the organ system that delivers hormones, oxygen, and nutrients to cells and transports waste products away from cells?
+W) Lymphatic system
+X) Endocrine system
+Y) Respiratory system
+Z) Circulatory system
+
+----
+num: 7
+category: Energy
+difficulty: HS
+answer: Y) Gravity Does Very Little Work on a Bicyclist Relative to a 
+Walker or Runner
+
+Why is riding a bicycle on a well -maintained road more energy efficient than walking or running?
+W) Bipedal motion is highly inefficient
+X) The coefficient of sliding friction between tires and the ground is less than that betw een shoes and the ground
+Y) Gravity does very little work on a bicyclist relative to a walker or runner
+Z) Bicycling requires more calories than walking
+
+----
+num: 7
+category: General Science
+difficulty: MS
+answer: Y) Immune/lymphatic System
+
+Name the body system to which tonsils belong.
+W) Digestive system
+X) Circulatory system
+Y) Immune/lymphatic system
+Z) Excretory system
+
+----
+num: 8
+category: Physics
+difficulty: HS
+seen: 1
+answer: Y) Electron Mapping
+
+Which of the following has NOT been proposed as a way to test string theory?
+W) Cosmic ray experiments
+X) High energy particle collisions
+Y) Electron mapping
+Z) Precision tests of short-range gravitational forces
+
+----
+num: 8
+category: Physics
+difficulty: HS
+answer: X) 8000
+
+A jet engine gets its thrust by taking in air, heating and compressing it and then ejecting it at a high speed. If a particular engine takes in 20 kilograms of air per second at 100 meters per second, and ejects it at 500 meters per second, what is the thrust of the engine in newtons?
+W) 760
+X) 8000
+Y) 9100
+Z) 10,500
+
+----
+num: 8
+category: Earth and Space Science
+difficulty: MS
+answer: Z) Solid Iron
+
+What most likely constitutes the majority of the Earth’s center, also known as the inner core?
+W) Hydrogen gas
+X) Molten rock
+Y) Molten iron
+Z) Solid iron
+
+----
+num: 8
+category: Earth and Space Science
+difficulty: MS
+answer: X) Andalusite
+
+Which of the following is an index mineral?
+W) Chalcopyrite (read as: kahl-koh-PY-ryt)
+X) Andalusite (read as: ahn-dah-LUH-syt)
+Y) Azurite (read as: AH-zuh-ryt)
+Z) Sphene (read as: SFEEN)
+
+----
+num: 10
+category: Earth and Space Science
+difficulty: MS
+answer: W) the Sun
+
+What is the original energy source that drives the transfer of water in the ocean to water vapor in the atmosphere?
+W) The Sun
+X) Nuclear energy
+Y) Wind power
+Z) Tidal power
+
+----
+num: 10
+category: Earth and Space Science
+difficulty: MS
+answer: X) Water Vapor in an Airmass Over Kansas
+
+A cubic meter of H^2O has the greatest amount of energy in which of the following situations?
+W) Ice in a Rocky Mountain glacier 
+X) Water vapor in an air mass over Kansas
+Y) Water in the Gulf of Mexico
+Z) Water in Lake M ichigan
+
+----
+num: 11
+category: Physics
+difficulty: HS
+answer: X)  6.6
+
+A car of mass 700 kilograms travels at 20 meters per second and collides with a stationary truck of mass 1400 kilograms. The two vehicles interlock as a result of the collision and slide along an icy road. Which of the following is the approximate velocity in meters per second of the combined system?
+W) 5.6
+X) 6.6 
+Y) 7.6 
+Z) 8.6
+
+----
+num: 11
+category: Physics
+difficulty: HS
+answer: 22
+
+
+Given that the specific heat of iron is 0.12 calories per gram degree Celsius, what will be the final temperature in degrees Celsius of 100 grams of 20 degree 
+Celsius water when 100 grams of 40 degree Celsius iron nails are sub merged in it? Provide your answer to the nearest whole number.
+
+----
+num: 11
+category: Physical Science
+difficulty: MS
+answer: Y) Alloy
+
+Which of the following would best describe a 14 -karat gold bracelet?
+W) Pure metal
+X) Nonmetal
+Y) Alloy
+Z) Amalgam
+
+----
+num: 11
+category: Physical Science
+difficulty: MS
+answer: X) Dipole Moment
+
+
+In order for a compound to be analyzed using infrared spectroscopy, the molecule must exhibit a change in which of the following?
+W) Ionization energy
+X) Dipole moment
+Y) Polarizability
+Z) Atomic radius
+
+----
+num: 13
+category: Earth and Space
+difficulty: HS
+answer: Z) Dissolved Organic Carbon
+
+
+Which of the following are carbon compounds in natural water that have diameters of less than 0.45 micrometers?
+W) Particulate organic matter
+X) Nondissolved solids
+Y) Particulate colloids
+Z) Dissolved organic carbon
+
+----
+num: 13
+category: Life Science
+difficulty: MS
+answer: Y) Binary Fission
+
+Which of the following processes represents asexual reproduction in bacteria?
+W) Sporulation
+X) Budding
+Y) Binary fission
+Z) Regeneration
+
+----
+num: 13
+category: Life Science
+difficulty: MS
+answer: W) the Fungus Attacks the Skin, Making Respiration Difficult
+
+
+Which of the following represents the primary symptom from the chytrid fungus infecting amphibians?
+W) The fungus attacks the skin, making respiration difficult 
+X) The fungal spores cause paralysis
+Y) The fungal spores enter through the eyes, causing permanent blindness
+Z) The fungus is ingested and produces repeated regurgitation followed by death
+
+----
+num: 14
+category: Earth and Space Science
+difficulty: MS
+answer: Y) Winter Temperatures Were Dramatically Cooler Than They 
+Are Today
+
+Sixteen thousand years ago, the landscape of the Midwest was very different than it is today. Glaciers were retreating, but much of the Midwestern United States was under ice. Which of the following statements is NOT true about the Midwest 16,000 years ago?
+W) Spruce grew throughout much of the Midwest south of the glaciers 
+X) Summers were significantly cooler than they are today
+Y) Winter temperatures were dramatically cooler than they are today
+Z) Ground sloths browsed on trees and shrubs
+
+----
+num: 15
+category: General Science
+difficulty: MS
+answer: Y) Giraffe
+
+Which of the following animals is a ruminant herbivore?
+W) Rhinoceros
+X) Lion
+Y) Giraffe
+Z) Zebra
+
+----
+num: 16
+category: Biology
+difficulty: HS
+seen: 1
+answer: Z) Tetany
+
+Which of the following best describes the way in which the summation of action potentials from a motor neur on can bring a muscle fiber to the maximal level of contraction?
+W) Summation of contractions
+X) Suprastimulus
+Y) Maximal twitch rate
+Z) Tetany (read as: TEHT-nee)
+
+----
+num: 16
+category: Energy
+difficulty: MS
+answer: W) an Operational Amplifier
+
+In the world of circuits and electronics, it is possible to add, subtract, multiply, and divide signals by the use of:
+W) An operational amplifier
+X) A power supply
+Y) Wires
+Z) Soldering iron
+
+----
+num: 16
+category: Energy
+difficulty: MS
+answer: Y) an Am Radio
+
+Operational amplifiers can be used in combination with inductors and capacitors and their energy storage abilities to create:
+W) A protection device
+X) A transversal amplifier
+Y) An AM radio
+Z) A memory stick
+
+----
+num: 17
+category: Chemistry
+difficulty: HS
+seen: 1
+answer: X) Van Der Waals Forces
+
+The ability of geckos to climb smooth surfaces is due to which of the following?
+W) Hydrogen bonding
+X) Van der Waals forces
+Y) Ion-dipole forces
+Z) Intramolecular forces
+
+----
+num: 17
+category: Chemistry
+difficulty: HS
+seen: 1
+answer: Z) Aluminum Oxide
+
+
+Nanotechnologists are creating butterfly scale patterns on paper money to foil counterfeiters using which of the following substances?
+W) Calcium oxide
+X) Zinc oxide
+Y) Magnesium oxide
+Z) Aluminum oxide
+
+----
+num: 17
+category: General Science
+difficulty: MS
+answer: W) Geranium
+
+
+Which of the following flowers is NOT a monocot?
+W) Geranium
+X) Lily
+Y) Iris
+Z) Tulip
+
+----
+num: 18
+category: Physical Science
+difficulty: MS
+answer: Y) Solid Sphere
+
+If each of the following objects is allowed to roll down a ramp without slipping, which reaches the bottom with the greatest speed?
+W) Solid cylinder
+X) Hollow cylinder
+Y) Solid sphere
+Z) Hollow sphere
+
+----
+num: 19
+category: Chemistry
+difficulty: HS
+seen: 1
+answer: W) C-C
+
+Which of the following bonds should have the longest length?
+W) C-C (read as: C single bond C)
+X) C=C (read as: C double bond C)
+Y) C-H (read as: C single bond H)
+Z) C≡C (read as: C triple bond C)
+
+----
+num: 19
+category: Chemistry
+difficulty: HS
+seen: 1
+answer: X) Hf
+
+
+Which of the following contains polar covalent bonds?
+W) F^2
+X) HF
+Y) NaH
+Z) O^2
+
+----
+num: 19
+category: Earth and Space Science
+difficulty: MS
+answer: W) Wind and Water Currents Do Not Flow Directly Along the 
+Latitude That Cuts Across the Middle of These Oceans
+
+Why couldn’t sailing explorers from 
+Europe and Asia sail directly along the latitude that cuts across the middle of the North Atlantic or North Pacific to get to America?
+W) Wind and water currents do not flow directly along the latitude that cuts across the middle of these oceans
+X) Winds blow so hard near the middle of the ocean that it is impossible to maintain a straight course
+Y) Near the center of the oceans, the winds often blow in one direction, while the water currents flow in the opposite direction, making it difficult to traverse
+Z) The currents are so strong in the middle of the gyres that it is difficult to sail through them
+
+----
+num: 19
+category: Earth and Space Science
+difficulty: MS
+answer: X) North Africa
+
+
+What is the source of the northeast trade winds in the North Atlantic?
+W) Florida
+X) North Africa
+Y) Brazil
+Z) Canada
+
+----
+num: 20
+category: Biology
+difficulty: HS
+answer: X) Acquired Characteristics Can Be Inherited
+
+Darwin's theory of evolution stated all of the following except:
+W) Those organisms best fit for their environment survive and reproduce most successfully
+X) Acquired characteristics can be inherited
+Y) Species change over time through the process of natural selection
+Z) More organisms are produced than can survive, so living things compete for resources
+
+----
+num: 21
+category: Physics
+difficulty: HS
+seen: 1
+answer: X) the Time Derivative of Work Performed
+
+What is one way in which power can be calculated?
+W) Subtracting the relative vectors F and v
+X) The time derivative of work performed
+Y) The strength of the force times g
+Z) The second derivative of acceleration
+
+----
+num: 21
+category: Physics
+difficulty: HS
+answer: Y) 4.7
+
+
+In a wild shot, Guido flings a pool ball of mass m off a 0.68 meter high pool table with downward spin, and the ball hits the floor with a vertical speed of 6.0 meters per second. How fast was the ball moving vertically in meters per second when it left the pool table?
+W) 6.7
+X) 5.7
+Y) 4.7
+Z) 3.7
+
+----
+num: 21
+category: Physical Science
+difficulty: MS
+answer: W) Your Voice Squeaking When You Breathe Helium
+
+Which of the following does NOT depend on a chemical reaction?
+W) Your voice squeaking when you breathe helium
+X) Rusty nails
+Y) Halloween lightsticks
+Z) Fizzing of an Alka-Seltzer in water
+
+----
+num: 21
+category: Physical Science
+difficulty: MS
+answer: W) It Would Be Lower Than When You Breathe Helium and Also 
+Lower Than Your Regular Voice
+
+
+Although this is dangerous, if you hypothetically were to breathe in xenon or krypton instead of helium, what would happen to the sound of your voic e?
+W) It would be lower than when you breathe helium and also lower than your regular voice
+X) It would be lower than when you breathe helium, but higher than your regular voice
+Y) It would be the same as when you breathe helium
+Z) It would be higher than when you breathe helium
+
+----
+num: 22
+category: Earth and Space
+difficulty: HS
+answer: Z) Hz) Hh
+^2^2
+Coo and
+^3 and M G
+Cs
+a
+^2i
+Coo
+Co^3
+^3
+^3 and Caco^3
+
+Which of the following are the chemical reactants associated with the formation of Karst topography?
+X)W)
+HHC^2SOl and^4 and Pb
+SS iO ^2
+Y)
+
+----
+num: 22
+category: Life Science
+difficulty: MS
+answer: X) Regeneration
+
+Which of the following processes represents the restoration of severed appendages?
+W) Sporulation
+X) Regeneration
+Y) Vegetative propagation
+Z) Budding
+
+----
+num: 23
+category: Math
+difficulty: MS
+answer: Y) a Triangle Can Be Both Acute and Right
+
+Which of the following statements is NOT correct?
+W) A triangle can be both acute and equilateral (read as: ee -kwi-LAH-the-rahl)
+X) A triangle can be both right and isosceles
+Y) A triangle can be both acute and right
+Z) A triangle can be both scalene and right
+
+----
+num: 24
+category: Biology
+difficulty: HS
+seen: 1
+answer: W) Monoecious Plant
+
+An apple flower is hermaphroditic, it has both a pistil and a stamen, which means it is a type of:
+W) Monoecious plant
+X) Dioecious plant (read as: dy-EE-shehs)
+Y) Diatomaceous plant (read as: dy-ah-toh-MAY-shehs)
+Z) Monostomate plant
+
+----
+num: 24
+category: Energy
+difficulty: MS
+answer: X) Force
+
+For a machine, what does the product of power and time divided by distance equal?
+W) Energy
+X) Force
+Y) Velocity
+Z) Work
+
+----
+num: 24
+category: Energy
+difficulty: MS
+answer: Z) 7460
+
+About how many watts does a 10 horsepower lawn mower engine produce?
+W) 36
+X) 320
+Y) 4890
+Z) 7460
+
+----
+num: 25
+category: Earth and Space
+difficulty: HS
+answer: Y)  Winter and Summer Solstices
+
+During which of the following two days is the maximum solar altitude less than 90° at the equator?
+W) Winter solstice and vernal equinox
+X) Vernal and autumnal equinoxes
+Y) Winter and summer solstices
+Z) Summer solstice and autumnal equinox

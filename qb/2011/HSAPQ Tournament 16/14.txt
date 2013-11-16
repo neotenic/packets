@@ -1,0 +1,244 @@
+####
+tournament: HSAPQ Tournament 16
+round: 14.pdf
+year: 2011
+####
+
+num: 1
+category: Fine Arts
+difficulty: HS
+fixed: 1
+seen: 496
+answer: Arnold {Schoenberg}
+
+One of this man's works ends with a defiant choral rendition of "Schema Yisroel" and is titled A Survivor from Warsaw. Theodor Adorno championed the work this man, author of the essay "Brahms The Progressive." His wrote a string sextet based on a Richard Dehmel poem, and portrayed a pantomime character using sprechstimme in another work. His students include (*) Anton Von Webern and Alban Berg. For 10 points, name this composer of Transfigured Night and Pierrot Lunaire, who founded the Second Viennese School and developed the twelve-tone system.
+
+----
+num: 2
+category: Philosophy
+difficulty: HS
+fixed: 1
+seen: 521
+answer: Francis {Bacon}
+
+This thinker compared experimenters to ants and dogmatists to spiders, concluding that the true philosopher should emulate the bee. He wrote a novel about a group of Europeans who find the college Salomon’s House on the island of Bensalem. This author of (*) The New Atlantis argued that thinkers should purge themselves of the “Idols of the Theater” in a book outlining the scientific method. For 10 points, name this 17th-century philosopher, who wrote the Novum Organum.
+
+----
+num: 3
+category: Literature
+difficulty: HS
+fixed: -1
+seen: 567
+answer: {Czech} Republic [prompt on "{Czechoslovakia}"]
+
+One author from this country wrote a play about the Chief Liquidator of the Liquidation Office, Hugo Pludek. Another author from this country depicted female butterflies in The Insect Play and wrote a play featuring Helena Glory of the Humanity League. The author of The Garden Party, Vaclav (*) Havel, would later become President of this nation and oversee the Velvet Divorce. For 10 points, name this country which is home to the author of Rossum's Universal Robots, Karel Capek, with a capital at Prague.
+
+----
+num: 4
+category: Science
+difficulty: HS
+fixed: 1
+seen: 491
+answer: information {compression} [accept word forms; or file {compression}; or data {compression};
+
+One method for doing this is co-named for the inventor of the pentomino. That method is Rice-Golomb and is based on RLE algorithms. One algorithm for this that is gaining support is LZMA. One of the earliest techniques is named for Huffman. For some media like pictures, (*) lossy types as opposed to lossless schemes are used. The DEFLATE algorithm is used to create a common end product of this process, a zip file. For 10 points, name this process of making files smaller.
+
+----
+num: 5
+category: History
+difficulty: HS
+fixed: -1
+seen: 427
+answer: Battles of {Saratoga} [prompt on Battle of {Freeman's Farm} before mentioned; prompt on Battle
+
+At one point in this battle, troops trying to harvest food in Simeon Barber's wheat field were ambushed. British forces held the Balcarres Redoubt but lost the Breymann Redoubt. One of Daniel Morgan's riflemen mortally wounded General Simon Fraser during this battle, and Benedict Arnold was wounded in the leg. This battle included fighting at (*) Bemis Heights and Freeman's Farm. For 10 points, name this 1777 battle in which troops led by Horatio Gates defeated British General John Burgoyne in New York, sometimes known as the "Turning Point of the Revolution."
+
+----
+num: 6
+category: Science
+difficulty: HS
+fixed: -1
+seen: 479
+answer: {enthalpy} [accept {H} until it is read; do not accept or prompt on "{lowercase} '{h}'"]
+
+This quantity remains constant in the Joule-Thomson effect. It equals internal energy plus the product of pressure and volume. The Gibbs Free Energy is given by this quantity minus the product of temperature and entropy. For a multi-step reaction, it can be calculated independently of the pathway and is equal to the sum of its changes in each step according to (*) Hess's Law. It is positive for an endothermic reaction. For 10 points, name this "heat content" of a thermodynamic system, symbolized capital H.
+
+----
+num: 6
+category: Science
+difficulty: HS
+fixed: 57
+seen: 485
+answer: {enthalpy} [accept {H} until it is read; do not accept or prompt on "{lowercase} '{h}'"]
+
+This quantity remains constant in the Joule-Thomson effect. It equals internal energy plus the product of pressure and volume. The Gibbs Free Energy is given by this quantity minus the product of temperature and entropy. For a multi-step reaction, it can be calculated independently of the pathway and is equal to the sum of its changes in each step according to (*) Hess's Law. It is positive for an endothermic reaction. For 10 points, name this "heat content" of a thermodynamic system, symbolized capital H.
+
+----
+num: 7
+category: Fine Arts
+difficulty: HS
+fixed: 57
+seen: 495
+answer: {dogs}
+
+Two of these creatures can be seen in the foreground beside some musicians in Paolo Veronese’s The Wedding at Cana, while another painting depicts one with rapidly moving feet. In addition to that work by Giacomo Balla that shows its “dynamism,” this animal can also be seen moving through snow on the left side Hunters in the Snow. A white one stands near a grave in (*) The Burial at Ornans while a small brown one stands between the married couple in The Arnolfini Wedding. For 10 points, name these animals which C.M. Coolidge depicted playing poker.
+
+----
+num: 8
+category: History
+difficulty: HS
+fixed: None
+seen: 426
+answer: Martin Luther
+
+This man responded to The Twelve Articles in his Against the Murderous and Robbing Hordes during the Peasants' War. This man's response to the papal bull Exsurge Domine led to his hiding for a year in Wartburg Castle after he took part in the Diet of Worms. The work of Johann Tetzel in (*) Wittenberg led this man to write a disputation on the choice of the Catholic Church to sell indulgences. For 10 points, name this writer of the Ninety-five Theses who started the Protestant Reformation.
+
+----
+num: 9
+category: Literature
+difficulty: HS
+fixed: 1
+seen: 438
+answer: Percy Bysshe {Shelley}
+
+One poem by this man, subtitled "A Philosophical Poem," is about a fairy named Queen Mab. This author wrote a drama in which Demorgon helps in the overthrow of Jupiter in a work which was inspired by a similarly titled tragedy written by Aeschylus. This author of Prometheus Unbound wrote a work about a “traveler from an antique land” who saw “two vast and trunkless legs of stone stand in the desert.” Another of his poems asks, “if winter (*) comes, can spring be far behind?” For 10 points, name this English Romantic poet of "Ozymandias" and "Ode to the West Wind."
+
+----
+num: 10
+category: Geography
+difficulty: HS
+fixed: 1
+seen: 707
+answer: {Washington} state
+
+An offshoot of the Latter Day Saints in this state spawned a figure who called himself one of its city's namesake "Jesus," William W. Davies. Indian conflicts in this state included those against Nisqually chief Leschi and chief Kamiakin. It is home to the cities of Pasco, Richland, and Kennewick, which make up its "Tri-Cities." This state is home to such peaks as Mt. Adams and Mt. Baker, as well as the town of (*) Walla Walla. For 10 points, name this state, home to cities like Everett and Redmond, in which companies such as Boeing, Microsoft, and Starbucks were founded.
+
+----
+num: 11
+category: Science
+difficulty: HS
+fixed: 1
+seen: 502
+answer: {influenza} viruses [accept {ortomyxoviridae} before mentioned]
+
+The relative susceptibility of this agent to the MF59 adjuvant has caused some controversy. The classic example of antigenic shift concerns their mixture. They bind to a cell as a result of the interactions of sialic (SAHY-al-ick) acid and the proteins hemagglutinin (HEEM-uhg-gloot-in-in) and neuraminidase (NYOOR-uh-min-uh-dase). From the family orthomyxoviridae (AWR-thuh-micks-oh-veer-ih-day), their “A” subtype, not “B” or “C,” contains the (*) H1N1 strain. For 10 points, name these viruses that cause a disease with “Spanish,” “avian,” and “swine” types.
+
+----
+num: 12
+category: Literature
+difficulty: HS
+fixed: 57
+seen: 441
+answer: Walt {Whitman}
+
+This man wrote "We are Nature, long have we been absent" in "We Two, How Long We Were Fool'd." This poet discusses "the armies of those I love" in one poem, and he recalled when "the great star early droop'd in the western sky" and asserted that "our fearful trip is done" in two poems memorializing Abraham (*) Lincoln. For 10 points, name this American poet who wrote "When Lilacs Last in the Dooryard Bloom'd" and "O Captain! My Captain!" as well as a poem that begins "I celebrate myself," "Song of Myself," in his Leaves of Grass.
+
+----
+num: 13
+category: Mythology
+difficulty: HS
+fixed: 1
+seen: 784
+answer: Vishnu
+
+One form of this deity slew a foe with a thousand arms using an axe, while another form of this deity with the aspect of a fish saved Manu and therefore all of humankind. A third form of this deity had the aspect of a tortoise and participated in the churning of the ocean, while a fourth form of this deity is the namesake of a story told by Valmiki. Those forms, known as this deity's (*) avatars, also include Krishna, who advises Arjuna in the Bhagavad Gita. For 10 points, name this member of the Trimurti known as the preserver who is contrasted with Brahma and Shiva.
+
+----
+num: 14
+category: Literature
+difficulty: HS
+fixed: 57
+seen: 445
+answer: Willa {Cather}
+
+This author wrote about residents' disdain for a renowned craftsman upon receiving his corpse in "The Sculptor's Funeral," which was published in this author's collection The Troll Garden. This author also chronicled Thea Kronborg's quest to become an opera star in The Song of the Lark, and wrote a novel narrated by Jim Burden from Black Hawk, Nebraska, My (*) Antonia. Another novel by this author details the love of Carl Linstrum for the protagonist Alexandra Bergson. For 10 points, name this American author who wrote about frontier life in such novels as O Pioneers!.
+
+----
+num: 15
+category: History
+difficulty: HS
+fixed: 1
+seen: 421
+answer: {Spanish Civil} War [prompt on partial answer]
+
+The winning side of this conflict was led by man who previously served in the Rif War. The Abraham Lincoln Brigade was active in this war. One commander in this war coined the phrase the "fifth column." This conflict was preceded by the abdication of King Alfonso XIII and Primo de Rivera. It saw Republican forces defeated by the (*) fascist Falange (fah-LAHN-hay) movement, both of whom were supported by European powers like the Soviet Union and Nazi Germany. For 10 points, name this conflict that saw the bombing of Guernica and the rise of Francisco Franco.
+
+----
+num: 16
+category: Trash
+difficulty: HS
+fixed: 57
+seen: 1023
+answer: {Sacramento Kings} [accept either]
+
+One player on this pro team was benched in 2010 for repeatedly making choke gestures at Golden State's Reggie Williams. In the 2009-10 season, one of this team's rookies became the first Israeli-born NBA player, and this team's leading scorer became the fourth rookie in NBA history to average twenty points, five assists, and five rebounds per game. Paul (*) Westphal coaches this franchise, whose players include DeMarcus Cousins, Omri Casspi, and Tyreke Evans. For 10 points, name this NBA franchise that plays its home games in California's capital city.
+
+----
+num: 17
+category: History
+difficulty: HS
+fixed: 57
+seen: 422
+answer: {Marshall}
+
+One man with this surname had a speech describing his most notable action drafted by Charles Bohlen. Another man with this surname went to Japan to investigate charges of racism in the U.S. military. That man with this name also won the case Murray v. Pearson. Another man with this surname presided over the case (*) McCulloch v. Maryland and was Chief Justice during the establishment of judicial review. For 10 points, give this surname shared by Supreme Court Justices John and Thurgood, as well as the formulator of recovery plan for Europe after World War II.
+
+----
+num: 18
+category: Science
+difficulty: HS
+fixed: -1
+seen: 481
+answer: Enrico Fermi
+
+That the transition rate is only dependent on the square of the matrix of the Hermitian operator between initial and final states is known as this man's "golden rule." This namesake of the one hundredth element also names particles that can each occupy only one quantum state at a time, in contrast to (*) bosons, and those particles are described by a statistical system named for this man and Dirac. The namesake of a particle accelerator "lab" in Illinois, for 10 points name this Italian-born physicist who created the first sustained nuclear chain reaction.
+
+----
+num: 19
+category: Social Science
+difficulty: HS
+fixed: 1
+seen: 377
+answer: David Émile {Durkheim}
+
+This thinker collected his lectures at Bordeaux in “Pedagogical Evolution in France,” and one of his works makes a distinction between the sacred and the profane while analyzing Aboriginal totemism. This uncle of Marcel Mauss posited that primitive societies exhibit mechanical solidarity in another work. This author of The Elementary Forms of Religious Life and The (*) Division of Labor in Society also wrote book describing the anomic, altruistic, and fatalistic forms of the title action. For 10 points, name this French sociologist who wrote Suicide.
+
+----
+num: 20
+category: Fine Arts
+difficulty: HS
+fixed: 1
+seen: 492
+answer: Sir Peter Paul {Rubens}
+
+This artist’s The Honeysuckle Bower shows him with his wife, Isabella Brant. Nicodemus agitatedly bites a white cloth at the top of another work by this man, who also painted a conflict on a bridge in Battle of the Amazons. The Exchange of Princesses and The Apotheosis of Henry IV are part of this artist’s Marie de Medici cycle, and in a well known work, the pale corpse of (*) Christ is removed after the Crucifixion. For 10 points, name this Flemish Baroque painter of the Descent from the Cross, known for painting heavy nude women.
+
+----
+num: 21
+category: History
+difficulty: HS
+fixed: 1
+seen: 414
+answer: {Kiev}
+
+According to legend, this city was founded by a brother of Schek and Khoryv who was also the sister of Lybid, and the city now bears a version of his name. It was captured by Oleg, the ruler of a neighboring city, which began its rise as a regional power. Its prince Vladimir I oversaw its mass conversion to Christianity, while a later ruler, Yaroslav the Wise, appointed its first bishop, Hilarion. Those leaders were a part of its namesake (*) Rus state. For 10 points, name this city on the Dnieper River, now the capital of Ukraine.
+
+----
+num: 22
+category: Science
+difficulty: HS
+fixed: 1
+seen: 480
+answer: {plant hormones} [prompt on partial answer]
+
+One type of these compounds are brassinosteroids. Another type of these compounds regulates dormancy, and another is responsible for apical dominance. A separate type of these substances induces shoot formation. Another type of these compounds was discovered by Eiichi Kurosawa and is called (*) gibberellins, a surplus of which can cause foolish seedling disease. One variety of these compounds regulates fruit ripening. For 10 points, name this class of compounds that also includes abscisic acid, ethylene, and auxins, which are responsible for regulating growth in certain non-animal organisms.
+
+----
+num: 23
+category: Mythology
+difficulty: HS
+fixed: -1
+seen: 785
+answer: Poseidon
+
+This figure transformed the nymph Caenis into a male warrior who was killed after being pounded into the ground by centaurs, and with Tyro this figure fathered Neleus and Pelias. Along with Aegeus, this immortal fathered Theseus, and also fathered Arion after mating with his sister Demeter in the form of a stallion. This god of horses sent King Minos the bull that became the father of the minotaur, and also sought revenge on (*) Odysseus for killing another of his sons, the Cyclops Polyphemus, by increasing the length of his journey home by causing a massive storm that shipwrecked him. For 10 points, name this Greek god of the sea.

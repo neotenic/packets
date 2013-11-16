@@ -1,0 +1,194 @@
+####
+tournament: ACF Regionals
+round: ACF Editors 1.doc
+year: 2006
+####
+
+num: 5
+category: Science
+difficulty: College
+fixed: None
+seen: 83
+answer: {Michael} addition or {Michael} reaction
+
+When it involves a silyl enol ether, it is known as the Mukaiyama reaction. The first step is an acid-base reaction that removes an alpha-hydrogen from one of the reactants, forming an enolate. When this is followed by an aldol condensation, sometimes the ethoxide can combine with the ketone to form an ether, but generally bicyclic ring systems are formed in a process called Robinson annulation. The reaction donors are usually active methylenes like nitroalkanes and malonates. FTP, name this reaction involving a 1,4-addition of a carbanion to an alpha, beta-unsaturated carbonyl compound, most often used to create carbon-carbon bonds.
+
+----
+num: 6
+category: Science
+difficulty: College
+fixed: -1
+seen: 91
+answer: {irrational} numbers
+
+Hurwitz's Theorem gives the bounds for the best approximation to an arbitrary one of these. Ones that have periodic continued fractions are known as quadratic surds, and Rivoal proved that the form gamma of 2n+1 can generate infinitely many of them. Topologically, the set of them is a Baire space but is not locally compact. The Erdos-Borwein constant is this, as is Gelfond's constant, but this property is not known for pi to the e power or for the Euler-Mascheroni constant. FTP name these numbers that were feared by the Pythagoreans and that are non-terminating and non-repeating
+
+----
+num: 7
+category: History
+difficulty: College
+fixed: 57
+seen: 93
+answer: King {Solomon}
+
+During this man's reign, he quarreled with Rezon of Aram and was allied with the pharaoh, who burned down the Canaanite city of Gezer and offered it to him as a gift. His deeds included conquest on the sea with Hiram of Tyre and the founding of the city of Megiddo. The prophet Ahijah of Shiloh predicted that the son of Nebat would succeed him instead of one of his own sons, and this came true when Jeroboam succeeded him, but he may never have become king if not for defeating the conspiracy of Adonijah with the help of the prophet Nathan and of his mother, Bathsheba. FTP, name this man who recommended cutting a baby in half; the son of King David and the purported author of Ecclesiastes, Proverbs, and the Song of Songs.
+
+----
+num: 8
+category: Fine Arts
+difficulty: College
+fixed: None
+seen: 69
+answer: The {Apotheosis} of {Homer}
+
+It is often called the classical companion to the artist's Vow of Louis XIII and was lambasted by Champfleury as “insincere mannerism” after its installation in room nine of the Musee Charles X. The artist himself can be seen peeping out from behind a pedestal, gazing at the central figure, which is flanked by a man holding a sword and another holding an oar in a triangular composition. Boileau, Racine and Moliere appear, but only in half-portrait, and men holding out a lyre, mallets, and scroll, represent Pindar, Phidias and Aeschylus, respectively. Based on a Hellenistic relief by Archelaus of Priene, the painter's master, David, is notably absent, but Tasso appears in the lower-left corner as does a cropped portrait of Shakespeare. FTP, name this painting by Ingres depicting the author of the Iliad being raised to godhood.
+
+----
+num: 9
+category: History
+difficulty: College
+fixed: None
+seen: 84
+answer: Battle of {Poltava}
+
+It was followed by the naval battle of Ahvenanmaa five years later, and immediately after it, the losing commander fled to Bendery in the Ottoman Empire. Drunkenness and a battle at Ljesna prevented Marshal Lewenhaupt from linking-up with the main body, and a brave but foolhardy charge led to the injury of the losing commander, who was replaced by field marshal Count Rehnskold. Although the turncoats Konstatin Hordienko and Ivan Mazepa had joined the other side, superior numbers and artillery allowed Boris Sheremetyev and Prince Menshikov to withstand the enemy attack and force the surrender at Perevolochna. FTP, name this 1709 battle of the Great Northern War, a victory of Peter the Great over Charles XII of Sweden.
+
+----
+num: 10
+category: Science
+difficulty: College
+fixed: None
+seen: 85
+answer: {Seebeck} effect (accept {thermocouple effect} before it's mentioned)
+
+The flux-flow coefficient for this effect in type II superconductors is directly proportional to the Hall effect coefficient. The basic equations involving it were formulated by Lord Kelvin and are now considered a special case of the generalized Onsager relations. One source of it is phonon-electron collision, or drag, in the material, which can be estimated from the lattice heat capacity, and the other source, charge carrier diffusion, from Mott theory. When its coefficient is multiplied by the Thomson coefficient, the Peltier coefficient is produced. FTP, name this effect where a potential difference is created by a temperature gradient, utilized in thermocouples.
+
+----
+num: 11
+category: History
+difficulty: College
+fixed: None
+seen: 68
+answer: {Thirty Tyrants}
+
+A lesser-known group of this name was written about by Trebellius Pollio and was said to exist during the reign of the Roman emperor Gallienus. They were established by the decree of Drakontides of Aphidna during the archonship of Pythodoros and the failed campaign to restore them by Pausanias followed their being driven out by Thrasyboulos. Their deeds included the murder of one of their own by hemlock for lack of ruthlessness and the removing of the laws of Ephialtes from the Areopagus. FTP, name this group including Theramenes and the author of Sisyphus and uncle of Plato, Critias, established in Athens after the Battle of Aegospotami by Lysander; a group named for the quantity of men involved.
+
+----
+num: 12
+category: Literature
+difficulty: College
+fixed: None
+seen: 60
+answer: {Penguin Island} or {L'Ile des Pingouins}
+
+This novel may have been inspired by a Grandville drawing. In the author's preface, he defends his biological knowledge against that of J.B. Charcot. The main character is a scion of a royal family of Cambria and often sits on a cliff by the sea, a place now known as his “chair”. Later, the country he founds declares war on Alca and later still a society called Atlantis becomes a rival. The greatest leader of that country is Draco the Great, the son of Oberosia and of a man who dresses up like a dragon to steal from the poor, Kraken. FTP, name this book containing a scene where the saints argue over whether the title group should be given a human soul and in which St. Mael baptizes a flock of birds; a novel by Anatole France.
+
+----
+num: 13
+category: Science
+difficulty: College
+fixed: 57
+seen: 81
+answer: {histones}
+
+One system of their classification divides them into minor, replication-dependent, and replication-independent types. In the lab, they are isolated by cleavage of the source material followed by salt elution in a hydroxyapatite column. They never contain tryptophan and are usually rich in lysine and arginine. A type found in Euryarchaea may be the evolutionary precursor to those found in eukaryotes. Four of their classes form an octameric nucleosome, while the linker or H1 type regulates the formation of thirty-nanometer fibers. FTP, name this class of proteins which forms chromatin when DNA coils around them.
+
+----
+num: 14
+category: History
+difficulty: College
+fixed: None
+seen: 68
+answer: {Shah Jahan} (prompt on {Prince Khurram})
+
+He blinded and imprisoned his brother-in-law and ordered his father-in-law and prime minister, Asaf Khan, to murder the rest of the royal princes. He had to quell several rebellions, such as those of the Orchha chief Jujhar Singh in the region of Bundelkhand, and of the governor of the Deccan, Khan Lodi, whom he killed at Shihonda. At his death, he had been imprisoned by his son, who warred with Dara Shikoh, Shuja, and Murad Bakhsh over the succession. His greatest military success was probably the pacification and conquest of Bijapur, but he is better known as a patron of the arts, supporting the painters Govardhan and Bichitra and building the Red Fort in Delhi and the Jami Masjid. FTP, name this son of Jahangir and father of Aurangzeb, best known for building a mausoleum for his wife, Mumtaz Mahal.
+
+----
+num: 15
+category: Science
+difficulty: College
+fixed: None
+seen: 80
+answer: {drumlins} (accept {whalebacks} or {sowbacks} or {schildrucken} or {ispatinow} before they're mentioned)
+
+The Nazi scientist Edith Ebers superimposed an image of one of these over a car with a swastika on it in a seminal paper on them. Regionally, they are alternately called whalebacks, sowbacks, schildrucken and ispatinow. Two rival theories attempting to explain their formation are the mobile bed theory and John Shaw's flood theory, and examples include the location where Smith discovered the Mormon tablets, as well as Bunker Hill. When many of them appear together, it is known as a “basket of eggs” topography. FTP, name these hills formed by the action of glaciers over the land that are generally teardrop-shaped.
+
+----
+num: 16
+category: Mythology
+difficulty: College
+fixed: 1
+seen: 109
+answer: Charon
+
+This figure appears with the Cynic philosopher Menippus in the twenty-second dialogue of Lucian. Depictions of him in Greek art include a painting by Polygnotus at Delphi and he often appears on lekythoi dressed as a laborer. In Etruscan myth, he is represented as a large-winged demon with a hammer, and it is said that he can be bribed by giving him a golden bough from a Sibyl. The son of Erebus and Nyx, he is sometimes said to be located at Cocytus or Acheron, but is usually associated with another river. FTP, name this man who receives the obolus from the souls of dead man and ferries them across the river Styx in Greek mythology.
+
+----
+num: 17
+category: Literature
+difficulty: College
+fixed: None
+seen: 60
+answer: The {Knights} or {Hippeis}
+
+One character in this work is referred to as a “water-drinker”, a reference to the tee-totaling general that the character is based on. Some claim that Eupolis contributed to the second parabasis, although this is unlikely considering the author's accusations of plagiarism of this play by Eupolis in his Marikas. In the conclusion, a character dons a frog-green mantle and takes the place of his rival at the side of his master after stating that “because he lived on the market place in the midst of lawsuits,” his name is Agoracritus, the name written on the oracles stolen by Demosthenes and Nicias. FTP, name this play where the Paphlagonian, a caricature of Cleon, is defeated for the love of Demos by a sausage vendor; a work of Aristophanes named for the chivalrous chorus.
+
+----
+num: 18
+category: History
+difficulty: College
+fixed: -1
+seen: 70
+answer: {Louis XIII} (accept {Louis} the {Just} or {Louis} le {Juste}; prompt on {Louis})
+
+The first seven years of his reign were dominated by the Italian adventurer, Concino Concini, who was shot to death by the royal guard on the order of Charles de Luynes and this man. His later reign saw the conspiracy against him by “les Importants” and the duchess de Chevreuse as well as the plotting of a favorite, the marquis de Cinq-Mars, with the Spanish court. Francis Bassompierre and this man's brother, Gaston of Orleans, were exiled from Paris in the incident known as the “Day of the Dupes,” echoing the exile of his wife, Anne of Austria, ten years earlier. FTP, name this man, the son of Marie de Medici and Henry IV, who made France the greatest continental power in Europe with the help of his favorite minister, Cardinal Richelieu.
+
+----
+num: 19
+category: Fine Arts
+difficulty: College
+fixed: None
+seen: 72
+answer: {Toccata} and {Fugue}, for organ in {D} minor, {BWV 565} ({BC J37}) (accept any of the underlined {parts})
+
+Unusual features of this work include the built-up diminished seventh and the conclusion, which includes a minor plagal cadence, a detail that indicates a possibly faulty transcription or even a wrong attribution to the composer by the transcriber Johann Ringk. Peter Williams places the work a fifth higher, so that the famous opening is in E and the dominant key is A minor, because he believes it to be originally a composition for violin that had been transcribed to its usual instrument. Edith plays the piece in Strindberg's Dream Play and, because it was Stokowski's favorite piece, it famously appears in the opening scene of Fantasia. FTP, name this spooky-sounding organ work, a two-part piece by Johann Sebastian Bach.
+
+----
+num: 20
+category: Literature
+difficulty: College
+fixed: 1
+seen: 57
+answer: {Akutagawa} Ryunosuke (accept {Chokodo Shujin} or {Gaki})
+
+In this author's story “Hell Screen” a painter attempts to recreate hell on Earth in order to create a more accurate canvas for a wealthy patron. A soldier receives equine limbs in his “Horse Legs.” A Buddhist priest regrets his unnecessary surgery in his “The Nose,” and the theme of overindulgence in pleasures is emphasized in “Yam Gruel.” His “Memorandum to a Certain Friend” determines that a drug overdose is the best way to commit suicide, which he did in 1927. FTP name this author of the Japanese fairy tale “Kappa” and namesake of Japan's most prestigious literary prize, author of “Within a Grove” and “Rashomon.”
+
+----
+num: 21
+category: Social Science
+difficulty: College
+fixed: None
+seen: 50
+answer: The {Power Elite}
+
+Robert Dahl analyzed the government of New Haven in response to this book and, in The End of Ideology, Daniel Bell chastises this work's glossing over the differences between the Republican and New Deal administrations. In the final chapter, “The Higher Immorality,” Washington is praised because he read Voltaire and Eisenhower is berated for reading detective stories. In the thirteenth chapter, “Mass Society,” the author attacks the idea of the “great American public” and in Chapter fourteen, “The Conservative Mood,” the author stresses that the title group respects civil liberties and has an open membership. FTP, name this 1956 work about military, political and business leaders that comprise the title group, written by C. Wright Mills.
+
+----
+num: 22
+category: Literature
+difficulty: College
+fixed: 57
+seen: 62
+answer: “The {Dead}”
+
+The main character of this work is invited to a vacation in the Aran Islands by Miss Ivors, but turns down the offer by claiming that he is going on a cycling trip instead. At the central event, the maid Lily yells at the main character for asking about her love life while Mr. Browne, an old man, attempts to calm down the drunk and late Freddy Malins. At the close of the festivities, the central couple listens to the tenor Bartell D'Arcy while Mary Jane accompanies him on the piano, causing the wife to think about her childhood love, Michael Furey. FTP, name this short story taking place at the party of the elderly sisters Kate and Julia Morkan, which is attended by Gretta and Gabriel Conroy, the last and longest story in Dubliners by James Joyce.
+
+----
+num: 23
+category: History
+difficulty: College
+fixed: 1
+seen: 69
+answer: James {Monroe}
+
+His early career included working as an army scout during the Battle of Monmouth and as the adjutant general to William Alexander, Lord Stirling. His treatise A View of the Conduct of the Executive defended his conduct as minister to France and viciously attacked Washington, who never forgave him. His diplomatic career continued as he assisted Robert Livingston in negotiating the Louisiana Purchase and argued against impressment in Britain. He supported the founding of the Liberia colony and was known as the “Last-Cocked Hat” for being the last of his generation to be President, but his best-known contribution was actually written by John Quincy Adams. FTP, name this man whose isolationist stance is now known as his “Doctrine,” the fifth President of the United States.

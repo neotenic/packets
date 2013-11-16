@@ -1,0 +1,298 @@
+####
+tournament: Web Sample
+round: m_round15.pdf
+####
+
+num: 1
+category: General Science
+difficulty: MS
+answer: Z) All Dna Contains Phosphorous
+
+Which of the following is TRUE:
+W) all yeasts are nonpathogenic in humans
+X) all humans have the same number of chromosomes
+Y) all bats carry rabies
+Z) all DNA contains phosphorous
+
+----
+num: 2
+category: Life Science
+difficulty: MS
+answer: Z)  Chloroform
+
+Lipids will dissolve best in which of the following:
+W) 3% salt water 
+X) milk
+Y) distilled water
+Z) chloroform
+
+----
+num: 2
+category: Life Science
+difficulty: MS
+answer: Y)  the Laws of Thermodynamics Do Not Apply to Living Things
+
+Which of the following statements is NOT true:
+W) all living things require energy except in some states of dormancy
+X) energy is transformed from one state to another in living things
+Y) the laws of thermodynamics do not apply to living things
+Z) enzymes allow certain reactions to occur at faster rates than without them
+
+----
+num: 3
+category: General Science
+difficulty: MS
+answer: Y)  It Has No Caloric Value in Humans
+
+Which of the following is NOT true of glycerol:
+W) it has 3 carbons
+X) it is sometimes used as a sweetener in human foods
+Y) it has no caloric value in humans
+Z) it is considered a sugar alcohol
+
+----
+num: 3
+category: General Science
+difficulty: MS
+answer: X)  Neutron Star
+
+Which of the following stars typically has the 
+GREATEST density:
+W) black dwarf 
+X) neutron star 
+Y) Main Sequence star
+Z) Blue Giant
+
+----
+num: 4
+category: Earth Science
+difficulty: MS
+answer: W)  the West Coast From Puget Sound to Alaska
+
+Which of the following coasts in North America contains the most pronounced fjords:
+W) the west coast from Puget Sound to Alaska
+X) the west coast from Oregon to Mexico
+Y) the east coast from Maine to Florida
+Z) the entire Gulf Coast
+
+----
+num: 5
+category: Physical Science
+difficulty: MS
+answer: W)  Conservation of Energy
+
+Which of the following most closely relates to the first law of thermodynamics:
+W) conservation of energy
+X) transformation of mass into energy
+Y) energy moving from a cold to a hot object
+Z) kinetic energy of molecules and atoms
+
+----
+num: 6
+category: Math
+difficulty: MS
+answer: W)  Straight Line 
+(Solution: Y = –2x + 4)
+
+The graph of the equation, 2x+
+4y= 1, is a:
+W) straight line 
+X) parabola
+Y) ellipse
+Z) circle
+
+----
+num: 7
+category: Life Science
+difficulty: MS
+answer: Y)  Gastrula
+
+During which of the following embryonic stages of a human are all 3 germ layers formed:
+W) z ygote
+X) blastula
+Y) gastrula
+Z) morula
+
+----
+num: 7
+category: Life Science
+difficulty: MS
+answer: W) Gill Slits
+
+Which of the following do all chordates possess at some time in their lives:
+W) gill slits
+X) radula
+Y) book lungs
+Z) exoskeleton
+
+----
+num: 8
+category: General Science
+difficulty: MS
+answer: Z)  20 Kilohertz
+
+Which of the following sound frequencies would generally NOT be heard by humans:
+W) 20 hertz
+X) 200 hertz
+Y) 2 kilohertz
+Z) 20 kilohertz
+
+----
+num: 8
+category: General Science
+difficulty: MS
+answer: Y)  Transportation
+
+Which of the following is the greatest contributor to ambient carbon monoxide concentrations in the U.S.:
+W) industrial processes
+X) electric utilities
+Y) transportation
+Z) farm animals
+
+----
+num: 9
+category: Earth Science
+difficulty: MS
+answer: Z)  Primary Seismic Waves Cause the Most Damage to Buildings 
+During an Earthquake
+
+Which of the following is NOT true about earthquakes:
+W) the focus of an earthquake is the point from which energy is released
+X) the epicenter is the point on Earth’s surface directly above the focus
+Y) lithospheric plate interactions commonly cause both earthquakes and volcanoes
+Z) primary seismic waves cause the most damage to buildings during an earthquake
+
+----
+num: 10
+category: Physical Science
+difficulty: MS
+answer: W)  the Components in the Mixture Have the Same Boiling Points
+
+Distillation will NOT work very well under which of the following situations:
+W) the components in the mixture have the same boiling points
+X) the mixture consists of a solid and a liquid
+Y) the mixtures is colored
+Z) the mixture is not colored
+
+----
+num: 10
+category: Physical Science
+difficulty: MS
+answer: Y)  Linear
+
+Acetylene has a triple bond between its two carbons. 
+Which of the following shapes does it have:
+W) bent
+X) tetrahedral 
+Y) linear
+Z) see-saw
+
+----
+num: 11
+category: Math
+difficulty: MS
+answer: Z)  if  N Is a Multiple of 2, Then N + 1 Is Also a Multiple of 2
+
+Which of the following is NOT true:
+W) π is an irrational number
+X) a dodecahedron has 12 faces
+Y) 5 factorial is 5-times as large as 4 factorial
+Z) if n is a multipl e of 2, then n + 1 is also a multiple of 2
+
+----
+num: 14
+category: Earth Science
+difficulty: MS
+answer: Y)  the Southeastern Portion Is Undergoing Accelerated 
+Mountain Building
+
+Which of the following is NOT true about the 
+Appalachian Mountain Range:
+W) it is older than the Himalayan range
+X) it has no active volcanoes
+Y) the southeastern portion is undergoing accelerated mountain building
+Z) it occurs along an ancient plate boundary
+
+----
+num: 14
+category: Earth Science
+difficulty: MS
+answer: W)  Magnetite
+
+Which of the following is the na me for the mineral with the chemical composition Fe^3O^4:
+W) magnetite
+X) pyrite
+Y) olivine
+Z) biotite mica
+
+----
+num: 15
+category: Physical Science
+difficulty: MS
+answer: Y)  Magnetic Poles Always Come in Pairs
+
+Which of the following is TRUE:
+W) unlike charges repel
+X) lithium is an alkaline earth metal
+Y) magnetic poles always come in pairs
+Z) some isotopes of helium have 1 proton
+
+----
+num: 17
+category: Life Science
+difficulty: MS
+answer: W)  Synapsis of Chromosomes
+
+Which of the following does NOT occur in mitosis:
+W) synapsis of chromosomes 
+X) chromosomes line up at metaphase
+Y) nuclear membrane dissolves
+Z) sister c hromatids separate
+
+----
+num: 18
+category: General Science
+difficulty: MS
+answer: Y)  1/60^th of an Arcminute
+
+Which of the following does one arcsecond equal:
+W) 60 arcminutes
+X) 60 arcs
+Y) 1/60^th of an arcminute
+Z) 1/360^th of an arcminute
+
+----
+num: 18
+category: General Science
+difficulty: MS
+answer: Y)  Throughout the Night
+
+If a superior planet is at opposition, it can be seen:
+W) only at sunset
+X) just before sunrise
+Y) throughout the night
+Z) not at all
+
+----
+num: 19
+category: Earth Science
+difficulty: MS
+answer: X)  250
+
+The MOST catastrophic mass extinction event in Earth’s history occurred about how many million years ago:
+W) 65 
+X) 250
+Y) 2,800
+Z) 4,800
+
+----
+num: 20
+category: Physical Science
+difficulty: MS
+answer: W)  Combination
+
+Which of the following best describ es the following reaction: 2Mg + O^2  2MgO
+W) combination 
+X) decomposition
+Y) single replacement
+Z) combustion

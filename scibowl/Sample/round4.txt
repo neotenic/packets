@@ -1,0 +1,253 @@
+####
+tournament: Sample
+round: round4.pdf
+####
+
+num: 1
+category: Biology
+difficulty: HS
+fixed: -1
+seen: 40
+answer: Phylum;  Class;  Order;  Family;  Genus
+
+Order the following 5 taxonomic group with the MOST members to the one with the FEWEST members: genus; order; phylum; class; family
+
+----
+num: 2
+category: Chemistry
+difficulty: HS
+seen: 33
+answer: 14
+
+What is the pH of a 1 molar NaOH solution at 25ºC?
+
+----
+num: 4
+category: Math
+difficulty: HS
+seen: 27
+answer: 12 and 6 3
+
+If the shortest leg of a 30-60-90 right triangle is 6 inches, what is the measure, in inches, of the other 2 sides?
+
+----
+num: 4
+category: Math
+difficulty: HS
+fixed: -1
+seen: 25
+answer: Bc;  Ab;  Ac
+(Solution: The Longer Side Is Opposite the Greater Angle)
+
+Consider triangle ABC, where the measure of angle A = 20º, B =117º, and 
+C = 43º. Arrange the 3 sides in order of increasing length:
+
+----
+num: 6
+category: General Science
+difficulty: HS
+fixed: -1
+seen: 29
+answer: 100,000  (Accept:  1 × 10^5 or 10^5)
+
+1 bar equals how many Pascals?
+
+----
+num: 6
+category: General Science
+difficulty: HS
+seen: 32
+answer: 1,000
+(Solution: 1 Hpa = 1 Mb)
+
+Meteorologists commonly use the hectopascal for air pressure. 1,000 hectopascals equals how many millibars?
+
+----
+num: 7
+category: Astronomy
+difficulty: HS
+seen: 58
+answer: Earth
+
+What planet of our solar system has the most nitrogen -rich atmosphere?
+
+----
+num: 8
+category: Biology
+difficulty: HS
+seen: 40
+answer: Tears
+
+What is the common name for the product of human lachrymal (read as: LACK-reh-mal) glands?
+
+----
+num: 8
+category: Biology
+difficulty: HS
+fixed: -1
+seen: 42
+answer: Dandelion;  Milkweed
+
+Name all of the following 4 plants that have t heir seeds typically dispersed by wind: dandelion; milkweed; maize; lupine
+
+----
+num: 10
+category: Physics
+difficulty: HS
+seen: 25
+answer: Electron
+
+What particle of an atom is most directly responsible for the emission of light when an atom is excited by electromagnetic radiation?
+
+----
+num: 10
+category: Physics
+difficulty: HS
+seen: 24
+answer: 25
+(Solution:  λ = Wave Speed/f;  500/20 = 25 M)
+
+What is the wavelength, in meters, of a wave moving at 500 meters per second if its frequency is 20 Hertz?
+
+----
+num: 11
+category: Math
+difficulty: HS
+seen: 28
+answer: X^10^9
+(Accept:  ^10 X^9 )
+
+Simplify the following expression: x^2^1x^5^2
+
+----
+num: 12
+category: Earth Science
+difficulty: HS
+seen: 63
+answer: Marble = Metamorphic;  Pumice = Igneous;  Conglomerate = 
+Sedimentary
+
+Identify each of the following 3 rocks, respectively, asigneous, metamorphic, or sedimentary: marble; pumice; conglomerate
+
+----
+num: 14
+category: Astronomy
+difficulty: HS
+seen: 55
+answer: Uranus
+
+Which one of the Gas Giant planets emits the LEAST amount of energy?
+
+----
+num: 16
+category: Chemistry
+difficulty: HS
+seen: 34
+answer: 3
+
+What is the bond order between the 2 carbon atoms in acetylene?
+
+----
+num: 16
+category: Chemistry
+difficulty: HS
+fixed: -1
+seen: 36
+answer: So
+^3^2– (Accept:  So
+^3–^2)
+
+According to standard chemical nomenclature and indicating the proper charge, what is the formula for the sulfite ion?
+
+----
+num: 17
+category: Physics
+difficulty: HS
+seen: 26
+answer: Zero
+
+How many neutrons does the most common is otope of hydrogen have?
+
+----
+num: 17
+category: Physics
+difficulty: HS
+seen: 26
+answer: Neutrons = 7;  Protons = 8
+
+How many neutrons and how many protons are present in a single oxygen -15 nucleus, respectively?
+
+----
+num: 20
+category: General Science
+difficulty: HS
+seen: 31
+answer: The Body  (Accept:  Frame or Chassis)
+
+In most cars, what acts as the circuit ground?
+
+----
+num: 21
+category: Astronomy
+difficulty: HS
+fixed: -1
+seen: 56
+answer: Terminator
+
+What is the most common term for the apparent dividing line between night and day on the Moon?
+
+----
+num: 22
+category: Biology
+difficulty: HS
+seen: 39
+answer: Saliva
+
+What is the common biological name for the product of human sublingual glands?
+
+----
+num: 23
+category: Chemistry
+difficulty: HS
+fixed: -1
+seen: 34
+answer: 1s ^22s^22p^63s^23p^4 (Accept:  [Ne] 3s^23p^4)
+
+Give the electronic configurat ion for sulfur, located in Period 3 and Group 16 of the Periodic Table:
+
+----
+num: 24
+category: Physics
+difficulty: HS
+seen: 27
+answer: South
+
+Jan is riding her bike northward on Main Street at 20 kilometers per hour and applies her brakes. In what direction would a physicist MOST likely record her acceleration?
+
+----
+num: 24
+category: Physics
+difficulty: HS
+seen: 27
+answer: 400
+
+If 200 coulombs pass through a wire in 0.5 seconds, what is the average current, in amps, passing through the wire?
+
+----
+num: 25
+category: Biology
+difficulty: HS
+seen: 39
+answer: Green
+
+What is the most common color for the calyx (read as: KAL -IX) of angiosperms?
+
+----
+num: 25
+category: Biology
+difficulty: HS
+fixed: -1
+seen: 37
+answer: Measles;  Aids
+
+Name all of the following 4 diseases that are caused by viruses: measles; AIDS; tuberculosis; leprosy

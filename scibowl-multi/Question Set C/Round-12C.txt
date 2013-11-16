@@ -1,0 +1,282 @@
+####
+tournament: Question Set C
+round: Round-12C.pdf
+####
+
+num: 1
+category: Physics
+difficulty: HS
+seen: 1
+answer: Z)  Calcium a Nd Sodium
+
+Often some of the strongest spectral lines in cold interstellar gas are produced by:
+W) neutral lithium
+X) ionized iron
+Y) carbon and iron
+Z) calcium and sodium
+
+----
+num: 2
+category: Chemistry
+difficulty: HS
+seen: 1
+answer: W)  Nh^4cl
+
+Which of the following salt solutions, all at 1.0 molar concentration, will have a pH value less than 7:
+W) NH^4Cl 
+X) NaC^2H^3O^2
+Y) KCl
+Z) LiBr
+
+----
+num: 3
+category: Biology
+difficulty: HS
+seen: 1
+answer: X)  a Heavy Isotope of Oxygen as a Tracer
+
+In early experiments in the mid-1900’s, the source and fate of oxygen involved in photosynthesis was mostly determined through experiments that used:
+W) animals in closed containers that would die unless a plant was introduced into the container
+X) a heavy isotope of oxygen as a tracer
+Y) fluorescent labeling of various enzymes and organic products
+Z) simple accounting of the atomic mass of all the reactants and products
+
+----
+num: 5
+category: Earth Science
+difficulty: HS
+seen: 1
+answer: Y)  Fertilizer Runoff From Agricultural Fields
+
+Which of the following is the BEST example of a non-point source pollution:
+W) leaching from a landfill
+X) a leaking septic tank
+Y) fertilizer runoff from agricultural fields
+Z) chemical spills at a mining site
+
+----
+num: 6
+category: General Science
+difficulty: HS
+seen: 1
+answer: W)  Copper
+
+Some vitamin tablets contain high concentrations of zinc and must be formulated to include high levels of which of the following minerals in order to prevent an induced anemia:
+W) copper
+X) calcium
+Y) magnesium
+Z) boron
+
+----
+num: 7
+category: Astronomy
+difficulty: HS
+seen: 1
+answer: X) Wind
+
+Landform deposits called linear dunes that were recently found on the moon Titan are MOST directly produced by:
+W) tectonic activity
+X) wind
+Y) erosion by the retreat and advance of large seas of liquid methane 
+Z) streaks in the surface following low-angle meteorite impacts
+
+----
+num: 8
+category: Physics
+difficulty: HS
+seen: 1
+answer: Z)  Thomson Scattering
+
+The process in which an atom reradiates a photon after interacting with an incident photon of the same energy is called:
+W) Rayleigh scattering 
+X) the Cherenkov effect
+Y) Bragg’s Law
+Z) Thomson scattering
+
+----
+num: 8
+category: Physics
+difficulty: HS
+seen: 1
+answer: X)  Blue and Purple
+
+A protanomalous person has decreased sensitivity of the red cones in his or her eyes. Which of the following color pairs will this person have difficulty distinguishing between:
+W) red and green
+X) blue and purple
+Y) yellow and turquoise
+Z) dark navy blue and black
+
+----
+num: 9
+category: Chemistry
+difficulty: HS
+seen: 1
+answer: Y)  Ketones Have No Hydrogen Atoms Directly Attached to the 
+Carbonyl Group
+
+Which of the following is typically TRUE of organic compounds:
+W) acetylene contains delocalized pi bonds
+X) the simplest carboxylic acid is ethanoic acid
+Y) ketones have no hydrogen atoms directly attached to the carbonyl group
+Z) alcohols contain nonpolar hydroxyl groups
+
+----
+num: 10
+category: Biology
+difficulty: HS
+seen: 1
+answer: Z)  Bacteriophage
+
+In the famous experiment by Hershey and Chase that showed 
+DNA was the genetic material, what did they use to transmit the DNA into E. coli:
+W) other E. coli
+X) electric shocks
+Y) a blender
+Z) bacteriophage
+
+----
+num: 11
+category: Math
+difficulty: HS
+seen: 1
+answer: Y)  1160° and 800°
+(Solution:  80 +3(360º) = 1160º;  80  +2(360º) = 800º)
+
+Which of the following are coterminal angles in standard position (read slowly):
+W) 550º and 185º
+X) 80° and –190°
+Y) 1160° and 800°
+Z) 181 ° and –118°
+
+----
+num: 12
+category: Earth Science
+difficulty: HS
+seen: 1
+answer: W)  Rip Current
+
+Which of the following is the BEST example of an ocean current found in the intertidal littoral zone that flows seaward:
+W) rip current
+X) tidal bore
+Y) the Antarctic Circumpolar Current
+Z) equatorial tidal current
+
+----
+num: 12
+category: Earth Science
+difficulty: HS
+seen: 1
+answer: X)  They Are More Closely Spaced Over North America in the 
+Summer Than in the Winter
+
+Which of the following is NOT true of isotherms:
+W) they are more widely spaced over the equatorial regions
+X) they are more closely spaced over North America in the summer than in the winter
+Y) they tend to be linear in form in the Southern Hemisphere south of 40º latitude
+Z) they are lines that connect places with the same average temperature
+
+----
+num: 13
+category: General Science
+difficulty: HS
+seen: 1
+answer: Z)  Confocal Laser Scanning Microscope
+
+Which of the following instruments is BEST used to image small, transparent and fluorescent specimens and obtain optical sections without the need for mechanical sectioning:
+W) X-ray microanalyzer
+X) scanning electron microscope
+Y) transmission electron microscope
+Z) confocal laser scanning microscope
+
+----
+num: 14
+category: Astronomy
+difficulty: HS
+seen: 1
+answer: X)  Map the Cosmic Background Radiation to Much Greater 
+Accuracy and Precision Than Previous Instruments
+
+The Wilkinson Microwave Anisotropy Probe was specifically designed to:
+W) map all matter in the universe down to a resolution of 1 arc second
+X) map the cosmic background radiation to much greater accuracy and precision than previous instruments
+Y) map the size and locations of the Local Group
+Z) map the exact location of the active galactic center of the Milky Way
+
+----
+num: 15
+category: Physics
+difficulty: HS
+seen: 1
+answer: Y)  4
+
+In a compound gearing arrangement where a 40-tooth gear drives an 80-tooth gear which is directly connected to a 50-tooth gear that drives a 100-tooth gear, the total reduction is a factor of:
+W) 2
+X) 2.5
+Y) 4
+Z) 5
+
+----
+num: 15
+category: Physics
+difficulty: HS
+seen: 1
+answer: W)  the Linear Portion of a Stress/strain Curve
+
+Elastic deformation is BEST described as:
+W) the linear portion of a stress/strain curve
+X) the ultimate strength of a material
+Y) 0.02% elongation
+Z) permanent deformation
+
+----
+num: 16
+category: Chemistry
+difficulty: HS
+seen: 1
+answer: Z)  Lithi Um
+(Solution:  Core Electrons Must Be Removed)
+
+Which of the following elements has the largest second ionization energy:
+W) fluorine 
+X) nitrogen
+Y) boron
+Z) lithium
+
+----
+num: 17
+category: Biology
+difficulty: HS
+seen: 1
+answer: Y)   Plasmids
+
+Which of the following are MOST often used to introduce foreign genes into mammalian genomes:
+W) sliceosomes (read as: sly-see-oh-somz)
+X) zinc fingers
+Y) plasmids
+Z) telomeres
+
+----
+num: 17
+category: Biology
+difficulty: HS
+seen: 1
+answer: W)  Homeobox Genes
+
+Which of the following regulate development in animals, plants and fungi, and were first discovered in Drosophila:
+W) homeobox (read as: HOME-ee-oh-box) genes
+X) p53
+Y) shock genes
+Z) oncogenes
+
+----
+num: 19
+category: Earth Science
+difficulty: HS
+seen: 1
+answer: X)  Hydrolysis
+
+Orthoclase feldspar primarily weathers by which of the following processes to form clay minerals:
+W) abrasion
+X) hydrolysis
+Y) exfoliation
+Z) dissolution

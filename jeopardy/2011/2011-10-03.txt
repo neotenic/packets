@@ -1,0 +1,421 @@
+####
+tournament: #6216
+round: Show #6216 - Monday, October 3, 2011
+year: 2011
+date: 2011-10-03
+####
+
+num: 1
+category: Art
+difficulty: 200
+seen: 4
+answer: Michelangelo
+
+Charlton Heston felt "The Agony and the Ecstasy" as this ceiling painter.
+
+----
+num: 2
+category: Literature
+difficulty: 200
+seen: 4
+answer: an atlas
+
+It's a 5-letter word for a book of maps.
+
+----
+num: 3
+category: Trash
+difficulty: 200
+seen: 6
+answer: chess
+
+The organization that governs this board game is FIDE, the Federation Internationale des Echecs.
+
+----
+num: 4
+category: Science
+difficulty: 200
+seen: 7
+answer: the cranium
+
+8 bones form this portion of the skull, also called the braincase.
+
+----
+num: 5
+category: Literature
+difficulty: 200
+seen: 4
+answer: the Alamo
+
+The men who died defending this locale in 1836 included William E. Summers & William DePriest Sutherland.
+
+----
+num: 6
+category: Art
+difficulty: 400
+seen: 4
+answer: Diego Rivera
+
+Alfred Molina was this painter & husband of the title character in "Frida".
+
+----
+num: 7
+category: Literature
+difficulty: 400
+seen: 4
+answer: quotations
+
+In 1855 John Bartlett first published a collection of these.
+
+----
+num: 8
+category: Trash
+difficulty: 400
+seen: 5
+answer: Twister
+
+This family game that ties you up in knots was originally called "Pretzel".
+
+----
+num: 9
+category: Science
+difficulty: 400
+seen: 6
+answer: the coccyx
+
+This, the tailbone, consists of 3-5 fused vertebrae.
+
+----
+num: 10
+category: Literature
+difficulty: 400
+seen: 4
+answer: algae
+
+These primitive aquatic plants are similar to bryophytes in that they lack true stems, roots & leaves.
+
+----
+num: 11
+category: Art
+difficulty: 600
+seen: 4
+answer: (Paul) Gauguin
+
+Both Donald & Kiefer Sutherland have portrayed this artist who journeyed to & from Tahiti.
+
+----
+num: 12
+category: Literature
+difficulty: 600
+seen: 4
+answer: almanacs
+
+Every year our writers get excited by new editions of these books that originally carried astronomical data.
+
+----
+num: 13
+category: Trash
+difficulty: 600
+seen: 4
+answer: Scrabble
+
+In 1996 someone got 311 points for playing "craziest" in this board game.
+
+----
+num: 14
+category: Literature
+difficulty: 600
+seen: 4
+answer: allegory
+
+John Bunyan's "Pilgrim's Progress" is a work in this genre.
+
+----
+num: 15
+category: Art
+difficulty: 800
+seen: 4
+answer: (Pablo) Picasso
+
+In a 1996 biopic Francoise Gilot manages to survive her affair with this great artist of the 20th century (Anthony Hopkins).
+
+----
+num: 16
+category: Literature
+difficulty: 800
+seen: 4
+answer: a gazetteer
+
+This word for a geographic dictionary once meant someone who writes for a newspaper.
+
+----
+num: 17
+category: Trash
+difficulty: 800
+seen: 5
+answer: Dennis Eckersley
+
+Hall of Famer "Eck".
+
+----
+num: 18
+category: Trash
+difficulty: 800
+seen: 5
+answer: Luxury Tax
+
+In British Monopoly, this becomes Super Tax.
+
+----
+num: 19
+category: Science
+difficulty: 800
+seen: 5
+answer: the trachea
+
+This airway connects the pharynx with the bronchi.
+
+----
+num: 20
+category: Art
+difficulty: 1000
+seen: 5
+answer: (Jan) Vermeer
+
+Colin Firth painted the title work as this artist in "Girl with a Pearl Earring".
+
+----
+num: 21
+category: Literature
+difficulty: 1000
+seen: 4
+answer: Bartleby
+
+An Internet publisher of great works is named for this Melville scrivener & of course has his tale online.
+
+----
+num: 22
+category: Trash
+difficulty: 1000
+seen: 5
+answer: Phil Rizzuto
+
+"The Scooter" of the Bronx.
+
+----
+num: 23
+category: Trash
+difficulty: 1000
+seen: 4
+answer: FreeCell
+
+This solitaire game goes back to a version Paul Alfille wrote in 1978 for the Plato computer system.
+
+----
+num: 24
+category: Literature
+difficulty: 1000
+seen: 4
+answer: Albertville
+
+In 1992 the winter Olympic games were held in this French city.
+
+----
+num: 25
+category: Mythology
+difficulty: 400
+fixed: -1
+seen: 13
+answer: a stupid Cupid
+
+Dumb little Roman love god.
+
+----
+num: 26
+category: History
+difficulty: 400
+seen: 4
+answer: Mary, Queen of Scots
+
+Born in Linlithgow in 1542, she married into French royalty & thus became the queen of 2 countries.
+
+----
+num: 27
+category: Art
+difficulty: 400
+seen: 4
+answer: a sombrero
+
+The name of this broad-brimmed hat derives from the Spanish for "shade".
+
+----
+num: 28
+category: Literature
+difficulty: 400
+seen: 4
+answer: a hog
+
+This term for a type of fat, heavy pig developed in the late 19th c. is now applied to any pig of more than 120 pounds.
+
+----
+num: 29
+category: Literature
+difficulty: 800
+seen: 4
+answer: James Hilton
+
+His "And Now Good-bye" wasn't quite as popular as his "Good-bye, Mr. Chips".
+
+----
+num: 30
+category: Mythology
+difficulty: 800
+fixed: -1
+seen: 12
+answer: Saturn\'s patterns
+
+Designs made by a god whose name is remembered in a weekend day.
+
+----
+num: 31
+category: History
+difficulty: 800
+seen: 4
+answer: Ford
+
+In 1974 columnist Mary McGrory called this veep "a blind date who has been proposed to".
+
+----
+num: 32
+category: Trash
+difficulty: 800
+seen: 4
+answer: The Situation
+
+It's the nickname of "Jersey Shore" cast member Mike Sorrentino, who has it under control.
+
+----
+num: 33
+category: Art
+difficulty: 800
+seen: 4
+answer: a crown
+
+A mark of prestige in Muslim countries, the brimless taj gets its name from the Persian for this royal headgear.
+
+----
+num: 34
+category: Literature
+difficulty: 800
+seen: 4
+answer: chicken
+
+Don't be afraid to tell us the familiar name of this fowl, Gallus gallus domesticus.
+
+----
+num: 35
+category: Literature
+difficulty: 1200
+seen: 4
+answer: (William) Kennedy
+
+"Billy Phelan's Greatest Game" & "Ironweed " are books in his Albany cycle.
+
+----
+num: 36
+category: Mythology
+difficulty: 1200
+seen: 13
+answer: Zeus\'s truces
+
+Supreme Greek god's suspensions of hostilities.
+
+----
+num: 37
+category: History
+difficulty: 1200
+seen: 4
+answer: Mary Kay
+
+Check out the makeup on the woman.
+
+----
+num: 38
+category: Art
+difficulty: 1200
+seen: 4
+answer: a bowler
+
+Called a derby in the U.S., this British hat is named for a manufacturer, not a kegler.
+
+----
+num: 39
+category: Literature
+difficulty: 1200
+seen: 4
+answer: sheep
+
+Species of this food & clothing provider include the Shropshire, karakul & merino.
+
+----
+num: 40
+category: Mythology
+difficulty: 1600
+seen: 12
+answer: Osiris\'s viruses
+
+Egyptian god of death & resurrection's tiny infectious agents.
+
+----
+num: 41
+category: History
+difficulty: 1600
+seen: 5
+answer: the Quakers
+
+Religious martyr Mary Barrett Dyer was hanged in Boston in 1660 for her devotion to this group, the Society of Friends.
+
+----
+num: 42
+category: Literature
+difficulty: 1600
+seen: 4
+answer: llamas
+
+"Lamoid" (with one "L") is the collective term for this South American herd animal & its relatives.
+
+----
+num: 43
+category: Literature
+difficulty: 2000
+seen: 5
+answer: Francis Macomber
+
+A short story by Ernest Hemingway tells of "The Short Happy Life of" this American on safari in Africa.
+
+----
+num: 44
+category: Mythology
+difficulty: 2000
+seen: 22
+answer: Vishnu\'s fish stews
+
+Hindu preserver god's bouillabaisses.
+
+----
+num: 45
+category: Art
+difficulty: 2000
+seen: 5
+answer: (the Duke of) Wellington
+
+A type of top hat popular in the 19th century was named for this "Iron Duke".
+
+----
+num: 46
+category: Literature
+difficulty: 2000
+seen: 6
+answer: a duck
+
+The muscovy type of this fowl was originally domesticated in South America, not Russia.

@@ -1,0 +1,277 @@
+####
+tournament: Sample
+round: round4.pdf
+####
+
+num: 1
+category: Biology
+difficulty: HS
+answer: Y)  Humans and Modern Apes Have a Common Ancestor
+
+Which of the following is TRUE:
+W) chimpanzees are an ancestor of Homo sapiens
+X) bipedal motion dominated hominoid ancestors by about 30 million years ago
+Y) humans and modern apes have a common ancestor
+Z) Neanderthals were ancestors to modern humans
+
+----
+num: 2
+category: Chemistry
+difficulty: HS
+answer: X)  Cobalt
+
+Which of the following is an element that is very important to human life, is contained in vitamin B -12, belongs to a group of transiti on metals, and has magnetic properties like iron:
+W) selenium
+X) cobalt
+Y) zinc
+Z) manganese
+
+----
+num: 3
+category: Physics
+difficulty: HS
+answer: W)  Manometer
+
+Which of the following is the most common instrument used for measuring gas pressure:
+W) manometer
+X) anemometer
+Y) tensitometer
+Z) flow-meter
+
+----
+num: 3
+category: Physics
+difficulty: HS
+answer: X)  if Frequency Increases, Wavelength Decreases
+
+Which of the following is TRUE of a sound wave traveling in dry air at STP at a constant velocity:
+W) if frequency increases, wavelength increases
+X) if frequency increases, wavelength decreases
+Y) if frequency decreases, wavelength decreases
+Z) if frequency increases, wavelength stays the sa me
+
+----
+num: 5
+category: Earth Science
+difficulty: HS
+answer: X)  Neap Tides
+
+Ocean tides of diminished range are called:
+W) spring tides
+X) neap tides
+Y) diurnal tides
+Z) semi-diurnal tides
+
+----
+num: 5
+category: Earth Science
+difficulty: HS
+answer: W)  Cretaceous Period
+
+Which of the following was a tim e when glaciation was minimal on Earth:
+W) Cretaceous Period
+X) Quaternary Period 
+Y) Holocene Epoch
+Z) Pleistocene Epoch
+
+----
+num: 7
+category: Astronomy
+difficulty: HS
+seen: 1
+answer: Z)  Dwarf
+
+Most of the galaxies in the universe are classified as which of the following:
+W) spiral
+X) elliptical
+Y) irregular
+Z) dwarf
+
+----
+num: 9
+category: Chemistry
+difficulty: HS
+answer: W)  Ammonia
+
+Which of the following is a weak electrolyte:
+W) ammonia
+X) dilute sulfuric acid
+Y) 1 molar sodium chloride
+Z) dilute perchloric acid
+
+----
+num: 9
+category: Chemistry
+difficulty: HS
+answer: Y)  Low
+
+A molecular solid will most typically have which of the following melting points:
+W) very high
+X) high to very high
+Y) low
+Z) variable
+
+----
+num: 12
+category: Earth Science
+difficulty: HS
+answer: Z)  Sleet
+
+When rain freezes into pellets while falling to the ground during a winter storm, the most accurate forecast would have predicted:
+W) hail
+X) snow
+Y) freezing rain
+Z) sleet
+
+----
+num: 13
+category: General Science
+difficulty: HS
+seen: 1
+answer: W)  Marine
+
+Bioluminescence is a phenomenon most common inwhich of the following environments:
+W) marine
+X) fresh water
+Y) land
+Z) atmosphere
+
+----
+num: 13
+category: General Science
+difficulty: HS
+seen: 1
+answer: X)  Vinegar and Bleach
+(Solution: Small Amounts of Vinegar Can Be Added to Bleach  to Acidify the Bleach, but It’s Generally 
+Not a Good Idea to Mix These Two Solutions)
+
+Which of the following is a mixing incompatibility ofcommon household products that can produce toxic products:
+W) vinegar and baking soda
+X) vinegar and bleach 
+Y) vinegar and borax 
+Z) castile soap and salt
+
+----
+num: 14
+category: Astronomy
+difficulty: HS
+seen: 1
+answer: X)  Low Mean Density
+
+Which of the following is the primary characteristic of the 
+Jovian planets:
+W) high axial spin rates
+X) low mean density
+Y) retrograde orbits
+Z) prominent layer of liquid -metallic hydrogen
+
+----
+num: 15
+category: Biology
+difficulty: HS
+answer: X)  Cloaca
+
+Eggs exit a chicken’s body through what specific structure:
+W) rectal plexus
+X) cloaca (read as: KLO-aye-ka)
+Y) rostrum
+Z) spiculum
+
+----
+num: 15
+category: Biology
+difficulty: HS
+answer: Y)  Head
+
+In which of the following areas of the human body is the zygomatic (read as: ZYE -go-MAT-ick) arch found:
+W) shoulder
+X) pelvis
+Y) head
+Z) knee
+
+----
+num: 18
+category: Math
+difficulty: HS
+answer: Y)  16, 24, 30
+
+Which of the following is NOT a Pythagorean triple:
+W) 15, 20, 25
+X) 10, 24, 26
+Y) 16, 24, 30
+Z) 33, 44, 55
+
+----
+num: 19
+category: Earth Science
+difficulty: HS
+answer: W)  2 0,000 Feet and Above
+
+Cirrus clouds are typically found at elevations of:
+W) 20,000 feet and above
+X) 10,000 to 20,000 feet
+Y) 5,000 to 10,000 feet
+Z) 2,000 to 5,000 feet
+
+----
+num: 19
+category: Earth Science
+difficulty: HS
+answer: Y)  Subduction Zones
+
+Andesitic magmas typically erupt above:
+W) hot spots
+X) divergent plate boundaries
+Y) subduction zones
+Z) fissure eruptions
+
+----
+num: 20
+category: General Science
+difficulty: HS
+seen: 1
+answer: W)  They Defend Their Nests More Intensely
+
+Which of the following is the main reason why 
+Africanized honey bees are much more dangerous to humans and animals than European honey bees:
+W) they defend their nests more intensely 
+X) their venom is 10-times more potent
+Y) they can sting multiple times
+Z) they are larger and carry more venom
+
+----
+num: 21
+category: Astronomy
+difficulty: HS
+seen: 1
+answer: Z)  December
+
+From mid-northern latitudes, during which of the following months would the constellation Orion be most prominent in the southern sky at about 10 PM:
+W) April
+X) July
+Y) August
+Z) December
+
+----
+num: 22
+category: Biology
+difficulty: HS
+answer: Z)  Polysaccharide
+
+From which of the following is the cell wall of p lants mostly composed:
+W) protein
+X) lipid monolayer
+Y) lipid bilayer
+Z) polysaccharide
+
+----
+num: 23
+category: Chemistry
+difficulty: HS
+answer: Y)  5s
+
+Which of the following is the atomic sublevel with the next highest energy after the 4p sublevel:
+W) 4d
+X) 4f
+Y) 5s
+Z) 5p

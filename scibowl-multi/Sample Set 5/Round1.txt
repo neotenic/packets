@@ -1,0 +1,373 @@
+####
+tournament: Sample Set 5
+round: Round1.pdf
+####
+
+num: 3
+category: Physics
+difficulty: HS
+answer: Y) There Could Be Magnetic and Electric Fields Oriented 
+Perpendicularly to O Ne Another
+
+A charged particle moves through an area of space at a constant speed and direction. Which of the following statements is TRUE?
+W) There is no magnetic field
+X) There could be magnetic and electric fields oriented in the same direction
+Y) There could be magnetic and electric fields oriented perpendicularly to one another
+Z) There could be magnetic and electric fields oriented opposite to one another
+
+----
+num: 4
+category: Earth and Space Science
+difficulty: MS
+answer: W) the Focal Length of the Main Lens or Mirror
+
+Which of the following determines the size of the image formed by a telescope?
+W) The focal length of the main lens or mirror
+X) The thickness of the lens 
+Y) The size of the aperture
+Z) The size of the mirror
+
+----
+num: 6
+category: Physics
+difficulty: HS
+answer: Z) They Can Be Electrons or Positrons
+
+Which of the following is TRUE of beta particles?
+W) They have a charge equal and opposite to alpha particles
+X) They are more penetrating than gamma particles of the same energy
+Y) They are common decay products of alpha particles
+Z) They can be electrons or positrons
+
+----
+num: 6
+category: Physical Science
+difficulty: MS
+answer: X)  Molecular Nitrogen
+
+Which of the following compounds is LEAST solubl e in water?
+W) Ammonia
+X) Molecular nitrogen
+Y) Sodium chloride
+Z) Methanol
+
+----
+num: 7
+category: Earth and Space
+difficulty: HS
+answer: Y) Solar Pa Nels
+
+America’s first satellite, Explorer I, had all of the following technology aboard, EXCEPT:
+W) Internal and external temperature sensors
+X) Data transmitting antennas
+Y) Solar panels
+Z) Micrometeorite impact microphone
+
+----
+num: 8
+category: Physical Science
+difficulty: MS
+answer: Z ) F
+
+Lanthanides are elements with which of the following orbitals partially filled?
+W) S
+X) P
+Y) D
+Z) F
+
+----
+num: 9
+category: Energy
+difficulty: HS
+answer: Y) Gravitational Potential Energy Is Converted Into Thermal 
+Ener Gy
+
+In terms of energy, which of the following happens after a skydiver reaches terminal velocity?
+W) Kinetic energy increases exponentially with distance
+X) Gravitational potential energy ceases to be present
+Y) Gravitational potential energy is converted into thermal energy
+Z) Kinetic energy increases linearly with distance
+
+----
+num: 9
+category: Energy
+difficulty: MS
+answer: Z) Increased Salinity I N Tampa Bay Is a Pro Ven Environmental 
+Hazard of This Operation
+
+Which of the following is NOT a characteristic of the Tampa Bay desalination plant ?
+W) It can produce up to 25 million gallons of drinking water per day
+X) It uses the process of reverse osmosis to produce drinking water from saltwater
+Y) Concentrated seawater is directed back to the power plant, where it is mixed with cooling water and returned to the Bay
+Z) Increased salinity in Tampa Bay is a proven environmental hazard of this operation
+
+----
+num: 9
+category: Energy
+difficulty: MS
+answer: W) Compton Scattering
+
+
+Which of the following processes involves the scattering of a photon off of an electron?
+W) Compton scattering
+X) Møller scattering
+Y) Pair production
+Z) Bhabha scattering
+
+----
+num: 11
+category: Earth and Space
+difficulty: HS
+answer: X) the Moon Will Pass Over the Earth’s North Pole
+
+Which of the following will NOT result from variations in the Moon’s orbital plane with respect to the Earth?
+W) The Moon will continue to cause solar eclipses
+X) The Moon will pass over the Earth’s North Pole 
+Y) There will continue to be l unar eclipses
+Z) The apparent path of the Moon in the sky will vary
+
+----
+num: 11
+category: Earth and Space
+difficulty: HS
+answer: Y) 20,000
+
+
+What is the approximate average impact speed, in miles per hour, of a piece of orbital debris that strikes the Earth?
+W) 5,000
+X) 10,000
+Y) 20,000
+Z) 30,000
+
+----
+num: 11
+category: Earth and Space Science
+difficulty: MS
+answer: Z) Kame
+
+Which of the following is a depositional feature formed by a glacier?
+W) Arête (read as: ah-RATE)
+X) Horn
+Y) Cirque
+Z) Kame (read as: CAME)
+
+----
+num: 11
+category: Earth and Space Science
+difficulty: MS
+answer: X) Location Adjacent to a Subduction Zone
+
+
+Iceland is very tectonically active; which of the fo llowing does NOT contribute to its interesting geologic and tectonic past and present?
+W) Location atop a divergent boundary
+X) Location adjacent to a subduction zone
+Y) Location atop a hot spot
+Z) Abundant transform faults
+
+----
+num: 12
+category: Physical Science
+difficulty: MS
+answer: X)  the Square of Its Velocity
+
+The kinetic energy of an object is proportional to which of the following?
+W) Its velocity
+X) The square of its velocity
+Y) Its momentum
+Z) Its angular momentum
+
+----
+num: 13
+category: Earth and Space Science
+difficulty: MS
+answer: W) Spring Tides
+
+Which of the following events are associated with the highest tides?
+W) Spring tides
+X) Neap tides
+Y) Slack tides
+Z) Ebb tides
+
+----
+num: 14
+category: Energy
+difficulty: HS
+answer: X) It Is Heat-Sourced
+
+Absorption refrigeration is commonly used in co-generation facilities. It differs from traditional compressor refrigeration by which of the following key characteristics?
+W) Size
+X) It is heat-sourced
+Y) It is electrically-sourced
+Z) Temperature
+
+----
+num: 15
+category: Biology
+difficulty: HS
+answer: Z) Legs
+
+Members of the order Gymnophiona (read as: jim-noh-FYOH-nah), otherwise known as Caecilians (read as: si-SIL-yahns), do NOT have which of the following ?
+W) Poison glands
+X) Teeth
+Y) Elongated organs
+Z) Legs
+
+----
+num: 16
+category: Math
+difficulty: HS
+answer: Z) 0.385
+
+Suppose, in a certain part of the world, in any 50 -year period, the probability of a major plague is 39%, the probability of a major famine is 52% , and the probability of both a plague and a famine is 15%. Given that there is a plague, which of the following is the probability of a famine?
+W) 0.240
+X) 0.288
+Y) 0.370
+Z) 0.385
+
+----
+num: 17
+category: Life Science
+difficulty: MS
+answer: Z) Locus
+
+Which of the following best describes the position of a gene on a chromosome?
+W) Chiasma (read as: ky-AHZ-mah)
+X) Allele
+Y) Histone
+Z) Locus
+
+----
+num: 18
+category: Energy
+difficulty: HS
+answer: W) It Converts Coal Into Synthetic Fuels
+
+Which of the following BEST describes the process of coal liquefaction?
+W) It converts coal into synthetic fuels
+X) It reduces carbon dioxide emissions in coal plants 
+Y) It removes sulfur from coal in coal plants
+Z) It converts coal into an easily transportable form
+
+----
+num: 18
+category: Energy
+difficulty: HS
+answer: E85 W) They Get About 25% F Ewer Miles Per Gallo N When Fueled With
+
+Which of the following is a disadvantage of flexible fuel vehicles?
+W) They get about 25% fewer miles per gallon when fueled with E85
+X) They experience significant loss in power when operating on E85
+Y) They are very different than gasoline-only models
+Z) The technology is untested
+
+----
+num: 18
+category: Energy
+difficulty: MS
+answer: W)  Plate Boundaries
+
+Which of the following tec tonic settings is MOST conducive to geothermal power generation?
+W) Plate boundaries
+X) Passive margins
+Y) Continental shields
+Z) Denudation
+
+----
+num: 19
+category: Physics
+difficulty: HS
+answer: Z) It Is Unchanged
+
+An elephant steps on an electrical extension cord that is connected to a lit lamp. Assuming that the lamp remains plugged in and the cord unbroken, which of the following happens to the light intensity coming from the lamp?
+W) It goes out
+X) It becomes dimmer
+Y) It becomes brighter
+Z) It is unchanged
+
+----
+num: 19
+category: Physical Science
+difficulty: MS
+answer: Z) Increasing the Mass of the Attached Object Will Increase the
+Magnitude of the Spring Force
+ 
+
+A spring lies flat on a frictionless table and osci llates with a mass attached to the end of it. Which of the following is NOT true regarding this system?
+W) Kinetic energy is greatest at the equilibrium position
+X) Potential energy is greatest at two different displacements
+Y) Potential energy is least a t the equilibrium position
+Z) Increasing the mass of the attached object will increase the magnitude of the spring force
+
+----
+num: 20
+category: Biology
+difficulty: HS
+answer: W) They Have Cell Walls O F Cellulose and Produce Motile 
+Spores
+
+Which of the following BEST explains why water molds are 
+NOT classified as fungi?
+W) They have cell walls of cellulose and produce motile spores
+X) They are decomposers
+Y) They are multinucleate 
+Z) They have cell walls of chitin (read as: KY-tin) and when aggregated function like a multicellular organism
+
+----
+num: 20
+category: Life Science
+difficulty: MS
+answer: W) Sea Turtle
+
+Which of the following ocean animals ’ eggs hatch at low tide?
+W) Sea turtle
+X) Sea star
+Y) Grunion
+Z) Sea anemone
+
+----
+num: 21
+category: Math
+difficulty: MS
+answer: Z) (-2, -23)
+
+
+Which of the following points lies on the curve with equationy = 2x^3  |5x | + 3 (read as: y equals 2 x cubed minus the absolute value of 5 x plus 3?
+W) (-2, 29)
+Y) (X) (
+Z) (---2, 2,2, 1)-9)23)
+
+----
+num: 22
+category: Chemistry
+difficulty: HS
+answer: W) Water
+
+Which of the following substances has the high est boiling point?
+W) Water
+X) Methanol
+Y) Ethyl alcohol 
+Z) Diethyl ether
+
+----
+num: 23
+category: Earth and Space Science
+difficulty: MS
+answer: Y) Platinum
+
+Which of the following minerals has the highest density?
+W) Chromite
+X) Galena (read as: gah-LEE-nah)
+Y) Platinum 
+Z) Pyrite (read as: PY-ryt)
+
+----
+num: 25
+category: Biology
+difficulty: HS
+answer: W) Strengthens and Slows the Heartbeat
+
+The drug Digoxin from the Digitalis plant slows the reuptake of calcium by the sarcoplasmic reticulum (read as: ri-TI-kyuh-luhm). What is the effect of this on the strength and rate of heart contractions?
+W) Strengthens and slows the heartbeat
+X) Strengthens and speeds the heartbeat
+Y) Weakens and slows the heartbeat
+Z) Weakens and speeds the heartbeat

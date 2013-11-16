@@ -1,0 +1,351 @@
+####
+tournament: #6105
+round: Show #6105 - Friday, March 11, 2011
+year: 2011
+date: 2011-03-11
+####
+
+num: 1
+category: Literature
+difficulty: 200
+seen: 4
+answer: Lancelot
+
+While rescuing Queen Guinevere, this knight mistakenly killed Sir Gareth, which led to disbandment of the round table.
+
+----
+num: 2
+category: Literature
+difficulty: 200
+seen: 5
+answer: I can\'t help falling in love with you
+
+In a 1961 Elvis smash, this 8-word refrain follows, "wise men say only fools rush in, but".
+
+----
+num: 3
+category: Literature
+difficulty: 200
+seen: 4
+answer: Stephen King
+
+This spinner of such tales as "It" & "The Stand" stands well over 6 feet.
+
+----
+num: 4
+category: History
+difficulty: 200
+seen: 6
+answer: Stalin
+
+"A single death is a tragedy, a million deaths is a statistic" is attributed to this Soviet leader.
+
+----
+num: 5
+category: Mythology
+difficulty: 200
+seen: 13
+answer: T-H-O-R
+
+One of this Norse god's main epithets is Vingnir ("the hurler") (4 letters).
+
+----
+num: 6
+category: Literature
+difficulty: 400
+seen: 3
+answer: Merlin
+
+In "Le Morte D'Arthur", Arthur tells him, I must take a wife but only "by thy counsel and thine advice".
+
+----
+num: 7
+category: Literature
+difficulty: 400
+seen: 4
+answer: I\'ll Be Home For Christmas
+
+In 1957 the King recorded this seasonal song about getting somewhere for the holidays "if only in my dreams".
+
+----
+num: 8
+category: Literature
+difficulty: 400
+seen: 4
+answer: Goliath
+
+I Samuel 17:4 says he was "six cubits and a span"; that's 9 feet 6 inches!.
+
+----
+num: 9
+category: Mythology
+difficulty: 400
+fixed: -1
+seen: 13
+answer: B-A-C-C-H-U-S
+
+"To Anacreon In Heaven" mentions this rollicking Roman god's vine.
+
+----
+num: 10
+category: Literature
+difficulty: 600
+seen: 4
+answer: The Lady of the Lake
+
+This sword-proffering lady was a Tony-winning role in "Spamalot" for Sara Ramirez of "Grey's Anatomy".
+
+----
+num: 11
+category: Literature
+difficulty: 600
+seen: 4
+answer: I Love You
+
+Completes the title of the King's second No. 1 "I Want You, I Need You...".
+
+----
+num: 12
+category: Literature
+difficulty: 600
+seen: 3
+answer: Howard Stern
+
+Fans of this shock jock might be shocked to learn that he stands 6-foot-5.
+
+----
+num: 13
+category: History
+difficulty: 600
+seen: 5
+answer: Attila the Hun
+
+Living up to his nickname, in 440 this "Scourge of God" broke a truce with eastern Romans & blitzed Danubian towns.
+
+----
+num: 14
+category: Mythology
+difficulty: 600
+fixed: -1
+seen: 12
+answer: O-S-I-R-I-S
+
+This Egyptian god of death & resurrection was the brother-husband of Isis (6 letters).
+
+----
+num: 15
+category: Literature
+difficulty: 800
+seen: 4
+answer: I\'m So Lonesome I Could Cry
+
+The King called this Hank Williams classic he recorded in 1973 "the saddest song I've heard in my life".
+
+----
+num: 16
+category: Literature
+difficulty: 800
+seen: 4
+answer: Tony Robbins
+
+Who better to tell us how to "Awaken The Giant Within" & control our own destiny than this 6'7" motivational speaker.
+
+----
+num: 17
+category: History
+difficulty: 800
+seen: 4
+answer: Ivan the Terrible
+
+In 1565 he said he'd rule Russia... if he could execute traitors as he wished & take their possessions: Russia said sure!.
+
+----
+num: 18
+category: Mythology
+difficulty: 800
+fixed: -1
+seen: 11
+answer: H-E-P-H-A-E-S-T-U-S
+
+Vulcan is the Roman equivalent of this Greek fire god (10 letters).
+
+----
+num: 19
+category: Literature
+difficulty: 1000
+seen: 4
+answer: I Got A Woman
+
+The King's debut album included a rockin' version of this Ray Charles classic about a gal way across town.
+
+----
+num: 20
+category: Literature
+difficulty: 1000
+seen: 3
+answer: Manute Bol
+
+Sadly, the tale of this 7-foot-7 former NBA center came to an end in June 2010; he was laid to rest in his native Sudan.
+
+----
+num: 21
+category: History
+difficulty: 1000
+seen: 4
+answer: Pol Pot
+
+In the '70s nearly a million Cambodians died under the regime of this Khmer Rouge leader.
+
+----
+num: 22
+category: Mythology
+difficulty: 1000
+seen: 12
+answer: G-A-N-E-S-H-A
+
+This Hindu god of wisdom & good fortune has the head of an elephant (7 letters).
+
+----
+num: 23
+category: Trash
+difficulty: 400
+seen: 5
+answer: the knee
+
+Soccer-playing teens are prone to Osgood-Schlatter disease, mainly seen as a swelling just below this joint.
+
+----
+num: 24
+category: Literature
+difficulty: 400
+seen: 4
+answer: blah
+
+It means sad or listless; when tripled, it means "and so on".
+
+----
+num: 25
+category: History
+difficulty: 400
+seen: 4
+answer: France
+
+Stanley Kubrick's WWI film "Paths Of Glory" is about a real incident involving this country's army.
+
+----
+num: 26
+category: Trash
+difficulty: 800
+seen: 5
+answer: a concussion
+
+This contact sport injury resulting from a blow to the head has several grades; with grade I, you stay conscious.
+
+----
+num: 27
+category: Literature
+difficulty: 800
+seen: 4
+answer: amok
+
+"To run" this way means to run viciously, frenzied for blood; originally the term referred to a crazy malay.
+
+----
+num: 28
+category: Trash
+difficulty: 1200
+seen: 6
+answer: the ankle
+
+It's the most common sports sprain & also common is your buddy telling you to just walk it off.
+
+----
+num: 29
+category: Literature
+difficulty: 1200
+fixed: -1
+seen: 4
+answer: a coda
+
+Led Zeppelin knows that this word refers to a concluding passage of a musical piece or a ballet.
+
+----
+num: 30
+category: History
+difficulty: 1200
+seen: 4
+answer: Jutland
+
+In the War's biggest naval battle, the British & German fleets fought to a draw off this Danish peninsula.
+
+----
+num: 31
+category: Literature
+difficulty: 1600
+seen: 4
+answer: an ankh
+
+A symbol of life in Egypt, it's also known as an Ansate Cross.
+
+----
+num: 32
+category: History
+difficulty: 1600
+seen: 5
+answer: Japan
+
+The British & this ally took the German colony of Tsingtao in 1914; in 1941, the teams would be different.
+
+----
+num: 33
+category: History
+difficulty: 1600
+seen: 4
+answer: Ghana
+
+At the invitation of President Nkrumah, the first overseas volunteers arrived in this country on the Gulf of Guinea in August of 1961.
+
+----
+num: 34
+category: History
+difficulty: 2000
+seen: 5
+answer: John Quincy Adams
+
+In "Amistad", about an 1839 uprising of Africans on a slave ship, Hopkins played this former president arguing for the defense.
+
+----
+num: 35
+category: Trash
+difficulty: 2000
+seen: 8
+answer: edema
+
+Accute mountain sickness can develop into the pulmonary or cerebral type of this accumulation of fluid.
+
+----
+num: 36
+category: Literature
+difficulty: 2000
+seen: 6
+answer: grok
+
+This word from Heinlein's "Stranger In A Strange Land" means "to communicate sympathetically".
+
+----
+num: 37
+category: History
+difficulty: 2000
+seen: 5
+answer: the Triple Entente
+
+When war began, the Triple Alliance of Germany, Italy & Austria-Hungary faced the Triple this.
+
+----
+num: 38
+category: History
+difficulty: 2000
+seen: 5
+answer: Bulgaria
+
+The Corps serves the 2nd as well as the 3rd.

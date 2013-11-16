@@ -1,0 +1,417 @@
+####
+tournament: Sample Set 4
+round: Round14.pdf
+####
+
+num: 1
+category: Math
+difficulty: HS
+fixed: -1
+seen: 24
+answer: - 8
+
+If the determinant of a 2 by 2 matrix, denoted A, is equal to -2, what is the determinant of 2 times A?
+
+----
+num: 1
+category: Physical Science
+difficulty: MS
+seen: 6
+answer: Drag Force, Atmospheric Pressure, and Re Lative Angle at Which 
+the Smaller Object Travels (Accept: 1, 2 , 3, All)
+
+
+To calculate the escape velocity for an object when it is much smaller than the larger body, name all of the of the following that can be neglected: 
+1) drag force, 2) atmospheric pressure, and/or 3) relative angle at which the smaller object travels?
+
+----
+num: 2
+category: Physics
+difficulty: HS
+seen: 26
+answer: 10
+
+If two sine waves are played with frequencies of 400 and 410 
+Her tz, at what frequency in Hertz will you perceive that their volumes are “pulsing”?
+
+----
+num: 2
+category: Life Science
+difficulty: MS
+seen: 10
+answer: Pancreas
+
+What is the spongy, glandular organ that secretes digestive enzymes and hormones, including insulin?
+
+----
+num: 3
+category: Earth and Space
+difficulty: HS
+seen: 49
+answer: Northern Hemisphere
+
+
+If where you live, the sun rises at 75° northeast on the horizon, in May, and the solar altitude is less than 90° at the equinox, in which hemisphere do you live?
+
+----
+num: 3
+category: Math
+difficulty: MS
+seen: 6
+answer: 6y + 4
+
+
+A triangle has an area of 9 y^2 - 9y -10. The base of the triangle is 3 y - 5. 
+In terms of y, what is the height of the triangle?
+
+----
+num: 4
+category: Biology
+difficulty: HS
+seen: 39
+answer: Iga
+
+Many mammal species produce colostrum during the late stages of pregnancy or shortly after giving birth. This "first milk" transfers antibodies from the mother to the infant. What is the isotype of these antibodies that can be transferred from the infant gut to the infant bloodstream?
+
+----
+num: 5
+category: Physical Science
+difficulty: MS
+seen: 5
+answer: The Latent Heat of Fusion
+
+
+What is the name for the amount of energy it takes to change a unit mass of a solid into the same mass of liquid?
+
+----
+num: 6
+category: Physics
+difficulty: HS
+seen: 27
+answer: Q^1, Q^2, and Q^3 (Accept: 1, 2, 3, or All)
+
+A spherical Gaussian surface encloses two point charges, q1 and q2, while a third point charge, q3, is placed outside the Gaussian surface. The electrical field on the Gaussian surface is due to which of the charges?
+
+----
+num: 6
+category: Math
+difficulty: MS
+seen: 6
+answer: -3 < X ≤ 10 (Note: Any Variable Is Fine.  X Could Be Replaced With Any 
+Letter)
+
+What inequality would be represented by a number line with an open circle at -3, a closed circle at 10, and shading i n between?
+
+----
+num: 6
+category: Math
+difficulty: MS
+fixed: -1
+seen: 7
+answer: Y < X + 5
+
+On a coordinate grid, a dashed line passes through the points (-5, 0) and (0, 5), and everything is shaded beneath that line. What inequality is represented by this image?
+
+----
+num: 7
+category: Life Science
+difficulty: MS
+fixed: -1
+seen: 10
+answer: Vaccin Ation
+
+What do we call the injection of a weakened form of a pathogen, or a similar but less dangerous pathogen, to produce immunity?
+
+----
+num: 7
+category: Life Science
+difficulty: MS
+seen: 11
+answer: Smallpox
+
+
+What disease was the first vaccination intended to prevent?
+
+----
+num: 8
+category: Math
+difficulty: HS
+seen: 25
+answer: 120°
+
+How far apart, in degrees, are the asymptotes of the graph of 2tan(3 x/2) (read as: 2 times the tangent of 3x over 2)?
+
+----
+num: 10
+category: Earth and Space
+difficulty: HS
+fixed: -1
+seen: 47
+answer: Any Date From April 13 to April 16
+
+If the moon is in a new moon phase on April 1, approximately when will the next spring t ide occur?
+
+----
+num: 10
+category: Math
+difficulty: MS
+seen: 7
+answer: 0
+
+What is the degree of the polynomial function f( x) = 7 (read as: f of x equals 7)?
+
+----
+num: 11
+category: Physics
+difficulty: HS
+seen: 27
+answer: Dimmer (Accept: Less Bright, Less)
+
+Assuming that the light bulbs, wires, and batteries are all the same in two different circuits, how would the brightness of two light bulbs in series compare to the brightness of just one light bulb?
+
+----
+num: 11
+category: Physics
+difficulty: HS
+seen: 26
+answer: 2000
+
+
+What will the power loss be in watts in a 100,000 volt transmission line carrying 10 amperes of current if the resistance of the line is 20 ohms?
+
+----
+num: 11
+category: Life Science
+difficulty: MS
+seen: 11
+answer: Water
+
+What is the most abundant molecule in a human cell?
+
+----
+num: 12
+category: Energy
+difficulty: HS
+seen: 35
+answer: 100
+
+How much heat in kilocalories does it take to h eat 10 kilograms of bathwater from 10° Celsius to 20° Celsius?
+
+----
+num: 12
+category: General Science
+difficulty: MS
+fixed: -1
+seen: 6
+answer: 2 Protons and 2 Neutrons (Accept: Helium Nucleus)
+
+Alpha decay occurs when an atom emits an alpha particle. What is an alpha particle?
+
+----
+num: 12
+category: General Science
+difficulty: MS
+seen: 6
+answer: Radio Waves, I Nfrared Radiation, Visible Light, Ultraviolet 
+Radiation
+
+Arrange the following types of radiation in order from lowest to highest frequency: visible light, ultraviolet radiation, radio waves, and infrared radiation.
+
+----
+num: 13
+category: Math
+difficulty: HS
+seen: 26
+answer: 1
+
+What is the derivative of sin(w) at w = 0?
+
+----
+num: 13
+category: Math
+difficulty: HS
+seen: 24
+answer: -Cos(w) (Do Not Accept: Other Answers)
+
+
+What is the derivative of cos ( + w) (read as: cosine of open parenthesis pi over 2 plus w close parenthesis) with respect to w, in terms of cos(w)?
+
+----
+num: 14
+category: Math
+difficulty: MS
+seen: 6
+answer: 3 (Do Not Accept:  – 3)
+
+What	is	!^4 3^4 (read	as:	the	fourth	root	of	3	to	the	fourth)?
+
+----
+num: 14
+category: Math
+difficulty: MS
+seen: 6
+answer: 5n - 50
+
+If n is positive, write the followi ng in standard polynomial form: (5n^2 – 500) ÷ (n + 10) (read as: the quantity 5 n squared minus 500 divided by the quantity nplus 10)?
+
+----
+num: 15
+category: Energy
+difficulty: HS
+fixed: -1
+seen: 36
+answer: 10
+
+
+If a force of 10 newtons raises a mass 1.0 meters in 1.0 seconds, then what is the power in watts?
+
+----
+num: 16
+category: Biology
+difficulty: HS
+seen: 41
+answer: Divergent Evolution
+
+The human foot and the monkey foot are very different, despite common primate ancestry. The evolution of these differing traits allowed organisms to adapt to different environmental conditions. This type of evolution is known a s:
+
+----
+num: 17
+category: Math
+difficulty: HS
+fixed: -1
+seen: 26
+answer: 24
+
+
+The number 360 has how many positive integer factors?
+
+----
+num: 17
+category: General Science
+difficulty: MS
+seen: 6
+answer: Holocene
+
+What is the name of our current geologic epoch?
+
+----
+num: 18
+category: Earth and Space
+difficulty: HS
+seen: 47
+answer: Nazca Plate
+
+What oceanic plate sits west of the South American plate, forming a convergent boundary?
+
+----
+num: 19
+category: Math
+difficulty: HS
+seen: 25
+answer: 3
+
+If N represents the number of sides for a regular polygon that tessellates the plane, how many different values of N are there?
+
+----
+num: 19
+category: Math
+difficulty: HS
+seen: 27
+answer: 6
+
+
+Find the limit as x approaches -2 of (x^3 + 8)/(2x + 4) (read as: the quantity x cubed plus 8 divided by the quantity 2 x plus 4).
+
+----
+num: 19
+category: Earth and Space Science
+difficulty: MS
+seen: 7
+answer: 1/9 (Do Not Accept: 9 Times Less)
+
+Two planets of the same mass are orbiting around the same star. Planet A is three times as far away from the star as Planet B. How does the star’s gravitational force on Planet A compare to the gravitational force on Planet B?
+
+----
+num: 20
+category: General Science
+difficulty: MS
+seen: 7
+answer: Cnidaria (Do Not Accept: Coelenterata)
+
+To which phylum do jellyfish currently belong?
+
+----
+num: 21
+category: Physics
+difficulty: HS
+seen: 23
+answer: Destructive
+
+When the path difference between two slits is an odd multiple of the light’s wavelength divided by 2, the waves arrive 180 degrees out of phase. What kind of interference does this represent?
+
+----
+num: 22
+category: Chemistry
+difficulty: HS
+seen: 33
+answer: 2
+
+What is the pH for a solution with 0.01 mole of nitric acid in 1.0 liter of water?
+
+----
+num: 22
+category: Chemistry
+difficulty: HS
+seen: 36
+answer: Enantiomers
+
+What are the nonsuperimposable mirror images of a chiral compound called?
+
+----
+num: 22
+category: General Science
+difficulty: MS
+seen: 6
+answer: Corona
+
+What is the outer part of the Sun’s atmosphere called?
+
+----
+num: 23
+category: Biology
+difficulty: HS
+seen: 37
+answer: Gene Mapping
+
+
+What is the method by which scientists determine the precise chromosomal location for a gene that encodes a particular biological trait?
+
+----
+num: 25
+category: Biology
+difficulty: HS
+fixed: -1
+seen: 38
+answer: Stoneflies, Damselflies, and Mayflies (Accept: 1, 2, 4)
+
+Which one or ones of the following are aquatic insect nymphs that have external gills on either the thorax or the abdomen: 1) stoneflies, 2) damselflies, 
+3) dra gonflies, or 4) mayflies?
+
+----
+num: 25
+category: Biology
+difficulty: HS
+seen: 39
+answer: Ecdysone
+
+In insects, prothoracicotropic (read as: prōe-thoh-rah-si-koh-
+TROH-pik) hormone stimulates the prothoracic gland to produce what hormone important in insect development?
+
+----
+num: 25
+category: Math
+difficulty: MS
+seen: 7
+answer: Y = -2x - 4
+
+What is the equation of the line, in slope intercept form, which passes through the points ( -3, 2) and (-5, 6)?

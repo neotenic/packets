@@ -1,0 +1,421 @@
+####
+tournament: Thomas Jefferson Certamen
+round: Round 1
+year: 2008
+####
+
+num: 1
+category: Unlabeled
+difficulty: Novice
+seen: 31
+answer: Vīgintī and trēs
+
+Bonus: Give the Latin words for “twenty” and “three.”
+
+----
+num: 2
+category: Unlabeled
+difficulty: Novice
+fixed: None
+seen: 33
+answer: Tanaquil
+
+Bonus: What was the name of his prophetess wife?
+
+----
+num: 3
+category: Unlabeled
+difficulty: Novice
+seen: 30
+answer: Half-sister
+
+Bonus: What is the familial relation between Ariadne and the Minotaur?
+
+----
+num: 4
+category: Unlabeled
+difficulty: Novice
+seen: 33
+answer: Ablative
+
+Bonus:  What about  pro?
+
+----
+num: 5
+category: Unlabeled
+difficulty: Novice
+seen: 29
+answer: “in the year of the lord/master”
+
+Bonus:  What does it mean in English?
+
+----
+num: 6
+category: Unlabeled
+difficulty: Novice
+seen: 31
+answer: Subura
+
+Bonus: In what section of the city would you find the poorest Romans?
+
+----
+num: 7
+category: Unlabeled
+difficulty: Novice
+seen: 31
+answer: ultimum certamen
+
+Bonus:  Say in Latin: “the last certamen”
+
+----
+num: 8
+category: Unlabeled
+difficulty: Novice
+seen: 32
+answer: An olive tree
+
+Bonus: What was the winning gift that Athena gave?
+
+----
+num: 9
+category: Unlabeled
+difficulty: Novice
+seen: 32
+answer: Tiber
+
+Bonus: What major river did the Pons Sublicius span?
+
+----
+num: 10
+category: Unlabeled
+difficulty: Novice
+seen: 34
+answer: islands
+
+Bonus: What else could “insulae” mean?
+
+----
+num: 11
+category: Unlabeled
+difficulty: Novice
+seen: 33
+answer: quindecim
+
+Bonus:  Responde Latine: Quot sunt viginti minus quinque?
+
+----
+num: 12
+category: Unlabeled
+difficulty: Novice
+seen: 30
+answer: Capua
+
+Bonus: What city was previously the end point of the Via Appia?
+
+----
+num: 13
+category: Unlabeled
+difficulty: Novice
+fixed: None
+seen: 32
+answer: Republic
+
+Bonus: What form of government replaced the monarchy in 509BC?
+
+----
+num: 14
+category: Unlabeled
+difficulty: Novice
+seen: 32
+answer: Net and Trident
+
+Bonus: After watching his favorite team lose several times, Sextus decides chariot races are boring. At the Colloseum he sees a retiarius, with what type of weapons does he fight?
+
+----
+num: 15
+category: Unlabeled
+difficulty: Novice
+seen: 31
+answer: Faustulus
+
+Bonus: Who was the shepherd who first found him and his brother?
+
+----
+num: 16
+category: Unlabeled
+difficulty: Novice
+seen: 32
+answer: “sol lucet”
+
+Bonus:  If a Roman wanted to know the weather, and it was sunny outside, what would you say?
+
+----
+num: 17
+category: Unlabeled
+difficulty: Novice
+fixed: 1
+seen: 32
+answer: MCCCXXXVII
+
+Bonus: How would you represent the number 1337 as a Roman numeral?
+
+----
+num: 18
+category: Unlabeled
+difficulty: Novice
+seen: 31
+answer: Juppiter
+
+Bonus: According to legend, who was said to have slain Tullus Hostilius?
+
+----
+num: 19
+category: Unlabeled
+difficulty: Novice
+seen: 31
+answer: Amāvistī
+
+Bonus: Give the 2nd person, perfect active indicative form of  “amō, amārē.”
+
+----
+num: 20
+category: Unlabeled
+difficulty: Novice
+fixed: 1
+seen: 28
+answer: Juno
+
+Bonus.  Quis sum?  Sum soror Iovis, et uxor Iovis quoque!  Sum regina deorum.
+
+----
+num: 21
+category: Unlabeled
+difficulty: Novice
+fixed: 1
+seen: 33
+answer: Tullia
+
+Bonus: It seems like this entire family has issues with self-control. What was the name of Tarquinius Superbus’ wife, who ran over her own father’s body with her chariot?
+
+----
+num: 22
+category: Unlabeled
+difficulty: Novice
+fixed: 1
+seen: 36
+answer: Iaciet
+
+Bonus: Keeping the person and number the same, change  “iaciēbat”  to the future.
+
+----
+num: 23
+category: Unlabeled
+difficulty: Novice
+seen: 30
+answer: Hephaestos
+
+Bonus.  What is the Greek equivalent to Vulcan?
+
+----
+num: 24
+category: Unlabeled
+difficulty: Novice
+seen: 32
+answer: Pīrāta, because it is masculine while the others are feminine
+
+Bonus: Which of the following does not belong and why?  Puella, pīrāta, pictūra, porta, pecūnia.
+
+----
+num: 25
+category: Unlabeled
+difficulty: Novice
+seen: 34
+answer: bulla
+
+Bonus: What charm was also worn by young boys until they came of age?
+
+----
+num: 26
+category: Unlabeled
+difficulty: Novice
+seen: 32
+answer: Aequi
+
+Bonus: What was the hostile tribe that he defeated?
+
+----
+num: 27
+category: Unlabeled
+difficulty: Novice
+fixed: -1
+seen: 32
+answer: I came, I saw, I conquered.
+
+Bonus: Now translate  “vēnī, vīdī, vīcī”  into English.
+
+----
+num: 28
+category: Unlabeled
+difficulty: Novice
+fixed: 1
+seen: 34
+answer: {Crete}
+
+Bonus:  To what island was he whisked away, and raised by nymphs?
+
+----
+num: 29
+category: Unlabeled
+difficulty: Novice
+seen: 29
+answer: Colosseum
+
+Bonus: Using the same list, which building was built by the Flavian emperors near the site of Nero’s Golden House?
+
+----
+num: 30
+category: Unlabeled
+difficulty: Novice
+seen: 33
+answer: Egeria
+
+Bonus: What nymph was said to have been the teacher of Numa Pompilius?
+
+----
+num: 31
+category: Unlabeled
+difficulty: Novice
+seen: 31
+answer: Chiron
+
+Bonus:  Most centaurs were wild, aggressive and unpredictable.  However, just like Firenze in the Harry Potter books, there was in classical mythology one friendly centaur known for his wisdom, who was the tutor of several heroes.  Name him.
+
+----
+num: 32
+category: Unlabeled
+difficulty: Novice
+seen: 32
+answer: Pluit
+
+Bonus 1: How would you tell the Roman that it is raining out?
+
+----
+num: 33
+category: Unlabeled
+difficulty: Novice
+seen: 31
+answer: Videō, vidēre meaning to see
+
+Bonus: What Latin verb with what meaning is at the root of the word  “visual”?
+
+----
+num: 34
+category: Unlabeled
+difficulty: Novice
+seen: 34
+answer: Dedi/ Dabam pecuniam puellae
+
+Bonus.  Translate that sentence into Latin.
+
+----
+num: 35
+category: Unlabeled
+difficulty: Novice
+fixed: 1
+seen: 29
+answer: 2nd
+
+Bonus:  What conjugation is the verb in this sentence?  “Puer rīdet puellam.”
+
+----
+num: 36
+category: Unlabeled
+difficulty: Novice
+seen: 28
+answer: Lars Porsenna
+
+Bonus: What Etruscan king did she inflame, originally with fury, and then finally with admiration?
+
+----
+num: 37
+category: Unlabeled
+difficulty: Novice
+fixed: 1
+seen: 34
+answer: Dionysus
+
+Bonus: Who has the Thyrsus?
+
+----
+num: 38
+category: Unlabeled
+difficulty: Novice
+fixed: -1
+seen: 32
+answer: Aedilis/aedile
+
+Bonus:  What official was in charge of games, streets, and grain supply?
+
+----
+num: 39
+category: Unlabeled
+difficulty: Novice
+seen: 35
+answer: culina
+
+Bonus: Where would meals be cooked in a Roman house?
+
+----
+num: 40
+category: Unlabeled
+difficulty: Novice
+seen: 30
+answer: basilicae
+
+Bonus: What large halls were centers of business and legal transactions? They later were used as churches by the Christians
+
+----
+num: 41
+category: Unlabeled
+difficulty: Novice
+fixed: 1
+seen: 30
+answer: A staff with two snakes intertwined
+
+Bonus:  One of Mercury’s symbols was the caduceus.  Describe it:
+
+----
+num: 42
+category: Unlabeled
+difficulty: Novice
+seen: 33
+answer: John Wilkes Booth
+
+Bonus: What crazed man shouted that same phrase before jumping to the stage of Ford’s Theatre and shooting Abraham Lincoln?
+
+----
+num: 43
+category: Unlabeled
+difficulty: Novice
+seen: 34
+answer: lararium
+
+Bonus: What was the shrine dedicated to them called?
+
+----
+num: 44
+category: Unlabeled
+difficulty: Novice
+seen: 36
+answer: 27 BC
+
+Bonus: What is the accepted year that marks the beginning of the Roman Empire?
+
+----
+num: 45
+category: Unlabeled
+difficulty: Novice
+seen: 32
+answer: Star Wars
+
+Bonus:  What classic science fiction movie series would have the title  “Bella Astrōrum”?

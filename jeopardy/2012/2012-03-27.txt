@@ -1,0 +1,392 @@
+####
+tournament: #6342
+round: Show #6342 - Tuesday, March 27, 2012
+year: 2012
+date: 2012-03-27
+####
+
+num: 1
+category: Literature
+difficulty: 200
+seen: 3
+answer: Gordon Ramsay
+
+Come on, you donkeys!  You have to know BBC America presented this chef's "F Word".
+
+----
+num: 2
+category: Literature
+difficulty: 200
+seen: 4
+answer: John F. Kennedy
+
+On June 26, 1963 he declared, "All free men, wherever they may live, are citizens of Berlin".
+
+----
+num: 3
+category: Art
+difficulty: 200
+seen: 4
+answer: the remote control
+
+If you can switch over to "Jeopardy!" from your sofa, thank Robert Adler, who invented this for Zenith in 1956.
+
+----
+num: 4
+category: Literature
+difficulty: 200
+seen: 4
+answer: a cat
+
+Socks, who is owned by the Brickers in a book by Beverly Cleary.
+
+----
+num: 5
+category: Art
+difficulty: 400
+seen: 4
+answer: the harmonica
+
+Virtuoso Larry Adler brought this instrument also called a mouth organ into the concert hall.
+
+----
+num: 6
+category: Literature
+difficulty: 400
+seen: 3
+answer: a pig
+
+Olivia, who "Saves the Circus" & "Goes to Venice".
+
+----
+num: 7
+category: Art
+difficulty: 400
+seen: 4
+answer: commas
+
+If you look closely, I mean, really, really closely, you'll see there are 6, no, make that 7, of these in the clue.
+
+----
+num: 8
+category: Literature
+difficulty: 600
+seen: 4
+answer: "Say it ain\'t so"
+
+After a scandal, this line entered baseball lore, though Mr. Jackson said he never heard those words.
+
+----
+num: 9
+category: Art
+difficulty: 600
+seen: 4
+answer: inferiority
+
+Psychiatrist Alfred Adler developed the idea of this "complex" of feeling less than others.
+
+----
+num: 10
+category: Art
+difficulty: 600
+seen: 4
+answer: justify
+
+To show there is good reason for something, or to make the left or right edges of a paragraph form a straight line.
+
+----
+num: 11
+category: Literature
+difficulty: 600
+seen: 4
+answer: elephant
+
+Elmer: a patchwork, not a gray, one of these.
+
+----
+num: 12
+category: Art
+difficulty: 600
+seen: 4
+answer: rummage
+
+A sale of secondhand items, or to paw through them.
+
+----
+num: 13
+category: Literature
+difficulty: 800
+seen: 3
+answer: General MacArthur
+
+In 1944 he said, "I have returned, by the grace of almighty God, our forces stand again on Philippine soil".
+
+----
+num: 14
+category: Art
+difficulty: 800
+seen: 4
+answer: Stella Adler
+
+This woman!  This woman!  The daughter of Yiddish actors, she taught Marlon Brando "The Method".
+
+----
+num: 15
+category: Art
+difficulty: 800
+seen: 4
+answer: an X-ACTO knife
+
+Trademarked thin blade mounted on a knife handle & used for cutting.
+
+----
+num: 16
+category: Literature
+difficulty: 800
+seen: 4
+answer: a bear
+
+Corduroy: a brown one, wearing green overalls.
+
+----
+num: 17
+category: Art
+difficulty: 800
+seen: 3
+answer: asymmetrical
+
+Not identical on both sides of a central line.
+
+----
+num: 18
+category: Literature
+difficulty: 1000
+seen: 4
+answer: Abbey
+
+Julian Fellowes, screenwriter of "Gosford Park", gave us another peek at a big British house in "Downton" this.
+
+----
+num: 19
+category: Literature
+difficulty: 1000
+seen: 4
+answer: John Foster Dulles
+
+Winston Churchill said this Secretary of State under Eisenhower was a "bull who carries his China shop with him".
+
+----
+num: 20
+category: Art
+difficulty: 1000
+seen: 5
+answer: a swatch
+
+Also used for linen, it's a small piece of colored paper used as a sample of a larger piece.
+
+----
+num: 21
+category: Literature
+difficulty: 1000
+seen: 3
+answer: Rottweiler
+
+The title pooch of "Good Dog, Carl" is this breed named for a German place.
+
+----
+num: 22
+category: Art
+difficulty: 1000
+seen: 4
+answer: a Pommel horse
+
+"Equine" piece of equipment for male gymnasts.
+
+----
+num: 23
+category: History
+difficulty: 400
+seen: 4
+answer: Pocahontas
+
+The earliest American play about this wife of John Rolfe was "The Indian Princess", performed in 1808.
+
+----
+num: 24
+category: Literature
+difficulty: 400
+seen: 5
+answer: wash out
+
+It can mean "failed at flight school" or "lacking color".
+
+----
+num: 25
+category: Literature
+difficulty: 400
+seen: 4
+answer: the House of Representatives
+
+There's a house that holds 435 of these people.
+
+----
+num: 26
+category: Social
+difficulty: 400
+seen: 5
+answer: a psychosis
+
+Schizophrenia is one of these, in which a person has trouble staying in touch with reality.
+
+----
+num: 27
+category: Literature
+difficulty: 400
+seen: 4
+answer: vernal
+
+'Tis March, & spring is signaled by the equinox scientifically called this.
+
+----
+num: 28
+category: History
+difficulty: 800
+seen: 5
+answer: Russia
+
+On April 17, 1824 this country signed a treaty agreeing that 54 degrees, 40 minutes N. latitude was the southern limit of its claim.
+
+----
+num: 29
+category: Literature
+difficulty: 800
+seen: 4
+answer: eagles
+
+A full colonel is sometimes called a bird colonel because he has these insignias.
+
+----
+num: 30
+category: Literature
+difficulty: 800
+seen: 4
+answer: a reformatory
+
+A penal institution for young offenders.
+
+----
+num: 31
+category: Social
+difficulty: 800
+seen: 5
+answer: post-traumatic stress disorder
+
+Abbreviated PTSD, this anxiety disorder manifests in the re-experience of injurious events.
+
+----
+num: 32
+category: Literature
+difficulty: 1200
+seen: 4
+answer: a bogey
+
+This term for an unidentified aircraft or missile is also used on the golf course.
+
+----
+num: 33
+category: Literature
+difficulty: 1200
+seen: 4
+answer: commercialism
+
+This emphasis on selling is often said to be "rampant" at Christmastime.
+
+----
+num: 34
+category: Social
+difficulty: 1200
+seen: 4
+answer: projection
+
+Attributing a part or aspect of oneself to someone else.
+
+----
+num: 35
+category: Literature
+difficulty: 1200
+seen: 3
+answer: Easter
+
+The pasque flower gets its name from blooming around this Christian holiday.
+
+----
+num: 36
+category: History
+difficulty: 1600
+seen: 4
+answer: the Australian or secret ballot
+
+In 1888 this type of ballot based on a type from overseas was first used in a U.S. local election in Louisville, Ky.
+
+----
+num: 37
+category: Social
+difficulty: 1600
+seen: 5
+answer: perception
+
+Huxley wrote of "the doors of" this process by which we provide meaning to sensations.
+
+----
+num: 38
+category: Literature
+difficulty: 1600
+seen: 4
+answer: jasmine
+
+This spring flower that belongs to the olive family shares a name with a Disney princess.
+
+----
+num: 39
+category: History
+difficulty: 2000
+seen: 6
+answer: Stephen Decatur
+
+In 1816 this naval officer & victor against the Barbary pirates gave the toast "Our country, right or wrong".
+
+----
+num: 40
+category: Literature
+difficulty: 2000
+seen: 5
+answer: friendly fire
+
+"Blue on blue" refers to one of these unfortunate alliterative occurrences.
+
+----
+num: 41
+category: Literature
+difficulty: 2000
+seen: 5
+answer: discretionary
+
+Adjective for something left to one's judgment, like an emergency fund.
+
+----
+num: 42
+category: Social
+difficulty: 2000
+seen: 7
+answer: persona
+
+Also a Bergman film, it's a Jungian term for the role one takes on in society.
+
+----
+num: 43
+category: Literature
+difficulty: 2000
+seen: 5
+answer: a whale
+
+When spring arrives, so does the gray type of this mammal traveling through Puget Sound.

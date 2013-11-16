@@ -1,0 +1,286 @@
+####
+tournament: Question Set C
+round: Round-5C-MS.pdf
+####
+
+num: 1
+category: General Science
+difficulty: MS
+seen: 1
+answer: W)  Precise but Not Accurate
+
+You are asked to measure the length of an object with a foot-ruler and you get the following 3 results: 2.99 inches, 3.00 inches, and 3.01 inches. If the object’s actual length is 3.28 inches, then the data is:
+W) precise but not accurate 
+X) accurate but not precise
+Y) both accurate and precise
+Z) neither accurate nor precise
+
+----
+num: 2
+category: Life Science
+difficulty: MS
+answer: Y)  Snapping Turtle
+
+Which of the following is a reptile:
+W) blue poison arrow frog
+X) sea lamprey
+Y) snapping turtle
+Z) salamander
+
+----
+num: 3
+category: Physical Science
+difficulty: MS
+seen: 1
+answer: Z)  Its Mass Would Remain the Same and Its Volume Would 
+Remain the Same
+
+Which of the following would MOST likely occur to a sample of water if it underwent an increase in atmospheric pressure from 1 atmosphere to 5 atmospheres:
+W) its mass would increase and its temperature would rise by about 5ºC
+X) its mass would increase and its volume would decrease by about 5%
+Y) its mass would decrease and its volume would decrease by about 25%
+Z) its mass would remain the same and its volume would remain the same
+
+----
+num: 4
+category: Earth Science
+difficulty: MS
+answer: W)  Devonian
+
+Which of the following is a period on the Geological Time 
+Scale t hat is part of the Paleozoic Era:
+W) Devonian
+X) Cretaceous 
+Y) Tertiary
+Z) Quaternary
+
+----
+num: 6
+category: General Science
+difficulty: MS
+seen: 1
+answer: X)  Where the Prime Meridian Crosses the Equator
+
+At which of the following locations would you find the intersection of 0º longitude and 0º latitude:
+W) where the International Date Line crosses the equator 
+X) where the prime meridian crosses the equator
+Y) along the 180^th meridian
+Z) at the North and South Poles
+
+----
+num: 7
+category: Life Science
+difficulty: MS
+answer: Y)  Radula
+
+Which of the following is a rasp-like feeding structure found in many mollusks:
+W) gonad
+X) nephridium (read as: nef-RID-ee-um)
+Y) radula
+Z) mantle
+
+----
+num: 7
+category: Life Science
+difficulty: MS
+seen: 1
+answer: X)  Behind the Trachea Connecting the Mouth to the Stomach
+
+Which of the following is the BEST description for the location in the human body of the esophagus:
+W) behind the trachea connecting the mouth to the lungs
+X) behind the trachea connecting the mouth to the stomach
+Y) in front of the trachea connecting the mouth to the stomach
+Z) in front of the trachea connecting the mouth with the lungs
+
+----
+num: 9
+category: Earth Science
+difficulty: MS
+answer: W)  the Funnel Cloud Typically Develops Out of a 
+Nimbostratus Cloud
+
+Which of the following is NOT true of tornados in the 
+U.S.:
+W) the funnel cloud typically develops out of a nimbostratus cloud
+X) their strength is measured with Fujita Scale
+Y) supercells are the most dangerous and violent tornadoes in the U.S.
+Z) wind speeds can reach an excess of 200 mph
+
+----
+num: 9
+category: Earth Science
+difficulty: MS
+answer: Y)  29.92
+
+Which of the following is closest to average barometric pressure at sea level, in inches:
+W) 1013
+X) 10.13
+Y) 29.92
+Z) 27.72
+
+----
+num: 10
+category: Math
+difficulty: MS
+answer: Y)  636
+(Solution:  36, the Last 2 Digits, Is a Multiple of 4)
+
+Which of the following numbers is evenly divisible by 4:
+W) 174
+X) 414
+Y) 636
+Z) 1,126
+
+----
+num: 11
+category: General Science
+difficulty: MS
+seen: 1
+answer: X)  Microbiologist
+
+Which of the following types of scientists would 
+MOST likely use agar in their experiments:
+W) biochemis t 
+X) microbiologist
+Y) geologist
+Z) physicist
+
+----
+num: 11
+category: General Science
+difficulty: MS
+seen: 1
+answer: W)  Always Read the Upper Edges of a Meniscus When 
+Determining Volume of Water in a Flask
+(Solution:  Always Read the Bottom of the Meniscus for Nearly All Solutions)
+
+Which of the following is NOT proper laboratory procedure:
+W) always read the upper edges of a meniscus when determining volume of water in a flask
+X) the abbreviation TD on a pipette means ‘to deliver’
+Y) a borosilicate beaker is a better choice for heating a solution than one made of soda-lime
+Z) an analytical balance is more precise than a triple -beam balance
+
+----
+num: 13
+category: Physical Science
+difficulty: MS
+answer: Z)  Sulfate
+
+Which of the following is NOT an element:
+W) tin
+X) lead
+Y) radon
+Z) sulfate
+
+----
+num: 14
+category: Earth Science
+difficulty: MS
+answer: W)  the Milky Way Is an Elliptical Galaxy
+
+Which of the following is NOT true:
+W) the Milky Way is an elliptical galaxy 
+X) our Sun will become a red giant in the far distant future
+Y) constellations are patterns of stars in the night sky
+Z) the average sunspot cycle is 11 years
+
+----
+num: 16
+category: General Science
+difficulty: MS
+seen: 1
+answer: Y)  Beef Spleen
+
+If you were told you were anemic and had to increase your dietary iron uptake, which of the following foods would provide the most iron:
+W) green beans
+X) spinach 
+Y) beef spleen
+Z) broiled chicken thighs
+
+----
+num: 18
+category: Physical Science
+difficulty: MS
+answer: Z)  Stored Energy
+
+Potential energy is most synonymous with:
+W) kinetic energy
+X) mechanical energy
+Y) work energy
+Z) stored energy
+
+----
+num: 19
+category: Earth Science
+difficulty: MS
+answer: Z)  the Vast Majority of Volcanoes Are Found Along the Mid-
+Oceanic Ridge
+
+Which of the following is NOT true about volcanoes:
+W) magma that flows out of a volcano is called lava
+X) the Ring of Fire borders the entire edge of the Pacific Ocean Basin
+Y) shield volcanoes are associated with hot spots
+Z) the vast majority of volcanoes are found along the mid-oceanic ridge
+
+----
+num: 21
+category: General Science
+difficulty: MS
+answer: Y)  Tundra
+
+In which of the following biomes are you MOST likely to find permafrost:
+W) taiga
+X) deciduous forest
+Y) tundra
+Z) chaparral
+
+----
+num: 21
+category: General Science
+difficulty: MS
+answer: X)  a Spider’s Web
+
+Which of the following materials is the STRONGEST in terms of tensile strength per mass:
+W) steel 
+X) a spider’s web
+Y) cotton fibers
+Z) nylon fibers
+
+----
+num: 22
+category: Life Science
+difficulty: MS
+seen: 1
+answer: W)  Flagella
+
+What structures on the outside of bacteria are MOST typically associated with the ability of bacteria to control their movem ent:
+W) flagella 
+X) cilia
+Y) pseudopodia
+Z) spirillus
+
+----
+num: 24
+category: Earth Science
+difficulty: MS
+answer: Z)  Quartz Reacts With Dilute Hydrochloric Acid to Give Off 
+Carbon Dioxide
+
+Which of the following is NOT true about rocks:
+W) layering is characteristic of sedimentary rock
+X) during metamorphosis, limestone becomes marble
+Y) chalk is primarily made up of microscopic shells
+Z) quartz reacts with dilute hydrochloric acid to give off carbon dioxide
+
+----
+num: 25
+category: Math
+difficulty: MS
+seen: 1
+answer: Y)  a Square Is Not a Regular Polygon
+
+Which of the following is NOT true about polygons:
+W) the sum of the exterior angles of any polygon equals 720º
+X) a regular polygon is always equilateral
+Y) a square is not a regular polygon 
+Z) a regular pentagon is a polygon with 5 congruent angles and 5 congruent sides

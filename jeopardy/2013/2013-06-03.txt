@@ -1,0 +1,438 @@
+####
+tournament: #6621
+round: Show #6621 - Monday, June 3, 2013
+year: 2013
+date: 2013-06-03
+####
+
+num: 1
+category: Literature
+difficulty: 200
+seen: 4
+answer: minestrone
+
+The name of this familiar Italian vegetable soup means "thick soup", referring to its broth.
+
+----
+num: 2
+category: Trash
+difficulty: 200
+seen: 5
+answer: the guitar
+
+Eric Clapton, aka Slowhand.
+
+----
+num: 3
+category: Literature
+difficulty: 200
+seen: 4
+answer: Curiousity
+
+"_____ killed the cat".
+
+----
+num: 4
+category: History
+difficulty: 400
+seen: 4
+answer: Socrates
+
+In 399 B.C. it was safe to declare the prosecution of this philosopher for impiety the Trial of the Century.
+
+----
+num: 5
+category: Literature
+difficulty: 400
+seen: 4
+answer: risotto
+
+This Italian specialty is made by constantly stirring hot stock into rice.
+
+----
+num: 6
+category: Trash
+difficulty: 400
+seen: 5
+answer: the drums
+
+Phil Collins, in Genesis.
+
+----
+num: 7
+category: Literature
+difficulty: 400
+seen: 5
+answer: play
+
+"When the cat's away, the mice will _____".
+
+----
+num: 8
+category: Art
+difficulty: 400
+seen: 4
+answer: a shower curtain
+
+The Baja stripe model in Cape Cod fabric from Bed Bath & Beyond is this type of curtain.
+
+----
+num: 9
+category: History
+difficulty: 600
+seen: 4
+answer: (Mark) Zuckerberg
+
+He put on a tie for Obama, but met investors ahead of Facebook's IPO in his trademark hoodie.
+
+----
+num: 10
+category: Literature
+difficulty: 600
+seen: 3
+answer: antipasto
+
+This course of appetizers, an assortment of foods, has a 9-letter Italian name.
+
+----
+num: 11
+category: Trash
+difficulty: 600
+seen: 5
+answer: the saxophone
+
+Clarence Clemons, of Bruce's E street Band; we miss you, big man.
+
+----
+num: 12
+category: Literature
+difficulty: 600
+seen: 4
+answer: skin
+
+"There's more than one way to _____ a cat".
+
+----
+num: 13
+category: History
+difficulty: 600
+seen: 4
+answer: Colorado
+
+One of the official state songs of this western state was a top 10 hit for John Denver.
+
+----
+num: 14
+category: Art
+difficulty: 600
+seen: 5
+answer: a castle
+
+At Framlingham, a medieval one of these, the outer or curtain wall stands 44 feet high & 8 feet thick.
+
+----
+num: 15
+category: History
+difficulty: 800
+seen: 4
+answer: (Adlai) Stevenson
+
+Before Romney-Ryan, the last same-first-letter major party ticket was in 1952: him & John Sparkman.
+
+----
+num: 16
+category: Literature
+difficulty: 800
+seen: 4
+answer: Alfredo
+
+This rich sauce for fettuccine was named for signore di Lelio, its creator.
+
+----
+num: 17
+category: Trash
+difficulty: 800
+seen: 4
+answer: the bass
+
+Flea, in the Red Hot Chili Peppers.
+
+----
+num: 18
+category: Literature
+difficulty: 800
+seen: 4
+answer: grey
+
+"In the dark all cats are _____".
+
+----
+num: 19
+category: History
+difficulty: 800
+seen: 5
+answer: black coral
+
+The jewelry seen.
+
+----
+num: 20
+category: History
+difficulty: 1000
+seen: 4
+answer: the Vanderbilts
+
+The Rhode Island.
+
+----
+num: 21
+category: Literature
+difficulty: 1000
+seen: 3
+answer: gnocchi
+
+Unlike wheat pasta, these dumplings are often made from potatoes; their textured surface helps hold sauce.
+
+----
+num: 22
+category: Trash
+difficulty: 1000
+seen: 5
+answer: a flute
+
+Ian Anderson, of Jethro Tull; Ron Burgundy played a jazz one.
+
+----
+num: 23
+category: Literature
+difficulty: 1000
+seen: 4
+answer: gloves
+
+"A cat in _____ catches no mice".
+
+----
+num: 24
+category: History
+difficulty: 1000
+seen: 4
+answer: Alabama
+
+"The Miracle Worker" is the official outdoor drama of this state in which it is set.
+
+----
+num: 25
+category: Art
+difficulty: 1000
+seen: 3
+answer: the Bamboo Curtain
+
+This political barrier between the west & the Communist nations of Asia arose after the Chinese revolution of 1949.
+
+----
+num: 26
+category: Literature
+difficulty: 400
+seen: 4
+answer: Rhett Butler
+
+"Well, my dear, take heart. Some day, I will kiss you and you will like it. But not now", he said in "Gone with the Wind".
+
+----
+num: 27
+category: Art
+difficulty: 400
+seen: 4
+answer: the Louvre
+
+This museum on the Seine was opened to the public in 1793.
+
+----
+num: 28
+category: Trash
+difficulty: 400
+seen: 4
+answer: a bandana
+
+A large printed kerchief that doubles as a headscarf.
+
+----
+num: 29
+category: Social
+difficulty: 400
+seen: 4
+answer: India
+
+Telugu is an official language of this country's Andhra Pradesh state.
+
+----
+num: 30
+category: Literature
+difficulty: 400
+seen: 4
+answer: Haiti
+
+Sean helped rebuild this earthquake-hit Caribbean nation & is the 1st ambassador-at-large who's not a native.
+
+----
+num: 31
+category: Trash
+difficulty: 400
+seen: 5
+answer: a grenade
+
+The word for this hand-held explosive comes from a French word for " pomegranate" , which it resembled.
+
+----
+num: 32
+category: Art
+difficulty: 800
+seen: 4
+answer: the Vatican
+
+Its museums include the Gregorian Museum of Etruscan Art & the Room of the Immaculate Conception.
+
+----
+num: 33
+category: Trash
+difficulty: 800
+seen: 6
+answer: mascara
+
+Barbie's twitter feed once said, "a true man will ruin your lipstick, not" this.
+
+----
+num: 34
+category: Social
+difficulty: 800
+seen: 4
+answer: Hebrew
+
+"The language of Canaan" mentioned by Isaiah is thought to be this one still spoken today.
+
+----
+num: 35
+category: Literature
+difficulty: 800
+seen: 4
+answer: Harvey Milk
+
+Sean won an Oscar after announcing, "My name is" this title character from San Francisco "and I'm here to recruit you! ".
+
+----
+num: 36
+category: Trash
+difficulty: 800
+seen: 5
+answer: mustard gas
+
+This gas, a WWI blistering agent, was also called yperite.
+
+----
+num: 37
+category: Literature
+difficulty: 1200
+fixed: 1
+seen: 4
+answer: Anna Karenina
+
+The mad, impetuous woman played by Keira Knightley opposite Aaron Taylor-Johnson as Vronsky in a 2012 film.
+
+----
+num: 38
+category: Art
+difficulty: 1200
+seen: 4
+answer: the Rijksmuseum
+
+During a recent renovation, it moved "The Night Watch" & other works to the Philips wing.
+
+----
+num: 39
+category: Trash
+difficulty: 1200
+seen: 5
+answer: a castaway
+
+One who is shipwrecked.
+
+----
+num: 40
+category: Social
+difficulty: 1200
+seen: 4
+answer: Farsi
+
+Iran's official language is Persian, also known as this; it's written in the Arabic alphabet.
+
+----
+num: 41
+category: Literature
+difficulty: 1200
+seen: 3
+answer: Robin Wright Penn
+
+A tumultuous marriage began when she became Sean's "Princess Bride" in 1996.
+
+----
+num: 42
+category: Trash
+difficulty: 1200
+seen: 5
+answer: the Raptor
+
+The Air Force's F-22, known by this dinosaur & NBA team name, can reach supersonic speeds without afterburning.
+
+----
+num: 43
+category: Art
+difficulty: 1600
+seen: 4
+answer: the Uffizi
+
+This Florence gallery was designed by Vasari to be an office, hence its name.
+
+----
+num: 44
+category: Trash
+difficulty: 1600
+seen: 6
+answer: an avatar
+
+A graphical image that represents the user on the Internet.
+
+----
+num: 45
+category: Social
+difficulty: 1600
+seen: 5
+answer: Mandarin
+
+Wu is the second-most common dialect in China, behind this one.
+
+----
+num: 46
+category: Trash
+difficulty: 1600
+seen: 6
+answer: the Peacekeeper
+
+This 71-foot-long oxymoronic ICBM had a range of about 7,000 miles.
+
+----
+num: 47
+category: Trash
+difficulty: 2000
+seen: 9
+answer: a charlatan
+
+An impostor or fraud.
+
+----
+num: 48
+category: Trash
+difficulty: 2000
+seen: 8
+answer: a Predator
+
+Ah-nold could tell you this drone aircraft has 24-hour endurance.

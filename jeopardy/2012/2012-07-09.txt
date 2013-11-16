@@ -1,0 +1,438 @@
+####
+tournament: #6416
+round: Show #6416 - Monday, July 9, 2012
+year: 2012
+date: 2012-07-09
+####
+
+num: 1
+category: Literature
+difficulty: 200
+seen: 3
+answer: post-meridiem
+
+This 2-word phrase means "after midday" & is often abbreviated to refer to a time of day.
+
+----
+num: 2
+category: History
+difficulty: 200
+seen: 5
+answer: Delta
+
+The logo of this airline based in Georgia is seen.
+
+----
+num: 3
+category: Trash
+difficulty: 200
+seen: 6
+answer: gymnastics
+
+1985: Mary Lou Retton.
+
+----
+num: 4
+category: Science
+difficulty: 200
+seen: 7
+answer: coke
+
+Coal residue, not to be confused with a popular soda.
+
+----
+num: 5
+category: History
+difficulty: 200
+seen: 5
+answer: Dick Cheney
+
+Recent holder of the office seen.
+
+----
+num: 6
+category: Geography
+difficulty: 200
+seen: 9
+answer: the Mediterranean
+
+Located between Morocco & Spain, the Alboran sea is the westernmost part of this body of water.
+
+----
+num: 7
+category: History
+difficulty: 400
+seen: 4
+answer: Heathrow Airport
+
+Virgin Atlantic's flagship clubhouse is at this airport.
+
+----
+num: 8
+category: Trash
+difficulty: 400
+seen: 5
+answer: men\'s figure skating
+
+1990: Scott Hamilton.
+
+----
+num: 9
+category: Science
+difficulty: 400
+seen: 6
+answer: punch
+
+3-hole is one type of this piece of office equipment.
+
+----
+num: 10
+category: Geography
+difficulty: 400
+seen: 8
+answer: India
+
+Rich in marine life, the Laccadive Sea borders the Maldive Islands, Sri Lanka & the southern tip of this nation.
+
+----
+num: 11
+category: History
+difficulty: 600
+seen: 4
+answer: Air France
+
+Christian LaCroix designed the current elegant uniform for this airline.
+
+----
+num: 12
+category: Trash
+difficulty: 600
+seen: 5
+answer: men\'s volleyball
+
+2008: Karch Kiraly.
+
+----
+num: 13
+category: History
+difficulty: 600
+seen: 4
+answer: Walter Mondale
+
+The son of a Methodist minister,.
+
+----
+num: 14
+category: Geography
+difficulty: 600
+seen: 8
+answer: Antarctica
+
+The Bellingshausen Sea, an area around this continent, is named for the second man to circumnavigate it.
+
+----
+num: 15
+category: History
+difficulty: 800
+seen: 4
+answer: JetBlue
+
+Launched in 2000, it has a Customer Bill of Rights that says if DirecTV isn't working at your seat, you get a $15 credit.
+
+----
+num: 16
+category: Trash
+difficulty: 800
+seen: 4
+answer: ice hockey
+
+2006: Coach Herb Brooks.
+
+----
+num: 17
+category: Science
+difficulty: 800
+seen: 5
+answer: juice
+
+It's been used as a synonym for electric current since the 19th century.
+
+----
+num: 18
+category: History
+difficulty: 800
+seen: 4
+answer: (Elbridge) Gerry
+
+More famous today for his weird redistricting plans, he was vice president from 1813 to 1814.
+
+----
+num: 19
+category: Geography
+difficulty: 800
+seen: 7
+answer: the Coral Sea
+
+Part of the Pacific, the Arafura Sea connects via the Torres Strait to this other sea named for an ocean polyp.
+
+----
+num: 20
+category: History
+difficulty: 1000
+seen: 4
+answer: Scandinavian
+
+A consortium, SAS is short for this airlines system.
+
+----
+num: 21
+category: Trash
+difficulty: 1000
+seen: 5
+answer: swimming
+
+2006: Rowdy Gaines.
+
+----
+num: 22
+category: Science
+difficulty: 1000
+seen: 7
+answer: a smoothie
+
+The dictionary says it's "a person regarded as being assured & artfully ingratiating in manner".
+
+----
+num: 23
+category: History
+difficulty: 1000
+seen: 4
+answer: Alben Barkley
+
+This Kentuckian was 71 when he became Truman's vice president in 1949, the oldest VP in history.
+
+----
+num: 24
+category: Geography
+difficulty: 1000
+seen: 8
+answer: Greenland
+
+The Lincoln Sea stretches from Cape Columbia, Canada to Cape Morris Jesup on this large island to the east.
+
+----
+num: 25
+category: History
+difficulty: 400
+seen: 4
+answer: Sunday
+
+In 1027 the Council of Elne prohibited hostilities between knights & others any time on this day of the week.
+
+----
+num: 26
+category: Art
+difficulty: 400
+seen: 4
+answer: a reed
+
+A bassoon is an example of an instrument with a double one of these; a saxophone, a single one.
+
+----
+num: 27
+category: Literature
+difficulty: 400
+seen: 4
+answer: Rachel Weisz
+
+She & Daniel Craig play a married couple in "Dream House" & took their work home with them, marrying secretly in 2011.
+
+----
+num: 28
+category: Science
+difficulty: 400
+seen: 6
+answer: Egypt
+
+Dating to c. 1650 B.C., the Rhind Papyrus, a scroll from this civilization, put the value of pi at about 3.16.
+
+----
+num: 29
+category: Literature
+difficulty: 400
+seen: 5
+answer: John Irving
+
+Jenny Garp, one of the title character's kids.
+
+----
+num: 30
+category: Religion
+difficulty: 400
+seen: 11
+answer: mass
+
+A celebration of the Eucharist.
+
+----
+num: 31
+category: History
+difficulty: 800
+seen: 4
+answer: Mary
+
+The increasing idealization of women by knights developed out of cult devoted to this biblical woman.
+
+----
+num: 32
+category: Art
+difficulty: 800
+seen: 5
+answer: the Appalachians
+
+A type of dulcimer that is the state instrument of Kentucky is named for these mountains.
+
+----
+num: 33
+category: Science
+difficulty: 800
+seen: 5
+answer: ENIAC
+
+In 1949 this acronymical computer found pi to more than 2,000 digits; modern ones have passed 2 quadrillion.
+
+----
+num: 34
+category: Literature
+difficulty: 800
+seen: 3
+answer: (Joseph) Heller
+
+Major Major Major Major, a major character.
+
+----
+num: 35
+category: Religion
+difficulty: 800
+seen: 10
+answer: molasses
+
+It's distilled to make rum.
+
+----
+num: 36
+category: History
+difficulty: 1200
+seen: 4
+answer: Riga
+
+In 1202 Albert, this Latvian city's bishop, organized the Brothers of the Sword to convert pagans.
+
+----
+num: 37
+category: Literature
+difficulty: 1200
+seen: 4
+answer: Lea Michelle
+
+She plays Rachel Berry, who uses every opportunity to propel herself to stardom on "Glee".
+
+----
+num: 38
+category: Science
+difficulty: 1200
+fixed: -1
+seen: 5
+answer: his tombstone
+
+R.I.P. Ludolph van Ceulen, who calculated pi to 35 places & had the digits engraved on his this in 1610.
+
+----
+num: 39
+category: Literature
+difficulty: 1200
+seen: 4
+answer: Frank Herbert
+
+Paul Atreides, who has a rough go of it on Arrakis (the original author, please).
+
+----
+num: 40
+category: Religion
+difficulty: 1200
+seen: 8
+answer: Madras
+
+A multi-colored light cotton fabric named for an Indian seaport.
+
+----
+num: 41
+category: History
+difficulty: 1600
+seen: 4
+answer: a coat-of-arms
+
+The name of these identifying designs comes from their use on the surcoat worn over a knight's armor.
+
+----
+num: 42
+category: Literature
+difficulty: 1600
+seen: 4
+answer: Rachel Maddow
+
+She hosts an eponymous show on MSNBC.
+
+----
+num: 43
+category: Literature
+difficulty: 1600
+seen: 5
+answer: Upton SInclair
+
+Jurgis Rudkus, a worker in the Chicago stockyards.
+
+----
+num: 44
+category: Religion
+difficulty: 1600
+seen: 9
+answer: mythos
+
+This Greek word refers to one underlying system of beliefs of a social group.
+
+----
+num: 45
+category: Literature
+difficulty: 2000
+seen: 6
+answer: Rachel Griffiths
+
+This Aussie actress went American to play Sarah Walker on "Brothers and Sisters".
+
+----
+num: 46
+category: Science
+difficulty: 2000
+seen: 8
+answer: an irrational number
+
+Johann Lambert wasn't delusional in 1761 when he showed that pi is one of these numbers.
+
+----
+num: 47
+category: Literature
+difficulty: 2000
+seen: 6
+answer: (William) Faulkner
+
+Quentin Compson, a suicidal Harvard student.
+
+----
+num: 48
+category: Religion
+difficulty: 2000
+seen: 13
+answer: malodorous
+
+10-letter word meaning having an unpleasant smell.

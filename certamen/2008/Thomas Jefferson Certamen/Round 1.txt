@@ -1,0 +1,459 @@
+####
+tournament: Thomas Jefferson Certamen
+round: Round 1
+year: 2008
+####
+
+num: 1
+category: Unlabeled
+difficulty: Novice
+seen: 56
+answer: XXIII
+
+Toss-Up #1  Welcome to the Thomas Jefferson Certamen!  Today is February 23rd.  Give the Roman numeral for 23.
+
+----
+num: 1
+category: Unlabeled
+difficulty: Novice
+fixed: -1
+seen: 55
+answer: XLII
+
+Toss-Up #1  A few weeks ago, the New York Giants pulled a stunning upset over the New England Patriots in Super Bowl 42.  What is the Roman numeral for 42?
+
+----
+num: 1
+category: Unlabeled
+difficulty: Novice
+seen: 57
+answer: About the weather, how the weather is today, etc.
+
+Toss-Up#1   Suppose that you woke up one day to find yourself in ancient Rome.  If a Roman said to you,  “Quaenam est tempestas hodiē?”  what would he be asking?
+
+----
+num: 2
+category: Unlabeled
+difficulty: Novice
+seen: 57
+answer: Tarquinius Priscus
+
+Toss-Up #2 What Etruscan was figuratively crowned by an eagle, and went on to become the fifth king of Rome?
+
+----
+num: 2
+category: Unlabeled
+difficulty: Novice
+seen: 53
+answer: Alba Longa
+
+Toss-Up #2 What famous city, said to have been founded by Ascanius, was the origin of Romulus and Remus and conquered by Tullus Hostilius?
+
+----
+num: 2
+category: Unlabeled
+difficulty: Novice
+seen: 54
+answer: Curro, currere – to run
+
+Toss-Up#2  What Latin verb with what meaning is at the root of the word  “cursive”?
+
+----
+num: 3
+category: Unlabeled
+difficulty: Novice
+fixed: 57
+seen: 55
+answer: Theseus
+
+Toss Up #3 Name the mythological hero to whom these characters are associated: Aethra,  Aegeus, Ariadne, and the Minotaur.
+
+----
+num: 3
+category: Unlabeled
+difficulty: Novice
+seen: 55
+answer: 3rd
+
+Toss-Up #3  What principal part is used to form the perfect tense?
+
+----
+num: 4
+category: Unlabeled
+difficulty: Novice
+seen: 54
+answer: Accusative
+
+Toss-Up #4:  Which case follows the preposition  prope?
+
+----
+num: 4
+category: Unlabeled
+difficulty: Novice
+seen: 55
+answer: Daphne
+
+Toss-Up #4.   Quis sum?  Apollo amat me, sed eum non amo.  Mutavi in arborem et nunc sum “laurus”.
+
+----
+num: 5
+category: Unlabeled
+difficulty: Novice
+fixed: 1
+seen: 54
+answer: anno domini
+
+Toss-Up #5:  What does the Latin abbreviation A.D. stand for?
+
+----
+num: 5
+category: Unlabeled
+difficulty: Novice
+fixed: 1
+seen: 53
+answer: {Dative}
+
+Toss-Up#5  If the following sentence were in Latin, in what case would “the girl” be?  “I gave the money to the girl.”
+
+----
+num: 6
+category: Unlabeled
+difficulty: Novice
+seen: 53
+answer: Palatine
+
+Toss-Up #6 On what hill would you find the homes of the wealthiest Romans?
+
+----
+num: 6
+category: Unlabeled
+difficulty: Novice
+seen: 56
+answer: 4th
+
+Toss-Up #6  What conjugation is the verb in this sentence?  “Dormiō sub arbore”
+
+----
+num: 7
+category: Unlabeled
+difficulty: Novice
+fixed: None
+seen: 56
+answer: tertius
+
+Toss-Up #7:  Complete the following analogy: unus is to primus as tres is to what?
+
+----
+num: 7
+category: Unlabeled
+difficulty: Novice
+seen: 57
+answer: Tarquinius Superbus
+
+Toss-Up #7 Talk about horrible in-laws! What proud king of Rome gained his position by assassinating his own father-in-law?
+
+----
+num: 8
+category: Unlabeled
+difficulty: Novice
+seen: 58
+answer: iaciēbat
+
+Toss-Up #8  What is the 3rd person singular, imperfect form of  “iaciō, iacere” ?
+
+----
+num: 8
+category: Unlabeled
+difficulty: Novice
+seen: 56
+answer: Cloeilia
+
+Toss-Up #8 What Roman maiden led hostages in swimming across the Tiber to escape their Etruscan captors?
+
+----
+num: 9
+category: Unlabeled
+difficulty: Novice
+seen: 55
+answer: Athena and Poseidon / Minerva and Neptune
+
+Toss Up #9 The city of Athens, which was won by regaling the townsfolk with gifts, was a contest between which two gods?
+
+----
+num: 9
+category: Unlabeled
+difficulty: Novice
+fixed: 57
+seen: 55
+answer: Hermes
+
+Toss-up #9  What is the Greek equivalent to Mercury?
+
+----
+num: 9
+category: Unlabeled
+difficulty: Novice
+fixed: 57
+seen: 56
+answer: Hades
+
+Toss Up #9  : Poseidon has the trident; who has the bident?
+
+----
+num: 10
+category: Unlabeled
+difficulty: Novice
+seen: 52
+answer: Horatius [Cocles]
+
+Toss-Up #10 This brave Roman defended the Pons Sublicius single-handedly as it was being destroyed behind him, and then swam back to safety in his armor.
+
+----
+num: 10
+category: Unlabeled
+difficulty: Novice
+seen: 57
+answer: Nōmine, because all the other words are adverbs and nōmine is a noun
+
+Toss-Up#10  Which of the following does not belong and why?  Fortasse, deinde, nōmine, intereā, iam.
+
+----
+num: 10
+category: Unlabeled
+difficulty: Novice
+fixed: 1
+seen: 57
+answer: two
+
+Toss-Up #10 The typical term for this office was one year, and after that ten years had to pass before the same person could run for this position again. How many consuls served at a given time?
+
+----
+num: 11
+category: Unlabeled
+difficulty: Novice
+seen: 54
+answer: insulae
+
+Toss-Up #11 Responde Latine. In what kind of dwellings did plebeian Roman city-dwellers typically live?
+
+----
+num: 11
+category: Unlabeled
+difficulty: Novice
+seen: 57
+answer: toga praetexta
+
+Toss-Up #11 What kind of toga with a thin purple stripe was worn by young boys and some governmental officials?
+
+----
+num: 11
+category: Unlabeled
+difficulty: Novice
+seen: 54
+answer: Circum
+
+Toss-Up#11  Which of the following prepositions takes only the accusative?  Sub, in, dē, circum, ab
+
+----
+num: 12
+category: Unlabeled
+difficulty: Novice
+seen: 55
+answer: undeviginti
+
+Toss-Up #12:  Responde Latine: Quot sunt decem plus novem?
+
+----
+num: 12
+category: Unlabeled
+difficulty: Novice
+fixed: 1
+seen: 54
+answer: Cincinnatus
+
+Toss-Up #12 What curly haired dictator of Rome promptly returned to his farm after saving the Roman army surrounded by a hostile tribe?
+
+----
+num: 12
+category: Unlabeled
+difficulty: Novice
+seen: 55
+answer: tablinum
+
+Toss-Up #12 What part of a Roman house served as the study?
+
+----
+num: 13
+category: Unlabeled
+difficulty: Novice
+seen: 54
+answer: Brundisium
+
+Toss-Up #13 What city served as a port for travelers headed for Greece, and marked the end of the Via Appia?
+
+----
+num: 13
+category: Unlabeled
+difficulty: Novice
+seen: 55
+answer: Perfect
+
+Toss-Up#13  Julius Caesar once said  “vēnī, vīdī, vīcī.”   What tense are the verbs in this statement?
+
+----
+num: 13
+category: Unlabeled
+difficulty: Novice
+seen: 55
+answer: Curia
+
+Toss-Up #13 What building in the Forum Romanum housed senate meetings?
+
+----
+num: 14
+category: Unlabeled
+difficulty: Novice
+seen: 58
+answer: Lucretia
+
+Toss-Up #14 What pious matron’s rape and eventual suicide led to the end of the Monarchy?
+
+----
+num: 14
+category: Unlabeled
+difficulty: Novice
+fixed: 1
+seen: 55
+answer: Zeus
+
+Toss-up #14  What child of Rhea did she replace with a stone wrapped in swaddling clothes, to prevent her husband Cronus from eating the child?
+
+----
+num: 14
+category: Unlabeled
+difficulty: Novice
+fixed: 57
+seen: 55
+answer: {Mercury}
+
+Toss-Up #14: Name the Roman god, who among his many jobs, was the god of thieves, led dead souls to the Underworld, was the patron of travelers, and the messenger of the gods?
+
+----
+num: 15
+category: Unlabeled
+difficulty: Novice
+seen: 55
+answer: Sic Semper Tyrannis/ Thus always to tyrants
+
+Toss-Up#15  Give the Latin and English of Virginia’s state motto?
+
+----
+num: 16
+category: Unlabeled
+difficulty: Novice
+seen: 56
+answer: Do you love me?
+
+Toss-Up #16:  Translate the following sentence:   Amasne me?
+
+----
+num: 16
+category: Unlabeled
+difficulty: Novice
+seen: 54
+answer: To the fields or with the farmers
+
+Toss-Up#16  Let’s have some fun with alliteration!  Translate one of the prepositional phrases in the sentence  “Aliī amīcī ambulant ad agrōs cum agricolīs.”
+
+----
+num: 17
+category: Unlabeled
+difficulty: Novice
+seen: 54
+answer: Circus Maximus
+
+Toss-Up #17  Sextus is in the mood for some entertainment. What building in Rome would he visit if he wanted to see chariot races?
+
+----
+num: 17
+category: Unlabeled
+difficulty: Novice
+seen: 53
+answer: Numa Pompilius
+
+Toss-Up #17 This Sabine king of Rome created the Pontifices as well as the Vestal Virgins:
+
+----
+num: 17
+category: Unlabeled
+difficulty: Novice
+fixed: 1
+seen: 54
+answer: {Lares} et {Penates}
+
+Toss-Up #17 What were the household gods that protected a Roman family?
+
+----
+num: 18
+category: Unlabeled
+difficulty: Novice
+fixed: None
+seen: 56
+answer: Romulus
+
+Toss-Up #18 What king, deified posthumously as Quirinus, was raised by wolves and grew up to found Rome?
+
+----
+num: 18
+category: Unlabeled
+difficulty: Novice
+seen: 53
+answer: Imperative
+
+Toss-Up#18  The Roman poet Horace is the first to have quoted the phrase  “carpe diem.”   What type of verb is  “carpe” ?
+
+----
+num: 18
+category: Unlabeled
+difficulty: Novice
+seen: 57
+answer: Marc Antony  and Cleopatra
+
+Toss-Up #18 Whom did Octavian defeat at the Battle of Actium?
+
+----
+num: 19
+category: Unlabeled
+difficulty: Novice
+seen: 52
+answer: “gratias tibi ago”
+
+Toss-Up #19:  If you wanted to thank one Roman for helping you, what would you say?
+
+----
+num: 20
+category: Unlabeled
+difficulty: Novice
+seen: 56
+answer: Love conquers all (everything)
+
+Toss-Up #20:  Valentine’s Day was just over a week ago, and we typically associate that day with love.  What is the meaning of the Latin phrase  “amor omnia vincit” ?
+
+----
+num: 20
+category: Unlabeled
+difficulty: Novice
+fixed: 1
+seen: 57
+answer: Mad Money
+
+Toss-Up #20  Let’s go to the Cinema Romana! What recent film might the Romans have called  “Pecūnia Irāta” ?
+
+----
+num: 20
+category: Unlabeled
+difficulty: Novice
+seen: 55
+answer: Meet the Spartans
+
+Toss-Up #20  Welcome back to the Cinema Romana.  What recent film would have been called  “Occurre Spartanīs”?

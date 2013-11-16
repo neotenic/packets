@@ -1,0 +1,268 @@
+####
+tournament: Question Set C
+round: Round-6C.pdf
+####
+
+num: 1
+category: Physics
+difficulty: HS
+seen: 26
+answer: 12
+
+What is the resulting electrical potential, in volts, when a charge of 12 coulombs is applied to a 1 farad capacitor?
+
+----
+num: 3
+category: Biology
+difficulty: HS
+seen: 37
+answer: Electron Transport System
+
+Name all of the following 3 metabolic processes which directly require oxygen: glycolysis; alcohol fermentation; electron transport system
+
+----
+num: 4
+category: Math
+difficulty: HS
+seen: 26
+answer: Log
+Log53
+4 (Accept:  Log
+Log^10
+^1053
+4 )
+
+Convert log base 4 of 53 into a base 10 expression:
+
+----
+num: 4
+category: Math
+difficulty: HS
+fixed: -1
+seen: 25
+answer: 36
+(Solution:  100 – 28 = 72; 72/2 = 36cm)
+
+Consider a 6-sided irregular polygon whose perimeter is 100 centimeters. 
+If 4 of the sides have a length of 7 centimeters each, what is the length, in centimeters, of each of the remaining two sides if they are congruent?
+
+----
+num: 5
+category: Earth Science
+difficulty: HS
+seen: 64
+answer: Discharge  (Accept:  Discharge Rate)
+
+Used as a way to categorize rivers and streams, what is the term for the volume of water flowing through the cross-section of a channel over a given period of time?
+
+----
+num: 9
+category: Chemistry
+difficulty: HS
+fixed: -1
+seen: 33
+answer: 540,000  (Accept: 5.4 × 10^5)
+(Solution:  Lat Heat ^Vap = 540cal/g)
+
+If you were to evaporate 1 liter or kilogram of water, how many calories of latent heat are stored in the vapor?
+
+----
+num: 10
+category: Biology
+difficulty: HS
+seen: 39
+answer: 4
+
+During meiosis, how many chromatids are in a chromosomal tetrad?
+
+----
+num: 11
+category: Math
+difficulty: HS
+fixed: -1
+seen: 24
+answer: 19 and 1
+
+Solve the following equation for x: x^2 – 20x + 19 = 0
+
+----
+num: 13
+category: General Science
+difficulty: HS
+fixed: -1
+seen: 29
+answer: One Million  (Accept:  1 × 10^6 or 10^6)
+
+One metric ton equals how many grams?
+
+----
+num: 13
+category: General Science
+difficulty: HS
+fixed: -1
+seen: 31
+answer: Uric Acid  (Accept:  Lithic Acid or Triketopurine)
+
+Gout in humans is the result of the precipitation of what substance in joints?
+
+----
+num: 14
+category: Astronomy
+difficulty: HS
+seen: 55
+answer: When the Sun Rises
+
+With reference to the Sun’s position in the sky, when does a full 
+Moon set?
+
+----
+num: 14
+category: Astronomy
+difficulty: HS
+seen: 53
+answer: 45
+
+In a Newtonian telescope, how many degrees is the secondary mirror tilted in reference to the primary?
+
+----
+num: 16
+category: Chemistry
+difficulty: HS
+seen: 35
+answer: Carbon = 5;  Hydrogen = 10
+
+How many carbon and hydrogen atoms are in a cyclopentane molecule?
+
+----
+num: 16
+category: Chemistry
+difficulty: HS
+fixed: -1
+seen: 34
+answer: Hypochlorous Acid
+
+What is the systematic IUPAC name for the following acid: 
+HClO
+
+----
+num: 17
+category: Biology
+difficulty: HS
+seen: 38
+answer: Stamen  (Accept:  Anther)
+
+What specific part of any member of the Anthophyta produces pollen?
+
+----
+num: 17
+category: Biology
+difficulty: HS
+seen: 37
+answer: Ferns
+
+Which one of the following 4 plant groups is phenotypically and phylogenetically LEAST related to the others: ferns; liverworts; hornworts; mosses
+
+----
+num: 18
+category: Math
+difficulty: HS
+seen: 25
+answer: 14 – 7i
+
+Subtract the following complex numbers, giving your answer in standard form: (11 – 4i) – (–3 + 3i)
+
+----
+num: 18
+category: Math
+difficulty: HS
+fixed: -1
+seen: 26
+answer: X > 16
+3 (Accept:  X >  51
+3)
+
+Solve the following inequality for x, giving your answer in fractionalform: 13x+32<
+65x! 2
+
+----
+num: 20
+category: General Science
+difficulty: HS
+seen: 31
+answer: Asbestos
+
+What substance made of several fibrous materials was widely used in the 20^th century for its heat resistant properties but is now banned because it can cause lung cancer when inhaled?
+
+----
+num: 20
+category: General Science
+difficulty: HS
+seen: 32
+answer: Mesothelioma
+
+What is the medical term for the type of lung cancer specifically associated with asbestosis?
+
+----
+num: 21
+category: Astronomy
+difficulty: HS
+seen: 56
+answer: Mercury
+
+What planet is never more than 28º from the Sun in the evening sky?
+
+----
+num: 22
+category: Physics
+difficulty: HS
+seen: 26
+answer: 3
+
+How many nodes are there in the first overtone in a standing wave of a vibrating guitar string?
+
+----
+num: 22
+category: Physics
+difficulty: HS
+seen: 25
+answer: 490
+(Solution:  0.1 × 500kg × 9.8m/s^2 = 490n)
+
+If g = 9.8 meters per second squared, to the first decimal place and in newtons, how many newtons of force are required to keep a 500 kilogram slab of granite moving across a horizontal surface at constant speed if there is a kinetic frictional coefficient of 0.10 between the surface and the slab?
+
+----
+num: 23
+category: Chemistry
+difficulty: HS
+fixed: -1
+seen: 36
+answer: Oxygen;  Lithium;  S Odium;  Potassium
+
+Arrange the following 4 elements in order of increasing atomic radii: lithium; oxygen; potassium; sodium
+
+----
+num: 24
+category: Biology
+difficulty: HS
+seen: 39
+answer: Brachiopods
+
+Which one of the following 4 animal groups is LEAST closely related to the others: brachiopods; gastropods; cephalopods; bivalves
+
+----
+num: 24
+category: Biology
+difficulty: HS
+seen: 41
+answer: Ectoderm;  Mesoderm;  Endoderm
+
+From the OUTSIDE to the INSIDE, name the 3 embryonic germ layers in mammals:
+
+----
+num: 25
+category: Chemistry
+difficulty: HS
+seen: 35
+answer: 1s ^22s^22p^6 (Accept:  1s^22s^22p^63s^0)
+
+In standard chemical nomenclature, what is the complete electron configuration for the sodium ion, Na+?

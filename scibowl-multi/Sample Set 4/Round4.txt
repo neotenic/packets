@@ -1,0 +1,239 @@
+####
+tournament: Sample Set 4
+round: Round4.pdf
+####
+
+num: 2
+category: Life Science
+difficulty: MS
+answer: Z) Predators
+
+Sea stars, velvet worms and northern shrike birds – all three are examples of:
+W) Omnivores
+X) Detritivores (read as: di-TRI-ti-vohrs)
+Y) Scavengers
+Z) Predators
+
+----
+num: 4
+category: Energy
+difficulty: MS
+answer: Y) Dead Organisms Packed Together for Millions of Years
+
+Which of the following resulted in petroleum?
+W) Meteors that fell from space
+X) Water combined with sediment deposits
+Y) Dead organisms packed together for millions of years
+Z) Saltwater combined with sand
+
+----
+num: 5
+category: Physical Science
+difficulty: MS
+answer: W) It Is Positively Charged
+
+Which of the following is NOT characteristic of an atom?
+W) It is positively charged 
+X) It has electrons
+Y) It has protons
+Z ) It has a nucleus
+
+----
+num: 7
+category: Life Science
+difficulty: MS
+answer: Z) One or Two Genes
+
+
+A plasmid is a circular DNA molecule that is separate from chromosomal DNA, usually occurring in bacteria. Which of the following do plasmids usually contain?
+W) Single-stranded DNA
+X) Cell membrane
+Y) High osmotic pressure
+Z) One or two genes
+
+----
+num: 9
+category: Earth and Space Science
+difficulty: MS
+answer: W) 1.6 %
+
+
+Approximately what percent of Earth’s water is in the form of ice?
+W) 1.6 %
+X) 6.6 %
+Y) 11.6 %
+Z) 16.6 %
+
+----
+num: 10
+category: Math
+difficulty: MS
+answer: X) 384
+
+A spool of ribbon has 500 yards of ribbon. If one fancy bow takes 1.3 yards of continuous ribbon, how many bows can you make from one spool?
+W) 46 
+X) 384 
+Y) 462 
+Z) 650
+
+----
+num: 11
+category: Life Science
+difficulty: MS
+answer: Y) Secondary Consumer
+
+Rabbits eat grass and foxes eat rabbits. What role do foxes play in the food chain?
+W) Primary producer
+X) Primary consumer
+Y) Secondary consumer
+Z) Tertiary consumer
+
+----
+num: 14
+category: General Science
+difficulty: MS
+answer: W) Results
+
+Gary and Paul were conducting a science experiment to determine how far an egg could drop before it broke. Gary tested 20 total eggs: 4 cracked at 2 feet, 6 cracked at 3 feet, and the rest did not break after dropping. The data that he collected represents which of the following parts of the scientific method?
+W) Results
+X) Conclusions
+Y) Hypothesis
+Z) Variables
+
+----
+num: 16
+category: Physical Science
+difficulty: MS
+answer: W) Aluminum Chloride
+
+Which of the following compounds is most soluble in water of 25° Celsius at 1 atmosphere of pressure?
+W) Aluminum chloride
+X) Zinc oxide
+Y) Magnesium phosphate
+Z) Calcium oxide
+
+----
+num: 18
+category: Life Science
+difficulty: MS
+answer: Y) Nucleus
+
+Which of the following is NOT part of a prokaryotic (read as: prōe-kahr-ee-AH-tik) cell?
+W) Cell membrane
+X) Cell wall
+Y) Nucleus
+Z) Cytoplasm
+
+----
+num: 18
+category: Life Science
+difficulty: MS
+answer: X) Cytoplasm
+
+ATP is commonly called the energy molecule of the cell.
+Where in the cell would you find ATP made by substrate phosphoryl ation?
+W) Cell membrane
+X) Cytoplasm
+Y) Mitochondria (read as: my-toh-KOHN-dree-ah)
+Z) Vesicle
+
+----
+num: 19
+category: Earth and Space Science
+difficulty: MS
+answer: Z) Gulf Stream
+
+Which of the following oceanic currents prevents the climate of Northern Europ e from being much colder?
+W) Circumpolar Current
+X) Kuroshio Current
+Y) North Pacific Current
+Z) Gulf Stream
+
+----
+num: 19
+category: Earth and Space Science
+difficulty: MS
+answer: Y) Climate Causes We Ather
+
+
+Which of the following statements is NOT true about weather or cl imate?
+W) The terms weather is used to describe atmospheric conditions over a short period of time in a particular area
+X) Climate is the average weather pattern over many years in a particular area
+Y) Climate causes weather
+Z) Climate variability can be related to periodic changes such as El Niño or La Niña
+
+----
+num: 20
+category: General Science
+difficulty: MS
+answer: W) Gamma Rays
+
+Which of the following types of radiation has the shortest wavelength?
+W) Gamma rays
+X) X-rays
+Y) Infrared radiation
+Z) Ultraviolet radiation
+
+----
+num: 21
+category: Energy
+difficulty: MS
+answer: Y) 0
+
+What is the approximate minimum temperature difference in degrees Celsius required between deep and shallow waters for an Ocean Thermal Energy 
+Conversion (OTEC) system to
+W) 5 be commercially viable?
+X) 
+Y) 
+Z) 50
+
+----
+num: 21
+category: Energy
+difficulty: MS
+answer: X) 3%
+
+
+About what percentage of efficiency can an OTEC system currently achieve?
+W) 1%
+X) 3%
+Y) 10%
+Z) 20%
+
+----
+num: 22
+category: General Science
+difficulty: MS
+answer: W) Their Masses a Nd Distance Apart
+
+Which two features determine the force of gravity between two planets?
+W) Their masses and distance apart
+X) Their atmospheric compositions and masses
+Y) Their rotational motions and shapes
+Z) Their masses and shapes
+
+----
+num: 23
+category: Physical Science
+difficulty: MS
+answer: X) Water Vapor Freezes Onto Ice Crystals Inside Clouds
+
+
+Of the following choices, which one best describes the way snowflakes form?
+W) Raindrops freeze
+X) Water vapor freezes onto ice crystals inside clouds
+Y) Ice attaches to dust particles in the air
+Z) Sleet freezes
+
+----
+num: 24
+category: Earth and Space Science
+difficulty: MS
+answer: Z)  It Gives Off No Light of Its Own
+
+Which of the following is true about the 
+Moon?
+W) It crosses our sky along the same path every night 
+X) It always rises in the west
+Y) It changes size in our sky as it passes from horizon to zenith to the other horizon
+Z) It gives off no light of its own

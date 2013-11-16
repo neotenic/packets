@@ -1,0 +1,219 @@
+####
+tournament: Sample
+round: round15.pdf
+####
+
+num: 2
+category: Chemistry
+difficulty: HS
+seen: 34
+answer: 0.03
+(Solution: Rate = ∆[Nh
+^3]/2∆t = 0.6m/2(10min) = 0.03 Mole/l -Min)
+
+Consider the reaction, N + 3H  2NH . If the ^2(gas) ^2(gas) ^3(gas)concentration of ammonia increases from 0.3 molar to 0.9 molar in a 10 -minute period, find the average rate of reaction over this time interval. Give your answer to the 2^nd decimal place in moles per liter minute:
+
+----
+num: 3
+category: Biology
+difficulty: HS
+seen: 41
+answer: Dna Polymerase  (Accept:  Dna Polymerase 3)
+
+What enzyme in E. coli functions as the primary proof -reading molecule during replication?
+
+----
+num: 4
+category: Math
+difficulty: HS
+fixed: -1
+seen: 24
+answer: 18.31
+(Solution: 18+ 18
++ 36
+= 18.31)
+60 3600
+
+Convert the angle, 18º18’36” (read as: 18 degrees, 18 minutes, 36 seconds) to degrees, to the second decimal place:
+
+----
+num: 5
+category: Earth Science
+difficulty: HS
+seen: 66
+answer: All
+
+Name all of the following 4 factors that are reasons why biomes are not considered homogeneous biotic communities: local topography; soil characteristics; temperature; water
+
+----
+num: 7
+category: Astronomy
+difficulty: HS
+seen: 54
+answer: 100
+
+According to the Pogson scale for brightness, by what multiple does the brightness of 2 stars differ that have apparent magnitudes of +3 and +8?
+
+----
+num: 9
+category: Chemistry
+difficulty: HS
+seen: 35
+answer: +150  (Accept:  150) (So Not Accept:  –150)
+(Solution: ∆Gº = ∆Hº–t∆sº  = 180kj – [300k(0.10 Kj/k)] = 150 Kj)
+
+Calculate ∆Gº (read as: delta G naught), giving your answer in kilojoules, for a reaction in which ∆Hº = +180 kilojoules and ∆Sº = +100 joules per kelvin at 300 kelvin and 1 atmosphere pressure:
+
+----
+num: 10
+category: Biology
+difficulty: HS
+seen: 42
+answer: Rna Polymerase
+
+What specific molecule binds immediately upstream of the structural genes in the lac (read as: LACK) operon and functions to transcribe these genes?
+
+----
+num: 11
+category: Math
+difficulty: HS
+fixed: -1
+seen: 27
+answer: 0,−1,0
+
+Give the resulting vector for the cross product of vector 1,0,0 with vector 0,0,1 :
+
+----
+num: 15
+category: Physics
+difficulty: HS
+fixed: 1
+seen: 25
+answer: {½} (Solution: Muons Are Fermions Which Have a Spin of ½)
+
+What is the spin of the muon , in quantum units?
+
+----
+num: 17
+category: Biology
+difficulty: HS
+seen: 39
+answer: Cyclic Amp (Accept:  Camp)
+
+What is the most common name for the f irst membrane-associated molecule discovered to function in a wide variety of cells in what is commonly referred to as a second messenger?
+
+----
+num: 18
+category: Math
+difficulty: HS
+seen: 25
+answer: 135
+
+What is the angle formed, in deg rees, between the hour and minute hand of an analog clock at 10:30 AM?
+
+----
+num: 19
+category: Earth Science
+difficulty: HS
+fixed: -1
+seen: 64
+answer: Andesite;  Rhyolite
+
+Name all of the following 3 lavas from which stratovolcanoes are typically composed: andesite; rhyolite; basalt
+
+----
+num: 21
+category: Astronomy
+difficulty: HS
+seen: 53
+answer: 1.4
+
+In astronomical units to the first decimal place, what is the 
+Chandrasekhar Limit?
+
+----
+num: 21
+category: Astronomy
+difficulty: HS
+fixed: -1
+seen: 51
+answer: 19^th
+
+If a new Moon occurs on May 5^th at 8:20 AM eastern daylight time, on what day will the full Moon occur that m onth?
+
+----
+num: 22
+category: Physics
+difficulty: HS
+fixed: -1
+seen: 25
+answer: Alpha  (Accept:  Alpha Emission or Alpha Decay)
+
+Uranium-238 and plutonium-239, primarily decay by what mode?
+
+----
+num: 22
+category: Physics
+difficulty: HS
+seen: 28
+answer: Cloud Chamber  (Accept:  Wilson Cloud Chamber)
+
+What is the name of the instrument inve nted by Charles Wilson and used in the early 1900’s in many experiments to show the tracks of charged particles passing through a chamber?
+
+----
+num: 23
+category: Chemistry
+difficulty: HS
+seen: 35
+answer: Micelle
+
+What chemical term is given to the formations that occur in water when a hydrophilic head and a hydrophobic tail organize into spheres that orient the tails within the sphere?
+
+----
+num: 23
+category: Chemistry
+difficulty: HS
+seen: 35
+answer: 8co^2 + 10h^2o  (Products in Any Order)
+
+Using proper chemical nomenclature, finish balancing the following combustion reaction for the gaseous products of carbon dioxide and water: 2C H + 13O  what? ^4 ^10(gas) ^2(gas)
+
+----
+num: 24
+category: Biology
+difficulty: HS
+seen: 39
+answer: Parenchyma
+
+From what basic plant cell type are the majority of cells in a corm (read as: KORM) composed?
+
+----
+num: 24
+category: Biology
+difficulty: HS
+seen: 39
+answer: 96
+
+If a germ cell of a genus of grass has 48 chromosomes at metaphase -two, how many chromosomes will a ger m cell of this grass have in anaphase -two?
+
+----
+num: 25
+category: Chemistry
+difficulty: HS
+seen: 35
+answer: Ethane;  Cyclohexane
+
+Name all of the following 3 molecules that are considered saturated hydrocarbons: ethylene; ethane; cyclohexane
+
+----
+num: 25
+category: Chemistry
+difficulty: HS
+fixed: -1
+seen: 36
+answer: 5
+(Solution: N = (2eq/mol)(0.250 Mol/l) = 0.5 Eq/l;  N = 0.250 Eq/l;  ^H2so4 ^Naoh
+(N )(V = (N )(V );  (0.5 Meq/ml)( X) = (0.25 Meq/ml)(10 Ml) = 5 Ml)
+^H2so4 ^H2so4) ^Naoh ^Naoh
+
+How many milliliters of a 0.250 molar H ^2SO^4 solution will react with 10 milliliters of a 0.250 molar NaOH solution

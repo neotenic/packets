@@ -1,0 +1,510 @@
+####
+tournament: Sample Set 4
+round: Round5.pdf
+####
+
+num: 1
+category: Energy
+difficulty: HS
+answer: Z) Fermentation of the Waste Water From the Conventional 
+Manufacture of Corn Syrup
+
+Bioplastics are plastics derived from plant sources, rather than petroleum. Which of the following is NOT a way in which bioplastics can be made?
+W) Intracellular production by the fermentatio n of a feedstock
+X) Engineering a crop to grow the plastic within the plant itself
+Y) Fermentation of a cereal to make precursors, which would then be processed into bioplastics
+Z) Fermentation of the waste water from the conventional manufacture of corns yrup
+
+----
+num: 1
+category: Math
+difficulty: MS
+answer: Z) a Square’s Diagonals Are Equal to Its Side Lengths
+ 
+
+Which of the following stat ements about squares is NOT true?
+W) A square is a rectangle
+X) A square is a parallelogram
+Y) A square is a rhombus
+Z) A square’s diagonals are equal to its side lengths
+
+----
+num: 3
+category: Energy
+difficulty: MS
+answer: X) Height That the Object Is Lifted
+
+Gravitational potential energy in an object can be increased or decreased by changing which of the following?
+W) Speed of its movement
+X) Height that the object is lifted
+Y) Acceleration
+Z) Momentum
+
+----
+num: 4
+category: Physics
+difficulty: HS
+answer: Z) Magnitude of Displacement Less Than or Equal to Distance
+
+When we measure the distance traveled by an object moving from one point to another, which of the following is always true?
+W) Magnitude of displacement is greater than or equal to distance 
+X) Magnitude of displacement equals distance 
+Y) Magnitude of displacement is greater than distance 
+Z) Magnitude of displacement is less than or equal to distance
+
+----
+num: 5
+category: Earth and Space
+difficulty: HS
+seen: 1
+answer: W) Increased
+
+In the last 4 billion years, the average brightness of the Sun has:
+W) Increased
+X) Decreased
+Y) Stayed the same
+Z) Increased, then decreased
+
+----
+num: 6
+category: Life Science
+difficulty: MS
+answer: Y) Human Liver
+
+Liver tissue in a monkey would be expected to be structurally most similar to which of the following tissues?
+W) Monkey brain 
+X) Ape kidney 
+Y) Human liver 
+Z) Dog liver
+
+----
+num: 6
+category: Life Science
+difficulty: MS
+answer: Z) Mating Produces Fertile Offspring
+
+What characteristic is most likely to identify two organisms as the same species?
+W) All of their physical characteristics are very similar
+X) They fill the same role in the ecosystem
+Y) They are of similar size and shape
+Z) Mating produces fertile offspring
+
+----
+num: 7
+category: Energy
+difficulty: HS
+seen: 1
+answer: W) United States
+
+Where is most of the uranium used in the United States mined?
+W) United States
+X) Middle East
+Y) Africa
+Z) South America
+
+----
+num: 8
+category: Math
+difficulty: HS
+answer: Y) the 2f(x) Inflection Points Are Twice as High but the Same 
+Distance Apart
+
+If f(x) (read as: f of x) represents the function whose graph is the standard normal distribution curve, then how do the inflection points on the curve for 2f( x) (read as: 2 f of x) compare to those of f(x)?
+W) Both curves have the same inflection points
+X) The 2f(x) inflection points are twice as far apart but the same height
+Y) The 2f(x) inflection points are twice as high but the same distance apart
+Z) The 2f(x) inflection points are both twice as far apart and twice as high
+
+----
+num: 9
+category: Energy
+difficulty: HS
+seen: 1
+answer: W) Radiant
+
+Which of the following forms of energy does NOT require bulk motion of physical matter through space?
+W) Radiant 
+X) Nuclear
+Y) Electrical
+Z) Hydropower
+
+----
+num: 10
+category: Earth and Space
+difficulty: HS
+seen: 1
+answer: Y) Thermosphere
+
+Which of these atmospheric layers is furthest from the Earth’s surface?
+W) Stratosphere
+X) Mesosphere
+Y) Thermosphere
+Z) Troposphere
+
+----
+num: 10
+category: Earth and Space Science
+difficulty: MS
+answer: Y) Point Bar
+
+What type of feature would you least expect to find in an arid environment?
+W) Dunes
+X) Evaporites
+Y) Point bar
+Z) Alluvial fan
+
+----
+num: 11
+category: Biology
+difficulty: HS
+seen: 1
+answer: Z) Visual Communication
+
+
+Honeybees leave the hive to find food. Upon finding food, honeybees return to the hive and dance to tell others how to find the food. This behavior is an example of:
+W) Classical conditioning
+X) Migration
+Y) Insight learning
+Z) Visual communication
+
+----
+num: 11
+category: Physical Science
+difficulty: MS
+answer: W) Resistant to Compression
+
+All liquids ar e:
+W) Resistant to compression
+X) Highly viscous
+Y) Unable to accommodate the size of their containers
+Z) At a state of higher kinetic energy than any solids
+
+----
+num: 13
+category: Earth and Space
+difficulty: HS
+seen: 1
+answer: W) Helium
+
+Which of the following is NOT a greenhouse gas?
+W) Helium 
+X) Methane
+Y) Carbon dioxide
+Z) Water vapor
+
+----
+num: 13
+category: Life Science
+difficulty: MS
+answer: X) Has  an Exoskeleton
+
+If you touched a crawfish, you would notice that its body is hard. That is because the crawfish:
+W) Is an echinoderm
+X) Has an exoskeleton
+Y) Has an endoskeleton
+Z) Is an coelenterate
+
+----
+num: 13
+category: Life Science
+difficulty: MS
+answer: Z) Mitochondria
+
+
+In eukaryotic cells, where does cellular respiration take place?
+W) Nucleus
+X) Endoplasmic reticulum (read as: ri-TI-kyuh-luhm)
+Y) Ribosome (read as: RY-boh-sōem)
+Z) Mitochondria (read as: my-toh-KOHN-dree-ah)
+
+----
+num: 14
+category: Math
+difficulty: HS
+seen: 1
+answer: X) 7
+
+If 14 is a factor of the whole number x, which of the following also must be a factor of x?
+W) 4
+X) 7
+Y) 10
+Z) 28
+
+----
+num: 15
+category: Chemistry
+difficulty: HS
+seen: 1
+answer: X) Specific Gravity
+
+
+To calculate the pressure within a known volume of gas, which of the following pieces of information is NOT needed?
+W) Temperature
+X) Specific gravity
+Y) Moles of gas
+Z) Gas constant
+
+----
+num: 16
+category: Energy
+difficulty: MS
+answer: X) Mechanical Energy Possesses Energy Sto Red in Fuel
+
+Which of the following is NOT true about mechanical energy?
+W) Mechanical energy represents the sum of an object’s kinetic and potential energies in a mechanical system
+X) Mechanical energy possesses energy stored in fuel
+Y) Objects possess mechanical energy if they are in motion
+Z) An object that possesses mechanical energy is able to do work
+
+----
+num: 17
+category: Earth and Space
+difficulty: HS
+seen: 1
+answer: W) Pressure
+
+
+What quality is represented by isobars when looking at a weather map?
+W) Pressure
+X) Temperature
+Y) Cloud height
+Z) Water vapor content
+
+----
+num: 17
+category: General Science
+difficulty: MS
+answer: X) 380 -720
+
+Which of the following best describes the range in nanometers of wavelength for visible light?
+W) 240-630
+X) 380-720
+Y) 430-1160
+Z) 510-1090
+
+----
+num: 17
+category: General Science
+difficulty: MS
+answer: W) Orange
+
+
+Of the following colors, which one has the longest wavelength?
+W) Orange
+X) Blue
+Y) Yellow
+Z) Green
+
+----
+num: 18
+category: Biology
+difficulty: HS
+seen: 1
+answer: X) the Withdrawal Reflex
+
+When you touch a hot object and quickly draw your hand away, this is known as:
+W) The withdrawal impulse
+X) The withdrawal reflex
+Y) A reflexive habit
+Z) Learned withdrawal
+
+----
+num: 18
+category: Biology
+difficulty: HS
+answer: Z) Interneurons
+
+A withdrawal reflex is initiated by skin receptors that detect external stimuli. The sensory neurons then pass the message on to the spinal cord, where the sensory nerve terminals synapse with which of the following?
+W) Synaptic neurons
+X) Intersynapses
+Y) Sensory synapse
+Z) Interneurons
+
+----
+num: 18
+category: Physical Science
+difficulty: MS
+answer: Z) Gear
+
+Which of the following is NOT a simple machine?
+W) Pulley
+X) Wedge
+Y) Inclined plane
+Z) Gear
+
+----
+num: 18
+category: Physical Science
+difficulty: MS
+answer: Z) 600
+
+If you travel toward a loudspeaker playing a sound at 500 hertz, which of the following may be the frequency of sound you hear, in he rtz?
+W) 50
+X) 100
+Y) 500
+Z) 600
+
+----
+num: 19
+category: Earth and Space Science
+difficulty: MS
+answer: W) Limestone Is a Carbonate Rock Containing Only Calcium, While 
+Dolomite Contains Both Calcium and Magnesium
+
+
+Chemically, what is the difference between limestone and dolomite?
+W) Limestone is a carbonate rock containing only calcium, while dolomite contains both calcium and magnesium 
+X) Limestone is a carbonate rock containing only magnesium, while dolomite contains only calcium
+Y) Limestone is a carbonate rock containing both calcium and magnesium, while dolomite contains only calcium
+Z) Limestone is a carbonate rock containing only calcium, while dolomite contains only magnesiu m
+
+----
+num: 20
+category: Biology
+difficulty: HS
+seen: 1
+answer: Y) Chemical
+
+Adenosine triphosphate (ATP) and glucose are both examples of substances containing what kind of energy?
+W) Heat 
+X) Kinetic 
+Y) Chemical 
+Z) Mechanical
+
+----
+num: 20
+category: Math
+difficulty: MS
+answer: Z)  2
+
+Which of the following is NOT a rational number?
+W) 
+X) 0-1.5
+Z) Y) 1/3
+2
+
+----
+num: 20
+category: Math
+difficulty: MS
+answer: W) a Triangle Can Be Both Acute and Equil Ateral
+
+Which of the following statements is correct?
+W) A triangle can be both acute and equilateral
+X) A triangle can be both right and obtuse
+Y) A triangle can be both acute and right
+Z) A triangle can be both equilateral and right
+
+----
+num: 21
+category: Physics
+difficulty: HS
+answer: Z) Splitting Heavier Nuclei Into Lighter Nuclei
+
+What is the process by which nuclear fission produces energy?
+W) Combining lighter nuclei into heavier nuclei
+X) Increasing the number of protons a nucleus contains
+Y) Changing an electron's spin state following excitation
+Z) Splitting heavier nuclei into lighter nuclei
+
+----
+num: 21
+category: Physics
+difficulty: HS
+answer: W) the Fuels Needed for Fusion Reactions Are Expensive and 
+Difficult to Find
+
+
+Which of the following is NOT a challenge in using nuclear fusion as a controlled generator of power?
+W) The fuels needed for fusion reactions are expensive and difficult to find 
+X) Containing the reaction once it has started is difficult
+Y) Materials used to contain fusion reactions are affected by the high radiation levels
+Z) Extremely high temperatures are needed to start the reaction
+
+----
+num: 21
+category: Physical Science
+difficulty: MS
+answer: Z) Exothermic
+
+
+Which of the following reactions always releases heat?
+W) Spontaneous 
+X) Endothermic 
+Y) Decomposition
+Z) Exothermic
+
+----
+num: 22
+category: Earth and Space
+difficulty: HS
+seen: 1
+answer: X) Nickel
+
+The core of the Earth is primarily made of iron and which additional el ement?
+W) Mercury
+X) Nickel
+Y) Zinc
+Z) Barium
+
+----
+num: 22
+category: Life Science
+difficulty: MS
+answer: Z) Water
+
+Which of the following compounds is found in the greatest abundance in animals?
+W) Glucose
+X) Fatty acids 
+Y) Carbon dioxide
+Z) Water
+
+----
+num: 23
+category: Math
+difficulty: HS
+seen: 1
+answer: Y) 352
+
+
+Which of the following numbers is relatively prime with 15?
+X) 350W) 348
+Y) 352
+Z) 354
+
+----
+num: 24
+category: Energy
+difficulty: MS
+answer: X) 15
+
+Which of the following approximates the world’s total annual power demand in terawatts?
+W) 7
+X) 15
+Y) 40
+Z) 100
+
+----
+num: 24
+category: Energy
+difficulty: MS
+answer: X) 30
+
+By 2050, what is projected to be the world’s approximate total annual power demand in terawatts?
+W) 20
+X) 30
+Y) 40
+Z) 50
+
+----
+num: 25
+category: Physical Science
+difficulty: MS
+answer: Z) Dog Barks With Low Frequency Compared to High Frequency,
+Excited Dog Barks
+
+In which of the following comparisons would you least expect the speed of sound to change?
+W) Whale songs travelling through Arctic water compared to whale songs travelling through equatorial waters
+X) Sounds made at the surface of the ocean compared to sounds made at a depth of 100 meters
+Y) Frog calls made in the spring when its 4 degrees Celsius compared to calls made at 28 degrees Celsius
+Z) Dog barks with low frequency compared to high frequency, excited dog barks

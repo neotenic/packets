@@ -1,0 +1,224 @@
+####
+tournament: Fall Novice
+round: Packet 12.doc
+year: 2010
+####
+
+num: 1
+category: Trash
+difficulty: HS
+fixed: 1
+seen: 1035
+answer: {Spider}-{Man} [accept {Peter Parker}, either first or last name, before mention]
+
+One foe of this character was placed in charge of HAMMER during the “Dark Reign” storyline.  This character was once believed to be a clone of Ben Reilly. An alien lifeform rejected by this hero later became the villain Venom. After the murder of Gwen Stacy by the Green Goblin, this character married Mary Jane Watson. For 10 points, name this comic book superhero, the alter ego of former Daily Bugle photographer Peter Parker.
+
+----
+num: 2
+category: Philosophy
+difficulty: HS
+fixed: 1
+seen: 521
+answer: Jean-Paul Charles Aymard {Sartre}
+
+This man's essay “Search for a Method” introduces his Critique of Dialectical Reason, while one of his titles claims his philosophy is a Humanism. His concepts include “bad faith” and “being-in-itself.” This lover of the author of The Second Sex, Simone de Beauvoir, claimed that existence precedes essence in Being and Nothingness. “Hell is other people” is a quote by, for 10 points, what Frenchman whose plays such as No Exit show his existentialism?
+
+----
+num: 3
+category: Science
+difficulty: HS
+fixed: 57
+seen: 487
+answer: {Jupiter}
+
+This object has the largest number of known Trojan asteroids, and in 1994 it was hit by a comet discovered by and named for two amateur astronomers, Shoemaker-Levy 9. One feature on this planet orbits with a period of about six days; that hurricane-like storm in its southern hemisphere is known as the Great Red Spot. Its moons include Callisto, Europa, Io, and Ganymede. For 10 points, name this planet, the largest in the solar system.
+
+----
+num: 4
+category: Science
+difficulty: HS
+fixed: -1
+seen: 496
+answer: {intelligence} [prompt “{intelligence quotient}” or “{IQ}” before “{quotient}” is read]
+
+Spearman's g-factor is a generalized type of this, while “kinesthetic” and “naturalistic” are two of the “multiple” ones theorized by Howard Gardner. The average increase in its measurements over time is called the Flynn effect, and it is tested using the Stanford-Binet scale. The Turing test questions the “artificial” type among machines. For 10 points, name this property of the mind measured by a namesake “quotient,” often described in terms of aptitude or smarts.
+
+----
+num: 5
+category: Science
+difficulty: HS
+fixed: 57
+seen: 495
+answer: liquid
+
+In superheating, a substance remains in this phase past the usual point. On water's phase diagram, the coexistence line with this phase to the right has a negative slope, while it is usually located to the upper right of the triple point. This is not the initial or final phase in sublimation or deposition, and it can be formed by condensation. For 10 points, name this phase of matter with constant volume that takes on the shape of its container, created from solids by melting.
+
+----
+num: 6
+category: Fine Arts
+difficulty: HS
+fixed: 1
+seen: 494
+answer: Richard {Wagner}
+
+In one opera by this composer, Eva eventually goes to Walther, who becomes one of the title Mastersingers of Nuremberg. In another of his operas, the hero eventually saves Elsa. He composed Lohengrin and an opera that sees Sigfried rescue Brunnhilde from a ring of magic fire. That cycle contains Gotterdammerung  and a opera containing the Ride of The Valkyries. For 10 points, name this composer of the Ring cycle.
+
+----
+num: 7
+category: Science
+difficulty: HS
+fixed: 1
+seen: 491
+answer: {Brownian} motion [or {pedesis}]
+
+Richard Feynman proposed a way of obtaining energy from this phenomenon using a namesake “ratchet.” One of the papers from Einstein's “Annus Mirabilis” calculated displacement due to this phenomenon, which is caused by an imbalance in the force on a particle due to molecular collisions. It was first observed by its namesake Scottish botanist in a mixture of pollen and water. For 10 points, give this term for the random motion of suspended particles in a fluid.
+
+----
+num: 8
+category: History
+difficulty: HS
+fixed: 1
+seen: 413
+answer: Pope {John Paul II} [or Karol Jozef {Wojtyla}; prompt on “{John Paul}”, but not {John} or {Paul} individually]
+
+This man's attempted assassins included a member of the Grey Wolves, Mehmet Ali Agca. He opposed Gustavo Gutiérrez's liberation theology and told Eastern Europeans to “be not afraid” in criticizing Communism.  He published a new Catechism for his religion and, while opposing contraception and female priests, declared evolution compatible with Scripture in his 26 year tenure.  For 10 points, name this Polish Pope, the predecessor to incumbent Pope Benedict XVI.
+
+----
+num: 9
+category: History
+difficulty: HS
+fixed: 57
+seen: 416
+answer: {Henry} VIII
+
+This ruler met Francis I at the Field of the Cloth of Gold, and the Pilgrimage of Grace demanded that he fire minister Thomas Cromwell. This author of Defense of the Seven Sacraments earned the title Defender of the Faith, though Pope Clement VII excommunicated Archbishop Cranmer and this man after he became head of the Church of England and divorced Catherine of Aragon. For 10 points, name this English king for whom Anne Boleyn was the second of six wives.
+
+----
+num: 10
+category: Mythology
+difficulty: HS
+fixed: -1
+seen: 789
+answer: {Ra} [or {Re}; accept {Amun}-{Ra}, {Atum}-{Ra}, or {Ra}-Horakhty throughout; prompt “{Amun}” or “{Atum}” by themselves before those words are read, but don't accept them {alone} afterwards]
+
+This god used red beer to pacify his daughter after punishing mankind by turning his eye into that daughter, the lioness Sekhmet. His tears and sweat created mankind, and after being poisoned, he revealed his secret name to Isis. His enemy is the dark serpent Apep, and this deity, the grandfather of sky and earth gods Nut and Geb, is often conflated with Atum or Amun and travels the sky in a barge. For 10 points, name this sun god, the chief deity of ancient Egypt.
+
+----
+num: 11
+category: History
+difficulty: HS
+fixed: 57
+seen: 413
+answer: {Boston Massacre}
+
+Robert Treat Paine was a prosecutor of this event, for which just two men were convicted; other perpetrators, including Thomas Preston, were acquitted by Josiah Quincey and John Adams. One engraving of this event depicted neither thrown snowballs or African-American victim Crispus Attucks; that Paul Revere work incorrectly showed the aggressors in a line. For 10 points, name this 1770 incident in which British troops fired on a mob in a Massachusetts city.
+
+----
+num: 12
+category: Literature
+difficulty: HS
+fixed: 1
+seen: 446
+answer: Aristophanes
+
+This man wrote about a conflict between Cleon and a sausage seller in his play The Knights. In another play by this writer two characters try to build Cloud-cuckoo-land. This man wrote a play featuring a school headed by Socrates, The Thinkery, and the title character of another play convinces her fellow women to abstain from sex until their men stop fighting. For 10 points, identify this creator of Lysistrata, The Birds, and The Clouds, a comedic Athenian playwright.
+
+----
+num: 13
+category: History
+difficulty: HS
+fixed: 57
+seen: 420
+answer: {Zulu} [accept {Zulu Kingdom} or {Zululand}; or {amaZulu}; do not accept “{isiZulu}”, {their language}]
+
+Troops from this group's capital, Ulundi, were defeated by the 24th Foot at Rorke's Drift after their victory at Isandlwana. Massacred at Blood River by the Boers, this tribe's impi warriors used the assegai stabbing-spear, the buffalo horns formation, and football-shaped leather shields in their 1879 war against Britain. Notably led by Shaka, for 10 points, Shaka was an early leader of what kingdom in modern-day South Africa?
+
+----
+num: 14
+category: Science
+difficulty: HS
+fixed: 1
+seen: 486
+answer: the human {stomach} [do not accept “{animal stomach}” or {specific} names for {animal stomachs}]
+
+The antrum region of this organ is the common target of Helicobacter pylori. It can contract into folds called rugae, and its volume can range from forty-five milliliters to one liter. Its chief cells produce pepsin, while its parietal cells produce hydrochloric acid. For 10 points, name this organ located between the esophagus and small intestine on the digestive tract, in which the first stage of chemical digestion takes place.
+
+----
+num: 15
+category: History
+difficulty: HS
+fixed: -1
+seen: 419
+answer: Black Death [or Black {Plague} or {Great Plague} or {Great Pestilence}; prompt on “{plague},” “{bubonic plague},” or “{Yersinia pestis}”]
+
+One possible origin of this event was the Kipchak siege of Caffa. This event precipitated the murder of Jews who were accused of poisoning wells in Mainz, Cologne, and Strasbourg. The travelling Flagellants were a religious reaction to this event that widened after Mediterranean merchant ships were boarded by flea-infested rats. For 10 points, name this catastrophic disease that wiped out one- to two-thirds of Europe's population in the mid-1300s.
+
+----
+num: 16
+category: Literature
+difficulty: HS
+fixed: 57
+seen: 449
+answer: {Treasure Island}
+
+In this novel, a carriage accident takes the life of the blind Pew, and the narrator is injured by Israel Hands. The protagonist borrows a coracle from Ben Gunn. In this work, Dr. Livesay and Squire Trelawney embark on a voyage headed by Captain Smollett after the death of Billy Bones. One character escapes the Black Spot after revealing a certain map. For 10 points, what work by Robert Louis Stevenson is narrated by Jim Hawkins and tells of the pirate Long John Silver?
+
+----
+num: 17
+category: Fine Arts
+difficulty: HS
+fixed: 57
+seen: 493
+answer: James Abbott McNeil {Whistler}
+
+F.R. Leyland commissioned this man to create the Peacock Room, and he painted several depictions of the Old Battersea Bridge.  He painted Joanna Heffernan in a white dress in Symphony in White, no. 1.  He painted fireworks in the night sky in a painting that was heavily criticized by John Ruskin called Nocturne in Black and Gold.  For 10 points, name this artist, whose Arrangement in Grey and Black, no. 1 is more often called The Artist's Mother.
+
+----
+num: 18
+category: Geography
+difficulty: HS
+fixed: 1
+seen: 716
+answer: Commonwealth of {Australia}
+
+The Tanami Desert in this country borders its Kimberley Region, while the lowest point is its largest lake, Lake Eyre. In the southeastern portion of this country two rivers form part of the Murray-Darling Basin. This nation is separated from a nation to the north by the Torres Strait, and it is also home to Ayers Rock. For 10 points, name this country whose states include Victoria and Queensland, which has cities like Perth and its capital, Canberra.
+
+----
+num: 19
+category: Literature
+difficulty: HS
+fixed: 1
+seen: 454
+answer: {O. Henry} [accept William Sydney {Porter}]
+
+The title character of one of this author's short stories annoys his captors Bill Driscoll and Sam Howard, who eventually return him to Ebenezer Dorset. In addition to “The Ransom of Red Chief,” this author wrote a short story in his collection The Four Million in which Della  looks at herself in a pierglass. That story sees her buy a fob after selling her hair, and Jim selling his watch to buy her a comb. For 10 points, name this author of “The Gift of the Magi.”
+
+----
+num: 19
+category: Literature
+difficulty: HS
+fixed: 1
+seen: 442
+answer: O. {Henry} [accept William Sydney {Porter}]
+
+The title character of one of this author's short stories annoys his captors Bill Driscoll and Sam Howard, who eventually return him to Ebenezer Dorset. In addition to “The Ransom of Red Chief,” this author wrote a short story in his collection The Four Million in which Della  looks at herself in a pierglass. That story sees her buy a fob after selling her hair, and Jim selling his watch to buy her a comb. For 10 points, name this author of “The Gift of the Magi.”
+
+----
+num: 20
+category: Literature
+difficulty: HS
+fixed: 57
+seen: 439
+answer: Hermann {Hesse}
+
+One of this author's novels centers on Joseph Knecht's life in Castalia. In one novel by this writer of The Glass Bead Game, the courtesan Kamala teaches the ways of love to the title character, the childhood friend of the monk Govinda. In another of his novels, the saxophonist Pablo brings a character to the Magic Theatre. That character  kills Hermine there and is named Harry Haller. For 10 points, name this German writer who wrote Siddhartha and Steppenwolf.
+
+----
+num: 21
+category: Science
+difficulty: HS
+fixed: 57
+seen: 489
+answer: {gymnosperms}
+
+Though not a kingdom or a domain, this taxon contains a division that includes only one species, biloba. That species produces ovules that smell like rancid butter and is known as a “living fossil” due to its lack of living relatives. This group includes Gnetophyta, Ginkgophyta, and Cycadophyta, as well as plants which feature needlelike leaves and cones. For 10 points, name this plant taxon containing the conifers, often contrasted with the angiosperms.

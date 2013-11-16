@@ -1,0 +1,385 @@
+####
+tournament: #6588
+round: Show #6588 - Wednesday, April 17, 2013
+year: 2013
+date: 2013-04-17
+####
+
+num: 1
+category: Literature
+difficulty: 200
+seen: 4
+answer: Horton
+
+A town of Whos is saved from certain death by beezle-nut juice due to the heroics--& keen hearing--of this title elephant.
+
+----
+num: 2
+category: History
+difficulty: 200
+seen: 5
+answer: Enron
+
+December 2, 2002:.
+
+----
+num: 3
+category: Literature
+difficulty: 200
+seen: 4
+answer: a hedgehog
+
+Intrepid insectivore seen.
+
+----
+num: 4
+category: Trash
+difficulty: 200
+seen: 6
+answer: Alfred Hitchcock
+
+Good evening... in a 2012 film Anthony Hopkins portrayed this rotund director at the height of his scary powers.
+
+----
+num: 5
+category: History
+difficulty: 200
+seen: 5
+answer: free trade
+
+2-word term for international commerce without restrictive tariffs.
+
+----
+num: 6
+category: Literature
+difficulty: 400
+seen: 4
+answer: Sam-I-Am
+
+"A train!  A train!  Could you, would you, on a train?" he screamed about green eggs & ham; today, he gets a restraining order.
+
+----
+num: 7
+category: History
+difficulty: 400
+seen: 4
+answer: Hostess
+
+January 11, 2012:.
+
+----
+num: 8
+category: Literature
+difficulty: 400
+seen: 4
+answer: a ledger
+
+A book in which financial accounts are recorded.
+
+----
+num: 9
+category: Trash
+difficulty: 400
+fixed: -1
+seen: 5
+answer: Snoop Dogg
+
+In 2012 this rapper turned to reggae & changed his name from canine to feline.
+
+----
+num: 10
+category: History
+difficulty: 400
+seen: 4
+answer: an Iron Curtain
+
+In 1946 this was described as having descended "from Stettin in the Baltic to Trieste in the Adriatic".
+
+----
+num: 11
+category: Literature
+difficulty: 400
+seen: 3
+answer: whip
+
+A cat-o'-nine-tails, for example.
+
+----
+num: 12
+category: Literature
+difficulty: 600
+seen: 4
+answer: the Cat in the Hat
+
+A home invasion by this title animal traumatizes 2 kids & a fish, left alone by a mom who may be facing neglect charges herself.
+
+----
+num: 13
+category: History
+difficulty: 600
+seen: 4
+answer: Washington Mutual
+
+September 26, 2008:.
+
+----
+num: 14
+category: Literature
+difficulty: 600
+seen: 4
+answer: a sledgehammer
+
+This pounding tool takes 2 hands to operate.
+
+----
+num: 15
+category: History
+difficulty: 600
+seen: 4
+answer: (John) Allen
+
+This successor to David Petraeus leading intl. forces in Afghanistan is an admired general & skilled e-mailer.
+
+----
+num: 16
+category: Literature
+difficulty: 600
+seen: 3
+answer: the beat
+
+To keep the band in time, it's what a good drummer tries to "keep".
+
+----
+num: 17
+category: Literature
+difficulty: 800
+seen: 4
+answer: Yertle the Turtle
+
+A big scare "on the far-away island of Sala-ma-Sond" today, as this "king of the pond" fell & nearly became a shell of himself.
+
+----
+num: 18
+category: Literature
+difficulty: 800
+seen: 4
+answer: edgewise
+
+In conversation with a Gabby Gus, it may be hard to "get a word in" this way.
+
+----
+num: 19
+category: Trash
+difficulty: 800
+seen: 4
+answer: the Dog Whisperer (Cesar Millan)
+
+TV personality seen.
+
+----
+num: 20
+category: History
+difficulty: 800
+seen: 4
+answer: the Organization of American States
+
+Abbreviated O.A.S., it promotes cooperation & commerce between American nations.
+
+----
+num: 21
+category: Literature
+difficulty: 800
+seen: 5
+answer: grate
+
+To get on another's nerves persistently.
+
+----
+num: 22
+category: Literature
+difficulty: 1000
+seen: 4
+answer: Mulberry Street
+
+The witness, a boy named Marco, initially claimed to have seen a zebra pulling a cart on this title street but later recanted.
+
+----
+num: 23
+category: Literature
+difficulty: 1000
+seen: 4
+answer: sedge
+
+A grasslike plant that grows in wet areas.
+
+----
+num: 24
+category: Trash
+difficulty: 1000
+seen: 5
+answer: Mötley Crüe
+
+In 1987 Nikki Sixx of this band was declared dead, got 2 adrenaline shots & hitchhiked home from the hospital.
+
+----
+num: 25
+category: Literature
+difficulty: 1000
+seen: 4
+answer: stir
+
+To be "in" here means to be in prison.
+
+----
+num: 26
+category: Literature
+difficulty: 400
+seen: 3
+answer: the Wright Brothers
+
+In 1901 they built a wind tunnel in their Dayton bicycle shop using a wooden starch box & a fan.
+
+----
+num: 27
+category: Literature
+difficulty: 400
+seen: 4
+answer: climate change
+
+Bill McKibben got us hot & bothered with "The End of Nature", the first book for general readers about this type of "change".
+
+----
+num: 28
+category: Art
+difficulty: 400
+seen: 5
+answer: a ribbon
+
+Tony Orlando wanted a yellow one tied "round the ole oak tree".
+
+----
+num: 29
+category: Literature
+difficulty: 400
+fixed: -1
+seen: 4
+answer:  cookie
+
+Pat Sajak's show joins an after-Chinese dinner treat.
+
+----
+num: 30
+category: Literature
+difficulty: 800
+seen: 4
+answer: the Alps
+
+In 1910 Jorge Chavez became the first to fly over these mountains; he made it to the Italian side but fatally crashed.
+
+----
+num: 31
+category: Literature
+difficulty: 800
+seen: 4
+answer: (Dr.) Spock
+
+His "Baby and Child Care" has sold more than 50 million copies worldwide.
+
+----
+num: 32
+category: Art
+difficulty: 800
+seen: 4
+answer: a yellowjacket
+
+In warmer regions, nests of this wasp species named for the coloring on its abdomen may weigh half a ton.
+
+----
+num: 33
+category: Literature
+difficulty: 800
+seen: 3
+answer: hat trick-or-treat
+
+I'll score 3 goals in a game if you don't give me some Halloween candy.
+
+----
+num: 34
+category: Literature
+difficulty: 1200
+seen: 4
+answer: Charles Rolls
+
+In 1910 this man, the first name in a British auto firm, became the first to fly nonstop across the English Channel & back.
+
+----
+num: 35
+category: Art
+difficulty: 1200
+seen: 3
+answer: saffron
+
+Paella gets that special yellow tinge from this spice.
+
+----
+num: 36
+category: Literature
+difficulty: 1200
+seen: 4
+answer: Saint Paul Simon
+
+One of the Twin Cities puts out a single, singing "Loves Me Like A Rock".
+
+----
+num: 37
+category: Literature
+difficulty: 1600
+seen: 5
+answer: a helicopter
+
+Sikorsky Aircraft, named for a pioneer in this type of aircraft, still makes them, including the Seahawk.
+
+----
+num: 38
+category: Literature
+difficulty: 1600
+seen: 4
+answer: Hull House
+
+Jane Addams recounted her community activism in "Twenty Years at" this location.
+
+----
+num: 39
+category: Art
+difficulty: 1600
+seen: 4
+answer: jaundice
+
+Part of yellow fever is the buildup of yellow bile pigments in the skin, this condition.
+
+----
+num: 40
+category: Literature
+difficulty: 1600
+seen: 4
+answer: sudden death warrant
+
+A type of sports overtime becomes more serious as a document that sets an execution date.
+
+----
+num: 41
+category: Literature
+difficulty: 2000
+seen: 5
+answer: (de) Tocqueville
+
+This Frenchman had good things to say about us in his 1835-40 work "Democracy in America".
+
+----
+num: 42
+category: Literature
+difficulty: 2000
+seen: 5
+answer: Jesse James Carville
+
+Legendary 19th c. Missouri outlaw who went straight into politics & married Mary Matalin.

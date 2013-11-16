@@ -1,0 +1,383 @@
+####
+tournament: #6460
+round: Show #6460 - Friday, October 19, 2012
+year: 2012
+date: 2012-10-19
+####
+
+num: 1
+category: History
+difficulty: 200
+seen: 5
+answer: Amelia Earhart
+
+She was last seen in a twin-engine Lockheed Electra in July 1937.
+
+----
+num: 2
+category: Trash
+difficulty: 200
+seen: 6
+answer: Carrie Fisher
+
+Most famous as Princess Leia, she had a one-woman stage show called "Wishful Drinking".
+
+----
+num: 3
+category: Art
+difficulty: 200
+seen: 5
+answer: a hope chest
+
+This container is so named because it's where young women keep linens & such in anticipation of marriage.
+
+----
+num: 4
+category: History
+difficulty: 200
+seen: 5
+answer: Sooners
+
+This nickname for Oklahomans stems from those who jumped the homesteading starting gun in 1889.
+
+----
+num: 5
+category: History
+difficulty: 400
+seen: 4
+answer: the Bermuda Triangle
+
+The first recorded disappearance of a U.S. ship in this area of the Atlantic was the USS Cyclops in March 1918.
+
+----
+num: 6
+category: Art
+difficulty: 400
+seen: 3
+answer: glass
+
+Made mainly of this material, a vitrine is a showcase where memorabilia can be kept.
+
+----
+num: 7
+category: History
+difficulty: 400
+seen: 4
+answer: wheat
+
+It's Oklahoma's leading crop & is especially big in the north, near the Kansas border.
+
+----
+num: 8
+category: Literature
+difficulty: 400
+seen: 3
+answer: commute
+
+Drive in from the burbs.
+
+----
+num: 9
+category: History
+difficulty: 600
+seen: 5
+answer: Pompeii
+
+One minute in 79 A.D., you're this city of 10-20,000; post-Vesuvius, you're a UNESCO World Heritage Site.
+
+----
+num: 10
+category: Art
+difficulty: 600
+seen: 4
+answer: wardrobe
+
+A freestanding closet fitted with hooks & bars for hanging clothes, or the clothes that go into one.
+
+----
+num: 11
+category: History
+difficulty: 600
+seen: 4
+answer: the Cherokee
+
+Tahlequah, Oklahoma is the tribal capital of this Native American nation.
+
+----
+num: 12
+category: History
+difficulty: 800
+seen: 4
+answer: the 
+
+Pieces of arms were found with this statue on a Greek island in 1820.
+
+----
+num: 13
+category: Trash
+difficulty: 800
+seen: 5
+answer: Helena Bonham Carter
+
+She played Bellatrix Lestrange in the "Harry Potter" films & the Red Queen in "Alice in Wonderland".
+
+----
+num: 14
+category: Art
+difficulty: 800
+seen: 4
+answer: a vanity
+
+"Fair" enough-- this dressing table has a mirror & a compartment where milady can keep her cosmetics.
+
+----
+num: 15
+category: History
+difficulty: 800
+seen: 4
+answer: (Will) Rogers
+
+This humorist & native son lends his name to Oklahoma City's main airport.
+
+----
+num: 16
+category: Literature
+difficulty: 800
+seen: 4
+answer: salute
+
+In a proper one of these, the forefinger touches the hat just to the right of the right eye.
+
+----
+num: 17
+category: History
+difficulty: 1000
+seen: 4
+answer: Roanoke
+
+In August of 1590 2 words carved on trees--Croatoan & Cro--were the last traces of the 100 colonists on this island.
+
+----
+num: 18
+category: Literature
+difficulty: 1000
+seen: 4
+answer: Tom Robbins
+
+Thumbs up for his "Even Cowgirls Get The Blues", which tells of a female hitchhiker with enormous thumbs.
+
+----
+num: 19
+category: Trash
+difficulty: 1000
+seen: 4
+answer: Ingrid Bergman
+
+This Swedish actress won an Emmy & a Golden Globe for her portrayal of Golda Meir.
+
+----
+num: 20
+category: History
+difficulty: 1000
+seen: 4
+answer: Norman
+
+The National Weather Service's storm prediction center is in this city, also home to the University of Oklahoma.
+
+----
+num: 21
+category: Literature
+difficulty: 1000
+seen: 4
+answer: brute
+
+Jekyll calls Hyde this type of rough fellow "that slept within me".
+
+----
+num: 22
+category: History
+difficulty: 400
+seen: 4
+answer: Spain
+
+In 1763 England received Florida from this country in exchange for Havana.
+
+----
+num: 23
+category: History
+difficulty: 400
+seen: 4
+answer: cancer
+
+A 2011 Pulitzer went to "The Emperor Of All Maladies: A Biography Of" this disease.
+
+----
+num: 24
+category: Literature
+difficulty: 400
+seen: 4
+answer: Westminster Abbey
+
+This London landmark is the final resting place of 17 monarchs.
+
+----
+num: 25
+category: Literature
+difficulty: 400
+seen: 4
+answer: freight
+
+Rather than passengers, a train may be carrying this, goods ranging from coal to cucumbers.
+
+----
+num: 26
+category: History
+difficulty: 400
+seen: 4
+answer: Ecuador
+
+.ec represents this country; one of its neighbors has .pe.
+
+----
+num: 27
+category: History
+difficulty: 800
+seen: 4
+answer: New Jersey
+
+This colony & New York shared the same governor until 1738, when Lewis Morris was named its governor.
+
+----
+num: 28
+category: History
+difficulty: 800
+seen: 4
+answer: Al-Qaeda
+
+"The Looming Tower" examines this terrorist group & "The Road To 9/11".
+
+----
+num: 29
+category: Literature
+difficulty: 800
+seen: 3
+answer: postage
+
+Send me those shoes pronto; I'll pay the P&H, this "& handling".
+
+----
+num: 30
+category: History
+difficulty: 1200
+seen: 4
+answer: James Monroe
+
+In a 1789 Congressional race in Virginia, James Madison defeated this future president by 336 votes.
+
+----
+num: 31
+category: History
+difficulty: 1200
+seen: 4
+answer: (Carl) Sagan
+
+This astronomer nabbed the prize in 1978 for "The Dragons Of Eden".
+
+----
+num: 32
+category: Literature
+difficulty: 1200
+seen: 4
+answer: Dublin
+
+St. Mary's Abbey in this city lent its name to a theater that W.B. Yeats helped run.
+
+----
+num: 33
+category: Literature
+difficulty: 1200
+seen: 4
+answer: deadpan
+
+A facial expression that's basically no expression; Buster Keaton was famous for it.
+
+----
+num: 34
+category: History
+difficulty: 1200
+seen: 4
+answer: St. Helena
+
+.sh is the domain extension for this place, the final home of a famous exile.
+
+----
+num: 35
+category: History
+difficulty: 1600
+seen: 4
+answer: the Shakers
+
+In 1774 Mother Ann Lee brought this religious sect known for its furniture to America from England.
+
+----
+num: 36
+category: Literature
+difficulty: 1600
+seen: 5
+answer: Benedictine
+
+The legend of this liqueur says a monk invented it in 1510 at he Abbey of Fecamp.
+
+----
+num: 37
+category: Literature
+difficulty: 1600
+seen: 5
+answer: a barbell
+
+It's the main piece of equipment in the clean & jerk.
+
+----
+num: 38
+category: History
+difficulty: 1600
+seen: 5
+answer: Macao
+
+We bet you know .mo is the domain for this Asian gambling haven.
+
+----
+num: 39
+category: History
+difficulty: 2000
+seen: 5
+answer: the finch
+
+Jonathan Weiner told "The Story of Evolution" in "The Beak of" this bird.
+
+----
+num: 40
+category: Literature
+difficulty: 2000
+seen: 5
+answer: Tintern Abbey
+
+"On the banks of this delightful stream / we stood together" are Wordsworth "lines composed a few miles above" here.
+
+----
+num: 41
+category: Literature
+difficulty: 2000
+seen: 6
+answer: a grommet
+
+It's the metal ring seen.
+
+----
+num: 42
+category: History
+difficulty: 2000
+seen: 6
+answer: Chad
+
+This Central African country's websites are at .td; its name in French has a "T" before the "CH".

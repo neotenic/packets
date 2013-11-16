@@ -1,0 +1,214 @@
+####
+tournament: ACF Regionals
+round: 2007 ACF Regionals - Brown A.doc
+year: 2007
+####
+
+num: 1
+category: History
+difficulty: College
+fixed: None
+seen: 69
+answer: {Henry} I (prompt on partial answer and “{Lion} of {Justice}”)
+
+This ruler's reign was preserved early on by the Treaty of Alton, and he took Adela of Louvain as his second wife.  He supposedly pushed Conan Pilatus off the Tower of Rouen, leading to its designation as Conan's Leap.  After being victorious at the Battle of Tinchebrai, he introduced pipe rolls and the office of the justiciar, first manned by Roger Salisbury.  He aimed to relieve oppression by “unjust exaction” in issuing the Charter of Liberties.  Tragedy struck when his only legitimate son died on the White Ship and, despite the marriage of his daughter Matilda, he was succeeded by Stephen of Blois.  Known as the “Lion of Justice,” FTP, name this king of England from 1100-1135 CE succeeding William II.
+
+----
+num: 2
+category: Science
+difficulty: College
+fixed: 57
+seen: 78
+answer: {Precession}
+
+For a classical charged particle interacting with an electromagnetic field, this behavior can be derived from the Bargmann-Michel-Telegdi equation. Relativistic time dilation as a correction to spin-orbit coupling is the known as the Thomas variety, while the third Milankovitch cycle is a manifestation of this behavior on Earth. NMR is made possible by the Larmor variety, which concerns the behavior of dipoles in an applied magnetic field, and perturbations in this type of motion cause an up-and-down bobbing motion called nutation.  FTP name this phenomenon, the change in direction of the axis of a rotating object.
+
+----
+num: 3
+category: Social Science
+difficulty: College
+fixed: 57
+seen: 48
+answer: {Phillips} curve
+
+Richard Lipsey developed it in a broader context, clarifying the adjustment function. Robert Solow and Paul Samuelson found that it also held in the United States and made it relevant to policymakers by introducing mark-up pricing. Edmund Phelps and Milton Friedman questioned its stability in the long run, arguing that the government could not maintain a permanent tradeoff between the two quantities in question, disagreeing with the findings made in the article “Analytics of Anti-Inflation Policy” with their view of the natural-rate hypothesis.  FTP, name this relationship depicting the inverse relation between the rate of unemployment and the rate of change of money wages in a certain curve.
+
+----
+num: 4
+category: History
+difficulty: College
+fixed: 1
+seen: 72
+answer: Fred {Korematsu} v. {United States}
+
+Felix Frankfurter's concurrence concluded with the line “that is their business, not ours”, but Justice Frank Murphy's dissent cited House Report no. 2124. Justice Roberts also dissented, noting that the petitioner had been faced with contradictory orders, while Hugo Black's majority opinion cited Blockburger v. US in support of treating the refusal to obey the orders in question, including Order no. 34, as separate offences.However, Black justified the decision on the basis of "pressing public necessity" and military prudence, rather than racism. Arising from Executive Order no. 9066, for ten points, identify this 1944 Supreme Court decision that upheld the constitutionality of Japanese internment during World War II.
+
+----
+num: 5
+category: Literature
+difficulty: College
+fixed: None
+seen: 59
+answer: The {Night} of the {Iguana}
+
+The end of this play includes a Nazi Marching Song sung by the Fahrenkopf family as they approach the central setting.  One character claims that he is made of “Indian rubber,” but his “ninety-seven year young” body slips on the ground.  That character, Nonno, finally finishes his poem and recites it to his granddaughter Hannah Jelkes.  This play's protagonist is dismissed from Blake Tours, allowing him to stay at the Costa Verde hotel run by Maxine.  FTP, name this play by Tennessee Williams whose third act sees Reverend T. Lawrence Shannon release the title lizard.
+
+----
+num: 6
+category: Science
+difficulty: College
+fixed: None
+seen: 79
+answer: {DMSO} (or Dimethyl Sulfoxide before mentioned)
+
+Dr. Octopus once tried to use a mixture of poisonous ink and a derivative of this to kill the readership of the Daily Bugle. Stanley Jacob discovered that it could be used to carry biological compounds deep into tissue, and it is often used as a topical analgesic. In the first step of the Swern oxidation, one molecule of it reacts with a molecule of oxalyl chloride, forming an intermediate that decomposes and is attacked by an alcohol. The deuterated variety is a common solvent in proton NMR. It can be added to a PCR reaction mixture to pry apart G-C rich templates more easily, and is an excellent solvent for the Williamson ether synthesis and SN2 reactions in general. With chemical formula C2H6SO, FTP name this polar aprotic solvent that easily seeps through skin, whose abbreviation stands for dimethyl sulfoxide.
+
+----
+num: 7
+category: History
+difficulty: College
+fixed: -1
+seen: 72
+answer: The {Six}-{Day} War or the {June} War or the {Third Arab}-{Israeli} War (accept {1967 Arab}-{Israeli War} until {1967} is read)
+
+In 2003, Isabella Ginor published an analysis of documents suggesting that this conflict was instigated by the Soviet Union, and in 1995, Areyh Yitzakhi accused one party in this conflict of killing 1000 prisoners of war.  The conflict began with a preemptive air strike dubbed Operation Focus, and it officially ended with UN Resolution 242, although the victor still hasn't fulfilled the resolution's directive to give up the Golan Heights.  FTP, name this 1967 conflict between Israel and an alliance of Syria, Iraq, Jordan, and Egypt that saw the seizure of the Gaza Strip and West Bank in just under a week.
+
+----
+num: 8
+category: Science
+difficulty: College
+fixed: 57
+seen: 83
+answer: {Stack}
+
+These structures are used in solving the cycle detection problem because the solving algorithm halts on the second detection of the smallest value of a sequence. A slotted channel is used in an algorithm employing these structures in collision resolution, and they are also used in LRU page-management. They are used in a method of memory allocation contrasted with heap-based allocation, and to implement reverse Polish notation calculators. The SP and SS registers on the Intel x86 architecture are used to implement this data structure first proposed by Friedrich Bauer. Containing two basic operations for adding and removing data, push and pop, FTP, identify these last-in-first-out data structures.
+
+----
+num: 9
+category: History
+difficulty: College
+fixed: None
+seen: 69
+answer: {Joseph S. Nye}, {Jr.}
+
+During the 2004 Presidential election, he was seen as the most likely pick for John Kerry's National Security Advisor. One of his early works, a collaboration with Robert Keohane, championed the idea that international relations cannot be analyzed on a state to state basis, an idea called complex interdependence.  In later works, he argues that the US must maintain its hegemony not by military might or economic incentives as in the neorealist view, but by diplomacy and noncoercive means, or “soft power.”  The author of Power and Interdependence and The Paradox of American Power¸ FTP, name this current Kennedy School of Government professor, the founder of the IR theory of neoliberalism.
+
+----
+num: 10
+category: Literature
+difficulty: College
+fixed: None
+seen: 61
+answer: {John Claggart}
+
+The features of this character's face are all cut as those on a Greek medallion, barring his chin that resembles that of Reverend Dr. Titus Oates. Thick black blood oozes from his face of pallid complexion upon his death, leading his superior to exclaim that his body “is the divine judgment on Ananias!” He states that “a mantrap may be under the ruddy-tipped daisies” when informing his superior about the conspiracy of the “Handsome Sailor,” but a confrontation with the foretopman earns himself a fatal blow to the forehead. A death sentence for the title character comes with the death of, for ten points, which master-at-arms of the Bellipotent in Herman Melville's “Billy Budd”?
+
+----
+num: 11
+category: Trash
+difficulty: College
+fixed: 57
+seen: 186
+answer: {Adamantium} (accept The {Blood} of {Chuck Norris} or equivalents)
+
+Arkady Rossovich was infused with a cheaper variant of it by the Soviet Union, and others who use it include the assassin Yuriko Oyama.  The formula is a top-secret government recipe, and one use of it was jointly developed by Lord Dark Wind and Dr. Abraham Cornelius, and later used on Laura Kinney during her childhood in captivity.  This same excruciatingly painful process was used on James Howlett during a secret Department H initiative, and he bears both the scars and positive effects to this day. Quite malleable when liquid but indestructible when cooled, FTP, name this fictional metal of the Marvel Comics universe bonded to the skeleton of Wolverine.
+
+----
+num: 12
+category: Fine Arts
+difficulty: College
+fixed: None
+seen: 69
+answer: “{Emperor Concerto}” or {Beethoven's Piano Concerto No. 5} [{require} “Beethoven” before mention]
+
+In this work's long first movement, the first of the three opening orchestral chords oddly lacks a B flat note, and each chord is followed by a short cadenza.  Its second movement, in B major, ends with a long pedal point beginning with the French horns that sees a semitone drop from B major to B flat on the bassoon lead directly into the third movement, which is back in E flat major.  Its Vienna premier featured the composer's student Carl Czerny as the soloist, due to the composer's deafness.  FTP name this work for solo keyboard instrument and orchestra, the last such work written by Ludwig van Beethoven.
+
+----
+num: 13
+category: Literature
+difficulty: College
+fixed: -1
+seen: 62
+answer: {Giambattista Vico} ({Giovanni Battista Vico})
+
+Early in life, he composed a poem entitled “The Feelings of One in Despair,” but soon set about his career with such works as an exhaustive tome recently translated as Universal Right. He begins one work with a “frontspiece” entitled “The Idea of the Work,” and spends book one “Establishing Principles.” That book by this author of The Art of Rhetoric was translated by Jules Michelet and contains a “Discovery of the True Homer” as well as a distinction between poetic and philosophical wisdom, which transitions into his thesis that all nations pass through ages of gods, heroes, and men. FTP, name this Italian philosopher and historian, author of The New Science.
+
+----
+num: 14
+category: Science
+difficulty: College
+fixed: None
+seen: 80
+answer: {hyphae} (before “extension of the terminal cell,” accept {mycelium} or {mycelia} and prompt on septum or septa)
+
+Electron dense spheres known as Woronin bodies sometimes block pores in the dividing walls of these structures.  They grow by extension of the terminal cell, which involves dissolution of the old and formation of a new wall, or septum.  They can specialize to form reproductive structures known as conidiophores, or aggregate to locate resources beyond a zone of depletion, forming rhizomorphs.  They can also invaginate plant cells in the form of haustoria, transferring organic carbon to the rest of the thallus.  FTP name these tubular structures that form a network known as the mycelium in many fungi.
+
+----
+num: 15
+category: Mythology
+difficulty: College
+fixed: 1
+seen: 116
+answer: Thor
+
+He created a new star while carrying Aurvandil the Brave on his back when he broke off Aurvandil's frozen toe and threw it into the heavens, and he created two more stars from the eyes of Alvaldi's son.  He suffers whenever a hone is thrown across the floor, as he still has a hone stuck in his forehead from his duel against Mist Calf and Hrungnir.  He killed Geirrod with the help of Grid, who loaned him a staff, iron gloves and a belt of strength.  Residing in the hall Bilskirnir with his wife Sif, FTP name this Norse god who wields the short-handled hammer Mjöllnir.
+
+----
+num: 16
+category: Science
+difficulty: College
+fixed: 1
+seen: 80
+answer: John {von Neumann} or Margittai Neumann János {Lajos}
+
+This man proposed the axiom of foundations and introduced the idea of a proper class to resolve Russell's Paradox. His work on Hilbert's Sixth Problem led him to axiomatize quantum mechanics by viewing physical quantities as operators in a Hilbert space, and with Bernays and Godel he gives his name to a set theory equivalent to Zermelo-Frankel. He proved the minimax theorem characterizing zero-sum games with perfect information, and the equivalence of cellular automata and Turing machines.  In a report on the EDVAC, he introduced a namesake computer architecture. Responsible for introducing backwards induction in Theory of Games and Economic Behavior, FTP identify this Hungarian-born mathematician.
+
+----
+num: 17
+category: Literature
+difficulty: College
+fixed: 1
+seen: 58
+answer: Karen {Blixen} (accept Isak {Dinesen})
+
+Four strangers tell their life stories while waiting for rescue in a hayloft in this author's story “The Deluge at Noderney, and the widow Anne-Marie Kiil dies after mowing an entire field of rye in one day to free her son in this author's story “Sorrow-Acre.”  She published her earliest fiction in a newspaper under the pen name “Osceola” and took the pseudonym Pierre Andrezel for her only full-length novel, The Angelic Avengers.  She adopted another pseudonym for other works, including one set primarily at the foot of the Ngong Hills that depicts her life as the owner of a coffee plantation in Kenya.  FTP, name this Danish author of Seven Gothic Tales and Out of Africa.
+
+----
+num: 18
+category: History
+difficulty: College
+fixed: 57
+seen: 81
+answer: U.S. Presidential Election of {1948}
+
+Vice presidential candidates in this election included Mississippi governor Fielding Wright and Ohio senator Glen Taylor. Prior to this election, Harold Stassen won several key primaries but he lost the nomination bid to a former New York special prosecutor. While the eventual losing candidate avoided controversy which such phrases as, “You know that your future is still ahead of you,” the Democratic nominee challenged the “Do-Nothing” Congress to pass its own laws on “Turnip Day,” spurring him to a victory that saw the potential ruin of George Gallup. For ten points, identify this election, notorious for a false newspaper announcement that Thomas Dewey had defeated Harry Truman's bid for a second term.
+
+----
+num: 19
+category: Literature
+difficulty: College
+fixed: 57
+seen: 61
+answer: The {Sorrows} of Young {Werther}
+
+At one point in this work, the title character reveals his hope of spending his life alone, passing time drinking good coffee and reading the works of Homer.  The protagonist works for a young prince after failing to enter the army.  This occurs after he resigns the position secured for him by Wilhelm.  After returning to Walheim, Albert's wife asks the protagonist to read Ossian to her.  In a section entitled "The Editor to the Reader," a neighbor reports the flash of two pistols brought to the protagonist by his servant.  Ending with the title character's suicide due to his obsession with Charlotte, FTP name this Goethe novel.
+
+----
+num: 20
+category: Literature
+difficulty: College
+fixed: -1
+seen: 60
+answer: The {Shakers} or {United Society} of {Believers} in {Christ's Second Coming}
+
+An unrelated Indian group with this name was founded in 1881 by John Slocum, who believed that he had visited heaven in a coma.  This group had its origins in the work of Jane and James Wardley, and Richard McNemar wrote the earliest defense of this group's ideals, the 1807 Kentucky Revival.  Some of their characteristics may have been adopted from the Camisards.  Joseph Meachem and Lucy Wright instituted their rules of social organization, including communal living and celibacy. One of their communities is located in Sabbathday Lake Village, Maine.  One member wrote "by turning, turning we come round right," in the poem "Simple Gifts." FTP name this Quaker sect founded by Mother Ann Lee.
+
+----
+num: 21
+category: Fine Arts
+difficulty: College
+fixed: None
+seen: 72
+answer: {Where} Do {We Come} From? {What} Are {We? Where} Are {We Going?} or D'où {venons nous? Que sommes nous? Où allons nous?}
+
+Animals that can be seen in this painting include a black dog on the far right and a white bird at the feet of a woman in the lower left corner. Currently residing in the Museum of Fine Arts in Boston, it was called its creator's “testament” as he planned to commit suicide upon its completion. This painting features three women with a child on the right, a youth taking fruit from a tree and two women talking about destiny in the middle, and a blue statue on the left background while an old woman approaches death. Its artist believed this work, one of his works done in Tahiti, should be read from right to left to symbolize the progression from birth to death. FTP, identify this painting by Paul Gauguin whose title consists of three questions.

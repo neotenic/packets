@@ -1,0 +1,262 @@
+####
+tournament: Question Set C
+round: Round-5C-MS.pdf
+####
+
+num: 1
+category: General Science
+difficulty: MS
+seen: 6
+answer: 12.0
+
+Giving your answer in liters and rounded to the first decimal place, what volume of fluid results after adding 3,400 milliliters of solution A and 34 deciliters of solution B to 5.2 liters of water?
+
+----
+num: 2
+category: Life Science
+difficulty: MS
+seen: 11
+answer: Fleas
+
+Which one of the following 5 organisms is LEAST related to the others: mites; spiders; scorpions; fleas; ticks
+
+----
+num: 3
+category: Physical Science
+difficulty: MS
+seen: 4
+answer: 1
+
+What is the mass, in grams, of 1 cubic centimeter of water at standard temperature and pressure?
+
+----
+num: 4
+category: Earth Science
+difficulty: MS
+seen: 7
+answer: Periods
+
+Eras on the Geological Time Scale are directly subdivided into what time units?
+
+----
+num: 5
+category: Math
+difficulty: MS
+seen: 7
+answer: 4,800
+(Solution:  4 × 1200 = 4800)
+
+How many 4 ounce containers can be packed from 1200 pounds of dry tea leaves?
+
+----
+num: 5
+category: Math
+difficulty: MS
+seen: 7
+answer: 22
+
+Evaluate the following expression: 6 + 2(5 + 4 – 1) (read as: 6 + 2, open parenthesis, 5 plus 4 minus 1, close parenthesis)
+
+----
+num: 6
+category: General Science
+difficulty: MS
+seen: 5
+answer: 42
+(Solution: 2000 Mg = 2g;  0.04kg = 40g;  2g + 40g = 42 Grams)
+
+Giving your answer in grams, add 2,000 milligrams to 0.04 kilograms:
+
+----
+num: 8
+category: Physical Science
+difficulty: MS
+seen: 6
+answer: Free Fall
+
+What is the most common term used to describe why astronauts orbiting the Earth experience apparent weightlessness?
+
+----
+num: 8
+category: Physical Science
+difficulty: MS
+seen: 5
+answer: Terminal Velocity
+
+What is the most common term for the maximum downward speed an object can attain, considering air resistance, when it is in free fall from a few miles up in the atmosphere?
+
+----
+num: 10
+category: Math
+difficulty: MS
+seen: 6
+answer: 25
+(Solution: (10,500 – 7,500)/(120 – 0) = 25 Ft/min)
+
+If it takes a hiker 2 hours to make a descent from 10,500 feet to 7,500 feet, what is his average rate of decent, in feet per minute?
+
+----
+num: 12
+category: Life Science
+difficulty: MS
+seen: 11
+answer: Amino Acids
+
+What is the general name for the twenty or so different building blocks from which most proteins are made?
+
+----
+num: 12
+category: Life Science
+difficulty: MS
+seen: 11
+answer: Transfer Rna  (Accept: Trna)
+
+What specific type of nucleic acid carries an amino acid to a growing protein?
+
+----
+num: 13
+category: Physical Science
+difficulty: MS
+seen: 5
+answer: 75
+
+If 50 grams of one reactant chemically combines with 25 grams of another reactant to form a product, what is the total mass, in grams, of the product?
+
+----
+num: 14
+category: Earth Science
+difficulty: MS
+seen: 6
+answer: Olympus  (Accept:  Olympus Mons or Mt. Olympus)
+
+What is the name for the highest mountain on any planet in the Solar System?
+
+----
+num: 15
+category: Math
+difficulty: MS
+seen: 6
+answer: Loss of 17
+
+What was the net gain or loss in yardage for a football team that in four straight plays gained 12 yards, then lost 9 yards, gained 3 yards, and finally lost 23 yards?
+
+----
+num: 15
+category: Math
+difficulty: MS
+seen: 6
+answer: 42
+(Solution:  2x + 96 = 180;  X = 42º)
+
+Consider an isosceles triangle whose 2 sides of equal length meet to form a vertex angle of 96º. What is the degree measure of each base angle?
+
+----
+num: 16
+category: General Science
+difficulty: MS
+seen: 5
+answer: Rice
+
+Which one of the following 5 grains feeds more people, accounting for the core food of about one-half of all humans on Earth: corn; barley; wheat; rice; sorghum
+
+----
+num: 17
+category: Life Science
+difficulty: MS
+seen: 10
+answer: Cell Wall  (Accept: Wall)
+
+What structure is exterior to the plasma membrane of a plant cell that is absent from an animal cell?
+
+----
+num: 17
+category: Life Science
+difficulty: MS
+seen: 10
+answer: Cellulose
+
+Plant cell walls are made primarily of microfibers of what common polysaccharide?
+
+----
+num: 18
+category: Physical Science
+difficulty: MS
+seen: 6
+answer: 69
+
+If sodium has an atomic mass of 23 and an atomic number of 11, what is the mass, in grams, of 3 moles of sodium?
+
+----
+num: 19
+category: Earth Science
+difficulty: MS
+seen: 7
+answer: Oceans  (Accept:  Seas)  (Do Not Accept:  Water)
+
+The bulk of the thermal energy at the Earth’s surface is stored in what major reservoir?
+
+----
+num: 20
+category: Math
+difficulty: MS
+seen: 5
+answer: 61
+
+If one of 2 complementary angles is 32º greater than the other, how many degrees is the larger angle?
+
+----
+num: 20
+category: Math
+difficulty: MS
+seen: 6
+answer: 25
+(Solution:  a = ½(B)(h) = ½ (10)(5) = 25 M^2)
+
+Find the area of a triangle, in meters squared, given a base of 10 meters and height of 5 meters:
+
+----
+num: 22
+category: Life Science
+difficulty: MS
+seen: 10
+answer: Hammer;  Anvil;  Stapes;  Oval Window
+
+Order the following 4 human ear structures from the 
+OUTERMOST to the INNERMOST: anvil; stapes; hammer; oval window
+
+----
+num: 23
+category: Physical Science
+difficulty: MS
+seen: 5
+answer: 4
+
+What is the ideal mechanical advantage of a lever where the effort force is one-quarter that needed to lift a resistance force?
+
+----
+num: 23
+category: Physical Science
+difficulty: MS
+seen: 6
+answer: 50
+
+What is the frequency of a 50-hertz wave, in cycles per second, if the wave has an amplitude of 2 meters?
+
+----
+num: 24
+category: Earth Science
+difficulty: MS
+seen: 8
+answer: Slate
+
+Which one of the following 5 choices is a metamorphic rock:tuff; obsidian; sl ate; gabbro; peridotite
+
+----
+num: 25
+category: Math
+difficulty: MS
+fixed: -1
+seen: 6
+answer: 63, 64, 65
+
+What three consecutive numbers add up to 192?

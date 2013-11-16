@@ -1,0 +1,597 @@
+####
+tournament: Sample Set 4
+round: Round13.pdf
+####
+
+num: 1
+category: Energy
+difficulty: MS
+answer: X) Voltage Provided to a Blood Pressure Monitor Used in 
+Hospitals That Is Higher Than What It Should Be for Long Periods of Time
+
+Which one of the following is an issue of power quality?
+W) Connecting an alarm clock to a battery
+X) Voltage provided to a blood pressure monitor used in hospitals that is higher than what it should be for long periods of time
+Y) Wasting nuclear energy produced by nuclear power plants
+Z) Connecting a ceiling fan to a power outlet
+
+----
+num: 2
+category: Physical Science
+difficulty: MS
+answer: W) Half as Intense
+
+If you shine unpolarized light through a polarizing filter, the light that exits the filter is:
+W) Half as intense
+X) Equally as intense
+Y) Dispersed into many colors
+Z) Scattered in all directions
+
+----
+num: 3
+category: Biology
+difficulty: HS
+answer: Y) Between the Mesozoic and Cenozoic Eras
+
+Which period involved a major extinction event that included the dinosaurs?
+W) Between the Paleozoic and Mesozoic eras
+X) Between the Phanerozoic and the Precambrian eras
+Y) Between the Mesozoic and Cenozoic eras
+Z) Between the Precambrian and Paleozoic eras
+
+----
+num: 3
+category: Biology
+difficulty: HS
+answer: Z) Less Than a Minute Before the 24 Hours Were Up
+
+
+If a 24 hour clock was made to model the major events of the evolution of life on Earth, humans would appear:
+W) Close to the beginning of the 24 hour period 
+X) About 12 hours through the 24 hour period
+Y) About 2 hours before the 24 hours were up
+Z) Less than a minute before the 24 hours were up
+
+----
+num: 4
+category: Physics
+difficulty: HS
+seen: 1
+answer: Y) Heat to Work
+
+Which of the following does a Carnot engine convert?
+W) Energy to heat
+X) Pressure to volume
+Y) Heat to work
+Z) Work to pressure
+
+----
+num: 4
+category: Earth and Space Science
+difficulty: MS
+answer: Z) Mercury
+
+Greenhouse gases heat the atmosphere by allowing sunlight to pass through while trapping heat. Which of the following planets does NOThave an atmosphere that contains gr eenhouse gases?
+W) Earth
+X) Venus
+Y) Mars
+Z) Mercury
+
+----
+num: 4
+category: Earth and Space Science
+difficulty: MS
+answer: Y) Mercury  Has No Magnetic Field
+
+Which of the following statements is NOT true about Mercury?
+W) Mercury is the second densest planet in the solar system
+X) Mercury travels around the Sun faster than any other planet
+Y) Mercury has no magnetic field
+Z) Mercury has been visited by spacecraft
+
+----
+num: 5
+category: Biology
+difficulty: HS
+seen: 1
+answer: X) Leaves
+
+Flowers are actually miniature stems that produce four kinds of specialized:
+W) Roots
+X) Leaves 
+Y) Vascular tissue 
+Z) Cones
+
+----
+num: 5
+category: Biology
+difficulty: HS
+answer: W) Soil Profiles Have Well -Defined Horizons
+
+
+Which of the following is a characteristic of old growth forests?
+W) Soil profiles have well -defined horizons
+X) All trees are roughly the same age
+Y) Sunlight is uniformly distributed
+Z) Ground cover is low in organic matter
+
+----
+num: 6
+category: Physical Science
+difficulty: MS
+answer: X) Sound Cannot Travel Through a Vacuum
+
+Soundtracks of space movies frequently have sounds of ships exploding or whizzing through space. Why is this an inaccurate depiction of space?
+W) Sound waves are distorted in space so everything would sound like it was under water
+X) Sound cannot travel through a vacuum
+Y) Everything would have a very high pitch in space
+Z) Space vibrations would muffle the explosions
+
+----
+num: 6
+category: Physical Science
+difficulty: MS
+answer: Y) Matilda's Wave Peaks Are Closer Together Than Matt's
+
+Matilda plays an instrument which produces a higher pitch than the instrument her friend Matt plays . What can we say about the sound waves of 
+Matilda's music?
+W) Matilda's wave peaks are farther apart than Matt's
+X) Both Matilda and Matt's sound waves have the same wavelength, but Matilda's travel slower
+Y) Matilda's wave peaks are closer together than Matt's
+Z) Both Matilda and Matt's sound waves have the same wavelength, but Matilda's travel faster
+
+----
+num: 8
+category: Math
+difficulty: HS
+seen: 1
+answer: X) 143
+
+Which of the following numbers is not prime?
+W) 137
+X) 143
+Y) 167
+Z) 229
+
+----
+num: 9
+category: Energy
+difficulty: MS
+answer: X) Transportation
+
+Which of the following sectors is the most important factor in assessing future trends in demand for liquid fuels?
+W) World carbon dioxide emissions
+X) Transportation
+Y) Residential buildings
+Z) Commercial buildings
+
+----
+num: 11
+category: Physics
+difficulty: HS
+answer: Y) to Overcome the Electrical Repulsion Between Two 
+Positively Charged Nuclei
+
+Which of the following explains why extremely high energy is needed for fusion to work?
+W) To break the nuclei into two parts
+X) To bind the protons and electrons
+Y) To overcome the electrical repulsion between two positively charged nuclei
+Z) To create the necessary supercold environment
+
+----
+num: 11
+category: Physics
+difficulty: HS
+seen: 1
+answer: Z) 27,000,000
+
+
+The temperature in the region o f the Sun where fusion occurs is about how many degrees Fahrenheit?
+W) 1,000
+X) 50,000
+Y) 7,800,000
+Z) 27,000,000
+
+----
+num: 11
+category: Math
+difficulty: MS
+answer: Y) 14^2^
+
+Which of the following values is smallest?
+W) 200
+X) (-16)^2 (read as: open parenthesis negative 16 close parenthesis squared)
+Y) 14^2^(read as: 14 squared) 
+Z) (1208 )^2 (read as: open parentheis120 over 8 close parenthesis squared)
+
+----
+num: 12
+category: Chemistry
+difficulty: HS
+seen: 1
+answer: X) Hydrogen
+
+Which of the following chemical bonds is not important in polymer forma tion?
+W) Glycosidic (read as: gly-koh-SYDIK)
+X) Hydrogen
+Y) Peptide
+Z) Phosphodiester (read as: FOHS -foh-DY-ehs-tehr)
+
+----
+num: 12
+category: Life Science
+difficulty: MS
+answer: W) It Is a Fungus
+^* ^[Note: Slime Molds Were Originally^ ^Classified as a Fungus but Have Been Reclassified. 
+^See: http://www.ucmp.berkeley.edu/protista/slimemolds.html]^
+
+Which of the following statements is NOT true about slime mold?
+W) It is a fungus*
+X) It can move
+Y) It lacks chitin in its cell walls
+Z) It ingests food
+
+----
+num: 13
+category: Math
+difficulty: HS
+answer: W)
+
+Which of the following radical expressions is in simplest form?
+W) (read as: the square root of 31 over 3)
+X) -5 (read as: negative 5 times the square root of 175)
+Y) 6 (read as: 6 times the square root of the quantity x squared over 4)
+Z) – (read as: the negative square root of 153 x)
+
+----
+num: 13
+category: Energy
+difficulty: MS
+answer: Y) Battery Bank
+
+Which of the following components allows renewable systems to produce energy for later use?
+W) Inductor
+X) Regulator
+Y) Battery bank
+Z) Heater
+
+----
+num: 13
+category: Energy
+difficulty: MS
+answer: X) to Regulate the Amount of Power That Goes Into Energy 
+Storage for Later Use
+ 
+
+A component of a solar energy system is the charge controller. 
+What is its function?
+W) To provide electrical protection to the system
+X) To regulate the amount of power that goes into energy storage for later use
+Y) To dissipate excess energy
+Z) To store the energy for later use
+
+----
+num: 14
+category: Energy
+difficulty: HS
+answer: Z) 133
+
+In 2009, demand for small wind systems for residential and small business use grew 15%, adding 20 megawatts of wind -generating capacity. What was the approximate capacity of small wind systems in 2008 in megawatts?
+W) 17
+X) 35
+Y) 115
+Z) 133
+
+----
+num: 14
+category: Earth and Space Science
+difficulty: MS
+answer: W) Titan
+
+Which of the following is NOT a moon of 
+Jupiter?
+W) Titan
+X) Io
+Y) Europa
+Z) Callisto
+
+----
+num: 15
+category: Earth and Space
+difficulty: HS
+answer: Y) Basalt
+
+Which of the following is NOT a metamorphic rock?
+W) Schist (read as: SHIST)
+X) Gneiss (read as: NYS)
+Y) Basalt 
+Z) Marble
+
+----
+num: 15
+category: Earth and Space
+difficulty: HS
+answer: Z) Andesite Is a Type of Ultramafic Rock
+
+
+Which of these is NOT true about ultramafic rock?
+W) The Earth’s mantle is composed of ultramafic rock
+X) Ultramafic rocks are usually dark colored
+Y) Ultramafic rock crystallizes at higher temperatures than felsic rock
+Z) Andesite is a type of ultramafic rock
+
+----
+num: 16
+category: Physics
+difficulty: HS
+answer: Y) Energy of 1 Electron Accelerated Through a 1 Volt Potential
+Difference
+
+An electron-volt is the:
+W) Energy gained by 1 electron falling through a 1 meter vertical distance
+X) Energy of a visible light photon
+Y) Energy of 1 electron accelerated through a 1 volt potential difference
+Z) Energy of a typical electron orbiting a nucleus
+
+----
+num: 17
+category: Energy
+difficulty: HS
+answer: W) -3000 Kilojoules
+
+
+What is the approximate Gibbs free energy change per mole associated with oxidation of glucose?
+W) -3000 kilojoules
+X) -3000 joules 
+Y) 3000 joules
+Z ) 3000 kilojoules
+
+----
+num: 17
+category: General Science
+difficulty: MS
+answer: W) Cystic Fibrosis
+
+Which genetic disorder is caused by a mutation in one gene, leading to thick, sticky mucus clogging the lungs, pancreas, and passageways in other organs?
+W) Cystic fibrosis
+X) Huntington’s disease
+Y) Klinefelter syndrome
+Z) Sickle cell anemia
+
+----
+num: 17
+category: General Science
+difficulty: MS
+answer: X) No, Because the Mother Is Neither Colorblind Nor a Carrier 
+of Colorblindness
+
+
+A father is colorblind, but his wife is not colorblind and is not a carrier of the gene for colorblindness. If the couple has a son, will he be colorblind?
+W) Yes, because colorblindness is always passed from father to son
+X) No, because the mother is neither colorblind nor a carrier of colorblindness
+Y) There is a 50% chance because colorblindness is autosomal dominant
+Z) Yes, because the gene for colorblindness is located on the Y chromosome
+
+----
+num: 18
+category: Math
+difficulty: HS
+seen: 1
+answer: Z) X^2 – X + 1 = 0
+
+Which of the following equations does not have real solutions?
+W) -3x^2 + 3 = 0
+X) x^2 – 5x + 2 = 0
+Y) 4x^2 – 3x – 0.25 = 0
+Z) x^2 – x + 1 = 0
+
+----
+num: 19
+category: Earth and Space Science
+difficulty: MS
+answer: Z) the Jet Stream
+
+The general paths of storm systems that travel across th e continental United States are primarily driven by:
+W) Ocean currents
+X) Local winds
+Y) Mountains
+Z) The jet stream
+
+----
+num: 19
+category: Earth and Space Science
+difficulty: MS
+answer: Z) Cold and Dry
+ 
+
+The jet stream separates major air masses over the central continental U.S. The high pressure air mass to the north of the jet stream has which of the following characteristics in winter?
+W) Warm and humid
+X) Warm and dry
+Y) Cold and humid
+Z) Cold and dry
+
+----
+num: 20
+category: Earth and Space
+difficulty: HS
+answer: Z) September
+
+In which of the following months is the Antarctic ozone hole the largest?
+W) January
+X) April
+Y) July
+Z) September
+
+----
+num: 20
+category: Earth and Space Science
+difficulty: MS
+answer: Z) a Natural Particle From Space That Survives Impact With the 
+Earth’s Surface
+
+What is a meteorite?
+W) An asteroid
+X) A kind of comet
+Y) A natural particle from space that vaporizes upon entering Earth’s atmosphere
+Z) A natural particle from space that survives impact with the Earth’s surface
+
+----
+num: 20
+category: Earth and Space Science
+difficulty: MS
+answer: X)  -1.8
+
+Sea ice is formed by frozen seawater, which contains salt. At what temperature, in Celsius, will sea ice freeze?
+X) W) -1.8 -11.20
+Y) 0
+Z) +0.001
+
+----
+num: 21
+category: Biology
+difficulty: HS
+answer: Y) Birth Defects in Babies Exposed to Ac Cutane in Utero
+
+Which of the following is NOT an example of the negative effects of bioaccumulation of toxins in the environment?
+W) The thinning of bird eggshells d ue to DDT
+X) Inedibility of oysters due to their filter feeding on naturally occurring red tide algae
+Y) Birth defects in babies exposed to Accutane in utero
+Z) Inedibility of fish due to mercury content
+
+----
+num: 21
+category: Biology
+difficulty: HS
+answer: X) the Death Rate Will Increase
+
+
+If a deer population exceeds its carrying capacity, which of the following will likely happen?
+W) The birth rate will increase
+X) The death rate will increase
+Y) The death rate will decrease
+Z) Carrying capacity will increase
+
+----
+num: 21
+category: Physical Science
+difficulty: MS
+answer: Z) Gold
+ ___
+
+Which of the following elements has the highest boiling point?
+W) Copper
+X) Magnesium
+Y) Zinc
+Z) Gold
+
+----
+num: 22
+category: General Science
+difficulty: MS
+answer: Y) Ganymede
+
+What is the largest moon in our Solar System?
+W) Io
+X) Europa
+Y) Ganymede (read as: gah-NY-meed)
+Z) Callisto
+
+----
+num: 23
+category: Earth and Space
+difficulty: HS
+answer: W) Climate Change
+
+Flood basalts, such as the Cretaceous Deccan 
+Traps in Siberia, may have had a major impact on which of t he following past events?
+W) Climate change
+X) Formation of island arcs
+Y) Human development
+Z) Interruption in stratospheric circulation
+
+----
+num: 23
+category: Life Science
+difficulty: MS
+answer: W) Somatic
+
+Babies cannot walk well. As they grow older, which of the following parts of their nervous systems will interact with their muscles, allowing for increased coordination?
+W) Somatic
+X) Autonomic
+Y) Sympathetic
+Z) Parasympathetic
+
+----
+num: 23
+category: Life Science
+difficulty: MS
+answer: Y) Hypothalamus
+
+
+When you have the flu, what part of the nervous system is responsible for elevating your body temperature?
+W) Medulla oblongata
+X) Pons
+Y) Hypothalamus
+Z) Brain stem
+
+----
+num: 24
+category: Math
+difficulty: HS
+seen: 1
+answer: Y) 61
+
+Which of the following numbers is not a Mersenne prime?
+W) 7
+X) 31
+Y) 61
+Z) 127
+
+----
+num: 24
+category: Earth and Space Science
+difficulty: MS
+answer: Z) Estuary
+
+Which of the following is the term for the swampy area where a river valley meets the sea?
+W) Playa
+X) Trench
+Y) Spit
+Z) Estuary (read as: EHS-chuh-wehr-ee)
+
+----
+num: 25
+category: Chemistry
+difficulty: HS
+seen: 1
+answer: X) Nitrous Acid
+
+Which of the following 1.0 molar solutions will have the highest pH?
+W) Hydrochloric acid
+X) Nitrous acid
+Y) Sulfuric acid
+Z) Hydrobromic acid
+
+----
+num: 25
+category: Chemistry
+difficulty: HS
+answer: Z) Potassium Acetate
+
+10 milliliters of a 0.1 molar solution of which of the following substances added to 10 milliliters of a 0.1 molar acetic acid solution will form a buffer solution?
+W) Hydrochloric acid
+X) Sodium chloride
+Y) Sodium hydroxide
+Z) Potassium acetate (read as: AH -seh-tayt)
+
+----
+num: 25
+category: General Science
+difficulty: MS
+answer: Z) Discovering Radium and Polonium
+
+For what did Marie Curie win the Nobel Prize in chemistry?
+W) Discovering uranium and plutonium
+X) Discovering radon
+Y) Discovering curium
+Z) Discovering radium and polonium

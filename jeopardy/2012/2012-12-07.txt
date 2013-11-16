@@ -1,0 +1,482 @@
+####
+tournament: #6495
+round: Show #6495 - Friday, December 7, 2012
+year: 2012
+date: 2012-12-07
+####
+
+num: 1
+category: Literature
+difficulty: 200
+seen: 4
+answer: the battery
+
+If I say my car's engine needs a jump, I mean this part.
+
+----
+num: 2
+category: Religion
+difficulty: 200
+seen: 11
+answer: Jonah
+
+A great fish swallows a reluctant prophet.
+
+----
+num: 3
+category: History
+difficulty: 200
+seen: 5
+answer: Kansas
+
+Known for its "bleeding" / Means "people of the south wind" / Auntei Em!  Twister!.
+
+----
+num: 4
+category: Trash
+difficulty: 200
+seen: 6
+answer: Ernie
+
+This old buddy & roommate of Bert has one of TV's most distinctive laughs.
+
+----
+num: 5
+category: Science
+difficulty: 200
+seen: 8
+answer: wine
+
+"Taste Buds And Molecules" is an in-depth analysis of the pairing of food & this.
+
+----
+num: 6
+category: Trash
+difficulty: 200
+seen: 5
+answer: nab
+
+Catch a criminal.
+
+----
+num: 7
+category: Literature
+difficulty: 400
+seen: 4
+answer: the high jump
+
+This track & field event has a fully equipped bar-- it's set at around 7'6" for the top men.
+
+----
+num: 8
+category: Religion
+difficulty: 400
+seen: 9
+answer: Genesis
+
+Moas & boas are loaded onto Noah's ark.
+
+----
+num: 9
+category: History
+difficulty: 400
+seen: 4
+answer: Montana
+
+Can't miss Missoula / It's Helena hand basket / Custer stopped standing.
+
+----
+num: 10
+category: Trash
+difficulty: 400
+seen: 5
+answer: Nelson
+
+This bully on "The Simpsons" responds to others' misfortunes with "haaaww-haw".
+
+----
+num: 11
+category: Science
+difficulty: 400
+seen: 6
+answer: Rachael Ray
+
+Among her books are "Classic 30-Minute Meals" & "Yum-O!  The Family Cookbook".
+
+----
+num: 12
+category: Trash
+difficulty: 400
+seen: 6
+answer: nimble
+
+Agile, like "Jack be".
+
+----
+num: 13
+category: Literature
+difficulty: 600
+seen: 4
+answer: a grasshopper
+
+Yes, Caine of "Kung Fu", this insect can leap 20 times its body length; a human would have to leap about 120' to do that.
+
+----
+num: 14
+category: History
+difficulty: 600
+seen: 4
+answer: West Virginia
+
+Jake, it's Morgantown / Now, country roads, take me home / Mountaineers to ya!.
+
+----
+num: 15
+category: Trash
+difficulty: 600
+seen: 5
+answer: Vincent Price
+
+Then in his 70s, he unleashed his horror-fying laugh on the song "Thriller".
+
+----
+num: 16
+category: Trash
+difficulty: 600
+seen: 4
+answer: a nightcap
+
+Bedtime cocktail or head covering.
+
+----
+num: 17
+category: Literature
+difficulty: 800
+seen: 4
+answer: tae kwon do
+
+Jumping, parrying & blocking techniques are part of this Korean martial art that translates to "kick fist way".
+
+----
+num: 18
+category: Religion
+difficulty: 800
+seen: 9
+answer: Judges
+
+Shamgar, one of the title arbiters, kills 600 Philistines with an ox goad.
+
+----
+num: 19
+category: History
+difficulty: 800
+seen: 4
+answer: Maine
+
+Borders just one state / That's wicked good lobstah, right? / Hey, it's Stephen King!.
+
+----
+num: 20
+category: Trash
+difficulty: 800
+seen: 5
+answer: Amadeus
+
+In 1984 Tom Hulce played a genius with a weird cackle in this title role.
+
+----
+num: 21
+category: Science
+difficulty: 800
+seen: 5
+answer: the glycemic index
+
+"The New Sugar Busters!" explains this "index", which ranks foods by how they affect the blood glucose levels.
+
+----
+num: 22
+category: Trash
+difficulty: 800
+seen: 5
+answer: narwhal
+
+Unicorn of the sea.
+
+----
+num: 23
+category: Literature
+difficulty: 1000
+seen: 4
+answer: paratroopers
+
+In the U.S. Army jump masters transform regular soldiers into these.
+
+----
+num: 24
+category: Religion
+difficulty: 1000
+seen: 10
+answer: John
+
+Thomas doubts the other apostles have really met the risen Jesus.
+
+----
+num: 25
+category: History
+difficulty: 1000
+seen: 4
+answer: Idaho
+
+We touch Canada / Bogus basin, not bougs / Who wants some French fries?.
+
+----
+num: 26
+category: Trash
+difficulty: 1000
+seen: 5
+answer: Greta Garbo
+
+The 1930 film "Anna Christie" was promoted with she "talks!"; the 1939 "Ninotchka", with she "laughs".
+
+----
+num: 27
+category: Trash
+difficulty: 1000
+seen: 5
+answer: nondenominational
+
+Not affiliated with a particular religious group.
+
+----
+num: 28
+category: History
+difficulty: 400
+seen: 4
+answer: Atlanta
+
+In the early 1900s the wall of the penitentiary in this Georgia capital was the USA's largest concrete mass.
+
+----
+num: 29
+category: Literature
+difficulty: 400
+seen: 4
+answer: Marie Curie
+
+In 1886, before moving to Paris, this scientists wrote her cousin Henrika, "My plans for the future?  I have none".
+
+----
+num: 30
+category: History
+difficulty: 400
+seen: 4
+answer: the Judiciary Committee
+
+Since 1955 every Supreme Court nominee has testified before this Senate committee.
+
+----
+num: 31
+category: Trash
+difficulty: 400
+seen: 5
+answer: Don Henley
+
+He was inducted in 2000 along with partner Glenn Frey.
+
+----
+num: 32
+category: Science
+difficulty: 400
+seen: 5
+answer: oxygen
+
+Cyanosis, a bluish cast to the skin, is caused by a lack of this gas in the blood.
+
+----
+num: 33
+category: Art
+difficulty: 400
+seen: 4
+answer: a kidnap
+
+A young goat's daytime snooze.
+
+----
+num: 34
+category: History
+difficulty: 800
+seen: 4
+answer: Sing Sing
+
+Criminals sent "up the river" went up the Hudson river to this joint.
+
+----
+num: 35
+category: Literature
+difficulty: 800
+seen: 4
+answer: Bonaparte
+
+Historic last name of brothers Lucien & Joseph; their children Charles & Zenaide married each other in 1822.
+
+----
+num: 36
+category: History
+difficulty: 800
+seen: 4
+answer: the Ethics Committee
+
+Congressfolks, don't cross this committee that's empowered to enforce the House's Code of Official Conduct.
+
+----
+num: 37
+category: Trash
+difficulty: 800
+seen: 5
+answer: Buddy Holly
+
+He was inducted for "It's So Easy" & "That'll Be The Day", among others.
+
+----
+num: 38
+category: Art
+difficulty: 800
+seen: 5
+answer: a cakewalk
+
+A Bundt taking a stroll.
+
+----
+num: 39
+category: History
+difficulty: 1200
+seen: 4
+answer: Attica
+
+In September 1971 tough-on-crime Governor Nelson Rockefeller authorized the retaking by force of this prison.
+
+----
+num: 40
+category: Literature
+difficulty: 1200
+seen: 4
+answer: Jane Austen
+
+This small-town English authoress had a glamorous cousin, Eliza de Feuillide, whose husband was guillotined.
+
+----
+num: 41
+category: History
+difficulty: 1200
+seen: 4
+answer: Veterans
+
+Chairman Jeff Miller of the House Committee on their "Affairs" has called for an audit of the cemeteries it oversees.
+
+----
+num: 42
+category: Trash
+difficulty: 1200
+seen: 5
+answer: Bob Seger
+
+He opened the 2012 ceremony with "Turn The Page", then stood like a rock as he was inducted.
+
+----
+num: 43
+category: Science
+difficulty: 1200
+seen: 6
+answer: meiosis
+
+Also called reduction division, it's the process by which cells divide in sexually reproducing organisms.
+
+----
+num: 44
+category: Art
+difficulty: 1200
+seen: 4
+answer: a banana split
+
+Hey, yellow fruit, leave, just get on out of here, dig?.
+
+----
+num: 45
+category: Literature
+difficulty: 1600
+seen: 4
+answer: Renoir
+
+this artist depicts Edouard Manet niece Julie with her cousin.
+
+----
+num: 46
+category: History
+difficulty: 1600
+seen: 5
+answer: Armed Services
+
+This Senate committee has subcommittees on seapower & strategic forces.
+
+----
+num: 47
+category: Trash
+difficulty: 1600
+seen: 6
+answer: Merle Haggard
+
+In 2007 the Hall welcomed this "Okie from Muskogee".
+
+----
+num: 48
+category: Art
+difficulty: 1600
+seen: 4
+answer: a fishbowl
+
+A perch rolls strikes & spares.
+
+----
+num: 49
+category: History
+difficulty: 2000
+seen: 5
+answer: Louisiana
+
+Prisoners in Angola in this southern state can study for degrees at a Baptist seminary.
+
+----
+num: 50
+category: Literature
+difficulty: 2000
+seen: 6
+answer: St. Bartholomew\'s Day
+
+The 1572 Paris wedding of King Henri to his cousin was the Scarlet Nuptials"--this massacre was just days later.
+
+----
+num: 51
+category: Trash
+difficulty: 2000
+seen: 8
+answer: Jon Bon Jovi
+
+He was inducted along with partner Richie Sambora.
+
+----
+num: 52
+category: Science
+difficulty: 2000
+seen: 8
+answer: the stamen
+
+This male reproductive organ of a flowering plant produces pollen in the anther.
+
+----
+num: 53
+category: Art
+difficulty: 2000
+seen: 6
+answer: rampart
+
+Paintings seen along the sloping path for wheelchairs.

@@ -1,0 +1,237 @@
+####
+tournament: Sample
+round: round9.pdf
+####
+
+num: 1
+category: Physics
+difficulty: HS
+answer: X)  R Divided by 2
+
+Which of the following is the ma gnitude of the focal length of a spherically curved convex mirror in air, where R stands for the radius of curvature:
+W) R divided by 1.22
+X) R divided by 2
+Y) R divided by 1.5
+Z) R times 4
+
+----
+num: 2
+category: Chemistry
+difficulty: HS
+answer: Z)  720
+(Solution: Sublimation Is Solid   Vapor; 80 Cal + 100 Cal + 540 Cal = 720 Cal)
+
+About how many calories per gram will it take to sublimate water at standard pressure:
+W) 180
+X) 360
+Y) 540
+Z) 720
+
+----
+num: 2
+category: Chemistry
+difficulty: HS
+answer: X)  Filtration
+
+A Buchner (read as: BYOU-kh-ner) funnel is a piece of laboratory glassware often used in chemistry labs for which of the following procedures:
+W) combustion
+X) filtration
+Y) centrifugation
+Z) distillation
+
+----
+num: 3
+category: Biology
+difficulty: HS
+answer: W)  Apical Meristem
+
+Which of the following tissues is most directly responsib le for the growth in height of a tree:
+W) apical meristem 
+X) shoot terminus
+Y) terminal cambial
+Z) cambium terminus
+
+----
+num: 4
+category: Math
+difficulty: HS
+answer: Y)  17
+(Solution: X/5 = Ln 15 + Ln 2 = 3.4;  X/5 = 3.4; X = 17)
+
+If e ^x^5 = 30, which of the following is the value of x, assuming that the natural log of 2 = 0.7, and the natural log of 15 = 2.7:
+W) 15
+X) 16
+Y) 17
+Z) 18
+
+----
+num: 5
+category: Earth Science
+difficulty: HS
+answer: W)  Winds
+
+Tree growth is often very stunted and gnarly at the tree line of high mountains in North America. Known as Krummholz formations, this is primarily caused by:
+W) winds
+X) subsidence
+Y) lowered atmospheric pressure
+Z) low sunlight levels
+
+----
+num: 5
+category: Earth Science
+difficulty: HS
+answer: Y)  Alpine Tundra Has a Lower Species Diversity Than Arctic 
+Tundra
+
+Which of the followi ng is generally NOT true of the alpine versus arctic tundra biomes:
+W) alpine tundra does not contain permafrost whereas arctic tundra does contain permafrost
+X) alpine tundra is warmer and has a longer growing season than arctic tundra
+Y) alpine tundra has a lower species diversity than arctic tundra
+Z) alpine tundra has less severe winters than arctic tundra
+
+----
+num: 7
+category: Astronomy
+difficulty: HS
+seen: 1
+answer: Z)  the Sun Has an Apparent Magnitude of About  Negative 12
+(Solution: The Sun’s Apparent Magnitude Is  –26.73)
+
+Which of the following is NOT true:
+W) the star Sirius at its brightest has an apparent magnitude of about negative 1.5
+X) metal-rich stars sometimes have planets
+Y) typical binoculars allow observation of stars with apparent magnitudes of about 9.0
+Z) the Sun has an apparent magnitude of about negative 12
+
+----
+num: 7
+category: Astronomy
+difficulty: HS
+answer: W)  Heavier Than Helium
+
+Astronomers will often refer to certain stars as low metal content stars. In this sense astronomers consider metals as any element:
+W) heavier than helium
+X) heavier than carbon
+Y) heavier than copper
+Z) heavier than iron
+
+----
+num: 8
+category: Physics
+difficulty: HS
+answer: X)  Electrical Susceptibility
+
+Which of the following MOST directly determines the permittivity of a material:
+W) ability of the material to magnetize
+X) electrical susceptibility
+Y) electrical insulation capacity 
+Z) electrical conductivity
+
+----
+num: 9
+category: Chemistry
+difficulty: HS
+answer: W)  Allow for More Complete Combustion
+
+Which of the following is one of the main reasons why oxygenates are used as gasoline additives:
+W) allow for more complete combustion
+X) decrease sulfur buildup in engine pistons
+Y) prevent water condensation in stored fuels
+Z) corrosion inh ibition
+
+----
+num: 12
+category: Earth Science
+difficulty: HS
+answer: Y)  Mixed
+
+Which of the following is the most common type of ocean tide throughout the world and is the type found along the U.S. Pacific coast:
+W) diurnal
+X) semidiurnal
+Y) mixed
+Z) zonal
+
+----
+num: 12
+category: Earth Science
+difficulty: HS
+answer: Y)  High Latitudes
+(Solution: At High Polar Latitudes, Change Is Nearly Constant)
+
+In which of the following regions of the world’s oceans are you most likely to find the greatest uniformity in density changes with increasing depth:
+W) equator
+X) tropics
+Y) high latitudes
+Z) desert latitudes
+
+----
+num: 13
+category: General Science
+difficulty: HS
+answer: Y)  Lamprey
+
+Which of the following is a jaw -less fish:
+W) lungfish
+X) catfish
+Y) lamprey
+Z) sturgeon
+
+----
+num: 14
+category: Astronomy
+difficulty: HS
+answer: Z)  Inferior Conjunction
+
+During which of the following orbital arrangements can a transit occur for the planet Venus:
+W) opposition
+X) greatest eastern elongation
+Y) superior conjunction 
+Z) inferior conjunction
+
+----
+num: 16
+category: Chemistry
+difficulty: HS
+answer: Y)  Double Replacement
+
+The reaction CuCl ^2 + Na^2S  CuS + 2NaCl^2, is an example of what class of chemical reaction:
+W) synthesis
+X) single replacement
+Y) double replacement
+Z) decomposition
+
+----
+num: 17
+category: Biology
+difficulty: HS
+answer: W)  Meristem
+
+Which of the following is the most common te rm for an area of primitive cells in plants where active cell division occurs:
+W) meristem
+X) ground tissue
+Y) primary cells
+Z) germinal tissue
+
+----
+num: 19
+category: Earth Science
+difficulty: HS
+answer: Z)  Gabbro
+
+Which of the following is a medium or coarse -grained rock that consists primarily of plagioclase feldspar and pyroxene and is essentially the plutonic equival ent of basalt:
+W) diorite
+X) rhyolite 
+Y) andesite
+Z) gabbro
+
+----
+num: 19
+category: Earth Science
+difficulty: HS
+answer: Z)  Vesicular
+
+Scoria is most typically described as having which of the following textures:
+W) phaneritic
+X) fragmental
+Y) porphyritic
+Z) vesicular

@@ -1,0 +1,411 @@
+####
+tournament: #6436
+round: Show #6436 - Monday, September 17, 2012
+year: 2012
+date: 2012-09-17
+####
+
+num: 1
+category: Geography
+difficulty: 200
+seen: 9
+answer: Lake Michigan
+
+The Chicago River flows out of this Great Lake.
+
+----
+num: 2
+category: Trash
+difficulty: 200
+seen: 6
+answer: (Timothy) Hutton
+
+This Oscar winner for "Ordinary People" leads a team of thieves & hackers on TNT's "Leverage".
+
+----
+num: 3
+category: Literature
+difficulty: 200
+seen: 4
+answer: the Hollywood Sign
+
+On a clear day, I can see this landmark unveiled in 1923; it's lost 4 letters since then.
+
+----
+num: 4
+category: Literature
+difficulty: 200
+seen: 4
+answer: angels
+
+In Milton's "Paradise Lost", Gabriel sends 2 of these beings to watch over Paradise, & Satan flees.
+
+----
+num: 5
+category: Literature
+difficulty: 200
+seen: 4
+answer: slip of the tongue
+
+Lapsus linguae, a sudden, unfortunate utterance, translates to this 4-word phrase.
+
+----
+num: 6
+category: Geography
+difficulty: 400
+seen: 8
+answer: Lake Superior
+
+In surface area this one of the 5 Great Lakes is the largest body of fresh water in the world.
+
+----
+num: 7
+category: Trash
+difficulty: 400
+seen: 6
+answer: Jack Palance
+
+In the 1980s he & his daughter Holly hosted "Ripley's Believe It or Not", though we don't remember any one-armed push-ups.
+
+----
+num: 8
+category: Literature
+difficulty: 400
+seen: 4
+answer: Vin Scully
+
+In summer I listen to this great broadcaster, now in his 63rd year calling Dodger games.
+
+----
+num: 9
+category: Literature
+difficulty: 400
+seen: 4
+answer: Ahab
+
+When Moby Dick is harpooned, this man becomes fouled in the line & is taken under the sea to his death.
+
+----
+num: 10
+category: Literature
+difficulty: 400
+seen: 4
+answer: rest in peace
+
+Said at funerals, requiescat in pace translates to this.
+
+----
+num: 11
+category: Geography
+difficulty: 600
+seen: 8
+answer: Great Slave Lake
+
+The town of Yellowknife is located on the shore of this "Great" Canadian lake.
+
+----
+num: 12
+category: Literature
+difficulty: 600
+seen: 4
+answer: a martini
+
+Weekends I go to Musso & Frank's iconic restaurant; GQ called their version of this gin-based cocktail America's best.
+
+----
+num: 13
+category: Literature
+difficulty: 600
+seen: 4
+answer: a lamb
+
+Agnus dei is this 4-legged animal "of God".
+
+----
+num: 14
+category: Geography
+difficulty: 800
+seen: 8
+answer: Crater Lake
+
+This lake in Oregon is the second-deepest lake in North America.
+
+----
+num: 15
+category: Trash
+difficulty: 800
+seen: 6
+answer: Jessica Lange
+
+In 2012 this 2-time Oscar winner won a Golden Globe for her role on "American Horror Story".
+
+----
+num: 16
+category: Literature
+difficulty: 800
+seen: 3
+answer: San Fernando Valley
+
+When I say I live in the Valley, I mean this one that's home to such communities as Studio City & Encino.
+
+----
+num: 17
+category: Literature
+difficulty: 800
+seen: 4
+answer: Athos
+
+The oldest of the 3 Musketeers, he was once married to the evil Milady de Winter.
+
+----
+num: 18
+category: Geography
+difficulty: 1000
+seen: 8
+answer: Lake Como
+
+Percy Shelley wrote of this Italian lake, it "exceeds anything I ever beheld in beauty".
+
+----
+num: 19
+category: Literature
+difficulty: 1000
+seen: 3
+answer: Route 66
+
+Sometimes I get my kicks driving to Glendora to visit the acclaimed Donut Man on this route.
+
+----
+num: 20
+category: Trash
+difficulty: 400
+seen: 5
+answer: Alanis Morissette
+
+& I'm here... to remind you... her "Jagged Little Pill" was No. 1 in 1995 & again in '96.
+
+----
+num: 21
+category: History
+difficulty: 400
+seen: 3
+answer: World War I
+
+The 3 Battles of Ypres.
+
+----
+num: 22
+category: Art
+difficulty: 400
+seen: 4
+answer: chairs
+
+George Hepplewhite was known for designing the backs of these in such shapes as hearts & shields.
+
+----
+num: 23
+category: Literature
+difficulty: 400
+seen: 4
+answer: "your little dog, too!"
+
+Margaret Hamilton spoke the immortal movie line "I'll get you, my pretty, and" these 4 words.
+
+----
+num: 24
+category: History
+difficulty: 400
+seen: 5
+answer: antiseptic
+
+A substance used to clean injured skin & to prevent infection.
+
+----
+num: 25
+category: History
+difficulty: 800
+seen: 4
+answer: the Korean War
+
+The Inchon landing.
+
+----
+num: 26
+category: Art
+difficulty: 800
+seen: 4
+answer: the Netherlands
+
+In the early 20th century, Derrit Rietveld led this country's De Stijl movement, which emphasized abstract furniture.
+
+----
+num: 27
+category: Literature
+difficulty: 800
+seen: 4
+answer: "fleas"
+
+English dramatist John Webster noted, "they that sleep with dogs shall rise with" these.
+
+----
+num: 28
+category: Science
+difficulty: 800
+seen: 5
+answer: a minute
+
+Now would be a good time to remember that it's 1/60 of a degree.
+
+----
+num: 29
+category: History
+difficulty: 800
+seen: 4
+answer: Giuseppe
+
+It's Italian for Joseph, Mr. Verdi.
+
+----
+num: 30
+category: Trash
+difficulty: 1200
+seen: 5
+answer: Nirvana
+
+This Seattle band was "Unplugged in New York"; cuts included "Lake Of Fire".
+
+----
+num: 31
+category: History
+difficulty: 1200
+seen: 4
+answer: the Civil War
+
+The Battle of Lookout Mountain.
+
+----
+num: 32
+category: Art
+difficulty: 1200
+seen: 4
+answer: Thomas Chippendale
+
+This London furniture maker popularized his style in his book "Gentleman and Cabinet-Maker's Director".
+
+----
+num: 33
+category: Science
+difficulty: 1200
+seen: 6
+answer: obtuse
+
+Don't be dense; tell us this word for an angle of more than 90 but fewer than 180 degrees.
+
+----
+num: 34
+category: History
+difficulty: 1200
+seen: 4
+answer: sepulcher
+
+A chamber used as a grave.
+
+----
+num: 35
+category: Trash
+difficulty: 1600
+seen: 6
+answer: Meat Loaf
+
+Not afraid to re-dip in previous success, he topped the chart with "Bat out of Hell II: Back Into Hell".
+
+----
+num: 36
+category: History
+difficulty: 1600
+seen: 4
+answer: the Hundred Years\' War
+
+The 1356 Battle of Poitiers.
+
+----
+num: 37
+category: Art
+difficulty: 1600
+seen: 5
+answer: Duncan Phyfe
+
+Most of the early work by this N.Y. cabinetmaker whose name sounds like a musical instrument was in mahogany.
+
+----
+num: 38
+category: Literature
+difficulty: 1600
+seen: 4
+answer: (Mario) Cuomo
+
+In 1994, as he left the governorship of New York, he said, "dog eat dog produces... just one dog, and that's a lonely way to live".
+
+----
+num: 39
+category: Science
+difficulty: 1600
+seen: 5
+answer: a slope
+
+The letter m indicates this steepness of a line.
+
+----
+num: 40
+category: Trash
+difficulty: 2000
+seen: 9
+answer: R.E.M.
+
+This band's "Monster" album included "Crush With Eyeliner".
+
+----
+num: 41
+category: History
+difficulty: 2000
+seen: 6
+answer: World War II
+
+The Battle of Tarawa.
+
+----
+num: 42
+category: Art
+difficulty: 2000
+seen: 5
+answer: laminate
+
+Both Alvar Aalto & Charles Eames designed furniture using this layered wood product.
+
+----
+num: 43
+category: Literature
+difficulty: 2000
+seen: 5
+answer: "man bites dog"
+
+An editor of The New York Sun said, "but if" this happens, "that is news".
+
+----
+num: 44
+category: Science
+difficulty: 2000
+seen: 8
+answer: a theorem
+
+An assertion that can be proven true, often using axioms & postulates.
+
+----
+num: 45
+category: History
+difficulty: 2000
+fixed: -1
+seen: 5
+answer: the Septuagint
+
+As its name suggests, this early version of the Old Testament was translated by 70 writers.

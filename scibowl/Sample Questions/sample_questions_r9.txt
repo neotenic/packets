@@ -1,0 +1,236 @@
+####
+tournament: Sample Questions
+round: sample_questions_r9.pdf
+####
+
+num: 2
+category: Life Science
+difficulty: MS
+seen: 10
+answer: Cork
+
+What is the nam e of the layer of cells that are produced by the phellogen and, as they m ature and die, their cell walls are encr usted with suberin?
+
+----
+num: 2
+category: Life Science
+difficulty: MS
+seen: 11
+answer: Cork
+
+What is the nam e of the layer of cells that are produced by the phellogen and, as they m ature and die, their cell walls are encr usted with suberin?
+
+----
+num: 5
+category: Math
+difficulty: MS
+seen: 6
+answer: 3x – 2y – 5  (Accept:  -5 + 3x – 2y)
+
+Combine the terms in the following expression: 5 + 3x – 2y – 10
+
+----
+num: 5
+category: Math
+difficulty: MS
+seen: 6
+answer: 3x – 2y – 5  (Accept:  -5 + 3x – 2y)
+
+Combine the terms in the following expression: 5 + 3x – 2y – 10
+
+----
+num: 8
+category: Earth Science
+difficulty: MS
+seen: 7
+answer: Diamond;  Quartz;  Calcite;  Talc
+
+Order the following minerals from the hardest to the softest: Calcite; Talc; Q uartz; Diamond
+
+----
+num: 8
+category: Earth Science
+difficulty: MS
+seen: 8
+answer: Diamond;  Quartz;  Calcite;  Talc
+
+Order the following minerals from the hardest to the softest: Calcite; Talc; Q uartz; Diamond
+
+----
+num: 10
+category: Math
+difficulty: MS
+seen: 6
+answer: 25
+
+In the following set of numbers, which is NOT a prime number: 3, 5, 11, 17, 25, 29
+
+----
+num: 10
+category: Math
+difficulty: MS
+seen: 6
+answer: 12 
+(Solution: Square Is 40 F Eet on a Side; 3  Posts Per Side (Don't Count Corners Twice))
+
+A farmer wants to make a square fenced-in area for his cows, with an area of 1600 square feet. He wa nts to have a fence post every 10 feet on the perim eter. How many fence posts will he need?
+
+----
+num: 10
+category: Math
+difficulty: MS
+seen: 7
+answer: 25
+
+In the following set of numbers, which is NOT a prime number: 3, 5, 11, 17, 25, 29
+
+----
+num: 10
+category: Math
+difficulty: MS
+seen: 7
+answer: 12 
+(Solution: Square Is 40 F Eet on a Side; 3  Posts Per Side (Don't Count Corners Twice))
+
+A farmer wants to make a square fenced-in area for his cows, with an area of 1600 square feet. He wa nts to have a fence post every 10 feet on the perim eter. How many fence posts will he need?
+
+----
+num: 13
+category: Math
+difficulty: MS
+seen: 7
+answer: 4,096
+
+If you begin with 1 and double it 12 times, what will the total be?
+
+----
+num: 13
+category: Math
+difficulty: MS
+seen: 6
+answer: 4,096
+
+If you begin with 1 and double it 12 times, what will the total be?
+
+----
+num: 18
+category: Physical Science
+difficulty: MS
+seen: 5
+answer: 45 Newton S  (Accept: 45)
+(Solution:  F =Ma; F=3x15; F=45)
+
+In pursuit of an insect, a lizard, braced against a rock, accelerates with a horizontal m agnitude of 15 meters per second squared. How much horizontal force, in newtons, must the lizard ex ert on the rock to produce this accelera tion if the lizard has a mass of 3 kilograms?
+
+----
+num: 18
+category: Physical Science
+difficulty: MS
+seen: 6
+answer: 45 Newton S  (Accept: 45)
+(Solution:  F =Ma; F=3x15; F=45)
+
+In pursuit of an insect, a lizard, braced against a rock, accelerates with a horizontal m agnitude of 15 meters per second squared. How much horizontal force, in newtons, must the lizard ex ert on the rock to produce this accelera tion if the lizard has a mass of 3 kilograms?
+
+----
+num: 19
+category: Math
+difficulty: MS
+seen: 6
+answer: -10xy – 4x + 6y  (Accept:  -4x + 6y – 10xy)
+
+Combine the terms in the following expression: 12xy – 4x + 6y – 20yx
+
+----
+num: 20
+category: General Science
+difficulty: MS
+seen: 5
+answer: Meitnerium, Curium
+
+Which two of the following 5 elem ents are named after famous female scientists? Berkelium, Lawrencium, Meitnerium, Curium, Osmium
+
+----
+num: 20
+category: General Science
+difficulty: MS
+seen: 5
+answer: Meitnerium, Curium
+
+Which two of the following 5 elem ents are named after famous female scientists? Berkelium, Lawrencium, Meitnerium, Curium, Osmium
+
+----
+num: 21
+category: General Science
+difficulty: MS
+seen: 6
+answer: 1800
+
+Rounded to the nearest hundred, what is the temperature in Fahrenheit of a substance at 1000 °C ?
+
+----
+num: 21
+category: General Science
+difficulty: MS
+seen: 6
+answer: 1800
+
+Rounded to the nearest hundred, what is the temperature in Fahrenheit of a substance at 1000 °C ?
+
+----
+num: 23
+category: Math
+difficulty: MS
+seen: 6
+answer: 3  (Accept:  3.03)
+
+The price of a postage stam p changes from 33 cents to 34 cents. 
+What is the percen t increase in price?
+
+----
+num: 23
+category: Math
+difficulty: MS
+seen: 6
+answer: 3  (Accept:  3.03)
+
+The price of a postage stam p changes from 33 cents to 34 cents. 
+What is the percen t increase in price?
+
+----
+num: 25
+category: Physical Science
+difficulty: MS
+seen: 5
+answer: Doping
+
+The ability of a sem iconductor to carry a current is increased by a process called:
+
+----
+num: 25
+category: Physical Science
+difficulty: MS
+seen: 5
+answer: Ammonia Boils,  Water  Boils,  Tin Melts,  Iron Melts
+
+Order the following from the LOWEST to the 
+HIGHEST temperature: water boils, iron melts, ammonia boils, tin m elts
+
+----
+num: 25
+category: Physical Science
+difficulty: MS
+seen: 5
+answer: Doping
+
+The ability of a sem iconductor to carry a current is increased by a process called:
+
+----
+num: 25
+category: Physical Science
+difficulty: MS
+seen: 6
+answer: Ammonia Boils,  Water  Boils,  Tin Melts,  Iron Melts
+
+Order the following from the LOWEST to the 
+HIGHEST temperature: water boils, iron melts, ammonia boils, tin m elts

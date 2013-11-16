@@ -1,0 +1,301 @@
+####
+tournament: Sample
+round: round11.pdf
+####
+
+num: 1
+category: Chemistry
+difficulty: HS
+fixed: -1
+seen: 35
+answer: Al(hco ^3)^3
+
+According to standard chemical nomenclature , what is the formula for aluminum bica rbonate?
+
+----
+num: 2
+category: Biology
+difficulty: HS
+seen: 39
+answer: Rheumatoid Arthritis;  Lupus
+
+Name all of the following 4 choices that are typically considered human autoimmune dysfunctions: Rheumatoid arthritis; Lupus; shingles; Down’s syndrome
+
+----
+num: 3
+category: Physics
+difficulty: HS
+seen: 27
+answer: 40 Meters  (Must Give Units)
+(Solution: D = ½ ×  At^2 = ½ × 5× 4^2 = 40 Meters)
+
+Consider a planet where g equals 5.0 meters per second squared. 
+Ignoring friction, if an object started from rest, how far would it fall vertically off a cliff in 4.0 seconds, giving you r answer in standard SI units?
+
+----
+num: 4
+category: Math
+difficulty: HS
+seen: 25
+answer: 120
+(Solution: Y= Kxz; 12 = K(4)(5); K = 3/5;  Y = 3/5(10)(20) = 120)
+
+If y varies directly as x and z, and y = 12 when x = 4 and z = 5, find ywhen x = 10 and z = 20:
+
+----
+num: 5
+category: Earth Science
+difficulty: HS
+seen: 63
+answer: Argon
+
+What is the third most common gas naturally found in the 
+Earth’s clean, dry atmosphere?
+
+----
+num: 6
+category: General Science
+difficulty: HS
+fixed: -1
+seen: 29
+answer: 10,800
+
+Rounded to the nearest whole number, convert 3,000 meters per second into kilometers per hour:
+
+----
+num: 8
+category: Chemistry
+difficulty: HS
+fixed: -1
+seen: 33
+answer: F
+^2;  O
+^2;  N
+^2
+
+Arrange the following 3 choices in order of increasing bond energies: O^2; N^2; F^2
+
+----
+num: 9
+category: Biology
+difficulty: HS
+fixed: -1
+seen: 38
+answer: Igg   (Accept:  G or Immunoglobulin G)
+
+What is the most plentiful class of immunoglobulins in human plasma?
+
+----
+num: 10
+category: Physics
+difficulty: HS
+seen: 27
+answer: Faraday Constant (Accept:  Faraday)
+
+What constant is given as the amount of electric charge per mole of electrons?
+
+----
+num: 11
+category: Math
+difficulty: HS
+seen: 25
+answer: 3 6 +
+23 10
+( Accept:   3
+2( 6 + 10))
+
+Giving your answer in simplest radical form, rationalize the denominatorof the following expression: ( −33− 2
+5)
+
+----
+num: 14
+category: Astronomy
+difficulty: HS
+fixed: -1
+seen: 53
+answer: 120
+(Solution: 15º Per Hour = 8 × 15º = 120º)
+
+Through how many degrees does the Earth rotate in 8 hours?
+
+----
+num: 15
+category: Chemistry
+difficulty: HS
+seen: 33
+answer: 6 × 10^22
+(Solution: (2g Cacl
+^2)(6.0 × 10^22 Ca^2+/4g Cacl
+^2)(2 Cl–/1 Ca^2+) = 6.0 × 10^22 Cl–)
+
+A 4.0 gram sample of calcium chloride contains 6.0 × 10 ^22cations. Giving your answer in scientific notation to the nearest whole number, determine the number of anions in 2 grams of CaCl^2. Assume the atomic mass of calcium is 40 and chloride is 35.
+
+----
+num: 16
+category: Biology
+difficulty: HS
+seen: 40
+answer: Batesian M Imicry  (Accept:  Mimicry or Warning Mimicry)
+(Do Not Accept:  Mullerian Mimicry)
+
+What is the most common term for the form of protection when a non-poisonous frog has the same appearance as a poisonous frog?
+
+----
+num: 17
+category: Physics
+difficulty: HS
+fixed: -1
+seen: 28
+answer: Uranium -235
+
+Name all of the following 4 isotopes that release energy if they undergo fission: helium-4; hydrogen-2; uranium-235; iron-56
+
+----
+num: 18
+category: Math
+difficulty: HS
+seen: 23
+answer: Circle
+(Solution:  X^2 + (Y + 5)^2 = 9)
+
+Identify the type of conic section represented by the equation, x^2 + y^2 + 10y + 16 = 0:
+
+----
+num: 18
+category: Math
+difficulty: HS
+seen: 24
+answer: 48 3
+(Solution: Apothem = 4; Perimeter = (8 3 )(3);  a = ½(4)(24 3 ) = 48 3 Cm^2)
+
+Find the area, in centimeters squared and in simplest radical form, of a regular or equilateral triangle whose circumcircle has a radius of 8 centimeters:
+
+----
+num: 19
+category: Earth Science
+difficulty: HS
+seen: 64
+answer: Radiation Fog  (Accept:  Radiation or Radiational)
+(Solution: Brought About by Radiational Cooling)
+
+What type of fog frequently forms in valleys when the wind is light and the ground cools until the dew point is reached?
+
+----
+num: 19
+category: Earth Science
+difficulty: HS
+seen: 64
+answer: Night
+
+Giving your answer as morning, afternoon, evening, or night, when does most radiational cooling occur for any lo cation in the U.S.?
+
+----
+num: 20
+category: General Science
+difficulty: HS
+seen: 28
+answer: Humidity  (Accept:  Relative Humidity; Ambient Humidity)
+
+What is the sling psychrometer used to measure?
+
+----
+num: 21
+category: Astronomy
+difficulty: HS
+seen: 56
+answer: Mercury
+
+As seen from the Earth, what planet has the smallest maximum eastern elongation?
+
+----
+num: 21
+category: Astronomy
+difficulty: HS
+seen: 55
+answer: Sunrise
+
+Choosing from noon, sunset, midnight or sunrise, at what time o f the day does a new Moon rise for an observer at mid -northern latitudes in September?
+
+----
+num: 22
+category: Chemistry
+difficulty: HS
+fixed: -1
+seen: 35
+answer: S = 2;  P = 6;  D = 10;  F = 14
+
+What is the electron capacity in each of the 4 sublevels s, p, d, and f, respectively?
+
+----
+num: 22
+category: Chemistry
+difficulty: HS
+seen: 35
+answer: 118.4
+(Solution: P
+^Dry = P
+^T – P
+^Wv = 120 Kpa – 1.6 Kpa = 118.4 Kpa)
+
+A sample of oxygen gas is collected over water at 1 4ºC. 
+Knowing that the vapor pressure of water at 14ºC is 1.6 kilopascals, and that the pressure of the resultant mixture is 120 kilopascals, find the pressure, to the first decimal place, exerted by the dry oxygen alone:
+
+----
+num: 23
+category: Biology
+difficulty: HS
+seen: 39
+answer: Monocyte
+
+What cell in the peripheral blood is the immediate precursor of th e macrophage?
+
+----
+num: 23
+category: Biology
+difficulty: HS
+fixed: -1
+seen: 38
+answer: Neutrophil;  Basophil
+
+Name all of the following 4 cells that are leukocytes:neutrophil; basophil; melanocyte ; macrophage
+
+----
+num: 24
+category: Physics
+difficulty: HS
+seen: 26
+answer: Stimulated Emission  (Accept:  Stimulated)
+
+As opposed to spontaneous emission, what is the type of emission, first theorized by Albert Einstein, where a photon interacts with an atom’s electron which, when it returns to a ground state, emits a coherent photon?
+
+----
+num: 24
+category: Physics
+difficulty: HS
+fixed: -1
+seen: 28
+answer: Water Boils;  Lead Melts;  Copper F Reezes;  Solar Corona
+
+Order the following 4 choices from the one with the LOWEST temperature to the one with the HIGHEST temperature: copper freezes; water boils; solar corona; lead melts
+
+----
+num: 25
+category: Math
+difficulty: HS
+fixed: -1
+seen: 24
+answer: I
+(Solution:  I^17 = I^1 = I)
+
+Simplify i^17 (read as: i to the 17^th power):
+
+----
+num: 25
+category: Math
+difficulty: HS
+fixed: -1
+seen: 25
+answer: 4 or –4 (Accept:  X = ±4 )
+(Solution: 7 +  X^2 – 2 = 21;  X = 4 and –4)
+
+Solve the following equation for x: 2^7 ×2^(^x^2^−^2^) = 2^21

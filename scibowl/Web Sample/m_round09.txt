@@ -1,0 +1,267 @@
+####
+tournament: Web Sample
+round: m_round09.pdf
+####
+
+num: 1
+category: Math
+difficulty: MS
+seen: 6
+answer: 72
+
+Find the product of 2^3 × 3^2:
+
+----
+num: 1
+category: Math
+difficulty: MS
+seen: 6
+answer: 5^3;  200^1;  3^5;  20^2
+
+Arrange the following 4 choices in INCREASING order: 200 ^1; 5^3; 3^5; 20^2
+
+----
+num: 2
+category: General Science
+difficulty: MS
+seen: 5
+answer: Water Molecule;  Virus;  Mosquito;  Mouse Spleen
+
+Arrange the following 4 choices from the one with the 
+LOWEST mass to the HIGHEST mass: virus; mouse spleen; mosquito; water molecule
+
+----
+num: 3
+category: Life Science
+difficulty: MS
+seen: 10
+answer: Synapse
+
+What is the most common name for the junctions across which nerve cells car ry chemical messages from cell to cell?
+
+----
+num: 3
+category: Life Science
+difficulty: MS
+seen: 10
+answer: Dendrite
+
+What is the most common name of the part of a neuron that takes its name from the Greek word for tree, and functions to carry electrical messages from other n erve cells to the soma?
+
+----
+num: 5
+category: Earth Science
+difficulty: MS
+seen: 8
+answer: Lateral  (Do Not Accept Any Other Moraine Type)
+
+What type of moraine forms along the valley walls of an alpine glacier?
+
+----
+num: 6
+category: Math
+difficulty: MS
+fixed: -1
+seen: 6
+answer: 50
+(Solution: –100 + 75 – 125 + 200 = $50.00)
+
+Maxine buys a stock for $100.00 and then sells it for $75.00. She repurchases the stock for $125.00, and 3 months later sells it for $200.00. What was her profit, in dollars?
+
+----
+num: 7
+category: General Science
+difficulty: MS
+seen: 6
+answer: Saturated F at = Solid;  Unsaturated Fat = Liquid
+
+What is the physical state of a saturated fat and a polyunsaturated fat, respectively, at room temperature , if both have 18 carbons per molecule ?
+
+----
+num: 8
+category: Life Science
+difficulty: MS
+seen: 10
+answer: Centriole
+
+Name all of the following 4 choices of eukaryotic sub -cellular structures that do NOT have their own specific membrane: chloroplast; lysosome; centriole; golgi
+
+----
+num: 9
+category: Physical Science
+difficulty: MS
+seen: 6
+answer: 3
+
+How many times as much momentum does a truck have traveling at 40 kilometers per hour if it triples its mass?
+
+----
+num: 9
+category: Physical Science
+difficulty: MS
+seen: 6
+answer: Citric Acid;  Carbonated Water
+
+Name all of the following 4 substances that will turn blue litmus paper red: citric acid; c arbonated water; ammonia; sodium hydroxide
+
+----
+num: 11
+category: Math
+difficulty: MS
+seen: 6
+answer: $400.00
+
+A college student has a budget of $600.00 per month. If at the end of a given month she spent $350.00 and earned an extra $150.00 in wages, how much is left in the budget at month’s end?
+
+----
+num: 12
+category: General Science
+difficulty: MS
+seen: 6
+answer: Coal
+
+What fossil fuel is the greatest fuel source for electricity generation in the world?
+
+----
+num: 12
+category: General Science
+difficulty: MS
+seen: 6
+answer: 10
+
+The acidity of a water sample with a pH of 5 is how many times as great as that of a sample with a pH of 6?
+
+----
+num: 14
+category: Physical Science
+difficulty: MS
+seen: 5
+answer: Temperature
+
+According to Charles’s gas law, the volume of a fixed amount of gas varies directly with what pro perty?
+
+----
+num: 15
+category: Earth Science
+difficulty: MS
+seen: 7
+answer: Transform Fault Boundary  (Accept:  Transform Margin or 
+Transform )
+
+What type of boundary exists where plates are neither produ ced nor destroyed, an example of which is the San Andreas fault?
+
+----
+num: 16
+category: Math
+difficulty: MS
+seen: 6
+answer: 1 and 2
+
+By words or number, name all of the following 3 statements which are always TRUE:
+1) the smaller angle formed by the hands of a clock at 2 o’clock is acute
+2) two non-vertical parallel lines have the same slope
+3) an altitude of an equilateral triangle forms two, 45º, 45º, 90º triangles
+
+----
+num: 16
+category: Math
+difficulty: MS
+seen: 6
+answer: 100
+
+If a staple-gun misfires 5 times for every 200 shots, how many times will it be expected to misfire in 4,000 shots?
+
+----
+num: 17
+category: General Science
+difficulty: MS
+seen: 5
+answer: 10
+
+If a star has a mass of 10 solar masses, how many times as much mass does it have as the Sun?
+
+----
+num: 19
+category: Physical Science
+difficulty: MS
+seen: 5
+answer: 6.02 × 10^24
+(Solution: (10 Mol H ^2o)(6.023 × 10^23 Molecules/mole) = 6.023 × 10 ^24 Molecules)
+
+Giving your answer in scientific notation to the second decimal place, how many molecules are in 10 moles of H ^2O?
+
+----
+num: 19
+category: Physical Science
+difficulty: MS
+seen: 6
+answer: 2nh ^3
+
+Using proper chemical formulas, finish balancing the following equation: N^2 + 3H^2  what?
+
+----
+num: 21
+category: Math
+difficulty: MS
+fixed: -1
+seen: 6
+answer: X ≥ 2
+
+Solve the following inequality for x: 3(x + 1) ≥ 9
+
+----
+num: 21
+category: Math
+difficulty: MS
+seen: 7
+answer: 26
+7
+
+Evaluate the following complex fraction, giving your answer as an1
+improper fraction in lowest terms: 21−−217
+
+----
+num: 22
+category: General Science
+difficulty: MS
+seen: 5
+answer: Atlantic Time Zone  (Accept:  Atlantic)
+
+What is the name for the time zone immediately east of the Eastern Time Zone?
+
+----
+num: 22
+category: General Science
+difficulty: MS
+seen: 6
+answer: 15
+
+Ignoring boundary adjustments, most individual time zones are how many degrees of longitude apart?
+
+----
+num: 23
+category: Life Science
+difficulty: MS
+seen: 10
+answer: Starch;  Glycogen
+
+Name all of the following 4 molecules that are storage forms of glucose: starch; wax; glycogen; maltose
+
+----
+num: 24
+category: Physical Science
+difficulty: MS
+seen: 5
+answer: Photon
+
+What is the name of the particle that carries the electromagnetic force?
+
+----
+num: 24
+category: Physical Science
+difficulty: MS
+seen: 6
+answer: 0.0005  (Accept:  5 × 10–^4)
+(Solution: Period = 1/f)
+
+If a wave has a frequency of 2,000 hertz, what is its period, in seconds?

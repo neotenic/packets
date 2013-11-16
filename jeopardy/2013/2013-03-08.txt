@@ -1,0 +1,429 @@
+####
+tournament: #6560
+round: Show #6560 - Friday, March 8, 2013
+year: 2013
+date: 2013-03-08
+####
+
+num: 1
+category: Trash
+difficulty: 200
+seen: 6
+answer: the Brewers
+
+Appropriate name of the Major League baseball team whose home field is Miller Park.
+
+----
+num: 2
+category: History
+difficulty: 200
+seen: 6
+answer: New York
+
+Near Syracuse in late August-early September.
+
+----
+num: 3
+category: Art
+difficulty: 200
+seen: 4
+answer: a phonograph
+
+Edison's first one of these had 2 needles, one for recording & one for playback.
+
+----
+num: 4
+category: Literature
+difficulty: 200
+seen: 4
+answer: a billion
+
+A one followed by 9 zeros.
+
+----
+num: 5
+category: Religion
+difficulty: 200
+seen: 11
+answer: the law
+
+"Torah" literally means "instruction" or this, something a solicitor practices.
+
+----
+num: 6
+category: History
+difficulty: 200
+seen: 5
+answer: Roald Amundsen
+
+Brr!  This Norwegian explorer's.
+
+----
+num: 7
+category: Trash
+difficulty: 400
+seen: 5
+answer: Arsenal
+
+This English Premier League team whose name means a stockpile of weapons has a cannon in its logo.
+
+----
+num: 8
+category: History
+difficulty: 400
+seen: 3
+answer: Colorado
+
+In Pueblo in late August- early September.
+
+----
+num: 9
+category: Literature
+difficulty: 400
+seen: 4
+answer: "Reveille"
+
+A drum as well as a bugle can sound this early morning wake-up signal.
+
+----
+num: 10
+category: Religion
+difficulty: 400
+seen: 10
+answer: five
+
+"Torah" is another word for the Pentateuch, the Old Testament's first this many books.
+
+----
+num: 11
+category: History
+difficulty: 400
+seen: 4
+answer: De Soto
+
+This Hernando's hideaway in the winter of 1539-40 was a village in northern Florida.
+
+----
+num: 12
+category: Trash
+difficulty: 600
+seen: 5
+answer: Oklahoma City
+
+The NBA's Sonics left Seattle & moved to this "city".
+
+----
+num: 13
+category: History
+difficulty: 600
+seen: 4
+answer: Georgia
+
+At Macon in late April- early May.
+
+----
+num: 14
+category: Art
+difficulty: 600
+seen: 4
+answer: a safety pin
+
+To settle a $15 debt in 1849, Walter Hunt invented this, now a symbol of punk rockers.
+
+----
+num: 15
+category: Literature
+difficulty: 600
+seen: 4
+answer: parallel
+
+Extending in the same direction, equidistant at all points & never converging or diverging.
+
+----
+num: 16
+category: Religion
+difficulty: 600
+seen: 9
+answer: Mount Sinai
+
+The Torah was received by Moses when he was at this lofty place.
+
+----
+num: 17
+category: Trash
+difficulty: 800
+seen: 4
+answer: the Revolution
+
+We don't know if they like to "Dance, Dance", but Major League Soccer's team in New England is called this.
+
+----
+num: 18
+category: History
+difficulty: 800
+seen: 4
+answer: Montana
+
+At Great Falls in late July- early August.
+
+----
+num: 19
+category: Art
+difficulty: 800
+seen: 4
+answer: John Glenn
+
+The NASA lapel pin for his February 1962 Mercury flight depicts his capsule making 3 orbits of Earth.
+
+----
+num: 20
+category: Literature
+difficulty: 800
+seen: 4
+answer: valley
+
+A geographical feature, such as the one "of Ten Thousand Smokes" in a volcanic area of Alaska.
+
+----
+num: 21
+category: Religion
+difficulty: 800
+seen: 9
+answer: an ark
+
+In synagogues the Torah resides in a compartment known by this 3-letter term.
+
+----
+num: 22
+category: History
+difficulty: 800
+seen: 4
+answer: Genghis Khan
+
+Tim Cope's 6,000-mile journey from Mongolia to Hungary led to the documentary "The Trail of" this fierce guy.
+
+----
+num: 23
+category: Trash
+difficulty: 1000
+seen: 5
+answer: Winnipeg
+
+After 15 years away, in 2011 NHL hockey came back to this Canadian city whose name begins with victory.
+
+----
+num: 24
+category: History
+difficulty: 1000
+seen: 4
+answer: North Dakota
+
+At Minot in late July.
+
+----
+num: 25
+category: Art
+difficulty: 1000
+seen: 3
+answer: acupuncture
+
+Gold & silver needles used in this medical practice were found in the tomb of Liu Sheng, who was buried in 113 B.C.
+
+----
+num: 26
+category: Literature
+difficulty: 1000
+seen: 4
+answer: syllogism
+
+"God is love.  Love is blind.  Bob Smith is blind.  Therefore Bob Smith is God" is a faulty this philosophic term.
+
+----
+num: 27
+category: Religion
+difficulty: 1000
+seen: 9
+answer: a finger (or hand)
+
+To avoid touching the words of the Torah, follow along with a yad, shaped like one of these body parts.
+
+----
+num: 28
+category: History
+difficulty: 1000
+seen: 4
+answer: Leif Ericson
+
+(Kely delivers the clue by a map).
+
+----
+num: 29
+category: History
+difficulty: 400
+seen: 4
+answer: Granada
+
+Spice baskets are popular gift items you can purchase in St. George's, capital of this island invaded by the U.S. in 1983.
+
+----
+num: 30
+category: Literature
+difficulty: 400
+seen: 4
+answer: Heidi
+
+She's the title Swiss Miss in an 1881 Johanna Spyri story.
+
+----
+num: 31
+category: Science
+difficulty: 400
+seen: 5
+answer: an eyelid
+
+It should take just a wink to tell us a nictitating membrane is a third one of these found in birds.
+
+----
+num: 32
+category: History
+difficulty: 400
+fixed: -1
+seen: 4
+answer: the Norman Invasion
+
+The icing on this invasion was when William was crowned in Westminster Abbey on Christmas Day, 1066.
+
+----
+num: 33
+category: Trash
+difficulty: 800
+seen: 4
+answer: Laura Palmer
+
+This young woman's death in the first episode led to many strange events in the title town on "Twin Peaks".
+
+----
+num: 34
+category: Science
+difficulty: 800
+seen: 5
+answer: testosterone
+
+In adult females, this primary male hormone contributes to the formation of estrogen in the ovaries.
+
+----
+num: 35
+category: History
+difficulty: 800
+seen: 4
+answer: Norman Rockwell
+
+During WWII his "Four Freedoms" posters were reproduced by the Office of War Information.
+
+----
+num: 36
+category: History
+difficulty: 1200
+seen: 4
+answer: the British Virgin Islands
+
+H.M. [Her Majesty's] Prison, which dates to the 1840s, is the oldest building in Road Town, the capital of this British island group.
+
+----
+num: 37
+category: Literature
+difficulty: 1200
+seen: 4
+answer: Charles Dickens characters
+
+Wilkins Micawber,.
+
+----
+num: 38
+category: Literature
+difficulty: 1200
+seen: 4
+answer: Dr. Dolittle
+
+"The voyages of" this M.D. won the 1923 Newbery Medal for Best Children's Book.
+
+----
+num: 39
+category: Trash
+difficulty: 1200
+seen: 6
+answer: the "D" List
+
+Kathy Griffin's Emmy-winning series on Bravo was "My Life On" this.
+
+----
+num: 40
+category: History
+difficulty: 1200
+seen: 5
+answer: (Norman) Schwartzkoff
+
+In 1992 this Gulf War general published an autobiography, "It Doesn't Take A Hero".
+
+----
+num: 41
+category: History
+difficulty: 1600
+seen: 4
+answer: St. John\'s
+
+This capital of Antigua & Barbuda shares its name with the capital of Newfoundland.
+
+----
+num: 42
+category: Trash
+difficulty: 1600
+seen: 6
+answer: Jimmy Kimmel
+
+This ABC late-night talk show got into trouble on its very first telecast when it offered its audience & its guests an open bar.
+
+----
+num: 43
+category: Science
+difficulty: 1600
+seen: 5
+answer: ventral or abdominal
+
+"Dorsal" means relating to the back, while this means relating to the underside.
+
+----
+num: 44
+category: History
+difficulty: 1600
+seen: 5
+answer: Norman Mailer
+
+His experiences in the Invasion of Luzon became the basis for his novel "The Naked And The Dead".
+
+----
+num: 45
+category: History
+difficulty: 2000
+seen: 6
+answer: Port of Spain
+
+Trinidad & Tobago's capital has this name; sounds like Barcelona or someplace.
+
+----
+num: 46
+category: Science
+difficulty: 2000
+seen: 8
+answer: cilia
+
+These microscopic hairlike projections on protozoans are used for movement.
+
+----
+num: 47
+category: History
+difficulty: 2000
+seen: 6
+answer: the American Way
+
+TV producer & former B-17 gunner Norman Lear founded "People For" this patriotic concept.

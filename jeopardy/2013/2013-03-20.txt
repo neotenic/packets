@@ -1,0 +1,393 @@
+####
+tournament: #6568
+round: Show #6568 - Wednesday, March 20, 2013
+year: 2013
+date: 2013-03-20
+####
+
+num: 1
+category: History
+difficulty: 200
+seen: 5
+answer: Ronald Reagan & Jimmy Carter
+
+From their Oct. 28, 1980 set-to: "Are you better off than you were 4 years ago?".
+
+----
+num: 2
+category: Literature
+difficulty: 200
+seen: 4
+answer: the bottom line
+
+On a financial statement, it shows the net income or loss.
+
+----
+num: 3
+category: Art
+difficulty: 200
+seen: 4
+answer: New Orleans
+
+The Lower Ninth Ward of this city is between the Mississippi & the main Outfall Canal.
+
+----
+num: 4
+category: History
+difficulty: 200
+seen: 6
+answer: Puerto Rico
+
+Found near San Juan, Fort Buchanan is the only U.S. Army base in this commonwealth.
+
+----
+num: 5
+category: History
+difficulty: 400
+seen: 4
+answer: George Bush, Sr. & Michael Dukakis
+
+Patriotism, or lack thereof, was on the docket in their Sept. 25, 1988 dustup at Wake Forest.
+
+----
+num: 6
+category: Literature
+difficulty: 400
+fixed: -1
+seen: 3
+answer: the bottom of the seventh
+
+At a baseball game, fans traditionally stand up & stretch just before this part of the game.
+
+----
+num: 7
+category: Art
+difficulty: 400
+seen: 4
+answer: Beethoven\'s Ninth
+
+This musical masterpiece premiered May 7, 1824.
+
+----
+num: 8
+category: History
+difficulty: 400
+seen: 4
+answer: glaciers
+
+Thule, the northernmost U.S. air base, is near one of the only spots on earth where 3 of these ice masses meet.
+
+----
+num: 9
+category: Trash
+difficulty: 600
+seen: 5
+answer: United
+
+"Fly the Friendly Skies".
+
+----
+num: 10
+category: History
+difficulty: 600
+seen: 4
+answer: Ronald Reagan & Walter Mondale
+
+Barbara Walters moderated their Oct. 7, 1984 event in Louisville.
+
+----
+num: 11
+category: Literature
+difficulty: 600
+seen: 4
+answer: bottoms up!
+
+This toast suggests that you'll turn your glass upside down.
+
+----
+num: 12
+category: Art
+difficulty: 600
+seen: 4
+answer: precinct
+
+The station house of the NYPD's 9th of these areas was seen in "NYPD Blue" & "Kojak".
+
+----
+num: 13
+category: History
+difficulty: 600
+seen: 4
+answer: Afghanistan
+
+One of the joint military bases in this country is found at Kandahar International Airport.
+
+----
+num: 14
+category: Trash
+difficulty: 800
+seen: 5
+answer: Calvins
+
+"Nothing Comes Between Me and My" these.
+
+----
+num: 15
+category: Literature
+difficulty: 800
+seen: 4
+answer: Nicholas Sparks
+
+A bunch of his romance novels have been made into films, including "The Lucky One" & "The Notebook".
+
+----
+num: 16
+category: History
+difficulty: 800
+seen: 4
+answer: Bush the First, Clinton & Perot
+
+66.9 million tuned in to these 3 men at Michigan State University on Oct. 19, 1992.
+
+----
+num: 17
+category: Literature
+difficulty: 800
+seen: 3
+answer: your bottom dollar
+
+A song from "Annie" tells us, "the sun'll come out tomorrow, bet your" this "that tomorrow there'll be sun".
+
+----
+num: 18
+category: Art
+difficulty: 800
+seen: 4
+answer: Ramadan
+
+This ninth month of the Islamic calendar celebrates the revelation of the Koran to Muhammad.
+
+----
+num: 19
+category: History
+difficulty: 800
+seen: 3
+answer: Camp Pendleton
+
+This Marine "camp" near San Diego has Southern California's largest area of undeveloped coastline.
+
+----
+num: 20
+category: Trash
+difficulty: 1000
+seen: 5
+answer: Alka-Seltzer
+
+"I Can't Believe I Ate the Whole Thing".
+
+----
+num: 21
+category: History
+difficulty: 1000
+seen: 5
+answer: George W. Bush & Al Gore
+
+A few elections back at UMass Boston, we heard about "fuzzy math" & a "lockbox" from these 2.
+
+----
+num: 22
+category: Literature
+difficulty: 1000
+seen: 4
+answer: the Bottomless Pit
+
+A hole in Mammoth Cave has this name despite being only 105 feet deep.
+
+----
+num: 23
+category: Art
+difficulty: 1000
+seen: 4
+answer: the Ninth Legion
+
+Entering legend & the movies, the ninth of these units is said to have disappeared in Britain in 117 A.D.
+
+----
+num: 24
+category: History
+difficulty: 400
+seen: 4
+answer: Benedict Arnold
+
+Deeply in debt, he & his wife Peggy began providing the British with America's military plans in 1779.
+
+----
+num: 25
+category: Trash
+difficulty: 400
+seen: 6
+answer: "The Star-Spangled Banner"
+
+In 1991 Whitney Houston had a pop hit with a version of this patriotic song.
+
+----
+num: 26
+category: Literature
+difficulty: 400
+seen: 4
+answer: a hand
+
+Body part said to be given by a father symbolizing his consent for a daughter to marry.
+
+----
+num: 27
+category: Science
+difficulty: 400
+seen: 6
+answer: arch-
+
+Meaning "highest":.
+
+----
+num: 28
+category: History
+difficulty: 800
+seen: 3
+answer: Judas (Iscariot)
+
+"He cast down the pieces of silver in the temple" & then hanged himself.
+
+----
+num: 29
+category: Literature
+difficulty: 800
+seen: 4
+answer: community
+
+California is this type of property state, so all property acquired during a marriage is equally shared.
+
+----
+num: 30
+category: Science
+difficulty: 800
+seen: 6
+answer: a porpoise
+
+Unlike dolphins, which have cone-shaped teeth, these smaller cetaceans have teeth that are spade-shaped.
+
+----
+num: 31
+category: Trash
+difficulty: 1200
+seen: 5
+answer: Willie Stargell
+
+Pittsburgh Pirate was the MVP of the 1979 World Series.
+
+----
+num: 32
+category: Literature
+difficulty: 1200
+seen: 3
+answer: a date night
+
+A regular evening out to keep a marriage strong; one goes wrong for Tina Fey & Steve Carell in a 2010 film.
+
+----
+num: 33
+category: Science
+difficulty: 1200
+seen: 5
+answer: the walrus
+
+Its scientific name, Odobenus rosmarus, means "tooth-walking sea-horse".
+
+----
+num: 34
+category: Science
+difficulty: 1200
+seen: 6
+answer: trans-
+
+Meaning "across":.
+
+----
+num: 35
+category: History
+difficulty: 1600
+seen: 4
+answer: Guy Fawkes
+
+In 1605 he filled a cellar below the House of Lords with explosives, but the plot was discovered on November 4.
+
+----
+num: 36
+category: Literature
+difficulty: 1600
+seen: 4
+answer: L. Ron Hubbard
+
+"Mission Earth" is a series by this man who wrote science fiction before founding a church.
+
+----
+num: 37
+category: Literature
+difficulty: 1600
+seen: 5
+answer: a marriage & family therapist
+
+If things are going wrong, you can visit an MFT, short for this, who'll ask you what drives you crazy about each other.
+
+----
+num: 38
+category: Science
+difficulty: 1600
+seen: 6
+answer: peri-
+
+Meaning "around":.
+
+----
+num: 39
+category: History
+difficulty: 2000
+seen: 6
+answer: Quisling
+
+In 1933 he founded the National Union, a fascist party in Norway, & later received subsidies from Germany.
+
+----
+num: 40
+category: Trash
+difficulty: 2000
+seen: 8
+answer: lucky star
+
+In 1984 Madonna sang, "you must be my" this "'cause you shine on me wherever you are".
+
+----
+num: 41
+category: Literature
+difficulty: 2000
+seen: 6
+answer: ChristianMingle
+
+"Find God's Match for You" is the slogan of this online dating site with more than 5 million members.
+
+----
+num: 42
+category: Science
+difficulty: 2000
+seen: 9
+answer: otters
+
+Pups of the sea type of this weasel family member cannot dive under water because their thick fur traps so much air.
+
+----
+num: 43
+category: Science
+difficulty: 2000
+seen: 9
+answer: meta-
+
+Meaning "beyond" or "change":.

@@ -1,0 +1,204 @@
+####
+tournament: Fall Novice
+round: round03.doc
+year: 2009
+####
+
+num: 1
+category: Literature
+difficulty: HS
+fixed: -1
+seen: 459
+answer: Catch-22
+
+This novel's protagonist refuses to wear clothes after Snowden dies in his arms and signs letters as Washington Irving. That protagonist learns that Orr escaped to Sweden, and his friend Dunbar was “disappeared” during a hospital riot. This novel describes a squadron on Pianosa commanded by Colonel Cathcart whose mess officer is Milo Minderbinder. For 10 points, name this novel in which the protagonist flies 71 missions, a work about Major Major and Yossarian by Joseph Heller.
+
+----
+num: 2
+category: History
+difficulty: HS
+fixed: 57
+seen: 421
+answer: Alexander {Hamilton}
+
+This man attempted to get southern electors to vote for Thomas Pinckney in an attempt to hinder John Adams. This man's campaigning for Morgan Lewis for Governor of New York resulted in this man's death. This man effectively commanded the US Army during the Quasi War with France. In addition to being one of George Washington's closest confidantes, this man was one of the authors of the Federalist Papers and served as the first Secretary of the Treasury. For 10 points, name this man who was killed in a duel by Aaron Burr.
+
+----
+num: 3
+category: History
+difficulty: HS
+fixed: 57
+seen: 420
+answer: {Hannibal} [accept {Hannibal Barca}; prompt on {Barca}]
+
+This man's brother's head was tossed into this man's camp after the Battle of the Metaurus. This man began the conflict in which he fought by attacking Saguntum. He won major victories at Trebia and Lake Trasimene. This man's family included military men like Hamilcar and Hasdrubal. After leading elephants across the Alps, this man fought against Rome at the Battles of Cannae and Zama during the Second Punic War. For 10 points, name this Carthaginian general.
+
+----
+num: 4
+category: Literature
+difficulty: HS
+fixed: 1
+seen: 444
+answer: Lolita
+
+In this novel, Valeria leaves her husband and later dies, leading him to eventually move to America. There that character marries Charlotte, who is killed in a hit and run, and Gustave Trapp later checks Charlotte's daughter out of the hospital. The title character of this novel earns a part in The Enchanted Hunters, a play by Clare Quilty. That character, Dolores Haze, is loved by Humbert Humbert, who bestows on her the titular nickname. For 10 points, name this novel by Vladimir Nabokov.
+
+----
+num: 5
+category: History
+difficulty: HS
+fixed: 1
+seen: 424
+answer: the {assassination} of Archduke Franz {Ferdinand} [or equivalents, like {murder} or killing]
+
+The conspirators in this event were coordinated by Danilo Ilic. This event was preceded by the throwing of a hand grenade by Cabrinovic that blew up the wrong car. This action, which was meant to cause the secession of a certain nation's south-Slav provinces, killed Duchess Sophie. Following it, the Russian, French, German, and Austro-Hungarian armies mobilized. Organized by the Black Hand terrorist cell, for 10 points, identify this killing in Sarajevo by Gavrilo Princip that led to World War I.
+
+----
+num: 6
+category: Social Science
+difficulty: HS
+fixed: 1
+seen: 385
+answer: Milton {Friedman}
+
+This man wrote extensively about the “Miracle of Chile,” and also argued that government policies turned a “garden-variety recession” into the “Great Contraction” from 1929 to 1933. His reinterpretation of Keynes' consumption function became the “permanent income hypothesis,” and this author of Capitalism and Freedom focused on government-caused inflation and the money supply in his theory of monetarism. For 10 points, name this conservative Chicago School economist.
+
+----
+num: 7
+category: Geography
+difficulty: HS
+fixed: 1
+seen: 716
+answer: Kingdom of {Thailand} or {Ratcha Anachak Thai} or {Prathet Thai}
+
+In this nation, the Khorat Plateau creates eastern highlands. The Chao Phraya River flows through this nation's largest city and into this country's namesake gulf. This nations's northern border is formed by the Mekong River. This nation's major cities include Chiang Mai and Phuket, and it is bordered by Myanmar, Cambodia, Laos, and Malaysia. For 10 points, name this Southeast Asian nation, with capital at Bangkok.
+
+----
+num: 8
+category: Fine Arts
+difficulty: HS
+fixed: 1
+seen: 492
+answer: Richard {Wagner}
+
+This designer of the Bayreuth [BYE-royt] Festival Theater included the “Liebestod” aria in Tristan and Isolde, and he composed a wedding march for Lohengrin. His four-part opera cycle follows Siegfried and Brunnhilde, beginning with The Rhine Gold and ending with Gotterdamerung, or Twilight of the Gods. For 10 points, name this German Romantic composer of The Ring of the Nibelung, which includes the “Ride of the Valkyries”.
+
+----
+num: 9
+category: History
+difficulty: HS
+fixed: 1
+seen: 421
+answer: {Crimean} War
+
+This war's last major battle was the Siege of Kars, and Lord Raglan commanded the British forces. The hospital at Scutari was run by Florence Nightingale, and major battles in this war occurred at Alma, Inkerman, Sebastopol, and the site of the Charge of the Light Brigade, Balaclava. For 10 points, name this war between allied Turkish, British, and French forces and Russia, named for an Eastern European peninsula.
+
+----
+num: 10
+category: Science
+difficulty: HS
+fixed: 1
+seen: 485
+answer: {nucleus}
+
+These structures are targeted by the DAPI stain and some proteins associated with them contain alpha-solenoid and beta-propeller folds, known as its namesake pores. Syncytia contain many of these structures. The membrane of this structure is continuous with the rough ER, and this structure contains histone proteins strung together in chromatin. For 10 points, name this cell structure present in eukaryotes in which transcription and DNA synthesis take place.
+
+----
+num: 11
+category: Religion
+difficulty: HS
+fixed: 1
+seen: 439
+answer: St. {John} the {Baptist} [prompt on {John}; accept {Iokanaan} or {Johanan}]
+
+A description of this man's father, Zachariah, opens the Gospel of Luke, and the Visitation occurred to his mother Elizabeth. Also known for his diet of wild locusts, Salomé demanded this figure's head on a silver platter from King Herod, who imprisoned and executed him. For 10 points, name this prophet who lived in the wilderness, a New Testament figure who got his epithet from performing an aquatic sacrament on people including Jesus Christ.
+
+----
+num: 12
+category: Science
+difficulty: HS
+fixed: 57
+seen: 487
+answer: {isomerism} [accept word forms {such} as {isomers}]
+
+When hydrocarbon chains show different amounts of branching, it is called the “chain” type of this relationship. A certain enzyme that knots DNA turns it into the “topological” type of this. One example of this relationship is seen when two molecules are mirror-images of each other; they are called enantiomers. Also grouped into stereo- and structural types, for 10 points, name this relationship characterized by shared molecular formulas but different structural formulas.
+
+----
+num: 13
+category: Mythology
+difficulty: HS
+fixed: 1
+seen: 800
+answer: {Hermes} [accept {Mercury} until “{Odysseus}”]
+
+In one myth, this god arrived to protect his great-grandson using the plant moly. In addition to saving Odysseus from Circe, this grandson of Atlas not only invented the lyre and stole all of Apollo's cattle, but did it on the day of his birth. The god of thieves and crossroads and son of Maia, this bearer of the caduceus was assisted in his primary role by objects he once lent to Perseus, his winged sandals. For 10 points, name this counterpart of Mercury, the Greek messenger god.
+
+----
+num: 14
+category: Science
+difficulty: HS
+fixed: 1
+seen: 495
+answer: {Jupiter}
+
+One of this planet's moons is home to Pwyll Crater, and that moon is believed to have a layer of liquid water below its surface; other moons of this planet include Adrastea and Metis. The Shoemaker-Levy 9 comet was ripped apart upon entering the gravitational field of this planet, and the largest moon in the solar system revolves around this planet. Home to such Galilean moons as Europa and Ganymede, this is, for 10 points, what planet, the largest in our solar system?
+
+----
+num: 15
+category: Fine Arts
+difficulty: HS
+fixed: 1
+seen: 486
+answer: The {Night Watch} [or De {Nachtwacht}; or The Company of {Frans Banning Cocq} and {Willem von Ruytenburch}; or {Officieren en andere schutters van wijk II} in {Amsterdam onder leiding van kapitein Frans Banninck Cocq en luitenant Willem van Ruytenburch}]
+
+In this painting, a drummer stands on the extreme left and looks at the viewer. One figure in this painting holds a large blue and yellow flag, while another wears red and is loading a musket. This painting also shows a brightly-lit girl with a chicken on her back. That girl, who is wearing gold, is behind a man in gold and another man in a red sash. Given its nickname because of the dark varnish covering it, for 10 points, name this Rembrandt painting of a militia company.
+
+----
+num: 16
+category: History
+difficulty: HS
+fixed: 1
+seen: 415
+answer: {Xerxes I} of Persia [or {Xerxes} the {Great}; or {Khshayarsha}; or {Ahasuerus}; prompt on {Xerxes}]
+
+This man's subordinate Artemisia I lost the battle of Artemisium and this man's murder is attributed to his bodyguard, Artabanus, after he returned from a defeat at the hands of Pausanius. The aforementioned defeat included one battle resulting in the death of Mardonius and another involving the disastrous use of triremes near Athens, while another victory of this man's resulted in the death of Leonidas. For 10 points, name this Persian king, son of Darius I, who fought the Battles of Plataea, Salamis, and Thermopylae.
+
+----
+num: 17
+category: Science
+difficulty: HS
+fixed: 57
+seen: 488
+answer: Isaac {Newton}
+
+This man's study of the three body problem was published in his most famous work. The rate of a body's heat loss is proportional to the difference in the body's temperature and the surrounding temperature in his namesake Law of Cooling. Besides inventing calculus at the same time as Leibniz, he also published a work about prisms and color, Optics. For 10 points, name this scientist, who wrote Principia, and probably discovered gravity by watching an apple fall down.
+
+----
+num: 18
+category: Literature
+difficulty: HS
+fixed: None
+seen: 451
+answer: Christopher Marlowe
+
+One of his poems details two lovers separated by the Hellespont and was completed by George Chapman, “Hero and Leander.” One of this man's historical plays concerns a Scythian conqueror, Tamburlaine the Great, and the title character of another of his plays falls into a burning cauldron of oil. In another play by this man, the title character summons Mephostopilis. For 10 points, name this contemporary of Shakespeare who wrote The Jew of Malta and Doctor Faustus.
+
+----
+num: 19
+category: Trash
+difficulty: HS
+fixed: 1
+seen: 1030
+answer: {Nirvana}
+
+In one song by this band, the lead singer says that he will “distill the life inside of me” with “Pennyroyal Tea”. In another song by this band, the singer swears, "[he doesn't] have a gun, "while a third tells the listener to “load up on guns and bring your friends.” Songs like “Come As You Are” appear on this band's most famous album whose cover shows a baby swimming, and is called Nevermind. For 10 points, name this grunge band responsible for "Smells Like Teen Spirit," fronted by Kurt Cobain.
+
+----
+num: 20
+category: Literature
+difficulty: HS
+fixed: 1
+seen: 447
+answer: Robert Louis {Stevenson}
+
+In one novel by this man, Alan Breck assists a claimant to part of the Shaw estate, Davy Balfour, and another narrated by Gabriel Utterson sees a chemist trample a child outside a mysterious door. In addition to Kidnapped, this man wrote a novel in which Dr. Livesey is among the crew of the Hispaniola along with Squire Trelawney and another about a man who uses an appearance changing drug. For 10 points name this author of Dr. Jekyll and Mr. Hyde and Treasure Island.

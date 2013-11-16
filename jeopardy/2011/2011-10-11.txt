@@ -1,0 +1,366 @@
+####
+tournament: #6222
+round: Show #6222 - Tuesday, October 11, 2011
+year: 2011
+date: 2011-10-11
+####
+
+num: 1
+category: Trash
+difficulty: 200
+seen: 5
+answer: Bourke
+
+Classic bag shapes inspire the Connecticut-based brand of purses called Dooney & this.
+
+----
+num: 2
+category: Trash
+difficulty: 200
+seen: 6
+answer: Bill Clinton
+
+...president & you'll get his foundation's website listing offices in NYC & Little Rock.
+
+----
+num: 3
+category: Trash
+difficulty: 400
+seen: 5
+answer: television
+
+Fred Allen, 1950:.
+
+----
+num: 4
+category: Trash
+difficulty: 400
+seen: 5
+answer: Kate Spade
+
+She was Kate Brosnahan when she designed her first utilitarian purses, sold now as this brand.
+
+----
+num: 5
+category: Trash
+difficulty: 400
+seen: 5
+answer: a gorilla
+
+...primate & you'll get the foundation that's the home to Koko, one famous for her sign language skills.
+
+----
+num: 6
+category: Trash
+difficulty: 600
+seen: 4
+answer: Marc Jacobs
+
+He's made his "Marc" with his luxury purses, which often feature his signature "MJ" push lock detail.
+
+----
+num: 7
+category: Literature
+difficulty: 600
+seen: 4
+answer: Jane Austen
+
+Mr. Fitzwilliam Darcy.
+
+----
+num: 8
+category: Trash
+difficulty: 600
+seen: 5
+answer: VW (Volkswagen)
+
+...automaker & you'll find information on its models like the Touareg & the GTI.
+
+----
+num: 9
+category: Trash
+difficulty: 800
+seen: 5
+answer: Louis Vuitton
+
+The "LV" monogram canvas of this brand dates to 1896.
+
+----
+num: 10
+category: Trash
+difficulty: 800
+seen: 5
+answer: Major League Soccer
+
+...sports league & you'll find information on its teams, like Real Salt Lake & D.C. United.
+
+----
+num: 11
+category: Trash
+difficulty: 1000
+seen: 5
+answer: Hermès
+
+The Birkin bag, named for actress Jane Birkin, is a status symbol from this French company.
+
+----
+num: 12
+category: Trash
+difficulty: 1000
+seen: 6
+answer: Southern Baptist (Convention)
+
+...religious denomination with more than 16 million members & you'll find its home page, www.sbc.net.
+
+----
+num: 13
+category: Trash
+difficulty: 400
+seen: 5
+answer: Jesse Owens
+
+At a 1935 college track meet, he broke 3 world records & tied a fourth; then it was on to the Berlin Olympics.
+
+----
+num: 14
+category: Social
+difficulty: 400
+seen: 5
+answer: securities
+
+As its name says, the SEC regulates these S's & wants investors to know that unlike bank deposits, they can lose value.
+
+----
+num: 15
+category: Geography
+difficulty: 400
+seen: 7
+answer: the Sierra Nevadas
+
+Mount Whitney in this Western range is the highest peak in the lower 48 states.
+
+----
+num: 16
+category: History
+difficulty: 400
+seen: 4
+answer: the Spanish-American War
+
+Commanding J.P. Morgan's converted yacht, Richard Wainwright was a hero of the Battle of Santiago in this 1898 war.
+
+----
+num: 17
+category: Science
+difficulty: 400
+seen: 5
+answer: the Milky Way
+
+The sun is about 25,000 light years from the center of this galaxy, & one of hundreds of billions of stars within it.
+
+----
+num: 18
+category: Literature
+difficulty: 400
+seen: 4
+answer: a ten-gallon hat
+
+It's a broad-brimmed hat with a high crown, pardner.
+
+----
+num: 19
+category: Trash
+difficulty: 800
+seen: 4
+answer: John Elway
+
+Hitting .361 as a sophomore got him a contract with the Yankees, but he'd win Super Bowls as a Bronco quarterback.
+
+----
+num: 20
+category: Social
+difficulty: 800
+seen: 6
+answer: Bernie Madoff
+
+Before Congress in 2009, investigator Harry Markopolos lambasted the SEC's (non-)oversight of this Ponzi schemer.
+
+----
+num: 21
+category: Geography
+difficulty: 800
+seen: 8
+answer: Kilimanjaro
+
+Shira is the westernmost of the 3 extinct volcanoes that make up this highest peak in Africa.
+
+----
+num: 22
+category: History
+difficulty: 800
+seen: 4
+answer: representation
+
+1760s political activist James Otis is credited with the phrase "taxation without" this "is tyranny".
+
+----
+num: 23
+category: Science
+difficulty: 800
+seen: 5
+answer: the core
+
+The temperature of this area of the Sun, also a term for the central part of a fleshy fruit, is close to 27 million degrees.
+
+----
+num: 24
+category: Literature
+difficulty: 800
+seen: 4
+answer: tenderloin
+
+This cut of meat terminates before the ribs.
+
+----
+num: 25
+category: Trash
+difficulty: 1200
+seen: 5
+answer: the Heisman
+
+The model for this, originally called the Downtown Athletic Club Trophy, was NYU football player Ed Smith.
+
+----
+num: 26
+category: Social
+difficulty: 1200
+seen: 4
+answer: a J.D. (a law degree)
+
+To help enforce the regs, all the commissioners have this type of graduate degree, including from Yale & Harvard.
+
+----
+num: 27
+category: Geography
+difficulty: 1200
+seen: 8
+answer: Mount Rainier
+
+It's the highest peak in the Cascade range of the Northwest.
+
+----
+num: 28
+category: Science
+difficulty: 1200
+fixed: -1
+seen: 6
+answer: sunspots
+
+These dark areas appear so because they are 4,000 degrees cooler than the rest of the Sun's visible surface.
+
+----
+num: 29
+category: Literature
+difficulty: 1200
+seen: 4
+answer: a tenet
+
+Ex-CIA head George, or a dogma held as true by members of a movement.
+
+----
+num: 30
+category: Trash
+difficulty: 1600
+seen: 6
+answer: Winklevoss
+
+Last name of the twins seen.
+
+----
+num: 31
+category: Social
+difficulty: 1600
+seen: 5
+answer: margin
+
+The act that set up the SEC restricted buying stocks "on" this--no more than 45% of the market price could be borrowed credit.
+
+----
+num: 32
+category: History
+difficulty: 1600
+seen: 5
+answer: Gettysburg
+
+Joshua Chamberlain held Little Round Top during this Civil War battle.
+
+----
+num: 33
+category: Science
+difficulty: 1600
+seen: 6
+answer: a giant
+
+In about 5 billion years, the Sun will expand & become a red this; outer layers may reach 2 or even (gulp!) 3 planets.
+
+----
+num: 34
+category: Literature
+difficulty: 1600
+seen: 4
+answer: a tentacle
+
+An invertebrate's flexible appendage that serves as an organ of touch.
+
+----
+num: 35
+category: Trash
+difficulty: 2000
+seen: 9
+answer: Arthur Ashe
+
+In 1965 this African American with an alliterative name won the singles & doubles college tennis titles.
+
+----
+num: 36
+category: Social
+difficulty: 2000
+seen: 6
+answer: transparency
+
+The SEC ensures equal access to information by all investors, this 12-letter quality also found in windows.
+
+----
+num: 37
+category: Geography
+difficulty: 2000
+seen: 13
+answer: Morocco
+
+The highest peak in the Atlas Mountains, in the western part of the range, is Mount Toubkal in this monarchy.
+
+----
+num: 38
+category: History
+difficulty: 2000
+seen: 5
+answer: the Swamp Fox
+
+Vulpine nickname given to patriot Francis Marion by the Brits.
+
+----
+num: 39
+category: Science
+difficulty: 2000
+seen: 10
+answer: fusion
+
+The Sun converts about 4.5 million tons of matter into energy every second by this type of nuclear reaction.
+
+----
+num: 40
+category: Literature
+difficulty: 2000
+seen: 6
+answer: tendonitis
+
+1-word term for the inflammation of the fibrous structure that joins muscle to bone.

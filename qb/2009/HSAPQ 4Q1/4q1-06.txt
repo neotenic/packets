@@ -1,0 +1,324 @@
+####
+tournament: HSAPQ 4Q1
+round: 4q1-06.pdf
+year: 2009
+####
+
+num: 1
+category: Science
+difficulty: HS
+fixed: 57
+seen: 490
+answer: {RAM} [or {Random Access} Memory; prompt on partial answer]
+
+Placing a register between this structure and the controller creates the “registered” or “buffered” form of it. Attempting to read data not currently stored in this triggers a page fault. Flip-flops are used to implement the static type of it, while capacitors are used in the dynamic type. Its main benefit is that reading or writing to any spot is done in constant time. For 10 points, identify this type of volatile memory, used in modern computers as the main storage for running programs.
+
+----
+num: 2
+category: Literature
+difficulty: HS
+fixed: 1
+seen: 448
+answer: Federico García {Lorca}
+
+The title character of one play by this author is a childless woman who kills her husband Juan. In one play by this author, Leonardo and the Groom kill each other. Those plays, Yerma and Blood Wedding, make up two-thirds of this author's "rural trilogy," along with a play about the sickly Angustias, the submissive Amelia, and the defiant Adela, all daughters of the title character. For 10 points, name this Spanish playwright of The House of Bernarda Alba.
+
+----
+num: 3
+category: History
+difficulty: HS
+fixed: 57
+seen: 416
+answer: {Han} Dynasty
+
+This empire faced insurrections from the Trung sisters in Vietnam and by the Kingdom of Goguryeo. The Red Eyebrows revolted during this dynasty, and its earlier rulers faced raids by the Xiongnu. The "Western" and "Eastern" branches of this dynasty are split by the Xin dynasty proclaimed by Wang Mang, and this dynasty bordered on the Caspian Sea to the west after military campaigns organized by its seventh emperor, Wu Di. Disaffected peasantry during this dynasty were drawn toward the cult of the Yellow Turbans, who revolted in 184 A.D. For 10 points, name this dynasty that followed the Qin (CHIN) and that gives its name to the ethnicity of the majority of Chinese.
+
+----
+num: 4
+category: Science
+difficulty: HS
+fixed: -1
+seen: 486
+answer: {pituitary} gland [accept {hypophysis} before it is read]
+
+Sheehan's syndrome results in damage to this organ, which is located inside a structure known as the sella turcica, a pocket of the sphenoid bone. Also known as the hypophysis, this organ is responsible for the production of oxytocin, thyroid-stimulating hormone and antidiuretic hormone. Located at the base of the brain and attached to the hypothalamus, this pea-sized gland has posterior and anterior lobes, the latter of which produces prolactin. For 10 points, name this "master" endocrine gland responsible for producing growth hormone.
+
+----
+num: 5
+category: History
+difficulty: HS
+fixed: None
+seen: 415
+answer: Visigoths [prompt on {Goths}; prompt on {Vesi}; prompt on {Tervingi}]
+
+This group lost the Battle of Vouille to Clovis of the Franks. These peoples converted from Arianism to Catholicism under the reign of Reccared I. This group was ruled by the Balti Dynasty during their occupation of Iberia, which ended with the arrival of the Umayyads. This group established a kingdom based from Toulouse. Under Alaric I, this group became the first Germanic tribe to sack Rome. For 10 points, name these Germanic peoples who migrated out of Dacia with the Ostrogoths.
+
+----
+num: 6
+category: Science
+difficulty: HS
+fixed: 1
+seen: 488
+answer: reaction {rate} [or {rate} constant; accept word equivalents]
+
+One constant involved in this quantity can be calculated from the temperature using the Eyring equation, or by an equation including a steric factor. The temperature and activation energy are also used to calculate this quantity. One way of calculating it, the Arrhenius equation, is based on the collision model. In zero order reactions, it is determined only by a constant, and not by the concentration of the reactants. It can be calculated by laws that have first and second order varieties. For 10 points, name this measure of the speed of a reaction.
+
+----
+num: 7
+category: Literature
+difficulty: HS
+fixed: 1
+seen: 438
+answer: James Augustine Aloysius {Joyce}
+
+This author wrote about Shem the Penman and Humphrey Chimpden Earwicker in a novel that begins "riverrun, past Eve and Adam's." This author wrote a short story about a boy's attempts to buy a gift for Mangan's sister at the title bazaar, which closes as he arrives. This author of "Araby" created a character who is shaken by Father Arnall's sermon and told a story about a "moocow" in one work. In another work by this author, that character befriends Leopold and Molly Bloom. For 10 points, name this Irish creator of Finnegan's Wake and Stephen Dedalus, who appears in his A Portrait of the Artist as a Young Man and Ulysses.
+
+----
+num: 8
+category: History
+difficulty: HS
+fixed: 57
+seen: 421
+answer: {Inca} Civilization
+
+This civilization's expansion was stopped at the Maule River by the Mapuche. This civilization's public works were powered by the mita labor system. The records of this civilization were kept through a base-ten system of cotton cords called quipu. A civil war between Huascar and his brother led to this civilization's downfall. At the Battle of Cajarmarca, Pizarro killed this civilization's ruler, Atahualpa. For 10 points, name this Quecha-speaking civilization based in Cuzco, which lived in the Andes and built Machu Picchu.
+
+----
+num: 9
+category: Literature
+difficulty: HS
+fixed: 1
+seen: 444
+answer: {Walden}, or Life in the Woods
+
+The author of this book attempts to "brag as lustily as chanticleer in the morning" in order to wake his neighbors up. This book asserts that "the mass of men lead lives of quiet desperation" in its first section, "Economy." The narrator of this book claims that he "went to the woods" to "live deliberately" before describing the peaceful months spent at the title pond. For 10 points, name this description of "Life in the Woods" by Henry David Thoreau.
+
+----
+num: 10
+category: Geography
+difficulty: HS
+fixed: 57
+seen: 602
+answer: Republic of {South} Africa
+
+In this country, Durban and Pietermaritzburg (PEE-ter-MARE-its-burg) are in the same territory as the city Ladysmith. The Molopo, Limpopo, and Orange rivers run on the northern border of this country. This country's territories include Kwazulu, or Natal, and the Traansvaal and Cape territories. This country's three capitals are Bloemfoentein (BLOOM-fawn-tain), Pretoria, and Cape Town, the last of which is on the Cape of Good Hope. This country completely surrounds Lesotho, and once governed its northern neighbor, Namibia. For 10 points, name this country whose largest city is Johannesburg, and which is the southernmost country in Africa.
+
+----
+num: 11
+category: Science
+difficulty: HS
+fixed: 57
+seen: 486
+answer: {cartilage}
+
+This substance has limited repair capabilities due to its lack of blood flow, and because, like bone tissue, it is contained within lacunae. The hyaline type of this substance is rich in type two collagen and forms the smooth surface of joints. This substance, which is comprised of chondrocytes, is depleted in osteoarthritis, leading to painful bone-on-bone wear. Sharks and rays have skeletons comprised entirely of this material. For 10 points, name this tissue that gives structure to the human ear and nose.
+
+----
+num: 12
+category: History
+difficulty: HS
+fixed: 1
+seen: 412
+answer: Richard Milhous "Dick" {Nixon}
+
+After losing to Pat Brown in the 1962 California gubernatorial election, this man vowed that "you won't have [him] to kick around anymore." Six years later, this man sought and earned the Republican nomination for president, then defeated Hubert Humphrey in the general election. During his re-election campaign led by CREEP, members of his re-election committee were caught breaking into the Democratic Party headquarters. For 10 points, name this president who resigned amid suspicion that he had ordered a break-in at the Watergate Hotel.
+
+----
+num: 13
+category: Literature
+difficulty: HS
+fixed: 1
+seen: 450
+answer: Allen {Ginsberg}
+
+"Please Master" and "September on Jessore Road" are among the poems collected in this poet's The Fall of America. Another of his collections is named for a poem named after a Jewish prayer for the dead, "Kaddish," while another work includes a poem in which Walt Whitman pokes among the meats in the title location, "A Supermarket in California," and one which begins "I saw the best minds of my generation destroyed by madness." For 10 points, name this Beat poet who wrote "Howl."
+
+----
+num: 14
+category: Religion
+difficulty: HS
+fixed: -1
+seen: 415
+answer: King {Saul} [or {Sha'ul}]
+
+This man led his forces from Gilboah to prevent his enemies from taking the Valley of Jezreel. He ordered the murder of eight-five priests of Nob. The taking of his concubine Ripzah led to his son Ihbosheth (IB-oh-sheth) breaking ties with Abner. This man lost the support of a prophet, whose ghost he had conjured by the Witch of Endor. He tried to kill the son of Jesse who had killed the Philistine Goliath. He was first anointed, then rebuked, by the prophet Samuel. For 10 points, name this ruler who was succeeded by David after becoming the first king of the Israelites.
+
+----
+num: 15
+category: Literature
+difficulty: HS
+fixed: 1
+seen: 441
+answer: Akinwande Oluwole {Soyinka}
+
+In one of this author's plays, one character stops listing adjectives because he owns only the Shorter Companion Dictionary, and another wants to change Ilujinle into a city. That play by this author centers on a contest between Lakunle and Baroka to marry Sidi. The most famous play by this author includes Iyaloja and Olunde, who commits suicide and prompts his father Elesin, the title character to do the same, even after Simon Pilkings forbids a certain ritual that must be undertaken after the death of a chief. For 10 points, name this Nigerian playwright and political dissident who wrote Death and the King's Horseman.
+
+----
+num: 16
+category: Religion
+difficulty: HS
+fixed: 1
+seen: 445
+answer: {sutras} [or {suttas}]
+
+Mahayana Buddhists venerate one of these known as the "Diamond Cutter," while Zen Buddhists follow the "Platform" one and Tendais revere the "Lotus" example. In Hinduism, this word, which is Sanskrit for "thread," refers to a collection of aphorisms on any topic, but especially on ritual procedure. A specific one of these, written by Vatsyayana, is named for the Hindu concept of desire and contains chapters on wives and courtesans. For 10 points, identify this genre of religious literature, which includes a sexually explicit manual called the “Kama” version.
+
+----
+num: 17
+category: Fine Arts
+difficulty: HS
+fixed: 57
+seen: 496
+answer: {Russia}
+
+Two composers from this country wrote a collaboration on the unfinished opera Mlada, and one of those composers is Cesar Cui. One composer from this country wrote the extremely difficult piano work Islamey. One composer from this country wrote Cappricio Espagnole, and he helped finish the opers Prince Igor. In the Steppes of Central Asia and the “Polovetsian Dances” are by one native of this country, Alexander Borodin. For 10 points, name this home to Mily Balakirev and Nikolai Rimsky-Korsakov, who are part of the nationalist “Mighty Five.”
+
+----
+num: 18
+category: History
+difficulty: HS
+fixed: 1
+seen: 417
+answer: George Catlett {Marshall}
+
+This man threatened to not vote for the sitting president if he recognized Israel and failed to broker a provisional government between Chinese Communists and Nationalists. This man's greatest achievement was preceded by the punitive Morgenthau policy and initially benefited Greece and Turkey. The OEEC was founded in France to administer that policy of this man, which ended in 1953 after the disbursement of $13 billion. For 10 points, name this Secretary of State whose European Recovery Plan was administered by the United States after World War II.
+
+----
+num: 19
+category: Fine Arts
+difficulty: HS
+fixed: 1
+seen: 488
+answer: Frédéric François {Chopin}
+
+The third movement of this composer's second piano sonata in B-flat minor contains an often-performed funeral march. This composer popularized a musical form developed by John Field with his short piano nocturnes, and wrote an etude played only on black keys. This Romantic composer predominantly composed pieces for the piano such as the Heroic Polonaise, the Fantasie-Improptu in C sharp minor, and the Revolutionary Etude. For 10 points, name this nineteenth century Polish composer of the Minute Waltz.
+
+----
+num: 20
+category: Literature
+difficulty: HS
+fixed: 1
+seen: 450
+answer: Alfred Lord {Tennyson}
+
+In one work by this writer, a soldier bitterly remembers his unrequited love for his shallow-hearted cousin Amy and asks that a thunderbolt fall on "Locksley Hall." Another work by this poet compares dying to setting out on the sea; the narrator of that work wishes to see his "Pilot face to face." He wrote an elegy for Arthur Henry Hallam, in which he famously noted that "Tis better to have loved and lost/Than never to have loved at all." For 10 points, name this author of In Memoriam, who wrote about a battle in the Crimean War in “The Charge of the Light Brigade."
+
+----
+num: 21
+category: Trash
+difficulty: HS
+fixed: 1
+seen: 1028
+answer: *NSYNC
+
+This band released the holiday album "Home for Christmas", which included the Top 40 hit "Merry Christmas, Happy Holidays." This band's last album was named "Celebrity," which followed its 1999 smash "No Strings Attached." Former members of this band include a judge on America's Best Dance Crew and the host of The Singing Bee. After leaving this band, another of its members released the hit "Rock Your Body," which he was performing at the time of the infamous wardrobe malfunction with Janet Jackson. For 10 points, name this late-90's boy band whose hits include "Bye Bye Bye" and whose members included JC Chasez, Joey Fatone, and Justin Timberlake.
+
+----
+num: 22
+category: Mythology
+difficulty: HS
+fixed: 57
+seen: 786
+answer: {Mount Olympus} [or {Ólympos}]
+
+One son of Tros was transported to this location by a god disguised as an eagle, where that son, Ganymede (GAH-nuh-meed), became a cupbearer. Zeus sent a gadfly to interrupt one figure's attempt to come to this place after that figure killed the Chimera. That figure, Bellerophon (bell-AIR-uh-fawn), used Pegasus in his attempt to reach this site, and both he and Hephaestus were lamed by falls from this location. This site had a throne for each of its twelve inhabitants. For 10 points, name this location in Greek mythology, from which the gods watched over man.
+
+----
+num: 23
+category: Science
+difficulty: HS
+fixed: 1
+seen: 484
+answer: Pierre de {Fermat}
+
+One theorem named for this man, generalized by Euler's totient theorem, states that for an integer a and a prime number p, a to the p power is congruent to a modulo p. Andrew Wiles proved another theorem named for this man, which states that there are no integers a, b, and c such that a to the x plus b to the x equals c to the x when x is an integer greater than two. For 10 points, name this French mathematician famous for his little and last theorems.
+
+----
+num: 24
+category: Literature
+difficulty: HS
+fixed: 1
+seen: 449
+answer: William Carlos {Williams}
+
+This poet wrote about Identity, "the Man," and "the City" in his five-book epic about the New Jersey town Paterson. He's not W.H. Auden, but he used short stanzas to describe Landscape with the Fall of Icarus in his "Pictures from Breughel." He writes "they were delicious/so sweet/and so cold" as his excuse for eating someone else's plums in "This Is Just To Say." His best-known poem is about an object "glazed with rainwater beside the white chickens," and opens with the line "so much depends on." For 10 points, name this poet who wrote "The Red Wheelbarrow."
+
+----
+num: 25
+category: History
+difficulty: HS
+fixed: 1
+seen: 419
+answer: {Frederick} the {Great} [or {Frederick II} of Prussia; or {Friedrich der Grosse}; or {Friedrich II}; prompt on {Frederick};
+
+While living in Rheinsberg Castle, this ruler spent much of his time in correspondence with Voltaire, whom this man later invited to visit him in his Sanssouci Palace. This man fled a battle his troops eventually won under Schwerin at Mollwitz. That battle occurred after this ruler invaded Silesia in a breach of the Pragmatic Sanction. For 10 points, name this ruler who fought in both the War of the Austrian Succession and the Seven Years' War against Maria Theresa, a Hohenzollern who expanded the size and power of Prussia.
+
+----
+num: 26
+category: Science
+difficulty: HS
+fixed: 1
+seen: 483
+answer: {neutrons}
+
+Enrico Fermi proposed that an atom's preferred mode of beta decay depends on whether it has too many or too few of these particles, which are often ejected during spontaneous fission. Carbon-14 dating makes use of the decay of one of these particles, which consists of one up and two down quarks. The number of them in the nucleus is equal to the difference between atomic mass and atomic number. For 10 points, name these particles discovered by James Chadwick, which are slightly heavier than protons and electrically neutral.
+
+----
+num: 27
+category: Literature
+difficulty: HS
+fixed: 1
+seen: 446
+answer: Doctor {Zhivago}
+
+This novel contains an appendix of twenty-five poems, including “Hamlet” and “White Nights,” attributed to the title character. One event in this novel is the suicide of a former army commander known as “The Shooter.” Opening with the title character being escorted to his mother's funeral by his uncle Kolia, this novel sees that character marry Tonia before being drafted into World War I and meeting Pavel Antipov's wife Lara. For 10 points, name this novel by Boris Pasternak about the Russian Revolution's effects on the title physician.
+
+----
+num: 28
+category: History
+difficulty: HS
+fixed: 1
+seen: 420
+answer: {Franklin} Delano {Roosevelt} [or {FDR}; prompt on {Roosevelt}]
+
+This president was advised by Mary McLeod [MAC LLOYD] Bethune, who started a school for black students in Daytona Beach. The Supreme Court thwarted some of this man's plans in U.S. v. Butler and Schechter v. U.S., which led to this man's "court-packing scheme." Members of this man's cabinet included Cordell Hull and Frances Perkins. Agencies begun by this man include the Tennessee Valley Authority and the Works Progress Administration. For 10 points, name this president who defeated Herbert Hoover in the election of 1932 and worked against the Great Depression with his New Deal.
+
+----
+num: 29
+category: Science
+difficulty: HS
+fixed: 1
+seen: 483
+answer: Clay
+
+Minerals associated with them are aluminium phyllosilicates and the four divisions of them are Illite, Kaolinite, smectite, and Chlorite. A common type is Bentonite and most have a plastic state when in contact with water. The neoformation of them occurs through the chemical weathering of rocks and soil. On the Wentworth scale, they have a grain size less than 4 micrometers, which makes them smaller than silt and all others on the chart. For ten points identify this type of material which can be turned to ceramics in a kiln.
+
+----
+num: 30
+category: History
+difficulty: HS
+fixed: 57
+seen: 419
+answer: Tony {Blair} [or Anthony {Charles Lynton Blair}]
+
+This man removed Clause IV from his party's constitution, which was part of this leader's idea of the "Third Way." This man unexpectedly assumed his party's leadership after the death of John Smith. Devolution in Northern Ireland was helped along by this man's work on the Good Friday Agreement. This leader added the word "New" to his party's name to describe his agenda before winning an election against John Major. For 10 points, name this Labour prime minister of Great Britain, who was succeeded by his Chancellor of the Exchequer, Gordon Brown.
+
+----
+num: 31
+category: Literature
+difficulty: HS
+fixed: 1
+seen: 449
+answer: Henry Wadsworth {Longfellow}
+
+This author memorialized his wife's death in a fireplace accident in his poem "The Cross of Snow." A long poem by this author, written in dactylic hexameter, follows Gabriel Lajeunesse's (lah-zhoo-NESS-ess) travails during the expulsion of the Acadians from Canada. In addition to Evangeline, this author wrote about the husband of Minnehaha (mini-HA-ha) and about a man instructed to "hang a lantern aloft in the belfry arch/Of the North Church tower as a signal light." For 10 points, name this writer of The Song of Hiawatha and “Paul Revere's Ride.”
+
+----
+num: 32
+category: Fine Arts
+difficulty: HS
+fixed: 1
+seen: 494
+answer: Marcel {Duchamp}
+
+This artist created a panel divided into "The Bride's Domain" and "The Bachelor's Domain" in his The Bride Stripped Bare by Her Bachelors, Even. His "Prelude to a Broken Arm" was simply a snow shovel, and this artist added a mustache to the Mona Lisa under the title LHOOQ. This artist's other "Readymades" include a urinal inscribed with the name "R. Mutt" and displayed under the title Fountain. This artist riled up controversy at the Armory Show with his cubist inspired Nude Descending a Staircase. For 10 points, name this French proponent of Dada.

@@ -1,0 +1,295 @@
+####
+tournament: Question Set C
+round: Round-13C.pdf
+####
+
+num: 1
+category: Biology
+difficulty: HS
+seen: 1
+answer: Y)  Heterochromatin
+
+Which of the following is the form of highly condensed chromatin that is not transcribable in its present form and typical of the type of chromatin visible in the light microscope when the cell is in interphase:
+W) Z DNA
+X) euchromatin
+Y) heterochromatin
+Z) histochromatin
+
+----
+num: 1
+category: Biology
+difficulty: HS
+seen: 1
+answer: W)  Increased Access of Transcriptional Factors to Dna
+
+Which of the following is a primary consequence of histone acetylation:
+W) increased access of transcriptional factors to DNA
+X) decreased access of transcriptional factors to DNA
+Y) increased rate of cells entering mitosis
+Z) G-1 block
+
+----
+num: 2
+category: Chemistry
+difficulty: HS
+seen: 1
+answer: W)  B
+^2
+
+Which of the following diatomic molecules will exhibit paramagnetism:
+W) B^2
+X) N^2
+Y) C^2
+Z) F^2
+
+----
+num: 3
+category: Physics
+difficulty: HS
+seen: 1
+answer: Y)  27%
+
+What percent of energy in our Universe is believed to consist of dark matter and normal matter:
+W) 4.4%
+X) 16%
+Y) 27%
+Z) 73%
+
+----
+num: 5
+category: Earth Science
+difficulty: HS
+seen: 1
+answer: X)  Competency
+
+Which of the following BEST describes the largest size of sediment particle that can be transported by a particular flow in a river:
+W) discharge
+X) competency
+Y) capacity
+Z) bed load
+
+----
+num: 5
+category: Earth Science
+difficulty: HS
+seen: 1
+answer: W)  the Western Coast of North America
+
+A ship accidentally loses a cargo of floating rubber balls off the East coast of Japan. If they follow the prevailing currents, in which of the following locations will m ost of them likely FIRST wash on shore:
+W) the western coast of North America
+X) the eastern coast of Australia
+Y) the western coast of Australia
+Z) the south-central coast of Alaska
+
+----
+num: 7
+category: Astronomy
+difficulty: HS
+seen: 1
+answer: Z)  Interplanetary Dust Particles Are Typically Nitrogen-Rich 
+and Carbon -Poor
+
+Which of the following is LEAST accurate:
+W) magnetic fields can be strongly amplified when 2 neutron stars merge
+X) Saturn’s moon Titan has been found to have large dunes
+Y) hydrogen and nitrogen isotopes have been found in organic matter of primitive meteorites
+Z) interplanetary dust particles are typically nitrogen-rich and carbon-poor
+
+----
+num: 7
+category: Astronomy
+difficulty: HS
+seen: 1
+answer: X) Kirkwood Gaps Are Gaps in the Main Asteroid Belt Caused by 
+the Gravitational Effects of Mars
+
+Which of the following is LEAST accurate:
+W) the imaginary north-south line that passes through the zenith on the celestial sphere is the meridian
+X) Kirkwood gaps are gaps in the main asteroid belt caused by the gravitational effects of Mars
+Y) Population TWO stars are composed mostly of hydrogen and helium
+Z) a negative sign indicates the celestial coordinate is in the southern hemisphere
+
+----
+num: 8
+category: Biology
+difficulty: HS
+seen: 1
+answer: W)  Reverse Transcriptase
+
+Which of the following is a primary target of certain HIV drugs, such as AZT, specifically because HIV is a retrovirus:
+W) reverse transcriptase
+X) HIV receptors
+Y) CD 4 cells
+Z) CD 8 cells
+
+----
+num: 9
+category: Chemistry
+difficulty: HS
+seen: 1
+answer: Y)  Trigonal Bipyramidal
+
+Which of the following is a term used to describe the electronic geometry around a central atom that has 5 regions of high electron density:
+W) tetrahedral 
+X) trigonal pyramidal
+Y) trigonal bipyramidal
+Z) octahedral
+
+----
+num: 9
+category: Chemistry
+difficulty: HS
+seen: 1
+answer: W)  Glutamine
+
+Which of the following is NOT an aromatic amino acid:
+W) glutamine 
+X) tryptophan
+Y) phenylalanine
+Z) tyrosine
+
+----
+num: 10
+category: Physics
+difficulty: HS
+seen: 1
+answer: Z)  95%
+
+Current accounting of the composition of the universe suggests that dark energy and dark matter together make up about what percent of the energy in the universe:
+W) 65%
+X) 75%
+Y) 85%
+Z) 95%
+
+----
+num: 12
+category: Astronomy
+difficulty: HS
+seen: 1
+answer: Z)  Spitzer Infrared Spectrograph
+
+Which of the following was the primary instrument used to gather 5 to 35 micrometer spectra data from the Deep Impact mission:
+W) Chandra X -ray observatory
+X) Arecibo radio telescope
+Y) Hubble gamma-ray telescope
+Z) Spitzer infrared spectrograph
+
+----
+num: 13
+category: Earth Science
+difficulty: HS
+seen: 1
+answer: Y)  Varves
+
+Which of the following glacial features are deposited in annual layers and can be used by geologists to determine seasonal variations during past ice ages:
+W) drumlins 
+X) moraines
+Y) varves
+Z) eskers
+
+----
+num: 13
+category: Earth Science
+difficulty: HS
+seen: 1
+answer: X)  Hydrothermal Precipitation
+
+Which of the following is a geothermal process that has mostly led to concentrated stores of copper and zinc in the Earth’s crust:
+W) soil leaching
+X) hydrothermal precipitation
+Y) igneous cooling
+Z) evaporation of water
+
+----
+num: 15
+category: Biology
+difficulty: HS
+seen: 1
+answer: Y)   the Hydrogen Ion Gradient
+
+During the electron transport system, a store of potential energy is created that will be converted into high energy phosphates. The potential energy is best described as:
+W) ADP
+X) ATP
+Y) the hydrogen ion gradient
+Z) the sodium differential
+
+----
+num: 15
+category: Biology
+difficulty: HS
+seen: 1
+answer: W)  Pyruvate Yielding Acetyl Co -A
+
+What is the first place in the breakdown of glucose, starting in glycolysis and through the Krebs cycle, where CO^2 is released:
+W) pyruvate yielding Acetyl Co-A
+X) 3-phosphoglycerate (read as: 3-foss-foe-GLISS-err-ate) yielding 2-phosphoglycerate
+Y) isocitrate yielding alpha ketogluterate
+Z) oxaloacetate (read as: ox-AL-oh-ACETATE) yielding citrate
+
+----
+num: 17
+category: Physics
+difficulty: HS
+seen: 1
+answer: Z)  More Electrons Will Be Ejected From the Metal
+
+In using a frequency of light that causes the photoelectric effect, which of the following will occur when there is an increase in the intensity of the incident light beam on a metal surface:
+W) the maximum kinetic energy of ejected electrons will increase exponentially
+X) the maximum kinetic energy of ejected electrons will increase linearly 
+Y) it will increase the work function
+Z) more electrons will be ejected from the metal
+
+----
+num: 17
+category: Physics
+difficulty: HS
+seen: 1
+answer: Y)  Quarks Can Be Isolated From Their Hadrons
+
+Which of the following is NOT true according to the Standard 
+Model of Particle Physics:
+W) quarks carry color charge
+X) hadrons are color-neutral particles
+Y) quarks can be isolated from their hadrons
+Z) the carrier particle for the electromagnetic interaction has zero charge
+
+----
+num: 19
+category: Earth Science
+difficulty: HS
+seen: 1
+answer: X)  225 Million Years
+
+It is estimated that the supercontinent Pangaea began to break up at the end of the Triassic Period about how many years ago:
+W) 2.5 billion years
+X) 225 million years
+Y) 5 million years
+Z) 150,000 years
+
+----
+num: 19
+category: Earth Science
+difficulty: HS
+seen: 1
+answer: W)  From Asthenosphere Material Squeezing Through Cracks 
+Caused by Bending in Earth’s Crust
+
+A group of small volcanoes, called the petit spot volcanoes, was recently found. What makes this find so unusual is they are believed to be formed:
+W) from asthenosphere material squeezing through cracks caused by bending in Earth’s crust 
+X) from plumes rising rapidly from the boundary between Earth’s core and mantle 
+Y) at a convergent plate boundary
+Z) at a mid-ocean ridge
+
+----
+num: 20
+category: General Science
+difficulty: HS
+seen: 1
+answer: Z)  Most Scientific Evidence Supports the Belief That C3 Plants 
+Evolved From C4 Plants
+
+Which of the following is NOT true:
+W) long-term variation in Earth’s insolation is partially caused by precession
+X) there has yet to be any scientifically well-documented case of a human whose immune system has eradicated HIV from their body
+Y) Candida albicans is a common fungal infective agent in humans
+Z) most scientific evidence supports the belief that C3 plants evolved from C4 plants

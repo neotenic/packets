@@ -1,0 +1,458 @@
+####
+tournament: #6093
+round: Show #6093 - Wednesday, February 23, 2011
+year: 2011
+date: 2011-02-23
+####
+
+num: 1
+category: Literature
+difficulty: 200
+fixed: -1
+seen: 4
+answer: Huck Finn
+
+This Twain boy tells the story of helping a slave named Jim escape.
+
+----
+num: 2
+category: Geography
+difficulty: 200
+seen: 9
+answer: Brooklyn
+
+Flatbush & Flatlands are neighborhoods in this NYC borough.
+
+----
+num: 3
+category: Trash
+difficulty: 200
+seen: 6
+answer: Mt. Everest
+
+Sure, it's only -15° F. at the summit on a July day, but you can still dream of conquering this highest mountain.
+
+----
+num: 4
+category: Literature
+difficulty: 200
+seen: 4
+answer: "Mary Had A Little Lamb"
+
+"Miss Poppins Once Owned One Tiny Baby Sheep".
+
+----
+num: 5
+category: History
+difficulty: 200
+seen: 6
+answer: a commune
+
+A rural group with collective ownership--your skeevy uncle was in the "Hog Farm" one in the '70s.
+
+----
+num: 6
+category: Geography
+difficulty: 400
+seen: 8
+answer: Bangor
+
+A resort town in Northern Ireland shares its name with this third-largest city in Maine.
+
+----
+num: 7
+category: Trash
+difficulty: 400
+seen: 6
+answer: an astronaut
+
+On NASA's website, Sally Ride says study math & science if you dream of becoming one of these, like she did.
+
+----
+num: 8
+category: Literature
+difficulty: 400
+seen: 4
+answer: "Twinkle, Twinkle, Little Star"
+
+"Glimmer, Glimmer, Small Heavenly Body".
+
+----
+num: 9
+category: History
+difficulty: 400
+seen: 4
+answer: Chicago
+
+The "Great Migration" from the south brought 120,000 African Americans to this "Windy City" in the 1920s.
+
+----
+num: 10
+category: Literature
+difficulty: 600
+seen: 4
+answer: doves
+
+A Louise Erdrich novel is titled "The Plague of" these birds.
+
+----
+num: 11
+category: Geography
+difficulty: 600
+seen: 8
+answer: British Columbia
+
+It's the westernmost & third largest of Canada's provinces.
+
+----
+num: 12
+category: Trash
+difficulty: 600
+seen: 4
+answer: Amazon
+
+Dream of free shipping forever on millions of items if you took over for Jeff Bezos as CEO of this online giant.
+
+----
+num: 13
+category: Literature
+difficulty: 600
+seen: 4
+answer: "Three Blind Mice"
+
+"A Trio Of Vision-Impaired Rodents".
+
+----
+num: 14
+category: History
+difficulty: 600
+seen: 4
+answer: Bangladesh
+
+The Bengali language is spoken by more people than Russian or French, with the greatest number in this country.
+
+----
+num: 15
+category: Geography
+difficulty: 800
+seen: 9
+answer: Babylon
+
+This city's ruins lie on the Euphrates River about 50 miles south of Baghdad.
+
+----
+num: 16
+category: Trash
+difficulty: 800
+seen: 5
+answer: the Panama Canal
+
+You may dream of taking a cruise through this artificial waterway that connects the Atlantic & Pacific.
+
+----
+num: 17
+category: Literature
+difficulty: 800
+seen: 3
+answer: "Old MacDonald Had A Farm"
+
+"An Elderly Scotsman Owned One Ranch".
+
+----
+num: 18
+category: History
+difficulty: 800
+seen: 4
+answer: status
+
+It's a person's level of social standing or prestige; a big house is an alliterative "symbol" of it.
+
+----
+num: 19
+category: Literature
+difficulty: 1000
+fixed: -1
+seen: 3
+answer: the 
+
+This Trojan war-set epic poem is the story of the wrath of Achilles.
+
+----
+num: 20
+category: Art
+difficulty: 1000
+seen: 4
+answer: boxing
+
+Standing 8 count.
+
+----
+num: 21
+category: Geography
+difficulty: 1000
+seen: 8
+answer: Brunei
+
+In the 1990s the sultan of this country was the world's richest man.
+
+----
+num: 22
+category: Trash
+difficulty: 1000
+seen: 5
+answer: Ferrari
+
+Dream of trading in that Civic for this automaker's Enzo, seen.
+
+----
+num: 23
+category: Literature
+difficulty: 1000
+seen: 4
+answer: "The Bear Went Over The Mountain"
+
+"One Grizzly Ventured Across A Summit".
+
+----
+num: 24
+category: History
+difficulty: 1000
+seen: 5
+answer: a republic
+
+It means a government with no monarch; Ben Franklin said we have one, "if you can keep it".
+
+----
+num: 25
+category: History
+difficulty: 400
+seen: 4
+answer: New York
+
+Under the Treaty of Breda, the Dutch gave up New Netherland to the British, who renamed it this in 1664.
+
+----
+num: 26
+category: Trash
+difficulty: 400
+seen: 5
+answer: Taylor Swift
+
+At 19, this country cutie became the youngest singer ever named CMA entertainer of the year.
+
+----
+num: 27
+category: Literature
+difficulty: 400
+seen: 4
+answer: tokens
+
+Some people collect these metal objects, used instead of cash as fare on subways & buses.
+
+----
+num: 28
+category: Science
+difficulty: 400
+seen: 5
+answer: fat
+
+We suppose you know that adipose is a layer of this that insulates the body from heat loss.
+
+----
+num: 29
+category: Literature
+difficulty: 400
+seen: 4
+answer: windshield
+
+It's the glass above a car's dashboard.
+
+----
+num: 30
+category: Literature
+difficulty: 400
+seen: 4
+answer: a star
+
+In September 2010 Tinker Bell got one of these on the Hollywood Walk of Fame.
+
+----
+num: 31
+category: History
+difficulty: 800
+seen: 4
+answer: Rhode Island
+
+In 1635 William Blackstone became the first European to settle in this colony, one year before Roger Williams.
+
+----
+num: 32
+category: Trash
+difficulty: 800
+seen: 5
+answer: Britney Spears
+
+She was just 16 when her first single, "...Baby One More Time", hit the airwaves.
+
+----
+num: 33
+category: Literature
+difficulty: 800
+seen: 4
+answer: transplant
+
+To move a kidney from one body to another.
+
+----
+num: 34
+category: Literature
+difficulty: 800
+seen: 4
+answer: orange trees
+
+In 1882 the first grove of these was planted in Redlands, which was soon the heart of California production.
+
+----
+num: 35
+category: Trash
+difficulty: 1200
+seen: 6
+answer: Zac Efron & Vanessa Hudgens
+
+After they started dating in 2005, these teen lovebirds were dubbed "Zanessa".
+
+----
+num: 36
+category: Literature
+difficulty: 1200
+seen: 3
+answer: Beanie Babies
+
+Patti the Platypus & Chocolate the Moose were among the first of these "Babies".
+
+----
+num: 37
+category: Literature
+difficulty: 1200
+seen: 4
+answer: tambourine
+
+It's the round instrument heard.
+
+----
+num: 38
+category: Literature
+difficulty: 1200
+seen: 4
+answer: San Diego
+
+The state's southernmost county shares its name with this big city.
+
+----
+num: 39
+category: History
+difficulty: 1600
+seen: 5
+answer: New Hampshire
+
+In 1741 King George II set this colony's southern border with Massachusetts.
+
+----
+num: 40
+category: Trash
+difficulty: 1600
+seen: 5
+answer: Kyle Massey
+
+At 19, he was the youngest competitor in the house on season 11 of "Dancing with the Stars".
+
+----
+num: 41
+category: Literature
+difficulty: 1600
+fixed: -1
+seen: 4
+answer: shells
+
+Conchology is the study & collecting of these natural objects.
+
+----
+num: 42
+category: Science
+difficulty: 1600
+seen: 5
+answer: a fetus
+
+It's the proper term for a human embryo after the first trimester.
+
+----
+num: 43
+category: Literature
+difficulty: 1600
+seen: 5
+answer: ventilator
+
+"V" know it's another term for a respirator; do you?.
+
+----
+num: 44
+category: Literature
+difficulty: 1600
+seen: 4
+answer: springs
+
+Take a drink at communities called Warner, Borrego & Palm these.
+
+----
+num: 45
+category: History
+difficulty: 2000
+seen: 5
+answer: Calvert
+
+Last name of the family that regained control of Maryland from the Crown in 1715.
+
+----
+num: 46
+category: Trash
+difficulty: 2000
+seen: 9
+answer: Dakota Fanning
+
+In 2010, this actress seen.
+
+----
+num: 47
+category: Literature
+difficulty: 2000
+seen: 5
+answer: coin collecting
+
+Numismatics is a fancy name for this popular hobby.
+
+----
+num: 48
+category: Science
+difficulty: 2000
+seen: 8
+answer: mutation
+
+In 1901 botanist Hugo de Vries coined this term to describe sudden genetic change.
+
+----
+num: 49
+category: Literature
+difficulty: 2000
+seen: 5
+answer: foreshadow
+
+Literary term meaning to show or indicate earlier in the story.
+
+----
+num: 50
+category: Literature
+difficulty: 2000
+seen: 5
+answer: gold
+
+The Chocolate Mountains don't produce chocolate, but some say there's $100 billion in this under them.

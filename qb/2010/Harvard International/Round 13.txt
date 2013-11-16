@@ -1,0 +1,194 @@
+####
+tournament: Harvard International
+round: Round 13.doc
+year: 2010
+####
+
+num: 2
+category: Fine Arts
+difficulty: College
+fixed: None
+seen: 72
+answer: {Op} Art
+
+One artist associated with this movement created sculptures consisting of metal cords hanging from grids that form a maze, which he called “penetrables.” Another practitioner created a type of print called an “agamograph.” One leader of this movement named different aspects of his style after the geographical regions that inspired him including series titled Denfert, Belles Isles, and Gordes/Cristal. Early influences on this movement include the “Pandora” series and “Dazzle” panels designed by John McHale for the This is Tomorrow Exhibition and a painting titled Zebras. Yaacov Agam and Jesús Soto are artists associated with this movement that took its name from a Julian Stanczak exhibition. William Seitz organized this movement's premiere exhibition, The Responsive Eye, which featured the work of Victor Vasarely and Richard Anuszkiewicz. For 10 points, name this twentieth-century art movement associated with Bridget Riley that tries to create art filled with perceptual illusions.
+
+----
+num: 3
+category: Literature
+difficulty: College
+fixed: None
+seen: 61
+answer: The {Conservationist}
+
+In this novel a husband is mocked for joining the Three Bells Christmas Club, which annually sends his family a parcel during the holidays. In one scene from this book a hitchhiker, who works as an usher at a movie theatre called the Elite 300 in Starland City, talks annoyingly tries to convince the driver to see the cowboy film Trinity is Still My Name. This novel takes its epigraph from Richard Shelton's poem “The Tattooed Desert” and begins with the protagonist watching children play with “pale freckled eggs,” while its chapters are interspersed with quotes from Reverend Henry Callaway. The main character discovers the book Eros Himself, an anthology of gay literature, in the knapsack of his son Terry, and this novel begins with the discovery of a dead body on a farm that is buried in the last chapter by a group of men including Phineas and Solomon. The title character of this novel helps his liberal mistress Antonia Mancebo flee the country, and has Jacobus take care of the four hundred acre farm he purchased as a getaway from his life as an industrialist . For 10 points, name this novel about the industrialist Mehring by Nadine Gordimer.
+
+----
+num: 4
+category: Science
+difficulty: College
+fixed: None
+seen: 82
+answer: {threshold voltage} [accept {turn} on {voltage} before mentioned; do not accept “{saturation voltage}”]
+
+The Fermi potential relates this parameter to the doping level of the semiconductor. In modern device processes, it is typically adjusted to the desired value by performing a channel stop implant. Empirically, it can be determined by extrapolating the slope of an I-V curve from the linear region to the x-axis. In p-channel devices, it is typically positive, while in n-channel devices it is typically negative. This characteristic describes the point when a strong enough vertical electric field exists to create an inversion channel on top of a depletion region in a MOSFET. For 10 points, name this potential, the point at which diodes or transistors turn on and allows current to flow, which is often referred to as V sub t.
+
+----
+num: 5
+category: Philosophy
+difficulty: College
+fixed: 1
+seen: 54
+answer: {Isis Unveiled}
+
+This work notes that Tyndall was on the verge of an incredible discovery of ether in a section titled “Astral Light,” while another chapter from this work, “Blind Leaders of the Blind,” references Huxley's theories involving the Orohippus. This work's second section discusses esoteric aspects of Buddhism parodied in Christianity, and the opening of this work notes that scientific hypotheses are “built on sand” and its relationship with theology is a “conflict for the ages.” This work was divided into two sections titled after the infallibility of modern science and modern religion, which are  preceded by a section describing the wisdom present before modern society. Subtitled “A Master Key to the Mysteries,” and preceding the author's later work The Secret Doctrine, for ten points, identify this first work of Theosophy written by Helena Blavatsky which refers to an Egyptian goddess.
+
+----
+num: 6
+category: Philosophy
+difficulty: College
+fixed: None
+seen: 54
+answer: “The {Death} of the {Author}” [or “La {Mort} de {l'Auteur}”]
+
+One work that addresses this essay propounds on a “system of constraint” and argues that a certain function may soon disappear. That tome argues that the central subject of this essay is not a “dead issue” and was written by Michel Foucault. This essay argues that “French rationalism” has restored the prestige of the “human person” and that Montesquieu is simply a “secondary fragment” of Charlus. This essay states that New Criticism has done nothing more but consolidate the title occurrence, which is linked to Brecht's “distancing.” A “single theological meaning” cannot be released by a text argues this essay, which appears in Image-Music-Text. The inability of the scriptor to believe and the end of the lack of consideration of the reader accompany the title action in, for 10 points, what essay by Roland Barthes?
+
+----
+num: 7
+category: History
+difficulty: College
+fixed: 1
+seen: 72
+answer: {Creek} War [accept {Red Stick} War early]
+
+One participant in this conflict gained fame for defeating Sam Dale in a fistfight that took place on a single canoe. This conflict was started over responses to programs instituted by Benjamin Hawkins. A force under Peter McQueen made up one side of this conflict's Battle of Burnt Corn, while the incident that led to this war was orchestrated by William Weatherford. This conflict ended with the Treaty of Fort Jackson and started with the Fort Mims Massacre perpetuated by the Red Sticks. For ten points, name this conflict in Alabama where Andrew Jackson defeated a namesake Indian tribe.
+
+----
+num: 8
+category: Literature
+difficulty: College
+fixed: None
+seen: 60
+answer: {Pale Horse}, {Pale Rider}
+
+One character in this work has a dream about a man with a skull-face carrying a baby skewered on his bayonet and a bucket marked poison who throws the poison into her family's ancestral well. Another vision in this work centers on a “forest of inhuman voices” whose songs become arrows that pierce the heart of one woman's lover. The main character lets Chuck Rouncivale write her theatre review and earlier commiserates with her co-worker Mary Townsend about being coerced into buying a Liberty Bond. The protagonist compares the hands of Nurse Tanner to white tarantulas while she is being treated by Dr. Hildesheim, and this work begins with a dream in which a lady rides on her pony Graylie alongside a mysterious stranger. The protagonist of this novella recovers from influenza and resumes her job working at the Blue Mountain News only to discover her lover Adam Barclay has ironically died of influenza during her illness. Grouped as the title work of a collection of three novellas including Old Mortality and Noon Wine, for 10 points, name this novella about Miranda, written by Katherine Anne Porter.
+
+----
+num: 9
+category: Science
+difficulty: College
+fixed: 1
+seen: 82
+answer: Marie Ennemond Camille {Jordan}
+
+This man's lemma states that if a denominator of a polynomial quotient has a degree of one or more higher than the numerator, than the limit of contour integral of any upper half circle approaches zero. The expression of a linear operator as its semi-simple component and its nilpotent component is a decomposition named for this man and Claude Chevalley. One theorem which states that two composition series of a given are equivalent is named for this figure and Holder, and another theorem named for this man states that any simple closed contour separates the plane into an interior and exterior domain which both have the curve as its boundary. He names a form for operators whose characteristic polynomials split that consists of generalized eigenspaces for T-invariant subspaces. For 10 points, identify this French mathematician who gives his name to this canonical form, and who gives his name to a square matrix with eigenvalues in the diagonal and ones in the superdiagonal with zeroes everywhere else, known as his namesake “block.”
+
+----
+num: 10
+category: Fine Arts
+difficulty: College
+fixed: None
+seen: 97
+answer: La {Fanciulla del West} (accept {Girl} of the {Golden West})
+
+In this opera's aria, “Ti Voglio Bene” one character tells the soprano that he will give her $1000 for a kiss. In “Ugh! Neve! Va! Riposati sul fieno” the tenor swears he has never met Nina Micheltorena, while at the beginning of the opera men named Happy, Harry, and Handsome help gather a fund to send Jim Larkens back home. The tenor does not reciprocate a whistle, which would have signaled a raid that would have killed the title character, who later cheats at a game of poker to save a man named Ramirez from Jack Rance. In the aria “Ch'ella mi creda” the tenor begs the chorus to tell his lover that he is “far away and free” and not to reveal that he was hanged by miners for being a bandit. For 10 points, Dick Johnson rides off into the sunset with Minnie at the end of this opera about the California Gold Rush by Puccini.
+
+----
+num: 11
+category: Trash
+difficulty: College
+fixed: 1
+seen: 183
+answer: {Game 7} of the {2001 World Series} [accept: {Game 7} of the {Yankees-Diamondbacks World Series} ]
+
+In the game preceding this one, Jay Witasick got all four of his outs by strikeout despite surrendering 9 runs on 10 hits, while Bobby Witt pitched a scoreless 8th for in his last big-league appearance. Rostered players not employed in this game include Mike Morgan, Troy Browhawn, Clay Bellinger, Todd Greene and Randy Velarde. Despite both sides employing a righty starting pitcher, left-handed hitter Erubiel Durazo was left out of the starting lineup for the eventual winners. Mildre Cummings scored the game tying run in this game while pinch-running for Damiel Miller on a Tony Womack double. The rookie center fielder Alfonso Soriano hit a go-ahead home run late in this game, but that lead was lost in a 9th-inning rally capped by a Luis Gonzalez single. For ten points, name this only post-season loss for Mariano Rivera, the World Series game that gave the Arizona Diamondbacks their only World Championship.
+
+----
+num: 12
+category: History
+difficulty: College
+fixed: -1
+seen: 69
+answer: {Pugachev Rebellion} [prompt on “{Cossack Rebellion}” until mention]
+
+Salawat Yulayev was the most notable member of the Bashkir ethnic group to participate in this event, during which he attempted to capture the city of Kungur near Perm. General Zarubin Chaika helped lead this event, while General Alexander Bibikov was killed during this event. Participants in this event were targeted in retaliatory attacks led by General Peter Panin. This event's greatest achievement may have been the capture of Kazan, but this event was crushed at the Battle of Tsaritsyn. Participants in this event were angry that the serfs had not been freed by a certain Empress. For ten points, name this uprising against Catherine the Great, led by the namesake Cossack.
+
+----
+num: 13
+category: Geography
+difficulty: College
+fixed: 57
+seen: 135
+answer: {Vanuatu}
+
+One figure from this nation, Jimmy Stevens, led a rebellion on its main island known as the “Coconut War,” and one leader of this nation inspired Julius Nyerere with a new form of socialism and was named Walter Lini. One island in this archipelago, Pentecost, is the site of a ritual in which men tied to vines dive from wooden towers in a ceremony called the Naghol. This nation's Tafea Province contains the site of the Traitor's Head Peninsula, Erromango, and the island of Tanna, which contains Mount Yasur and is the site of the John Frum cargo cult. The Portugese explorer Pedro Fernandes de Queiros discovered this archipelago and named its largest island Espiritu Santo, but it was James Cook who called the islands New Hebrides. For 10 points, identify this Pacific island archipelago located between Fiji and the Solomon Islands, whose capital is at Port Vila.
+
+----
+num: 14
+category: Science
+difficulty: College
+fixed: 57
+seen: 80
+answer: {ovaries} [accept {Drosophila ovaries} before “{Krukenberg}”]
+
+A 3.3 kilobase form of the small bristles protein accumulates in this organ in Drosophila. A class of secondary cancers of this organ whose primary site had been the stomach is named for Krukenberg. A cell line of this organ is prized for its high protein production and lack of an EGFR receptor. One object, many of which are found in these structures, is surrounded by a glycoprotein membrane called the zona pellucida, and that cell line is derived from Puck's work with Chinese hamsters. This structure's cortex contains the cumulus oophorus, and it contains structures most of which are terminated ten days before maturity in a type of atresia. Those structures have a theca externa and interna that surrounds the granulosa cells and are called Graafian once mature and eventually form a corpus luteum. This organ is composed of structures called follicles and also secretes progesterone. For 10 points, name these organs, connected by the fallopian tubes to the uterus, which are homologous to the male testes.
+
+----
+num: 15
+category: Fine Arts
+difficulty: College
+fixed: 57
+seen: 70
+answer: Leonard {Bernstein}
+
+In one of this composer's symphonies all the instruments except the percussion and the piano drop out during a scherzo part called “the Masque” found in the second movement, which begins with a section called “The Dirge.” He included movements titled “Agathon,” “Phaedrus: Pausanias,” and “Socrates” in a work written for solo violin, strings, harp, and percussion titled Serenade after Plato's Symposium. His second symphony's first movement features fourteen variations divided into two parts called “The Seven Ages” and “The Seven Stages,” while his first symphony begins with the “Amidah” theme in the first movement titled “Prophecy” followed by sections called “Profanation” and “Lamentation.” This composer's third symphony features a speaker who wakes up a sleeping God from his naïve dream of human happiness, and that symphony is dedicated to the memory of John F. Kennedy. For 10 points, name this American composer who wrote the Jeremiah Symphony and the Kaddish Symphony in addition to writing the music for West Side Story.
+
+----
+num: 16
+category: Literature
+difficulty: College
+fixed: None
+seen: 67
+answer: “Ode: {Intimations} of {Immortality} From Recollections of Early Childhood”
+
+The seventh section of this work centers on a boy “six years' darling of a pigmy size,” who is “shaped by himself with newly-learned art” and notes, “as if his whole vocation were endless imitation.” This poem's final stanza remarks on the loveliness of “the innocent brightness of a new-born Day” and that “the meanest flowers” gives thoughts “too deep for tears.” The fifth section of this work opens with the line, “our birth is but a sleep and a forgetting,” and the author calls youth “radiance which was once so bright,” in years featuring “the philosophic mind.” This poem first appeared with an epigraph from Vergil's Fourth Eclogue, and many versions of this poem had the epigraph beginning “The Child is father of the Man” from an earlier poem by its author. This poem notes that “heaven lies about us in our infancy,” and the poem opens with the realization that, “There was a time when meadow, grove, and stream” seemed “apparell'd in celestial light.” Subtitled “From Recollections of Early Childhood,” for 10 points, name this eleven part poem by William Wordsworth, an ode about memories and wisdom.
+
+----
+num: 17
+category: History
+difficulty: College
+fixed: None
+seen: 71
+answer: {Bartolome Mitre}
+
+After leaving office, this man attempted to launch a rebellion against one of his successors, Nicolas Avellaneda. As a general, this man won the Battle of Pavon, which followed the San Jose de Flores Pact. This man had earlier lost the Second Battle of Cepeda against his rival, Justo Jose de Urquiza. During his country's civil war, this man led the Unitarian Party. During this man's Presidency, he expanded his country's territory all the way to the Pilcomayo river by signing an alliance with Venancio Flores and Pedro II. That alliance was victorious at the Battle of Riachuelo and defeated Francisco Solano Lopez, this man's northern neighbor. For ten points, name this President of Argentina during the War of the Triple Alliance.
+
+----
+num: 18
+category: Philosophy
+difficulty: College
+fixed: -1
+seen: 52
+answer: {Hans}-{Georg Gadamer}
+
+This author collected several lectures given to physicians in The Enigma of Health. This author of an essay entitled “Who Am I and Who Are You” on Paul Celan also paired essays about “The speechless image” and “The festive character of theatre” with a longer work that claims that the “effective historical consciousness” from different eras comes together in the “fusion of horizons.” Many works of this author of The Relevance of the Beautiful, are inspired by Plato's dialogic understanding and the concept of phronesis from Nicomachean Ethics. He objected both to approaches to the humanities based on natural sciences and to the methods of Dilthey and Schleiermacher. In his best-known work. A debate regarding how to critique society objectively, despite history and culture, occurred between Jurgen Habermas and this figure, who wrote of the distinction between “explanation” and “understanding” and whose magnum opus addressed what ends up happening, rather than what one ought to do, when one interprets a text. For 10 points, name this central figure in twentieth century hermeneutics, the author of Truth and Method.
+
+----
+num: 19
+category: Science
+difficulty: College
+fixed: None
+seen: 82
+answer: reaction {rate} [accept {clear} equivalents]
+
+For surface chemistry, this quantity is proportional to surface coverage times number of sites, though for bimolecular cases it requires the models developed by Langmuir and Hinshelwood or by Eley and Rideal. “On water” reactions have an unexpected dependence solvent dependence of this property. Properties of the potential energy surface give estimates of this quantity for one case in an improvement that allowed for zero-point energies and normal mode contributions by Marcus to a theory originated by Rice, Ramsberger, and Kassel. For a long time, this quantity varies harmonically in the Briggs-Rauscher reaction. This quantity can be given as proportional to the reactant concentrations raised to exponents called orders; the constant of proportionality is itself proportional to the exponential of negative activation energy over ideal gas constant times temperature in the Arrhenius equation. For 10 points, name this quantity given by the time derivative of a product concentration over its stoichiometric coefficient, the speed at which a chemical transformation takes place.
+
+----
+num: 20
+category: Literature
+difficulty: College
+fixed: None
+seen: 63
+answer: The {Sheep Well} [accept {Fuente Ovejuna}]
+
+In this play's first act one character gives a speech lamenting people who “euphemise every flaw” by calling cripples people that “do not like to dance,” before he asks another character to judge a bet over the existence of love. At the beginning of the second act one character compares poets to bakers who are left with the charred remains of overcooked donuts that they cannot sell and must eat. One character is sentenced to be flogged by a hundred different men after getting into an argument with a character that is prevented from raping a girl when her lover picks up his own crossbow to frighten him away. In this drama Mengo is chided by Barrildo and Juan Rojo for interrupting a wedding march by complainging about his horrific tortures, while later Ortuno is murdered off stage by a mob of women including Jacinta and Pascuala. Flores reports to court about the fate of the Commander of Calatrova who scandalously tried to rape Frondoso's fiancée Laurencia. In this play's final act an inquisitor is frustrated when his tortures fail to extract the identity of the person who killed Commander Fernan Gomez de Guzman before King Ferdinand pardons the titular village. For 10 points, name this play about a Spanish town by Lope de Vega.

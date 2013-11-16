@@ -1,0 +1,279 @@
+####
+tournament: Sample Set 4
+round: Round11.pdf
+####
+
+num: 1
+category: Life Science
+difficulty: MS
+answer: X) Height
+
+Which of the following choices is an example of a continuous variation?
+W) Family size
+X) Height
+Y) Pierced ears
+Z) Gender
+
+----
+num: 2
+category: General Science
+difficulty: MS
+answer: Y) Copper and Zinc
+
+Brass is an alloy of which two metals?
+W) Copper and gold
+X) Copper and aluminum
+Y) Copper and zinc
+Z) Copper and tin
+
+----
+num: 2
+category: General Science
+difficulty: MS
+answer: Y) Distillation
+
+Which of the following processes is not part of the water cycle?
+W) Transpiration
+X) Precipitation
+Y) Distillation
+Z) Evaporation
+
+----
+num: 3
+category: Earth and Space Science
+difficulty: MS
+answer: Z) 14 Billion
+
+Which of the following is the approximate age of the Universe in years?
+W) 3 million
+X) 1 billion
+Y) 5 billion
+Z) 14 billion
+
+----
+num: 5
+category: Earth and Space Science
+difficulty: MS
+answer: X) Waxing
+
+
+If you see part of the moon one night, then three nights later you can see more of it, you know that the moon is:
+W) Waning
+X) Waxing
+Y) Gibbous
+Z) Full
+
+----
+num: 6
+category: Physical Science
+difficulty: MS
+answer: X) Protons Per Atom
+
+Elements are often classified by their atomic number. 
+The atomic number denotes the number of:
+W) Atoms per gram
+X) Protons per atom
+Y) Neutrons per atom
+Z) Protons and neutrons per atom
+
+----
+num: 6
+category: Physical Science
+difficulty: MS
+answer: W) Aluminum
+
+Which of the following elements has the largest atomic weight?
+W) Aluminum
+X) Neon
+Y) Nitrogen
+Z) Lithium (read as: LI-thee-uhm)
+
+----
+num: 7
+category: General Science
+difficulty: MS
+answer: Z) Ethanol
+
+Which of the following can NOT be considered a solution?
+W) Soda pop
+X) Salt Water
+Y) Household vinegar
+Z) Ethanol
+
+----
+num: 7
+category: General Science
+difficulty: MS
+answer: X) Emulsion
+
+
+A vinaigrette salad dressing is an example of:
+W) Solution
+X) Emulsion
+Y) Suspension
+Z) Alloy
+
+----
+num: 8
+category: Life Science
+difficulty: MS
+answer: Y) Apomixis
+
+Which of the following is NOT a mechanism plants use to disperse their seeds?
+W) Ingestion by animals
+X) Wind
+Y) Apomixis (read as: ah-poh-MIK-sis)
+Z) Storage by animals
+
+----
+num: 9
+category: Earth and Space Science
+difficulty: MS
+answer: X) Heat From the Earth’s Interior Driving Convection in the 
+Mantle
+
+TOSS -UP
+Which of the following best describes what drives plate tectonics?
+W) Energy from the Sun driving ocean currents and plates
+X) Heat from the Earth’s interior driving convection in the mantle
+Y) Scientists have not yet developed a robust theory but some leading researchers are linking it to ocean currents
+Z) Earthquakes drive plate tectonics, volcanism, and global wind systems
+
+----
+num: 9
+category: Earth and Space Science
+difficulty: MS
+answer: X) Igneous, Metamorphic, and Sedimentary
+
+
+Which of the following best describes what kinds of rocks are formed because of plate tectonics?
+W) Volcanic rocks only
+X) Igneous (read as: IG-nee-ehs), metamorphic, and sedimentary
+Y) Sandstones and marble 
+Z) Coal and fossil fuels
+
+----
+num: 10
+category: General Science
+difficulty: MS
+answer: Z) the Wave Acquires Tremendous Energy When There Is a 
+Shallow Focus and High Magnitude Earthqu Ake in Deep Water
+
+Which of the following best explains why a tsunami produced by an underwater earthquake might be deadly?
+W) The wave acquires a tremendous velocity if the depth of the earthquake is small
+X) The height of a wave created by an earthquake increases the potential energy of the wave
+Y) The wave possesses intense pressure when it reaches the shore
+Z) The wave acquires tremendous energy when there is a shallow focus and high magnitude earthquake in deep water
+
+----
+num: 11
+category: Energy
+difficulty: MS
+answer: Z) Uranium
+
+Which of the following natural resour ces did NOT originally get its energy from the Sun?
+W) Natural gas
+X) Petroleum
+Y) Coal
+Z) Uranium
+
+----
+num: 12
+category: General Science
+difficulty: MS
+answer: Z) Solar Insolation
+
+Available incoming solar radiation is known as:
+W) Solar absorption
+X) Solar reflection
+Y) Solar re-radiation
+Z) Solar insolation
+
+----
+num: 13
+category: Physical Science
+difficulty: MS
+answer: X) Destruction of Energy
+
+During a chemical reaction, which of the following will never occur?
+W) Production of heat
+X) Destruction of energy
+Y) Production of light
+Z) Formation of a new substance
+
+----
+num: 13
+category: Physical Science
+difficulty: MS
+answer: Z) Combining Copper and Tin to Make Bronze
+ 
+
+Which of the following does NOT include a chemical reaction?
+W) Making caramel from sugar 
+X) Immersing an iron nail in a copper sulfate solution to coat the nail with copper metal
+Y) Combining water, rocks and gravel with cement to make concrete
+Z) Combining copper and tin to make bronze
+
+----
+num: 14
+category: Earth and Space Science
+difficulty: MS
+answer: X) the Northern Hemisphere Is Tilted Awa Y From the Sun When 
+the Southern Hemisphere Is  Tilted Toward the Sun
+
+Why is it winter in the northern hemisphere when it is summer in the southern hemisphere?
+W) The manner in which the Earth rotates regulates the seasons on Earth
+X) The northern hemisphere is tilted away from the Sun when the southern hemisphere is tilted toward the Sun 
+Y) Because of the Earth’s revolution, each hemisphere experiences summer when it is closest to the Sun and winter when it is further away
+Z) Because of the Earth’s rotation, seasons are regulated by photoperiods
+
+----
+num: 16
+category: Physical Science
+difficulty: MS
+answer: Y) Chromium
+
+Which of the following elements is often added to steel to make it harder?
+W) Aluminum
+X) Zirconium
+Y)
+Z) SodChromiumium
+
+----
+num: 18
+category: Math
+difficulty: MS
+answer: W) 22 by 22
+
+Cal has 88 feet of fencing to make a rectangular pen for his dog. 
+Which of the following r espective lengths and widths in feet will give him the largest area?
+W) 22 by 22
+X) 28 by 16
+Y) 30 by 14
+Z) 43 by 1
+
+----
+num: 19
+category: Energy
+difficulty: MS
+answer: X) It Decreases
+
+When a fighter pilot fires a machine gun on a plane directly in front of her, the momentum of the fighter pilot and her plane changes in what way?
+W) Increases
+X) Decreases
+Y) Stays the same
+Z) Changes direction
+
+----
+num: 23
+category: Energy
+difficulty: MS
+answer: Y) Both  the Car and the Bug Experience the Same  Absolute 
+Change in Momentum
+
+
+While driving down the freeway, a bug splatters on your windshield. Whi ch of the following is true?
+W) The bug experiences more of an absolute change in momentum
+X) The car experiences more of an absolute change in momentum
+Y) Both the car and the bug experience the same absolute change in momentum
+Z) Neither the car nor the bug experiences a change in momentum

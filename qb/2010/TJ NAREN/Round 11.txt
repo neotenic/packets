@@ -1,0 +1,234 @@
+####
+tournament: TJ NAREN
+round: Round 11.doc
+year: 2010
+####
+
+num: 1
+category: Science
+difficulty: HS
+fixed: 1
+seen: 477
+answer: ferromagnetism
+
+The Ising model maps alignment of spin in substances with this property. Plutonium phosphorus is an example of an actinide compound with it, and scientists have observed that lithium gas is able to exhibit this property when cooled to almost absolute zero. Long range ordering phenomena cause unpaired electrons in materials with this property to spin parallel to each other. A material loses this property when it is heated past the Curie temperature, and it is explained by the idea of magnetic domains. For 10 points, name this permanent type of magnetism exhibited by nickel, cobalt, and its namesake element.
+
+----
+num: 2
+category: Literature
+difficulty: HS
+fixed: 57
+seen: 446
+answer: The Rime of the Ancient {Mariner}
+
+In one section of this work water burns "green and blue and white", while in another section of this work a character is described as having "skin as white as leprosy" and who "thicks man's blood with cold." That woman, Life-in-Death, wins the title character's life in a game of dice, and "slimy things with legs did crawl" in this work in which the Wedding-Guest leaves "a sadder and a wiser man." More notably, the title character exclaims there is "water, water everywhere / nor any drop to drink" and brings bad luck by killing the animal that "made the breeze to blow", an Albatross. For 10 points, identify this epic about a cursed sailor by Samuel Taylor Coleridge.
+
+----
+num: 3
+category: History
+difficulty: HS
+fixed: None
+seen: 421
+answer: Somalia
+
+The ancient Kingdom of Punt is thought to have been in this country, and before the Soviet Union ended its alliance with this country during its conflict with Ethiopia, the Ogaden War, it had the largest military in Africa. Operation Restore Hope was a humanitarian mission in this country during the rule of General Mohamed Farrah, and the Transitional Federal Government was given control of this country in 2003. This country has been in a civil war since 1991, and a battle fought in its capital is the subject of the book Black Hawk Down. For 10 points, name this African nation where Richard Phillips was taken hostage, infamous for piracy on its coast, with capital at Mogadishu.
+
+----
+num: 3
+category: History
+difficulty: HS
+fixed: None
+seen: 407
+answer: Somalia
+
+The ancient Kingdom of Punt is thought to have been in this country, and before the Soviet Union ended its alliance with this country during its conflict with Ethiopia, the Ogaden War, it had the largest military in Africa. Operation Restore Hope was a humanitarian mission in this country during the rule of General Mohamed Farrah, and the Transitional Federal Government was given control of this country in 2003. This country has been in a civil war since 1991, and a battle fought in its capital is the subject of the book Black Hawk Down. For 10 points, name this African nation where Richard Phillips was taken hostage, infamous for piracy on its coast, with capital at Mogadishu.
+
+----
+num: 4
+category: Fine Arts
+difficulty: HS
+fixed: 1
+seen: 494
+answer: John Singer {Sargent}
+
+After visiting Tangiers, this artist depicted a veiled African woman inhaling the titular perfume in Fumée d'ambre gris, and young girls stand near large Japanese vases in this painter's The Daughters of Edward Darley Boit. Two guitars hang on the back left wall as a flamenco dancer spins in this artist's painting El Jaleo, and he painted two children in white holding Chinese lanterns in Carnation, Lily, Lily, Rose. His most well-known painting depicts a pale, pointy-nosed woman in a black dress with jeweled straps. That woman, who holds her dress and poses suggestively by a table, was Virginie Gautreau. For 10 points, name this American painter of Portrait of Madame X.
+
+----
+num: 5
+category: Geography
+difficulty: HS
+fixed: -1
+seen: 714
+answer: {Vermont}
+
+This state's Mount Equinox is the highest point of the Taconic Mountains, and the statewide highest point, known as "the Chin", is on Mount Mansfield. Its largest city is smaller than that of any other state, and is located in Chittenden County, which is named after its governor from when it was an independent republic. Its northwest border is created by a body of water which contains Isle la Motte and drains into the Richelieu River. Its eastern border is the Connecticut River, and its shore with Lake Champlain contains Burlington. For 10 points, identify this New England state which contains the Green Mountains and has a capital at Montpelier.
+
+----
+num: 6
+category: Science
+difficulty: HS
+fixed: 57
+seen: 486
+answer: {integration} [accept word forms; prompt on "{antidifferentiation}"]
+
+Performing this operation in polar, cylindrical, or spherical coordinates yields a special case of the change of variables, a process which requires using a Jacobian. A generalization of this operation in measure theory is named for Lebesgue (luh-BAY). Methods for doing it numerically include the trapezoid rule, while additional techniques include doing it by parts and u-substitution. One type of this operation is evaluated at limits while another requires a namesake constant; these are the definite and indefinite types. For 10 points, name this operation from calculus often interpreted as the limit of a Riemann sum, the opposite of differentiation, used to find the area under a curve.
+
+----
+num: 7
+category: Literature
+difficulty: HS
+fixed: 57
+seen: 443
+answer: {Journey} to the {West} [or {Monkey}; prompt on "{Sun Wukong}" before it is mentioned]
+
+In one section of this work, the White Bone Demon is defeated, and later in this work a monk sees his body float under a bridge. Its protagonist can "cloud-somersault", could perform seventy-two transformations, is born from a stone egg on a mountain, and wields a golden-banded fighting staff. That character, who was sealed in a mountain after failing to escape from the Buddha's palm, is given a headband by Guanyin for a voyage in which the protagonist, Pigsy, and Sandy help Tripitaka obtain sutras. For 10 points, name this work centering around Sun Wukong, one of China's Four Great Classical Novels by Wu Cheng'en.
+
+----
+num: 8
+category: Literature
+difficulty: HS
+fixed: 57
+seen: 440
+answer: Ralph Waldo {Emerson}
+
+He wrote that "beauty is its own excuse for being" in "The Rhodora" and claimed that "the highest end of government is the culture of man" to argue against property rights. His reading of the Vedas can be seen in a work defining the title concept as "not a faculty, but a light", "The Over-Soul", and he discussed two failures of historical Christianity in his Divinity School Address. In one work, the speaker says "I am nothing; I see all" after using the metaphor of a "transparent eye-ball". Another of his essays decries conformity and "foolish consistency" and advises "Trust thyself". For 10 points, name this transcendentalist philosopher and author of "Nature" and "Self-Reliance".
+
+----
+num: 9
+category: Science
+difficulty: HS
+fixed: -1
+seen: 487
+answer: {Australopithecus} [or {australopithecines}; or {australopiths}; accept {Australopithecus africanus} before "{split}"]
+
+The earliest known example of this taxonomic group was discovered in and named for Tuang, South Africa. It used to be split into gracile and robust varieties, but the latter are now considered another group that includes the boisei species, known as Paranthropus. A set of footprints from some of its members, discovered by Mary Leakey in Laetoli, showed arched feet and non-opposable big toes, and members of this genus have been excavated in Olduvai Gorge. The most famous specimen of this genus, discovered in Ethiopia, was 3.5 feet tall and named Lucy. Studied by Raymond Dart, for 10 points, name this extinct genus of hominids with species afarensis and africanus.
+
+----
+num: 10
+category: History
+difficulty: HS
+fixed: 1
+seen: 422
+answer: Swiss {minaret ban} [accept equivalents]
+
+It may be first tested by construction plans in Langerthal, and a precursor to it concerned those of a Turkish group in Wangen bei Olten. This initiative was supported by the Federal Democratic Union and would amend article 72 of the constitution of the country in which it occurred. Posters produced by supporters of it show a woman in front of the flag of that country, which looks like it is covered in missiles. The referendum concerning it was proposed by its country's People's Party and passed by 22 cantons. For 10 points, name this November 2009 decision by the Swiss to outlaw construction of a certain part of a mosque, only four of which exist in that country.
+
+----
+num: 11
+category: Fine Arts
+difficulty: HS
+fixed: 1
+seen: 488
+answer: La {Traviata}
+
+One character in this opera sings the aria "Ah, fors'è lui" before deciding she must be free in the aria "Sempre libera". Minor characters in this opera include the Marchese d'Obigny, a friend of Flora Bervoix, and this opera sees the female lead write a letter announcing her return to Baron Douphol. Dr. Grenvil tells the maid Annina that one character will not live long in this opera, and that character, who had been made to break off her relationship by Giorgio Germont, later dies of tuberculosis. For 10 points, name this work about the love between Alfredo and Violetta, an opera by Giuseppe Verdi.
+
+----
+num: 12
+category: Science
+difficulty: HS
+fixed: -1
+seen: 490
+answer: voltaic cell [or {galvanic} cell; prompt on "{battery}" before "{proton}"; prompt on "{electrochemical} cell" or "cell"]
+
+A decrease in the ability of this device to operate due to the accumulation of a product is known as polarization. Primary ones are not reversible, while one reversible secondary example uses lead and lead sulfate. The reduction of a proton to hydrogen gas is a standard used to measure the favorability of reactions in this device, and one that reacts copper with copper(II) sulfate [copper two sulfate] is named for Daniell. In order to compensate for the charge imbalance within these objects, a soluble salt such as potassium nitrate is used in a salt bridge. For 10 points, name this kind of cell in which a chemical reaction produces electricity, contrasted with an electrolytic cell.
+
+----
+num: 13
+category: Mythology
+difficulty: HS
+fixed: 57
+seen: 794
+answer: Medusa
+
+Ancient depictions portray this figure as horse-like in appearance; however, more familiar depictions of her emerged during the fifth century, during which she was given the epithet "fair-cheeked". Ovid depicts her as a vain maiden who was raped by Poseidon in the temple of Athena, thereby desecrating it. As the only mortal member of her kind, her head was placed on Athena's shield, the aegis, after she was decapitated by the eventual founder of Mycenae, whereupon Chrysaor and Pegasus emerged from her neck. For 10 points, name this snake-haired deity beheaded by Perseus, the most famous of the gorgons, who turned those who gazed upon her into stone.
+
+----
+num: 14
+category: History
+difficulty: HS
+fixed: -1
+seen: 426
+answer: Great {Peloponnesian} War [or {Second Peloponnesian} War]
+
+This conflict was preceded by one in which one side captured Aegina; that conflict was ended by the Thirty Years' Treaty. One city involved in this conflict almost had its men killed while its women and children were sold into slavery. This later happened to Melos, which wanted to remain neutral. One side was ultimately done in by an attempt to take Syracuse, which led to heavy losses. This conflict was initially sparked by Corinth attacking Corfu, which appealed to a major city-state for help. For 10 points, name this conflict which is the subject of a work by Thucydides, a 5th century BCE conflict between Athens and Sparta.
+
+----
+num: 15
+category: Literature
+difficulty: HS
+fixed: 1
+seen: 449
+answer: "The {Necklace}" [or "La {Parure}"]
+
+Early on in this story the protagonist imagines "chambers hung with Oriental tapestries" and imagines "delicate meals, gleaming silver" while her husband admires their Scotch broth. Its protagonist requests four hundred francs to buy a new dress, and lives in an apartment at the Rue des Martyrs. Henry James' story "Paste" is a reversal of this story, in which after the protagonist loses the title borrowed object at the Minister of Education's ball, she and her spouse work for ten years to repay Madame Forestier. For 10 points, name this short story in which Mathilde Loisel does not realize the title object is fake, a work by Guy de Maupassant.
+
+----
+num: 16
+category: Fine Arts
+difficulty: HS
+fixed: 1
+seen: 491
+answer: Franz Joseph {Haydn}
+
+One of his masses is notable for the timpani part and is entitled "Mass in Time of War." He spent much of his career with the Esterházy family, for whom he wrote the Morning, Noon, and Evening symphonies. Later in his career, he composed the oratorio "The Seasons" in response to an earlier oratorio based on the Book of Genesis, "The Creation." During his lifetime, he composed 104 symphonies, the last twelve of which were written in a certain European capital and include "The Miracle" and "The Surprise" symphonies. Often credited with inventing the forms of symphony, concerto, string quartet, and sonata, for 10 points, name this Austrian composer of the London Symphonies.
+
+----
+num: 17
+category: Science
+difficulty: HS
+fixed: 57
+seen: 489
+answer: {Tay}-{Sachs} disease
+
+Its late-onset form, called LOTS, is not fatal, but its infantile and juvenile varieties are. Its symptoms resemble Sandhoff disease, but it is caused by a mutation on chromosome 15 rather than 5. Reduced activity of the enzyme hexosaminidinase A, caused by a mutation in the HEXA gene, leads to accumulation of the ganglioside GM2 in the brain's neurons. This autosomal recessive disease causes the appearance of a cherry-red spot on the retina. Other symptoms include an inability to swallow as well as blindness, deafness, and paralysis. For 10 points, name this lysosomal storage disorder which is usually fatal by age 5 and is most common in Ashkenazi Jewish populations.
+
+----
+num: 18
+category: Literature
+difficulty: HS
+fixed: -1
+seen: 445
+answer: The Adventures of Huckleberry Finn
+
+The narrator of this book states that the most popular character is an undertaker who hits a dog for causing a commotion. That event occurs at a funeral for Peter Wilks, whose savings are stolen by two characters claiming to come from England and France. In this book, Harney and Miss Sophia elope during a conflict between the Grangerfords and Shepherdsons. Before meeting the aforementioned Duke and Dauphin, the main characters are dismayed when a bout of fog causes them to pass Cairo and miss the entry to the Ohio River. For 10 points, name this novel about the runaway slave Jim and a comrade of Tom Sawyer sailing down the Mississippi, a book by Mark Twain.
+
+----
+num: 19
+category: History
+difficulty: HS
+fixed: 1
+seen: 422
+answer: War of the {Spanish Succession} [prompt on partial]
+
+This conflict would lead to the War of the Quadruple Alliance, and several attacks on Port Royal and the Raid on Deerfield occurred on its North American front, known as Queen Anne's War. The fortress of Mons fell soon after the Battle of Malplaquet in this conflict, and Great Britain signed the "Asiento" with one country involved in this conflict, gaining slave trade rights. Involving the duc de Villars and the Dukes of Savoy and Marlborough, this struggle was fought over the right of a Bourbon to rule after a Hapsburg. Ending with Philip of Anjou recognized as Philip V of France, for 10 points, name this conflict ended by the Treaty of Utrecht.
+
+----
+num: 20
+category: History
+difficulty: HS
+fixed: 1
+seen: 420
+answer: Calvin {Coolidge}
+
+This man vetoed a farmer relief bill proposing the government buy surplus production for later sale, though he supported the Curtis-Crisp Act. In addition to opposing the McNary-Haugen Act, the Washington Naval Treaty was ratified during his term, and during this man's presidency the United States ratified an agreement outlawing warfare "as an instrument of national policy," the Kellogg-Briand Pact. Congress passed the Bonus Bill over this man's veto, and this man ran with Charles Dawes against candidates like John Davis and Bob LaFollette for the presidency. An advocate of laissez-faire economics, for 10 points, name this famously terse president who succeeded Warren G. Harding.
+
+----
+num: 21
+category: Literature
+difficulty: HS
+fixed: 1
+seen: 453
+answer: {Wuthering Heights}
+
+One of this novel's character's dogs is hung on a doorpost, while in another section of this novel a character can read his name but not the date "1500". That former character, Isabella, runs off to London and there gives birth to Linton, while a more prominent character in this story was abused by Hindley and abuses Hindley's son in turn, and is distraught when another character marries Edgar. This novel sees Nelly Dean recounts the story to the narrator Lockwood, who leaves Thrushwood Grange and returns to find Cathy and Hareton are married. For 10 points, identify this novel about Catherine Earnshaw and Heathcliff by Emily Bronte.
+
+----
+num: 21
+category: Literature
+difficulty: HS
+fixed: 1
+seen: 437
+answer: {Wuthering Heights}
+
+One of this novel's character's dogs is hung on a doorpost, while in another section of this novel a character can read his name but not the date "1500". That former character, Isabella, runs off to London and there gives birth to Linton, while a more prominent character in this story was abused by Hindley and abuses Hindley's son in turn, and is distraught when another character marries Edgar. This novel sees Nelly Dean recounts the story to the narrator Lockwood, who leaves Thrushwood Grange and returns to find Cathy and Hareton are married. For 10 points, identify this novel about Catherine Earnshaw and Heathcliff by Emily Bronte.

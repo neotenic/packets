@@ -1,0 +1,483 @@
+####
+tournament: #6496
+round: Show #6496 - Monday, December 10, 2012
+year: 2012
+date: 2012-12-10
+####
+
+num: 1
+category: Literature
+difficulty: 200
+seen: 4
+answer: invisibility
+
+Dumbledore gave Harry Potter a cloak with this power as an anonymous Christmas gift.
+
+----
+num: 2
+category: Literature
+difficulty: 200
+seen: 4
+answer: (Mary) Shelley
+
+Frankenstein's monster.
+
+----
+num: 3
+category: History
+difficulty: 200
+seen: 5
+answer: Truman
+
+His 1947 doctrine called for aid to anticommunist governments in Greece & turkey.
+
+----
+num: 4
+category: Literature
+difficulty: 200
+seen: 4
+answer: Frosty the Snowman
+
+In an animated special, he heads to the North Pole so he'll never melt & is tracked there by a magician named Professor Hinkle.
+
+----
+num: 5
+category: Trash
+difficulty: 200
+seen: 5
+answer: Chef Boyardee
+
+A can of "mini ABC's & 123's with meatballs", prepared by this red-scarved "chef".
+
+----
+num: 6
+category: Literature
+difficulty: 200
+seen: 4
+answer: a bullfight
+
+Ernest Hemingway's "Death in the Afternoon" is a treatise on this Spanish spectacle.
+
+----
+num: 7
+category: Literature
+difficulty: 400
+seen: 4
+answer: Cape Cod
+
+Once a center of the whaling industry, this cape, highlighted.
+
+----
+num: 8
+category: Literature
+difficulty: 400
+seen: 4
+answer: Ann Rice
+
+The vampire Lestat.
+
+----
+num: 9
+category: History
+difficulty: 400
+seen: 4
+answer: Eisenhower
+
+His 1957 doctrine promised aid to any anticommunist middle eastern government.
+
+----
+num: 10
+category: Literature
+difficulty: 400
+seen: 4
+answer: the Grinch
+
+After a change of heart, he carved the roast beast at the Whos' Christmas feast.
+
+----
+num: 11
+category: Trash
+difficulty: 400
+seen: 5
+answer: nachos
+
+At a movie matinee, this gooey chips-&-cheese snack.
+
+----
+num: 12
+category: Literature
+difficulty: 400
+seen: 3
+answer: brilliant
+
+Count yourself really smart if you know it's the popular cut of diamond seen.
+
+----
+num: 13
+category: History
+difficulty: 600
+seen: 4
+answer: Joseph Smith
+
+"Doctrine and Covenants", one of the 4 scriptures of Mormonism, contains more revelations from this man.
+
+----
+num: 14
+category: Trash
+difficulty: 600
+seen: 4
+answer: Twinkies
+
+This snack from hostess, created in 1930; its inventor said it "was the best darn-tootin' idea I ever had".
+
+----
+num: 15
+category: Literature
+difficulty: 600
+seen: 4
+answer: bolster
+
+A decorative cylindrical pillow for a sofa or bed, or to improve something, like morale.
+
+----
+num: 16
+category: Literature
+difficulty: 800
+seen: 4
+answer: Cape Canaveral
+
+Alan Shepard left this Florida cape in a big hurry on May 5, 1961.
+
+----
+num: 17
+category: History
+difficulty: 800
+seen: 4
+answer: West Germany
+
+This country's Hallstein Doctrine was a Cold War effort to keep other nations from recognizing East Germany.
+
+----
+num: 18
+category: Literature
+difficulty: 800
+seen: 4
+answer: "The Little Drummer Boy"
+
+This holiday song says, "I am a poor boy too...I have no gift to bring...shall I play for you".
+
+----
+num: 19
+category: Trash
+difficulty: 800
+seen: 5
+answer: shepherd\'s pie
+
+This "pie", diced lamb mixed with gravy & veggies topped with mashed potatoes.
+
+----
+num: 20
+category: Literature
+difficulty: 800
+seen: 4
+answer: a bull terrier
+
+breed of dog originated in England in the 1800s.
+
+----
+num: 21
+category: Literature
+difficulty: 1000
+seen: 4
+answer: a sarape
+
+It's the 6-letter wool wrap from Latin America seen.
+
+----
+num: 22
+category: History
+difficulty: 1000
+seen: 4
+answer: Brezhnev
+
+The doctrine named for this '60s & '70s leader asserted the Soviet Union's right to intervene in socialist countries.
+
+----
+num: 23
+category: Literature
+difficulty: 1000
+seen: 4
+answer: Clarence
+
+This angel, Second Class, stops George Bailey from committing suicide on Christmas.
+
+----
+num: 24
+category: Trash
+difficulty: 1000
+seen: 6
+answer: salami
+
+From Hebrew national's line of sliced lunchmeats, this one that's drier than bologna.
+
+----
+num: 25
+category: Literature
+difficulty: 1000
+seen: 5
+answer: a bronchodilator
+
+Delivered by an inhaler, albuterol is a quick-acting one of these 14-letter medications that open the airways.
+
+----
+num: 26
+category: Science
+difficulty: 400
+seen: 5
+answer: a smoke detector
+
+The ionization type of this safety device responds better to leaping flames; the photoelectric, to smoldering.
+
+----
+num: 27
+category: Literature
+difficulty: 400
+seen: 4
+answer: a cheater cherubim or cherubim cheater
+
+A baby-faced angel disobeying the rules of a game.
+
+----
+num: 28
+category: Trash
+difficulty: 400
+fixed: -1
+seen: 5
+answer: Gandhi
+
+The government of India instituted a peace prize named for him on Oct. 2, 1994, the 125th anniversary of his birth.
+
+----
+num: 29
+category: Trash
+difficulty: 400
+seen: 5
+answer: (Clint) Eastwood
+
+Go ahead & make our day & tell us he directed "Hereafter".
+
+----
+num: 30
+category: History
+difficulty: 400
+seen: 4
+answer: Fort Knox
+
+During WWII the gold vault at this military post held the original copy of the U.S. Constitution.
+
+----
+num: 31
+category: Literature
+difficulty: 400
+seen: 4
+answer: McCarthy
+
+Nicknamed "tailgunner Joe" for his WWII service, he hunted reds in the U.S. government.
+
+----
+num: 32
+category: Science
+difficulty: 800
+seen: 7
+answer: a seat belt
+
+Virgin America's inflight safety video says, "for the .0001 percent of you who have never operated" this before...
+
+----
+num: 33
+category: Literature
+difficulty: 800
+seen: 4
+answer: a duke\'s dance
+
+A waltz for the highest British hereditary noble rank.
+
+----
+num: 34
+category: Trash
+difficulty: 800
+seen: 5
+answer: a Webby
+
+Presented by the International Academy of Digital Arts & Sciences, it's the leading award for Internet sites.
+
+----
+num: 35
+category: Trash
+difficulty: 800
+seen: 5
+answer: Joel & Ethan Coen
+
+They are the true collaborators behind 2010's "True Grit".
+
+----
+num: 36
+category: Literature
+difficulty: 800
+seen: 4
+answer: Joe Bananas
+
+Fruity nickname of mob boss Joseph Bonanno.
+
+----
+num: 37
+category: Science
+difficulty: 1200
+seen: 5
+answer: pitch speed
+
+The Jugs radar gun has been measuring this in baseball since 1971, too late for Bob Feller or Steve Dalkowski.
+
+----
+num: 38
+category: Literature
+difficulty: 1200
+seen: 4
+answer: a lion\'s labyrinth
+
+The king of beasts' maze.
+
+----
+num: 39
+category: Trash
+difficulty: 1200
+seen: 6
+answer: Woody Allen
+
+"To Rome with Love" is his 42nd feature-length film as director.
+
+----
+num: 40
+category: History
+difficulty: 1200
+seen: 4
+answer: Stone Mountain
+
+Gutzon Borglum was the first sculptor to work on this Civil War monument 16 miles east of Atlanta.
+
+----
+num: 41
+category: Literature
+difficulty: 1200
+seen: 4
+answer: Goebbels
+
+Talk about mean--this Nazi pr guy & his wife poisoned their 6 kids before taking their own lives.
+
+----
+num: 42
+category: Science
+difficulty: 1600
+seen: 6
+answer: a siphon
+
+When it uses gravity to transfer liquid from one level to a lower one, a tube becomes one of these devices.
+
+----
+num: 43
+category: Literature
+difficulty: 1600
+seen: 5
+answer: a bald barber
+
+A follicly challenged hair cutter.
+
+----
+num: 44
+category: Trash
+difficulty: 1600
+seen: 6
+answer: the Clio
+
+Oddly, this award for excellence in advertising is named for the muse of history.
+
+----
+num: 45
+category: Trash
+difficulty: 1600
+seen: 5
+answer: Wes Craven
+
+This horror master was back for more with "Scream 4".
+
+----
+num: 46
+category: History
+difficulty: 1600
+seen: 5
+answer: Angel Falls
+
+The longest unbroken drop of this Venezuelan waterfall is 2,648 feet.
+
+----
+num: 47
+category: Literature
+difficulty: 1600
+seen: 5
+answer: Injun Joe
+
+Tom Sawyer's archfoe, he kills Doc Robinson & frames Muff Potter before coming to a bad end in a cave.
+
+----
+num: 48
+category: Science
+difficulty: 2000
+seen: 8
+answer: a beeper (or pager)
+
+When Al Gross first shopped this communication device in 1949, doctors said, "but it would interrupt our golf games".
+
+----
+num: 49
+category: Literature
+difficulty: 2000
+seen: 6
+answer: an insomnia indicator
+
+A sign that points to the inability to sleep.
+
+----
+num: 50
+category: Trash
+difficulty: 2000
+seen: 8
+answer: a Goya
+
+Spain's version of the Oscar is called this, after artist Francisco (winners get a bust of him).
+
+----
+num: 51
+category: Trash
+difficulty: 2000
+seen: 8
+answer: Michael Bay
+
+"Transformers: Dark of the Moon" was another stew of action & effects from this director.
+
+----
+num: 52
+category: History
+difficulty: 2000
+seen: 5
+answer: San Simeon
+
+The mailing address of Hearst Castle is in this small California community.
+
+----
+num: 53
+category: Literature
+difficulty: 2000
+seen: 5
+answer: (Joseph) Kony
+
+This leader of Africa's Lord's Resistance Army is wanted for crimes against humanity.

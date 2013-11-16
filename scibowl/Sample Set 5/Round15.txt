@@ -1,0 +1,563 @@
+####
+tournament: Sample Set 5
+round: Round15.pdf
+####
+
+num: 1
+category: Earth and Space
+difficulty: HS
+seen: 46
+answer: Tiros (Accept: Television Infrared Observation Satellite)
+
+Name the world’s first successful meteorological satellite, launched from Cape Canaveral on April 1, 1960, which demonstrated the advantage of mapping the Earth’s cloud cover from satellite altitudes?
+
+----
+num: 1
+category: Earth and Space
+difficulty: HS
+seen: 48
+answer: Abyssal Plains (Accept: 1)
+
+
+By name or number, identify where fine -grained terrigenous deposits are most likely to form: 1) abyssal plains, 2) atolls, 3) deep-sea fans, 4) continental margins, or 5) elevated oceanic ridges.
+
+----
+num: 1
+category: Earth and Space Science
+difficulty: MS
+seen: 6
+answer: Trilobite, Eurypterid, Dinosaur, Bird (Accept: 2, 4, 3, 1)
+
+
+By name or number, list the following four fossils in chronological order from earliest to most recent according to their first occurrence in geological history: 1) bird, 2) trilobite, 3) dinosaur, 4) eurypterid (read as: yuh-RIP-the-rid).
+
+----
+num: 2
+category: Physics
+difficulty: HS
+seen: 26
+answer: 20
+
+A food shipper pushes a wooden crate of lettuce with a total mass of 14 kilograms across a concrete floor with a constant horizontal force of magnitude 40 newtons. In a straight-line displacement of magnitude 0.50 meters, the speed of the crate decreases from 0.60 meters per second to 0.20 meters per second. How much work, in joules,is done by the horizontal force?
+
+----
+num: 2
+category: Physical Science
+difficulty: MS
+seen: 6
+answer: 334
+
+Providing your answer to the nearest integer, what is the heat of fusion, in joules per gram, of water?
+
+----
+num: 3
+category: Earth and Space
+difficulty: HS
+fixed: -1
+seen: 47
+answer: Ripple Marks, Flute Casts, Streamlined Islands , and Cross-
+Bedding (1, 3, 4 and 5)
+
+
+By name or number, identify all of the following five sedimentary structures that would indicate the direction of water flow: 1) ripple marks, 2) parallel lamination , 3) flute casts, 4) streamlined islands, 5) cross-bedding.
+
+----
+num: 4
+category: Energy
+difficulty: HS
+seen: 35
+answer: Cerium (Iv) Oxide (Accept: Ceo^2, Ceria, Ceric Oxide) 
+(Do Not Accept: Cerium Oxi De, Cerium (Iii) Oxide, Cerium (Ii) Oxide)
+
+What specific compound has emerged as a potential redox active material choice for two-step thermochemical cycling due to its rapid fuel production kinetics and high selectivity?
+
+----
+num: 4
+category: Energy
+difficulty: HS
+seen: 34
+answer: 1
+
+A nuclear power plant is situated on the bank of a river. The power plant produces 200 megawatts of power and releases 1.5 × 10^13 joules of heat per day into the river through the cooling system. If the flow rate of the river is 5.0 × 10^4 kilograms per second and the specific heat of water is 4.2 × 10^3 joules per kilogram degree Celsius, what is the maximum temperature increase of the river water due to the cooling system, in degrees Celsius to the nearest integer ?
+
+----
+num: 4
+category: Energy
+difficulty: MS
+seen: 6
+answer: Texas
+
+In which state is the world’s largest onshore wind farm?
+
+----
+num: 5
+category: Biology
+difficulty: HS
+seen: 39
+answer: Mast
+
+What kind of cells, present in most human tissues characteristically surrounding blood vessels and nerves, has been coined the twin of basophile granulocytes(read as: GRAHN-yuh-lōe-syts)?
+
+----
+num: 5
+category: Biology
+difficulty: HS
+seen: 39
+answer: Polysaccharide (Accept: Starch, Do Not Accept: Glycogen) and
+Monosaccharide (Accept: Simple Sugar, Reducing Sugar)
+
+
+An unknown substance is tested by 2 reagents. The Lugol’s test yields a black color while the Benedict’s test yields a light blue color . Amylase is added and then the substance is retested. The second Lugol’s test is negative, while the second Benedict’s test yields a red color. What substances were present before and after, respectively, the amylase was added?
+
+----
+num: 5
+category: Life Science
+difficulty: MS
+seen: 10
+answer: Parthenogenesis
+
+
+What term is used to describe a form of reproduction in whichgrowth and development of embryos occurs without fertilization by the male?
+
+----
+num: 6
+category: Math
+difficulty: HS
+seen: 26
+answer: -1 and 1
+
+Linear correlation coefficients must lie between what two values?
+
+----
+num: 6
+category: Math
+difficulty: MS
+seen: 6
+answer: 2880
+
+What is the sum of the interior angles, in degrees, of a regular octadecagon?
+
+----
+num: 6
+category: Math
+difficulty: MS
+seen: 7
+answer: 21
+
+How many different permutations consisting of 3 letters, each ending in the letter T, can be formed from the seven letters of the word MASTERS?
+
+----
+num: 7
+category: Biology
+difficulty: HS
+seen: 41
+answer: Agrobacterium
+
+What genus of bacteria uses horizontal gene transfer to cause tumors in plants?
+
+----
+num: 7
+category: Biology
+difficulty: HS
+fixed: -1
+seen: 38
+answer: 1/64
+
+
+An F1 individual is hete rozygous for each of 4 traits, A, B, C, and 
+D, and is allowed to self -fertilize. What is the probability that the offspring will be AaBBccDd ?
+
+----
+num: 7
+category: Life Science
+difficulty: MS
+seen: 11
+answer: Auxin
+
+
+A gardener is trying to graft two fruit trees together. Which type of hormone should she use to form callus tissue to connect the plants?
+
+----
+num: 8
+category: Energy
+difficulty: HS
+seen: 36
+answer: Fluorocarbons, Nitrous Oxide, Methane, Carbon Dioxide (Accept: 
+3, 4, 2, 1)
+
+Assuming an equal concentration of each substance, by name or number, order the following four choices in terms of radiative forcing, from greatest to least: 1) carbon dioxide, 2) methane, 3) fluorocarbons, 4) nitrous oxide.
+
+----
+num: 8
+category: Energy
+difficulty: MS
+seen: 6
+answer: Thiol (Accept: Mercaptan, Thiophane)
+
+What is the term for a compound that is often used as an odorant to assist in the detection of natural gas?
+
+----
+num: 8
+category: Energy
+difficulty: MS
+seen: 7
+answer: Bacteria, Bathymodiolus, Tubeworms, Corals (Accept: 1, 2, 3, and 
+4 or All)
+
+By name or number, identify all of the following four organisms that can live near a cold seep: 1) bacteria, 2) Bathymodiolus (read as: bah-TI-moh-dioh-luhs), 3) tubeworms, 4) corals.
+
+----
+num: 9
+category: Physics
+difficulty: HS
+seen: 26
+answer: 1.2 × 10^5
+
+
+An electron microscope enables observation of detail on a virus down to 6 nanometers. Given h as 6.6 x 10^−^34 joule seconds and the mass of the electron as 9.1x 10^−^31^kilograms, providing your answer in scientific notation with two significant digits, how fast,in meters per second, must an electron in the microscope be moving to observe detail of this size?
+
+----
+num: 10
+category: Life Science
+difficulty: MS
+seen: 10
+answer: Dermochelys
+
+What is the genus name of the leatherback sea turtle?
+
+----
+num: 11
+category: Math
+difficulty: HS
+fixed: -1
+seen: 25
+answer: 2 70
+
+
+A rectangular box has the dimensions 6 inches by 10 inches by 12 inches. Wh at is the length of the space diagonal in inches , in simplest radical form?
+
+----
+num: 11
+category: Math
+difficulty: MS
+seen: 6
+answer: (5, 0)
+
+What are the coordinates of the x-intercept of the line: 5 y = 4x – 20?
+
+----
+num: 11
+category: Math
+difficulty: MS
+seen: 6
+answer: -2
+
+
+Find the minimum possible value of y in the equation y = |x – 3| − |x – 5| (read as: y equals the absolute value of the quantity x minus three minus the absolute value of the quantity x minus 5), where x is a real number.
+
+----
+num: 12
+category: Chemistry
+difficulty: HS
+seen: 35
+answer: 13
+
+Given that the balanced chemical equation for the reaction of oxygen and ethane is: 2C^2H^6(g) + 7O^2(g) → 4CO^2(g) + 6H^2O^(g), if 16 grams of O^2 react with excess 
+C ^2H^6, to the nearest gram, how many grams of CO^2 will be formed?
+
+----
+num: 12
+category: General Science
+difficulty: MS
+seen: 5
+answer: 36
+
+John scores 1.75 standard deviations below the mean on an exam. If the average score is 50, and 42 is exactly one standard deviation below the mean on a normal distribution, then what was John’s score on this exam?
+
+----
+num: 13
+category: Earth and Space
+difficulty: HS
+seen: 47
+answer: Hydrographic
+
+What kind of surveying attempts to determine what the sea floor looks like, focusing on water depth and nature of sea floor material, and supporting activities such as nautical charting, dredging, coastal engineering, and offshore resource development?
+
+----
+num: 13
+category: Earth and Space
+difficulty: HS
+seen: 48
+answer: Scallops, Eelgrass, Mussels (Accept: 1, 2 , 4)
+
+
+In Long Island’s Peconic Bays, a bloom of small marine algae called Aureococcus anophagefferens (read as: ohr-ee-oh- KOH-kuhs ah-noh-fah-geh-FEH-rehns) turned the water a deep brown. By name or number, identify all of the following four organisms that were physically harmed by this brown tide: 1) scallops, 2) eelgrass, 3) humans, 4) mussels.
+
+----
+num: 13
+category: Earth and Space Science
+difficulty: MS
+seen: 6
+answer: Contrails
+
+What product of airplane travel cools 
+Earth’s climate by reflecting incoming solar radiation?
+
+----
+num: 13
+category: Earth and Space Science
+difficulty: MS
+seen: 6
+answer: Kaolinite, Illite, and Montmorillonite (Accept: 1, 2, and 3 or All)
+
+
+By name or number, identify all of the following three clay minerals that are important in brick making: 1) kaolinite (read as: kah-OH-li-nyt ), 2) illite, 3) montmorillonite (read as: mohnt-moh-RI-loh-nyt).
+
+----
+num: 14
+category: Chemistry
+difficulty: HS
+seen: 35
+answer: 1
+
+How many lone pairs of electrons are on the phosphorus atom in PF ^3?
+
+----
+num: 14
+category: Chemistry
+difficulty: HS
+seen: 33
+answer: 0.1
+
+Given the balanced chemical equation: 
+H^2SO^4(aq) + 2NaOH^(aq) → Na^2SO^4(aq) + 2H^2O^(^l^), in an acid-base titration, 25 milliliters of 0.2 molar 
+H^2SO^4 were required to neutralize 100 milliliters of NaOH solution. Providing your answer as a decimal to the nearest tenth, what is the molarity of the NaOH solution?
+
+----
+num: 15
+category: Biology
+difficulty: HS
+fixed: -1
+seen: 39
+answer: Dedifferentiation
+
+What cellular process, associated with regeneration, can spontaneously occur in lower animals but not in humans?
+
+----
+num: 15
+category: Biology
+difficulty: HS
+seen: 40
+answer: 2, 3, 4, 1
+
+
+By number, order the following four steps from earliest to latest in an action potential: 1) sodium channel inactivati on gates close and gated potassium channels open; 2) leak potassium channels are open and all gated channels are closed; 3) activation gates of some sodium channels open; 4) voltage gated sodium activation channels open.
+
+----
+num: 15
+category: Life Science
+difficulty: MS
+seen: 10
+answer: Anaerobic Respiration
+
+
+Nitrate, carbonate, or sulfate may be used as exogenous electron acceptors in which energy-creating process?
+
+----
+num: 16
+category: Chemistry
+difficulty: HS
+seen: 33
+answer: 75%
+
+Given the balanced equation: 2C ^4H^10(g) + 13O^2(g) →^ 8CO^2(g) + 10H^2O^(g), what is the percent yield of water if 15 moles of water is obtained when 4 moles of butane is burned in excess oxygen?
+
+----
+num: 16
+category: General Science
+difficulty: MS
+seen: 5
+answer: Pangolin (Do Not Accept: Armadillo)
+
+What is the common name of the only mammal to have large keratin scales covering its skin?
+
+----
+num: 17
+category: Math
+difficulty: HS
+seen: 25
+answer: Incenter
+
+What is the name of the point at which the three angle bisectors of a triangle intersect?
+
+----
+num: 17
+category: Math
+difficulty: HS
+seen: 24
+answer: (8, 2, 0)
+
+
+Each of the following equations represents a plane: x – y = 6; 2x – 3z = 16; 2y + z = 4. At which point (x, y, z), will they intersect?
+
+----
+num: 17
+category: Math
+difficulty: MS
+seen: 6
+answer: 2
+
+What is the largest possible radius, in units, of a circle contained in th e interior of the ellipse 4 x^2 + 9y^2 = 36?
+
+----
+num: 17
+category: Math
+difficulty: MS
+seen: 6
+answer: 6, 8, and  14
+
+
+For what positive integers a is it true that a – 7 divides a?
+
+----
+num: 18
+category: Physics
+difficulty: HS
+seen: 24
+answer: Air Density and Velocity
+
+Air resistance is a function of the effective cross sectional area of the body, the drag coefficient, and what other two variables?
+
+----
+num: 18
+category: Physics
+difficulty: HS
+seen: 24
+answer: -20
+
+A 2.0 kilogram possum hangs from a tree limb 5 meters above the ground. Assuming that the gravitational potential energy is zero at y = 0 and that g is 9.8 meters per second squared, what is the gravitational potential energy , to the nearest joule, of the possum-Earth system if we take the reference point y = 0 to be 1.0 meters above the limb?
+
+----
+num: 18
+category: Physical Science
+difficulty: MS
+seen: 6
+answer: 4800
+
+How much energy, in joules, is used by a football player if he pushes a blocking sled for two minutes while generating 40 watts of power?
+
+----
+num: 19
+category: Biology
+difficulty: HS
+fixed: -1
+seen: 40
+answer: Parasitism, Herbivory (Accept:  3 and 5)
+ ____
+
+By name or number, identify all of the following five interactions that are typically interspecific and result in one species benefitting while the other is ha rmed: 1) mutualism, 2) amensalism , 3) parasitism, 4) commensalism, 5) herbivory.
+
+----
+num: 20
+category: Chemistry
+difficulty: HS
+seen: 35
+answer: 9
+
+A 2.00 mole sample of ammonium nitrate is decomposed in a bomb calorimeter. The temperature of the calorimeter increases by 12 Kelvin. The heat capacity of the system is 1.5 kilojoules per Kelvin. What is the molar heat of decomposition of ammonium nitrate in kilojoules?
+
+----
+num: 20
+category: General Science
+difficulty: MS
+seen: 6
+answer: O
+
+Based on a typical soil profile, what soil horizon is primarily composed of organic matter?
+
+----
+num: 21
+category: Physical Science
+difficulty: MS
+seen: 5
+answer: Tesla Coil (Accept: Resonant Transformer, Resonance 
+Transformer)
+
+
+What is the name of a high-frequency air core transformer that can take the output of a 120-volt AC to several kilovolt transformer and driver circuit, and step it up to hundreds of kilovolts?
+
+----
+num: 22
+category: Earth and Space
+difficulty: HS
+seen: 47
+answer: Eustasy
+
+What is the term for the global variation in sea level brought about by a change in the volume of water occupying the ocean basins?
+
+----
+num: 22
+category: Earth and Space Science
+difficulty: MS
+seen: 5
+answer: Chloride, Sodium, and Sulfate
+
+What are the three primary ions that contribute to seawater’s salinity?
+
+----
+num: 23
+category: Physics
+difficulty: HS
+seen: 27
+answer: 1 × 10^−^38
+
+
+Providing your answer in scientific notation with one significant digit, calculate the de Broglie wavelength , in meters, of a car with a mass of 1600 kilograms traveling at a speed of 40 meters per second.
+
+----
+num: 24
+category: Energy
+difficulty: HS
+fixed: -1
+seen: 34
+answer: Compression, Heat Addition, Expansion, Heat Rejection (Accept: 
+4, 3, 2, 1)
+
+By name or number, order the following processes from first to last in a gas turbine operating under an actual Brayton cycle: 1) heat rejection, 2) expansion, 3) heat addition, 4) compression.
+
+----
+num: 24
+category: Energy
+difficulty: MS
+seen: 6
+answer: Streamer (Accept: Positive Streamer)
+
+In the formation of lightning, what is the term for a channel of positively charged air, originating from ground -connected objects, which responds to a strong electric field by reaching out to the clouds?
+
+----
+num: 25
+category: Math
+difficulty: HS
+seen: 25
+answer: ^5^2
+^π
+
+Water flows at 10 cubic feet per minute into a cylinder with a radius of 5 feet and height of 12 feet . Providing your answer as a fraction in simplest form in terms of π, how fast is the water rising in feet per minute when the height is 4 feet ?
+
+----
+num: 25
+category: Math
+difficulty: MS
+seen: 6
+answer: Iii
+
+What quadrant is not passed through by the line 5x + 3y = 15?
+
+----
+num: 25
+category: Math
+difficulty: MS
+seen: 7
+answer: -9/5 (Accept: -1.8; -1 4/5)
+
+The linear function f(x) contains the points (-1, 7) and (4, 3). What is f(10) in simplest form?

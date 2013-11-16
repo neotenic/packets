@@ -1,0 +1,465 @@
+####
+tournament: #6340
+round: Show #6340 - Friday, March 23, 2012
+year: 2012
+date: 2012-03-23
+####
+
+num: 1
+category: Geography
+difficulty: 200
+seen: 8
+answer: Mount Rainier
+
+This highest point in Washington State has its own national park.
+
+----
+num: 2
+category: Trash
+difficulty: 200
+seen: 6
+answer: a pineapple
+
+A meatless option, the Hula Burger was this fruit, grilled & topped with cheese.
+
+----
+num: 3
+category: Literature
+difficulty: 200
+fixed: -1
+seen: 4
+answer: Peter Pan
+
+This J.M. Barrie character was "the boy who wouldn't grow up".
+
+----
+num: 4
+category: History
+difficulty: 200
+seen: 5
+answer: dial-up
+
+Broadband has largely replaced this type of internet connection using a phone line.
+
+----
+num: 5
+category: History
+difficulty: 200
+seen: 6
+answer: Arnold Schwarzenegger
+
+At the 2004 Republican Convention, this governor told critics, "Don't be economic girlie men".
+
+----
+num: 6
+category: Geography
+difficulty: 400
+seen: 8
+answer: Utah
+
+, one of the world's longest natural arches, is found at a national park in this state.
+
+----
+num: 7
+category: Trash
+difficulty: 400
+seen: 4
+answer: pizza
+
+For dinner, McDonald's had McPasta & made-to-order this, requiring special ovens & wider drive-thru windows.
+
+----
+num: 8
+category: Literature
+difficulty: 400
+seen: 4
+answer: Dracula
+
+If he really was the historic figure he's linked with, this character introduced in an 1897 novel would be 581.
+
+----
+num: 9
+category: History
+difficulty: 400
+seen: 4
+answer: Anglo-Saxon
+
+It refers to a member of the English-speaking people inhabiting England before the Norman Conquest.
+
+----
+num: 10
+category: History
+difficulty: 400
+seen: 5
+answer: Jeb Bush
+
+"Never in my wildest dreams did I ever imagine it would be this close", said this Fla. Gov. about election night 2000.
+
+----
+num: 11
+category: Geography
+difficulty: 600
+seen: 8
+answer: Denali
+
+In 1980 Mount McKinley National Park was renamed this, the native name for the mountain.
+
+----
+num: 12
+category: Trash
+difficulty: 600
+seen: 5
+answer: super size
+
+This large portion led to a PR problem in the wake of a Morgan Spurlock documentary & was discontinued by the end of 2004.
+
+----
+num: 13
+category: History
+difficulty: 600
+seen: 4
+answer: baby\'s-breath
+
+flower is often used in boquets, as seen here, with roses.
+
+----
+num: 14
+category: History
+difficulty: 600
+seen: 4
+answer: (Elliot) Spitzer
+
+"I look at my time as Governor with a sense of what might have been", this New Yorker said in resigning on March 12, 2008.
+
+----
+num: 15
+category: History
+difficulty: 600
+seen: 4
+answer: the \'60s
+
+Bummer, as in "Bummer, man".
+
+----
+num: 16
+category: Geography
+difficulty: 800
+seen: 7
+answer: Acadia
+
+Alphabetically first among the National Parks, this park in Maine was originally named for LaFayette.
+
+----
+num: 17
+category: Trash
+difficulty: 800
+seen: 5
+answer: Lean
+
+Naturally, a 91% fat-free burger was called the McThis Deluxe.
+
+----
+num: 18
+category: Literature
+difficulty: 800
+seen: 4
+answer: Arwen
+
+In "L.O.T.R.", this half-elf character renounces her eternal life to marry the mortal Aragorn & later dies aged 2,901.
+
+----
+num: 19
+category: History
+difficulty: 800
+seen: 3
+answer: attorney-at-law
+
+It's the 3-word hyphenated term for the person who represents you in court.
+
+----
+num: 20
+category: History
+difficulty: 800
+seen: 4
+answer: (Mark) Sanford
+
+This S.C. Gov. said, "I developed a relationship with what started out as a dear, dear friend from Argentina".
+
+----
+num: 21
+category: Geography
+difficulty: 1000
+seen: 7
+answer: Superior
+
+Accessible only by boat or seaplane, Isle Royale National Park is located in this Great Lake.
+
+----
+num: 22
+category: Trash
+difficulty: 1000
+seen: 5
+answer: the Arch Deluxe
+
+Adults weren't interested in the burger marketed to them & called this "deluxe", after a McDonald's symbol.
+
+----
+num: 23
+category: History
+difficulty: 1000
+seen: 4
+answer: George Wallace
+
+In 1963 this Alabamian said there'd be "no more liquor drinking in your Governor's Mansion".
+
+----
+num: 24
+category: Literature
+difficulty: 400
+seen: 4
+answer: sextuplets
+
+Half a dozen born at the same time.
+
+----
+num: 25
+category: Trash
+difficulty: 400
+seen: 5
+answer: Dolly Parton
+
+Whitney Houston's "I Will Always Love You":  this female country artist.
+
+----
+num: 26
+category: Literature
+difficulty: 400
+seen: 4
+answer: Emily Dickinson
+
+An 1860s poem that begins "Because I could not stop for death" is by this woman from western Massachusetts.
+
+----
+num: 27
+category: History
+difficulty: 400
+seen: 4
+answer: Greece
+
+Constantine I abdicated twice, in 1917 & 1922, as king of this country.
+
+----
+num: 28
+category: History
+difficulty: 400
+seen: 4
+answer: sit-in (or sit-down strike)
+
+Pull up a chair; it's a strike in which workers remain idle in their workplace until a settlement is reached.
+
+----
+num: 29
+category: Science
+difficulty: 400
+seen: 6
+answer: tons
+
+The crushing strength of concrete is about 3 of these weight units per square inch; for granite, more than 10.
+
+----
+num: 30
+category: Literature
+difficulty: 800
+seen: 4
+answer: a sexagenarian
+
+Someone over the age of 59 but not yet 70.
+
+----
+num: 31
+category: Trash
+difficulty: 800
+seen: 5
+answer: Jerry Leiber
+
+Elvis Presley's "Jailhouse Rock":  Mike Stoller & this late partner.
+
+----
+num: 32
+category: Literature
+difficulty: 800
+seen: 4
+answer: (Nathaniel) Hawthorne
+
+Born July 4, 1804 in Salem, he added a w to his last name when he began publishing.
+
+----
+num: 33
+category: History
+difficulty: 800
+seen: 4
+answer: the Bourbons
+
+Philip V, founder of this whiskey-named dynasty in Spain, abdicated in 1724 but came back when his son died.
+
+----
+num: 34
+category: Science
+difficulty: 800
+seen: 5
+answer: proof
+
+This measure of potent potable strength equals twice the percentage of alcohol by volume.
+
+----
+num: 35
+category: Literature
+difficulty: 1200
+seen: 4
+answer: a sextant
+
+Some think a box found on a Pacific atoll in 1940 contained one of these navigational aids belonging to Amelia Earhart.
+
+----
+num: 36
+category: Trash
+difficulty: 1200
+seen: 5
+answer: (Diane) Warren
+
+Celine Dion's "Because You Loved Me":  this woman, a hit-writing machine.
+
+----
+num: 37
+category: Literature
+difficulty: 1200
+seen: 3
+answer: Thoreau
+
+Born July 12, 1817 in Concord, this writer who liked his alone time had only 2 books published in his lifetime.
+
+----
+num: 38
+category: History
+difficulty: 1200
+seen: 4
+answer: Brunei
+
+Omar Ali Saifuddin III quit the throne of this sultanate on Borneo in 1967 but later became minister of defense.
+
+----
+num: 39
+category: History
+difficulty: 1200
+seen: 4
+answer: painters
+
+IUPAT is the "International Union of" these (the house kind, not the beret-wearing kind) "& Allied Trades".
+
+----
+num: 40
+category: Science
+difficulty: 1200
+seen: 6
+answer: bench press
+
+Special denim shirts have been developed for those trying to break the weightlifting mark in this supine style.
+
+----
+num: 41
+category: Literature
+difficulty: 1600
+seen: 4
+answer: a sextet
+
+A Mae West movie title, or one type of musical combo.
+
+----
+num: 42
+category: Trash
+difficulty: 1600
+seen: 6
+answer: Pete Seeger
+
+The Byrds' "Turn! Turn! Turn!":  this folk icon formerly with the Weavers.
+
+----
+num: 43
+category: History
+difficulty: 1600
+seen: 4
+answer: Queen Christina
+
+In 1654 she stunned Europe by abdicating the Swedish throne because of her secret Conversion to Catholicism.
+
+----
+num: 44
+category: History
+difficulty: 1600
+seen: 5
+answer: Chicago
+
+The 1886 Haymarket Riots were a bloody confrontation between unions & police in this city.
+
+----
+num: 45
+category: Science
+difficulty: 1600
+seen: 5
+answer: Gauss
+
+To erase data from a disk is to de-this German whose name is a measure of magnetic field strength.
+
+----
+num: 46
+category: Literature
+difficulty: 2000
+seen: 5
+answer: the sexton
+
+This person is in charge of the holy objects of a church.
+
+----
+num: 47
+category: Trash
+difficulty: 2000
+seen: 9
+answer: Lionel Richie
+
+Kenny Rogers' "Lady":  this man, also a recording artist.
+
+----
+num: 48
+category: Literature
+difficulty: 2000
+seen: 7
+answer: (Robert B.) Parker
+
+In 2010 this mystery author whose characters include Jesse Stone died at his desk in Cambridge.
+
+----
+num: 49
+category: History
+difficulty: 2000
+seen: 5
+answer: Citizen King
+
+Louis-Philippe, known as roi citoyen or this "king", abdicated in 1848, becoming the last King of France.
+
+----
+num: 50
+category: History
+difficulty: 2000
+seen: 6
+answer: machinists
+
+These skilled people are combined with aerospace workers in a union that's big at Boeing.
+
+----
+num: 51
+category: Science
+difficulty: 2000
+seen: 8
+answer: tensile strength
+
+(Sara and Jimmy demonstrate with wet paper towel and a stack of coins).

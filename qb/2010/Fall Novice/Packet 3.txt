@@ -1,0 +1,234 @@
+####
+tournament: Fall Novice
+round: Packet 3.doc
+year: 2010
+####
+
+num: 1
+category: History
+difficulty: HS
+fixed: 1
+seen: 424
+answer: War of the {Spanish Succession}
+
+In this war, the Duc de Villeroi was crushed at the battle of Ramilles, and in a major battle on the European front, Eugene of Savoy and the Duke of Marlborough defeated the Duc de Tallard at Blenheim. Its North American theater is known as Queen Anne's War, and Britain receiving Gibraltar was part of the terms of the treaty of Utrecht, which ended it. For 10 points, name this war lasting from 1702 to 1713, which started when Phillip V, a French Bourbon, took the throne of an Iberian nation.
+
+----
+num: 2
+category: Geography
+difficulty: HS
+fixed: 1
+seen: 714
+answer: Lake {Baikal}
+
+One city near this body of water, Ulan-Ude, is the capital of the region named for the indigenous Buryats, who inhabit the largest island in this lake, Olkhon. Another city near this lake is Irkutsk, which lies on the only river flowing out of this lake, the Angara. The Serenge and Lena Rivers flow into this lake, which is the oldest in the world. For 10 points, name this incredibly deep lake in Russia, the largest freshwater lake in the world by volume.
+
+----
+num: 3
+category: Social Science
+difficulty: HS
+fixed: 57
+seen: 379
+answer: {filibuster} [prompt on {freebooter} until {Spanish} word]
+
+This term referred to men like Narciso López in Cuba and William Walker in Nicaragua, who led private military expeditions against Latin American nations. Derived from a Spanish word for “buccaneer,” it also describes a process avoided by the nuclear option or by budget reconciliation that is ended by cloture.  Used by Strom Thurmond to fight civil rights, for 10 points, name this process ended by 60 votes, in which a Senator speaks at length to block a bill.
+
+----
+num: 4
+category: Fine Arts
+difficulty: HS
+fixed: 57
+seen: 490
+answer: Andy {Warhol} [accept {Andrew Warhola}]
+
+This artist worked on a series of multimedia events with Velvet Underground called Exploding Plastic Inevitable. This artist did a series of color silkscreens of car accidents and other mishaps called the Death and Disaster paintings. One of this artist's most famous works features the face of the titular movie star all over the titular diptych. For 10 points, name this leading Pop artist who painted the Marilyn Diptych and a bunch of Campbell's Soup cans.
+
+----
+num: 5
+category: Literature
+difficulty: HS
+fixed: 1
+seen: 436
+answer: {Romeo} and {Juliet}
+
+The prologue to this work describes how “civil blood makes civil hands unclean.” One character in this play delivers the “Queen Mab” speech, and that character cries “a plague on both your houses!” before dying. One of the title characters confides in her nurse and does not wish to marry Count Paris. Tybalt kills Mercutio in this play, which ends with the Montagues' and Capulets' reconciliation. For 10 points, identify this play about two tragic lovers by Shakespeare.
+
+----
+num: 6
+category: Fine Arts
+difficulty: HS
+fixed: 1
+seen: 496
+answer: Frederic {Chopin}
+
+Two of this composer's preludes bear the nicknames “Devil's Trill” and “Raindrop.” This composer wrote a piece in C minor after a rebellion in his country; that work is the “Revolutionary” Etude. This composer of Fantasie-Impromptu also composed a waltz in D flat major more well-known as the Minute Waltz. For 10 points, name this Polish composer of polonaises, mazurkas, and ballades.
+
+----
+num: 7
+category: Religion
+difficulty: HS
+fixed: 1
+seen: 445
+answer: Book of the {Revelation} of John [accept The {Apocalypse} of John]
+
+Jehovah's Witnesses say its seventh chapter proves only 144,000 people will reach heaven. Addressed to seven churches of Asia and written by John of Patmos, it involves a third of all vegetation getting destroyed by hail and fire, the opening of seven seals, a seven-headed, ten-horned Beast, and the Whore of Babylon.  For 10 points, name this New Testament book which features the Four Horsemen, a prophecy of Jesus' second coming and the end of the world.
+
+----
+num: 8
+category: Literature
+difficulty: HS
+fixed: -1
+seen: 441
+answer: {Les} Miserables
+
+One character in this work receives two silver candlesticks from a bishop shortly before stealing a coin from a child named Petit Gervais. A woman in this novel sells her hair and front teeth to earn money for her daughter, who works for a pair of innkeepers, the Thenardiers. In this novel, Marius courts Fantine's daughter Cosette, who is adopted by a man pursued by a police inspector named Javert. For 10 points, identify this novel featuring Jean Valjean, written by Victor Hugo.
+
+----
+num: 9
+category: Science
+difficulty: HS
+fixed: 57
+seen: 484
+answer: {Fibonacci} numbers [accept {Fibonacci sequence}]
+
+The closed-form expression for these numbers is known as Binet's formula. The sum of the first n minus 2 of these numbers is equal to the nth of them minus one. One example of their application involves mating rabbits, while the ratio between consecutive numbers of this type approaches the golden ratio. For 10 points, identify this series of numbers which take their value from the sum of the two preceding numbers, beginning with the terms 1, 1, 2, 3, 5, 8.
+
+----
+num: 10
+category: Literature
+difficulty: HS
+fixed: 1
+seen: 450
+answer: The {Great Gatsby}
+
+This novel's narrator reads a schedule in a copy of Hopalong Cassidy, and its protagonist does business with Meyer Wolfsheim.  This novel's characters frequently drive under the eyes of Dr. T.J. Eckleburg. A golfer named Jordan Baker tells the narrator about the protagonist's love for a character who runs over Myrtle Wilson. For 10 points, name this novel narrated by Nick Carraway about the title character's love for Daisy Buchanan, written by F. Scott Fitzgerald.
+
+----
+num: 10
+category: Literature
+difficulty: HS
+fixed: 1
+seen: 437
+answer: The {Great Gatsby}
+
+This novel's narrator reads a schedule in a copy of Hopalong Cassidy, and its protagonist does business with Meyer Wolfsheim.  This novel's characters frequently drive under the eyes of Dr. T.J. Eckleburg. A golfer named Jordan Baker tells the narrator about the protagonist's love for a character who runs over Myrtle Wilson. For 10 points, name this novel narrated by Nick Carraway about the title character's love for Daisy Buchanan, written by F. Scott Fitzgerald.
+
+----
+num: 11
+category: Science
+difficulty: HS
+fixed: 1
+seen: 493
+answer: temperature
+
+This quantity is directly proportional to the average kinetic energy of an ideal gas, and along with pressure, it forms the axes of a phase diagram. The energy needed to increase this quantity in a substance is given by a substance's heat capacity. Conversion between two scales for this quantity involves multiplying by nine fifths, and a third scale for this quantity starts at absolute zero. For 10 points, name this quantity measured in Kelvin, Celsius, and degrees Fahrenheit.
+
+----
+num: 12
+category: Mythology
+difficulty: HS
+fixed: 57
+seen: 791
+answer: {Hercules} [accept {Heracles}]
+
+This man was a servant to Omphale, and he built his own funeral pyre before dying in a poisoned shirt given by Nessus to his last wife Deianira. After killing his first wife, Megara, he fled to serve King Eurystheus. This slayer of the dragon Ladon got Iolaus' help to kill a monster in the Lernean swamp before cleaning the Augean stables and slaying the Nemean Lion. For 10 points, name this hero who killed the Hydra as part of Twelve Labors showing his strength.
+
+----
+num: 13
+category: Science
+difficulty: HS
+fixed: 1
+seen: 482
+answer: friction
+
+This phenomenon is governed by Amontons' laws and has a “dry” variety modeled by an equation named for Coulomb. It can be measured with a tribometer and can be reduced to near zero in graphite. It is proportional to the normal force, and this force's namesake coefficient is denoted by the letter mu [MEW]. It comes in static and kinetic varieties. For 10 points, name this force which opposes the movement of surfaces in contact with each other.
+
+----
+num: 14
+category: Fine Arts
+difficulty: HS
+fixed: 1
+seen: 492
+answer: Scott {Joplin}
+
+This composer created a piece in which the melody is to be played higher in its “B” section. He collaborated with Arthur Marshall on Swipesy Cakewalk and composed an opera in which the protagonist refuses to buy a “bag of luck.” That opera is Treemonisha, and, in his most famous form, he composed a piece popularized by the film, The Sting. For 10 points, name this American composer of The Entertainer who pioneered a form of music exemplified in his Maple Leaf Rag, ragtime.
+
+----
+num: 15
+category: History
+difficulty: HS
+fixed: 57
+seen: 424
+answer: Saint {Joan} of {Arc} [accept {Jeanne d'Arc}; prompt on partial answer]
+
+This military leader assisted General La Hire at the Battle of Patay after joining John II of Alençon in victory at Beaugency. Captured by Philip the Good of Burgundy, this leader, told by King Charles VII to fight at Reims, had previously made a camp at Blois before by lifting the siege of Orléans. This future saint was tried in Rouen and burned at the stake by the British at age 19. For 10 points, name this woman who led French forces during the Hundred Years' War.
+
+----
+num: 16
+category: Literature
+difficulty: HS
+fixed: 1
+seen: 444
+answer: Willa {Cather}
+
+Thea Kronborg becomes and opera singer in this author's novel, Song of the Lark. In one of this writer's novels, Lena Lingard becomes a dressmaker and has a brief affair with Jim Burden, a childhood friend of the title girl from Black Hawk. She wrote another novel where Carl Linstrum returns to Nebraska after living in Alaska and eventually decides to marry Alexandra Bergson. For 10 points, name this author of My Ántonia and O Pioneers!
+
+----
+num: 17
+category: Science
+difficulty: HS
+fixed: 1
+seen: 491
+answer: insulin
+
+Production of this hormone oscillates with a period of 3-6 minutes, and Frederick Sanger earned his first Nobel Prize for sequencing it.  Its uptake stimulates synthesis of fatty acids and glycogen, and it is produced in beta cells in the islets of Langerhans. This peptide hormone which stimulates glucose uptake acts in opposition to glucagon, another pancreatic hormone. For 10 points, name this hormone that is deficient in type I diabetes.
+
+----
+num: 18
+category: History
+difficulty: HS
+fixed: 1
+seen: 415
+answer: Warren Gamaliel {Harding}
+
+This president signed in the Fordney-McCumber Tariff and called for the Washington Naval Conference. A large scandal in his administration involved Harry Sinclair and Edward Doheny, who got a lease to the Elk Hills oil field from Interior Secretary Albert Fall. He received much of the first-ever female vote promising a “Return to Normalcy.” Shamed by the Teapot Dome scandal, for 10 points, name this man who died in office in 1923, the 29th US president.
+
+----
+num: 18
+category: History
+difficulty: HS
+fixed: 1
+seen: 416
+answer: Warren Gamaliel {Harding}
+
+This president signed in the Fordney-McCumber Tariff and called for the Washington Naval Conference. A large scandal in his administration involved Harry Sinclair and Edward Doheny, who got a lease to the Elk Hills oil field from Interior Secretary Albert Fall. He received much of the first-ever female vote promising a “Return to Normalcy.” Shamed by the Teapot Dome scandal, for 10 points, name this man who died in office in 1923, the 29th US president.
+
+----
+num: 19
+category: Trash
+difficulty: HS
+fixed: 1
+seen: 1025
+answer: webcomics
+
+One of these begins with the story of “Paul who is a ghost.” Another that frequently references Canadian history is written by Kate Beaton. In addition to Pictures for Sad Children and Hark A Vagrant, one of these features Marten, Faye, and Hannelore, while another stars Utahraptor, Dromiceiomimus, and T-Rex and always has the same sequence of panels. For 10 points, identify these internet-based media including Questionable Content, Penny Arcade, and xkcd.
+
+----
+num: 20
+category: History
+difficulty: HS
+fixed: 1
+seen: 424
+answer: {Fidel} Alejandro {Castro} Ruz [prompt on {Castro}]
+
+This figure was imprisoned on the Isle of Pines before going into exile in Mexico, returning home on the yacht Granma. After failing to seize Moncada barracks, his “History will absolve me” speech helped organize the 26th of July movement to depose Fulcengio Batista, after which he resisted the Bay of Pigs invasion along with his brother Raúl.  For 10 points, name this leader who, with Che Guevara, established a long-standing Communist government in Cuba.
+
+----
+num: 21
+category: Literature
+difficulty: HS
+fixed: 57
+seen: 444
+answer: {Brave} New World
+
+In this novel, Linda has an affair with Popé, while Bokanovsky's process separates people into castes Alpha through Epsilon. Mustapha Mond exiles Helmholtz to the Falkland Islands in this novel set in the year Our Ford 632, while Bernard Marx brings a character to London who commits suicide after a soma orgy. For 10 points, identify this dystopian novel in which John the Savage appears, written by Aldous Huxley.

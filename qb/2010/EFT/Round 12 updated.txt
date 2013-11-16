@@ -1,0 +1,174 @@
+####
+tournament: EFT
+round: Round 12 updated.doc
+year: 2010
+####
+
+num: 1
+category: Literature
+difficulty: College
+fixed: 57
+seen: 61
+answer: Ivan {Turgenev}
+
+In one work, this author wrote a story about a peasant named "Misty" who discusses the spring of Raspberry Water. In a short story by this author, the title character listens to the doctor Trifon Ivanych tell of his attempts to soothe his patient Alexandra prior to her death, while in another story, a group of boys led by Pavlusha tell the protagonist ghost stories. In addition to “The District Doctor” and “Bezhin Meadow,” he wrote a novel that sees Pavel shot during a duel with a character who later dies of typhus after botching an autopsy. That character is the friend and houseguest of medical student Arkady Kirsanov, Bazarov. For 10 points, identify this author of Sportsman's Sketches and Fathers and Sons.
+
+----
+num: 2
+category: Science
+difficulty: College
+fixed: 1
+seen: 77
+answer: {Caenorhabditis Elegans}
+
+During early embryonic development in this organism, PAL-1 and GLD-1 are localized to the anterior and posterior respectively. X-inactivation in this organism occurs by downregulating both X chromosomes equally rather than inactivating one or the other. The lin-4 non-coding RNA was originally discovered in this organism, and Andrew Fire used this organism to elucidate RNAi. In states of crowding or starvation, this organism can go directly from stage L2 to a dauer state, and during development this organism undergoes exactly 191 apoptotic events. The fate of every cell in this organism has been mapped, and Sydney Brenner originally pioneered its study. This organism has hermaphrodite and male sexes. For 10 points, name this nematode and common model organism.
+
+----
+num: 3
+category: Philosophy
+difficulty: College
+fixed: None
+seen: 51
+answer: {Neoplatonism}
+
+One member of this movement wrote “Affirmations cut off slices of reality” to show how the “Negation of Negation” is the only way of approaching the Ultimate. Marius Victorinus, who wrote many treatises against Arianism, was part of this school of philosophy, whose members included Iamblichus and Proclus. Its founder used the terms psyche and physis to refer to the upper and lower portions of the soul, which forms a trinity with the One and the Intellect. His student wrote the Isagoge, and helped edit his The Enneads. For 10 points, identify this school of philosophy led by Plotinus, which sought to revive the ideas of the author of Symposium and The Republic.
+
+----
+num: 4
+category: Mythology
+difficulty: College
+fixed: 57
+seen: 112
+answer: {Spring} or {Well} or {Fountain}
+
+In Greek mythology, the Crinaeae inhabit these places, and Egeria, the wife of Numa Pompillius, turned into one of these after Numa's death. Apollo turned Castalia into one of these objects, which stands next to the Oracle at Delphi. After being chased by Alpheus, Arethusa was turned into one of these. One of these objects named for the nymph Pirene was a favorite spot of Pegasus, while Pegasus also created one of these sacred to the Muses known as the Hippocrene one. During the contest for the control of Athens, Poseidon gave the Athenians one of these objects, which they rejected. For 10 points, name these objects, another of which was the one “of Youth” searched for by Ponce de Leon, which are sources of underground water.
+
+----
+num: 5
+category: Science
+difficulty: College
+fixed: 57
+seen: 80
+answer: {Recursive}
+
+Under the substitution model, processes of this type build a chain of deferred operations. Languages like Ada, Pascal, and C require an unbounded amount of memory to realize these procedures, necessitating use of "looping constructs" like "for" and "while". The IEEE Scheme standard requires the "tail-" form of this property, so procedures like Euclid's algorithm will never exhaust the stack space. For ten points, identify this class of procedures exemplified by the natural solution to Towers of Hanoi and by Merge sort, which contrasts with iterative and in which a function is defined in terms of itself.
+
+----
+num: 6
+category: History
+difficulty: College
+fixed: -1
+seen: 70
+answer: {Camp David} Accords
+
+Immediately before the negotiations of this treaty, one country involved recently had a change in power from the Alignment Party to the Consolidation. One side began receiving 1.3 billion dollars per year of military aid in order to facilitate modernization efforts after this agreement. The first part of this treaty promised the full implementation of Security Council resolution 242, and during the negotiations the parties would often shut themselves in their cabins and refuse to speak to each other. Partly facilitated by Cyrus Vance and Zbigniew Brzezinski, it set the precedent for the Oslo Accords and allowed free passage through the Suez Canal. For 10 points, name these agreements signed between Menachem Begin and Anwar Sadat, facilitated by Jimmy Carter at the namesake Presidential retreat.
+
+----
+num: 7
+category: Literature
+difficulty: College
+fixed: None
+seen: 60
+answer: the {Wife} of {Bath}
+
+This character is gap-toothed and has traveled to Rome and Jerusalem, and is deaf in one ear. After using a metaphor of golden and wooden vessels, this character explains that “advice is no commandment.” One of this person's associates owns a book called Valerie and Theophraste. Jankin, her much younger husband, hit her when she tore pages out of that book after which he agreed to give her control in their marriage. She and her best friend are both called Alison, and she laments, “Alas that ever love was sin!” She also relates a story about a knight who must find out what women want most. For 10 points, name this oft-married character from Chaucer's Canterbury Tales.
+
+----
+num: 8
+category: Social Science
+difficulty: College
+fixed: 1
+seen: 51
+answer: David {Ricardo}
+
+In 1818 this figure was called forth to testify to a committee led by Serjeant Onslow to state why he wanted the usury laws of England to be repealed. One of this writer's works, which were heavily edited by Paul Sraffa, is a discussion using examples of Portugese wine and English cloth. He called for the adoption of a metal rather than paper currency in his “The High Price of Bullion.” This thinker was also an opponent of trade protectionism and wrote “Essay on the Influence of a Low Price of Corn on the Profits of Stock.” He also proposed an iron law of wages. For 10 points, identify this economist who formulated the concept of comparative advantage.
+
+----
+num: 9
+category: History
+difficulty: College
+fixed: 57
+seen: 69
+answer: Gaius {Marius}
+
+This man passed a bill which narrowed the gangway to the ballot box, preventing aristocrats from influencing voters, and he rose to prominence during the Cimbrian Wars. Towards the end of his life, he escaped to Eturia, sacked Ostia with a new army, before joining forces with Cinna to take back control of Rome. Despite the efforts of Sulpicius Rufus, this man was exiled in a power struggle during the Social War. This uncle of Julius Caesar succeeded Quintus Metellus as commander in the war against Numidia, but was disgraced when Jugurtha surrendered to his quaestor. For 10 points, name this Roman General of the 2nd and 1st centuries BC, a longtime rival of Sulla.
+
+----
+num: 10
+category: Literature
+difficulty: College
+fixed: 57
+seen: 62
+answer: The {Naked} and the {Dead}
+
+At one point in this work, Roth finds an injured bird on the beach and squeezes it to death with his hands. Many of its characters try to climb Mount Anaka, and near its beginning, Croft orders his men to kill enemy soldiers because they shattered Private Toglio's elbow. Broken into four parts with titles like “Wave” and “Argil and Mold,” this book's first pages include a map of Anopopei, as well as an argument between General Cummings and his subordinate Lieutenant Hearn. Detailing the everyday life of an American regiment fighting the Japanese, for 10 points, identify this novel set in and around the Philippines during World War II, a work of Norman Mailer.
+
+----
+num: 11
+category: Science
+difficulty: College
+fixed: None
+seen: 78
+answer: {Niacin} or {Nicotinic acid} or Vitamin {PP}
+
+This molecule's binding to the G109A receptor on adipocytes decreases the flux of free fatty acids to the liver and increases HDL levels, though it is often given with laropiprant to reduce flushing. It can be synthesized from tryptophan via a kynurenine intermediate, and mutations in SLC6A19 decreases the levels of this vitamin in the bloodstream; that mutation causes Hartnup's disease. Consisting of a carboxyl group bound to pyridine, a deficiency of this vitamin, which is the precursor for the electron carriers NAD and NADP, causes a disease with diarrhea, dermatosis, and dementia, known as pellagra. For 10 points, name this substance also known as Vitamin B3.
+
+----
+num: 12
+category: Trash
+difficulty: College
+fixed: 57
+seen: 69
+answer: A {Room} with a {View}
+
+This movie begins to the background music “O mio babbino caro” from Gianni Schichi. Judi Dench plays the novelist Eleanor, who refuses to let the heroine consult her Baedeker guide in the plaza at Santa Croce. In one scene in this movie, the character played by Julian Barnes surprises the heroine by kissing her in a field of poppies; that same character, George Emerson, elopes with her to Florence at the end of the movie. Daniel Day Lewis also appears in this movie as the heroine's unsuccessful suitor Cecil Vyse. For 10 points, name this movie which stars Helena Bonham Carter as heroine Lucy Honeychurch, which was adapted from a novel written by E.M. Forster.
+
+----
+num: 13
+category: Literature
+difficulty: College
+fixed: 57
+seen: 58
+answer: {India}
+
+ A novel set in this country sardonically calls its social structure “the Rooster Coop,” and is narrated by a driver who becomes an entrepreneur after cutting the throat of his master with a broken whiskey bottle. This country is the setting of The White Tiger, as well as the novels The Financial Expert and The Guide, which are set in its fictional town of Malgudi. A classic poem from this country depicts a fixed game of dice in which Yudhisthira loses his kingdom, leading to the Kurukshetra War. That poem is attributed to Vyasa, and describes the rivalry between the Kauravas and the Pandavas. For 10 points, name this country whose epic poets used Sanskrit to write the Mahabharata and the Ramayana.
+
+----
+num: 14
+category: Science
+difficulty: College
+fixed: None
+seen: 79
+answer: [{Thermal}] De {Broglie} Wavelength
+
+When the interparticle distance of a gas is less than this value, it obeys Bose-Einstein or Fermi-Dirac statistics, while when it is greater than this value the gas obeys Maxwell-Boltzmann statistics. The existence of this quantity was proven in an experiment which used a 54-volt potential difference to fire electrons at a nickel target; this gave a value of this quantity which agreed with the predictions of Bragg's Law. First measured for electrons in the Davisson-Germer experiment, this value can be calculated by dividing Planck's constant by the momentum. For 10 points, name this quantity which explains why particles have wavelike behavior, a wavelength named for a German physicist.
+
+----
+num: 15
+category: Fine Arts
+difficulty: College
+fixed: -1
+seen: 72
+answer: {Dvorak's} Symphony {No.} 9 or From the {New World} ({Dvorak's} name is not required after it is read)
+
+In this piece, the tuba only has fourteen notes, all of them at the beginning and end of the slow movement. The last movement revolves around the motif E-F sharp-G-Fsharp-E-E, and this work's third movement opens with a prominent timpani passage reminiscent of the scherzo of Beethoven's ninth. The second movement of this symphony inspired the spiritual "Goin' Home" with a melody first stated by a solo English Horn. Despite its name and pentatonicism, it is dubious whether this work contains Native American folk songs. For 10 points, identify this symphony written during the composer's visit to the United States, by Antonin Dvorak.
+
+----
+num: 16
+category: History
+difficulty: College
+fixed: 57
+seen: 68
+answer: {Henry} VIII
+
+In one battle, this man along with Maximilian I defeated a group of French cavalry under Jacques de la Palice at Guinegate. One important advisor to this man was Thomas Cromwell, who was deposed by the Earl of Norfolk and executed. Early in this man's reign, the pope Leo X bestowed the title “Defender of the Faith” upon him in recognition of his book, Defense of the Seven Sacraments. During his reign, a rebellion arose centered in the north of England known as the Pilgrimage of Grace. Important legislation passed under this man included, the Dissolution of the Monasteries and the 1534 Act of Supremacy, which placed power over the English church into royal hands. For 10 points, name this man who replaced the pope with the head of the Church in England following a dispute with Rome over his desire to divorce Catherine of Aragon in favor of Ann Boleyn.
+
+----
+num: 17
+category: Religion
+difficulty: College
+fixed: 57
+seen: 54
+answer: {Pharisees}
+
+One member of this group was allegedly reburied in Pisa Cathedral in the 400's. That member of this group produced a cryptic set of lines about a fish from the Mediterranean and a fish from Jordan. A Gospel produced by one member of this group describes the Harrowing of Hell and he paid for Christ's burial. In addition to Nicodemus, Paul of Tarsus was said to be one before he learned about the “seed of Abraham.” They included among their ranks the poorer people as opposed to the priestly class. Unlike their counterparts that rejected oral law, they believed that God gave Moses the knowledge of the Law. For 10 points, identify these peoples who were opposed to the Sadduccees.

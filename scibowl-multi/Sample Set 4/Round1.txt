@@ -1,0 +1,587 @@
+####
+tournament: Sample Set 4
+round: Round1.pdf
+####
+
+num: 2
+category: Energy
+difficulty: HS
+seen: 1
+answer: Y) Producers
+
+Which trophic level has the most energy?
+W) Consumers
+X) Decomposers
+Y) Producers
+Z) Scavengers
+
+----
+num: 2
+category: Energy
+difficulty: HS
+seen: 1
+answer: W) 10%
+
+Which is the approximate percentage of energy transfer from one trophic level to the next?
+W) 10%
+X) 50%
+Y) 75%
+Z) 100%
+
+----
+num: 2
+category: Physical Science
+difficulty: MS
+answer: X) Burning Lamp Oil
+
+Which of the following is a chemical reaction?
+W) Evaporating rubbing alcohol
+X) Burning lamp oil
+Y) Dissolving table salt in water
+Z) Forming frost
+
+----
+num: 2
+category: Physical Science
+difficulty: MS
+answer: Z) Laws of Thermodynamics
+
+A person applies for a patent on an engine that is 100% efficient. This application would be rejecte d because the engine would violate the:
+W) Law of conservation of momentum
+X) Law of friction
+Y) Law of gravity
+Z) Laws of thermodynamics
+
+----
+num: 3
+category: Earth and Space Science
+difficulty: MS
+answer: Y) Sedimentary
+
+
+Fossils are most often found in what type of rock?
+W) Igneous (read as: IG-nee-us)
+X) Metamorphic
+Y) Sedimentary
+Z) Granitic
+
+----
+num: 4
+category: Energy
+difficulty: HS
+answer: W) Wind Turbines Convert Kinetic Energy From the Wind
+
+Wind energy is the conversion of wind power into electricity, using wind turbines. Which of the following statements is true about wind energy systems?
+W) Wind turbines convert kinetic energy from the wind 
+X) Wind farms have to be located on unoccupied pieces of land 
+Y) Wind energy systems have high impact on air emissions
+Z) Construction costs for wind -powered generators are minimal
+
+----
+num: 5
+category: Earth and Space
+difficulty: HS
+seen: 1
+answer: X) Basin and Range
+
+A compressional tectonic environment can result in all of the following, except:
+W) Folded mountains
+X) Basin and range
+Y) Volcanoes
+Z) Reverse faults
+
+----
+num: 5
+category: Earth and Space
+difficulty: HS
+seen: 1
+answer: Z) in Earth's Interior
+
+
+The source of energy that drives a tsunami wave onto a shore originated:
+W) From the gravitational attraction between the Earth and the Moon
+X) Along the ocean floor
+Y) From tidal waves
+Z) In Earth's interior
+
+----
+num: 6
+category: Biology
+difficulty: HS
+answer: X) an Electrical Impulse Sent to the Brain
+
+When sound waves travelling through the air reach the human ear, the cochlea (read as: KŌE-klee-ah) converts the sound wave into:
+W) A chemical response transmitted through the blood stream
+X) An electrical impulse sent to the brain 
+Y) A lower frequency wave, which resonates within the ear
+Z) Many small wave vectors that are separately communicated to the brain
+
+----
+num: 6
+category: Biology
+difficulty: HS
+answer: W)  Neural Impulses Caus E the Release of Neurotransmitters 
+That Diffuse Across the Gap
+
+How does neural transmission across a synaptic gap occur?
+W) Neural impulses cause the release of neurotransmitters that diffuse across the gap
+X) Neural impulses open potassium-gated channels, allowing sodium to move across the gap
+Y) Neural impulses travel across the gap as unidirectional electrical currents
+Z) Neural impulses travel across the gap as multidirectional electrical currents
+
+----
+num: 6
+category: General Science
+difficulty: MS
+answer: Z) Bromine
+
+Which of the following elements is NOT a noble gas?
+W) Xenon
+X) Radon
+Y) Krypton
+Z) Bromine
+
+----
+num: 7
+category: General Science
+difficulty: MS
+answer: Y) H Ydrogen Fuel Cells
+
+
+What type of energy production does NOT require a turbine with a shaft to spin a generator in order to create electricity?
+W) Geothermal power
+X) Hydropower
+Y) Hydrogen fuel cells
+Z) Nuclear (fission) reactors
+
+----
+num: 8
+category: Earth and Space
+difficulty: HS
+seen: 1
+answer: X) They Are Volcanic Mountains
+
+Which of the following statements is true about the 
+Andes mountains?
+W) They are folded mountains
+X) They are volcanic mountains
+Y) They are near a spreading center
+Z) They are found along a transform boundary
+
+----
+num: 8
+category: Earth and Space
+difficulty: HS
+seen: 1
+answer: Y) a Mid -Ocean Ridge
+
+The tectonic environment of Iceland is:
+W) A subduction zone
+X) Folded mountains
+Y) A mid-ocean ridge
+Z) A mid-plate hot spot
+
+----
+num: 10
+category: Chemistry
+difficulty: HS
+seen: 1
+answer: Z) Nanoliters
+
+Which of the following units can be used to express the volume of a liquid?
+W) Micrometers
+X) Milligrams
+Y) Grams per cubic centimeter
+Z) Nanoliters
+
+----
+num: 10
+category: General Science
+difficulty: MS
+answer: W) Chemical
+
+Which of the following types of weathering is caused by acid rain?
+W) Chemical
+X) Mechanical
+Y) Biotic
+Z) Tropical
+
+----
+num: 10
+category: General Science
+difficulty: MS
+answer: Y)  Increased Burning of Fossil Fuels
+
+Which of the following can cause an increase in the amount of acid rain?
+W) Decrease in the ozone layer
+X) Increase in oil spills
+Y) Increased burning of fossil fuels
+Z) Decrease in pesticide use
+
+----
+num: 11
+category: Physics
+difficulty: HS
+seen: 1
+answer: W) Slinky
+
+Which of the following choices is NOT an example of a rigidbody?
+W) Slinky
+X) Wheel
+Y) Pool ball
+Z) CD
+
+----
+num: 11
+category: Energy
+difficulty: MS
+answer: Y) Fermenting Crops Like Corn and Sugar Cane
+
+Ethanol is being used as a way to reduce dependence on fossil fuels. Which of the following best describes the production of ethanol?
+W) Distilling gases available in waste, such as methanol
+X) Exposing batteries to sunlight
+Y) Fermenting crops like corn and sugar cane
+Z) Using broken parts from cars as they get rusty
+
+----
+num: 11
+category: Energy
+difficulty: MS
+answer: W) Food Products, Includin G Vegetable Oils and Animal Fats
+
+
+Biodiesel, which is another form of biomass energy, is obtained from:
+W) Food products, including vegetable oils and animal fats
+X) Refining the available diesel
+Y) Combining diesel with extractions from mineral beds
+Z) Using a plant's photosynthesis (read as: f ōe-tōe-SIN-teh-sis) process
+
+----
+num: 12
+category: Earth and Space
+difficulty: HS
+seen: 1
+answer: Y) Get as Far Away From Urban Light Pollution as Possible
+
+Which of the following is the best way to get a good view of a meteor shower?
+W) Watch it during a full moon
+X) Watch it from a city
+Y) Get as far away from urban light pollution as possible
+Z) Wear light clothing
+
+----
+num: 13
+category: Biology
+difficulty: HS
+seen: 1
+answer: Z) Gene Pool
+
+The combined genetic information of all the members of a particular population is known as the:
+W) Allele (read as: ah-LEEL) frequency 
+X) Genome
+Y) Directional selection
+Z) Gene pool
+
+----
+num: 13
+category: Biology
+difficulty: HS
+answer: W) Bb and Bb
+
+
+The black fur allele B (read as: big b), is dominant over the white fur allele b (read as: little b). Two mice with black fur mate, producing four offspring: one is white and three are black. What are the likely genotypes of the two parents?
+W) Bb and Bb
+X) BB and Bb
+Y) BB and BB
+Z) BB and bb
+
+----
+num: 13
+category: Physical Science
+difficulty: MS
+answer: W) Protons
+
+Neutrons are approximately the mass of:
+W) Protons
+X) Positrons
+Y) Electrons
+Z) Neutrinos
+
+----
+num: 13
+category: Physical Science
+difficulty: MS
+answer: W) 18 Hundred
+
+
+Imagine if you could weigh electrons and protons on a simple balance. How many electrons do you need to balance a single proton?
+W) 18 hundred
+X) 18 thousand
+Y) 18 million
+Z) More than a billion
+
+----
+num: 14
+category: Biology
+difficulty: HS
+seen: 1
+answer: Z) Sodium Ion
+
+Which of the following substances is transported into cells via carrier-assisted transport?
+W) Water
+X) Carbon dioxide
+Y) Oxygen
+Z) Sodium ion
+
+----
+num: 15
+category: Chemistry
+difficulty: HS
+seen: 1
+answer: W) Heat of Formation
+
+For a series of chemical reactions, Hess's law provides a method for the summation of which property?
+W) Heat of formation
+X) Entropy
+Y) Equilibrium constant
+Z) Reaction rate
+
+----
+num: 15
+category: Chemistry
+difficulty: HS
+answer: X) Temperature Is a Measurement of Molecular Kinetic Energy, 
+While Heat Is a Form of Energy
+ 
+
+What is the difference between heat and temperature?
+W) Temperature is a form of heat, while heat is a measurement
+X) Temperature is a measurement of molecular kinetic energy, while heat is a form of energy
+Y) Heat and temperature have different wavelengths
+Z) Heat and temperature have similar wavelengths but different amplitudes
+
+----
+num: 16
+category: Physical Science
+difficulty: MS
+answer: X) the Red Ball Floats and the Yellow Ball Sinks
+
+A red ball has a mass of 2 grams and a volume of 8 cubic centimeters. A yellow ball has a mass of 5 grams and a volume of 2 cubic centimeters. 
+When both balls are placed into a bucket of water, which of the following is true?
+W) The yellow ball floats and the red ball sinks
+X) The red ball floats and the yellow ball sinks
+Y) Both the red and yellow ball float
+Z) Both the red and yellow ball sink
+
+----
+num: 17
+category: Life Science
+difficulty: MS
+answer: Y) Insect
+
+You find a new creature measuring over 4 millimeters in size in your bedroom. You notice that it has 6 legs so you know it is some type of:
+W) Arachnid (read as: ah-RAHK-nid)
+X) Larva
+Y) Insect 
+Z) Echinoderm (read as: i -KY-neh-dehrm)
+
+----
+num: 18
+category: Math
+difficulty: HS
+seen: 1
+answer: Y) a Quarter Circle in the 4 ^Th Quadrant
+
+The equation x^2 + y^2 = 121 with x > 0 and y < 0 would result in the graph of:
+W) A semicircle below the x-axis
+X) A quarter circle in the 2^nd quadrant
+Y) A quarter circle in the 4^th quadrant
+Z) A complete circle with a radius of 11
+
+----
+num: 19
+category: Biology
+difficulty: HS
+answer: W) Vector Pollination
+
+Some plants spread their pollen via the wind while others use animals to spread their pollen. When a plant uses an animal to spread i ts pollen, this type of pollination is called:
+W) Vector pollination
+X) Seed dispersal
+Y) Evolutionary adaptation 
+Z) Reproductive guarantee
+
+----
+num: 19
+category: Energy
+difficulty: MS
+answer: W) Metal Coin
+
+
+A metal coin and a plastic coin are heated to the same temperature. The two coins have the same size and shape, are dropped into the same tub of cold water at the same time, and are left for 30 seconds. Which coin will have the lower temperature?
+W) Metal coin
+X) Plastic coin
+Y) Both coins will have the same temperature
+Z) Cannot be determined
+
+----
+num: 20
+category: Physical Science
+difficulty: MS
+answer: Y) the Kilogram
+
+What is the metric unit for mass?
+W) The pound
+X) Stones
+Y) The kilogram
+Z) The micron
+
+----
+num: 21
+category: Physics
+difficulty: HS
+answer: Z) Magnets Spinning in a Coil of Wire
+
+
+Which of the following is the most common method of producing alternating current?
+W) Circuits varying from parallel to series
+X) Switches automatically turning on and off
+Y) Turbines rotating backwards and forwards
+Z) Magnets spinning in a coil of wire
+
+----
+num: 21
+category: Math
+difficulty: MS
+answer: Y) 600 Meters
+
+Which of the following distances is longe st?
+W) Half a kilometer
+X) Half a decimeter
+Y) 600 meters
+Z) 40 decameters
+
+----
+num: 22
+category: Chemistry
+difficulty: HS
+answer: W) 1 Food C Alorie Is Equal to 4.18 Kilojoules
+
+Which of the following relationshi ps is true?
+W) 1 food calorie is equal to 4.18 kilojoules
+X) 1 joule is equal to 1 food calorie
+Y) 1 joule is equal to 4.18 food calories
+Z) 1 food calorie is equal to 4.18 joules
+
+----
+num: 22
+category: Chemistry
+difficulty: HS
+answer: X) the Energy Released by the Warm Water and the Mass of The
+
+In order to calculate the heat of fusion for a piece of ice placed in warm water, you must know:
+W) The energy released by the warm water and the mass of the water
+X) The energy released by the warm water and the mass of the ice
+Y) The energy released by the ice and the mass of the warm water
+Z) The energy released by the ice and the mass of ice
+ICE
+
+----
+num: 23
+category: Energy
+difficulty: MS
+answer: Z) Uranium
+
+Which of the following is NOT a fossil fuel? 
+W) Coal
+X) Natural gas
+Y) Petroleum
+Z) Uranium
+
+----
+num: 23
+category: Energy
+difficulty: MS
+answer: Y) Nuclear
+
+
+Using current technologies, which of the following sources of energy is nonrenewable?
+W) Solar
+X) Wind
+Y) Nuclear
+Z) Geothermal
+
+----
+num: 24
+category: Energy
+difficulty: HS
+seen: 1
+answer: Y) Energy
+
+A kilowatt-hour is a unit of:
+W) Charge
+X) Power
+Y) Energy
+Z) Electric potential
+
+----
+num: 24
+category: Earth and Space Science
+difficulty: MS
+answer: Z) Melt Rock
+
+Which of the following is NOT something a river can do to rock?
+W) Cut down through hundreds of meters of rock
+X) Polish rock
+Y) Transport rock hundreds of miles
+Z) Melt rock
+
+----
+num: 25
+category: Earth and Space
+difficulty: HS
+answer: Z) Lighter-Colored, More Well-Rounded, Finer Particles
+
+Consider two beaches, both with source material from the same granitic mountains. The beach located further from the mountains would have:
+W) Dark, more angular particles
+X) Dark, rounder particles
+Y) Pink, more poorly sorted sediments
+Z) Lighter-colored, more well-rounded, finer particles
+
+----
+num: 25
+category: Earth and Space
+difficulty: HS
+seen: 1
+answer: W) Mass Wasting
+
+Which of the following is NOT a m echanism of physical and chemical weathering?
+W) Mass wasting
+X) Glaciation
+Y) Frost wedging
+Z) Groundwater
+
+----
+num: 25
+category: Earth and Space Science
+difficulty: MS
+answer: Y) Sea Ice  Floats on the Water While Continental Ice Sits on Land
+
+Which of the following describes how sea ice is different from continental ice?
+W) Continental ice is denser than sea ice
+X) Sea ice is saline while continental ice is fresh
+Y) Sea ice floats on the water while contin ental ice sits on land
+Z) Sea ice is constantly changing while continental ice remains the same
+
+----
+num: 25
+category: Earth and Space Science
+difficulty: MS
+answer: Z) Like Ice Cubes in a Glass of Water, the Ice Has a Lready 
+Displaced the Water So as the Ice Melts, Sea Level Will Not R Ise 
+Significantly
+
+Sea ice floating on the oceans is the first to melt as the Earth’s climate warms. Which of the following most accurately models the impact melting sea ice has on global sea level?
+W) Like the water level in a basin when you pour a glass of water into it, sea level will rise significantly
+X) The ocean floor rocks and sediments are porous like sponges. They will absorb the additional water from the ice and sea level will not rise significantly
+Y) Like a melting ice cube sitting in a glass of water, the water and the melted cube will evaporate and sea level will drop
+Z) Like ice cubes in a glass of water, the ice has already displaced the water so as the ice melts, sea level will not rise significantly

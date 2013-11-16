@@ -1,0 +1,94 @@
+####
+tournament: PACE NSC
+round: PACE NSC 2009 - Round 21 (mini).doc
+year: 2009
+####
+
+num: 1
+category: Fine Arts
+difficulty: HS
+fixed: 1
+seen: 495
+answer: The {United Nations Headquarters} in New York [accept {U.N. Building}; accept {clear} equivalents that {contain United Nations}]
+
+This complex of buildings is home to a dark blue work that depicts a flying horse with a human head and an angelic face emerging from flowers. In addition to that Marc Chagall stained glass window, Yevgeny Vuchetich's statue Let Us Beat Swords into Ploughshares stands on the grounds of this complex. The wider east-west walls of the tallest building in this complex are completely glass-covered except for three floor-wide horizontal air intakes.  This complex's layout is based on the "Scheme 23/32" plans drawn up by Oscar Niemayer and Le Corbusier.  For 10 points, name this New York edifice, which a certain organization's General Assembly.
+
+----
+num: 2
+category: Fine Arts
+difficulty: HS
+fixed: 57
+seen: 487
+answer: The {Gulf Stream}
+
+The central object in the painting is decorated by a maroon elongated crescent and contains a dark-cross shaped cleat bound by a thin brown rope. Green and red cords lie next to the central figure, who wears crumpled beige pants. A whitecap, an incoming storm on the top left, and a three masted rescue vessel form this painting's background. For 10 points, name this canvas executed while its artist was vacationing in the Bahamas, containing blood-red water and accurately depicted sharks in its foreground that are threatening this work's central figure, the doomed Anne's sole survivor, a muscular black man; name this painting by Winslow Homer.
+
+----
+num: 3
+category: Social Science
+difficulty: HS
+fixed: 57
+seen: 382
+answer: {Skinner box} [accept {operant conditioning chamber} before “{operant conditioning}”]
+
+Its inventor gained inspiration observing squirrels in Harvard Yard, and he has been accused of raising his daughter Deborah in one of these. An interesting effect was brought about by the experimenter's desire to save money on food, resulting in his creation of fixed ratio and fixed interval schedules. He found that, among other things, extinction occurred whereby the subject stopped pushing the lever when deprived of pellets. For 10 points, identify this device which a certain behavioral psychologist used to study operant conditioning in rats.
+
+----
+num: 4
+category: History
+difficulty: HS
+fixed: 57
+seen: 412
+answer: Cardinal Jules {Mazarin} [{Giulio Raimondo Mazzarino}]
+
+This figure was the chief architect of the Treaty of Oliva, signed a year after he had notably met with Don Luis Mendez de Haro on the Isle of Pheasants. He secured the occupation of Pinerolo by negotiating the Peace of Cherasco, which ended the War of the Mantuan Succession, and formed a defensive alliance with Hugh of Lyons known as the League of the Rhine. A bitter rival of Henri de Retz, this negotiatior of the aforementioned Peace of the Pyrenees gained his highest position by wooing the favor of Anne of Austria, whose regency bolstered his power. For 10 points, name this chief minister of France under Louis XIV, the successor to Richelieu.
+
+----
+num: 5
+category: Science
+difficulty: HS
+fixed: -1
+seen: 489
+answer: {sulfate} [accept {SO42?} before mentioned]
+
+Joseph Gold claimed in the 1970s that hydrazine bonded to this ion could combat cancer. When copper is bonded to this anion, it can be reduced in the presence of aldehydes to an oxide, turning from blue to red in a reagent named for Benedict. This anion bonded to barium can be used to poison a Lindlar catalyst, and its sodium dodecyl version is used on proteins before the PAGE technique. Gypsum is composed of calcium bonded to this anion, and when it is combined with magnesium, it yields Epsolm salts. For 10 points, name this polyatomic anion formed by ripping two hydrogens off of sulfuric acid, with chemical formula S-O-four-two-minus.
+
+----
+num: 6
+category: Literature
+difficulty: HS
+fixed: 57
+seen: 448
+answer: Jean Paul {Sartre}
+
+One of this author's plays sees a character take the codename Raskolnikov and murder the Communist leader Hoederer after Hoederer messes around with Jessica.  Another of his works sees Pablo Ibbieta give authorities false whereabouts for Ramon Gris, but Gris moves to the very spot Pablo has revealed. In addition to Dirty Hands and “The Wall,” this author wrote a novel about the “sweetish sickness” of Roquentin.  For 10 points, name this author who recounted the story of Orestes in The Flies and wrote of the child-killing Estelle and the lesbian Ines who torment Garcin in a work that posits “Hell is other people,” this author's play No Exit.
+
+----
+num: 7
+category: History
+difficulty: HS
+fixed: 57
+seen: 415
+answer: {Han} Dynasty
+
+The establishment of this polity occurred in the wake of a conflict with Xiang Yu, a “contention” with the state of Chu that led to the Battle of Gaixia. In endured Modu Shanyu's victory at the Battle of Baideng, leading to the establishment of a Northern border with the Xiongnu. This dynasty faced the Seven States uprising, and its emperor Wen introduced the Civil Service reforms. It was restored – and had its capital shifted from Chang'an to Luoyang – after Fan Chong and Mother Lu united to overthrow the Xin state, which had interrupted the rule of this dynasty after the revolt of Wang Mang. Led by the great Wu Di, its decline led to a period dominated by Cao Cao and Liu Bei. Established by Liu Bang, For 10 points, identify this dynasty which followed the Qin and preceded the Three Kingdoms period, the namesake of the dominant ethnic group in China.
+
+----
+num: 8
+category: History
+difficulty: HS
+fixed: 57
+seen: 419
+answer: {Tet Offensive} (accept equivalents) or {Tong Cong Kich} or {Tong Khoi Ngia}
+
+This action was dubbed “TCK-TKN” by its planners, and Kontum was one target of this event. A major supply route for this military action was the subject of Operation Igloo White, in which microphones were dropped to listen for voices before bombs were dropped.  A battle resulting from this action saw 2,500 marines attempt to hold “The Citadel.”  For 10 points, name this military action that led to the battle of Hué and the siege of Khe Sanh and saw concerted attacks on Saigon and many other cities, a general push by the Viet Cong during the namesake Vietnamese New Year holiday.
+
+----
+num: 9
+category: Science
+difficulty: HS
+fixed: None
+seen: 490
+answer: the {center} of mass [or {barycenter}; {grudgingly} accept {center} of {gravity}; prompt on {CoM}]
+
+The use of this entity's namesake coordinates reduces a two-body problem to two one-body problems because all motion can be decomposed into rotation about and translation of this entity; consequently, the so-called effective force and moment on a body act at this location. This point can be found for a planar body at the intersection of plumb lines for different orientations. For 10 points, name this point coincident with the centroid for a constant-density body and equal to the weight average of the position divided by the total weight.

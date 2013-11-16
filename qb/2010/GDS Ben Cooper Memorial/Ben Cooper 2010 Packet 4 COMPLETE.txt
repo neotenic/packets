@@ -1,0 +1,224 @@
+####
+tournament: GDS Ben Cooper Memorial
+round: Ben Cooper 2010 Packet 4 COMPLETE.docx
+year: 2010
+####
+
+num: 1
+category: Science
+difficulty: HS
+fixed: 1
+seen: 484
+answer: {Hooke's} Law
+
+For anisotropic substances, this law can be represented using Voigt notation; it can be derived by defining deformation as adiabatic. Cauchy adapted this law to three-dimensional bodies; in three dimensions, a 4th order tensor with 81 coefficients must be applied for this law to hold; it is called the [*] stiffness tensor. This law holds only in the elastic range, below the yield strength, and Young's modulus is the ratio of stress and strain over that range. For 10 points, identify this law often applied to springs, defined by setting the restoring force equal to the negative of the spring constant k times displacement.
+
+----
+num: 2
+category: Literature
+difficulty: HS
+fixed: -1
+seen: 445
+answer: Willa Sibert {Cather}
+
+This author wrote about the brilliant Hamilton student Tom Outland, who dies in combat and leaves Professor Godfrey St. Peter to reminisce in The Professor's House. In another work, the title figure sees the Indians of Acoma rebel, and replaces the corrupt Gallegos with [*] Joseph Vaillant; that man, Jean Marie Latour, builds a Catholic Church in Santa Fe. A performance of Wagner's “The Valkyrie” leads Thea Kronborg to success in this author's The Song of the Lark, and Jim Burden narrates about the Shimerdas' daughter in another novel. For 10 points, name this Nebraska writer of O Pioneers! and My Antonia.
+
+----
+num: 3
+category: Trash
+difficulty: HS
+fixed: 1
+seen: 1036
+answer: {Wario} [MJ]
+
+This character's namesake “Woods” title the last NES game ever released. In one handheld game, he is sucked into a music box by Rudy the Clown, and in another, he fights a boss with multiple emotional masks, the Golden Diva, after using a bird-like flying key and frog-like switches to travel through the Pyramid of Gold. Often opposed by the Black Sugar Pirates led by [*] Captain Syrup, he eats garlic to become a superhero in a spin-off series involving 5-second “microgames”. For 10 points, name this pudgy, greedy, yellow-clad antithesis to a Nintendo plumber.
+
+----
+num: 4
+category: Religion
+difficulty: HS
+fixed: 1
+seen: 451
+answer: Gospel according to / of {Mark}
+
+Morton Smith discovered a “secret” version of this document used by the Carpocrates. This book, the only New Testament book in which Jesus speaks Aramaic, contains a naked man running from Jesus' arrest, who, by tradition, is considered to be the author himself, and the parable of the [*] mustard seed. Usually considered the first to be written chronologically, many versions omit verse 16:9 through 20, ending with the empty tomb rather than the Resurrection of Jesus. For 10 points, name this New Testament Gospel situated between Matthew and Luke, the second.
+
+----
+num: 5
+category: Social Science
+difficulty: HS
+fixed: 1
+seen: 380
+answer: Carl Gustav {Jung} [YOONG]
+
+This man described opposites like the sun and moon and life and death with the word “syzygy” [SIZZ-uh-jee], and he summarized his theories in the introduction to the Evans-Wentz translation of the Tibetan Book of the Dead. He designated Eve, Helen, Mary, and Sophia as four stages of male development, and his work was the basis of the [*] Myers-Briggs personality test. His other theories include synchronicities and the anima. For 10 points, name this Swiss psychologist who created the idea of archetypes in his theory of the collective unconscious.
+
+----
+num: 6
+category: Science
+difficulty: HS
+fixed: 57
+seen: 490
+answer: {triple} point
+
+A pure substance has no degrees of freedom at one of these, according to a rule named for Gibbs, and any system has p choose 3 of these, where p is the number of [*] phases. Helium-4 has two unconventional ones due to superfluidity, while for water, it fixes the definition of the Kelvin scale and is at .612 kilopascals and 273.15 Kelvins. For 10 points, name this point where coexistence curves meet on the phase diagram, a temperature and pressure at which a substance exists in an equilibrium of all three phases of solid, liquid, and gas.
+
+----
+num: 7
+category: History
+difficulty: HS
+fixed: 57
+seen: 421
+answer: Spartacus 
+
+One of this man's aids, Crixus, was defeated by the armies of Luicus Gellius Publicola at Mount Garganus. Gaius Claudius Glaber unsuccessfully attempted to defeat him, and this man's base was located at Mount Vesuvius. This man died while fighting near the Siler River. The [*] most successful attacks against this man were led by Crassus; after his defeat, members of his army were crucified along the Appian Way. For 10 points, identify this former gladiator, the leader of a slave uprising against the Roman Republic.
+
+----
+num: 8
+category: Science
+difficulty: HS
+fixed: 57
+seen: 486
+answer: {factorial} [prompt “{gamma function}” before mention; prompt “{exclamation} point”]
+
+This function can be estimated for large values using Stirling's approximation. One can compute this function for any element in its domain by adding one and applying the gamma function. Used three times in the formula for calculating binomial [*] coefficients, this function is found in the denominator of each term in a general Taylor series. For 10 points, name this function that, for any positive integer n, is equal to the product of the integers from one to n, symbolized by an exclamation point.
+
+----
+num: 9
+category: Science
+difficulty: HS
+fixed: 57
+seen: 480
+answer: {lysosome}
+
+Although mannose-6-phosphate tagged molecules are sent to this organelle, its failure results in I-cell disease, characterized by the formation of inclusion bodies. Niemann-Pick disease and Gaucher's disease are results of malfunction in it, while sphingo-lipid buildup around it occurs in [*] Tay-Sachs disease. Its namesake enzymes are produced in the endoplasmic reticulum, though this organelle itself buds off from the Golgi apparatus. Its membrane maintains an acidic environment in the interior, necessary for hydrolases to function. For 10 points, what organelle uses autophagy to consume old organelles and digest macromolecules?
+
+----
+num: 10
+category: Fine Arts
+difficulty: HS
+fixed: 1
+seen: 498
+answer: Albrecht {Durer}
+
+One of his works shows an hourglass hanging above the title figure hunched over a desk, with a sleeping dog next to a lion in the foreground; another portrays an hourglass held by a bearded creature in a dark wood standing near a hoglike spearman. In addition to St. [*] Jerome in his Study and Knight, Death, and the Devil, this man's engravings include an anatomically incorrect beast, Rhinoceros, and a symbolic work containing a 4-by-4 panel of numbers, yet another hourglass, geometric shapes, and a pensive angel, Melancholia I. For 10 points, name this Reformation-era German artist famous for woodcuts depicting The Four Horsemen of the Apocalypse.
+
+----
+num: 11
+category: Literature
+difficulty: HS
+fixed: 1
+seen: 440
+answer: Joseph {Conrad} [or Jósef Teodor {Konrad} Na??cz Korzeniowski ]
+
+This author wrote about Captain MacWhirr and Jukes saving the Nan-Shan from a natural disaster in “Typhoon”. Two officers in Napoleon's army, Feraud and D'Hubert, get involved in a protracted conflict in his “The Duel”. In another of his stories, a fugitive from the Sephora, [*] Leggatt, commits murder. In one novel, the title immigrant works in Sulaco harbor in Costaguana; in another, the title sailor leaves the Patna and ends up shot by Doramin on Patusan after Dain Waris dies. The author of “The Secret Sharer”, Nostromo, and Lord Jim, for 10 points, name this author who wrote about Marlow narrating the downfall of Kurtz in Heart of Darkness.
+
+----
+num: 12
+category: Mythology
+difficulty: HS
+fixed: 1
+seen: 783
+answer: {swan} [DU]
+
+When Derforgaill is in this form, Cú Chulainn once hits her with a sling, though he saves her by sucking the stone out. Louhi promises to give his daughter to Lemminkäinen only if he can shoot this creature in Tuonela, the [*] underworld, in the Finnish epic Kalevala. Saraswati is often depicted sitting on a lotus or this animal. The wife of Tyndareus and mother of Helen and Clytemnestra laid eggs from which the Dioscuri came out, after she was raped by Zeus in this form. For 10 points, Leda is associated with what white, beautiful bird?
+
+----
+num: 12
+category: Mythology
+difficulty: HS
+fixed: 1
+seen: 782
+answer: swan
+
+When Derforgaill is in this form, Cú Chulainn once hits her with a sling, though he saves her by sucking the stone out. Louhi promises to give his daughter to Lemminkäinen only if he can shoot this creature in Tuonela, the [*] underworld, in the Finnish epic Kalevala. Saraswati is often depicted sitting on a lotus or this animal. The wife of Tyndareus and mother of Helen and Clytemnestra laid eggs from which the Dioscuri came out, after she was raped by Zeus in this form. For 10 points, Leda is associated with what white, beautiful bird?
+
+----
+num: 13
+category: Fine Arts
+difficulty: HS
+fixed: 57
+seen: 496
+answer: Johannes {Brahms}
+
+This composer was inspired by clarinetist Richard Muhfeld to complete his Clarinet Sonatas in F minor and E flat major, and his Opus seven includes the songs “True Love” and “The Mourner.” This composer used a piece by Keler Bela as the basis for the fifth of his [*] Hungarian Dances, and he incorporated a multitude of instruments, including a piccolo and a timpani, in his Tragic Overture. Another of his works incorporates campus drinking songs, while his 1st symphony was derisively nicknamed Beethoven's Tenth. For 10 points, name this Austrian composer of Academic Festival Overture who wrote a namesake lullaby.
+
+----
+num: 14
+category: Geography
+difficulty: HS
+fixed: 1
+seen: 713
+answer: {Sri Lanka} [prompt on “{Ceylon}” before read”]
+
+In this nation, the Sacred Footprint appears at the base of Adam's Peak. It also includes the southeastern Uva basin, and the coastal town of Mullaitivu, where Prabhakaran was recently killed, and its longest river is the Mahaweli. Separated from the [*] mainland by Palk Strait next to its Jaffna peninsula, and formerly known as Serendib, this island saw the 2009 end of a long civil war fought by the extremist Tamil Tigers. For 10 points, name this island just off the coast of India with capital at Colombo, formerly known as Ceylon.
+
+----
+num: 15
+category: History
+difficulty: HS
+fixed: 1
+seen: 416
+answer: Henry {Clay}
+
+A dispute over broadcloth led Humphrey Marshall to duel this man, who also dueled John Randolph. He once ran for office with Ted Frelinghuysen of New Jersey, and one man named after him was shot and stabbed by Alexander [*] Berkman. This supporter of the tariff as part of the “American System” finished fourth in the presidential election of 1824, and was nominated Secretary of State in John Quincy Adams' “corrupt bargain”. For 10 points, name this Kentucky congressman, a “War Hawk” and three-time Presidential loser who earned his reputation with the Missouri Compromise and the Compromise of 1850.
+
+----
+num: 16
+category: History
+difficulty: HS
+fixed: 57
+seen: 415
+answer: {Yuan} Dyansty
+
+It became the first dynasty of its nation to use a unified paper money system not backed by silver or gold, and it abolished, but later reinstated, the earlier civil service examinations.  It established one capital at Dadu, which literally means “Great Capital.” Defeated by the forces of Zhu Yuanzhang, a part of the [*] Red Turban Rebellion. Its attempts to invade Japan were repelled by kamikaze, or ‘divine winds', and after less than a century it was succeeded by the Ming Dynasty.  For 10 points, name this Mongol-founded Chinese dynasty founded and ruled by Kublai Khan.
+
+----
+num: 17
+category: History
+difficulty: HS
+fixed: 1
+seen: 417
+answer: Congress of {Vienna}
+
+This group produced a “Final Act,” containing all its decisions. In its final weeks, the Earl of Clancarty replaced Viscount Castlereagh at this meeting. Switzerland was declared neutral, Norway and [*] Sweden were joined under a single ruler, a 38-state German Confederation was formed, and the French monarchy, represented by Talleyrand, was restored with the ascension of Louis the Eighteenth. For 10 points, name this event chaired by Prince Metternich which aimed to create a European balance of power in Napoleon's absence, hosted in the capital of Austria.
+
+----
+num: 18
+category: Philosophy
+difficulty: HS
+fixed: 1
+seen: 529
+answer: Michel {Foucault}
+
+This author of The Archaeology of Knowledge turned to art criticism by describing “Las Meninas” in his The Order of Things and by writing about Magritte in This is not a Pipe. His multiple-volume History of Sexuality described the concept of “bio [*] power”; he also described doctors using the “clinical gaze”. Another work of his described the Great Confinement while criticizing insanity, while he famously used the image of Jeremy Bentham's Panopticon to describe society as a prison. For 10 points, name this author of Madness and Civilization, The Birth of the Clinic, and Discipline and Punish, a French postmodernist philosopher.
+
+----
+num: 19
+category: Literature
+difficulty: HS
+fixed: 1
+seen: 439
+answer: Alan {Paton}
+
+One of this author's works is divided into six sections, including “The Cleft Stick,” “Death of a Traitor,” and “Into the Golden Age;” another of his works opens with the line “Perhaps I could have saved him, with only a word,” is narrated by Sophie, and involves Pieter van Vlaanderen's guilt y love for [*] black women. In addition to Ah, But Your Land is Beautiful and Too Late the Phalarope, he wrote about Mr. Jarvis, whose son Arthur has been killed by Absalom. For ten points, name this anti-apartheid South African author who wrote about the priest Stephen Kumalo in Cry, the Beloved Country.
+
+----
+num: 20
+category: Literature
+difficulty: HS
+fixed: 1
+seen: 444
+answer: Guy de {Maupassant}
+
+This author wrote about Constance's confirmation ceremony and merriment at a brothel in “La Maison Tellier.” One of his characters, Father Chantavoine, is a priest of Urville who refuses to ring the church bells; that character hides Rachel the Jewess after she kills the effeminate officer Mademoiselle Fifi. In another work featuring [*] Cornudet, passengers traveling to Le Havre pressure the prostitute Elizabeth Rousset into sleeping with a Prussian officer. The author of “Ball of Fat”, for 10 points, what French writer is best known for describing Mathilde's jewelry in “The Necklace”?
+
+----
+num: 21
+category: Science
+difficulty: HS
+fixed: 1
+seen: 483
+answer: {red blood} cells [or {red blood corpuscles}, or {haematids}, or {erythroid} cells, or {erythrocytes}] {Bonuses}
+
+Their typical lifespan is only about 120 days, and they were first observed by Jan Swammerdam. Young ones are known as reticulocytes.. Their functional molecule undergoes the Bohr effect and consists of [*] porphyrin rings bound to central atoms of iron; in certain salamanders and fish, and in all mammals, they lack a nucleus. In humans, they develop in bone marrow, and a decreased number of these or a decrease in their ability is anemia. For 10 points, name thse cells, with a distinctive biconcave shape, that contain the molecule hemoglobin and carry oxygen from the lungs to muscles.

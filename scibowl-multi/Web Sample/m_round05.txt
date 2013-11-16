@@ -1,0 +1,246 @@
+####
+tournament: Web Sample
+round: m_round05.pdf
+####
+
+num: 1
+category: General Science
+difficulty: MS
+answer: X)  Li Ght
+
+Which of the following does the prefix “photo” (spell out the letters p, h, o, t, o ) mean, as in the word photometer:
+W) record (read as: REE-cord)
+X) light
+Y) measure
+Z) expose
+
+----
+num: 2
+category: Life Science
+difficulty: MS
+answer: X)  Cell Wall
+
+Which of the following is NOT a structure found in human cells:
+W) mitochondrion
+X) cell wall
+Y) lysosome
+Z) peroxisome
+
+----
+num: 2
+category: Life Science
+difficulty: MS
+answer: X)  Between Cells
+
+Which of the following is closest to the meaning of intercellular (read carefully as: in -TER-cellular):
+W) from within cells
+X) between cells
+Y) inside of cells
+Z) underneath cells
+
+----
+num: 3
+category: Physical Science
+difficulty: MS
+answer: Y)  It Has Doubled Its Inertia
+
+Which of the following must b e TRUE for a tree that doubled its mass over a growing period of 2 years:
+W) it has doubled its volume
+X) it has doubled its number of atoms
+Y) it has doubled its inertia
+Z) it has doubled its density
+
+----
+num: 4
+category: Earth Science
+difficulty: MS
+answer: Y)  Medial Moraine
+
+The presence of which of the following is evidence that 2 valley glaciers have or had at one time joined into a larger glacier:
+W) perpendicular striation pattern
+X) overlapping end moraines 
+Y) medial moraine
+Z) V-shaped valley
+
+----
+num: 4
+category: Earth Science
+difficulty: MS
+answer: Y)   the Ice Front of a Glacier With a Large Zone of Ablation Is 
+Rapidly Advancing
+
+Which of the following is NOT generally true regarding glaciers:
+W) the Antarctic ice sheet is depressing the crust of the Earth
+X) we are currently in an interglacial period
+Y) the ice front of a glacier with a large zone of ablation is rapidly advancing
+Z) the Little Ice Age ended around the mid -nineteenth century
+
+----
+num: 5
+category: Math
+difficulty: MS
+answer: Y)  [–10, 5)  
+(Note: If Student Interrupts, Accept:  “Bracket, Negative or Minus 10, 5 Parenthesis)
+(Solution: Bracket for Numbers Included in the Set; Parenthesis for # Not Included in the Set)
+
+Which of the following is the exact interval notation for all real numbers greater than or equal to –10 and less than 5:
+W) (–10, 5] (read as: open parenthesis, negative 10, comma, 5, close bracket)
+X) [–10, 5] (read as: open bracket, negative 10, comma, 5, close bracket)
+Y) [–10, 5) (read as: open bracket, negative 10, comma, 5, close parenthesis)
+Z) ( –10, 5) (read as: open parenthesis, negative 10, comma, 5, close parenthesis)
+
+----
+num: 9
+category: Earth Science
+difficulty: MS
+answer: W)  Till
+
+Which of the following geol ogical terms best refers to deposits of unsorted and unstratified sediments deposited by the movement of a glacier:
+W) till
+X) loess (read as: LUSS)
+Y) varve
+Z) glacial milk
+
+----
+num: 10
+category: Math
+difficulty: MS
+answer: W)  2 ÷ 0
+
+Which of the following is undefined:
+W) 2 ÷ 0
+X) 0 ÷ 2
+Y) 0 – 0 
+Z) 0^2^
+
+----
+num: 12
+category: Life Science
+difficulty: MS
+answer: Y)  a Thin Tube
+
+Which of the following desc ribes the shape of a bacterial pilus:
+W) a solid sphere
+X) a cuboidal shaped cell
+Y) a thin tube
+Z) a helical thick solid fiber
+
+----
+num: 13
+category: Physical Science
+difficulty: MS
+answer: Z)  Molarity
+
+The most useful unit of concentration in the chemistry lab is:
+W) mole fraction
+X) mass percent
+Y) normality
+Z) molarity
+
+----
+num: 13
+category: Physical Science
+difficulty: MS
+answer: W)  They Are Always Reversible
+
+Which of the following is NOT true of chemical reactions:
+W) they are always reversible
+X) energy is either absorbed or released
+Y) a new substance is formed
+Z) chemical bonds are broken and formed
+
+----
+num: 16
+category: General Science
+difficulty: MS
+answer: W)  Arachnology
+
+Which of the following is the study of spiders:
+W) arachnology
+X) dendrochronology
+Y) planktology
+Z) lepidopterology
+
+----
+num: 17
+category: Life Science
+difficulty: MS
+answer: W)  Upper Chest
+
+Which of the following is the location of the human thymus gland:
+W) upper chest
+X) inguinal canal
+Y) abdomen
+Z) brain
+
+----
+num: 18
+category: Physical Science
+difficulty: MS
+answer: Z)  Concrete
+
+Which of the following is a heterogeneous mixture:
+W) 5.0% glucose solution
+X) rubbing alcohol
+Y) mixture of hydrogen and oxygen gases
+Z) concrete
+
+----
+num: 18
+category: Physical Science
+difficulty: MS
+answer: X)  Centrifuge
+
+Which of the following would be the most logical instrument to use when a small amount of suspended particles must be separated from a liquid:
+W) pH meter 
+X) centrifuge
+Y) spectrometer
+Z) tweezers
+
+----
+num: 19
+category: Earth Science
+difficulty: MS
+answer: Z)  Calcite
+
+Which of the following is the chief constituent of limestone:
+W) quartz
+X) clay
+Y) sand
+Z) calcite
+
+----
+num: 22
+category: Life Science
+difficulty: MS
+answer: Z)  Golgi
+
+Which of the following is NOT found in prokaryotes:
+W) DNA
+X) RNA
+Y) ribosomes
+Z) golgi
+
+----
+num: 23
+category: Physical Science
+difficulty: MS
+answer: Y)  Above 20 Kilohertz
+
+Ultrasonic sound frequencies are typically considered to be:
+W) above 20 hertz 
+X) below 20 hertz
+Y) above 20 kilohertz
+Z) above 2,000 hertz
+
+----
+num: 24
+category: Earth Science
+difficulty: MS
+answer: Y)  Radiation
+
+The transfer of energy from the Sun across space is accomplished primari ly by:
+W) conduction
+X) convection
+Y) radiation
+Z) radio waves

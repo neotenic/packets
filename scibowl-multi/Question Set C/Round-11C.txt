@@ -1,0 +1,362 @@
+####
+tournament: Question Set C
+round: Round-11C.pdf
+####
+
+num: 1
+category: Chemistry
+difficulty: HS
+seen: 1
+answer: W)  H
+^2so
+^4
+
+Which of the following strong acids, all at 0.1 molar concentration, will have the LOWEST pH value:
+W) H^2SO^4
+X) HNO^3
+Y) HCl
+Z) HClO^4
+
+----
+num: 2
+category: Physics
+difficulty: HS
+answer: W)  a Conductor With a Very Fine Point
+
+A field emission microscope requires which of the following:
+W) a conductor with a very fine point
+X) high energy alpha particles
+Y) a light source with a wavelength shorter that the smallest observable feature size
+Z) a low amplitude, time -varying magnetic field
+
+----
+num: 3
+category: Biology
+difficulty: HS
+seen: 1
+answer: Z)  Either Single-Stranded Dna and Rna  or Double-Stranded 
+Dna and Rna
+
+The genetic material of different viruses can be:
+W) only double-stranded DNA 
+X) only single-stranded DNA or double-stranded DNA 
+Y) only double-stranded DNA or double-stranded RNA 
+Z) either single-stranded DNA and RNA or double-stranded DNA and RNA
+
+----
+num: 3
+category: Biology
+difficulty: HS
+seen: 1
+answer: X)  They Make Mrna From Their Original Rna
+
+Which of the following is NOT characteristic of retroviruses:
+W) they have single-stranded RNA as their genetic material
+X) they make mRNA from their original RNA
+Y) they incorporate their genome into the DNA of the host cell using reverse transcriptase
+Z) the host cell polymerase transcribes viral genes
+
+----
+num: 4
+category: Math
+difficulty: HS
+seen: 1
+answer: X)  4.57
+(Solution:  v = 4/3πr^3;  400 = 4/3(3.14)(r)^3; R = ^3 95.5 = 4.57)
+
+Which of the following is closest to the radius of a sphere, in meters, given that its volume is 400 cubic meters:
+W) 2.15
+X) 4.57
+Y) 6.28
+Z) 9.76
+
+----
+num: 5
+category: Earth Science
+difficulty: HS
+seen: 1
+answer: Z)  Coral Reef
+
+Which of the following typically requires warm, clear, shallow water characterized by low nutrient concentration and a hard coastal substrate to develop:
+W) barrier island
+X) estuary
+Y) lagoon
+Z) coral reef
+
+----
+num: 5
+category: Earth Science
+difficulty: HS
+seen: 1
+answer: Y)  Chaparral Vegetation Predominates in Mediterranean 
+Climates
+
+Which of the following is TRUE regarding climate:
+W) monsoon climates typically lack seasonal precipitation 
+X) a prolonged rain-shadow effect would most likely produce a tropical climate
+Y) chaparral vegetation predominates in Mediterranean climates
+Z) grassland steppes predominate in humid, mid-latitude conditions
+
+----
+num: 6
+category: General Science
+difficulty: HS
+seen: 1
+answer: Z)  Water Milfoil
+
+Rooted plants that grow below the surface of the water are called submerged plants. Which of the following is BEST classified as a freshwater submerged plant:
+W) common reed
+X) sedges
+Y) water lilies
+Z) water milfoil
+
+----
+num: 7
+category: Astronomy
+difficulty: HS
+seen: 1
+answer: X)  Methane Lakes on Its Surface
+
+Recent analysis of Cassini spacecraft data has provided convincing evidence that Saturn’s Moon Titan has:
+W) large seas of liquid water
+X) methane lakes on its surface
+Y) a moon of its own
+Z) a large active volcano
+
+----
+num: 7
+category: Astronomy
+difficulty: HS
+seen: 1
+answer: Y)  Planetary Nebula
+
+Which of the following is the next stage in the evolution of a single star after the red giant stage :
+W) white dwarf
+X) red dwarf
+Y) planetary nebula 
+Z) nova
+
+----
+num: 8
+category: Chemistry
+difficulty: HS
+seen: 1
+answer: Y)  2 -Methyl-2-Propanol
+
+Which of the following is a tertiary alcohol:
+W) 2-propanol
+X) ethanol
+Y) 2-methyl-2-propanol
+Z) 1,2-ethanediol
+
+----
+num: 9
+category: Physics
+difficulty: HS
+seen: 1
+answer: X)  Rutherford
+
+The scattering of alpha particles by a metal foil was first studied by:
+W) Compton 
+X) Rutherford 
+Y) Bragg 
+Z) Rayleigh
+
+----
+num: 10
+category: Biology
+difficulty: HS
+seen: 1
+answer: Y)  Negative Feedback
+
+TSH causes the thyroid to produce more T3. When T3 rises, it flows through the blood to the brain to decrease the release of TSH. Which of the following is the 
+MOST accurate and common term for this physiological phenomenon:
+W) metabolic reaction
+X) hormonal balance
+Y) negative feedback
+Z) endocrine action
+
+----
+num: 10
+category: Biology
+difficulty: HS
+seen: 1
+answer: X)  Descending Limb of the Loop of Henle
+
+In mammalian kidneys, reabsorption of water occurs mostly in which of the following:
+W) glomerulus
+X) descending limb of the loop of Henle (read as: HEN-lee)
+Y) proximal convoluted tubule
+Z) Bowman’s capsule
+
+----
+num: 11
+category: Math
+difficulty: HS
+seen: 1
+answer: Z)  the Same
+
+If a population distribution is illustrated as a symmetrical bell shape curve, then the median and the mean are:
+W) not the same 
+X) uncertain
+Y) variable
+Z) the same
+
+----
+num: 12
+category: Earth Science
+difficulty: HS
+seen: 1
+answer: X)  Exfoliation
+
+Which of the following is a physical weathering process caused by a chemical change where there is a weakening and scaling off of successive layers to produce a rounded rock:
+W) frost action 
+X) exfoliation
+Y) abrasion
+Z) plant and animal action
+
+----
+num: 12
+category: Earth Science
+difficulty: HS
+seen: 1
+answer: W)  the Underlying Geology Is Loose Sand and Mud Deposited 
+by the Mississippi River
+
+Which of the following is one of the main reasons why geologists believe that the second greatest earthquake risk to the U.S. lies along the New Madrid 
+Fault in Kentucky, Mississippi and Tennessee:
+W) the underlying geology is loose sand and mud deposited by the Mississippi River
+X) it overlies a deep transform fault margin much like the San Andreas fault 
+Y) it lies over a fast-moving modern plate boundary
+Z) it lies over a deep, subterranean hot spot
+
+----
+num: 14
+category: Astronomy
+difficulty: HS
+seen: 1
+answer: X)  General Relativity
+
+Microlensing is BEST explained by which of the following theories or laws:
+W) Quantum theory
+X) General Relativity
+Y) Kirchhoff’s laws
+Z) Maxwell’s law
+
+----
+num: 14
+category: Astronomy
+difficulty: HS
+seen: 1
+answer: Z)  Adaptive Optics
+
+Which of the following is a type of telescope technology that uses mirrors whose shapes can be deformed:
+W) Schmidt optics 
+X) redundant interfermetric optics 
+Y) CCD optics 
+Z) adaptive optics
+
+----
+num: 15
+category: Chemistry
+difficulty: HS
+seen: 1
+answer: Z)  Moles and Volume
+
+Avogadro’s gas law concerns which of the following two variables:
+W) temperature and pressure
+X) pressure and volume
+Y) temperature and volume
+Z) moles and volume
+
+----
+num: 16
+category: Physics
+difficulty: HS
+answer: Y)  Radar System
+
+Which of the following could most practically be used as a detector for the automatic door opening system you find at your local grocery store:
+W) infrared camera system
+X) ultrasonic motion detector
+Y) radar system
+Z) optical camera system
+
+----
+num: 16
+category: Physics
+difficulty: HS
+seen: 1
+answer: X)  a Blue Shift of 35 Hertz
+
+The radar system associated with the automatic doors at a local grocery store uses 10.5 gigahertz radiation. If the door is to open for a person walking towards it at 1 meter per second, which Doppler shift must the radar system be able to detect:
+W) a red shift of 2 hertz 
+X) a blue shift of 35 hertz
+Y) a red shift of 160 hertz
+Z) a blue shift of 1.8 hertz
+
+----
+num: 17
+category: Biology
+difficulty: HS
+seen: 1
+answer: Y)   It Forms the Anus in Deuterostomes
+
+During embryogenesis, which of the following is MOST accurate concerning the blastopore:
+W) it does not exist in protostomes
+X) it originates before the blastula stage
+Y) it forms the anus in deuterostomes (read as: DOO-ter-oh-stomes)
+Z ) it is the hollow center of the gastrula
+
+----
+num: 17
+category: Biology
+difficulty: HS
+seen: 1
+answer: X)  Densely Packaging Dna Into Nucleosomes
+
+Which of the following is a primary function of histones H2A, 
+H2B, H3 and H4:
+W) preventing damage to DNA from ionizing radiation
+X) densely packaging DNA into nucleosomes
+Y) holding DNA in the double helical configuration
+Z) directing the packaging of DNA into looped domains of about 300 nanometers
+
+----
+num: 18
+category: Math
+difficulty: HS
+seen: 1
+answer: Y)  F(x) = –X^2
+
+Which of the following has a graph that is a parabola that opens downward:
+W) f(x) = 3x + 1
+X) f(x) = x^2 – 2 
+Y) f(x) = –x^2
+Z) f(x) = x^3
+
+----
+num: 20
+category: General Science
+difficulty: HS
+seen: 1
+answer: Z)  Chemiluminescence
+
+What type of fluorescence is produced in "Glow 
+Sticks" that are widely found on the market today and which glow for hours after the stick is "broken" to allow for the mixture of different substances:
+W) thermoluminescence 
+X) triboluminescence
+Y) photoluminescence
+Z) chemiluminescence
+
+----
+num: 20
+category: General Science
+difficulty: HS
+seen: 1
+answer: W)  Chrysotile
+
+Most commercial asbestos was a fibrous variety of serpentine called:
+W) chrysotile
+X) kaolinite
+Y) magnetite
+Z) apatite

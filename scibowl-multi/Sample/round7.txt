@@ -1,0 +1,214 @@
+####
+tournament: Sample
+round: round7.pdf
+####
+
+num: 2
+category: Chemistry
+difficulty: HS
+answer: Z)  Isopropyl Alcohol
+
+Which of the following compounds is used as a fuel additive in what is commonly known as “dry-gas” by solubilizing water t o reduce its contamination in gasoline:
+W) isooctane
+X) glycerol
+Y) MTBE
+Z) isopropyl alcohol
+
+----
+num: 2
+category: Chemistry
+difficulty: HS
+answer: X)  40.7
+
+The molar heat of vaporization for water at its boiling point and in kilojoules per m ole is:
+W) 6.01
+X) 40.7
+Y) 540
+Z) 2,260
+
+----
+num: 3
+category: Physics
+difficulty: HS
+answer: X)  Lorentz Force
+
+Consider an electric charge moving through a magnetic field. A force acts on the charge perpendicular to the direction of the charge’s motion and direc tion of the magnetic field. Which of the following is the MOST common name for this force:
+W) B field
+X) Lorentz force
+Y) electrodynamic force
+Z) Faraday force
+
+----
+num: 3
+category: Physics
+difficulty: HS
+answer: X)  Reduction in the Length of a Body Along the Direction of 
+Motion as It Approaches the Speed of Light
+
+Which of the following BEST describes the Lorentz Contraction:
+W) reduction in the mass of a body as it approaches the speed of light
+X) reduction in the length of a body along the direction of motion as it approaches the speed of light
+Y) loss of kinetic energy when any object slows
+Z) loss of potential energy when any body emits electromagnetic radiation
+
+----
+num: 5
+category: Earth Science
+difficulty: HS
+answer: W)  in Warm, Ocean Waters
+
+Trilobites are index fossils that lived:
+W) in warm, ocean waters
+X) during the Achaean geological time
+Y) in desert environments
+Z) in lakes, rivers and streams
+
+----
+num: 6
+category: General Science
+difficulty: HS
+answer: Y)  There Is a Water Pollution Advisory Against Eating Oysters 
+Grown Within Most of the Watershed
+
+The Chesapeake Bay Foundation has enlisted the help of volunteers to raise oysters within cages tied to docks just below the wate r’s surface. Which of the following is the BEST reason why these amateur conservationists will not be tempted to eat their oysters:
+W) they are genetically engineered and their impact on human heath has not been assessed 
+X) they were irradiated prior to seeding to ensure they were disease-free
+Y) there is a water pollution advisory against eating oysters grown within most of the watershed
+Z) some are equipped with a radio transmitter to allow biologists to easily measure population changes
+
+----
+num: 10
+category: Physics
+difficulty: HS
+answer: Y)  Charge Can Neither Be Created Nor Destroyed
+
+Which of the following best describes the concept upon which 
+Kirchhoff’s current law or first law is based:
+W) charges come in unit dimensions 
+X) all charges flow from the negative to t he positive
+Y) charge can neither be created nor destroyed
+Z) what goes up must come down
+
+----
+num: 12
+category: Earth Science
+difficulty: HS
+answer: W)  Ozone
+
+Which of the following atmospheric gases is created naturally by the action of sunlight on molecular oxygen:
+W) ozone
+X) carbon monoxide
+Y) nitrous oxide
+Z) methane
+
+----
+num: 13
+category: General Science
+difficulty: HS
+answer: X)  Steam
+
+Geothermal power plants use which of the following to generate electricity:
+W) coal
+X) steam
+Y) sunlight 
+Z) pressurized water
+
+----
+num: 13
+category: General Science
+difficulty: HS
+answer: Z)  Algae
+
+Diatoms are:
+W) bacteria
+X) twinned crystals
+Y) seaweed
+Z) algae
+
+----
+num: 14
+category: Astronomy
+difficulty: HS
+seen: 1
+answer: X)  Stars That Begin Their Lives With Greater Mass Have Longer 
+Life -Spans
+
+Which of the following statements is LEAST accurate:
+W) solar eclipses are less common than lunar eclipses
+X) stars that begin their lives with greater mass have longer life -spans
+Y) stars in the same constellation are not necessarily at the same di stance from Earth
+Z) M -31 is a galaxy
+
+----
+num: 16
+category: Chemistry
+difficulty: HS
+answer: W)  Hco
+^2h
+
+Which of the following is considered a weak acid:
+W) HCO^2H
+X) HClO^4^
+Y) HNO^3
+Z) HBr
+
+----
+num: 19
+category: Earth Science
+difficulty: HS
+answer: Y)  Limestone
+
+Which of the following rocks is MOST porous:
+W) marble
+X) granite
+Y) limestone 
+Z) slate
+
+----
+num: 19
+category: Earth Science
+difficulty: HS
+answer: Z)  Gypsum
+(Solution: Gypsum Is Caco^4)
+
+If the intent is to neutralize soil acidity, the mixing of which of the following materials in the soil would be the LEAST effective:
+W) ground limestone
+X) ground oyster shells
+Y) pure CaCO^3
+Z) gypsum
+
+----
+num: 20
+category: General Science
+difficulty: HS
+answer: Y)  Titanium Dioxide
+
+Which of the following is used as a white pigment in paint, paper, and plastics:
+W) Teflon
+X) zeolites
+Y) titanium dioxide
+Z) diatomaceous earth
+
+----
+num: 20
+category: General Science
+difficulty: HS
+answer: W)  Reflects Back to the Retina Stray Photons of Light
+
+Cats have a special layer of tissue behin d their retina called the tapetum lucidum that does which of the following:
+W) reflects back to the retina stray photons of light
+X) allows for color vision
+Y) allows only for black, white and grey vision
+Z) serves as a second eyelid to protect the ey e
+
+----
+num: 23
+category: Chemistry
+difficulty: HS
+answer: X)  Effervescence
+
+The release of hydrogen gas in the above experiment is called:
+W) combustion
+X) effervescence
+Y) diffusion 
+Z) ebullition

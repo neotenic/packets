@@ -1,0 +1,438 @@
+####
+tournament: #6528
+round: Show #6528 - Wednesday, January 23, 2013
+year: 2013
+date: 2013-01-23
+####
+
+num: 1
+category: Geography
+difficulty: 200
+seen: 9
+answer: Yellowstone
+
+This national park has 5 entrances: 3 in Montana & 2 in Wyoming.
+
+----
+num: 2
+category: History
+difficulty: 200
+seen: 5
+answer: Lewis Carroll
+
+In the 1930s his "Alice" work was banned in China on the grounds that animals should not use human language.
+
+----
+num: 3
+category: Literature
+difficulty: 200
+seen: 4
+answer: Amy Poehler
+
+This alumna stars as Leslie Knope on "Parks and Recreation".
+
+----
+num: 4
+category: History
+difficulty: 200
+seen: 5
+answer: the Incas
+
+In 1471 Tupac became emperor of this South American people.
+
+----
+num: 5
+category: Literature
+difficulty: 200
+seen: 4
+answer: to barhop
+
+To move from The Frolic Room to The Roost to Casey's Irish Pub.
+
+----
+num: 6
+category: Geography
+difficulty: 400
+seen: 8
+answer: Columbus
+
+For a fabulous view of Barcelona, take the elevator to the top of Monument a Colom, a landmark built to honor him.
+
+----
+num: 7
+category: Literature
+difficulty: 400
+seen: 4
+answer: Jane Curtin
+
+Always a delight,.
+
+----
+num: 8
+category: Literature
+difficulty: 400
+seen: 4
+answer: a casserole
+
+Bake a chicken & rice this in the dish it's named for, from French for "sauce pan".
+
+----
+num: 9
+category: History
+difficulty: 400
+seen: 3
+answer: the Hundred Years War
+
+England lost all of France except Calais as this conflict ended in 1453.
+
+----
+num: 10
+category: Literature
+difficulty: 400
+fixed: -1
+seen: 3
+answer: a bellhop
+
+A hotel page boy.
+
+----
+num: 11
+category: Geography
+difficulty: 600
+seen: 8
+answer: Armani
+
+Shopping in Rome? Visit this designer's "Emporio" at 140 Via del Babuino for discount menswear.
+
+----
+num: 12
+category: History
+difficulty: 600
+seen: 4
+answer: (Thomas) Paine
+
+In 1792 he was indicted for treason in Britain & his "Rights of Man" was banned.
+
+----
+num: 13
+category: Literature
+difficulty: 600
+seen: 3
+answer: Gilda Radner
+
+She dedicated her 1989 memoir "It's Always Something" "to my dear husband, Gene Wilder".
+
+----
+num: 14
+category: Literature
+difficulty: 600
+seen: 4
+answer: Maurice Sendak
+
+This late author's "Nutshell Library" for kids includes "Chicken Soup with Rice".
+
+----
+num: 15
+category: History
+difficulty: 600
+seen: 4
+answer: nearsightedness (myopia)
+
+In 1451 Nicholas of Cusa prescribed concave lenses to remedy this.
+
+----
+num: 16
+category: Literature
+difficulty: 600
+seen: 4
+answer: a grasshopper
+
+Insect of the family Locustidae.
+
+----
+num: 17
+category: Geography
+difficulty: 800
+seen: 7
+answer: the Galápagos
+
+The Charles Darwin Research Station on Santa Cruz might be a good start for your tour of these islands.
+
+----
+num: 18
+category: Literature
+difficulty: 800
+seen: 4
+answer: Debbie Downer
+
+Rachel Dratch's most famous character was this alliterative party pooper.
+
+----
+num: 19
+category: Literature
+difficulty: 800
+seen: 4
+answer: gumbo
+
+Emeril's got a recipe for this Creole stew featuring smoked sausage & chicken served over white rice.
+
+----
+num: 20
+category: Literature
+difficulty: 800
+seen: 4
+answer: muttonchops
+
+"Meaty" sideburns.
+
+----
+num: 21
+category: Geography
+difficulty: 1000
+seen: 8
+answer: Tokaj
+
+This Hungarian region known for sweet white wine has a "wine labyrinth" made up of 27 cellars.
+
+----
+num: 22
+category: Literature
+difficulty: 1000
+seen: 4
+answer: Maya Rudolph
+
+Daughter of singer Minnie Riperton, she made quite an impression as Beyonce & Donatella Versace.
+
+----
+num: 23
+category: Literature
+difficulty: 1000
+seen: 4
+answer: mushroom
+
+Campbell's recipe for its "One Dish Chicken & Rice Bake" calls for a can of its cream of this soup.
+
+----
+num: 24
+category: History
+difficulty: 1000
+seen: 3
+answer: Tamerlane (Timur the Lame)
+
+Around 1401 Baghdad fell to this lame conqueror.
+
+----
+num: 25
+category: Literature
+difficulty: 1000
+seen: 4
+answer: a shopaholic
+
+"Addictive" term for a compulsive buyer.
+
+----
+num: 26
+category: History
+difficulty: 400
+seen: 5
+answer: Thomas Jefferson
+
+Was the first to become president.
+
+----
+num: 27
+category: Literature
+difficulty: 400
+seen: 4
+answer: Alfred Hitchcock
+
+This "Master of Suspense" directed Cary Grant in 4 films beginning with 1941's "Suspicion".
+
+----
+num: 28
+category: Geography
+difficulty: 400
+seen: 7
+answer: Kathmandu
+
+This Nepalese city served as the seat of the ruling Shah family of the Gurkha people from 1768 to 2008.
+
+----
+num: 29
+category: Science
+difficulty: 400
+seen: 5
+answer: diameter
+
+It's twice the radius of a circle.
+
+----
+num: 30
+category: Literature
+difficulty: 400
+seen: 4
+answer: Labor Day
+
+In Mexico, this holiday is May 1; in 2012, people in the U.S. took off Sept. 3 for a holiday of the same name.
+
+----
+num: 31
+category: History
+difficulty: 800
+seen: 4
+answer: Condoleezza Rice
+
+Was the first female National Security Advisor.
+
+----
+num: 32
+category: Literature
+difficulty: 800
+seen: 4
+answer: they
+
+The nominative plural of "he" & "she"; in the pop music world it precedes "Might Be Giants".
+
+----
+num: 33
+category: Geography
+difficulty: 800
+seen: 8
+answer: the Kalahari
+
+Animal Planet's "Meerkat Manor" is set in this desert.
+
+----
+num: 34
+category: Science
+difficulty: 800
+seen: 6
+answer: calculus
+
+The integral type of this math branch can be used to find the end result of known continuous change.
+
+----
+num: 35
+category: Literature
+difficulty: 800
+seen: 3
+answer: Pearl Harbor
+
+In the Reciprocity Treaty of 1887, Hawaii gave the United States rights to this port just west of Honolulu.
+
+----
+num: 36
+category: History
+difficulty: 1200
+seen: 4
+answer: Seward
+
+Bought an "icebox" for a cool $7.2 million.
+
+----
+num: 37
+category: Literature
+difficulty: 1200
+seen: 4
+answer: itself
+
+The only thing you have to fear is fear of not knowing this 6-letter word is an emphatic appositive of "which".
+
+----
+num: 38
+category: Literature
+difficulty: 1200
+seen: 4
+answer: Shirley Temple
+
+"The Bachelor and the Bobby-Soxer" starred Cary as a playboy & this former child star as the bobby-soxer.
+
+----
+num: 39
+category: Science
+difficulty: 1200
+seen: 5
+answer: an exponent
+
+It's a number placed as a superscript after an expression to indicate the power to which it is raised.
+
+----
+num: 40
+category: Literature
+difficulty: 1200
+seen: 4
+answer: Liam Neeson
+
+In "Taken", this actor warns a kidnapper to let his child go or "I will look for you. I will find you. & I will kill you".
+
+----
+num: 41
+category: History
+difficulty: 1600
+seen: 5
+answer: John Marshall
+
+Only had the gig for one year before becoming Chief Justice in 1801.
+
+----
+num: 42
+category: Geography
+difficulty: 1600
+seen: 7
+answer: Kingston
+
+The Blue Mountains back this Jamaican capital.
+
+----
+num: 43
+category: Science
+difficulty: 1600
+seen: 6
+answer: scalene
+
+Type of triangle seen.
+
+----
+num: 44
+category: Literature
+difficulty: 1600
+seen: 4
+answer: the ghost
+
+In Luke 23:46 Jesus said, "'Father, into thy hands I commend my spirit': and having said thus, he gave up" this.
+
+----
+num: 45
+category: History
+difficulty: 2000
+seen: 5
+answer: James Baker
+
+1 for 2 running George H.W. Bush's presidential campaigns.
+
+----
+num: 46
+category: Geography
+difficulty: 2000
+seen: 13
+answer: Kona
+
+Synonymous with coffee, the name of this Hawaiian coast means "leeward".
+
+----
+num: 47
+category: Science
+difficulty: 2000
+seen: 9
+answer: a quadrant
+
+In rectangular Cartesian coordinates, the first this is the area to the right of the y-axis & above the x-axis.
+
+----
+num: 48
+category: Literature
+difficulty: 2000
+seen: 5
+answer: a Gibson
+
+To make this drink add 1/2 oz. dry vermouth to 2 1/2 oz. gin, take 3 cocktail onions from the jar & plop them in.

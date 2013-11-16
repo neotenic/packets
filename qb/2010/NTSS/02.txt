@@ -1,0 +1,194 @@
+####
+tournament: NTSS
+round: 02.pdf
+year: 2010
+####
+
+num: 1
+category: Science
+difficulty: HS
+fixed: 57
+seen: 483
+answer: {Arachnida} [or {Arachnids}]
+
+Animals in this class have bodies that consist of a prosoma and opisthosoma (oh-PISS-thoh-soh-muh), and the largest of them that ever lived were aquatic species called eurypterids (yoo-RIHP-tuh-ridz). Orders within this class are distinguished by the shape and function of the pedipalps, and some members of this class take in oxygen through soft overlapping flaps inside the abdominal cavity known as book lungs. Apulmonate members of this class include the Acari, which consists of mites and ticks. The species Androctonus in this class can kill humans with a neurotoxin; that species is better known as the fat-tailed scorpion. More famous for the ability of some of its members to spin silk, name this class that includes harvestmen and spiders.
+
+----
+num: 2
+category: Literature
+difficulty: HS
+fixed: 1
+seen: 440
+answer: Kenneth {Kesey}
+
+One of this author's novels is about an attempt to shoot the movie Shoola and the Sea Lion by the son of Alice the Angry Aleut in the town of Kuinak, Alaska. Well before he wrote Sailor Song, this author wrote a novel about the half brothers Lee and Hank Stamper set in the logging town of Wakonda, Oregon. Another novel by this author features a character nicknamed “Rub-a-Dub George” and a timid doctor named Spivey. That work centers on a power struggle between Randle McMurphy and Nurse Ratched. Name this author of Sometimes a Great Notion and One Flew Over the Cuckoo's Nest.
+
+----
+num: 3
+category: Mythology
+difficulty: HS
+fixed: 1
+seen: 789
+answer: Circe
+
+This figure became jealous when Canens was loved by Saturn and Venilia's son Picus (PIE-kuhs). She also purified the Argonauts after they murdered Apsyrtus (ap-SUR-tuhs). In another story, this goddess turned the bottom half of Scylla (SIL-uh) into a group of dogs because she was jealous over the love of Glaucus. Hermes (HER-mees) possessed a plant with a black root and white flower that protected people from this goddess, the mother of Telegonus and even- tual wife of Telemachus (teh-luh-MAH-kis). This resident of Aeaea (ee-EE-uh) instructed Odysseus how to listen to the Sirens. Name this enchantress who turns men into pigs.
+
+----
+num: 4
+category: History
+difficulty: HS
+fixed: 1
+seen: 418
+answer: Joseph “Joe” {Pulitzer}
+
+Born in Hungary, this man came to the United States as a draft substitute during the Civil War. He pushed a ten- point program that called for taxing the wealthy and punishing corrupt politicians and employers. After starting his career under Carl Schurz, he would later employ Nellie Bly and sponsor her trip around the world. The federal gov- ernment once claimed that he libeled Teddy Roosevelt and JP Morgan, but the suit was tossed out. Name this owner of the Saint Louis Post-Dispatch and New York World who competed with William Randolph Hearst and left money in his will to establish the Columbia School of Journalism and awards in, among other things, journalism.
+
+----
+num: 5
+category: Philosophy
+difficulty: HS
+fixed: None
+seen: 522
+answer: Immanuel Kant
+
+This person wrote, “The sublime moves, the beautiful charms.” An essay by this philosopher set republican constitu- tions, federations of free states, and universal hospitality as the definitive articles for a perpetual peace. This person also classified a priori knowledge as analytic or synthetic. In this philosopher's Groundwork of the Metaphysic of Mor- als, he wrote, “Act only on that maxim through which you can at the same time will that it should become a universal law,” which he defined as the categorical imperative. This person also stated that God, freedom, and immortality are the unavoidable problems with pure reason. Name this eighteenth century German writer of Critique of Pure Reason.
+
+----
+num: 6
+category: Science
+difficulty: HS
+fixed: -1
+seen: 492
+answer: {Archimedes} of Syracuse
+
+A mathematical property named for this person requires the absence of infinitesimals, and his namesake spiral is described in polar coordinates by r equals a plus b theta. His On the Equilibrium of Planes describes his discovery that floating objects orient themselves to have the lowest possible center of mass, and he estimated the number of grains of sand that will fit inside the universe in The Sand Reckoner. This person also invented a way of continuously lifting large amounts of water, his namesake screw, and he also claimed that he could move the Earth given a place to stand and a lever. Name this ancient scientist whose principle states that a body immersed in a fluid experiences a buoyant force equal to the weight of the fluid it displaces.
+
+----
+num: 7
+category: History
+difficulty: HS
+fixed: -1
+seen: 418
+answer: Battle of {Tippecanoe} [or {Prophetstown}]
+
+This battle caused the collapse of the Red Stick Confederacy and took place when one of the leaders told his men that the Master of Life promised success and that bullets could not harm them. That leader, who changed his name from Lalawethika to Tenskwatawa, had set up a religious village three years before this battle took place. The other side, which approached the battle via the Wabash River, was headed by the Governor of Indiana. In this 1811 battle, the Shawnee brother of Tecumseh was defeated by troops led by future President William Henry Harrison. Name this battle that later became part of Harrison's campaign slogan.
+
+----
+num: 8
+category: Science
+difficulty: HS
+fixed: -1
+seen: 489
+answer: {limit}
+
+This term can be used as an adjective to describe a set that represents the state of a dynamical system after an infi- nite amount of time or to describe a point that can also be called an accumulation point. This term also is applied to values whose existence can be proven using the squeeze theorem or a method referred to as delta-epsilon. These values are often evaluated by taking the derivatives of both the numerator and denominator of a rational function, a method known as l'Hôpital's rule. These values are equal to the values of continuous functions, and they are commonly used to find derivatives. Give this value that the output of a function may approach when the input approaches a specified value.
+
+----
+num: 9
+category: History
+difficulty: HS
+fixed: -1
+seen: 416
+answer: Ferdinand {Marcos}
+
+There were rumors that this man's father was Judge Ferdinand Chua, who made arrangements to clear him for the murder of Julio Nalundasan. This man defeated a former ally for the Presidency in 1965, but, after one successful re- election, this man's popularity dropped, leading him to declare that a growing Communist threat required the imposi- tion of martial law. This man is also believed to have been behind the 1983 assassination of his rival Benigno Aquino (buh-NEE-noh uh-KEE-noh), and he was eventually replaced by that man's widow, Corazon Aquino. One reason for this man's drop in popularity had to do with putting his wife in charge of tourism; she was believed to be corrupt and owned over three thousand pairs of shoes. Name this man who ruled the Philippines from 1965 to 1986.
+
+----
+num: 10
+category: Science
+difficulty: HS
+fixed: 57
+seen: 486
+answer: Niels {Bohr}
+
+This scientist's namesake constant is calculated by dividing e times h by the quantity four pi times mass and closely approximates the magnetic moment of a free electron, though it failed at its original purpose to explain the Balmer se- ries. The namesake of that constant, or magneton, said that quantum theory should agree with classical theory when classical theory could be verified, and he also supported quantum mechanics in debates with Albert Einstein. Name this man who proposed a planetary atomic model that only worked for hydrogen, a Danish physicist.
+
+----
+num: 11
+category: Literature
+difficulty: HS
+fixed: 57
+seen: 439
+answer: Alfred Edward {Housman}
+
+One work by this poet is about a man handcuffed and put in jail because of his hair color, and in another work he decides that since fifty springs is not enough time to look at cherry blossoms, he will look at cherry trees in the snow. In addition to “Oh Who Is That Young Sinner” and “Loveliest of Trees”, he had a twenty-two-year-old narrator re- gret not taking advice he was given the year before to not give his “heart away”. This poet stated that a laurel withers quicker than a rose in a poem about somebody carried “shoulder-high”, first in a chair and then in a coffin. Identify this English poet of “When I was one-and-twenty” and “To An Athlete Dying Young”.
+
+----
+num: 12
+category: History
+difficulty: HS
+fixed: 57
+seen: 414
+answer: {Draco} [accept {Dracon}; do not accept “{Draconian}”]
+
+Historians view of this man's role changed after the discovery of the fourth chapter of Aristotle's Politics. Accord- ing to one legend, this man died when a crowd tried to honor him by throwing their hats and coats on him, and ac- cording to another legend he wrote in blood rather than ink. He generally is credited with setting up a Committee of Four Hundred One and having it chosen by lot. Though the constitution he wrote no longer exists, it is believed that many of its punishments were exile, enslavement, or death. His laws were rewritten by Solon. Name this seventh cen- tury BCE lawgiver whose name is now associated with cruelty.
+
+----
+num: 13
+category: Science
+difficulty: HS
+fixed: 1
+seen: 489
+answer: {cosine} [accept addition of “of x ” or any other variable ]
+
+The fixed point of this function is known as the Dottie number, and this function equals the real component of the value of e raised to the power of i times x. The derivative of the inverse of this function equals negative one over the square root of the quantity one minus x squared, and the graph of its hyperbolic version is known as a catenary (KAA- tuh-nehr-ee). Its namesake law can be used to determine the length of the third side of a triangle given the two other sides and the included angle and is a generalization of the Pythagorean theorem to any triangle. Give the name of this function equal to both the x-coordinate on a unit circle and the length of the adjacent leg divided by the hypotenuse of an angle in a right triangle.
+
+----
+num: 14
+category: Literature
+difficulty: HS
+fixed: 57
+seen: 447
+answer: Anton {Chekhov}
+
+In one work by this writer, a mother and son recite lines that were originally spoken by Shakespeare's Gertrude and Hamlet. In addition to that work featuring Akardina and Treplev, he wrote a work about a man who declares his love for Yelena, his brother-in-law's second wife. Another work by this writer is about a teacher who wants to get married, a teacher's wife who wants to get divorced, and a woman who wants to quit her job at the telegraph office, the daughters of Prosorov. His last play takes place at the Ranevsky estate. Identify this playwright of The Seagull, Uncle Vanya, The Three Sisters, and The Cherry Orchard.
+
+----
+num: 15
+category: Fine Arts
+difficulty: HS
+fixed: 1
+seen: 492
+answer: The {Anatomy Lesson} of Dr. Nicolaes Tulp [prompt on The {Anatomy Lesson}; accept variations in wording
+
+This painting is sometimes compared to a work showing Sebastian Egbertsz by Thomas de Keyser painted thir- teen years earlier. The background of this painting, which is difficult to make out, shows an open archway and some posted rules, and an open text is on the right. The bottom of this picture shows Aris Kindt, and seven of the other eight people shown are in the formation of an arrow pointing at him. The other person, seen on the right with a black hat and appearing to speak to an audience, is the title figure of this painting. The event shown took place on January 16th, 1632 following the central figure's execution. Name this Rembrandt work that shows a doctor demonstrating the muscles and tendons of the arm.
+
+----
+num: 16
+category: Science
+difficulty: HS
+fixed: -1
+seen: 490
+answer: {gallium} [accept {Ga} before the end]
+
+Medical uses for this element depend on the body treating it like the ferric ion, and though it is not iodine, it has been used to correct the hypercalcemia associated with malignant bone cancer. This element was the first to be crystal- lized by molecular-beam epitaxy in order to produce thin wafers of its widely used arsenide semiconductor. The trans- formation of this element into germanium is the basis for neutrino-detecting telescopes, and it is the metal most often used to construct light-emitting diodes. Its discovery by Boisbaudran in 1875 confirmed the existence of Mendeleyev's eka-aluminum, and it has the largest liquid temperature range of any element. Famous for melting when held in the hand, name this element with atomic number 31 and symbol Ga.
+
+----
+num: 17
+category: Fine Arts
+difficulty: HS
+fixed: 1
+seen: 485
+answer: Andrew “Andy” {Warhola}
+
+One film by this person showed his friend John Giorno sleeping for over five hours, and another film, which was banned in Chicago but popular in New York City, was “The Chelsea Girls”. This person also organized shows titled Exploding Plastic Inevitable. This artist's still subjects included a big electric chair, a car crash in Five Deaths Eleven Times in Orange, and the Birmingham race riots three times, once in red, once in white, and once in blue. This person also pictured many celebrities such as Jacqueline Kennedy, Elizabeth Taylor, Mick Jagger, Marilyn Monroe, and Mao Tse-Tung. Name this silkscreen artist of dollar bills, Coke bottles, and Campbell's Soup cans.
+
+----
+num: 18
+category: Fine Arts
+difficulty: HS
+fixed: 1
+seen: 499
+answer: piano {sonatas}
+
+A piece of this type by George Enescu is nicknamed In Romanian Folk Style, while works of this type by Alexander Scriabin are nicknamed White Mass and Black Mass. Franz Liszt wrote one of these pieces after a reading of Dante, while a section of one of these pieces became known as Chopin's Funeral March. This term typically applies to cham- ber works with a solo instrument that sometimes is joined by a piano and sometimes is a piano, and when first intro- duced it was contrasted with the term “cantata”. Give this term which applies to works nicknamed Kreutzer, Ham- merklavier, Waldstein, Appassionata, and Moonlight by Beethoven.
+
+----
+num: 19
+category: Literature
+difficulty: HS
+fixed: 1
+seen: 449
+answer: {Sense} and {Sensibility}
+
+In this novel, when Charlotte describes a house as a sweet pretty place, her husband Thomas replies that it is as vile a spot as he ever saw in his life. In its first chapter, Henry lives for only one year after his uncle dies, and he is forced to give his estate to his grandson Harry and son John. This leaves Margaret, Marianne, Elinor, and their mother with a small amount of money, causing them to leave Norland Park and eventually go to Delaford, once John's wife Fanny convinces him not to support them. Identify this work about the Dashwood family, the first published novel by Jane Austen.

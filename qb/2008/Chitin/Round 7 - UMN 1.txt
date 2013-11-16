@@ -1,0 +1,214 @@
+####
+tournament: Chitin
+round: Round 7 - UMN 1.doc
+year: 2008
+####
+
+num: 1
+category: Literature
+difficulty: HS
+fixed: 1
+seen: 446
+answer: Commonwealth of {Australia}
+
+One author from this country wrote about the artist Hurtle Duffield Courtney, while the Newby family is killed by a half-native of this country in another work.  In addition to The Vivisector and The Chant of Jimmie Blacksmith, another novel in this country is written in the style of the Jerilderie Letter, and another tells the story of a German explorer named Voss. Its only Nobel Laureate is Patrick White, while other authors from this country include Nevil Shute Norway, Thomas Keneally, and Peter Carey.  For 10 points, name this country, the setting of Oscar and Lucinda, in the outback.
+
+----
+num: 2
+category: History
+difficulty: HS
+fixed: 1
+seen: 421
+answer: Thomas “Stonewall” {Jackson}
+
+While fighting in the Siege of Veracruz, he met his future commander and earned two brevet promotions. His most notable accomplishments came after a defeat at Kernstown, which would be his only defeat in this campaign. He defeated Nathaniel Banks at Front Royal and John C. Fremont at Cross Keys, and harassed McDowell in the Valley Campaign.  For 10 points, name the general who was killed by friendly fire at the Battle of Chancellorsville and who, at the Battle of First Bull Run, received his memorable nickname.
+
+----
+num: 3
+category: Fine Arts
+difficulty: HS
+fixed: 57
+seen: 495
+answer: Edouard {Manet}
+
+This painter depicted a mustachioed man behind two white-clad women holding closed-up umbrellas in one work, and the green shoes of a trapeze artist in the upper-left in another.  In one of his works, a reclining nude accepts a bunch of flowers from a black servant, while three figures lounge near a blue tablecloth and some food while a nude woman bathes herself in a creek in the background in another.  For 10 points, name this painter of The Balcony, A Bar at the Foiles-Bergeres, Olympia, and Luncheon on the Grass.
+
+----
+num: 4
+category: Social Science
+difficulty: HS
+fixed: 1
+seen: 375
+answer: monopolies
+
+Hotelling's law describes one beneficial outcome of this situation.  William Baumol described a “Revolution” in the theory of this type of market, which claims that low entry cost markets are unfavorable to this situation.  In this situation, profit maximization occurs when setting marginal cost equal to marginal revenue, which will result in a lower quantity sold at a higher price and thus deadweight loss.  For 10 points, name this market structure in which there is one producer.
+
+----
+num: 5
+category: Science
+difficulty: HS
+fixed: 57
+seen: 481
+answer: {HIV} or {Human Immunodeficiency} Virus [prompt on “{AIDS Virus}”; do not prompt on “{AIDS}”]
+
+This infectious agent's env protein exhibits variability that leads to three groups of its “one” variety, M, N, and O.  This virus's outer lipid membrane is punctured by gp41 proteins, which are bound to another protein that binds to the CD4 receptors on cells it attacks; that is a glycoprotein known as gp120.  Its capsid contains two strands of RNA, each of which is paired with a reverse transcriptase enzyme.  For 10 points, name this virus that attacks Helper T cells, and eventually causes AIDS.
+
+----
+num: 6
+category: Literature
+difficulty: HS
+fixed: -1
+seen: 445
+answer: {Go Down}, {Moses}
+
+In one section of this work, Walter Ewell's horn signals the arrival of a massive buck, which two hunters dub “grandfather” and do not shoot.  Another section features a poker game between Uncle Buck and Hubert, in which Buck wins Sophonisba in marriage and the slave Tennie.  In addition to “The Old People” and “Was,” this work tells of the interracial relationship between a “Negress” and Roth Edmonds, while another story in this work tells of Ike McCaslin and Boon Hogganbeck's hunt for Old Ben.  For 10 points, name this short story collection that features “Delta Autumn” and “The Bear,” with a Biblical name by William Faulkner.
+
+----
+num: 7
+category: History
+difficulty: HS
+fixed: 1
+seen: 416
+answer: King {Richard III} York [prompt on “{Richard}”]
+
+This man ascended to the throne after another heir was viewed as illegitimate due to his father's never-annulled marriage to Lady Eleanor Butler.  One of this man's brothers was said to have been executed by being drowned in a vat of Malmsey wine; that execution was presaged by this man's quarrel with his brothers George, Duke of Clarence, and Edward IV, over the Neville Sisters.  He was crowned in 1483 after allegedly killing Edward V and his brother, the “Princes in the Tower.”  For 10 points, name this loser at Bosworth whose horse cost him his kingdom, according to Shakespeare.
+
+----
+num: 8
+category: Fine Arts
+difficulty: HS
+fixed: 1
+seen: 496
+answer: Carmen
+
+One aria in this opera begins with the speaker claiming that she can give a man some toast, and goes on to claim that “love awaits” the title character.  Another aria from this opera ends “if I love you, you'd best beware!”  The peasant girl Micaela informs the male lead that his mother is dying, while Lieutenant Zuniga attempts to interrogate the female lead when she is brought in for knife-fighting with another woman.  Containing the “Toreador Song” and “Habanera,” for 10 points, name this opera about Don Jose, the bullfighter Escamillo, and the titular gypsy, by Georges Bizet.
+
+----
+num: 9
+category: History
+difficulty: HS
+fixed: 57
+seen: 415
+answer: {Atahualpa} [or {Atabalipa}]
+
+A man named Juan Santos who claimed to be a descendent of this man took this man's name and led a rebellion in Tarma and Jauja in the 1740s.  He was captured at Chillopampa but escaped and defeated his enemies at Chimborazo.  This man sparred with his half-brother Huascar in a civil war after the death of his father Huayna Capac, and he was captured at the Battle of Cajamarca and ransomed for tons of gold and silver, but eventually suffocated and replaced by his brother, Tupac Huallpa.  For 10 points, name this man overthrown by Francisco Pizarro, an Incan emperor.
+
+----
+num: 10
+category: Science
+difficulty: HS
+fixed: 57
+seen: 482
+answer: {Aufbau} principle
+
+The Madelung rule can generally describe the same behavior that this predicts. A version of it can be used to predict the configuration of protons and neutrons in various atomic nuclei. The periodicity of ionization energy in relation to atomic number is a result of shielding from previously filled orbitals and a consequence of it. It is the result of the combination of Hund's Rules and the Pauli Exclusion Principle, and it is used to determine electron configurations. For 10 points, name this principle that governs orbital designations which is German for “to build up.”
+
+----
+num: 11
+category: Literature
+difficulty: HS
+fixed: 1
+seen: 445
+answer: Johan August {Strindberg}
+
+The artist Axel and his feminist-artist wife Bertha live together as compatriots and not lovers in this author's Comrades.  Another Axel, this one a librarian, first desires the Baroness then longs for his friend Gustav's wife Marie in this author's Confessions of a Fool.  A group of intellectuals, including Olle Montanus, Sellen, and Lundell, gather to talk in the titular location in his The Red Room, while Bocklin's Isle of the Dead appears after Jacob Hummel and the Student, Arkenholz, find a parrot-talking mummy in a closet in this author's Ghost Sonata.  For 10 points, name this author of A Dream Play who wrote about a suicidal woman and her love Jean in Miss Julie.
+
+----
+num: 12
+category: Trash
+difficulty: HS
+fixed: 1
+seen: 1026
+answer: making it rain [accept word forms]
+
+DJ Cobra in San Diego's Bar West is featured in a YouTube video that shows Amare Stoudemire making a pathetic attempt to perform this action after claiming he wants to hear “A little ‘Pac.”  This action documented a namesake Fat Joe song that claims “Yeah I'm in this business of terror,” and an Usher song about this action claims that “We keep that carpet green in the city.”  It was notably performed by “Richard Rich,” Nelly, and Pacman Jones with a garbage bag containing over $80,000 in ones.  For 10 points, name this action that involves going to a club and throwing lots of money in the air.
+
+----
+num: 13
+category: Literature
+difficulty: HS
+fixed: 1
+seen: 452
+answer: William Somerset {Maugham}
+
+This author used a line from Keats to title his short story about a London Jewish author named Ferdy Rabenstein, whose nephew George Bland commits suicide.  In addition to “The Alien Corn,” this author wrote a play in which Porteous and Kitty are complicit in Elizabeth and Teddie's affair, The Circle.  Mrs. Blakeston fights the title character for having an affair with her husband Jim in one of this man's works, while another fictionalizes Paul Gauguin as Charles Strickland.  In addition to Liza of Lambeth and The Moon and Sixpence, this author wrote novels about Larry Darrell and Philip Carey.  For 10 points, name this author of The Razor's Edge and Of Human Bondage.
+
+----
+num: 14
+category: Philosophy
+difficulty: HS
+fixed: 1
+seen: 519
+answer: {prisons} [accept equivalents like {jail}, etc.]
+
+One work about these institutions are characterized by an “unequal gaze” between two groups within them; that work also claims that they “cannot fail to produce delinquents,” and that they create “disciplinary careers.”  A circular one in which observers can watch any of the inhabitants at any time without the inhabitants' knowledge was devised by Jeremy Bentham and dubbed the Panopticon.  For 10 points, name these institutions whose “Birth” is chronicled in Michel Foucault's Discipline and Punish.
+
+----
+num: 15
+category: History
+difficulty: HS
+fixed: 57
+seen: 423
+answer: Treaty of {Tordesillas} or {Tratado} de {Tordesilhas}
+
+The 1777 exchange of the island of Fernando Poo and some of the coast of what's now Niger for land in what's now western Brazil was the last official invocation of this document. The bull Inter Caetera, promulgated by Calixtus VI, was used as precedent for the claims of one monarch, while provisions of the later bull Aeterni Regis and a second Inter Caetera were championed by the other signatory. That latter Caetera, written by Pope Alexander IV, was furthered by Dudum Siquedem, which extended Spanish jurisdiction to India. For 10 points, name this 1494 treaty that separated the spheres of influence of Spain and Portugal.
+
+----
+num: 16
+category: Science
+difficulty: HS
+fixed: 1
+seen: 482
+answer: temperature
+
+Deriving this value from the second law of thermodynamics yields the value d-E over d-S, where E is energy and S is entropy.  According to the Maxwell-Boltzmann distribution, the value for this property in an ideal gas equals two-thirds the average kinetic energy of the gas over k, the number of moles times the ideal gas constant.  The zeroeth law of thermodynamics involves three reservoirs with the same value for this property, and it appears along with number of moles and the gas constant on one side of the ideal gas equation.  For 10 points, name this property measured on the Rankine, Fahrenheit, and Celsius scales.
+
+----
+num: 17
+category: Mythology
+difficulty: HS
+fixed: 57
+seen: 792
+answer: {Odin} or {Woden}
+
+In one text, this man is described as an exile from Troy, leading to Thor Heyerdahl's work “The Search for” this man.  In Saxo Grammaticus's Gautrek's Saga, King Vikar draws the short straw and is sacrificed to this god for favorable winds. He can see all from his thrown of Hlidskjald, and two of his palaces are Gladsheim and Valaskjalf. Along with his brother Vili and Vi, he slaughtered Ymir and fashioned his body into the earth.  For 10 points, name this “all father,” the husband of Frigg and master of the ravens Hugin and Munin, the head of the Norse pantheon.
+
+----
+num: 18
+category: Science
+difficulty: HS
+fixed: 57
+seen: 483
+answer: {rifts} [accept {rift valleys}]
+
+When three of these combine, one of them usually forms an Aulacogen.  These features display on the earth's surface as a series of alternating uplifted areas called horsts, and sunken areas called grabens.  Three of these often form a “triple junction” which, when passed over a hotspot, can lead to sea-floor spreading.  Distinct from divergent boundaries and mid-ocean ridges, for 10 points, name these regions where the crust and lithosphere are being pulled apart, exemplified by a Great Valley of this type in Africa that contains Lake Tanganyika.
+
+----
+num: 19
+category: Geography
+difficulty: HS
+fixed: None
+seen: 715
+answer: {Canada}
+
+This country's only hot desert is the Nk'mip, located near the town of Osoyoos in the southwest.  This country disputes Hans Island with its eastern neighbor, and its political subdivisions come together in a “Four Corners” near Kasba Lake.  The Okanagan Valley in this country contains a trail used by gold-rushers to reach Fraser Canyon.  Garibaldi Mountain may be an active volcano in this country, whose northeast contains a gigantic region of bedrock known as the Laurentian Shield.  For 10 points, name this North American country often known as “America's Hat.”
+
+----
+num: 20
+category: History
+difficulty: HS
+fixed: 1
+seen: 419
+answer: Francisco Paulino Hermenegildo Teodulo {Franco} y Bahamonde
+
+A comic strip-like work about the “Dream and Lie” of this man depicts a dead horse, a hairy heart, and lots of screaming women.  This man's rise to power culminated after the assassination of Jose Calvo Sotelo, and he was preceded as ruler by Jose Primo de Rivera, the founder of his “Falange” (Fal-ON-hay) party.  He sent the Blue Division to help Hitler during World War II, and Hitler sent the Condor Legion to help this man rise to power, leading to the bombing of the village of Guernica.  For 10 points, name this fascist Spanish dictator.
+
+----
+num: 21
+category: Literature
+difficulty: HS
+fixed: 1
+seen: 442
+answer: Jane {Austen}
+
+One of this author's protagonists enjoys cricket, riding on horseback, and baseball; a word that this author used in print before any other.  That protagonist befriends Isabella Thorpe and is fascinated by the tales of Henry Tilney.  Another of this author's works largely takes place at Thomas Bertram's estate and sees the protagonist marry her cousin Edmund.  Colonel Brandon marries the protagonist of another work despite her once-passionate relationship with John Willoughby in one of her works, while another of her works features the Bennet sisters.  For 10 points, name this author of Mansfield Park, Northanger Abbey, Sense and Sensibility, and Pride and Prejudice.

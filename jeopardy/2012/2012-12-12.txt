@@ -1,0 +1,404 @@
+####
+tournament: #6498
+round: Show #6498 - Wednesday, December 12, 2012
+year: 2012
+date: 2012-12-12
+####
+
+num: 1
+category: Literature
+difficulty: 200
+seen: 4
+answer: Good Friday
+
+Hot cross buns are traditionally served on this day, 2 days before Easter.
+
+----
+num: 2
+category: History
+difficulty: 200
+seen: 5
+answer: Annapolis
+
+Home to the U.S. Naval Academy, it served as the U.S. capital from November 26, 1783 to August 19, 1784.
+
+----
+num: 3
+category: Literature
+difficulty: 200
+seen: 4
+answer: Katniss Everdeen
+
+This tribute from District 12 uses a bow & arrow to help her win the Hunger Games.
+
+----
+num: 4
+category: Art
+difficulty: 200
+seen: 4
+answer: calf
+
+Term for a baby whale or seal.
+
+----
+num: 5
+category: Literature
+difficulty: 400
+seen: 4
+answer: Boston
+
+This U.S. city precedes "brown" in the name of a sweet, dark steamed bread.
+
+----
+num: 6
+category: History
+difficulty: 400
+seen: 4
+answer: Princeton
+
+In 1783 Nassau Hall on this Ivy League school's campus received the first foreign minister to the U.S., a delegate from Holland.
+
+----
+num: 7
+category: Art
+difficulty: 400
+seen: 4
+answer: a cask
+
+A large barrel for wine.
+
+----
+num: 8
+category: History
+difficulty: 400
+seen: 4
+answer: the Army Corps of Engineers
+
+The fortification suggests.
+
+----
+num: 9
+category: Literature
+difficulty: 600
+seen: 4
+answer: challah
+
+It's the Hebrew-derived name for a loaf of bread baked for the Sabbath.
+
+----
+num: 10
+category: History
+difficulty: 600
+seen: 5
+answer: Trenton
+
+Before it became capital of New Jersey, it was the U.S. capital for 2 months; Congress met at the French Arms Tavern.
+
+----
+num: 11
+category: Art
+difficulty: 600
+seen: 4
+answer: the cute one
+
+Of the 4 Beatles, John was known as "the smart one" & Paul was this one.
+
+----
+num: 12
+category: Literature
+difficulty: 600
+seen: 4
+answer: Doctor Dolittle
+
+In letters to his children during WWI, Hugh Lofting created this title physician.
+
+----
+num: 13
+category: History
+difficulty: 600
+seen: 4
+answer: the caduceus
+
+It's the ancient symbol seen.
+
+----
+num: 14
+category: Literature
+difficulty: 800
+seen: 4
+answer: gluten
+
+Kneading converts flour, water & leavening into a smooth & elastic bread dough by developing this substance.
+
+----
+num: 15
+category: History
+difficulty: 800
+seen: 4
+answer: Federal Hall
+
+Pierre L'Enfant remodeled this hall in Lower Manhattan before it was the seat of government in 1789 & 1790.
+
+----
+num: 16
+category: Art
+difficulty: 800
+seen: 4
+answer: chic
+
+A worn but elegant decorating style combining old & new is popularly referred to as shabby this.
+
+----
+num: 17
+category: Literature
+difficulty: 800
+seen: 4
+answer: Dr. Watson
+
+He falls in love with Mary Morstan in "The Sign of Four"; can you deduce who it is?.
+
+----
+num: 18
+category: Literature
+difficulty: 1000
+seen: 4
+answer: ciabatta
+
+You can see why the.
+
+----
+num: 19
+category: History
+difficulty: 1000
+seen: 4
+answer: York & Lancaster
+
+1 of 2 Pennsylvania cities other than Philadelphia in which the Second Continental Congress met.
+
+----
+num: 20
+category: Art
+difficulty: 1000
+seen: 4
+answer: a capo
+
+Clamp this small movable bar on the fretboard of a guitar & it will raise the pitch of the strings.
+
+----
+num: 21
+category: Literature
+difficulty: 1000
+seen: 4
+answer: Doctor Faustus
+
+This doctor is the title of works by both Thomas Mann & Christopher Marlowe.
+
+----
+num: 22
+category: Science
+difficulty: 400
+seen: 6
+answer: a semicolon
+
+A comma is half of this other punctuation mark.
+
+----
+num: 23
+category: History
+difficulty: 400
+seen: 4
+answer: Everest
+
+75 years after he disappeared, George Mallory's body was found at the 27,000-foot level on this mountain in 1999.
+
+----
+num: 24
+category: History
+difficulty: 400
+seen: 4
+answer: Armageddon
+
+Peace activists use this biblical word to describe a possible nuclear world war.
+
+----
+num: 25
+category: Science
+difficulty: 400
+seen: 6
+answer: a crest
+
+Wavelength is typically measured from one of these 5-letter high points on the wave to the next.
+
+----
+num: 26
+category: Geography
+difficulty: 400
+fixed: -1
+seen: 8
+answer: the Strait of Gibraltar
+
+If you go west through this strait, you're not in the Mediterranean anymore.
+
+----
+num: 27
+category: Science
+difficulty: 800
+fixed: -1
+seen: 5
+answer: D flat
+
+In musical tuning the Pythagorean comma is a gap between C sharp & this, which seem like they should be the same note.
+
+----
+num: 28
+category: History
+difficulty: 800
+fixed: -1
+seen: 4
+answer: Persia
+
+Isabella Bird's 19th c. journeys in this land, now Iran, included having to pull a gun on angry tribespeople.
+
+----
+num: 29
+category: History
+difficulty: 800
+seen: 4
+answer: legumes
+
+Alfalfa & peas, for example.
+
+----
+num: 30
+category: Science
+difficulty: 800
+seen: 6
+answer: thermodynamics
+
+In 1906 Walther Nernst announced his heat theorem, now known as the third law of this.
+
+----
+num: 31
+category: Literature
+difficulty: 800
+seen: 4
+answer: Boy George Harrison
+
+"The Crying Game" &.
+
+----
+num: 32
+category: Science
+difficulty: 1200
+seen: 5
+answer: butterfly
+
+The comma type of this insect in the Nymphalidae family has orange wings with ragged edges.
+
+----
+num: 33
+category: History
+difficulty: 1200
+seen: 4
+answer: the Bahamas
+
+In October 1492 Columbus first landed in the New World on an island that's today in this nation.
+
+----
+num: 34
+category: Science
+difficulty: 1200
+seen: 5
+answer: (Max) Planck
+
+The fundamental constant of quantum physics is named for this German who originated the quantum theory.
+
+----
+num: 35
+category: Geography
+difficulty: 1200
+seen: 8
+answer: Grosse Pointe
+
+I'm drawing a blank--just east of Detroit there's this city & its namesake "Farms", "Shores", "Woods" & "Park".
+
+----
+num: 36
+category: Science
+difficulty: 1600
+seen: 6
+answer: a conjunction
+
+An Oxford comma, also called a serial comma, is a comma used before this part of speech.
+
+----
+num: 37
+category: History
+difficulty: 1600
+seen: 5
+answer: hippopotamus
+
+Its name is from the Greek for "river horse".
+
+----
+num: 38
+category: Science
+difficulty: 1600
+seen: 5
+answer: Brownian motion
+
+It's the colorful name for the random movement of microscopic particles in a liquid.
+
+----
+num: 39
+category: Geography
+difficulty: 1600
+seen: 8
+answer: Gdansk
+
+What the Germans called Danzig, the Poles call this.
+
+----
+num: 40
+category: Science
+difficulty: 2000
+seen: 8
+answer: paisley
+
+A motif resembling a comma is central to some types of this textile pattern named for a Scottish town.
+
+----
+num: 41
+category: History
+difficulty: 2000
+seen: 5
+answer: Vancouver
+
+In 1792 this British naval officer surveyed the coast of Washington & named Mount Rainier.
+
+----
+num: 42
+category: History
+difficulty: 2000
+seen: 5
+answer: lipids
+
+Triglycerides are one type of these fatty compounds.
+
+----
+num: 43
+category: Science
+difficulty: 2000
+seen: 8
+answer: angular momentum
+
+Get up in the "A.M." & learn that an orbiting body's this is the product of mass, velocity & distance from an axis.
+
+----
+num: 44
+category: Geography
+difficulty: 2000
+seen: 13
+answer: Gascony
+
+The Pyrenees are part of the border of this historical region of southwest France.

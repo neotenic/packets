@@ -1,0 +1,366 @@
+####
+tournament: #6633
+round: Show #6633 - Wednesday, June 19, 2013
+year: 2013
+date: 2013-06-19
+####
+
+num: 1
+category: History
+difficulty: 200
+seen: 6
+answer: a Harrisburger
+
+If you're from the capital of Pennsylvania, you're called this, which sounds a bit like a food item.
+
+----
+num: 2
+category: Literature
+difficulty: 200
+seen: 5
+answer: raisin
+
+"What happens to a dream deferred? Does it dry up like a ___ in the sun?".
+
+----
+num: 3
+category: Science
+difficulty: 200
+seen: 8
+answer: cannons
+
+U.S. territorial waters were originally set at 3 miles because these could only shoot about 3 miles in the 1700s.
+
+----
+num: 4
+category: History
+difficulty: 400
+seen: 4
+answer: Haiti (or the Dominican Republic)
+
+1 of the 2 countries you might hail from if you're Hispaniolan.
+
+----
+num: 5
+category: Literature
+difficulty: 400
+seen: 4
+answer: promises
+
+"The woods are lovely, dark and deep, but I have ___ to keep".
+
+----
+num: 6
+category: Science
+difficulty: 400
+seen: 5
+answer: Louisiana
+
+The French unit known as an arpent is still used in this state, where you'll find a street called 80 Arpent Road.
+
+----
+num: 7
+category: History
+difficulty: 600
+seen: 5
+answer: Puerto Rico
+
+A Neorican is someone originally from this place who has lived in the United States.
+
+----
+num: 8
+category: Literature
+difficulty: 600
+fixed: -1
+seen: 4
+answer: Tyger, Tyger
+
+"___! ___! Burning bright in the forests of the night".
+
+----
+num: 9
+category: History
+difficulty: 800
+seen: 4
+answer: a Michigander
+
+This term for someone from the "Wolverine State" ends with the name of a male bird.
+
+----
+num: 10
+category: Literature
+difficulty: 800
+seen: 4
+answer: captain
+
+"O ___! My ___! Our fearful trip is done".
+
+----
+num: 11
+category: Science
+difficulty: 800
+seen: 5
+answer: a meter
+
+It's 3.37 inches longer than a yard.
+
+----
+num: 12
+category: Literature
+difficulty: 1000
+seen: 3
+answer: truth
+
+"I died for beauty--but was scarce adjusted in the tomb, when one who died for ___, was lain in an adjoining room".
+
+----
+num: 13
+category: Science
+difficulty: 1000
+seen: 7
+answer: troy
+
+This system used in weighing precious metals derives its name from a French city that once held a medieval fair.
+
+----
+num: 14
+category: Science
+difficulty: 400
+seen: 5
+answer: Hubble
+
+In 2008 this astronomer for whom a space telescope is named was honored on a U.S. postage stamp.
+
+----
+num: 15
+category: Art
+difficulty: 400
+seen: 4
+answer: a panorama
+
+A wide view of a large area of land or water.
+
+----
+num: 16
+category: Art
+difficulty: 400
+seen: 4
+answer: Monet
+
+"Nympheas", one of his paintings of water lilies, sold for nearly $44 million at a 2012 auction.
+
+----
+num: 17
+category: Literature
+difficulty: 400
+seen: 4
+answer: Sissy Spacek
+
+As a young actress in NYC, this future "Carrie" star lived with cousin Rip Torn.
+
+----
+num: 18
+category: Literature
+difficulty: 400
+seen: 3
+answer: Ahab
+
+This literary character's artificial leg is carved from the jawbone of a whale.
+
+----
+num: 19
+category: History
+difficulty: 400
+seen: 3
+answer: maps
+
+Cartographic intelligence, primarily derived from these, is crucial for military operations.
+
+----
+num: 20
+category: Science
+difficulty: 800
+seen: 6
+answer: Mars
+
+Giovanni Schiaparelli named several features on this planet &, in 1877, discovered "canali", or channels.
+
+----
+num: 21
+category: Art
+difficulty: 800
+seen: 4
+answer: a panini
+
+Flat Italian bread cut & filled with cheese & meat.
+
+----
+num: 22
+category: Literature
+difficulty: 800
+seen: 3
+answer: Nicolas Cage
+
+Jason Schwartzman & Sofia Coppola can always say, "hey, cousin" to this "Ghost Rider".
+
+----
+num: 23
+category: Literature
+difficulty: 800
+seen: 4
+answer: a heart
+
+The Jarvik-7 was an artificial one of these first used in 1982.
+
+----
+num: 24
+category: History
+difficulty: 800
+seen: 4
+answer: cover
+
+It's the guise under which a spy operates; the couple on FX' "The Americans" uses the "deep" type.
+
+----
+num: 25
+category: Science
+difficulty: 1200
+seen: 5
+answer: Kepler
+
+The first 2 of this German astronomer's laws of planetary motion appeared in his 1609 work "Astronomia Nova".
+
+----
+num: 26
+category: Art
+difficulty: 1200
+seen: 4
+answer: pantheon
+
+All the divinities worshiped by a particular people.
+
+----
+num: 27
+category: Art
+difficulty: 1200
+seen: 4
+answer: (Frederic) Remington
+
+In 1901 his sculpture "Bronco Buster" was exhibited at the Pan-American Exposition in Buffalo.
+
+----
+num: 28
+category: Literature
+difficulty: 1200
+seen: 4
+answer: Beverly Hills
+
+Paris Hilton's mom, Kathy, is the sister of Kim & Kyle Richards, 2 of the "Real Housewives of" this city.
+
+----
+num: 29
+category: Literature
+difficulty: 1200
+seen: 4
+answer: neoprene
+
+First produced in 1930, this long-lasting artificial rubber has a name that begins with the Greek for "new".
+
+----
+num: 30
+category: History
+difficulty: 1200
+seen: 5
+answer: sandstorms
+
+Better geographic intelligence could have aided the failed 1980 Iran hostage rescue, as helicopters were disabled by these.
+
+----
+num: 31
+category: Art
+difficulty: 1600
+seen: 4
+answer: to pander
+
+To produce work indulging the vulgar taste of an audience.
+
+----
+num: 32
+category: Art
+difficulty: 1600
+seen: 4
+answer: Bartholdi
+
+He was the sculptor of the Lion of Belfort & a little piece called the Statue of Liberty.
+
+----
+num: 33
+category: Literature
+difficulty: 1600
+seen: 4
+answer: Ira Glass
+
+Philip Glass has composed music for "This American Life", hosted by this cousin.
+
+----
+num: 34
+category: Literature
+difficulty: 1600
+seen: 4
+answer: artificial insemination
+
+Breeding dogs in the 1780s, Lazzaro Spallanzani was the first successful user of this technique.
+
+----
+num: 35
+category: History
+difficulty: 1600
+seen: 5
+answer: an analyst
+
+One who breaks down & examines an issue; the CIA has job openings for "economic", "military" & "threat" ones.
+
+----
+num: 36
+category: Science
+difficulty: 2000
+seen: 9
+answer: (William) Herschel
+
+His sister Caroline found 8 comets on her own & helped him discover Uranus.
+
+----
+num: 37
+category: Art
+difficulty: 2000
+seen: 5
+answer: a panatela
+
+From the Spanish for "long, thin biscuit", it's a long, thin cigar.
+
+----
+num: 38
+category: Literature
+difficulty: 2000
+seen: 5
+answer: Eric Northman
+
+"Thor" co-star Stellan Skarsgard's son Alexander really sucks as this "True Blood" vampire.
+
+----
+num: 39
+category: Literature
+difficulty: 2000
+seen: 6
+answer: (Grigory) Potemkin
+
+The villages made clean & happy to fool Catherine the Great as she toured Russia were named for him, her adviser.
+
+----
+num: 40
+category: History
+difficulty: 2000
+seen: 6
+answer: the Mossad
+
+In 1960 agents of this Israeli spy service abducted Nazi Adolf Eichmann in Argentina.

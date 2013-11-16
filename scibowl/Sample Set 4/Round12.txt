@@ -1,0 +1,537 @@
+####
+tournament: Sample Set 4
+round: Round12.pdf
+####
+
+num: 1
+category: Biology
+difficulty: HS
+seen: 40
+answer: Golgi Apparatus (Accept: Golgi Complex)
+
+In the cell, this structure is composed of numerous sets of smooth cisternae, forming a structure that looks like a stack of plates. Within the structure, vesicles are used to send molecul es to the cellular membrane. What structure is this?
+
+----
+num: 1
+category: Biology
+difficulty: HS
+seen: 38
+answer: Leucoplasts
+
+
+Kent holds up a potato at dinner and announces to his family that the spud is actually made up of cells with lots of l arge organelles that contain the carbohydrates stored by the plant. What are these organelles called?
+
+----
+num: 2
+category: Math
+difficulty: HS
+seen: 26
+answer: Between 5 and 65
+
+The lengths of two sides of a triangle are 30 centimeters and 35lie?centimeters, respectively. Bet ween what values, in centimeters, must the length of the third side
+
+----
+num: 2
+category: Math
+difficulty: HS
+seen: 25
+answer: 
+
+Factor the following expression completely over the integers:
+
+----
+num: 2
+category: General Science
+difficulty: MS
+seen: 5
+answer: Chordata
+
+Which phylum of animals possesses a dorsal nerve cord?
+
+----
+num: 2
+category: General Science
+difficulty: MS
+seen: 5
+answer: Chloroplast and Mitochondria (Accept: 1, 4)
+
+Name by words or numbers all of the following four organelles found in plant cells that may have arisen as a result of a symbiotic relationship with prokaryotes (read as: prōe-KAHR-ee- ōets): 1) chloroplast, 2) endoplasmic reticulum (read as: ri-TI-kyuh-luhm), 3) ribosome (read as: RY-boh-sōem), or 4) mitochondria (read as: my-toh-
+KOHN -dree-ah)?
+
+----
+num: 3
+category: Earth and Space
+difficulty: HS
+seen: 51
+answer: Photosynthesis (Read As: Fōe-Tōe-Sin-Teh-Sis)
+
+What metabolic process occurs frequently in the top 100 meters of the world’s oceans and is nearly absent at greater depths?
+
+----
+num: 3
+category: Earth and Space
+difficulty: HS
+seen: 46
+answer: Surface Area to Volume Ratio
+
+
+Phytoplankton, like other single celled organisms, are limited in how large they can grow. What geometric relationship describes this limitation?
+
+----
+num: 3
+category: Life Science
+difficulty: MS
+seen: 10
+answer: Stem
+
+
+Kohlrabi, asparagus, cauliflower, and broccoli are all edible examples of which part of the plant?
+
+----
+num: 4
+category: Math
+difficulty: HS
+seen: 24
+answer: 1, X, X^2/2 (Accept: 1, X/1!, X^2/2!)
+
+What are the first three terms of the Taylor series for e^x^ at 0?
+
+----
+num: 4
+category: Earth and Space Science
+difficulty: MS
+seen: 5
+answer: Carbonic Acid
+
+What acid is formed when carbon dioxide is dissolved into water?
+
+----
+num: 5
+category: Chemistry
+difficulty: HS
+seen: 34
+answer: 1) Alloy
+
+
+By name or number, which of the following four types of mixtures are generally considered homogeneous?
+1) alloy, 2) suspension, 3) emulsion, 4) colloid
+
+----
+num: 5
+category: General Science
+difficulty: MS
+seen: 6
+answer: Antarctic Ice Sheet
+
+What is the only ice sheet that does not affect sea level change?
+
+----
+num: 6
+category: Physics
+difficulty: HS
+fixed: -1
+seen: 28
+answer: Iron, Co Balt and Nickel
+
+What are the three metals that generally comprise ferromagnetic materials?
+
+----
+num: 6
+category: Physics
+difficulty: HS
+seen: 26
+answer: 500
+
+How many turns of wire should a solenoid have if you wish the magnetic field inside the solenoid to be 5 times as great as that of a solenoid with 100 turns of wire, if both have the same length and current?
+
+----
+num: 7
+category: Earth and Space
+difficulty: HS
+fixed: -1
+seen: 48
+answer: It Is Becoming Larger (Accept: Becoming Wider)
+
+
+What is the effect of plate tectonics on the width of the 
+Atlantic Ocean?
+
+----
+num: 8
+category: Biology
+difficulty: HS
+seen: 39
+answer: Chordata
+
+Birds and bats belong to which taxonomic phylum?
+
+----
+num: 8
+category: Biology
+difficulty: HS
+seen: 40
+answer: Intra-Specific Hybrids
+
+What term describes the specific type of hybridization that occurs between two subspecies of the same species, such as the Ben gal Tiger and the Siberian Tiger?
+
+----
+num: 8
+category: Physical Science
+difficulty: MS
+seen: 7
+answer: Surface Tension (Acce Pt: Hydrogen Bonding)
+
+A water strider is able to “walk on water” due to which property of water?
+
+----
+num: 8
+category: Physical Science
+difficulty: MS
+seen: 5
+answer: Cobalt
+
+Powerful magnets are usually alloys of platinum or neodymium and what other metal?
+
+----
+num: 9
+category: Chemistry
+difficulty: HS
+fixed: -1
+seen: 35
+answer: Ca^(s) + ½ O^2(g) ! Cao^(s) + 635.5 Kj (Read As: Ca Solid Plus One Half O^2 Gas Yields 
+Cao Solid Plus 635.5 Kilojoules)  Also Accept: 2ca
+^(S) + O
+^(2)(g) ! 2cao
+^(S) + 1271 Kj
+(Note: Students Must Indicate Solid and Gas)
+
+The standard heat of formation of calcium oxide is –635.5 kilojoules per mole. What is the complete, balanced equation for the formation of calcium oxide, including the energy value?
+
+----
+num: 9
+category: Chemistry
+difficulty: HS
+fixed: -1
+seen: 34
+answer: K ^Eq = 0.75
+
+
+The following reaction between hydrogen and oxygen takes place in a closed container and at a temperature that maintains the water vapor in the gas phase: 2 H^2O^(g) (read as: in equilibrium with) 2 H ^2(g) + O^2(g). In one experiment, the equilibrium concentrations of the gases are as follows: [H ^2] = 2.0M, [O^2] = 3.0M and [H^2O] = 4.0M. Calculate the value of K^eq for this reaction.
+
+----
+num: 9
+category: Earth and Space Science
+difficulty: MS
+seen: 5
+answer: Water Vapor
+
+What greenhouse gas has the greatest impact on Earth’s climate?
+
+----
+num: 10
+category: Math
+difficulty: MS
+seen: 6
+answer: 3
+
+Right triangle DEF has a hypotenuse with a length of the square root of 90. One leg’s length is 9. What is the length of the other leg?
+
+----
+num: 11
+category: Physics
+difficulty: HS
+seen: 26
+answer: 0
+
+What is the acceleration of a falling body in meters per second squared after it reaches terminal velocity?
+
+----
+num: 11
+category: Physical Science
+difficulty: MS
+seen: 6
+answer: Amplitude
+
+What is the most common term for the height of the peak of a wave above its average value?
+
+----
+num: 11
+category: Physical Science
+difficulty: MS
+seen: 5
+answer: 300
+
+
+The station KDOE is broadcasting at 1000 kiloHertz. 
+What is its broadcasting wavelength in meters?
+
+----
+num: 12
+category: Earth and Space
+difficulty: HS
+seen: 46
+answer: Humus
+
+As recognizable organic matter on top of the ground begins to decompose, what type of soil does it become?
+
+----
+num: 12
+category: Life Science
+difficulty: MS
+seen: 10
+answer: Wetland
+
+What is the general term for an area of land where the water table is near or above the surface of the ground for most of the year?
+
+----
+num: 12
+category: Life Science
+difficulty: MS
+seen: 11
+answer: Bog
+
+What kind of wetland is characterized by spongy peat deposits, acidic waters, and a floor covered by a thick carpet of sphagnum (read as: SFAHG-nuhm) moss?
+
+----
+num: 13
+category: Math
+difficulty: HS
+seen: 25
+answer: 1 (Accept: 1 + 0i)
+
+Express the complex number i^8 in standard a + bi form equivalent.
+
+----
+num: 13
+category: Math
+difficulty: HS
+seen: 24
+answer: 12 + 81i
+
+
+What is the complex conjugate of the product of 3 + 6i and -10 – 7i?
+
+----
+num: 13
+category: Math
+difficulty: MS
+seen: 7
+answer: 24
+
+A certain tree is 6 feet at the very beginning of spring, and grows 2 inches per day during the spring and summer. How many days will it take for the tree’s height to reach 10 feet?
+
+----
+num: 13
+category: Math
+difficulty: MS
+fixed: -1
+seen: 7
+answer: (Accept: 6h = 36 + N)
+
+
+Give an algebraic equation to express the following situation: A certain tree is 6 feet tall at the very beginning of spring, and grows 2 inches per day during the spring and summer. Use n to represent the number of days, and h for the tree’s total height in feet.
+
+----
+num: 15
+category: Chemistry
+difficulty: HS
+seen: 33
+answer: Amphoterism
+
+What do we call the ability of a single molecule to act both as a base and an acid?
+
+----
+num: 15
+category: Physical Science
+difficulty: MS
+fixed: -1
+seen: 6
+answer: They Move Faster (Accept: Molecules Move Further Apart, 
+Distance Between Molecules Increases – if the Students Says That Air Is Allowed to 
+Leak Out)
+
+If the air in a room is in a gaseous state of matter, what happens to the molecules that make up t he gas when the temperature in the room increases?
+
+----
+num: 16
+category: Physics
+difficulty: HS
+seen: 25
+answer: Skin Effect
+
+In an alternating electric current, what is the term most commonly used to describe the tendency of charged particles to travel along the surface of their conductor?
+
+----
+num: 16
+category: Physics
+difficulty: HS
+seen: 26
+answer: Voltage (Accept: Electric Potential, Potential, Potential 
+Difference, Electric Pote Ntial Difference)
+
+A transformer is often used in electric circuits to alter what quantity?
+
+----
+num: 16
+category: Math
+difficulty: MS
+seen: 7
+answer: 8
+
+^a^ ^^ ^2 ^ ^2	
+Solve	for	a:^9 =^3(read as: the quantity a minus two over 9 equals two thirds)
+
+----
+num: 16
+category: Math
+difficulty: MS
+seen: 6
+answer: 6
+
+You are going to meet a friend at a movie theater which is 4 miles from your house. You are riding your bike at an average rate of 10 miles per hour. Your friend lives 1.5 miles from the movie theater and walks at an average rate of 3 miles per hour. How many minutes ahead of you should your friend leave so that you meet at the movie theater atthe same time?
+
+----
+num: 17
+category: Chemistry
+difficulty: HS
+seen: 36
+answer: Ba^3(po^4)^2 and H^2o
+
+A solution of barium hydroxide is neutralized with a phosphoric acid solution. Identify the molecular forms of the two products that are produced in this reaction.
+
+----
+num: 17
+category: Life Science
+difficulty: MS
+seen: 10
+answer: Outer Ear and Epiglottis (Accept: 1 and 2)
+ 
+
+By name or number, identify all the places on your body where would you find elastic cartilage: 1) outer ear, 2) epiglottis, 3) nose, or 4) the disks between your vertebrae?
+
+----
+num: 18
+category: Math
+difficulty: HS
+fixed: -1
+seen: 25
+answer: -1
+
+What is the slope of a vector in standard position with a n angle of 45° below the positive x axis?
+
+----
+num: 19
+category: Energy
+difficulty: HS
+fixed: -1
+seen: 34
+answer: 2^nd (Accept: Law of Entropy)
+
+Which law of thermodynamics could be stated as: energy tends to distribute itself among the greatest number of particles possible?
+
+----
+num: 19
+category: Energy
+difficulty: HS
+seen: 35
+answer: Water
+
+
+When the same amount of energy is applied to 1 -gram portions of water, ethanol, copper and iron, for which one does the temperature increase the least?
+
+----
+num: 19
+category: Earth and Space Science
+difficulty: MS
+seen: 6
+answer: It Is Shorter Than an Earth Day
+ 
+
+Consider the following facts: Neptune is greater than 17 times more massive than Earth and orbits the Sun at less tha n 20% of the speed that Earth travels in its orbit. Also, Neptune is spinning almost 6 times faster than Earth. 
+How does Neptune’s day length compare to Earth’s?
+
+----
+num: 20
+category: Earth and Space
+difficulty: HS
+fixed: -1
+seen: 47
+answer: Eutrophication (Read As: Yuh-Trōe-Fi-Kay-Shohn)
+
+What is the term that describes the increase in primary production of an aquatic ecosystem following enrichment with chemical nutrients?
+
+----
+num: 20
+category: Math
+difficulty: MS
+seen: 5
+answer: 288
+
+Sara’s mom is recovering the dining room chair seats. The measurement of a seat is 12 inches by 14 inches. What would the area of the fabric be, in square inches, if an extra border of two inches is needed around the square in order to cover the seat?
+
+----
+num: 21
+category: Physics
+difficulty: HS
+fixed: -1
+seen: 27
+answer: Radiation Pressure (Accept: Light Pressure)
+
+What term describes momentum transfer from a photon to a physical object ?
+
+----
+num: 21
+category: Life Science
+difficulty: MS
+seen: 10
+answer: Karyotype
+
+Name the process in which eukaryotic (read as: yuh-KEHR-ee -ōetik) chromosomes are visually inspected, counted and abnormalities are recorded.
+
+----
+num: 21
+category: Life Science
+difficulty: MS
+seen: 10
+answer: Trisomy (Accept: Three Copies) of the 21st Autosomal 
+Chromosome (Accept: Fragile  X, Missing Part of the X Chromosome)
+
+
+How is the condition Down syndrome genetically identified?
+
+----
+num: 22
+category: Energy
+difficulty: HS
+seen: 34
+answer: Sea Level
+
+Identical wind turbines are put in four locations: sea level, 5,000 feet, 10,000 feet, and 14,000 feet. Assuming the same wind speed, which turbine will produce the most energy?
+
+----
+num: 23
+category: Math
+difficulty: HS
+seen: 26
+answer: 780
+
+
+Find the sum of every odd integer between 5 and 55 , inclusive.
+
+----
+num: 23
+category: Earth and Space Science
+difficulty: MS
+seen: 6
+answer: Kelvin (Accept: K)
+
+What is the SI unit for temperature?
+
+----
+num: 25
+category: Earth and Space Science
+difficulty: MS
+seen: 5
+answer: Quartz
+
+Which of the following five minerals is the most abundant in Earth’s continental crust: quartz, mica, talc, calcite, or iron?

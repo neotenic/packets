@@ -1,0 +1,251 @@
+####
+tournament: Regional B
+round: round9.pdf
+year: 2002
+####
+
+num: 1
+category: Chemistry
+difficulty: HS
+fixed: -1
+seen: 35
+answer: Boron;  Silicon;  Germanium;  Arsenic;  Antimony;  Tellurium; 
+Astatine
+
+In any order, give the full names of any 4 metalloids:
+
+----
+num: 2
+category: Physics
+difficulty: HS
+seen: 25
+answer: Instantaneous Velocity
+
+What is the most common term used to describe the velocity equal to the average velocity in the limit that the measurement time period approaches zero?
+
+----
+num: 2
+category: Physics
+difficulty: HS
+seen: 27
+answer: 3 Seconds
+(Solution:  T = √2∆x/a = √9 = 3)
+
+How long will it take a squirrel to run straight down a tree trunk 18 meters long if it accelerates from a stop at 4 meters/sec ^2?
+
+----
+num: 3
+category: Biology
+difficulty: HS
+seen: 38
+answer: Pineal Gland
+
+What gland in humans is the primary producer of melatonin?
+
+----
+num: 4
+category: Astronomy
+difficulty: HS
+seen: 53
+answer: Winter
+
+According to Kepler's second Law of planetary motion, in which season in North America does the Earth currently move the fastest in its orbit about the Sun?
+
+----
+num: 4
+category: Astronomy
+difficulty: HS
+seen: 54
+answer: Arcturus  (Accept:  Alpha Boôtes)
+
+What is the brightest star in the Northern sky?
+
+----
+num: 5
+category: Math
+difficulty: HS
+seen: 23
+answer: The Fundamenta L Theorem of Algebra
+
+What is the most common name for the theorem proved by Gauss which states that “every polynomial of degree n ≥ 1 with real or complex coefficients has n real or complex roots”?
+
+----
+num: 5
+category: Math
+difficulty: HS
+seen: 26
+answer: 1
+3 6
+
+Simplify the following fractional radi cand to an expression that has thelowest whole number radicand: 32
+
+----
+num: 6
+category: Earth Science
+difficulty: HS
+seen: 64
+answer: P-Waves  (Accept:  Primary Wave or Compression/expansion 
+Waves)
+
+Which body wave can travel at th e greatest velocity of all the seismic waves?
+
+----
+num: 7
+category: General Science
+difficulty: HS
+seen: 30
+answer: Leaf Area Index  (Accept:  Lai)
+
+The ratio of total leaf su rface area to the total ground surface area covered by the l eaves is know as what?
+
+----
+num: 8
+category: Computer Science
+difficulty: HS
+fixed: -1
+seen: 65
+answer: Asynchronous Transfer M Ode  (Do Not Accept:  Automated 
+Teller Machine)
+
+A network technology based on transferring data in cells or packets, what does the acronym ATM stand for?
+
+----
+num: 9
+category: Chemistry
+difficulty: HS
+fixed: -1
+seen: 34
+answer: 4s, 4p, 4d, 4f  (Accept:  S, P, D, F)
+
+In order of increasing energy , number and designate all the subshells in the 4 ^th electron shell:
+
+----
+num: 10
+category: Physics
+difficulty: HS
+seen: 25
+answer: Velocity,  Acceleration,  Magnetic Field
+(Solution:  Speed Has No Directional Component)
+
+Which 3 of the following 4 are vector quantities: velocity, acceleration, speed, magnetic field
+
+----
+num: 12
+category: Astronomy
+difficulty: HS
+seen: 56
+answer: Uranus
+
+Which planet is 14.5 times the Earth’s mass, has a rotational rate of 17.2 hours, and a year length of 84 Earth years?
+
+----
+num: 12
+category: Astronomy
+difficulty: HS
+seen: 55
+answer: Chondrites
+
+What are generally considered the most common and most primitive type of meteorites?
+
+----
+num: 13
+category: Math
+difficulty: HS
+fixed: -1
+seen: 25
+answer: 1/30  (Accept:  0.033)
+
+Simplify the ratio of the following factorial: 4!6! (read as: 4 factorialdivided by 6 factorial)
+
+----
+num: 13
+category: Math
+difficulty: HS
+seen: 24
+answer: 40
+
+A recipe calls for flour, sugar and butter to be mixed in a ratio of 7 to 5 to 2, respectively. Assuming there is enough sugar and butter to use all the flour and 20 pounds of flour is available, how many pounds of the mixture can be made?
+
+----
+num: 16
+category: Computer Science
+difficulty: HS
+seen: 67
+answer: 8
+
+If a computer has a 64-bit bus, how many bytes of information can travel across it at the same time?
+
+----
+num: 17
+category: Chemistry
+difficulty: HS
+seen: 34
+answer: Period 4 and Group 2  (A Ccept:  Period 4 and Group 2a)
+
+An element with an electron c onfiguration of 2-8-8-2 is found in what Period and main Group number on the Periodic Chart?
+
+----
+num: 18
+category: Physics
+difficulty: HS
+seen: 25
+answer: Hydrogen
+
+In 1885, Johann Balmer derived the formula for the 4 spectral line of what element?
+
+----
+num: 18
+category: Physics
+difficulty: HS
+seen: 26
+answer: H
+
+Which lower case letter is most typically used to denote Planck’s constant?
+
+----
+num: 19
+category: Biology
+difficulty: HS
+seen: 39
+answer: The Frank-Starling Law
+
+When successive beats of the heart result in an increased end-diastolic volume leading to optimal sarcomere le ngth for strength of contraction, it is most commonly referred to by the name of what law:
+
+----
+num: 20
+category: Astronomy
+difficulty: HS
+fixed: -1
+seen: 56
+answer: Stefan-Boltzmann Law  (Accept:  Stefan's Law)
+
+What law states that the total amount of energy radiated per unit time from the surface of a body is related to the fourth power of its temperature?
+
+----
+num: 21
+category: Math
+difficulty: HS
+seen: 27
+answer: Standard Error of the Me an  (Accept:  Standard Error)
+
+A statistician who computes the sta ndard deviation of a set of sample means is computing what statistical quantity?
+
+----
+num: 21
+category: Math
+difficulty: HS
+seen: 26
+answer: –65 and –67  (Must Be in Order)
+(Solution:  5(n+2) – 6n = –55;  5n +10 – 6n = -55;  -N  = -65;  N = 65;  but the Ans. Must Be Negative)
+
+Name 2 consecutive ODD integers where 5 times the second number minus 6 times the first number equals –55:
+
+----
+num: 24
+category: Physics
+difficulty: HS
+seen: 26
+answer: 45 Km
+(Solution: (9 Km/h) (5 H) = 45 Km)
+
+How far, in kilometers, will the runner travel in five hours on a straight path if her average speed is 9 kilometers per hour?

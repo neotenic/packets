@@ -1,0 +1,214 @@
+####
+tournament: Collaborative MS Tournament
+round: CMST_Round03.pdf
+year: 2010
+####
+
+num: 1
+category: History
+difficulty: MS
+fixed: 1
+seen: 3014
+answer: Republic of the {Philippines}
+
+This modern-day country gained its independence with the Tydings-McDuffie Act. In World War II, the Battle of Bataan was fought over this land, and an American loss at that battle prompted Douglas MacArthur to say, “I Shall Return.” It was once ruled by Ferdinand Marcos, whose wife Imelda was known for her collection of shoes. For 10 points, name this country in which the Battle of Manila Bay took place.
+
+----
+num: 2
+category: Literature
+difficulty: MS
+fixed: 1
+seen: 2877
+answer: {Gone} With the {Wind}
+
+In this novel, Bonnie Blue dies while trying to jump a fence with her horse. Its protagonist stays in love with the owner of the Twelve Oaks plantation, Ashley Wilkes, even while she is married to the Confederate blockade runner Rhett Butler. It largely takes place on the plantation Tara. For 10 points, name this Margaret Mitchell novel about the Southern beauty Scarlett O'Hara.
+
+----
+num: 3
+category: Fine Arts
+difficulty: MS
+fixed: 1
+seen: 2823
+answer: percussion
+
+Instruments in this family represent the fossils in Camille Saint-Saens' Carnival of the Animals, while they were also used rhythmically in his Danse Macabre (“DONSE muh-COB-ruh”). A roll on an instrument from this family, followed by a chorus, opens Karl Orff's O Fortuna. For 10 points, name this family of instruments often played with mallets that includes the triangle and every type of drum and keyboard instrument.
+
+----
+num: 4
+category: Science
+difficulty: MS
+fixed: 1
+seen: 3796
+answer: {Mohs} scale
+
+Alternatives to it include the Knoop test, the Vickers test, and measurement with a sclerometer (“sclair- AH-meh-tuhr”). Although decimal values are allowed, it is more common to say that an object's value is between that of two reference materials based on the scratch test. Corundum has a value of nine and talc has a value of one on, for 10 points, what scale that measures a mineral's hardness?
+
+----
+num: 5
+category: Mythology
+difficulty: MS
+fixed: 1
+seen: 4259
+answer: {Artemis}
+
+Otus and Ephialtes (“eff-ee-ALL-tees”) tried to capture this goddess, but ended up slaying each other after she transformed into a deer. She slew the daughters of Niobe (“ny-OH-bee”) in response to a slight against her mother. Actaeon (“ack-TAY-on”) caught a glimpse of this deity bathing, for which he was turned into a stag and mauled by his own dogs. For 10 points, name this twin of Apollo, the Greek goddess of the hunt.
+
+----
+num: 6
+category: Fine Arts
+difficulty: MS
+fixed: 1
+seen: 2817
+answer: The {Gateway Arch} [prompt on {St. Louis Arch} or equivalents before “St. Louis”]
+
+This structure experiences only compression, with no shear, and is therefore an inverted catenary curve. It is made from a series of tapering equilateral triangles, and visitors can ride a sloping tram system to its top. This largest building in the Jefferson National Expansion Memorial was designed by Eero Saarinen (“AIR-oh SAHR-in-en”). For 10 points, name this large curved structure located in St. Louis, Missouri.
+
+----
+num: 7
+category: Science
+difficulty: MS
+fixed: -1
+seen: 3779
+answer: {e} [accept {Euler's} (“ oiler's ”) {number} or {Euler's constant}]
+
+Bernoulli is credited with the discovery of this constant when he attempted to find the value of the limit as n approaches infinity of the quantity one plus one over n to the nth power. This constant is used when finding interest compounded continuously and when modeling exponential growth, and it is the base of the natural logarithm. For 10 points, name this constant, approximately equal to 2.71828.
+
+----
+num: 8
+category: Literature
+difficulty: MS
+fixed: 1
+seen: 2878
+answer: {Spanish} [or {Español}]
+
+One writer in this language wrote the collection “Twenty Love Poems and a Song of Despair.” Another user of this language published the short story collections The Aleph and Ficciones. Love in the Time of Cholera and One Hundred Years of Solitude were also written in this language. For 10 points, name this language used by Latin American writers such as Pablo Neruda, Jorge Luis Borges, and Gabriel García Márquez.
+
+----
+num: 9
+category: History
+difficulty: MS
+fixed: -1
+seen: 3042
+answer: Boston Massacre [accept reasonable equivalents]
+
+It reportedly began with the false accusations of a wigmaker's apprentice, which supposedly led a crowd to throw snowballs. The first person to die in this incident was Crispus Attucks, and in total five people died out of the three hundred estimated to be in the crowd surrounding Captain Thomas Preston's British troops. For 10 points, identify this 1770 incident named for the New England city where it occurred.
+
+----
+num: 10
+category: Science
+difficulty: MS
+fixed: 1
+seen: 3778
+answer: {DNA} [or {deoxyribonucleic} (“ dee-OX-ee-RYE-bo-nu-CLAY-ic ”) acid]
+
+This macromolecule (“MACK-row-MOLL-eh-kyool”) can be artificially copied using the polymerase (“puh-LIM-er-ase”) chain reaction. Okazaki fragments can form on its lagging strand during its replication. Chargaff proposed rules governing the pairing of this macromolecule's bases, adenine, thymine, guanine, and cytosine. Watson and Crick discovered its double helix shape. For 10 points, name this nucleic acid, the human genetic material.
+
+----
+num: 11
+category: Literature
+difficulty: MS
+fixed: 57
+seen: 2865
+answer: Frankenstein
+
+At the beginning of this novel, the explorer Robert Walton watches a huge figure ride a sledge pulled by dogs across the Arctic Circle. The protagonist's brother William, friend Henry Clerval and wife Elizabeth Lavenza are all strangled to death by a creature that protagonist vows to destroy. For 10 points, name this Mary Shelley novel about the mad scientist Victor and the monster he creates.
+
+----
+num: 12
+category: History
+difficulty: MS
+fixed: 1
+seen: 3040
+answer: War in {Afghanistan} [accept {War against} the {Taliban} before mentioned; accept other obvious
+
+This conflict saw a battle for Kunduz (“CUN-dooz”), which saw cooperation between U.S. and German forces. The British “Operation Herrick” and American “Operation Enduring Freedom” led to a quick ousting of the Taliban regime, but Stanley McChrystal recently stated an increase of 500,000 troops would be needed to continue this war. For 10 points, name this current war fought in a country bordering Pakistan.
+
+----
+num: 13
+category: Geography
+difficulty: MS
+fixed: 1
+seen: 4451
+answer: {Andes} Mountains
+
+This mountain range includes the Vilcabamba (“VEEL-cuh-BOM-buh”) sub-range and contains a plateau called the altiplano (“ALL-tee-PLAN-oh”). It is home to the tallest volcano on Earth, Ojos (“OH- hoess”) del Salado, and the highest peak in the Western Hemisphere, Aconcagua (“AH-con-CAH-gwa”).  Llamas were domesticated in, for 10 points, what longest mountain range on Earth, located in western South America?
+
+----
+num: 14
+category: Trash
+difficulty: MS
+fixed: 1
+seen: 5461
+answer: Tobey {Maguire}
+
+In the movie Cats & Dogs, he provided the voice for Lou the Beagle. In another movie, he and his sister, played by Reese Witherspoon, are transported to the 1950s sitcom Pleasantville. He played a Depression-era jockey who somehow finds success on an undersized horse in Seabiscuit. For 10 points, name this actor who starred as Peter Parker in the first trilogy of Spider-Man movies.
+
+----
+num: 15
+category: History
+difficulty: MS
+fixed: 1
+seen: 3011
+answer: {federalism} [accept word forms such as {federalist}]
+
+The philosophy of nullification was developed to oppose this form of government. The Ninth and Tenth Amendments specifically create this type of government, which is defined as a power-sharing arrangement between national and state governments. For 10 points, name this type of government after which a political party including John Adams was named.
+
+----
+num: 16
+category: Science
+difficulty: MS
+fixed: 1
+seen: 3795
+answer: {gravity} [or {gravitational} force]
+
+When air resistance exactly counteracts this force, an object has reached terminal velocity. The escape velocity is the minimum speed needed to overcome the effects of this force. On Earth, this force acts to accelerate a body at nine point eight meters per second squared. For 10 points, name this force responsible for keeping objects on the ground.
+
+----
+num: 17
+category: Religion
+difficulty: MS
+fixed: -1
+seen: 2770
+answer: {Mohammad}
+
+This man was born in the Year of the Elephant and won the battle of Badr (“BAH-dur”). He also signed the Treaty of Hudaybiya (“WHO-day-BEE-yah”) with the Qurayshi (“koo-RAY-shee”). The sayings of this husband of Khadija (“kah-DEE-zhah”) are collected in the Hadith (“hah-DEETH”). In a cave on Mount Hira, he was ordered by the angel Gabriel to read a scroll. This father of Ali destroyed the idols around the Ka'aba (“KAA-bah”) after conquering Mecca in 630. For 10 points, name this greatest prophet of Islam.
+
+----
+num: 18
+category: Literature
+difficulty: MS
+fixed: 57
+seen: 2846
+answer: Brothers {Grimm} [or {Jakob} and {Wilhelm Grimm}]
+
+In one story by these authors, a tailor kills seven flies hovering over his jam and boasts that he killed “seven in one blow.” In another story, a dog, cat, donkey, and rooster drive away robbers. They wrote about a woman who bribes the title figure to weave straw into gold. For 10 points, name the German brothers who wrote “The Brave Little Tailor,” “The Bremen Town Musicians,” “Rumpelstiltskin,” and other fairy tales.
+
+----
+num: 19
+category: Science
+difficulty: MS
+fixed: 1
+seen: 3784
+answer: Edgeworth-{Kuiper} belt [or Edgeworth-Kuiper Disc]
+
+The density of objects drops to almost zero at this region's namesake cliff. Most of the objects found here are called cubewanos (“KYOO-bee-WAHN-ohs”). The Oort cloud ends at the beginning of this region's elliptic. For 10 points, identify this area at the edge of the solar system that houses thousands of short period comets, Eris, and Pluto.
+
+----
+num: 20
+category: History
+difficulty: MS
+fixed: 1
+seen: 3022
+answer: {Henry VIII} [prompt on Henry or {Henry Tudor}]
+
+The carrack Mary Rose sank during the reign of this ruler, who ordered Thomas Cromwell to dissolve the monasteries. Thomas Cranmer was Archbishop of Canterbury under this ruler, who became the supreme head of the Protestant Church of England. After his marriage to a Spanish princess ended, he married Anne Boleyn, but had Anne beheaded in 1536. For 10 points, name this Tudor king with an eventual total of six wives.
+
+----
+num: 21
+category: History
+difficulty: MS
+fixed: 1
+seen: 3017
+answer: Republic of {Cuba} [or Republica de {Cuba}]
+
+This country was ruled by Fulgencio (“fool-HEN-see-oh”) Batista, who was deposed in 1959. It was the site of the Rough Riders' victory at San Juan Hill. The only U.S. territory on this island is a naval base at Guantanamo (“GWAHN-TAHN-uh-mo”) Bay. Soviet missiles discovered here in 1962 led to a namesake “crisis.” For 10 points, name this island country once ruled by Fidel Castro.

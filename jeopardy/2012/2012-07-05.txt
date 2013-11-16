@@ -1,0 +1,456 @@
+####
+tournament: #6414
+round: Show #6414 - Thursday, July 5, 2012
+year: 2012
+date: 2012-07-05
+####
+
+num: 1
+category: Literature
+difficulty: 200
+seen: 5
+answer: a Ouija board
+
+Yes, yes, this aid to mediums at large takes its name from the French & German words for "yes".
+
+----
+num: 2
+category: Trash
+difficulty: 200
+seen: 6
+answer: Aetna
+
+AET symbolizes this insurance company.
+
+----
+num: 3
+category: Trash
+difficulty: 200
+seen: 5
+answer: the foul line
+
+There are 2 of these on a baseball diamond but only one on a bowling lane; don't step over it.
+
+----
+num: 4
+category: Literature
+difficulty: 200
+seen: 4
+answer: Daniel Boone
+
+This pioneer blazed a path through the Cumberland Gap into Kentucky around 1775, marking his way with Post-it notes.
+
+----
+num: 5
+category: Geography
+difficulty: 200
+seen: 8
+answer: North Korea
+
+China & South Korea.
+
+----
+num: 6
+category: Literature
+difficulty: 200
+seen: 4
+answer: the comb
+
+Fleshy crest on the head of a fowl.
+
+----
+num: 7
+category: Literature
+difficulty: 400
+seen: 4
+answer: a zodiac
+
+Popular with astronomers & astrologers, this word comes from a Greek phrase meaning "circle of little animals".
+
+----
+num: 8
+category: Trash
+difficulty: 400
+seen: 5
+answer: Shutterfly
+
+Personalize holiday cards with your own digital photos at this online retailer that uses the stock symbol SFLY.
+
+----
+num: 9
+category: Trash
+difficulty: 400
+seen: 5
+answer: a double
+
+3 strikes in a row is a turkey; 2 in a row is this, like a big serving of Wild Turkey.
+
+----
+num: 10
+category: Literature
+difficulty: 400
+seen: 4
+answer: the White House
+
+The spare key to this D.C. residence once known as the Executive Mansion is kept under the Washington Monument.
+
+----
+num: 11
+category: Literature
+difficulty: 400
+seen: 4
+answer: to ad lib
+
+To speak or perform without rehearsal.
+
+----
+num: 12
+category: Literature
+difficulty: 600
+seen: 4
+answer: magic
+
+A "Dictionary of the Occult" defines white this as consorting with spirits for a good or innocent purpose.
+
+----
+num: 13
+category: Trash
+difficulty: 600
+seen: 5
+answer: par
+
+For a pro bowler, it's 200; on the 5th at St. Andrews, it's 5.
+
+----
+num: 14
+category: Literature
+difficulty: 600
+seen: 4
+answer: xenophobia
+
+The Lone Ranger got his name after suffering from this condition, from the Greek for "fear of strangers".
+
+----
+num: 15
+category: Geography
+difficulty: 600
+seen: 8
+answer: Latvia
+
+Estonia & Lithuania.
+
+----
+num: 16
+category: Literature
+difficulty: 600
+seen: 4
+answer: a cobweb
+
+This word for something you might find in a dusty corner comes from coppa, an Old English word for "spider".
+
+----
+num: 17
+category: Literature
+difficulty: 800
+seen: 4
+answer: Uri Geller
+
+This Israeli known for bending spoons "with his mind" gained fame in the 1970s.
+
+----
+num: 18
+category: Trash
+difficulty: 800
+seen: 5
+answer: Del Monte
+
+"Nourishing Families. Enriching Lives. Every Day" is the slogan of this food company, DLM.
+
+----
+num: 19
+category: Trash
+difficulty: 800
+seen: 5
+answer: dive
+
+Like a submerging submarine, a bowling ball that hooks sharply at the last second is said to do this.
+
+----
+num: 20
+category: Literature
+difficulty: 800
+seen: 4
+answer: the Colossus of Rhodes
+
+The mold Chares used to sculpt this 105' tall ancient wonder of the world is kept in a warehouse in Encino, California.
+
+----
+num: 21
+category: Geography
+difficulty: 800
+seen: 8
+answer: Pakistan
+
+Afghanistan & India.
+
+----
+num: 22
+category: Literature
+difficulty: 1000
+seen: 4
+answer: augury
+
+Like the Romans, if you're interpreting the behavior of sacred animals, you're practicing this divination.
+
+----
+num: 23
+category: Trash
+difficulty: 1000
+seen: 4
+answer: Motorola
+
+This cell phone company trades on the NYSE as MMI; the "MI" stands for Mobility, Inc.
+
+----
+num: 24
+category: Trash
+difficulty: 1000
+seen: 5
+answer: the 10 pin
+
+(Kelley of the clue crew gives the clue) To pick up a woolworths split, a bowler tries to clip the left side of the 5 pin, throwing it across the lane to hit the pin with this number.
+
+----
+num: 25
+category: Literature
+difficulty: 1000
+seen: 4
+answer: hawk
+
+The name of this common bird of prey follows "sharp-shinned", "rough-legged" & of course "hundred-toed".
+
+----
+num: 26
+category: Geography
+difficulty: 1000
+seen: 9
+answer: Panama
+
+Colombia & Costa Rica.
+
+----
+num: 27
+category: Literature
+difficulty: 1000
+seen: 4
+answer: rhubarb
+
+Slang for a baseball argument, or an edible plant of the genus rheum.
+
+----
+num: 28
+category: Science
+difficulty: 400
+seen: 6
+answer: a laser
+
+In January 2012 scientists using an X-ray one of these beams heated metal to 3.6 million degrees (for an instant).
+
+----
+num: 29
+category: Trash
+difficulty: 400
+seen: 5
+answer: Woody Harrelson
+
+"The People vs. Larry Flynt".
+
+----
+num: 30
+category: History
+difficulty: 400
+seen: 4
+answer: an optimist
+
+In other words, a Pollyanna.
+
+----
+num: 31
+category: History
+difficulty: 400
+fixed: -1
+seen: 4
+answer: the Falklands
+
+In January 1833 British ships arrived in this island group, forcing the Argentinians there to leave.
+
+----
+num: 32
+category: Literature
+difficulty: 400
+seen: 4
+answer: Jack Frost
+
+In "The Christmas Song", he's "nipping at your nose".
+
+----
+num: 33
+category: Science
+difficulty: 800
+seen: 6
+answer: a volcano
+
+These features, like one at Eyjafjallajokull, Iceland, can reach more than 2,000 degrees internally.
+
+----
+num: 34
+category: Literature
+difficulty: 800
+seen: 4
+answer: Hamlet
+
+This title guy goes after Laertes--at a funeral!--but ends up saying, "I prithee take thy fingers from my throat".
+
+----
+num: 35
+category: History
+difficulty: 800
+seen: 5
+answer: omnipotent
+
+Said of god, it means almighty & all-powerful.
+
+----
+num: 36
+category: History
+difficulty: 800
+seen: 4
+answer: a star
+
+In 1838 Friedrich Bessel became the first to measure the distance to a faraway one of these, 61 Cygni.
+
+----
+num: 37
+category: Literature
+difficulty: 800
+seen: 3
+answer: Johnny Depp
+
+He's played daring Jack Sparrow in 4 movies so far.
+
+----
+num: 38
+category: Science
+difficulty: 1200
+seen: 6
+answer: plasma
+
+This state of matter was created when atoms in a gas are ionized has reached over 2 billion Kelvin in an Albuquerque lab.
+
+----
+num: 39
+category: Trash
+difficulty: 1200
+seen: 5
+answer: Cate Blanchett
+
+"Elizabeth: The Golden Age".
+
+----
+num: 40
+category: Literature
+difficulty: 1200
+seen: 4
+answer: Iago
+
+Cassio, a man who did not commit adultery, gets his leg maimed anyway by this aide to Othello.
+
+----
+num: 41
+category: History
+difficulty: 1200
+seen: 4
+answer: ostracize
+
+It means to shun, snub or exclude from a group.
+
+----
+num: 42
+category: History
+difficulty: 1200
+seen: 4
+answer: Belgium
+
+On June 4, 1831 this country's national congress elected Leopold of Saxe-Coburg-Saalfeld as its king.
+
+----
+num: 43
+category: Literature
+difficulty: 1200
+seen: 4
+answer: Jack and Jill
+
+Summit ascending nursery rhyme duo.
+
+----
+num: 44
+category: Science
+difficulty: 1600
+seen: 5
+answer: tungsten
+
+The metal with the highest melting point, over 6,000 degrees, is this one sometimes called wolfram.
+
+----
+num: 45
+category: History
+difficulty: 1600
+seen: 4
+answer: ossification
+
+The process by which bones are formed & people's ideas become inflexible is called this 12-letter word.
+
+----
+num: 46
+category: History
+difficulty: 1600
+seen: 5
+answer: the Anti-Masonic Party
+
+In 1831 the first U.S. political party to have a national convention was this one "anti" secret societies & oaths.
+
+----
+num: 47
+category: Literature
+difficulty: 1600
+seen: 5
+answer: ""Slip Out The Back"
+
+In "50 Ways To Leave Your Lover", it's Paul Simon's advice to Jack.
+
+----
+num: 48
+category: Science
+difficulty: 2000
+seen: 8
+answer: a solar flare
+
+These sudden intense eruptions out of the sun's corona can reach a temperature of 180 million degrees.
+
+----
+num: 49
+category: History
+difficulty: 2000
+seen: 6
+answer: Cape Colony
+
+More than 12,000 Boers left this South African colony in the "Great Trek" that began in 1835.
+
+----
+num: 50
+category: Literature
+difficulty: 2000
+seen: 6
+answer: jackboots
+
+Stopping at mid-thigh, they're associated with heavy-handed government action.

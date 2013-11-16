@@ -1,0 +1,244 @@
+####
+tournament: ACF Regionals
+round: ACF Regionals 2011 - Georgetown and ASU A final.doc
+year: 2011
+####
+
+num: 1
+category: Science
+difficulty: College
+fixed: 57
+seen: 81
+answer: {Hall} effect
+
+In ferromagnetic materials, a version of this effect occurs in which the resultant resistivity predicted by this effect contains an additional zero-field term proportional to the magnetization. Arranging two solid-state elements which demonstrate this effect at right angles to each other and summing their output voltage to eliminate the noise is a typical way of producing a magnetic field sensor using this effect. This effect is derived by noting that the current crossed with the magnetic field creates a transverse current, which results in a potential difference. For ten points, identify this classical effect in which charge flowing across a transverse magnetic field results in an electric field component orthogonal to both the current and the magnetic field, often used to measure the sign of charge carriers.
+
+----
+num: 2
+category: History
+difficulty: College
+fixed: 1
+seen: 69
+answer: Cardinal Thomas {Wolsey}
+
+As a diplomat, this minister once negotiated a treaty with Cardinal Campeggio. This man also negotiated the Treaty of the More with France, and his influence helped create the League of Cognac. After Parliament refused to grant money for an invasion of France, this man devised a tax called the Amicable Grant, which he failed to collect. More successfully, this man organized a meeting between his master and the Valois king Francis I at a custom-built luxurious setting. Despite his work on the Field of the Cloth of Gold, this man was arrested for treason after he failed to obtain a Papal annulment for the king’s marriage to Catherine of Aragon. For 10 points, name this royal advisor during the early reign of King Henry VIII.
+
+----
+num: 3
+category: Fine Arts
+difficulty: College
+fixed: None
+seen: 69
+answer: {Tintoretto} [accept {Jacopo Comin} or {Jacopo Robusti}]
+
+One of this artist's paintings depicts a flag-bearing group of citizens paying homage to Francisco Contarini on the right, while troops under Maximilian engage in the title action on the left. This artist of The Siege of Asola also painted a work in which a baby is pulled away while nursing, causing stars to spray out of Hera's breast, while in another of his paintings, a knight of Provence is surrounded by broken axes and hammers and a turban-heavy crowd as an upside-down St. Mark hurries to the rescue. Light comes from both a ceiling lamp and the central figure’s halo in this man’s most notable work, which centers on a diagonally-oriented table. For 10 points, name this Venetian artist of The Origin of the Milky Way, The Miracle of the Slave, and The Last Supper.
+
+----
+num: 4
+category: Literature
+difficulty: College
+fixed: None
+seen: 58
+answer: The {Night} of the {Iguana}
+
+One character in this play describes her “blue devil” to soothe a character who is tied up to prevent him for having another “crack-up.” That man claims he is followed by a “spook” and uses the euphemism “swimming to China” for suicide. At the end of this play a man claiming to be the world’s oldest poet dies after completing his final poem. A defrocked priest is fired from his job as a tour guide for a group of Baptist women after he sleeps with Charlotte Goodall. In this play Nonno travels with his granddaughter, Hannah Jelkes, to the Costa Verde Hotel in Mexico run by Maxine Faulk. For 10 points, name this play concluding when Reverend T. Lawrence Shannon liberates the title reptile, by Tennessee Williams.
+
+----
+num: 5
+category: Philosophy
+difficulty: College
+fixed: 1
+seen: 53
+answer: {Russia}
+
+In the late Middle Ages, this country was home to the “cutters,” a proto-Protestant group, and the Judaizers, who preached that Christians should follow Old Testament codes. Recently, this country outlawed all evangelizing and publishing by the Jehovah’s Witnesses. The issue of whether two or three fingers should be folded while making the sign of the cross led to thousands of deaths in this country during the Raskol era, when persecution of the Old Believers took place. Its later dissenting groups included the pacifistic “spirit-wrestlers” who fled to Canada. Patriarch Nikon was one of the most influential religious leaders in this country. For 10 points, the Dukhobors come from what country, which has historically claimed to be the protector of all the world’s Orthodox Christians?
+
+----
+num: 6
+category: Social Science
+difficulty: College
+fixed: 1
+seen: 49
+answer: Georg {Simmel}
+
+This thinker defined the “fallacy of separateness” as failing to see the interdependency of power relations, and discussed a figure representing someone that people have common bonds with but never become close to in his book The Stranger. He claimed the intellect, which preserves subjective experience, is crucial to overcoming the stagnancy of “the blasé” in a work about urban life. This man’s most notable work relates the impersonality of modern society to the way that social standing is related to the ability to buy and sell goods using the titular commodity. For 10 points, name this German sociologist who wrote the “The Metropolis and Mental Life” and The Philosophy of Money.
+
+----
+num: 7
+category: Science
+difficulty: College
+fixed: 1
+seen: 82
+answer: {bubble} sort [accept: {sinking sort} ]
+
+The more efficient bidirectional variant of this algorithm, which reverses the direction after each pass, is referred to by the term “cocktail shaker”. Another optimization is to terminate if no swaps occur during a pass. It’s not insertion sort, but for n items it approaches a time complexity of Big O of n for mostly sorted data. However, it has a quadratic runtime in the worst case and is less efficient than insertion and selection sort in practice. This algorithm works by comparing adjacent items and swapping them if they are in the wrong order. For 10 points name this sorting algorithm which is named for the way that elements move up the list.
+
+----
+num: 8
+category: Mythology
+difficulty: College
+fixed: 57
+seen: 110
+answer: {Persephone} [accept {Proserpina} until “{Zeus}”]
+
+The Suda claims that one of this goddess’s offspring helps guide people to the Nesoi Makaron and shares a name with a woman who volunteered to be sacrificed to this goddess by Demophon in the Heracleidae. Anapos was the husband of one companion of this figure, the nymph Cyane, who melted after witnessing a certain event. This figure once stopped her husband from seducing a nymph by turning that nymph into a mint plant. She may have slept with Zeus to produce her daughter Melinoe, while her other children include Macaria. A Lapith who attempted to abduct her was permanently fastened to a chair, while she gained her most famous position after accidentally eating a few pomegranate seeds. For 10 points, name this consort of Hades, the daughter of Demeter.
+
+----
+num: 9
+category: History
+difficulty: College
+fixed: 57
+seen: 82
+answer: Hugo {Chavez}
+
+This man created the MBR-200 movement to eliminate the puntofijismo system; that later became the Fifth Republic Movement. One joke following this man’s imprisonment for an attempted coup against Carlos Andres Perez said that he deserved 30 years in prison, one year for trying and 29 for failing. Later, he used tactics such as assigning voters to precints on the opposite side of the country to solidify power. This army paratrooper was  nicknamed “El Comandante” after winning Perez’s office in 1998 and joked about still smelling the sulfur left by a previous speaker on the podium at the United Nations, part of his years-long war of insults with George W. Bush. For 10 points name this man who obtained emergency powers after his party’s loss of legislative seats in the 2010 election in Venezuela.
+
+----
+num: 10
+category: Literature
+difficulty: College
+fixed: 57
+seen: 60
+answer: {Sonnets} from the Portuguese
+
+One poem in this collection ends with “a shipwrecked Pagan, safe in port” who honors his sea-god with “a sculptured porpoise.” In that poem the speaker begs, “pardon, oh pardon” for an inadequate soul that makes an “image only so / Formed of the sand, and fit to shift and break.” One poem is a meditation on the poet’s earlier line “My future will not copy fair my past,” while in another the speaker requests “let me hear / The name I used to run at.” This collection includes poems with the opening lines “Yes, call me by my pet-name” and “I thought once how Theocritus had sung” while its best-known poem talks about performing an action “as men strive for Right” and “as they turn from Praise.” For 10 points, name this poetry collection featuring “How do I love thee? Let me count the ways,” written by Elizabeth Barrett Browning.
+
+----
+num: 11
+category: Fine Arts
+difficulty: College
+fixed: 57
+seen: 69
+answer: Heitor {Villa}-{Lobos}
+
+Many concert pianists use this composer’s “The Punch” as an encore piece, which comes from his set of piano works in which each piece represents a different doll. He wrote a symphonic trilogy about World War One consisting of symphonies titled “The War,” “The Victory and “The Peace.” This composer of A Prole de Bebe was championed by Arthur Rubinstein whose personality inspired his Rudepoema. He included pieces called “Woodpecker” and “Settimino” in a set of 14 pieces inspired by a type of street music called Choros, while another work includes movements dedicated to “teddy boy” culture and “The Little Train of Caipira.” This composer used eight solo cellos in the fifth member of a set of pieces whose movements have both a traditional title and a title taken from Portuguese folk music. For 10 points, name this composer who wrote Bachianas Brasileiras.
+
+----
+num: 11
+category: Fine Arts
+difficulty: College
+fixed: 57
+seen: 70
+answer: Heitor {Villa}-{Lobos}
+
+Many concert pianists use this composer’s “The Punch” as an encore piece, which comes from his set of piano works in which each piece represents a different doll. He wrote a symphonic trilogy about World War One consisting of symphonies titled “The War,” “The Victory and “The Peace.” This composer of A Prole de Bebe was championed by Arthur Rubinstein whose personality inspired his Rudepoema. He included pieces called “Woodpecker” and “Settimino” in a set of 14 pieces inspired by a type of street music called Choros, while another work includes movements dedicated to “teddy boy” culture and “The Little Train of Caipira.” This composer used eight solo cellos in the fifth member of a set of pieces whose movements have both a traditional title and a title taken from Portuguese folk music. For 10 points, name this composer who wrote Bachianas Brasileiras.
+
+----
+num: 11
+category: Fine Arts
+difficulty: College
+fixed: 57
+seen: 71
+answer: Heitor {Villa}-{Lobos}
+
+Many concert pianists use this composer’s “The Punch” as an encore piece, which comes from his set of piano works in which each piece represents a different doll. He wrote a symphonic trilogy about World War One consisting of symphonies titled “The War,” “The Victory and “The Peace.” This composer of A Prole de Bebe was championed by Arthur Rubinstein whose personality inspired his Rudepoema. He included pieces called “Woodpecker” and “Settimino” in a set of 14 pieces inspired by a type of street music called Choros, while another work includes movements dedicated to “teddy boy” culture and “The Little Train of Caipira.” This composer used eight solo cellos in the fifth member of a set of pieces whose movements have both a traditional title and a title taken from Portuguese folk music. For 10 points, name this composer who wrote Bachianas Brasileiras.
+
+----
+num: 12
+category: Science
+difficulty: College
+fixed: 1
+seen: 83
+answer: {ammonia}
+
+Andrussov oxidation requires oxygen, methane, and this compound as reactants. A sulfur recovery unit is necessary for the oxidation of this compound in the Claus process. The Solvay process is only economically viable because, like carbon dioxide, this compound is recycled in it. A dilute solution of silver oxide in an aqueous solution of this substance constitutes the Tollens reagent. The synthesis of this compound can be catalyzed with finely distributed osmium, or uranium, but is most typically catalyzed with iron oxide; that reaction is an exothermic reduction of nitrogen gas with three equivalents of hydrogen. For 10 points name this base synthesized in the Haber-Bosch process, and which has chemical formula NH3.
+
+----
+num: 13
+category: History
+difficulty: College
+fixed: 1
+seen: 70
+answer: {Kalmar Union}
+
+This polity was the target of the unsuccessful Puke rebellion, led by Erik Puke. One of the first leaders of this polity was born with the Slavic name “Bogislav”, which was changed when he came to power. Opponents of it organized the Diet of Arboga, which was created during the Engelbrekt Rebellion against this polity, but its final decline came after the Battle of Bogesund. When this first created, it was resisted by Albert of Mecklenburg, whose authority it diminished. First ruled by Erik of Pomerania, this polity was the brainchild of Queen Margaret. Its end came after the supporters of Sten Sture the Younger were targeted by Christian II in the Stockholm Bloodbath. For 10 points, name this federation of Denmark, Sweden, and Norway.
+
+----
+num: 14
+category: Fine Arts
+difficulty: College
+fixed: 57
+seen: 70
+answer: {Fidelio} [accept {Leonore} before it is read]
+
+A baritone in this opera claims he is celebrating the King’s naming day to explain a raucous crowd who sing the chorus “O Welche Lust” while recklessly running through the gardens. A couple sings the duet “O namenlose Freude” in the second act after hearing a trumpet call signaling the arrival of Don Fernando. A soprano sings the famous aria “O wär ich schon mit dir vereint” after rejecting the advances of Jaquino, but they sing together in the quartet “Mir ist so wunderbar.” The title character of this opera sings the grave-digging duet with Rocco in the dungeon before using a pistol to prevent Don Pizarro from killing her husband Florestan, who had been held in a secret prison for two years.  For 10 points, name this opera in which Leonore dresses up as the title man, composed by Beethoven.
+
+----
+num: 14
+category: Fine Arts
+difficulty: College
+fixed: -1
+seen: 71
+answer: {Fidelio} [accept {Leonore} before it is read]
+
+A baritone in this opera claims he is celebrating the King’s naming day to explain a raucous crowd who sing the chorus “O Welche Lust” while recklessly running through the gardens. A couple sings the duet “O namenlose Freude” in the second act after hearing a trumpet call signaling the arrival of Don Fernando. A soprano sings the famous aria “O wär ich schon mit dir vereint” after rejecting the advances of Jaquino, but they sing together in the quartet “Mir ist so wunderbar.” The title character of this opera sings the grave-digging duet with Rocco in the dungeon before using a pistol to prevent Don Pizarro from killing her husband Florestan, who had been held in a secret prison for two years.  For 10 points, name this opera in which Leonore dresses up as the title man, composed by Beethoven.
+
+----
+num: 15
+category: Literature
+difficulty: College
+fixed: None
+seen: 61
+answer: {Darkness} at {Noon} [accept {Sonnenfinsternis} or {Solar Eclipse} or Le {Zéro et l'Infini} or {Zero} and {Infinity}]
+
+Minor characters in this work include the porter Vassilij, who has a red scar on his neck from the Civil War. One character tells this novel's protagonist “Bravo! The wolves devour each other” shortly before asking him “When did you last sleep with a woman?” This novel, which is divided into three sections called “hearings”, is the middle part of a trilogy that begins with The Gladiators and ends with Arrival and Departure. The protagonist of this work is implicated in a crime by a man called “Hare-Lip” and becomes acquainted with his neighbor, who is known only as “Number 402”. The protagonist of this book is persuaded by Ivanov to confess to attempting to assassinate Number One in order to prove his loyalty to Communism. For 10 points, name this novel about the revolutionary Rubashov, written by Arthur Koestler.
+
+----
+num: 16
+category: History
+difficulty: College
+fixed: 57
+seen: 83
+answer: {Long March} [accept: {Changzheng}]
+
+Alfred Bosshardt, a missionary who participated in this event as a prisoner, wrote a first-hand account of this event titled “The Restraining Hand”. A German commander named Otto Braun was removed from his position during this event. Crucial moments in this event include the capture of the Luding Bridge. During this event, the Zunyi Conference happened, resulting in a change in leadership. The purpose of this event was to avoid a battle at Rujin, which was deemed unwinnable. It involved leaving Jiangxi Province and moving towards the west and north. For 10 points, name this military retreat during which Mao Zedong rose to the leadership of the Chinese Red Army, and which saw many Communists die of fatigue during its six thousand mile length.
+
+----
+num: 17
+category: Science
+difficulty: College
+fixed: 1
+seen: 79
+answer: {Salmonella}
+
+One subtype of the most common species in this microbial genus produces a protein to stabilize tight junctions between intestinal cells. That protein, AvrA, is secreted through the Type III secretory system of that species in this genus, and dampens inflammation to allow that pathogen of this genus to avoid breaking through the epithelium until its numbers can challenge  the host immune system. That secretory system, encoded by this genus’s namesake “pathogenicity island-1,” enables species in this genus to inject virulence effectors into eukaryotic host cells. Some bacteria in this genus cause typhoid fever. For 10 points, name this Gram-negative bacterial genus which includes species enterica, whose serovar typhi is a common cause of food poisoning in poultry.
+
+----
+num: 18
+category: History
+difficulty: College
+fixed: 1
+seen: 69
+answer: Brian {Mulroney}
+
+This man’s government eliminated the manufacturing tax and replaced it with a five percent VAT paid by consumers called the Goods and Services Tax. His government also issued a moratorium on cod fishing after he won an election on the strength of an all-provinces strategy and a strong debate performance, where he gave the legendary retort “You had an option, sir.” His government accepted refugees from the pro-American governments in Guatamala and El Salvador and engineered a failed agreement in Charlottetown that was to replace the Meech Lake Accord. He was succeeded by the less popular Kim Campbell as PM and Progressive Conservative leader. For 10 points, name this Prime Minister of Canada from 1984 to 1993.
+
+----
+num: 19
+category: Philosophy
+difficulty: College
+fixed: None
+seen: 52
+answer: The {Sickness unto Death} [or {Sygdommen til Doden}]
+
+One section of this work calls for a modern Socrates to teach society how little it actually knows, while earlier it claims Christianity is founded on the “absurd” idea that humans can have an individual relationship with God. It discusses a concept’s unconscious form deriving from “ignorance” and its two conscious types deriving from “weakness” and “defiance.” Its first section examines a man who believes “Caesar or nothing” and it takes its title from a passage from the Gospel of John about Lazarus. This work claims believing Christians are the only people exempt from the title condition and asserts that religious writing should act as a physician working at man’s deathbed. Written under the pseudonym Anti-Climacus, for 10 points, name this Kierkegaard work arguing the title affliction is “despair.”
+
+----
+num: 20
+category: Literature
+difficulty: College
+fixed: 57
+seen: 61
+answer: Gabriela {Mistral} [or {Lucila} de {María del Perpetuo Socorro Godoy Alcayaga}]
+
+The addressees of one of this author's poems are ordered to “love beauty, which is the shadow of God over the Universe” and to “create beauty not to excite the senses but to give sustenance to the soul”. The speaker of another of this author's poems asks “Not in the grotto that returns / the echo of my cry?” and years to be “united in one anguished knot / around his bloody neck!”. This author of “Decalogue of the Artist” and “To See Him Again” opened one of her collections with a poem that begins “From the icy niche where men placed you / I lower your body to the sunny, poor earth”; that collection was inspired by the suicide of her lover Romelio Ureta. For 10 points, identify this author of the collections Tala, Desolacion, and Sonnets of Death, a female Chilean poet.
+
+----
+num: 21
+category: History
+difficulty: College
+fixed: 1
+seen: 108
+answer: {Trung} sisters
+
+This group was opposed by a general who had earned the nickname “Queller of the Deep” for his previous crushing of rebellions among the Nanman peoples. According to one account, this group became politically active after one of their spouses was executed by Governor To, the commander of the Wangku Commandary, who this group successfully expelled. The movement led by this group collapsed after they ordered a retreat behind the Jin River, after which this group drowned themselves in the Hat river. This group led a three year rebellion against the occupying Han dynasty. For 10 points, name these sisters who led an anti-Chinese rebellion in Vietnam.

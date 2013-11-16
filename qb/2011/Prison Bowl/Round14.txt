@@ -1,0 +1,204 @@
+####
+tournament: Prison Bowl
+round: Round14.doc
+year: 2011
+####
+
+num: 1
+category: History
+difficulty: HS
+fixed: 1
+seen: 416
+answer: Jean-Paul {Marat}
+
+This man gained renown for treatises on gonorrhea and eye disease, for which he was appointed court doctor. Some thought him responsible for the September Massacres, leading to his downfall. He began his rise to power in the 10th of August Revolt, though he was subsequently tried on Girondist orders. This voice behind the Patriotic Watch newspaper also wrote for L’ami du peuple and believed that Louis XVI should only be tried on crimes committed following his acceptance of the constitution. For 10 points, name this radical Jacobin who was assassinated by Charlotte Corday and died in a bathtub.
+
+----
+num: 2
+category: Fine Arts
+difficulty: HS
+fixed: 1
+seen: 492
+answer: Arnold {Schoenberg}
+
+This composer used a harmony consisting of a C, G sharp, B, E, and A in his Sunday Morning on the Lake. That work is part of the collection Five Pieces for Orchestra and is notable for its use of “klangfarbenmelodie,” while another work in D minor describes a couple in the woods on a moonlit night. The composer of a tone poem based on Richard Dehmel’s Transfigured Night, he based his most famous work on 21 Albert Giraud poems about a commedia dell’arte character. For 10 points, name this expressionist composer of Pierrot Lunaire, the formulator the twelve-tone scale.
+
+----
+num: 3
+category: Literature
+difficulty: HS
+fixed: 1
+seen: 444
+answer: Yukio {Mishima} [accept {Kimitake Hiraoka} ]
+
+This author wrote about a woman in love with a gardener who has an affair with the maid Miyo. This author of Thirst for Love wrote about a voyeur gangster Noboru, and about Ryuji's relationship with Fusako in The Sailor who Fell from Grace with the Sea. He penned a series following Shigekuni Honda's efforts to save reincarnations of Kiyoaki Matsugae, and a novel in which the protagonist assists Father Dosen and befriends the club-footed Kashiwagi, before setting fire to the title building. For 10 points, name this author of the "Sea of Fertility" tetralogy and The Temple of the Golden Pavilion.
+
+----
+num: 4
+category: Social Science
+difficulty: HS
+fixed: 1
+seen: 381
+answer: Friedrich August {Hayek}
+
+This man supported a free market for the production of money and, along with his mentor, advocated for the term "catallaxy" to replace the word "economy." This thinker used the term “extended order” to describe the effects of price signals and the impossibility of rational distribution of resources in planned economies in his The Fatal Conceit. Paul Krugman criticized the full reserves and tight credit advocated for in this man’s theory of buisiness cycles. He was a student of Ludwig von Mises and defended classical liberalism in his The Road to Serfdom. For 10 points, name this economist of the Austrian School.
+
+----
+num: 5
+category: History
+difficulty: HS
+fixed: 1
+seen: 421
+answer: USS {Chesapeake}-HMS {Leopold} Affair [accept clear knowledge equivalents]
+
+This incident resulted from the presence of two third-class battleships from France, and the Little Belt affair four years later further heightened the tensions it caused. Daniel Martin, John Strachan, William Ware, and John Ratford were taken prisoner by the winning side. The losing commander in this incident, James Barron, would be unable to hold a post for 5 years. Deserters from the Melapmus and Halifax were recovered after a refusal to surrender, leading to the passage of the 1807 Embargo Act. For 10 points, name this incident between an American and a British naval vessel that enraged the American public over impressment.
+
+----
+num: 6
+category: Science
+difficulty: HS
+fixed: 57
+seen: 492
+answer: dimension 
+
+For a poset, this concept is the size of the smallest realizer. Topological covers are central to the Lebesgue and Hausdorff definitions of this concept. One generalization defines this characteristic as the trace of the identity map. For any linear map, this value for the image, plus this value for the kernel, gives this value for the domain. For a vector space, it is defined as the number of elements in any basis. In Cartesian space, it is the number of coordinates needed to specify a point. For 10 points, name this number, which is 3 for a cube and 2 for a square.
+
+----
+num: 7
+category: Philosophy
+difficulty: HS
+fixed: 1
+seen: 529
+answer: Martin {Heidegger}
+
+This man rejected the scholastic interpretation of Aristotle's categories of subjects. He wrote about John Duns Scotus in his doctoral thesis, and later wrote an essay titled The Question of Technology. This philosopher believed that Western philosophy should be subject to "Destruktion," influencing Derrida's deconstructionism. This man rejected his influence on existentialism, and worked under Edmund Husserl at the University of Freiburg. In his most famous work, he used the term “Dasein” to posit his "question of being." For 10 points, name this German author of Being and Time, a fervent Nazi supporter.
+
+----
+num: 8
+category: Literature
+difficulty: HS
+fixed: 1
+seen: 446
+answer: Henry Graham {Greene}
+
+In one novel by this author, Vigot investigates the title character's death, brought about by Thomas Fowler. Another novel follows the relationship between the Catholic Sarah Miles and Maurice Bendrix. In addition to The Quiet American and The End of the Affair, this author wrote about the black marketeer Yusef, who knows about Helen Rolt's relationship with Major Henry Scobie, in his The Heart of the Matter. In his most famous novel, the mestizo allows the lieutenant to successfully hunt down a whiskey priest in Mexico. For 10 points, name this British author of The Power and the Glory.
+
+----
+num: 9
+category: Science
+difficulty: HS
+fixed: 1
+seen: 490
+answer: Brain {stem}
+
+One region in this structure is the site of BMAL-1-CLOCK dimerization and is located above the optic chiasm. The lateral and posterior portions of this structure produce orexins, deficits of which can lead to narcolepsy. The hypophyseal portal system connects this structure to the HPA axis. Contained in the diencephalon, it releases GHRH and CRH, as well as gonadotropin-releasing hormone, somatostatin, oxytocin, and vasopressin. It connects the nervous and endocrine systems by linking to the pituitary gland, and controls hunger, thirst, and homeostasis. For 10 points, name this brain region located beneath the thalamus.
+
+----
+num: 10
+category: Geography
+difficulty: HS
+fixed: 57
+seen: 725
+answer: {Lithuania}
+
+Although it is not Poland, this country's Trakai Island contains a castle known as "Little Marienburg." This country contains the "Highlands" of Aukštaitija and the "Lowlands" of Samogitia, and its longest river is the Neman or Nemunas, which originates in neighboring Belarus. This country's major port is Klaipeda, and its capital was nicknamed “Jeruzale” for its large Jewish population. This country contains the northern section of the Curonian Spit, the southern part of which is in Kaliningrad Oblast owned by Russia. For 10 points, name this southernmost of the Baltic states which borders Latvia and Poland, and has capital at Vilnius.
+
+----
+num: 11
+category: Science
+difficulty: HS
+fixed: 1
+seen: 484
+answer: electrical {resistance} [accept {specific electrical resistance} before " {tunnel diodes} "]
+
+The quantum hall effect gives rise to the von Klitzing standard for this quantity, which is negligible in materials exhibiting ballistic transport. Negative in tunnel diodes, this quantity is directly proportional to length and inversely proportional to cross-sectional area. In AC circuits, its effective value is increased by the proximity and skin effects. For linear loads, power equals the square of current times this quantity. Reactance is added to this quantity to obtain an analogous quantity for alternating current, the impedance. For 10 points, name this quantity equal to voltage over current, which is measured in ohms.
+
+----
+num: 12
+category: Literature
+difficulty: HS
+fixed: 57
+seen: 442
+answer: The {Idiot}
+
+One character in this novel is enraptured by Holbein’s Body of the Dead Christ in the Tomb, which the protagonist says is enough to make a man lose his faith. The protagonist recounts a story in which a man is sentenced to death by guillotine, but is unexpectedly pardoned. Minor characters in this novel include the usurer Ptitsyn and the senile General Ivolgin. In this novel, Ganya is bribed to marry Totsky's mistress Nastasya Filippovna, and Rogozhin nearly kills the protagonist, who then has a seizure. For 10 points, name this novel about Prince Myshkin, the title fool, by Fyodor Dostoyevsky.
+
+----
+num: 13
+category: Fine Arts
+difficulty: HS
+fixed: 1
+seen: 490
+answer: George {Balanchine}
+
+This artist based one of his works on Vittorio Rieti’s music taken from Bellini’s La Sonnambula, while he choreographed Glazunov’s opus 57, Raymonda. While working for the Ballets Russes, this man choreographed The Prodigal Son and Stravinsky’s The Firebird, before moving to America and founding the School of American Ballet and New York City Ballet. The choreographer of a three part ballet with sections titled “Emeralds”, “Rubies” and “Diamonds”, for 10 points, name this choreographer of Jewels, A Midsummer Night’s Dream and The Nutcracker.
+
+----
+num: 14
+category: Trash
+difficulty: HS
+fixed: 1
+seen: 1028
+answer: Hayao {Miyazaki}
+
+This man directed Panda! Go Panda! Some other films see Muska attempting to steal Sheeta's levitation pendant, Tombo rescued by Kiki, and Porco's face reverted to human form. This director of Laputa: Castle in the Sky also directed a film in which the Giant Warrior falls while the dying Nausicaa wears a stained blue dress. Another of his films sees Lady Eboshi decapitate the Forest Spirit and the cursed Ashitaka fall in love with San, the eponymous Princess Mononoke. In one film, Zeniba helps the lonely No-Face find peace, and Haku breaks free of Yubaba with the help of Chihiro. For 10 points, name this director of Spirited Away.
+
+----
+num: 15
+category: History
+difficulty: HS
+fixed: 1
+seen: 420
+answer: Republic of {Zaire} [prompt on {Congo} before it is mentioned]
+
+This state's ideology stressed "authenticity" in its Manifesto of N'sele, which rejected "both capitalism and communism." Che Guevara fought against this country in retaliation for the overthrow of Patrice Lumumba. Its government supported the Interahamwe militias operating in refugee camps during the Great Lakes refugee crisis. That action and other Hutu-favoring policies led to this state’s overthrow by Tutsi rebels led by Laurent Kabila. During its existence, Leopoldville was renamed Kinshasa, and its only president was Mobutu Sese Seko. For 10 points, name this predecessor to the modern-day Democratic Republic of the Congo.
+
+----
+num: 16
+category: Fine Arts
+difficulty: HS
+fixed: 1
+seen: 497
+answer: Paul {Gauguin}
+
+One work by this artist shows a robed figure leaning against a column while a dark-skinned woman lies face down naked in bed. Another of his works shows the title event and its bonnet-wearing spectators against a flat red background. In addition to Spirit of the Dead Watching and Vision After the Sermon (Jacob Wrestling with the Angel), this man depicted a blue statue representing "the Beyond" and several women representing the stages of life in a work painted in Tahiti. For 10 points, name this French Post-Impressionist painter of Where Do We Come From? What Are We? Where Are We Going? and Yellow Christ.
+
+----
+num: 17
+category: Literature
+difficulty: HS
+fixed: 1
+seen: 445
+answer: Stephen {Crane}
+
+This author wrote about a young man and an assassin looking for a cheap inn in "An Experiment in Misery." One work by this author sees Scratchy Wilson pick a fight with the sheriff before learning that Sheriff Potter is married. Another work features an easterner, a cowboy, and a Swede at Pat Scully's title establishment. This author of "The Bride Comes to Yellow Sky" and "The Blue Hotel" wrote a novel set in the Bowery in which Pete leaves the title character for Nellie in Maggie: A Girl of the Streets. For 10 points, name this author who wrote about Henry Fleming in The Red Badge of Courage.
+
+----
+num: 18
+category: Science
+difficulty: HS
+fixed: 1
+seen: 490
+answer: {aromatic} compounds [accept word forms]
+
+These compounds are substituted through aluminum-trichloride-catalyzed alkylation and acylation reactions. Cyclooctatetraene is not one of these compounds, because it is tub-shaped rather than planar. Characterized by sp2 (“s p two”) hybridization and a small carbon-to-hydrogen ratio, these compounds must have a number of pi electrons that is 2 more than a multiple of 4, according to Hückel's rule. Characterized by a cyclic cloud of delocalized pi electrons, they are relatively unreactive despite being highly unsaturated. For 10 points, name these compounds, exemplified by pyridine and benzene, whose name suggests a pleasant odor.
+
+----
+num: 19
+category: History
+difficulty: HS
+fixed: 1
+seen: 418
+answer: {Sassanid} Empire
+
+When Nisibis was ceded to this empire by the Romans, it expelled all the Christians including St. Ephrem the Syrian. One ruler of this empire used the Roman emperor Valerian as a footstool, after capturing him at the Battle of Edessa. This empire was defeated at Qadisiyyah at the hands of Umar's general, Khalid ibn al-Walid. It patronized the prophet Mani under Shapur I. Although it recognized Christianity in 409, this was the last empire whose state religion was Zoroastrianism. For 10 points, name this last non-Islamic Persian empire, which succeeded the Parthian empire.
+
+----
+num: 20
+category: Mythology
+difficulty: HS
+fixed: 1
+seen: 785
+answer: Daedalus
+
+In the service of Pasiphae, this man built a wooden cow. Faced with a puzzle involving a string and a conch, this man came up with a solution involving an ant and honey. Instead of giving himself up when the puzzle was revealed as a trap, he poured boiling water over his pursuer, King Minos. He killed his nephew, whom Athena changed into a partridge. This man created the Labyrinth, which housed the Minotaur. For 10 points, name this Greek inventor, a mortal with a son named Icarus.

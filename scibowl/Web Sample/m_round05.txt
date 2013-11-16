@@ -1,0 +1,268 @@
+####
+tournament: Web Sample
+round: m_round05.pdf
+####
+
+num: 1
+category: General Science
+difficulty: MS
+seen: 6
+answer: Grain of Salt;  Ragweed Pollen;  Blood Platelet
+
+Arrange the following 3 choices in order of 
+DECREASING average size: blood platelet; grain of common table salt; ragweed pollen
+
+----
+num: 3
+category: Physical Science
+difficulty: MS
+seen: 5
+answer: 6
+(Solution:  Input Distance/output Distance:  24/4 = 6)
+
+What is the ideal mechanical advantage of a ramp that is 24 meters long and 4 meters higher at one end versus the other?
+
+----
+num: 5
+category: Math
+difficulty: MS
+seen: 7
+answer: 33
+
+Name all of the following 5 numbers that are NOT prime numbers:2; 5; 17; 33; 37
+
+----
+num: 6
+category: General Science
+difficulty: MS
+seen: 6
+answer: 37
+
+What is the average internal Celsius temperature of the human body?
+
+----
+num: 6
+category: General Science
+difficulty: MS
+seen: 6
+answer: 2) Average Surface Temperature of Saturn;  1) Coldest 
+Temperature Recorded on Earth;  3) Coldest Ocean Water Temperature
+(Accept:  2;  1;  3)
+
+By name or number, arrange the following 3 choices from the one with the LOWEST temperature to the HIGHEST temperature: 1) coldest temperature recorded on Earth; 2) average surface temperature of Saturn; 3) coldest ocean water temperature
+
+----
+num: 7
+category: Life Science
+difficulty: MS
+seen: 11
+answer: Capillarie S  (Accept:  Capillary)
+
+What is the name of the blood vessels in vertebrate bodies where most of the exchange of oxygen and carbon dioxide occurs?
+
+----
+num: 7
+category: Life Science
+difficulty: MS
+seen: 10
+answer: Hypothalamus
+
+What specific part of the human brain is most responsible for regulating body temperature?
+
+----
+num: 8
+category: Physical Science
+difficulty: MS
+seen: 5
+answer: First Law  (Accept:  Law of Inertia)
+
+Which one of Newtons Laws of motion most directly deals with the resistance of a body to a change in its motion?
+
+----
+num: 8
+category: Physical Science
+difficulty: MS
+seen: 6
+answer: 50 Kilogram Meters Per Second  (Must Give Units)
+(Solution: Momentum = Mv = (100kg)(0.5 M/s) = 50 kg.m/s)
+
+Jerry has a mass of 100 kilograms. He runs with a velocity of 0.5 meters per seco nd. Giving your answer in proper SI units, what is his momentum?
+
+----
+num: 9
+category: Earth Science
+difficulty: MS
+seen: 8
+answer: Hydrogen
+
+What is the most abundant element in the Sun?
+
+----
+num: 10
+category: Math
+difficulty: MS
+seen: 7
+answer: 14
+41
+
+Add the following 2 fractions and giv e your answer as a mixed fractionin lowest terms: 232 + 2 3
+4
+
+----
+num: 11
+category: General Science
+difficulty: MS
+seen: 6
+answer: 4 × 10 ^5
+
+Giving your answer in proper scientific notation, convert 400 grams per liter into milligrams per liter:
+
+----
+num: 12
+category: Life Science
+difficulty: MS
+seen: 10
+answer: Peas;  Soy Beans;  Peanuts  (Accept:  All but Rice)
+
+Name all of the following 4 groups of plants that are l egumes: peas; rice; soy beans; peanuts
+
+----
+num: 14
+category: Earth Science
+difficulty: MS
+seen: 8
+answer: Gulf  Stream
+
+What northward-moving ocean current is the dominant feature generally located off the east coast of the U.S.?
+
+----
+num: 14
+category: Earth Science
+difficulty: MS
+seen: 8
+answer: Full;  New (In Any Order)
+
+Spring tides typically coincide with what 2 phases of the 
+Moon?
+
+----
+num: 15
+category: Math
+difficulty: MS
+seen: 7
+answer: 7
+
+What is the length, in inches, of one side of a square if the diagonal measures 7 2 ?
+
+----
+num: 15
+category: Math
+difficulty: MS
+seen: 7
+answer: 60
+(Solution:  200 =  (20)(w), W = 10;  P = 2(20) +2(10) = 60 Cm)
+
+If the area of a rectangle is 200 centimeters squared and the length is 20 centimeters, what is the perimeter of the rectangle, in centimeters?
+
+----
+num: 16
+category: General Science
+difficulty: MS
+seen: 5
+answer: Opposition
+
+What is the astronomical term for the orbital arrangement of a superior planet with reference to the positions of the Sun and Earth , at which time the superior planet will usually appear its brightest?
+
+----
+num: 17
+category: Life Science
+difficulty: MS
+seen: 11
+answer: Hemoglobin
+
+What is the most com mon globular protein in red blood cells?
+
+----
+num: 20
+category: Math
+difficulty: MS
+fixed: -1
+seen: 6
+answer: –
+101
+(Accept:  –0.1)
+
+If a line has a slope of 10, what is the slope of every line that is perpendicular to it?
+
+----
+num: 20
+category: Math
+difficulty: MS
+seen: 6
+answer: 100
+
+Consider an isosceles triangle whose vertex angle measures 20º. Find the measure of one of the EXT ERIOR angles, in degrees, at the base of the triangle:
+
+----
+num: 21
+category: General Science
+difficulty: MS
+seen: 6
+answer: Fusion
+
+What is the name of the atomic process that provides the energy for a star to shine?
+
+----
+num: 21
+category: General Science
+difficulty: MS
+seen: 6
+answer: 12
+
+The zodiac is typically considered to be made of how many constellations?
+
+----
+num: 22
+category: Life Science
+difficulty: MS
+seen: 11
+answer: Flies;  Beetles;  Moths  (Accept:  All but Crayfish)
+
+Name all of the following 4 groups of organisms that are insects: flies; beetles; crayfish; moths
+
+----
+num: 23
+category: Physical Science
+difficulty: MS
+seen: 5
+answer: Secondary
+
+In color synthesis using visible light, what is the most common term for the colors produced by combining equal proportions of two primary colors?
+
+----
+num: 24
+category: Earth Science
+difficulty: MS
+seen: 7
+answer: Mesosphere
+
+What layer of Earth’s atmosphere starts at about the stratopause and extends upwards to about 55 miles above the Earth?
+
+----
+num: 25
+category: Math
+difficulty: MS
+seen: 6
+answer: 250
+(Solution: D = Rt = (50mi/hr)(5 Hr) = 250 Miles)
+
+If a car travels at a rate of 50 miles per hour, what is the distance , in miles, traveled in 5 hours?
+
+----
+num: 25
+category: Math
+difficulty: MS
+seen: 6
+answer: 10 ^5
+
+Giving your answer in exponential form, simplify the followingexpression: 10^310×^210^4

@@ -1,0 +1,204 @@
+####
+tournament: BATE
+round: Finals 2.doc
+year: 2009
+####
+
+num: 1
+category: Religion
+difficulty: HS
+fixed: 1
+seen: 449
+answer: {Zen} Buddhism
+
+Its founder taught the practice of “wall-gazing,” and one of its patriarchs wrote The Platform Sutra.  Its masters include Chao-chou and Lin-Chi, and it was brought to America by D. T. Suzuki. The founder of its Soto school, Dogen, established its first independent temple in Japan, and The Blue Cliff Record and The Gateless Gate are associated with it.  Its followers aim to achieve satori, and its Rinzai sect is noted for its use of koans.  Emphasizing meditation without expectation, for 10 points, identify this subset of Buddhism prevalent in China and Japan.
+
+----
+num: 2
+category: Science
+difficulty: HS
+fixed: 1
+seen: 481
+answer: Gills 
+
+Argulus and trichodina are both common parasites found on these organs, while in insects, the plastron can often act as a certain type of one. They are protected by bony plates called the opercula while the rakers of this organ are used to filter out food. In vertebrae they are located on the exterior of the pharynx and play a key role in maintaining tonicity with the surrounding environment. Oxygen diffuses through these organs, while nitrogen and carbon dioxide are expelled through them. Lampreys have seven of them while most sharks have five of these. FTP, identify this common respiratory organ found in aquatic organisms.
+
+----
+num: 3
+category: Literature
+difficulty: HS
+fixed: 57
+seen: 448
+answer: Virginia {Woolf}
+
+She wrote an early novel which focuses on the journey of Rachel Vinrace to South America in Melymbrosia. The romance between Ralph and Katharine forms the plot of Night and Day, a work meant to follow her husband's work, The Wise Virgin. Other works by this author include one based on the personal loss of Thoby Stephen and another work that starts in the Elizabethian era and sees the titular character change gender halfway through the work. In addition to Jacob's Room, this author wrote a novel set at the Ramsay's summer house in the Hebrides and an essay which in one part asks if woman could write as well as Shakespeare. FTP, identify this member of the Bloomsbury Group who wrote To the Lighthouse and the essay A Room of One's Own.
+
+----
+num: 4
+category: Fine Arts
+difficulty: HS
+fixed: 57
+seen: 437
+answer: {Christ} the {Redeemer}
+
+The early idea for its construction was proposed by Pedro Maria Boss in honor of Princess Isabel. At its 75th anniversary, the area surrounding it was declared a Christian sanctuary at a consecration led by Archbishop Eusebio Scheid. Designed by Heitor da Silva Costa, Guglielmo Marconi was meant to activate its surrounding floodlights by means of radio at its 1931 opening. With an outer layer of soapstone surrounding reinforced concrete, it depicts a man in robes with outstretched arms.  Sculpted by Paul Landowski, FTP, identify this large religious monument standing at the top of Corcovado Mountain in Rio de Janeiro.
+
+----
+num: 5
+category: History
+difficulty: HS
+fixed: 1
+seen: 419
+answer: Samuel J. {Tilden}
+
+His later life saw his reputation seriously harmed by the publication of the “Cipher Dispatches” by the New York Tribune. A key moment hindering his politcal career occured when Justice Joseph Bradley replaced Senator David Davis of Illinois in a committee. In 1866 he was named chairman of the New York Democratic Party, where he took on the Boss Tweed led Tammany Hall and he took on the corrupt Canal Ring as governor of the state. However, running with Indiana Senator Thomas Hendricks, he may be most famous for an event which saw controversy in several southern states as well as Oregon, whose outcome was largely due to a Republican controlled commission and ended with a compromise that effectively brought Reconstruction to an end. FTP, identify this politician who controversially lost the 1876 election to Rutherford B. Hayes.
+
+----
+num: 6
+category: Geography
+difficulty: HS
+fixed: 57
+seen: 724
+answer: {Adirondack} Mountains
+
+Designated in 1892, the largest state or national park in the U.S. outside of Alaska is an area named for these mountains, which includes the Upper and Lower Wolfjaw Mountains. Its name derives from a derisive term meaning “eater of tree bark”. At the eastern edge of these mountains, the Saranac River flows into a larger body of water near Plattsburgh, the site of an important battle in the War of 1812. The first European sighting of this range occurred when Samuel de Champlain explored the area in 1609. The southern extent of these mountains is marked by the Mohawk River, the major tributary of the Hudson, and other borders are formed by the St. Lawrence River and Lake Champlain. FTP, name this sparsely populated region of mountains in northern New York State. 
+
+----
+num: 7
+category: Science
+difficulty: HS
+fixed: 57
+seen: 482
+answer: {Raoult's} Law
+
+A more general version of this law is the DECHEMA model, which adds activity coefficients. It can be derived using the definition of chemical potential and substituting in fugacity and the way it can predict boiling point elevation relates it to Duhring's Law. Its validity for multiple components can be shown using the Gibbs-Duhem equation while for certain substances; it can be seen as a special case of Henry's Law. Mixtures of polar components often show a positive deviation from it while mixtures adhering to this law are known as ideal solutions. Notably exceptions from this law are azeotropes.  FTP, identify this chemical law that states that the total pressure of a system is equal to the partial pressure of each component times it mole fraction.
+
+----
+num: 8
+category: Literature
+difficulty: HS
+fixed: 57
+seen: 442
+answer: Sinclair Lewis
+
+One of his early work's has been compared to Jack Kerouac's On the Road as the protagonist, Claire Boltwood, travels across the country and falls in love with Milt Dagget while in another work, the protagonist marries Edward Schwirtz over Walter Babson. In addition to Free Air and The Job, he wrote a novel where the protagonist reads books belonging to Doc Vickerson and works in the lab of Max Gottlieb where he discovers a bacteriophage that is effective against the plague. Another work deals with a drunk college student who becomes a Methodist minister and marries Sharon Falconer. In addition to writing Arrowsmith, he wrote about Claire Milford and Will Kennicott in the town of Gopher Prairie as well as a real estate salesman who lives in the town of Zenith. FTP, name this American author who wrote Elmer Gantry and Babbit.
+
+----
+num: 9
+category: History
+difficulty: HS
+fixed: -1
+seen: 415
+answer: Battle of Zama
+
+Cornelius Nepos would give this battle its modern name about 150 years after it occurred. It was part of a war that included the siege of Saguntum and the Battle of Ilipa, and it was preceded by the siege of Utica. One side divided their forces into hastati, principles and triarii while another side was supported by the Numidian Syphax. It's aftermath saw one side demand that Massinissa be recognized as king of Numidia while the confusion caused on one side was caused as the lines of soldiers collapsed upon each after their power war animals were confused by Roman war trumpets. Its aftermath would see a short lived peace that would come to an end with the razing of Carthage in the Third Punic War. FTP, identify this 202 B.C. battle that saw Scipio Africanus defeat Hannibal Barca and effectively end the Second Punic War.
+
+----
+num: 10
+category: Fine Arts
+difficulty: HS
+fixed: 57
+seen: 500
+answer: The {Swing}
+
+A story relating the origin of this work describes how Gabriel-Francois Doyen was originally asked to paint this work. Although the patron is unknown, it was at one point believed to be Baron de Saint Julien of the French clergy. In the distant background one can see a small fence although more visible is a statue of water chariot driven by dolphins. A shoe can be seen flying in the air as a stone statue of a cherub is seen on the left holding his finger to his mouth. Two ropes can be seen in the center of this painting as the main subject is being pushed by her lover, a priest, while a young man looks up her dress. FTP, a young girl on the titular device can be seen in what Rococo work by Jean-Honore Fragonard. 
+
+----
+num: 11
+category: History
+difficulty: HS
+fixed: 57
+seen: 418
+answer: Jamestown 
+
+Its namesake massacre would lead to the abandonment of the outlying town of Henricus. During the Civil War, it was controlled by William Allen, who ordered the constructions of earthworks to control river traffic. Its early history saw poor netless fishing techniques which led to what President George Percy described as the “starving time”. Edward Wingfield would choose a location hampered by mosquitoes and poor drinking water, but it is more notable for its proximity to Werowocomoco. Its original population arrived in the Discovery, the Godspeed and the Susan Constant, all commanded by Christopher Newport, and James Rolfe began to harvest tobacco at this site. The original meeting site of the House of Burgesses, it served as Virginia's capital until 1699. FTP, John Smith founded what first English settlement in North America? 
+
+----
+num: 12
+category: History
+difficulty: HS
+fixed: 1
+seen: 417
+answer: Kingdom of {Cambodia}
+
+The youth of this country have been described as a “lost generation” by Chea Vannath and education adviser Sean Borat gave overall praise to a controversial 2007 textbook. A tribunal occurring in this country is in part based on the actions of a man known as “Duch” who oversaw the S-21 prison. A recent report titled Country for Sale has accused the prime minister of this country, Hun Sen, of selling oil containing land to private parties. In addition, another person likely to be tried is a man once known as “Brother No 2”, the former Chief Ideologist Nuon Chea. FTP, identify this Southeast Asian country that is still recovering from its brutal Khmer Rouge period, with capital at Phnom Penh. 
+
+----
+num: 13
+category: History
+difficulty: HS
+fixed: 1
+seen: 420
+answer: Czar {Nicholas II}
+
+During his reign, Father Gapon would lead a general strike of workers. After taking power, he immediately dismissed the local Zemstva's from having any share of the role of the government. In addition, he signed an alliance with Germany at Bjorko even though his country was already in an alliance with France. His efforts at reform, such as the appointment of Pyotor Stolypin as Prime Minister or the creation of the Duma, were limited and ineffective and his attempts at war led to such disastrous defeats as Tsushima Straights, Port Arthur and Tannenberg. FTP, name this monarch who was advised by Rasputin and killed by the Bolsheviks, the last Russian czar.
+
+----
+num: 14
+category: Science
+difficulty: HS
+fixed: 1
+seen: 488
+answer: Complex {Conjugate}
+
+The dot product of x and y multiplies component-wise x and this of y.  When in polar form it is produced by negating the exponent.  For any real number taking it is the same as the identity function.  The addition of a number to this for that number produces a real number which is equal to double the real component of the previous number.   It is distributive over multiplication and addition and it is represented with a bar above the number, FTP, name this type of number formed by taking the negative of the imaginary part of a complex number.
+
+----
+num: 15
+category: Literature
+difficulty: HS
+fixed: 1
+seen: 443
+answer: The Tragedy of Julius {Caesar}
+
+A minor character in this work gets into an argument with a cobbler. Later, the protagonist and his fellow conspirator reconcile; that protagonist is earlier prompted to remember his ancestor's overthrow of Tarquinus Superbus when he reads a series of forged letters. This, along with an appeal that notes that fate “lies not in our stars, but in our selves”, convinces him to join a conspiracy. Although it ends with the protagonist and Cassius committing suicide, the one episode in this play involve the reading of a speech that notes that the deceased “thrice refused a kingly crown” and was most definitely not ambitious, and which opens with the line “friends, Romans countrymen, lend me your ears”. FTP; name this play where the title figure says “Et Tu, Brute”.
+
+----
+num: 16
+category: Philosophy
+difficulty: HS
+fixed: 1
+seen: 526
+answer: The {Republic}
+
+Hans-Georg Gadamer claimed that large parts of this work were meant to be read ironically and serve as an example of what happens with an idea taken too far. This work discusses the importance of those who have encountered the Agathon, and also contains a section which addresses the Problem of the Universals by conducting a thought experiment which illustrates its author's Theory of Forms with shadows dancing on the wall of a cave. The society envisioned by this work consists of three castes, including guardians and philosopher-kings. For ten points, identify this work which discusses how to make men the most happy through society, a dialogue by Plato.
+
+----
+num: 17
+category: Science
+difficulty: HS
+fixed: 1
+seen: 492
+answer: Mercury 
+
+Among the features of this body are the Caloris Basin, and the Borealis Quadrangle contains its Goethe Basin. At one point, this body was the subject of some confusion which led to the eventual discovery of the star 31 Crateris. A mission hoping to learn about its magnetic field is being launched by the European Space Agency and titled BepiColombo. Examination of this body have led to an unstable outer layer known as an “exosphere” and researchers using a VLA in 1991 found evidence to support the existence of thin ice caps. With a rotational period of 59 days, this body was the subject of the Mariner 10 mission and sees the largest temperature variation in the solar system. FTP, identify this planet that was the subject of the appropriately named MESSENGER spacecraft, the closest planet to the sun. 
+
+----
+num: 18
+category: Literature
+difficulty: HS
+fixed: -1
+seen: 445
+answer: Doctor {Faustus}
+
+One depiction of this figure is largely believed to have been inspired by Jacob Bindermann's Cenodoxus and the title character of Byron's Manfred was based on this man. Gertrude Stein wrote how this man “Lights the Lights” and Dorian Gray has been compared to this man in regard to his relationship with Lord Henry. A novel named for this name concerns the protagonist Serenus Zeitblom and his study of a composer who gave up love for artistic success, Adrian Leverkuhn. In another appearance, this man is a scholar from Wittenberg who with the help of his servant Wagner, learns black magic from Valdes and Cornelius, taking place in a work by Christopher Marlowe. FTP, identify this Doktor of a Thomas Mann work who in a work by Goethe encounters the devil as Mephistopheles.
+
+----
+num: 19
+category: Fine Arts
+difficulty: HS
+fixed: 1
+seen: 493
+answer: Il Dissoluto Punito, o Sia il {Don Giovanni} [prompt on The {Dissolute Punished}, or {Don Juan} before mentioned]
+
+Charles Gounod commented on how the time signature indicates two beats in a bar but instead was marked as Adagio in the “Trio of Masks” scene in this opera. The titular baritone and the soprano peasant girl sing the aria “We'll hold hands there”. The “Catalogue” aria and the aria “I work night and day” are sung by the title character's servant. Masetto is the lover of the previously mentioned soprano Zerlina. Fiance Don Ottavio vows to avenge the murder of his fiancée Donna Anna's father, Il Commendatore also known as Don Pedro, however this opera concludes with the eponymous character being dragged into Hell by a statue. FTP, name this opera by Austrian composer Wolfgang Amadeus Mozart taken from Tirso de Molina's play The Seducer of Seville which is based on the legend of Don Juan.
+
+----
+num: 20
+category: Social Science
+difficulty: HS
+fixed: 57
+seen: 377
+answer: {Olduvai Gorge}
+
+Its namesake theory states that industrial civilization will last for only 100 years and end by 2030. Recent work in the area has been conducted by Professor Masao and the Masek and Ndutu areas have shed light on the Acheulian industry. Located within the Ngorongoro Conservation Area, its importance largely stems from lake sediments as well as volcanic activity, and takes its name from a Maasai word for a sisal plant that is common in the area. It is divided into four different “beds” in which one can find the remains of Australopithecus and Homo Erectus. FTP, name this “Cradle of Mankind”, an area in the Serengeti that saw major excavations by Mary and Louis Leakey. 

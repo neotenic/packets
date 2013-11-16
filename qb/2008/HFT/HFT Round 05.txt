@@ -1,0 +1,194 @@
+####
+tournament: HFT
+round: HFT Round 05.doc
+year: 2008
+####
+
+num: 1
+category: Literature
+difficulty: HS
+fixed: -1
+seen: 448
+answer: {Henry James}
+
+This writer's characters include Hyacinth Robinson, who commits suicide to get out of assassinating a duke in The Princess Casamassima, and Mona Brigstock, who is angry that Adela Gareth has taken furniture from the title estate in The Spoils of Poynton. Another of his works sees Lord Mark reveal Merton Densher's plan to woo the dying heiress Milly Theale so he can marry Kate Croy, while in another novel Verena Tarrant elopes with Basil Ransom. FTP, name this author of Wings of the Dove and The Bostonians who created Isabel Archer in Portrait of a Lady.
+
+----
+num: 2
+category: History
+difficulty: HS
+fixed: 57
+seen: 422
+answer: {Ethiopia}
+
+Gondar became the capital of this country after its unification by King Fasilides. Its later rulers included Theodore II, who committed suicide after a British invasion, and Lij Yasu, who was deposed after converting to Islam. It abrogated the Treaty of Ucciali and defeated a force led by Oreste Baratieri in its Tigray Region at the Battle of Adawa. Its commander at Adawa, Emperor Menelik II, was a cousin of Ras Tafari, who became emperor under the name Haile Selassie. FTP, identify this landlocked East African country with capital at Addis Ababa.
+
+----
+num: 3
+category: Science
+difficulty: HS
+fixed: 1
+seen: 479
+answer: {L'Hopital's} rule (or {Bernoulli's} rule)
+
+It has a discrete analog in the Stolz-Cesaro theorem, which holds that the limit of the ratio of the difference between consecutive terms of two sequences is equal to the limit of the ratio of the terms. It is usually proved using the extended mean value theorem, and this statement holds only when one of the functions it describes does not change from positive to negative infinitely many times. It fails on the limit of x divided by the square root of x-squared plus one as x goes to infinity. FTP, identify this method that uses derivatives to compute indeterminate limits.
+
+----
+num: 4
+category: Geography
+difficulty: HS
+fixed: 1
+seen: 716
+answer: {delta}
+
+Cities found in these geographic features include Tanta, the birthplace of Muhammad Abduh, and Shenzhen and Zhuhai, which are two of China's Special Economic Regions. They can be classified as cuspate, arcuate, or bird's foot, and the largest island located in one is Marajó, which lies near the city of Belém in northeastern Brazil. The Rosetta and Damietta branches form the triangular shape of the classic example, which begins downstream from Cairo. FTP, identify this geographical feature that forms where a river fans out to meet the sea.
+
+----
+num: 5
+category: Philosophy
+difficulty: HS
+fixed: 1
+seen: 521
+answer: The {Leviathan}, or the Matter, Forme and Power of a Common Wealth Ecclesiasticall and Civil
+
+This work proposes that curators can personate madmen, children, and hallucinations, and its 46th chapter says that the savages of America have knowledge but not philosophy while musing on the struggle between darkness and knowledge. It dismisses imagination as “nothing but decaying sense” in its “Of Man” section, which calls life “nasty, brutish, and short,” and it denies the right to rebel against the social contract, which replaces the state of nature with rule by an absolute monarch. FTP, identify this treatise named for a sea monster by Thomas Hobbes.
+
+----
+num: 6
+category: History
+difficulty: HS
+fixed: -1
+seen: 418
+answer: {France}
+
+This country's forces won the 1920 Battle of Maysalun, but were targeted in a 1925-1927 revolt against its possession of territory promised to it by Mark Sykes. It signed the 1962 Evian agreements, which accepted the independence of a country led by Ahmed Ben Bella that it had conquered in 1930. This country's earlier defeats in the Middle East included the Battle of the Nile, won by Horatio Nelson, and the 1954 Battle of Algiers. FTP, identify this country that colonized Syria, Morocco, Lebanon, and Algeria.
+
+----
+num: 7
+category: Science
+difficulty: HS
+fixed: -1
+seen: 488
+answer: {calorimetry} (accept word forms {such} as {calorimeter})
+
+One type of this process is referred to as “differential scanning [this]” and is commonly used to find a substance's glass transition temperature. A more common type of this technique operates at constant volume with high-pressure pure oxygen and is ignited with an electric charge, which is reflected by a change in the surrounding water. In addition to the “bomb” form, simple ones typically contain a liquid in a good insulator, which is heated by a burning substance. FTP, identify this process of measuring the heat content of a given mass of fuel.
+
+----
+num: 8
+category: Trash
+difficulty: HS
+fixed: -1
+seen: 1020
+answer: the {Geico Gecko} (prompt on {just gecko})
+
+In 2006 he was given bigger eyes and a working class English accent, big changes from when he was voiced by Kelsey Grammer because a strike prohibited the use of live actors. He explains that customers can chat with an associate but not with him, but he had originally sought to distance himself from the company whose name customers confused with his species. In addition to a caveman, the Government Employees Insurance Company is represented by, FTP, what reptile who doesn't really care if you save 15% or more on your car insurance?
+
+----
+num: 9
+category: Literature
+difficulty: HS
+fixed: 1
+seen: 444
+answer: Yukio {Mishima}
+
+This author wrote a short story about a babysitter who dies of a heart attack after two children run away and drown as well as a novel about a fisherman who fixes a broken anchor cable to earn the right to marry Yasuo in The Sound of Waves. He also wrote about a reproduction of a painting of St. Sebastian that sparks Kochan's understanding of his homosexuality, while Shigekuni Honda believes Princess Chantrapa to be the reincarnation of a schoolmate in another of his works. FTP, name this author of Confessions of the Mask who included The Temple of Dawn in his Sea of Fertility tetralogy before he committed seppuku.
+
+----
+num: 10
+category: Fine Arts
+difficulty: HS
+fixed: 57
+seen: 494
+answer: {Goldberg} Variations
+
+Number 25 is the slowest and the last of three in G minor. Number 16 begins with an emphatic G-major chord and is styled after a French overture, while number 30 quotes the tune “Cabbage and turnips have driven me away.” Although number 7 is intended to be gigue tempo, Glenn Gould played it slowly. Every third one is a canon at successively higher intervals, and all are based on the ground bass of an aria that returns at the end of this collection. Named for its 14-year-old original performer, this is, FTP, what set of 30 variations by Johann Sebastian Bach?
+
+----
+num: 11
+category: Science
+difficulty: HS
+fixed: -1
+seen: 482
+answer: {Drosophila} melanogaster (prompt on {fruit fly} before it is mentioned)
+
+This organism features class II transposons called P elements, which cause a form of temperature-dependent sterility in its offspring called hybrid dysgenesis. Its blastoderm stage is a syncytium, allowing rapid uptake of injected DNA. Its salivary glands have giant polytene chromosomes formed from repeated endoreplication. Common mutations in this organism include antennapedia, though it is most associated with sepia eyes or vestigial wings. The two-week life cycle and sequenced genome make, FTP, what insect also called the fruit fly a great model organism?
+
+----
+num: 12
+category: Literature
+difficulty: HS
+fixed: 1
+seen: 451
+answer: Franz {Kafka}
+
+He addressed “a tiny shadow which has taken refuge at the furthest distance from the imperial sun” in “A Message from the Emperor.” He also wrote about a revelation after drinking a bottle of schnapps stolen from the Hagenback circus, which leads Rotpeter to give up his life as an ape. In another of his stories, the commandant of the title location has his back engraved by his own torture device, and in a novel he created a man who meets court painter Titorelli after his room at Frau Grubach's house is invaded by the Inspector. FTP, name this author of “In the Penal Colony” who wrote about Joseph K. in The Trial and Gregor Samsa in The Metamorphosis.
+
+----
+num: 13
+category: History
+difficulty: HS
+fixed: 1
+seen: 417
+answer: James Abram {Garfield}
+
+Earlier, he had been the winning lawyer in Ex Parte Milligan, which ruled suspension of habeas corpus unconstitutional. His administration became embroiled in the Star Route scandal shortly after he defeated W.S. Hancock. For 10 points, name this Half-Breed who refused to give a job to Charles Guiteau, resulting in his 1881 assassination.
+
+----
+num: 14
+category: Science
+difficulty: HS
+fixed: 57
+seen: 494
+answer: {Atwood's machine}
+
+The swinging variety is only integrable when the stationary element is three times as massive; otherwise, the motion it exhibits is chaotic. In the simplest case, the acceleration of the system is equal to g times the difference of the masses over the sum of the masses; similarly, the tension in the string connecting the two masses is equal to g times twice the product of the masses over their sum. Invented by its namesake to prove Newton's laws, this is, FTP, what simple apparatus that consists of two or more masses connected by a massless string on frictionless pulleys?
+
+----
+num: 15
+category: Literature
+difficulty: HS
+fixed: 1
+seen: 445
+answer: {As You Like It}
+
+In this play, one character explains the seven-part quarrel from the Retort Courteous to the Lie District by calling a courtier's beard badly cut. In it, the son of Sir Rowland de Boys defeats the wrestling champion Charles and later reconciles with his sleeping brother after saving him from a lioness. “The Seven Ages of Man” speech is recited by Jacques, who is amused by the romance between Audrey and the clown Touchstone, and a woman pretending to be Ganymede convinces Phoebe to promise to marry the shepherd Silvius. FTP, name this Shakespeare comedy that ends with four marriages in the Forest of Arden, including nuptials of Rosalind and Orlando.
+
+----
+num: 16
+category: Religion
+difficulty: HS
+fixed: 1
+seen: 441
+answer: {Lutheranism} (or {Lutherische Kirch})
+
+Hans Nielsen Hauge founded a branch of this denomination that emphasizes mysticism. This denomination's texts include both a small and a large catechism as well as the Smalcald Articles, which can be found in a collection of its ten most important documents called the Book of Concord. Major divisions of it in the United States include the Missouri and Wisconsin synods, and it accepts the doctrine of consubstantiation and holds that man is saved through grace alone. FTP, name this Protestant denomination that originated in Wittenberg with the 95 Theses of its founder.
+
+----
+num: 17
+category: Fine Arts
+difficulty: HS
+fixed: 57
+seen: 487
+answer: {Impression}, {Sunrise} (or {Impression}, {soleil levant})
+
+The masts of ships in the left background of this painting are colored purple, while the boat in the foreground is green and black. It was compared unfavorably with “wallpaper in its embryonic state” in the newspaper Le Charivari by Louis Leroy, who objected to the orange wash at its top and the visible black brushstrokes that comprise the waves in Le Havre harbor. In its center, the reddish-orange sun low above the horizon illuminates the indistinct structures on shore. FTP, name this painting by Claude Monet that gave its name to an artistic movement.
+
+----
+num: 18
+category: History
+difficulty: HS
+fixed: 1
+seen: 418
+answer: pogrom
+
+One took two months to spread across Spain in the summer of 1391, while the first occurred in France and Germany in 1096 and was part of the First Crusade. This term, which means “violent outbreak,” was first applied to one in 1821 that followed the death of an Orthodox patriarch, and it passed into English after a series of them organized by the Okhrana secret police after the assassination of Tsar Alexander II. Occurring most violently in Odessa, they also raged during the Russian Revolution. FTP, identify this Russian term for a massacre of Jewish civilians.
+
+----
+num: 19
+category: Science
+difficulty: HS
+fixed: 57
+seen: 481
+answer: {subduction}
+
+One paper postulates that this process explains the coronae of Venus, which are thought to arise from mantle plumes. This process typically results in the nearby development of back-arc basins, and it delaminates the lithosphere that enters the asthenosphere. Large igneous provinces, usually made of flood basalt, make one component of this process too buoyant, leading to the creation of fold mountains or volcanic island arcs. Involving at least one oceanic plate, this is, FTP, what process by which one tectonic plate slips under another?

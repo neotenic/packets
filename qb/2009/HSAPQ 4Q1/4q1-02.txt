@@ -1,0 +1,324 @@
+####
+tournament: HSAPQ 4Q1
+round: 4q1-02.pdf
+year: 2009
+####
+
+num: 1
+category: History
+difficulty: HS
+fixed: 1
+seen: 423
+answer: Ronald Wilson {Reagan}
+
+This man's idea of a defense system against nuclear missiles, the Strategic Defense Initiative, was dubbed the "Star Wars" plan. This president's press secretary, James Brady, was wounded when this man was shot at by John Hinckley, Jr. This man's administration was scandalized by the Iran-Contra affair. Before becoming president, this man served as Governor of California. This president won easily in his elections against Walter Mondale and Jimmy Carter. For 10 points, name this Republican president of the 1980s, who was succeeded by George H.W. Bush.
+
+----
+num: 2
+category: Science
+difficulty: HS
+fixed: 1
+seen: 486
+answer: Leonhard {Euler}
+
+An equation for the loading of beams in physics is named for Daniel Bernoulli and this man. This man's contributions to graph theory included determining an equation to relate the number of edges, faces and vertices of a convex polyhedron, and he determined that no solution existed for the Seven Bridges of Königsberg problem. For 10 points, name this Swiss mathematician, who lent his name to the base of the natural logarithm, e.
+
+----
+num: 3
+category: History
+difficulty: HS
+fixed: 57
+seen: 421
+answer: {Pericles}
+
+This man was taught by a musical theorist named Damon, and he prosecuted Cimon failing to conquer Macedonia, and he subdued Samos following its 440 BCE revolt. The son of Xanthippus, this man paid Aeschylus to write the Persian trilogy and ostracized his rival, the statesman Thucydides, and this man's mistress was Aspasia. For 10 points name this Athenian statesman who oversaw the construction of the Acropolis.
+
+----
+num: 4
+category: Fine Arts
+difficulty: HS
+fixed: 57
+seen: 494
+answer: Johann Sebastian {Bach} [prompt on {Bach}; prompt on J. {Bach}; do not accept "J. {C. Bach}" or "{C.} P. E. {Bach}"]
+
+This composer wrote three sonatas and three partitas for solo violin. His wife was the copyist of one version of his six suites for Cello. That wife was who he wrote his Anna Magdalena's Notebook for. This composer used a Picander text to write the Saint Matthew Passion. He wrote the “Air on the G String” and a series of six concertos named after a Margrave. For 10 points, name this Baroque composer of Toccata and Fugue in D minor for organ, The Goldberg Variations, and The Brandenburg Concertos.
+
+----
+num: 5
+category: Literature
+difficulty: HS
+fixed: -1
+seen: 514
+answer: Jean-Paul {Sartre}
+
+This author, who founded the monthly review Les Temps Modernes (lay temm mah-DERNZ) with his lover and Merleau-Ponty, wrote about a scholar in Bouville who tries to distract himself from a peculiar sensation by reading Balzac and studying the Marquis de Rollebon. After talking with the Self-Taught Man at a café, that character, Antoine Roquetin, accepts that his existence is the cause of his nausea. In one play by this author, Garcin, Inez, and Estelle torture each other after their death and bring about the revelation that “Hell is other people.” For 10 points, what French existentialist penned Being and Nothingness and No Exit?
+
+----
+num: 6
+category: Philosophy
+difficulty: HS
+fixed: 1
+seen: 518
+answer: Thomas {Aquinas}
+
+As part of this man's disagreement with Siger of Brabant, this thinker wrote "On the Unicity of Intellect", a tract criticizing Averroes (AV-err-OH-ess). Despite not being Jewish, he wrote a critique of Christian heresies titled Contra Gentiles (jen-TEEL-ace), or Against the Gentiles (this time, pronounced as in English). The Second Vatican Council called this man the "Perpetual Philosopher." This student of Albertus Magnus divided his major work into sections on Ethics, Christ, and Theology. For 10 points, name this Scholastic medieval theologian, the author of Summa Theologica.
+
+----
+num: 7
+category: History
+difficulty: HS
+fixed: 57
+seen: 415
+answer: Martin Van {Buren}
+
+Before becoming President, this man was the leader of the Albany Regency. This man was chosen as the Free Soil Party's candidate for the 1848 election. During this man's administration, the Aroostook War and the Panic of 1837 occurred. This man resigned his post as Secretary of State due to the Peggy Eaton, or Petticoat, Affair, although he returned to Andrew Jackson's administration as Vice President. For 10 points, name this successor of Jackson and eighth President of the United States, who was of Dutch descent.
+
+----
+num: 8
+category: Fine Arts
+difficulty: HS
+fixed: 57
+seen: 495
+answer: Edvard Hagerup {Grieg}
+
+This composer included an “Air” marked “andante religioso” as well as a "Sarabande" and "Gavotte" in his suite celebrating the playwright Ludvig Holberg. A timpani roll leads to an A minor chord to start the only piano concerto of this composer of Lyric Pieces. This composer wrote a movement depicting trolls in a suite that also includes "Anitra's Dance" and "Morning Mood" For 10 points, name this composer who included "In the Hall of the Mountain King" in his Peer Gynt Suite, a Norwegian.
+
+----
+num: 9
+category: Literature
+difficulty: HS
+fixed: 1
+seen: 450
+answer: Theodore Herman Albert {Dreiser}
+
+This author wrote the famous scence in which a lobster devours a squid in the first novel of his Trilogy of Desire about the business tycoon Frank Cowperwood, The Financier. In another novel by this author, George Hurstwood embezzles money to elope with the title character, but that member of the Meeber family eventually abandons him. In his most famous work, the protagonist goes on a canoe ride with his pregnant girlfriend contemplating to kill her, and she falls on her own. For 10 points, name the writer who created Clyde Griffiths and wrote Sister Carrie and An American Tragedy.
+
+----
+num: 10
+category: Science
+difficulty: HS
+fixed: 57
+seen: 497
+answer: {object}-{oriented} programming [prompt on anything {involving objects}]
+
+The Delphi programming language is a variation of Pascal developed to encourage this paradigm. Its central principles include encapsulation, the concept of hiding internal data from public access, and inheritance, or the ability to create derived classes. Languages designed explicitly to support this method of programming include Smalltalk, though common languages like C++ and Java employ it extensively. For 10 points, name this programming paradigm that focuses on using the namesake instances of classes to represent problems.
+
+----
+num: 11
+category: Literature
+difficulty: HS
+fixed: 57
+seen: 448
+answer: John {Milton}
+
+This author wrote about Sabrina, who frees the Lady from a chair she is bound to, in his masque Comus. In another poem, this author refers to himself as an "uncouth swain" and tells of the ruin of "the corrupted clergy," evoking the title shepherd in an elegy for his drowned friend Edward King. This poet describes a "talent" "Lodg'd with me useless" in a poem opening "When I consider how my light is spent," and his best known work contains a debate in Pandemonium involving Moloch and Belial, whose sequel is about the title place "reclaimed." For 10 points, name this blind English poet who wrote Lycidas and Paradise Lost.
+
+----
+num: 12
+category: Science
+difficulty: HS
+fixed: 1
+seen: 488
+answer: {boron} [accept {B} before it is read]
+
+This element's hydrides come in forms like closo-, nido-, and arachno-, and were useful in formulating Wade's rules. Three nitrogens and three of this element form the central ring of the so-called "inorganic benzene." This element complexed to hydrogen is dissolved in THF in an anti-Markovnikov oxidation reaction partly named for it. The triatomic allotrope of this element is a 9.3 on the Mohs scale, and it often forms Lewis acids because of its three valence electrons. For 10 points, name this metalloid element, number five on the period table, with chemical symbol B.
+
+----
+num: 13
+category: History
+difficulty: HS
+fixed: 57
+seen: 421
+answer: {Catherine} the Great [or {Catherine II} of Russia; or {Yekaterina Velikaya}; or {Yekaterina II}; prompt on {Catherine}]
+
+This ruler wrote the six hundred and fifty-five article Nakaz, or instruction, for a Legislative Commission making reforms in this ruler's country. With the help of Grigory Orlov, this ruler overthrew her husband, Peter III, to take the throne. This woman's time in power included the Pugachev rebellion. This empress took part in the partitions of Poland, and this ruler started the collection of art at the Hermitage Museum in St. Petersburg. For 10 points, name this German-born woman who became empress of Russia in the eighteenth century.
+
+----
+num: 14
+category: Literature
+difficulty: HS
+fixed: 1
+seen: 440
+answer: Alexander {Pope}
+
+This poet wrote about a lady whose "soul aspire above the vulgar flight of low desire" in "Elegy to the Memory of an Unfortunate Lady." In another work by this author, death of Elkanah Settle allows Dulness to crown Tibbald. This author wrote a satire in which the gnome Umbriel has to visit the Cave of Spleen and collect items after the sylphs are thrown into disarray by the title action, in which the Baron cuts off a lock of Belinda's hair. The Dunciad and An Essay on Man was written by, for 10 points, what author of The Rape of the Lock?
+
+----
+num: 15
+category: Fine Arts
+difficulty: HS
+fixed: 1
+seen: 486
+answer: Salvador Domingo Felipe Jacinto {Dalí} i Domènech
+
+This artist painted birds metamorphosing into pachyderms in his Swans Reflecting Elephants. This artist worked on films like The Golden Age and An Andalusian Dog with Luis Bunuel (BOONWELL). Flies and superimposed images of the Venus de Milo appear in this artist's The Hallucinogenic Toreador, which also includes floating heads modeled after this artist's wife Gala. Another of his works depicts a mirrorlike sea and cliffs in the background with an ant-covered pocketwatch and melting clocks in the foreground. For 10 points, name this artist of The Persistence of Memory.
+
+----
+num: 16
+category: History
+difficulty: HS
+fixed: 57
+seen: 413
+answer: Genghis Khan [or {Temujin}; prompt on "Khan"]
+
+This ruler sent a delegation of ambassadors to Ala ad-Din Muhammad, who shaved and beheaded all but one member. In response, this man attacked the Khwarezmian Empire with a force of twenty tumens. His rise to power began when he offered allegiance to the Kerait leader Toghrul. Later, due to the influence of Toghrul's son Senggum, Toghrul betrayed this leader for Jamuqa and was killed by a group of Naiman soldiers. For 10 points, identify this leader succeeded by his son Ogedai and grandson Kublai, who unified the Mongol empire.
+
+----
+num: 17
+category: Literature
+difficulty: HS
+fixed: 57
+seen: 440
+answer: Ray {Bradbury}
+
+In one of this man's works, James Nightshade and Will Halloway destroy the Mirror Maze and Dust Witch, which are part of Cooger & Dark's Pandemonium Shadow Show. In another novel, this author of The Illustrated Man wrote about Leo Auffman's construction of the Happiness Machine in Green Town, Illinois, where Douglas Spaulding also lives. He also described how Clarisse McClellan and Professor Faber inspire a man who rebels against Captain Beatty, the fireman Guy Montag. For 10 points, name this author of Dandelion Wine and Fahrenheit 451.
+
+----
+num: 18
+category: Mythology
+difficulty: HS
+fixed: -1
+seen: 785
+answer: King {Midas}
+
+One of this figure's secrets was revealed after his barber whispered into a hole in the ground. When this figure disagreed with Tmolus (tih-MOW-luss), by stating that Pan was a better musician than Apollo, this man was cursed with the ears of a donkey. This man obtained his most notable characteristic as a reward for his care of Silenus (sigh-LAY-nuss), but he rid himself of that ability by bathing in the river Patoclus (PAA-tow-cluss), after his ability killed his daughter and rendered his food inedible. For 10 points, name this Phrygian (FRIDGE-ee-uhn) king, to whom Dionysus (DYE-oh-NIGH-suss) gave the golden touch.
+
+----
+num: 19
+category: Fine Arts
+difficulty: HS
+fixed: 57
+seen: 493
+answer: The Birth of {Venus}
+
+One version of this painting includes five putti flying over the central character, who is reclining on the sea, and was painted by Alexandre Cabanel. The rightmost figure in this painting is a horae who extends a red flowered cloak to the title figure. In this painting, Chloris is clinging to Zephyrus, who blows the central character to shore. That character in this painting holds her orange hair by her hips, and stands on a clamshell. For 10 points, name this painting in which the goddess of love emerges on a shore, a work by Sandro Botticelli.
+
+----
+num: 20
+category: Science
+difficulty: HS
+fixed: 57
+seen: 488
+answer: {igneous} rock
+
+The grains of this kind of rock are classified based on whether they are phaneritic (fan-er-it-ick) or aphaneritic (eh-fan-er-it-ick) based on crystal size and visibility. These rocks are classified based on their silicon content as felsic or mafic. Formations with large amounts of exposed rock of this type are called batholiths, and usually form when sedimentary rocks have eroded from around instrusive formations. Often expelled via pyroclastic flow, the most notable rocks of this kind are granite and basalt. For 10 points, name this type of rock made from cooled magma.
+
+----
+num: 21
+category: History
+difficulty: HS
+fixed: 1
+seen: 418
+answer: {Iran} [or {Persia}]
+
+Kermit Roosevelt was an American intelligence officer who oversaw the Operation Ajax, a CIA operation that helped overthrow this country's Prime Minister, Mohammad Mossadegh. This country was formerly ruled by the Pahlavi dynasty, which was overthrown in a revolution that saw the capture of American hostages and contributed to Jimmy Carter's loss to Ronald Reagan. This country notably follows Shi'a Islam and its government is a theocratic Islamic Republic. For 10 points, name this country whose President is Mahmoud Ahmadinejad, who lives in Tehran.
+
+----
+num: 22
+category: History
+difficulty: HS
+fixed: -1
+seen: 418
+answer: {artificial languages} [or {constructed languages}; or {conlangs}; or {international auxiliary languages}]
+
+Late in life, the Italian mathematician Giuseppe Peano was the president of an academy devoted to one of these things, which Peano also invented. The priest Johann Martin Schleyer claimed to be commanded by God to create one called Volapük. A man who took on the name "Doctor Hopeful," Ludwik Zamenhof, created one of the most successful examples of these things, by eliminating gender and paring down to only one article. For 10 points, Interlingua and Esperanto are some of the most-used examples of what kind of language, along with Elvish and Klingon?
+
+----
+num: 23
+category: Science
+difficulty: HS
+fixed: 1
+seen: 480
+answer: {honeybees} [or Apis before read; prompt on {bees}]
+
+These organisms are affected by the Israel Acute Paralysis Virus, which is transmitted by the Varroa mite. Some of them perform a figure-eight action known as the waggle dance. These organisms are in genus Apis. Their population in North America and Europe has drastically declined due to Colony Collapse disorder. An "Africanized" version of these organisms is known for aggressively defending their turf. For 10 points, name these insects that produce a sweet substance coveted by bears.
+
+----
+num: 24
+category: Literature
+difficulty: HS
+fixed: 1
+seen: 450
+answer: Thomas Stearns {Eliot}
+
+The speaker of one poem by this man wishes he'd "been a pair of ragged claws" after earlier asking "how should I presume?" and describing women that "come and go/Talking of Michelangelo". Another of his works contains the refrain "Here we go round the prickly pear" and ends by noting that "the world ends/Not with a bang but a whimper." His best-known poem ends "Shantih shantih shantih" and opens by calling April "the cruellest month". For 10 points, name this author of "The Love Song of J. Alfred Prufrock", "Hollow Men", and "The Waste Land".
+
+----
+num: 25
+category: Science
+difficulty: HS
+fixed: 57
+seen: 492
+answer: {Doppler} effect [or {Doppler} shift; do not accept "{red shift}" or "{blue shift}"]
+
+Hippolyte Fizeau discovered this effect independently from its namesake in 1848. In spectral lines, this effect causes a namesake "broadening." In astronomy, it can be used to calculate radial velocities of neighboring galaxies. When two astronomical objects are moving away from each other, this effect produces red shift. Its applications include sonar and radar. For 10 points, name this effect in which the apparent frequency of a wave changes with the relative velocity of the observer to the source.
+
+----
+num: 26
+category: Literature
+difficulty: HS
+fixed: 57
+seen: 446
+answer: Ambrose Gwinnett {Bierce}
+
+One of this author's works includes quotations from such invented figures as Father Gassalasca Jape, while one of his short stories sees a deaf-mute boy encounter wounded soldiers returning from the title battle, after which he finds his house aflame. This author of "Chickamauga" wrote about Peyton Farquahar, who imagines escaping through the woods to his family only to realize he's been hanged by Union troops in "An Occurence at Owl Creek Bridge." For 10 points, name this author of a work once called The Cynic's Word Book, The Devil's Dictionary.
+
+----
+num: 27
+category: History
+difficulty: HS
+fixed: 1
+seen: 418
+answer: Republic of {Cuba} [or Republica de {Cuba}]
+
+The de Lome letter was intercepted by revolutionaries in this country. The Teller Amendment, in which the United States pledged not to establish control over this country, was replaced by the Platt Amendment. The explosion of a ship in the harbor of this country's capital led to one war for control of this island. American-trained exiles from this country undertook the Bay of Pigs Invasion. The existence of missiles in this country caused a crisis in October 1962. For 10 points, name this country that has been led since the 1950s by Castros.
+
+----
+num: 28
+category: Science
+difficulty: HS
+fixed: 1
+seen: 486
+answer: algae
+
+James Lovelock formed his Gaia Hypothesis while examining a model organism from a class of these creatures. These creatures include C. Reinhardtii and E. Huxleyi. These organisms contain a body known as a lamina, which is always attached to a stipe, and rapidly increase in population during namesake blooms. Cyanobacteria are called the "blue-green" type of these organisms studied in phycology, and examples of this class include sargassum. For 10 points, name this class of protists that includes many dinoflagellates, diatoms and kelp, an underwater predecessor to plants.
+
+----
+num: 29
+category: History
+difficulty: HS
+fixed: 57
+seen: 438
+answer: {conquistadors}
+
+Famous black members of this profession included Juan Valiente and Juan Garrido. Another man in this line of work wrote a True History of the adventure of which he was a part. In addition to Bernal Díaz, this profession included men who received help from the Tlaxcalan in one attempt to take a city. This job sometimes included trying to find the chief El Dorado or the Fountain of Youth. For 10 points, name this label of many Spaniards who forcibly seized land in the New World, the profession of such men as Hernando de Soto and Ponce de Leon.
+
+----
+num: 30
+category: Literature
+difficulty: HS
+fixed: 1
+seen: 447
+answer: Yasunari {Kawabata}
+
+This man, who founded the literary journal Bungei Jidai or The Artistic Age, used the retirement game of master Honinbo Shusai as the basis in a work narrated by the newsrporter Uragami, The Master of Go. This author's "palm-of-the-hand stories" include "The Dancing Girl of Izu." The setting of his most famous work is a hot-spring location that Shimamura visits and meets the Geisha Komako. For 10 points, name this Japanese author of Thousand Cranes and Snow Country.
+
+----
+num: 31
+category: Science
+difficulty: HS
+fixed: 57
+seen: 481
+answer: {endoplasmic} reticulum [or ER]
+
+The immunoglobulin heavy chain binding protein, or BiP, is a component of this organelle. This organelle plays a key role in detoxification and production of lipids, and its internal space is known as the lumen. Like the Golgi apparatus, this organelle contains flattened sacs known as cisternae, and this network of folded membranes is found in two forms depending on whether or not it contains ribosomes. For 10 points, name this organelle which comes in smooth and rough varieties.
+
+----
+num: 32
+category: Fine Arts
+difficulty: HS
+fixed: 57
+seen: 501
+answer: Wolfgang Amadeus {Mozart} [or {Johannes Chrysostomus Wolfgangus Theophilus Mozart}]
+
+This composer wrote about Konstanze's (con-STANZ-ehz) rescue from a Turkish harem in The Abduction from the Seraglio (seh-RAH-glee-oh). Another of his operas sees Ferrando and Guglielmo (goo-glee-EHL-moh) test the loyalty of their fiancées. Like his other works, the operas of this composer of Cosi Fan Tutte (COSS-ee fawn TOO-tay) are given Köchel (KERR-kul) numbers. For 10 points, name this composer of an opera about a notorious seducer, Don Giovanni, as well as The Magic Flute.

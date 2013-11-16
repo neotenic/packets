@@ -1,0 +1,314 @@
+####
+tournament: Question Set C
+round: Round-1C.pdf
+####
+
+num: 1
+category: Biology
+difficulty: HS
+seen: 39
+answer: Ribosomes
+
+Rough endoplasmic reticulum is named rough because it possesses what cellular structures?
+
+----
+num: 1
+category: Biology
+difficulty: HS
+seen: 40
+answer: Valves
+
+In humans, backflow of blood from ventricles into atria during contraction is prevented primarily by what structures?
+
+----
+num: 2
+category: Chemistry
+difficulty: HS
+seen: 33
+answer: Positive = Cations;  Negative = Anions
+
+What are the names for positive and negative ions, respectively?
+
+----
+num: 2
+category: Chemistry
+difficulty: HS
+seen: 32
+answer: Human Gastric Juice;  Orange Juice;  Blood;  Aqueous Ammonia
+
+Arrange the following 4 substances in order of increasing pH: orange juice; human gastric juice; blood; aqueous ammonia
+
+----
+num: 3
+category: Physics
+difficulty: HS
+seen: 25
+answer: Acceleration
+
+What is the scientific term for a change in velocity per unit time?
+
+----
+num: 3
+category: Physics
+difficulty: HS
+seen: 25
+answer: Momentum
+
+What is the most common term in physics for the product of mass times velocity?
+
+----
+num: 4
+category: Math
+difficulty: HS
+fixed: -1
+seen: 26
+answer: 1/4  (Accept:  0.25)
+
+What is the 5^th term in the geometric progression whose first three terms are: 64, 16, 4
+
+----
+num: 4
+category: Math
+difficulty: HS
+seen: 24
+answer: 141.4
+(Solution:  C = a 2 = 100 2 - 141.4cm)
+
+Giving your answer in centimeters to the first decimal place, if one leg of an isosceles right triangle is 100 centimeters long, how long is the hypotenuse?
+
+----
+num: 5
+category: Earth Science
+difficulty: HS
+seen: 61
+answer: Nitrogen and Oxygen  (In Any Order)
+
+As a percentage by volume in Earth’s atmosphere, what are the two most abundant gases in Earth’s atmosphere?
+
+----
+num: 5
+category: Earth Science
+difficulty: HS
+seen: 66
+answer: Continental
+
+What type of glacier flows outward from a center as opposed to down a mountain valley?
+
+----
+num: 7
+category: Astronomy
+difficulty: HS
+seen: 54
+answer: The Solar Wind
+
+What is the most common term for the celestial phenomenon that causes a comet's tail in our solar system to point away from the Sun?
+
+----
+num: 8
+category: Biology
+difficulty: HS
+seen: 38
+answer: Duodenum
+
+What is the anatomical term for the specific section of the small intestine into which the pancreatic duct delivers its digestive enzymes?
+
+----
+num: 9
+category: Chemistry
+difficulty: HS
+seen: 34
+answer: Carbon Monoxide  (Accept:  Co)
+
+In the combustion of methane, if the supply of oxygen is somewhat insufficient, what colorless, odorless and poisonous gas is produced?
+
+----
+num: 9
+category: Chemistry
+difficulty: HS
+seen: 35
+answer: 21
+
+Element number 19 has an isotope named potassium-40. How many neutrons does this isotope contain?
+
+----
+num: 10
+category: Physics
+difficulty: HS
+seen: 24
+answer: Frequency
+
+What property of a sound wave most directly determines the pitch of a violin’s note?
+
+----
+num: 11
+category: Math
+difficulty: HS
+fixed: -1
+seen: 24
+answer: 5 and –5
+
+Solve the following equation for x: – 3|x| = –15 (read as: minus 3 times the absolute value of x equals minus 15)
+
+----
+num: 11
+category: Math
+difficulty: HS
+seen: 25
+answer: 408
+(Solution:  X/2 + X/3 = X  – 68; X = 408)
+
+One-half of a number added to one third of the same number is 68 less than the number. What is the number?
+
+----
+num: 12
+category: Earth Science
+difficulty: HS
+fixed: -1
+seen: 64
+answer: West
+
+Giving your answer as north, south, east, or west, from what general direction does the jet stream flow?
+
+----
+num: 13
+category: General Science
+difficulty: HS
+fixed: -1
+seen: 30
+answer: Meters;  Kilograms;  Se Conds
+
+In the mks system, what are the 3 fundamental units?
+
+----
+num: 13
+category: General Science
+difficulty: HS
+fixed: -1
+seen: 30
+answer: 1  × 10^7 (Do Not Accept: 10^7)
+
+Giving your answer in scientific notation, convert 10 square meters into square millimeters:
+
+----
+num: 15
+category: Biology
+difficulty: HS
+seen: 37
+answer: Knee
+
+What is the common name for the joint that is formed by the articulation of the tibia, the fibula, and the femur?
+
+----
+num: 16
+category: Chemistry
+difficulty: HS
+seen: 34
+answer: 1
+
+How many unpaired electrons are in a neutral bromine atom?
+
+----
+num: 18
+category: Math
+difficulty: HS
+seen: 24
+answer: 50
+
+Evaluate the expression, x(y + z)^2, when x = 2, y = -8; and z = 3:
+
+----
+num: 18
+category: Math
+difficulty: HS
+fixed: -1
+seen: 26
+answer: 2
+52
+(Accept:  12
+5 or 2.4)
+(Solutio N:  1/x = 1/4 + 1/6;  X = 12/5 Hrs or 2 2/5 Hrs)
+
+If Emily can paint a fence in 4 hours but Kathy takes 6 hours, how many hours will it take them to paint the fence if they work together?
+
+----
+num: 20
+category: General Science
+difficulty: HS
+fixed: -1
+seen: 30
+answer: 1,000
+
+Convert 1 cubic decimeter into cubic centimeters:
+
+----
+num: 21
+category: Astronomy
+difficulty: HS
+seen: 54
+answer: Mare  (Accept:  Maria)
+
+What is the Latin-derived term for the relatively smooth lunar plains that are areas of the Moon that appear dark as viewed from Earth?
+
+----
+num: 21
+category: Astronomy
+difficulty: HS
+seen: 56
+answer: Mercury
+
+What planet has the greatest variation in temperature over a single one of its planetary days?
+
+----
+num: 22
+category: Biology
+difficulty: HS
+seen: 40
+answer: Central Vacuole  (Accept:  Vacuole)
+
+What is typically the largest organelle of a mature plant cell and can comprise up to 80% of the c ell’s volume?
+
+----
+num: 22
+category: Biology
+difficulty: HS
+seen: 40
+answer: Golgi  (Accept:  Golgi Apparatus, Complex or Stack)
+
+What eukaryotic cell organelle primarily functions to modify, sort, and package products for exocytosis?
+
+----
+num: 23
+category: Chemistry
+difficulty: HS
+seen: 35
+answer: Osmosis
+
+What scientific principle BEST describes why fresh pickles soaked in brine shrivel up after a period of time?
+
+----
+num: 24
+category: Physics
+difficulty: HS
+seen: 25
+answer: Carbon-12  (Accept:  C-12 or 12)
+
+What is the most common isotope of carbon?
+
+----
+num: 25
+category: Biology
+difficulty: HS
+seen: 40
+answer: 8
+
+How many walking legs are found in arachnids?
+
+----
+num: 25
+category: Biology
+difficulty: HS
+fixed: -1
+seen: 39
+answer: Saprophytic  (Accept:  Saprobe or Saprophage or Saproph Yte)
+
+What is the MOST common term for the general type of nourishment characteristic of mushrooms where the organism derives its nutrients by absorbing the biological products of another organism?

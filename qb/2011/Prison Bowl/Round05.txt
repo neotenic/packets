@@ -1,0 +1,214 @@
+####
+tournament: Prison Bowl
+round: Round05.doc
+year: 2011
+####
+
+num: 1
+category: Mythology
+difficulty: HS
+fixed: 57
+seen: 783
+answer: {Thoth} [accept {Djehuty}]
+
+This figure was known to the Greeks as Hermes Trismegistus, and was the main god in what would become Hermopolis. As the god of arbitration, this deity oversaw battles between Apep and Ra, Osiris and Set, and Horus and Set. He gambled with the moon for its light to help Nut bear her children. The Egyptians believed him to be the ruler over knowledge and law. In depictions of the Weighing of the Heart, this god was found standing at the side to record the outcome. The patron god of baboons, for 10 points, name this ibis-headed god who invented writing.
+
+----
+num: 2
+category: History
+difficulty: HS
+fixed: 1
+seen: 419
+answer: Benjamin {Disraeli}
+
+This person served under Lord Derby as Chancellor of the Exchequer, and passed the Reform Act of 1867. After being left out of the government by Robert Peel, he criticized the Corn Laws and split his party. He voted alone with Lord Bentinck in favor of a Jewish Disabilities bill which would have allowed Lionel Rothschild to take his seat, arguing that Christianity was “completed Judaism.” Famous for using his friendship with Queen Victoria in his feud with Gladstone, for 10 points, name this Conservative British Prime Minister, the first PM from a Jewish family.
+
+----
+num: 3
+category: Science
+difficulty: HS
+fixed: -1
+seen: 486
+answer: Max {Planck}
+
+This man names an equation describing stochastic processes along with Adriaan Fokker. The non-renormalizability of gravity becomes problematic at his namesake energy scale. He discovered a law that improves on Wien's approximation for low frequencies and avoids the ultraviolet catastrophe predicted by the Rayleigh-Jeans law. In addition to his law of black body radiation, he names a system of units based on fundamental constants. He posited that "E equals n times h nu," implying that energy is quantized. Known for a namesake constant equal to 2 pi times h-bar, for 10 points, name this German pioneer of quantum theory.
+
+----
+num: 4
+category: Religion
+difficulty: HS
+fixed: 1
+seen: 450
+answer: Calvinism
+
+Jacobus Arminius rejected some of this religion’s main points at the Council of Dort, setting the basis for the split between this religion and Methodism. In Scotland, this religion developed into John Knox’s Presbyterianism. Huldrych Zwingli influenced the early stages of this religion, whose reformation happened in Switzerland after the Lutheran Reformation. For 10 points, name this branch of Christianity whose five major tenets were outlined in its founder’s Institutes of the Christian Religion and include total depravity and predestination.
+
+----
+num: 5
+category: Literature
+difficulty: HS
+fixed: 57
+seen: 447
+answer: {Silas Marner}: The Weaver of Raveloe
+
+In this novel, one character is falsely accused of theft by William Dane, who eventually marries Sarah. Another character is told to sell the horse Wildfire, later killed in an accident. Another character in this novel is married to the opium addict Molly, preventing him from marrying Nancy Lammeter, while his brother Dunstan steals the title character's gold. In this novel, Aaron Winthrop wants to marry a character whose biological father is Godfrey Cass. For 10 points, name this novel about Eppie and the title "weaver of Raveloe" by George Eliot.
+
+----
+num: 6
+category: History
+difficulty: HS
+fixed: 1
+seen: 413
+answer: {Three Kingdoms} Period
+
+This period saw the murder of the Ten Attendants by the forces of Yuan Shao. One leader during this period is credited with developing a repeating crossbow and a south-pointing compass. The later part of this period saw Cao Pi proclaimed emperor. In one major battle during this period, fire ships secured victory against the overwhelming forces of Wei. It began with the Yellow Turban Rebellion and saw the Battle of Red Cliffs and the murder of Dong Zhuo by his adopted son Lü Bu. For 10 points, identify this period named for the number of states existing after the fall of the Han Dynasty.
+
+----
+num: 7
+category: Science
+difficulty: HS
+fixed: -1
+seen: 486
+answer: {chromatography} [accept {reversed}-{phase High Performance Liquid Chromatography within} first sentence]
+
+In one form of this process, unwanted silanol interactions can be prevented by using end-capping. Another form of this technique may employ a layer of sand to absorb the shock of pouring in the eluent. The retardation factor is calculated as the ratio of the distances traveled by the analyte and the solvent front in the thin-layer form of this technique. With liquid, gas, and column types, this term describes any technique wherein a mobile phase is passed through a stationary phase, such as a strip of filter paper. For 10 points, name this method of separating mixtures, which may be used to separate the pigments in a colored marker.
+
+----
+num: 8
+category: Social Science
+difficulty: HS
+fixed: 57
+seen: 382
+answer: Franz {Boas}
+
+In this man’s essay The Methods of Ethnology, he argued that it is more important to document "the way in which the individual reacts to his whole social environment" as opposed to the system of beliefs within the tribe. Author of Race and Democratic Society, this man advocated cultural relativism and disagreed with Lewis H. Morgan over the direction of change in family structure among the Kwakiutl. Some of this man’s pupils were Alfred Kroeber and Edward Sapir. For 10 points, name this former professor of anthropology at Columbia University and father of American anthropology, who wrote The Mind of Primitive Man.
+
+----
+num: 9
+category: Literature
+difficulty: HS
+fixed: 57
+seen: 445
+answer: {Li Po} or {Li Bo} or {Li Bai} or {Ri Haku} [prompt on {Li}]
+
+In one work by this author, ice and snow prevent the speaker from crossing a river and climbing mountains, causing him to proclaim "Journeying is hard." This poet of "The Hard Road" wrote another poem in which the moonlight before the speaker’s bed reminds him of his home village, while this author writes “drinking together we may drive away the sorrows of a thousand years." In another poem, he describes three companions--himself, his shadow, and the moon--dancing and drinking wine. For 10 points, name this Tang Dynasty poet and contemporary of Du Fu.
+
+----
+num: 10
+category: Fine Arts
+difficulty: HS
+fixed: 1
+seen: 490
+answer: Leonard {Bernstein}
+
+This man composed a ballet centering around Khonnon and Leah, titled Dybbuk. He composed the music to the operetta Candide, and dedicated his Kaddish Symphony to John F. Kennedy. This composer follows the Book of Lamentations in his Symphony No. 1, "Jeremiah," but he is best known for songs like "Cool," "A Boy Like That," and "Somewhere," about the conflict between the Jets and the Sharks. For 10 points, name this conductor and composer of the music to West Side Story.
+
+----
+num: 11
+category: Geography
+difficulty: HS
+fixed: -1
+seen: 705
+answer: Mount {Kilimanjaro}
+
+This mountain's caldera contains the Reusch Crater, and is notable for its lack of alpine bamboo. The nearest settlement to it is Moshi, and it contains the Furtwängler and Rebmann Glaciers. The next highest mountain in its country is Mount Meru, and the forests on its peak are the highest in the continent. First climbed by Hans Meyer, it is the highest freestanding mountain in the world. It is notable for its glaciers at the top which could disappear soon, and its highest point is Uhuru. For 10 points, name this inactive stratovolcano in Tanzania, the highest mountain in Africa.
+
+----
+num: 12
+category: History
+difficulty: HS
+fixed: 1
+seen: 422
+answer: {Spanish}-{American} War
+
+One theater of this war was previously the site of the Virginius Affair. Henry Glass won a notable victory in this conflict, in which the U.S. Fifth Corps achieved a victory under William Shafter at El Carney. The winning side in this conflict later fought a war with Moro insurgents and the Katipunan Society, along with the government of Emilio Aguinaldo. William Randolph Hearst and John Pulitzer widely publicized the actions of the losing side in their “yellow journalism.” For 10 points, name this conflict described by John Hay as a “splendid little war,” which began after the USS Maine blew up in Havana Harbor.
+
+----
+num: 13
+category: Science
+difficulty: HS
+fixed: 57
+seen: 485
+answer: aorta 
+
+This structure is overriding in patients with tetralogy of Fallot, while Marfan syndrome causes its myxomatous degeneration and Turner syndrome causes its coarctation. This elastic structure bifurcates at the level of the fourth lumbar vertebra. Existing as six arches in the developing embryo, in adults it contains a single arch, which branches into the brachiocephalic, subclavian, and common carotid arteries. The coronary arteries branch off from the ascending portion of this structure immediately after it emerges from the left ventricle. For 10 points, name this largest artery in the body that carries oxygenated blood from the heart.
+
+----
+num: 14
+category: Literature
+difficulty: HS
+fixed: 57
+seen: 436
+answer: {Holden} Caulfield [prompt on Caulfield]
+
+This character is upset by cheap suitcases while traveling on a train, and also by another character’s tears on a checkerboard. This character regrets turning down Faith Cavendish and later asks Carl Luce about his girlfriend. Made uncomfortable by Mr. Antolini, he buys a “Little Shirley Beans” record for his sister, which shatters when he is in Central Park looking for a pond with ducks. He later gives his sister his distinctive red hunting hat. For 10 points, name this phony-hating protagonist of JD Salinger's The Catcher in the Rye.
+
+----
+num: 15
+category: Trash
+difficulty: HS
+fixed: 1
+seen: 1023
+answer: {Portal} 
+
+At the beginning of this video game, the protagonist wakes up in a transparent-walled room containing a radio, clipboard, and toilet. This game's physics is described in-game as "speedy thing goes in, speedy thing comes out," as momentum is redirected with the same magnitude. During the end credits, GLaDOS sings that "This was a triumph." In this game, the player must euthanize the Weighted Companion Cube, and discovers that "the cake is a lie." For 10 points, name this Valve game in which the player navigates through a series of puzzles via the namesake wormholes.
+
+----
+num: 16
+category: History
+difficulty: HS
+fixed: 1
+seen: 412
+answer: Juan Domingo {Perón}
+
+Upon this man’s return to Ezeiza Airport, right-wing snipers massacred his supporters, including the Montoneros. His involvement the coup ending the Infamous Decade gave him strong ties to labor groups, which would contribute to the exclusion of his country's exports from the Marshall Plan. His supporters were called the descamisados, or the “shirtless ones,” and his government sheltered a Nazi war criminal later abducted by Mossad, Adolf Eichmann. His ideology was propounded by Nestor Kirchner. His second wife, Eva, died of cervical cancer and had been an actress and philanthropist. For 10 points, name this three-time President of Argentina.
+
+----
+num: 17
+category: Philosophy
+difficulty: HS
+fixed: 1
+seen: 519
+answer: Saint Thomas {Aquinas}
+
+This man wrote a commentary on Peter Lombard's Sentences, and wrote about the difference between "the believer" and "the philosopher" in another work. He wrote On the Eternity of the World and On There Being Only One Intellect Against the Averroists. In another work he adopted the argument of God as the "first mover." His Quinque viae appear in his most famous work, in which he prefaced each point with the phrase "I answer that." This Dominican author of Summa Contra Gentiles attempted to reconcile Christian thought with Aristotle’s philosophy. For 10 points, name this theologian who gave five proofs for the existence of God in his Summa Theologica.
+
+----
+num: 18
+category: Science
+difficulty: HS
+fixed: 57
+seen: 488
+answer: {trees} [prompt on {heaps} until it is mentioned]
+
+The “dancing” type of these objects is similar to the B+ type, and is used in the Reiser filesystem. In one type of these structures, the minimal element can be found in constant time and deleted in O(log n) (“big O of log n”) time, a property utilized in the heap sort algorithm. In another type of these structures, each entry is assigned a color, either red or black. The AVL type is self-balancing, and in the binary type, each node has at most two children. For 10 points, name these hierarchical data structures with root and leaf nodes, a collection of which is called a “forest.”
+
+----
+num: 19
+category: Literature
+difficulty: HS
+fixed: 1
+seen: 449
+answer: In {Search} of {Lost Time} or {Remembrance} of Things {Past} or À la {recherche du temps perdu}
+
+In this work, the narrator is moved by the paintings of Elstir, and later falls in love with Albertine, who names this work's sixth section. One character in this work marries Madame de Forcheville while her daughter Gilberte marries the closet homosexual Robert de Saint-Loup, a member of the Guermantes. This novel’s narrator recalls memories of Combray upon eating a madeleine steeped in tea. In this work Odette de Crecy is married to Charles, the namesake of its first section, Swann's Way. For 10 points, name this enormous seven volume novel by Marcel Proust.
+
+----
+num: 20
+category: Fine Arts
+difficulty: HS
+fixed: 1
+seen: 499
+answer: Caravaggio or {Michelangelo} Merisi
+
+This man painted a large red curtain hanging over a seemingly pregnant Mary in his Death of the Virgin. In one of his works, the title figure’s hand brushes the edge of a stone slab jutting out towards the viewer, and in another, a basket of fruit teeters perilously on a table's edge. In addition to The Entombment of Christ and Supper at Emmaus, this artist painted a work in which a diagonal beam of light extends Christ's outstretched finger to the figures seated at a table. For 10 points, name this Baroque painter who frequently used tenebrism, as seen in The Calling of St. Matthew.
+
+----
+num: 20
+category: Fine Arts
+difficulty: HS
+fixed: 57
+seen: 498
+answer: {Caravaggio} or {Michelangelo Merisi}
+
+This man painted a large red curtain hanging over a seemingly pregnant Mary in his Death of the Virgin. In one of his works, the title figure’s hand brushes the edge of a stone slab jutting out towards the viewer, and in another, a basket of fruit teeters perilously on a table's edge. In addition to The Entombment of Christ and Supper at Emmaus, this artist painted a work in which a diagonal beam of light extends Christ's outstretched finger to the figures seated at a table. For 10 points, name this Baroque painter who frequently used tenebrism, as seen in The Calling of St. Matthew.

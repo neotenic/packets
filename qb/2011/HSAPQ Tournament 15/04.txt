@@ -1,0 +1,274 @@
+####
+tournament: HSAPQ Tournament 15
+round: 04.pdf
+year: 2011
+####
+
+num: 1
+category: Geography
+difficulty: HS
+fixed: None
+seen: 715
+answer: Colorado
+
+Along with the state to its north, this state contains the Front Range Urban Corridor. The highest incorporated town in America, Leadville, is also found here. It is home to Mount Elbert and the Western Slope, which is the location of (*) Telluride, Vail, Aspen, and other ski resorts. This state, which forms the northeastern part of the Four Corners, contains Pike's Peak and cities such as Pueblo and Boulder. For 10 points, name this state whose capital is Denver.
+
+----
+num: 2
+category: History
+difficulty: HS
+fixed: 1
+seen: 411
+answer: {Czechoslovakia} [prompt on {Slovakia}; prompt on {Czech Republic}]
+
+One leader of this nation, Klement Gottwald, achieved power by driving Eduard Benes (BEN-esh) from the political scene in 1948. One founding document of this nation was the Pittsburgh Convention, which was brokered by Tomas Masaryk (MAZ-uh-rick). A leader of this country unsuccessfully attempted to reform this nation in 1968 by bringing about "socialism with a human face." That man was (*) Alexander Dubcek (DOOB-check). For 10 points, name this defunct central European nation whose peaceful end to Communist rule was known as the Velvet Revolution, and which was the location of 1968's Prague Spring.
+
+----
+num: 3
+category: Literature
+difficulty: HS
+fixed: 1
+seen: 449
+answer: Pablo {Neruda} [or Neftali Ricardo {Reyes} Basoalto]
+
+This poet wrote "It so happens I am sick of being a man" in the poem "Walking Around." One of his collections contains a poem beginning "I like for you to be still: it is as though you were absent," and one beginning "Tonight I can write the saddest lines." "The Heights of Machu (*) Picchu" is one section of his poetic history of Latin America, Canto General. For 10 points, name this Chilean poet of Twenty Love Poems and a Song of Despair.
+
+----
+num: 4
+category: History
+difficulty: HS
+fixed: 1
+seen: 416
+answer: Mahatma {Gandhi} [or {Mohandas} Karamchand {Gandhi}]
+
+This person's protest of a reserved number of seats for the "harijan" led to a compromise called the Poona Pact. One event initiated by this man was ended by the signing of a pact between Lord Irwin and him. This man led a walk from Sabarmati to Dandi in protest of a tax in the Salt March. His time in politics began when he worked as a (*) lawyer in South Africa and continued until he was assassinated by Nathuram Godse. For 10 points, name this leader of the "satyagraha" movement who used nonviolent resistance to achieve Indian independence.
+
+----
+num: 5
+category: Mythology
+difficulty: HS
+fixed: 1
+seen: 788
+answer: Odysseus
+
+This figure is told to bury an oar in a land without access to the ocean, where a “seaborn death” will come to him. Aided by the swineherd Eumaeus (yoo-MAY-us), he kills Antinous after stringing his bow and shooting an arrow through twelve (*) axeheads. This figure tells his crew to tie him to the mast so he can listen to the Sirens. His adventures include sailing Scylla and escaping the cave of Polyphemus. For 10 points, name this husband of Penelope who takes ten years to return from Troy to Ithaka in a namesake Homeric epic.
+
+----
+num: 6
+category: Literature
+difficulty: HS
+fixed: 57
+seen: 446
+answer: "The {Cask} of {Amontillado}"
+
+The narrator of this story informs another character that the motto of his family is "Nemo me impune lacessit" (NAY-mo may im-POO-nay lah-KESS-it), which is the actual motto of the Order of the Thistle. The final words of the story are "In pace requiescat!" A misunderstood gesticulation of one character, after consuming a draught of Medoc, prompts the narrator to produce a (*) trowel as a sign of his membership in the masons. Fortunato is entombed alive by Montresor in, for 10 points, what short story named after a bottle of wine by Edgar Allan Poe?
+
+----
+num: 6
+category: Literature
+difficulty: HS
+fixed: 57
+seen: 443
+answer: "The {Cask} of {Amontillado}"
+
+The narrator of this story informs another character that the motto of his family is "Nemo me impune lacessit" (NAY-mo may im-POO-nay lah-KESS-it), which is the actual motto of the Order of the Thistle. The final words of the story are "In pace requiescat!" A misunderstood gesticulation of one character, after consuming a draught of Medoc, prompts the narrator to produce a (*) trowel as a sign of his membership in the masons. Fortunato is entombed alive by Montresor in, for 10 points, what short story named after a bottle of wine by Edgar Allan Poe?
+
+----
+num: 7
+category: Science
+difficulty: HS
+fixed: 57
+seen: 493
+answer: trees
+
+One type of these objects that can be used to determine the longest palindrome in a string is referred to as "suffix". A version of this structure in which all the vertices are connected is a minimum spanning one. Another variety allows each node to have a maximum of (*) two child nodes with all nodes on the left being less than the value of the parent and all on the righter having a greater value than the parent. That is the binary search one. For 10 points, name this data structure whose lowest nodes are referred to as leaves.
+
+----
+num: 8
+category: Fine Arts
+difficulty: HS
+fixed: 1
+seen: 487
+answer: {Symphonies} by Wolfgang Amadeus Mozart [only symphonies required after mention of
+
+One of these compositions by a certain composer has a theme that begins with three repetitions of E-flat, D, D, then a higher B-flat. That one, and the “little G minor” one, which is the twenty-fifth of them, are the only compositions of this type by that composer in a minor key. The last of them has a five-voice fugato as well as a double fugue in its finale. The “Haffner” and “Linz” ones are not as well known as the fortieth of them, known as the “great,” and the final one, nicknamed the (*) “Jupiter." For 10 points, identify this set of forty-one works for orchestra by Wolfgang Amadeus Mozart.
+
+----
+num: 9
+category: Science
+difficulty: HS
+fixed: -1
+seen: 490
+answer: {velocity} [do not accept or prompt on "{speed}"]
+
+Calculating this quantity using the time elapsed for a traveling object yields a quantity sometimes known as celerity (suh-LAIR-it-ee). Force times this quantity equals power. The instantaneous value of this quantity is equal to the first derivative of (*) position. Multiplying this quantity by an object's mass gives linear momentum. For 10 points, name this vector quantity, whose magnitude is the scalar quantity known as "speed," and which is typically measured in meters per second.
+
+----
+num: 10
+category: Fine Arts
+difficulty: HS
+fixed: 1
+seen: 500
+answer: {Michelangelo} Buonarroti
+
+This artist created a sculpture of Moses with horns on his head for the tomb of Julius II, as well as a Rebellious Slave and a Dying Slave. One of his most famous marble works depicts a standing male nude with a barely visible slingshot and another, located in St. Peter's, shows (*) Mary holding the dead body of Jesus. For 10 points, name this sculptor of the Pietà and a notable David, who also painted the ceiling of the Sistine Chapel.
+
+----
+num: 10
+category: Fine Arts
+difficulty: HS
+fixed: 1
+seen: 495
+answer: {Michelangelo} Buonarroti
+
+This artist created a sculpture of Moses with horns on his head for the tomb of Julius II, as well as a Rebellious Slave and a Dying Slave. One of his most famous marble works depicts a standing male nude with a barely visible slingshot and another, located in St. Peter's, shows (*) Mary holding the dead body of Jesus. For 10 points, name this sculptor of the Pietà and a notable David, who also painted the ceiling of the Sistine Chapel.
+
+----
+num: 11
+category: Literature
+difficulty: HS
+fixed: 1
+seen: 445
+answer: Eugene {O'Neill}
+
+One of this author's plays features Mildred Douglas, who is repulsed by Yank after seeing him speak crudely; that work ends with Yank likened to a gorilla in the zoo. In addition to The Hairy Ape, he wrote about the farmer Phil Hogan in A Moon for the Misbegotten, which was intended as the sequel to a play in which the sickly Edmund is the brother of Jamie, who is an alcoholic. Edmund and Jamie are the sons of Mary and James (*) Tyrone in that play, Long Day's Journey Into Night. For 10 points, name this American playwright of The Iceman Cometh.
+
+----
+num: 12
+category: History
+difficulty: HS
+fixed: 1
+seen: 415
+answer: Saddam {Hussein} al-Tikriti
+
+After invading a neighboring country, this man promised to initiate the "mother of all battles" if other nations interfered. This man's crimes include launching the genocidal "Anfal" campaign and using biochemical weapons on the village of Halabjah. When the Baath party took power, this man became vice-president. This man's invasion of Kuwait prompted the UN to launch Operation Desert Storm. This man was (*) captured when he was found hiding in a spider hole near Al-Awja. For 10 points, name this longtime Iraqi dictator deposed in Operation Iraqi Freedom.
+
+----
+num: 13
+category: Literature
+difficulty: HS
+fixed: 57
+seen: 439
+answer: William {Shakespeare}
+
+In one poem, this man lamented loving a woman “as black as hell, as dark as night”; that poem is one of the twenty-eight poems he addressed to the “dark lady.” This poet wrote that “music hath a far more pleasing sound” than the voice of his lover, whose “eyes are nothing like the sun.” Another of this man’s poems notes that “every fair from fair sometime declines” after calling the addresse “more beautiful and more (*) temperate.” For 10 points, name this Elizabethan poet of “Shall I Compare Thee to a Summer’s Day?” and 153 other sonnets.
+
+----
+num: 14
+category: Science
+difficulty: HS
+fixed: 1
+seen: 481
+answer: viruses
+
+The CXADR receptor is utilized by adeno ones which are icosahedral. Classifications schemes for them include ICTV and the Baltimore scheme. They can have single or double (*) stranded genetic material which can be composed of DNA or RNA. Lysogenic ones integrate their genetic material into the host. Common components include spikes, envelopes, and capsids. Reverse transcriptase is used by retro ones such as HIV. For 10 points, name these infectious agents that require a host cell to replicate.
+
+----
+num: 15
+category: Trash
+difficulty: HS
+fixed: 1
+seen: 1016
+answer: Brooklyn {Dodgers} [or Los Angeles {Dodgers}; prompt on {Los Angeles}]
+
+Don DeLillo’s “Pafko At The Wall” is named for this team’s 1951 center fielder. While some of their old nicknames included “Bridegrooms” and “Superbas,” they eventually settled on a name inspired by the local abundance of trolley lines. One notable GM of this franchise refused to attend Sunday games, and that man, Branch Rickey, also signed (*) Jackie Robinson to this team, an act which broke Major League Baseball’s color barrier in 1947. For 10 points, name this baseball team which moved in 1958 from Ebbets Field in Brooklyn to its current home of Los Angeles.
+
+----
+num: 16
+category: Science
+difficulty: HS
+fixed: 57
+seen: 487
+answer: {oxygen} [or {O}]
+
+One atom of this element is found in the ring of a furan, and an atom of it is bound to two carbons in an epoxide. Reactive species of this element are due to unpaired electrons, making them radicals. Three atoms of this element make up a compound that absorbs (*) ultraviolet light in the atmosphere. Another form of this element is added to hydrocarbons in combustion reactions. For 10 points, name this element, number eight on the periodic table, which has a diatomic form that is required for aerobic cellular respiration.
+
+----
+num: 17
+category: History
+difficulty: HS
+fixed: 1
+seen: 416
+answer: {Louis XIV} of France [prompt on {Louis}]
+
+This ruler's commander Marshall Turenne lost at the Battle of the Dunes. The attempts of the Grand Alliance to undermine this ruler during the Nine Years' War ended in the Treaty of Ryswick. His country’s economy was managed by Jean-Baptiste Colbert. His schemes to extend the House of Bourbon sparked the War of Spanish Succession. He solidified his power following the death of Cardinal (*) Mazarin. This ruler claimed "I am the state" and moved his court to the palace at Versailles. For 10 points, name this long reigning French monarch known as the "Sun King."
+
+----
+num: 18
+category: Philosophy
+difficulty: HS
+fixed: 1
+seen: 522
+answer: John {Locke}
+
+This philosopher argued that a large number of religious groups decreases civil unrest in A Letter Concerning Toleration. In the first part of another work, he attacks Robert Filmer’s defense of a king’s divine right. He also posited that the human mind at birth is a blank slate, or a (*) tabula rasa. For 10 points, name this English Enlightenment philosopher, the author of Two Treatises of Government and An Essay Concerning Human Understanding.
+
+----
+num: 19
+category: Fine Arts
+difficulty: HS
+fixed: None
+seen: 496
+answer: Rene François Ghislain Magritte
+
+Two men holding a club and a net hide behind a wall waiting for the titular figure in this artist’s painting The Menaced Assassin. An easel displaying a painting of the outside view characterizes his The Human Condition, while his The Son of Man depicts a man in a bowler hat with an apple obscuring his face. He also depicted a train coming out a (*) fireplace in Time Transfixed. For 10 points, name this Belgian Surrealist who in The Treachery of Images depicted a pipe captioned with the words, "This is not a pipe."
+
+----
+num: 19
+category: Fine Arts
+difficulty: HS
+fixed: None
+seen: 488
+answer: Rene François Ghislain Magritte
+
+Two men holding a club and a net hide behind a wall waiting for the titular figure in this artist’s painting The Menaced Assassin. An easel displaying a painting of the outside view characterizes his The Human Condition, while his The Son of Man depicts a man in a bowler hat with an apple obscuring his face. He also depicted a train coming out a (*) fireplace in Time Transfixed. For 10 points, name this Belgian Surrealist who in The Treachery of Images depicted a pipe captioned with the words, "This is not a pipe."
+
+----
+num: 20
+category: Social Science
+difficulty: HS
+fixed: 1
+seen: 386
+answer: Stanley {Milgram}
+
+This man sent packages to random individuals in Omaha and Wichita with instructions to send to targets in Boston, in a study which attempted to calcuate the average path length of social networks. In addition to conducting the “small world” experiment, this researcher also conducted a study in which two-thirds of the “teachers” were willing to administer potentially fatal (*) electric shocks to the “learners” simply because they were told to. For 10 points, name this psychologist best known for his namesake obedience experiment.
+
+----
+num: 20
+category: Social Science
+difficulty: HS
+fixed: 1
+seen: 375
+answer: Stanley {Milgram}
+
+This man sent packages to random individuals in Omaha and Wichita with instructions to send to targets in Boston, in a study which attempted to calcuate the average path length of social networks. In addition to conducting the “small world” experiment, this researcher also conducted a study in which two-thirds of the “teachers” were willing to administer potentially fatal (*) electric shocks to the “learners” simply because they were told to. For 10 points, name this psychologist best known for his namesake obedience experiment.
+
+----
+num: 21
+category: History
+difficulty: HS
+fixed: 1
+seen: 425
+answer: Harry S. {Truman}
+
+This man rose to prominence as the head of a namesake "Senate Committee to Investigate the National Defense Program." His Vice-President, Alben Barkley, was nicknamed the "Veep." This President unsuccessfully vetoed the Taft-Hartley Act, attacked the "Do-Nothing Congress," and promoted his "Fair Deal." A Chicago Tribune headline falsely claimed that (*) Thomas Dewey had defeated this man. This President integrated the armed forces and entered the U.S. into the Korean War. For 10 points, name this President who authorized the use of atomic bombs in World War II.
+
+----
+num: 22
+category: Science
+difficulty: HS
+fixed: 1
+seen: 486
+answer: {Doppler}-Fizeau Effect
+
+The equation describing the relativistic form of this effect includes a factor equal to the square root of quantity one minus v over c, all over the square root of one plus v over c. Applications of this effect include echocardiography (ECK-oh-car-dee-AW-gruh-fee), in which it measures blood flow, and (*) radar, which uses it to calculate the speed of an incoming or outgoing object. For 10 points, name this effect in which the frequency of a sound increases as a sound source moves toward an observer, which is commonly exemplified by ambulance sirens.
+
+----
+num: 23
+category: Literature
+difficulty: HS
+fixed: 1
+seen: 442
+answer: The {Stranger}
+
+One character in this novel, Old Salamano, constantly beats his dog. In one scene from this novel, the protagonist is coaxed into writing a letter in the guise of his friend to that friend's girlfriend in order to persuade her to return despite her supposed infidelity. It opens at the protagonist's mother's funeral, where the protagonist is strangely unemotional. Later, having taken a gun from Raymond (*) Sintes, the protagonist shoots an Arab on a beach when he thinks he is in danger. For 10 points, name this novel in which Meursault is executed, a work of Albert Camus.

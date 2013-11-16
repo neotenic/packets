@@ -1,0 +1,447 @@
+####
+tournament: Sample Set 4
+round: Round10.pdf
+####
+
+num: 1
+category: Energy
+difficulty: HS
+fixed: -1
+seen: 37
+answer: Positive (Accept: Plus)
+
+In an electrolytic cell, what is the sign of the charge associated with the anode?
+
+----
+num: 1
+category: Math
+difficulty: MS
+seen: 6
+answer: 32
+
+A number is obtained by doubling an original value a total of 5 times. 
+What is the final result if the original number is 1?
+
+----
+num: 1
+category: Math
+difficulty: MS
+seen: 6
+answer: 5
+
+
+A number is obtained by doubling an origi nal value, then doubling that result, and repeating that doubling process 6 times. If the final value is 320, how large was the original number?
+
+----
+num: 2
+category: Life Science
+difficulty: MS
+seen: 11
+answer: Hybrid
+
+There is a corn field with two varieties of corn, Corn A and 
+Corn B, planted in alternating rows. The tassels are removed from Corn A, ensuring that the only pollen released in the field comes from Corn B. Not considering pollen that could be carried in from outside of the field, how can we characterize the ears of corn that will grow on Corn A?
+
+----
+num: 3
+category: Math
+difficulty: HS
+seen: 24
+answer: 
+
+What matrix is the multiplicative inverse of the 2 by 2 matrix (read as: row 1: 3, 1; row 2: 5, 2).
+
+----
+num: 4
+category: Physics
+difficulty: HS
+seen: 25
+answer: 12 Microfarads and 3 Volts
+
+What would be the total capacitance in microfarads and total voltage of 3 four-microfarad capacitors in parallel and two 1.5 volt batteries in series in a circuit?
+
+----
+num: 4
+category: Earth and Space Science
+difficulty: MS
+seen: 6
+answer: Cleavage
+
+What mineral characteristic is defined as a mineral’s ability to break along preexisting planes of weakness?
+
+----
+num: 5
+category: Math
+difficulty: MS
+seen: 6
+answer: 4 π^3
+
+
+What is the surface area, in terms of π, of a cylinder with a radius of πand height of π?
+
+----
+num: 6
+category: Math
+difficulty: HS
+seen: 23
+answer: 21
+
+What is the largest triangular number less than 25?
+
+----
+num: 6
+category: Math
+difficulty: HS
+seen: 26
+answer: 14
+
+A man who is 6 feet tall spots a bird at the top of a 14 -foot telephone pole. If the angle of ele vation from his eyes to the top of the pole is 30 degrees, then to the nearest foot, how far away is he standing from the base of the pole?
+
+----
+num: 6
+category: Life Science
+difficulty: MS
+seen: 12
+answer: Adenine, Guanine, Thymine, Cytosine
+
+Name the 4 nucleic acids found in DNA.
+
+----
+num: 7
+category: General Science
+difficulty: MS
+seen: 6
+answer: Supply Rate of Electric Power (Accept: Electric Power)
+
+What physical quantity does a wattmeter measure?
+
+----
+num: 7
+category: General Science
+difficulty: MS
+seen: 5
+answer: 10
+ 
+
+A 25 watt lamp has a resistance of 4 ohms. What is the voltage applied across the lamp?
+
+----
+num: 8
+category: Physics
+difficulty: HS
+seen: 25
+answer: Force Exerted by the Liquid
+
+Mercury or other liquid barometers work by balancing the force exerted by the atmosphere with what?
+
+----
+num: 8
+category: Earth and Space Science
+difficulty: MS
+seen: 6
+answer: Evaporite or Carbonate
+
+In some regions of the U.S., sinkholes form in the bedrock when rocks are naturally dissolved by circulating ground water. Name a rock type which can dissolve, collapsing to form spaces and caverns deep underground.
+
+----
+num: 9
+category: Math
+difficulty: MS
+seen: 7
+answer: 34
+
+What is 4(z + 3) - 2 (read as: 4 times the quantity z plus 3) when z = 6?
+
+----
+num: 10
+category: Earth and Space
+difficulty: HS
+seen: 48
+answer: Limestone (Accept: 4)
+
+Three of these things belong together. Which rock does NOT belong: 1) gneiss, 2) granite, 3) basalt, or 4) limestone?
+
+----
+num: 10
+category: Earth and Space Science
+difficulty: MS
+seen: 5
+answer: Plutonic
+
+What type of igneous rock forms underground, cools slowly, and can be identified by its large grain sizes and phaneritic texture?
+
+----
+num: 11
+category: Physical Science
+difficulty: MS
+seen: 6
+answer: Oxidation
+
+You have a yellow banana with no spots. You cut it into chunks to put it into a fruit salad, and it starts to turn brown. What process is causing the banana to turn brown?
+
+----
+num: 12
+category: Math
+difficulty: HS
+seen: 24
+answer: X = −1±
+3 7
+(Accept:  -1/3 ±  /3)
+
+Solve for x in simplest form for 3x^2 +2x = 2.
+
+----
+num: 12
+category: General Science
+difficulty: MS
+seen: 7
+answer: Magma
+
+What is the name for all the molten rock that is hidden underground ?
+
+----
+num: 13
+category: Earth and Space
+difficulty: HS
+seen: 47
+answer: Temperature
+
+Other than precipitation, what is the most important factor defining a biome?
+
+----
+num: 13
+category: Earth and Space
+difficulty: HS
+fixed: -1
+seen: 46
+answer: Organism, Sp Ecies, Population, Community, Ecosystem, Biome
+
+
+Put the following parts of an ecosystem in order from smallest to largest: biome, community, population, ecosystem, organism, species.
+
+----
+num: 14
+category: Math
+difficulty: HS
+seen: 27
+answer: (A – 2)(
+
+Factor the following expression completely over the integers:
+
+----
+num: 15
+category: Chemistry
+difficulty: HS
+seen: 34
+answer: Sulfur
+
+Onions, shallots and leeks contain substances that cause our eyes to water. What element is common to the substances?
+
+----
+num: 16
+category: Physics
+difficulty: HS
+seen: 25
+answer: Index of Refraction (Accept: Density of the Air)
+
+Mirages, such as the silvery glimmer you sometimes see on a distant hot highway, are caused by heating of the air near the ground. What relevant property of the heated air is changed?
+
+----
+num: 16
+category: Energy
+difficulty: MS
+seen: 7
+answer: A Mirage
+
+Name the phenomenon that occurs when light is refracted by layers of air which have different temperatures and produce a distorted image .
+
+----
+num: 17
+category: Earth and Space
+difficulty: HS
+fixed: -1
+seen: 47
+answer: Hadley Cell, Ferrel (Or Mid -Latitude) Cell, and Polar Cell
+
+
+What are the names of the three primary atmospheric circulation cells that circulate air between the equator and poles?
+
+----
+num: 17
+category: General Science
+difficulty: MS
+seen: 6
+answer: Apatosaurus
+
+The dinosaur known as a Brontosaurus since 1879 is correctly referred to by what name ?
+
+----
+num: 18
+category: Physical Science
+difficulty: MS
+seen: 5
+answer: Sodium Chloride
+
+What is the chemical name for the compound NaCl?
+
+----
+num: 18
+category: Physical Science
+difficulty: MS
+seen: 5
+answer: Cadmium Permanganate
+
+What is the chemical name for the compound 
+Cd(MnO ^4)^2?
+
+----
+num: 19
+category: Chemistry
+difficulty: HS
+seen: 32
+answer: Tetrahedral
+
+What is the shape of the bonding structure of carbon in diamond?
+
+----
+num: 19
+category: Chemistry
+difficulty: HS
+seen: 35
+answer: Hexagonal
+
+
+What is the characteristic shape of tourmaline crystals?
+
+----
+num: 19
+category: Earth and Space Science
+difficulty: MS
+seen: 6
+answer: Pangaea
+
+What is the name given to the supercontinent believed to have existed around 250 million years ago, before the continents split apart and drifted to where they are today?
+
+----
+num: 19
+category: Earth and Space Science
+difficulty: MS
+seen: 6
+answer: Asia, Africa, North America, South America, Antarctica, Europe,
+Australia
+
+
+Rank the seven continents in order from largest to smallest area .
+
+----
+num: 20
+category: Biology
+difficulty: HS
+seen: 40
+answer: Ulnar
+
+Cutaneous sensation to the lateral aspect of the dorsum of the hand is primarily provided by which nerve?
+
+----
+num: 20
+category: Math
+difficulty: MS
+seen: 6
+answer: 24
+
+If you had a stem-and-leaf plot in which the first stem 1 had leaves of 2, 2, and 4; the second stem 2 had leaves of 1, 4, and 5; and the third stem 3 had leaves of 0, 0, and 1; what is the median?
+
+----
+num: 21
+category: Physics
+difficulty: HS
+seen: 27
+answer: 5
+
+What is the total resistance, in ohms, of two resistors in parallel when both are 10 ohm resistors?
+
+----
+num: 21
+category: Physical Science
+difficulty: MS
+seen: 5
+answer: Atmospheric Pressure (Accept: Air Pressure, Barometric 
+Pressure)
+
+Name the environmental phenomenon most closely associated with air movement and measured using m illimeters of mercury.
+
+----
+num: 21
+category: Physical Science
+difficulty: MS
+fixed: -1
+seen: 6
+answer: 760
+
+
+In millimeters of mercury, what is the standard atmospheric pressure at sea level?
+
+----
+num: 22
+category: Earth and Space
+difficulty: HS
+seen: 49
+answer: A Transit of Mercury (Accept: Transit)
+
+What is it called when Mercury is observed to pass in front of the Sun?
+
+----
+num: 22
+category: Life Science
+difficulty: MS
+seen: 12
+answer: Osmosis
+
+What is the phenomenon of water moving across a semi-permeable membrane from an area of higher concentration to an area of lower concentration?
+
+----
+num: 22
+category: Life Science
+difficulty: MS
+seen: 10
+answer: Active Transport
+
+What are pinocytosis (read as: py-noh-si-TŌE-sis), phagocytosis (read as: fah-goh-sy-TŌE-sis), and exocytosis (read as: ehk-sōe -sy-TŌE-sis ) types of?
+
+----
+num: 23
+category: Math
+difficulty: MS
+seen: 6
+answer: 60
+
+Triangle CAT (read as: C-A-T) is a triangle with right angl e A. Angle T is twice the measure of angle C. What is the measure of angle T in degrees?
+
+----
+num: 23
+category: Math
+difficulty: MS
+seen: 7
+answer: ( -3, 1)
+
+
+Point D with coordinates (-1, -3) is reflected over the y-axis. The result is then reflected through the line y = x. What are the coordinates of the first image of the point D?
+
+----
+num: 24
+category: Biology
+difficulty: HS
+seen: 38
+answer: Sympatric
+
+Darwin's finches all descended from one species, the Blue-Black 
+Grassquit Finch. These finches evolved in overlapping and sometimes identical ranges, often occurring together on the same islands. What is the name for speciation that occurs in this way?
+
+----
+num: 25
+category: Physical Science
+difficulty: MS
+seen: 5
+answer: Plasma (Accept: Ionized Gas) (Do Not Accept: Gas)
+
+What state of matter is responsible for the production of light in fluorescent and neon lights?

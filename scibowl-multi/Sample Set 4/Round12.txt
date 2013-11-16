@@ -1,0 +1,528 @@
+####
+tournament: Sample Set 4
+round: Round12.pdf
+####
+
+num: 1
+category: Physical Science
+difficulty: MS
+answer: Y) Water Vapor
+
+What component of the air does humidity measure?
+W) Nitrogen
+X) Dust and other particulate matter
+Y) Water vapor
+Z) Carbon monoxide
+
+----
+num: 1
+category: Physical Science
+difficulty: MS
+answer: X) Tension That Equals Its Weight
+
+
+An object suspended above the ground by a string is acted upon by:
+W) No net tension
+X) Tension that equals its weight
+Y) Tension that equals its mass
+Z) Tension independent of its mass
+
+----
+num: 3
+category: Life Science
+difficulty: MS
+answer: Z) Roots
+
+Carrots, parsnips, radishes, and beets are all examples of:
+W) Stems
+X) Secondary roots
+Y) Modified leaves
+Z) Roots
+
+----
+num: 4
+category: Math
+difficulty: HS
+answer: Y) Cluster
+
+A student at your school conducts a survey about hair products. He determines the hair color of 50 of his classmates, and then randomly selects 5 redheads and 5 brunettes to participate in his survey. What type of sampling did he use?
+W) Simple random 
+X) Stratified random
+Y) Cluster 
+Z) Systematic
+
+----
+num: 5
+category: Chemistry
+difficulty: HS
+seen: 1
+answer: W) Vapor Pressure Elevation
+
+Which of the following is not a colligativ e property of solutions?
+W) Vapor pressure elevation
+X) Freezing point depression
+Y) Boiling point elevation
+Z) Osmotic pressure
+
+----
+num: 5
+category: General Science
+difficulty: MS
+answer: Z) Normal Fault
+ 
+
+A fault in the Earth's surface in which the hanging wall has moved down relative to the footwall is called:
+W) Downthrust fault
+X) Upthrust fault
+Y) Reverse fault
+Z) Normal fault
+
+----
+num: 6
+category: Earth and Space Science
+difficulty: MS
+answer: Z) Solids
+
+Through what medium can all kinds of earthquake waves travel?
+W) Plasma
+X) Liquids
+Y) Gases
+Z) Solids
+
+----
+num: 6
+category: Earth and Space Science
+difficulty: MS
+answer: Y) Plate Tectonics
+
+When the Earth’s interior finally cools, which of the following will stop?
+W) Water cycle
+X) Weathering and erosion
+Y) Plate tectonics 
+Z) Solar energy reaching Earth
+
+----
+num: 7
+category: Earth and Space
+difficulty: HS
+answer: Z) Indian Ocean Deep Water
+
+Which of the following is not a valid water mass defined by a unique temperature and salinity signature?
+W) Antarctic bottom water
+X) North Atlantic deep water
+Y) Antarctic intermediate water
+Z) Indian Ocean deep water
+
+----
+num: 7
+category: General Science
+difficulty: MS
+answer: W) Lead
+
+Which of the follo wing materials has the greatest density?
+W) Lead
+X) Silver
+Y) Zinc 
+Z) Copper
+
+----
+num: 7
+category: General Science
+difficulty: MS
+answer: Y) Potassium
+
+
+Which of the following does not belong to the alkaline earth metal group?
+W) Magnesium
+X) Calcium
+Y) Potassium
+Z) Barium
+
+----
+num: 9
+category: Earth and Space Science
+difficulty: MS
+answer: W) -18
+
+
+Without a greenhouse effect, what would
+W) be Earth’s approximate average temperature in degrees Celsius?-18
+Y) 8X) -8
+Z) 18
+
+----
+num: 10
+category: Biology
+difficulty: HS
+seen: 1
+answer: Y) Plasma Proteins
+
+Albumins, globulins and fibrinogen are all examples of:
+W) Capillary hormones
+X) Myocardial (read as: my-oh-KAHR-di(ah)l) antigens 
+Y) Plasma proteins
+Z) White blood cells
+
+----
+num: 10
+category: Biology
+difficulty: HS
+answer: X) Optic, Occulomotor, Facial and Vagus
+
+Cranial nerves two, three, seven, and ten refer to which cranial nerves, respectively?
+W) Occulomotor, trochlear, optic and facial
+X) Optic, occulomotor, facial and vagus
+Y) Trigeminal, olfactory, trochlear and vagus
+Z) Olfactory, vagus, facial and optic
+
+----
+num: 10
+category: Math
+difficulty: MS
+answer: X) 8
+
+If points A, B, and C create an equilateral triangle with side lengths of 4 units, and D is the image of C by a reflection across the line (AB), then what is the area of parallelogram ACB D in square units?
+W) 8 
+X) 8 
+Y) 12
+Z) 16
+
+----
+num: 11
+category: Physics
+difficulty: HS
+answer: X) the Velocity Is 11 Meters Per Second
+
+
+An object is dropped from an office window. T he amount of air resistance is unknown. After 1 second of falling, which of the following cannot be true?
+W) The velocity is 1 meter per second
+X) The velocity is 11 meters per second
+Y) The acceleration is 0 meters per second squared
+Z) The acceleration is 5 meters per second squared
+
+----
+num: 12
+category: Earth and Space
+difficulty: HS
+answer: W) O
+
+Which soil horizon is likely to have the most organic material?
+W) O 
+X) A 
+Y) C 
+Z) B
+
+----
+num: 14
+category: Biology
+difficulty: HS
+answer: W) Phenotype
+
+Monster Ralph and Monster Hilda get married and hatch 
+Friendly Freddy, their son. Freddy has purple and red striped hair and four eyes: 2 green and 2 gray. Freddy's hair and eye color are his:
+W) Phenotype
+X) Genotype
+Y) Alleles (read as: ah-LEELS)
+Z) Genes
+
+----
+num: 14
+category: Biology
+difficulty: HS
+answer: Z) They Can Be Harmful, Helpful, or Have No Effect on the 
+Organism
+
+Which of the following is true of genetic mutations?
+W) They are always harmful and usually hurt the organism
+X) They are always beneficial and frequently help the organism adapt to the environment
+Y) They are not natural and should not happen unless som ething goes wrong
+Z) They can be harmful, helpful, or have no effect on the organism
+
+----
+num: 14
+category: Energy
+difficulty: MS
+answer: X) Energy Expenditure
+
+Assuming no friction, in order to accomplish a specific task, using simple machines can change all of the following except:
+W) Distance of force
+X) Energy expenditure 
+Y) Path of object
+Z) Intensity of force
+
+----
+num: 14
+category: Energy
+difficulty: MS
+answer: W) the Pulley
+
+Bob can either raise a crate 4 feet using a pulley or push a crate up a 4 foot tall ramp. If using the pulley takes 5 seconds and using the ramp takes 10 seconds, which method requires greater average power?
+W) The pulley
+X) The ramp
+Y) Both methods take the same amount of average power
+Z) It depends on how steep the ramp is
+
+----
+num: 15
+category: Chemistry
+difficulty: HS
+answer: Z) Strong Acid, Weak Base
+
+
+Of which of the following acid -base titrations would the pH be less than 7 at the equivalence point?
+W) Strong base, weak acid
+X) Strong base, strong acid
+Y) Weak base, weak acid
+Z) Strong acid, weak base
+
+----
+num: 15
+category: Physical Science
+difficulty: MS
+answer: Y)  Relative Humidity
+ 
+
+The ratio of the amount of water vapor in the air to the amount required to saturate the air is:
+W) Specific humidity
+X) Absolute humidity
+Y) Relative humidity
+Z) Dew point
+
+----
+num: 17
+category: Chemistry
+difficulty: HS
+answer: X) the Number of Electrons in the Molecule
+
+
+The strength of the dispersion forces between two non -polar molecules increases with:
+W) The number of hydrogen atoms in the molecule
+X) The number of electrons in the molecule 
+Y) The magnitude of the largest electr onegativity of the atoms involved
+Z) The magnitude of the difference in electronegativity between the atoms
+
+----
+num: 17
+category: Life Science
+difficulty: MS
+answer: X) Muscle
+
+Which of the following is NOT considered connective tissue?
+W) Cartilage
+X) Muscle
+Y) Blood
+Z) Ligaments
+
+----
+num: 18
+category: Energy
+difficulty: MS
+answer: W) Because There Is No Difference in Potential Energy When 
+They Stand on Top of Power Lines
+
+Why aren’t birds electrified when standing on power lines?
+W) Because there is no difference in potential energy when they stand on top of power lines
+X) Because they’re not wet
+Y) Because the kinetic energy remains the same
+Z) Because there is a differential in potential that allows the flow of energy through them
+
+----
+num: 18
+category: Energy
+difficulty: MS
+answer: Y) Have One Leg Touch a Power Line and the Other Leg Touch the 
+Ground
+
+The only way for a bird to receive an electric shock when touching power lines at the same voltage and phasing is to:
+W) Touch the box where a transformer is enclosed
+X) Touch both the power line and another bird simultaneously
+Y) Have one leg touch a power line and the other leg touch the ground
+Z) Touch two power lines at the same time
+
+----
+num: 19
+category: Earth and Space Science
+difficulty: MS
+answer: Z) Located Relatively Close to the Sun, Relatively Small in Size, 
+Iron-Rich, Solid, Few or No Moons
+
+There are two groups of planets, terrestrial and Jovian, in our Solar System. Terrestrial planets have which of the following characteristics?
+W) Few moons, located near the asteroid belt, no solid surfaces, extremely cold
+X) Located relatively far from the Sun, gaseous, largest planets in the Solar System
+Y) Rich in rock, relatively very large in size, many moons, extremely high temperature at the surface
+Z) Located relatively close to the Sun, relatively small in size, iron -rich, solid, few or no moons
+
+----
+num: 20
+category: Earth and Space
+difficulty: HS
+answer: Z) Nitrogen
+
+The Haber-Bosch process revolutionized agriculture by providing a cheap, easy method to make fertilizers of an element essential for plant growth. 
+Which of the following is this essential element?
+W) Iron 
+X) Potassium 
+Y) Phosphorus 
+Z) Nitrogen
+
+----
+num: 20
+category: Math
+difficulty: MS
+answer: Y) a – B = B – A
+
+Which of the following equalities is NOT true, when a and b are nonzero, nonequal integers?
+W) a b = b a
+Z) X) 
+Y) a aa/b = 1/b + – bb = = bb+ –
+• aaa(read as: a over b equals 1 over b times a)
+
+----
+num: 21
+category: Physics
+difficulty: HS
+answer: W) They Are Able to Sustain Their Level of Activity Without an 
+External Neutron Source
+
+
+Nuclear reactions, such as those that occur in power generating reactors, are said to be critical when:
+W) They are able to sustain their level of activity without an external neutron source
+X) They have been shut down by the introduction of neutron poisons such as boron
+Y) They are increasing in power at a rate faster than expected
+Z) They are producing more thorium than uranium
+
+----
+num: 22
+category: Energy
+difficulty: HS
+answer: Y) Suitable Locations for Wind Farms With Sufficiently Constant 
+and Fast Win Ds Are Limited
+
+Wind can be harnessed to generate electricity via turbines. 
+Which of the following is the greatest challenge to widespread use of wind for electricity?
+W) Wind turbines are huge, expensive, and not particularly aesthetic
+X) Wind has major negative ecological and envi ronmental effects
+Y) Suitable locations for wind farms with sufficiently constant and fast winds are limited
+Z) Wind farms lead to significant loss of agricultural lands
+
+----
+num: 22
+category: General Science
+difficulty: MS
+answer: Y) 9
+
+A new chemical is produced that is slippery and has a bitter taste but is not very corrosive. What is the most likely pH of this chemical?
+W) 3
+X) 7
+Y) 9
+Z) 13
+
+----
+num: 22
+category: General Science
+difficulty: MS
+answer: W) Silurian
+
+Which of the following geologic periods is the oldest?
+W) Silurian
+X) Devonian
+Y) Jurassic
+Z) Permian
+
+----
+num: 23
+category: Earth and Space Science
+difficulty: MS
+answer: Y) Liter
+
+
+Which of the following is NOT an SI unit?
+W) Meter
+X) Kilogram
+Y) Liter
+Z) Ampere
+
+----
+num: 24
+category: Energy
+difficulty: HS
+answer: Z) Mile-or-More-Deep Wells Are Drill Ed Into Underground 
+Reservoirs to Tap Steam and Very Hot Water That Drive Turbines
+
+How is geothermal power produced?
+W) Heat energy is extracted from high temperature lava after eruptions
+X) Water from extremely hot springs is circulated in pipes in nearby homes for heating
+Y) Hot dry volcanic rocks are extracted from deep underground and processed in place at a geothermal plant
+Z) Mile-or-more-deep wells are drilled into underground reservoirs to tap steam and very hot water that drive turbines
+
+----
+num: 24
+category: Energy
+difficulty: HS
+answer: W) Wastewater
+
+In order to replenish the supply of steam at the geothermal plant called The Geysers, which of the following does an underground pipeline deliver?
+W) Wastewater
+X) River water
+Y) Ocean water
+Z) Rain water
+
+----
+num: 24
+category: Math
+difficulty: MS
+answer: X) 2 Y = 3x + 2
+
+Which of the following lines has the steepest slope?
+W) 
+X) 2yy= = 3x + 4x + 2
+Y) 4y = 3x + 20
+Z) 3 y – 4x = 3
+
+----
+num: 24
+category: Math
+difficulty: MS
+answer: W) a Straight Line Passing Through (0, 5) and (5, 1)
+
+Which of the following graphs could represent a negative correlation?
+W) A straight line passing through (0, 5) and (5, 1)
+X) An upward U-shaped curve with a vertex at (3, 3)
+Y) A straight line passing through (-2, 4) and (3, 10)
+Z) A downward U-shaped curve with a vertex at (0, 0)
+
+----
+num: 25
+category: Earth and Space
+difficulty: HS
+answer: Y) Sandstone
+
+Which type of rock is most likely to be drilled for oil?
+W) Granite
+X) Limestone
+Y) Sandstone
+Z) Basalt
+
+----
+num: 25
+category: Earth and Space
+difficulty: HS
+answer: X) Shale
+
+Which of the following types of rock is li kely to cap a layer of rock rich in oil?
+W) Sandstone
+X) Shale
+Y) Slate
+Z) Granite
+
+----
+num: 25
+category: Earth and Space Science
+difficulty: MS
+answer: Y) Talc
+
+Which of the following minerals is the softest?
+W) Quartz
+X) Diamond
+Y) Talc
+Z) Iron

@@ -1,0 +1,432 @@
+####
+tournament: #6165
+round: Show #6165 - Friday, June 3, 2011
+year: 2011
+date: 2011-06-03
+####
+
+num: 1
+category: Mythology
+difficulty: 200
+fixed: -1
+seen: 15
+answer: Poseidon
+
+This Greek god had dominion over the seas, springs & lakes, but not rivers.
+
+----
+num: 2
+category: Trash
+difficulty: 200
+seen: 5
+answer: Bob Dylan
+
+His set lists still include "Highway 61 Revisited", which he wrote 46 years ago.
+
+----
+num: 3
+category: Art
+difficulty: 200
+seen: 4
+answer: tweezers
+
+A pair of these small pincers is used to pluck out hairs so you won't have a unibrow.
+
+----
+num: 4
+category: Mythology
+difficulty: 200
+seen: 12
+answer: the tusks
+
+The longest teeth in the animal world are these on one of the largest animals.
+
+----
+num: 5
+category: Literature
+difficulty: 200
+seen: 4
+answer: Visine
+
+This brand makes Tired Eye Relief drops and Total Eye Soothing wipes.
+
+----
+num: 6
+category: Art
+difficulty: 200
+fixed: -1
+seen: 4
+answer: beeswax
+
+Honeycomb material used to make candles.
+
+----
+num: 7
+category: Mythology
+difficulty: 400
+seen: 12
+answer: Hermes
+
+In the "Odyssey" Zeus sends this messenger god to tell Calypso to free Odysseus.
+
+----
+num: 8
+category: Trash
+difficulty: 400
+seen: 5
+answer: The Who
+
+"So Sad About" this band that played its first farewell tour in 1982 & played the Super Bowl halftime in 2010.
+
+----
+num: 9
+category: Art
+difficulty: 400
+seen: 4
+answer: a corkscrew
+
+Hand me the 1982 Haut-Brion; we've got one of these spiral tools on the knife.
+
+----
+num: 10
+category: Literature
+difficulty: 400
+seen: 4
+answer: Ricola
+
+The name of this European brand of herbal cough drops is shouted in commercials for it.
+
+----
+num: 11
+category: Art
+difficulty: 400
+seen: 4
+answer: a beer garden
+
+Dating to 1812, Augustiner Keller in Munich is this type of outdoor drinking establishment.
+
+----
+num: 12
+category: Mythology
+difficulty: 600
+seen: 11
+answer: Ares
+
+Appropriately, the name of this Greek god means "male warrior".
+
+----
+num: 13
+category: Trash
+difficulty: 600
+seen: 4
+answer: The Comets
+
+Al Rappa, who started as part of this group with Bill Haley in 1956, now leads the group, Bill being dead.
+
+----
+num: 14
+category: Art
+difficulty: 600
+seen: 4
+answer: a screwdriver
+
+The Phillips 2-bit on the knife is one of these.
+
+----
+num: 15
+category: Mythology
+difficulty: 600
+fixed: -1
+seen: 13
+answer: the alligator
+
+Florida's state reptile, it's constantly replacing its 75 teeth & can go through 3,000 in a lifetime.
+
+----
+num: 16
+category: Literature
+difficulty: 600
+seen: 4
+answer: Secret
+
+Don't tell anyone--this deodorant that's "Strong enough for a man, made for a woman" was introduced back in 1956.
+
+----
+num: 17
+category: Art
+difficulty: 600
+fixed: -1
+seen: 4
+answer: beefalo
+
+It's 3/8 bison & 5/8 domestic cow.
+
+----
+num: 18
+category: Mythology
+difficulty: 800
+seen: 11
+answer: Hera
+
+One of her 4 children by Zeus was Hephaestus, also an Olympian god.
+
+----
+num: 19
+category: Trash
+difficulty: 800
+seen: 4
+answer: Eric Clapton
+
+He's lasted long enough to be inducted into the Rock & Roll Hall of Fame 3 times, the first with The Yardbirds.
+
+----
+num: 20
+category: Art
+difficulty: 800
+seen: 4
+answer: a magnifying glass
+
+This can help with reading the fine print or with starting a fire using sunlight.
+
+----
+num: 21
+category: Literature
+difficulty: 800
+seen: 4
+answer: Dr. Scholl\'s
+
+You should be gellin' like a felon with the massaging gel insoles from this brand named for a real M.D.
+
+----
+num: 22
+category: Art
+difficulty: 800
+seen: 4
+answer: Beedle the Bard
+
+In 2007 one of 7 handwritten copies of J.K. Rowling's "Tales of" this bard fetched nearly $4 million at auction.
+
+----
+num: 23
+category: Mythology
+difficulty: 1000
+seen: 12
+answer: Athena
+
+This Greek wisdom goddess was born full grown from Zeus' head because he'd swallowed his pregnant first wife.
+
+----
+num: 24
+category: Trash
+difficulty: 1000
+seen: 5
+answer: Jerry Lee Lewis
+
+"The Killer", he was born in 1935 & was still on the road in 2011.
+
+----
+num: 25
+category: Art
+difficulty: 1000
+seen: 4
+answer: a saw
+
+There are 2 of these, one for wood & one for metal.
+
+----
+num: 26
+category: Literature
+difficulty: 1000
+seen: 4
+answer: Neutrogena
+
+This skin care brand that's "#1 dermatologist recommended" has a line of Norwegian Formula moisturizers.
+
+----
+num: 27
+category: Art
+difficulty: 1000
+seen: 5
+answer: beef wellington
+
+Pate-coated tenderloin wrapped in pastry.
+
+----
+num: 28
+category: History
+difficulty: 400
+seen: 4
+answer: Atlantic City
+
+In 1976 Jersey said gambling was OK in this city, as long as each casino was part of a hotel with at least 500 guest rooms.
+
+----
+num: 29
+category: History
+difficulty: 400
+seen: 4
+answer: Solomon
+
+I Kings relates that this wise king had 700 wives & 300 concubines (Did I say wise?).
+
+----
+num: 30
+category: History
+difficulty: 400
+seen: 4
+answer: Fisherman\'s Wharf
+
+This tourist haven on the waterfront of the city is roughly bounded by Kearney & Bay Streets & Van Ness Ave.
+
+----
+num: 31
+category: Literature
+difficulty: 400
+seen: 3
+answer: stomach
+
+Eat too much poi & your opu, meaning this, might get larger.
+
+----
+num: 32
+category: Art
+difficulty: 800
+seen: 5
+answer: a skyscraper
+
+The 1893 novel "The Cliff-Dwellers" centers on this type of high-rise structure; Chi-town's first was completed in 1885.
+
+----
+num: 33
+category: History
+difficulty: 800
+seen: 4
+answer: a lottery
+
+In 1969 New Jersey voters approved a state this to raise money for schools... Let's give 3, 9, 15, 17, 32 & 41 a whirl.
+
+----
+num: 34
+category: History
+difficulty: 800
+seen: 4
+answer: Ivan the Terrible
+
+This 16th century man is usually credited with 7 wives, including Marfa Sobakina & Anastasia Romanovina.
+
+----
+num: 35
+category: History
+difficulty: 800
+seen: 4
+answer: Lombard Street
+
+It's the winding tourist attraction seen.
+
+----
+num: 36
+category: Literature
+difficulty: 800
+seen: 4
+answer: Oahu
+
+Home to the NFL's Pro Bowl, it's the third largest island in the Hawaiian chain.
+
+----
+num: 37
+category: History
+difficulty: 1200
+seen: 5
+answer: Trenton
+
+In 1784 this Jersey city said fine, we'll be the U.S. capital for a while; it would be the state capital 6 years later.
+
+----
+num: 38
+category: History
+difficulty: 1200
+seen: 5
+answer: George
+
+After his marriage to his beloved Catholic wife was declared invalid, the fourth British king of this name wed a Protestant.
+
+----
+num: 39
+category: History
+difficulty: 1200
+seen: 4
+answer: wood
+
+Napier Lane on Telegraph Hill is the only surviving S.F. street still made of this stuff; lots of it went in 1906.
+
+----
+num: 40
+category: Literature
+difficulty: 1200
+seen: 4
+answer: fish
+
+Opakapaka & ono are types of this creature.
+
+----
+num: 41
+category: History
+difficulty: 1600
+seen: 5
+answer: Whitman
+
+New Jersey said sure, so the Camden home of this "O Captain!  My Captain!" poet is a state historic site.
+
+----
+num: 42
+category: History
+difficulty: 1600
+seen: 4
+answer: César Chávez
+
+Army Street, which runs from Noe Valley to the Bay, was renamed for this migrant labor leader.
+
+----
+num: 43
+category: Literature
+difficulty: 1600
+seen: 4
+answer: a surfboard
+
+An olo is a traditional one of these sporting items that Laird Hamilton might use.
+
+----
+num: 44
+category: History
+difficulty: 2000
+seen: 5
+answer: Rutgers
+
+In 1945 New Jersey said yep, we'll take full responsibility for this university, founded as Queen's College in 1766.
+
+----
+num: 45
+category: History
+difficulty: 2000
+seen: 5
+answer: Ramsees the Great
+
+This "Great" Pharoah of Egypt's 19th Dynasty had 60 daughters, 96 sons & 200 wives & concubines.
+
+----
+num: 46
+category: History
+difficulty: 2000
+seen: 5
+answer: Mission Street
+
+This more than 7-mile-long street was once the road out to a religious establishment founded in 1786.
+
+----
+num: 47
+category: Literature
+difficulty: 2000
+seen: 5
+answer: a ghost
+
+Legend says a procession of oio, these, walks down Mahiki Road every year; Macbeth was also vexed by one.

@@ -1,0 +1,362 @@
+####
+tournament: Regional B
+round: round12.pdf
+year: 2002
+####
+
+num: 1
+category: Physics
+difficulty: HS
+seen: 1
+answer: W)  Cube of Its Av Erage Distance From the Sun
+
+Kepler’s third law states that th e square of a planet’s period is proportional to the:
+W) cube of its average distance from the sun 
+X) square root of its average distance from the sun 
+Y) cube of its average distan ce from its two neighboring planets 
+Z) square of its average distance from the sun
+
+----
+num: 2
+category: Chemistry
+difficulty: HS
+seen: 1
+answer: Y)  Heat of Fusion  Plus Heat of Vaporization
+
+A substance’s heat of sublimation at a given temperature is equal to which of the following at the same temperature:
+W) heat of fusion 
+X) heat of vaporization 
+Y) heat of fusion plus heat of vaporization 
+Z) heat of fusion minus heat of vaporization
+
+----
+num: 3
+category: Biology
+difficulty: HS
+answer: W)  Restriction Enzyme
+
+Which of the following molecules is best described as recognizing a specific nucleotide sequence and sniping the DNA at or near this recognition site:
+W) restriction enzyme 
+X) DNA polymerase 
+Y) RNA polymerase 
+Z) DNA ligase
+
+----
+num: 3
+category: Biology
+difficulty: HS
+answer: Z)  Nucleus and Chloroplasts
+
+A double membrane is found in the:
+W) endoplasmic reticulum and nucleus 
+X) nucleus and golgi (pronounced: GOAL-gee) 
+Y) lysosomes and golgi 
+Z) nucleus and chloroplasts
+
+----
+num: 4
+category: Astronomy
+difficulty: HS
+answer: X)  Cassiopeia
+
+Which of the following constella tions can be seen highest in the November sky of the northern hemisphere?
+W) Orion 
+X) Cassiopeia 
+Y) Mensa 
+Z) Cancer
+
+----
+num: 5
+category: Math
+difficulty: HS
+seen: 1
+answer: W)  2 Non-Overlapping Shaded Circles
+
+Which of the following Venn di agrams would best represent a relationship where sets A and B have no elements in common:
+W) 2 non-overlapping shaded circles 
+X) portions of circles A and B are overla pped and the intersection point is shaded 
+Y) circle A is entirely within ci rcle B and only circle A is shaded 
+Z) only circle A is shown
+
+----
+num: 6
+category: Earth Science
+difficulty: HS
+answer: Z) Geodesy
+
+What is the study of the size and shape of the Earth, the measurement of terrestrial gravitational forces, and the location of fixed points on the earth's surface:
+W) geography 
+X) geology 
+Y) geotropy 
+Z) geodesy
+
+----
+num: 6
+category: Earth Science
+difficulty: HS
+seen: 1
+answer: X)  a Relatively Viscous Magma
+
+Which of the following types of magma would LEAST likely be involved in a nonexplosive volcanic eruption:
+W) basaltic magma 
+X) a relatively viscous magma 
+Y) a relatively low silica content magma 
+Z) a relatively high-temperature magma
+
+----
+num: 7
+category: General Science
+difficulty: HS
+answer: Y)  Field Curvature
+
+A type of lens aberration whereby the lens cannot focus the image of a flat subject onto a flat surface is called:
+W) barrel distortion 
+X) chromatic aberration 
+Y) field curvature 
+Z) spherical aberration
+
+----
+num: 7
+category: General Science
+difficulty: HS
+seen: 1
+answer: W)  High Atomic Freq Uencies Are Difficult to Monitor
+
+One of the major challenges to making more accurate atomic clocks was:
+W) high atomic frequencies were difficult to monitor 
+X) maintaining constant atomic vibrations 
+Y) finding pure elementary samples for studies 
+Z) cosmic ray interference disrupts the accu rate measurements of atomic vibrations
+
+----
+num: 8
+category: Computer Science
+difficulty: HS
+seen: 1
+answer: W)  Docking Station
+
+A hardware frame and set of electrical connection interfaces that enable a notebook computer to effec tively serve as a desktop computer is called a:
+W) docking station 
+X) local bus 
+Y) proxy interface 
+Z) swapping deck
+
+----
+num: 8
+category: Computer Science
+difficulty: HS
+answer: Y)  Two-Tier Architecture
+
+A client-server architecture is also known as:
+W) peer-to-peer architecture 
+X) mainframe architecture 
+Y) two-tier architecture 
+Z) docking architecture
+
+----
+num: 10
+category: Chemistry
+difficulty: HS
+seen: 1
+answer: Z)  Spontaneously Only at Low Temperatures
+
+In the equation for Gibbs-free energy, if ∆H (read as: delta H) of a reaction is negative and ∆S (read as: delta S) is negative, then the reaction will occur:
+W) spontaneously at all temperatures 
+X) nonspontaneously at all temperatures 
+Y) spontaneously only at high temperatures 
+Z) spontaneously only at low temperatures
+
+----
+num: 11
+category: Biology
+difficulty: HS
+answer: Z)  Erythroblasts
+
+Which of the following cells woul d NOT typically be found in the peripheral circulation:
+W) Polymorphonuclear leukocyte 
+X) plasma cell 
+Y) reticulocyte 
+Z) erythroblasts
+
+----
+num: 11
+category: Biology
+difficulty: HS
+answer: Z)  the Integument
+
+The coat of a plant seed is t ypically derived from which of the following:
+W) the hypoderm
+X) the carpel 
+Y) the micropyle 
+Z) the integument
+
+----
+num: 13
+category: Math
+difficulty: HS
+answer: Z)  0.8 Rev
+
+Which of the following angles woul d be located in Quadrant IV of a rectangular coordinate system:
+W) 2/3 rev 
+X) -480° 
+Y) 3/16 rev 
+Z) 0.8 rev
+
+----
+num: 14
+category: Earth Science
+difficulty: HS
+answer: Y)  34 – 40 Knots
+
+A number of “8” on the Beaufort Scale indicates a wind speed of:
+W) 7 – 10 knots 
+X) 17 – 21 knots 
+Y) 34 – 40 knots 
+Z) 40 – 64 knots
+
+----
+num: 14
+category: Earth Science
+difficulty: HS
+answer: Z)  1995 - 2000
+
+In what 5-year period did the U.S. experience the highest level of North Atlantic hurricane activity:
+W) 1970 - 1975 
+X) 1980 - 1985 
+Y) 1985 - 1990 
+Z) 1995 - 2000
+
+----
+num: 15
+category: General Science
+difficulty: HS
+answer: X)  Euphotic
+
+In the oceanic ecosystem, which zone is defined by the depth of light penetration:
+W) probiotic 
+X) euphotic 
+Y) photobiotic 
+Z) bathyal
+
+----
+num: 15
+category: General Science
+difficulty: HS
+answer: Y)  Soda-Lime
+
+Most manufactured glass used to make bottles, tableware, lamp bulbs, and window and plate glass, is of what composition:
+W) potassium silicate 
+X) borosilicate 
+Y) soda-lime 
+Z) lead
+
+----
+num: 16
+category: Computer Science
+difficulty: HS
+answer: Z)  Tft
+(Solution:  Tft = Thin Film Transistor)
+
+Which of the following is NOT a protocol associated with the workings of the internet:
+W) POP3 
+X) FTP 
+Y) HTML 
+Z) TFT
+
+----
+num: 17
+category: Physics
+difficulty: HS
+seen: 1
+answer: Y)  the Temperature in Kelvins ^
+
+Wein’s law expresses the relati onship between the wavelength at the peak emission in black body radiation and:
+W) the change in pressure 
+X) the black body’s structure 
+Y) the temperature in Kelvins 
+Z) the interference patterns of associated electrons
+
+----
+num: 18
+category: Chemistry
+difficulty: HS
+answer: W)  2 Carbon Atoms
+
+A ketone is a class of compounds that contains a carbonyl group bonded to:
+W) 2 carbon atoms 
+X) 2 hydrogen atoms 
+Y) 2 nitrogen atoms 
+Z) 1 hydrogen and 1 carbon atom
+
+----
+num: 20
+category: Math
+difficulty: HS
+answer: W)  3 5
+
+Using the Cartesian coordinate sy stem, find the distance between the points (-4, 3) and (2, 6):
+W) 3 5 
+X) 
+Y) 3 12
+Z) 5 3
+
+----
+num: 21
+category: Earth Science
+difficulty: HS
+answer: Y)  Foliation
+
+Which of the following is NOT associated with sedimentary rocks:
+W) bedding 
+X) fossils 
+Y) foliation 
+Z) ripple marks
+
+----
+num: 21
+category: Earth Science
+difficulty: HS
+answer: Y)  Sundogs
+
+Also known as mock suns or parhelia, what is the name for a pair of brightly colored spots, one on either side of the sun, that are caused by sunlight passing through a thin layer of ice crystals:
+W) sun pillars 
+X) cloud iridescence 
+Y) sundogs 
+Z) silver lining
+
+----
+num: 22
+category: General Science
+difficulty: HS
+answer: Z)  Fungus
+
+Rust is a plant disease that attacks cereal plants such as wheat and rye and is caused by a:
+W) virus 
+X) larval insect 
+Y) bacterium 
+Z) fungus
+
+----
+num: 23
+category: Physics
+difficulty: HS
+seen: 1
+answer: W)  They Have No Electric Charge
+
+Fermi noted that the biggest advantage of bombarding nuclei with neutrons was because:
+W) they have no electric charge 
+X) they were easily produced in large numbers 
+Y) they often interacted with electrons 
+Z) they seldom had enough energy to split the nucleus
+
+----
+num: 24
+category: Chemistry
+difficulty: HS
+answer: Z)  N-Heptane
+
+Which of these substances is NOT attacked by hydrochloric acid:
+W) iron 
+X) calcite 
+Y) barium phosphate 
+Z) n-heptane

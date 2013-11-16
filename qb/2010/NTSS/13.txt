@@ -1,0 +1,194 @@
+####
+tournament: NTSS
+round: 13.pdf
+year: 2010
+####
+
+num: 1
+category: Science
+difficulty: HS
+fixed: 57
+seen: 483
+answer: {dimensions} [or {dimensionality}; accept {rank}]
+
+For a ring, this quantity is the least upper bound of its prime ideals and is named after Krull. For a vector space, this value equals the cardinality of a basis. Another version of this quantity is given by the quotient of the logarithms of the space-scaling rate and the log of the linear scaling rate; that form of this quantity is named for Felix Hausdorff, and gives non-integer values for fractals. This value is equal to the number of coordinates required to locate a point in a given space, which is why spherical and cylindrical coordinate systems require three values, while polar coordinates re- quire two. Give this value which equals zero for a point and one for a line.
+
+----
+num: 2
+category: History
+difficulty: HS
+fixed: 57
+seen: 421
+answer: {Cuzco} [or {Qozqo}]
+
+This city probably was started with members of the Marcavalle (mahr-kah-VI-yay) culture, and Brian Bauer is now a leading scholar on its history and its ceque (SAY-kay) system of forty-one imaginary lines. Under rulers in the Hurin and Hanan dynasties such as Sinchi Roca in the thirteenth century, it grew into a kingdom, but this city was conquered in 1533 when General Quisquis (kees-kees) fled and Atahualpa was captured by forces under the com- mand of Francisco Pizarro. Identify this city which during the fifteenth century was built up into the shape of a puma and which probably has been continuously occupied longer than any other in the Western Hemisphere, an Inca capi- tal located in the Andes Mountains in present-day Peru.
+
+----
+num: 3
+category: Geography
+difficulty: HS
+fixed: 1
+seen: 712
+answer: Seoul
+
+This city contains a building with green curves on its exterior, the Hana Bank Building. The tallest skyscrapers in this city are the 63 Building, Tower Palace Three, and Hyperion Tower. Most of this city is between Bukhan and Namsan Mountains, the latter of which has a large tower on it. This city also has the Banpo Bridge, which contains the Moonlight Rainbow Fountain and crosses over the Han River. It is located near Inchon and the Yellow Sea. Name this city whose metropolitan area is the second-largest in the world, the capital of South Korea.
+
+----
+num: 4
+category: Science
+difficulty: HS
+fixed: 57
+seen: 488
+answer: {Pioneer}
+
+Early craft in this program were designated Thor-Able and Atlas-Able. Other craft in this progam established a so- called “weather network” in space, which measured cosmic rays and the interplanetary magnetic field. The fourth probe in this program was the first vehicle to make a successful Earth-Moon trajectory, while the sixth probe was the first to analyze the Sun's corona and is still NASA's oldest functioning spacecraft. This program's namesake anomaly concerns the unexpected slowing of distant spacecraft, and its notable achievements include traversing the Asteroid Belt and proving that most gaps in Saturn's rings are not empty. Famous for carrying gold plaques intended to be viewed by extraterrestrials on its spacecraft 10 and 11, name this program that launched the first probes to photo- graph the outer solar system.
+
+----
+num: 5
+category: Literature
+difficulty: HS
+fixed: 57
+seen: 442
+answer: {Katerina Minola} [accept {Katherina}, {Katherine}, or {Kate}; prompt on {Minola}; prompt on {shrew}]
+
+This character warns, “If I be waspish, best beware my sting.” She later calls Vincentio a young budding virgin and says that love, fair looks, and true obedience are a small payment. This woman's younger sister is courted by one man pretending to be a music teacher and another man pretending to be a Latin tutor. Her father, who wants to make sure that she is married before her sister, is a wealthy resident of Padua named Baptista. After she does get married, this woman's husband keeps her from eating or sleeping for several days. Name this sister of Bianca and wife of Petruchio in Shakespeare's The Taming of the Shrew.
+
+----
+num: 6
+category: Fine Arts
+difficulty: HS
+fixed: 1
+seen: 493
+answer: Charles {Ives}
+
+On and off for much of his life, this composer worked on, but did not complete, a symphony whose sections were labeled Past, Present, and Future; that was the Universe Symphony. This composer wrote two contemplations: one of them, in which the piano refers to the ragtime classic “Hello Ma Baby”, is Central Park in the Dark, while the other, in which four flutes respond to a trumpet, is The Unanswered Question. Another symphony by this composer, which in- cludes Old Folks Gatherin', is nicknamed The Camp Meeting. Another work by this composer invokes a Civil War Memorial, a Revolutionary War Memorial, and the Housatonic River. Name this American composer of Three Places in New England.
+
+----
+num: 7
+category: Science
+difficulty: HS
+fixed: -1
+seen: 483
+answer: {plasmodesmata}
+
+These structures allow companion cells to regulate sieve-tube members in phloem (FLOH-um), and the movement of substances through them is called symplastic transport. These structures occur at densities up to one million per square millimeter in primary pit fields, and they form when the endoplasmic reticulum of a parent cell gets caught in the cell plate during mitosis. Analogous to gap junctions in animal cells, name these cytoplasmic channels that cross adjacent cell walls, allowing the transfer of molecules between plant cells.
+
+----
+num: 8
+category: Literature
+difficulty: HS
+fixed: 57
+seen: 445
+answer: Edith {Wharton}
+
+One short story by this author, about Grace Ansley and Alida Slade making insinuations about affairs with each other's husbands, is titled “Roman Fever”. The main character in one of this author's novels tries to get Percy Gryce to fall in love with her but later falls in love with Lawrence Selden. Another novel by this author has an engagement thrown for a loop by the impending divorce of Countess Olenska. This author also wrote about a man married to Zeena in the New England town of Starkfield. Identify this author who wrote about Lily Bart in The House of Mirth and Newland Archer in The Age of Innocence who also wrote Ethan Frome.
+
+----
+num: 9
+category: History
+difficulty: HS
+fixed: None
+seen: 422
+answer: Giuseppe Mazzini
+
+This politician wrote a letter to Charles Albert telling him that he had two options, terror, which probably would lead to assassination, or concessions. He later wrote a manifesto saying that great revolutions are the product of prin- ciples rather than bayonets. He broke with his follower Orsini (or-See-nee) before Orsini's assassination attempt against Napoleon the Third. Associated with the motto God and the People, he briefly served with Carlo Armellini (ar-meh-LEE-nee) and Aurelio Saffi as triumvirs of Rome in 1849. Though he became a national hero, he was in jail when Victor Emmanuel the Second captured Rome. Name this radical leader of the secret society Young Italy.
+
+----
+num: 10
+category: Fine Arts
+difficulty: HS
+fixed: -1
+seen: 494
+answer: {Cavalleria rusticana} [or {Rustic Chivalry}]
+
+In this opera, the women sing “Gli aranci olezzano sui verdi margini” (lee uh-RAHN-chee o-lay-ZAH-no swee VER-dee mar-JEE-nee) on Easter morning. Based on a short story by Giovanni Verga, much of its backplot is de- scribed in the song “Voi lo sapete”, which means “Now you shall know”. One of this opera's main characters, who sings “Fior di giaggiolo” (gee-AH-juh-low), is Lola. When Lola's fiancée served in the army, she married a teamster named Alfio instead. When that now ex-fiancée, Turiddu, returns, she has an affair with him, which upsets Santuzza. This opera often is performed in combination with Ruggero Leoncavallo's Pagliacci (pah-lee-AH-chee). Name this work by Pietro Mascagni (mas-CAH-nyee).
+
+----
+num: 11
+category: History
+difficulty: HS
+fixed: 57
+seen: 421
+answer: {Federal Reserve} Act [accept {Glass}-{Owen Bill} before it is mentioned]
+
+Some people claimed that this bill was written at the Jekyll Island Club. During debate over this bill, Senator Bris- tow stated, “The Senator from Oklahoma has accepted the most vicious provisions of the Aldrich Plan,” and he added that the Senate's behavior “would have made Alexander Hamilton blush.” This bill's impact was made permanent by the McFadden Act of 1927 and the creation of the FOMC in the 1930s. Sometimes referred to as Glass-Owen, its passage six years after the Panic of 1907 led to debates over how to select the eight to twelve cities it referred to and whether New York City would have a special status within that group, and its supporters claimed that it would stabi- lize the economy. Name this bill that created our current financial system.
+
+----
+num: 12
+category: Science
+difficulty: HS
+fixed: 1
+seen: 488
+answer: particle magnetic {spin} [or {spin} projection quantum number; prompt on {angular momentum} or {rota}-
+
+Scientists at the Relativistic Heavy Ion Collider are studying how this quantity is manifested in protons because it cannot be accounted for by quarks and gluons. According to the Standard Model, the only particles with a zero value for this quantity are Higgs bosons, and a graviton has the unusual value of two for this quantity. Particles with integer values of this quantity do not need to obey the Pauli exclusion principle and are classified as bosons. For electrons, it is described by fourth quantum number, and groups of particles are considered polarized when this value is in a consis- tent direction. Name this measure of a particle's intrinsic angular momentum.
+
+----
+num: 13
+category: Literature
+difficulty: HS
+fixed: 1
+seen: 440
+answer: “The {Negro Speaks of Rivers}”
+
+In this work, the narrator describes objects that are ancient and dusky, claiming that he has seen a “muddy bosom turn all golden in the sunset.” This poem was published when its writer was in his teens and was supposedly written in a few minutes as he passed from Illinois to his home state of Missouri. It mentions Abe Lincoln going to New Orleans and states, “My soul has grown deep.” The narrator also claims to have built a hut and “raised the pyramids,” and he knows about objects “older than the flow of human blood in human veins.” Identify this Langston Hughes poem about the Euphrates, Nile, Congo, and Mississippi.
+
+----
+num: 14
+category: Fine Arts
+difficulty: HS
+fixed: 57
+seen: 497
+answer: {Mannerism} [accept word forms]
+
+One example of this school of painting is the Volterra Descent from the Cross altarpiece. Another example of this school is Joseph in Egypt, which lacks a focal point and uses small heads. Those works were painted by Rosso Fioren- tino and Jacopo Pontormo, students of Andrea del Sarto. Other artists associated with this style are Bronzino and El Greco. This early art movement is associated with a movement away from nature and the use of twisted human poses. Name this sixteenth century movement between the Renaissance and Baroque which involved artists developing their own styles by studying other artists.
+
+----
+num: 15
+category: Religion
+difficulty: HS
+fixed: 57
+seen: 446
+answer: John {Calvin}
+
+This person broke the knowledge of God down into six parts, ending with the unity of the divine essence, and the knowledge of man into two parts, the second of which is his nature and powers. Two people who helped him were William Farel and Martin Bucer. Over fifty years after he died, this man's followers organized the Canon of Dort, a reaction against the Arminian Remonstrance, which supported doctrines such as irresistible grace, perseverance of the saints, and total depravity. One of this man's students was John Knox, the founder of Presbyterianism. Additionally, his namesake beliefs led to a break with the Church of England by the Puritans who settled the United States. Name this author of Institutes of the Christian Religion who was born in France and became a leader in Geneva, Switzerland.
+
+----
+num: 16
+category: Philosophy
+difficulty: HS
+fixed: 1
+seen: 523
+answer: Ludwig Josef Johann {Wittgenstein}
+
+This person imagined a language consisting entirely of the words blocks, pillars, slabs, and beams. This writer also used a story about sending somebody to the store to get five red apples to show that language is more complicated than Augustine claimed it was, using the concept of a language-game to show how language is used. The statements “A logical picture of facts is a thought” and “The world is everything that is the case” are two of the seven main propo- sitions of a book he wrote that is nearly in outline form. Name this author of Philosophical Investigations and Tractatus Logico-Philosophicus who once waved a fireplace poker at Karl Popper.
+
+----
+num: 17
+category: Science
+difficulty: HS
+fixed: 57
+seen: 488
+answer: {zero} product property
+
+This property does not hold in the rings of integers modulo a composite number, and whether it holds distin- guishes integral domains with respect to rings. A short proof by contradiction of this property consists of multiplying both sides of an equation by the multiplicative inverse of any factor on one side of the equation. Often used to find so- lutions to polynomials of degree greater than one, this property makes the solutions obvious once the polynomial has been factored. Name this property that states that if quantities multiply to the additive identity then at least one of the quantities is equal to the additive identity—that is, zero.
+
+----
+num: 18
+category: Literature
+difficulty: HS
+fixed: -1
+seen: 451
+answer: The {Birds} [or {Ornithes}]
+
+In this play, a poet is given a coat and jacket to get him to leave a new city he wishes to praise, while the soothsayer who follows him is told to soothsay somewhere else and Meton the Astronomer is threatened with violence. When Iris is detained and threatened with death, she reminds the speaker that she is immortal. She is detained by the same person who wants to block sacrifices from reaching the gods. This work begins with two men looking for Tereus, a king who goes by the name Epops after being transformed into a Hoopoe. Identify this play by Aristophanes about Goodhope and Makedo and the construction of Cloudcuckooland.
+
+----
+num: 19
+category: Science
+difficulty: HS
+fixed: 57
+seen: 484
+answer: {osmosis} [accept word forms; do not accept “{osmotic pressure}”]
+
+In 2009, the first power plant run on the pressure-retarded type of this process opened in Tofte, Norway. Henri Dutrochet built the first meter for measuring this process, and the formation of a silicate precipitate layer allows this process to power the growth of chemical gardens. Another type of this process relies on feed and draw solutions, while the equation pi equals M R T determines the pressure needed to counteract this process. Often reversed to desalinate seawater, identify this process in which water diffuses across a semipermeable (seh-mi-PUR-mee-uh-buhl) membrane before reaching equilibrium.

@@ -1,0 +1,263 @@
+####
+tournament: Regional B
+round: round10.pdf
+year: 2002
+####
+
+num: 1
+category: Physics
+difficulty: HS
+seen: 1
+answer: Y)  Radioisotopes
+
+In the 1950’s, the Oak Ridge National Laboratory made a significant impact on medical treatment and diagnosis by provi ding which of the following to researchers and clinicians:
+W) x-ray machines 
+X) power sources for pace makers 
+Y) radioisotopes 
+Z) large amounts of technetium
+
+----
+num: 2
+category: Biology
+difficulty: HS
+answer: X)  Streak Plate
+
+In microbiology, a standard method of obtaining a pure culture is:
+W) centrifugation 
+X) streak plate 
+Y) stab culture 
+Z) liquid fermantation
+
+----
+num: 2
+category: Biology
+difficulty: HS
+answer: W)  Active Dreaming With Desynchronized Eeg
+
+Which of the following best describes REM sleep:
+W) active dreaming with desynchronized EEG 
+X) atonia, (read as: A-tone-ee-ah) with deep sleep 
+Y) deep sleep with atonia and active dreaming 
+Z) deep sleep with active dreaming
+
+----
+num: 6
+category: Earth Science
+difficulty: HS
+answer: Z)  Less Than 1
+
+Approximately what percent of the water in the hydrosphere is groundwater:
+W) 10 
+X) 5 
+Y) 2.5 
+Z) less than 1
+
+----
+num: 7
+category: General Science
+difficulty: HS
+answer: Z)  Agriculture
+
+The development of this is usually considered by anthropologists and sociologists the main prerequis ite for an advanced social, economic and political structure:
+W) art 
+X) technology 
+Y) monetary system 
+Z) agriculture
+
+----
+num: 8
+category: Computer Science
+difficulty: HS
+answer: X)  .Swp
+
+In the Windows environment, which of the following file extensions represents a hidden file to re place pages or segments of data in memory:
+W) .dll (read as: dot, D, L, L) 
+X) .swp 
+Y) .exe 
+Z) .ini
+
+----
+num: 8
+category: Computer Science
+difficulty: HS
+answer: X)  480 Megabits Per Second
+
+Which of the following best represents the data transmission speed of a USB port:
+W) 128 kilobits per second 
+X) 480 megabits per second 
+Y) 650 megabits per second 
+Z) 12 megabits per second
+
+----
+num: 11
+category: Chemistry
+difficulty: HS
+answer: X)  Sp2
+
+A trigonal planar arrangement of electronic orbitals around an atom in a molecule most generally implies what type of hybridization:
+W) sp 
+X) sp2 
+Y) sp3 
+Z) sp3d
+
+----
+num: 12
+category: Astronomy
+difficulty: HS
+seen: 1
+answer: W)  Carbonaceous, Silicate or Iron-Bearing Materials With 
+Some Frozen Gases
+
+Which of the following is believed to be the most likely composition of cosmic dust:
+W) carbonaceous, silicate or iron-beari ng materials with some frozen gases 
+X) hydrogen, helium and lithium crystals 
+Y) thorium, uranium and lead particles from dead stars 
+Z) pure ice crystals with sm all amounts of ionized hydrogen
+
+----
+num: 14
+category: Earth Science
+difficulty: HS
+seen: 1
+answer: X)  600,000 – 800,000
+
+About how many years ago is it thought that the dominant ice-age cycle changed from 40,000 year periods to 100,000 year intervals with very large fluctuation:
+W) 200,000 – 400,000 
+X) 600,000 – 800,000 
+Y) 2 million – 2.5 million 
+Z) 4 million – 4.5 million
+
+----
+num: 14
+category: Earth Science
+difficulty: HS
+answer: Y)  Landslides
+
+Which of the following is kn own to have created one of the largest tsunamis, also known as a mega-tsunami:
+W) subterranean earthquakes 
+X) suboceanic earthquakes 
+Y) landslides 
+Z) volcanic eruptions
+
+----
+num: 15
+category: General Science
+difficulty: HS
+answer: Z)  Dian Fossey
+
+Which famous primatologist, a protégé of Louis 
+Leaky, dedicated her life to research of gorillas and was most likely murdered by poachers in 1985:
+W) Jane Goodall 
+X) Shirley Sparling 
+Y) Margaret Mead 
+Z) Dian Fossey
+
+----
+num: 16
+category: Computer Science
+difficulty: HS
+answer: Z)  Polymorphic
+
+What kind of viruses modify their appearance and change their program code periodically:
+W) multipartite 
+X) non-resident file 
+Y) stealth 
+Z) polymorphic
+
+----
+num: 16
+category: Computer Science
+difficulty: HS
+answer: Z)  Mmds
+
+When working optimally, which broadband connection to the internet provides the fastest download speeds:
+W) cable 
+X) DSL 
+Y) wireless satellite 
+Z) MMDS
+
+----
+num: 17
+category: Physics
+difficulty: HS
+answer: Z)  Red ^
+
+Which of the following colors of light has the SMALLEST angle of refraction in normal glass:
+W) violet 
+X) green 
+Y) orange 
+Z) red
+
+----
+num: 18
+category: Biology
+difficulty: HS
+answer: W)  Igg
+
+Which of the following classes of antibodies will predominate upon a second exposure to an antigen:
+W) IgG 
+X) IgE 
+Y) IgA 
+Z) IgN
+
+----
+num: 20
+category: Astronomy
+difficulty: HS
+answer: Z)  Right Ascension
+
+The angular distance of a star ea st of the Prime Meridian is most commonly referred to as the star’s:
+W) deviation 
+X) gnomon angle 
+Y) zenith point 
+Z) right ascension
+
+----
+num: 21
+category: Earth Science
+difficulty: HS
+answer: X)  15 Meters
+
+Neglecting any amplification effects that might be produced by shoreline irregularities, what is the tallest wave-height that can reasonably be created by an earthquake-generated tsunami:
+W) 3 meters 
+X) 15 meters 
+Y) 75 meters 
+Z) 150 meters
+
+----
+num: 22
+category: General Science
+difficulty: HS
+answer: W)  Precision
+
+Which of the following best describes how well a balance can repeatedly indicate th e same mass over a series of id entical weighings under similar environmental conditions:
+W) precision 
+X) accuracy 
+Y) linearity 
+Z) readability
+
+----
+num: 24
+category: Biology
+difficulty: HS
+answer: Y)  Citrulline
+
+Which of the following is a natu rally occurring amino acid that is 
+NOT found in proteins?
+W) asparagine 
+X) phenylalanine 
+Y) citrulline 
+Z) threonine
+
+----
+num: 25
+category: Chemistry
+difficulty: HS
+answer: X)  H and F
+(Solution:  H-F = 570;  H-Br = 366;  C-Br = 270;  N-Cl = 200)
+
+When bonded together, which of the following pairs has the highest average bond dissociation energy:
+W) H and Br 
+X) H and F 
+Y) C and Br 
+Z) N and Cl

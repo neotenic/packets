@@ -1,0 +1,329 @@
+####
+tournament: #6511
+round: Show #6511 - Monday, December 31, 2012
+year: 2012
+date: 2012-12-31
+####
+
+num: 1
+category: Trash
+difficulty: 200
+seen: 5
+answer: Marco Rubio
+
+"An American Son", by this senator whose parents left Cuba in the 1950s.
+
+----
+num: 2
+category: Literature
+difficulty: 200
+seen: 4
+answer: a treehouse
+
+Pack light for the woodpecker hotel near Stockholm; it's over 40 feet up, via a rope ladder, in one of these.
+
+----
+num: 3
+category: Literature
+difficulty: 200
+seen: 4
+answer: animate
+
+Give life to; Warner Bros. cartoonists did it to Bugs Bunny.
+
+----
+num: 4
+category: History
+difficulty: 200
+seen: 5
+answer: Iraq
+
+On Aug. 2, 1990 this nation invaded Kuwait & within 48 hours, had complete control; didn't last.
+
+----
+num: 5
+category: History
+difficulty: 200
+seen: 4
+answer: sharpened pencils
+
+Prior to inventing the first practical electric razor, Jacob Schick patented the Pencilaid, which did this.
+
+----
+num: 6
+category: Literature
+difficulty: 400
+seen: 4
+answer: a prison
+
+Enjoy a drink at Clink in Boston's Liberty Hotel, built as one of these in the 1800s.
+
+----
+num: 7
+category: Literature
+difficulty: 400
+seen: 4
+answer: vegetate
+
+Sprout like a plant, or lie on a couch like a useless slug, watching TV & eating chips.
+
+----
+num: 8
+category: History
+difficulty: 400
+seen: 4
+answer: Jesse Ventura
+
+Let me tell you something, McMahon!  In 1999 he joined "the body" politic & became governor of Minnesota.
+
+----
+num: 9
+category: History
+difficulty: 400
+seen: 4
+answer: an elevator
+
+Elisha Otis had his ups & downs but hit a high spot in 1852 when he invented a safety device for this conveyance.
+
+----
+num: 10
+category: Trash
+difficulty: 400
+seen: 5
+answer: gymnastics
+
+Aly Raisman & Jordyn Wieber.
+
+----
+num: 11
+category: Trash
+difficulty: 600
+seen: 5
+answer: Bob Woodward
+
+"The Price of Politics", the latest by this tireless reporter on the White House & Capitol Hill.
+
+----
+num: 12
+category: Literature
+difficulty: 600
+seen: 4
+answer: embellish
+
+Make beautiful, or add fictitious details.
+
+----
+num: 13
+category: History
+difficulty: 600
+seen: 4
+answer: the Stone of Scone
+
+The British government returned this "Stone of Destiny" to Edinburgh in 1996.
+
+----
+num: 14
+category: History
+difficulty: 600
+seen: 4
+answer: Ron Popeil
+
+This pitchman made sure we all knew about his family's inventions the Pocket Fisherman & the Veg-O-Matic.
+
+----
+num: 15
+category: Trash
+difficulty: 800
+seen: 5
+answer: the knuckleball
+
+"Wherever I Wind Up" by R.A. Dickey, who unlike most baseball players has mastered both written English & this weird pitch.
+
+----
+num: 16
+category: Literature
+difficulty: 800
+seen: 4
+answer: jettison
+
+To lighten a ship, you might do this, cast overboard something that's not needed.
+
+----
+num: 17
+category: History
+difficulty: 800
+seen: 4
+answer: Kofi Annan
+
+In 1997 he became the U.N.'s first secretary-general from sub-Saharan Africa; in 2012 he tried to make peace in Syria.
+
+----
+num: 18
+category: History
+difficulty: 800
+seen: 4
+answer: matches
+
+Joshua Pusey patented these in book form in 1892 but didn't "strike it" rich until several years later.
+
+----
+num: 19
+category: Trash
+difficulty: 800
+seen: 5
+answer: equestrian
+
+Queen Elizabeth's granddaughter Zara Phillips.
+
+----
+num: 20
+category: Trash
+difficulty: 1000
+seen: 5
+answer: Anthony Bourdain
+
+"Get Jiro!", a graphic novel by this host of "No Reservations"; Jiro is a sushi chef known to decapitate diners.
+
+----
+num: 21
+category: History
+difficulty: 1000
+seen: 4
+answer: Waco
+
+A 51-day standoff between the feds & Branch Davidians took place in 1993 near this seat of McLennan County, Texas.
+
+----
+num: 22
+category: History
+difficulty: 1000
+seen: 5
+answer: an organ
+
+Laurens Hammond invented a device to Shuffle bridge cards &, in 1934, the first practical electric one of these instruments.
+
+----
+num: 23
+category: Trash
+difficulty: 1000
+seen: 5
+answer: figure skating
+
+Dick Button (1948 & 1952).
+
+----
+num: 24
+category: Literature
+difficulty: 400
+seen: 3
+answer: middle age
+
+Time of life from 45 to 60, roughly.
+
+----
+num: 25
+category: Literature
+difficulty: 400
+seen: 4
+answer: Truman Capote
+
+Philip Seymour Hoffman won the best actor Oscar for his role as this author.
+
+----
+num: 26
+category: History
+difficulty: 400
+seen: 3
+answer: Italy
+
+The Allies blew up an abbey en route to capturing Monte Cassino in this country.
+
+----
+num: 27
+category: Literature
+difficulty: 800
+seen: 4
+answer: a middleman
+
+An intermediary or go-between.
+
+----
+num: 28
+category: Literature
+difficulty: 800
+seen: 4
+answer: Virginia Woolf
+
+Nicole Kidman won the Best Actress Oscar for her role as this author in "The Hours".
+
+----
+num: 29
+category: History
+difficulty: 800
+seen: 4
+answer: Bataan
+
+The "Death March" from this Philippine peninsula cost the lives of thousands of Allied prisoners of war.
+
+----
+num: 30
+category: Literature
+difficulty: 1200
+seen: 4
+answer: "Middle Of The Road"
+
+Pretenders hit from "Learning to Crawl".
+
+----
+num: 31
+category: Literature
+difficulty: 1200
+seen: 4
+answer: Isak Dinesen
+
+It's the better-known pen name of Karen Blixen, who's portrayed in "Out of Africa".
+
+----
+num: 32
+category: Literature
+difficulty: 1600
+seen: 5
+answer: Kate Middleton
+
+She's now Duchess of Cambridge.
+
+----
+num: 33
+category: Literature
+difficulty: 2000
+seen: 6
+answer: the Middle Passage
+
+The central leg of the triangular run made by transatlantic slave ships.
+
+----
+num: 34
+category: Literature
+difficulty: 2000
+seen: 6
+answer: Iris Murdoch
+
+She was portrayed by both Kate Winslet & Dame Judi Dench in the 2001 biopic "Iris".
+
+----
+num: 35
+category: History
+difficulty: 2000
+seen: 6
+answer: the Hawker Hurricane
+
+The Spitfire & this lesser-known "stormy" fighter were the keys to the RAF's victory in the Battle of Britain.
+
+----
+num: 36
+category: Science
+difficulty: 2000
+seen: 9
+answer: eta
+
+In the Greek alphabet:.

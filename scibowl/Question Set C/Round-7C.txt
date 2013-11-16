@@ -1,0 +1,224 @@
+####
+tournament: Question Set C
+round: Round-7C.pdf
+####
+
+num: 3
+category: Physics
+difficulty: HS
+seen: 27
+answer: 7
+(Solution:  P = F/a;  1400lbs/200in ^2 = 7 Lb/in^2)
+
+A draft horse has a hoof print of 50 square inches per hoof. If the horse weighs 1,400 pounds, what is the pressure it exerts, in pounds per square inch, on the ground when al l its hooves equally distribute its weight on the ground?
+
+----
+num: 4
+category: Math
+difficulty: HS
+fixed: 1
+seen: 25
+answer: {30} (Solution: X/40 = 6/8; X = 30ft)
+
+If a 6-foot tall person who is standing next to a vertical pole casts a shadow of 8 feet and the pole casts a shadow of 40 feet, how many feet tall is the pole?
+
+----
+num: 4
+category: Math
+difficulty: HS
+seen: 24
+answer: -19
+
+Solve the following equation for x: ((xx++109)) =1820
+
+----
+num: 8
+category: Biology
+difficulty: HS
+seen: 41
+answer: +1  (Accept:  1 Plus or One Positive)
+
+The oxidized form of nicotinamide adenine dinucleotide has what specific charge?
+
+----
+num: 9
+category: Chemistry
+difficulty: HS
+seen: 36
+answer: 7.2
+(Solution:  X^o = N^o/n^t;  0.6 = N^o/12 Mol = 7.2 Mol)
+
+If the total number of moles of gas in a mixture of oxygen and nitrogen gases is 12 moles, and the mole fraction of oxygen is 0.6, how many moles of oxygen gas are present, to the first decimal place?
+
+----
+num: 11
+category: Math
+difficulty: HS
+fixed: -1
+seen: 24
+answer: X^3y
+2^4z^5
+(Accept:  1
+2 X^3y^4z^5)
+
+Remove all negative exponents and simplify the following expressionfor all non-zero values of x, y, and z: ((22xx^!^2^3yy^!^!^1^4zz^3^!)^5^0
+)
+
+----
+num: 11
+category: Math
+difficulty: HS
+seen: 25
+answer: Y = 
+32
+X – 11
+3
+
+What is the slope-intercept equation of the line that passes through the point (4, -1) and is parallel to the line with equation 2x – 3y = 9?
+
+----
+num: 13
+category: General Science
+difficulty: HS
+seen: 31
+answer: Mumps
+
+Name all of the following 4 diseases that are NOT caused by bacteria: cholera; bubonic plague; syphilis; mumps
+
+----
+num: 15
+category: Biology
+difficulty: HS
+seen: 39
+answer: Dna
+
+Bacterial transduction is primarily caused by the transference of what specific biological substance?
+
+----
+num: 15
+category: Biology
+difficulty: HS
+seen: 40
+answer: Ixodes
+
+Name all of the following 4 organisms that are human ectoparasites:
+Plasmodium ovale; Ascaris; Trichinella spiralis (read as: Trick-ih-nel-la spear-rah-liss); Ixodes(read as: icks-OH-dees)
+
+----
+num: 18
+category: Math
+difficulty: HS
+seen: 26
+answer: 41
+X^2
+
+Remove all negative exponents and simplify the following expressionfor all non-zero values of x: (−32x^5)^−^2^5
+
+----
+num: 19
+category: Earth Science
+difficulty: HS
+seen: 64
+answer: Stratovolcano  (Accept:  Composite Volcano)
+
+What type of volcano is made mostly of andesite and typically erupts violently and dangerously with pyroclastic flows, an example of which is Mount 
+Fuji in Japan?
+
+----
+num: 20
+category: General Science
+difficulty: HS
+fixed: -1
+seen: 29
+answer: Carbon = 8;  Hydrogen = 18
+
+How many carbon and hydrogen atoms are in an octane molecule?
+
+----
+num: 21
+category: Astronomy
+difficulty: HS
+seen: 55
+answer: 10
+
+At how many parsecs is a star’s absolute magnitude the same as its apparent magnitude?
+
+----
+num: 21
+category: Astronomy
+difficulty: HS
+fixed: -1
+seen: 54
+answer: Spectroscopy  (Accept:  Absorption Spectroscopy)
+
+A photon of only a certain wavelength is able to be absorbed only by an electron at a specific energy level of an atom. This is the basis of what commonly used astronomical technique?
+
+----
+num: 22
+category: Biology
+difficulty: HS
+fixed: -1
+seen: 39
+answer: Cuticle
+
+In plants, water molecules are generally protected from water loss to the outside environment by what lipid-based structure covering the epidermis?
+
+----
+num: 22
+category: Biology
+difficulty: HS
+seen: 39
+answer: Tendrils;  Cacti Spines;  Bracts
+
+Name all of the following 4 plant structures that are typically modified leaves: corms; tendrils; cacti spines; bracts
+
+----
+num: 23
+category: Chemistry
+difficulty: HS
+fixed: -1
+seen: 32
+answer: Ch
+^4;  N
+^2
+
+Name all of the following compounds that exhibit ONLY London forces: CH^4; N^2; BaCl^2; NH^3
+
+----
+num: 24
+category: Physics
+difficulty: HS
+fixed: -1
+seen: 25
+answer: 1,000
+
+How many times as intense is 60 decibels than 30 decibels?
+
+----
+num: 24
+category: Physics
+difficulty: HS
+fixed: -1
+seen: 26
+answer: 39.2
+(Solution: W = Mg = (4kg)(9.8m/s^2) = 39.2n)
+
+What is the minimal force, in newtons to the first decimal place, that a mother must exert to vertically lift her 4 kilogram baby out of her play pen?
+
+----
+num: 25
+category: Biology
+difficulty: HS
+seen: 39
+answer: Lignin
+
+What biological substance is the SECOND MOST abundant organic compound on Earth after cellulose, and is especially abundant in sclereids, xylem fibers and tracheids?
+
+----
+num: 25
+category: Biology
+difficulty: HS
+seen: 40
+answer: Chitin;  Cellulose;  Glycogen
+
+Name all of the following 4 choices that are complex carbohydrates:chitin (read as: KIE-tin); amylase; cellulose; glycogen

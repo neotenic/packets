@@ -1,0 +1,234 @@
+####
+tournament: HSAPQ ACF 3
+round: Round_08_HSAPQACF3.pdf
+year: 2008
+####
+
+num: 1
+category: Science
+difficulty: HS
+fixed: 57
+seen: 494
+answer: {stacks}
+
+An algorithm that uses this data structure can be used to do a topological sort and has an iterative deepening form. Divide and conquer algorithms can be implemented iteratively using one of these, and the alternative to heap-based memory allocation is based on one of these. They are used to implement Reverse Polish notation calculations as well as the aforementioned (*) depth-first search, and their fundamental operations are push and pop. For 10 points, name this last-in, first-out data structure, in which adds and removes both occur on the “top.”
+
+----
+num: 2
+category: History
+difficulty: HS
+fixed: 1
+seen: 415
+answer: William Jefferson “Bill” {Clinton}
+
+This man lost his 1980 gubernatorial reelection bid to Frank White, and he signed the Family and Medical Leave Act into law. His commerce secretary Ron Brown died in a plane crash. This president launched Operation Desert Fox due to Iraq's interference with United Nations inspectors, and signed (*) NAFTA into law, though his presidency was plagued by the Whitewater affair. For 10 points, name this man who defeated Ross Perot and George H.W. Bush to win the presidential election of 1992.
+
+----
+num: 3
+category: History
+difficulty: HS
+fixed: 1
+seen: 417
+answer: {Corsica}
+
+Genoese rule of this polity came following a nationalist rebellion led by Sampiero Corso, and Andrea Doria quelled a revolt here. James Boswell wrote "An Account of" this place, where Seneca the Younger was exiled after being implicated in Piso's Conspiracy. Democracy was established and the vendetta was suppressed here under the liberal rule of Pascquale Paoli. A man (*) born here went on to win at Austerlitz before his exile to St. Helena. For 10 points, name this Mediterranean island, the birthplace of Napoleon Bonaparte.
+
+----
+num: 4
+category: Fine Arts
+difficulty: HS
+fixed: 57
+seen: 489
+answer: Ludwig von {Beethoven's} symphonies [prompt on symphonies; or {works} of {Beethoven}; or
+
+The first of these compositions was controversial for beginning with a B-F tritone. One of them was the first orchestral work to have a separate line for the double bass, and an unofficial one is called Wellington's Victory. Brahms' first symphony is often called the (*) tenth of these pieces, and one of them in D minor sets the poem “An die Freude.” One begins with three Gs followed by an E flat, while another was originally dedicated to Napoleon, the Eroica. For 10 points, name these works that include the Pastoral and the Choral, a set of nine works by a deaf composer.
+
+----
+num: 5
+category: Science
+difficulty: HS
+fixed: 1
+seen: 486
+answer: {oxidation} number [or {oxidation state}]
+
+Stock nomenclature is used to designate this value for the central atom of a complex. Latimer and Frost-Ebsworth diagrams represent the potential difference between atoms with different values of this number. Due to the presence of an oxygen-oxygen bond, this value is (*) negative one for oxygen in hydrogen peroxide. When this number decreases for a species, reduction has occurred. For 10 points, name this number that represents the number of electrons an atom gains or loses when forming a chemical bond, which is useful when balancing redox reactions.
+
+----
+num: 6
+category: Social Science
+difficulty: HS
+fixed: 1
+seen: 379
+answer: Maslow's {hierarchy of needs}
+
+This theory was modified by Clayton Alderfer in his essay “Existence, Relatedness, and Growth.” Put forth in Toward a Psychology of Being, its creator studied “exemplary people” such as Eleanor Roosevelt. Typically represented pictorially by a (*) pyramid, its originator claims that lower levels must be reached before one can begin to reach higher levels. Its highest level is achieved when one becomes all he is capable of being and is known as self-actualization. For 10 points, name this organization of human requirements first postulated by Abraham Maslow.
+
+----
+num: 7
+category: Fine Arts
+difficulty: HS
+fixed: 57
+seen: 496
+answer: {Donatello} [or {Donato di Niccolò di Betto Bardi}]
+
+The base of one work by this artist is inscribed with "The victor is whoever defends the fatherland." Another work by this man is located in front of the Church of Saint Anthony in Padua, and features a man nicknamed "Honeyed Cat." His other works include a wood statue of (*) Mary Magdalene, and a relief that used the technique stiacciato, St. George and the Dragon. For 10 points, name this Italian sculptor of Gattamelata who depicted a figure wearing a laurel-trimmed hat and standing near the severed head of Goliath in his bronze statue of David.
+
+----
+num: 8
+category: Literature
+difficulty: HS
+fixed: -1
+seen: 446
+answer: Oe Kenzaburo [accept in reverse order]
+
+This author fictionalized himself as a novelist who uses the poetry of Blake to help teach his son Eeyore in Rouse Up O Young Men of the New Age. In another of his novels, Takashi trains young men to play soccer, before leading them in a rebellion against a Korean known as "The Emperor." This author of (*) Nip the Buds, Shoot the Kids won the Akutagawa prize for his story "The Catch." For 10 points, name this Nobel Prize-winning Japanese author of The Silent Cry and A Personal Matter.
+
+----
+num: 9
+category: Science
+difficulty: HS
+fixed: -1
+seen: 486
+answer: {taste buds}
+
+They are located on structures whose types include foliate, fungiform, and circumvallate, the last type of which are associated with Ebner's glands, and are localized to areas in front of the sulcus terminalis. A person typically has between 2,000 and 5,000 of these barrel-shaped structures, which are located on (*) papillae and can be used to detect umami. For 10 points, name these clusters of cells that are found on the lining of the mouth and on the tongue, used for detecting gustatory sensations such as bitterness, sourness, sweetness, and saltiness.
+
+----
+num: 10
+category: History
+difficulty: HS
+fixed: 57
+seen: 421
+answer: {Babur} [or {Babar}; or {Baber}]
+
+After being defeated at Sar-e Pol, this man lost Samarkand and Fergana, and he seized Kabul in 1504. At Agra, this man created the Ram Bagh garden along the Yamuna River, and on the invitation of Alam Khan and Dawlat Khan, this man defeated Ibrahim Lodi at (*) Panipat. He left the empire he founded to his son Humayun, and he was the grandfather of Akbar the Great. For 10 points, name descendant of Timur the Lame and Genghis Khan, the founder of the Mughal Dynasty.
+
+----
+num: 11
+category: Trash
+difficulty: HS
+fixed: 1
+seen: 1034
+answer: “Handlebars”
+
+Its music video contains an image of a dove destroyed by a wrecking ball and an actual dove being killed by a hawk. The speaker can “design an engine/sixty-four miles to a gallon of gasoline” and “hand out a million vaccinations” and earlier states that he “knows all the words to (*) ‘De Colores.'” The speaker begs “look at me, look at me” and later says that he can “guide a missile by satellite” as well as “end the planet in a holocaust,” all because he can ride a bike without using the title objects. For 10 points, name this single from Fight With Tools by Flobots.
+
+----
+num: 12
+category: Philosophy
+difficulty: HS
+fixed: 1
+seen: 517
+answer: {pragmatism} [accept {pragmaticism}]
+
+“The Myth of the Given” is discussed in a work by one philosopher of this school, Wilfrid Sellars, and a proponent of it wrote Philosophy of the Mirror of Nature. In addition to Richard Rorty, it was espoused in a work attacking tenets of the logical positivists, Quine's Two Dogmas of Empiricism. (*) Democracy and Education was written by John Dewey, a proponent of it, and it was outlined in How to Make Our Ideas Clear by Charles Peirce. For 10 points, name this philosophy that seeks truth in practical experience, discussed in a tract by William James.
+
+----
+num: 13
+category: Literature
+difficulty: HS
+fixed: 1
+seen: 440
+answer: {Wuthering Heights}
+
+One episode of this novel sees a zealous man named Joseph sic his dogs on a character who borrows his lantern. This novel's story is partly recounted by Ellen Dean after one character is startled to grasp the cold hand of a girl after trying to break a fir branch. One character is brought home from (*) Liverpool along with a whip and a violin, much to Hindley's chagrin. This novel is told to Mr. Lockwood, the renter of Thrushcross Grange. For 10 points, name this novel in which Heathcliff loves Catherine Earnshaw, a work of Emily Bronte.
+
+----
+num: 14
+category: Mythology
+difficulty: HS
+fixed: 57
+seen: 785
+answer: monkeys
+
+One god who took this form possessed the thirteen-thousand-pound Compliant Rod and became angry when he learned that his title meant “stable-boy.” After stealing the peaches of immortality from the Jade Emperor, that god was assigned to guard the monk Tripitaka during a trip to India. Another god who took the form of this animal jumped from (*) India to Sri Lanka during his time fighting the demon Ravana in alliance with Rama. For 10 points, the Chinese figure Sun Wukong and the Indian deity Hanuman both appeared as what sort of primate?
+
+----
+num: 15
+category: Science
+difficulty: HS
+fixed: 57
+seen: 489
+answer: {Doppler} effect [accept {Doppler shift}; do not accept “{redshift}” or “{blueshift}”]
+
+The transverse type of this effect was used in the Ives-Sitwell experiment and is a relativistic phenomenon attributable to time dilation. Its classical form is responsible for its namesake broadening in spectral lines, and involves multiplication by a factor of v over v plus v sub s, where v is absolute velocity and v sub s is the relative speed of the (*) source. Applied to light to explain the red- shift of distant galaxies, for 10 points, name this effect in which the observed frequency of a wave is shifted by relative motion between the source and observer.
+
+----
+num: 16
+category: Literature
+difficulty: HS
+fixed: 1
+seen: 438
+answer: Marcel {Proust}
+
+This author created the characters of Robert de Saint-Loup, who marries Gilberte, and the violinist Charles Morel, who has an affair with the Baron de Charlus. Another of this author's characters becomes obsessed with Albertine Simonet, and is shocked to discover that the Prince of (*) Guermantes is a Dreyfusard. This author's magnum opus begins with the narrator recalling his childhood after tasting a madeleine. For 10 points, name this author whose novels Sodom and Gomorrah, Time Regained, and Swann's Way are included in his In Search of Lost Time.
+
+----
+num: 17
+category: Geography
+difficulty: HS
+fixed: 57
+seen: 716
+answer: {Indus} River [or {Sindhu}; or {Abasin}; or {Nilou}; or {Sengge Chu}; or {Yìndù Hé}]
+
+This river passes through the Thal and Thar deserts, and the Khyber Pass runs parallel to one of its tributaries. It is fed by the confluence of the Chenab and Sutlej rivers, and, along with the Brahmaputra, it flows from Mount Kailash. The city of Hyderabad lies near this river's delta on the (*) Arabian Sea. It is spanned by the Tarbela Dam near Islamabad and passes through the Punjab plain and Kashmir. For 10 points, name this river that originates in Tibet and flows through Pakistan, the namesake of the earliest known civilization of the Indian subcontinent.
+
+----
+num: 18
+category: Literature
+difficulty: HS
+fixed: 1
+seen: 443
+answer: Philip Morin {Freneau}
+
+This man's venture into newspapers was countered by John Fenno's publication. The title creature was “born to sip the lake or spring” in his “To a Honey-Bee,” and this author lamented the “frail duration of flower” in writing of the “comely” buds of “The Wild (*) Honey-Suckle.” He addressed the title people as “traitors” in writing of “the various horrors” of “The British Prison-Ship,” and another of his poems discusses the “soul's eternal sleep.” For 10 points, name this author of “The Indian Burying Ground,” known as the poet of the American Revolution.
+
+----
+num: 19
+category: Fine Arts
+difficulty: HS
+fixed: 57
+seen: 490
+answer: The {School} of {Athens}
+
+One person in this painting writes against her knee while a woman and bearded man look on. In the bottom left of this work, a turbaned man looks over the shoulder of another man reading. Donato Bramante served as the model for another figure in this work, who is drawing on a slate tablet. That person, (*) Euclid, stands in the bottom left of this painting with Ptolemy and Zoroaster. Diogenes lies in the center, while the two most prominent figures wear contrasting pink and blue clothes. For 10 points, name this Raphael fresco featuring Aristotle and Plato.
+
+----
+num: 20
+category: History
+difficulty: HS
+fixed: 57
+seen: 427
+answer: {Ireland}
+
+A papal approval for a crusade prompted the Desmond rebellion in this polity. Its National Land League sought rights for tenant farmers, and its “National Invincibles” killed Thomas Henry Burke and Lord Cavendish in this country's Phoenix Park murders. One event here hit its low point during “Black '47” and saw its citizens escape via (*) “coffin boats.” The Troubles, a terrorist struggle over six counties in its north, led to the formation of its namesake Republican Army. For 10 points, name this island, home to the Easter Uprising and a namesake potato famine.
+
+----
+num: 21
+category: History
+difficulty: HS
+fixed: 1
+seen: 418
+answer: {Napoleon III} [or {Charles Louis}-{Napoleon Bonaparte}; prompt on {Napoleon}]
+
+After an unsuccessful invasion attempt, this man was forced to stay at the so-called “University of Ham.” He was exiled to America after an attempt to lead a coup at the Strasbourg garrison, and Felice Orsini's assassination attempt inspired him to ally his nation with Piedmont in the war for (*) Italian independence from Austria. Cinco de Mayo celebrates the driving out of his puppet Maximilian from Mexico, and he disastrously lost the Battle of Sedan. For 10 points, name this French emperor during the Franco-Prussian War, a relative of the loser at Waterloo.
+
+----
+num: 22
+category: Literature
+difficulty: HS
+fixed: 57
+seen: 450
+answer: The {Divine Comedy} [or La {Divina Commedia}; accept {Purgatorio} before {Geryon}]
+
+In one section of this work, an angel carves the letter "P" on the narrator's forehead seven times. In another section, the narrator rides Geryon to Malebolge, where flatterers walk in excrement. This poem's narrator encounters Count Ugolino, Guido de (*) Montefeltro, and Francesca de Rimini after being lost in a dark wood and passing through a gate inscribed "Abandon all hope, ye who enter here." The narrator is led through Hell and Purgatory by Virgil and through Heaven by Beatrice in, for 10 points, what epic poem by Dante?
+
+----
+num: 23
+category: Science
+difficulty: HS
+fixed: 1
+seen: 487
+answer: John {Dalton}
+
+This man concluded that adding dehydrated salts to a solution does not increase the volume of solution in a paper grouped with “On Microcosmic Salt.” He concluded that when pressure and temperature are held constant, the heat of a fluid is proportional to its weight, in a section of A New System of Chemical Philosophy. The unit of (*) atomic mass is named for this man, who concluded that all elements are made of atoms and that atoms combine to form chemical compounds. For 10 points, name this chemist with a namesake law of partial pressures.

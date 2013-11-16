@@ -1,0 +1,301 @@
+####
+tournament: Question Set C
+round: Round-16C.pdf
+####
+
+num: 1
+category: Biology
+difficulty: HS
+seen: 1
+answer: X)  Polygenic Inheritance
+
+Human skin pigmentation and height may vary greatly and are probably controlled by multiple genes. This is an example most specifically of:
+W) pleiotropy
+X) polygenic inheritance
+Y) epistasis (read as: ep-ee-STAY-sis)
+Z) incomplete codominance
+
+----
+num: 1
+category: Biology
+difficulty: HS
+seen: 1
+answer: X)  Genes for Antibodies Are Spliced Together From Different 
+Chromosomal Loci
+
+There are more possible antibodies to antigens than there are genes that code for these antibodies in the human genome. Which of the following BEST accounts for this:
+W) genes mutate constantly in B cells
+X) genes for antibodies are spliced together from different chromosomal loci
+Y) antibodies have large amounts of cross reactivity with various antigens
+Z) antibodies are only specific for certain parts of an antigen
+
+----
+num: 2
+category: Chemistry
+difficulty: HS
+seen: 1
+answer: Z)  Tryptophan and Cysteine Contain Sulfur Atoms in Their Side 
+Chains
+(Solution:  Tryptophan Contains a Nitrogen Atom)
+
+Which of the following is NOT true about amino acids:
+W) amino acids exist primarily as zwitterions
+X) amino acid are amphoteric
+Y) an amino acid becomes neutral at its isoelectric point 
+Z) tryptophan and cysteine contain sulfur atoms in their side chains
+
+----
+num: 3
+category: Physics
+difficulty: HS
+answer: X)  Chandra X-Ray Images of Hot Gases During a Violet Merger 
+of the “Bullet Cluster” of Galaxies
+
+Which of the following recently gave what many think as irrefutable evidence for the existence of dark matter:
+W) the discovery of gravitational waves at the LIGO facility at Pacific Northwest National Lab
+X) Chandra X-ray images of hot gases during a violent merger of the “bullet cluster” of galaxies
+Y) creation of quark-gluon plasma at the Relativistic Heavy Ion Collider
+Z) the finding that neutrinos account f or more mass of the universe than all the stars in the universe
+
+----
+num: 4
+category: Math
+difficulty: HS
+seen: 1
+answer: W)  57
+(Solution:  S = (10+12+18)/2; K =  S(s− A)(s− B)(s− C) = 20(20−10)(20−12)(20−18) = 
+3200= 56.6)
+
+Which of the following is closest to the area of a triangle whose sides are a = 10, b = 12 and c = 18:
+W) 57
+X) 81
+Y) 90
+Z) 108
+
+----
+num: 5
+category: Earth Science
+difficulty: HS
+seen: 1
+answer: Z)  Compressive
+
+Reverse faults commonly form as a result of which of the following tectonic forces:
+W) tensional
+X) transform
+Y) shear
+Z) compressive
+
+----
+num: 5
+category: Earth Science
+difficulty: HS
+seen: 1
+answer: Y)  the Antarctic Circumpolar Current
+
+Which of the following is an ocean current that predominately travels in an EASTERLY direction:
+W) the Labrador Current
+X) the North Equatorial Current
+Y) the Antarctic Circumpolar Current
+Z) the South Equatorial Current
+
+----
+num: 6
+category: General Science
+difficulty: HS
+seen: 1
+answer: W)  Neutrinos Released From Fermi National Lab in Illinois 
+Have Been Detected by an Underground Facility in Minnesota
+
+Which of the following is TRUE:
+W) neutrinos released from Fermi National Lab in Illinois have been detected by an underground facility in Minnesota
+X) the European Space Agency’s Planck Surveyor recently confirmed a critical postulate of string theory
+Y) baryonic matter accounts for most of the mass of the universe
+Z) the LISA detector recently detected gravitational waves from 2 colliding black holes
+
+----
+num: 7
+category: Astronomy
+difficulty: HS
+seen: 1
+answer: Z)  B-Type Stars Have Strong Absorption Lines for Neutral 
+Helium
+
+Which of the following is TRUE:
+W) the far side of the Moon from Earth has more large maria than the near side
+X) the next sunspot minimum is expected in 2008
+Y) the declination of the Sun during the winter solstice is 23.5 degrees north
+Z) B-type stars have strong absorption lines for neutral helium
+
+----
+num: 7
+category: Astronomy
+difficulty: HS
+seen: 1
+answer: W)  a Pulsating Variable Varying in Brightness in a Very 
+Regular Time Period of 1 to 50 Days
+
+Which of the following is the BEST description of a Cepheid variable star:
+W) a pulsating variable varying in brightness in a very regular time period of 1 to 50 days 
+X) a short pulsating variable with a very regular period of 1 to 4 minutes
+Y) a binary star system with an eclipsing partner
+Z) a small k -type star with a very regular period of 1 to 3 weeks
+
+----
+num: 9
+category: Chemistry
+difficulty: HS
+seen: 1
+answer: W)  an 18 -Carbon Saturated Fatty Acid
+(Solution:  W = 70ºc,  X = -5ºc,  Y = 16ºc,  Z = 32ºc;  Saturated Fats Are Usually Solids)
+
+Which of the following fatty acids has the HIGHEST melting point:
+W) an 18-carbon saturated fatty acid
+X) an 18-carbon polyunsaturated fatty acid
+Y) an 18-carbon monounsaturated fatty acid
+Z) a 16-carbon monounsaturated fatty acid
+
+----
+num: 10
+category: Physics
+difficulty: HS
+seen: 1
+answer: X)  High Energy Charged Particles
+
+Generally, physicists cannot use light to explore the composition of the subatomic world since light wavelengths are too long. Which of the following do they MOST often resort to as a tool of probing the nature of the atomic nucleus:
+W) high energy gamma-rays
+X) high energy charged particles
+Y) tunneling microscopes
+Z) ultrasonic analysis
+
+----
+num: 11
+category: Math
+difficulty: HS
+seen: 1
+answer: X)  a Function’s Graph May Intersect One of Its Vertical 
+Asymptotes
+
+Which of the following is NOT true:
+W) a function’s graph may intersect one of its horizontal asymptotes
+X) a function’s graph may intersect one of its vertical asymptotes 
+Y) the identity function f(x) = x is its own inverse
+Z) the function f(x) = −x is its own inverse
+
+----
+num: 12
+category: Earth Science
+difficulty: HS
+seen: 1
+answer: X)  Chromium
+
+Which of the following is considered an activator of fluorescence because when present in small concentrations it usually causes a ruby crystal to fluoresce a bright deep red:
+W) iron
+X) chromium
+Y) nickel
+Z) copper
+
+----
+num: 13
+category: General Science
+difficulty: HS
+seen: 1
+answer: Z)  3.2 Million Years
+
+The famous hominid skeleton called Lucy has been dated to be how many years old:
+W) 100 thousand years
+X) 500 thousand years
+Y) 1.6 million years
+Z) 3.2 million years
+
+----
+num: 13
+category: General Science
+difficulty: HS
+seen: 1
+answer: Y)  the Distillation Step in Crude Oil Refinement Typically 
+Eliminates Nearly All the Sulfur
+
+Which of the following statements is LEAST accurate:
+W) a U.S. barrel of crude oil is 42 gallons
+X) one barrel of U.S. crude oil typically yields about 20 gallons of motor gasoline
+Y) the distillation step in crude oil refinement typically eliminates nearly all the sulfur
+Z) a U.S. barrel of crude oil can yield more than 44 gallons of petroleum products
+
+----
+num: 15
+category: Biology
+difficulty: HS
+seen: 1
+answer: W)  Filamentous Actin
+
+Which of the following is MOST directly involved in the motility and intercellular signaling in T-cells:
+W) filamentous actin
+X) 200-nanometer myosin fibrils
+Y) cathepsin-myosin complexes
+Z) microvilli
+
+----
+num: 15
+category: Biology
+difficulty: HS
+seen: 1
+answer: Y)  They Are Small Polypeptide-Coding Sequences
+
+Which of the following is NOT true of micro RNA in eukaryotes:
+W) they regulate gene expression
+X) they target homologous sequences in mRNA
+Y) they are small polypeptide-coding sequences
+Z) they are transcribed by RNA polymerase two
+
+----
+num: 16
+category: Chemistry
+difficulty: HS
+seen: 1
+answer: Y)  a + B ↔ C + D
+
+In which of the following reversible gas reactions does the value of K^p^= K^c (read as: K sub P equal K sub C):
+W) A + B ↔ C (read as: A plus B, double arrow, yields C)
+X) 2A + B ↔ C + D
+Y) A + B ↔ C + D
+Z) A ↔ B + C
+
+----
+num: 19
+category: Earth Science
+difficulty: HS
+seen: 1
+answer: W)  2.5 Billion Years
+
+Most banded iron formations found today began to form about how many years ago:
+W) 2.5 billion years
+X) 500 million years
+Y) 5 million years
+Z) 100,000 years
+
+----
+num: 19
+category: Earth Science
+difficulty: HS
+seen: 1
+answer: W)  Virga
+
+Also known as fall-stripes, precipitation falling from the undersurface of a cloud but not reaching the ground is known as:
+W) virga
+X) fog
+Y) Rossby waves
+Z ) fans
+
+----
+num: 20
+category: General Science
+difficulty: HS
+seen: 1
+answer: Y)  Citrus Canker Is Caused by a Fungus
+(Solution:  Citrus Canker Is Caused by Bacteria)
+
+Which of the following statements is LEAST accurate:
+W) angina is chest pain
+X) catalytic converters require unleaded fuels to run properly
+Y) citrus canker is caused by a fungus
+Z) long-period comets are believed to originate in the Oort cloud

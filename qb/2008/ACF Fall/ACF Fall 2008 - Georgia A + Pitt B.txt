@@ -1,0 +1,164 @@
+####
+tournament: ACF Fall
+round: ACF Fall 2008 - Georgia A + Pitt B.doc
+year: 2008
+####
+
+num: 6
+category: Science
+difficulty: College
+fixed: -1
+seen: 86
+answer: {Nash} equilibrium [accept {Nash} after “{equilibrium}” is read, prompt on it before]
+
+A variation to this concept that includes perturbations in decision models is known as trembling-hand perfect.  This concept holds when certain sets are non-empty, convex, compact subsets of a Euclidean space by the Kakutani Fixed Point Theorem, and the utility function is continuous and quasi-concave.  A Bayesian one is found by anticipating the plans of others, and they were worked on by Harsanyi and Selten as well as their namesake, who introduced them in the paper Non-Cooperative Games.  For 10 points, name this idea in which each player's strategy choice is a best-response to the strategies played by his rivals, a game theory equilibrium named for a schizophrenic.
+
+----
+num: 7
+category: Fine Arts
+difficulty: College
+fixed: 1
+seen: 68
+answer: La {Traviata}
+
+The soprano in this opera reminds herself that she “must always be free” in the aria “E Strano! E Strano...Sempre Libera” after the tenor proclaims his love in “Un di felice, eterea.” The baritone sings “Di Provenza il mar” to convince his son to return to Provence, but instead he crashes a party hosted by Flora Bervoix, where he wins money in cards from his rival Baron Douphol. In the last act, the title character sings “Adio del passato” after reading a letter from Giorgio apologizing for breaking up her romance with his son, who impressed the title character by singing the Brindisi. For 10 points, Alfredo Germont is the lover of Violetta in what Verdi opera about a courtesan?
+
+----
+num: 8
+category: Literature
+difficulty: College
+fixed: 57
+seen: 60
+answer: Italo {Calvino}
+
+One of his protagonists refers to his sister as the “Dark Girl of Long Alley” and steals a gun from her Nazi lover to bury in a secret location. The title character of another work battles with the “fruit thieves,” dies by fastening himself to the anchor of a balloon, and refuses to eat his sister's snail soup. Those novels about Pin and Cosimo are The Baron in the Trees and The Path to the Nest of Spiders.  In another of his novels, Medardo of Terralba is split in half by a cannonball, and in another a plot about swapping suitcases devolves into a romance between Ludmilla and “The Reader.” For 10 points, name this author of The Cloven Viscount and If On a Winter's Night a Traveler.
+
+----
+num: 9
+category: History
+difficulty: College
+fixed: 1
+seen: 70
+answer: {Marcus Aurelius} Antoninus Augustus [prompt on Marcus Annius Verus; prompt on Marcus Annius Catilius Severus]
+
+This ruler was the first to settle Germanic barbarians in the Roman Empire, and he auctioned off many palace valuables to pay for the empire's wars. His reign saw a great plague, and also saw Parthia invade Armenia, an action stopped by a man who would later declare himself emperor when this man was reported dead, Avidius Cassius.  He was long advised by Fronto, the childhood tutor of this man and his co-emperor Lucius Verus.  He fought against the Marcomanni and died while on campaign in Germania, after which the war was ended prematurely by his son Commodus.  For 10 points, name this last of the five good emperors, the author of some Stoic Meditations.
+
+----
+num: 10
+category: Science
+difficulty: College
+fixed: 57
+seen: 79
+answer: {determinant} [prompt on {det}]
+
+The volume of a simplex in n dimensions can be given by the Cayley-Menger type of this function, and this function can be generalized to non-square entities using the Cauchy Binet formula. The linear independence of a set of solutions to a differential equation is given by a nonzero value for the Wronskian type of this, and changing variables when integrating a function over its domain involves the use of the Jacobian type of this function. One of these for a two-by-two matrix is used in Cramer's rule to find the solution to a system of two equations. For 10 points, name this scalar function of a square matrix, denoted by single or double bars around a matrix.
+
+----
+num: 11
+category: Literature
+difficulty: College
+fixed: 57
+seen: 58
+answer: {Long Day's Journey Into Night}
+
+One man in this work points out his father's snoring by quoting Othello: “The Moor, I know his trumpet.”  That character quotes Baudelaire when he's courting a comically obese prostitute named Fat Violet, and also questions the aptitude of “a cheap old quack,” who “hardly only charges a dollar,” Doc Hardy.  A servant in this play is a “buxom Irish peasant” named Cathleen, who sneaks sips of alcohol.  James is an actor who can only play one role, Jamie fatally infects Eugene when he enters the infant's room, and Edmund is diagnosed with tuberculosis.  For 10 points, name this play in which Mary is addicted to morphine, a work about the Tyrone family by Eugene O'Neill.
+
+----
+num: 12
+category: Science
+difficulty: College
+fixed: 1
+seen: 79
+answer: diffusion
+
+A formula developed for one type of this process scales the inverse of the magnetic field intensity, and was observed when its namesake was using a magnetic arc to separate uranium isotopes. Another form of this process is explained by the Ludwig-Soret effect, which results in a temperature gradient parallel to the concentration gradient. A set of equations, which relate flux to the gradient of concentration also governs this process, and its rate is inversely proportional to the square root of the molar mass according to Graham's Law. For 10 points, identify this process, wherein particles move from regions of high concentrations to areas of lower concentrations.
+
+----
+num: 13
+category: Fine Arts
+difficulty: College
+fixed: None
+seen: 68
+answer: Symphony of a {Thousand} [accept {Mahler's Symphony Number 8} in {E major}; accept {Symphony Number eight} after “{Mahler}”]
+
+In this work, thirty-six measures of the organ playing the B flat pedal culminates in the section “Accende Lumen Sensibus,” while the composer emulated the polyphony of Bach's motet Singet dem Herrn ein neues Lied in the opening movement. In the finale, Doctor Marianus praises Mater Gloriosa, who is the personification of this symphony's unifying theme of the “Eternal Feminine.” The first movement is based on the medieval hymn “Veni, Creator Spiritus,” while the second movement is a setting of the final scene of Goethe's Faust. Featuring a chorus of over eight hundred at its premiere, for 10 points, name this Mahler symphony that requires many performers.
+
+----
+num: 14
+category: History
+difficulty: College
+fixed: 1
+seen: 67
+answer: Anglo-{Zulu war}
+
+A leader of one party in this conflict had earlier defeated his brother at the Tugela River, and this conflict began when Henry Bartle Frere issued an ultimatum to the opposing side. It also saw 139 British successfully defend an attack by 4,000 soldiers at Rorke's drift. Its last battle on July 4th, 1879 saw the death of the losing side's ruler at Ulundi, though forces under Lord Chelmsford faced a major defeat at Isandlwana. The polity, which lost this conflict was led by Cetshwayo. For 10 points, identify this conflict between the British and an empire, which once counted Shaka as its ruler.
+
+----
+num: 15
+category: Geography
+difficulty: College
+fixed: 57
+seen: 131
+answer: {Egypt} [or {Al}-{Masr}]
+
+Birqat Karun is a lake found in the Al Fayyum region of this country. The Ras Mohammed National park is found at the southern tip of a peninsula belonging to this country, and the disputed Hala'ib triangle lies at the southwest corner of this country. The Kebira Crater is located along the western border of this country which is home to the Gilf-al-Kibr plateau. The Qatarra Depression contains several brackish oases, and manmade features include the Great and Little Bitter Lakes as well as a large dam on the First Cataract at Aswan that holds back Lake Nasser. Containing the cities of Luxor and Alexandria, for 10 points, identify this country with its capital at Cairo.
+
+----
+num: 16
+category: Mythology
+difficulty: College
+fixed: 57
+seen: 112
+answer: Lord {Ganesha} [accept {Ganapati}, {Vinakaya}, {Lambodar}, or {Pillaiyar}]
+
+He was once attacked and wounded by Parasurama, and in his incarnation as Vighnaraja, he rides the naga king Shesha. Garuda was once tasked with reacquiring an item this figure lost after being gazed upon by Sani. He is often depicted riding on a mouse, and the goad he holds in his upper right hand is used to remove obstacles from mankind. One story claims this figure married two women after he beat his brother Karttikeya in a race around the world. He was supposedly born from the dirt his mother wiped off of her leg while she was trying to take a bath in privacy from her husband. For 10 points, name this son of Shiva and Parvati, a Hindu god with the head of an elephant.
+
+----
+num: 17
+category: Science
+difficulty: College
+fixed: -1
+seen: 79
+answer: {axon} [prompt on {nerve fiber} or equivalent; accept {neuron} until “{growth cone}”]
+
+Studies on one of these structures from a giant squid led Hodgkins and Huxley to a Nobel Prize for their experiments. Their extension is guided by growth cones found at their ends, and they begin tapering near a namesake hillock. In some cases, these branch out to form collaterals, which end in telodendria, and ones with a smaller diameter can aggregate to form a Remak bundle. Nodes of Ranvier appear along these structures that are insulated by myelin containing Schwann cells, which allows for the speedy conduction of action potentials. For 10 points, identify the long, slender projection of a neuron, often contrasted with dendrites.
+
+----
+num: 18
+category: Literature
+difficulty: College
+fixed: 57
+seen: 60
+answer: “To a {Skylark}”
+
+The speaker compares the “shrill delight” of the title figure to moonbeams “Keen as the arrows / Of that silver sphere” which are transparent in light of the “white dawn,” but although they are “hardly seen, we feel that it is there.” The title figure is later compared to a “rose embowered,” a “glow worm- golden,” and a “poet hidden / In the line of thought.” In the final stanza the speaker asks, “teach me half the gladness / That thy brain must know,” so “the world should listen” to the “harmonious madness” of the title creature's song.  For 10 points, name this poem about a bird which begins, “Hail to thee blithe spirit,” written by Percy Shelley.
+
+----
+num: 19
+category: Fine Arts
+difficulty: College
+fixed: 57
+seen: 66
+answer: John {Constable}
+
+The Manningtree altarpiece features this artist's The Risen Christ, and in another work the titular animal action is performed by jumping over an obstacle as people look on from a barge. In addition to Leaping Horse, he painted several works about life near his hometown of East Bergholt, while another series depicts the title structure at Leadenhall “from the River,” and “from the meadows” with an overarching rainbow. His most famous work shows the title object near Flatford Mill on the River Stour and depicts Willy Lott's cottage. The painter of Salisbury Cathedral, for 10 points, name this English landscape artist whose best-known painting is The Hay Wain.
+
+----
+num: 20
+category: Science
+difficulty: College
+fixed: 57
+seen: 78
+answer: mass {moment} of {inertia} [prompt on {angular mass}]
+
+The tensor analog of this quantity can be diagonalized by defining a coordinate system along the principal axes, and its middle eigenvalue corresponds to unstable motion according to Euler‘s Equations of Motion.  The deflection of a cantilevered beam is inversely proportional to Young's modulus and this quantity.  It is given by “cross-sectional area times the square of the radius of gyration”, and it can be found by the parallel axis theorem.  For a sphere it is equal to “two-fifths m r squared”, while it has half the value for a disc that it has for a ring.  For 10 points, name this quantity symbolized “I”, the rotational analog of mass.
+
+----
+num: 21
+category: History
+difficulty: College
+fixed: None
+seen: 62
+answer: La {Fronde} [accept {Frondes}]
+
+The Declaration of St. Germain ended much of the fighting in this conflict and during it the arrest of Pierre Broussel led to a mass barricade demonstration.  It was interrupted by the Peace of Rueil, and one of its prominent participants, Marshall Turenne, pursued the Prince de Conde into the Spanish Netherlands.  Divided into parts named for the Parliament and the Nobles, it occurred during the regency of Anne of Austria.  Followed by the Franco-Spanish War and sparked by dissatisfaction with the policies of Cardinal Mazarin, it drew its name from the children's slings used by participants.  For 10 points, name this peasant uprising during the early rule of Louis XIV.

@@ -1,0 +1,339 @@
+####
+tournament: #6100
+round: Show #6100 - Friday, March 4, 2011
+year: 2011
+date: 2011-03-04
+####
+
+num: 1
+category: History
+difficulty: 200
+seen: 5
+answer: AAA
+
+1902: This organization is founded in Chicago to promote safe roads; it still helps drivers today.
+
+----
+num: 2
+category: Literature
+difficulty: 200
+seen: 4
+answer: a Who
+
+In a Dr. Seuss title, Horton hears him.
+
+----
+num: 3
+category: Trash
+difficulty: 200
+seen: 6
+answer: the iPad
+
+This Apple product that was rolled out in 2010 has a 9.7-inch screen & is 1/2 inch thick.
+
+----
+num: 4
+category: Geography
+difficulty: 200
+seen: 9
+answer: the Mississippi
+
+Under the Hernando De Soto Bridge in Memphis:.
+
+----
+num: 5
+category: Literature
+difficulty: 200
+seen: 4
+answer: hibachi
+
+A Japanese-style grill.
+
+----
+num: 6
+category: History
+difficulty: 400
+seen: 5
+answer: the Constitution
+
+1789: This document goes into effect.
+
+----
+num: 7
+category: Literature
+difficulty: 400
+seen: 4
+answer: a watt
+
+This word found on most lightbulbs is the unit of power equivalent to one joule per second.
+
+----
+num: 8
+category: Trash
+difficulty: 400
+seen: 6
+answer: Blu-ray
+
+you can clearly see the logo of this hi-def format for home theaters in 1080p.
+
+----
+num: 9
+category: Geography
+difficulty: 400
+seen: 9
+answer: the Chesapeake
+
+Beneath the Bay Bridge in Maryland:.
+
+----
+num: 10
+category: History
+difficulty: 600
+seen: 4
+answer: Polk
+
+1845: He is inaugurated as the 11th president.
+
+----
+num: 11
+category: Literature
+difficulty: 600
+seen: 3
+answer: when
+
+This word precedes "in the course of human events".
+
+----
+num: 12
+category: Trash
+difficulty: 600
+seen: 5
+answer: pictures (or photographs)
+
+smugmug.com lets you share these & back them up.
+
+----
+num: 13
+category: Literature
+difficulty: 600
+seen: 3
+answer: hoax
+
+A fraud or a fake.
+
+----
+num: 14
+category: History
+difficulty: 800
+seen: 4
+answer: Austria
+
+1933: 5 years before the Anschluss, Prime Minister Dollfuss dissolves this nation's parliament.
+
+----
+num: 15
+category: Literature
+difficulty: 800
+seen: 3
+answer: where
+
+The first word that's missing from the song title "Have All The Flowers Gone".
+
+----
+num: 16
+category: Trash
+difficulty: 800
+seen: 4
+answer: ripping
+
+Copying info from a computer to a CD is called burning; doing the reverse is this other destructive term.
+
+----
+num: 17
+category: Geography
+difficulty: 800
+seen: 7
+answer: the Grand Canal
+
+Beneath the Rialto Bridge in Venice:.
+
+----
+num: 18
+category: History
+difficulty: 1000
+seen: 4
+answer: (Gottleib) Daimler
+
+1887: When Benz is still a competitor, this man unveils his first car.
+
+----
+num: 19
+category: Literature
+difficulty: 1000
+seen: 4
+answer: how (or, really, "How is Howe?")
+
+It's what the doctor was asked during the illness of sewing machine inventor Elias.
+
+----
+num: 20
+category: Geography
+difficulty: 1000
+fixed: -1
+seen: 8
+answer: the Tagus
+
+Beneath the Vasco da Gama Bridge in Lisbon:.
+
+----
+num: 21
+category: Literature
+difficulty: 1000
+seen: 3
+answer: hubris
+
+Excessive arrogance or pride.
+
+----
+num: 22
+category: Science
+difficulty: 400
+seen: 5
+answer: the kidneys
+
+Just below the adrenal glands, these bean-shaped organs are each about the size of a large bar of soap.
+
+----
+num: 23
+category: Literature
+difficulty: 400
+seen: 4
+answer: (John) Irving
+
+This Garp creator also wrote the children's book "A Sound Like Someone Trying Not to Make a Sound".
+
+----
+num: 24
+category: Art
+difficulty: 400
+seen: 4
+answer: Greece
+
+Over 4,500 years old, a seated lyre player from the Cyclades is an early treasure of this country's art.
+
+----
+num: 25
+category: Literature
+difficulty: 400
+seen: 4
+answer: galoshes
+
+"Don't forget" these waterproof boots worn over the shoes is one of Gwyneth Paltrow's tips for visiting London.
+
+----
+num: 26
+category: Literature
+difficulty: 800
+seen: 3
+answer: (Elizabeth) Gilbert
+
+She followed up "Eat, Pray, Love" with a book on marriage called "Committed".
+
+----
+num: 27
+category: Art
+difficulty: 800
+seen: 4
+answer: a virginal
+
+Vermeer's "Music Lesson" shows a chaste young lady at the keyboard instrument fittingly called this.
+
+----
+num: 28
+category: Science
+difficulty: 1200
+seen: 5
+answer: aorta
+
+Appropriately, the name of this blood vessel means "great artery".
+
+----
+num: 29
+category: Literature
+difficulty: 1200
+seen: 4
+answer: George Orwell
+
+On his 1950 death, this man who looked into the future was called "The Wintry Conscience of a Generation".
+
+----
+num: 30
+category: Art
+difficulty: 1200
+seen: 4
+answer: Frédéric Chopin
+
+pianist & composer was painted by Delacroix in the 1830s, the decade when he became a force in Paris.
+
+----
+num: 31
+category: Literature
+difficulty: 1200
+seen: 4
+answer: après-ski boots
+
+Following a day on the slopes, warm up your tootsies in a pair of these boots whose French name says what they're for.
+
+----
+num: 32
+category: Literature
+difficulty: 1600
+seen: 4
+answer: (Herman) Melville
+
+His greatest novel was a commercial flop, so he supported his family with stories like "Bartleby the Scrivener".
+
+----
+num: 33
+category: Literature
+difficulty: 1600
+seen: 4
+answer: mukluks
+
+Yupik for "bearded seal" gives us the name of these soft boots worn by Eskimos.
+
+----
+num: 34
+category: Science
+difficulty: 2000
+seen: 8
+answer: the cerebrum
+
+Broca's speech area is in the frontal lobe of this largest portion of the brain.
+
+----
+num: 35
+category: Literature
+difficulty: 2000
+seen: 5
+answer: (Philip) Roth
+
+A Pulitzer for "American Pastoral" is one of the honors bestowed on this Newarker.
+
+----
+num: 36
+category: Art
+difficulty: 2000
+seen: 5
+answer: Saint Cecilia
+
+This patron saint of music has often been depicted in art, as.
+
+----
+num: 37
+category: Literature
+difficulty: 2000
+seen: 5
+answer: Frye
+
+Boots from this brand, whose logo is seen.

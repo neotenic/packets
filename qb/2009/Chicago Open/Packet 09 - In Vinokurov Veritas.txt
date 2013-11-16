@@ -1,0 +1,134 @@
+####
+tournament: Chicago Open
+round: Packet 09 - In Vinokurov Veritas.doc
+year: 2009
+####
+
+num: 10
+category: History
+difficulty: Open
+fixed: 57
+seen: 45
+answer: Battle of {Bouvines}
+
+Contemporary chronicles of this battle were written by monks from the nearby monastery of Marchiennes and by Roger of Wendover. Prior to this battle, a siege of La Roche-au-Moine had been raised by forces under William des Roches. One commander in this battle was captured after making a last stand with a circle of seven hundred Brabancon pikemen, while one side gathered at Valenciennes before it. Initially one side's knights refused to engage with some mounted Soissons men-at-arms, while on the left wing of this battle Phillip of Dreux managed to capture (*) William Longsword. The loser of this battle, supported by Renaud of Boulogne and Ferrand of Flanders, was replaced by Frederick II Hohenstaufen and had been excommunicated by Pope Innocent III. This battle was fought in Flanders, and saw the forces of the Holy Roman Empire under Otto IV defeated by Philip Augustus. For 10 points, name this battle that resulted in England losing its territories in Anjou and Normandy, leading to the signing of the Magna Carta.
+
+----
+num: 11
+category: Trash
+difficulty: Open
+fixed: 1
+seen: 197
+answer: {BioWare} Corp
+
+One game developed by this company allows you to select seven different “Planet Runners” as a mercenary for a mining company, and another game developed by this company sees Emperor Zizzy Ballooba attempt to destroy the Earth. In addition to Shattered Steel and MDK2, this company is developing the “Eclipse Engine” for use in Dragon Age: Origins. Another game by this developer asks the player to choose between The Way of the Open Palm and The Way of the Closed Fist, and the protagonist is accompanied by Sagacious Zu and Dawn Star. Another game by this company sees the player cure the Wailing Death and defeat Morag inside the Source Stone and features the (*) Aurora toolset. This is more famous for a game in which the Reapers attempt to destroy all life with Saren's help, and another in which the player discovers that he is Darth Revan. For 10 points, name this game company famous for Jade Empire, Neverwinter Nights, depicting Commander Shepard in Mass Effect, and Knights of the Old Republic.
+
+----
+num: 12
+category: Literature
+difficulty: Open
+fixed: None
+seen: 35
+answer: {Stéphane Mallarmé}
+
+This poet wrote about the lute that “under the dreamer's golden canopy” could “from its belly alone / give birth to you like a son” in the poem “A Lace Curtain Self-Destructs.” One of this poet's speakers argues for the superiority of imagination to reality by noting, “My hunger, feasting on no present fruits / finds in their learned lack an equal zest” in a poem opening “My old books closed once more on Paphos' name,” while his poem “Sea-Breeze” notably begins, “The flesh is sad, alas! And I have read all the books.” The speaker of another poem asserts, “The Poet revives with a naked sword his age…even as Eternity brings him at last to Himself” while looking at a monument to that poet. This poet wrote the unfinished prose poem (*) Dice Thrown Never Will Annul Chance and the aforementioned “The Tomb of Edgar Poe,” but his best known poem ends with the speaker lamenting, “Adieu, you two. I shall see the shade you are” after letting two nymphs he hoped to ravish escape. For 10 points, name this French poet of “The Afternoon of the Faun.”
+
+----
+num: 13
+category: Fine Arts
+difficulty: Open
+fixed: 57
+seen: 44
+answer: {Orphism}
+
+One adherent of this artistic movement illustrated Blaise Cendrars' poem "The Prose of the Trans-Siberian and of Little Jehanne of France.” It was adopted much later for a time by Romanian composer Iancu Dumitrescu, and the principles of this movement were applied to textiles and pottery by Sofia Terk. Musicologist Gabrielle Buffet was a brief participant in this movement, as were the Synchromists Patrick Bruce and Arthur Frost. This group's theories were expounded in the short-lived magazine Montjoie!, and its manifesto was translated for the magazine Der Sturm by Paul Klee. Characteristic works in the style of this movement include a series of “Fugal” pictures by Frantisek Kupka and two paintings of an American girl named Udnie by Francis (*) Picabia. This movement's most prominent figure created a notable series of paintings of the Eiffel tower, but most of his works in this style consist of numerous circles of color. Originally named by Guillaume Apollinaire, this is, for 10 points, what offshoot of cubism founded by Robert Delaunay and named for a mythical Greek musician?
+
+----
+num: 14
+category: Science
+difficulty: Open
+fixed: None
+seen: 53
+answer: {Pigeonhole} Principle [or {Dirichlet's} Box Principle]
+
+This result names a complexity class whose central problem asks whether a function that takes n-bit strings to each other can return a string of all zeros or two inputs map to the same output, while Rhodes showed that this result has Chvatal Rank O(Log n). Thue used this result in order to prove the existence of auxiliary function as part of his proof of Siegel's lemma, (*) while applying it to the first 2N positive integers is used to prove Proizvolov's identity. This result can be used to show that for an irrational number q, the fractional parts generated by multiplying it by the set of integers are dense in [0, 1]. It can also be used to show that collisions in a hash table are inevitable, that two people in a party of n have the same number of friends present, and that at least two of any group of 3 people shares a gender. For 10 points, name this combinatorial principle that states if n+1 objects are placed in n boxes, one box has to have two items.
+
+----
+num: 15
+category: History
+difficulty: Open
+fixed: None
+seen: 91
+answer: {Boston Police} Strike
+
+The Storrow Committee was an unsuccessful attempt to avoid this event, which Francis Russell wrote about in A City in Terror. One official called this event "a crime against civilization," and it was partly inspired by the ineffectiveness of a Social Club which Frank McCarthy attempted to reform. This event led to a group of sailors stoning bystanders and smashing windows and a brief takeover by gangs, and it failed due to lack of support by the (*) Central Labor Union. Andrew J Peters called in a militia to handle this event, which eventually lead to the hiring of some one thousand veterans. This event occurred after Edwin Upton Curtis refused to adjust wages for inflation and recognize a union chartered by the AFL, and it notably propelled the governor to the vice presidential ticket under Warren G Harding. For 10 points, name this September 1919 event handled by Governor Calvin Coolidge, a strike involving law enforcement agents in an East Coast city.
+
+----
+num: 16
+category: Science
+difficulty: Open
+fixed: None
+seen: 55
+answer: {Telomerase Reverse Transcriptase} [accept {TERT} or {hTERT} until mention]
+
+Along with semaphorin F and delta-catenin, this protein is deleted in Cri-du-chat syndrome, and this molecule is targeted by Geron's GRN163 compound. The ELISA-based TRAPEZE assay is used to detect the activity of this protein, which can also be done using the TRAP assay. POT1 and TPP1 prime this enzyme's attachment after detaching from the (*) shelterin complex, and the DSB-associated MRE11-RAD50-NBS1 complex is required for the ALT pathway, whose action is parallel to the action of this enzyme. Factors that bind to G-quadruplexes also inhibit this protein, and this protein was originally discovered in cell-free extracts of Tetrahymena by Greider and Blackburn. Like a related protein, this protein contains a Finger, Palm, and Thumb domain, and its aberrant activation leads to abrogation of the Hayflick limit. Consisting of the TERT protein and a built-in RNA template, for 10 points, name this protein that is responsible for lengthening the ends of chromosomes.
+
+----
+num: 17
+category: Mythology
+difficulty: Open
+fixed: 57
+seen: 90
+answer: {Horses} [accept {Horsies}]
+
+One of these creatures was sired by Hamskerpnir and Gardrofa and is capable of flight, while another one of these creatures is borrowed by Skirnir during the wooing of Gerd and has bloody feet. In addition to Hofvarpnir, which accompanies Frigg's maidservant Gna, and Frey's Blodughofi, Dagr and Nott own another pair of these named Skinfaxi and Hrimfaxi, while Arvakr and Alsvidr are others that belong to Sol. Another one of these creatures is the grandfather of Grani, while the one living near (*) Himinbjorg and belonging to Heimdall is named Gulltoppr. A more famous one of these was given to Magni by Thor, and originally belonged to Hrungnir, named Gullfaxi. A more famous example of these creatures created the canyon Asbyrgi and was born after a making a wager involving the Sun, Moon, and Freya. FTP, name these creatures whose more famous examples include Svadilfari and Odin's eight-legged Sleipnir.
+
+----
+num: 18
+category: Literature
+difficulty: Open
+fixed: None
+seen: 35
+answer: The {Underdogs} [or {Los} De {Abajo}]
+
+In one episode from this novel a man buys a typewriter for a quarter then smashes it against the wall because it is too heavy to carry. The barber in this novel is considered an “unimpeachable authority” because he has read a book titled The Wandering Jew, and the part three begins with a letter written to him suggesting that he use his life savings to invest in a dubious restaurant scheme instead of getting a medical degree. The woman War Paint coerces her way into a relationship with the lecherous Blondie and is exiled after stabbing the main character's mistress Camilla, who is tricked into abandoning her mother by a man nicknamed Tenderfoot. Pancracio and Anastasio Montanez are members of the protagonist's (*) army, which wins a famous victory at Zacatecas after the intellectual Luis Cervantes convinces the protagonist to join the forces of General Natera and Pancho Villa. For 10 points, name this novel about Demetrio Macias's actions during the Mexican Revolution, written by Mariano Azuela.
+
+----
+num: 19
+category: History
+difficulty: Open
+fixed: None
+seen: 60
+answer: {Wang Anshi}
+
+This man created a system of horse breeding that gave horses to civilian families to take care of in order to deal with an export embargo, and this man published a dictionary entitled Explanations of Characters. This man's rudimentary work was collected in his “Thousand Word Memorial,” and was responsible for eliminating rote memorizations of the classics and poetry composition from the national academy. This man was partially inspired by the 10-point memorial and Qingli reforms of Fan Zhongyan, and also created the baojia system to organize the military and called for the elimination of private monopolies, setting up one of the earliest approximations of a welfare state. This man's (*) New Policies were opposed by Su Dongpo and Ouyang Xiu, and eventually the seasonal loans his policies gave to farmers led to conservative factions ousting him. An official under the Emperor Shenzhong, this man was also opposed by the author of the history Zizhi Tongjian, Sima Guang. For 10 points, name this Song Dynasty chancellor who pressed for many liberal reforms.
+
+----
+num: 20
+category: Fine Arts
+difficulty: Open
+fixed: None
+seen: 40
+answer: {Transcendental Etudes} [prompt on "{etudes}"]
+
+The third one of these works beginning with a “sempre legato e placido” section was inspired by watching the changing scenery during a train ride, while the ninth one is inspired by the composer's transcriptions of cantabile Italian opera. Along with pieces titled “Paysage” and “Ricordanza,” the two untitled members of this set of works were given nicknames by Ferrucio Busoni when he called the second one “Rockets” and the tenth one “Appassionata” though those pieces are better known by their tempo markings, “molto vivace” and “allegro agitato molto” respectively. In one of these works the main theme is presented as a series of octaves played against a flurry of thirds and that theme reappears in the “Animato” section representing the fading strength of a (*) horse's gallop while carrying a figure who is crowned king at the end of this section inspired by a Victor Hugo poem. In addition to the final one called "Chasse-Neige, the fifth one of these works is titled “Feux Follets” or “Will o' Wisp” while the fourth one is called “Mazeppa.” For 10 points name this 1852 set of twelve pieces for solo piano written by Franz Liszt. 
+
+----
+num: 21
+category: Literature
+difficulty: Open
+fixed: None
+seen: 34
+answer: The {Bone People}
+
+One character in this novel wins a bar fight through intimidation by catching a fly and flinging it at a drunkard, and another character is restored to health by a man known as “The Keeper” after trying to commit suicide. Another character's anger over the death of the pedophile Binny Daniels leads him to smash the protagonist's guitar and break the window of every shop in town. The protagonist has regular conversations with a coffee grinder in a house known as “the Tower” and receives a letter from an Irish Earl confirming that a necklace she was given is actually a rosary. At the beginning of this novel, the protagonist finds a sandal with a hole pierced through its sole that belongs to a mysteriously (*) mute boy, who earlier had washed ashore after a shipwreck. That boy, Simon, is beaten periodically by his surrogate father, Joe Gillayley. For 10 points, name this novel about Kerewin Holmes, a part-Maori painter, by Keri Hulme.
+
+----
+num: 22
+category: Science
+difficulty: Open
+fixed: None
+seen: 60
+answer: {error correction} [accept {logical} equivalents]
+
+A method of accomplishing this using the BCH technique relies on the Bose distance and involves a defining set constructed from the union of cyclotomic cosets. Computing the syndromes and solving the locator polynomial are two steps in the Peterson-Gorenstein-Zierler algorithm for performing this action. The information necessary to do this action can be generated using such techniques as the Golay code or the Reed-Solomon code, and the (*) Viterbi algorithm is also used to do this. The theorem that shows that this action can be performed to arbitrary accuracy determines if this action needs to be performed including cyclic redundancy checks as well verifying against a checksum. Accomplished by such methods as Hamming codes, which are commonly used to perform single instances of this operation, for 10 points, identify this action in which a message that has been corrupted on transmission is recovered by the receiver.

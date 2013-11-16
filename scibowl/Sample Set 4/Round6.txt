@@ -1,0 +1,216 @@
+####
+tournament: Sample Set 4
+round: Round6.pdf
+####
+
+num: 1
+category: Life Science
+difficulty: MS
+seen: 10
+answer: Topography, Morphology, Composition, or Crystallographic 
+Information (Accept: 1, 2, 3, 4, or All)
+
+
+By name or number, which of the following information can be detected with an electron microscope: 1) topography, 2) morphology, 3) composition, or 
+4) crystallographic information?
+
+----
+num: 2
+category: Math
+difficulty: MS
+seen: 5
+answer: 0.9801
+
+Simplify: 0.99 - 0.0099 (read as: 99 hun-DREDTHS minus 99 ten thous-ANDTHS).
+
+----
+num: 3
+category: Earth and Space Science
+difficulty: MS
+seen: 7
+answer: Counterclockwise
+
+In which direction do winds circulate during a hurricane in the Northern Hemisphere?
+
+----
+num: 5
+category: Earth and Space Science
+difficulty: MS
+seen: 6
+answer: Nitrogen
+
+
+What gas makes up the majority of our atmosphere?
+
+----
+num: 6
+category: Physical Science
+difficulty: MS
+seen: 6
+answer: The Acidity of a Solution (Accept: Bas Isity or Alkalinity of a 
+Solution, Concentration of H + Ions)
+
+What does pH measure?
+
+----
+num: 6
+category: Physical Science
+difficulty: MS
+seen: 6
+answer: 0 to 14
+
+What is the approximate range of the pH scale?
+
+----
+num: 7
+category: General Science
+difficulty: MS
+seen: 6
+answer: Venomous
+
+Spiders such as black widows, brown recluses, mouse spiders, and trapdoor spiders are not actually poisonous, because the term poisonous refers to substances that are harmful if ingested. These spiders, on the other hand, have dangerous bites. Therefore, what term would more accurately describe them?
+
+----
+num: 7
+category: General Science
+difficulty: MS
+seen: 6
+answer: Spinneret
+ 
+
+Name the organ that spiders and many insect larvae use to build webs, make protective cocoons, and even to help catch the wind in order to fly.
+
+----
+num: 9
+category: Earth and Space Science
+difficulty: MS
+seen: 6
+answer: Chert
+
+
+Name the insoluble siliceous nodules that can form within limestone.
+
+----
+num: 11
+category: Energy
+difficulty: MS
+seen: 7
+answer: Heterotroph
+ 
+
+What type of organism obtains organic carbon for growth by consuming other organisms?
+
+----
+num: 12
+category: General Science
+difficulty: MS
+seen: 5
+answer: Carbon Dioxide
+
+Dry ice is the solid form of what compound ?
+
+----
+num: 13
+category: Physical Science
+difficulty: MS
+fixed: -1
+seen: 5
+answer: It Goes Down
+
+What happens to the freezing point of water as salt is added to it?
+
+----
+num: 14
+category: Earth and Space Science
+difficulty: MS
+seen: 5
+answer: Conductivity
+
+The salinity of the ocean is rarely measured directly. What characteristic of the water is measured as a proxy for sal inity?
+
+----
+num: 15
+category: Math
+difficulty: MS
+seen: 6
+answer: 5/9
+
+
+Sam has 2 quarters, 4 dimes, 2 nickels, and 1 penny in his pocket. 
+Expressing your answer as a fraction in lowest terms, if he reaches into his pocket and randomly pulls out a coin, what is the probab ility that the coin will be a penny or a dime?
+
+----
+num: 16
+category: Physical Science
+difficulty: MS
+seen: 6
+answer: Hydrogen Ion (Accept: H+)
+
+What ion is known as the stable identity of the proton?
+
+----
+num: 18
+category: Math
+difficulty: MS
+seen: 6
+answer: 7
+
+What is the cube root of 343?
+
+----
+num: 20
+category: Physical Science
+difficulty: MS
+seen: 6
+answer: Twice (Also Accept: Double)
+
+There are two circuits with the same voltage applied and one resistor each. Circuit A’s resistor has twice the resistance of Circuit B’s resistor. How does Circuit B’s current compare to Circuit A’s?
+
+----
+num: 21
+category: Math
+difficulty: MS
+seen: 5
+answer: 176
+ 
+
+If a 4-inch plant grows at the rate of ^4^1inch per day, in how manydays will the plant reach 48 inches?
+
+----
+num: 22
+category: Life Science
+difficulty: MS
+seen: 10
+answer: Mushroom (Accept: Fungus, Fungi)
+
+In addition to bioluminescent marine and insect life, there are also over 70 known bioluminescent species of this kind of organism, which, like inse cts, uses chitin as a structural carbohydrate.
+
+----
+num: 23
+category: Energy
+difficulty: MS
+seen: 7
+answer: Electrons
+
+What sub-atomic particles commonly act as the source of electrical current?
+
+----
+num: 24
+category: Earth and Space Science
+difficulty: MS
+seen: 5
+answer: Granite
+
+Pikes Peak in the Rockies, Mount 
+Rushmore in the Black Hills, Stone Mountain in Georgia, and Yosemite Nat ional Park in the 
+Sierra Nevada are all areas where large quantities of what kind of rock are exposed at the surface?
+
+----
+num: 25
+category: Math
+difficulty: MS
+seen: 6
+answer: $12.17
+
+Maria and Jonathon were selling shirts at a flea market for $13 per shirt. However, they had the ability to bargain with purchasers down to a minimum price of $10. 
+At the end of the day, they had sold 2 shirts for $10, 3 shirts for $12, 2 shirts for $12.50, and 5 shirts for $13. To the nearest cent, what was their mean price?

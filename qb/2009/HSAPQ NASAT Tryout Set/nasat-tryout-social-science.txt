@@ -1,0 +1,54 @@
+####
+tournament: HSAPQ NASAT Tryout Set
+round: nasat-tryout-social-science.pdf
+year: 2009
+####
+
+num: 1
+category: Social Science
+difficulty: HS
+fixed: 1
+seen: 385
+answer: {prisoner's dilemma}
+
+In a book subtitled "the Puzzle of the Bomb," William Poundstone applied this construct to nuclear warfare. The iterated form of this construct was the subject of a tournament held by Robert Axelrod, which held that "tit for tat" was the best strategy for approaching it. The only Nash Equilibrium in the iterated form of this game is to defect every time. In the most common formulation of this game, players receive six months if both stay loyal but ten years if their partner enters a plea bargain. For 10 points, name this common situation in game theory.
+
+----
+num: 2
+category: Social Science
+difficulty: HS
+fixed: 1
+seen: 387
+answer: Thorstein Bunde {Veblen}
+
+This thinker defined sabotage as the “conscientious withdraw of efficiency” and noted businessmen's profit-seeking as an example. He expressed his hope for technocracy in The Engineers and the Price System. This writer criticized esoteric learning without meaning in a work whose title group develops out of barbarism. War, hunting, and sports support a certain predatory group according to, for 10 points, what economist, who attacked "pecuniary emulsion" and "conspicuous consumption" in The Theory of the Leisure Class?
+
+----
+num: 3
+category: Literature
+difficulty: HS
+fixed: -1
+seen: 440
+answer: The {New York Times} [or {New York Times} op-ed page or equivalents; or {NYT}]
+
+Blogs it hosts include "Evaluations," started in December 2009. Books by its current contributors include a study of "an elite based on brainpower," Bobos in Paradise. Another of its writers published The Greatest Story Ever Sold about the deceptions of the Bush Administration. In addition to David Brooks and Frank Rich, its weekly writers include Gail Collins, Ross Douthat (DOW-that), and Maureen Dowd. For 10 points, name this newspaper, whose op-ed page features the weekly stylings of Paul Krugman and Thomas Friedman.
+
+----
+num: 5
+category: Social Science
+difficulty: HS
+fixed: 1
+seen: 385
+answer: Bronislaw {Malinowski}
+
+This thinker described the significance of masawa in the “Story of Shipwreck,” which also discusses the use of items such as mwali and souvali. This man wrote The Scientific Theory of Culture and attacked the Oedipus Complex in Sex and Repression in Savage Societies. Coral Gardens and Their Magic is a sequel to his best known work, an ethnographical study on Trobriand Islanders. For 10 points, name this founder of functionalism, the Polish anthropologist of Argonauts of the Western Pacific.
+
+----
+num: 7
+category: Social Science
+difficulty: HS
+fixed: 1
+seen: 380
+answer: The {Interpretation} of {Dreams} [or {Die Traumdeutung}]
+
+This work was revised several times in the years following its publication at the urging of Wilhelm Stekel; the revisions included very stringent symbolisms such as one about climbing ladders. Case studies are interrupted with Irma's Injection, an experience of the author. The author argues that the titular entities are examples of wish-fulfillment or the expression of the unconscious uncensored by the preconscious. Also containing a formulation of the Oedipus Complex that was expanded upon in the author's Beyond the Pleasure Principle, this is, for 10 points, what psychological text by Sigmund Freud?

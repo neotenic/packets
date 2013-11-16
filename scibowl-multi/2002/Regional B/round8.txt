@@ -1,0 +1,338 @@
+####
+tournament: Regional B
+round: round8.pdf
+year: 2002
+####
+
+num: 1
+category: Physics
+difficulty: HS
+seen: 1
+answer: W)  Deflection of a Compass Needle
+
+When Johann Schweigger invented the first galvanometer, what did he recognize could be used to measure current:
+W) deflection of a compass needle 
+X) movement of iron particles in a magnetic field 
+Y) movement of electrons through a potential 
+Z) a magneto
+
+----
+num: 2
+category: Chemistry
+difficulty: HS
+answer: X)  Ice Water
+(Solution:  Wood = 0.42 Cal/g°c;  Ice Wa Ter = 0.5;  Sand = 0.19;  Gold = 0.031)
+
+Which of the following has the highest specific heat value:
+W) wood 
+X) ice water 
+Y) sand 
+Z) gold
+
+----
+num: 3
+category: Biology
+difficulty: HS
+answer: W)  Apos Ematic Coloration
+
+When the color of an organism al erts predators to stay away it is technically referred to as:
+W) aposematic coloration 
+X) homological coloration 
+Y) analogous coloration 
+Z) camouflage coloration
+
+----
+num: 3
+category: Biology
+difficulty: HS
+answer: Z)  Xylulose
+
+Which of the following is NOT a hexose:
+W) mannose 
+X) glucose 
+Y) fructose 
+Z) xylulose (pronounced: zyle-YOU-lows)
+
+----
+num: 4
+category: Astronomy
+difficulty: HS
+answer: W)  Midnight
+
+A first quarter Moon will cross the meridian at what time of the day or night:
+W) midnight 
+X) sunrise 
+Y) sunset 
+Z) noon
+
+----
+num: 6
+category: Earth Science
+difficulty: HS
+answer: Y)  Dissolved Load
+
+The salts and ions derived from the chemical weathering of rocks are carried by a stream are part of its:
+W) bed load 
+X) suspended load 
+Y) dissolved load 
+Z) salt load
+
+----
+num: 6
+category: Earth Science
+difficulty: HS
+answer: W)  Subtropical
+
+The Sahara desert in Africa is an example of what type of desert:
+W) subtropical 
+X) continental 
+Y) rainshadow 
+Z) coastal
+
+----
+num: 7
+category: General Science
+difficulty: HS
+answer: Z)  Prevent Surface Static Charge Buildup
+
+Electric appliances and tools are grounded to:
+W) complete the electrical circuit 
+X) balance the voltage in both lines 
+Y) prevent the overloading of circuits 
+Z) prevent surface static charge buildup
+
+----
+num: 7
+category: General Science
+difficulty: HS
+answer: Y)  Pineapple
+
+Which of the following is an example of a multiple fruit:
+W) apple 
+X) sour cherry 
+Y) pineapple 
+Z) pear
+
+----
+num: 8
+category: Computer Science
+difficulty: HS
+answer: Y)  Smtp
+
+An email sent over the internet most likely uses what protocol:
+W) HTTP 
+X) FTP 
+Y) SMTP 
+Z) HMTTP
+
+----
+num: 9
+category: Physics
+difficulty: HS
+answer: X)  Dynamics
+
+What branch of mechanics customarily deals with force and why objects move as they do:
+W) kinematics 
+X) dynamics 
+Y) statics 
+Z) mechanics
+
+----
+num: 9
+category: Physics
+difficulty: HS
+answer: Y)  550-600 Nanometers
+
+Yellow light has a wavelength of approximately:
+W) 300-350 nanometers 
+X) 450-500 nanometers 
+Y) 550-600 nanometers 
+Z) 650-700 nanometers
+
+----
+num: 10
+category: Chemistry
+difficulty: HS
+answer: Z)  Arsenic and Germanium
+
+In which of the following pairs are both elements classified as semimetals:
+W) tellurium and tin 
+X) selenium and bromine 
+Y) scandium and silicon 
+Z) arsenic and germanium
+
+----
+num: 12
+category: Astronomy
+difficulty: HS
+answer: W)  26,000 Years
+
+Because of precession, the celestial pole traces out a complete circle on the sky about every:
+W) 26,000 years 
+X) 12,000 years 
+Y) 6,000 years 
+Z) 600 years
+
+----
+num: 12
+category: Astronomy
+difficulty: HS
+seen: 1
+answer: X)  the Sun's Apparent Path Across the Celestial Sphere
+
+The ecliptic is:
+W) the line that divides the sky into the northern half and the southern half 
+X) the Sun's apparent path across the celestial sphere 
+Y) the point directly overhead 
+Z) the line on the celestial sphere directly above the celestial equator
+
+----
+num: 14
+category: Earth Science
+difficulty: HS
+answer: Y)  Basaltic
+(Solution: Andesitic and Rhyolitic 10% Each)
+
+Which of the following make up approximately 80% of all magma erupted by volcanoes on Earth:
+W) andesitic 
+X) rhyolitic 
+Y) basaltic 
+Z) andesitic and rhyolitic
+
+----
+num: 15
+category: General Science
+difficulty: HS
+answer: W)  Sea Sponge
+
+Which of the following is an example of a modular organism that grows by producing additional units of body construction that are very similar to the units of which it is already composed:
+W) sea sponge 
+X) cockroach 
+Y) spider 
+Z) turtle
+
+----
+num: 16
+category: Computer Science
+difficulty: HS
+seen: 1
+answer: W)  Printed Images Resolve With Dots Per Inch and Displayed 
+Images Resolve With Pixels
+
+Which of the following is TRUE about resolution:
+W) printed images resolve with dots per inch and displayed images resolve with pixels 
+X) printed images resolve with dots per inch and displayed images resolve with dots per inch 
+Y) printed images resolve with pixels and displayed images resolv e with dots per inch 
+Z) printed images resolve with pixels and displayed images resolve with pixels
+
+----
+num: 16
+category: Computer Science
+difficulty: HS
+answer: W)  Bitmap Fonts
+
+Fonts that are digital representations of fonts that are not scalable are called:
+W) bitmap fonts 
+X) outline fonts 
+Y) TrueType fonts 
+Z) vector fonts
+
+----
+num: 18
+category: Chemistry
+difficulty: HS
+answer: Z)  Beh
+^2
+
+Which of the following is considered a nonpolar molecule:
+W) H^2S 
+X) NH^3
+Y) NO^2
+Z) BeH^2
+
+----
+num: 21
+category: Earth Science
+difficulty: HS
+answer: Z)  Volcanic Pipe
+
+Which of the following types of plutons is a cylindrical conduit of igneous rock below a volcanic vent:
+W) laccolith 
+X) dike 
+Y) volcanic stock 
+Z) volcanic pipe
+
+----
+num: 21
+category: Earth Science
+difficulty: HS
+answer: X)  Folded Terrains
+
+Trellis drainage patterns ar e most likely to form on:
+W) coastal plains 
+X) folded terrains 
+Y) glacial outwash 
+Z) permafrost
+
+----
+num: 22
+category: General Science
+difficulty: HS
+seen: 1
+answer: W)  the Softer Its Core and the Less the Outer Hardness 
+Penetrates
+
+In the tempering of steel, the slower the hot steel cools in the quenching process:
+W) the softer its core and the less the outer hardness penetrates 
+X) the softer its core and the more the outer hardness penetrates 
+Y) the harder its core and the less the outer hardness penetrates 
+Z) the harder its core and the more the outer hardness penetrates
+
+----
+num: 23
+category: Physics
+difficulty: HS
+answer: X)  Bernoulli's Law
+
+Which of the following explains why a sailboat can sail into the wind:
+W) Archimedes' Principle 
+X) Bernoulli's Law 
+Y) Pascal's Law 
+Z) Reynolds' Numbers
+
+----
+num: 23
+category: Physics
+difficulty: HS
+seen: 1
+answer: X)  500 Times
+
+If the resolution of the human eye is about 0.1 millimeter and the resolution of a light microscope is about 2,000 angstroms, what is the approximate useful magnification of a human eye combined with a light microscope:
+W) 250 times 
+X) 500 times 
+Y) 1,000 times 
+Z) 2,000 times
+
+----
+num: 24
+category: Chemistry
+difficulty: HS
+answer: Z)   Acetaldehyde
+
+Liver enzymes oxidize ethanol to:
+W) methanol 
+X) formaldehyde 
+Y) oxalic acid 
+Z) acetaldehyde
+
+----
+num: 25
+category: Biology
+difficulty: HS
+answer: W)  Common Crabgrass
+
+Which of the following is the type of plant leaf that lacks a palisade and spongy mesophyll:
+W) common crabgrass 
+X) dandelion 
+Y) apple tree 
+Z) lotus plant

@@ -1,0 +1,439 @@
+####
+tournament: #6562
+round: Show #6562 - Tuesday, March 12, 2013
+year: 2013
+date: 2013-03-12
+####
+
+num: 1
+category: Literature
+difficulty: 200
+seen: 4
+answer: language
+
+"In Paris they just simply...stared. We never did succeed in making those idiots understand their own" this.
+
+----
+num: 2
+category: Geography
+difficulty: 200
+seen: 9
+answer: Java
+
+Slang for coffee, from an island south of Borneo.
+
+----
+num: 3
+category: History
+difficulty: 200
+seen: 4
+answer: John
+
+It's the fourth gospel of the New Testament.
+
+----
+num: 4
+category: History
+difficulty: 200
+seen: 5
+answer: Canada
+
+The little known & bloodless "Pork and Beans War" was a border dispute between the U.S. & this neighbor.
+
+----
+num: 5
+category: History
+difficulty: 200
+seen: 4
+answer: the yuan
+
+This monetary unit of China is divided into 100 fen.
+
+----
+num: 6
+category: Geography
+difficulty: 400
+seen: 7
+answer: Baked Alaska
+
+A heated yet frozen dessert bearing the name of a big 1867 land purchase by the United States.
+
+----
+num: 7
+category: History
+difficulty: 400
+seen: 5
+answer: Ivan
+
+Though he was the first czar of Russia, he was the IV of his name; was he really that bad?.
+
+----
+num: 8
+category: History
+difficulty: 400
+seen: 4
+answer: standard time
+
+Though it sounds like it should be the norm, it's now only in place for a third of the year, November to March.
+
+----
+num: 9
+category: History
+difficulty: 400
+seen: 4
+answer: Yuppies
+
+Socioeconomic group recognized in the 1980s.
+
+----
+num: 10
+category: Literature
+difficulty: 600
+seen: 4
+answer: heaven
+
+This place "goes by favor. If it went by merit, you would stay out and your dog would go in".
+
+----
+num: 11
+category: History
+difficulty: 600
+seen: 4
+answer: the Crusades
+
+The fourth of these military endeavors failed to capture Jerusalem but did sack Constantinople.
+
+----
+num: 12
+category: History
+difficulty: 600
+seen: 4
+answer: soil
+
+All 50 states have a designated state this 4-letter word; for Kansas, it's Harney silt loam.
+
+----
+num: 13
+category: History
+difficulty: 600
+seen: 4
+answer: Yugoslavia
+
+Former central European country.
+
+----
+num: 14
+category: Literature
+difficulty: 800
+fixed: -1
+seen: 3
+answer: the 
+
+On this painting: "To me it was merely a serene and subdued face... the complexion was bad...there are no people that color".
+
+----
+num: 15
+category: Geography
+difficulty: 800
+seen: 8
+answer: a Berliner
+
+Ich bin one of these jelly-filled donuts also known as pfannkuchen.
+
+----
+num: 16
+category: History
+difficulty: 800
+seen: 4
+answer: seizures
+
+The fourth amendment to the Constitution protects us from "unreasonable searches and" these.
+
+----
+num: 17
+category: History
+difficulty: 800
+seen: 4
+answer: Bank of America
+
+This bank was originally called the Bank of Italy, as it helped immigrants who couldn't get loans elsewhere.
+
+----
+num: 18
+category: History
+difficulty: 800
+seen: 4
+answer: yucking
+
+When it comes before "it up", it means having a buncha laughs.
+
+----
+num: 19
+category: Literature
+difficulty: 1000
+seen: 4
+answer: the Bible
+
+"It has noble poetry in it; and some clever fables...and some good morals... and upward of a thousand lies".
+
+----
+num: 20
+category: Geography
+difficulty: 1000
+seen: 8
+answer: Hollandaise
+
+Rich French cream sauce done in a "Dutch style".
+
+----
+num: 21
+category: History
+difficulty: 1000
+seen: 4
+answer: Republic
+
+After Charles de Gaulle resigned as president in 1946, France formed its "Fourth" this under Felix Goun.
+
+----
+num: 22
+category: History
+difficulty: 1000
+seen: 4
+answer: tall ships
+
+The classes of this kind of ship relate to their length, not height; class A is over 40 meters.
+
+----
+num: 23
+category: History
+difficulty: 1000
+seen: 4
+answer: the Yuma
+
+Arizona Indian tribe now known as the Quechan.
+
+----
+num: 24
+category: History
+difficulty: 400
+seen: 5
+answer: Nixon
+
+The New York Times published the Pentagon Papers & Apollo 17 became the last manned lunar landing mission.
+
+----
+num: 25
+category: Literature
+difficulty: 400
+seen: 4
+answer: Simon & Garfunkel
+
+"The Boxer" & "Feelin' Groovy" are 2 of their classics.
+
+----
+num: 26
+category: Science
+difficulty: 400
+fixed: -1
+seen: 6
+answer: molecules
+
+Avogadro's law says equal volumes of gases have equal numbers of these particles in which atoms hook up.
+
+----
+num: 27
+category: Literature
+difficulty: 400
+seen: 4
+answer: speak of the devil
+
+Used when the subject of conversation suddenly shows up, it was once followed by "and he'll appear".
+
+----
+num: 28
+category: History
+difficulty: 400
+seen: 4
+answer: Denmark
+
+This country awards the Order of the Elephant & the Order of Dannebrog.
+
+----
+num: 29
+category: Literature
+difficulty: 400
+seen: 4
+answer: Esther
+
+This book of the Old Testament tells the exciting tale of how the Jews of Persia were saved.
+
+----
+num: 30
+category: History
+difficulty: 800
+seen: 4
+answer: Truman
+
+The U.S. first conducted atomic bomb tests at Bikini Atoll in the Pacific.
+
+----
+num: 31
+category: Literature
+difficulty: 800
+seen: 4
+answer: Eurythmics
+
+This duo gave us "Sweet Dreams (Are Made Of This)".
+
+----
+num: 32
+category: Science
+difficulty: 800
+seen: 5
+answer: a frog
+
+Luigi Galvani figured out the electrical nature of nerve impulses by making this amphibian's legs kick.
+
+----
+num: 33
+category: Literature
+difficulty: 800
+seen: 4
+answer: idle hands
+
+These are "the devil's tools" & "Satan's willing instruments".
+
+----
+num: 34
+category: History
+difficulty: 800
+seen: 5
+answer: the Legion of Honor
+
+This order created by Napoleon consists of 5 classes, including Grand Cross & Chevalier.
+
+----
+num: 35
+category: Literature
+difficulty: 800
+seen: 3
+answer: Ethan
+
+He's the miserable title husband of Zeena Frome.
+
+----
+num: 36
+category: History
+difficulty: 1200
+seen: 4
+answer: McKinley
+
+Commodore George Dewey defeated the Spanish fleet at Manila Bay.
+
+----
+num: 37
+category: Literature
+difficulty: 1200
+seen: 3
+answer: the Pet Shop Boys
+
+This duo came up with "West End Girls" because nobody else was rapping in an English accent.
+
+----
+num: 38
+category: Literature
+difficulty: 1200
+seen: 4
+answer: devil\'s advocate
+
+I'm just playing this, a position formally established by Pope Sixtus V & AKA Promoter of the Faith.
+
+----
+num: 39
+category: History
+difficulty: 1200
+seen: 5
+answer: Ethiopia
+
+This African nation has an honor called the Order of the Queen of Sheba.
+
+----
+num: 40
+category: History
+difficulty: 1600
+seen: 5
+answer: Jackson
+
+Government funds were removed from the Bank of the United States & Texas declared its independence.
+
+----
+num: 41
+category: Literature
+difficulty: 1600
+seen: 4
+answer: OutKast
+
+"Ms. Jackson" went to No. 1 for this duo, Andre 3000 & Big Boi.
+
+----
+num: 42
+category: Science
+difficulty: 1600
+seen: 6
+answer: Marconi
+
+In 1901 this engineer proved that wireless waves were not affected by the curvature of the earth.
+
+----
+num: 43
+category: Literature
+difficulty: 1600
+seen: 5
+answer: Ender
+
+Orson Scott Card titled novels this character's "Game" & his "Shadow".
+
+----
+num: 44
+category: History
+difficulty: 2000
+seen: 6
+answer: John Quincy Adams
+
+The Erie Canal was completed & Thomas Jefferson died.
+
+----
+num: 45
+category: Literature
+difficulty: 2000
+seen: 5
+answer: Jaron Lowenstein
+
+Evanescence sang "Bring Me To Life"; Evan & him sang "Crazy For This Girl".
+
+----
+num: 46
+category: Science
+difficulty: 2000
+seen: 7
+answer: Alessandro Volta
+
+In 1800 he really made a pile, consisting of plates of zinc & copper separated by paper moistened with brine.
+
+----
+num: 47
+category: Literature
+difficulty: 2000
+seen: 5
+answer: the four of clubs
+
+This playing card is known as "the devil's bedpost".
+
+----
+num: 48
+category: History
+difficulty: 2000
+seen: 5
+answer: the Quetzal
+
+In 1936 Guatemala created its national order, the Order of this bird.

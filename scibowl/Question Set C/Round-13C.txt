@@ -1,0 +1,230 @@
+####
+tournament: Question Set C
+round: Round-13C.pdf
+####
+
+num: 2
+category: Chemistry
+difficulty: HS
+seen: 33
+answer: Paramagnetism  (Accept:  Paramagnetic)
+
+What type of magnetism exists in substances in which electrons are unpaired and are very weakly attracted by magnetic fields?
+
+----
+num: 3
+category: Physics
+difficulty: HS
+seen: 26
+answer: Vacuum;  Paraffin;  Mica;  Pure Water
+(Solution: Vacuum = 1.00;  Paraffin = 2.2;  Mica = 7.0;  Water = 80.0)
+
+Order the following 4 substances from the one with the LOWEST dielectric constant to the HIGHEST at 20ºC: mica; paraffin; vacuum; pure water
+
+----
+num: 4
+category: Math
+difficulty: HS
+seen: 24
+answer: 30º and 150º
+
+Solve the following trigonometric equation for x, giving your answer in degrees such that 0º ≤ x < 360º: 2 sin x – 1 = 0
+
+----
+num: 4
+category: Math
+difficulty: HS
+seen: 24
+answer: 3 (Do Not Accept 3 and  –1)
+(Solution:  2x – 1 = (X + 2)(x – 2);  (X – 3)(x + 1) = 0;  X = 3, X ≠ -1 – the Log(-1) Does Not Exist in the 
+Real Number System)
+
+Solve the following logarithmic equation in base 10 for x over the real numbers: log (2x – 1) = log (x + 2) + log (x – 2)
+
+----
+num: 8
+category: Biology
+difficulty: HS
+fixed: -1
+seen: 39
+answer: Erythropoietin and Corticotropin
+(Solution: Erythropoietin = Kidney;  Corticotropin = Pituitary)
+
+Name all of the following 5 products that are NOT produced by the adult human liver: clotting factors; glycogen; erythropoietin; bile; corticotropin (read as: core-tick-oh-TRO-pin)
+
+----
+num: 10
+category: Physics
+difficulty: HS
+seen: 25
+answer: 200
+(Solution:  F = V/ λ;  = 360/1.8m = 200)
+
+Giving your answer in hertz, what is the lowest frequency possible for a string that is 90-centimeters long and whose wave speed is 360 meters per second?
+
+----
+num: 11
+category: Math
+difficulty: HS
+seen: 24
+answer: 8 +  2 I (Accept:  8 + I 2 )
+
+Multiply the following complex numbers, giving your answer in standard form: (2 + i 2 )(3 – i 2 )
+
+----
+num: 14
+category: Astronomy
+difficulty: HS
+seen: 55
+answer: 16  (Accept:  2^4)
+
+If the temperature of an object is doubled, and all other things remain the same, how many times as fast will it radiate energy?
+
+----
+num: 14
+category: Astronomy
+difficulty: HS
+seen: 55
+answer: 240
+
+How many sidereal minutes are in 4 sidereal hours?
+
+----
+num: 18
+category: Math
+difficulty: HS
+fixed: -1
+seen: 25
+answer: 290°
+(Solution: 650°  – 360° = 290°)
+
+In degrees, what is the least positive angle that is coterminal with 650°?
+
+----
+num: 18
+category: Math
+difficulty: HS
+seen: 25
+answer: 5
+(Solution:  31 = 3^3 + 3(3) – K;  K = 5)
+
+Given the function f(x) = x^3 + 3x – k and f(3) = 31, solve for k:
+
+----
+num: 20
+category: General Science
+difficulty: HS
+fixed: -1
+seen: 29
+answer: 1 and 4  (Accept:  1 - Low Hematocrit;  4 - Increased Transferrin 
+Level
+
+By number or name, identify all of the following blood measures that would suggest a woman is deficient in iron: 1) low hematocrit; 2) larger than average size of erythrocytes; 3) high levels of TSH; 4) increased transferrin level
+
+----
+num: 21
+category: Astronomy
+difficulty: HS
+fixed: -1
+seen: 55
+answer: Meteors;  Bolides
+
+Name all of the following 4 objects that would NOT be found on Earth: meteors; craters; asteroid impact remnants; bolides
+
+----
+num: 21
+category: Astronomy
+difficulty: HS
+fixed: -1
+seen: 53
+answer: 22
+
+For someone standing at 22° North latitude, how many degrees above the horizon will the north celestial pole be?
+
+----
+num: 22
+category: Biology
+difficulty: HS
+seen: 37
+answer: 61
+
+How many codons in the entire genetic code call for amino acids?
+
+----
+num: 22
+category: Biology
+difficulty: HS
+fixed: -1
+seen: 39
+answer: Nucleus;  Mitochondrion;  Chloroplast
+(Accept:  All but Lysosome)
+
+Name all of the following organelles that are bounded by a double membrane: nucleus; mitochondrion; chloroplast; l ysosome
+
+----
+num: 23
+category: Chemistry
+difficulty: HS
+seen: 32
+answer: Libr;  Nabr;  Kbr
+
+Order the following 3 ionic solids in terms of their lattice energies or enthalpies, going from the HIGHEST to the LOWEST: LiBr; KBr; NaBr
+
+----
+num: 23
+category: Chemistry
+difficulty: HS
+fixed: -1
+seen: 33
+answer: Hbro;  Hbro
+^2;  Hbro
+^3
+
+Arrange the following 3 oxoacids or oxyacids in order of 
+INCREASING acid strength: HBrO ^3; ^ HBrO^2; HBrO
+
+----
+num: 24
+category: Physics
+difficulty: HS
+seen: 26
+answer: 0.6
+(Solution:  T = 1/f = 0.6 Sec)
+
+If a rock is spun on a sling with a frequency of 100 revolutions per minute, what is the rock’s period, in seconds?
+
+----
+num: 24
+category: Physics
+difficulty: HS
+fixed: -1
+seen: 26
+answer: 134
+(Solution:  V^2 = V^2
+^E + V^2
+^N;  Ke = ½ M(v^2
+^E + V^2
+^N) = ½ (3kg)[(5m/s)^2 + (8 M/s)^2] = 133.5j)
+
+A 3-kilogram model airplane has velocity components of 5 meters per second due east and 8 meters per second due north. What is the plane’s kinetic energy, in joules to the nearest whole number?
+
+----
+num: 25
+category: Biology
+difficulty: HS
+seen: 42
+answer: Pituitary
+
+What part of the human brain releases the most corticotropin?TOSS-UP
+
+----
+num: 25
+category: Biology
+difficulty: HS
+fixed: -1
+seen: 38
+answer: Nadh  = 3;  Fadh
+^2 = 2
+
+What is the average yield of ATP for every NADH and for every 
+FADH^2,^respectively, that pass through the electron transport system?

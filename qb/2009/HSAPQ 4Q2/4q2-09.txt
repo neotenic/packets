@@ -1,0 +1,324 @@
+####
+tournament: HSAPQ 4Q2
+round: 4q2-09.pdf
+year: 2009
+####
+
+num: 1
+category: History
+difficulty: HS
+fixed: 1
+seen: 420
+answer: Herbert Clark {Hoover}
+
+This man served as head of both the Food Administration Board and the Commission for Relief in Belgium during World War I. This politician successfully ran for the presidency against Al Smith. Earlier, this man had served as Secretary of Commerce to both Warren G. Harding and Calvin Coolidge. During this man's presidency, many homeless people lived in shantytowns named for him. For 10 points, name this president who served during the beginning of the Great Depression, which circumstance led to his defeat in the Election of 1932 to Franklin Delano Roosevelt.
+
+----
+num: 2
+category: Literature
+difficulty: HS
+fixed: 57
+seen: 444
+answer: John {Updike}
+
+In one of his short stories, the protagonist Sammy gives the unflattering nickname of "Big Tall Gooney" to one character. In that story, Sammy is quits his job after Lengel threw three girls in bathing suits out of the title grocery store, "A&P." This man also wrote a series of novels about a former basketball star who has an unhappy marriage to Janice, Harry Angstrom. For 10 points, name this author of novels such as Rabbit Redux and Rabbit Run.
+
+----
+num: 3
+category: Mythology
+difficulty: HS
+fixed: -1
+seen: 790
+answer: Argonauts
+
+Idmon joined this group although he knew it would lead to his own death. This group encountered the seer Phineus, whose food was eaten by Harpies until two members of this group, Calais and Zetes, drove them off. Heracles abandoned this group to search for Hylas, and Orpheus kept this group from being enticed by the sirens. Their leader, Jason, married Medea on their voyage back from Colchis. For 10 points, name this group of Greek adventurers, who set off in their namesake ship to find the Golden Fleece.
+
+----
+num: 4
+category: History
+difficulty: HS
+fixed: 57
+seen: 414
+answer: {Maria Theresa} of Austria
+
+This ruler's minister Count Wenzel Anton von Kaunitz helped conduct the Diplomatic Revolution, which led to this leader becoming allied to France's Louis XV. That alliance came after this ruler lost a war in which the Battle of Mollwitz was fought and Silesia was ceded to Prussia, the War of the Austrian Succession. That war centered on this ruler's succeeding Charles VI to the throne. For 10 points, name this woman who fought two wars against Frederick the Great, the empress of Austria whose rule was guaranteed by the Pragmatic Sanction.
+
+----
+num: 5
+category: Science
+difficulty: HS
+fixed: 57
+seen: 476
+answer: {pointer} variable
+
+A "wild" one is one that has not been given a specific value. Its functionality can be duplicated with a one-dimensional array. When one is "double indirect," it means there are two of these before the actual data can be found. They are crucial in the creation of linked lists. Arithmetic with them involves moving up and down a number of bytes depending on the data type being referenced. For 10 points, name this type of variable whose value is a memory address.
+
+----
+num: 6
+category: Literature
+difficulty: HS
+fixed: 57
+seen: 448
+answer: {Hedda} Gabler
+
+One character in this play produces a manuscript about the handicrafts of Brabant. That character, Eilert Lovberg, convinces Thea Elvsted to leave her husband in this play. Judge Brack threatens to reveal the title character's secret in this play. That title character plots to secure a "beautiful death" for Lovberg by burning his manuscript and giving him a pistol. For 10 points, name this play in which the titular wife of George Tesman commits suicide, by Henrik Ibsen.
+
+----
+num: 7
+category: Science
+difficulty: HS
+fixed: 57
+seen: 488
+answer: polynomial {roots} [accept {zeros} before it is read]
+
+Cardano's method is used to find these, and Vieta's formulas give results for summing and multiplying over all of these values. Repeatedly subtracting the quotient of a function and its derivative is used in Newton's Method for approximating these. Another formula for finding these involves the discriminant "b squared minus 4ac." The Fundamental Theorem of Algebra says that a polynomial of order n has n of these, and for order two polynomials, they can be found with the quadratic formula. For 10 points, name these values that when input to a polynomial result in an output of zero.
+
+----
+num: 8
+category: History
+difficulty: HS
+fixed: 57
+seen: 422
+answer: {Elizabeth} I
+
+This ruler reinstated the Supremacy Act of 1534 and issued the Thirty-Nine Articles in an attempt to move this monarch's country away from Catholicism. One plot against this ruler involved a marriage to the Duke of Norfolk. Another plot involved the machinations of Sir Francis Walsingham. The Ridolfi and Babington Plots against this leader eventually led her to have Mary, Queen of Scots, executed. For 10 points, name this English queen whose rule followed that of Bloody Mary, and who was famed for her virginity.
+
+----
+num: 9
+category: Geography
+difficulty: HS
+fixed: 57
+seen: 717
+answer: Lake {Victoria} [prompt on {White Nile} until "{lake}"]
+
+The Ripon Falls are a natural outlet of this lake, and the Kendu and Homa Bays lie in its Winam Gulf. Near the city of Jinja, the Owen Falls Dam, which creates the Nalubaale Power Station, regulates the primary outflow of this lake. Ukerewe Island is the largest island in this body of water, which also contains the Ssese Islands. The cities of Entebbe and Kampala lie on this lake, and it is the source of the White Nile. For 10 points, name this lake bordered by Kenya, Tanzania and Uganda, which is the largest lake in Africa.
+
+----
+num: 10
+category: Literature
+difficulty: HS
+fixed: 1
+seen: 442
+answer: The {Old Man} and the {Sea}
+
+This book ends with the protagonist dreaming about African lions. One character in this book fears that the Cleveland Indians will defeat the Yankees, but the protagonist reminds him that the Yankees have "the great DiMaggio." That character, Manolin, is an apprentice to the title character, who has gone eighty-four days without catching a fish. The title character, Santiago, battles with a marlin on the eighty-fifth day. For 10 points, name this novella by Ernest Hemingway.
+
+----
+num: 11
+category: Religion
+difficulty: HS
+fixed: 1
+seen: 453
+answer: {Abraham} [or {Avaraham}; or {Ibrahim}]
+
+This figure disguised his wife as his sister in order to extort money from both a Pharaoh and Abimelech. This figure was blessed by Melchizedek (mel-KIZ-eh-deck), and this man sent Eliezer to his homeland to look for a bride for one of his sons. The younger of this man's two sons was born a year after his mother laughed at pair of visiting angels, while the elder was exiled into the desert with his mother Hagar. For 10 points, name this first Jewish patriarch, husband of Sarah, and father of Ishmael and Isaac.
+
+----
+num: 12
+category: Fine Arts
+difficulty: HS
+fixed: None
+seen: 494
+answer: Arnold Schoenberg
+
+This man set translations of J.P. Jacobsen poems like "The Song of the Wood Dove" in his Gurreleider. [gur-uh-LEED-ur] The "Dance Around the Golden Calf" is one of the songs in his opera Moses and Aron. This man composed a work based on a Richard Dehmel poem about a woman's confession to her lover that she is carrying the child of another man, Transfigured Night. This man also composed Pierrot Lunaire. [peer-OH loo-NAIR] For 10 points, name this composer who developed atonality and serialism, or the twelve-tone method.
+
+----
+num: 13
+category: Religion
+difficulty: HS
+fixed: -1
+seen: 453
+answer: {Bahai}
+
+The Nineteen Day Fast is a practice of this religion, and its calendar is divided into nineteen nineteen-day months. The Hands of the Cause of God are the successor's of Shoghi Effendi in this religion. Its supreme governing body is the Universal House of Justice and is located in Haifa, Israel. An offshoot of the teachings of the Bab, this religion was founded by Baha Ullah. For 10 points, name this religion that believes that the world's great religions are all manifestations of God.
+
+----
+num: 14
+category: Literature
+difficulty: HS
+fixed: None
+seen: 452
+answer: Christopher Marlowe
+
+The title character of one of this man's plays uses the Turkish king Bajazeth as a footstool. The narrator of one of this man's poems promises things such as "buckles of the purest gold" after urging the title character to "Come live with me and be my love." This author of Tamburlaine and "The Passionate Shepherd to his Love" also wrote a play in which Barabas dies in a cauldron. This author also penned a "tragical history" that adapts of the Faust legend. For 10 points, name this Elizabethan playwright of The Jew of Malta and Doctor Faustus.
+
+----
+num: 15
+category: Science
+difficulty: HS
+fixed: 1
+seen: 494
+answer: septum
+
+When "pellucidum" (puh-LOO-si-dum) is appended to this word, it describes a brain structure that runs from the corpus callosum (KOR-pus kuh-LOSS-um) to the fornix. A defect of another structure with this name allows blood to pass from the left to right atrium. Another structure with this name can potentially deviate enough to cause abnormal breathing. For 10 points, give this term that comes from the Latin for "wall," which describes the divider between the two nostrils of the nose.
+
+----
+num: 16
+category: History
+difficulty: HS
+fixed: 1
+seen: 417
+answer: People's Republic of {China} [or Zhonghua Renmin Gongheguo; or PRC]
+
+The Macartney Embassy was a British trade negotiation team sent to this country. One leader of this country was advised by Vinegar Joe Stillwater. Clair Chennault led the small air force group called the Flying Tigers in this country. The Marco Polo Bridge incident in this country led to a war that is sometimes identified as the first stage of World War II. For 10 points, name this country which suffered through the Rape of Nanking and was led by Chiang Kai-shek.
+
+----
+num: 17
+category: Science
+difficulty: HS
+fixed: -1
+seen: 477
+answer: {Tropical cyclone} [or {hurricane} or {typhoon}]
+
+The Fujiwhara effect describes how these phenomenon can orbit about each other and sometimes merge. The center of these phenomenon usually exhibit the stadium effect, and these phenomena can also cause water to pile up on coastlines to higher than sea level. The severity of these phenomena is measured on the Saffir-Simpson Scale, and notable features of these occurrences include storm surges and eyes. For 10 points, name these low-pressure storm systems that include ones named Wilma and Katrina.
+
+----
+num: 18
+category: History
+difficulty: HS
+fixed: -1
+seen: 412
+answer: Battle of {Shiloh} [or Battle of Pittsburg Landing before mentioned]
+
+Confederate forces withdrew to Corinth after this battle. This battle's second day saw the Union side reinforced with the troops of Don Carlos Buell's Army of the Ohio. The main Confederate force at this battle had recently been named the Army of the Mississippi. That army at this battle lost many troops fighting in a dense bunch of oak trees nicknamed the "hornet's nest." General Albert Sydney Johnston died during this battle. This battle was fought near Pittsburg Landing. For 10 points, name this Civil War battle fought on April sixth and seventh, 1862, in Tennessee.
+
+----
+num: 19
+category: Fine Arts
+difficulty: HS
+fixed: 57
+seen: 488
+answer: {Aida} ({eye}-{EE}-{duh})
+
+The title character of this opera sings the aria "Ritorna vincitor" (ree-TOR-nah VEEN-key-tor) about her conflicted loyalties. In this opera, the king Amanasro (ah-mah-NAS-roh) is captured while disguised as a peasant. The lead tenor in this opera is engaged to marry Amneris (ahm-NEY-ris), but is instead sealed in a tomb to die. This opera focuses on a princess of Ethiopia who is enslaved by Egypt and falls in love with Radames (RAA-da-meez). For 10 points, name this opera, commissioned to celebrate the opening of the Suez Canal and written by Giuseppe Verdi.
+
+----
+num: 20
+category: Literature
+difficulty: HS
+fixed: 57
+seen: 440
+answer: Walter "Walt" {Whitman}
+
+In one of this man's poems, the speaker declares that "the armies of those I love engirth me" and asks "if the body were not the Soul, what is the Soul?" In another of this man's poems, the speaker looks up "in perfect silence at the stars." This author of "When I Heard the Learn'd Astronomer" wrote a collection that includes a poem in which the speaker sounds his "barbaric yawp over the roofs of the world." For 10 points, name this poet who wrote "O Captain! My Captain!" and the collection Leaves of Grass, which contains his "Song of Myself."
+
+----
+num: 21
+category: Religion
+difficulty: HS
+fixed: 57
+seen: 458
+answer: {New Year's} Day [accept obvious equivalents]
+
+Zorastrians celebrate this occurrence with a ritual handshake called the "hamazor" (hah-MAH-zore) on the day of Noruz (nor-OOZ). In Judaism, a version of this holiday is celebrated for trees on Tu bi-Shevat (TUBE-ish-VAHT). The main Jewish version of this event begins the High Holy Days and involves the eating of apples dipped in honey and the blowing of a "shofar." That Jewish holiday, celebrating this occurence, is known as Rosh Hashanah (ROWSH hah-SHAH-nah). For 10 points, what is this day which, in the West, comes halfway between the Christian festivals of Christmas and Epiphany?
+
+----
+num: 22
+category: Science
+difficulty: HS
+fixed: 1
+seen: 487
+answer: transcription
+
+A feature that can promote this process in eukaryotes (you-KAIR-ee-"oats") is called a TATA box. This process forms a polycistronic ("PAUL"-ee-sis-TRON-ic) product when it occurs on the entire lac operon. An enzyme called integrase (IN-tuh-"grace") follows a reversal of this process, which is done by viruses like HIV. This process is followed by the addition of a five prime cap and a three-prime poly-adenosine tail. For 10 points, name this process, the creation of a molecule of RNA complementary to a strand of DNA.
+
+----
+num: 23
+category: Religion
+difficulty: HS
+fixed: 1
+seen: 442
+answer: Ramadan
+
+The Night of Power, celebrating an appearance by the angel Gabriel, occurs during this timeframe. It is associated with the practice of sawm [SOAM]. Its most prominent activity is preceded each day by the suhoor, and followed by the iftar. The elderly, ill, or those traveling are not required to abide by its most famous requirement. Its end is celebrated at the Eid al-Fitr [EED al-FIH-ter]. For 10 points, identify this ninth month of the Islamic calendar, during which believers are required to fast.
+
+----
+num: 24
+category: Literature
+difficulty: HS
+fixed: -1
+seen: 448
+answer: Benjamin "Ben" {Jonson}
+
+In one play by this author, the servant Brainworm hijacks Kno'well's attempts to spy on his son. This author of the drama Every Man In His Humour wrote a play in which the "The Queen of Fairy" is sought by Abel Drugger, who brings news of Dame Pliant's arrival. This author wrote "drink to me with only thine eyes," in his play about Mosca, Celia, and a Venetian nobleman. Sir Epicure Mammon attempts to buy a philosopher's stone from Subtle in another of this author's plays. For 10 points, name this Elizabethan playwright of Volpone and The Alchemist.
+
+----
+num: 25
+category: Trash
+difficulty: HS
+fixed: 1
+seen: 1025
+answer: Patrick Wayne {Swayze}
+
+This actor played Darrell Curtis, older brother of Sodapop and Ponyboy in The Outsiders. As Jed, this actor led a teenage militia in battling Russian invaders in Red Dawn. He played the lovely Vida in To Wong Foo Thanks For Everything Julie Newmar and turned dancing skills into martial arts moves as Dalton in Roadhouse. His final role was Chet Barker in the television series The Beast, which he filmed while receiving treatment for pancreatic cancer. For 10 points, name this actor who danced with Baby in Dirty Dancing.
+
+----
+num: 26
+category: History
+difficulty: HS
+fixed: 57
+seen: 414
+answer: {Nepal}
+
+This nation established a system of "basic democracy" in 1962 based on the panchayat (pun-CHAI-yat) system of local government under King Mahendra. A Maoist insurgency led by a man known as Prachanda arose in this country in the 1990s. The king and queen of this nation were killed by Crown Prince Dipendra in 2001. For 10 points, name this Himalayan nation known for its Gurkha troops.
+
+----
+num: 27
+category: Science
+difficulty: HS
+fixed: 1
+seen: 496
+answer: friction
+
+This force is necessary for the phenomenon of rolling without slipping; during that motion, this force is sometimes known as traction. The kinetic coefficient of this force is a constant, and is less than the maximum static coefficient, which is proportional to the normal force. For 10 points, name this force that retards motion of an object across a surface with which it is in contact.
+
+----
+num: 28
+category: History
+difficulty: HS
+fixed: 1
+seen: 413
+answer: John {Jay}
+
+In one work, this man wrote "Concerning Danger from Foreign Force and Influence." French outrage over one of this man's actions largely led to the Quasi-War. That action by this man consisted of negotiating a treaty with Lord Grenville. This man wrote five of the Federalist Papers. This man's namesake 1794 treaty opened favorable relations with Great Britain. In another role, this man heard the case Chisolm v. Georgia. For 10 points, name this first Chief Justice of the Supreme Court.
+
+----
+num: 29
+category: Fine Arts
+difficulty: HS
+fixed: 1
+seen: 491
+answer: Salvador {Dali} [or Salvador Domingo Felipe Jacinto {Dalí} i Domènech]
+
+This man collaborated with Alfred Hitchcock on the set design for the dream sequence in the film Spellbound. This artist's thoughts on birth and rebirth are evident in the motifs of eggs, such as in his painting The Narcissist. He painted an elephant on stilts and two tigers leaping at a sleeping woman in one work. Another of his paintings depicts ants swarming a watch dial. For 10 points, name this artist who included dripping clocks in his painting The Persistence of Memory.
+
+----
+num: 30
+category: Literature
+difficulty: HS
+fixed: 1
+seen: 444
+answer: The {Catcher} in the {Rye}
+
+The narrator of this novel finds a notebook with the sentence “What has our government done to make life easier for the Alaskan Eskimos?" An accusation of "giving her the time" causes the narrator of this work to fight with Stradlater. In 2009, this book's author filed suit against an unauthorized sequel entitled 60 Years Later. This book follows the narrator's reunion with his sister Phoebe and ambiguous encounter with Mr. Antolini after leaving Pencey Prep. For 10 points, name this novel about the phony-hating Holden Caulfield by J.D. Salinger.
+
+----
+num: 31
+category: Science
+difficulty: HS
+fixed: 57
+seen: 488
+answer: {lead} [or Pb until mentioned]
+
+This element's tetraethyl (TET-ruh-EE-thul) form used to be used as an anti-knock agent in gasoline, and it features with sulfuric acid in car batteries. This element's major ore is its sulfide, galena (guh-LEEN-uh). Discoveries of this element's toxicity largely ended its presence in pipes, though it is still used in radiation shielding, as it has the highest atomic number of any stable element. For 10 points, name this element no longer used in paint, which has symbol Pb.
+
+----
+num: 32
+category: Science
+difficulty: HS
+fixed: 57
+seen: 487
+answer: {Tyrannosaurus rex} [or {T. rex}]
+
+This organism's teeth were described as "lethal bananas" rather than the typical flat blades seen in other contemporary carnivorous animals. Fossils of this organism have been almost exclusively confined to western North America, though a similar species, Tarbosaurus bataar (TAR-bo-SOR-us buh-TAR), was discovered in the Gobi Desert. In 2007, a collagen sample from this relative of Albertosaurus was found to be homologous to that of chickens. For 10 points, name this largest-known terrestrial carnivore.

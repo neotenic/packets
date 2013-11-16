@@ -1,0 +1,226 @@
+####
+tournament: Sample
+round: round16.pdf
+####
+
+num: 1
+category: Biology
+difficulty: HS
+answer: X)  260 Nanometers
+
+In which of the following wavelengths does DNA absorb the best:
+W) 3,900 angstroms
+X) 260 nanometers
+Y) 340 nanometers
+Z) 540 nanometers
+
+----
+num: 1
+category: Biology
+difficulty: HS
+answer: X)  60 Nanometers
+(Solution: This Is the Only Logical Size Considering the a Verage Plant Cell Size and the Size of 
+Transported Molecules)
+
+Which of the following is closest to the diameter of a plasmodesmata (read as: PLAS -mo-dez-MAH-tah):
+W) 2 angstroms
+X) 60 nanometers
+Y) 80 microns
+Z) 180 microns
+
+----
+num: 5
+category: Earth Science
+difficulty: HS
+answer: Y)  Diorite
+
+Which of the following is a coarse -grained igneous rock primarily containing plagioclase feldspar, amphibole and biotite:
+W) gabbro
+X) basalt
+Y) diorite
+Z) granite
+
+----
+num: 6
+category: General Science
+difficulty: HS
+answer: W)  Americium-241
+
+Which of the following is the source of alpha radiation most often used in household ionization smoke detectors:
+W) americium -241
+X) uranium-238
+Y) 
+Z) ironradium-59- 226
+
+----
+num: 8
+category: Biology
+difficulty: HS
+answer: X)  Change in the Slope Only
+
+In a double reciprocal plot of Michaelis -Menton kinetics, what is the effect of a competitive inhibitor:
+W) change in the vertical axis intercept
+X) change in the slope only
+Y) change in the horizontal axis intercept only
+Z) change in both vertical and horizontal axes intercepts
+
+----
+num: 9
+category: Chemistry
+difficulty: HS
+answer: X)  3.7-Times
+(Solution:   R
+R^h
+^N^2
+^2 = 28
+2gg
+//
+Molmol
+= 3.7)
+
+Hydrogen gas effuses through a pinhole opening from one compartment to another about how many times as fast as nitrogen gas:
+W) 2.4-times
+X) 3.7-times
+Y) 5.3-times
+Z) 8.2 -times
+
+----
+num: 10
+category: Physics
+difficulty: HS
+answer: Y)  All Energy Levels of Atoms Are Quantized
+
+Which of the following best describes why the optical spectrum of an atom exists as discrete lines and not as a continuous spectrum:
+W) atoms have electrons with unit charge
+X) all atoms when excited emit light
+Y) all energy levels of atoms are quantized
+Z) all electrons have spin
+
+----
+num: 10
+category: Physics
+difficulty: HS
+answer: Z)  a Time-Varying B-Field Produces an E-Field
+
+Which of the following BEST describes one of Maxwell’s equations that is a mathematical conceptualization of Faraday’s law:
+W) a magnetic B -field is a solenoid vector field
+X) an EMF induced in a conductor opposes that motion
+Y) induced currents are caused by the magnetic field and in opposition to the opposed flux
+Z) a time-varying B-field produces an E-field
+
+----
+num: 11
+category: Math
+difficulty: HS
+answer: X)  Increasing and Concave Down
+(Solution: At the Indicated Value the 1 ^St Derivative Is Positive (Implying I Ncreasing) and the 2^nd
+Derivative Is Negative (Implying Concave Down))
+
+At x = − 12 , the graph of y = x^3 is:
+W) increasing and concave up
+X) increasing and concave down 
+Y) decreasing and concave up 
+Z) decreasing and concave down
+
+----
+num: 12
+category: General Science
+difficulty: HS
+answer: Z)  Particulate Matter
+(Solution: Voc ~ 15;  Co ~ 81 Mt/yr;  So
+^2 ~ 13;  Particulates ~ 3)
+
+According to EPA nationwide emission trends for common air pollutants and excluding fires and dust, which of the following accounted for the least amount of emissions in the past 5 years:
+W) volatile organic compounds
+X) carbon monoxide
+Y) sulfur dioxide
+Z) particulate matter
+
+----
+num: 14
+category: Astronomy
+difficulty: HS
+answer: Y)  the Moon at Apogee on the 1^st of the Month and Perigee at 
+the 29^th of the Month
+(Solution: Apogee and Perigee Are Separated by About 14 -15 Days)
+
+Which of the following is LEAST like ly to occur when viewed from mid-northern latitudes in the month of August:
+W) Venus passing within 2º of Saturn
+X) Neptune at opposition
+Y) the Moon at apogee on the 1^st of the month and perigee at the 29 ^th of the month
+Z) the Moon passing within 5º of Uranus
+
+----
+num: 14
+category: Astronomy
+difficulty: HS
+answer: Y)  Jupiter
+(Solution: Venus and Vega Are Not There at This Time of Year and U Ranus Is Never That Bright)
+
+Which of the following was seen from mid -northern latitudes by casual stargazers as a bright light in August of 2008 at midnight, about 1/2 way up the southern horizon:
+W) Venus
+X) Vega
+Y) Jupiter
+Z) Uranus
+
+----
+num: 15
+category: Biology
+difficulty: HS
+answer: W)  5’ Ucgcgg 3’
+
+Which of the following is the RNA complementary sequence of the following sequence: 5’CCGCGA 3’ (read as: 5 -prime, CCGCGS, 3-prime)
+W) 5’ UCGCGG 3’ (read as: 5-prime, UCGCGG, 3-prime)
+X) 5’ GGCGCU 3’
+Y) 5’ GGCGCT 3’
+Z) 5’ TCGCGG 3’
+
+----
+num: 17
+category: Physics
+difficulty: HS
+answer: Z)  It Cannot Distinguish Between Positive and Negative 
+Particles
+
+Which of the following is NOT true of the Hall e ffect:
+W) it can be used to measure the strength of a magnetic field
+X) it is a consequence of a current carrying wire in a magnetic field
+Y) it was one of the first direct indications that negative charges are what move in conductors
+Z) it cannot dis tinguish between positive and negative particles
+
+----
+num: 18
+category: General Science
+difficulty: HS
+answer: W)  30º
+
+During the winter solstice in the northern hemisphere, which of the following northern latitude positions will have a day length of 10.1 hours:
+W) 30º
+X) 40º
+Y) 50º
+Z) 60º
+
+----
+num: 19
+category: Earth Science
+difficulty: HS
+answer: Z)  5
+
+During the past 500,000 years, there have been how many periods of major glaciation on Earth:
+W) 2
+X) 3
+Y) 4
+Z) 5
+
+----
+num: 19
+category: Earth Science
+difficulty: HS
+answer: X)  10ºc
+(Solution:  Wet-Adiabatic Lapse Rate ~ 5ºc/1000 Meters)
+
+A rising parcel of air reaches the lifting condensation level at 2,000 meters at a dew point temperature of 15ºC. At 3,000 meters, the temperature of this parcel of air will on average be:
+W) 15ºC
+X) 10ºC
+Y) 6ºC
+Z) 3 ºC

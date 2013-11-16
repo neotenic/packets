@@ -1,0 +1,184 @@
+####
+tournament: Minnesota Open
+round: Round 02 - VCU + Magin et al.doc
+year: 2010
+####
+
+num: 1
+category: Literature
+difficulty: Open
+fixed: -1
+seen: 35
+answer: {Jay Gatsby's house} [accept equivalents, like {James Gatz's house}]
+
+This building, which is once described as a “huge incoherent failure”, was constructed by a brewer who unsuccessfully tried to force his neighbors to thatch their roofs. One resident of this building is seen doing “liver exercises” on the floor and reluctantly agrees to play “The Love Nest” on the piano. It also contains a study decorated in the Adam style, which is used by a man who is compared to a “regular Belasco!” Five crates of oranges and lemons arrive at this building every (*) Friday, as ordered by its owner, who pulls out piles of unused silk shirts while giving a tour. This building's library contains books with uncut pages that are examined by a man with large glasses, while its residents include Ewing Klipspringer. Its swimming pool is the scene of a grisly murder committed by George Wilson. For 10 points, name this building which is the setting of uproarious parties attended by Jordan Baker and Nick Carraway, the home of the protagonist of an F. Scott Fitzgerald novel.
+
+----
+num: 2
+category: History
+difficulty: Open
+fixed: None
+seen: 46
+answer: {Llywelyn} [{liu}-{ell}-{in}]
+
+One king of this name attempted to confuse an opposing army by putting the shoes on his horse backwards, but he was betrayed to the pursuing forces of John Giffard by a treacherous blacksmith. Another king of this name attempted to secure the succession for his son through an oath at Strata Florida Abbey and tried to engineer peace by marrying his daughter Gwladus [goo-lad-us] the Dark to two marcher lords. The king of this name who lost at the Battle of Bullith was the son of (*) David, and grandson of the “Great” king of this name, who opposed King John much as the later king of this name opposed Henry III. That latter prince of Gwynedd was the only ethnic Welshman to be named Prince of Wales. For 10 points, give this common name of two thirteenth-century Welsh kings, the latter of whom was known as "the last leader" or "ap Gruffydd."
+
+----
+num: 3
+category: Fine Arts
+difficulty: Open
+fixed: 57
+seen: 40
+answer: William {Blake}
+
+A figure surrounded by flames appears to be lunging toward another figure holding a muscular child in this artist's “Good and Evil Angels.” Two sleeping figures flank an ascending spiral of spirits holding instruments in another work by this man, his “Queen Katherine's Dream.” Humanoid fish-creatures are gazed upon by a crouching creature in this artist's illustration of Gray's “Ode on the Death of a Favorite Cat.” In another work, a glowing woman looks upward in terror as she sees a creature with (*) three human faces that this man later depicted with “the Beast from the Sea”. A more famous work by this painter of “The Great Red Dragon and the Woman Clothed with the Sun” shows a crouching bearded figure forming a right angle with his fingers, from which rays of light emanate; that work is titled “The Ancient of Days.” For 10 points, name this artist who also created covers for works such as Songs of Innocence and Songs of Experience.
+
+----
+num: 4
+category: Science
+difficulty: Open
+fixed: None
+seen: 57
+answer: {Franck}-{Hertz} Experiment [Either order is {okay}]
+
+Teich, Saleh, and Soler proposed a version of this experiment to study the anti-bunching of light. Calculations using conservation of angular momentum showed that events observed in the data must correspond to a transition into the 3P1 [three-P-one.] The collecting plate in this experiment had a slight negative charge, and its investigators saw sudden drops in the (*) current at evenly spaced intervals of 4.9 electron volts when a beam of electrons was fired at a glass envelope filled with mercury. Inelastic collisions were the cause of the drops in the current,  For 10 points, identify this experiment which showed that the electrons occupy discrete quantized states, which won its investigators the 1925 Nobel prize in Physics.
+
+----
+num: 11
+category: Philosophy
+difficulty: Open
+fixed: None
+seen: 39
+answer: {George Berkeley}, {Bishop} of {Cloyne} [prompt {anyone who wants} to be an {ass} and {say} “{Bishop} of {Cloyne}”]
+
+One work by this philosopher posits a person who has color and size but no particular color or size in his attack on the second and third forms of abstraction found in Arnauld and Nicole's Logic or the Art of Thinking. In another work, this man questioned the sensibility in NOT thinking the moon is "a plain lucid surface, about a foot in diameter". This thinker claimed that resemblance only applied to ideas in his "likeness principle. Another work by this man uses the examples of a tree and a cherry to illustrate what Andre Gallois terms this man's (*) "Master Argument". That statement refuted the distinction between primary and secondary qualities and claims that objects cannot exist apart from the mind. For 10 points, name this Irish philosopher of A Treatise Concerning the Principles of Human Knowledge and Three Dialogues Between Hylas and Philonous, who held that “to be is to be perceived”.
+
+----
+num: 15
+category: History
+difficulty: Open
+fixed: None
+seen: 44
+answer: {Gran Chaco} War [accept La {Guerra} de la {Sed} or The {War} of {Thirst} until mentioned]
+
+Near the end of this war, the president of the losing country was overthrown by his generals while visiting their headquarters, causing him to remark it was their only successful military maneuver of the war. One side in this war employed White Russians Ivan Belaieff and Nicholas Ern as fortification and cartography specialists. The numerous casualties due to lack of water have caused this conflict to be known as the (*) “War of Thirst.” The losing side in this war unsuccessfully utilized Vickers tanks under the command of Hans Kundt, whose officers could not communicate with their mostly native troops. That side, under President Daniel Salamanca, was desperate to obtain ocean access after losing the War of the Pacific. For 10 points, name this 1930's war in which Paraguay defeated Bolivia to gain control of the namesake region.
+
+----
+num: 16
+category: Fine Arts
+difficulty: Open
+fixed: 1
+seen: 39
+answer: Claude {Debussy's} twelve {etudes} [or L. 136]
+
+The middle of the fifth one of these pieces is marked "very equally rhythmed". The composer declined a request from Gabriel Faure to perform them in public, claiming that "there are too many keys” and that “I don't remember where the pedals are." The first one opens with a repetitive series of five-note scales, explaining the sarcastic dedication “after Carl Czerny”, while the rigid four-note groupings of the sixth one led the composer to promise "awkward and acrobatic" use of the thumbs. That suggested avoidance of the thumbs gave the sixth of these pieces the title (*) “for eight fingers”. The remainder of these pieces go on to explore the roles of opposing sonorities, fourths, and sixths, while their most famous example focuses on composed arpeggios. Though nearly dedicated to François Couperin, this set of works was actually inscribed to Chopin, and they experienced a resurgence in popularity similar to their composer's twenty-four preludes. For 10 points, identify this series of twelve didactic piano pieces by the French composer of La Mer.
+
+----
+num: 17
+category: Science
+difficulty: Open
+fixed: None
+seen: 58
+answer: {searching} [or {pattern matching}; accept {more specific} answers, {such} as {array} or {string searching} or {string matching}, etc.; accept {logical} equivalents {such} as {locating substrings within strings}, etc.]
+
+A well-known algorithm that performs this task, which is not branching, uses two structures informally known as “jump tables”, the first of which is not used in a modification of that algorithm partially named for Horspool. A trie (“try”) with suffix-tree-like links between its nodes is constructed by another algorithm to perform this task; that algorithm is the Aho-Corasick algorithm. This operation, performed by the aforementioned backwards- working Boyer-Moore algorithm, is also performed by an algorithm built around a (*) rolling hash, though that algorithm is less efficient than one that includes a “failure function” to avoid checking characters multiple times, the Knuth-Morris-Pratt algorithm. For 10 points, name this operation that is performed by the Rabin-Karp algorithm and the Unix utility grep, which in general involves finding an item, often a string.
+
+----
+num: 18
+category: Literature
+difficulty: Open
+fixed: None
+seen: 38
+answer: A {Fine Balance}
+
+This novel ends as one character realizes he never returned a chess set given to him by a student body president at his university. That character is sent to study refrigeration and air conditioning by his father, the producer of the struggling soda brand Kholah Cola. In this novel, a character known as the “Monkey-man” slays a dog before fulfilling an old lady's prediction by killing the Beggarmaster. Another character in this novel is forced by the death of her chemist husband to move in with her domineering brother Nusswan. One of its characters spits at Thakur Dharamsi, causing him to become a target of the Family Planning Centre and its forced vasectomies. The central group of this novel includes Ishvar, (*) Omprakash, and Maneck, who work with Dinah Dalal as tailors against the backdrop of Indira Gandhi's Emergency. For 10 points, name this most popular novel of Rohinton Mistry.
+
+----
+num: 19
+category: Fine Arts
+difficulty: Open
+fixed: 1
+seen: 39
+answer: Louis {Sullivan}
+
+Photographer and preservationist Richard Nickel was killed when one of this man's buildings collapsed on him. This man undertook one of his most notable commissions on the behest of a millionaire who would be indicted in the Suburban Railway “boodle” scandal. He designed the tomb for the wife of lumber baron Henry Harrison Getty. This man's “Jewel Boxes” are a series of banks he designed for cities like Owatonna and Cedar Rapids. This designer of the Guaranty Building in Buffalo also planned the Carson Pirie Scott store in Chicago, which now bears his name. His most famous structure is named for a brewer, was designed with Dankmar Adler, and is a red brick office building in downtown St. Louis.  For 10 points, name this designer of the Wainwright Building, who coined the phrase “form follows function.”
+
+----
+num: 20
+category: History
+difficulty: Open
+fixed: None
+seen: 48
+answer: {Army}-{McCarthy hearings} [accept answers that mention {McCarthy} and the {US Army}]
+
+At one point during this event, one participant opined that “a pixie is a close relative of a fairy.” This event was chronicled in Emile de Antonio's documentary Point of Order. Its direct cause was Robert Stevens' refusal to give preferential treatment to hotel magnate heir David Schine. This event is sometimes partially credited for the rise of ABC, which was the only major network to cover its thirty six days. At one point in this event, Stuart Symington snapped “You're not fooling anyone” at one participant. During this event, Roy Cohn was accused of doctoring photos. The browbeating of youthful attorney Fred Fisher compelled Joseph Welch to ask “Have you no sense of decency, sir, at long last?” Shortly after this event, one major participant was condemned within the Senate. For 10 points, name this series of inquiries into conflicting accusations from a branch of the military and a certain Commie-hunting Senator from Wisconsin.
+
+----
+num: 21
+category: History
+difficulty: Open
+fixed: None
+seen: 48
+answer: Battle of {Tippecanoe}
+
+After this battle, an Ohio newspaper inaccurately claimed the winning force had lost, while other newspapers spent more time mourning the death of noted Kentucky lawyer Joseph Daveiss than the outcome. A month after this battle, the losing side was encouraged by the New Madrid Earthquake, interpreted as a good omen by one of their leaders. The losing commander blamed the loss on his menstruating wife interfering with his (*) magical powers. This battle was a victory for the “Yellow Jacket” force. The two commanders would later fight again in a battle in Upper Canada, which saw Richard Johnson kill the losing commander's brother. This battle took place at Prophetstown, the home of the Shawnee mystic Tenskwatawa. For 10 points, name this 1811 loss for Tecumseh's forces which gave William Henry Harrison his nickname.
+
+----
+num: 22
+category: Literature
+difficulty: Open
+fixed: 57
+seen: 34
+answer: Luigi Pirandello
+
+This author was forced into writing professionally when the flooding of a sulfur mine ruined his family financially. In one of his stories, the craftsman Zi Dima invents a powerful glue, but gets stuck inside while repairing the title container for the litigious Don Lolo Zirafa. Another of his stories ends with the sobbing realization of a man who had rationalized the death of his son after a conversation on a train between parents who had watched their children go to the title conflict. This author of “The Jar” and “War” wrote a novel about a character who serves as a glorified rat catcher after being appointed caretaker of a library. That character has his family's fortune whittled away by (*) Malagna and assumes the identity of Adriano Meis after winning a small fortune at Monte Carlo and reading about his own death in the newspaper. For 10 points, name this author of The Late Mattia Pascal, an Italian best known for his plays Henry IV and Six Characters in Search of an Author.
+
+----
+num: 23
+category: Literature
+difficulty: Open
+fixed: 57
+seen: 35
+answer: William {Wordsworth}
+
+This author collaborated with Mary Barker on a poem admonishing Lord Byron to “Halt in thy insane career,” entitled “Lines addressed to a noble lord.” This author's turn towards conservatism caused him to be excoriated in a poem claiming “Just for a handful of silver he left us / Just for a riband to stick in his coat.” This target of Robert Browning's poem “The Lost Leader” was also lampooned in Percy Shelley's poem “Peter Bell the Third.” Along with Robert Southey, he was mocked in the (*) dedication to Don Juan (JOO-on), which satirized the pretentiousness of his long poem The Excursion. He wrote “The very houses seem asleep / And all that mighty heart is lying still” in a poem about his view of London from Westminster Bridge, and described a woman who “sings a melancholy strain” while she “alone...cuts and binds the grain” in “The Solitary Reaper.” For 10 points, name this British Lake poet of The Prelude and “Tintern Abbey.”
+
+----
+num: 24
+category: Literature
+difficulty: Open
+fixed: 57
+seen: 34
+answer: {Polonius}
+
+This character worries that with “devotion's visage” and pious action we often “ do sugar o'er the devil himself.” He asks another character “will you walk out of the air?” In another scene, this character agrees with another's assertions that a cloud looks like a camel, a weasel, and a whale. He reads out loud another character's letter which begins “Doubt thou the stars are fire.” This character is called a fishmonger in one scene, and in another he promises to be brief, since (*) “brevity is the soul of wit.” In another scene, he advises "be thou familiar, but by no means vulgar” and “neither a borrower nor a lender be.” He says “This above all - to thine own self be true” to cap off a speech of advice to his son Laertes. For 10 points, name this plotting father of Ophelia and advisor to Claudius who is accidentally stabbed by Hamlet.
+
+----
+num: 25
+category: Literature
+difficulty: Open
+fixed: None
+seen: 34
+answer: {Judge Holden} [or the {Judge}]
+
+In a story related by an ex-priest, this character exhorts a group of men to urinate on a mixture of charcoal, bat guano, and sulfur in order to create gunpowder from a nearby volcano. He asserts that “Whatever in creation exists without my knowledge exists without my consent” to explain his desire to become “suzerain of the earth.” Throughout the novel he appears in, this character claims “If war is not holy man is nothing but antic clay,” and “war is god.” He is last seen in 1878, declaring that he will never die while dancing and playing the fiddle in a saloon, just after he assaults the kid in an outhouse. This enormously tall, hairless character accompanies the (*) Glanton Gang across the Southwest in a novel subtitled “the evening redness in the west.” For 10 points, name this malevolent philosopher of violence in Cormac McCarthy's novel Blood Meridian.
+
+----
+num: 26
+category: Literature
+difficulty: Open
+fixed: 57
+seen: 34
+answer: The {Libation Bearers} [or {Choephoroi}]
+
+During this play's first stasimon, the chorus compares one character's death to Althaea's killing of Meleager, Scylla's cutting of Nisus's hair, and the Lemians murder of their husbands. In this play's lengthy kommos, its chorus joins its onstage characters in invoking the wrath of their father's ghost. The action of this play is set in motion by a woman who dreams that she gives birth to a snake which breastfeeds from her and mixes blood with her milk. At the beginning of this play, one character places a (*) lock of his hair on a grave, causing his sister to recognize him from his hair and his footprint. In the climactic scene of this play, Aegisthus is murdered, and Pylades encourages his cousin to uphold his oath to Apollo and kill Clytemnestra, an act that causes him to be pursued by the Furies. For 10 points, name this tragedy by Aeschylus that takes place between Agamemnon and The Eumenides in the Oresteia.
+
+----
+num: 27
+category: Social Science
+difficulty: Open
+fixed: None
+seen: 35
+answer: The {Labyrinth} of {Solitude} [or {El Labertino} de la {Soledad}]
+
+This book's second chapter uses the image of a rocket that explodes noisily before disappearing to describe festivals that seem to produce social regeneration without actually doing so. The fourth chapter of this book argues that forbidden words such as “chingon” and “chingada” reveal that the central group studied in this book believe they are inferior since they are the (*) illegitimate sons of a raped woman. Its first chapter analyzes the clothing worn by the pachuco, and argues that the people it analyzes are “hermetically sealed” and shut themselves inside protective masks. In chapters such as “The Sons of La Malinche” and “Mexican Masks,” it details the importance of machismo in the culture of Mexico. For 10 points, name this collection of essays analyzing the intense feeling of isolation among Mexicans, written by Octavio Paz.

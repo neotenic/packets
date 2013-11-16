@@ -1,0 +1,174 @@
+####
+tournament: NTV
+round: r9tossups.pdf
+year: 2008
+####
+
+num: 1
+category: History
+difficulty: HS
+fixed: 1
+seen: 568
+answer: Helen {Thomas}
+
+(JG) Upon receiving the Torchbearer award in 2003, she gave a speech entitled "Truth, Fear, and War" about the fall of America as a prestigious nation under the Bush administration. Her first major job in her field was at the Department of Justice in 1955, but she started covering the beat for which she is most fa- mous after accompanying JFK on a vacation shortly after his election. She left United Press International in 2000 after a change in ownership, and was the only print reporter to go to China with Richard Nixon. More recently, she cooperated with Stephen Colbert in the video he presented at the White House Corre- spondents' Dinner. Identify this journalist, who until recent years asked the first question at every press conference and ended them with "Thank you, Mr. President."
+
+----
+num: 2
+category: Literature
+difficulty: HS
+fixed: 57
+seen: 446
+answer: August {Strindberg}
+
+(DR) Early in his career, he wrote a novel about Arvid Falk titled The Red Room. Soon after that, he wrote a play set in the 16th century, titled Master Olof. His most famous play is about a woman who has broken off her engagement and features a religious cook named Kristin. This writer had three horrible marriages, and many critics claim that his portrayals of women were affected by them. Name this Swed- ish writer of Miss Julie.
+
+----
+num: 3
+category: Science
+difficulty: HS
+fixed: 1
+seen: 491
+answer: {Benedict's} solution (accept clear knowledge equivalents like "{reagent}" for "{solution}")
+
+(JG) The metallic ion in this substance is complexed with citrate ions, and its namesake stabilized it and decreased its corrosivity. Generally, it is positive for nonaromatic aldehydes, and is often used in place of Fehling's solution. A quantitative version of its test uses titration until a white precipitate forms. Medically, it was once used in urine tests for pregnant women, and now is often used as a preliminary test for diabetes mellitus. In general, it is an indicator for reducing agents. Name this solution mainly of so- dium hydroxide and copper two sulfate that, on heating, changes from blue to red in the presence of fruc- tose or glucose.
+
+----
+num: 4
+category: Fine Arts
+difficulty: HS
+fixed: 1
+seen: 494
+answer: Giuseppe Fortunino Francesco {Verdi}
+
+(MS) One piece by this composer began as a thirteen-composer collaboration for which he wrote a "Libera me" [LEE bare uh MAY] and was dedicated to Rossini, but that Requiem was initially performed at the funeral of Manzoni. One familiar theme by him is "Va', pensiero" [VAH pen-see-AIR-oh] for a chorus of Jews, while another is the aria "La donna é mobile" [la don-uh eh MOH-bee-lay] for the Duke of Mantua; those songs are from his operas Nabucco and Rigoletto, respectively. Name this Italian com- poser best known for La traviata and Aida [i EE duh].
+
+----
+num: 6
+category: History
+difficulty: HS
+fixed: 57
+seen: 416
+answer: {Meiji} restoration
+
+(AS/JG) This led to a Charter Oath with five articles, the last of which stated that knowledge would be sought throughout the world. The leader put in charge was a teenager who ruled for the next forty-five years. It was facilitated by the formation of the Satcho alliance and its victory in the Boshin War. The catalyst for this event was the arrival of the Saratoga and the Susquehanna along with two other ships at Uraga Harbor, the so-called "Black Ships" commanded by Matthew Perry. This event led to a program of land reform and abolition of the old feudal system, including the Samurai class. Name this group of events in Japanese history in which oligarchs overthrew the Tokugawa Shogunate to make way for a new emperor.
+
+----
+num: 7
+category: History
+difficulty: HS
+fixed: 57
+seen: 421
+answer: {Hungary} or {Hungarians}
+
+(DR) An author from this country wrote a novel about Gyuri (JEW-ree) Koves, a teenager in concen- tration camps, titled Fatelessness. A scientist from this country worked with Fermi on the first nuclear chain reactions and wrote the letter signed by Einstein warning President Roosevelt about its uses, and a mathematician from this country co-authored a huge number of papers on number theory. One composer from this country wrote "Romanian Folk Dances", "Kossuth", and "The Miraculous Mandarin." During World War Two, it joined the Axis Powers, though its Regent Miklos Horthy maintained national inde- pendence until he was replaced by a group sympathetic to the Nazis. It is between Slovakia and Serbia, and its language is similar to Finnish. Name this home of Magyars whose capital is Budapest.
+
+----
+num: 8
+category: Philosophy
+difficulty: HS
+fixed: 1
+seen: 518
+answer: John Stuart {Mill}
+
+(JG) Amartya Sen criticized many of his economic theories in Collective Choice and Social Welfare. This philosopher wrote about sensation and association in Psychological Theory of the Belief in an Exter- nal World, and placed a high importance on societal ethics and their breakdown in a work that elaborated on and slightly modified a book by his father James. He was one of the first philosophers to treat human nature as a science, a study he called "ethology", noting that unlike physical phenomena, human actions were not dependent simply on their present state. Give the name of this nineteenth-century British phi- losopher and economist known for utilitarianism and his book On Liberty.
+
+----
+num: 9
+category: Science
+difficulty: HS
+fixed: 1
+seen: 483
+answer: {Hertzsprung}-{Russell} diagram
+
+(JG) According to this, blue stragglers are separate from their clusters, and the Hess diagram reflects the density of this. The canonical horizontal axis is difficult to develop analytically and is so sometimes replaced by B–V color, an easier quantity to measure than spectral class. The y-axis is usually drawn logarithmically and can be labeled with either luminosity or absolute magnitude. Name this doubly- eponymous astronomical diagram that features a central line for the main sequence and plots several characteristics of stars.
+
+----
+num: 11
+category: Science
+difficulty: HS
+fixed: 57
+seen: 485
+answer: {Lisp}
+
+(CA) Emacs uses a variant of this as a scripting language. Every object in this language is either an atom or a cons pair. It was the first homoiconic language, because its program code is represented in its primary data structure, lists. For this reason, REPLs [REH pulz] are commonly implemented in this lan- guage itself, because its s-expressions can be directly parsed as data. Its most common dialects are Scheme and Common, and it uses exclusively prefix notation, with procedure calls enclosed within nested parentheses. Name this programming language based directly on the lambda calculus.
+
+----
+num: 12
+category: Literature
+difficulty: HS
+fixed: 57
+seen: 445
+answer: Kate {Chopin}
+
+In one of this author's short stories, Cazeau is a planter who marries the titular woman, Athen- aise. In addition to writing that story and the semi-autobiographical novel At Fault, this author wrote about Armand Aubigny, who is surprised to learn that his son has black blood. In addition to writing "De- siree's Baby", this author wrote Bayou Folk and a short story in which Mrs. Mallard's husband dies in a train accident, entitled "The Story of an Hour". Identify this author, best known for writing about Edna Pontellier in her novel The Awakening.
+
+----
+num: 13
+category: Trash
+difficulty: HS
+fixed: 57
+seen: 1026
+answer: Steven Paul {Jobs} [accept {Steve Jobs}]
+
+His first job in the industry for which he's famous was at Atari, from which he hoped to save money for a spiritual journey to the East. After a decade with his famous company, he was exiled, but continued to hold exactly one share of that company. He returned in 1996, replacing Gil Amelio as CEO, from NeXT Computer. Since then, he has remained with the company, which has enjoyed its greatest success, dominating the personal media player market. He himself has become a well-known presence at industry conferences, making epic speeches to introduce such products as the iPhone, and false rumors that he had cancer swirled in the fall of 2008. Identify this turtleneck-clad co-founder and chairman of Apple Computer.
+
+----
+num: 14
+category: History
+difficulty: HS
+fixed: 57
+seen: 417
+answer: {Whiskey} Ring scandal (accept "{affair}" or other reasonable equivalents for "scandal")
+
+(JG) This situation resulted in the indictments of over 200 people, and Thomas Nast commented on it with a picture of Uncle Sam looking at some wooden objects while a quotation from the man who broke it looms overhead. That man, secretary of the treasury Benjamin Bristow, made the discovery because he found that the government was missing a substantial portion of the revenue it was due. In fact, some of that money was being diverted to President Grant's reelection fund, allegedly at the direction of Grant's private secretary, Orville Babcock. However, Babcock was acquitted of diverting the IRS's revenue from spirit taxes. Name this scandal in the Grant administration concerning a tax on alcoholic beverage distill- ers.
+
+----
+num: 15
+category: Science
+difficulty: HS
+fixed: -1
+seen: 481
+answer: quantum {entanglement}
+
+(JG) The analogue to this in quantum field theory is the Reeh-Schlieder [REE SCHLEE-dur] Theo- rem, and the entropy of mixed states may be interpreted as a measure of this. It cannot violate causality, but might be caused by retrocausality. A major application of this is in quantum cryptography, making sure that any interference in the transmission of a message can be detected. Bell's inequalities describe particles with this condition, giving different results from particles described by local realism. If particles have this condition, one must be spin-up and the other spin-down. Einstein referred to this as "spooky ac- tion at a distance". Name this condition that the EPR paradox relies on, in which spatially distant particles can affect each other's state.
+
+----
+num: 16
+category: Mythology
+difficulty: HS
+fixed: None
+seen: 786
+answer: {Pegasus}
+
+(DT) The Hippocrene was created by this figure, which was captured while drinking from a well on the Acrocotinth, and it may have been the brother of Chrysaor. Residing on Mount Helicon, shortly after its birth, Zeus employed it to carry his thunderbolts. Assisting Bellerophon in the slaying of the Chimera, it was stung with a gadfly when Bellerophon tried going up Mount Olympus. Name this creature that sprung forth from the neck of Medusa, a winged horse.
+
+----
+num: 17
+category: Literature
+difficulty: HS
+fixed: 57
+seen: 443
+answer: Sir Thomas "Tom" {Stoppard} (accept Tomáš {Straussler} before mentioned)
+
+(JG) Some of his lesser-known works include Undiscovered Country and Professional Foul. His fa- ther, a doctor, was killed in the German invasion of Singapore, and his mother raised him in England. He also wrote On the Razzle and Hapgood. One of his more recent works is set alternately in the early 1800s and 1989, and explores the interactions between the past and future, invoking particle physics to study Lord Byron and the certainty of knowledge. This play is named for a quote that also titles a Poussin paint- ing, Arcadia. He was born in Czechoslovakia with the name Straussler. His best-known play is probably still his first, which opens with two characters from another work flipping a coin. Identify this British playwright of Rosencrantz and Guildenstern Are Dead.
+
+----
+num: 18
+category: History
+difficulty: HS
+fixed: 57
+seen: 425
+answer: {Brandenburg Gate} or {Brandenburg Tor}
+
+(JG) It was based partly on the Propylaea, and was restored in the first years of this century. After Na- poleon was defeated, it regained its top part, which he had stolen as a spoil of war, and an iron cross was added to it to symbolize Prussian power. That top part consists of four horses led by the Roman victory goddess, Victoria, driving a chariot. This structure had been commissioned by King Frederick William the second, and is located where Ebertstrasse meets the Unter den Linden at the end of the Pariser Platz [PAIR-iss-ur PLAHTZ]. Name this structure in Berlin near the Reichstag [RIKH stahg] at which Reagan demanded the tearing down of the Berlin Wall.
+
+----
+num: 19
+category: Science
+difficulty: HS
+fixed: 57
+seen: 487
+answer: Niels Henrik {Abel}
+
+(TB/JG) His identity gives solutions' Wronskians [RAHN skee unz] in terms of the original equation's coefficients, and his namesake transformation simplifies series and is analogous to integration by parts. The inequality named for him establishes a bound on inner products. In 2002, Norway established a prize in this man's honor given to an outstanding mathematician each year by the King. His namesake groups are commutative. His most famous work was contained in "Memoir on Algebraic Equations". Identify this mathematician who in a theorem named for him and Ruffini [roo FEE nee] proved that quintic equa- tions do not have a general solution in radical form.

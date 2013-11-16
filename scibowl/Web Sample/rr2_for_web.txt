@@ -1,0 +1,163 @@
+####
+tournament: Web Sample
+round: rr2_for_web.pdf
+####
+
+num: 3
+category: Mathematics
+difficulty: MS
+fixed: -1
+seen: 35
+answer: 120º
+
+Two angles are supplementary. If one angle measures 60º, what would the other angle measure?
+
+----
+num: 3
+category: Mathematics
+difficulty: MS
+fixed: -1
+seen: 34
+answer: 1/30  (Accept:  0.033)
+
+Simplify the ratio of the following factorial: 4!6! (read as: 4factorial divided by 6 factorial)
+
+----
+num: 5
+category: Physical Science
+difficulty: MS
+seen: 5
+answer: Oxidation
+
+What is the most common scientific term for the chemical reaction in which oxygen combines with a substance or hydrogens are removed from a substance?
+
+----
+num: 7
+category: Earth Science
+difficulty: MS
+seen: 8
+answer: Pele
+
+Which Hawaiian God is said to control volcanic eruptions and the direction of lava flows?
+
+----
+num: 11
+category: General Science
+difficulty: MS
+seen: 6
+answer: 2
+(Solution:  75%/25% = 3df;  1 Pa Rt Stock + 2 Parts Water = 3df)
+
+If you have 1 milliliter of a 75% ethanol solution, how much water, in milliliters, must be adde d to the 1 milliliter to obtain a 25% ethanol solution?
+
+----
+num: 12
+category: Earth Science
+difficulty: MS
+seen: 7
+answer: The Westerlies
+
+What wind currents help move the return flow of water in the polar regions to the east?
+
+----
+num: 12
+category: Earth Science
+difficulty: MS
+seen: 8
+answer: Diamond, Topaz, Calcite, Talc
+
+Order the following four mine rals from the hardest to the softest, according to Mohr’s hardness scale: Talc, Calcite, Diamond, Topaz.
+
+----
+num: 13
+category: Mathematics
+difficulty: MS
+seen: 35
+answer: 40
+
+A recipe calls for flour, sugar and butter to be m ixed in a ratio of 7 to 5 to 2, respectively. Assum ing there is enough sugar and butte r to use all the flour and 20 pounds of flour is available, how many pounds of the mixture can be made?
+
+----
+num: 15
+category: Physical Science
+difficulty: MS
+seen: 6
+answer: One
+
+A force that produces an acceleration of 2 meters per second per second when applied to a half-kilo gram object is a force of how many Newtons?
+
+----
+num: 18
+category: Mathematics
+difficulty: MS
+seen: 34
+answer: 3
+
+Twelve blue socks and twelve white socks are loose and mixed up in a drawer. If you try to select them in the dark, how many socks do you need to take from the drawer to be sure that you have a matching pair?
+
+----
+num: 19
+category: Life Science
+difficulty: MS
+seen: 10
+answer: Outside of Cells  (Accept: In Between Cells or in the 
+Interstitium)
+
+Where is intercellular fluid normally found?
+
+----
+num: 20
+category: Physical Science
+difficulty: MS
+seen: 5
+answer: Sulfuric Ac Id  (Accept:  H
+^2so
+^4)
+
+What aqueous acid primarily results from the production of acid rain?
+
+----
+num: 21
+category: General Science
+difficulty: MS
+seen: 6
+answer: Red Shift (Accept: Red Shifted)
+
+What is the most common term for the Doppler shift for light from a distant galaxy that is moving away from the Earth?
+
+----
+num: 22
+category: Earth Science
+difficulty: MS
+seen: 7
+answer: Carbonic (Accept: H ^2co^3).
+
+Limestone is a sedimentary rock often associated with cave formation. What is the name of the weak ac id that is primarily re sponsible for the creation of these caves?
+
+----
+num: 23
+category: Mathematics
+difficulty: MS
+seen: 34
+answer: February and March
+
+If two consecutive months in a calendar year each have a 
+Friday the 13th, what months would they be?
+
+----
+num: 24
+category: Life Science
+difficulty: MS
+seen: 11
+answer: 50%
+
+In a mating between a color blind hum an male and a normal vision female with a color blind father, what is the percentage chance a son would be color blind ?
+
+----
+num: 25
+category: Physical Science
+difficulty: MS
+seen: 5
+answer: Ultrasonic
+
+What is the most common term used for sound wave frequencies greater than 20,000 Hertz?

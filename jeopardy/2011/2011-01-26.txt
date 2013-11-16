@@ -1,0 +1,394 @@
+####
+tournament: #6073
+round: Show #6073 - Wednesday, January 26, 2011
+year: 2011
+date: 2011-01-26
+####
+
+num: 1
+category: Literature
+difficulty: 200
+seen: 4
+answer: (John) Grisham
+
+In 2010 he hit the shelves with his legal thriller "The Confession".
+
+----
+num: 2
+category: History
+difficulty: 200
+fixed: -1
+seen: 5
+answer: FDR
+
+J. Edgar Hoover became the first director of the new FBI on March 22, 1935, serving this president.
+
+----
+num: 3
+category: History
+difficulty: 200
+seen: 4
+answer: V-J Day
+
+Life magazine photographer Alfred Eisenstaedt snapped a sailor kissing a nurse on the August 1945 day known as this.
+
+----
+num: 4
+category: Trash
+difficulty: 200
+seen: 5
+answer: the Jolly Green Giant
+
+"Ho, ho, ho!"  This jolly guy has appeared in ads for vegetables since 1928; the company was named for him in 1950.
+
+----
+num: 5
+category: Science
+difficulty: 200
+seen: 7
+answer: satisfaction
+
+I try, & I try, but I can't get no this word meaning an act of gratification.
+
+----
+num: 6
+category: Literature
+difficulty: 400
+seen: 3
+answer: Fitzgerald
+
+In 1936 this Jazz Age author detailed his physical & spiritual collapse in "The Crack-Up".
+
+----
+num: 7
+category: History
+difficulty: 400
+seen: 4
+answer: Washington
+
+Born in this city in 1895, J. Edgar Hoover graduated from its National University law school in 1917.
+
+----
+num: 8
+category: History
+difficulty: 400
+seen: 4
+answer: the NEA (National Endowment for the Arts)
+
+Certain Robert Mapplethorpe photos caused Congress to enact restrictions on grants given by this body.
+
+----
+num: 9
+category: Trash
+difficulty: 400
+seen: 5
+answer: Vaseline
+
+Robert Chesebrough produced a clear petroleum jelly & started selling it under this brand name in 1870.
+
+----
+num: 10
+category: Science
+difficulty: 400
+seen: 6
+answer: a contraction
+
+A decrease in economic activity; I couldn't bear it!  I can't!  I won't!  I shan't!.
+
+----
+num: 11
+category: Literature
+difficulty: 600
+seen: 3
+answer: Mario Vargas Llosa
+
+Peru's version of "Super Mario", he won the 2010 Nobel Prize for Literature.
+
+----
+num: 12
+category: History
+difficulty: 600
+seen: 4
+answer: fingerprints
+
+Hoover's many innovations included establishing a national bank for these biometric identifiers.
+
+----
+num: 13
+category: History
+difficulty: 600
+seen: 4
+answer: Kent State
+
+John Filo, an undergrad at this Ohio school, won a 1971 Pulitzer after getting an iconic photo of a slain classmate.
+
+----
+num: 14
+category: Trash
+difficulty: 600
+seen: 5
+answer: Jif
+
+"Choosy moms choose" this brand of peanut butter.
+
+----
+num: 15
+category: Science
+difficulty: 600
+seen: 5
+answer: a chain reaction
+
+2-word "atomic" term for a series of events in which each event is the result of the one preceding & the cause of the next.
+
+----
+num: 16
+category: Literature
+difficulty: 800
+seen: 4
+answer: Miss Jean Brodie
+
+Muriel Spark's 1961 novel about an eccentric Edinburgh teacher detailed "The Prime of Miss" this.
+
+----
+num: 17
+category: History
+difficulty: 800
+seen: 4
+answer: the KKK (Ku Klux Klan)
+
+In the 1960s Hoover expanded his COINTELPRO plan to harass & disrupt this Southern extremist white power group.
+
+----
+num: 18
+category: Trash
+difficulty: 800
+seen: 4
+answer: Oscar Mayer
+
+This brand's Wienermobile dates back to 1936.
+
+----
+num: 19
+category: Science
+difficulty: 800
+seen: 5
+answer: putrefaction
+
+Rotting, or the anaerobic decomposition of organic matter by bacteria.
+
+----
+num: 20
+category: Literature
+difficulty: 1000
+seen: 4
+answer: Marcel Proust
+
+This man who penned "A la recherche du temps perdu" suffered from asthma.
+
+----
+num: 21
+category: Art
+difficulty: 1000
+seen: 4
+answer: Tony Curtis
+
+This "Some Like It Hot" co-star who died in 2010 turned to Matisse-influenced art in later years.
+
+----
+num: 22
+category: History
+difficulty: 1000
+seen: 4
+answer: "Baby Face" Nelson
+
+Among those Hoover's FBI tracked down & killed was this young-looking brute, in November 1934.
+
+----
+num: 23
+category: Trash
+difficulty: 1000
+seen: 5
+answer: Häagen-Dazs
+
+This superpremium ice cream brand produces a line called Five--with only (you guessed it) 5 ingredients.
+
+----
+num: 24
+category: Science
+difficulty: 1000
+seen: 7
+answer: affirmative action
+
+For federal contracts, this 2-word employment term was first used in an order issued by JFK in 1961.
+
+----
+num: 25
+category: Mythology
+difficulty: 400
+seen: 12
+answer: Ursa Major
+
+The star Arcturus is known as the "bear guard" because it guards this constellation.
+
+----
+num: 26
+category: History
+difficulty: 400
+seen: 5
+answer: Eisenhower
+
+One of the "Six Crises" Richard Nixon faced in his book of that title was this president's heart attack.
+
+----
+num: 27
+category: History
+difficulty: 400
+seen: 4
+answer: eight
+
+Of the numbers 1-10 spelled out.
+
+----
+num: 28
+category: Art
+difficulty: 400
+seen: 5
+answer: Picasso
+
+In the 1959 book "Cubism", he is quoted as saying, "I paint objects as I think them, not as I see them".
+
+----
+num: 29
+category: Mythology
+difficulty: 800
+seen: 11
+answer: the dove
+
+First named in 1603, Columba is also known as "Noah's" this, the bird that returned to the ark with an olive leaf.
+
+----
+num: 30
+category: History
+difficulty: 800
+seen: 4
+answer: the Cuban Missile Crisis
+
+As part of this crisis, JFK announced a naval blockade Oct. 22, 1962.
+
+----
+num: 31
+category: History
+difficulty: 800
+seen: 3
+answer: Jupiter
+
+Of the Jovian planets.
+
+----
+num: 32
+category: Art
+difficulty: 800
+seen: 4
+answer: Van Gogh
+
+In 1888 he wrote to his brother Theo, "I cannot help it that my paintings do not sell".
+
+----
+num: 33
+category: Mythology
+difficulty: 1200
+seen: 13
+answer: the bee
+
+Musca, or "the fly", was originally called Apis for this insect.
+
+----
+num: 34
+category: History
+difficulty: 1200
+fixed: -1
+seen: 4
+answer: hostages in Iran
+
+It began Nov. 4, 1979 & lasted 444 days.
+
+----
+num: 35
+category: Art
+difficulty: 1200
+seen: 4
+answer: Norman Rockwell
+
+The New York Times reported he said, "If the public dislikes one of my Post covers, I can't help disliking it myself".
+
+----
+num: 36
+category: Mythology
+difficulty: 1600
+seen: 10
+answer: Lyra
+
+Vega is the main star of this constellation with the Latin name of an instrument.
+
+----
+num: 37
+category: History
+difficulty: 1600
+seen: 4
+answer: Asia
+
+Speculative attacks on the Baht triggered this continent's financial crisis of 1997-98.
+
+----
+num: 38
+category: History
+difficulty: 1600
+seen: 5
+answer: black
+
+Of the colors of the Olympic rings.
+
+----
+num: 39
+category: Art
+difficulty: 1600
+seen: 4
+answer: a portrait
+
+John Singer Sargent reportedly said, "Every time I paint" this type of work, "I lose a friend".
+
+----
+num: 40
+category: History
+difficulty: 2000
+seen: 5
+answer: Austria-Hungary
+
+Bad feelings left by 1908's Bosnian crisis, in which this dual monarchy annexed Bosnia, helped start WWI.
+
+----
+num: 41
+category: History
+difficulty: 2000
+seen: 5
+answer: Bloemfontein
+
+Of South Africa's 3 national capitals.
+
+----
+num: 42
+category: Art
+difficulty: 2000
+seen: 6
+answer: Jasper Johns
+
+He said, "One night I dreamt I painted a large American flag, and the next morning I... bought the materials to begin it".
+
+----
+num: 43
+category: Geography
+difficulty: 2000
+seen: 13
+answer: the cassowary
+
+large flightless ratite is found on New Guinea & nearby islands.

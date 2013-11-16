@@ -1,0 +1,1004 @@
+####
+tournament: HSAPQ NASAT Tryout Set
+round: nasat-tryout-all.pdf
+year: 2009
+####
+
+num: 1
+category: Mythology
+difficulty: HS
+fixed: 57
+seen: 781
+answer: {Cronus} [accept {Kronos}; prompt on {Saturnus}]
+
+In one myth, this figure usurped Ophion and Eurynome. This figure sent the dragon Campe to guard prisoners in Tarturas. This figure's downfall began when he ingested the Omphalos stone. This man castrated his father with an adamant sickle, and the severed parts created the Erinyes, Meliae, and Gigantes. This figure ruled until he was dethroned by Zeus, Hades, and Poseidon, whom he had previously attempted to eat. For 10 points, name this husband of Rhea, the leader of the Titans who overthrew Uranus.
+
+----
+num: 2
+category: History
+difficulty: HS
+fixed: 57
+seen: 415
+answer: {Tokugawa} shogunate [or {Edo} period; or {Tokugawa bakufu}; or {Edo bakufu}]
+
+One class during the rule of this regime included the families of the rulers, known as shinpan (SHEEN-pahn). This period included a golden age of culture, the Genroku era. The first ruler of this dynasty established total control of his lands by taking the Osaka castle. That first ruler had earlier won a battle over Hideyori (hee-deh-YORE-ee) at Sekigahara (seh-kee-gah-HAH-rah). For 10 points, name this Japanese dynasty forced open by Matthew Perry and the Treaty of Kanegawa, a shogunate started by Ieyasu (ee-ay-AH-soo) and ended by the Meiji (MAY-jee) Restoration.
+
+----
+num: 3
+category: History
+difficulty: HS
+fixed: -1
+seen: 409
+answer: {Vice} President of Franklin Roosevelt [prompt on partial answers]
+
+The second man to hold this post previously developed high-yield corn strains, wrote The Century of the Common Man, and later ran for president as the candidate of the third Progressive Party. The first man to hold this post was nicknamed "Cactus Jack" and opposed his boss' court-packing scheme. The final man to hold this post later made the decision to drop the atomic bombs on Hiroshima and Nagasaki after becoming president. For 10 points, name this post held by Henry Wallace, John Nance Garner, and Harry Truman under the president who led the United States during the New Deal and World War II.
+
+----
+num: 4
+category: Literature
+difficulty: HS
+fixed: 1
+seen: 446
+answer: Emily Elizabeth {Dickinson}
+
+This author claimed to be "Done with the compass, done with the chart" in one poem and described feeling "zero at the bone" in a poem about snakes. This author of "Wild Nights! Wild Nights!" and "A Narrow Fellow in the Grass" claimed that she "could not see to see" after hearing a "blue, uncertain, stumbling" sound in another poem. She surmises that "the horses' heads / were toward eternity" in a poem in which she rides in a carriage with Immortality. For 10 points, name this poet who heard a fly buzz when she died and for whom Death kindly stopped.
+
+----
+num: 5
+category: Literature
+difficulty: HS
+fixed: 1
+seen: 448
+answer: Henry Wadsworth {Longfellow}
+
+In one poem by this author, a ship floats into the reef of Norman's Woe after a storm forces its captain to bind his daughter to the mast. This author of “The Wreck of the Hesperus” wrote about a widowered man who works “under the spreading chestnut tree” in “The Village Blacksmith.” This author set one of his long works “in the forest primeval” and another one “by the shores of Gitche Gumee.” This author of Evangeline popularized the legend of “One, if by land, and two if by sea” in another poem. For 10 points, name this author of The Song of Hiawatha and “Paul Revere's Ride.”
+
+----
+num: 6
+category: Literature
+difficulty: HS
+fixed: 1
+seen: 446
+answer: Oliver {Goldsmith}
+
+A character in one of this author's works proclaims "the alehouse and the stable are the only schools he'll ever go to." Constance Neville schemes to keep some jewels in the family and Hardcastle denounces Tony Lumpkin in that work, subtitled The Mistakes of a Night. In a novel by this man, a church official fakes the death of his daughter Olivia. In that book, Burchell fools the Primoses when he disguises himself as Thorndike. For 10 points, name this Irish writer of She Stoops to Conquer and The Vicar of Wakefield.
+
+----
+num: 7
+category: History
+difficulty: HS
+fixed: 57
+seen: 419
+answer: Peace of {Westphalia}
+
+One of the mediators of this agreement was Fabio Chigi, who later became Pope Alexander VII. Under it, Sweden received Western Pomerania. This agreement revoked the Edict of Restitution and renewed the terms of the Peace of Augsburg. It consisted of two treaties signed at Münster and Osnabrück. It accorded equal rights to Protestants and Catholics in the Holy Roman Empire. For 10 points, name this 1648 agreement which ended the Thirty Years' War.
+
+----
+num: 8
+category: Science
+difficulty: HS
+fixed: 1
+seen: 491
+answer: {algorithm} [or {computation}; accept {Turing machine} before {cell probe}]
+
+An open question about these is whether those that exploit randomness such as those related to languages in BPP are more powerful than deterministic ones. Models on which the behavior of these evaluated include the cell probe, decision tree, and PRAM. If they exploit optimal substructure and memoization they can be considered "dynamic" and if they recursively breakup a problem they are "divide and conquer". Examples include the Bellman-Ford, Euclid's, and Dijkstra (DIKE stra)'s. For 10 points, name these methods of solving a problem in a finite number of steps, some of which are "sort" and "search" ones.
+
+----
+num: 9
+category: Science
+difficulty: HS
+fixed: 57
+seen: 489
+answer: {coagulation} [or {clotting}]
+
+This process can be reversed in a pathway involving urokinase ("YOUR"-oh-KINE-ase), and it is downregulated by prostacyclin (PROS-tuh-"SIGH"-klin). Christmas disease results from a lack of Factor IX involved in this process. During this process, the serine protease (PRO-tee-ase) thrombin (THROM-bin) converts fibrinogen (fie-BRIN-oh-jen) into fibrin (FIE-brin), which forms a mesh polymer. Platelets have several important roles in this process. For 10 points, name this process by which by which the blood congeals after injury, which is impaired in hemophilia (HEE-mo-FILL-ee-uh).
+
+----
+num: 9
+category: Science
+difficulty: HS
+fixed: 57
+seen: 483
+answer: {coagulation} [or {clotting}]
+
+This process can be reversed in a pathway involving urokinase ("YOUR"-oh-KINE-ase), and it is downregulated by prostacyclin (PROS-tuh-"SIGH"-klin). Christmas disease results from a lack of Factor IX involved in this process. During this process, the serine protease (PRO-tee-ase) thrombin (THROM-bin) converts fibrinogen (fie-BRIN-oh-jen) into fibrin (FIE-brin), which forms a mesh polymer. Platelets have several important roles in this process. For 10 points, name this process by which by which the blood congeals after injury, which is impaired in hemophilia (HEE-mo-FILL-ee-uh).
+
+----
+num: 10
+category: History
+difficulty: HS
+fixed: 57
+seen: 416
+answer: Battle of {Tours} [prompt on {Battle} of {Poitiers}]
+
+This battle was followed by fighting at Arles and at the River Berre that confined the losing side to the provinces of Narbonne and Septimania. It was caused by an appeal from Eudes (YOO-dayz), the Duke of Aquitaine, who, despite having won ten years earlier at Toulouse and Bordeaux, was now unequipped to deal with heavy cavalry. The defenders' strategy was to fight in a square, but Abd-al-Rahman underestimated their strength and charged anyway. For 10 points, al-Rahman was soundly defeated by Charles Martel's Frankish forces at what 732 engagement?
+
+----
+num: 11
+category: Social Science
+difficulty: HS
+fixed: 57
+seen: 378
+answer: Max {Weber} [{accept Maximilian Carl Emil Weber}]
+
+This man claimed that social order was becoming increasingly bureaucratic, a process he likened to the "polar night of icy darkness." This man defined the "state" as the "monopoly on the legitimate use of physical force" in his lecture Politics as a Vocation. In another work, he claimed that society forces people into an "iron cage." That work by this author cited Ben Franklin's writings as an example of how Luther's teachings led a certain religious group to follow a "secular vocation." For 10 points, name this German author of The Protestant Ethic and the Spirit of Capitalism.
+
+----
+num: 12
+category: Mythology
+difficulty: HS
+fixed: 1
+seen: 784
+answer: {Aeneas}
+
+Because he was attacked by Achilles when he was tending his flocks, he organized the Dardanians to attack the Greeks. This man founded the town of Lavinium, named after his wife. He protected the body of Pandarus. Later, in battle, Diomedes broke this man's hip by throwing a stone, leading to his mother trying to rescue him. This ancestor of Romulus and Remus was the son of Venus and Anchises. Dido of Carthage killed herself when this man left her. For 10 points, name this Trojan survivor who was the subject of an epic by Virgil.
+
+----
+num: 13
+category: History
+difficulty: HS
+fixed: None
+seen: 413
+answer: New Zealand
+
+Marc-Joseph du Fresne was killed in this nation that was originally called Staten Landt by the first European to land here at Murderer's Bay. During the 1830s, it was home to a series of Musket Wars that led to the enslavement of many of the people of the Chatham Islands. In 1835, it saw a declaration of independence signed under the auspices of James Busby. William Hobson oversaw what was in effect its annexation into Great Britain via the 1840 Treaty of Waitangi. Home to the Maori (may-"OAR"-ee), this is, for 10 points, what nation with North and South islands home to the cities of Auckland and Wellington?
+
+----
+num: 14
+category: Science
+difficulty: HS
+fixed: 1
+seen: 494
+answer: electronegativity
+
+One formulation of this value uses Slater's rules to find a effective nuclear charge, which is then divided by the covalent radius. The Allred-Rochow (ROSH-ow) formulation of it does not account for the d-block elements. Allen suggested that this value is related to the average energy of a certain particle, and Mulliken defined it as the mean of first ionization energy and electron affinity. Fluorine possesses the highest value for, for 10 points, what quantity proposed by Pauling as a measure of an atom's ability to attract electrons to itself?
+
+----
+num: 15
+category: History
+difficulty: HS
+fixed: 57
+seen: 418
+answer: William Jennings {Bryan}
+
+This man's brother was John W. Davis' running mate in the 1924 election. Enemies of this man within his party were called “Bourbon Democrats.” The founder of a magazine called The Commoner, he resigned from the Cabinet in protest of the U.S. entering World War I. Besides serving as Wilson's first Secretary of State, this man was mocked by Clarence Darrow while serving as a special prosecutor during the Scopes Trial. For 10 points, name this three-time Democratic presidential nominee who gave the pro-silver “Cross of Gold” speech in 1896.
+
+----
+num: 16
+category: Science
+difficulty: HS
+fixed: -1
+seen: 489
+answer: {bone}
+
+Wolff's Law governs the circumstances that cause density of this tissue to increase or decrease. Precursors to this tissue are generated at the epiphyseal (EPP-ih-FIZZ-ee-uhl) plate. Since estrogen causes cells that resorb this tissue to undergo apoptosis, this tissue becomes noticeably weaker in post-menopausal (men-oh-"PAWS"-uhl) women. Blood is supplied to this tissue through Haversian (huh-VER-zee-uhn) canals, and the hydroxyapatite ("high"-DROX-ee-APP-uh-tite) in this tissue's matrix is a major site of calcium storage. For 10 points, name this tissue that comprises the majority of the skeleton.
+
+----
+num: 17
+category: Science
+difficulty: HS
+fixed: -1
+seen: 477
+answer: trees
+
+A recently developed one of these with a good proven competitive ratio is called tango. One of these that operates on a restricted key set with log log n performance is named after van Emde Boas (vahn EM-dah BOH-az). The zig-zag step is one of the steps which can be used in creating the splay type of these. A set of coloration rules are used in the red-black type, which is an example of the balanced binary search class of these. Their topmost nodes are known as root nodes. For 10 points, name these data structures whose terminal nodes are called leaves.
+
+----
+num: 18
+category: Fine Arts
+difficulty: HS
+fixed: 1
+seen: 489
+answer: Gustav {Mahler} (MAH-ler)
+
+One symphony by this man consists of the hymn "Veni, Creator Spiritus" and a setting of the scene of the Holy Anchorites from Faust. In one of this man's song cycles, the singer laments the tragic death of his two children. This composer of Kindertotenlieder (Kin-DER-toten-LEADER) wrote a symphony whose final movement ends with church bells tolling as souls ascend into heaven. This man wrote both the Song of the Earth and the Resurrection symphony. For 10 points, name this German composer whose other symphonies include the Titan and the Symphony of a Thousand.
+
+----
+num: 19
+category: Literature
+difficulty: HS
+fixed: 1
+seen: 442
+answer: David {Mamet}
+
+This author wrote a three-character play about junk store owner Don and his friends, who attempt to steal a rare coin collection. This man's most famous play features a police detective named Baylen, who interrogates such other characters as Dave Moss and George Aaronow. This author of American Buffalo created Shelly “the Machine” Levene and Ricky Roma, who are both obsessed with obtaining sales leads. For 10 points, name this American playwright who described the cutthroat world of real estate sales in Glengarry Glen Ross.
+
+----
+num: 20
+category: Trash
+difficulty: HS
+fixed: 1
+seen: 1031
+answer: David {Patterson}
+
+This politician and his wife both admitted to extramarital affairs after he had been in office for only one day. His was widely criticized passing over Caroline Kennedy to select Kirsten Gilibrand for a vacant Senate seat. This governor came to prominence after his predecessor was forced to resign after being revealed as "client number nine," in a bust of a high class prostitution ring, causing that predecessor to give a public apology as his wife looked at him with disdain. For 10 points, name this blind governor of New York, the successor of Eliot Spitzer.
+
+----
+num: 21
+category: Fine Arts
+difficulty: HS
+fixed: 57
+seen: 493
+answer: Dmitri Dmitriyevich {Shostakovich}
+
+This man wrote a symphony containing one adagio lamenting women standing in line at the store and another adagio denouncing a massacre of Jews, which were both settings of Yevgeny Yevtushenko (YEV-"two"-SHANE-koh) poems. He composed two cello concertos for Mstislav (MIS-ti-slav) Rostropovich. This composer of the Babi Yar symphony wrote an earlier work that had the opening movement feature a tranquil melody interrupted by the invasion theme. For 10 points, name this composer whose experience during the Nazi invasion of Russia inspired his Leningrad symphony.
+
+----
+num: 22
+category: Geography
+difficulty: HS
+fixed: 57
+seen: 713
+answer: {Himalayas} [or {Himalayan} mountains]
+
+This mountain system includes the Tethys range. Darjeeling is a city in this system's Siwalik range. In Kashmir, this mountain system begins at the mountain Nanga Parbat. In the northwest these mountains run into the Karakorum range. These mountains are the source of the Brahmaputra river. They run through Uttar Pradesh, and the city Kathmandu is found in them. The Ganges runs to the south of these mountains, which cover Bhutan and Nepal. For 10 points, name this group of mountain ranges in Tibet and India that includes Mount Everest.
+
+----
+num: 23
+category: History
+difficulty: HS
+fixed: 1
+seen: 420
+answer: Margaret Hilda {Thatcher}
+
+This leader's deputy compared negotiations to a cricket match in “The Bats Have Been Broken” speech after resigning over policy differences. This prime minister justified capitalist policies with the “Sermon on the Mound” and survived an assassination attempt by Patrick Magee in Brighton Hotel. This leader's support of a controversial poll tax led to the accession of John Major to the head of the Conservative Party. This politician began as Education Secretary and as prime minister won the Falklands War. For 10 points, name this conservative Iron Lady and only female prime minister of the United Kingdom.
+
+----
+num: 24
+category: Geography
+difficulty: HS
+fixed: None
+seen: 715
+answer: State of Qatar [or Dawlat Qatar]
+
+The highest point of this nation is only 103 meters and is located on the Jebel Dukhan (JEH-bell DO-kahn). Its capital city is the site of the current WTO Development Round. The Inland Sea is in the southeast of this nation. The Hawar Islands are off its western coast. Ruled by Hamad bin Khalifa Al-Thani (kah-LEE-fah all TAH-nee), it currently boasts the second highest GDP per capita in the world because of its rich oil and natural gas deposits. Located to the south east of Bahrain, for 10 points, what small peninsular nation bordering Saudi Arabia has its capital at Doha?
+
+----
+num: 25
+category: Literature
+difficulty: HS
+fixed: 57
+seen: 449
+answer: "The {Overcoat}" [or "{Shinel}"]
+
+The protagonist of this story stops drinking tea at night in order to save more money. After being mocked by fellow copyists, the protagonist of this story is helped by Petrovich to spend eighty rubles in St. Petersburg. The protagonist of this story dies of a fever while ranting about a Person of Consequence who berated him for asking about an item stolen after a party. Akaky Akakievich haunts St. Petersburg in continuing pursuit of a piece of clothing in this story. For 10 points, name this short story about that titular lost piece of winter clothing, written by Nikolai Gogol.
+
+----
+num: 26
+category: Literature
+difficulty: HS
+fixed: 1
+seen: 438
+answer: Miguel de {Cervantes} Saavedra
+
+In this writer's first prose work, Lisandro mourns Leonida's death by the Tagus River, Silerio complains about the loss of Timbrio and Nisida and the poet-shepherd Elicios vies with a richer suitor for the title figure's love. Berber pirates enslaved this man on his voyage home from fighting against the Turkish navy. In his magnum opus, the title knight dons a helmet filled with curds before embarking on the Adventure of the Lion and attacks thirty or more monstrous giants despite Sancho Panza pointing out that the knight's targets are windmills. For 10 points, name this author of Galatea and Don Quixote de la Mancha.
+
+----
+num: 27
+category: Literature
+difficulty: HS
+fixed: 57
+seen: 449
+answer: Sherwood {Anderson}
+
+This author wrote about a schoolteacher who prays naked, Kate Swift, in "The Strength of God." He also created Adolph Myers, who moves out and renames himself Wing Biddlebaum after being accused of molesting a boy, in "Hands." His other charaters include a young reporter who sleeps with the farm girl Louise Trunnion. For 10 points, what American author wrote about George Willard in the short story collection Winesburg, Ohio?
+
+----
+num: 28
+category: Fine Arts
+difficulty: HS
+fixed: 1
+seen: 486
+answer: Wolfgang Amadeus {Mozart} [accept {Johannes Chrysostomus Wolfgangus Theophilus Mozart}]
+
+This man's childhood "Grand Tour" produced the first copy of Gregorio Allegri's Miserere, which the Vatican kept secret, when he transcribed it from memory after one hearing. He composed six quartets dedicated to Josef Haydn. His twenty-first piano concerto is called "Elvira Madigan." His final symphony was in C major, and was his forty-first. For 10 points, name this Salzburg-born composer whose music is listed in the Koechel catalog, and wrote the Little Night Music and Jupiter symphony.
+
+----
+num: 29
+category: Fine Arts
+difficulty: HS
+fixed: 1
+seen: 497
+answer: {Michelangelo} di Lodovico Buonarotti Simoni [or {Michelangelo} Buonarotti]
+
+Directly above an altar, this man painted the prophet Jonah looking towards God in front of the whale. He also painted Charon in one work that also contains a self-portrait of himself in the skin of St. Bartholomew. He included horns on his statue of Moses. He painted a beardless Jesus in heaven above the damned in hell in one fresco. This sculptor of a Moses for the tomb of Pope Julius II painted Adam stretching out his hand to receive life from God in one fresco. For 10 points, name this painter of The Last Judgement and the Sistine Chapel ceiling.
+
+----
+num: 30
+category: Science
+difficulty: HS
+fixed: 1
+seen: 495
+answer: fermentation
+
+The product of one type of this process is recycled in the Cori Cycle after it is transported to the liver. This biochemical process is preferred over oxidative phosphorylation by organisms like yeast, and it is essential to such diverse phenomena as muscle soreness and the brewing of beer. For 10 points, name this alternative pathway to cellular respiration, in which cells anaerobically break pyruvate into products like ethanol or lactic acid instead of oxidizing it to carbon dioxide.
+
+----
+num: 31
+category: Science
+difficulty: HS
+fixed: 57
+seen: 490
+answer: {firewalls}
+
+One class of these are circuit gateways and they can be used to make a DMZ. An example of a stateful one is iptables and NAT can be configured to act like a very basic one. Application-Layer ones use knowledge about the content to make decisions. They protect against things like denial of service attacks. Common techniques include port blocking and packet filtering. Usually they must be configured to allow new trusted programs and services to access the internet. For 10 points, name these pieces of software or hardware that protect computers from network based attacks.
+
+----
+num: 32
+category: Literature
+difficulty: HS
+fixed: 57
+seen: 451
+answer: Nikos {Kazantzakis}
+
+One work by this author retells an ancient classic and sees the protagonist live the last year of his life in Antarctica after earlier traveling as a holy man in Africa. Another of his novels offers a controversial narrative of Jesus Christ from his own perspective. In addition to The Odyssey: A Modern Sequel and The Last Temptation, he wrote a novel that sees the main characters stay at the hotel of Madame Hortense. The title character of that novel later works as a foreman at a Cretan mine. For 10 points, name this Nobel Prize winning European author of Zorba the Greek.
+
+----
+num: 33
+category: Literature
+difficulty: HS
+fixed: -1
+seen: 445
+answer: {Henry James}
+
+This author wrote about the aftermath of Beale and Ida Farange's divorce in one novel. This author who adapted Maupassant's [mow-pass-AH] "The Necklace" into his short story "Paste" also wrote a novel in which Miles and Flora are haunted by ghosts named Peter Quint and Miss Jessel. This author of What Maisie Knew also wrote The Golden Bowl and The Turn of the Screw. For 10 points, name this American author who wrote about Catherine Sloper in Washington Square and Isabel Archer in The Portrait of a Lady.
+
+----
+num: 34
+category: Mythology
+difficulty: HS
+fixed: 57
+seen: 793
+answer: {Telemachus}
+
+In some sources, this man had a daughter, Roma, who married Aeneas. Pisistratus accompanied this man on his journey to Sparta. This man convinced his father not to slay Medon or the minster Phemius. When he was a baby, this man was placed by Palamedes in the path of a plow. Athena sent this man to visit Nestor at Pylos. This figure appears in the Telegony where he marries Circe, who enchanted sailors led by his father, who had gone missing for twenty years. For 10 points, name this son of Penelope and Odysseus.
+
+----
+num: 35
+category: Science
+difficulty: HS
+fixed: 1
+seen: 492
+answer: {small} intestine [accept {ileum} before "{chyme}" is read]
+
+One section of this organ contains a mass of lymphoid (LIM-foid) tissue called Peyer's (PAY-erz) Patches. Another section of this organ receives a material from the pylorus known as chyme. Like the esophagus, this organ uses a contractile motion known as peristalsis (PAIR-ee-STALL-sis). This organ receives the enzymes trypsin (TRIP-sin), lipase (LYE-"pace"), and amylase (AMM-ill-ase), which break down proteins, lipids, and starches, respectively. For 10 points, name this organ divided into the jejunum, ileum, and duodenum, whose main function is to digest food before it passes into the large intestine.
+
+----
+num: 36
+category: Literature
+difficulty: HS
+fixed: 1
+seen: 453
+answer: David {Copperfield}
+
+In this novel, Anne marries the schoolmaster Dr. Strong and resists the seduction of her cousin Jack Maldon. The protagonist of this novel has an eccentric aunt named Betsey Trotwood who nicknames him “Trot.” The protagonist of this novel marries the vain Dora Spenlow after James Steerforth runs away with his childhood friend Little Emily. The protagonist of this novel eventually marries Agnes Wickfield despite the scheming of Uriah Heep. For 10 points, name this Charles Dickens novel.
+
+----
+num: 37
+category: Science
+difficulty: HS
+fixed: -1
+seen: 486
+answer: {hydrogen} bonds
+
+"Low barrier" types of these entities occur in the catalytic triad of serine proteases. A unique form of these is present in borane-ammonia complexes. In RNA and proteins, they are chiefly responsible for secondary structure. Water expands upon freezing because these entities become ordered. They usually involve fluorine, nitrogen, or oxygen and their namesake element. For 10 points, name these exceptionally strong dipole-dipole interactions.
+
+----
+num: 38
+category: History
+difficulty: HS
+fixed: 1
+seen: 411
+answer: March on {Washington} for Jobs and Freedom (accept equivalents)
+
+One person who was unable to appear at this event had a letter read by Floyd McKissick in his place. One participant was forced to censor a reference to Sherman's march to the sea, while another participant compared this event to “cashing a check.” It had been earlier proposed in the 1940's by A. Philip Randolph. Speakers at this event included Walter Reuther, Josephine Baker, and John Lewis. This event is most remembered for a speech which ends with “Free at last!” For 10 points, name this 1963 civil rights event which featured Martin Luther King's “I Have a Dream” speech.
+
+----
+num: 39
+category: History
+difficulty: HS
+fixed: -1
+seen: 421
+answer: {Webster}-Ashburton Treaty
+
+This treaty settled a boundary dispute that had led to the founding of the short-lived Republic of Indian Stream. In this treaty, the U.S. promised to deploy part of its navy off the coast of Africa to search suspected slave ships. This treaty defused a situation caused when New York tried Alexander McLeod for the burning of the Caroline. The American namesake of this treaty had earlier conducted a Senate debate with Hayne. For 10 points, name this 1842 treaty that concluded the Aroostook War and set the U.S.-Canada boundary, co-negotiated by a longtime Massachusetts senator.
+
+----
+num: 40
+category: Science
+difficulty: HS
+fixed: 57
+seen: 494
+answer: {virus}
+
+Sputnik is the name given to an infection that targets the unusually complex Mimi one of these agents. They can be classified under the Baltimore scheme. One class of them is responsible for the E6 and E7 oncogenes, and some of them have gag genes. Their reproductive cycle can be classified as lysogenic or lytic. Their central component is a protein capsid which encloses their genetic material, which can be RNA in the "retro" type. For 10 points, name these infectious agents that require a host cell to replicate.
+
+----
+num: 41
+category: Social Science
+difficulty: HS
+fixed: 1
+seen: 388
+answer: Jean {Piaget}
+
+He called the framework for nature to allow people to mentally develop genetic epistemology. He claimed that in one stage of life, we are unable to understand conservation. This man believed that we learn through adapting our schemas. He claimed that in one stage of life, we are unable to understand conservation. That phase is called the preoperational stage, which precedes the concrete and formal operational stages, but follows the sensorimotor stage. For 10 points, name this Swiss psychologist who studied the mental development of children.
+
+----
+num: 42
+category: Literature
+difficulty: HS
+fixed: 1
+seen: 444
+answer: The {Satanic Verses}
+
+A subplot in this novel sees characters protesting the arrest of a black militant for the “Granny Ripper” murders. One dream sequence in this novel features villagers walking into the sea while incorrectly believing it will part for them. This novel opens with two characters falling out of an exploded plane. Those characters are Indian Muslim actors, who transform into an angel and a devil. For 10 points, name this novel which caused the Ayatollah to demand to the death of its author, Salman Rushdie, and whose title refers to a controversial section of the Quran.
+
+----
+num: 43
+category: History
+difficulty: HS
+fixed: 57
+seen: 423
+answer: {Harold} II [or {Harold Godwinson}]
+
+This man defeated Welsh king Gruffyd ap Llywelyn (Griffith Ap Loo-Ellen) in two invasions, and this man was captured by Guy of Ponthieu after being shipwrecked. This man alienated his brother after supporting Morcar as Earl of Northumbria. He defeated Harald Hardrata and Tostig at the Battle of Stamford Bridge. The Bayeux Tapestry depicts this man as being killed by an arrow through the eye. This man was the last Anglo-Saxon king of England. For 10 points, name this man who was killed in 1066 at the Battle of Hastings.
+
+----
+num: 44
+category: History
+difficulty: HS
+fixed: 57
+seen: 412
+answer: {German} navy [or {Deutschland}]
+
+This navy experienced great success during the second "happy time." It earlier deployed the gunboat Panther to the Moroccan port of Agadir. This navy lost the Battle of the River Plate when the Achilles defeated the pocket battle ship Admiral Graf Spee in the Rio de la Plata. This navy introduced the “Wolf Pack” strategy to combat British convoys, and it was this navy's destruction of the Lusitania that helped spark American involvement in World War I. For 10 points, name this navy that was commanded by Admiral Doenitz and employed U-boats.
+
+----
+num: 45
+category: Science
+difficulty: HS
+fixed: None
+seen: 487
+answer: carbon monoxide [or CO before mentioned]
+
+Nickel is purified in the Mond process by reacting it with this compound. This compound can react with chlorine gas to form phosgene (FOSS-jeen), which was once used as a chemical weapon. A mixture of it with hydrogen gas is called syngas. It is referred to as carbonyl (CAR-bo-neel) when it functions as a ligand. In the body, hemoglobin (HEE-mo-glo-bin) is about two hundred times more likely to bond to this compound than oxygen. It is formed in incomplete but not complete combustion reactions. For 10 points, name this odorless, colorless gas that is often called "the silent killer," which has the formula CO.
+
+----
+num: 46
+category: Geography
+difficulty: HS
+fixed: 1
+seen: 721
+answer: Federal Republic of {Nigeria}
+
+One ancient culture from this present-day country is the Nok culture, which existed in what is now the Jos Plateau. The second-largest city in this country is Kano. The southwest corner of Lake Chad is part of this country, which is bordered by Benin to the west and Cameroon to the east. It is home to the Ibo [EE-bow], who formed the breakaway Republic of Biafra in 1967. In 1991, its capital was moved to Abuja [ah-BOO-dja]. For 10 points, name this most populous country in Africa, whose largest city is Lagos.
+
+----
+num: 47
+category: Science
+difficulty: HS
+fixed: 57
+seen: 489
+answer: endoplasmic {reticulum} [or {ER}; or smooth endoplasmic {reticulum}; or rough endoplasmic
+
+The sequence KDEL marks proteins for retention in this structure. Chaperone proteins located in this structure fold newly created proteins. A specialized variety of this structure stores calcium ions and is found in smooth and striated muscle. That "sarcoplasmic" (sar-co-PLAZZ-mic) type of this organelle is in turn a subset of a type of this structure which is the location of carbohydrate and steroid metabolism. That type is known as "transitional" or "smooth." For 10 points, name this organelle, which also has a "rough" type that contains ribosomes (RYE-bo-soams).
+
+----
+num: 48
+category: History
+difficulty: HS
+fixed: 1
+seen: 410
+answer: {Menilek} II [or Menelik II; or Sahle Miriam; or Sahle Mariam; prompt on Menelik]
+
+This man died after taking Revelation literally and eating twenty-four chapters of the Book of Kings. Yohannes IV brokered a peace between this man and Teklehamanot while this man ruled Shewa. Though he is not Japanese, he named his grandson Iyasu his successor. This man's most important military victory was sparked by a dispute between translations of the Treaty of Wichale; upon discovering the translation, he immediately wrote to Britain, France, and Germany insisting his country was still independent, then defeated Italy at Adowa. For 10 points, name this emperor of Ethiopia from 1889 to 1913.
+
+----
+num: 49
+category: Literature
+difficulty: HS
+fixed: None
+seen: 443
+answer: Petrarch [or Francesco Petrarca]
+
+This man wrote a glowing letter to his friend Dionigi after he climbed Mount Ventoux. This man wrote of meeting a woman on Good Friday and alleged that she also died on Good Friday. One of his collections is also called Rime Sparse (ree-MAY spar-SAY), or "scattered rhymes." He wrote the poetry collection Il Canzoniere, or "song book," which was dedicated to his beloved Laura. For 10 points, name this Renaissance humanist and early poet who names a type of Italian sonnet.
+
+----
+num: 50
+category: History
+difficulty: HS
+fixed: 1
+seen: 421
+answer: Stephen Joseph {Harper}
+
+This man's chief political opponent is proposing to reverse this person's defunding of the Council on Learning. Opposition leader Michael Ignatieff also denounced as "a crazy way of running democracy" this head of government's decision to petition Governor-General Michaelle Jean to prorogue Parliament. Since defeating Paul Martin in 2006, he has led a minority government as the head of the Conservative Party. For 10 points, name this current prime minister of Canada.
+
+----
+num: 51
+category: Religion
+difficulty: HS
+fixed: 1
+seen: 454
+answer: {Samson} [or {Shimshon}; or {Shamshoon}]
+
+In the Old Testament, this figure's birth was foretold by an angel to Manoah's wife, who had been barren for many years. On this man's way to his own wedding, he discovers bees nesting in the carcass of a lion and eats honey from that carcass. He once killed a thousand warriors with the jawbone of an ass. He was raised as a Nazarite, which meant he took certain vows. He later brought down the temple of Dagon on the heads of the Philistines after his betrayal. For 10 points, name this symbol of strength from the book of Judges whose hair was cut by the treacherous Delilah.
+
+----
+num: 52
+category: Literature
+difficulty: HS
+fixed: 1
+seen: 443
+answer: the {General Prologue} to the {Canterbury Tales} [prompt on partial answer]
+
+This work closes with Bailey declaring himself head of an expedition, and setting up strict penalties for anyone who would challenge his role as governor, judge, and record keeper. This work includes a description of a Haberdasher, Carpenter, Weaver, and Dyer, who do not appear later. This section begins with a description of the return of spring, with the accompanying April showers. For 10 points, name this section that describes pilgrims at the Tabard Inn, preceding the Knight's Tale in a collection by Geoffrey Chaucer.
+
+----
+num: 53
+category: History
+difficulty: HS
+fixed: 57
+seen: 425
+answer: Salem Witch Trials
+
+Explanations for this event include encephalitis, ergot poisoning, and a ploy by religious leaders such as Samuel Parris to increase church membership. Sarah Good was the first victim. Cotton Mather advised caution and rejected spectral evidence, but the depositions of Mary Walcott and Ann Putnam led to convictions in the namesake town and village as well as in nearby Andover. Giles Corey was pressed to death when he refused to enter a plea. Fifty people, including the slave Tituba, confessed. For 10 points, name this incident in Massachusetts that sent nineteen people to the gallows for alleged Satanic communion.
+
+----
+num: 54
+category: Fine Arts
+difficulty: HS
+fixed: 57
+seen: 493
+answer: John {Cage}
+
+One piece by this composer is being played at St. Burchardi church and is scheduled to finish in the year 2640. This composer wrote Bacchanale (bah-ka-NAAL) for the “prepared piano” he invented. This composer of As Slowly As Possible used the I Ching is inspiration for the aleatoric composition Music of Changes. He composed a work in which a pianist walks on stage but plays nothing. For 10 points, name this American composer whose 4'33" (4 minutes and 33 seconds) consists of four minutes and thirty three seconds of silence.
+
+----
+num: 55
+category: Mythology
+difficulty: HS
+fixed: 1
+seen: 790
+answer: Pallas {Athena} [accept {Athene}; accept {Pallas}; accept {Minerva} before read]
+
+This deity was nurtured in Zeus's stomach when Zeus swallowed her mother Metis. This deity engaged in a contest in which Poseidon created the first horse, and she became the namesake of a city after she offered the first olive tree. The head of the Gorgon Medusa is at the center of this goddess's shield, the Aegis. The Roman equivalent of this goddess is Minerva. For 10 points, name this Greek goddess of knowledge and justice, the namesake of a Greek city-state.
+
+----
+num: 56
+category: History
+difficulty: HS
+fixed: 1
+seen: 410
+answer: {Google} Inc. [prompt on {Gmail}]
+
+A breach in the security of this company in December 2009 led this company's chief legal officer David Drummond to conclude that some of its offices might have to be closed down. By shutting down those offices, this company may lose even more of its share of the market in one country to its competitor Baidu. This company's reaction came in light of the illegal accessing of e-mail accounts held by human rights activists in a certain country. For 10 points, name this American company that allowed censorship of its search engine after 2006 in China.
+
+----
+num: 57
+category: History
+difficulty: HS
+fixed: 1
+seen: 420
+answer: George Smith {Patton}, Jr.
+
+This man served under MacArthur at Anacostia Flats to remove the Bonus Army. Earlier, he was aide-de-camp to Pershing during the pursuit of Pancho Villa. During Operation Overlord, he commanded a fictitious army invading Calais (cah-LAY) to divert German attention from Normandy. He relieved Bastogne (bass-TONE) during the Battle of the Bulge, commanding the U.S. Third Army. For 10 points, what World War II general, called "Old Blood and Guts," was removed from command for slapping a shell-shocked soldier hospitalized in Sicily?
+
+----
+num: 58
+category: Literature
+difficulty: HS
+fixed: -1
+seen: 449
+answer: {"Ozymandias"}
+
+This work, which was written for a competition with Horace Smith, ends by describing the "lone and level sands" that "stretch far away." A visage in this poem conveys the frown, wrinkled lip, and "sneer of cold command" of the title figure, who is also described as "the hand that mocked them and the heart that fed." This poem relates the story of a traveler met in an "antique land" who tells of "two vast and trunkless legs of stone" in the desert. A pedestal described in this poem reads "Look on my works, ye Mighty, and despair!" For 10 points, name this sonnet about a titular "king of kings," written by Percy Bysshe Shelley.
+
+----
+num: 59
+category: History
+difficulty: HS
+fixed: 1
+seen: 420
+answer: the Empire of {Mali}
+
+Djedeba and Jalo are among the territories of this empire that were referred to as the Twelve Doors. This empire's legislature was called the Gbara. A victory at the Battle of Kirina over Sumanguru allowed it to be established. One leader of this empire distributed so much gold on his way to Mecca that it lowered gold prices in the Middle East. Along with Mansa Musa, other important figures of this empire include its founder Sundiata (soon-dee-AH-ta). For 10 points, name this African empire with capital at Niani whose major cities included Timbuktu.
+
+----
+num: 60
+category: Fine Arts
+difficulty: HS
+fixed: 57
+seen: 490
+answer: C {flute}
+
+This instrument plays a solo in the "Aviary" movement of Saint-Saens's (sahn SEN-zez) Carnival of the Animals. It is the first instrument to play the primary melody in Ravel's Bolero, and it performs the opening chromatic scale in Debussy's Prelude to the Afternoon of a Faun. Players of this instrument, which delivers the lead melody in "Morning Mood" from Peer Gynt, have included Jean-Pierre Rampal and Herbie Mann. Its shorter variant, pitched an octave higher, is called the piccolo. For 10 points, name this reedless woodwind instrument that is usually made of silver metal.
+
+----
+num: 61
+category: Science
+difficulty: HS
+fixed: 1
+seen: 489
+answer: {refraction}
+
+A thermal inversion can cause rays to wrap around the earth in the infinite form of this phenomenon. That difference in temperature can also allow sound to travel farther due to this effect, such as sound traveling over a lake. This phenomenon is no longer observed once an angle of incidence reaches a critical angle and causes total internal reflection. One is the minimum value for the index associated with this effect; that index, denoted n, is equated with angles of incidence via Snell's Law. For 10 points, name this phenomenon in which a wave changes velocity upon entering a different medium.
+
+----
+num: 62
+category: Literature
+difficulty: HS
+fixed: 1
+seen: 442
+answer: John Roderigo {Dos Passos}
+
+This author's World War I ambulance driving led to the novels One Man's Initiation 1917 and Three Soldiers. This author created Ellen Thatcher and Jimmy Herf. Those characters appear in a work by this writer featuring impressionistic views of New York City called Manhattan Transfer. This man's longest work includes “Newsreel” and “Camera Eye” segments and consists of The 42nd Parallel, 1919, and The Big Money. For 10 points, name this American author of the U.S.A. Trilogy.
+
+----
+num: 63
+category: Science
+difficulty: HS
+fixed: -1
+seen: 481
+answer: {calcium} [or Ca before it is read]
+
+Along with sodium carbonate, this substance's chloride is a byproduct of the Solvay Process. This element can be made through the reaction of its oxide with aluminum. This element's oxide is known as quicklime. Lime is a heated form of this element's carbonate. Marble is a crystalline form of this element's carbonate that is also known as limestone. This element has an electron configuration of [Ar]4s2 ("Argon Four S Two"). For 10 points, name this alkaline earth metal with symbol Ca.
+
+----
+num: 64
+category: Mythology
+difficulty: HS
+fixed: None
+seen: 785
+answer: {Priam}
+
+This monarch's sister Hesione saved him from slavery as a child. His first wife Arisbe married Hyrtacus. This man's children with his second wife Hecuba included Troilus and Polites. Iris recommended this figure make a risky trip without any guards into enemy territory. Hermes helped guide him to Achilles' tent so this man could negotiate a ransom of his son's body. As this man's city is being overrun, Neoptolemus (nee-OP-tall-UH-mus) slays Polites and then this son of Laomedon (lay-AW-meh-don) in brutal fashion. For 10 points, identify this father of Hector and king of Troy in the Iliad.
+
+----
+num: 65
+category: Science
+difficulty: HS
+fixed: -1
+seen: 483
+answer: {faults}
+
+When these landforms lie parallel to one another, they create raised and lowered areas called horsts and grabens. Flat irons form from scarps, which are located along these features. These features divide a surface into a hanging wall and a footwall. At lower depths, they are called shear zones. If the movement of one of these features has both strike and dip components, it is known as an oblique-slip one. They also come in transform and strike-slip types. For 10 points, name these cracks in the Earth's surface, the movement of which causes earthquakes.
+
+----
+num: 66
+category: Literature
+difficulty: HS
+fixed: 57
+seen: 439
+answer: The {Cherry Orchard} [or {Vishniovy Sad}]
+
+One character in this work kneels to pay homage to a one hundred year old cupboard. That character frequently references billiards and is named Gayef (GAH-yeff). One character's son Grisha (GREE-shah) drowned, leading to that character's departure for France. That character rejects a suggestion to build and rent out villas to pay a mortgage. At one point, the servant Firs claims that he is ready to die now that Madame Ranevsky has returned home. At a party late in this work, Lopakhin ("LOW"-pah-keen) announces that he has purchased the title estate. For 10 points, name this final play by Anton Chekhov.
+
+----
+num: 67
+category: History
+difficulty: HS
+fixed: 57
+seen: 416
+answer: {Isabella}
+
+One queen with this name fought the Chincha Island war and was forced into exile in 1868 after becoming the only queen-regent of a unified Spain. Another queen of this name was nicknamed “The She-Wolf of France” and aided Roger Mortimer in overthrowing her husband Edward II. Another queen with this name expelled all Jews from her kingdom in the Alhambra decree and was the mother of Joanna the Mad. That queen with this name earned the epithet “the Catholic” and sponsored the voyages of Christopher Columbus. For 10 points, give this name held by a queen of Castille whose marriage to Ferdinand of Aragon unified Spain.
+
+----
+num: 68
+category: Fine Arts
+difficulty: HS
+fixed: 57
+seen: 488
+answer: Edward {Hopper}
+
+This artist painted a Victorian mansion with a railroad track running along the bottom of the painting. This artist of House by the Railroad depicted a row of houses near a train tunnel in his Approaching a City. He showed two similarly dressed women sitting at the same table in a Chinese restaurant in his Chop Suey. He also painted an advertisement for Phillies cigars into his work that shows two fedora-wearing men and a woman in a red dress sitting at a corner diner. For 10 points, name this American painter of Nighthawks.
+
+----
+num: 69
+category: Literature
+difficulty: HS
+fixed: 57
+seen: 442
+answer: Matsuo {Basho} [or Matsuo {Kinsaku}]
+
+Just before his death, this writer wrote about dreams running around withered fields after falling sick on a journey. He also envisioned the broken dreams of soldiers while watching summer grasses. This man was accompanied by Sora on a journey that produced his Narrow Road to the Deep North. One of his works involves a frog's jump into an old pond. This writer's works are rich in "season words." For 10 points, what Edo-period writer is considered the master of the seventeen-syllable haiku?
+
+----
+num: 70
+category: Science
+difficulty: HS
+fixed: 57
+seen: 485
+answer: {ozone} [accept {O3} before mentioned]
+
+Old rubber tires often “crack” when exposed to this compound, whose concentration is reported in Dobson units. The Chapman cycle describes the production and degradation of this compound, which at low temperatures forms a dark blue liquid. It takes its name from the Greek “to smell,” and its odor can be observed during lightning strikes. In the atmosphere, this compound is broken down by compounds called chlorofluorocarbons (KLOR-oh-FLOOR-oh-CAR-buns). For 10 points, name this compound that forms a namesake layer in the atmosphere that shields the Earth from ultraviolet light, with formula O3.
+
+----
+num: 71
+category: Fine Arts
+difficulty: HS
+fixed: 57
+seen: 494
+answer: El {Greco} [or {Domenikos Theotokopoulos}]
+
+Dissatisfaction with this man's painting The Martyrdom of Saint Maurice for the Escorial ended this man's chances at receiving royal patronage. The central figure wears a red robe and a man in yellow is drilling a hole in a cross in this man's painting The Disrobing of Christ. In one of this man's paintings, the artist's son Jorge Manuel is located on the left with a handkerchief in his pocket bearing the artist's signature, and that painting shows Saints Stephen and Augustine placing the title figure in a tomb. For 10 points, name this painter of The Burial of Count Orgaz and View of Toledo.
+
+----
+num: 72
+category: Literature
+difficulty: HS
+fixed: -1
+seen: 448
+answer: The {Tartuffe}, or the {Impostor} [or Le {Tartuffe}, {ou L'Imposteur}]
+
+In this work, the central family is told by Monsiuer Loyal that they must move out of their home. One of the central characters in this work fears prosecution for treason due to incriminating papers from his friend Argus that are being used as blackmail. Elmire's illness is ignored by her husband in this play. Cleante warns of the title character's machinations throughout this work. Valere and Mariane are married in this work. In this play, Orgon hides under a table and learns about the true nature of the title character. For 10 points, name this work about the title religious hypocrite written by Moliere.
+
+----
+num: 73
+category: History
+difficulty: HS
+fixed: 1
+seen: 417
+answer: Space {Shuttle} explosions [or equivalents including "Space {Shuttle;"} prompt on general answers
+
+One occurrence of this type of event spurred the Rogers Commission. Another instance of this type of event was the subject of Appendix F, in which Richard Feynman blasted engineers for misunderstanding the "safety factor" prior to it happening in 1986. This type of event occurred in 2003 when falling debris stripped an area of reinforced carbon-carbon panels. Cold conditions contributed to the first occurrence of this type of event, in which frayed O-Rings led to the death of Christa McAuliffe and six others. For 10 points, name this disaster which befell the Columbia and Challenger crafts.
+
+----
+num: 74
+category: History
+difficulty: HS
+fixed: 1
+seen: 416
+answer: Barry {Goldwater}
+
+This man sued Jimmy Carter, saying the president could not nullify a treaty with Taiwan without Senate approval. Late in life, he alarmed conservatives by claiming that “gays have served honorably in the military since Julius Caesar.” Ronald Reagan gave the “A Time For Choosing” speech in support of this man, who proclaimed that “extremism in the defense of liberty is no vice.” He was attacked in a commercial showing a daisy-picking girl consumed by a nuclear explosion. For 10 points, name this Arizona Republican defeated by Lyndon Johnson in 1964.
+
+----
+num: 75
+category: History
+difficulty: HS
+fixed: 57
+seen: 426
+answer: {Peter} I of Russia [or {Peter} the Great of Russia; or {Pyotr Alexeyevich Romanov}; prompt on
+
+This ruler occupied Finland in a period known as the Greater Wrath, Following his selection by the Duma, a rebellion of the Streltsy was led by his future regent, Sofia Alekseyevna. He fought the battles of Narva and Poltava in a conflict ended by the Treaty of Nystad, the Great Northern War against Sweden. This leader implemented a tax on beards and promoted European dress and customs. For 10 points, name this modernizign tsar of Russia.
+
+----
+num: 76
+category: Geography
+difficulty: HS
+fixed: 1
+seen: 713
+answer: Republic of {Turkey} [or {Turkiye Cumhuriyeti}]
+
+The largest lake in this nation, located in its east about two hundred miles south of Kars, is Lake Van. The Pontic Mountains rise along the northern coast of this country and run eastward into Georgia. The Taurus Mountains follow the southern coast. The Euphrates and Tigris Rivers rise in this country before flowing south into Syria and Iraq. The European portion of this nation is separated by the Bosporus. For 10 points, name this nation located between the Black and Mediterranean Seas that contains the Anatolian Plateau.
+
+----
+num: 77
+category: Religion
+difficulty: HS
+fixed: 1
+seen: 446
+answer: Sikhism
+
+Literature important to adherents of this religion includes biographies of its first leader called Janamsakhis (jah-nahm-sahk-ees). This religion celebrates the martyrdom of figures like Tegh Bahadur with its festivals called Gurpurabs. Followers of this faith worship in Gurdwaras and drink the holy water amrit to be inducted into the khalsa. Some adherents of this faith follow the “Five K's,” which mandate carrying a dagger and covering their uncut hair with a turban. For 10 points, name this Indian religion led in the past by a series of ten gurus.
+
+----
+num: 78
+category: Fine Arts
+difficulty: HS
+fixed: 1
+seen: 494
+answer: Sergei Sergeyevich {Prokofiev}
+
+This composer wrote the movement "Montagues and Capulets" for his ballet Romeo and Juliet. He claimed that his first symphony was written in the style of Josef Haydn, had Haydn been alive in the twentieth century. An opera by this composer sees the King of Clubs' son cursed by Fata Morgana to seek after the title fruit. Another piece by this composer of the Classical symphony and the opera Love for Three Oranges uses the bassoon to represent the grandfather and the oboe to represent the duck. For 10 points, name this Russian composer of Peter and the Wolf.
+
+----
+num: 79
+category: Geography
+difficulty: HS
+fixed: 1
+seen: 715
+answer: {Sao Paulo}
+
+This city is the home of Oscar Niemeyer's Copan Building, and the 9 de Julho Palace is also located here. The massive Morumbi and Pacaembu football stadiums are located here. This city's Mirante do Vale is the tallest building in this city's country. Guaruja is a beach resort for this city. The Parque do Ibirapuera is the home of this city's Art Biennial. This city is located on the Tiete (Tyuh-Tey), and Pinheiros, rivers. This city's Atlantic port is Santos. For 10 points, name this largest city in Brazil.
+
+----
+num: 80
+category: Literature
+difficulty: HS
+fixed: 1
+seen: 451
+answer: William Wilkie {Collins}
+
+One of this author's novels is narrated by a religious zealot named Drusilla Clack, who passes around a flier claiming that Satan can be found in sofa pillows. That novel also contains the butler Betteredge, who reveres Robinson Crusoe. He wrote about the somnambulating (som-NAMB-yoo-late-ing) Godfrey Ablewhite, who steals an object that he believes will bring harm to his love, Rachel Verinder. Colonel Herncastle previously stole that gemstone, causing three Hindus to attempt recovery in England. For 10 points, name this Victorian novelist, who wrote The Woman in White and The Moonstone.
+
+----
+num: 81
+category: Literature
+difficulty: HS
+fixed: 57
+seen: 438
+answer: {Aeschylus} ({ESS}-{kuh}-{liss})
+
+In one play by this dramatist, Kratos (KRAH-tose) and Bia (BEE-uh) drag the title character to Scythia, where Io (EYE-oh) wanders by to deliver a prophecy about Heracles. Atossa (ah-TOE-suh) and the ghost of Darius (duh-RYE-us) advise Xerxes (ZERK-seez) in a different play by this man. Another of his works ends when a group's name is changed to "The Kindly Ones." That group had chased a character to Delphi following the killings of Aegisthus (eye-JISS-thus) and Clytemnestra (KLAE-tem-NESS-truh) in a previous play by this author, in vengeance for the death of Agamemnon. For 10 points, name this author of Prometheus Bound and The Persians, whose trilogy consisting of Agamemnon, The Libation Bearers, and The Eumenides (yoo-MEN-id-eez) tells the story of Orestes (oar-EST-eez).
+
+----
+num: 82
+category: History
+difficulty: HS
+fixed: -1
+seen: 425
+answer: partitions of {Poland} [or equivalents; or partitions of the {Polish}-{Lithuanian Commonwealth};
+
+One of these actions was completed after the victory of the Confederation of Targowica (TAR-go-VEE-kah), which also undid the Third of May Constitution. Another one of these actions brought an end to the actions of the Bar Confederation. The third one of these actions was preceded by an uprising led by Tadeusz Kosciuszko (tah-DOZSH kahs-YOUS-koh) in 1794. The first was conducted by Maria Theresa, Catherine the Great, and Frederick the Great. For 10 points, name these events of the eighteenth century that gave to Austria, Prussia, and Russia land from a neighboring country with a capital at Warsaw.
+
+----
+num: 83
+category: Science
+difficulty: HS
+fixed: 57
+seen: 480
+answer: {lysosome}
+
+A disease related to this organelle is caused by a lack of hexosaminidase (HEX-ose-am-IN-ih-dace) A, characterized by a red spot in the iris, and called Tay-Sachs disease. Mannose-6-phosphate tags proteins destined for this organelle. This organelle contains namesake hydrolases and can absorb material via autophagy. This organelle's V-class proton pumps create an acidic environment to carry out its main function. For 10 points, name this organelle that breaks down macromolecules and cellular waste.
+
+----
+num: 84
+category: Literature
+difficulty: HS
+fixed: 57
+seen: 445
+answer: John {Irving}
+
+This author wrote about Hannes Graff and Siggy Javotni in his first novel, Setting Free the Bears. Another work by this author contains the novella The Pension Grillparzer. That work has a title character married to Helen Holm and is called The World According to Garp. This author of The Cider House Rules also wrote a work in which a midget befriends John Wheelwright and saves children from a grenade attack. For 10 points, name this American author of A Prayer for Owen Meany.
+
+----
+num: 85
+category: Science
+difficulty: HS
+fixed: 1
+seen: 496
+answer: {superconductors} [prompt on {superconductivity}]
+
+When these materials interface with other materials, Andreev (ahn DREE yev) reflection can occur. A phenomenological theory of these was developed by Lev Landau and Vitaly Ginzberg. They expel magnetic fields from their interior in the Meissner Effect. Coming in Type I and Type II varieties, these materials are described as the result of electrons condensing into Cooper pairs by BCS theory. For 10 points, name these materials, which have zero resistance at low temperatures.
+
+----
+num: 85
+category: Science
+difficulty: HS
+fixed: 1
+seen: 487
+answer: {superconductors} [prompt on {superconductivity}]
+
+When these materials interface with other materials, Andreev (ahn DREE yev) reflection can occur. A phenomenological theory of these was developed by Lev Landau and Vitaly Ginzberg. They expel magnetic fields from their interior in the Meissner Effect. Coming in Type I and Type II varieties, these materials are described as the result of electrons condensing into Cooper pairs by BCS theory. For 10 points, name these materials, which have zero resistance at low temperatures.
+
+----
+num: 86
+category: Mythology
+difficulty: HS
+fixed: None
+seen: 777
+answer: {Tiresias}
+
+Apollo fired an arrow at this figure, who drank from the tainted spring of Tilphussa. His mother Chariclo pleaded on his behalf, but he only received the ability to divine birdsongs. He warns Amphitryon about Zeus's advances on Alcmene and warns Odysseus's men about the cattle of Helios. This figure angers Oedipus by telling him that he is his own downfall. This man was transformed into a woman by Hera and blinded by Athena, whom he peeked at while she was bathing. For 10 points, name this unfortunate seer from Greek mythology.
+
+----
+num: 87
+category: Literature
+difficulty: HS
+fixed: 1
+seen: 442
+answer: Alfred Lord {Tennyson}
+
+This poet was inspired by Measure to Measure to write about a woman who mourns “'My life is dreary, he cometh not” while waiting for Angelo. This author of “Mariana” wrote about a creature that lives “Below the thunders of the upper deep” in “The Kraken.” This poet was inspired by Arthurian legend to write his collection The Idylls of the King. This author wrote one poem about a figure who decides “To strive, to seek, to find, and not to yield” and another about a group who “rode into the valley of death.” For 10 points, name this poet of “Ulysses” and “The Charge of the Light Brigade.”
+
+----
+num: 88
+category: History
+difficulty: HS
+fixed: 1
+seen: 407
+answer: Syngman {Rhee}
+
+This man, who was recruited to the Office of Strategic Services by Preston Goodfellow, gained notoriety for ordering both the destruction of the Hangang Bridge and the massacre at Jeju island. This leader established the 1952 "peace line" to seize the Liancourt Rocks, which he renamed Dokdo. His electoral fraud led to his exile to Hawaii following the April Revolution. After converting to Christianity and gaining popularity through his resistance to Japan during World War II, he opposed the negotiations to end the Korean War. For 10 points, name the first president of South Korea.
+
+----
+num: 89
+category: Literature
+difficulty: HS
+fixed: 57
+seen: 446
+answer: A Midsummer Night's Dream
+
+In this play, one character states "Jack shall have Jill. Nought shall go ill." In this play, Egeus's daughter runs into the woods. "Rude mechanicals" perform Pyramus and Thisby at Theseus's wedding in this play. One character declares "Lord, what fools these mortals be!" That character gives a love potion that causes Demetrius and Lysander to vie for Helena instead of Hermia. That love potion also makes Titania fall in love with Bottom, who has his head turned into a donkey's. For 10 points, name this Shakespeare play featuring the fairies Puck and Oberon.
+
+----
+num: 90
+category: Mythology
+difficulty: HS
+fixed: 1
+seen: 688
+answer: Adonis
+
+This figure's blood transformed into anemones after he was gored by a boar. Theias (THY us) chases his daughter Myrrha with a knife after their incestuous union produces this figure. One love interest of this figure placed him in a chest after birth. He was given in that chest to Persephone, who refused to give him up. Zeus settled the dispute by decreeing that this man must spend half the year of earth with Aphrodite and half in the underworld with Persephone. For 10 points, name this mythological figure whose name is often used to describe any handsome young man.
+
+----
+num: 91
+category: History
+difficulty: HS
+fixed: -1
+seen: 418
+answer: United States {Senator} from Massachussetts [accept obvious equivalents such as
+
+One candidate for this position threatened to invoke a state law against defamatory political statements after being accused of wanting to turn women away from emergency rooms. A candidate who lost in the primary election for this office was Alan Khazei, the founder of the service program CityYear. The primary winner who defeated Khazei committed a gaffe during the general campaign by claiming Curt Schilling was a Yankees fan. State attorney general Martha Coakley lost to Republican Scott Brown in a January 2010 special election that, for 10 points, filled what office, that was left vacant by the death of Ted Kennedy?
+
+----
+num: 92
+category: Mythology
+difficulty: HS
+fixed: 57
+seen: 791
+answer: the {Eddas}
+
+One text of this type begins with a "euhemerized" (yoo-HEM-er-ized) prologue in which the central figures are claimed to be resettled Trojan warriors who came to be worshiped. One of these texts contains a poem in which a trickster god levies insults at the other gods. The "Poetic" or "Elder" one of these texts contains such "lays" as the Lokasenna and Voluspa. The "Prose" one was written by Icelandic statesman Snorri Sturluson. Both of these texts outline a system of myth that contains such figures as Baldur, Loki, and Odin. For 10 points, give the general name for these primary-source texts for Norse mythology.
+
+----
+num: 93
+category: Science
+difficulty: HS
+fixed: 1
+seen: 487
+answer: cosine
+
+This function's Taylor series approximation begins 1 - X2/2! + X4/4! ("One minus X squared over two factorial plus X to the fourth over four factorial"). In Euler's Formula, this function added to i(sin(x)) ("I times the sine of X") is equal to eix ("E to the I X"). This function is also equal to the square root of 1-sin2 (theta) ("One minus sine squared of theta") and approaches zero as theta approaches p/2 ("pi over two"). Name this function equal to a triangle's adjacent side over its hypotenuse.
+
+----
+num: 94
+category: Religion
+difficulty: HS
+fixed: 57
+seen: 451
+answer: {Joshua}
+
+This figure creates an altar on Mount Ebal and carves the Ten Commandments into it. He is one of twelve spies sent to scout the land, but only he and Caleb gave a positive report. Two of this man's spies are saved by the prostitute Rahab. This figure prays for the sun and the moon to stop in their tracks during a battle with the Amorites. As Moses' successor, he leads the Israelites in conquering Canaan. For 10 points, name this Old Testament leader whose most famous military victory was against the city of Jericho, which fell after the Israelites circled its seven times.
+
+----
+num: 95
+category: Fine Arts
+difficulty: HS
+fixed: 1
+seen: 499
+answer: Symphony {no. 3,} "{Eroica}" [accept either; accept {no. 3} or {third} before mentioned]
+
+This musical work was the first symphony scored for three horns instead of two. It has a solo horn enter with the main melody four measures before the rest of the orchestra in its first movement's recapitulation. Its second movement is a funeral march, and this symphony is in E-flat major. It is dedicated to the "memory of a great man," although it was originally dedicated to Napoleon. For 10 points, name this symphony by Ludwig van Beethoven, his third.
+
+----
+num: 96
+category: Science
+difficulty: HS
+fixed: 1
+seen: 486
+answer: optical {microscopes}
+
+The Hoffman modulation contrast type of these devices enhances phase gradients. A component named after Nomarski (no-MAR-skee) is used in the differential interference contrast type of these devices. Abbe (AH-BAY) condensers are attached to these devices. Confocal ones remove light that is out of focues. They have objective and ocular pieces. The multiplication of the strengths of two of their pieces gives the total magnification. For 10 points, name these laboratory devices that magnify images of cells and other structures.
+
+----
+num: 97
+category: Science
+difficulty: HS
+fixed: 1
+seen: 487
+answer: zero
+
+In the MIPS ("mips") architecture, many ALU ("A"-"L"-"U") operations, such as add, have this as their opcode. In "one's complement" notation there are two of these. In Unix, slash dev slash null has a counterpart that produces these. In C++ this is equivalent to false. Arrays usually start with this index. In digital circuits, this number corresponds to a low voltage. A common programming error, or exception, is dividing by this number. For 10 points, name this value, which is contrasted with "one" in the binary system used by computers.
+
+----
+num: 98
+category: Literature
+difficulty: HS
+fixed: 1
+seen: 444
+answer: James Augustine Aloysius {Joyce}
+
+In one of this author's short stories, Mahony meets a "queer old josser." The narrator of another of one of his novels becomes fixated with the word "paralysis" after the death of Father Flynn. This author of "Araby" and "The Sisters" wrote about Morkans' annual dance and Michael Furey's tragic death in a story about Gabriel Conroy. That work, "The Dead," is the final piece in the short story collection Dubliners. For 10 points, Stephen Dedalus appears in both A Portrait of the Artist as a Young Man and Ulysses by what Irish author?

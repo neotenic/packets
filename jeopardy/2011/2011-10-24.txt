@@ -1,0 +1,392 @@
+####
+tournament: #6231
+round: Show #6231 - Monday, October 24, 2011
+year: 2011
+date: 2011-10-24
+####
+
+num: 1
+category: Geography
+difficulty: 200
+seen: 9
+answer: Vesuvius
+
+About its eruption in 79 A.D., an observer wrote that "broad sheets of fire and leaping flames blazed at several points".
+
+----
+num: 2
+category: Literature
+difficulty: 200
+seen: 5
+answer: a sock
+
+A hard blow or punch.
+
+----
+num: 3
+category: Trash
+difficulty: 200
+seen: 6
+answer: (Eric) Clapton
+
+In 2004 the most valuable guitar, this rocker's Stratocaster "Blackie", sold for $959,500 at auction.
+
+----
+num: 4
+category: Literature
+difficulty: 200
+seen: 5
+answer: W-I-P
+
+Dessert topping (the part after "Reddi").
+
+----
+num: 5
+category: Geography
+difficulty: 400
+seen: 8
+answer: Mount St. Helens
+
+At least 57 people died as a result of this U.S. volcano's May 18, 1980 eruption.
+
+----
+num: 6
+category: Literature
+difficulty: 400
+seen: 3
+answer: a skirt
+
+To avoid or go around the edge of.
+
+----
+num: 7
+category: Trash
+difficulty: 400
+seen: 5
+answer: Diane Keaton
+
+In the 1991 remake of "Father of the Bride", she played the mother of the bride.
+
+----
+num: 8
+category: Literature
+difficulty: 400
+seen: 3
+answer: S-K-O-O-L
+
+Mr. Potato Head maker (the part after "Play").
+
+----
+num: 9
+category: Geography
+difficulty: 600
+seen: 8
+answer: Kilauea
+
+This youngest surface volcano on the Big Island of Hawaii has distinctive lava formations like Pele's Hair.
+
+----
+num: 10
+category: Literature
+difficulty: 600
+seen: 4
+answer: scarf
+
+When followed by "down", it means to eat voraciously.
+
+----
+num: 11
+category: Trash
+difficulty: 600
+seen: 5
+answer: Blake Shelton
+
+He's the voice of country music seen.
+
+----
+num: 12
+category: Literature
+difficulty: 600
+seen: 4
+answer: R-I-T-E
+
+Drugstore with 4,700 outlets (the part before "Aid").
+
+----
+num: 13
+category: Geography
+difficulty: 800
+seen: 8
+answer: Antarctica
+
+In 1908 members of Ernest Shackleton's expedition became the first to climb this continent's Mount Erebus.
+
+----
+num: 14
+category: Literature
+difficulty: 800
+seen: 4
+answer: pants
+
+Hard, quick gasps for air.
+
+----
+num: 15
+category: Trash
+difficulty: 800
+seen: 5
+answer: Duke Ellington
+
+After his death in 1974, his son Mercer took over his band.
+
+----
+num: 16
+category: Literature
+difficulty: 800
+seen: 4
+answer: K-I-X
+
+"Kid tested, mother approved" cereal.
+
+----
+num: 17
+category: Geography
+difficulty: 1000
+seen: 8
+answer: Crater Lake
+
+This lake lies in a caldera formed when Oregon's Mount Mazama volcano collapsed 7,000 years ago.
+
+----
+num: 18
+category: Literature
+difficulty: 1000
+seen: 3
+answer: cap
+
+A policy seeking to reduce pollution is referred to as this & trade.
+
+----
+num: 19
+category: Trash
+difficulty: 1000
+seen: 5
+answer: John Singleton
+
+His "Boyz N the Hood" earned him the first-ever best director Oscar nomination for an African American.
+
+----
+num: 20
+category: Literature
+difficulty: 1000
+seen: 4
+answer: F-A-N-T-A-S-T-I-K
+
+Amazing, phenomenal cleaner from SC Johnson.
+
+----
+num: 21
+category: Trash
+difficulty: 400
+seen: 5
+answer: Yale
+
+U.S. News & World Report calls this New Haven school the best value college, even with tuition at over $38,000 a year.
+
+----
+num: 22
+category: Literature
+difficulty: 400
+seen: 4
+answer: a wand
+
+According to tradition, this prop used by magicians should be made of hazel wood cut at sunrise.
+
+----
+num: 23
+category: History
+difficulty: 400
+seen: 4
+answer: Princess Diana
+
+Patrick Jephson, her aide in the 1990s, doesn't aid her reputation with his book "Shadows of a Princess".
+
+----
+num: 24
+category: Literature
+difficulty: 400
+seen: 3
+answer: (Rabbie) Burns
+
+To hear about "My Highland Lassie" / My poor heart, it yearns / For he wrote 'em, I just quote 'em / He is...
+
+----
+num: 25
+category: Trash
+difficulty: 800
+seen: 4
+answer: Persian
+
+According to the Cat Fanciers' Assoc., the top breed of pedigreed cat is this feline with a Middle Eastern name.
+
+----
+num: 26
+category: Literature
+difficulty: 800
+seen: 4
+answer: Penn & Teller
+
+This duo first teamed up in 1975; one was a clown college graduate & juggler, the other, a silent magician.
+
+----
+num: 27
+category: History
+difficulty: 800
+seen: 4
+answer: (Vladimir) Putin
+
+Vladislav Surkov, a longtime aide to this former president, is known as the Kremlin's "Gray Cardinal".
+
+----
+num: 28
+category: Literature
+difficulty: 800
+seen: 3
+answer: (William) Blake
+
+"The Lamb" & "The Fly" are far from a mess / But this man's "The Tyger" / Gets all the good press.
+
+----
+num: 29
+category: Literature
+difficulty: 800
+seen: 4
+answer: fabric
+
+Velour, velvet or tricot.
+
+----
+num: 30
+category: Trash
+difficulty: 1200
+seen: 5
+answer: Delta
+
+Not only is Hartsfield-Jackson in Atlanta the world's busiest airport, this airline based there is the largest.
+
+----
+num: 31
+category: Literature
+difficulty: 1200
+seen: 4
+answer: David Copperfield
+
+This magician's feats include walking through the Great Wall of China.
+
+----
+num: 32
+category: Literature
+difficulty: 1200
+seen: 4
+answer: (Alexander) Pope
+
+Being called "a gargoyle of a man" / May have caused him to lose all hope / But his "Rape of the Lock" was good / He's...
+
+----
+num: 33
+category: Literature
+difficulty: 1200
+seen: 3
+answer: fissure
+
+Long crack in a rock.
+
+----
+num: 34
+category: Trash
+difficulty: 1600
+seen: 6
+answer: Cherry Garcia
+
+Not surprisingly, this taste sensation is rocking as Ben & Jerry's top-selling ice cream flavor.
+
+----
+num: 35
+category: Literature
+difficulty: 1600
+seen: 5
+answer: prestidigitation
+
+This 16-letter synonym for sleight of hand comes from the Latin for "nimble finger".
+
+----
+num: 36
+category: History
+difficulty: 1600
+seen: 4
+answer: the House Un-American Activities Committee
+
+In 1948 White House aide Lauchlin Currie told this committee he wasn't a Soviet spy; today we know he was.
+
+----
+num: 37
+category: Literature
+difficulty: 1600
+seen: 4
+answer: (Edmund) Spenser
+
+"A hundred naked maidens" / Danced in his "Faerie Queene" / Give this Elizabethan credit / He sure could set a scene.
+
+----
+num: 38
+category: Literature
+difficulty: 1600
+seen: 5
+answer: fatwa
+
+Islamic legal opinion or directive.
+
+----
+num: 39
+category: Trash
+difficulty: 2000
+seen: 8
+answer: the Altima
+
+In 2011 this Nissan model was Consumer Reports' top pick for family sedan.
+
+----
+num: 40
+category: Literature
+difficulty: 2000
+seen: 5
+answer: David Blaine
+
+In November 2000 this illusionist known for his street magic was encased in a block of ice for 63 hours in Times Square.
+
+----
+num: 41
+category: History
+difficulty: 2000
+seen: 5
+answer: the White House State Dinner
+
+In 2009 an aide to the Defense Sec. was ensnared in the scandal over a couple who crashed this White House event.
+
+----
+num: 42
+category: Literature
+difficulty: 2000
+seen: 5
+answer: Shelley
+
+This romantic poet was really not clairvoyant / In 1822 / He put "Hellas" into view / But we wish he was more buoyant.
+
+----
+num: 43
+category: Literature
+difficulty: 2000
+seen: 5
+answer: finesse
+
+Smooth move in a bridge game.

@@ -1,0 +1,365 @@
+####
+tournament: #6491
+round: Show #6491 - Monday, December 3, 2012
+year: 2012
+date: 2012-12-03
+####
+
+num: 1
+category: Art
+difficulty: 200
+seen: 4
+answer: New York, New York
+
+The Broadway Theater,.
+
+----
+num: 2
+category: Art
+difficulty: 200
+seen: 4
+answer: a dog
+
+This piece is a Scottie.
+
+----
+num: 3
+category: Art
+difficulty: 400
+seen: 4
+answer: the Luxor
+
+The Pyramid Cafe,.
+
+----
+num: 4
+category: Trash
+difficulty: 400
+seen: 4
+answer: boxing
+
+"Million Dollar Baby".
+
+----
+num: 5
+category: Art
+difficulty: 400
+seen: 4
+answer: a boat
+
+As Roy Scheider said in "Jaws", "You're gonna need a bigger" one.
+
+----
+num: 6
+category: Literature
+difficulty: 400
+seen: 4
+answer: a league
+
+It can refer to a group of "Extraordinary Gentlemen" or be a measurement of distance.
+
+----
+num: 7
+category: Art
+difficulty: 600
+seen: 4
+answer: Caesars Palace
+
+Cleopatra's Barge,.
+
+----
+num: 8
+category: Art
+difficulty: 600
+seen: 4
+answer: the shoe
+
+Domicile for the nursery rhyme old woman with a family of unmanageable size.
+
+----
+num: 9
+category: Literature
+difficulty: 600
+seen: 4
+answer: family
+
+Proverbially, "You can choose your friends, but you can't choose your" this.
+
+----
+num: 10
+category: Art
+difficulty: 800
+seen: 5
+answer: Excalibur
+
+The Tournament of Kings dining show,.
+
+----
+num: 11
+category: Art
+difficulty: 800
+seen: 4
+answer: a wheelbarrow
+
+This load-carrying item is lifted & pushed by 2 horizontal shafts.
+
+----
+num: 12
+category: Literature
+difficulty: 800
+seen: 4
+answer: a legacy
+
+A college applicant whose mom or dad graduated from that same school, possibly giving junior a "leg" up.
+
+----
+num: 13
+category: Art
+difficulty: 1000
+seen: 4
+answer: a racecar
+
+This speedy item is also a palindrome.
+
+----
+num: 14
+category: Literature
+difficulty: 1000
+seen: 4
+answer: a shamus
+
+Philip Marlowe is called a private dick, gumshoe, sleuth &, in "The Big Sleep", this slang synonym.
+
+----
+num: 15
+category: Literature
+difficulty: 400
+seen: 4
+answer: commotion
+
+A noisy or confused tumult.
+
+----
+num: 16
+category: Trash
+difficulty: 400
+seen: 5
+answer: the Civil War
+
+A 3'4" member of the 192nd Ohio was the shortest man in blue in this war.
+
+----
+num: 17
+category: Trash
+difficulty: 400
+seen: 5
+answer: Kelly Clarkson
+
+"Miss Independent" & "Stronger" were hits for this idol.
+
+----
+num: 18
+category: Literature
+difficulty: 400
+seen: 4
+answer: bubble bath
+
+In 2011 the Mr. Bubble brand of this celebrated its 50th birthday.
+
+----
+num: 19
+category: History
+difficulty: 400
+seen: 4
+answer: Mount Rainier
+
+It's sometimes referred to as Mount Tacoma.
+
+----
+num: 20
+category: Art
+difficulty: 800
+seen: 3
+answer: Paul Gauguin
+
+"Tahitian Women Bathing" is one of his paintings at the Met.
+
+----
+num: 21
+category: Literature
+difficulty: 800
+seen: 4
+answer: lotion
+
+Calamine, for one.
+
+----
+num: 22
+category: Trash
+difficulty: 800
+seen: 5
+answer: Napoléon
+
+Between 1799 & 1804, he lowered the French army's minimum height from 5'4" to 5'1".
+
+----
+num: 23
+category: Trash
+difficulty: 800
+seen: 4
+answer: Alicia Keys
+
+"Fallin'", from 2001, was the first Top 40 hit for this singer & pianist.
+
+----
+num: 24
+category: Literature
+difficulty: 800
+seen: 4
+answer: Michael Jackson
+
+In the 1980s his constant companion was a chimp named Bubbles.
+
+----
+num: 25
+category: Art
+difficulty: 1200
+seen: 4
+answer: Diego Rivera
+
+shows a bleeding,.
+
+----
+num: 26
+category: Literature
+difficulty: 1200
+seen: 4
+answer: a potion
+
+To get that zesty flavor, add some eye of newt to one of these elixirs.
+
+----
+num: 27
+category: Trash
+difficulty: 1200
+seen: 6
+answer: a fighter jet
+
+5'5" James Jabara was the USA's first ace in this type of plane, flying the F-86.
+
+----
+num: 28
+category: Trash
+difficulty: 1200
+seen: 6
+answer: "Call Me Maybe"
+
+In 2012 Carly Rae Jepsen hit No. 1 singing, "Hey, I just met you, and this is crazy, but here's my number, so" this title.
+
+----
+num: 29
+category: Literature
+difficulty: 1200
+seen: 4
+answer: the (Good) Witch of the North (Glinda)
+
+In the movie "The Wizard of Oz", this good witch arrives in Munchkinland in a bubble.
+
+----
+num: 30
+category: History
+difficulty: 1200
+seen: 4
+answer: Mount Kilimanjaro
+
+Scientists estimate that since 1912, this highest African mountain has lost more than 80% of its ice cap.
+
+----
+num: 31
+category: Literature
+difficulty: 1600
+seen: 4
+answer: a devotion
+
+A private act of prayer.
+
+----
+num: 32
+category: Trash
+difficulty: 1600
+seen: 6
+answer: John Paul Jones
+
+This giant of early American naval history was called "little" by John Hancock & Abigail Adams.
+
+----
+num: 33
+category: Trash
+difficulty: 1600
+seen: 6
+answer: The Cars
+
+Supermodel Paulina Porizkova, who married Ric Ocasek of this group, appeared in their video for "Drive".
+
+----
+num: 34
+category: Literature
+difficulty: 1600
+seen: 4
+answer: bubble and squeak
+
+This traditional British dish of meat & cabbage is named for the sound it makes as it's cooking.
+
+----
+num: 35
+category: History
+difficulty: 1600
+seen: 4
+answer: Romania
+
+Most of the Carpathian Mountains lie in Slovakia & this country.
+
+----
+num: 36
+category: Literature
+difficulty: 2000
+seen: 5
+answer: a perputual motion machine
+
+A 17th c. marquess of Worcester was one of those who tried hopelessly to build this kind of machine.
+
+----
+num: 37
+category: Trash
+difficulty: 2000
+seen: 9
+answer: the Philippines
+
+5'5" Frederick Funston won fame for capturing rebel leader Emilio Aguinaldo in these islands in 1901.
+
+----
+num: 38
+category: Trash
+difficulty: 2000
+seen: 8
+answer: The Who
+
+This band made its Top 40 debut in 1967 with "Happy Jack".
+
+----
+num: 39
+category: Literature
+difficulty: 2000
+seen: 5
+answer: a bubble chamber
+
+Donald Glaser won a 1960 Nobel Prize for inventing this device in which subatomic particles are studied.
+
+----
+num: 40
+category: History
+difficulty: 2000
+seen: 6
+answer: Mount Logan
+
+It's the highest mountain in Canada & the second-highest in North America.

@@ -1,0 +1,429 @@
+####
+tournament: #6516
+round: Show #6516 - Monday, January 7, 2013
+year: 2013
+date: 2013-01-07
+####
+
+num: 1
+category: Literature
+difficulty: 200
+seen: 4
+answer: (How do you) whistle
+
+Purse your lips into a small "O" shape, place your tongue behind your bottom teeth, gently blow out air.
+
+----
+num: 2
+category: Social
+difficulty: 200
+seen: 5
+answer: The Belmont Stakes
+
+Kentucky Derby, Preakness...
+
+----
+num: 3
+category: Trash
+difficulty: 200
+seen: 6
+answer: Heather Locklear
+
+This blonde beauty who reprised her role as Amanda on the new "Melrose Place" was a psychology major.
+
+----
+num: 4
+category: Social
+difficulty: 200
+seen: 4
+answer: impossible
+
+Mission: this 10-letter word meaning hopelessly difficult; the clue will self-destruct in one second.
+
+----
+num: 5
+category: History
+difficulty: 200
+seen: 4
+answer: Bill Clinton
+
+His State of the Union speech: "never before has our nation enjoyed ...so much prosperity...and so few external threats".
+
+----
+num: 6
+category: Literature
+difficulty: 400
+seen: 4
+answer: play bingo
+
+Cover the "Free" space on your card, listen to the host call letters & numbers, yell the winning word if you complete a line.
+
+----
+num: 7
+category: Social
+difficulty: 400
+seen: 5
+answer: the superego
+
+The id, the ego...
+
+----
+num: 8
+category: Trash
+difficulty: 400
+seen: 6
+answer: (James) Dean
+
+For the brief time he attended, he was a rebel with a cause, even landing a lead role in a 1950 stage production.
+
+----
+num: 9
+category: Social
+difficulty: 400
+seen: 5
+answer: operation
+
+It takes a very steady hand... this term for a medical procedure also describes a math process like addition.
+
+----
+num: 10
+category: History
+difficulty: 400
+seen: 4
+answer: Florida
+
+"We reverse the judgment of the Supreme Court of" this state "ordering a recount to proceed".
+
+----
+num: 11
+category: Literature
+difficulty: 600
+seen: 4
+answer: build an ark
+
+Start by gathering enough gopher wood to construct a 450 x 75 x 45-foot boat.
+
+----
+num: 12
+category: Social
+difficulty: 600
+seen: 4
+answer: inferno
+
+Purgatorio, paradiso...
+
+----
+num: 13
+category: Trash
+difficulty: 600
+seen: 5
+answer: Rob Reiner
+
+Attending UCLA in the '60s, he was no "Meathead", he just played one later on television.
+
+----
+num: 14
+category: Social
+difficulty: 600
+seen: 5
+answer: certificate
+
+Term for a document that comes before "of deposit" & after "birth".
+
+----
+num: 15
+category: History
+difficulty: 600
+seen: 4
+answer: Y2K
+
+In January, the spokesman for a presidential council on this computer issue: "It's a lot quieter".
+
+----
+num: 16
+category: Literature
+difficulty: 800
+fixed: -1
+seen: 3
+answer: make Rice Krispie Treats
+
+Melt butter, melt in marshmallows, add breakfast cereal, stir, press flat & cut into squares.
+
+----
+num: 17
+category: Social
+difficulty: 800
+seen: 4
+answer: Standard & Poor\'s
+
+In credit rating: Fitch, Moody's...
+
+----
+num: 18
+category: Trash
+difficulty: 800
+seen: 4
+answer: Jackie Joyner-Kersee
+
+This woman who won consecutive heptathlons at the Olympics went to UCLA on a basketball scholarship.
+
+----
+num: 19
+category: Social
+difficulty: 800
+seen: 5
+answer: circulation
+
+Also a physiological term, it's the distribution of copies of a periodical among readers.
+
+----
+num: 20
+category: History
+difficulty: 800
+seen: 4
+answer: China
+
+A congressman: "Regardless of whether we grant normal trade status to" this vast country, its "market is opening".
+
+----
+num: 21
+category: Literature
+difficulty: 1000
+seen: 3
+answer: take someone\'s blood pressure
+
+Open the airflow valve slowly, note the reading when you first hear the pulse & again when you can no longer hear it.
+
+----
+num: 22
+category: Social
+difficulty: 1000
+seen: 5
+answer: anvil
+
+In the body: stirrup, hammer...
+
+----
+num: 23
+category: Trash
+difficulty: 1000
+seen: 5
+answer: Mayim Bialik
+
+Neurobiologist Amy Farrah Fowler on "The Big Bang Theory", in real life she has a Ph.D. in neuroscience from UCLA.
+
+----
+num: 24
+category: Social
+difficulty: 1000
+seen: 5
+answer: a menagerie
+
+A collection of monkeys & mambas on exhibit.
+
+----
+num: 25
+category: Literature
+difficulty: 400
+seen: 4
+answer: Oedipus
+
+In a Sophocles play, Jocasta hangs herself when she realizes that her husband & her son are both this title guy.
+
+----
+num: 26
+category: History
+difficulty: 400
+seen: 4
+answer: Halley\'s Comet
+
+The object that caused quite a stir as the "Great Comet" of 1531" is now known as this.
+
+----
+num: 27
+category: Trash
+difficulty: 400
+seen: 5
+answer: Orson Welles
+
+1941: "Citizen Kane".
+
+----
+num: 28
+category: Literature
+difficulty: 400
+seen: 4
+answer: (Amelia) Earhart
+
+In 1935 she became the first person to fly solo from Hawaii to the U.S. mainland.
+
+----
+num: 29
+category: Trash
+difficulty: 400
+seen: 5
+answer: a rain
+
+Whether it's a trash mover, a toad strangler or a gully washer, a hard one of these is about to fall.
+
+----
+num: 30
+category: History
+difficulty: 400
+seen: 4
+answer: Fort Knox
+
+This fort south of Louisville currently houses more than 140 million ounces of gold.
+
+----
+num: 31
+category: Literature
+difficulty: 800
+seen: 4
+answer: (Oscar) Wilde
+
+This playwright's "The Importance of Being Earnest" was back on Broadway in 2011, 116 years after its debut there.
+
+----
+num: 32
+category: Literature
+difficulty: 800
+seen: 4
+answer: a patent
+
+In 1809 Mary Kies became the first woman to receive one of these, for a method of weaving straw.
+
+----
+num: 33
+category: Trash
+difficulty: 800
+seen: 4
+answer: a sofa
+
+Chesterfield & daveno are words for this piece of furniture.
+
+----
+num: 34
+category: History
+difficulty: 800
+seen: 4
+answer: the (Transcontinental) Railroad
+
+Fort Abraham Lincoln was established in 1872 to protect the survey crews & workers who were building this as it advanced west across the Dakota Territory & beyond.
+
+----
+num: 35
+category: History
+difficulty: 1200
+seen: 4
+answer: Machiavelli
+
+In 1505 this writer established a Florentine militia.
+
+----
+num: 36
+category: Trash
+difficulty: 1200
+seen: 6
+answer: Billy Bob Thornton
+
+1996: "Sling Blade".
+
+----
+num: 37
+category: Literature
+difficulty: 1200
+seen: 4
+answer: the Episcopal church
+
+In 1989 reverend Barbara Harris of Boston became the first female bishop in this Protestant church.
+
+----
+num: 38
+category: Trash
+difficulty: 1200
+seen: 6
+answer: a sandwich
+
+If a fluffernutter or a grinder is on the menu, you're about to enjoy one of these.
+
+----
+num: 39
+category: History
+difficulty: 1200
+seen: 4
+answer: Fort Sam Houston
+
+What's called "Fort Sam" for short is named for him.
+
+----
+num: 40
+category: History
+difficulty: 1600
+seen: 4
+answer: silkworms
+
+Legend has it that around 550 Byzantine ruler Justinian sent monks to China to smuggle out these lepidopterans.
+
+----
+num: 41
+category: Trash
+difficulty: 1600
+seen: 6
+answer: a dragonfly
+
+Mosquito hawk & globe-skimmer are terms for this "fly" with distinctive wings.
+
+----
+num: 42
+category: History
+difficulty: 1600
+seen: 5
+answer: Fort Dix
+
+Troops are both mobilized & demobilized at this fort about 15 miles southeast of Trenton.
+
+----
+num: 43
+category: History
+difficulty: 2000
+seen: 5
+answer: time
+
+9th century English King Alfred the Great is said to have used calibrated candles to measure this.
+
+----
+num: 44
+category: Trash
+difficulty: 2000
+seen: 9
+answer: Ben Stiller
+
+2001: "Zoolander".
+
+----
+num: 45
+category: Literature
+difficulty: 2000
+seen: 5
+answer: (Dee Dee) Myers
+
+The first female White House press secretary,.
+
+----
+num: 46
+category: Trash
+difficulty: 2000
+seen: 8
+answer: a frappe
+
+It's a New Englandism for what the rest of us call a milkshake.
+
+----
+num: 47
+category: History
+difficulty: 2000
+seen: 5
+answer: the French & Indian War
+
+George Washington led the building of Fort Necessity in 1754 during this war.

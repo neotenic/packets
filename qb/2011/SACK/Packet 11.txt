@@ -1,0 +1,174 @@
+####
+tournament: SACK
+round: Packet 11.doc
+year: 2011
+####
+
+num: 1
+category: Fine Arts
+difficulty: College
+fixed: None
+seen: 72
+answer: {Musee d’Orsay}
+
+One work located here is an attempt to “focus on the essence of the animal” rather than give a realistic interpretation; that work is the life-sized marble Polar Bear by Pompon.  Polar Bear is on the second floor, along with Rodin replicas ranging from an Age of Bronze to a marble replica of The Gates of Hell.  Two women stroll with their two children down a hill of orange-red flowers in one work located here, and another sees a painting-within-a-painting recalling the artist’s “Peasant of Zundert” self-portrait hanging over a red-blanketed wooden bed.  Those two works are Coquelicots and Bedroom in Arles.   Two suited men sit on the grass with a naked woman while another naked woman bathes in the distance in Manet’s Luncheon on the Grass, which is found here.  For 10 points, name this former train station converted to a French National Museum, located on a namesake Quay.
+
+----
+num: 2
+category: Philosophy
+difficulty: College
+fixed: None
+seen: 53
+answer: {Adverse Selection} (prompt on “{Asymmetric Information}” before it is read)
+
+Examples of this concept in action include the Rat Race, in which agents expend resources on some task that fails to distinguish their type because not doing so would reveal themselves unfavorably. In that case, signaling does not support a separating equilibrium. Another example of this concept is the insurance market of Rothschild and Stiglitz, in which agents with differing probabilities of illness are screened by an insurer. In that case, a pooling equilibrium is pareto-superior to a separating one but vulnerable to cream-skimming. A third example is an asset market in which the seller is better-informed about the asset’s value, and though the buyer would be willing to transact for any known asset value, the seller’s superior knowledge dissuades the buyer from any proposal. For ten points, name this type of asymmetric information, exemplified by Akerlof’s “The Market for Lemons.”
+
+----
+num: 3
+category: History
+difficulty: College
+fixed: None
+seen: 67
+answer: {Ferdinand} I {Hapsburg}
+
+This man fomented the rebellion of Serbian mercenaries led by the Black Man Jovan Nenad, who prevented refugees from returning to Backa after they fled from the Turks. This man aimed to use the rebellion to weaken his factional opponent after a rump diet in Bratislava declared this man king in late 1526, but Nenad was crushed by that opponent, John Zapolya. Zapolya’s own army was defeated by largely Bohemian and German forces under the command of this man at the battles of Turcal and Szina and was driven into vassalage to Suleiman the Magnificent. This man laid his claim to the throne of Hungary after the death of his brother-in-law Louis II at the Battle of Mohacs, and the Ottomans launched their strongest terrestrial challenge to this man’s family when they besieged Vienna in 1529. For ten points, name this King of Hungary and of the Romans, ultimately the successor to his brother Charles V as Holy Roman Emperor.  
+
+----
+num: 4
+category: Science
+difficulty: College
+fixed: None
+seen: 80
+answer: {Brownian motion} (accept {Wiener process} before mentioned)
+
+Given this function as input, the Loewner equation gives the family of random planar curves known as the Schramm-Loewner evolution. Paul Levy constructed this as the uniform limit of a series of successive approximations which interpolate linearly between random variables on the dyadic rationals, so that the joint distribution at each stage is the same as in the limit. As a random process in the plane it is nowhere differentiable almost surely, and its boundary has fractal dimension 4/3. It itself has dimension 2, the same as a space-filling curve or random walk.  It is defined as an almost surely continuous stochastic process with independent increments normally distributed with expectation zero and variance h given time interval h. For 10 points, name this process, also termed a Wiener process, used to model stock market prices in the Black-Scholes model as well as the diffusion of particles in a fluid.
+
+----
+num: 5
+category: Literature
+difficulty: College
+fixed: None
+seen: 63
+answer: {Sam Shepard}
+
+In one of this author’s works, Jake explains to Frankie that he beat Beth because he believed that she was being unfaithful. A character in another of his works urinates on his sister’s 4-H charts, and in that same work, Slater kills Ella Tate with a car bomb as she tries to steal a car. At the end of one work by this author, Austin strangles Lee with a telephone cord, but Lee lives. In addition to writing A Lie of the Mind and Curse of the Starving Class, this author also wrote a play in which Father Dewis flirts with the matriarch of the central family, Halie, who had given birth to a baby six months after she and her husband stopped sleeping with each other; that baby was drowned by the patriarch, Dodge. For 10 points, name this American playwright of True West and Buried Child who played Chuck Yeager in The Right Stuff.
+
+----
+num: 6
+category: Science
+difficulty: College
+fixed: 57
+seen: 79
+answer: {Compiler}
+
+The Sethi-Ullman algorithm can be used in the final steps of one of these to minimize the number of instructions and registers needed, a process which is often preceded by modifications such as inline expansion and application of a sequence of loop transformations to achieve loop optimization. Lexing is often the first step of the front end of these programs, which scans and tokenizes the input before syntax analysis results in the creation of a parse tree. T-diagrams are sometimes used to illustrate how bootstrapping can be used to write one of these programs in its target language. A just-in-time one is used by Java, while interpreted languages do not require one at all. For 10 points, name this type of computer program which translates source code in a programming language to machine code.
+
+----
+num: 7
+category: History
+difficulty: College
+fixed: None
+seen: 72
+answer: San {Francisco Earthquake} of {1906}
+
+The Lawson Report was commissioned to find the cause of this event. A group called the “Committee of Fifty” was informally organized to provide civil authority after this event, during which George Pardee was governor. General Adolphus Greely’s troops restored order after this event, especially after receiving a controversial “shoot to kill” order from Mayor Eugene Schmitz, designed to deter looters. In part because the fire chief died during this event, massive fires raged out of control afterwards. The Lotta Fountain survived this event, and rebuilding efforts after this event led to construction of the Coit Tower and Fisherman’s Wharf. This event was caused by a rupture in the San Andreas fault. For ten points, name this seismic event that devastated a California city in the early 20th century.
+
+----
+num: 8
+category: History
+difficulty: College
+fixed: None
+seen: 72
+answer: {European Central Bank}
+
+This institution assumed its full powers on January 1, 1999 under the leadership of Wim Duisenberg, its first president. In May 2010, this institution suspended its minimum threshold for sovereign debt, which meant that junk bonds could be used as collateral to borrow from this institution. Axel Weber, who once said that what he likes best about his job is that he doesn’t have to worry about people’s welfare,  recently announced that he would not serve as president of this institution. This institution’s goal is to ensure price stability, which explains why it raised interest rates in July 2008 even as the economy it governs was entering a recession. That single goal is stated in the Maastricht Treaty, which established the currency whose monetary policy this institution governs. For ten points, name this Frankfurt-based policy-making institution whose job is to determine the value of the Euro.
+
+----
+num: 9
+category: Fine Arts
+difficulty: College
+fixed: None
+seen: 72
+answer: Temple of {Artemis} (or {Artemision})
+
+The cult precinct associated with this institution, a haven for debtors, comprised a substantial portion of the city where it was located. Some of the earliest known electrum coins were uncovered in the foundation of its central building, which signifies this institution’s dual purpose as a storage facility and cult center. That building was constructed after a seventh-century-BC flood destroyed the preceding structures, including the original wooden cult statue of Cybele. The ionic-order project was undertaken at the expense of Croesus of Lydia, and versions of it lasted until John Chrysostom induced a mob to destroy it for good. Earlier, supposedly on the day of Alexander the Great’s birth, Herostratus single-handedly burned this institution down in hope of eternal fame. For ten points, name this Greek temple located in Ephesus, a Wonder of the Ancient World.
+
+----
+num: 10
+category: Literature
+difficulty: College
+fixed: None
+seen: 60
+answer: {William Congreve}
+
+In one play by this author, Wittol is thrown out by Fondlewife after being accused of sleeping with Laetitia, and Bellmour plans a mock marriage between Silvia and the title character. In addition to writing that play about Heartwell, The Old Bachelor, this man also wrote a work in which Maskwell tries to convince his friend’s uncle that Mellefont is sleeping with his aunt. In his only tragedy, the King of Granada tries to part Almeria and Alphonso, and in another play, Waitwell pretends to be Sir Rowland in order to get Lady Wishfort to consent to the marriage of Millamant and Mirabell. This author penned the line “Music has charms to soothe a savage breast” in The Mourning Bride. For 10 points, name this Restoration playwright of The Way of the World.
+
+----
+num: 11
+category: History
+difficulty: College
+fixed: None
+seen: 68
+answer: {Nicholas II} of Russia
+
+This ruler’s government controversially funded the newspaper Bessarabets, which published anti-Semitic material that helped spark pogroms in the newspaper’s namesake region. Viacheslav Plehve, who served as this ruler’s interior minister, was killed when a bomb was thrown into his carriage. The Khodynka Tragedy, which killed over a thousand people, was a stampede that happened early in this man’s reign. One set of reforms launched by this ruler ended with the assassination of his Prime Minister, Pyotor Stolypin, and eventually this ruler was forced to cede power to Prince Lvov. Yekaterinburg was the site of this ruler’s death, which came at the hands of a firing squad of Bolsheviks. For ten points, name this last Tsar of Russia.
+
+----
+num: 12
+category: Philosophy
+difficulty: College
+fixed: None
+seen: 54
+answer: {Ismail Kadare}
+
+One of this author’s recent works is a fantastic account of Mehmet Shehu’s death, which occurs because his architect designed his house to be more magnificent than that of his boss, who is referred to as “the Guide” and “Himself” throughout. That work is called The Successor and widely seen as a quasi-apology and justification for this man’s earlier political stance. The narrator of another of this man’s works speculates that his girlfriend was forced to leave him by her father, a high official who uses his daughter’s sacrifice to demand the same from everyone else. That work is Agamemnon’s Daughter. In another work, Gjorg Berisha’s fate is sealed by his obligation to observe Kanun and avenge his brother’s murder. For ten points, name this contemporary Albanian-born author of such works as The General of the Dead Army, A Chronicle of Stone, and Broken April.
+
+----
+num: 13
+category: Religion
+difficulty: College
+fixed: 1
+seen: 55
+answer: The Gospel According to {John}
+
+The author of this work never names himself, leading many to dispute the authorship of this book, and the twenty-first chapter of this book is sometimes cited as the inspiration for the legend of the Wandering Jew. Chapters 1 through 12 of this book are often collectively known as the “Book of Signs,” and this book contains a section in which Jesus teaches the Pharisee Nicodemus. In the fourth chapter of this book, the people of a town in Samaria come to believe in Christ after Jesus tells a woman about her past. It begins by stating that “in the beginning was the Word” and that “the Word was God” and contains a verse sometimes called “the Gospel in a nutshell” that begins “for God so loved the world, that he gave his only begotten Son.” For 10 points, name this book of the Bible that precedes Acts and follows Matthew, Mark, and Luke.
+
+----
+num: 14
+category: Fine Arts
+difficulty: College
+fixed: 1
+seen: 68
+answer: Andrea {del Sarto} [accept either]
+
+Vasari tells how when this man’s wife wouldn’t sit still for a picture, he painted himself. This man’s Last Supper takes place in a room with a high arched ceiling and three windows above the table. A figure on a balcony outside the window is leaning his arm on the ledge and looking towards another, who is turning around to face the viewer.  St. Francis is to the right and St. John to the left of a title figure in another work. Angels grab the legs of that figure, who is standing on a pedestal into which is carved this man’s signature and the opening words of a hymn dedicated to Our Lady of the Assumption. Carved into the edges of the pedestal are screaming winged figures, which give the painting its name.  For 10 points, name this “faultless painter” of Madonna of the Harpies.
+
+----
+num: 15
+category: Science
+difficulty: College
+fixed: None
+seen: 81
+answer: {Colloids} (Prompt on {double layer} before mentioned)
+
+One effect in these substances is sensitive to the valence of the counter ions, as governed by the Schulze-Hardy rule. One model of these that has been modified by Stern is the Gouy-Chapman model, and another model of these substances includes a van der Waals attraction force and a double layer force.  Only above the Krafft temperature can micelles be formed in these substances. These substances are thermodynamically unstable but kinetically non-labile. In these substances modeled by DLVO theory, a ratio involving the radius of shear is known as the zeta potential. For ten points, name these dispersions of small particles of one material in another, examples of which include sols, aerosols and emulsions.
+
+----
+num: 16
+category: Literature
+difficulty: College
+fixed: 57
+seen: 62
+answer: The {Awakening}
+
+At the end of this novel, the protagonist sees a bird with a broken wing crashing into the surf, and in one part, a man is told not to sing “Ah, si tu savais!” The main character of this novel throws a party and proposes a toast with a cocktail originally invented for Janet’s wedding after moving into the “pigeon house” and is earlier invited to the races by Mrs. Highcamp and Alcée Arobin. While reading a letter from Mexico, this novel’s main character is moved to tears by the piano playing of Mademoiselle Reisz, and later in the novel the protagonist is reminded of her duty to her children by Adele Ratignolle. After receiving a note from Robert Lebrun, the protagonist eventually walks into the ocean. For 10 points, name this novel about Edna Pontellier by Kate Chopin.
+
+----
+num: 17
+category: Religion
+difficulty: College
+fixed: 57
+seen: 55
+answer: {Hanuman}
+
+In one story about this figure, he kills Jambumalli and Akshaa, after which he is only able to escape the punishment devised by the brother of Vibheeshana with the help of a captive God who had assumed the role of cook. This figure had earlier outwitted Surasa and killed Simhika, although because of a curse placed on him, he first needed to be reminded of his abilities by Jambavan. His inability to identify Sanjivani, the herb prescribed by Sushena, causes him to lift the entire mountain Dunagiri and fly it back to the injured Lakshmana. On the way he is wounded by an arrow from Bharat, the brother of his greatest ally. Earlier he had traveled to Ravana's stronghold as a messenger to console Sita. For 10 points, name this son of the wind god Vayu who fought alongside Sugreeva at Lanka, the monkey ally of Rama.

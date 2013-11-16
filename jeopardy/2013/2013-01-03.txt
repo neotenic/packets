@@ -1,0 +1,402 @@
+####
+tournament: #6514
+round: Show #6514 - Thursday, January 3, 2013
+year: 2013
+date: 2013-01-03
+####
+
+num: 1
+category: History
+difficulty: 200
+seen: 5
+answer: Kissinger
+
+This member of the Nixon & Ford cabinets was born in Furth, Germany in 1923.
+
+----
+num: 2
+category: Literature
+difficulty: 200
+seen: 4
+answer: inch
+
+Shakespeare: "Ay, every ____ a king ".
+
+----
+num: 3
+category: Art
+difficulty: 200
+seen: 5
+answer: ice
+
+It comes between "Ross" & "shelf" in the name of a large floating Antarctic mass.
+
+----
+num: 4
+category: History
+difficulty: 200
+fixed: -1
+seen: 5
+answer: Putin
+
+He served in the KGB before becoming president & then prime minister of Russia.
+
+----
+num: 5
+category: Science
+difficulty: 400
+seen: 5
+answer: Mattel
+
+Fisher-Price toys.
+
+----
+num: 6
+category: History
+difficulty: 400
+seen: 5
+answer: Confucius
+
+In the 400s B.C. this Chinese philosopher went into exile for 12 years.
+
+----
+num: 7
+category: Literature
+difficulty: 400
+seen: 5
+answer: feet
+
+Tolstoy: "Pahom was dead... six ____ from his head to his heels was all he needed".
+
+----
+num: 8
+category: Art
+difficulty: 400
+seen: 3
+answer: shelf life
+
+For raw eggs, it's the period of 3-4 weeks after the "sell by" date; for hard-boiled, it's 7 days, with the shell on.
+
+----
+num: 9
+category: Literature
+difficulty: 400
+seen: 4
+answer: Michael Jackson
+
+1988: "Man In The Mirror".
+
+----
+num: 10
+category: History
+difficulty: 400
+seen: 4
+answer: (Joe) Tinker
+
+You can't mention this shortstop without mentioning his double-play associates Evers & Chance.
+
+----
+num: 11
+category: Science
+difficulty: 600
+seen: 6
+answer: Procter & Gamble
+
+Crest toothpaste.
+
+----
+num: 12
+category: Literature
+difficulty: 600
+seen: 4
+answer: gallon
+
+George Patton: "A pint of sweat will save a ____ of blood".
+
+----
+num: 13
+category: Literature
+difficulty: 600
+seen: 4
+answer: Michael Jackson
+
+1980: "Rock With You".
+
+----
+num: 14
+category: History
+difficulty: 600
+seen: 4
+answer: George Martin
+
+He earned the "fifth Beatle" nickname by producing all of the Beatles' albums.
+
+----
+num: 15
+category: Science
+difficulty: 800
+seen: 6
+answer: Hasbro
+
+Milton Bradley games.
+
+----
+num: 16
+category: History
+difficulty: 800
+seen: 3
+answer: Jordan
+
+The Ammonites held sway in this Mideast country in the 1200s B.C. & the capital is named for them.
+
+----
+num: 17
+category: Literature
+difficulty: 800
+seen: 3
+answer: miles
+
+Randall Jarrell: "Six ____ from earth, loosed from its dream of life, I woke to black flak and the nightmare fighters".
+
+----
+num: 18
+category: Art
+difficulty: 800
+seen: 4
+answer: the Dewey Decimal System
+
+000-099 stands for general works in this shelving system.
+
+----
+num: 19
+category: Literature
+difficulty: 800
+seen: 3
+answer: Janet Jackson
+
+1989: "Miss You Much".
+
+----
+num: 20
+category: History
+difficulty: 800
+seen: 4
+answer: Austin
+
+In 1836 he was defeated by Sam Houston for the presidency of the Republic of Texas.
+
+----
+num: 21
+category: History
+difficulty: 1000
+seen: 4
+answer: Iberian peninsula
+
+It was the peninsula fought over in the peninsular war of 1808 to 1814.
+
+----
+num: 22
+category: Literature
+difficulty: 1000
+seen: 4
+answer: fathom
+
+Nietzsche: "The Germans are like women, you can scarcely ever ____ their depths".
+
+----
+num: 23
+category: Art
+difficulty: 1000
+seen: 4
+answer: what-not
+
+You'll need 2 "what"s to respond correctly with the name of this stand with shelves for bric-a-brac.
+
+----
+num: 24
+category: Literature
+difficulty: 1000
+seen: 4
+answer: George Michael
+
+1988: "Father Figure".
+
+----
+num: 25
+category: History
+difficulty: 1000
+seen: 4
+answer: Tintoretto
+
+This Italian painter depicted the "Adoration of the Golden Calf" seen.
+
+----
+num: 26
+category: Art
+difficulty: 400
+seen: 4
+answer: Michigan
+
+The Kalamazoo Institute of Arts.
+
+----
+num: 27
+category: History
+difficulty: 400
+seen: 4
+answer: Arlington
+
+The mast from the USS Maine is part of the memorial to the ship & crew at this national cemetery.
+
+----
+num: 28
+category: Literature
+difficulty: 400
+seen: 4
+answer: James Patterson
+
+Alex Cross, Daniel X.
+
+----
+num: 29
+category: Literature
+difficulty: 400
+seen: 3
+answer: Reese\'s pieces
+
+In a 1982 film, E.T. loved this candy.
+
+----
+num: 30
+category: Art
+difficulty: 800
+seen: 4
+answer: Ohio
+
+The Taft Museum of Art.
+
+----
+num: 31
+category: History
+difficulty: 800
+seen: 4
+answer: Flanders Field
+
+This "field" is on the Belgian site where in WWI the U.S. Army's 91st division took heavy casualties.
+
+----
+num: 32
+category: Literature
+difficulty: 800
+seen: 4
+answer: Humpty Dumpty
+
+According to the title of a novel by Marc Blatte, this Lewis Carroll character "was pushed".
+
+----
+num: 33
+category: Art
+difficulty: 1200
+seen: 5
+answer: New Mexico
+
+The Georgia O'Keeffe Museum.
+
+----
+num: 34
+category: Literature
+difficulty: 1200
+seen: 4
+answer: Beverly Hills
+
+Fictional TV residents of this city have included Dylan McKay & Elly May Clampett.
+
+----
+num: 35
+category: Literature
+difficulty: 1200
+seen: 4
+answer: (Mario) Puzo
+
+Short-tempered Sonny Corleone, World War II vet Walter Mosca.
+
+----
+num: 36
+category: Literature
+difficulty: 1200
+seen: 4
+answer: plain Jane
+
+Rhyming term for a drab girl or woman.
+
+----
+num: 37
+category: Literature
+difficulty: 1200
+seen: 3
+answer: a floating village
+
+The often watery landscape has led resourceful Cambodians to create.
+
+----
+num: 38
+category: Art
+difficulty: 1600
+seen: 5
+answer: Idaho
+
+The Sun Valley Center for the Arts.
+
+----
+num: 39
+category: History
+difficulty: 1600
+seen: 5
+answer: Forest Lawn
+
+A replica of Boston's Old North Church can be found at this Hollywood hills cemetery.
+
+----
+num: 40
+category: Literature
+difficulty: 1600
+seen: 4
+answer: Larry McMurtry
+
+The evil comanchero named Blue Duck, the colorful Aurora Greenway.
+
+----
+num: 41
+category: Literature
+difficulty: 1600
+seen: 4
+answer: the hurdy gurdy man
+
+Donovan's rhyme time hits include "Mellow Yellow" & this "man".
+
+----
+num: 42
+category: Art
+difficulty: 2000
+seen: 6
+answer: Florida
+
+The Naples Museum of Art.
+
+----
+num: 43
+category: History
+difficulty: 2000
+seen: 6
+answer: Boot Hill
+
+On May 5, 1878 Alice Chambers was the last person buried in this Dodge City, Kansas cemetery.
+
+----
+num: 44
+category: Literature
+difficulty: 2000
+seen: 4
+answer: Saul Bellow
+
+Royal rainmaker Eugene Henderson, Artur Sammler (it's his planet).

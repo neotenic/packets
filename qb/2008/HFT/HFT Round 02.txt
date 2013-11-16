@@ -1,0 +1,214 @@
+####
+tournament: HFT
+round: HFT Round 02.doc
+year: 2008
+####
+
+num: 1
+category: Science
+difficulty: HS
+fixed: 1
+seen: 488
+answer: {amino} acids
+
+They may be linked in a reaction that uses protecting groups like the acetal TBS and the carbamate Boc to carry out a specific DCC coupling. They can be produced by a reaction that forms and then hydrolyzes a nitrile using potassium cyanide and ammonia, which is named for Adolph Strecker. An uncommon one uses selenium in the place of sulfur, while another is most often found in beta sheets, since its cyclic sidechain allows for sharp turns. FTP, identify these products of the process of translation, which are the monomers of proteins.
+
+----
+num: 2
+category: History
+difficulty: HS
+fixed: 57
+seen: 416
+answer: {Ghana} Empire (accept {Wagadou Empire} before it is mentioned)
+
+One of this polity's last emperors was Tunka Manin, whose demise triggered the rise of the Sosso people to fight against the successors of Abu Bakr ibn Umar. Arab traders had frequented the mosque in the al-Ghaba quarter of its capital, Koumbi Saleh, but the Almoravids justified conquering it by invoking jihad. Known to the Sondike people as “Wagadou,” its more famous name was later appropriated by Kwame Nkrumah when the Gold Coast became independent. FTP, identify this African trading empire that gave its name to the country with capital at Accra.
+
+----
+num: 3
+category: Fine Arts
+difficulty: HS
+fixed: 1
+seen: 488
+answer: Chicago
+
+William Le Baron Jenney's Home Insurance Building in this city was the first to use steel in its frame, while Daniel Burham and John Root's Montauk Building was the first termed a “skyscraper.” Its Auditorium Building was co-designed by Dankmar Adler, while the Unity Temple and Robie House can be found in its Oak Park suburb. One school named for this city is associated with Louis Sullivan, while another was founded by Mies van der Rohe, and it was the home of Frank Lloyd Wright. FTP, name this American city that is home to the Sears Tower.
+
+----
+num: 4
+category: Literature
+difficulty: HS
+fixed: 1
+seen: 442
+answer: E. M. {Forster}
+
+He wrote about a boy from Surbiton guided by Thomas Browne and Dante on “The Celestial Omnibus” and about Gino Carella's scandalous marriage to Lilia Herriton. One of his novels sees Charles wrongly imprisoned for manslaughter when another character suffers from a heart attack; that character, Leonard Bast, is the father of Helen's illegitimate child, who inherits an estate from Henry Wilcox. In his most famous novel, Ronny Heaslop ends his engagement to Adela Quested when she retracts accusations of rape against Dr. Aziz. FTP, name this author of Where Angels Fear to Tread, Howards End, and A Passage to India.
+
+----
+num: 5
+category: Social Science
+difficulty: HS
+fixed: 1
+seen: 384
+answer: Maslow's {hierarchy} of {needs}
+
+Based in part on the work of Kurt Goldstein and Henry Murray, it was first proposed in “A Theory of Human Motivation” and was expanded upon in 1970's Religions, Values, and Peak Experiences. It begins with the “D” category, which is further divided into safety, social, and physiological categories, the last and most basic of which includes eating and sleeping. Once these are satisfied, an individual can move to “growth needs” with the goal of becoming self-transcendent. FTP, name this psychological hierarchy that popularized the term “self-actualization.”
+
+----
+num: 6
+category: History
+difficulty: HS
+fixed: -1
+seen: 420
+answer: spies for the Soviet Union (accept all reasonable equivalents, {including Communist} spies, but {don't} accept “{Russian} spies” and prompt on {just} spies)
+
+Among the groups of them were the Perlo Group and the Cambridge Five, which included Guy Burgess, a homosexual alcoholic British diplomat discovered by the Verona Project. Burgess lived with a more successful one, Kim Philby, and others included those in the Golos Ring. Evidence incriminating one was hidden in a pumpkin by Whittaker Chambers, while Klaus Fuchs did jail time and two were executed after the “crime of the century.” These people all belong to, FTP, what Cold War category that included Alger Hiss and Julius and Ethel Rosenberg?
+
+----
+num: 7
+category: Science
+difficulty: HS
+fixed: None
+seen: 488
+answer: {C++} 
+
+The 09 revision of this language revised the meaning of the keyword auto, and assembly may be inlined using blocks marked by two underscores and a-s-m. Template metaprogramming in it has been proved Turing complete, which, along with operator overloading, is leveraged by its Standard Template Library. Classes might choose to declare a friend method that returns an (O-stream) reference to overload the less-than-less-than operator for output. Using objects like (C-in) and (C-out) for input and output, this is, For 10 points, what programming language that added objects and classes to its predecessor and was developed by Bjarne Stroustrop?
+
+----
+num: 8
+category: Literature
+difficulty: HS
+fixed: 1
+seen: 443
+answer: Mark {Twain} (or Samuel {Clemens})
+
+One of his short stories sees cranberry farmer Sandy McWilliams explain heaven to Capt. Elias Stormfield, while in one of his novels the orphan Laura is adopted by the Hawkins family before killing Col. Selby. In another of his works, the title character proves that Chambers and Tom Driscoll were switched at birth. In addition to co-authoring The Gilded Age and writing Pudd'nhead Wilson, in one of his novels Miles Hendon helps Edward take his rightful position from Tom Canty. FTP, name this author of The Prince and Pauper who also created Huckleberry Finn.
+
+----
+num: 8
+category: Literature
+difficulty: HS
+fixed: -1
+seen: 439
+answer: Mark {Twain} (or {Samuel Clemens})
+
+One of his short stories sees cranberry farmer Sandy McWilliams explain heaven to Capt. Elias Stormfield, while in one of his novels the orphan Laura is adopted by the Hawkins family before killing Col. Selby. In another of his works, the title character proves that Chambers and Tom Driscoll were switched at birth. In addition to co-authoring The Gilded Age and writing Pudd'nhead Wilson, in one of his novels Miles Hendon helps Edward take his rightful position from Tom Canty. FTP, name this author of The Prince and Pauper who also created Huckleberry Finn.
+
+----
+num: 9
+category: Science
+difficulty: HS
+fixed: 1
+seen: 489
+answer: {Bernoulli's} principle
+
+It may be reformulated to suggest that the piezometric head is equal to the opposite of the velocity head plus a constant, which is in turn equal to a term for elevation and one for pressure. Resulting in the Venturi effect, its basic form applies when the divergence of velocity is zero, a condition called isochoric. It states that the sum of pressure with specific kinetic and potential energy is constant, meaning fast-moving fluids exert less force in directions perpendicular to their flow. FTP, identify this effect partly responsible for lift generated by airfoils.
+
+----
+num: 10
+category: Geography
+difficulty: HS
+fixed: 1
+seen: 710
+answer: panhandles
+
+One of these regions was almost combined with the area around Spokane to form the state of Lincoln, while another one tried to become the state of Jefferson in 1915. That latter region, which contains Palo Duro Canyon and whose largest city is Amarillo, borders a similar region once cut off by the 100th meridian from the Indian territory to its east. West Virginia is the only state with two of these regions, while the largest American city located in one is Tallahassee. FTP, identify these protrusions particularly associated with Idaho, Texas, and Oklahoma.
+
+----
+num: 11
+category: History
+difficulty: HS
+fixed: 1
+seen: 419
+answer: California
+
+When the Civil War broke out, Albert Sidney Johnston was commanding federal troops in this state and declined to lead a conspiracy for it to secede. This state was home to violent labor leader Dennis Kearney, whose nativism inspired the Alien Land Act and an ordinance later overturned in Yick Wo v. Hopkins. One of this state's first two senators, nicknamed the Pathfinder, was the first Republican nominee for president, John C. Fremont. Once home to the Bear Flag Republic, this is, FTP, what state that saw a famous gold rush starting in 1848?
+
+----
+num: 12
+category: Science
+difficulty: HS
+fixed: 1
+seen: 489
+answer: chromatography
+
+Chitin may be used for one form of this, and another, when followed by a transfer to polyvinylidene fluoride and mass spectrometry, is referred to as far-Eastern blotting. The fast protein form often relies on histidine tags, and the size exclusion type is often used to calculate the polydispersity of a synthesized polymer. Another kind uses either packed or capillary columns for a stationary phase, through which a gaseous analyte flows. FTP, name this analytical technique whose best-known variety is the paper form often used to separate the pigments of a pen's ink.
+
+----
+num: 13
+category: Social Science
+difficulty: HS
+fixed: 1
+seen: 382
+answer: {William James}
+
+At Harvard, he introduced his student Gertrude Stein to “stream of consciousness,” a term he coined. To explain his theory that physiological stimuli cause emotions, rather than the reverse, he surmised that one might a bear because one runs from it. In one of his books, he argued that the meaning of knowledge depends on the practical use to its believer, a concept he adapted from Charles Sanders Peirce. FTP, name this 20th-century American philosopher and psychologist who wrote Varieties of Religious Experience and Pragmatism.
+
+----
+num: 14
+category: Trash
+difficulty: HS
+fixed: 57
+seen: 1025
+answer: summer
+
+Johnny Rivers sang a song about this kind of rain tapping at his window, while Nancy Sinatra sang about strawberries, cherries, and angel kisses making this kind of wine. The Lovin' Spoonful sang about the backs of their necks “getting' dirty and gritty” during this period, whose “boys” Don Henley wanted to go away. It was the part of 1969 when Bryan Adams had the best days of his life, and Olivia Newton John sang “I had me a blast” in response to this kind of lovin'. The Doors also sang about, FTP, the “Indian” kind of which season?
+
+----
+num: 15
+category: Literature
+difficulty: HS
+fixed: 1
+seen: 447
+answer: Dr. {Pangloss}
+
+In Constantinople, he returns a dropped flower to a young woman's bosom “with the most respectful attentions,” but her male companion has him arrested, so he is whipped and sent to the galleys. At an auto-da-fe, he is hanged but survives and wakes up when a surgeon starts cutting him open. He convinces another character to let Jacques the Anabaptist drown, and he teaches the art of “metaphysico-theologo-cosmonigology” at Castle Thunder-ten-tronckh. FTP, name this professor, who preaches that this is the “best of all possible worlds” to Voltaire's Candide.
+
+----
+num: 16
+category: Fine Arts
+difficulty: HS
+fixed: 1
+seen: 493
+answer: John Singleton {Copley}
+
+In one of this artist's paintings, a young boy wearing a jacket and a pink collar holds a tiny chain, a leash for a small squirrel sitting in front of him on a table. In his best-known work, a man in a blue striped shirt stands with his head framed by the legs of a man who holds a hooked spear, while a balding man holds on to two men reaching downward as the title character reaches up desperately. Also known for a portrait of a pensive silversmith, Paul Revere, this is, FTP, what painter of a work depicting a boat in Havana Harbor, Watson and the Shark?
+
+----
+num: 17
+category: Literature
+difficulty: HS
+fixed: 1
+seen: 447
+answer: David {Copperfield}
+
+Lesser known characters in this novel include a landlady who must take peppermint to cure her “spazzums” and a schoolboy with a fixation on drawing skeletons, Thomas Traddles. Ham's fiance runs off with Little Em'ly when Mr. Barkis dies, and James Steerforth drowns in a storm before the death of the title character's first wife, Dora Spenlow. The title character goes to school at Salem House and later marries his childhood friend Agnes Wickfield in, FTP, what novel featuring characters such as Wilkins Micawber and Uriah Heep, written by Charles Dickens?
+
+----
+num: 18
+category: Fine Arts
+difficulty: HS
+fixed: 57
+seen: 489
+answer: 1812 Overture
+
+Woodwinds play a minor-key folk song, “At the Gate, at Grandfather's Gate,” in its central section, and cellos introduce this piece at by playing the hymn “God Preserve Thy People.” It was commissioned in 1880, and its composer wrote that it was “loud and noisy but without artistic merit.” Carillons are played at the climax, when a descending string figure represents a famine-wracked retreat. Horns boisterously play the Marseillaise, which gives way at the piece's end to the hymn “God Save the Czar” amidst the sound of churchbells and cannons. FTP, name this overture commemorating the Russian army's defeat of Napoleon, written by Pyotr Ilyich Tchaikovsky.
+
+----
+num: 19
+category: Religion
+difficulty: HS
+fixed: 57
+seen: 451
+answer: {Zoroastrianism} (or {Zorastrianism}; or {Zarathustrism}; accept {Mazdaism} before the last word)
+
+Members of this religion follow a creed known as the fravarane and refer to their faith as the Daena. One branch of this religion worships the personified concept of space-time known as Zurvan, and its holy texts include Vendidad  as well as the Yasna, a liturgical codex which contains the Gathas, its oldest known documents. Other figures in it include the six archangels known as the Amesha Spenta and the mediator figure Mithras. FTP, name this religion set forth in the Avesta and containing the evil Ahriman and the good Ahura Mazda.
+
+----
+num: 20
+category: History
+difficulty: HS
+fixed: 1
+seen: 417
+answer: Worms
+
+Britain agreed to subsidize Maria Theresa's government as part of the 1743 treaty of this city that allied Britain with Austria and Sardinia. This city had given its name to an 1122 agreement between Pope Calixtus II and Holy Roman Emperor Henry V that ended the investiture controversy. At a later congress in this city, Johann Eck cross-examined a monk whose safe passage had been arranged by Frederick III of Saxony and who was declared a heretic by Charles V. FTP, identify this German city whose 1521 Diet denounced Martin Luther.

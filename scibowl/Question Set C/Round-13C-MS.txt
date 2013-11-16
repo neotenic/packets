@@ -1,0 +1,258 @@
+####
+tournament: Question Set C
+round: Round-13C-MS.pdf
+####
+
+num: 1
+category: General Science
+difficulty: MS
+seen: 6
+answer: 35
+(Solution: 3000 Cg = 30g;  5000 Mg = 5g;  30g + 5g = 35 Grams)
+
+Giving your answer in grams, add 3000 centigrams to 5000 milligrams:
+
+----
+num: 2
+category: Life Science
+difficulty: MS
+seen: 11
+answer: Water  (Accept:  H^2o)
+
+Oxygen released by plants during photosynthesis originates from what substance?
+
+----
+num: 2
+category: Life Science
+difficulty: MS
+seen: 11
+answer: Sponges
+
+Name all of the following 4 organisms that are considered to have no true tissues: sponges; flatworms; round worms; rotifers
+
+----
+num: 3
+category: Physical Science
+difficulty: MS
+seen: 5
+answer: Potassium;  Nitrogen;  Fluorine
+
+Order the following 3 elements from the one that most easily loses an electron to the one which will be the most difficult to remove an electron from: potassium; fluorine; nitrogen
+
+----
+num: 5
+category: Math
+difficulty: MS
+fixed: -1
+seen: 7
+answer: 1/6
+
+If 2 fair dice are rolled simultaneously, what is the probability that the 2 dice will show the same number expressed as a fraction in lowest terms?
+
+----
+num: 5
+category: Math
+difficulty: MS
+seen: 6
+answer: 9
+(Solution:  v = 1/3(l  × W × H); 36 = 1/3(3 × 4 × H);  H = 9 M)
+
+If the volume of a rectangular pyramid is 36 cubic meters and its base measures 3 meters in length and 4 meters in width, find its height, in meters:
+
+----
+num: 7
+category: Life Science
+difficulty: MS
+seen: 10
+answer: 92
+
+What would be the number of chromosomes in a normal human skin cell that went through one complete sequence of mitosis and did not go through cytokinesis?
+
+----
+num: 10
+category: Math
+difficulty: MS
+seen: 6
+answer: 4
+
+If the surface area of a right rectangular prism is 188 cubic centimeters and its length is 6 centimeters and its height is 7 centimeters, find its width, to the nearest whole centimeter:
+
+----
+num: 12
+category: Life Science
+difficulty: MS
+seen: 10
+answer: Cornea
+
+What is the term for the front transparent covering of the human eye through which light travels first?
+
+----
+num: 12
+category: Life Science
+difficulty: MS
+fixed: -1
+seen: 12
+answer: Cervical;  Thoracic;  Lumbar;  Sacral
+
+Order the following 4 human vertebral bone types from 
+UPPERMOST to the LOWERMOST in the vertebral column: sacral; lumbar; cervical; thoracic
+
+----
+num: 14
+category: Earth Science
+difficulty: MS
+seen: 8
+answer: Largest = Pacific Plate;  Smallest = the Juan De Fuca Plate
+
+Of the following 4 tectonic plates, name the LARGEST and the SMALLEST: the Pacific plate; the North American plate; the Juan de Fuca plate; the African plate
+
+----
+num: 15
+category: Math
+difficulty: MS
+seen: 7
+answer: Distance = 6;  Midpoint = (15, 8)
+(Solution: D =  (X
+^2 ! X
+^1)^2 + (Y
+^2 ! Y
+^1)^2 ;   (18!12)^2 +(8!8)^2 = 6);  
+Midpoint X = (X
+^1 + X
+^2)/2 = (12 + 18)/2 = 15 ; Midpoint Y = (Y
+^1 + Y
+^2)/2 = (8 + 8)/2 = 8)
+
+Find the distance between and give the coordinates of the midpoint between the following points: (12, 8) and (18, 8)
+
+----
+num: 16
+category: General Science
+difficulty: MS
+fixed: -1
+seen: 6
+answer: Amber;  Latex
+
+Name all of the following 5 substances that are NOT derived from petroleum: amber; kerosene; asphalt; latex; paraffin
+
+----
+num: 16
+category: General Science
+difficulty: MS
+seen: 6
+answer: Pure Water
+
+Of the following 5 choices, which is the poorest conductor of electricity: sulfuric acid solution; copper wire; pure aluminum; salt solution; pure water
+
+----
+num: 17
+category: Life Science
+difficulty: MS
+seen: 12
+answer: Golgi  (Accept Golgi Body or Golgi Apparatus)
+
+What cellular organelle functions to modify and package proteins it received from the rough endoplasmic reticulum and will typically prepare them for exporting outside the cell?
+
+----
+num: 20
+category: Math
+difficulty: MS
+fixed: -1
+seen: 6
+answer: 16x^2 + 24xy + 9y^2
+
+Expand the following expression, giving your answer in standard binomial form: (4x + 3y)^2
+
+----
+num: 20
+category: Math
+difficulty: MS
+seen: 6
+answer: 336
+(Solution: P(8,3) = 8!/(8-3)! = 8!/5! = 336)
+
+How many different outcomes are possible if eight hydrogen fuel cars compete in a race for which first, second, and third prizes will be awarded and no ties are possible?
+
+----
+num: 21
+category: General Science
+difficulty: MS
+seen: 6
+answer: Spectroscopy
+
+What is the scientific technique astronomers have most commonly used since the 1800’s to analyze stars and other heavenly bodies for the presence of certain elements?
+
+----
+num: 21
+category: General Science
+difficulty: MS
+seen: 5
+answer: Niche;  Population;  Community;  Biosphere
+
+Arrange the following 4 ecological systems in order of increasing or broad level of complexity: population; community; niche; biosphere
+
+----
+num: 22
+category: Life Science
+difficulty: MS
+seen: 10
+answer: Species
+
+The ability to interbreed and produce sexually competent offspring is a classic characteristic of what taxonomical level of organisms?
+
+----
+num: 22
+category: Life Science
+difficulty: MS
+seen: 11
+answer: Mutualism  (Do Not Accept:  Symbiosis or Commensalism)
+
+Consider a microbial species that lives in the gut of cows and breaks down cellulose. The cow benefits from the microbe predigesting cellulose and the microbe benefits from the cow by having a place to live. What is scientific term for this sort of symbiosis?
+
+----
+num: 23
+category: Physical Science
+difficulty: MS
+seen: 5
+answer: Solid;  Liquid;  Gas;  Plasma
+
+Arrange the four states of matter in order of 
+INCREASING kinetic energies for a given material:
+
+----
+num: 23
+category: Physical Science
+difficulty: MS
+seen: 6
+answer: 2%
+(Solution:  W/v% = 20g/1000ml × 100 = 2%)
+
+What is the weight per volume percent concentration of a solution made by mixing 20 grams of glucose with enough water to make 1 liter of solution?
+
+----
+num: 24
+category: Earth Science
+difficulty: MS
+fixed: -1
+seen: 8
+answer: Troposphere;  Stratosphere;  Thermosphere;  Exosphere
+
+Arrange the following 4 layers of the Earth’s atmosphere in order of DECREASING air pressure: stratosphere; exosphere; thermosphere; troposphere
+
+----
+num: 24
+category: Earth Science
+difficulty: MS
+seen: 7
+answer: Least = Abyssal;  Greatest = Neritic
+
+Of the following 4 ocean life zones, name the one that contains the LEAST variety of ocean life and the one that contains the GREATEST variety of ocean life, respectively: intertidal zone ; neritic zone; bathyal (read as: bah-thee-ahl) zone; abyssal zone
+
+----
+num: 25
+category: Math
+difficulty: MS
+seen: 6
+answer: –2
+
+Evaluate the following radical expression: – 16 (read as: the negative square root of the square root of 16)

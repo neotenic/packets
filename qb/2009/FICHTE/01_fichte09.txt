@@ -1,0 +1,264 @@
+####
+tournament: FICHTE
+round: 01_fichte09.doc
+year: 2009
+####
+
+num: 1
+category: Geography
+difficulty: College
+fixed: 1
+seen: 132
+answer: {Paraguay}
+
+In this country, placed named for people include the city of Doctor Pedro P. Peña and the department of Presidente Hayes. Capiatá and San Lorenzo are two of its three largest cities. Its capital is where the Pilcomayo joins this country's (*) namesake river, which bisects the country north to south. Its southeastern border is formed by the Paraná, separating it from Argentina and Brazil along with the Itaipu Reservoir. For 10 points, name this landlocked country whose capital is Asunción.
+
+----
+num: 2
+category: Science
+difficulty: College
+fixed: 57
+seen: 82
+answer: {exceptions}
+
+When commit-or-rollback semantics are present, the strong Abrahams guarantee for their safety is met. When they are detected sequentially, they can either be handled serially or a (*) double-fault can be invoked. Functions will not produce them under any circumstances in the no-throw guarantee. When they are continuable, the system can correct the condition through a handler subroutine and resume operation from their point of occurrence. For 10 points, name these error conditions that arise when a program executes.
+
+----
+num: 3
+category: Fine Arts
+difficulty: College
+fixed: None
+seen: 71
+answer: {Nam June Paik}
+
+One of this man's works expresses his belief that, in the future, there will be "a weekly festival made up of music and dance from every country." He was arrested when his partner Charlotte Moorman toplessly performed his Cello Sonata No. 1 for Adults Only, and he created The More the Better for the 1988 Summer (*) Olympics. For 10 points, name this artist of Global Groove and TV Buddha, whose 1963 “Exposition of Music/Electronic Television” was the first piece of video art.
+
+----
+num: 4
+category: Science
+difficulty: College
+fixed: None
+seen: 80
+answer: {tau}-{theta puzzle} (either order) (prompt on {charge}-{parity violation})
+
+Lee and Yang proposed its conclusions could be validated through the demonstration of anisotropy in beta rays emitted through decay of mirror (*) cobalt-60 nuclei. That experiment was carried out at the Cryogenics Physics Laboratory by Madame Wu. A two-dimensional Dalitz plot demonstrated that the particles involved possessed zero spin and was used to map pion decay outcomes. For 10 points, parity violation in the weak decay of two types of K mesons resulted in what problem of nuclear physics?
+
+----
+num: 5
+category: History
+difficulty: College
+fixed: None
+seen: 68
+answer: the {Hartford Convention}
+
+One depiction of this event claimed that its participants were enticed by "molasses and codfish." Lampooned in William Charles's cartoon "Leap or No Leap," it resolved that slaves should no longer be (*) counted in the census, and that no President should come from the same state as his predecessor. Defended in a series of letters by Harrison Gray Otis, many of its participants were members of the Essex Junto. For 10 points, name this 1814 meeting of Federalists opposed to the War of 1812.
+
+----
+num: 6
+category: Literature
+difficulty: College
+fixed: None
+seen: 58
+answer: “The {Kentucky Derby} is {Decadent} and {Depraved}”
+
+In this work, a “toothless old man” saying “never mind the tulips” and the narrator fantasizes about “firing a huge load of Mace into the governor's box.” Before rescuing an artist from the offended caricature victims, the narrator tells a man that Black Panthers and white supremacists will go to war. Written for (*) Scanlan's Monthly, it follows two journalists “swilling mint juleps” while covering the title event. For 10 points, name this Hunter S. Thompson article about a Louisville race.
+
+----
+num: 7
+category: Trash
+difficulty: College
+fixed: None
+seen: 183
+answer: {Clear Channel Communications}
+
+The use of voice tracking has controversially allowed this company to keep most of its employees on hourly wages. Their "Instant Live Recording" technology was rolled out in 2004, and their concert division was spun off in 2005 in the form of the company (*) Live Nation. Sometimes accused of monopolistic tendencies due to their ownership of 1200 stations, for 10 points, name this radio conglomerate which memorably banned all of Rage Against the Machine's songs after 9/11.
+
+----
+num: 8
+category: Social Science
+difficulty: College
+fixed: None
+seen: 51
+answer: {stigma} [or {stigmatization} or other word forms]
+
+A model of this process says that it has three dimensions, including affective-cognitive-behavioral, personal-group-based identity, and perceiver-target. The Link withdrawal scale measures reactions to it. A work titled after this says that those subjected to it undergo five phases, including “passing” and voluntary disclosure, after learning what is (*) normal and how one deviates from normal. For 10 points, an Erving Goffman book is titled for what process of shaming deviants?
+
+----
+num: 9
+category: Science
+difficulty: College
+fixed: 57
+seen: 82
+answer: {butterfly} mechanism
+
+During Dewar isomerization, anthracene proceeds toward a nonradiative funnel by this type of folding motion. The Prilezhaev reaction proceeds through this type of mechanism. A two point Fast Fourier (*) Transform can be illustrated as one of these. The spatio-temporal mapping of the toroidal magnetic field component of the Sun can generate these types of diagrams for sunspots. For 10 points, aposematic coloration results in Müllerian mimicry between the monarch and viceroy type of what animals found in Lepidoptera?
+
+----
+num: 10
+category: Literature
+difficulty: College
+fixed: 1
+seen: 60
+answer: Sweden
+
+One poet from this country wrote "Schubertiana" in the volume Truth Barriers and the poem “Brief Pause in the Organ Recital.” The novelist of The Emigrants was from here, as was the author of the Tobias trilogy who described a man that drives Angelica to suicide, (*) Piccolino. Another of its authors wrote of a man who wants to run off with his employer to Italy and kills a finch. For 10 points, name this homeland of the author of The Dwarf, Par Lagerkvist, and Miss Julie, August Strindberg.
+
+----
+num: 11
+category: Mythology
+difficulty: College
+fixed: 57
+seen: 111
+answer: {Izanami}
+
+This figure sent eight thunder gods in pursuit of another after being pursued herself by a hag. The eighth woman to be born, she once threatened to kill 1000 mortals every day after being viewed by torchlight on a (*) comb. She had spoken first in greeting to the other deities, causing her to birth the leech child Hiruko, and her birthing of two fire deities killed her and sent her to Yomi. User of Ame-no-nuhoko along with her brother, for 10 points, name this goddess and consort of Izanagi.
+
+----
+num: 12
+category: History
+difficulty: College
+fixed: None
+seen: 59
+answer: {Real Irish Republican Army} [do not accept or prompt on {Irish Republican Army}]
+
+In addition to 2001 bombings of the Ealing Broadway shopping center and a media company's headquarters, the 1998 Omagh Bombing was done by this group, which is led by Kevin McKenna and Michael McKevitt. They recently claimed responsibility for the (*) shooting of two British soldiers outside the Massereene Barracks in Northern Ireland. For 10 points, name this 1997 splitoff group from the Provisional IRA, not to be confused with the Continuity or Official IRA.
+
+----
+num: 13
+category: History
+difficulty: College
+fixed: None
+seen: 67
+answer: {Scopes trial} or {monkey trial} etc
+
+One side of this event was led by the triply-eponymous Arthur Garfield Hays, and it included a man proclaming “I do not think about things I do not think about.” The former Undersecretary of State Dudley Malone squared off against his old (*) boss during this event, which was planned by George Rappalyea. H.L. Mencken reported on this consequence of violating the Butler Act. For 10 points, what was this 1925 case involving William Jennings Bryan and Clarence Darrow in Tennessee?
+
+----
+num: 14
+category: Literature
+difficulty: College
+fixed: None
+seen: 62
+answer: Life is a {Dream} or La {Vida es Sueno}
+
+In one soliloquy in this play, life is compared to an almond tree. A sword being recognized causes one character to aid Rosaura, who then frees the protagonist. The protagonist is brought to Basilio's court and subjected to tests before being returned to a (*) mountain fortress. That protagonist delivers three soliloquys while guarded by Clotaldo and chained up in a tower. For 10 points, name this play where the prince of Poland, Segismundo, restores himself to power by Pedro Calderon de la Barca.
+
+----
+num: 15
+category: Fine Arts
+difficulty: College
+fixed: 57
+seen: 69
+answer: jazz {piano} or jazz {pianists}
+
+One player of this instrument claimed to be from the planet Saturn and had a band called "the Arkestra." In addition to Sun Ra, another player of this instrument recorded the album Deep in the Shed, Marcus Roberts. Tony Jackson was known for skill on this instrument, as was (*) Jelly Roll Morton. Another player of this instrument was the writer of such songs as "Watermelon Man" and "Rockit," Herbie Hancock. For 10 points, name this instrument played by Scott Joplin and Ray Charles.
+
+----
+num: 16
+category: Trash
+difficulty: College
+fixed: -1
+seen: 185
+answer: {TGI Friday's}
+
+This restaurant has a partnership with Country Inn and Suites, and this chain has a retail line of alcoholic "Beverage Blenders." A property of Carlson Restaurants, they feature (*) Jack Daniel's barbecue glaze and sauce, and this restaurant has recently rolled out a "Right Portion, Right Price" ad campaign and introduced dishes from Ultimate Recipe Showdown. For 10 points, name this casual dining chain which has featured Guy Fieri in their recent commercials.
+
+----
+num: 17
+category: Religion
+difficulty: College
+fixed: None
+seen: 55
+answer: {Tibetan Book} of the {Dead} [or Bardo {Thodol} or Bardo {Thodrol} or {Liberation Through Hearing During} the {Intermediate State}]
+
+The second section of this work discusses hungry ghosts with throats the size of pinholes which appear when light shines from Lokas. On the sixth day of that period, stupidity can lead to transformation into an animal by the Brute-Loka. One of the major examples of (*) Nyingma literature, this work's third section, the Sidpa Bardo, explains how its subjects will face a “mirror of karma” in the final stages of their journey. For 10 points, name this text compiled by Padma Sambhava, which is read by lamas over the deceased.
+
+----
+num: 18
+category: History
+difficulty: College
+fixed: None
+seen: 70
+answer: {AT&T} Building [accept {Sony Building} before it is read]
+
+This building's architect designed it at the same time as PPG Place. The split pediment on this building is modeled on the house Robert Venturi designed for his mother. The arch at this building's base is a reference to the New York City Municipal Building, and the lobby contains a golden statue of the (*) Genius of Electricity. The top is reminiscent of a Chippendale cabinet, and it is now known as the Sony Building. For 10 points, name this Philip Johnson design for a telecommunications giant.
+
+----
+num: 19
+category: History
+difficulty: College
+fixed: None
+seen: 69
+answer: {Suryavarman II} [prompt on {Suryavarman}]
+
+This ruler lost the Battle of Chakling and was betrayed during a war with Dai Viet. He reversed the patronage of Buddhism and promoted the worship of (*) Vishnu in concert with the priest Divakarapandita, but died in 1150, just before his empire was overrun by Cham. For 10 points, name this king of Khmer, who demonstrated his devotion to Vishnu by building the temple complex Angkor Wat.
+
+----
+num: 20
+category: Literature
+difficulty: College
+fixed: 1
+seen: 61
+answer: Lytton {Strachey}
+
+Along with Augustus John and George Bernard Shaw, this man was the subject of one of three lauded biographies by Michael Holroyd. He was The inspiration for Matthew Plunkett in for St. John Hirst in Woolf's The Voyage Out, his late works included Elizabeth and Essex and (*) Portraits in Miniature. His major volume analyzes Rugby headmaster Thomas Arnold, Florence Nightingale, Cardinal Manning, and Chinese Gordon. For 10 points, name this Bloomsbury Group author of Eminent Victorians.
+
+----
+num: 21
+category: Science
+difficulty: College
+fixed: 57
+seen: 82
+answer: {noise}
+
+A type of this phenomenon named after Johnson is frequency bandwidth dependent and occurs due to charge inhomogeneities created by thermal agitation of charge carriers. Its shot variety occurs when electrons cross junctions and its (*) flicker variety is ubiquitous and significant at low frequencies. Its frequency-independent form is referred to as white and it can be minimized by low-pass filters and modulation. For 10 points, name this extraneous information that decreases the accuracy and precision of a signal.
+
+----
+num: 22
+category: Literature
+difficulty: College
+fixed: None
+seen: 58
+answer: {Alex Haley} [accept A {Different Kind} of {Christmas} before it is read]
+
+North Carolina slaveholder Fletcher Randall enrolls at Princeton and is converted by the Quaker Ellis brothers to abolition in this author's novel A Different Kind of Christmas. His best-selling work was at first recalled when mistaknely bound with covers to Gone With the Wind; that novel features Tom (*) Lea impregnating Kizzy, producing Chicken George. Also the author of the so-called “autobiography” of Malcolm X, for 10 points, name this author who wrote about Kunta Kinte in Roots.
+
+----
+num: 23
+category: History
+difficulty: College
+fixed: 1
+seen: 69
+answer: Braganza
+
+One member of this dynasty successfully acquired Delagoa Bay from Austria, and another wrote the Defense of Mondern Music. During the rule of this dynasty, the Treaty of Methuen was signed with England, and Jesuits were expelled by the (*) Marquis de Pombal after the Tavora Affair. The Battle of Montijo put this house on the throne, and they later paid a dowry of Tangier and Bombay to marry a female member to Charles II of England. For 10 points, name this house which ruled Portugal from 1640 to the 1910s.
+
+----
+num: 24
+category: History
+difficulty: College
+fixed: 57
+seen: 71
+answer: national alcohol {Prohibition}
+
+A Texas Senator said that this policy would last until a hummingbird towed the Washington Monument to Mars. This policy was moderated by the Cullen-Harrison Act after George Wickersham led a commission to study it. Advocated by the (*) WCTU, Silas Swallow and Kansas governor John St. John were some Presidential nominees of this policy's namesake party. For 10 points, name this 1920 to 1933 period during which the Vollstead Act and Eighteenth Amendment applied to the U.S.
+
+----
+num: 25
+category: Science
+difficulty: College
+fixed: 57
+seen: 94
+answer: {green fluorescent} protein (or {GFP})
+
+Linking these proteins with a calmodulin binding domain spacer creates an indicator for calcium ions. It is a companion protein to aequorin and can be employed as a fusion tag for protein detection. Its utility is the result of a modified (*) imidazolidin and antioxidants such as vitamin E derivatives can protect against photo-bleaching of this protein's chromophore. For 10 points, name this protein obtained from the jellyfish Aequorea victoria that posses an internal fluorophore, which emits light at a characteristic wavelength.
+
+----
+num: 26
+category: Religion
+difficulty: College
+fixed: None
+seen: 53
+answer: {Shakers} or {United Society} of {Believers} in {Christ's Second Appearing/Coming}
+
+Members of this religion publish The Clarion from what was originally Thompson's Pond. It prescribes that homes should include two elders and two eldresses and at one settlement named hosues for the points on a compass. Its credo is “Beauty rests on utility,” and leaders like Joseph Meachem and Lucy Wright established their practice of (*) celibacy. Its practitioners announce “turn, turn will be our delight” in their hymn “Simple Gifts”. For 10 points, name this denomination founded by Mother Ann Lee.

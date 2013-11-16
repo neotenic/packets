@@ -1,0 +1,365 @@
+####
+tournament: #6610
+round: Show #6610 - Friday, May 17, 2013
+year: 2013
+date: 2013-05-17
+####
+
+num: 1
+category: History
+difficulty: 200
+seen: 5
+answer: William Henry Harrison
+
+He was not only the first president to die in office but also served the shortest term, a mere month.
+
+----
+num: 2
+category: Literature
+difficulty: 200
+seen: 4
+answer: leather
+
+A tanner was someone who turned animal skins into this material.
+
+----
+num: 3
+category: Geography
+difficulty: 200
+seen: 9
+answer: Los Angeles
+
+This city- Long Beach- Santa Ana.
+
+----
+num: 4
+category: Literature
+difficulty: 200
+seen: 4
+answer: a fable
+
+An animal story to teach a moral lesson.
+
+----
+num: 5
+category: Literature
+difficulty: 200
+seen: 4
+answer: Marvel
+
+In the game called this company "Ultimate Alliance 2", Hulk works on his rage with poems, creating some Hulk-ku.
+
+----
+num: 6
+category: History
+difficulty: 400
+seen: 4
+answer: the Indy 500
+
+In 1977 P.D. (pre-Danica), Janet Guthrie became the first woman to compete in this race, finishing 29th.
+
+----
+num: 7
+category: Literature
+difficulty: 400
+seen: 4
+answer: a loom
+
+A webster operated this 4-letter machine.
+
+----
+num: 8
+category: Geography
+difficulty: 400
+seen: 7
+answer: Washington, D.C.
+
+This city- Arlington- Alexandria.
+
+----
+num: 9
+category: Literature
+difficulty: 400
+seen: 4
+answer: facsimile
+
+That's the fax, Jack!  (Fax, short for this, Jack).
+
+----
+num: 10
+category: History
+difficulty: 600
+seen: 4
+answer: William and Mary
+
+The first U.S. law school at a college was established at this Virginia school in 1779.
+
+----
+num: 11
+category: Literature
+difficulty: 600
+seen: 4
+answer: yeoman
+
+A servant in a royal or noble home, hence the expression this kind of reliable "service".
+
+----
+num: 12
+category: Geography
+difficulty: 600
+seen: 9
+answer: Seattle
+
+This city- Tacoma- Bellevue.
+
+----
+num: 13
+category: Literature
+difficulty: 600
+seen: 4
+answer: fiat
+
+A royal decree, or an Italian car company.
+
+----
+num: 14
+category: Literature
+difficulty: 600
+seen: 4
+answer: an ocarina
+
+In "The Legend Of Zelda", a poem called the Sun's Song inspires you to play a tune on this egg-like instrument.
+
+----
+num: 15
+category: History
+difficulty: 800
+seen: 4
+answer: a computer
+
+In 1951 the Univac I became the USA's first commercially available one of these.
+
+----
+num: 16
+category: Literature
+difficulty: 800
+seen: 4
+answer: blacksmith
+
+Every village once had this craftsman sometimes called a vulcan.
+
+----
+num: 17
+category: Geography
+difficulty: 800
+seen: 7
+answer: Phoenix
+
+This city- Mesa- Glendale.
+
+----
+num: 18
+category: Literature
+difficulty: 800
+seen: 4
+answer: foregone
+
+Shakespeare was the first to put this word before "conclusion" to mean an inevitability.
+
+----
+num: 19
+category: History
+difficulty: 1000
+seen: 4
+answer: John Jay
+
+In 1789 he was appointed the first Chief Justice of the United States.
+
+----
+num: 20
+category: Literature
+difficulty: 1000
+seen: 3
+answer: a sharecropper
+
+A bygone job at least in most of the U.S., it's a tenant farmer who pays part of what he grows as rent.
+
+----
+num: 21
+category: Geography
+difficulty: 1000
+seen: 8
+answer: New Orleans
+
+This city- Metairie- Kenner.
+
+----
+num: 22
+category: Literature
+difficulty: 1000
+seen: 4
+answer: fidelity
+
+8-letter word that's a measure of how faithfully sound has been reproduced.
+
+----
+num: 23
+category: Literature
+difficulty: 1000
+seen: 4
+answer: Mordor
+
+A plug-in in the "Lord Of The Rings" online game lets you recite a poem that ends, "in" this place "where the shadows are".
+
+----
+num: 24
+category: Religion
+difficulty: 400
+seen: 10
+answer: Nazareth
+
+Jesus was born in Bethlehem & raised in this city of lower Galilee.
+
+----
+num: 25
+category: Literature
+difficulty: 400
+seen: 4
+answer: (Gene) Roddenberry
+
+In 1979 this creator of "Star Trek" wrote a novelization of "Star Trek: The Motion Picture".
+
+----
+num: 26
+category: Science
+difficulty: 400
+seen: 6
+answer: Rock Star
+
+Forget Coke vs. Pepsi; now it's Red Bull vs. this energy drink that makes Super Sours.
+
+----
+num: 27
+category: Science
+difficulty: 400
+seen: 6
+answer: a jellyfish
+
+The lion's mane, the largest type of this invertebrate, may have a bell 8 feet in diameter & tentacles 120 feet long.
+
+----
+num: 28
+category: Religion
+difficulty: 800
+seen: 10
+answer: (the Garden of) Eden
+
+In Genesis, Pison, Euphrates, Gihon & Hiddekel are the 4 rivers that begin in this Idyllic spot.
+
+----
+num: 29
+category: Science
+difficulty: 800
+seen: 5
+answer: Hannah
+
+Edward vs. Jacob, so over; now it's Marnie vs. this "Girls" character, her sometime best friend.
+
+----
+num: 30
+category: Science
+difficulty: 800
+seen: 6
+answer: a horseshoe crab
+
+coastal creature might bring you good luck.
+
+----
+num: 31
+category: Literature
+difficulty: 1200
+seen: 4
+answer: history professors
+
+In 2010's "Blackout", people with this academic job are sent back from 2060 to do fieldwork in World War II.
+
+----
+num: 32
+category: Science
+difficulty: 1200
+seen: 6
+answer: kissing
+
+This activity AKA bussing--eyes open or closed? We need more research.
+
+----
+num: 33
+category: Science
+difficulty: 1200
+seen: 5
+answer: spiders
+
+As they may need silk that's stronger, stickier, etc., 7 types of silk glands can be found in these arthropods.
+
+----
+num: 34
+category: Religion
+difficulty: 1600
+seen: 8
+answer: Elijah
+
+God told this prophet to camp by the Cherith Stream & there he would get food deliveries from ravens.
+
+----
+num: 35
+category: Science
+difficulty: 1600
+seen: 5
+answer: the metric system
+
+Inches & pounds vs. this 200-year-old system; Jacques, Helmut & Bao-Yu, we know what you think.
+
+----
+num: 36
+category: Science
+difficulty: 1600
+seen: 6
+answer: an earthworm
+
+A common species of this, lumbricus terrestris, invaded the U.S. from Europe in potted plants.
+
+----
+num: 37
+category: Religion
+difficulty: 2000
+seen: 14
+answer: Nineveh
+
+Jonah finally made it to this capital of Assyria & preached there.
+
+----
+num: 38
+category: Literature
+difficulty: 2000
+seen: 5
+answer: William Gibson
+
+This author of "Johnny Mnemonic" has been called the "noir prophet" of cyberpunk.
+
+----
+num: 39
+category: Science
+difficulty: 2000
+seen: 8
+answer: free will
+
+A classic clash--determinism vs. this 2-word term for our supposed power of choice in behavior.
+
+----
+num: 40
+category: Science
+difficulty: 2000
+seen: 9
+answer: the praying mantis
+
+We pray that you know the name of this family of insects is from the Greek for "prophet".

@@ -1,0 +1,214 @@
+####
+tournament: HFT
+round: 15 HFT (Finals 2).doc
+year: 2009
+####
+
+num: 1
+category: Literature
+difficulty: HS
+fixed: 57
+seen: 447
+answer: Thomas {Wolfe}
+
+This author wrote about a man who meets Lloyd McHarg after leaving his hometown of Libya Hill to work with the editor Foxhall Edwards. This writer featured the character George Webber in his novels You Can't Go Home Again and The Web and the Rock. He wrote about a southerner who befriends Francis Starwick and studies under Professor Hatcher at Harvard. This novelist's best known work describes Oliver's relationship with his wife Eliza in the town of Altamont as they raise their son Eugene Gant. For 10 points, identify this author who fictionalized his experiences growing up in North Carolina in his novels Of Time and the River and Look Homeward Angel.
+
+----
+num: 2
+category: Geography
+difficulty: HS
+fixed: 1
+seen: 722
+answer: New {Guinea} [do not accept "Papua {New Guinea}"]
+
+The extreme northwest of this island contains the Doberai Peninsula, often referred to as the “Bird's Head.” This island's West contains the Digul and Sepik River. This island's Bismarck range contains Mt. Wilhelm, and other islands located to its east include the Admiralty Islands, Bougainville, and New Britain. The western half of this island, called Irian Jaya, contains the peak Puncak Jaya, and this island is divided around 141 degrees east, with the exception of some of the border formed by the Fly River. For 10 points, identify this island which contains the  capital Port Moresby and is split between Indonesia in the West and a namesake country in the East.
+
+----
+num: 3
+category: History
+difficulty: HS
+fixed: -1
+seen: 421
+answer: {James} I [or {James VI} of {Scotland}]
+
+This king's wife, Anne of Denmark, controversially built a Catholic chapel at Somerset House. This king wrote a treatise on the dangers of tobacco use, and defended absolutism in his pamphlet “The Trew Law of Free Monarchy.” Along with his chief advisor, the Duke of Buckingham, this king controversially tried to find a Spanish bride for his son in a scandal known as the “Spanish Match”. The Pilgrims left England during this king's reign, and he lent his name to a settlement in Virginia ruled by John Rolfe. For 10 points, name this Scottish king from the House of Stuart who succeeded Elizabeth I as King of England and has a namesake version of the Bible. 
+
+----
+num: 4
+category: Science
+difficulty: HS
+fixed: 1
+seen: 488
+answer: Louis de {Broglie}
+
+This physicist's pilot-wave theory was extended into an interpretation of quantum mechanics that prefers so-called “empty channels” to wavefunction collapse. An experiment to test a statement named for this physicist featured a heated filament firing electrons at a nickel crystal, and measurement of the scattering pattern was found to agree with Bragg's law; that experiment was performed at Bell Labs by Davisson and Germer. A quantity named for him is equal to Planck's constant over momentum. For 10 points, name this French physicist, whose namesake hypothesis holds that all matter particles have wavelike properties.
+
+----
+num: 5
+category: Fine Arts
+difficulty: HS
+fixed: 1
+seen: 493
+answer: A {Rake's Progress}
+
+In one work from this series a worker filling street lamps accidentally spills oil on the head of a man who is being carried  in a sedan chair on St. David's Day. In the first painting a man rejects the marriage proposal of his pregnant fiancée while being fitted for a new suit after inheriting money from his dead father. This series includes the paintings The Levee and The Heir. The sixth work in this series shows a man praying after losing his money in a gambling house. In the final painting of this series Sarah Young tries to comfort the title character who has been thrown into the Bedlam mental asylum after losing his fortune. For 10 points, name this series of paintings by William Hogarth about the demise of Tom Rakewell.
+
+----
+num: 6
+category: Mythology
+difficulty: HS
+fixed: -1
+seen: 788
+answer: {Aborigines}
+
+One story from this people features a battle between two snake tribes, the Liru and the Kuniya, and these people believe in a sacred energy called djang. Myths from this people include ones featuring the old man Nagacork and the Wawilak sisters, who all encounter the Rainbow Serpent. Monsters called bunyips are said to inhabit bodies of water, and these people construct “song lines” as part of their oral tradition and they believe in Altjira, the god of the chaotic era known as the Dreamtime. For 10 points, identify these original inhabitants of Australia.
+
+----
+num: 7
+category: History
+difficulty: HS
+fixed: -1
+seen: 418
+answer: East {Germany} [or {Deutsche Demokratische Republik}; or {DDR}; or {German Democratic Republic}; or {GDR}]
+
+This country's national anthem was titled “Risen from the Ruins,” and this country exported a brand of plastic car called the Trabant. This country's Parliament, the People's Chamber, had a large number of fake opposition parties. All of these parties were controlled by the majority SED Party, whose leaders included Krenz, Honnecker, and Ulbricht. The records of this country's secret police force, the Stasi, have recently been opened to its former residents. For ten points, name this Communist country that built a wall to prevent people from escaping its capital, Berlin.
+
+----
+num: 8
+category: Literature
+difficulty: HS
+fixed: 57
+seen: 444
+answer: {Stendhal} [or {Marie}-{Henri Beyle}]
+
+This author wrote a novel about a man who dies fighting in the Greek War of Independence after separating from his lover Octave. This author wrote the novels Armance and Lucien Leuwen. This author wrote a novel in which the protagonist escapes from Farnese Tower to impregnate Clelia Conti. In that novel by this author, Count Mosca and Gina Petranera facilitate the career of Fabriozio del Dongo. This writer's best known novel centers on a man who seduces Mathilde de la Mole and shoots his former lover Madame de Renal during Mass. For 10 points, name this French author of The Charterhosue of Parma, who wrote about Julien Sorel in The Red and the Black.
+
+----
+num: 9
+category: Social Science
+difficulty: HS
+fixed: 57
+seen: 383
+answer: Carl {Rogers}
+
+This psychologist defined the ability to be able to make decisions appropriate for each situation without relying on atavistic social conventions as “organismic valuing.” This psychologist created the “Q technique” to elucidate the incongruence between the “real self” and the “ideal self,” in his books On Becoming a Person and A Way of Being. He outlined congruence, “empathic understanding,” and “unconditional positive regard” as some of the most critical conditions for his “non-directive” model of therapy in which the patient is encouraged to speak freely. For 10 points, name this psychologist who pioneered “client-centered” therapy.
+
+----
+num: 10
+category: Science
+difficulty: HS
+fixed: 1
+seen: 481
+answer: chemical {potential}
+
+This quantity may be found directly for a component by the Widom insertion method. Negative S dT plus V dp is equal to the sum over all components of a system of mole number times this quantity in the Gibbs-Duhem equation. For the grand canonical ensemble, this quantity is given by Boltzmann's constant times temperature times the natural log of fugacity. An analogous concept that applies to electrons in a semiconductor is called the Fermi level, and this quantity measured at absolute zero is called the Fermi energy. The particle number derivative of the Gibbs free energy, for 10 points, name this quantity, the additional energy derived from the addition of an infinitesimal substance.
+
+----
+num: 11
+category: Trash
+difficulty: HS
+fixed: 1
+seen: 1021
+answer: Maria
+
+A woman with this name is asked on a date by a man who “never really noticed how sweet” she was after she is done taking a letter to his wife and lawyer in a song by R.B. Greaves. Another woman with this name is “sunlight when the skies are grey” and sets the speaker's soul free in a song by B.W. Stevenson. More recently, Green Day wondered why nobody knows where this woman went after “somebody shot the president.” Most famously, this name contained “all the beautiful sounds of the world in a single word” to an Italian boy who hung out on his crush's fire escape. Promised to Chino, one of the Sharks, that girl sings “I Feel Pretty.” For 10 points, what is this name of the girl that Tony just met in West Side Story?
+
+----
+num: 12
+category: Philosophy
+difficulty: HS
+fixed: 1
+seen: 515
+answer: Bertrand {Russell}
+
+This philosopher introduced an analogy describing where the burden of proof should rest, which is called his “teapot.” This thinker wrote a work that argues we can avoid the ramified theory of types by introducing the axiom of reducibility. In another work, he describes how a woman married to a syphilitic man would be told to avoid birth control by the Church. This thinker's namesake paradox refers to the set of all sets that do not contain themselves. This philosopher is best known for a three volume work describing the basic analysis derived from fundamental axioms. For 10 points, identify this author of Why I Am Not a Christian who collaborated with Alfred North Whitehead to write Principia Mathematica.
+
+----
+num: 13
+category: History
+difficulty: HS
+fixed: 57
+seen: 416
+answer: Maori
+
+Frederick Edward Maning served on the Native Land Court and wrote many accounts of these people, who once revolted over paying a small tax for their dogs. These people fought a series of civil wars known as the Musket Wars, and one leader of this people fought against William Hulme in a conflict known as the Flagstaff War. Tribes of these people were known as iwi, and the series of disagreements with colonial settlers was known as the Land War. This group of people was opposed by Governor-General William Hobson, who signed an 1840 agreement with their chief Hone Heke known as the Treaty of Waitangi. For 10 points, identify this group of people, the original inhabitants of New Zealand.
+
+----
+num: 14
+category: Literature
+difficulty: HS
+fixed: 57
+seen: 438
+answer: {Volpone}
+
+At one point in this work, one character is forced to hide in a tortoise shell after he is tricked into believing he has been arrested for passing secrets to the Turks. At another point in this novel, a man makes his wife walk backwards after she throws her hankerchief from a window at the title character, who is pretending to be Scoto the Mounteback. The title character is accompanied by the dwarf Nano, and a subplot concerns the travels of Lady Politic Would-Be. The title character pretends to be dying in order to trick Voltore, Corbaccio, and Corvino. Eventually the title character's servant Mosca supposedly gets all of his money. For 10 points, identify this novel about the title “Big Fox,” a play by Ben Jonson.
+
+----
+num: 15
+category: Science
+difficulty: HS
+fixed: 1
+seen: 472
+answer: {inner core}
+
+Marvin Herndon proposes that this entity contains a large amount of uranium sulfide acting as a breeder reactor. Verhoogen proposed that this entity's growth releases heat to a surrounding body that creates Earth's magnetic field via dynamo effects. Gubbins and Loper attribute that phenomenon to gravitational convection in that surrounding layer. This entity has been estimated to rotate a degree per year faster or slower than the earth at large. Discovered in 1936 by Inge Lehmann, for 10 points, name this solid nickel-iron ball with temperature estimated to be around 5700K, younger than the earth as it, as J. A. Jacobs predicted, is freezing out of the liquid layer outside it.
+
+----
+num: 16
+category: Religion
+difficulty: HS
+fixed: None
+seen: 445
+answer: Ahriman [or Angra Mainyu]
+
+In an attempt to destroy the Gaokerena Tree, this figure created a giant lizard. This figure killed Gayomart, who was both the first hermaphrodite and first human. Priests who serve this figure are called Usij or Karapans. Because frogs are said to be followers of this figure, some people who believe in this figure carry a special staff to kill any frog they see. This figure is one of the two sons of Zurvan, and he is opposed by the Amesha Spentas. This figure's servants, the daevas, are described in the Zend Avesta as wanting to destroy plants or stop the rain. For 10 points, name this evil god from Zoroastrianism, the enemy of Ahura Mazda.
+
+----
+num: 17
+category: Fine Arts
+difficulty: HS
+fixed: 1
+seen: 490
+answer: {Brandenburg Concertos}
+
+The “Affetuoso” second movement in one of these musical works includes a theme based on the rival composer Louis Marchand. Another one has a part written for “echo flutes” which is believed to refer to the “sopranino” recorder. The third one of these works features two chords in a single measure that are known as the “Phrygian cadence.” The second one includes a famous solo for the valveless trumpet. The final one of these works oddly includes no violins and has a part for two violin da gambas, one of which was played at the premiere by Prince Leopold. Dedicated to the German margrave Christian Ludwig, for 10 points, name this set of six concerti named for a German city, composed by J. S. Bach.
+
+----
+num: 18
+category: History
+difficulty: HS
+fixed: 57
+seen: 417
+answer: Jefferson Davis
+
+While serving as Secretary of War, this man imported camels for use by the US Cavalry. This man commanded the Mississippi Rifles at the Battle of Buena Vista during the Mexican-American War, and he married Zachary Taylor's daughter. This man appointed Stephen Mallory as Secretary of the Navy and his Secretary of State was Judah P. Benjamin. He was criticized for interfering with his generals, especially Braxton Bragg. While dressed as a woman, this man was captured by Union troops and arrested for treason. For ten points, name this first and only President of the Confederate States of America.
+
+----
+num: 19
+category: Science
+difficulty: HS
+fixed: -1
+seen: 484
+answer: {Golgi} apparatus [or {Golgi body}; or {Golgi complex}; prompt on {dictyosomes}]
+
+This organelle is responsible for the production of chondroitin sulfate, a group that binds to serine residues, as it is the site of glycosaminoglycan synthesis. Retrograde transport from this organelle requires COPI [cop-one] proteins, and the spiral-shaped protein dynamin pinches vesicles off of it. Called dictyosomes in plants, they consist of stacks called cisternae. With a cis face opposite the endoplasmic reticulum and a trans face open to the cytoplasm, for 10 points, name this site of macromolecule processing, an organelle named for an Italian scientist.
+
+----
+num: 20
+category: Literature
+difficulty: HS
+fixed: 1
+seen: 444
+answer: A {House} for Mr. {Biswas}
+
+At one point in this novel, the protagonist moves to Green Vale with his son, who is scared by the death of their dog. At the beginning of this novel the protagonist hides after losing a calf, which leads his father to drown by diving into a river thinking the protagonist had fallen in. The title character becomes a sign-painter leading him to meet his future wife during a job at Hanuman House. The title character of this novel was born backwards and with six fingers. The protagonist of this novel becomes a journalist in Port of Spain after previously living with his wife Shama and the oppressive Tulsi family. For 10 points, name this novel about a man who dreams of owning the title abode, written by V. S. Naipaul.
+
+----
+num: 21
+category: Literature
+difficulty: HS
+fixed: 1
+seen: 441
+answer: {Poland}
+
+One author from this country wrote a novel in four parts titled after seasons about the Boryna family and Jagna entitled The Peasants. A work of nonfiction by a poet from this country begins with a discussion of the Murti-Bing pills in a novel entitled Insatiability by an author from this country. That nonfiction work is The Captive Mind. Another author from this country wrote a trilogy of historical novels including With Fire and Sword, as well as one that sees the victory of King Jagiello over the title group at Grunwald. That author of The Knights of the Cross is better known outside this country for a novel about Nero's Rome, Quo Vadis. For 10 points, name this home to Czes?aw Mi?osz and Henryk Sienkiewicz.

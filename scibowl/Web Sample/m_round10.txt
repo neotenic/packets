@@ -1,0 +1,260 @@
+####
+tournament: Web Sample
+round: m_round10.pdf
+####
+
+num: 1
+category: General Science
+difficulty: MS
+seen: 6
+answer: 60
+
+One degree of latitude at the Earth’s surface is equal to how many nautical miles?
+
+----
+num: 1
+category: General Science
+difficulty: MS
+seen: 5
+answer: 1 Decil Iter;  2 Liters;  128 Ounces;  1.5 Gallons
+
+Arrange the following 4 liquid measures from the one with the SMALLEST volume to the LARGEST: 1.5 gallons; 128 ounces; 1 deciliter; 2 liters
+
+----
+num: 2
+category: Life Science
+difficulty: MS
+seen: 10
+answer: Adenine
+
+Name all of the following 3 chemicals that are NOT amino acids: glycine; methionine; adenine
+
+----
+num: 3
+category: Physical Science
+difficulty: MS
+seen: 5
+answer: Red;  Orange;  Yellow;  Violet
+
+Order the following 4 colors of light from the one with the 
+LONGEST wavelength to the SHORTEST wavelength: orange; violet; red; yellow
+
+----
+num: 5
+category: Math
+difficulty: MS
+seen: 6
+answer: $100,000.00
+
+In her first year after graduating college, Lucy earned $25,000 in her first full -time job. Five years later her salary had risen by 300%. What is her current salary?
+
+----
+num: 6
+category: General Science
+difficulty: MS
+seen: 7
+answer: Calcium
+
+Of all the essential minerals present in the human body, which one is the most abundant?
+
+----
+num: 7
+category: Life Science
+difficulty: MS
+seen: 10
+answer: 23
+
+How many chromosomes does a normal human gamete have?
+
+----
+num: 8
+category: Physical Science
+difficulty: MS
+seen: 5
+answer: Electric Charge;  Average Speed
+
+Name all of the following 3 choices that are typically considered scal ar quantities: electric charge; acceleration; average speed
+
+----
+num: 9
+category: Earth Science
+difficulty: MS
+seen: 9
+answer: Viscosity
+
+What term is used to describe the resistance of lava to flow as reflected by its gas content, temperature, and chemical composition?
+
+----
+num: 10
+category: Math
+difficulty: MS
+seen: 6
+answer: 1 and 3
+
+By words or number, name all of the following 3 statements which are 
+ALWAYS TRUE:
+1) a trapezoid has a pair of parallel sides
+2) two triangles with the same area have the same perimeter
+3) if 2 straight lines intersect, vertical angles hav e the same measure
+
+----
+num: 10
+category: Math
+difficulty: MS
+fixed: -1
+seen: 6
+answer: –1
+
+The following daily Fahrenheit temperatures were recorded over a 5 -day period: –15º, 2º, 0º, 13º, and –5º. Find the average daily temperature for this period, in degrees 
+Fahrenheit:
+
+----
+num: 11
+category: General Science
+difficulty: MS
+seen: 6
+answer: 4
+
+During the proton-proton chain that occurs during the fusion process of a main sequence star, how many hydrogen atoms are typically needed to produce a helium atom?
+
+----
+num: 12
+category: Life Science
+difficulty: MS
+seen: 10
+answer: Thymine
+
+What base nucleotide is replaced by uracil in RNA?
+
+----
+num: 12
+category: Life Science
+difficulty: MS
+seen: 10
+answer: Carboxyl and Amino (In Any Order)
+
+What two functional groups of amino acids join to form a peptide bond in a protein?
+
+----
+num: 14
+category: General Science
+difficulty: MS
+seen: 7
+answer: 800
+(Solut Ion: (100 Cm × 100 Cm × 80 Cm)(1 L/1000 Cm ^3) = 800 L)
+
+How many liters of water will completely fill a container measuring 100 centimeters by 1 meter by 80 centimeters?
+
+----
+num: 16
+category: Math
+difficulty: MS
+seen: 6
+answer: –8x^6y^9
+
+Simplify the following completely : (–2x^2y^3)^3
+
+----
+num: 16
+category: Math
+difficulty: MS
+seen: 7
+answer: 10
+
+The outdoor temperature at 6:00 A M is –8ºC. If it rises at a rate of 3ºC per hour, what is the temperature, in degrees Celsius, at noon?
+
+----
+num: 20
+category: Math
+difficulty: MS
+seen: 6
+answer: 320
+
+Solve the following equation for x: 85x = 200
+
+----
+num: 20
+category: Math
+difficulty: MS
+seen: 6
+answer: 800
+
+A certain ore contains 2 % of a precious metal. How many tons of ore must theoretically be mined to obtain 16 tons of the metal?
+
+----
+num: 21
+category: General Science
+difficulty: MS
+seen: 6
+answer: Platinum
+
+What precious metal is the catalyst in most automobile catalytic converters?
+
+----
+num: 21
+category: General Science
+difficulty: MS
+seen: 5
+answer: Precession
+
+What is the most common name for the apparent circular movement of the celestial poles against the background of fixed stars that will eventually result in 
+Polaris drifting away from the north celestial pole?
+
+----
+num: 22
+category: Life Science
+difficulty: MS
+fixed: -1
+seen: 10
+answer: Gram Stain
+
+What staining method is used to generally divide bacteria into two groups?
+
+----
+num: 22
+category: Life Science
+difficulty: MS
+seen: 10
+answer: Mitochondria;  Chloroplasts
+
+Name all of the following 4 cellular structures that are found in plant cells and NOT bacteria: mitochondria; chloroplasts; cell membranes; ribosomes
+
+----
+num: 23
+category: Physical Science
+difficulty: MS
+seen: 5
+answer: 4
+
+How many covalent bonds are in a molecule of methane?
+
+----
+num: 23
+category: Physical Science
+difficulty: MS
+seen: 5
+answer: 18 Ohms (Must Give Units)
+(Solution:  R = V/i = 9/0.5 = 18 Ohms)
+
+Giving your answer in the SI units for resistance, what is the resistance of an electric flashlight operating on a 9 -volt battery that requires 0.5 amps to run?
+
+----
+num: 25
+category: Math
+difficulty: MS
+seen: 5
+answer: X^5^y
+
+Find the product of (x^3^y) (x^2^y)
+
+----
+num: 25
+category: Math
+difficulty: MS
+seen: 6
+answer: 0.6
+
+Find the following product and give your answer to the first decimalplace: 35
+
+35
+^2

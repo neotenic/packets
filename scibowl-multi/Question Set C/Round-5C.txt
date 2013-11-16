@@ -1,0 +1,285 @@
+####
+tournament: Question Set C
+round: Round-5C.pdf
+####
+
+num: 1
+category: Chemistry
+difficulty: HS
+seen: 1
+answer: X)  Foams
+
+Colloids formed by the dispersal of a gas in a liquid are called:
+W) emulsions 
+X) foams
+Y) aerosols 
+Z) solid sols
+
+----
+num: 1
+category: Chemistry
+difficulty: HS
+seen: 1
+answer: X)  C^4h^8o^2
+
+If a substance has a molecular weight of 88, which of the following will it be:
+W) KCl
+X) C^4H^8O^2
+Y) RbF
+Z) C^6H^14^
+
+----
+num: 5
+category: Earth Science
+difficulty: HS
+answer: W)  Los Angeles Is Moving Towards San Diego at a Current Rate 
+of 2 to 3 Meters Per Yea R
+
+Which of the following is NOT true:
+W) Los Angeles is moving towards San Diego at a current rate of 2 to 3 meters per year
+X) the source of all igneous rocks is molten magma
+Y) silicates are the most abundant group of minerals in Earth’s crust and mantle
+Z) oceanic crust is generally thinner than continental crust
+
+----
+num: 7
+category: Astronomy
+difficulty: HS
+seen: 1
+answer: Y)  Active Galaxy
+
+Which of the following is the MOST common term for a galaxy that is emitting a large amount of radiation from a black hole at its center:
+W) bright galaxy
+X) luminous galaxy
+Y) active galaxy
+Z) event galaxy
+
+----
+num: 8
+category: Chemistry
+difficulty: HS
+seen: 1
+answer: W)  When Glucose Joins With Galactose, Fructose Is Formed
+
+Which of the following is NOT true of glucose:
+W) when glucose joins with galactose, fructose is formed
+X) it is also called dextrose
+Y) cellulose is a polymer of glucose molecules
+Z) its formula is C^6H^12O^6
+
+----
+num: 9
+category: Physics
+difficulty: HS
+seen: 1
+answer: Z)  Ultraviolet
+
+Which of the following colors of light would give the highest resolving power of a compound light microscope:
+W) infrared 
+X) orange 
+Y) green
+Z) ultraviolet
+
+----
+num: 10
+category: Biology
+difficulty: HS
+seen: 1
+answer: W)  Osmoregulation
+
+Blood albumin is most directly involved with:
+W) osmoregulation 
+X) hormone regulation
+Y) bile production
+Z) acid base regulation
+
+----
+num: 10
+category: Biology
+difficulty: HS
+seen: 1
+answer: X)  All Enzymes Are Proteins
+
+Which of the following is NOT true in humans:
+W) trisomy X originates from a nondisjunction
+X) all enzymes are proteins
+Y) albumin is produced by the liver
+Z) the spleen produces red blood cells in the fetus
+
+----
+num: 12
+category: Earth Science
+difficulty: HS
+seen: 1
+answer: W)  Deep, Cold, and Nutrient-Poor
+
+An oligotrophic (read as: oh-lig-oh-TROW-fick) lake is one that is BEST defined as:
+W) deep, cold, and nutrient-poor
+X) deep, cold, and nutrient-rich
+Y) shallow, warm, and nutrient-poor
+Z) shallow, warm, and nutrient -rich
+
+----
+num: 14
+category: Astronomy
+difficulty: HS
+seen: 1
+answer: Z)  the Earth Is Closest to the Sun During December
+
+Which of the following is LEAST accurate:
+W) at the equator, stars appear to rise and set vertically
+X) all Mira stars are Red Giants
+Y) right ascension is analogous to longitude
+Z) the Earth is closest to the Sun during December
+
+----
+num: 14
+category: Astronomy
+difficulty: HS
+answer: Y) It Was Once Struck by a Massive Object
+
+Which of the following is the MOST commonly accepted reason as to why the planet Uranus rotates on its side:
+W) it oscillates in its rotation orientation over thousands of years
+X) it captured four of its moons early in its development which radically affected its primordial disk rotation 
+Y) it was once struck by a massive object 
+Z) because of its orbital position and low density it was susceptible to a wide variety of axial rotational possibilities
+
+----
+num: 15
+category: Chemistry
+difficulty: HS
+answer: Y)  They Have the Same Orientation Around a Double Bond
+
+Which of the following statements regarding geometric or cis-trans isomers is NOT true:
+W) they have the same molecular formula
+X) they have the same order of attachment of atoms
+Y) they have the same orientation around a double bond
+Z) they have the same functional groups
+
+----
+num: 16
+category: Physics
+difficulty: HS
+seen: 1
+answer: Z)  Mild Steel
+
+Which of the following is NOT a composite material:
+W) bone
+X) plywood
+Y) wood
+Z) mild steel
+
+----
+num: 17
+category: Biology
+difficulty: HS
+seen: 1
+answer: Z)  B Cells
+
+Which of the following human cell types is MOST directly responsible for the secretion of antibodies:
+W) monocytes
+X) CD4+ cells
+Y) T activator lymphocytes
+Z) B cells
+
+----
+num: 19
+category: Earth Science
+difficulty: HS
+seen: 1
+answer: W)  in the Direction of Rotation
+
+The Coriolis effect causes northward flowing air currents in the Northern hemisphere to veer off course:
+W) in the direction of rotation
+X) in the direction opposite to rotation
+Y) to the left
+Z) at a 90º angle
+
+----
+num: 19
+category: Earth Science
+difficulty: HS
+seen: 1
+answer: X)  Silicates
+
+Which of the following are the most important and abundant rock -forming minerals:
+W) carbonates
+X) silicates 
+Y) iron sulfides
+Z) sulfates
+
+----
+num: 20
+category: General Science
+difficulty: HS
+answer: W)  Autoimmune Dysfunction
+
+Which of the following is the most common and accurate t erm for when a person’s immune system generates antibodies against its own body’s cells:
+W) autoimmune dysfunction
+X) homeostatic inflammation
+Y) heteroimmune reaction
+Z) anaphylactic reaction
+
+----
+num: 20
+category: General Science
+difficulty: HS
+answer: Y)  Walls of Blood Vessels Become Thicker and Less Elastic
+
+Which of the following is the BEST description of atherosclerosis:
+W) inflammation of the brain cortical tissues
+X) paralysis of extremities and loss of sensation
+Y) walls of blood vessels become thicker and less elastic
+Z) loss of ability to hear certain sounds
+
+----
+num: 23
+category: Physics
+difficulty: HS
+seen: 1
+answer: X)  Copper
+
+In an application where ductility is required, which of the following materials would be your BEST choice:
+W) grey cast iron 
+X) copper
+Y) granite
+Z) 1040 steel
+
+----
+num: 23
+category: Physics
+difficulty: HS
+answer: Y)  Ductile Materials Usually Fail With Little or No Plastic 
+Deformation
+
+Which of the following statements is NOT correct:
+W) percent elongation compared to the known value for a material is sometimes used to detect impurities in metal
+X) the modulus of elasticity for a material is derived from its stress-strain curve
+Y) ductile materials usually fail with little or no plastic deformation
+Z) a steel sample that is loaded beyond its elastic limit will not return to its original shape when the load is removed
+
+----
+num: 25
+category: Physics
+difficulty: HS
+seen: 1
+answer: Y)  Transistors
+
+Which of the following have largely replaced vacuum tubes that were used in electronics of the mid to later 20^th century:
+W) capacitors
+X) transformers
+Y) transistors 
+Z) amplifiers
+
+----
+num: 25
+category: Physics
+difficulty: HS
+seen: 1
+answer: Z)  There Are Only 3 Isotopes of Uranium
+
+Which of the following is NOT true of uranium:
+W) it is very dense
+X) all isotopes are radioactive
+Y) uranium is sometimes used in counterweights in yacht keels
+Z) there are only 3 isotopes of uranium

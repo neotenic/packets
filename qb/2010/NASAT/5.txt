@@ -1,0 +1,244 @@
+####
+tournament: NASAT
+round: 5.pdf
+year: 2010
+####
+
+num: 1
+category: Literature
+difficulty: HS
+fixed: 1
+seen: 450
+answer: Carlos {Fuentes}
+
+In one novel by this author, a historian hired to write General Llorente's memoirs seduces his employer's niece, only for her to turn into the old widow Consuelo. In another novel by this author, Ixca Cienfuegos searches for human sacrifices to appease his mother Teodula Moctezuma. One of this author's title characters is comforted by Padilla playing tapes of his former transactions. That character appears in a novel in which he marries Catalina after his true love Regina is killed by Pancho Villa, and becomes a tycoon after the Mexican Revolution. For 10 points, name this Mexican author of Aura, Where the Air is Clear, and The Death of Artemio Cruz.
+
+----
+num: 2
+category: Fine Arts
+difficulty: HS
+fixed: 57
+seen: 490
+answer: Charles {Demuth}
+
+This man painted a series of still lifes of eggplants with peppers, apples, and plums. He painted a giant sign reading “Office and Plant, Eshelman, Feed” in one of his paintings of the buildings of Lancaster, Pennsylvania. He painted a pair of smokestacks in the background of his After All and depicted a metal chimney rising past the fire escape of a tenement in Modern Conveniences. This artist painted a grain elevator running up a white building in his My Egypt. Another of his paintings has cut off depictions of the words “Bill” and “Carlos” and includes three instances of the title number. For 10 points, name this American artist who used a William Carlos Williams poem as the basis for I Saw the Figure 5 in Gold.
+
+----
+num: 3
+category: Science
+difficulty: HS
+fixed: 57
+seen: 490
+answer: {scheduling} (accept {pretty much} anything that {indicates} that {making} a {schedule} is {involved})
+
+One class of this type of problem is the so-called open shop problems. One major approach to handling this uses a multi-layer feedback queue. An important consideration when doing this is the burst rate; some methods for doing it require defining time quanta. Real-time operating systems have been known to run into priority inversion problems involving this which can make preemption hazardous. Common criteria for systems to do this include fairness, responsiveness, and throughput, the last of which is maximized by a shortest-job-first method. A simple solution to it is is a first-in first-out method. For 10 points, name this problem of finding an optimal order for a series of events or processes.
+
+----
+num: 4
+category: History
+difficulty: HS
+fixed: 57
+seen: 418
+answer: Golda {Meir} [or Golda {Mebovitz}]
+
+In her early career, this observer at Evian conference worked for the Histadrut Labour Council and served as her country's first ambassador to the Soviet Union. This leader's early reign was marked by the War of Attrition, and she formed the Labour party by uniting her country's Rafi, Ahdut Haavoda and Mapai parties. The fallout from the Agranat Commission forced this leader to resign; earlier she had succeeded Levi Eshkol in her highest post. She authorized Operation Wrath of God following the atrocities at the 1972 Summer Olympics Munich, although she fell from political grace after her country was taken off guard during the Yom Kippur War. For 10 points, name this female Israeli prime minister of the 1970's.
+
+----
+num: 5
+category: Mythology
+difficulty: HS
+fixed: -1
+seen: 781
+answer: {Maui}
+
+This figure recited an incantation over his sleeping wife to exchange faces with her. This god named his four brothers and briefly earned their ire because he was allowed to sleep in his mother's bed. In one version, he died when the laughter of a fan tail caused the ruler of the underworld to crush him between her legs. This god was wrapped in the top-knot of Taranga, then nursed by seaweed before proceeding to use a jaw-bone of his ancestor to beat the sun. This figure transformed Irawaru into a dog, which distressed his sister Hina. Known for using a fishhook to haul up islands in the Pacific, for 10 points, name this trickster in Polynesian myth.
+
+----
+num: 6
+category: Literature
+difficulty: HS
+fixed: 57
+seen: 445
+answer: {Terence} [or {Publius Terentius Afer}]
+
+This writer complained about his audience being distracted by a rope-dancer in the prologue to one of his plays. In the prologue to his last work, this author admits plagiarizing Linked By Death, a work of Diphilus. In that play, Micio raises his nephew Aeschinus and Demea brings up Ctesiphon. This author of The Mother-in-Law wrote a play in which Parmeno introduces Chaerea to the title character, and Pamphila is a gift for Thais from Phaedria and Thraso. For 10 points, name this Roman playwright of The Eunuch who was brought from Carthage as a slave, who often adapted the plots of Menander and wrote for a more sophisticated audience than his predecessor Plautus.
+
+----
+num: 7
+category: History
+difficulty: HS
+fixed: 1
+seen: 421
+answer: Hermann {Goering}
+
+This man's special car was called the “Blue Moose.” After World War I, he became addicted to morphine and was placed in the violent ward at Langbro asylum. During World War II, this man was mocked as “Mister Meier” in regards to a boast he had earlier made. Near the end of the war, this man sent a telegram to Hitler in which he announced he would take control of the Reich, prompting Hitler to angrily change his will. A winner of the Blue Max award, this man used potassium cyanide hidden in skin cream to avoid having to face the humiliation of a public execution. For 10 points, name this man who committed suicide before his hanging at Nuremberg, a rotund Nazi in charge of the Luftwaffe.
+
+----
+num: 8
+category: Literature
+difficulty: HS
+fixed: 1
+seen: 447
+answer: Jack {London}
+
+In one story by this author, Tom King regretfully remembers humiliating the old prizefighter Stowsher Bill after losing a fight to Sandel. In a dystopian novel by this author, Avis and Ernest Everhard fight against the fascist Oligarchy. This author of the short story "A Piece of Steak" wrote a novel contrasting the love between Maud and Humphrey with the lack of morality of the title character, the captain of the Ghost. The protagonist of another of this author's novels kills his rival Spitz after being kidnapped from the estate of Judge Miller, and loses his ties to civilization after discovering the death of John Thornton. For 10 points, name this American author of The Iron Heel, The Sea Wolf, and The Call of the Wild.
+
+----
+num: 9
+category: Science
+difficulty: HS
+fixed: 57
+seen: 482
+answer: {Plasmodium} [or {Plasmodium vivax}, {Plasmodium falciparum}, etc.]
+
+Important to the virulence of this organism is the gene PfEMP1, and surface markers on those organisms include the vaccine candidate MSP-1. This organism's genome has one of the most AT rich genomes sequenced, and it uses the glycophorin-C protein on its host cells. This organism also has apicoplasts. Different phases of it see populations of schizonts, merozoites, and sporozoites. At various stages of the disease caused by this organism, both red blood cells and liver cells are infected, and it is transmitted through the Anopheles mosquito. For 10 points, name this genus of protozoan which causes malaria.
+
+----
+num: 10
+category: Religion
+difficulty: HS
+fixed: 1
+seen: 449
+answer: {Acts} of the Apostles
+
+An incident discussing the consumption of strangled meat in this book is used to explain why Christians do not have to keep kosher. One couple in this book withholds a portion of profit from a land sale and presents it as the entire amount. This book describes the story of Sapphira and Ananias and contains prohibitions against worshiping idols and fornicating. Most famously, this book describes the stoning to death of Stephen by a mob, a crime approved by Saul, who himself is converted to Christianity in its pages. For 10 points, name this Biblical book written by Luke, that recounts what happened to the twelve followers of Jesus Christ.
+
+----
+num: 11
+category: History
+difficulty: HS
+fixed: 1
+seen: 419
+answer: Battle of {Borodino} [or {Borodinskaya bitva}; or Moskva River]
+
+One general at this battle personally led the 57th Brigade into battle, after which General Rapp feared him dead and assumed command until General Davout reappeared alive. The center of the defender's lines in this battle contained a huge cannon-protecting earthworks called the Raevsky Redoubt. An important stronghold for the eventual losers of this battle was the left-flank "Bagration flèches." Prince Eugene commanded the Italy Corps in this battle, the defending forces at which were organized by Count Barclay de Tolly. The victors at the battle failed to take the offensive after they scattered Mikhail Kutuzov's troops. For 10 points, name this final offensive in Napoleon's invasion of Russia, a massive battle fought outside of Moscow in 1812.
+
+----
+num: 11
+category: History
+difficulty: HS
+fixed: 1
+seen: 422
+answer: Battle of {Borodino} [or Borodinskaya {bitva}; or {Moskva River}]
+
+One general at this battle personally led the 57th Brigade into battle, after which General Rapp feared him dead and assumed command until General Davout reappeared alive. The center of the defender's lines in this battle contained a huge cannon-protecting earthworks called the Raevsky Redoubt. An important stronghold for the eventual losers of this battle was the left-flank "Bagration flèches." Prince Eugene commanded the Italy Corps in this battle, the defending forces at which were organized by Count Barclay de Tolly. The victors at the battle failed to take the offensive after they scattered Mikhail Kutuzov's troops. For 10 points, name this final offensive in Napoleon's invasion of Russia, a massive battle fought outside of Moscow in 1812.
+
+----
+num: 12
+category: Fine Arts
+difficulty: HS
+fixed: -1
+seen: 482
+answer: {Der Rosenkavalier} [or The {Knight} of the {Rose}]
+
+This opera parodies the bel canto style of singing in the serenade "Di rigori armato di seno," which is cut short by a character arguing with a notary about a dowry. This opera's main love triangle is resolved in its third act trio "Hab' mir's gelobt," which is followed by two young lovers singing the duet "Ist ein traum." This opera's mezzo-soprano is assisted by the intriguers Valzacchi and Annina, and disguises himself as the maid Mariandel to avoid being caught in the chambers of the Marshallin. Hugo von Hofmansthal wrote the libretto for this opera, in which the lecherous Baron Ochs is foiled in his plans to marry Sophie, who instead falls in love with Octavian. For 10 points, name this comic opera by Richard Strauss, whose title refers to Octavian's presentation of a silver flower.
+
+----
+num: 13
+category: History
+difficulty: HS
+fixed: 1
+seen: 423
+answer: Election of {1968}
+
+In this election, Dick Gregory was a write-in candidate for the Peace and Freedom Party. George Romney dropped from the Republican primaries of this year after claiming the military had "brainwashed" him. Volunteers for a Democratic candidate in this election shaved their facial hair to go "clean for Gene." The winner of this election used the "Southern strategy," although southern states voted for the American Independent Party. The incumbent announced he would not seek a second term after a surprising showing in the New Hampshire primary by Eugene McCarthy. For 10 points, name this presidential election that Hubert Humphrey lost to Richard Nixon.
+
+----
+num: 14
+category: Science
+difficulty: HS
+fixed: 57
+seen: 484
+answer: {Jordan}
+
+One mathematician with this last name developed an algebra in which the most general associativity relations are x and y x times y equals y times x and quantity x-squared times y, close quantity times x equals x-squared times quantity y times x. Another mathematician with this last name proved the theorem that a simple, closed curve divides the plain disjoint interior and exterior regions; such curves also bear his name. Still another mathematician with this last is the second namesake of a method in which a matrix is inverted by reducing it reduced row-echelon form. For 10 points, give this last name of mathematician Wilhelm, who names a form of matrix elimination with Carl Friedrich Gauss.
+
+----
+num: 15
+category: Fine Arts
+difficulty: HS
+fixed: 57
+seen: 496
+answer: George Frideric {Handel} [or Georg Friedrich {Haendel}]
+
+Johan Halvorsen arranged a version this composer's Passacaglia in G minor for viola and violin. One of this composer's works features the "Hailstone chorus," and is usually performed as its second and third movements, "Exodus" and "Moses' Song." His works are organized by HWV numbers, and he composed "The Arrival of the Queen of Sheba" for his oratorio Solomon. The aria "Ombra mai fù" is known as his "Largo." Another of his oratorios is set to a libretto by Charles Jennens, and includes the choruses "I know my redeemer liveth" and "For unto us a child is born." For 10 points, name this German-born Baroque composer of Israel in Egypt, who wrote the "Hallelujah chorus" for his oratorio Messiah.
+
+----
+num: 16
+category: Science
+difficulty: HS
+fixed: 1
+seen: 489
+answer: {Equilibrium} Constant [or K before mentioned]
+
+For coordination complexes the value of this quantity for the whole complex, known as the stability constant, is equal to the product of the stepwise values. The derivative of the natural log of this value with respect to the inverse temperature is equal to the negative change in enthalpy over R. Activities are approximated by using concentrations in the standard definition of this quantity in the law of mass action, and it is equal to the ratio of the rate of the forward and reverse reaction. For 10 points, name this chemical value equal to an expression involving the concentrations of products over reactants, symbolized K.
+
+----
+num: 17
+category: History
+difficulty: HS
+fixed: 57
+seen: 418
+answer: David {Cameron}
+
+Steve Hilton works as a strategist for this man, who defeated David Davis in a 2005 party election. Opposition to this man refers to him as a chameleon and he generated controversy after it was revealed he made a 1989 vacation trip to apartheid era South Africa. His cabinet consists of individuals as William Hague and Kenneth Clarke. In 2005, he succeeded Michael Howard as head of his party. Nick Clegg serves as this man's deputy, and he reached his highest position after a coalition was formed between the Conservatives and the Liberal Democrats. For 10 points, name this new Prime Minister of Great Britain.
+
+----
+num: 18
+category: Social Science
+difficulty: HS
+fixed: 57
+seen: 377
+answer: Erving {Goffman}
+
+This writer posited that places which concentrate work, sleep, and recreation into the same physical space and are demarcated by a physical barrier constitute "total institutions," which include everything from Nazi camps to the title places of his work Asylums. Passing and voluntary disclosure are involved in the five-phase model of how deviance is shamed, according to his book Stigma. He identified the "backstage" and "frontstage" areas of public spaces in another work, which identifies life as a series of "encounters" which are performed. For 10 points, name this Canadian sociologist who used the dramaturgical approach and symbolic interactionism to explain The Presentation of Self in Everyday Life.
+
+----
+num: 19
+category: Literature
+difficulty: HS
+fixed: -1
+seen: 445
+answer: "{Snow}-{Bound}: A Winter Idyl"
+
+Several characters in this poem steal a "frightened look" at "the gray wizard's conjuring book," referring to Cornelius Agrippa's Occult Philosophy, which supplies the first of this poem's two epigraphs. The author's note to this poem explains that its "not unfeared, half-welcome guest" was Harriet Livermore, although it does not identify "the master of the district school," who is described as one of "Freedom's young apostles" who will "Uplift the black and white alike" after the Civil War. Near the beginning of this poem, the call "Boys, a path!" leads the central family to dig a tunnel to their barn, before that family tells stories by the fireplace in order to wait out the results of a storm. Subtitled "A Winter Idyl," for 10 points, name this John Greenleaf Whittier poem about a New England blizzard.
+
+----
+num: 20
+category: History
+difficulty: HS
+fixed: 1
+seen: 415
+answer: Jawaharlal {Nehru}
+
+After the poor preparation of this man's military in a war, he commissioned the Henderson-Brooks report to investigate. In his preface to his country's report on nuclear weapons, this man called them “frightful engines of destruction.” Upon taking his most noted office, this man gave the “A Tryst With Destiny” speech. He set up the “Five Principles of Peaceful Coexistence” with China, although war would later break out in 1962. Along with Tito and Nasser, this man founded the Non-Aligned Movement. Other people to hold this man's position included his grandson, Rajiv, and his daughter, Indira. For 10 points, name this Indian statesman, the first prime minister of independent India.
+
+----
+num: 21
+category: Literature
+difficulty: HS
+fixed: -1
+seen: 444
+answer: The {Decameron}
+
+In one story from this work, a man who spends all of his money wooing his lover is forced to cook his prized falcon when he has her over for supper. In another of its stories, Alessandro runs the businesses of his uncles in London before traveling to Rome to get the pope's permission to marry the princess of England. Other works in this collection include one in which the generous Nathan is stabbed by Mitridanes, and one which inspired Lessing in which Melchizedek tells Saladin the story of the three rings when asked which religion is the truth. Another of its stories concerns the Marquis of Saluzzo who tricks Griselda into thinking her two children are dead, inspiring Chaucer's Clerk's Tale . For 10 points, name this collection in which Panfilo, Fiametta, and eight other Florentines tell ten stories each while escaping the plague, a work of Boccaccio.
+
+----
+num: 22
+category: Science
+difficulty: HS
+fixed: 57
+seen: 495
+answer: {diodes}
+
+One type of this device relies on an overlap between the valence and conduction bands to keep the Fermi level constant and operates by inducing a current across a narrow depletion region. Four of these elements are connected in a bridge to produce a full-wave rectifier. Voltage regulators are often designed using a specific type of this circuit element in which the current is independent of the applied voltage once the breakdown voltage is exceeded. The varactor type of these circuit elements is used to implement a variable capacitance. Seemingly negative resistance is exhibited by a variety of these devices named for Esaki; simpler ones consist of single PN junctions. For 10 points, identify these circuit elements which also exist in Schottky and Zener varieties and that typically pass current in only one direction.
+
+----
+num: 23
+category: History
+difficulty: HS
+fixed: 57
+seen: 417
+answer: the {Federalist Papers} [or The {Federalist}]
+
+One section of this collection responds to the fears voiced by "Brutus" by claiming that the judiciary is "least dangerous" to political rights because it has "neither FORCE nor WILL, but merely judgment." Its tenth section argues that a large republic is best suited to control the effects of factions. The fifty-first section of this collection asserts "If men were angels, no government would be necessary," and that "Ambition must be made to counteract ambition" in the form of checks and balances. Published under the pseudonym Publius, for 10 points, name this group of essays arguing in favor of ratifying the Constitution, which were written by John Jay, Alexander Hamilton, and James Madison.

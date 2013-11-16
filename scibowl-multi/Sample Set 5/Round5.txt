@@ -1,0 +1,492 @@
+####
+tournament: Sample Set 5
+round: Round5.pdf
+####
+
+num: 2
+category: Biology
+difficulty: HS
+answer: W) African Elephant
+
+Which of the following is NOT an example of a cur rent population that shows genetic drift due to the bottleneck effect?
+W) African elephant
+X) Northern elephant seals
+Y) Whooping crane
+Z) Cheetah
+
+----
+num: 3
+category: Energy
+difficulty: HS
+answer: X) High Speed and High Torque
+
+Which of the following characteristics make universal motors attractive for home appliances?
+W) High speed and low torque
+X) High speed and high torque
+Y) Low speed and high torque
+Z) Low speed and low torque
+
+----
+num: 3
+category: Energy
+difficulty: MS
+seen: 1
+answer: X) They Produce an Odor of Algae
+
+Which of the following statements is NOT true about modern evaporative coolers?
+W) They cool the air through the evaporation of water
+X) They produce an odor of algae
+Y) They are well suited for climates where the air is hot and the humidity is low
+Z) They provide little thermal comfort in highly humid climates
+
+----
+num: 4
+category: Physics
+difficulty: HS
+answer: Y ) a Straight Line
+
+As the result of a collision with another particle, a charged particle ends up with its velocity vector completely parallel to a uniform magnetic field. Which of the following best describes the subsequent path of the particle?
+W) A circular arc
+X) A spiral
+Y) A straight line 
+Z) A cycloid
+
+----
+num: 4
+category: Physical Science
+difficulty: MS
+answer: Y)  Sucrose
+
+Which of the following is NOT a naturally occurring polymer?
+W) Protein
+X) Cellulose
+Y) Sucrose
+Z) Deoxyribonucleic (read as: dee-OHK-si-ry-bōe-NUH-kleye-ik) acid
+
+----
+num: 4
+category: Physical Science
+difficulty: MS
+answer: Z) 16
+
+Which of the following is closest to the theoretical mechanical advantage of a screw with a mean diameter of 1 centimeter and a lead of 2millimeters?
+W) 2
+X) 5
+Y) 8
+Z) 16
+
+----
+num: 5
+category: Biology
+difficulty: HS
+answer: Z) Mesophyll Production of Abscisic Acid in Response to Water 
+Deficiency
+
+
+Stomata will open in response to internal and external cues. 
+Which of the following is NOT one of these cues?
+W) Uptake of potassium ions
+X) Decrease of carbon dioxide in leaf air spaces due to photosynthesis in the mesophyll
+Y) Changes in light levels
+Z) Mesophyll production of abscisic acid in response to water deficiency
+
+----
+num: 7
+category: Chemistry
+difficulty: HS
+answer: Z) Pressure
+
+Which of the following factors does NOT affect the solubility of a solid in a liquid?
+W) Temperature
+X) Polarity of solute
+Y) Polarity of solvent
+Z) Pressure
+
+----
+num: 7
+category: Chemistry
+difficulty: HS
+answer: Y) Chlorine
+
+
+Which of the following period 3 elements has the smallest atomic radius?
+W) Sodium
+X) Phosphorus
+Y) Chlorine
+Z) Aluminum
+
+----
+num: 7
+category: General Science
+difficulty: MS
+answer: Z) Salty Water and Ice
+
+You want to chill a can of soda. You should place it in a bucket filled with which of the following for it to chill the fastest?
+W) 
+X) Fresh wIceater and ice
+Y) Ice with salt
+Z) Salty water and ice
+
+----
+num: 8
+category: Earth and Space
+difficulty: HS
+answer: X) Occlusion
+
+Which of the following occurs as a rapidly advancing cold front ove rtakes a closed off warm front?
+W) Gliding
+X) Occlusion
+Y) Collapse and dissipation of low
+Z) Subsidence
+
+----
+num: 8
+category: Earth and Space Science
+difficulty: MS
+seen: 1
+answer: Y) Esker
+
+Which of the following is the name of the glacial deposit that is formed as a stream flows underneath a glacier?
+W) Drumlin
+X) Kame (read as: CAME)
+Y) Esker
+Z) Erratic
+
+----
+num: 8
+category: Earth and Space Science
+difficulty: MS
+answer: Z) Different Textures
+
+Which of the following best represents why two igneous rocks may have the same minerals but different names?
+W) Found in different places
+X) Different sizes
+Y) Different colors
+Z) D ifferent textures
+
+----
+num: 9
+category: General Science
+difficulty: MS
+answer: W) the Amplitude Increases
+
+A pure tone is played softly, and then the volume is increased. Which of the following statements best describes what occurs with respect to the sound waves given off when the volume is increased?
+W) The amplitude increases
+X) The frequency increases
+Y) The amplitude decreases
+Z) The frequency decrease s
+
+----
+num: 10
+category: Life Science
+difficulty: MS
+answer: X) Amount of Free Oxygen
+
+Which of the following factors does NOT affect the rate of photosynthesis?
+W) Temperature
+X) Amount of free oxygen 
+Y) Amount of carbon dioxide
+Z) Light intensity
+
+----
+num: 11
+category: Chemistry
+difficulty: HS
+answer: Z) Nickel
+
+
+Which of the following metals could N OT successfully be used to galvanize iron?
+W) Zinc
+X) Aluminum
+Y) Manganese
+Z) Nickel
+
+----
+num: 11
+category: General Science
+difficulty: MS
+answer: X) Sargasso Sea
+
+
+Which of the following serves as the reproductive location for the American eel?
+W) Baltic Sea
+X) Sargasso Sea
+Y) Pacific Ocean
+Z) Hudson Bay
+
+----
+num: 14
+category: Biology
+difficulty: HS
+answer: X) Low Temperature
+
+All of the following factors increase the release of oxygen from hemoglobin in systemic capillaries, EXCEPT:
+W) High temperature
+X) Low temperature
+Y) Acidic pH levels
+Z) Low partial pressure of oxygen
+
+----
+num: 14
+category: Life Science
+difficulty: MS
+answer: X)  It Will Become Turgid O R Lyse
+
+If a cell is placed in a hypotonic solution, what effect will osmosis have on the cell?
+W) It will remain the same
+X) It will become turgid or lyse
+Y) It will lose ions
+Z) It will shrivel or plasmolyze
+
+----
+num: 15
+category: Chemistry
+difficulty: HS
+answer: Y) Electron Configuration
+
+Isoelectronic atoms and ions are identical in which of the following ways?
+W) Electron affinity
+X) Ionization energy
+Y) Electron configuration
+Z) Effective nuclear charge
+
+----
+num: 15
+category: General Science
+difficulty: MS
+answer: Z) Time on the X Axis and Plant Size  on the Y Axis
+
+A student waters a plant with salt water and measures growth over the course of two weeks. She creates a graph of her data. Which variables should she put on the x and y axes?
+W) Time on the x axis and amount of salt on the y axis
+X) Amount of salt on the x axis and plant size on the y axis
+Y) Plant size on the x axis and time on the y axis
+Z) Time on the x axis and plant size on the y axis
+
+----
+num: 15
+category: General Science
+difficulty: MS
+answer: Y) 106
+ ____
+
+If a Celsius thermometer shows a temperature reading of 41 ^o, which of the following is the closest temperature in degrees Fahrenheit?
+W) 97
+X) 102
+Y) 106
+Z) 111
+
+----
+num: 16
+category: Physical Science
+difficulty: MS
+answer: Y)  Gasoline
+
+Which of the following mixtures is made of liquids that are miscible?
+W) Salad dressing
+X) Pizza
+Y) Gasoline
+Z) Water
+
+----
+num: 17
+category: Earth and Space Science
+difficulty: MS
+answer: Y) Along the Outside Bank
+
+Where is the water along a stream's meander expected to move most quickly?
+W) Along the bottom waters
+X) Along the surface waters
+Y) Along the outside bank
+Z) Along the inside bank
+
+----
+num: 17
+category: Earth and Space Science
+difficulty: MS
+answer: Y) Felsic
+
+
+Igneous rocks that contain the last minerals to crystallize from magma, and consist mainly of sodium and potassium feldspars and quartz are said to have which of the following compositions?
+W) Lithic
+X) Mafic
+Y) Felsic
+Z) Gneissic (read as: NYS-ik)
+
+----
+num: 18
+category: Physical Science
+difficulty: MS
+answer: W) Strontium
+
+In 1986, the Chernobyl nuclear power plant released several radioactive isotopes into the environment. Which of the following radioactive isotopes is most likely to have replaced the calcium in the bones of people who live d near 
+Chernobyl?
+W) Strontium 
+X) Iodine
+Y) Cesium
+Z) Plutonium
+
+----
+num: 19
+category: Energy
+difficulty: HS
+answer: W) Natural Occurrence
+
+Pure hydrogen is an energy carrier rather than a primary source of energy, because it lacks which of the following ?
+W) Natural occurrence 
+X) Sufficient heat
+Y) Energy density
+Z) Radiant emission
+
+----
+num: 19
+category: Energy
+difficulty: HS
+answer: Y) Eurasia 
+
+
+Excluding the Middle East, which of the following regions has the most proven oil reserves ?
+W) North America
+X) Central and South America
+Y) Eurasia
+Z) Africa
+
+----
+num: 19
+category: Energy
+difficulty: MS
+seen: 1
+answer: Z) They Generate Bioaerosols Which Add Additional Nutrients 
+Into Nearby Soils
+
+
+Which of the following is NOT a benefit of using biosolids in compost?
+W) They retain moisture
+X) They have nutrient-rich composition
+Y) They promote microbial diversity
+Z) They generate bioaerosols which add additional nutrients into nearby soils
+
+----
+num: 20
+category: Math
+difficulty: HS
+answer: W) a Line Segment With One-Third the Length of a Given Line 
+Segment
+
+Which of the following can be constructed using only a compass and a straightedge?
+W) A line segment with one -third the length of a given line segment
+X) A cube with twice the volume of a given cube
+Y) An angle with one -third the measure of a given angle 
+Z) A square with the same area as that of a given circle
+
+----
+num: 20
+category: Math
+difficulty: MS
+answer: X) 20
+
+Which of the following angles in degrees cannot be constructed using only compass and straightedge?
+W) 15 
+X) 20 
+Y) 30 
+Z) 45
+
+----
+num: 21
+category: Earth and Space
+difficulty: HS
+answer: X) Assembly of Pangaea
+ 
+
+Which of the following did NOT occur during the 
+Mesozoic era?
+W) Formation of the Coast Range batholith
+X) Assembly of Pangaea
+Y) Birth of the Atlantic Ocean 
+Z) Subduction of the Pacific Plate
+
+----
+num: 21
+category: Earth and Space Science
+difficulty: MS
+answer: W)  Sand
+
+Soils that have an abundance of which of the following generally have the greatest rate of permeability?
+W) Sand
+X) Silt
+Y) Clay
+Z) Humus
+
+----
+num: 23
+category: Earth and Space
+difficulty: HS
+answer: Z) Ocean-Continent Subduction Zone
+
+
+The most explosive type of volcanism would be expected in which of the following locations ?
+W) Mid-ocean ridge
+X) Hot spot on an oceanic plate
+Y) Continental rift zone
+Z ) Ocean-continent subduction zone
+
+----
+num: 24
+category: Energy
+difficulty: HS
+answer: W) How Distorted the Waveform Is From a Pure Sinusoidal 
+Waveform
+
+Which of the following is measured by total harmonic distortion, a standard for gauging the quality of power provided to customers?
+W) How distorted the waveform is from a pure sinusoidal waveform
+X) How distorted a waveform is from a triangular waveform
+Y) The difference between a sinusoidal waveform and a triangular waveform
+Z) The maximum value of a sinusoidal waveform with respect to the reference poin t of the waveform
+
+----
+num: 24
+category: Energy
+difficulty: MS
+seen: 1
+answer: W) Marmot
+
+Which of the following animals requires the most energy to survive?
+W) Marmot 
+X) Lizard
+Y) Salmon
+Z) Frog
+
+----
+num: 25
+category: Biology
+difficulty: HS
+answer: X) Tata Box
+
+Which of the following is NOT part of initiation duri ng translation?
+W) Binding of a small ribosomal subunit to mRNA and initiator tRNA
+X) TATA box
+Y) One GTP molecule
+Z) Protein initiation factors
+
+----
+num: 25
+category: Biology
+difficulty: HS
+answer: Y) Spliceosomes
+
+Which of the following would NOT be a part of protein synthesis in prokaryotes?
+W) Translation and transcription occurring simultaneously
+X) Ribosomes
+Y) Spliceosomes 
+Z) RNA polymerases
+
+----
+num: 25
+category: Life Science
+difficulty: MS
+answer: Z)  Moving Molecules Against a Concentration Gradient
+
+For which of the following situations would active transport be required?
+W) Movement of ethanol across a cell membrane
+X) Releasing oxygen produced by photosynthesis
+Y) Releasing carbon dioxide produced by respiration
+Z) Moving molecules against a concentration gradient

@@ -1,0 +1,289 @@
+####
+tournament: Sample Set 4
+round: Round6.pdf
+####
+
+num: 1
+category: Life Science
+difficulty: MS
+answer: Z) 400 Times
+
+If you are looking at a specimen with a compound microscope using a 40X objective and a 10X eyepiece, what would be the total magnification?
+W) 4 times
+X) 40 times
+Y) 44 times
+Z) 400 time s
+
+----
+num: 2
+category: Math
+difficulty: MS
+answer: W) 0.24
+
+Express in decimal form: 0.99 - (read as: 99 hun-DREDTHS minus three fourths).
+W) 0.24
+X) 0.75
+Y) 0.9825
+Z) 0.9975
+
+----
+num: 3
+category: Earth and Space Science
+difficulty: MS
+answer: X) the Coriolis Effect
+ 
+
+Hurricane winds rotate in the opposite direction in the S outhern Hemisphere due to:
+W) The cyclonic force
+X) The Coriolis effect
+Y) Ocean temperature differences
+Z) The presence of less land in the Southern Hemisphere
+
+----
+num: 4
+category: General Science
+difficulty: MS
+answer: W) High Pressure Indicates Fair Weather and Low Pressure 
+Indicates Stormy Weather
+
+Weather systems can be considered either high or low pressure. Which of the following descriptions generally contrasts high and low pressure?
+W) High pressure indicates fair weather and low pressure indicates stormy weather
+X) Low pressure indicates fair weather and high pressure indicates stormy weather
+Y) Either high or low pressure can indicate fair or stormy weather, depending on the circumstances
+Z) High and low pressure have nothing to do with indicating fair or stormy weather systems
+
+----
+num: 4
+category: General Science
+difficulty: MS
+answer: W) Barometric Pressure
+
+Which of the following is NOT likely to change in response to an increase in atmospheric carbon dioxide?
+W) Barometric pressure
+X) Storm intensity
+Y) Mean annual temperature
+Z) Total precipitation
+
+----
+num: 5
+category: Earth and Space Science
+difficulty: MS
+answer: X)  the Present Amount of Carbon Dioxide in Our Atmosphere Is 
+Completely Due to Natural Causes
+
+Which of the following is NOT true abou t carbon dioxide?
+W) It has been present in Earth’s atmosphere for billions of years
+X) The present amount of carbon dioxide in our atmosphere is completely due to natural causes
+Y) Increased emissions of carbon dioxide from human industrial activities ar e causing global climate change
+Z) On Earth, it is emitted by humans, most other animals and plants
+
+----
+num: 8
+category: Life Science
+difficulty: MS
+answer: X) 500
+
+Fruit flies are common in homes, restaurants, supermarkets and wherever else fruit is allowed to rot and ferment. Given the opportunity, about how many eggs will a fruit fly lay at a time?
+W) 50
+X) 500
+Y) 5000
+Z) 50,000
+
+----
+num: 8
+category: Life Science
+difficulty: MS
+answer: W) Near the Surface of the Fermenting Fruit
+
+When larvae emerge from fruit fly eggs, where do they tend to feed?
+W) Near the surface of the fermenting fruit
+X) Deep within the ferment ing fruit
+Y) In the non-fermenting portion of the fruit next to the overripe portion
+Z) In the seed
+
+----
+num: 9
+category: Earth and Space Science
+difficulty: MS
+answer: X) Ancient Beaches or Deserts
+
+In which of the following locations are youmost likely to find sandstone rock formations?
+W) Areas with a long history of earthquakes
+X) Ancient beaches or deserts
+Y) Swamps formed within the last thousand years
+Z) Areas with a history of lava deposition
+
+----
+num: 10
+category: Life Science
+difficulty: MS
+answer: W) Dna and Proteins
+
+Chromosomes are composed of:
+W) DNA and proteins
+X) Genes and nucleotides
+Y) Proteins and chromatin 
+Z) DNA and RNA
+
+----
+num: 10
+category: Life Science
+difficulty: MS
+answer: W) Aquatic Rat
+
+Which of the following mammals has the greatest diploid number of chromosomes?
+W) Aquatic rat
+X) Cat
+Y) Dog
+Z) Elephant
+
+----
+num: 11
+category: Energy
+difficulty: MS
+answer: Z) Omnivores
+
+Most mammals are able to eat both plants and animals. 
+Therefore, most mammals are considered:
+W) Autotrophs (read as: AW-toh-trōefs)
+X) Carnivores
+Y) Herbivores (read as: (H)EHR-bi-vohrs)
+Z) Omnivores
+
+----
+num: 12
+category: General Science
+difficulty: MS
+answer: X) Escape of Dissolved Gases
+
+You’re doing an experiment with soda. You start by weighing the full, closed can of soda. Then you open the can and wait one hour. You weigh the can again and discover that it is lighter. What caused this difference in mass?
+W) An exothermic reaction
+X) Escape of dissolved gases 
+Y) Loss of sugar
+Z) A series of redox reactions in the soda
+
+----
+num: 13
+category: Physical Science
+difficulty: MS
+answer: W) a Straight Line With Positive Slope
+
+
+The velocity -time graph of a body that starts from rest and moves away from the origin with constant positive acceleration appears as:
+W) A straight line with positive slope 
+X) A straight, flat line
+Y) A straight line with negative slope 
+Z) A curved line whose slope is increasing in time
+
+----
+num: 14
+category: Earth and Space Science
+difficulty: MS
+answer: Y) 35
+
+What is the approximate sali nity of the ocean in parts per thousand?
+W) 15 
+X) 25 
+Y) 35 
+Z) 45
+
+----
+num: 16
+category: Physical Science
+difficulty: MS
+answer: X) Femtometer
+
+Which of the following units is used to measure the diameter of protons?
+W) Attometer
+X) Femtometer
+Y) Leptometer
+Z) Ziggiometer
+
+----
+num: 17
+category: Life Science
+difficulty: MS
+answer: Z) the Flu Virus Mutates Every Year
+
+When you are sick with a virus, your body builds up a defense system by making antibodies against it. Why, then, do we need to get flu shots every year?
+W) Antibodies are usually only effective for a few months
+X) We need antibiot ics to combat the flu
+Y) We could be flu carriers even if we are not sick
+Z) The flu virus mutates every year
+
+----
+num: 19
+category: Energy
+difficulty: MS
+answer: Z) It Will Not Be Different
+
+
+A passenger is sitting in a train that accelerat es from a full stop. 
+As it moves, there are a number of sounds associated with the acceleration of the train. 
+Compare the frequency of those sounds to the frequency actually heard by the passenger.
+W) It will be lower
+X) It will be higher
+Y) It will vary
+Z) It will not be different
+
+----
+num: 20
+category: Physical Science
+difficulty: MS
+answer: W) the Brightness of the Two in Series Would Be Dimmer Than 
+the Single Bulb
+
+Assuming that the light bulbs, wires, a nd batteries are all the same in two different circuits, how would the brightness of two light bulbs in series differ from the brightness of just one light bulb?
+W) The brightness of the two in series would be dimmer than the single bulb
+X) The bulbs in series would not light up with the same amount of battery power
+Y) The bulbs in series would be brighter than the single bulb
+Z) The bulbs in series and the single bulb would have the same brightness
+
+----
+num: 21
+category: Math
+difficulty: MS
+answer: Y) 10 ^3
+^4 Inches
+
+If a 4-inch plant grows at the rate of ^4^1inch per day, what will itsheight be in 27 days?
+W) 6^4^3inches
+X) 7 inches
+Y) 10^4^3inches
+Z) 11 inches
+
+----
+num: 22
+category: Life Science
+difficulty: MS
+answer: Z) All Firefly Species Are Bioluminescen T as Adults
+
+Bioluminescence is light originating in an organism that is produced by a chemical reaction. Which of the following statements is NOT true about bioluminescence?
+W) It is the predominant source of light in the deep ocean
+X) The luminescent wake of a ship is due to dinoflagellates (read as: dy -nōe-FLAH-jeg-lehts)
+Y) Most marine bioluminescence is blue in color
+Z) All firefly species are bioluminescent as adults
+
+----
+num: 24
+category: Earth and Space Science
+difficulty: MS
+answer: Y) Quartz
+
+Which of the following minerals is present in the highest concentrations in granite?
+W) Pyroxene
+X) Hornblende
+Y) Quartz
+Z) Plagioclase (read as: PLAY-jee-oh-klays) feldspar
+
+----
+num: 25
+category: Math
+difficulty: MS
+answer: X) 80 Cents
+
+In the gift shop, semi precious gemstones sell for $12 per pound. If there are 15 stones in a pound, what is the unit cost per gemstone?
+W) 75 cents
+X) 80 cents
+Y) $1.06
+Z) $1.25

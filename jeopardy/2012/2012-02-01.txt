@@ -1,0 +1,438 @@
+####
+tournament: #6303
+round: Show #6303 - Wednesday, February 1, 2012
+year: 2012
+date: 2012-02-01
+####
+
+num: 1
+category: Literature
+difficulty: 200
+seen: 4
+answer: a twister
+
+Slang for a tornado.
+
+----
+num: 2
+category: Science
+difficulty: 200
+seen: 8
+answer: femur
+
+The name of this bone is Latin for "thigh".
+
+----
+num: 3
+category: Trash
+difficulty: 200
+seen: 6
+answer: Honda
+
+Let's agree it makes the Accord Coupe.
+
+----
+num: 4
+category: Literature
+difficulty: 200
+seen: 4
+answer: carry a big stick
+
+Teddy Roosevelt used the expression "speak softly and" do this.
+
+----
+num: 5
+category: Literature
+difficulty: 200
+seen: 4
+answer: Laura Ingalls Wilder
+
+She also wrote "Little Town on the Prairie".
+
+----
+num: 6
+category: Literature
+difficulty: 400
+seen: 5
+answer: a battleship
+
+A war vessel such as the Potemkin or the Graf Spee.
+
+----
+num: 7
+category: Science
+difficulty: 400
+seen: 5
+answer: fructose
+
+This simple sugar is found in honey.
+
+----
+num: 8
+category: Trash
+difficulty: 400
+seen: 5
+answer: Toyota
+
+The 4Runner runs off its assembly line.
+
+----
+num: 9
+category: Literature
+difficulty: 400
+seen: 4
+answer: Murphy
+
+The saying "If anything can go wrong it will" is known as his "law".
+
+----
+num: 10
+category: Literature
+difficulty: 400
+seen: 4
+answer: Judy Blume
+
+What a good daughter!  She dedicated "Are You There God?  It's Me, Margaret." to her mother.
+
+----
+num: 11
+category: Literature
+difficulty: 600
+seen: 4
+answer: Othello
+
+The Moor of Venice.
+
+----
+num: 12
+category: Science
+difficulty: 600
+seen: 5
+answer: frequency
+
+Equal to one cycle per second, the hertz is the international unit of this, as for sound waves.
+
+----
+num: 13
+category: Trash
+difficulty: 600
+seen: 5
+answer: Mazda
+
+Zoom-zoom around in its CX-9.
+
+----
+num: 14
+category: Literature
+difficulty: 800
+seen: 4
+answer: cranium
+
+Part of the skull where the brain is.
+
+----
+num: 15
+category: Science
+difficulty: 800
+seen: 6
+answer: fiber optics
+
+This technology uses hair-thin transparent filaments to transmit light or infrared signals.
+
+----
+num: 16
+category: Trash
+difficulty: 800
+seen: 5
+answer: Volkswagen
+
+You can't pass up its Passat.
+
+----
+num: 17
+category: Literature
+difficulty: 800
+seen: 4
+answer: the fat lady
+
+It's popularly said that "the opera isn't over till" this person sings.
+
+----
+num: 18
+category: Literature
+difficulty: 1000
+seen: 3
+answer: tag
+
+A command indicating how an HTML file is to be formatted.
+
+----
+num: 19
+category: Science
+difficulty: 1000
+seen: 7
+answer: formaldehyde
+
+When dissolved in a solution of water & methanol, this gas with a strong odor is used to preserve biological samples.
+
+----
+num: 20
+category: Trash
+difficulty: 1000
+seen: 5
+answer: Ford
+
+This company makes the Fiesta.
+
+----
+num: 21
+category: Literature
+difficulty: 1000
+seen: 4
+answer: an island
+
+It was John Donne who coined the phrase "No man is" this "entire of itself".
+
+----
+num: 22
+category: History
+difficulty: 400
+seen: 4
+answer: France
+
+As part of a tariff war with this nation, George W. Bush imposed a 300% import duty on Roquefort cheese.
+
+----
+num: 23
+category: Trash
+difficulty: 400
+seen: 5
+answer: Gwen Stefani
+
+Singer Gavin Rossdale:.
+
+----
+num: 24
+category: History
+difficulty: 400
+seen: 4
+answer: NASA
+
+In 2009 Charles Bolden, who'd commanded 2 shuttle missions, became administrator of this agency.
+
+----
+num: 25
+category: Mythology
+difficulty: 400
+seen: 13
+answer: Prometheus
+
+This fire stealer was Pandora's brother-in-law.
+
+----
+num: 26
+category: Literature
+difficulty: 400
+seen: 4
+answer: a surveillance
+
+A cop's constant observation of a suspect.
+
+----
+num: 27
+category: History
+difficulty: 800
+seen: 4
+answer: bamboo
+
+National Geographic reported that ancient pandas fought with 10-foot apes over this food--& won.
+
+----
+num: 28
+category: Trash
+difficulty: 800
+seen: 6
+answer: Nick Lachey
+
+MTV VJ Vanessa Minnillo:.
+
+----
+num: 29
+category: Geography
+difficulty: 800
+seen: 8
+answer: the Adriatic
+
+Major divisions of the.
+
+----
+num: 30
+category: History
+difficulty: 800
+seen: 4
+answer: Herman Cain
+
+This businessman with a "9-9-9" tax plan made news in 2011 as a candidate for president.
+
+----
+num: 31
+category: Mythology
+difficulty: 800
+seen: 11
+answer: Achilles
+
+One myth says Thetis, the mom of this Trojan War hero, held him in fire to destroy his mortal elements.
+
+----
+num: 32
+category: Literature
+difficulty: 800
+seen: 4
+answer: moisturizing
+
+Cetaphil is this kind of cream for treating cracked skin.
+
+----
+num: 33
+category: History
+difficulty: 1200
+seen: 5
+answer: Israel
+
+In 2008 Lebanon threatened to sue this nation for violating its "food copyright" on hummus & tabbouleh.
+
+----
+num: 34
+category: Trash
+difficulty: 1200
+seen: 7
+answer: Faith Hill
+
+Country singer Tim McGraw:.
+
+----
+num: 35
+category: Geography
+difficulty: 1200
+seen: 7
+answer: the Mekong
+
+The headstreams of.
+
+----
+num: 36
+category: History
+difficulty: 1200
+seen: 4
+answer: Tyler Perry
+
+In 2011 this director & star of the "Madea" movies topped Forbes' list of the highest-paid men in entertainment.
+
+----
+num: 37
+category: Literature
+difficulty: 1200
+seen: 4
+answer: intervention
+
+It's when family & friends gather to tell an addict about his problem & firmly ask him to get help.
+
+----
+num: 38
+category: Trash
+difficulty: 1600
+seen: 6
+answer: Brad Paisley
+
+Actress Kimberly Williams:.
+
+----
+num: 39
+category: Geography
+difficulty: 1600
+seen: 8
+answer: the Tasman Sea
+
+Named for a Dutch explorer,.
+
+----
+num: 40
+category: History
+difficulty: 1600
+seen: 5
+answer: Ralph Ellison
+
+This author of "Invisible Man" was named for another literary great, Emerson.
+
+----
+num: 41
+category: Mythology
+difficulty: 1600
+seen: 11
+answer: Athena
+
+This Greek goddess of wisdom was wicked smart--she helped build the Trojan Horse.
+
+----
+num: 42
+category: Literature
+difficulty: 1600
+seen: 4
+answer: sharpshooter
+
+In the Marines this rating for a rifleman is below expert but above marksman.
+
+----
+num: 43
+category: History
+difficulty: 2000
+seen: 6
+answer: scorched earth
+
+This term for a wartime policy of utterly destroying an enemy's food & supplies is thought to be a translation from the Chinese.
+
+----
+num: 44
+category: Trash
+difficulty: 2000
+seen: 8
+answer: LeAnn Rimes
+
+Actor Eddie Cibrian:.
+
+----
+num: 45
+category: Geography
+difficulty: 2000
+fixed: -1
+seen: 13
+answer: the Mozambique Channel (the Channel of Mozambique accepted)
+
+channel is named for the country on its western edge.
+
+----
+num: 46
+category: History
+difficulty: 2000
+seen: 5
+answer: Matthew Henson
+
+His 1912 autobiography "A Negro Explorer at the North Pole" includes a foreword by Robert Peary.
+
+----
+num: 47
+category: Mythology
+difficulty: 2000
+seen: 22
+answer: the Hesperides
+
+Hercules' 11th labor was to fetch the golden apples guarded by the sisters known by this collective name.
+
+----
+num: 48
+category: Literature
+difficulty: 2000
+seen: 5
+answer: steeplechase
+
+Ditch & hedge-jumping horses compete in this type of race.

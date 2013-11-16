@@ -1,0 +1,640 @@
+####
+tournament: Sample Set 4
+round: Round7.pdf
+####
+
+num: 1
+category: Physical Science
+difficulty: MS
+answer: X) Not Changing, as Long as There Is Ice
+
+If you stick a thermometer into a frozen slurry of lemonade as it is melting, you will find that the reading on the thermometer is:
+W) Slowly falling 
+X) Not changing, as long as there is ice 
+Y) Slowly rising 
+Z) Quickly rising
+
+----
+num: 2
+category: General Science
+difficulty: MS
+answer: X) Obsidian
+
+Which of the following is an example of an igneous (read as: IG-nee-ehs) rock?
+W) Flint
+X) Obsidian (read as: ohb-SI-dee-ahn)
+Y) Anthracite (read as: AN-thrah-syt)
+Z) Chalk
+
+----
+num: 2
+category: General Science
+difficulty: MS
+answer: Y) Far Below the Surface
+
+You discover an igneous (read as: IG-nee-ehs) rock with a course-grained texture and the appearance of a mass of intergrown crystals of similarsize. At which of the following locations did magma most likely solidify?
+W) In the ocean
+X) On the surface
+Y) Far below the surface 
+Z) No more than 100 feet below the surface
+
+----
+num: 3
+category: Earth and Space
+difficulty: HS
+seen: 1
+answer: W) Transantarctic Mountains
+
+
+The West Antarctic Ice Sheet and the East Antarctic 
+Ice Sheet are separated by what mountain range?
+W) Transantarctic Mountains
+X) Admiralty Mountains
+Y) Shackleton Range
+Z) East Antarctic Ranges
+
+----
+num: 3
+category: Life Science
+difficulty: MS
+answer: X) Niche
+
+
+An organism’s way of life, including its habitat, food, predators, and other organisms it competes with for resources make up an organism’s:
+W) Ecosystem
+X) Niche 
+Y) Biome
+Z) Food pyramid
+
+----
+num: 4
+category: Math
+difficulty: HS
+seen: 1
+answer: W)  Box Plot
+
+Which of the following categories of statistical plots displays the first, second, and third quartiles for the data that it represents?
+W) Box plot
+X) Scatter plot
+Y) Histogram
+Z) Pie chart
+
+----
+num: 4
+category: Earth and Space Science
+difficulty: MS
+answer: Z) the Number of Earthquakes Would Decrease
+
+If convection currents in the mantle stopped, which of the following would li kely happen?
+W) The number of earthquakes would increase
+X) The number of earthquakes would stay the same
+Y) Earthquakes would get stronger
+Z) The number of earthquakes would decrease
+
+----
+num: 5
+category: Chemistry
+difficulty: HS
+seen: 1
+answer: Z) Carbon Dioxide and Water
+
+What are the products for the complete combustion of methane?
+W) Carbon and hydrogen
+X) Carbon dioxide and hydrogen 
+Y) Carbon monoxide and water
+Z) Carbon dioxide and water
+
+----
+num: 5
+category: General Science
+difficulty: MS
+answer: W) 1%
+ __
+
+The Earth’s crust accounts for about what percentage of the Earth’s volume?
+W) 1%
+X) 5%
+Y) 10%
+Z) 15%
+
+----
+num: 6
+category: Physics
+difficulty: HS
+seen: 1
+answer: W) 4 × 10^-^3
+
+The mass of a raindrop is 4 milligrams. Which of the following represents the correct mass in grams of the raindrop?
+W) 4 × 10^-^3
+X) 4 × 10^-^1
+Y) 4 × 10^3
+Z) 4 × 10^6
+
+----
+num: 6
+category: Physics
+difficulty: HS
+answer: Z) the Object’s Speed Inc Reases by 9.8 Meters Per Second Each 
+Second
+
+A freely falling object has a constant acceleration of 9.8 meters per second squared. Which of the following is correct?
+W) The object’s displacement changes by 9.8 meters every second squared
+X) The object’s acceleration increases by 9.8 meters per second squared each second
+Y) The object travels 9.8 meters each second
+Z) The object’s speed increases by 9.8 meters per second each second
+
+----
+num: 6
+category: Energy
+difficulty: MS
+answer: Z) Dishwasher
+
+Which of the following household appliances uses the leastamount of energy over the course of a year?
+W) Refrigerator
+X) Water heater
+Y) Air conditioner
+Z) Dishwasher
+
+----
+num: 7
+category: Earth and Space
+difficulty: HS
+seen: 1
+answer: Y) Troposphere
+
+In which sphere is the “bad” ozone, a volatile compound that contributes to smog, located?
+W) Stratosphere
+X) Biosphere
+Y) Troposphere
+Z) Lithosphere
+
+----
+num: 8
+category: Biology
+difficulty: HS
+seen: 1
+answer: X) Imprinting
+
+Ducklings learn to recognize and follow the first m oving object that they see, usually their mother. What is this behavior called?
+W) Instinct
+X) Imprinting
+Y) Remote sensing 
+Z) Classical conditioning
+
+----
+num: 8
+category: Biology
+difficulty: HS
+answer: Z) Operant Conditioning
+
+A pigeon is placed in a box. Sooner or lat er, the pigeon accidentally presses a button or lever that releases food. Eventually, the pigeon learns how to press the button whenever it wants food. This kind of learning is called:
+W) Habituation
+X) Classical conditioning
+Y) Insight learning
+Z) Operant conditioning
+
+----
+num: 9
+category: Chemistry
+difficulty: HS
+seen: 1
+answer: W) 3.26  10^-^13^
+
+Determine the solubility product constant (or K^sp) of silver bromide, given that its molar solubility is 5.71 10^-^7 moles per liter.
+W) 3.26 10^-^13^
+X) 5.71 10^-^7^
+Y) 1.14 10^-^6
+Z) 2.14 10^-^4^
+
+----
+num: 9
+category: Earth and Space Science
+difficulty: MS
+answer: W) Closer to Earth Than It Is Now
+
+Shortly after its formation, Earth’s moon was:
+W) Closer to Earth than it is now
+X) Farther from Earth than it is now
+Y) The same distance from Earth as it is now
+Z) Oscillating between further from and closer to Earth
+
+----
+num: 9
+category: Earth and Space Science
+difficulty: MS
+answer: X) Layered Sedimentary Rock
+
+
+What rock type would you not expect to find on the Moon?
+W) Rock similar in composition to Earth’s mantle
+X) Layered sedimentary rock 
+Y) Igneous (read as: IG-nee-ehs) rock
+Z) Rock similar in composition to a metallic meteor
+
+----
+num: 10
+category: Biology
+difficulty: HS
+seen: 1
+answer: Z) Robin
+
+Which of the following is most likely a descendent of dinosaurs?
+W) Frog
+X) Cockroach
+Y) Turtle
+Z) Robin
+
+----
+num: 10
+category: Math
+difficulty: MS
+answer: Z) It Is at the Point of Intersection of the Cube’s Diagonals
+
+Where is the geometric center of a cube?
+W) It is at the center of its face
+X) It is at the vertex of two faces
+Y) It is at the point of intersection of the diagonals of a face
+Z) It is at the point of intersection of the cube’s diagonals
+
+----
+num: 11
+category: Physics
+difficulty: HS
+answer: Y) Increase the Concentration of the Solution
+
+A poorly designed fishing bob does not float in a sucrose solution. Which of the following actions could be taken so the fishing bob would float?
+W) Increase the volume of the solution
+X) Decrease the volume of the solution
+Y) Increase the concentration of the solution
+Z) Decrease the concentration of the solution
+
+----
+num: 11
+category: Physics
+difficulty: HS
+answer: Z) Both Tanks Have the Same Pressure
+
+
+Water tank A has width W1 and tank B has width W2, where W1 > W2. The two water tanks are the same height, H. If both tanks are completely filled with water, which of the following is true about the water pressure at the bottom of the tank?
+W) Pressure cannot be determined 
+X) The pressure is greater in tank A
+Y) The pressure is greater in tank B
+Z) Both tanks have the same pressure
+
+----
+num: 11
+category: Physical Science
+difficulty: MS
+answer: W) Sodium
+
+Which of the following substances is likely to be the most reactive in water?
+W) Sodium
+X) Mercury
+Y) Aluminum
+Z) Gold
+
+----
+num: 11
+category: Physical Science
+difficulty: MS
+answer: X) Valence Electron Configuration
+
+
+The reactivity of an element depends predominantly on its:
+W) Atomic mass
+X) Valence electron configuration
+Y) Electronegativity
+Z) Relative abundance
+
+----
+num: 12
+category: Earth and Space
+difficulty: HS
+seen: 1
+answer: Y) 5
+
+Our solar system formed approximately how many billion years ago?
+W) 2
+X) 3
+Y) 5
+Z) 7
+
+----
+num: 12
+category: Life Science
+difficulty: MS
+answer: Y) Copepod
+
+Which of the following organisms is considered to be a crustacean?
+W) Jellyfish
+X) Diatom
+Y) Copepod
+Z) Foraminifera
+
+----
+num: 14
+category: Biology
+difficulty: HS
+seen: 1
+answer: Z) Prion
+
+In the 1980s, Europeans began to be diagnosed with mad cow disease, a disease which affects the brain. What is the type of infectious agent that causes this disease?
+W) Virus
+X) Bacteria
+Y) Fungi
+Z) Prion
+
+----
+num: 14
+category: Energy
+difficulty: MS
+answer: X) It Will Be Higher
+
+An observer is watching a train pass. As the train approaches the observer, in what way will the frequency of the sound emanating from the train appear to change relative to the observer?
+W) It will be lower
+X) It will be higher
+Y) It varies
+Z) It will not be different
+
+----
+num: 15
+category: Chemistry
+difficulty: HS
+seen: 1
+answer: Y) 1/1836
+
+What is the mass of an electron relative to a proton?
+W) 9.1 x 10^-^31
+X) 8.2 x 10^-^14
+Y) 1/1836
+Z) 0.51
+
+----
+num: 15
+category: Physical Science
+difficulty: MS
+answer: Y) the Tennis Ball and the Bowling Ball Will Hit T He Ground at 
+the Same Time
+
+Ariah is holding a bowling ball and Robert is holding a tennis ball on the roof of their school. Ariah and Robert drop these objects off the roof at the same time. Neglecting air resistance, what will happen?
+W) Ariah's bowling ball will hit the ground first due to its greater mass
+X) Robert's tennis ball will hi t the ground first due to its faster acceleration
+Y) The tennis ball and the bowling ball will hit the ground at the same time
+Z) The result can't be determined without knowing the ball's density
+
+----
+num: 17
+category: Chemistry
+difficulty: HS
+seen: 1
+answer: W)  Hydrofluoric Acid
+
+Which of the foll owing is NOT a strong acid?
+W) Hydrofluoric acid
+X) Hydrochloric acid
+Y) Hydrobromic acid
+Z) Hydroiodic acid
+
+----
+num: 17
+category: Chemistry
+difficulty: HS
+seen: 1
+answer: X) Equal to 7
+
+
+Which of the following would be the resulting pH from the reaction of equal amounts of a strong acid with a strong base?
+W) Less than 7
+X) Equal to 7
+Y) More than 7
+Z) The reaction is independent of the pH
+
+----
+num: 17
+category: Life Science
+difficulty: MS
+answer: W) Fungi Are More Closely Related to Plants Than Animals
+ 
+
+Which of the following statements is NOT true about the kingdom Fungi?
+W) Fungi are more closely related to plants than animals
+X) Fungi are not dependent on light
+Y) Fungi can grow in any direction
+Z) Fungi usually reproduce by wind -disseminated spores
+
+----
+num: 18
+category: Energy
+difficulty: MS
+answer: W) Copper
+
+Electrical current is best conducted through which of the following substances?
+W) Copper
+X) Water
+Y) Wood
+Z) Stone
+
+----
+num: 19
+category: Energy
+difficulty: HS
+seen: 1
+answer: X) 40%
+
+
+The Organization of the Petroleum Exporting Countries (OPEC) pr oduces about what percentage of the world’s crude oil?
+W) 20%
+X) 40%
+Y) 60%
+Z) 80%
+
+----
+num: 19
+category: Earth and Space Science
+difficulty: MS
+answer: X) Hydrogen Gas
+
+Which of the following is NOT a fossil fuel?
+W) Oil
+X) Hydrogen gas
+Y) Natural gas 
+Z) Coal
+
+----
+num: 19
+category: Earth and Space Science
+difficulty: MS
+answer: W) Desert
+
+
+Fossil fuels form through the decomposition of organic materials. You’re studying a map that shows ancient environments. If you went hunting tomorrow for fossil fuels, which of these ancient habitats would you avoid?
+W) Desert
+X) Swamp
+Y) Forest
+Z) Coral reef
+
+----
+num: 21
+category: Physics
+difficulty: HS
+seen: 1
+answer: Z) Perfectly Inelastic
+
+What type of collision occurs when two objects collide and stick together?
+W) Partially elastic
+X) Perfectly elastic
+Y) Partially inelastic
+Z) Perfectly inelastic
+
+----
+num: 21
+category: Physics
+difficulty: HS
+seen: 1
+answer: Y) Kinetic Energy
+
+
+For all collisions, all of the following properties are conserved except:
+W) Total mass
+X) Center of mass
+Y) Kinetic energy
+Z) Momentum
+
+----
+num: 21
+category: Life Science
+difficulty: MS
+answer: Y) for the Production of Human Food
+
+Transgenic animals carry the genes from other species in their DNA through a deliberate modification of their genome. Which of the following phrases does NOT reflect why transgenic animals are currently being produced in the United States?
+W) To have animal models for human diseases
+X) To test the purity of human proteins (such as human insulin) used as drugs 
+Y) For the production of human food
+Z) Improving animal health or productivity
+
+----
+num: 21
+category: Life Science
+difficulty: MS
+answer: Z) Viability of Transgenic Fish
+
+
+Which of the following issues do humans have the most control over when contemplating the release of transgenic animals into the wi ld?
+W) Competition between transgenic and wild populations
+X) Movement of the altered gene into the wild gene pool
+Y) Different niche requirements with the transgenic versus wild populations
+Z) Viability of transgenic fish
+
+----
+num: 22
+category: General Science
+difficulty: MS
+answer: Y) Number of Neutrons
+
+Two isotopes of the same element differ with respect to which of the following?
+W) Number of protons
+X) Number of electrons
+Y) Number of neutrons
+Z) Atomic number
+
+----
+num: 23
+category: Earth and Space Science
+difficulty: MS
+answer: W) They Are Responsible for Bringing Energy From the Physical 
+World Into the Biological World
+
+Which of the following statements is trueabout primary producers in the ocean?
+W) They are responsible for bringing energy from the physical world into the biological world
+X) They are found primarily in tropical coral reef environments in equatorial waters
+Y) They are also referred to as primary consumers in an ecosystem model
+Z) They include sharks and large bony fishes
+
+----
+num: 23
+category: Earth and Space Science
+difficulty: MS
+answer: Y) the Source of Energy Is Chemical Energy From Hydrothermal 
+Vents of the Seafloo R
+
+
+Which of the following is true about deep mid-ocean ridge ecosystems?
+W) There are no primary producers, only consumers and decomposers
+X) The organisms are highly mobile, ascending daily to the ocean surface to feed
+Y) The source of energy is chemical energy from hydrothermal vents of the seafloor 
+Z) The organisms have the most dynamic and complex coloring on their bodies so they can be visible at depth
+
+----
+num: 24
+category: Energy
+difficulty: HS
+answer: Z) the Difference in Temperatures Between S Urface and Deep 
+Waters
+
+Ocean thermal energy conversion systems convert solar radiation to electric power. Which of the following describes the source of energy in ocean thermal energy conversion systems?
+W) Magma below the ocean floor 
+X) Oceanic thermal vents 
+Y) Wave motion
+Z) The difference in temperatures between surface and deep waters
+
+----
+num: 24
+category: Energy
+difficulty: HS
+seen: 1
+answer: Y) 20 ̊
+
+What is the minimum temperature difference, in degrees 
+Ce lsius, needed to develop an ocean thermal energy conversion system?
+W) 10 ̊
+X) 15 ̊
+Y) 20 ̊
+Z) 25 ̊
+
+----
+num: 24
+category: Math
+difficulty: MS
+answer: Z) Z) √61
+√61
+
+What is the measure, in inches, of the hypotenuse of a right triangle when the other two sides measure 6 inches and 5 inches?
+Y) W) 30 
+X) √√3011
+
+----
+num: 25
+category: Earth and Space
+difficulty: HS
+seen: 1
+answer: W) a Storm
+
+Which of the following describes Jupiter's great red spot?
+W) A storm 
+X) An aurora
+Y) A magnetotail
+Z) A volcano
+
+----
+num: 25
+category: Earth and Space Science
+difficulty: MS
+answer: W) Visible Light and Infrared
+
+Most of the photons emitted by our sun fall in which pair of ranges of the electromagnetic spectrum?
+W) Visible light and infrared
+X) Radio and X-ray 
+Y) Gamma and infrared
+Z) Ultraviolet and visible
+
+----
+num: 25
+category: Earth and Space Science
+difficulty: MS
+answer: Y) 5 Billion
+
+Our sun is expected to last for approximately how many more years?
+W) 50 million
+X) 500 million
+Y) 5 billion
+Z) 50 billion

@@ -1,0 +1,495 @@
+####
+tournament: Sample Set 5
+round: Round12.pdf
+####
+
+num: 1
+category: Physical Science
+difficulty: MS
+answer: Y) H-F
+
+
+Which of the following covalent bonds is most polar?
+W) C-N
+X) N-O
+Y) H-F
+Z) F-F
+
+----
+num: 2
+category: Earth and Space
+difficulty: HS
+answer: Y) Auroras Visible at a 45° Geomagnetic Latitude
+
+As described by the NOAA space weather scale, which of the following is NOT an effect of a weak geomagnetic storm?
+W) Power grid fluctuations
+X) Minor impact on satellite operations
+Y) Auroras visible at a 45° geomagnetic latitude
+Z) Migration pathways that may require animals to travel further than normal
+
+----
+num: 2
+category: Earth and Space Science
+difficulty: MS
+answer: Y) Garnet
+
+Which of the following minerals can create metamorphic structures known as snowball structures?
+W) Kyanite (read as: KY-ah-nyt)
+X) Muscovite (read as: MUHS-koh-vyt) mica
+Y) Garnet
+Z) Talc
+
+----
+num: 3
+category: Physics
+difficulty: HS
+answer: W) 1 Meter From +Q
+
+Consider charges +Q and +4Q, separated by 3 meters. At which of the following points on a line between the two charges can a charge –Q be placed so that it will experience no electrostatic force?
+W) 1 meter from +Q
+X) 1 meter from +4Q
+Y) 0.6 meter from +Q
+Z) 0.6 meter from +4Q
+
+----
+num: 4
+category: Energy
+difficulty: HS
+answer: Y)  Cultivation of Switchgrass
+
+A combination of technologies called the Sahara Forest Project with the potential to produce commercial quantities of food and energy crops, fresh water , and electricity in the desert, has all of the following components, EXCEPT:
+W) Seawater greenhouse
+X) Condensation collectors
+Y) Cultivation of switchgrass
+Z) Steam turbine generator
+
+----
+num: 4
+category: Energy
+difficulty: MS
+answer: Z) 5.5
+
+About how many million metric tons of methane do cattle emit into the atmosphere per year in the U.S.?
+W) 2.5
+X) 3.5
+Y) 4.5
+Z) 5.5
+
+----
+num: 4
+category: Energy
+difficulty: MS
+answer: Z) 3.5  Million
+
+Cow Power farms in Vermont have more than 500 cows on each farm. These farms use the cows’ manure to generate approximately how many kilowatt hours of electricity each year?
+W) 3.5 thousand
+X) 33 thousand
+Y) 350 thousand
+Z) 3.5 million
+
+----
+num: 6
+category: Earth and Space Science
+difficulty: MS
+answer: W)  Antarctic Bottom Water
+
+Which of the following is the coldest and densest water in Earth’s oceans?
+W) Antarctic bottom water
+X) North Atlantic deep water
+Y) Atlantic intermediate water
+Z) Arctic water
+
+----
+num: 6
+category: Earth and Space Science
+difficulty: MS
+answer: W)  It Cooled in Stages, at Different Levels Within the Crust
+
+An igneous rock has a porphyritic texture. 
+Which of the following does this indicate about the cooling history?
+W) It cooled in stages, at different levels within the crust
+X) It cooled rapidly near the surface
+Y) It cooled on the surface and was quenched
+Z) It cooled slowly, at one time, at depth
+
+----
+num: 7
+category: Physics
+difficulty: HS
+answer: Y) It Uses Both Magnetic Fields and Lasers  to Cool Matter
+
+A common device used to study extreme forms of matter is the magneto-optical trap. Which of the following explains h ow the trap works?
+W) It heats magnetically contained matter with lasers
+X) It oscillates matter through dipole interactions
+Y) It uses both magnetic fields and lasers to cool matter
+Z) It magnetically accelerates matter through optical lens systems
+
+----
+num: 7
+category: Physical Science
+difficulty: MS
+answer: Z) Chlorine
+
+Which of the following elements has the highest first ionization energy?
+W) Sodium
+X) Aluminum
+Y) Phosphorus
+Z) Chlorine
+
+----
+num: 8
+category: Earth and Space Science
+difficulty: MS
+answer: Y) It Discovered Carbon Dioxide Snow Falling on Mars
+
+Which of the following is NOT true about the Mars Reconnaissance Orbiter?
+W) The transit time from Earth to Mars was about seven months
+X) It has a camera that can spot Martian objects that are as small as a dinner table
+Y) It discovered carbon dioxide snow falling on Mars 
+Z) When it is at its closest range to Earth, it can send data to Earth faster than a cable or DSL home internet connection
+
+----
+num: 9
+category: Energy
+difficulty: MS
+answer: W) Lie Perpendicular to the Sun’s Rays
+
+When a reptile is cold, it will do which of the following?
+W) Lie perpendicular to the Sun ’s rays
+X) Lie parallel to the Sun’s rays
+Y) Open its mouth wide
+Z) Lighten its color
+
+----
+num: 10
+category: Biology
+difficulty: HS
+answer: W) Carrying Oxygen
+
+Hemolymph (read as; HEE-moh-lim(p)f) in the insect Epicauta vittata (read as: eh-pee-KOH-tah vee-TAH-tah) has all of the following functions, EXCEPT:
+W) Carrying oxygen 
+X) Circulating water
+Y) Circulating nutrients
+Z) Transporting immune cells
+
+----
+num: 10
+category: Life Science
+difficulty: MS
+answer: Y) Prions Do Not Contain Nucleic Acids
+
+Which of the following is a reason why a prion is different from a virus?
+W) Viruses are not alive and do not have genomes
+X) Viruses are much smaller than prions
+Y) Prions do not contain nucleic acids
+Z) Prions are always enveloped, while only some viruses are
+
+----
+num: 11
+category: Math
+difficulty: HS
+seen: 1
+answer: W) Pentagonal Prism
+
+A polyhedron with seven faces, exactly five of which are rectangles, could be which of the following?
+W) Pentagonal prism
+X) Pentagonal pyramid
+Y) Hexagonal prism
+Z) Hexagonal pyramid
+
+----
+num: 12
+category: Life Science
+difficulty: MS
+answer: Z) Rna Has Catalytic Functi Ons
+
+Which of the following characteristics suggests that RNAwas formed before DNA?
+W) DNA is more stable
+X) DNA can form longer strands
+Y) RNA is less stable
+Z) RNA has catalytic functions
+
+----
+num: 13
+category: Energy
+difficulty: HS
+seen: 1
+answer: Z) Hysteresis Losses 
+
+
+Which of the following components is the greatest contributor to no-load losses on transformers?
+W) Eddy current losses in the core laminations
+X) Heat losses due to no-load current
+Y) Dielectric losses
+Z) Hysteresis losses
+
+----
+num: 13
+category: Energy
+difficulty: MS
+answer: Y) Off the East Coasts of the Philippines
+
+Which of the following water locations would be the best site for ocean thermal energy conversion ?
+W) Off the west coast of South America
+X) Off the west coast of the United States
+Y) Off the east coasts of the Philippines
+Z) Off the east coast of Africa
+
+----
+num: 14
+category: Physics
+difficulty: HS
+answer: Z) the Strong Force Between Quarks Dominates
+
+Which of the following statements BEST describes why protons in the nucleus do NOT fly apart due to coulomb repulsion?
+W) The negative charges of the orbiting electrons neutralize the positive charges of the protons
+X) The coulomb force does not manifest within the nucleus
+Y) Neutrons cancel the coulomb repulsion
+Z) The strong force between quarks dominates
+
+----
+num: 14
+category: Physical Science
+difficulty: MS
+answer: Z ) Precipitating Silver Chloride
+
+In which of the following processes does the entropy of the system decrease?
+W) Melting ice
+X) Boiling liquid water
+Y) Dissolving sodium chloride in water
+Z) Precipitating silver chloride
+
+----
+num: 15
+category: Biology
+difficulty: HS
+seen: 1
+answer: Z) Mg^2+^
+
+Which of the following ions is NOT directly involved in setting the voltage of a cell membrane?
+W) Ca^2+
+X) K+
+Z)Y) Na
+Mg+^2+
+
+----
+num: 15
+category: Life Science
+difficulty: MS
+answer: Z) Carbon
+
+Respiration is part of the biogeochemical cycle for which of the following elements?
+W) Nitrogen
+X) Phosphorus
+Y) Silicon
+Z) Carbon
+
+----
+num: 15
+category: Life Science
+difficulty: MS
+answer: Y) Stroma
+
+
+In which of the following locations does the Calvin cycle take place?
+W) Inner thylakoid (read as: THY-lah-koyd) membrane
+X) Mitochondrial (read as: my-toh-KOHN-dree-ahl) membrane
+Y) Stroma
+Z) Interstitial fluid
+
+----
+num: 16
+category: Math
+difficulty: HS
+answer: X) the Function Has a Vertical Asymptote
+
+Which of the following statements is TRUE about the function f(x) = ^sin(^x^2^x^)(read as: f of x equals sine of x over x squared)?
+W) The graph of the function passes through the origin
+X) The function has a vertical asymptote
+Y) The function does not have a horizontal asymptote
+Z) The graph of the function is symmetric about the x-axis
+
+----
+num: 17
+category: General Science
+difficulty: MS
+answer: Y) Diploid Sporophyte
+
+A pine tree grows in your backyard. With respect to alternation of generations, the tree itself would be classified as which of the following?
+W) Diploid gametophyte
+X) Haploid gametophyte
+Y) Diploid sporophyte
+Z) Haploid sporophyte
+
+----
+num: 18
+category: Earth and Space
+difficulty: HS
+seen: 1
+answer: X)  Nonconformity
+
+A granitic pluton is overlain by a sandstone . This relationship is an example of which of the following?
+W) Angular unconformity
+X) Nonconformity
+Y) Disconformity
+Z) Inclusion
+
+----
+num: 18
+category: Earth and Space Science
+difficulty: MS
+answer: X) High Pressure
+
+Both 30° north and 30° south latitude are characterized by zones of which of the following?
+W) Surface convergence
+X) High pressure 
+Y) Low pressure
+Z) Jet streams
+
+----
+num: 18
+category: Earth and Space Science
+difficulty: MS
+answer: X) Halite
+
+As ancient seas evaporate, thick layers of which of the following minerals can be formed and later mined for economic use?
+W) Galena (read as: gah-LEE-nah)
+X) Halite 
+Y) Quartz
+Z) Diamonds
+
+----
+num: 19
+category: General Science
+difficulty: MS
+answer: X) Most Nonpolar Substances Easily Dissolve in It
+
+Which of the following is NOT one of the distinct properties of water that permits life on Earth?
+W) There is hydrogen bonding among water molecules
+X) Most nonpolar substances easily dissolve in it
+Y) Water has a lower density in the solid phase than the liquid phase 
+Z) Water exists in all three states of matter at normal temperatures on Earth
+
+----
+num: 20
+category: Biology
+difficulty: HS
+answer: Y) Tentacles
+
+Which of the following characteristics does NOT accurately describe organisms in the phylum Ctenophora (read as: teh-NOH-foh-rah)?
+W) Colloblasts
+X) Cilary comb rows
+Y) Tentacles
+Z) B iradial symmetry
+
+----
+num: 21
+category: Chemistry
+difficulty: HS
+seen: 1
+answer: Y) Potassium
+
+Which of the following elements will react most vigorously with water to form hydrogen gas as a by -product?
+W) Magnesium
+X) Barium
+Y) Potassium
+Z) Bismuth
+
+----
+num: 21
+category: Chemistry
+difficulty: HS
+answer: X) Stripping
+
+
+If you want to separate a liquid mixture containing at least one volatile component, which of the following techniques could you use?
+W) Scrubbing
+X) Stripping
+Y) Electrorefining
+Z) Effusion
+
+----
+num: 21
+category: General Science
+difficulty: MS
+answer: X)  Enzymes Catalyze Rea Ctions Best at Very High Temperatures
+
+Which of the following is NOT characteristic of a typical enzyme?
+W) Enzymes are composed of polypeptides
+X) Enzymes catalyze reactions best at very high temperatures
+Y) Enzymes lower the activation energy of a reaction
+Z) Enzymes can exhibit saturation at high substrate levels
+
+----
+num: 22
+category: Math
+difficulty: MS
+answer: W)  Hyperbola
+
+The equation x^2    3y^2+ 2x    4y    8 = 0 graphs as which of the following conic sections?
+W) Hyperbola
+X) Ellipse
+Y) Parabola
+Z) Circle
+
+----
+num: 23
+category: Physics
+difficulty: HS
+answer: X) 40
+
+The resistance of a hot tungsten filament is about 10 times the cold resistance. What is the resistance, in ohms, of a 100 watt and 200 volt lamp filament when not in use?
+W) 20
+X) 40
+Y) 200
+Z) 400
+
+----
+num: 24
+category: Life Science
+difficulty: MS
+answer: Z) Protist
+
+Which of the following types of organisms caused the potato famine in Ireland in the 1800s?
+W) Fungus
+X) Bacteria
+Y) Virus
+Z) Protist
+
+----
+num: 25
+category: Chemistry
+difficulty: HS
+seen: 1
+answer: Z)  Feo: Ferric Oxide
+
+Which of the following co mpounds is NOT named 
+CORRECTLY?
+W) SnF^2: stannous fluoride
+X) CuCl: cuprous chloride
+Y) PbO^2: plumbic oxide
+Z) FeO: ferric oxide
+
+----
+num: 25
+category: General Science
+difficulty: MS
+answer: W) It Is Possible to Have Dew Without Fog
+
+Which of the following statements is TRUE about dew, fog, and frost?
+W) It is possible to have dew without fog
+X) It is possible to have fog without dew
+Y) Frost is formed from condensed dew
+Z) Frost is formed from condensed fog
+
+----
+num: 25
+category: General Science
+difficulty: MS
+answer: Z)  Have the Force Pull at an Angle of 20° Upward
+
+A weight is pulled by a force over a horizontal surface and friction results. Which of the following scenarios would decrease the frictional fo rce?
+W) Increase the force pulling the object
+X) Have the force pull at an angle of 0° upward
+Y) Have the force pull at an angle of 20° downward
+Z) Have the force pull at an angle of 20° upward

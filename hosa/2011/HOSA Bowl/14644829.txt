@@ -1,0 +1,3503 @@
+####
+tournament: HOSA Bowl
+round: 14644829
+year: 2011
+####
+
+num: 1
+category: Medical Terminology
+difficulty: Normal
+seen: 0
+answer: gastr
+
+stomach
+
+
+----
+num: 2
+category: Medical Terminology
+difficulty: Normal
+seen: 0
+answer: cardi
+
+heart
+
+
+----
+num: 3
+category: Medical Terminology
+difficulty: Normal
+seen: 0
+answer: megal
+
+enlarged
+
+
+----
+num: 4
+category: Medical Terminology
+difficulty: Normal
+seen: 19
+answer: itis
+
+inflammation
+
+
+----
+num: 5
+category: Medical Terminology
+difficulty: Normal
+seen: 0
+answer: dermat
+
+skin
+
+
+----
+num: 6
+category: Medical Terminology
+difficulty: Normal
+seen: 0
+answer: plast
+
+surgical repair
+
+
+----
+num: 7
+category: Medical Terminology
+difficulty: Normal
+seen: 0
+answer: cerebr
+
+brain
+
+
+----
+num: 8
+category: Medical Terminology
+difficulty: Normal
+seen: 0
+answer: path
+
+disease
+
+
+----
+num: 9
+category: Medical Terminology
+difficulty: Normal
+seen: 0
+answer: ectomy
+
+surgical removal
+
+
+----
+num: 10
+category: Medical Terminology
+difficulty: Normal
+seen: 0
+answer: enter
+
+intestines
+
+
+----
+num: 11
+category: Medical Terminology
+difficulty: Normal
+seen: 0
+answer: osis
+
+any condition
+
+
+----
+num: 12
+category: Medical Terminology
+difficulty: Normal
+seen: 0
+answer: otomy
+
+cut into
+
+
+----
+num: 13
+category: Medical Terminology
+difficulty: Normal
+seen: 0
+answer: aden
+
+gland
+
+
+----
+num: 14
+category: Medical Terminology
+difficulty: Normal
+seen: 0
+answer: angi
+
+vessel
+
+
+----
+num: 15
+category: Medical Terminology
+difficulty: Normal
+seen: 0
+answer: oma
+
+tumor
+
+
+----
+num: 16
+category: Medical Terminology
+difficulty: Normal
+seen: 0
+answer: nephr
+
+kidney
+
+
+----
+num: 17
+category: Medical Terminology
+difficulty: Normal
+seen: 0
+answer: hepat
+
+liver
+
+
+----
+num: 18
+category: Medical Terminology
+difficulty: Normal
+seen: 3
+answer: arthr
+
+joint
+
+
+----
+num: 19
+category: Medical Terminology
+difficulty: Normal
+seen: 10
+answer: blephar
+
+eyelid
+
+
+----
+num: 20
+category: Medical Terminology
+difficulty: Normal
+seen: 0
+answer: ologist
+
+specialist
+
+
+----
+num: 21
+category: Medical Terminology
+difficulty: Normal
+seen: 0
+answer: rhin
+
+nose
+
+
+----
+num: 22
+category: Medical Terminology
+difficulty: Normal
+seen: 6
+answer: gingiv
+
+gum
+
+
+----
+num: 23
+category: Medical Terminology
+difficulty: Normal
+seen: 0
+answer: malacia
+
+soft
+
+
+----
+num: 24
+category: Medical Terminology
+difficulty: Normal
+seen: 0
+answer: ology
+
+the study of
+
+
+----
+num: 25
+category: Medical Terminology
+difficulty: Normal
+seen: 14
+answer: spasm
+
+involuntary contraction
+
+
+----
+num: 26
+category: Medical Terminology
+difficulty: Normal
+seen: 0
+answer: algia
+
+pain
+
+
+----
+num: 27
+category: Medical Terminology
+difficulty: Normal
+seen: 0
+answer: crani
+
+skull
+
+
+----
+num: 28
+category: Medical Terminology
+difficulty: Normal
+seen: 0
+answer: end
+
+inside
+
+
+----
+num: 29
+category: Medical Terminology
+difficulty: Normal
+seen: 0
+answer: hemi
+
+half
+
+
+----
+num: 30
+category: Medical Terminology
+difficulty: Normal
+seen: 0
+answer: oid
+
+like
+
+
+----
+num: 31
+category: Medical Terminology
+difficulty: Normal
+seen: 0
+answer: hyper
+
+above, more than normal
+
+
+----
+num: 32
+category: Medical Terminology
+difficulty: Normal
+seen: 0
+answer: cyst
+
+sac containing fluids
+
+
+----
+num: 33
+category: Medical Terminology
+difficulty: Normal
+seen: 0
+answer: chole
+
+bile
+
+
+----
+num: 34
+category: Medical Terminology
+difficulty: Normal
+seen: 4
+answer: hypo
+
+under
+
+
+----
+num: 35
+category: Medical Terminology
+difficulty: Normal
+seen: 0
+answer: scop
+
+observe
+
+
+----
+num: 36
+category: Medical Terminology
+difficulty: Normal
+seen: 0
+answer: hyster
+
+uterus
+
+
+----
+num: 37
+category: Medical Terminology
+difficulty: Normal
+seen: 0
+answer: ostomy
+
+create an opening
+
+
+----
+num: 38
+category: Medical Terminology
+difficulty: Normal
+seen: 0
+answer: para
+
+beside
+
+
+----
+num: 39
+category: Medical Terminology
+difficulty: Normal
+seen: 0
+answer: lysis
+
+loosening
+
+
+----
+num: 40
+category: Medical Terminology
+difficulty: Normal
+seen: 0
+answer: cervic
+
+neck
+
+
+----
+num: 41
+category: Medical Terminology
+difficulty: Normal
+seen: 0
+answer: chondr
+
+cartilage
+
+
+----
+num: 42
+category: Medical Terminology
+difficulty: Normal
+seen: 0
+answer: cyan
+
+blue
+
+
+----
+num: 43
+category: Medical Terminology
+difficulty: Normal
+seen: 0
+answer: hem(at)
+
+blood
+
+
+----
+num: 44
+category: Medical Terminology
+difficulty: Normal
+seen: 0
+answer: ost
+
+bone
+
+
+----
+num: 45
+category: Medical Terminology
+difficulty: Normal
+seen: 0
+answer: psycho
+
+mind
+
+
+----
+num: 46
+category: Medical Terminology
+difficulty: Normal
+seen: 0
+answer: lip
+
+fat
+
+
+----
+num: 47
+category: Medical Terminology
+difficulty: Normal
+seen: 6
+answer: my
+
+muscle
+
+
+----
+num: 48
+category: Medical Terminology
+difficulty: Normal
+seen: 1
+answer: lith
+
+stone
+
+
+----
+num: 49
+category: Medical Terminology
+difficulty: Normal
+seen: 0
+answer: ophthalm
+
+eye
+
+
+----
+num: 50
+category: Medical Terminology
+difficulty: Normal
+seen: 0
+answer: proct
+
+anus
+
+
+----
+num: 51
+category: Medical Terminology
+difficulty: Normal
+seen: 0
+answer: cost
+
+rib
+
+
+----
+num: 52
+category: Medical Terminology
+difficulty: Normal
+seen: 0
+answer: gram
+
+record
+
+
+----
+num: 53
+category: Medical Terminology
+difficulty: Normal
+seen: 5
+answer: acro
+
+extremities
+
+
+----
+num: 54
+category: Medical Terminology
+difficulty: Normal
+seen: 2
+answer: rhexis
+
+break
+
+
+----
+num: 55
+category: Medical Terminology
+difficulty: Normal
+seen: 8
+answer: carcin
+
+cancer
+
+
+----
+num: 56
+category: Medical Terminology
+difficulty: Normal
+seen: 0
+answer: penia
+
+decrease
+
+
+----
+num: 57
+category: Medical Terminology
+difficulty: Normal
+seen: 0
+answer: gen
+
+original
+
+
+----
+num: 58
+category: Medical Terminology
+difficulty: Normal
+seen: 0
+answer: burso
+
+sac
+
+
+----
+num: 59
+category: Medical Terminology
+difficulty: Normal
+seen: 14
+answer: retro
+
+backwards
+
+
+----
+num: 60
+category: Medical Terminology
+difficulty: Normal
+seen: 0
+answer: trip
+
+rub
+
+
+----
+num: 61
+category: Medical Terminology
+difficulty: Normal
+seen: 9
+answer: strept
+
+twist
+
+
+----
+num: 62
+category: Medical Terminology
+difficulty: Normal
+seen: 12
+answer: desis
+
+binding
+
+
+----
+num: 63
+category: Medical Terminology
+difficulty: Normal
+seen: 15
+answer: mani
+
+madness
+
+
+----
+num: 64
+category: Medical Terminology
+difficulty: Normal
+seen: 0
+answer: glosso
+
+tongue
+
+
+----
+num: 65
+category: Medical Terminology
+difficulty: Normal
+seen: 0
+answer: trophy
+
+development
+
+
+----
+num: 66
+category: Medical Terminology
+difficulty: Normal
+seen: 9
+answer: supra
+
+above
+
+
+----
+num: 67
+category: Medical Terminology
+difficulty: Normal
+seen: 0
+answer: ptosis
+
+falling
+
+
+----
+num: 68
+category: Medical Terminology
+difficulty: Normal
+seen: 0
+answer: dyn
+
+pain
+
+
+----
+num: 69
+category: Medical Terminology
+difficulty: Normal
+seen: 0
+answer: mast
+
+breast
+
+
+----
+num: 70
+category: Medical Terminology
+difficulty: Normal
+seen: 9
+answer: rrhaphy
+
+suture
+
+
+----
+num: 71
+category: Medical Terminology
+difficulty: Normal
+seen: 0
+answer: dent
+
+teeth
+
+
+----
+num: 72
+category: Medical Terminology
+difficulty: Normal
+seen: 0
+answer: cephal
+
+head
+
+
+----
+num: 73
+category: Medical Terminology
+difficulty: Normal
+seen: 0
+answer: auto
+
+self
+
+
+----
+num: 74
+category: Medical Terminology
+difficulty: Normal
+seen: 0
+answer: epi
+
+upon
+
+
+----
+num: 75
+category: Medical Terminology
+difficulty: Normal
+seen: 0
+answer: hydro
+
+water
+
+
+----
+num: 76
+category: Medical Terminology
+difficulty: Normal
+seen: 0
+answer: lobo
+
+section
+
+
+----
+num: 77
+category: Medical Terminology
+difficulty: Normal
+seen: 0
+answer: emesis
+
+vomiting
+
+
+----
+num: 78
+category: Medical Terminology
+difficulty: Normal
+seen: 0
+answer: contra
+
+against
+
+
+----
+num: 79
+category: Medical Terminology
+difficulty: Normal
+seen: 0
+answer: iasis
+
+condition
+
+
+----
+num: 80
+category: Medical Terminology
+difficulty: Normal
+seen: 0
+answer: trans
+
+across
+
+
+----
+num: 81
+category: Medical Terminology
+difficulty: Normal
+seen: 17
+answer: brady
+
+slow
+
+
+----
+num: 82
+category: Medical Terminology
+difficulty: Normal
+seen: 13
+answer: ectasis
+
+expansion
+
+
+----
+num: 83
+category: Medical Terminology
+difficulty: Normal
+seen: 0
+answer: cyt
+
+cell
+
+
+----
+num: 84
+category: Medical Terminology
+difficulty: Normal
+seen: 0
+answer: odont
+
+tooth
+
+
+----
+num: 85
+category: Medical Terminology
+difficulty: Normal
+seen: 0
+answer: leuk
+
+white
+
+
+----
+num: 86
+category: Medical Terminology
+difficulty: Normal
+seen: 6
+answer: esthesia
+
+sensation
+
+
+----
+num: 87
+category: Medical Terminology
+difficulty: Normal
+seen: 0
+answer: cantho
+
+angle at the end of the eyelid
+
+
+----
+num: 88
+category: Medical Terminology
+difficulty: Normal
+seen: 0
+answer: steno
+
+narrow
+
+
+----
+num: 89
+category: Medical Terminology
+difficulty: Normal
+seen: 0
+answer: cheil
+
+lip
+
+
+----
+num: 90
+category: Medical Terminology
+difficulty: Normal
+seen: 10
+answer: cele
+
+hernia
+
+
+----
+num: 91
+category: Medical Terminology
+difficulty: Normal
+seen: 0
+answer: benign
+
+mild, not cancerous
+
+
+----
+num: 92
+category: Medical Terminology
+difficulty: Normal
+seen: 0
+answer: semen
+
+seed
+
+
+----
+num: 93
+category: Medical Terminology
+difficulty: Normal
+seen: 5
+answer: celio
+
+abdomen
+
+
+----
+num: 94
+category: Medical Terminology
+difficulty: Normal
+seen: 0
+answer: erytho
+
+red
+
+
+----
+num: 95
+category: Medical Terminology
+difficulty: Normal
+seen: 0
+answer: vaso
+
+vessel
+
+
+----
+num: 96
+category: Medical Terminology
+difficulty: Normal
+seen: 0
+answer: melan
+
+black
+
+
+----
+num: 97
+category: Medical Terminology
+difficulty: Normal
+seen: 2
+answer: cauda
+
+tail
+
+
+----
+num: 98
+category: Medical Terminology
+difficulty: Normal
+seen: 8
+answer: lingua
+
+tongue
+
+
+----
+num: 99
+category: Medical Terminology
+difficulty: Normal
+seen: 0
+answer: myring
+
+eardrum
+
+
+----
+num: 100
+category: Medical Terminology
+difficulty: Normal
+seen: 0
+answer: spondyl
+
+spinal column
+
+
+----
+num: 101
+category: Medical Terminology
+difficulty: Normal
+seen: 0
+answer: ovar
+
+egg
+
+
+----
+num: 102
+category: Medical Terminology
+difficulty: Normal
+seen: 10
+answer: centesis
+
+puncture
+
+
+----
+num: 103
+category: Medical Terminology
+difficulty: Normal
+seen: 9
+answer: oto
+
+ear
+
+
+----
+num: 104
+category: Medical Terminology
+difficulty: Normal
+seen: 0
+answer: bili
+
+bile
+
+
+----
+num: 105
+category: Medical Terminology
+difficulty: Normal
+seen: 0
+answer: squam
+
+scale
+
+
+----
+num: 106
+category: Medical Terminology
+difficulty: Normal
+seen: 0
+answer: mening
+
+membrane
+
+
+----
+num: 107
+category: Medical Terminology
+difficulty: Normal
+seen: 0
+answer: cec
+
+blind passage
+
+
+----
+num: 108
+category: Medical Terminology
+difficulty: Normal
+seen: 0
+answer: macul
+
+spot
+
+
+----
+num: 109
+category: Medical Terminology
+difficulty: Normal
+seen: 0
+answer: pexy
+
+suspension
+
+
+----
+num: 110
+category: Medical Terminology
+difficulty: Normal
+seen: 8
+answer: onco
+
+tumor
+
+
+----
+num: 111
+category: Medical Terminology
+difficulty: Normal
+seen: 0
+answer: or
+
+mouth
+
+
+----
+num: 112
+category: Medical Terminology
+difficulty: Normal
+seen: 0
+answer: sub
+
+under
+
+
+----
+num: 113
+category: Medical Terminology
+difficulty: Normal
+seen: 14
+answer: spiro
+
+coil
+
+
+----
+num: 114
+category: Medical Terminology
+difficulty: Normal
+seen: 7
+answer: lacrim
+
+tear
+
+
+----
+num: 115
+category: Medical Terminology
+difficulty: Normal
+seen: 12
+answer: viscero
+
+organ
+
+
+----
+num: 116
+category: Medical Terminology
+difficulty: Normal
+seen: 0
+answer: lact
+
+milk
+
+
+----
+num: 117
+category: Medical Terminology
+difficulty: Normal
+seen: 0
+answer: onych
+
+nail
+
+
+----
+num: 118
+category: Medical Terminology
+difficulty: Normal
+seen: 0
+answer: thorac
+
+chest
+
+
+----
+num: 119
+category: Medical Terminology
+difficulty: Normal
+seen: 0
+answer: pyle
+
+gate
+
+
+----
+num: 120
+category: Medical Terminology
+difficulty: Normal
+seen: 13
+answer: vesic
+
+bladder
+
+
+----
+num: 121
+category: Medical Terminology
+difficulty: Normal
+seen: 0
+answer: sphenic
+
+wedge
+
+
+----
+num: 122
+category: Medical Terminology
+difficulty: Normal
+seen: 0
+answer: myel
+
+marrow
+
+
+----
+num: 123
+category: Medical Terminology
+difficulty: Normal
+seen: 18
+answer: anti
+
+against
+
+
+----
+num: 124
+category: Medical Terminology
+difficulty: Normal
+seen: 0
+answer: myco
+
+fungus
+
+
+----
+num: 125
+category: Medical Terminology
+difficulty: Normal
+seen: 16
+answer: hallux
+
+great toe
+
+
+----
+num: 126
+category: Medical Terminology
+difficulty: Normal
+seen: 14
+answer: physio
+
+nature
+
+
+----
+num: 127
+category: Medical Terminology
+difficulty: Normal
+seen: 0
+answer: bucco
+
+cheek
+
+
+----
+num: 128
+category: Medical Terminology
+difficulty: Normal
+seen: 0
+answer: plasia
+
+development
+
+
+----
+num: 129
+category: Medical Terminology
+difficulty: Normal
+seen: 0
+answer: rug
+
+wrinkle
+
+
+----
+num: 130
+category: Medical Terminology
+difficulty: Normal
+seen: 0
+answer: aur
+
+ear
+
+
+----
+num: 131
+category: Medical Terminology
+difficulty: Normal
+seen: 0
+answer: acousti
+
+hearing
+
+
+----
+num: 132
+category: Medical Terminology
+difficulty: Normal
+seen: 1
+answer: colpo
+
+hollow
+
+
+----
+num: 133
+category: Medical Terminology
+difficulty: Normal
+seen: 0
+answer: phon
+
+voice
+
+
+----
+num: 134
+category: Medical Terminology
+difficulty: Normal
+seen: 0
+answer: leio
+
+smooth
+
+
+----
+num: 135
+category: Medical Terminology
+difficulty: Normal
+seen: 7
+answer: cor
+
+heart
+
+
+----
+num: 136
+category: Medical Terminology
+difficulty: Normal
+seen: 0
+answer: ren
+
+kidney
+
+
+----
+num: 137
+category: Medical Terminology
+difficulty: Normal
+seen: 9
+answer: orchi
+
+testis
+
+
+----
+num: 138
+category: Medical Terminology
+difficulty: Normal
+seen: 0
+answer: encephal
+
+brain
+
+
+----
+num: 139
+category: Medical Terminology
+difficulty: Normal
+seen: 0
+answer: thalam
+
+inner chamber
+
+
+----
+num: 140
+category: Medical Terminology
+difficulty: Normal
+seen: 0
+answer: plexus
+
+braid
+
+
+----
+num: 141
+category: Medical Terminology
+difficulty: Normal
+seen: 0
+answer: cilia
+
+eyelash
+
+
+----
+num: 142
+category: Medical Terminology
+difficulty: Normal
+seen: 0
+answer: dendr
+
+branching
+
+
+----
+num: 143
+category: Medical Terminology
+difficulty: Normal
+seen: 0
+answer: phleb
+
+vein
+
+
+----
+num: 144
+category: Medical Terminology
+difficulty: Normal
+seen: 0
+answer: pilo
+
+hair
+
+
+----
+num: 145
+category: Medical Terminology
+difficulty: Normal
+seen: 0
+answer: histo
+
+tissue
+
+
+----
+num: 146
+category: Medical Terminology
+difficulty: Normal
+seen: 0
+answer: stoma
+
+mouth
+
+
+----
+num: 147
+category: Medical Terminology
+difficulty: Normal
+seen: 0
+answer: umbilic
+
+navel
+
+
+----
+num: 148
+category: Medical Terminology
+difficulty: Normal
+seen: 9
+answer: salpingo
+
+tube
+
+
+----
+num: 149
+category: Medical Terminology
+difficulty: Normal
+seen: 0
+answer: tympan
+
+eardrum
+
+
+----
+num: 150
+category: Medical Terminology
+difficulty: Normal
+seen: 5
+answer: palpebr
+
+eyelid
+
+
+----
+num: 151
+category: Medical Terminology
+difficulty: Normal
+seen: 0
+answer: helio
+
+sun
+
+
+----
+num: 152
+category: Medical Terminology
+difficulty: Normal
+seen: 0
+answer: astr
+
+star shaped
+
+
+----
+num: 153
+category: Medical Terminology
+difficulty: Normal
+seen: 0
+answer: asthenia
+
+weakness
+
+
+----
+num: 154
+category: Medical Terminology
+difficulty: Normal
+seen: 0
+answer: fascia
+
+sheet
+
+
+----
+num: 155
+category: Medical Terminology
+difficulty: Normal
+seen: 0
+answer: iso
+
+equal
+
+
+----
+num: 156
+category: Medical Terminology
+difficulty: Normal
+seen: 8
+answer: tarso
+
+ankle
+
+
+----
+num: 157
+category: Medical Terminology
+difficulty: Normal
+seen: 0
+answer: tope
+
+place
+
+
+----
+num: 158
+category: Medical Terminology
+difficulty: Normal
+seen: 3
+answer: pod
+
+foot
+
+
+----
+num: 159
+category: Medical Terminology
+difficulty: Normal
+seen: 11
+answer: malign
+
+bad
+
+
+----
+num: 160
+category: Medical Terminology
+difficulty: Normal
+seen: 0
+answer: adexa
+
+connection
+
+
+----
+num: 161
+category: Medical Terminology
+difficulty: Normal
+seen: 0
+answer: ocul
+
+eye
+
+
+----
+num: 162
+category: Medical Terminology
+difficulty: Normal
+seen: 0
+answer: lapar
+
+abdominal wall
+
+
+----
+num: 163
+category: Medical Terminology
+difficulty: Normal
+seen: 0
+answer: decry
+
+tear
+
+
+----
+num: 164
+category: Medical Terminology
+difficulty: Normal
+seen: 0
+answer: ment
+
+mind
+
+
+----
+num: 165
+category: Medical Terminology
+difficulty: Normal
+seen: 9
+answer: part
+
+labor
+
+
+----
+num: 166
+category: Medical Terminology
+difficulty: Normal
+seen: 18
+answer: sclera
+
+hard
+
+
+----
+num: 167
+category: Medical Terminology
+difficulty: Normal
+seen: 0
+answer: somato
+
+body
+
+
+----
+num: 168
+category: Medical Terminology
+difficulty: Normal
+seen: 1
+answer: trachel
+
+neck
+
+
+----
+num: 169
+category: Medical Terminology
+difficulty: Normal
+seen: 14
+answer: sinus
+
+hollow space
+
+
+----
+num: 170
+category: Medical Terminology
+difficulty: Normal
+seen: 0
+answer: hypno
+
+sleep
+
+
+----
+num: 171
+category: Medical Terminology
+difficulty: Normal
+seen: 0
+answer: sept
+
+wall
+
+
+----
+num: 172
+category: Medical Terminology
+difficulty: Normal
+seen: 0
+answer: scirrh
+
+hard
+
+
+----
+num: 173
+category: Medical Terminology
+difficulty: Normal
+seen: 0
+answer: antr
+
+cavity
+
+
+----
+num: 174
+category: Medical Terminology
+difficulty: Normal
+seen: 15
+answer: crine
+
+to secrete
+
+
+----
+num: 175
+category: Medical Terminology
+difficulty: Normal
+seen: 0
+answer: dura
+
+hard
+
+
+----
+num: 176
+category: Medical Terminology
+difficulty: Normal
+seen: 0
+answer: pneum
+
+lung
+
+
+----
+num: 177
+category: Medical Terminology
+difficulty: Normal
+seen: 0
+answer: phage
+
+to eat
+
+
+----
+num: 178
+category: Medical Terminology
+difficulty: Normal
+seen: 0
+answer: phren
+
+mind
+
+
+----
+num: 179
+category: Medical Terminology
+difficulty: Normal
+seen: 0
+answer: corne
+
+horny
+
+
+----
+num: 180
+category: Medical Terminology
+difficulty: Normal
+seen: 0
+answer: plak
+
+plate
+
+
+----
+num: 181
+category: Medical Terminology
+difficulty: Normal
+seen: 0
+answer: iris
+
+rainbow
+
+
+----
+num: 182
+category: Medical Terminology
+difficulty: Normal
+seen: 0
+answer: kerat
+
+horny
+
+
+----
+num: 183
+category: Medical Terminology
+difficulty: Normal
+seen: 0
+answer: pulmo
+
+lung
+
+
+----
+num: 184
+category: Medical Terminology
+difficulty: Normal
+seen: 0
+answer: ptyal
+
+saliva
+
+
+----
+num: 185
+category: Medical Terminology
+difficulty: Normal
+seen: 0
+answer: alveol
+
+cavity
+
+
+----
+num: 186
+category: Medical Terminology
+difficulty: Normal
+seen: 8
+answer: oophor
+
+ovary
+
+
+----
+num: 187
+category: Medical Terminology
+difficulty: Normal
+seen: 0
+answer: oment
+
+covering
+
+
+----
+num: 188
+category: Medical Terminology
+difficulty: Normal
+seen: 0
+answer: sedat
+
+quiet
+
+
+----
+num: 189
+category: Medical Terminology
+difficulty: Normal
+seen: 0
+answer: furca
+
+fork-shaped
+
+
+----
+num: 190
+category: Medical Terminology
+difficulty: Normal
+seen: 0
+answer: radic
+
+root
+
+
+----
+num: 191
+category: Medical Terminology
+difficulty: Normal
+seen: 0
+answer: radi
+
+ray
+
+
+----
+num: 192
+category: Medical Terminology
+difficulty: Normal
+seen: 0
+answer: fistul
+
+pipe
+
+
+----
+num: 193
+category: Medical Terminology
+difficulty: Normal
+seen: 0
+answer: edema
+
+swelling
+
+
+----
+num: 194
+category: Medical Terminology
+difficulty: Normal
+seen: 0
+answer: dactyl
+
+finger, toe
+
+
+----
+num: 195
+category: Medical Terminology
+difficulty: Normal
+seen: 0
+answer: metabole
+
+change
+
+
+----
+num: 196
+category: Medical Terminology
+difficulty: Normal
+seen: 0
+answer: pariet
+
+wall
+
+
+----
+num: 197
+category: Medical Terminology
+difficulty: Normal
+seen: 9
+answer: ependym
+
+wrapping
+
+
+----
+num: 198
+category: Medical Terminology
+difficulty: Normal
+seen: 1
+answer: gravid
+
+pregnant
+
+
+----
+num: 199
+category: Medical Terminology
+difficulty: Normal
+seen: 0
+answer: aer
+
+air
+
+
+----
+num: 200
+category: Medical Terminology
+difficulty: Normal
+seen: 0
+answer: glyco
+
+sweet
+
+
+----
+num: 201
+category: Medical Terminology
+difficulty: Normal
+seen: 7
+answer: tarsso(2)
+
+framework of the eyelid
+
+
+----
+num: 202
+category: Medical Terminology
+difficulty: Normal
+seen: 0
+answer: cheir
+
+hand
+
+
+----
+num: 203
+category: Medical Terminology
+difficulty: Normal
+seen: 0
+answer: calc
+
+heel
+
+
+----
+num: 204
+category: Medical Terminology
+difficulty: Normal
+seen: 0
+answer: cine
+
+move
+
+
+----
+num: 205
+category: Medical Terminology
+difficulty: Normal
+seen: 13
+answer: digit
+
+finger, toe
+
+
+----
+num: 206
+category: Medical Terminology
+difficulty: Normal
+seen: 0
+answer: dors
+
+back
+
+
+----
+num: 207
+category: Medical Terminology
+difficulty: Normal
+seen: 1
+answer: gangli
+
+swelling
+
+
+----
+num: 208
+category: Medical Terminology
+difficulty: Normal
+seen: 0
+answer: grad
+
+walk
+
+
+----
+num: 209
+category: Medical Terminology
+difficulty: Normal
+seen: 0
+answer: gran
+
+grain
+
+
+----
+num: 210
+category: Medical Terminology
+difficulty: Normal
+seen: 0
+answer: labi
+
+lip
+
+
+----
+num: 211
+category: Medical Terminology
+difficulty: Normal
+seen: 0
+answer: micr
+
+small
+
+
+----
+num: 212
+category: Medical Terminology
+difficulty: Normal
+seen: 0
+answer: peps
+
+digest
+
+
+----
+num: 213
+category: Medical Terminology
+difficulty: Normal
+seen: 0
+answer: pleur
+
+pleura, rib, side
+
+
+----
+num: 214
+category: Medical Terminology
+difficulty: Normal
+seen: 0
+answer: mamm
+
+breast
+
+
+----
+num: 215
+category: Medical Terminology
+difficulty: Normal
+seen: 5
+answer: colla
+
+glue
+
+
+----
+num: 216
+category: Medical Terminology
+difficulty: Normal
+seen: 9
+answer: later
+
+side
+
+
+----
+num: 217
+category: Medical Terminology
+difficulty: Normal
+seen: 0
+answer: rachi
+
+spinal column
+
+
+----
+num: 218
+category: Medical Terminology
+difficulty: Normal
+seen: 0
+answer: phob
+
+fear
+
+
+----
+num: 219
+category: Medical Terminology
+difficulty: Normal
+seen: 0
+answer: phot
+
+light
+
+
+----
+num: 220
+category: Medical Terminology
+difficulty: Normal
+seen: 7
+answer: dys
+
+bad
+
+
+----
+num: 221
+category: Medical Terminology
+difficulty: Normal
+seen: 0
+answer: cut
+
+skin
+
+
+----
+num: 222
+category: Medical Terminology
+difficulty: Normal
+seen: 0
+answer: en
+
+in
+
+
+----
+num: 223
+category: Medical Terminology
+difficulty: Normal
+seen: 0
+answer: peri
+
+around
+
+
+----
+num: 224
+category: Medical Terminology
+difficulty: Normal
+seen: 0
+answer: pro
+
+before
+
+
+----
+num: 225
+category: Medical Terminology
+difficulty: Normal
+seen: 0
+answer: gemin
+
+twin
+
+
+----
+num: 226
+category: Medical Terminology
+difficulty: Normal
+seen: 8
+answer: mechano
+
+machine
+
+
+----
+num: 227
+category: Medical Terminology
+difficulty: Normal
+seen: 0
+answer: dynam
+
+power
+
+
+----
+num: 228
+category: Medical Terminology
+difficulty: Normal
+seen: 12
+answer: osmo
+
+odor
+
+
+----
+num: 229
+category: Medical Terminology
+difficulty: Normal
+seen: 0
+answer: traumat
+
+wound
+
+
+----
+num: 230
+category: Medical Terminology
+difficulty: Normal
+seen: 0
+answer: trich
+
+hair
+
+
+----
+num: 231
+category: Medical Terminology
+difficulty: Normal
+seen: 0
+answer: maxill
+
+upper jawbone
+
+
+----
+num: 232
+category: Medical Terminology
+difficulty: Normal
+seen: 15
+answer: an
+
+without
+
+
+----
+num: 233
+category: Medical Terminology
+difficulty: Normal
+seen: 5
+answer: phak
+
+lens
+
+
+----
+num: 234
+category: Medical Terminology
+difficulty: Normal
+seen: 0
+answer: pre
+
+before
+
+
+----
+num: 235
+category: Medical Terminology
+difficulty: Normal
+seen: 0
+answer: strict
+
+draw tight
+
+
+----
+num: 236
+category: Medical Terminology
+difficulty: Normal
+seen: 0
+answer: turbin
+
+shaped like a top
+
+
+----
+num: 237
+category: Medical Terminology
+difficulty: Normal
+seen: 0
+answer: ameb
+
+change
+
+
+----
+num: 238
+category: Medical Terminology
+difficulty: Normal
+seen: 0
+answer: semi
+
+half
+
+
+----
+num: 239
+category: Medical Terminology
+difficulty: Normal
+seen: 11
+answer: neo
+
+new
+
+
+----
+num: 240
+category: Medical Terminology
+difficulty: Normal
+seen: 0
+answer: hormone
+
+excite
+
+
+----
+num: 241
+category: Medical Terminology
+difficulty: Normal
+seen: 11
+answer: therm
+
+heat
+
+
+----
+num: 242
+category: Medical Terminology
+difficulty: Normal
+seen: 13
+answer: syn
+
+together
+
+
+----
+num: 243
+category: Medical Terminology
+difficulty: Normal
+seen: 0
+answer: vuls
+
+twitch
+
+
+----
+num: 244
+category: Medical Terminology
+difficulty: Normal
+seen: 0
+answer: post
+
+after
+
+
+----
+num: 245
+category: Medical Terminology
+difficulty: Normal
+seen: 0
+answer: metr
+
+uterus
+
+
+----
+num: 246
+category: Medical Terminology
+difficulty: Normal
+seen: 0
+answer: tegument
+
+covering
+
+
+----
+num: 247
+category: Medical Terminology
+difficulty: Normal
+seen: 0
+answer: pan
+
+all
+
+
+----
+num: 248
+category: Medical Terminology
+difficulty: Normal
+seen: 0
+answer: poly
+
+many
+
+
+----
+num: 249
+category: Medical Terminology
+difficulty: Normal
+seen: 15
+answer: ramus
+
+branch
+
+
+----
+num: 250
+category: Medical Terminology
+difficulty: Normal
+seen: 0
+answer: neuro
+
+nerve
+
+
+----
+num: 251
+category: Medical Terminology
+difficulty: Normal
+seen: 16
+answer: thromb
+
+lump, clot
+
+
+----
+num: 252
+category: Medical Terminology
+difficulty: Normal
+seen: 0
+answer: ab
+
+away from
+
+
+----
+num: 253
+category: Medical Terminology
+difficulty: Normal
+seen: 0
+answer: plegia
+
+paralysis
+
+
+----
+num: 254
+category: Medical Terminology
+difficulty: Normal
+seen: 0
+answer: ante
+
+before
+
+
+----
+num: 255
+category: Medical Terminology
+difficulty: Normal
+seen: 0
+answer: thel
+
+nipple
+
+
+----
+num: 256
+category: Medical Terminology
+difficulty: Normal
+seen: 0
+answer: ex
+
+out
+
+
+----
+num: 257
+category: Medical Terminology
+difficulty: Normal
+seen: 0
+answer: lien
+
+spleen
+
+
+----
+num: 258
+category: Medical Terminology
+difficulty: Normal
+seen: 0
+answer: tumor
+
+swelling
+
+
+----
+num: 259
+category: Medical Terminology
+difficulty: Normal
+seen: 0
+answer: vestibule
+
+entrance
+
+
+----
+num: 260
+category: Medical Terminology
+difficulty: Normal
+seen: 0
+answer: puer
+
+child
+
+
+----
+num: 261
+category: Medical Terminology
+difficulty: Normal
+seen: 0
+answer: sarc
+
+flesh
+
+
+----
+num: 262
+category: Medical Terminology
+difficulty: Normal
+seen: 0
+answer: proli
+
+offspring
+
+
+----
+num: 263
+category: Medical Terminology
+difficulty: Normal
+seen: 0
+answer: macro
+
+large
+
+
+----
+num: 264
+category: Medical Terminology
+difficulty: Normal
+seen: 0
+answer: lal
+
+speech
+
+
+----
+num: 265
+category: Medical Terminology
+difficulty: Normal
+seen: 11
+answer: intra
+
+within
+
+
+----
+num: 266
+category: Medical Terminology
+difficulty: Normal
+seen: 0
+answer: inter
+
+between
+
+
+----
+num: 267
+category: Medical Terminology
+difficulty: Normal
+seen: 0
+answer: infra
+
+beneath
+
+
+----
+num: 268
+category: Medical Terminology
+difficulty: Normal
+seen: 0
+answer: cryo
+
+cold
+
+
+----
+num: 269
+category: Medical Terminology
+difficulty: Normal
+seen: 0
+answer: mal
+
+bad
+
+
+----
+num: 270
+category: Medical Terminology
+difficulty: Normal
+seen: 17
+answer: glom
+
+ball
+
+
+----
+num: 271
+category: Medical Terminology
+difficulty: Normal
+seen: 0
+answer: tens
+
+stretch
+
+
+----
+num: 272
+category: Medical Terminology
+difficulty: Normal
+seen: 0
+answer: spas
+
+pull
+
+
+----
+num: 273
+category: Medical Terminology
+difficulty: Normal
+seen: 0
+answer: somni
+
+sleep
+
+
+----
+num: 274
+category: Medical Terminology
+difficulty: Normal
+seen: 0
+answer: pharmac
+
+drug
+
+
+----
+num: 275
+category: Medical Terminology
+difficulty: Normal
+seen: 0
+answer: lumbo
+
+loins
+
+
+----
+num: 276
+category: Medical Terminology
+difficulty: Normal
+seen: 9
+answer: arter
+
+artery
+
+
+----
+num: 277
+category: Medical Terminology
+difficulty: Normal
+seen: 0
+answer: appendic
+
+appendix
+
+
+----
+num: 278
+category: Medical Terminology
+difficulty: Normal
+seen: 0
+answer: thyro
+
+thyroid
+
+
+----
+num: 279
+category: Medical Terminology
+difficulty: Normal
+seen: 11
+answer: splen
+
+spleen
+
+
+----
+num: 280
+category: Medical Terminology
+difficulty: Normal
+seen: 0
+answer: ovario
+
+ovary
+
+
+----
+num: 281
+category: Medical Terminology
+difficulty: Normal
+seen: 5
+answer: adreno
+
+adrenal
+
+
+----
+num: 282
+category: Medical Terminology
+difficulty: Normal
+seen: 0
+answer: basi
+
+base
+
+
+----
+num: 283
+category: Medical Terminology
+difficulty: Normal
+seen: 0
+answer: pelvi
+
+pelvis
+
+
+----
+num: 284
+category: Medical Terminology
+difficulty: Normal
+seen: 10
+answer: vena
+
+vein
+
+
+----
+num: 285
+category: Medical Terminology
+difficulty: Normal
+seen: 0
+answer: urethr
+
+urethra
+
+
+----
+num: 286
+category: Medical Terminology
+difficulty: Normal
+seen: 0
+answer: utero
+
+uterus
+
+
+----
+num: 287
+category: Medical Terminology
+difficulty: Normal
+seen: 0
+answer: sacro
+
+sacrum
+
+
+----
+num: 288
+category: Medical Terminology
+difficulty: Normal
+seen: 0
+answer: pharyng
+
+pharynx
+
+
+----
+num: 289
+category: Medical Terminology
+difficulty: Normal
+seen: 0
+answer: duodeno
+
+duodenum
+
+
+----
+num: 290
+category: Medical Terminology
+difficulty: Normal
+seen: 5
+answer: ureter
+
+ureter
+
+
+----
+num: 291
+category: Medical Terminology
+difficulty: Normal
+seen: 0
+answer: laryng
+
+larynx
+
+
+----
+num: 292
+category: Medical Terminology
+difficulty: Normal
+seen: 5
+answer: bronch
+
+bronchus
+
+
+----
+num: 293
+category: Medical Terminology
+difficulty: Normal
+seen: 0
+answer: col
+
+colon
+
+
+----
+num: 294
+category: Medical Terminology
+difficulty: Normal
+seen: 5
+answer: esophag
+
+esophagus
+
+
+----
+num: 295
+category: Medical Terminology
+difficulty: Normal
+seen: 14
+answer: bi
+
+two
+
+
+----
+num: 296
+category: Medical Terminology
+difficulty: Normal
+seen: 6
+answer: tri
+
+three
+
+
+----
+num: 297
+category: Medical Terminology
+difficulty: Normal
+seen: 11
+answer: ile
+
+ileum
+
+
+----
+num: 298
+category: Medical Terminology
+difficulty: Normal
+seen: 0
+answer: ili
+
+ilium
+
+
+----
+num: 299
+category: Medical Terminology
+difficulty: Normal
+seen: 9
+answer: therap
+
+therapy
+
+
+----
+num: 300
+category: Medical Terminology
+difficulty: Normal
+seen: 0
+answer: lig
+
+ligament
+
+
+----
+num: 301
+category: Medical Terminology
+difficulty: Normal
+seen: 0
+answer: ventr
+
+front
+
+
+----
+num: 302
+category: Medical Terminology
+difficulty: Normal
+seen: 0
+answer: vert
+
+turn
+
+
+----
+num: 303
+category: Medical Terminology
+difficulty: Normal
+seen: 0
+answer: eu
+
+good
+
+
+----
+num: 304
+category: Medical Terminology
+difficulty: Normal
+seen: 0
+answer: ambi
+
+both
+
+
+----
+num: 305
+category: Medical Terminology
+difficulty: Normal
+seen: 0
+answer: amphi
+
+around
+
+
+----
+num: 306
+category: Medical Terminology
+difficulty: Normal
+seen: 13
+answer: brachy
+
+short
+
+
+----
+num: 307
+category: Medical Terminology
+difficulty: Normal
+seen: 0
+answer: capit
+
+head
+
+
+----
+num: 308
+category: Medical Terminology
+difficulty: Normal
+seen: 0
+answer: cau
+
+burn
+
+
+----
+num: 309
+category: Medical Terminology
+difficulty: Normal
+seen: 13
+answer: clas
+
+break
+
+
+----
+num: 310
+category: Medical Terminology
+difficulty: Normal
+seen: 0
+answer: duct
+
+tube
+
+
+----
+num: 311
+category: Medical Terminology
+difficulty: Normal
+seen: 0
+answer: fiss
+
+split
+
+
+----
+num: 312
+category: Medical Terminology
+difficulty: Normal
+seen: 4
+answer: ger
+
+old
+
+
+----
+num: 313
+category: Medical Terminology
+difficulty: Normal
+seen: 0
+answer: heter
+
+other
+
+
+----
+num: 314
+category: Medical Terminology
+difficulty: Normal
+seen: 0
+answer: infer
+
+under
+
+
+----
+num: 315
+category: Medical Terminology
+difficulty: Normal
+seen: 0
+answer: hom
+
+same
+
+
+----
+num: 316
+category: Medical Terminology
+difficulty: Normal
+seen: 1
+answer: olfact
+
+smell
+
+
+----
+num: 317
+category: Medical Terminology
+difficulty: Normal
+seen: 0
+answer: orth
+
+straight
+
+
+----
+num: 318
+category: Medical Terminology
+difficulty: Normal
+seen: 0
+answer: gyn
+
+female
+
+
+----
+num: 319
+category: Medical Terminology
+difficulty: Normal
+seen: 0
+answer: pachhy
+
+thick
+
+
+----
+num: 320
+category: Medical Terminology
+difficulty: Normal
+seen: 11
+answer: pharg
+
+fence
+
+
+----
+num: 321
+category: Medical Terminology
+difficulty: Normal
+seen: 16
+answer: poster
+
+back part
+
+
+----
+num: 322
+category: Medical Terminology
+difficulty: Normal
+seen: 0
+answer: cata
+
+down
+
+
+----
+num: 323
+category: Medical Terminology
+difficulty: Normal
+seen: 0
+answer: platy
+
+flat
+
+
+----
+num: 324
+category: Medical Terminology
+difficulty: Normal
+seen: 0
+answer: pseud
+
+false
+
+
+----
+num: 325
+category: Medical Terminology
+difficulty: Normal
+seen: 0
+answer: schiz
+
+split
+
+
+----
+num: 326
+category: Medical Terminology
+difficulty: Normal
+seen: 0
+answer: proxim
+
+nearest
+
+
+----
+num: 327
+category: Medical Terminology
+difficulty: Normal
+seen: 1
+answer: scol
+
+curved
+
+
+----
+num: 328
+category: Medical Terminology
+difficulty: Normal
+seen: 8
+answer: apo
+
+away from
+
+
+----
+num: 329
+category: Medical Terminology
+difficulty: Normal
+seen: 10
+answer: di
+
+twice
+
+
+----
+num: 330
+category: Medical Terminology
+difficulty: Normal
+seen: 0
+answer: dia
+
+through
+
+
+----
+num: 331
+category: Medical Terminology
+difficulty: Normal
+seen: 0
+answer: eury
+
+broad
+
+
+----
+num: 332
+category: Medical Terminology
+difficulty: Normal
+seen: 0
+answer: pect
+
+chest
+
+
+----
+num: 333
+category: Medical Terminology
+difficulty: Normal
+seen: 0
+answer: necr
+
+dead
+
+
+----
+num: 334
+category: Medical Terminology
+difficulty: Normal
+seen: 0
+answer: mi
+
+less
+
+
+----
+num: 335
+category: Medical Terminology
+difficulty: Normal
+seen: 0
+answer: morph
+
+form
+
+
+----
+num: 336
+category: Medical Terminology
+difficulty: Normal
+seen: 0
+answer: dis
+
+apart
+
+
+----
+num: 337
+category: Medical Terminology
+difficulty: Normal
+seen: 0
+answer: fac
+
+make
+
+
+----
+num: 338
+category: Medical Terminology
+difficulty: Normal
+seen: 0
+answer: lept
+
+slender
+
+
+----
+num: 339
+category: Medical Terminology
+difficulty: Normal
+seen: 0
+answer: lymph
+
+watery fluid
+
+
+----
+num: 340
+category: Medical Terminology
+difficulty: Normal
+seen: 0
+answer: meta
+
+beyond
+
+
+----
+num: 341
+category: Medical Terminology
+difficulty: Normal
+seen: 17
+answer: rrhag
+
+burst
+
+
+----
+num: 342
+category: Medical Terminology
+difficulty: Normal
+seen: 0
+answer: sta
+
+stand
+
+
+----
+num: 343
+category: Medical Terminology
+difficulty: Normal
+seen: 0
+answer: ton
+
+stretch
+
+
+----
+num: 344
+category: Medical Terminology
+difficulty: Normal
+seen: 0
+answer: volvo
+
+to roll
+
+
+----
+num: 345
+category: Medical Terminology
+difficulty: Normal
+seen: 10
+answer: splanchn
+
+internal organs
+
+
+----
+num: 346
+category: Medical Terminology
+difficulty: Normal
+seen: 0
+answer: rrhe
+
+flow
+
+
+----
+num: 347
+category: Medical Terminology
+difficulty: Normal
+seen: 0
+answer: med
+
+middle
+
+
+----
+num: 348
+category: Medical Terminology
+difficulty: Normal
+seen: 0
+answer: xer
+
+dry
+
+
+----
+num: 349
+category: Medical Terminology
+difficulty: Normal
+seen: 0
+answer: per
+
+throughout
+
+
+----
+num: 350
+category: Medical Terminology
+difficulty: Normal
+seen: 0
+answer: blast
+
+bud

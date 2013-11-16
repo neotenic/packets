@@ -1,0 +1,262 @@
+####
+tournament: Question Set C
+round: Round-9C-MS.pdf
+####
+
+num: 1
+category: Life Science
+difficulty: MS
+seen: 1
+answer: Z)  Earthworm Embryos Develop Inside the Nephrostome of the 
+Male
+
+Which of the following is NOT true of earthworms reproduction:
+W) earthworms are hermaphrodites
+X) earthworms cross-fertilize
+Y) the clitellum secretes a cocoon that picks up eggs and stored sperm
+Z) earthworm embryos develop inside the nephrostome (read as: neff -ro-stome) of the male
+
+----
+num: 1
+category: Life Science
+difficulty: MS
+seen: 1
+answer: W)  White Is Dominant to Red
+
+If a pea plant with white flowers is crossed with a pea plant with red flowers and all 100 seedlings from this cross are white, then which of the following statements is most likely true:
+W) white is dominant to red
+X) white is recessive to red
+Y) white flowers are dominant in all flowering plants
+Z) red flowers are recessive in all flowering plants
+
+----
+num: 2
+category: Physical Science
+difficulty: MS
+answer: W)  Work Input Equals Work Output
+
+Which of the following do ideal machines MOST directly assume:
+W) work input equals work output
+X) efficiency is over 100%
+Y) power is independent of efficiency
+Z) energy input is less than energy output
+
+----
+num: 3
+category: Earth Science
+difficulty: MS
+answer: Y)  Desert or Marine Organisms
+
+Which of the following will typically be BEST preserved as a fossil:
+W) mountain or forest organisms
+X) animals with light, thin bones
+Y) desert or marine organisms
+Z) soft-shelled organisms
+
+----
+num: 3
+category: Earth Science
+difficulty: MS
+answer: X)  Horseshoe Crab
+
+Which of the following is considered a living fossil because, although fossils of it have been dated to 360 million years ago, these arthropods are still alive today:
+W) trilobite
+X) horseshoe crab
+Y) ammonite
+Z) lobster
+
+----
+num: 5
+category: General Science
+difficulty: MS
+answer: Z)  Fresh Water Biologist
+
+Which of the following types of scientists would most likely use a Secchi (read as: sek-key) disk in their experiments:
+W) geneticist 
+X) astronomer
+Y) physicist
+Z) fresh water biologist
+
+----
+num: 5
+category: General Science
+difficulty: MS
+answer: W)  Forecasting Weather
+
+Doppler radar is BEST used in which of the following applications:
+W) forecasting weather
+X) searching for extraterrestrial life
+Y) mapping the ocean floor
+Z) tracking marine life
+
+----
+num: 7
+category: Physical Science
+difficulty: MS
+answer: W)  Fluorine Is a Very Reactive Element
+
+Which of the following is TRUE about chemical elements:
+W) fluorine is a very reactive element
+X) rare earth metals are also known as alkaline earth metals
+Y) catalysts are typically consumed in chemical reactions
+Z) metalloids are some of the best-known conductors of heat and electricity
+
+----
+num: 8
+category: Earth Science
+difficulty: MS
+answer: X)  Condensation Nuclei
+
+Which of the following is the most common term for the small particles of salt, dust or smoke from which cloud formation begins:
+W) precipitation nuclei
+X) condensation nuclei
+Y) maturation nuclei
+Z) saturation nuclei
+
+----
+num: 8
+category: Earth Science
+difficulty: MS
+answer: Z)  the Intertropical Convergence Zone
+
+Which of the following is a location of typically calm and cloudy weather and where daily rains are very common:
+W) Hawaii
+X) the Sub-Saharan desert
+Y) the Pacific northwest 
+Z) the intertropical convergence zone
+
+----
+num: 10
+category: General Science
+difficulty: MS
+answer: Y)  Its Living Organisms and How They Interact With Their 
+Nonliving Environment
+
+An ecosystem is BEST classified by which of the following parameters:
+W) its predominant vegetation, soil, and living organisms
+X) its food web
+Y) its living organisms and how they interact with their nonliving environment
+Z) its species that live in the biome
+
+----
+num: 11
+category: Life Science
+difficulty: MS
+answer: W)  Transport of Fluids
+
+Which of the following is the primary function of vascular tissue in plants:
+W) transport of fluids
+X) storage of solids
+Y) photosynthesis
+Z) carbon dioxide absorption
+
+----
+num: 11
+category: Life Science
+difficulty: MS
+answer: Z)  Auxin
+
+Which of the following is the plant hormone MOST directly responsible for plants growing towards a light source:
+W) photozyme
+X) lipin
+Y) gibberellin (read as: jib-er-ELL-in)
+Z) auxin
+
+----
+num: 12
+category: Physical Science
+difficulty: MS
+answer: Z)  the Heater Wires in an Electric Heater or Toaster Are 
+Designed to Have Very Low Resistance
+
+Which of the following statements regarding electricity is LEAST accurate:
+W) resistance generally increases with increasing temperatures 
+X) superconductors have essentially no resistance to current
+Y) resistance is often likened to electrical friction 
+Z) the heater wires in an electric heater or toaster are designed to have very low resistance
+
+----
+num: 13
+category: Earth Science
+difficulty: MS
+answer: X)  Lahar
+
+Which of the following is a mudflow that moves rapidly down the side of a volcano because of the rapid mixing of melted snow and pyroclastic material:
+W) avalanche 
+X) lahar (read as: lah-HAR)
+Y) pahoehoe (read as: pa-HO-ee-ho-ee) lava
+Z) dike lava
+
+----
+num: 15
+category: General Science
+difficulty: MS
+answer: Z)  Solar Activity Is Currently at an 11-Year Cyclical High 
+Point
+
+Which of the following is NOT true:
+W) a robotic spacecraft recently landed on the surface of a near-Earth asteroid 
+X) a team of researchers plan to build a neutrino observatory at the bottom of the Mediterranean Sea
+Y) skin cancer is becoming more common and appearing at younger ages
+Z) solar activity is currently at an 11-year cyclical high point
+
+----
+num: 15
+category: General Science
+difficulty: MS
+answer: W)  Helium Molecules Are Smaller Than Air Molecules and 
+They Leak Through the Balloon Faster
+
+If 2 identical latex balloons are filled to the same size, one with air and the other with helium and left for 2 days, why would the helium balloon most likely decrease in size at a faster rate than the air balloon:
+W) helium molecules are smaller than air molecules and they leak through the balloon faster
+X) helium is always warmer when first introduced into a balloon
+Y) helium is lighter than air and moves faster
+Z) helium reacts with water inside the balloon and condenses
+
+----
+num: 18
+category: Earth Science
+difficulty: MS
+answer: Y)  Glaciers
+
+Erratics are rocks or boulders that were moved to their current location by:
+W) rivers
+X) tides
+Y) glaciers
+Z) volcanoes
+
+----
+num: 20
+category: General Science
+difficulty: MS
+answer: X)  Tundra
+
+Although lichens can be found in many locations, in which of the following biomes will lichens grow and thrive the best:
+W) coniferous forest
+X) tundra
+Y) grassland
+Z) rain forest
+
+----
+num: 20
+category: General Science
+difficulty: MS
+answer: Y)  3 and ¼ Light Years
+
+A parsec is equal to about:
+W) 5 Astronomical Units
+X) 1 million kilometers
+Y) 3 and ¼ light years 
+Z) 158,000 klicks
+
+----
+num: 22
+category: Physical Science
+difficulty: MS
+answer: X)  High Specific Heat
+
+Which of the following does water possess that most directly allows it to absorb large amounts of energy with a relatively small change in temperature:
+W) high thermal expansion
+X) high specific heat
+Y) high heat of vaporization
+Z) high latency

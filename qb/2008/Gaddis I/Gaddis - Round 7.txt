@@ -1,0 +1,214 @@
+####
+tournament: Gaddis I
+round: Gaddis - Round 7.doc
+year: 2008
+####
+
+num: 1
+category: Literature
+difficulty: College
+fixed: None
+seen: 61
+answer: “{Fenimore Cooper's} Literary {Offenses}”
+
+This work notes that the central figure "is more interesting when he is not noticing what he is about than when he is" after discussing the improbability of a scene where three bullets are fired into the same hole. Beginning with laudatory quotes from Wilkie Collins and Brander Matthews, it describes eighteen violations of "rules governing literary art in romantic fiction" and argues that the central figure "saw nearly all things as through a glass eye, darkly." It attacks as nonsensical a scene where five Indians jump for and miss a boat, and calls the central series of novels "the Broken Twig series." Concluding by calling The ? Deerslayer "a literary delirium tremens," FTP, name this 1885 essay lampooning errors made by the author of the Leatherstocking Tales, written by Mark Twain.
+
+----
+num: 2
+category: Science
+difficulty: College
+fixed: None
+seen: 103
+answer: {Gelfond's} theorem [accept {Gelfond}-{Schneider theorem} before "{Schneider}"]
+
+Zuehlke showed that Wiles' proof of Fermat's last theorem can be extended to Gaussian integers using this statement, and comically noted that the proof "almost fits in the margin." Its namesake and Kuzmin used Siegel's lemma to extend it to the real quadratic field, and it was generalized by Alan Baker, who proved the linear independence of an arbitrary number of logarithms. Proving Schanuel's conjecture would imply both the Lindemann-Weierstrass theorem and this theorem. Its namesake also lends his name to a constant sometimes called Hilbert's constant, which is equal to 2 raised to the square root of 2. The first approach to a solution for Hilbert's 7th problem, for 10 points, identify this theorem which states that if a is algebraic and b is both algebraic and irrational, then a raised to the bth power is transcendental, which is sometimes also named for its independent discoverer Theodor ? Schneider.
+
+----
+num: 3
+category: Fine Arts
+difficulty: College
+fixed: None
+seen: 69
+answer: Les {Nabis}
+
+One member of this group painted a portrait of another holding a crook and reading from an illuminated manuscript with a red halo around his head. Another member, nicknamed the Zouave, depicted a red mirror above a faceless man in black in The Green Interior. Paintings by members of this movement were often featured in La revue blanche, which was published by Misia and Thadée Natanson. Its founder was called "the one with beautiful icons," while another of its members' fascination with ukiyo-e and kakemono inspired paintings like Les Femmes au Jardin and earned him the nickname "le Japonard." Its members were inspired by a multicolored painting on a cigar box titled The Talisman, and included Paul Ranson, Edouard Vuillard, Pierre Bonnard, Paul Serusier, and Maruice Denis. FTP, identify this post-impressionist French artistic movement named for the ? Hebrew word for prophets.
+
+----
+num: 4
+category: Religion
+difficulty: College
+fixed: None
+seen: 54
+answer: {jahiliyyah} [or {Age} of {Ignorance}] ({6})
+
+During this period, one figure consulted a piece of quartz crystal, seeking to attack a neighboring tribe which had killed his father, but after being forbidden three times by the crystal's divining arrows, he shouted at it "Go bite your father's penis!" The Fitan records that "the buttocks of the women of Daws wiggled before Dhu al-Khalasah" during this period. Samiri brought the golden calf to Moses during this period. At its end, a general was sent to Nakhlah to destroy a sanctuary, and eventually saw a naked woman with wild black hair and slew her, thus destroying Al-Uzzah. This period included important fairs at Ukaz and Mina', and an prominent deity of this period was turned into in a doorstep. Famous for figures such as Imru' al-Qays and for the establishment of ka'abas at Sindad, Najran, and Makkah, for twenty points, name this period before Islam where deities like Al-Lat, Manat, and Hudal were worshiped.
+
+----
+num: 5
+category: Trash
+difficulty: College
+fixed: -1
+seen: 188
+answer: the {Black Panther} Party [accept {BPP}] ({1})
+
+An Israeli group named for this organization was founded by Saadio Marciano and Reuven Abarjel, and fought for the rights of the Mizrahim. This group took their name from an emblem adopted by the Lowndes County Freedom Organization, and one member of this organization, Michael Tabor, critiqued the police's drug policies in his essay "Capitalism Plus Dope Equals Genocide." This organization demanded “an immediate end to all wars of aggression” and “decent education...that exposes the true nature of decadent American society” as part of its Ten Point Plan. It ran the Free Breakfast for Children Program, and raised money to buy shotguns by selling copies of The Little Red Book to students at ? Berkeley.  Along with similar groups like the Young Patriots and Young Lords, it formed the first Rainbow Coalition in 1969 thanks to the efforts of Fred Hampton. FTP, name this radical organization founded by Huey Newton and Bobby Seale.
+
+----
+num: 6
+category: Fine Arts
+difficulty: College
+fixed: None
+seen: 67
+answer: {Concerto} for Orchestra
+
+In one section of this work, the oboe and clarinet alternate similar three note-phrases prior to the entrance of the bassoon and the rest of the orchestra. Each pair of instruments is assigned a different interval throughout that section, which precedes its slow third section, “Elegia.” Sir George Solti found a mistake in the tempo marking in one of this work's sections, which originally contained “Presentando” in its title. Its composer parodied a section of Shostakovich's Leningrad Symphony in its fourth movement, “Intermezzo interrotto.” Sections like the “Introduzione” and “Giuoco delle coppie” or “Game of the pairs” precede its finale, the last and longest, by far, of its five movements. For fifteen points, name this contradictorily-titled work by Béla Bartók.
+
+----
+num: 7
+category: Literature
+difficulty: College
+fixed: 1
+seen: 61
+answer: George {Farquhar}
+
+While acting as Guyomar in Dryden's The Indian Emperor, this author forgot to exchange a real sword for a fake one, and nearly killed another actor during a fencing scene. This playwright gained success with Love and a Bottle and The Constant Couple, and wrote the first play performed in Australia. In that play, Captain Plume falls in love with Sylvia, and Sergeant Kite tricks men into enlisting to fight in the War of the Spanish Succession. In another of his plays, the bandits Gibbet, Hounslow, and Bagshot are subdued by Archer and Aimwell, who pursue Mrs. Sullen and Dorinda. FTP, name this Irish playwright of The Recruiting Officer and The ? Beaux' Stratagem, who shares his surname with the protagonist of “An Occurrence at Owl Creek Bridge.”
+
+----
+num: 8
+category: Science
+difficulty: College
+fixed: None
+seen: 77
+answer: {Reflection} [accept {Shading} and {Reflectance} before "{Lambertian}"]
+
+One type of this can be approximated with a model that incorporates hardness and which is similar to the Oren-Nayer model, the Blinn model. The Cook-Torrance model involves terms for surface roughness and geometric attenuation and implements a four dimensional model for it, the BRDF. Another model of this process employs a namesake interpolation and combines the constants ks, kd, and ka and is known as the Phong model. The ? Lambertian model for this does not change based on the position of the viewer and is used in modeling the diffuse form of this, the opposite of the specular type of it. The angle of this is equal to the angle of incidence, while at angles larger than the critical angle, the total internal type of this occurs. FTP, identify this phenomenon commonly produced by lakes and mirrors.
+
+----
+num: 9
+category: Trash
+difficulty: College
+fixed: None
+seen: 170
+answer: {Ballistic}: {Ecks} vs. {Sever}
+
+Zombie Studios didn't end up releasing a PS2 version of this game in 2002, while its sequel has a password of "zorro" for one version of level nine as a sort of in-joke. That sequel also provided greater control by letting the player press select to unlock the aiming cursor, and the Bam Entertainment original featured a plot that involves a woman who used to be in the NSA being hunted down by an agent under FBI chief Mills. The sequel's story ties in more closely to the film this portable game is based on, probably involving some bullshit about DIA director Robert Gant being kidnapped and the use of what Wikipedia calls a "nanobot assassin". For 10 points, identify this astonishingly good GBA first person shooter released a year before a ridiculously bad 2002 spy film pitting Antonio Banderas against Lucy Liu.
+
+----
+num: 10
+category: History
+difficulty: College
+fixed: 1
+seen: 71
+answer: Imre {Nagy}
+
+This man's minister of defense was Pal Maleter, and he was supported by a group of intellectuals called the Petöfi Circle. He instituted land reforms as his country's minister of agriculture after World War II, and first gained power with the support of Malenkov. He ordered the release of Cardinal Joseph Mindszenty from prison and allowed the reconstitution of the Social Democratic Party and the Smallholders Party in his second term as Prime Minister. In his first term, he announced the New Course and was succeeded by Matyas ? Rakosi, while in his brief second term, he abolished the one-party system and announced his country's withdrawal from the Warsaw Pact. Two years after Soviet forces overthrew his government, he was imprisoned and executed by Janos Kadar. FTP, name this leader of Hungary during the Hungarian Revolution of 1956.
+
+----
+num: 11
+category: Science
+difficulty: College
+fixed: None
+seen: 80
+answer: {Theodosius Dobzhansky} (4) [accept {Dobzhansky}-{Muller incompatibilities during second} sentence]
+
+This man developed a model for epistatic selection which assumes an initial set of fixated alleles and eventually leads to clustering of genotypes. A theory which describes the occurrence of post-zygotic isolation in split populations was independently developed by Hermann Muller and this man.  Mark Adams compiled a series of 16 essays about his work titled The Evolution of [this man]. He also wrote a series of papers titled Genetics of Natural Selection and the 1937 work Genetics and the Origin of Species though he is better known for an essay which discusses the geocentric beliefs of a sheikh and accuses creationists of blasphemy for "accusing God of absurd deceitfulness". For 10 points, identify this Ukrainian-American Biologist, best known for coining the phrase ? "Nothing in biology makes sense except in the light of evolution.”
+
+----
+num: 12
+category: Philosophy
+difficulty: College
+fixed: 57
+seen: 53
+answer: John {Dewey}
+
+This philosopher distinguished between “Qualitative thought” and “Affective Thought” in Philosophy and Civilization, and Sydney Hook was known as this thinker's “bulldog.” He suggested that works of art actually hinder our ability to understand aesthetics in Art as Experience, and attacked the prevailing stimulus-response theory on the grounds that it creates a false metaphysical and epistemological distinction between sensory stimulation and motor response in “The Reflex-Arc Concept in Psychology.” Richard Rorty sought to integrate this philosopher's thinking with Hegel and Darwin in the Consequences of Pragmatism. For 10 points, name this American philosopher, the author of ? Experience and Nature, and Democracy and Education.
+
+----
+num: 13
+category: Literature
+difficulty: College
+fixed: 1
+seen: 60
+answer: {Ambroise}-Paul-Toussaint-Jules {Valéry}
+
+In one of this author's dialogues, Socrates claims the body of Athikte leaps "like flame replacing flame" and asks "is not great Dancing, my friends, the liberation of our bodies?" Besides “Dance and the Soul,” this author wrote two plays with music by Arthur Honegger, Amphion and Semiramis. His prose works include The Outlook for Intelligence and “The Crisis of the Mind,” and Degas refused the dedication of this author's “An Evening with Monsieur Teste.” After abstaining from writing poetry for nineteen years, he gained fame for his poem “The Youngest of the Fates” as well as a work set where “dove sails saunter by” which claims “The wind is rising!... We must try to live!” Inspired by the notebooks of da Vinci to write his Cahiers, for fifteen points, name this French poet of "The Graveyard by the Sea."
+
+----
+num: 14
+category: History
+difficulty: College
+fixed: None
+seen: 69
+answer: {Tanzimat} reform period [prompt on "{reforms}" or other {English} synonyms; {term literally means re}-{ordering}]
+
+After this period, the play Cyrano de Bergerac could no longer be performed due to a ruler's sensitivity about the size of his own nose. The first of the documents which give this period its name was the source of hilarious puns due to its name's resemblance to the word for "dung hole," and this period saw the issue of the kaime, a form of paper money. During this period, the Society of Zealots plotted to overthrow the government in the Kuleli incident. One of the leaders of this period was shot by a Circassian named Hasan, and its important undertakings included the change of the Agnam (AH-NAHM) Vergisi and the use of muhassils in place of previous tax farming. Led by such men as Reshit ? Pasha and Midhat Pasha, its most important accomplishments were the establishment of the nizamiye system, the Hatt-i Humayun of 1856 and the Hatt-i Sherif of Gulhane of 1839. FTP, name this period of reform in the Ottoman Empire in the 19th century.
+
+----
+num: 15
+category: Social Science
+difficulty: College
+fixed: None
+seen: 60
+answer: Capital {Asset} Pricing Model
+
+Ongoing research by Jagannathan and Wang follows up on Mayer's work on this model, assuming human capital in their measure of wealth, while Banz used a method similar to that of Black and Scholes to test whether firm size explained any residual variation. Fama and French developed a three factor model in place of it, and Richard Roll's critique of it noted that “the market portfolio is unobservable.” Stephen Ross developed Arbitrage Pricing Theory in place of this model, while Jensen's alpha is often used to measure the excess return a security provides as predicted using this model. All portfolios satisfying this model can be found on the Markowitz efficient frontier. Introduced by Lintner and Sharpe, for fifteen points, name this financial model which relies on the market risk premium and a financial instrument's beta to determine the appropriate rate of return.
+
+----
+num: 16
+category: Science
+difficulty: College
+fixed: None
+seen: 80
+answer: Robert {Burns Woodward}
+
+This scientist solved the terramycin problem as well as suggested beta-lactam rather than Robert Robinson's suggested solution of thiazolidine-oxazolone concerning penicillin. He worked with Geoffrey Wilkinson on ferrocene, while he discussed the synthesis of cephalosporin in his 1965 Nobel Prize lecture. The Prevost reaction produces anti-diols, the opposite of the outcome of a reaction between iodine, acetate, and alkenes in a ? cis-hydroxylation named after this man. Kenichi Fukui and a colleague of this man were both awarded the 1981 Nobel Prize for work similar to that of his most famous result. FTP, name this American chemist, one of the namesakes of a doubly-eponymous set of rules predicting the stereochemistry of pericyclic reactions, along with Hoffman.
+
+----
+num: 17
+category: Fine Arts
+difficulty: College
+fixed: -1
+seen: 70
+answer: The {Daughters} of {Edward Darley Boit}
+
+Two objects in this painting were created by Hirabayashi, and one critic scornfully called this painting "four corners and a void." Two blue jars appear beneath a window in the hazy brown background of this painting, which depicts an oddly-angled red screen on the right. One figure in this painting stands in front of a light brown wall with her hands behind her back, while another figure looks to her right and leans on the leftmost of two large Japanese vases. The youngest of the title figures sits on a carpet and plays with a doll, and the two oldest figures stand in the darker background. Painted in 1882, it depicts the four title figures wearing white dresses, and was finished two years before its artist's painting ? Madame X. FTP, name this painting of the children of an American artist by John Singer Sargent.
+
+----
+num: 18
+category: History
+difficulty: College
+fixed: None
+seen: 71
+answer: {Shimabara} Rebellion
+
+Causes of this rebellion included a policy of killing peasants unable to pay their taxes by making them wear a straw coat and lighting them on fire, a punishment known as "raincoat dancing." Members of this revolt were put to death if they refused to step on images of Christ or the Virgin Mary called fumies [foo-me-ays]. Its flag depicted two angels worshiping the Eucharist, and it was based out of Hara Castle. After this revolt was suppressed, the victorious general issued an edict prohibiting ships from Portugal. It defeated forces under Terazawa Katakata before its leader, the sixteen-year old Masuda Shiro, was captured and beheaded. For fifteen points, name this 1637 to 1638 rebellion of Japanese Roman Catholics.
+
+----
+num: 19
+category: Mythology
+difficulty: College
+fixed: 57
+seen: 110
+answer: {Philoctetes}
+
+He fought a war with Euneus and received thereafter a portion of land he called Akesa. He died after allying with Rhodians, having established the cities of Petelia and Crimissa. Pylius, Podalirius, and Machaon are among men believed to have helped this man, who may have been beset during a sacrifice to Apollo Sminthius. This son of Demonassa and Poeas is sometimes said to have performed a task alternately attributed to Hyllus or Morsimus, receiving a gift after setting fire to a pile on Mount Oeta. Possibly punished for not returning the love of the nymph Chryse, ?  Odysseus and Diomedes came to him and he was eventually cured of a wound possibly by Asclepius himself. Exiled on Lemnos, he killed Paris with his most notable possessions, the arrows of Heracles. FTP, name this figure from the Iliad.
+
+----
+num: 20
+category: Literature
+difficulty: College
+fixed: None
+seen: 58
+answer: {Azul...} [or {Blue...}]
+
+Its final section includes sonnets about J.J. Palma, Walt Whitman, and Liconte de Lisle. Suzette destroys a porcelain doll out of jealousy in one story in this collection, "The Death of the Empress of China." Another story in this collection describes a poet who dies of starvation while cranking a music box for a wealthy man. In addition to "El Rey Burgués," this work includes a section about Ricardo, a lyric poet who leaves Valparaiso in search of art, titled "En Chile." It was heavily promoted by Juan Valera, and it includes the poems "Primaveral," "Estival," and "Pensamiento de Otoño" in its section "El Año Lyrical." Its title refers to the "intense space of the sky" evoked by the title adjective. FTP, name this 1888 collection that ushered in ? Modernismo, a work by Rubén Dário named for a color.
+
+----
+num: 21
+category: Geography
+difficulty: College
+fixed: 57
+seen: 134
+answer: {Arkansas} River (1)
+
+One naval battle fought in this river was known as the Battle of Palarm and was fought on the steamboat Hallie during the Baxter-Brooks War. It enters one river 25 miles east-northeast of McGeher, and among its forks are Lake and East, which flows past Landville. At Muskayes, it passes through Webber Falls, and the John Martin Dam is one of the largest on this river. Flowing past Canon City, La Junta, and Lamar, it flows in another state through Great Bend, Hutchinson, and Dodge City. Going west from Turquoise Lake, one would arrive at Leadville, and the major tributaries of this river include the Cimarron and the Canadian. Flowing through ? Pueblo, Colorado, Wichita, Kansas, and Fort Smith and Pine Bluff in its namesake state, FTP, name this tributary of the Mississippi which flows through Little Rock, capital of its namesake state.

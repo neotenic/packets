@@ -1,0 +1,244 @@
+####
+tournament: ACF Nationals
+round: r11- Stanford.doc
+year: 2009
+####
+
+num: 1
+category: Science
+difficulty: Open
+fixed: None
+seen: 59
+answer: {Magnetoresistance} [accept {Giant Magnetoresistance} or {GMR}]
+
+Bruce Gurney did pioneering work towards developing a room-temperature version of this phenomenon, while Xiao and Berkowiez independently discovered a type of this phenomenon in granular Cobalt-Copper solids. One version of it can be understood in terms of RKKY coupling, while devices which exploit a namesake type of this effect come in CPP and CIP varieties, and are known as spin valves. One version of this phenomenon is a result of spin-dependent electron scattering, and was discovered in Iron-Chromium-Iron multilayers by Albert Fert and Peter Grunberg in 1988. For 10 points, identify this effect in which a metal's conductivity is altered in the presence of a magnetic field and whose “giant” variety led to the 2007 Nobel in Physics, and which is commonly used in read-out heads in hard drives.
+
+----
+num: 2
+category: History
+difficulty: Open
+fixed: None
+seen: 46
+answer: {Jean}-{Baptiste Jules Bernadotte} [or {Charles XIV John}; or {Karl XIV Johan}]
+
+He angered Johann Thugut when he raised a flag on his hotel balcony in the Wallnerstrasse, sparking a riot. He was wounded during his victory in the Battle of Spanden, and he led forces at the Battle of Mohrungen that fought against Levin Bennigsen. An agreement with Britain led to his receiving the Guadeloupe Fund. Earlier, he led the Saxon Ninth Corps at the Battle of Wagram, after which he lost his command as punishment for retreating. He married Desiree Clary, who was Napoleon's first fiancée, and he was given the title Prince of Pontecorvo. His son succeeded him in another position as Oscar I. For 10 points, name this one-time Marshal of France who became King of Sweden from 1818 to 1844, founding his namesake dynasty.
+
+----
+num: 3
+category: Fine Arts
+difficulty: Open
+fixed: 1
+seen: 35
+answer: Hamlet
+
+Sohrab Modi starred as the title character in a 1935 Indian version of it called Khoon-ka Khoon, which added seventeen songs to the work. A special jury prize at the 1964 Venice Film Festival went to a version of it in which Innokenty Smoktunovsky played the title character. That version was directed by Grigory Kozintsev, and was based on a translation of this work by Boris Pasternak. A Mystery Science Theater 3000 episode featured a re-enactment of a famous scene from this work as a game show in which participants had to identify the femur of Biz Markie; that episode watched a German version of this work that starred Maximilian Schell. Georges Méliès played the title character in a 1907 adaptation of this work which reduced it to ten minutes in length. Julie Christie played the title character's mother in a 1996 film of it, and a 2000 adaptation of it by Michael Almereyda is set in New York City and features the title character as a film student played by Ethan Hawke, who investigates goings-on at the Denmark Corporation. For 10 points, name this play which has also seen Kenneth Branagh and Laurence Olivier star in the title role of a melancholy denizen of Elsinore.
+
+----
+num: 4
+category: Fine Arts
+difficulty: Open
+fixed: 57
+seen: 38
+answer: Jean-Antoine {Watteau}
+
+One painting by this artist depicts a sculpture of a satyr on the right and two women gazing at a man with a guitar whose back is turned to us. A black servant at a wine tub and a dog sniffing itself appear in the bottom-right of another painting by this artist, in which four blue-and-white columns frame a central figure tuning a lute. One of the final works by this painter of The Party of Four and The Music Party shows people packing paintings into wooden boxes on the left and is named after the art dealer friend for whom he painted it. In addition to Gersaint's Shop Sign, he frequently created works featuring commedia dell'arte characters, including several paintings featuring the character “Gilles” as Pierrot. Best known for his pastoral depictions of couples cavorting on the island of Venus, for 10 points, identify this French artist of fêtes galantes such as the Embarkation for Cythera.
+
+----
+num: 5
+category: Literature
+difficulty: Open
+fixed: 57
+seen: 35
+answer: Argentina
+
+One author from this nation wrote the poetry collection Ocre before drowning herself in 1938, the year Death-Mask and Clover appeared. A more recent author from this nation wrote the poetry collection Standards as well as Lycanthropy, a history of werewolfism. In addition to Alfonsina Storni and Jorge Fondebrider, this nation was home to the author of the story “The Horses of Abdera” and the poetry collection Sentimental Lunarium, though that author is better known for a 1905 book about a guerrilla war. In one work by a man from this country, Nestor Labarthe's murder at a soccer game signals to Isidro Vidal that the "Young Turks" are about to slaughter the elderly, and in another work by that denizen of this nation, people die after the titular device re-creates two weeks in the lives of the inhabitants of an island. For 10 points, name this home country of the author of Asleep in the Sun, Diary of the War of the Pig, and The Invention of Morel, Adolfo Bioy Casares, who often collaborated with Jorge Luis Borges.
+
+----
+num: 6
+category: History
+difficulty: Open
+fixed: None
+seen: 46
+answer: Battle of the {Dunes}
+
+The center of the defending forces in this battle was led by the Marquis of Caracena, while the cavalry on the right flank of the opposing forces was led by the Marquis de Crequy. The winning side featured Thomas Morgan, who had been made governor of Mardyke, which the winning forces had captured the previous year. This battle, which was fought near the Furnes canal, featured a charge by the left side of the winning forces led by William Lockhart, while the losing side's left flank was led by a French rebel, the Prince de Condé. The victorious forces were led by Turenne, and this battle would lead to the signing of the Peace of the Pyrenees the next year. For 10 points, name this victory for a French-English alliance over the Spanish, a 1658 battle fought near Dunkirk.
+
+----
+num: 7
+category: Philosophy
+difficulty: Open
+fixed: None
+seen: 40
+answer: {Hans}-{Georg Gadamer}
+
+This thinker wrote about the poet Paul Celan in the essay “Who Am I and Who are You?" He investigated the art of medicine in The Enigma of Health Care, while his first important book focused on Plato's dialectical ethics. In another work, this author explored the ability of art to transport the reader or viewer from ordinary time to “fulfilled” or “autonomous” time, an idea that relates to the subtitular concept of art as “festival.” That essay, which further posits art as “play” and as “symbol,” is entitled “The Relevance of the Beautiful.” His most famous work, which criticizes Wilhelm Dilthey for his “entanglement in the aporias of historicism” and which led to various debates with Jurgen Habermas, describes the process of the “fusion of horizons” and argues for the importance of “historically-effected consciousness” in understanding and interpreting texts. For 10 points, identify this German developer of a philosophical hermeneutics, whose magnum opus is Truth and Method.
+
+----
+num: 8
+category: Social Science
+difficulty: Open
+fixed: None
+seen: 35
+answer: {Herbert Simon}
+
+This thinker applied a mathematical model for electrical control systems to the analysis of production in his paper “On the Application of Servomechanism Theory in the Study of Production Control.”He's not Wassily Leontief, but along with David Hawkins, he names a condition for guaranteeing that an input-output matrix has a unique, positive solution. His essays on human behavior are collected in Models of Man, and along with Allen Newell, he developed the Logic Theorist and the General Problem Solver. He analyzed decision making in his work Administrative Behavior, and argued that agents work towards a limited aspiration level rather than attempting to maximize their happiness. For 10 points, name this economist and polymath who coined the terms “bounded rationality” and “satisficing.”
+
+----
+num: 9
+category: Science
+difficulty: Open
+fixed: None
+seen: 56
+answer: {cooperativity} [prompt on early “{allostery}” or similar answers]
+
+Avidity is a form of this concept resulting from polyvalency, and Levinthal's paradox assumes that one process governed by it proceeds via a sequential rather than parallel mechanism. The KNF model describes a sequential induced fit pattern for it, which accounts for the negative form of this phenomenon, while the WMC model proposes molecules changing conformation from a T-state to an R-state. It is quantified by the Hill coefficient, which for myoglobin is 1.0 and for hemoglobin is 2.8. It is typically exemplified by deoxyhemglobin's weaker affinity for oxygen versus oxyhemoglobin. For 10 points, name this type of allostery in which the binding of a ligand to a molecule affects the affinity of subsequent ligands to that molecule.
+
+----
+num: 10
+category: Literature
+difficulty: Open
+fixed: None
+seen: 84
+answer: {Heartbreak House}
+
+The preface to this work notes that “those who do not know how to live must make a merit of dying” and contrasts the title thing to a “prison for horses” named Horseback. At the beginning of the second act, one character notes that macaroni is too rich for him, because he's a man of business and thus is “always thinking.” The final scene sees Nurse Guinness warning the characters that they will be summoned by the police if they don't put the light out. At the end, we learn that Randall at last “succeeds in keeping the home fires burning on his flute,” while an explosion seems to have killed Mangan. It also features Hesione Hushabye, Ellie Dunn, and the dynamite-obsessed rum fiend who has built the title structure in the shape of a ship, Captain Shotover. For 10 points, name this 1919 play, a “fantasia in the Russian manner on English themes” written by George Bernard Shaw.
+
+----
+num: 11
+category: Fine Arts
+difficulty: Open
+fixed: None
+seen: 40
+answer: {Mily Balakirev}
+
+His opus one is a single-movement piano concerto in F-sharp minor. Songs by this composer include the “Song of Selim” and a work that would later be adapted as this composer's Scherzo No.3, the “Song of the Golden Fish.” He gave the title 1000 Years to the second of his two overtures that he referred to as "a musical picture," and works inspired by Spain include the Fandango-etude for piano and the orchestral Overture on a Spanish March Theme. The second of his two second symphonies features a Scherzo alla cosacca, or Cossack scherzo, and he composed incidental music for King Lear. A symphonic poem about a beautiful but evil princess was inspired by the poetry of Lermontov, while his first successes including an orchestration of the The Lark and a Piano Fantasia on Life for the Tsar were based on the work of his predecessor and inspiration, Glinka. For 10 points, identify this composer of Tamara, who led the “Mighty Handful,” and had an "oriental fantasy" called Islamey.
+
+----
+num: 12
+category: History
+difficulty: Open
+fixed: None
+seen: 47
+answer: {Fordney}-{McCumber} Tariff
+
+A few years after opposing the League of Nations, Senator William Borah of Idaho became the only Republican to vote against this bill when it came before the Senate. It was supported by Senator Edwin Ladd of North Dakota, the spokesman of the Farm Bloc. The final version did not contain the American Valuation Plan, which was part of the original bill proposed by one of its namesakes. When that original bill came before the House, John Nance Garner grabbed a straw hat and challenged Republicans to state a duty on it. Named after the chairman of the House Ways and Means Committee from Michigan and a Republican senator from North Dakota, it was immediately preceded by an Emergency Tariff Act, which was put into place while it was being drawn up. For 10 points, identify this tariff that raised duties after the Underwood-Simmons tariff, signed by President Harding in 1922.
+
+----
+num: 13
+category: Science
+difficulty: Open
+fixed: None
+seen: 57
+answer: {Wilson's} disease [or {hepatolenticular degeneration}]
+
+In Asian populations, this disease is most commonly caused by an arginine-to-leucine point mutation at position 778 of the gene responsible for it, while among Western populations, it can be caused by a deletion of cysteine at position 3402 or a histidine-to-glutamine point mutation at position 1069. That gene, found on chromosome 13, codes for a P-type cation transport ATPase called ATP7B. This disease causes liver damage via Fenton-like chemistry and deposition in Descemet's membrane called Kayser-Fleischer rings, and often results in decreased ceruloplasmin levels. After treatment, patients often take zinc acetate to prevent an excess amount of a particular element. Usually treated with penecillamine or chelating agents like syprine, for 10 points, name this condition, the most common cause of copper accumulation in the body.
+
+----
+num: 14
+category: Literature
+difficulty: Open
+fixed: 1
+seen: 36
+answer: {Akutagawa} Ryunosuke
+
+He wrote about a girl on a train who throws some of the title fruit to three boys in his story “Tangerines,” while he wrote about two battleships being repaired in “Three Windows." One of his works opens on the second floor of a bookstore, where the protagonist observes that “Life cannot compare to a single line of Baudelaire.” That work, which consists of fifty-one brief aphoristic discussions of episodes in the author's life, is called A Fool's Life, while his other late works include the film script Temptation and the critical Literary, All Too Literary. He defended his use of the watakushi-shosetsu form in his non-fiction, and his stories include one about a painter who sees his daughter burnt in a carriage and a criminal who attempts to escape from the underworld on a spider's thread. For 10 points, name this author of "Hell Screen" and "The Nose," who described a woman stealing hair from corpses and a rape and murder that change depending on point of view in his "In a Grove" and "Rashomon."
+
+----
+num: 15
+category: Mythology
+difficulty: Open
+fixed: None
+seen: 111
+answer: {Hecuba} or {Hecabe}
+
+One story recounts how this figure's second son brought her rich robes from Sidon. Her mother has been said to either be Metope or Eunoë, while her father is traditionally said to be Dymas and her grandfather the river deity Sangarius. She succeeded Arisbe as queen after the latter was given to Hyrtacus, and some stories say she died at Cynossema after being turned into a dog. Her daughter Laodice was swallowed up by the earth, and her grandson was thrown off the walls of her city. This figure plotted to kill Polymestor's sons and unsuccessfully begged Odysseus to keep her daughter Polyxena alive. Another daughter of hers was raped by Ajax and taken as a concubine by Agamemnon, while her younger son was killed by Philoctetes and her eldest son was slain in revenge for Patroclus's death. For 10 points, name this mother of Cassandra, Paris, and Hector, the wife of Priam and queen of Troy.
+
+----
+num: 16
+category: Geography
+difficulty: Open
+fixed: 1
+seen: 175
+answer: Sénégal
+
+In its north is the Langue de Barbarie National Park, and its Louga Region contains the city of Linguère. Its northwest corner contains Savoigne and Biffeche, near the city of Saint-Louis, and its east contains the Falémé River. In its southeast is the city of Tambacounda, which lies in the sahéhlian plains, as well as the World Heritage Site of Niokolo-Koba National Park and this country's highest peak near Nepen Diakha. The Casamance River flows through its southeast, which passes through the city of Ziguinchor. The former seat of the Wolof Empire is found in this country. Yoff, Ouakam, and Île de Gorée are three communes d'arrondissements found in its capital city, which lies on the Cap-Vert peninsula. Its namesake river forms the northern border with Mauritania. Containing the near-enclave of The Gambia, for 10 points, name this west African nation with capital Dakar.
+
+----
+num: 17
+category: History
+difficulty: Open
+fixed: None
+seen: 47
+answer: {Apolo Milton Obote}
+
+During this leader's rule, the British diplomat Brian Lea faked his own kidnapping in this man's country. He angered many members of his military when he decided to appoint Smith Opon-Acak to succeed David Oyite-Ojok after the latter's death in a helicopter crash. During the latter portions of his rule, Paul Ssemogerere led the parliamentary opposition. Earlier, he was appointed prime minister by Walter Coutts. Paulo Muwanga preceded him in another position, and this man outlined a plan for his country in his The Common Man's Charter. His rule also saw massacres in the Luwero triangle, and he was succeeded as president by Yoweri Museveni. He earlier came to power after ousting Mutesa II, and was able to reclaim his office after his rival was accused of cannibalism. For 10 points, name this man who both preceded and succeeded Idi Amin as president of Uganda.
+
+----
+num: 18
+category: Science
+difficulty: Open
+fixed: None
+seen: 57
+answer: {Hunsdiecker}-{Borodin} reaction [or {Borodin}-{Hunsdiecker} reaction; accept early {Borodin reaction}]
+
+When triethylamine is used as a catalyst in it, N-halosuccinimides, cinnamic acids, and propiolic acids can be converted into halostyrenes and haloalkynes. A similar reaction uses lead(IV) tetraacetate and lithium chloride to generate secondary and tertiary products, and is named after Kochi. If alpha-hydroxy and alpha-amino salts are used as substrates, aldehydes and ketones will results, and esters tend to form if iodine is used. It was first developed by Alexander Borodin, but is more often named after the husband-and-wife pair that converted it into a general method. It is similar to Kolbe electrolysis in that an alkane is formed from the decarboxylation of a carboxylic acid, and it usually proceeds via a hypobromite intermediate, eventually resulting in silver bromide. For 10 points, name this reaction that synthesizes alkyl halides from silver salts of carboxylic acids.
+
+----
+num: 18
+category: Science
+difficulty: Open
+fixed: None
+seen: 59
+answer: {Hunsdiecker}-{Borodin} reaction [or {Borodin}-{Hunsdiecker} reaction; accept early {Borodin reaction}]
+
+When triethylamine is used as a catalyst in it, N-halosuccinimides, cinnamic acids, and propiolic acids can be converted into halostyrenes and haloalkynes. A similar reaction uses lead(IV) tetraacetate and lithium chloride to generate secondary and tertiary products, and is named after Kochi. If alpha-hydroxy and alpha-amino salts are used as substrates, aldehydes and ketones will results, and esters tend to form if iodine is used. It was first developed by Alexander Borodin, but is more often named after the husband-and-wife pair that converted it into a general method. It is similar to Kolbe electrolysis in that an alkane is formed from the decarboxylation of a carboxylic acid, and it usually proceeds via a hypobromite intermediate, eventually resulting in silver bromide. For 10 points, name this reaction that synthesizes alkyl halides from silver salts of carboxylic acids.
+
+----
+num: 19
+category: Literature
+difficulty: Open
+fixed: 57
+seen: 34
+answer: {Luke}
+
+Gfrörer et al. attest that this person miscounted by sixty years in making Lysanians tetrarch of Abilene thirty years after the birth of Christ. Tertullian and Epiphanius charged Marcion with mangling this man's namesake book. This person was present at the conversion of Lydia and subsequently lodged in her house, while his namesake book mentions such figures as the widow of Zarephath and Naaman the Syrian. That book, which is dedicated to Theophilus, is sometimes referred to as the source material for Acts. Eusebius attests he came from Antioch, and, at Troas, this man joined Paul's company. His book opens with an account of John the Baptist's father, Zachary, and this evangelist's symbol is a calf or an ox. His gospel mentions Mary's Magnificat and the stories of Lazarus and the Rich Man, the Prodigal Son, and the Good Samaritan. For 10 points, name this gospel author who also wrote the Acts of the Apostles.
+
+----
+num: 20
+category: Literature
+difficulty: Open
+fixed: 57
+seen: 36
+answer: James Fenimore {Cooper}
+
+One work by this man describes a protagonist who was born on “neck of land” and who argues against a theory that a certain place name is a corruption of the word “Dibbleston,” and that protagonist travels with Uncle Ro. This author of a work about Miles Wallingford penned a novel about Vulcan's Peak called The Crater and created a family including Cornelius, Hugh, and Mordaunt. A series containing The Redskins, The Chainbearer, and Satanstoe was his trilogy about the Anti-Rent Wars, the Littlepage Manuscripts. Alice Dunscombe is once again abandoned at the end of his story of the mysterious Mr. Gray, who is likely a disguised John Paul Jones. A sequence written by this man in which several bullets are shot through a painted nail without ever being examined is analyzed in a work that claims one of his novels "accomplishes nothing and arrives in air." For 10 points, name this creator of such characters as Uncas, whose "literary offenses" were described by Mark Twain and who included The Pathfinder, The Deerslayer, and The Last of the Mohicans in his Leatherstocking Tales.
+
+----
+num: 21
+category: Literature
+difficulty: Open
+fixed: None
+seen: 37
+answer: John {Gower}
+
+Diane Watt wrote a book describing this author as “amoral,” though he is considered as a “moral philosopher” in a classic book on him by John Fisher. One of his last poems, “In Praise of Peace,” was probably written after he went blind, while his Fifty Ballades were written around the time he produced the Cronica Tripertita, a sequel to one of his major works. The tale of Mundus and Paulina and the story of Aspidis the Serpent appear in a book on “Pride” which opens one of his works. His earliest major work, sometimes known as Speculum Meditantis, dealt with the existence of sin, while he wrote about the political world of the late fourteentth century in Vox Clamantis. For 10 points, name this English poet to whom Troilus and Criseyde was dedicated by his friend Geoffrey Chaucer, and who inspired part of the lot of Shakespeare's Pericles with his Confessio Amantis.
+
+----
+num: 22
+category: Science
+difficulty: Open
+fixed: None
+seen: 58
+answer: {Ordovician} Period
+
+Stratigraphically, the boundary between this period and the period preceding it is marked by appearance of dictyonemid graptolites, and Dobs Linn in southern Scotland is the type locality for that boundary. This period sees the first appearance of the jawless pteraspidomorphs, as well as fossils of the animal phylum Bryozoa. Its epochs include the Ashgillian and the Caradocian, which make up its “Late” subdivision. It saw Gondwana come to rest at the South Pole and the second-largest mass extinction in the history of the world, killing a third of all brachiopod and bryozoan families. It was named after a site in Wales by Charles Lapworth, and featured evidence of the first land organisms. For 10 points, identify this period followed by the Silurian and preceded by the Cambrian, the second period of the Paleozoic Era.
+
+----
+num: 23
+category: Fine Arts
+difficulty: Open
+fixed: 1
+seen: 39
+answer: Ariadne auf {Naxos}
+
+Efforts in this opera to lift the title character's spirits include the piano-accompanied “Lieben, hassen” and a quartet sung by four men with a coloratura soprano descant. That coloratura soprano role is best known for the massive aria “Grossmächtige Prinzessin!”, in which she lists men who have seduced her, to which the title character responds by withdrawing into her cave. The title location disappears upon the appearance of a certain god, and the Prologue to the opera, not included in its original version, ends with the Composer singing “Musik ist eine heilige Kunst.” Zerbinetta and four commedia dell'arte characters star in the comedy that infringes upon the Composer's opera seria, creating the opera-within-an-opera that forms the body of this work. For 10 points, identify this opera with libretto by Hugo von Hofmannsthal, a work by Richard Strauss about the abandoned lover of Theseus.

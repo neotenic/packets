@@ -1,0 +1,224 @@
+####
+tournament: HSAPQ ACF 1
+round: Round_05_HSAPQACF1.pdf
+year: 2008
+####
+
+num: 1
+category: Science
+difficulty: HS
+fixed: -1
+seen: 487
+answer: {tension} [accept {magnetic tension} before “{Laplace}” is read; prompt on {force}]
+
+Subtracting the magnetic pressure from this quantity gives the Lorentz force, and Laplace's Law states that pressure is equal to twice this quantity over the radius. In free-body diagrams, it must be represented as a vector pointing away from the object of interest because it can never push, only pull. A two-dimensional form allows small animals to walk on water and is known as the “surface” variety. For 10 points, identify this type of force exerted by taut strings, cables, and cords.
+
+----
+num: 2
+category: History
+difficulty: HS
+fixed: 1
+seen: 422
+answer: War of the {Spanish Succession}
+
+In this conflict, one general the siege of Turin, and its main peace was supplemented by the treaties of Rastatt and Baden following victories by Eugene of Savoy. Queen Anne's War was its American analogue, and John Churchill gained renown with his victory at Blenheim in this conflict, and this war was preceded by a will granting Philip V the throne following the death of Charles II. For 10 points, name this war that lasted from 1701 to 1714 that was ended by the Peace of Utrecht which dealt with who would rule the namesake Iberian country.
+
+----
+num: 3
+category: Literature
+difficulty: HS
+fixed: 1
+seen: 441
+answer: Samuel {Beckett}
+
+In one of his plays, a magnifying glass reveals that the text on a toothbrush reads, “Fully guaranteed…hog's setae.” That play ends with Winnie buried up to her neck in a mound of earth. In addition to Happy Days, he wrote a trilogy of novels including Molloy,Malone Dies, and The Unnamable. In another of his plays, Nagg and Nell live in trash cans while Clov serves Hamm. For 10 points, name this author of Endgame, who wrote about Vladimir and Estragon in Waiting for Godot.
+
+----
+num: 4
+category: Philosophy
+difficulty: HS
+fixed: 57
+seen: 520
+answer: Gottfried Wilhelm {Leibniz}
+
+This thinker portrayed himself as "Theophilus" and his interlocutor as "Philalethe" in a chapter-by- chapter rebuttal of a work by John Locke. In addition to his Discourse on Metaphysics and the posthumously printed "New Essays on Human Understanding," he inspired Schopenhauer's discourse on the "Fourfold Root" of an idea that he devised, the "principle of Sufficient Reason." For 10 points, name this author of the Monadologie, a philosopher parodied as Pangloss in Candide and co-inventor of calculus.
+
+----
+num: 5
+category: History
+difficulty: HS
+fixed: 57
+seen: 411
+answer: {Maya} civilization/empire
+
+This civilization's government was ruled by a leader called the halach uinic and a head priest called the Ah Kin Mai. Its kings included Chan-Balum and Pacal, and it used the milpa system of agriculture. This civilization built cities at Uxqal and Palenque, and adopted a base-twenty system of mathematics. They used the tzolkin, a 260-day calendar, and suddenly abandoned their cities in the 9th century. For 10 points, name this Pre-Columbian civilization that built Chichen Itza and was based in the Yucatan Peninsula.
+
+----
+num: 6
+category: Social Science
+difficulty: HS
+fixed: 57
+seen: 384
+answer: {prices} [or the {price} level; do not accept “{costs}”]
+
+A “prisoner's dilemma” situation can determine their level under an oligopoly, and companies which cannot affect their general level are “takers” of these. Thorstein Veblen advocated technocracy in a book about “The Engineers and” the “system” of these. Market segmentation is one reason for their namesake “discrimination.” In basic economic graphs, demand increases, and supply decreases, as these rise. For 10 points, what are these values, which are often plotted against quantity on supply-demand graphs, and which rise in periods of inflation?
+
+----
+num: 7
+category: Fine Arts
+difficulty: HS
+fixed: 57
+seen: 498
+answer: Pablo {Picasso}
+
+The suicide of this artist's friend Casagemas inspired him to paint La Vie. He designed the sets and costumes for the ballet Parade, and depicted a man wearing a bright red costume next to a harlequin in his 1905 painting The Family of Saltimbanques. This artist of The Old Guitarist painted a screaming horse, an arm holding a candle, and a bull in a work commemorating the bombing of a Basque village. Along with Georges Braque, he developed Analytic Cubism. For 10 points, name this Spanish painter of Les Demoiselles d'Avignon and Guernica.
+
+----
+num: 8
+category: Literature
+difficulty: HS
+fixed: 57
+seen: 446
+answer: Emily {Dickinson}
+
+In one poem by the author, the speaker asserts that when “seraphs swing their snowy hats,” he will drink from “tankards scooped in pearl.” This poet wrote “Diadems drop and Doges surrender / Soundless as dots on a disk of snow” after describing people “safe in their alabaster chambers.” In another of this author's poems, the speaker says the title creature came “between the light and me” so “I could not see to see.” For 10 points, name this American poet of “I Heard a Fly Buzz When I Died” and "Because I Could Not Stop For Death."
+
+----
+num: 9
+category: History
+difficulty: HS
+fixed: 57
+seen: 423
+answer: {Berlin}
+
+In 1448, residents of this city rebelled against Frederick II Irontooth. One meeting here was convoked by Count Gyula Andrassy and revised the Treaty of San Stefano. Another meeting here established free navigation on the Niger, created the Congo Free State, and sparked the scramble for Africa. In addition to that 1885 conference, this capital of the kingdom of Prussia was divided into four quadrants among the Allies after World War II. For 10 points, name this German city, the location of a wall torn down in 1989.
+
+----
+num: 10
+category: Science
+difficulty: HS
+fixed: -1
+seen: 487
+answer: {Hydrogen} bonds
+
+The Zundel cation displays a symmetric example of these structures that have been studied in the bifluoride ion, and those structures possess significantly higher energies than asymmetric ones.. The existence of these between every nth carbonyl group and n+4 th amino group imparts the alpha-helical structure to amino acid chains, and they are also responsible for causing the crystalline arrangement of water molecules in ice. For 10 points, identify these structures which impart greater stability to compounds containing the lightest element.
+
+----
+num: 11
+category: Literature
+difficulty: HS
+fixed: -1
+seen: 442
+answer: {Death} in {Venice} [or {Der Todig} in {Venedig}]
+
+The protagonist of this work imagines an ugly Socrates lecturing Phaedrus. The protagonist is inspired to go on a journey when he encounters a red haired man in a Byzantine graveyard, and is later disgusted by an old fop he meets on a boat, who pretends to be young with painted cheeks and a dyed wig. Despite being warned that the sirocco was aggravating the cholera epidemic on Lido, the title event happens while the protagonist observes Tadzio on an Italian beach. For 10 points, name this novella about the demise of Gustav von Aschenbach, written by Thomas Mann.
+
+----
+num: 12
+category: Science
+difficulty: HS
+fixed: 57
+seen: 484
+answer: {echinodermata}
+
+Members of this phylum contain a network of birefringent calcium carbonate crystals along its skeleton, and the structure of the ossicles in it is called the stereom. The madreporite is a perforated plate which is connected to the stone canal in the water vascular system of these organisms, which usually move using five rows of tubed feet. This phylum includes classes like Asteroidia and Holothuroidea, and all members exhibit radial symmetry. For 10 points, identify this phylum, whose name means “spiny skinned” and is exemplified by sea urchins and starfish.
+
+----
+num: 13
+category: Fine Arts
+difficulty: HS
+fixed: 57
+seen: 497
+answer: Schubert's {Unfinished} Symphony [or Schubert's {Eighth} Symphony; accept equivalents {such} as
+
+One of the two mainstream theories about this work notes that sketches for a scherzo part of it exist, and the ending of its slow second movement in E major clashes with the first movement in B minor. The other theory states that this work was purposely broken up in order to create the entr'acte for the Rosamunde incidental music. Whether this 1828 work was ever intended to have more than two movements is still the subject of debate. For 10 points, name this work which was followed by the Great Symphony, a piece by Franz Schubert named for its incomplete status.
+
+----
+num: 14
+category: Trash
+difficulty: HS
+fixed: 1
+seen: 1020
+answer: Christina {Aguilera}
+
+Her son Max was wrapped in a flag in an advertisement wherein she sang “America the Beautiful” for the Rock the Vote campaign. Along with Missy Elliot, she sang “Car Wash” for Shark Tale. Her self titled album contains a song which asks “Who is that girl I see staring straight back at me?” which also appeared on the Mulan soundtrack, and another of her songs describes a character who is “sweet talking” and “sugar coated.” For 10 points, identify this singer best known for songs like “What a Girl Wants,” “Genie in a Bottle,” and “Candyman.”
+
+----
+num: 15
+category: Geography
+difficulty: HS
+fixed: 1
+seen: 719
+answer: Commonwealth of {Australia}
+
+This country's west portion includes a river formed from salt lakes near Peak Hill in the south edge of its Robinson Ranges, and which flows to the sea at Kalbarri. Northwest of its town of Meekatharra is Mount Augustus, one of the claimants to the title of “world's largest monolith.” Jervis Bay Territory is often considered a state on its east seaboard, which also features the Great Dividing Range. Also featuring the Yarra River, Ayers Rock, Darwin, and Alice Springs, for 10 points, name this country next to the Great Barrier Reef, whose capital is Canberra.
+
+----
+num: 16
+category: Literature
+difficulty: HS
+fixed: 57
+seen: 453
+answer: The Tale of {Genji}
+
+At one point in this work, a woman is concerned that people might hear her having sex with the title character, who replies “I can go anywhere and do anything.” It opens with an excerpt from the “Song of Everlasting Sorrow” before transitioning to the “Paulownia Court,” and at one point, the title character is exiled to the town of Suma. His descendents, Niou and Kaoru, both love Ukifune, while the title character has an affair with his mother-in-law, Fujitsubo. For 10 points, name this Heian Era novel by Murasaki Shikibu about an amorous prince.
+
+----
+num: 17
+category: Science
+difficulty: HS
+fixed: 57
+seen: 492
+answer: polynomials
+
+In base 2, these objects are designated primitive if they generate maximum period linear feedback shift registers. The Chebyshev ones are a special case of the Jacobi ones, as are the Legendre ones. A Taylor series of order n corresponds to one of these with degree n, and irreducible ones cannot be factored, though the fundamental theorem of algebra guarantees they have at least one complex root. For 10 points, identify these mathematical objects whose terms are all proportional to a power of a variable, examples of which include 3y and x squared plus 1.
+
+----
+num: 18
+category: Fine Arts
+difficulty: HS
+fixed: None
+seen: 495
+answer: {Don} Giovanni
+
+One character in this opera asserts in the aria “Non mi dir” that she cannot yet marry Ottavio, and the title character sings about hosting a wedding party in “Fin ch'han dal vino,” the champagne aria. One character switches cloaks to mislead a murderous mob led by Massetto, who is infuriated by the treatment of his new wife Zerlina, and earlier Elvira learns about the title figure's history in Leporello's “catalogue” aria. The statue of the Commendatore drags the title character down to Hell at the end of, for 10 points, what opera about a womanizer, by Mozart?
+
+----
+num: 19
+category: History
+difficulty: HS
+fixed: 1
+seen: 421
+answer: Thebes
+
+According to Apollodorus, the first king of this city and his goddess-wife turned into dragons after conquering Illyria. One myth holds that the first king of this city had a daughter named Agave who gored her son Pentheus to death during a Dionysiac festival. This city was punished after the young boy Chrysippus was raped by its king, Laius. Argive commanders join Polynices in battle against this city's leader Eteocles, the son of Oedipus, in an Aeschylus play about "Seven Against" this city. For 10 points, name this Greek city founded by Cadmus.
+
+----
+num: 20
+category: History
+difficulty: HS
+fixed: 1
+seen: 413
+answer: {Transcontinental} Railroad
+
+Samuel Curtis introduced the bill proposing this idea, which was planned by Theodore Judah. It was financed by the "Big Four," who included Mark Hopkins, Charles Crocker, and Collis Huntington. It led to the creation of "Hell on Wheels" towns, and was constructed by companies owned by Thomas Durant and Leland Stanford. It was finally completed at Promontory Point, Utah with a golden spike. Built by the Union Pacific and the Central Pacific, for 10 points, name this route which connected Omaha and Sacramento.
+
+----
+num: 21
+category: Science
+difficulty: HS
+fixed: -1
+seen: 486
+answer: {solar wind}
+
+A spiral associated with it is named for Eugene Parker who noted the similarity between Biermann and Chapman's theories for this phenomenon. First observed by the Lunik II satellite, comprehensive information about it was gathered by Mariner 2, which noted the direction of the flux of positive ions. The discontinuity formed by its interaction with a planetary magnetic field is called the bow shock, and its radiation pressure causes comets to have tails. For 10 points, identify this two word term which describes the stream of particles ejected by the sun's corona.
+
+----
+num: 22
+category: History
+difficulty: HS
+fixed: 1
+seen: 421
+answer: Winston {Churchill}
+
+Works by this man include The Story of the Malakand Field Force, which was derived from his service in India, and The River War. He lost his admiralty post due to his championing of the disastrous Dardanelles expedition during World War I, and as Colonial Secretary, he negotiated the treaty that created the Irish Free State. For 10 points, name this man whose 1946 speech in Fulton, Missouri warned against the Soviet Iron Curtain and who, as Prime Minister, rallied the British against Nazi Germany during World War II.

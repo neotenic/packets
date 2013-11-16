@@ -1,0 +1,228 @@
+####
+tournament: Web Sample
+round: m_round16.pdf
+####
+
+num: 1
+category: Life Science
+difficulty: MS
+seen: 10
+answer: 1 and 3
+
+By words or numbers, name all of the following 3 physical or chemical changes that will typically denature a protein: 
+1) large changes in pH; 2) rapid cooling to 4ºC; 3) heating to over 45ºC
+
+----
+num: 4
+category: Math
+difficulty: MS
+seen: 6
+answer: 24
+(Solution: 4 × 3 × 2 × 1 = 24)
+
+In how many different ways can 4 people line up for a photograph?
+
+----
+num: 4
+category: Math
+difficulty: MS
+seen: 5
+answer: $2,000.00
+(Solution: A = 900 Ft^2;  (900 Ft^2)(1 Yd^2/9 Ft^2)($20/ Yd^2) = $2000)
+
+If the price of carpeting is $20.00 per square yard, how much will it cost to cover a 30 -foot by 30-foot square area?
+
+----
+num: 5
+category: General Science
+difficulty: MS
+seen: 5
+answer: Porous;  Grey
+
+Name all of the following 4 choices that are characteristic of coke used in blast furnaces: porous; shiny; grey; soft
+
+----
+num: 6
+category: Life Science
+difficulty: MS
+seen: 11
+answer: Endoplasmic Reticulum  (Accept:  Er)
+
+Into what organelle does the nuclear membrane get absorbed at the start of prop hase?
+
+----
+num: 7
+category: Physical Science
+difficulty: MS
+seen: 6
+answer: 1
+(Solution:  292g/5l = 58g/l = 1m)
+
+Assuming that sodium and chlorine have atomic masses of 23 and 35, respectively, what is the molarity of a 5 -liter aqueous soluti on containing 292 grams of sodium chloride?
+
+----
+num: 9
+category: Math
+difficulty: MS
+seen: 7
+answer: 4 5x^2y^4 – 7xy^2 – 12
+
+Find the following product, giving your answer in simplified form: (9xy^2 + 4)(5xy^2 – 3)
+
+----
+num: 11
+category: Life Science
+difficulty: MS
+seen: 10
+answer: Type B  (Accept:  B)
+
+What human blood type has antibodies to only group A antigens?
+
+----
+num: 14
+category: Math
+difficulty: MS
+seen: 6
+answer: 25
+
+A bag contains 100 crayons of which 20 are red, 55 are purple, and 25 are yellow. Expressed as a percent, what is the probability of randomly getting one crayon from the bag and having it be yellow ?
+
+----
+num: 14
+category: Math
+difficulty: MS
+seen: 5
+answer: 0.8
+(Solution: Log 2 + Log 3 = 0.8)
+
+Assuming log 2 = 0.3 and log 3 = 0.5, find log 6:
+
+----
+num: 15
+category: General Science
+difficulty: MS
+seen: 5
+answer: Tidal Power;  Geothermal Energy
+
+Name all of the following 3 energy resources that are typically considered renewable: tidal power; geothermal energy; coal
+
+----
+num: 17
+category: Physical Science
+difficulty: MS
+seen: 6
+answer: 1 Atmosphere;  25ºc
+
+Which 2 of the following 4 choices represent standard conditions when working with gases: 1 atmosphere; 273 kelvin; 25ºC; 760 atmospheres
+
+----
+num: 19
+category: Math
+difficulty: MS
+seen: 6
+answer: Fractals
+
+What is the most common name for the branch of mathematics developed by Mandelbrot that generates geometrically self -similar patterns?
+
+----
+num: 20
+category: General Science
+difficulty: MS
+seen: 5
+answer: Palm Oil;  Sunflower;  Soybeans  (Accept:  All but Switch Grass)
+
+Name all of the following 4 choices that are common resources for biodiesel fuel: palm oil; switch grass; sunflower seeds; soybeans
+
+----
+num: 21
+category: Life Science
+difficulty: MS
+seen: 11
+answer: Water
+
+What substance is most directly formed when oxygen accepts electrons at the end of the electron transport system of oxidative phosphorylation?
+
+----
+num: 21
+category: Life Science
+difficulty: MS
+fixed: -1
+seen: 10
+answer: Citric Acid Cycle
+
+Name all of the following 3 metabolic processes in vertebrate cells that release carbon dioxide as a byproduct: glycolysi s; citric acid cycle; oxidative phosphorylation
+
+----
+num: 22
+category: Physical Science
+difficulty: MS
+seen: 6
+answer: Strong Force
+
+What basic force of the universe most directly functions to keep the nucleus of an atom together?
+
+----
+num: 22
+category: Physical Science
+difficulty: MS
+seen: 5
+answer: 1,000
+(Solution: 330/second × 3 = 990 or 1,000 M)
+
+Maryjane sees a fireworks display and 3 seconds later hears its explosion. Rounded to the nearest 100 meters, how far away from Maryjane were the fireworks?
+
+----
+num: 23
+category: Earth Science
+difficulty: MS
+seen: 7
+answer: Holocene  (Accept:  Recent)
+
+On the geological time scale, the Pleistocene Epoch is followed by what epoch?
+
+----
+num: 23
+category: Earth Science
+difficulty: MS
+seen: 8
+answer: 1 ^St Law
+
+Which of Kepler’s laws most directly leads us to hav e terms such as apogee, aphelion, and perigee?
+
+----
+num: 24
+category: Math
+difficulty: MS
+seen: 6
+answer: 9
+(Solution: 2 + 3 + 4 = 9)
+
+What is the degree of the following monomial: 12 x^2y^3z^4
+
+----
+num: 24
+category: Math
+difficulty: MS
+seen: 7
+answer: 5
+(Solution:  180º( N – 2) = 540º, N = 5 Sides)
+
+If the sum of the INTERIOR angles of a regular polygon is 540º, how many sides does it have?
+
+----
+num: 25
+category: General Science
+difficulty: MS
+seen: 6
+answer: Doppler Effect
+
+What is the most common term for the principal, rule or effect, that explains what is referred to by astronomers as blue shift?
+
+----
+num: 25
+category: General Science
+difficulty: MS
+seen: 5
+answer: Intake;  Compre Ssion;  Power;  Exhaust
+
+From the EARLIEST to the LATEST, what are the 4 strokes or stages in a typical 4 -stroke internal combustion engine?

@@ -1,0 +1,292 @@
+####
+tournament: Regional B
+round: round15.pdf
+year: 2002
+####
+
+num: 2
+category: Biology
+difficulty: HS
+seen: 41
+answer: 12
+
+In the Calvin cycle, for each 6 CO^2 fixed how many PGAL are typically formed?
+
+----
+num: 3
+category: Chemistry
+difficulty: HS
+fixed: -1
+seen: 33
+answer: 2
+(Solution: (2n + 2 – M)/2;  = (2 × 9 + 2 – 16) / 2;  = 2)
+
+What is the degree of unsaturation for a ring chain of the molecule 
+C ^9H^16, assuming it contains only sigma bonds?
+
+----
+num: 4
+category: Astronomy
+difficulty: HS
+seen: 56
+answer: Tropic of Sagittarius   (Accept:  Sagittarius)
+
+If it were to be renamed toda y based on what constellation the sun is in on December 22^nd, what would the new name be fo r the Tropic of Capricorn?
+
+----
+num: 4
+category: Astronomy
+difficulty: HS
+seen: 56
+answer: 3
+(Solution:  for Radiation to Which Our Eyes Ar E Most Sensitive, Then = 0.25 (0.55 μm)/0.04318 M; = 
+3.2)
+
+How many arc-seconds wide, rounded to the nearest whole number, would Galileo have been able to resolve w ith his telescope, if one assumes that its 1.7 inch diameter lens was free of optical aberrations?
+
+----
+num: 5
+category: Math
+difficulty: HS
+seen: 23
+answer: 200
+
+The monthly revenue, in dollars, for sales of widgets is given by the equation R(q) = 8.5q – 0.02q^2, where q is the number of widgets made per month. The cost for creating the widgets is given by the equation, C(q) = 200 + 0.5q dollars. A maximum of 400 widgets can be made in 1 month. How many wi dgets should be made each month to maximize the profit, as given by the revenue minus the cost?
+
+----
+num: 6
+category: Earth Science
+difficulty: HS
+seen: 64
+answer: Paleozoic
+
+In the geological time scale, the Devonian Period belongs to which Era?
+
+----
+num: 7
+category: General Science
+difficulty: HS
+seen: 29
+answer: Beri-Beri
+
+What disease was first discovered in the mid-19 ^th century in the Far East and late r correlated to a vitamin deficiency caused by the introduction of polished rice as a food staple?
+
+----
+num: 9
+category: Physics
+difficulty: HS
+seen: 26
+answer: Polonium
+
+What name did Marie and Pierre Cu rie give the radioactive substance they separated from uranium ore that ha d chemical properties close to bismuth?
+
+----
+num: 9
+category: Physics
+difficulty: HS
+seen: 26
+answer: Radium
+
+In collaboration with Bémout, the Curies found what other radioactive substance with chemical properties similar to barium?
+
+----
+num: 10
+category: Biology
+difficulty: HS
+seen: 38
+answer: Electrons
+
+ATP is to energy-rich phosphate as NADPH^2 is to energy-rich:
+
+----
+num: 10
+category: Biology
+difficulty: HS
+fixed: -1
+seen: 39
+answer: Glyceraldehyde,  Erythrose,  Arabinose
+
+Order the following 3 monosaccharides from the smallest to the largest: erythrose, glyceraldehyde, arabinose
+
+----
+num: 12
+category: Astronomy
+difficulty: HS
+seen: 54
+answer: Cepheids  (Accept:  Cepheid Variables)
+
+Members of the “Key Project”, while working with the Hubble space telescope, are using observation primarily of wh at specific type of celestial object to calculate the Hubble constant?
+
+----
+num: 12
+category: Astronomy
+difficulty: HS
+fixed: -1
+seen: 53
+answer: 12.4
+(Solution:  365.2/29.5 = 12.4)
+
+Rounded to the first decimal place, how many synodic months are in an accurate calendar year if a tropical year is 365.2 days?
+
+----
+num: 13
+category: Math
+difficulty: HS
+fixed: -1
+seen: 26
+answer: Kurt Gödel  (Accept:  Gödel)
+
+In 1931, who disproved that axioms of arithmetic were consistent and could sufficiently prove or dispro ve any mathematic al conjecture?
+
+----
+num: 13
+category: Math
+difficulty: HS
+seen: 25
+answer: 6x^2^1
+−2.5x^−^2^1
+  (Accept:  6x^0.5 – 2.5x^  –0.5)
+
+What is the derivative of the foll owing expression with respect to thevariable x: 4x^3^2 −5x^1^2 (Read as: 4x to the 3/2 power minus 5x to the ½ power)
+
+----
+num: 14
+category: Earth Science
+difficulty: HS
+seen: 65
+answer: Waterspouts
+
+Land is to tornadoes as the ocean is to what?
+
+----
+num: 16
+category: Computer Science
+difficulty: HS
+seen: 61
+answer: Binary-Coded Decimal
+
+As a format for representing integers in which each digit is represented by four bits, wh at does the acronym BCD stand for?
+
+----
+num: 17
+category: Physics
+difficulty: HS
+seen: 27
+answer: 49  Meters/second
+(Solution:  v = Gt; = 9.8 X 5 = 49)   ^
+
+Considering air resistance is ne gligible and that gravitational acceleration is 9.8 meters per second squared, what is the velocity acquired by a body in free fall, starting from rest, after 5 seconds?
+
+----
+num: 18
+category: Biology
+difficulty: HS
+seen: 40
+answer: Allele
+
+What term, coined by Mendel, deli neates the variant form of a gene?
+
+----
+num: 19
+category: Chemistry
+difficulty: HS
+fixed: -1
+seen: 34
+answer: 0.07
+(Solution:  35,000 Mg Cl ^- / 500,000 L = 0.07 Ppm)
+
+If a 5.0 × 10^5 liter swimming pool at 25°C contains 35 grams of chloride ions, what is the concentration of chloride ions in parts per million?
+
+----
+num: 20
+category: Astronomy
+difficulty: HS
+seen: 54
+answer: Equinoxes
+
+The two points where the ecliptic intersects the celestial equator are known as what:
+
+----
+num: 20
+category: Astronomy
+difficulty: HS
+fixed: -1
+seen: 55
+answer: 81 Times
+(Solution:  Inverse Square law...9 ^2 = 81)
+
+If a star were to be 9 times farther away than it originally was, how many times fainter would it appear to be if all other things remain constant?
+
+----
+num: 21
+category: Earth Science
+difficulty: HS
+seen: 62
+answer: Delta  (Acce Pt:  Delta Plain)
+
+What term is given to a body of sediments deposited where a stream flows into a body of standing water and its velocity and transpo rting power are suddenly reduced?
+
+----
+num: 21
+category: Earth Science
+difficulty: HS
+seen: 66
+answer: Alluvial Fan
+
+The land counterpart of a delta, what is the term for a fan-shaped assemblage of sediments built where a stream moves from a steep gradient to a flatter gradient and suddenly loses transporting power?
+
+----
+num: 22
+category: General Science
+difficulty: HS
+fixed: -1
+seen: 32
+answer: Usa, France, Japan, Germany and Russia  (Accept in Any Order)
+
+What are the five countries that currently produce the greatest amount of nucle ar electric energy?
+
+----
+num: 23
+category: Physics
+difficulty: HS
+seen: 28
+answer: Deuteron
+
+What scientific term is most often used when specifically referring to the nucleus of a deuterium atom?
+
+----
+num: 23
+category: Physics
+difficulty: HS
+seen: 28
+answer: Muon = Lepton;  Pion = Meson;  Neutron = Baryon
+
+Classify the following 3 partic les as bosons, leptons, mesons, or baryons: muon; pion; neutron
+
+----
+num: 24
+category: Biology
+difficulty: HS
+seen: 37
+answer: Uric Acid
+
+In primates, what is the final product of most purine degradation?
+
+----
+num: 24
+category: Biology
+difficulty: HS
+fixed: -1
+seen: 39
+answer: Lag,  Log,  Stationary,  Decline
+
+When bacteria are introduced into a nutrient rich medium they follow a standard bacterial growth curve. Plac e the following into the proper sequence from the earliest to the latest in this growth phas e: stationary, log, decline, lag
+
+----
+num: 25
+category: Chemistry
+difficulty: HS
+seen: 35
+answer: 62.5%
+
+What is the efficiency, in pe rcent, of a Carnot cycle operating between 1140°F and 140°F?

@@ -1,0 +1,271 @@
+####
+tournament: Question Set C
+round: Round-3C.pdf
+####
+
+num: 1
+category: Physics
+difficulty: HS
+seen: 1
+answer: W)  Acceleration
+
+The slope of a velocity versus time graph represents:
+W) acceleration
+X) velocity
+Y) position
+Z) displacement
+
+----
+num: 1
+category: Physics
+difficulty: HS
+seen: 1
+answer: Z)  Only When the Accelera Tion Is Constant
+
+Under which of the following conditions is the average velocity equal to the average of an object’s initial and final velocity:
+W) always 
+X) never 
+Y) only when the acceleration changes 
+Z) only when the acceleration is constant
+
+----
+num: 2
+category: Chemistry
+difficulty: HS
+seen: 1
+answer: Y)  Mass
+(Solution: Extensive Properties Depend on the Amount of Substance Present)
+
+Which of the following is an EXTENSIVE property of matter:
+W) temperature
+X) density
+Y) mass 
+Z) viscosity
+
+----
+num: 3
+category: Biology
+difficulty: HS
+answer: X)  Veins Have Comparatively Thick Walls Wit H More Muscle 
+Than Arteries
+
+Which of the following is NOT true of the human body:
+W) there are substantial numbers of lymph nodes in the wall of the large intestine
+X) veins have comparatively thick walls with more muscle than arteries 
+Y) there are two layers of smooth muscle in the walls of the small intestine
+Z) the small intestine is longer tha n the large intestine
+
+----
+num: 5
+category: Earth Science
+difficulty: HS
+answer: Z)  the Tilt of Earth’s Axis
+
+Which of the following MOST directly modulates the intensity of incoming solar radiation through the course of a year:
+W) the eccentricity of Earth’s orbit
+X) the time for 1 orbit of Earth around the Sun 
+Y) Earth’s rapid rotation about its axis
+Z) the tilt of Earth’s axis
+
+----
+num: 6
+category: General Science
+difficulty: HS
+seen: 1
+answer: X)  0.9
+
+Which of the following is closest to the conversion of 900 millibars into atmospheres:
+W) 0.09
+X) 0.9
+Y) 9.0
+Z) 90.0
+
+----
+num: 7
+category: Astronomy
+difficulty: HS
+answer: Z)  Almost Directly Overhead
+
+At about 10 PM in late summer of 2006, an observer at about 35 degrees north latitude would most likely see the stars Altair, Deneb and Vega in which of the following places in the sky:
+W) low in the east
+X) low in the west
+Y) about half way up in the northern sky
+Z) almost directly overhead
+
+----
+num: 9
+category: Chemistry
+difficulty: HS
+seen: 1
+answer: Z)  Chromatography
+
+Which of the following techniques employs a moving phase and a stationary phase to separate components of a mixture:
+W) filtration
+X) centrifugation
+Y) distillation
+Z) chromatography
+
+----
+num: 9
+category: Chemistry
+difficulty: HS
+seen: 1
+answer: Z)  Helium
+
+Which of the following would you expect to have an electron affinity of zero:
+W) chlorine
+X) carbon 
+Y) hydrogen
+Z) helium
+
+----
+num: 10
+category: Biology
+difficulty: HS
+answer: W)  Hypothalamus
+
+What specific part of the human brain has the most influence on heart rate, sleep, body temperature, and metabolism, and is a large part of the ventral portion of the diencephalon (read as: die-en-SEFF-ah-lon):
+W) hypothalamus (read as: hypo-THAL-ah-mus) 
+X) cerebellum
+Y) pituitary
+Z) sella turcica (read as: TURR-sik-ah)
+
+----
+num: 12
+category: Earth Science
+difficulty: HS
+seen: 1
+answer: X)  Cirro -Stratus
+
+Typically, thin veils or sheets of white fibrous clouds composed entirely of ice crystals which can sometimes cover the whole sky are called:
+W) alto-cumulus
+X) cirro-stratus
+Y) nimbo-stratus
+Z) alto-stratus
+
+----
+num: 13
+category: General Science
+difficulty: HS
+answer: W)  Precise but Not Accurate
+
+Suppose you measured the voltage of a fully-charged 12-volt battery and you get 3 identical results of 10.45 volts. Which of the following BEST describes your data:
+W) precise but not accurate 
+X) accurate but not precise
+Y) both accurate and precise
+Z) neither accurate nor precise
+
+----
+num: 14
+category: Astronomy
+difficulty: HS
+seen: 1
+answer: Y)  Temperature
+
+Which of the following can you estimate BEST if you know the color of a star:
+W) luminosity 
+X) elemental makeup
+Y) temperature
+Z) mass
+
+----
+num: 14
+category: Astronomy
+difficulty: HS
+seen: 1
+answer: X)   –1.5
+
+Which of the following is closest to the maximum apparent brightness of the brightest star in the night sky from anywhere on Earth:
+X) W) ––1.515
+Y) 4.5
+Z) 6
+
+----
+num: 15
+category: Physics
+difficulty: HS
+seen: 1
+answer: Y)  Displacement
+
+The area under the curve of a velocity versus time graph represents:
+W) acceleration
+X) velocity
+Y) displacement
+Z) position
+
+----
+num: 15
+category: Physics
+difficulty: HS
+answer: Z)  a Change in Direction of an Object’s Motion Cannot Affect 
+Its Momentum
+
+Which of the following is NOT true:
+W) a spring scale can be used to indirectly measure acceleration
+X) momentum is a vector
+Y) impulse is a vector
+Z) a change in direction of an object’s motion cannot affect its momentum
+
+----
+num: 16
+category: Chemistry
+difficulty: HS
+seen: 1
+answer: Y)  Donates a Pair of Electrons
+
+A Lewis base is defined as any species that does which of the following in a chemical reaction:
+W) donates a proton
+X) accepts a proton
+Y) donates a pair of electrons
+Z) accepts a pair of electrons
+
+----
+num: 17
+category: Biology
+difficulty: HS
+seen: 1
+answer: X)  Increase Speed of Nerve Conduction
+
+Myelination of nerves is an adaptation to:
+W) increase axon lifetime
+X) increase speed of nerve conduction
+Y) protect nerves from damage
+Z) prevent nerves from misfiring
+
+----
+num: 19
+category: Earth Science
+difficulty: HS
+seen: 1
+answer: W)  Limestone
+
+Which of the following is a rock that is commonly made of microscopic shells:
+W) limestone
+X) schist
+Y) shale
+Z) quartzite
+
+----
+num: 23
+category: Chemistry
+difficulty: HS
+answer: W)  Nonmetals Predominate the Periodic Table
+
+Which of the following is NOT generally true regarding trends for the representative elements in the Periodic Table:
+W) nonmetals predominate the periodic table
+X) metallic character increases from top to bottom
+Y) nonmetallic character increases from left to right
+Z) atomic radii increases from top to bottom
+
+----
+num: 25
+category: Chemistry
+difficulty: HS
+seen: 1
+answer: W)  Volume and Pressure
+
+Boyle’s gas law concerns which of the following two variables:
+W) volume and pressure 
+X) volume and temperature 
+Y) pressure and temperature 
+Z) pressure and moles

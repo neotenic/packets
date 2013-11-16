@@ -1,0 +1,224 @@
+####
+tournament: TJ NAREN
+round: Round 7.doc
+year: 2010
+####
+
+num: 1
+category: Science
+difficulty: HS
+fixed: -1
+seen: 486
+answer: {transposons} [or {transposable} genetic elements; prompt on “{jumping genes}” before they're mentioned]
+
+In bacteria, one type of them is the insertion element. P and gypsy elements are ones found in Drosophila, and two human types are LINEs and SINEs, which include Alu. Unlike the retro variety, which uses an mRNA intermediate and reverse transcriptase, the class 2 variety uses a cut-and-paste method and does not leave a copy of itself behind. They are mutagens, and can cause diseases by disrupting stretches of coding DNA. They make up 50% of the human genome, and 90% of the maize genome, where they were first discovered. For 10 points, Barbara McClintock discovered which moveable genetic elements, also known as "jumping genes"?
+
+----
+num: 2
+category: Fine Arts
+difficulty: HS
+fixed: 1
+seen: 481
+answer: Caspar David {Friedrich}
+
+A procession of monks bearing a coffin walk towards the titular structure amidst gnarled trees in this artist's The Abbey In The Oakwood. A woman in a red dress and a man whose hat has fallen off appear in this artist's work Chalk Cliffs at Rugen, and this artist depicted a shipwreck in a broken ice sheet in The Polar Sea. One of his paintings depicts the title object, though fir trees and the evening sun's rays are more prominently shown, and another of his paintings depicts a man in a green coat standing atop a rocky cliff looking out towards some mountains. For 10 points, name this German Romantic painter of Cross in the Mountains and Wanderer Above the Sea of Fog.
+
+----
+num: 3
+category: History
+difficulty: HS
+fixed: 1
+seen: 424
+answer: {Sepoy} Mutiny [accept Indian Mutiny until the end, then prompt]
+
+Immediately following it, the Legislative Council was revamped and allowed for natives to join. In reaction to the murder of women and children in this event, some participants were fired from cannons. Beginning in Meerat, it was wiped up by Sir Hugh Rose, and Sir Colin Campbell oversaw the operation in Lucknow. The pretext for this event was the use of the Enfield rifle, which used a cartridge allegedly lubed with pig and cow lard, thus insulting Muslim and Hindu users. Resulting in the abolition of the English East India company, for 10 points, identify this 1857 mutiny by the namesake Indian soldiers.
+
+----
+num: 4
+category: Geography
+difficulty: HS
+fixed: 57
+seen: 716
+answer: Utah
+
+The Uinta Mountains in this state comprise the highest east-west mountain range in the contiguous United States and contain Kings Peak. In 2001, the slogan "Where Ideas Connect" was approved for this state by then-governor Mike Leavitt, whose ancestors have been linked with the Mountain Meadows massacre. Most of this state's population lives in a chain of cities along the Wasatch Range that includes Provo and West Valley. In 1849, the settlers here proposed a state including the land of this state and much of Arizona, California, and Nevada, known as Deseret. For 10 points, name this American state, originally founded by Brigham Young and the Mormon church with capital Salt Lake City.
+
+----
+num: 5
+category: Social Science
+difficulty: HS
+fixed: 1
+seen: 378
+answer: Thomas {Malthus}
+
+This man opposed the Poor Laws, and unlike most of his contemporaries, supported the Corn Laws, believing that they would increase domestic production by discouraging importation. He defined rent as the surplus created by the difference between the most and least productive land in one work, and criticized Say's law in another. Along with An Inquiry Into the Nature and Progress of Rent and his 1820 work Principles of Political Economy, his best-known work argues that war, famine, and pestilence would result from the population increasing geometrically while food supply increases arithmetically. For 10 points, name this economist and author of An Essay on the Principle of Population.
+
+----
+num: 6
+category: Philosophy
+difficulty: HS
+fixed: 1
+seen: 524
+answer: Immanuel {Kant}
+
+This philosopher stated that marriage is the union of a couple into a single moral entity in Observations on the Feelings of the Beautiful and Sublime, and he argues for moral relativism and defends the Three Maxims in another of his works. He synthesized rationalist and empiricist theories by defining a priori knowledge, which this author of the Metaphysics of Morals extended to the idea of sensus communis in his Critique of Judgment. In another work this thinker defines an ontological and a "watch-maker" proof of God's existence, and attacks the title concept's circular logic. For 10 points, name this German creator of the categorical imperative and author of Critique of Pure Reason.
+
+----
+num: 7
+category: Literature
+difficulty: HS
+fixed: -1
+seen: 441
+answer: Les {Fleurs du Mal} [or The Flowers of Evil]
+
+In one poem in this work, the narrator speaks of "the woman meanwhile, twisting like a snake / On hot coals," while another describes the titular location as a place where "kisses, languishing or joyous [...] adorn the nights". Those poems, "The Vampire's Metamorphoses" and "Lesbos," were among those banned for indecency upon its publication. Poems such as "To She Who Is Too Gay" and "The Jewels" appear in its first and longest section, Spleen and Ideal, and the last line from its Foreword, which mentions a "hypocrite lecteur," was used in T.S. Eliot's "The Waste Land." For 10 points, name this poetry collection by Charles Baudelaire.
+
+----
+num: 8
+category: History
+difficulty: HS
+fixed: 1
+seen: 422
+answer: {Draconian} Code
+
+Under it, acts of manslaughter committed outside the capital were heard at a court in Phreatto. Establishing the state as the sole legal purveyor of justice, it had a provision creating a council of fifty-one judges which was to hear cases involving bloodshed. One of the key principles behind it was the idea of murder being a crime against all things of religious significance. Allowing for someone to kill a potential robber with impunity, it allowed for lower class debtors to be made slaves. At its outset, those who committed retributional murder were to be exiled. For 10 points, name this code of laws supposedly written in blood, written by a Greek statesman noted for his harsh policies.
+
+----
+num: 9
+category: Fine Arts
+difficulty: HS
+fixed: None
+seen: 502
+answer: Joseph-Maurice Ravel
+
+He imitated gypsy-like themes in his concert piece for violin, Tzigane, and he also orchestrated Mussorgsky's Picture at an Exhibition. A talented pianist, he paid homage to the Baroque keyboard style and commemorated his friends killed in World War I in his Le Tombeau de Couperin. Another of his keyboard works notably only requires the left hand. Also known for his music to the ballet Daphnis et Chloé, he wrote a keyboard work dedicated to his patron, Pavanne for a Dead Infanta. It He is more famous for a work featuring snare drum and wind solos. For 10 points, name this French composer of a work based on the titular style of Spanish dance, Boléro.
+
+----
+num: 10
+category: Science
+difficulty: HS
+fixed: 57
+seen: 487
+answer: {potential} energy [prompt on “{potential}” before “{Lagrangian}” is read]
+
+Velocity-dependent forces require a generalized version of this quantity, while the Lagrangian operator subtracts this quantity from a related quantity. A conservative force is equal to the gradient of this, while its electrostatic variety is measured in volts. It is often defined as zero for a charged particle an infinite distance away from a source of Coulomb force, and for a uniform gravitational force, the difference in this quantity between two positions of an object is proportional to the difference in their heights. For 10 points, name this physical concept which refers to the ability of an object to perform work, often symbolized U and contrasted with kinetic energy.
+
+----
+num: 11
+category: Mythology
+difficulty: HS
+fixed: 57
+seen: 779
+answer: spiders
+
+In one myth, one of these created the Earth, sun, and moon from a snail, and another legend states that one of these was responsible for the creation of the constellation Ursa Major. In Japanese folklore, these creatures gain the ability to turn into women, known as the Jorogumo, and they are usually seen devouring male travelers. In Lakota mythology, Iktomi was associated with this animal. The Ashanti trickster god Anansi often takes the form of one of these, and a certain Greek maiden was turned into one of these after angering Athena. For 10 points, name this type of creature often associated with a weaver who boasted that she was better than the gods, Arachne.
+
+----
+num: 12
+category: Literature
+difficulty: HS
+fixed: 57
+seen: 441
+answer: “The Love Song of J. Alfred Prufrock”
+
+In one section of this work, the narrator calls himself "politic, cautious, and meticulous" and in another he claims to have "seen the moment of [his] greatness flicker". The speaker says "there will be time to murder and create" and exclaims that he's not Prince Hamlet, while in another part of this poem he "grows old" and "shall wear the bottom of [his] trousers rolled". Other parts of this poem see the narrator wondering if he dares to eat a peach and yellow fog rubbing its back against window-panes. For 10 points, name this poem in which women talking about Michelangelo enter and exit a room and the speaker questions "Do I dare disturb the universe?", a work by T. S. Eliot.
+
+----
+num: 13
+category: History
+difficulty: HS
+fixed: -1
+seen: 421
+answer: {Haymarket} Square riot [accept equivalents for “riot”]
+
+Several participants in this event had allegedly been at Grief's Hall plotting the "Monday Night Conspiracy" before this event occurred, and those arrested for instigating it included Oscar Neebe and a man whose sentence was commuted by Richard Oglesby to life imprisonment, Samuel Fielden. August Spies spoke at it before the outbreak of violence, and Governor John Atgeld pardoned three convicts of causing this event, which began in response to the death of a worker at the McCormick International Harvester plant and which saw the death of Mathias Degan. Beginning as a labor rally, for 10 points, name this 1886 Chicago riot which saw a crowd member throw a bomb into a group of policemen.
+
+----
+num: 14
+category: History
+difficulty: HS
+fixed: 57
+seen: 411
+answer: Edward {Kennedy} [or {Ted Kennedy}]
+
+This man defeated George Lodge in a special election to gain his first public office. His speech on "Bork's America" resulted in that man being denied a nomination, and in 1971, he lost the position of Senate Majority Whip to Robert Byrd. After a tribute to him at the 2008 DNC, he gave a speech saying that "the dream lives on," and in 2009, he left the Senate Judiciary Committee. He failed to call police after a car accident led to the death of Mary Jo Kopechne at Chappaquiddick, keeping him from seeking the presidency in 1972. An advocate for healthcare reform, for 10 points, name this longtime Massachusetts senator who died in August 2009 of brain cancer.
+
+----
+num: 15
+category: Science
+difficulty: HS
+fixed: 1
+seen: 488
+answer: stratosphere
+
+The Paris Gun, used by Germany in World War I, was designed to shoot projectiles into this region, where they encountered almost no drag. Since 1979, the temperature of the lower part of this layer has decreased by 0.5 degrees Celsius per decade. No regular convection occurs in this layer. This is because, as in the thermosphere, temperature in this layer increases as altitude increases. This layer contains the Antarctic ozone hole, and it is located below 50 kilometers in altitude and above 10 kilometers. For 10 points, name this second major layer of Earth's atmosphere, located below the mesosphere and above the troposphere.
+
+----
+num: 16
+category: Fine Arts
+difficulty: HS
+fixed: 57
+seen: 490
+answer: Auguste {Rodin}
+
+Three identical men standing stooped at different angles appear in this artist's work The Three Shades. This artist depicted Saint Pierre's followers from the title city being led to their execution in one of his works, and he depicted the title writer in a robe in a monument commissioned by the Société des Gens des Lettres. In addition to Monument to Balzac and the Burghers of Calais, more well-known works of this sculptor are Paolo and Francesca performing the title action and a man sitting and pondering, two details from this man's The Gates of Hell. For 10 points, identify this French sculptor of The Kiss and The Thinker.
+
+----
+num: 16
+category: Fine Arts
+difficulty: HS
+fixed: 57
+seen: 492
+answer: Auguste {Rodin}
+
+Three identical men standing stooped at different angles appear in this artist's work The Three Shades. This artist depicted Saint Pierre's followers from the title city being led to their execution in one of his works, and he depicted the title writer in a robe in a monument commissioned by the Société des Gens des Lettres. In addition to Monument to Balzac and the Burghers of Calais, more well-known works of this sculptor are Paolo and Francesca performing the title action and a man sitting and pondering, two details from this man's The Gates of Hell. For 10 points, identify this French sculptor of The Kiss and The Thinker.
+
+----
+num: 17
+category: Literature
+difficulty: HS
+fixed: 1
+seen: 445
+answer: Kenzaburo {Oe}
+
+One of this man's works involves Patron, Guide, and the Church of the New Man, and in another of his novels Ma-chan cares for her mentally retarded musician brother Eeyore. In one of his novels the titular spirit's name was the only word the composer D's infant son spoke; those novels were Somersault, A Quiet Life, and Aghwee the Sky Monster. Many of his novels are influenced by his autistic son Hikari, such as a novel involving Bird and his son with a brain hernia, and in one of his novels a character hangs himself after sodomy involving a cucumber. For 10 points, name this Japanese author who wrote about Mitsusaburo and Takashi's return to a village in The Silent Cry.
+
+----
+num: 18
+category: History
+difficulty: HS
+fixed: 57
+seen: 419
+answer: Battle of {Crécy}
+
+During this battle, one side's decision to leave behind the pavises became disastrous, and in its aftermath, peasants used misericordes to mercy-kill the mortally wounded, a violation of the chivalric code. A thunderstorm caused the drawstrings of the Genoese crossbowmen to slacken during this battle, and its fatalities included the Duke of Lorraine and King John of Bohemia, who were honored by the victorious Edward, the Black Prince. After defeating the troops of Phillip VI, Edward III went on to begin the Siege of Calais. For 10 points, name this 1346 battle of the Hundred Years War that confirmed the superiority of the English longbow over French knights.
+
+----
+num: 19
+category: Literature
+difficulty: HS
+fixed: 57
+seen: 451
+answer: "{Rip Van Winkle}"
+
+This story begins with a poem by Sir Walter Scott that explains "From whence comes Wensday" and then goes on to describe the Katskills as "perfect barometers". The titular character is described as "thrice blessed" with his nagging wife. He spends most of his time with a group, led by Nicholas Vedder, of "sages, philosophers, and other idle personages". Upon being hailed by a strange man while squirrel hunting, he meets a band of Dutch settlers playing ninepins and drinks from a flagon which induces a certain condition. For 10 points, name this "Posthumous Writing of Diedrich Knickerbocker" in which the titular character sleeps for twenty years, a short story by Washington Irving.
+
+----
+num: 20
+category: Science
+difficulty: HS
+fixed: 1
+seen: 483
+answer: {specific heat} capacity [or heat {capacity}]
+
+One law modeling this quantity, which uses the vibration of phonons to predict a cubic temperature dependence, is named for Debye and corrects the Dulong-Petit law at low temperatures. It is defined thermodynamically as delta Q over dT. Because this quantity for water is very large, the climate near large bodies of water is often mild. This quantity may be found by a calorimeter, though an analogous mass-independent factor must be used to account for the heat absorption of the calorimeter. For 10 points, name this quantity, the amount of heat required to increase the temperature of one gram of a substance by one degree Celsius.
+
+----
+num: 21
+category: Science
+difficulty: HS
+fixed: 1
+seen: 485
+answer: Max {Planck}
+
+This scientist gives his name to a network of nearly 80 research institutes in his home country, whose members include Nobel laureates Hartmut Michel and Klaus von Klitzing. His namesake unit system, containing a length unit approximately equal to one point six one six times ten to the negative thirty-five meters, normalizes the gravitational constant, Boltzmann's constant, and the speed of light to 1. His namesake law relates the spectral properties of blackbody radiation to wavelength and temperature. For 10 points, name this recipient of the 1918 Nobel Prize in Physics, a German theoretical physicist whose namesake constant is denoted h.

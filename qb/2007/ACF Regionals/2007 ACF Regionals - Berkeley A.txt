@@ -1,0 +1,214 @@
+####
+tournament: ACF Regionals
+round: 2007 ACF Regionals - Berkeley A.doc
+year: 2007
+####
+
+num: 1
+category: Literature
+difficulty: College
+fixed: None
+seen: 59
+answer: {Cossacks} or {Kazakhi}
+
+Apollinaire included a letter from this group to a sovereign in his La Chanson du Mal-Aimé, and a member of this group kills a princess and two of her sons out of love for Helena in Sienkiewicz's With Fire and Sword. Another literary member of this group hides under bricks to see his son before that son is executed, and one named Petlyura is rumored to be in charge of an advancing army in Bulgakov's The White Guard. In a poem by Byron, a title character belonging to this group is exiled out of love for Theresa, and Olyenin's life among these titular people was recounted in a novel by Tolstoy.  FTP, identify these people living in the Don region, who were written about by Sholokhov and examples of which include Gogol's Taras Bulba and Byron's Mazeppa.
+
+----
+num: 2
+category: Science
+difficulty: College
+fixed: None
+seen: 84
+answer: {deadweight loss}
+
+For a small tax, it is equal to negative one half times the tax times the change in quantity demanded, so if demand is perfectly elastic or supply perfectly inelastic it will be equal to zero. In a monopoly situation, part of the consumer surplus is transferred to the monopolistic firm, while this part remains. Tariffs and import quotas will also create this quantity, as both consumer surplus and producer surplus are reduced, and Jared Waldfogel has famously proposed that Christmas represents one. FTP, name this distortion from fair market equilibrium which causes a non-Pareto-optimal system to have the namesake potential economic gains that are never actually transferred to anyone.
+
+----
+num: 3
+category: Science
+difficulty: College
+fixed: None
+seen: 80
+answer: {A/D converter} or {analog}-{to}-{digital converter} (do not accept {D/A} or anything {else} with the answers in the wrong order)
+
+One implementation of this device relies on dual-slope integration, which eliminates the need for a precision capacitor, but is slow. Another technique for implementing one of these is successive-approximation, in which the output is fed back into a comparator to determine whether it needs to be increased, decreased, or is accurate. For signals with Laplacian distributions, a logarithmic one is often used. All of them suffer from the quantization error, which lies between zero and half of one least-significant-byte, and their sampling rate is determined by the Shannon-Nyquist theorem. For ten points, identify this electronic component, used to translate continuous signals into discrete ones.
+
+----
+num: 4
+category: History
+difficulty: College
+fixed: 1
+seen: 70
+answer: {Louis IX} of France (or {Saint Louis})
+
+A Tunisian legend holds that this man converted to Islam and gave his name to the village of Sidi Bou Said. Taking to heart his mother's words, “I would rather see you dead at my feet than guilty of a mortal sin,” he founded the Quinze-Vingt for 300 blind men and purchased the Crown of Thorns and a fragment of the True Cross from Baldwin II. His military exploits included leading an army that captured Damietta, though his brother Robert of Artois was killed and he was taken prisoner after the Battle of al-Mansurah, as recounted by this man's biographer Joinville. A leader of the Seventh Crusade who died on the Eighth Crusade in 1270, FTP, name this long-reigning French monarch, the only one to be canonized.
+
+----
+num: 5
+category: Mythology
+difficulty: College
+fixed: 57
+seen: 115
+answer: {Maui} Potiki or {Tikitiki}
+
+In one tale, he obtains fire by challenging its guardian, his grandfather, to a tossing game; when his opponent is in the air, he causes him to fall on his head, thus defeating him.  In another story he immures all of the winds save the west wind.  After his mother Hina complains that her bark cloth is unable to dry in the short days, he lassoes the sun and wins from it an agremeent to make the summer days longer.  Credited with inventing barbed fish-hooks and with using an ancestor's jawbone to pull up the Hawaiian Islands, FTP, who is this Polynesian trickster god?
+
+----
+num: 6
+category: History
+difficulty: College
+fixed: None
+seen: 70
+answer: {Braxton Bragg}
+
+Legend has it that his strict adherence to regulations once caused him to have a written dispute with himself in his dual roles of company commander and post quartermaster. Zachary Taylor ordered him to “double-shot your guns and give them hell” at Buena Vista, as his artillery battery held off Santa Anna's charge. At Shiloh, he commanded the II Corps and he replaced P. G. T. Beauregard in June 1862. Foiled in his invasion of Kentucky by Buell at Perryville, he fought a bloody but indecisive battle at Murfreesboro.  He defeated Rosecrans at Chickamauga, but failed to follow up and was later defeated at Chattanooga. FTP name this Confederate general, namesake of a North Carolina army base.
+
+----
+num: 7
+category: Geography
+difficulty: College
+fixed: 57
+seen: 132
+answer: {Tasmania}
+
+It is separated from Maria Island to the southeast by the Mercury Passage, and its notable peaks include Cradle Mountain and the highest, Mount Ossa. In the southwest is Lake Pedder, now an artificial lake that comes within the area of South-West National Park. The south is also home to Bruny Island, which is within Storm Bay, the outlet of the Derwent River estuary. Its major cities include Clarence, Launceston, and Devonport, and to the northwest is Christmas Island. Situated on the south side of the Bass Strait, FTP, name this island with capital at Hobart formerly known as Van Diemen's Land.
+
+----
+num: 8
+category: Literature
+difficulty: College
+fixed: None
+seen: 62
+answer: {Eumenides} or {Eryines} or {Furies} or the {Kindly Ones} (accept {Les Bienveillantes} before “{Chalybe}”)
+
+A French translation of one of their epithets is the title of a novel purporting to be the memoirs of SS officer Maximilian Aue, written by Jonathan Littell.  One of them assumes the guise of the priestess Chalybe and plunges a torch into the breast of the sleeping Turnus in the Aeneid.  The Divine Comedy locates them at the gates of the city of Dis and describes them as girdled with green hydras, bloodstained, and wearing crowns of vipers.  They are the titular creatures of Jean-Paul Sartre's The Flies, and one of their euphemistic Greek names is the title of the last play of Aeschylus's Oresteia.  Megaera, Alecto, and Tisiphone are, FTP, which divine personifications of vengeance?
+
+----
+num: 9
+category: Philosophy
+difficulty: College
+fixed: None
+seen: 54
+answer: {Sir Alfred Jules Ayer}
+
+This man writes that “personal identity depends upon the identity of the body” in his essay “The Concept of a Person.” Another of his works contains a chapter on “The Self and the Common World” and ends with some “Solutions of Outstanding Philosophical Disputes.” He opens Probability and Evidence with a telling chapter on “The Elimination of Metaphysics.” He looks at the shortcomings of skepticism in The Problem of Knowledge, but it is his discussion of the verification principle in analyzing the meaning of sentences that best characterizes the logical empiricism of his landmark work Language, Truth, and Logic. FTP, name this British philosopher of the later 20th century.
+
+----
+num: 10
+category: History
+difficulty: College
+fixed: 57
+seen: 71
+answer: {Mali} Empire (accept equivalents)
+
+This polity originally comprised twelve tinkurus that were subjugated in the Kouroukan Fouga, which also established the Great Assembly, or Gbara.  The empire also had three allied states, including Mema, which was ruled by a fama, and Wagadou.  Wali Keita's rule followed that of the empire's founder, a magician whose rise to power and victory at the battle of Kirina over Sumanguru is traced in its Epic of Sundiata.  The latter's grandson, a patron of Sankore University, had to take out a loan to return from his hajj since he gave away so much gold on the way. FTP, name this empire whose rulers, or Mansas, included Musa.
+
+----
+num: 11
+category: Religion
+difficulty: College
+fixed: 1
+seen: 56
+answer: transubstantiation
+
+In 1577, Christopher Rasperger wrote a book with more than 200 potential interpretations of this concept. Both the Unitas Fratrum and the Taborites denied it, and a major English opponent of it was John Tillotson. Its scriptural justification is drawn from John 6 and 1 Corinthians 11, and Ignatius of Antioch defended it in a letter to the Smyrnaeans. Rejected in the Thirty-Nine Articles of 1563, its most recent confirmation was published by Pope Paul VI in his 1965 encyclical Mysterium fidei, 750 years after its formal exposition in 1215 at the Fourth Lateran Council. For ten points, what is this Catholic doctrine that the Eucharist sees the transformation of bread and wine into the body and blood of Christ?
+
+----
+num: 12
+category: Science
+difficulty: College
+fixed: None
+seen: 77
+answer: {Bravais} lattices
+
+Although M. L. Frankenheim was the first to attempt to enumerate them, he miscounted and came up with one too many of them, a problem corrected by their namesake. They are translation subsets of Fedorov groups and each one is given a Pearson symbol. The primitive one has ten Wyckoff points belonging to two separate tetrahedrally coordinated sets. Of the cubic-derived ones, one is triclinic, two are monoclinic, and four are orthorhombic including the simple, base-centered, body-centered, and face-centered. In all totaling 14 basic unit cells in three dimensions, FTP, identify this set of crystal lattices named after a Frenchman.
+
+----
+num: 13
+category: History
+difficulty: College
+fixed: None
+seen: 67
+answer: Battle of Plassey
+
+The first commanding officer at this battle was Captain Richard Knox, and it was set in motion after the dispatch of Admiral Watson. It launched the career of Sir Eyre Coote, who advocated a strong attack here, and three years later Coote was victorious at the Battle of Wandiwash. The key action was the work of William Watts, as well as an attack mounted across the marshes by Major Kilpatrick. This came after a raid on Fort William and the Battle of Arcot, and after Mir Jafar was convinced to defect in order to become the next Nawab. The major victory of Robert Clive, FTP, name this masterpiece of British imperialism, a 1757 battle fought in India.
+
+----
+num: 14
+category: Literature
+difficulty: College
+fixed: 57
+seen: 60
+answer: {Cleopatra}
+
+She tells Mardian, “I take no pleasure/ In aught an eunuch has” and is surprised to learn that he has “affections” although he “can do nothing/ But what indeed is honest to be done.”  This exchange, from Act I, scene 5 of the play in which she appears, establishes her own preoccupation with “the demi-Atlas of this earth,” for whom, she says, “I feed myself with most delicious poison.”  The scene ends with her recalling “My salad days,/ When I was green in judgment: cold in blood.”  Preceded in death by her attendants Iras and Charmian, FTP name this half of a titular Shakespearean couple who commits suicide by asp bite, the lover of Antony.
+
+----
+num: 15
+category: Fine Arts
+difficulty: College
+fixed: 57
+seen: 70
+answer: {Lohengrin}
+
+In the second act, the villains of this opera swear an oath of vengeance in “Der Rache Werk” just before the heroine appears and sings “Euch Lüften, die mein Klagen” at the beginning of the Balcony Scene.  That heroine's first act soliloquy “Einsam in trüben Tagen” describes her dream of the title character, who is forced to leave after Ortrud goads the heroine into asking the title character his name.  A mechanical error during a performance led Leo Slezak to quip, “What time does the next swan leave?”  The Bridal Chorus plays during Elsa's marriage in, FTP, this Wagner opera centering on the titular son of Parsifal.
+
+----
+num: 16
+category: Science
+difficulty: College
+fixed: 57
+seen: 80
+answer: {sarcomeres}
+
+The protein gelsolin acts on these structures to condense the protein nebulin at their boundary-defining disks, but does not affect the largest known protein, titin.  They are surrounded by lattices of desmin filaments, and their anisotropic regions are bisected by H zones.  The sliding filament model describes the action of these structures.  This action occurs when calcium ions bind to troponin C, causing them to contract and pull their terminal Z-lines together.  Action and myosin filaments in myofibrils are organized into, FTP, these functional units of striated muscle.
+
+----
+num: 17
+category: Social Science
+difficulty: College
+fixed: 57
+seen: 60
+answer: {torts}
+
+The common-law conception of this legal term is analogous to the French delict or quasi-delict. Dignitary and economic ones include alienation of affections, conspiracy, and abuse of process; property ones include detinue, replevin, trover, and conversion. Defenses to intentional ones include consent and necessity; they may also be crimes as in the case of assault, battery, wrongful death, and fraud, while libel and slander used to be crimes but are now only these. Responsible for the brunt of civil litigation, FTP, name this legal concept, an intentional or accidental wrong or wrongful act by which injury occurs to another, from the Latin for twisted.
+
+----
+num: 18
+category: Literature
+difficulty: College
+fixed: None
+seen: 60
+answer: “The {Birth}-{mark}”
+
+This story is set at a time when “it was not unusual for the love of science to rival the love of woman.”  The protagonist's “slender figure, and pale, intellectual face” are contrasted with the “smoky aspect, and … indescribable earthiness” of his assistant, Aminadab.  The protagonist's wife she agrees to risk anything rather than be “the object of [her husband's] horror and disgust.”  According to Georgiana, the title feature “has been … often called a charm,” though Aylmer cannot stand its resemblance to a crimson hand or its mere presence.  FTP name this Hawthorne short story in which Georgiana dies after an operation to remove the titular blemish from her face.
+
+----
+num: 19
+category: Science
+difficulty: College
+fixed: None
+seen: 79
+answer: {cosmological} constant or {lambda}
+
+Gliner and Zeldovich are credited with the modern interpretation, in which it contributes its value times the metric tensor divided by 8 pi times the gravitational constant to the energy-momentum tensor.  In the Friedmann equation, it appears on the right-hand side divided by three, and measurements from WMAP have suggested that its energy density is approximately 0.7 times the critical density.  Its equation of state parameter w is -1, giving a negative effective pressure that tends to accelerate the expansion of the Universe.  FTP name this simple form of dark energy, rejected by Einstein as his “greatest mistake.”
+
+----
+num: 20
+category: History
+difficulty: College
+fixed: None
+seen: 72
+answer: {Norris}-{LaGuardia} Act (accept {Anti}-{Injunction Act} before last sentence)
+
+Signed by President Hoover on his last day in office, one disgruntled Congressman called it “a long march in the direction of Moscow”. The Supreme Court case Duplex Printing Press v. Deering thwarted an earlier attempt to accomplish the same goal, the 1914 Clayton Act. The Senate Report on the bill stated “A man must work in order to live. If he can express no control over his conditions of employment, he is subject to involuntary servitude” in justifying the bill's prohibition of “yellow-dog” contracts. For ten points, what was this 1932 act which prohibited federal courts from issuing injunctions against nonviolent strikers?
+
+----
+num: 21
+category: Fine Arts
+difficulty: College
+fixed: None
+seen: 69
+answer: {horses} (accept all {logical} equivalents)
+
+In the singular, one of these gives its name to a 1914 bronze sculpture by Raymond Duchamp-Villon, considered to be his masterpiece. They were a favorite subject of Theodore Gericault, who painted a pair of fightings ones as well as one of them frightened by lightning while Leonardo da Vinci cast a gigantic bronze statue of one for Francesco Sforza. George Stubbs painted numerous depictions of these creatures, including a 1766 Anatomy of one and a 1762 painting of one attacked by a Lion, and Johan Fuseli painted one of these poking its head through parted curtains in The Nightmare. Famously painted at a namesake “Fair” by Rosa Bonheur, for ten points, identify these quadrupeds which are being ridden by the hunters in Rubens' Lion Hunt.

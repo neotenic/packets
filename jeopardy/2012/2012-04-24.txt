@@ -1,0 +1,392 @@
+####
+tournament: #6362
+round: Show #6362 - Tuesday, April 24, 2012
+year: 2012
+date: 2012-04-24
+####
+
+num: 1
+category: Literature
+difficulty: 200
+seen: 4
+answer: key lime pie
+
+You don't have to go to Florida to enjoy.
+
+----
+num: 2
+category: Art
+difficulty: 200
+seen: 5
+answer: Norman Rockwell
+
+This Presidential Medal of Freedom winner whose work is seen.
+
+----
+num: 3
+category: History
+difficulty: 200
+seen: 4
+answer: Bloomberg
+
+Would you spend $90 million to keep your job?  He did just that to claim a third term as NYC mayor.
+
+----
+num: 4
+category: Religion
+difficulty: 200
+seen: 11
+answer: the hula
+
+Kahiko is the traditional form of this dance.
+
+----
+num: 5
+category: Literature
+difficulty: 400
+seen: 4
+answer: Black Forest cake
+
+Named for the German region where it originated, it's a rich chocolate cake with a cream filling & cherries.
+
+----
+num: 6
+category: Art
+difficulty: 400
+seen: 3
+answer: Picasso
+
+Still going by the name Ruiz, he entered a painting academy in Madrid in 1897, but the teachers bored him.
+
+----
+num: 7
+category: History
+difficulty: 400
+seen: 4
+answer: Berlusconi
+
+His $9 billion empire, partly in media, helped make him Italian prime minister until his 2011 resignation.
+
+----
+num: 8
+category: Religion
+difficulty: 400
+seen: 9
+answer: Lei Day
+
+In Hawaii, May Day is also this rhyming day, celebrating a certain wreath.
+
+----
+num: 9
+category: Literature
+difficulty: 600
+seen: 3
+answer: soufflé
+
+Shhh!  A chocolate one of.
+
+----
+num: 10
+category: Art
+difficulty: 600
+seen: 5
+answer: Rembrandt
+
+artist known for self portraits had a child by a young housekeeper & once declared bankruptcy.
+
+----
+num: 11
+category: History
+difficulty: 600
+seen: 4
+answer: Richard Branson
+
+In 2006 he launched Virgin Fuels to develop environmentally friendly energy sources.
+
+----
+num: 12
+category: Religion
+difficulty: 600
+seen: 9
+answer: pupu platter
+
+It's the double-talk Hawaiian name for an assorted platter of appetizers.
+
+----
+num: 13
+category: Literature
+difficulty: 800
+seen: 4
+answer: a beignet
+
+Enjoy this New Orleans specialty, the official doughnut of Louisiana, with a cup of chicory coffee.
+
+----
+num: 14
+category: Art
+difficulty: 800
+seen: 4
+answer: van Gogh
+
+During his life he may have sold only one painting , "The Red Vineyard", but in the 20th century his work sold for record amounts.
+
+----
+num: 15
+category: History
+difficulty: 800
+seen: 4
+answer: Paul Allen
+
+This Washington State dropout co-founded a company with Bill Gates & piled up $13.5 billion, so things worked out.
+
+----
+num: 16
+category: Religion
+difficulty: 800
+seen: 9
+answer: a luau
+
+It can be a Hawaiian feast or a particular dish usually prepared with coconut cream at that feast.
+
+----
+num: 17
+category: Literature
+difficulty: 1000
+seen: 4
+answer: crème brûlée
+
+It's the 2-word French name for a custard dessert with a hard, caramelized sugar topping.
+
+----
+num: 18
+category: Art
+difficulty: 1000
+seen: 4
+answer: (Sandro) Botticelli
+
+The last name of this Renaissance master whose work is seen.
+
+----
+num: 19
+category: History
+difficulty: 1000
+seen: 4
+answer: Phil Knight
+
+He ran track for the University of Oregon & later sold Japanese shoes out of his car; now he's worth billions.
+
+----
+num: 20
+category: Literature
+difficulty: 400
+seen: 3
+answer: an arrow
+
+In a Longfellow rhyme, "I shot" this "into the air, it fell to earth, I knew not where".
+
+----
+num: 21
+category: Trash
+difficulty: 400
+seen: 5
+answer: The Jackson Five
+
+Before we knocked out 4 No. 1s in less than a year, we were just 5 brothers from Gary, Indiana.
+
+----
+num: 22
+category: Geography
+difficulty: 400
+seen: 8
+answer: Latvia
+
+The Gulf of Riga is on the northwest coast of this country.
+
+----
+num: 23
+category: History
+difficulty: 400
+seen: 4
+answer: Egypt
+
+Muslim forces captured Alexandria in 642, ending Byzantine rule in this country.
+
+----
+num: 24
+category: Literature
+difficulty: 400
+seen: 4
+answer: bat
+
+An essential piece of cricket equipment, or a nocturnal mammal.
+
+----
+num: 25
+category: Literature
+difficulty: 800
+seen: 4
+answer: time
+
+Longfellow wistfully wrote, "Art is long, and" this "is fleeting".
+
+----
+num: 26
+category: Trash
+difficulty: 800
+seen: 5
+answer: The Dixie Chicks
+
+We're Natalie, Martie & Emily, 3 Southern birds with several Grammys & a 2011 live "Storytellers" DVD.
+
+----
+num: 27
+category: Geography
+difficulty: 800
+seen: 9
+answer: Laos
+
+It borders Thailand, Cambodia, Vietnam & China.
+
+----
+num: 28
+category: History
+difficulty: 800
+seen: 4
+answer: Attila
+
+The Byzantines paid tributes of gold to this big bad Hun who attacked them repeatedly in the 440s.
+
+----
+num: 29
+category: Literature
+difficulty: 800
+seen: 4
+answer: base
+
+Morally low, or the bottom support, as of a sculpture.
+
+----
+num: 30
+category: Literature
+difficulty: 1200
+seen: 4
+answer: Gitche Gumee
+
+Hiawatha caught a monster sturgeon named Mishe-Nahma while canoeing on a lake that Longfellow called this.
+
+----
+num: 31
+category: Trash
+difficulty: 1200
+seen: 6
+answer: Creedence Clearwater Revival
+
+We got together as kids in the San Francisco Bay Area before hitting it big with "Proud Mary".
+
+----
+num: 32
+category: Geography
+difficulty: 1200
+seen: 8
+answer: Lake Lucerne
+
+This lake in central Switzerland has a maximum depth of 702 feet.
+
+----
+num: 33
+category: History
+difficulty: 1200
+seen: 4
+answer: Constantine
+
+Byzantium, the capital of the Eastern Roman Empire, was renamed by this emperor in 330 A.D.
+
+----
+num: 34
+category: Literature
+difficulty: 1200
+seen: 4
+answer: frank
+
+Direct & unreserved in speech, or Congressman Barney.
+
+----
+num: 35
+category: Literature
+difficulty: 1600
+seen: 4
+answer: the blacksmith
+
+"Week in, week out, from morn till night, you can hear his bellows blow", Longfellow wrote about this character.
+
+----
+num: 36
+category: Trash
+difficulty: 1600
+seen: 5
+answer: Boston
+
+We hit the Top 10 with "Don't Look Back" in 1978; we'd say where we're from, but that'd be too much of a hint.
+
+----
+num: 37
+category: Literature
+difficulty: 1600
+seen: 4
+answer: remains
+
+Stays, or a word used to mean a corpse.
+
+----
+num: 38
+category: Literature
+difficulty: 2000
+seen: 5
+answer: (Bill) Kristol
+
+editor of The Weekly Standard can also be seen on "Fox News Sunday".
+
+----
+num: 39
+category: Literature
+difficulty: 2000
+seen: 6
+answer: Priscilla
+
+In "The Courtship of Miles Standish", she told John Alden, "If I am not worth the wooing, I surely am not worth the winning".
+
+----
+num: 40
+category: Trash
+difficulty: 2000
+seen: 8
+answer: The Lovin\' Spoonful
+
+We had a big year in 1966, with 5 Top 10 hits including "Summer In The City"--not bad for 4 Greenwich Village boys.
+
+----
+num: 41
+category: Geography
+difficulty: 2000
+seen: 12
+answer: Leiden
+
+It's "jar"ring to note that before sailing to America in 1620, the pilgrims lived in this Dutch city for 11 years.
+
+----
+num: 42
+category: History
+difficulty: 2000
+seen: 6
+answer: the Persian Empire
+
+Before invading the west, Byzantine Emperor Justinian made peace with Khosrow, king of this empire to his east.
+
+----
+num: 43
+category: Literature
+difficulty: 2000
+seen: 5
+answer: a shank
+
+A bad football punt, or the long, straight anchor part connecting the crown & the ring.

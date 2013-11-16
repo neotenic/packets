@@ -1,0 +1,194 @@
+####
+tournament: NTSS
+round: 08.pdf
+year: 2010
+####
+
+num: 1
+category: Science
+difficulty: HS
+fixed: 57
+seen: 484
+answer: {fullerene} [accept {buckminsterfullerenes}; prompt on {buckyball}, {nanotube}, or {buckytube} before {men}-
+
+Methano-examples of these molecules are synthesized in the Bingel reaction, and this class of molecules was first discovered in experiments simulating the atmosphere of red giants. The electrodes of paper batteries are built from another molecule in this class, which can also be used to construct cables with one hundred times the tensile strength of steel. When joined with alkali metals, molecules in this class formed the first superconductors to function above nineteen kelvins, and this class is considered the third allotrope of carbon along with diamond and graphite. Named for the designer of the geodesic dome, identify this class of large carbon molecules that includes the buckyball and nanotube.
+
+----
+num: 2
+category: History
+difficulty: HS
+fixed: None
+seen: 420
+answer: William McKinley
+
+Six years before becoming President, this politician passed a high tariff while serving as the Chairman of the House Ways and Means Committee. This President signed the Gold Standard Act, ending bimetallism. His campaign fea- tured the slogan “the full dinner pail” and was known as the front-porch campaign. Its direction by Mark Hanna al- lowed him to stay with his wife Ida who suffered from epilepsy. He appointed Secretary of State John Hay, who pur- sued an Open Door Policy with China. This President allowed Congress to decide how to react to the sinking of the USS Maine. Name this President who was succeeded after his assassination by Theodore Roosevelt.
+
+----
+num: 3
+category: Fine Arts
+difficulty: HS
+fixed: 57
+seen: 497
+answer: The {Apollo} Theater
+
+This building was originally named Hurtig and Seamon's New Burlesque Theatre, and its theme song was “I May Be Wrong but I Think You're Wonderful”. Ralph Cooper hosted a popular show from this location on Wednesday nights that broke ground when it featured Benny Carter and Sixteen Gorgeous Hot Steppers. It became known as the place “Where Stars are Born and Legends are Made”, and its famous attractions were its Amateur Hour and its Show- time. Some of the most successful James Brown albums were recorded at this theater, and it is where his memorial ser- vice was held. This theater also played a prominent role in launching the careers of Bessie Smith, Billie Holiday, Stevie Wonder, and The Jackson 5. Name this performance venue located in Harlem.
+
+----
+num: 4
+category: Literature
+difficulty: HS
+fixed: 57
+seen: 444
+answer: {Rubaiyat} of Omar Khayyam
+
+According to this work, solitude is, “Where the White Hand Of Moses on the Bough Puts out, and Jesus from the Ground suspires.” It claims that tomorrow you “shall be you no more,” and it refers to fate as “the master-knot.” Some of its best-known lines are “Make the most of what we yet may spend” and “The Moving Finger writes; and, having writ, Moves on.” This work also makes many references to drinking wine, such as “A Book of Verses underneath the Bough, A Jug of Wine, a Loaf of Bread—and Thou Beside me singing in the Wilderness.” Name this collection fa- mously translated by Edward FitzGerald in the nineteenth century and originally written around 1100 CE in Persian by Omar Khayyám.
+
+----
+num: 5
+category: History
+difficulty: HS
+fixed: 1
+seen: 419
+answer: Battle/Siege of {Orleans}
+
+The pace of this battle picked up after a French victory at nearby Saint Loup and concluded with a French victory at Les Tournelles. Before those events, much of the action involved a fortified bridge, with the British leadership changing from the Earl of Salisbury to the Earl of Suffolk to the Earl of Shrewsbury. The French victory would have been even stronger, but they did not want to rout retreating troops on the Sabbath. This battle, which took place by the Loire River, halted English momentum and ended a long siege during the Hundred Years War, supporting the reign of Charles VII. Name this 1429 battle whose hero was Joan of Arc.
+
+----
+num: 6
+category: Philosophy
+difficulty: HS
+fixed: 1
+seen: 521
+answer: Symposium
+
+In this work, Eryximachus makes a proposal that is supported by Socrates, leading to a speech by Phaedrus. Eryxi- machus, a physician, later compares his work to a statement by Pausanias that indulging good men is honorable while indulging bad men is dishonorable, and he also explains how to cure hiccups. After the host Agathon speaks about courage, justice, temperance, and wisdom, Socrates repeats a tale he heard from Diotima. In this dialogue, Socrates concludes that love is a philosopher. Name this work by Plato about love whose title is now used to refer to some aca- demic conferences.
+
+----
+num: 7
+category: Literature
+difficulty: HS
+fixed: -1
+seen: 446
+answer: Hermann {Hesse}
+
+This author wrote a novel in which the protagonist befriends an older boy named Alfons Beck and another about the man who replaces Thomas von der Trave. Another novel by this author, which contains the phrase “for Madmen Only”, is about an intellectual who is suicidal until he meets a woman he decides to obey who is named Hermine. In another work by this author, the title character seeks to emulate the Illustrious One before becoming a ferryman and joining the Samanas. Identify this author who wrote about Emil Sinclair in Demian, Magister Ludi in The Glass Bead Game, Harry Haller in Steppenwolf, and Govinda's friend Gotama in Siddhartha.
+
+----
+num: 8
+category: Science
+difficulty: HS
+fixed: -1
+seen: 488
+answer: {ectothermic} [or {poikilothermic}; accept {cold}-{blooded}, but {inform players} that they {properly should use}
+
+Scientists debate whether the extinct goat Myotragus balearicus had this property, which is often associated with lammellar-zonal bone. Animals with this property generally have Q-ten values greater than one, and their energy ex- penditure is calculated in terms of standard metabolic rate. Many animals of this type generate cryoprotectants in cold regions, and pupfish are an unusual example of this property because they use desert hotsprings to maintain a consis- tent environment. Inward blood circulation in marine iguanas and basking in alligators are two adaptations to this property seen in reptiles. Identify this property, characteristic of fish and amphibians, which requires certain animals to absorb heat from their surroundings in order to regulate body temperature.
+
+----
+num: 9
+category: Fine Arts
+difficulty: HS
+fixed: 1
+seen: 500
+answer: Franz Peter {Schubert}
+
+Just before dying, this composer completed his only string quintet, which is in C major and uses two cellos and only one viola. After he died, a posthumously published collection was appropriately titled Swansong. This composer's sixth symphony is nicknamed “Little C major” to contrast with a later symphony also written in C major. Another sym- phony by this composer has a clarinet solo passing to the oboe in the second movement, written in E major, while the first movement is in B minor. A quintet by this composer published in 1829, soon after his death, uses a piano and a double bass but only one violin and is nicknamed the “Trout Quintet”. Name this composer whose most famous sym- phony only has two completed movements, which is why it is nicknamed “Unfinished”.
+
+----
+num: 10
+category: Science
+difficulty: HS
+fixed: 1
+seen: 491
+answer: {arithmetic} (aa-rith-MAA-tik, but be lenient) sequence [or {arithmetic progression}; prompt on {sequence}]
+
+When these structures have three consecutive perfect squares, they use a multiple of twenty-four, and a proof has been submitted that these structures cannot have four consecutive perfect squares. In 2004, Ben Green and Terrence Tao proved that there exist arbitrarily long lists of prime numbers that are this type of structure. These structures can be thought of as linear functions from the natural numbers to the real numbers or complex numbers. By pairing up entries from these structures, Gauss famously found a fast method to sum them when he was young. Examples in- clude the numbers equal to two mod five, even numbers, odd numbers, and the multiples of any integers, but not the Fibonacci numbers or the powers of two. Give the name of this type of sequence whose general form is given by a sub n equals a sub one plus d times the quantity n minus one.
+
+----
+num: 11
+category: History
+difficulty: HS
+fixed: -1
+seen: 432
+answer: {Henry} VIII Tudor of England [prompt on partial answer]
+
+The only popular uprisings against this monarch were led by Robert Aske and Francis Bigod, both of whom were convicted of treason and executed. One of this leader's assistants started the Two Courts of Wards and Surveyors to increase taxation. Besides Thomas Cromwell, another assistant was Thomas Cranmer who, soon after this monarch died, completed the Book of Common Prayer during the reign of Edward the Sixth. During the early part of this King's reign, he granted a lot of power to Cardinal Thomas Wolsey, but Wolsey fell out of favor when he was unable to ar- range an annulment for this king's marriage to Catherine of Aragon. Name this father of Mary I and Elizabeth I who went through six wives.
+
+----
+num: 12
+category: History
+difficulty: HS
+fixed: 57
+seen: 414
+answer: Brazil
+
+Goldman Sachs recently stated that this nation has the most overvalued currency in the world, and its semipublic energy company is the second largest company in the world after ExxonMobil. One prominent politician in this coun- try, an environmentalist who grew up collecting tree sap and learned to read at the age of sixteen, is Marina Silva. This nation is still investigating whether improper access was given to the tax records of the daughter of another politician, José Serra. This nation recently elected a former Marxist guerilla who claims she was tortured in 1970 as its President, replacing Luis Inacio Lula da Silva with his chief of staff Dilma Rousseff. Name this Portuguese-speaking nation whose largest city is São Paulo.
+
+----
+num: 13
+category: Literature
+difficulty: HS
+fixed: 1
+seen: 445
+answer: The {Red Badge} of {Courage}
+
+In this novel, the protagonist's mother gives him advice after milking a cow and while peeling potatoes, telling him that she knit him eight pairs of socks and they should be sent back for darning. This novel begins with a rumor that a group was going to move tomorrow. That rumor leads to a debate among weary soldiers after it is told by Jim Conk- lin. In this novel, the protagonist's closest friend, often referred to as “the loud soldier”, is Tom Wilson. The protago- nist, who spends much of this novel wondering whether he will be brave in battle, is referred to as the youth and named Henry Fleming. Name this novel set during the Civil War, written by Stephen Crane.
+
+----
+num: 14
+category: Science
+difficulty: HS
+fixed: 1
+seen: 483
+answer: {gamma} rays/radiation [prompt on {electromagnetic radiation}; prompt on {EM radiation}]
+
+The resonant absorption of this type of radiation by solids, but not gases, is explained by the Mössbauer effect, and the gravitational shift observed in this kind of radiation was the basis for the Pound-Rebka experiment. When produced by cobalt-sixty, this is commonly used to change the color of gemstones. This radiation was discovered by Paul Villard's experiment in which a photographic plate developed despite being separated from radium salts by a magnetic field and a lead shield. Having the shortest known wavelengths in nature, identify this type of radiation la- beled by Ernest Rutherford after he had named alpha and beta.
+
+----
+num: 15
+category: Fine Arts
+difficulty: HS
+fixed: 57
+seen: 501
+answer: Sandro {Botticelli} [or {Alessandro di Mariano di Vanni Filipepi}; or {Il Botticello}]
+
+To celebrate a successful diplomatic mission, this painter depicted the protectress of states wearing a white robe partly covered by green fabric and olive leaves holding the hair of a creature that represents discord. That painting is Pallas and the Centaur. The left side of another painting by this artist appears to show Mercury lifting his caduceus (kuh-DOO-see-us) into a fruit tree, while the right side shows Zephyr pursuing Chloris (KLOR-is). Flora, the Graces, and Cupid are also portrayed in that painting, and, as in another famous work by this artist, the center of the painting depicts the title figure coming ashore in a seashell. Name this Italian Renaissance painter of Primavera (pree- muh-VAIR-ah) and The Birth of Venus.
+
+----
+num: 16
+category: History
+difficulty: HS
+fixed: 1
+seen: 419
+answer: {Ming} Dynasty
+
+This dynasty included the Zhengtong Emperor, who was captured during the Tumu (tuh-MOO) Crisis and later, calling himself the Tianshun Emperor, put down the Rebellion of Cao Qin (tsow kin). Rulers in this dynasty employed a secret police known as the Jinyi Wei that was ended when the Chongzhen Emperor committed suicide and was replaced by Li Zicheng (lee zee-CHAING). This dynasty was started by the Hongwu Emperor, who drove the Mongols out of what is now Beijing in 1368. Name this dynasty that established the Forbidden City, rebuilt the Great Wall, and ruled during a time when great art was created.
+
+----
+num: 17
+category: Science
+difficulty: HS
+fixed: -1
+seen: 494
+answer: {cross} product [or {Gibbs} vector product; prompt on {vector product}]
+
+This operation is combined with the del operator to find the limiting value of circulation per unit area for certain fields; that is the curl operation. This operation is used to find binormal vectors, the intersection of two planes, and the area of a parallelogram. Often found by taking a three-by-three determinant, the result of this operation is per- pendicular to the two input vectors, and its direction can be determined using the right hand rule. Name this vector operation whose result is equal in magnitude to the product of the magnitude of the two vectors times the sine of the angle between them, and that in the scalar triple product is combined with the dot product.
+
+----
+num: 18
+category: Literature
+difficulty: HS
+fixed: 57
+seen: 442
+answer: Virginia {Woolf}
+
+This author wrote about a boy with the last name Flanders and a man reminded of his dead friend Evans, both of whom fought in World War I. This author also wrote about a lover of Queen Elizabeth who lives for hundreds of years and changes into a woman, and this author also wrote about a seventy-five-year-old sailor named Macalister. Macalister takes Cam, James, and their father to the Isle of Skye after World War I ends and Mrs. Ramsay passes away. Identify this stream of consciousness author of Jacob's Room, Orlando, Mrs. Dalloway, and To the Lighthouse.
+
+----
+num: 19
+category: Science
+difficulty: HS
+fixed: 57
+seen: 496
+answer: Robert {Hooke}
+
+This scientist assisted Robert Boyle to design an air pump to study the nature of the atmosphere. Like Leibniz, this scientist fought with Isaac Newton; his feud concerned who discovered that gravity follows an inverse-square law. Before building the first practical Gregorian telescope, he drew snowflake crystals and the eyes of flies in his book Mi- crographia. This scientist named one of his most famous discoveries after the rooms in which monks lived based on his observations of cork. Name this discoverer of biological cells and a namesake law of elasticity which states that for cer- tain materials, a restoring force is proportional in magnitude to the displacement from equilibrium.

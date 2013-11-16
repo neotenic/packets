@@ -1,0 +1,352 @@
+####
+tournament: Question Set C
+round: Round-1C-MS.pdf
+####
+
+num: 1
+category: Life Science
+difficulty: MS
+seen: 11
+answer: Carbohydrates
+
+Of the 4 general types of biological molecules, proteins, carbohydrates, lipids and nucleic acids, which one typically accounts for the majority of dietary calories in the human diet?
+
+----
+num: 1
+category: Life Science
+difficulty: MS
+seen: 12
+answer: Glucose
+
+Starch and glycogen are polymers of what simple sugar?
+
+----
+num: 2
+category: Physical Science
+difficulty: MS
+seen: 5
+answer: Water
+
+What is the only common substance on Earth that exists naturally in the solid , liquid and gaseous states?
+
+----
+num: 2
+category: Physical Science
+difficulty: MS
+seen: 5
+answer: Silicon and Oxygen
+
+Silicon dioxide is made of what two elements?
+
+----
+num: 3
+category: Earth Science
+difficulty: MS
+seen: 7
+answer: Sun  (Accept:  Solar)
+
+What energy source is the primary driver of the Earth’s water cycle?
+
+----
+num: 3
+category: Earth Science
+difficulty: MS
+seen: 7
+answer: Mercury;  Venus;  Earth;  Mars
+
+Name all the terrestrial planets from the one that is CLOSEST to the Sun to the one that is FARTHEST from the Sun:
+
+----
+num: 4
+category: Math
+difficulty: MS
+seen: 7
+answer: 15
+
+What is the average of the positive whole numbers of 1 through 29?
+
+----
+num: 5
+category: General Science
+difficulty: MS
+fixed: -1
+seen: 6
+answer: 0.3
+
+Convert 300 milliliters into liters:
+
+----
+num: 5
+category: General Science
+difficulty: MS
+seen: 6
+answer: Control  (Accept:  Control Group)
+
+What is the name for the manipulated variable group in all experiments that is compared to the experimental group?
+
+----
+num: 7
+category: Physical Science
+difficulty: MS
+seen: 5
+answer: Electrons
+
+The overall charge of an atom of a certain element depends on the gaining or losing of what sub-atomic particles?
+
+----
+num: 7
+category: Physical Science
+difficulty: MS
+seen: 5
+answer: 8
+
+How many electrons are in the outer shell of a noble gas with an atomic mass greater than 3?
+
+----
+num: 8
+category: Earth Science
+difficulty: MS
+seen: 9
+answer: Iron and Nickel  (In Any Order)
+
+Which 2 of the following 5 elements is the Earth’s outer core thought to be primarily made of: aluminum; sodium; iron; silicon; nickel
+
+----
+num: 9
+category: Math
+difficulty: MS
+seen: 6
+answer: 52.17
+
+Giving your answer to the second decimal place, add the following three numbers: 47 + 4.7 + 0.47
+
+----
+num: 9
+category: Math
+difficulty: MS
+seen: 6
+answer: 15.951
+
+Giving your answer to the third decimal place, subtract the following two numbers: 18 – 2.049
+
+----
+num: 10
+category: General Science
+difficulty: MS
+seen: 6
+answer: Venus
+
+What planet in our Solar System is about the same size as the Earth, is tectonically active, and has a thick atmosphere com posed of carbon dioxide?
+
+----
+num: 10
+category: General Science
+difficulty: MS
+seen: 6
+answer: Calorie  (Accept:  Kilocalorie)
+
+The amount of energy stored in food is commonly measured in what unit?
+
+----
+num: 11
+category: Life Science
+difficulty: MS
+seen: 11
+answer: Leaves
+
+What are the most photosynthetic organs of most higher plants?
+
+----
+num: 11
+category: Life Science
+difficulty: MS
+seen: 10
+answer: Chloroplast
+
+What higher plant cell organelle is responsible for using sunlight to convert carbon dioxide and water into sugar and oxygen?
+
+----
+num: 12
+category: Physical Science
+difficulty: MS
+seen: 6
+answer: Weight
+
+What is the common term for the force of gravity that is exerted on an object?
+
+----
+num: 12
+category: Physical Science
+difficulty: MS
+seen: 6
+answer: Newton
+
+What metric unit is most appropriate for weight?
+
+----
+num: 13
+category: Earth Science
+difficulty: MS
+seen: 8
+answer: Silicon  and Oxygen (In Any Order)
+
+Which 2 of the following 5 elements are most abundant in the Earth’s crust: iron; nickel; carbon; silicon; oxygen
+
+----
+num: 14
+category: Math
+difficulty: MS
+seen: 7
+answer: 0.001
+
+Giving your answer as a decimal number, what does 10 to the minus three power equal?
+
+----
+num: 14
+category: Math
+difficulty: MS
+fixed: -1
+seen: 6
+answer: $132.00
+
+What is the total price of admission to the theater for 2 adults and 4 children if the ticket price for adults is $30.00 and for children is $18.00?
+
+----
+num: 16
+category: Life Science
+difficulty: MS
+seen: 11
+answer: Cell Wall  (Accept: Wall)
+
+What outer structure possessed by plant cells protects them from environmental changes and helps them maintain their shape during stress and times of water loss?
+
+----
+num: 17
+category: Physical Science
+difficulty: MS
+seen: 5
+answer: Reactants = Sodium and Fluorine;   Products =  Sodium Fluoride
+
+In the reaction sodium plus fluorine yields sodium fluoride, what are the reactants and products, respectively?
+
+----
+num: 18
+category: Earth Science
+difficulty: MS
+seen: 7
+answer: Coal
+
+Which one of the following 5 choices is NOT a mineral: diamond; asbestos; graphite; coal; talc
+
+----
+num: 19
+category: Math
+difficulty: MS
+seen: 6
+answer: 590,700
+
+Round the number 590,695 to the nearest hundred:
+
+----
+num: 19
+category: Math
+difficulty: MS
+fixed: -1
+seen: 6
+answer: 23 and 29
+
+Name all the prime numbers greater than 20 and less than 30:
+
+----
+num: 20
+category: General Science
+difficulty: MS
+seen: 6
+answer: Carbon
+
+Most plastics are based on monomers that are composed of what element that forms the backbone of the polymer?
+
+----
+num: 20
+category: General Science
+difficulty: MS
+seen: 5
+answer: Cellulose
+
+What natural polymer is the main component of cotton?
+
+----
+num: 21
+category: Life Science
+difficulty: MS
+seen: 10
+answer: Carbon Dioxide  (Accept:  Co
+^2)
+
+What molecule is released from muscles as a waste product, transported to the lungs in blood, and exhaled as a gas?
+
+----
+num: 22
+category: Physical Science
+difficulty: MS
+seen: 5
+answer: Solid
+
+Which one of the 4 states of matter is described as having a definite shape and volume?
+
+----
+num: 22
+category: Physical Science
+difficulty: MS
+seen: 5
+answer: Crystal  (Accept:  Crystal Lattice)
+
+What is the specific name for the type of solid where the atoms or molecules of the solid are arranged in a geometric repeating arrangement?
+
+----
+num: 23
+category: Earth Science
+difficulty: MS
+seen: 7
+answer: Spring (Tides)
+
+What is the specific name for the very high and very low tides that occur when the Sun and Moon are in line with the Earth?
+
+----
+num: 24
+category: Math
+difficulty: MS
+fixed: -1
+seen: 6
+answer: 20
+
+Evaluate the following expression:  20 – 30 +  30 – 20 (read as: open absolute value 20 minus 30 close absolute value, plus open absolute value 30 minus 20, close absolute value)
+
+----
+num: 24
+category: Math
+difficulty: MS
+seen: 5
+answer: 29.73
+
+Giving your answer as a decimal to two places, divide the following: 32711
+
+----
+num: 25
+category: General Science
+difficulty: MS
+fixed: -1
+seen: 6
+answer: 10,000
+
+10 kilowatts is equal to how many watts?
+
+----
+num: 25
+category: General Science
+difficulty: MS
+fixed: -1
+seen: 6
+answer: Meter and Second
+
+What are the SI units for length and time?

@@ -1,0 +1,134 @@
+####
+tournament: HSAPQ VHSL Regular Season
+round: 04.pdf
+year: 2011
+####
+
+num: 1
+category: Science
+difficulty: HS
+fixed: 1
+seen: 489
+answer: {moment} of {inertia} [or I; prompt on {inertia}]
+
+Taking the set of each principal axis divided by the square root of its value for this quantity yields an ellipsoid. Steiner's theorem, also known as the parallel axis theorem, finds this quantity if it is known about an axis running through the center of mass. This quantity is equal to the sum of the product of each point mass with the square of its distance from the axis of rotation. It multiplies angular acceleration to give torque. For 10 points, name this rotational analogue of mass.
+
+----
+num: 3
+category: Geography
+difficulty: HS
+fixed: 1
+seen: 705
+answer: Mount {Whitney}
+
+The astronomer James Keeler names a needle of this mountain, which was almost named Fisherman’s Peak after the profession of its first climbers. The town of Lone Pine can be found to its east in the Owens Valley. This southern terminus of the John Muir Trail is located in both the Inyo National Forest and the Sequoia National Park. The Badwater Basin, the lowest point in North America, is located a mere eighty-five miles from, for 10 points, what mountain in California, the highest in the contiguous United States?
+
+----
+num: 5
+category: Science
+difficulty: HS
+fixed: 57
+seen: 486
+answer: {water} [accept {H2O} before mentioned]
+
+In a laboratory environment, calcium chloride and sodium sulfate are commonly used "agents" for removing this substance; those agents are known as dessicants. This substance's solid-liquid phase boundary has a negative slope. Its triple point is used to define the Kelvin. One molecule of this is formed in a condensation reaction. Many of this compound's unusual properties, such as its solid being less dense than its liquid form, are the result of hydrogen bonds. For 10 points, name this chemical with formula H2O.
+
+----
+num: 7
+category: Science
+difficulty: HS
+fixed: 1
+seen: 467
+answer: Vitamin {C} [or {L}-{ascorbic} acid; or {C6H8O6}]
+
+Before the discovery of this molecule, its importance was realized by men like Richard Hawkins and the writer of The Surgeon's Mate, John Woodall. James Lind was the first to advocate for the consumption of a source of this molecule by members of a certain profession. Albert Szent-Gyorgyi ("SAINT"-"GEORGE") originally misidentified this nutrient as hexuronic acid before truly discovering it. For 10 points, name this vitamin that some people advocate taking in megadoses, which was eventually used by the British navy to eliminate sailors' problems with scurvy.
+
+----
+num: 12
+category: History
+difficulty: HS
+fixed: 1
+seen: 416
+answer: Battle of {Gettysburg}
+
+This battle started after troops under Henry Heth (HEETH) spotted John Buford's cavalry. Key locations in this battle included the Peach Orchard and Devil's Den. One general in this battle, Dan Sickles, disobeyed orders by moving his corps from its location along Cemetery Ridge. That ridge was the object of Pickett's Charge at the end of this battle. George Meade's victory in this battle ended a Confederate invasion of the North. For 10 points, name this battle whose site was later the location of an Address by Abraham Lincoln.
+
+----
+num: 15
+category: History
+difficulty: HS
+fixed: 1
+seen: 416
+answer: {streetcars} [or {trams} or {trolleys} or {trolleycars} or light {rails} before those terms are read]
+
+A standardized form of these vehicles were developed in the 1930s under the direction of the Presidents’ Conference Committee. Under the guise of National City Lines, a consortium including General Motors and Firestone converted many of these systems to motor buses in the 1950s. Modern versions of these systems are known as light rail. For 10 points, name this form of public transit whose most famous incarnations are the cable cars of San Francisco and, as made famous by a Tennessee Williams play, New Orleans’s “Desire” line.
+
+----
+num: 17
+category: Literature
+difficulty: HS
+fixed: 57
+seen: 445
+answer: {epics} [or {epic poems}; or {epic} poetry; or {clear}-{knowledge} equivalents]
+
+In Greek and Roman literature, this genre was predominantly associated with dactylic hexameter and began "in medias res." European examples of this genre include Orlando Furioso, The Faerie Queene, and The Song of Roland. This type of poem often describes important events in the history of a nation, such as the founding of Rome by Aeneas in the Aeneid. For 10 points, name this genre of long, narrative poetry that traditionally describes heroic deeds.
+
+----
+num: 18
+category: Social Science
+difficulty: HS
+fixed: 1
+seen: 437
+answer: {Semitic} languages [accept {Afro}-{Asiatic} before “{subfamily}” is read]
+
+Many languages in this group use a tri-consonantal root, in which vowels around and between consonants change to mark word inflection, but consonants within the word remain the same. Languages in this subfamily include Ge’ez, Amharic, and other tongues spoken in Ethiopia, as well as an ancient language likely spoken by Jesus and his contemporaries, Aramaic. For 10 points, identify this group within the Afro-Asiatic family that also includes the contemporary Middle Eastern languages Arabic and Hebrew.
+
+----
+num: 22
+category: Science
+difficulty: HS
+fixed: -1
+seen: 487
+answer: {queue} [prompt on {FIFO}]
+
+Kendall notation allows one to characterize models based on actual instances of this structure. Multilevel feedback scheduling uses these data structures. Double ended ones are possible while heaps and their variants are typically used to implement priority ones. This data structure supports a front operation and this data type is usually contrasted with a stack. For 10 points, name this data structure that is first in first out and are exemplified by lines at grocery stores.
+
+----
+num: 23
+category: Literature
+difficulty: HS
+fixed: 1
+seen: 447
+answer: Beowulf
+
+The best-known critical work concerning this book begins with the allegory of the tower and attacks W. P. Ker’s statement that this book’s hero has “nothing else to do.” That critical work, J. R. R. Tolkien’s The Monsters and the Critics, contends that Fafnir and this work's third antagonist are the only prominent dragons in Northern European epic poetry. Tolkien also accepts that this epic was written “during the age of Bede,” and that it is not an actual depiction of “historic Denmark or Sweden about A.D. 500.” For 10 points, name this Old English poem about a hero who defeats the monster Grendel.
+
+----
+num: 24
+category: Science
+difficulty: HS
+fixed: -1
+seen: 488
+answer: {frictional} force
+
+For a uniform ball rolling down an incline with angle theta, a coefficient of proportionality associated with this quantity must be at least two-sevenths tangent theta to prevent slipping. A slipping ball, however, requires a different coefficient associated with the quantity, because the coefficient depends on whether or not the contact points are moving. Both the static and kinetic type of this force are proportional to the normal force. For 10 points, name this force that opposes the direction of an object’s motion.
+
+----
+num: 25
+category: Religion
+difficulty: HS
+fixed: 1
+seen: 445
+answer: Islam
+
+Members of this religion believe in a messiah called the Mahdi. Converting to this religion only requires reciting the shahada. This religion's believers pray five times a day while facing qibla. Its two main branches are Sunni and Shi'a, and its members make annual pilgrimages to Mecca. For 10 points, name this religion that follows the Quran, which was dictated by its founder, Muhammad.
+
+----
+num: 30
+category: History
+difficulty: HS
+fixed: -1
+seen: 416
+answer: {cotton}
+
+John Kay and James Hargreaves made inventions that allowed for greater growth of this crop, with those inventions being the flying shuttle and spinning jenny. The belief that Europe was dependent on this crop led it to be known as "king." In the late nineteenth century, this crop was ravaged by the boll weevil. This crop became widely grown after a machine was made to separate it from its seeds. That machine was made by Eli Whitney and called its "gin." For 10 points, name this main crop grown by slave states in the American South.

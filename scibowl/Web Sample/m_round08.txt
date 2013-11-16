@@ -1,0 +1,310 @@
+####
+tournament: Web Sample
+round: m_round08.pdf
+####
+
+num: 2
+category: Math
+difficulty: MS
+seen: 6
+answer: 3  (Accept:  Iii or Third)
+
+In what quadrant of the coordinate system are both x and y negative?
+
+----
+num: 2
+category: Math
+difficulty: MS
+fixed: -1
+seen: 7
+answer: $2.80
+
+Bottled water is selling for 60 -cents per bottle. If you buy a dozen bottles and hand the cashier a ten -dollar bill, how much change are your owed, in dollars and cents?
+
+----
+num: 3
+category: General Science
+difficulty: MS
+seen: 6
+answer: Largest Moon of Saturn;  Earth;  Brown Dwarf Star
+
+Arrange the following 3 choices in order of INCREASING mass: largest moon of Saturn; Brown dwarf star; Earth
+
+----
+num: 4
+category: Life Science
+difficulty: MS
+seen: 10
+answer: Thymine
+
+What is the base nucleotide to which adenine binds on its opposing strand in DNA?
+
+----
+num: 5
+category: Physical Science
+difficulty: MS
+seen: 6
+answer: Polarized  (Accept:  Linear Polarized)
+
+Light typically travels in waves that are oriented in all planes traveling in a given direction . What is the term for light waves that are traveling in one plane?
+
+----
+num: 5
+category: Physical Science
+difficulty: MS
+seen: 5
+answer: All
+
+Name all of the following 4 choices that are electromagnetic radiation: radio waves; x -rays; cathode rays; visible light
+
+----
+num: 6
+category: Earth Science
+difficulty: MS
+seen: 7
+answer: Mercury;  Venus
+
+Name all the planets that appear to have phases like our Moon to Earthbound observers?
+
+----
+num: 7
+category: Math
+difficulty: MS
+seen: 7
+answer: 50;  130;  130
+
+Consider the four angles formed by two intersecting lines. If one angle measures 50º, find the measure of the remaining three angles, in degrees:
+
+----
+num: 8
+category: General Science
+difficulty: MS
+seen: 6
+answer: Mmix (Do Not Accept:  Mmviiii)
+
+Give the Roman numeral equivalent of 2009:
+
+----
+num: 9
+category: Life Science
+difficulty: MS
+seen: 9
+answer: Swimbladder  (Accept:  Air Bladder or Gas Bladder)
+
+What anatomical structure in boney fish allows them to adjust their buoyancy and stay afloat without swimming?
+
+----
+num: 9
+category: Life Science
+difficulty: MS
+seen: 11
+answer: Haemolymph (Accept:  Hemolymph)
+
+What is the most common name for the fluid in a spider that serves a similar function to blood in vertebrates?
+
+----
+num: 10
+category: Physical Science
+difficulty: MS
+seen: 5
+answer: All
+
+Name all of the following 3 ch oices that are DC voltage sources: 9 -volt battery; lightning; static electricity
+
+----
+num: 12
+category: Math
+difficulty: MS
+seen: 7
+answer: 1
+
+Any number, except zero, to the zero power equals what?
+
+----
+num: 12
+category: Math
+difficulty: MS
+seen: 7
+answer: 380
+
+Give the numerical value of 20 factorial divided by 18 factorial:
+
+----
+num: 13
+category: General Science
+difficulty: MS
+seen: 5
+answer: Silicon
+
+From what element are most semiconductors primarily composed?
+
+----
+num: 14
+category: Life Science
+difficulty: MS
+seen: 11
+answer: Endoplasmic Reticulum  
+(Accept:  Er or Rer or Rough Er or Rough Endoplasmic Reticulum)
+(Do Not Accept:  Ser or Smooth Er or Smooth Endoplasmic Reticulum)
+
+What organelle with attached ribosomes is most directly respon sible for the translation of proteins destined to be transported out of the cell?
+
+----
+num: 14
+category: Life Science
+difficulty: MS
+seen: 10
+answer: Carboxyl;  Amino
+
+Name all of the following 4 functional groups that are found in all amino acids: carboxyl; ketone; amino; phosphate
+
+----
+num: 15
+category: Physical Science
+difficulty: MS
+seen: 5
+answer: 40
+
+What is the resultant force when a force of 50 newtons is opposed in an opposite direction by a 10 -newton force?
+
+----
+num: 15
+category: Physical Science
+difficulty: MS
+seen: 5
+answer: 10
+(Solution:  (6 × 15 = 90) + (5 × 10 = 50) = 140; 140/14 = 10 Km/hr)
+
+A dog-sled team runs at 15 kilometers per hour for 6 hours and gets stuck in a partially melted lake for 3 hours, where it make no progress. It then runs at 10 kilometers per hour for another 5 hours and crosses the finish line. What is the dog sled team’s average speed for the entire race, in kilometers per hour?
+
+----
+num: 17
+category: Math
+difficulty: MS
+seen: 7
+answer: Terms = 4;  Coefficient =  –1
+
+How many terms are in the following variable expression and what is the coefficient of the second term: 5x ^2 – x – 12yz^2 + 9
+
+----
+num: 17
+category: Math
+difficulty: MS
+seen: 6
+answer: 12
+(Solution: 3/0.5 + 6/1 = 12)
+
+Sue and Sierra are making necklaces. If Sue makes an average of 3 every 30 minutes and Sierra averages 6 every hour, how many necklaces do they average every hour if they work together?
+
+----
+num: 18
+category: General Science
+difficulty: MS
+seen: 6
+answer: Red Blood Cell  (Accept:  Rbc or Erythrocyte or Red Corpuscle)
+
+What specific cell in your body becomes sickle -shaped if you are afflicted with sickle cell anemia?
+
+----
+num: 18
+category: General Science
+difficulty: MS
+seen: 6
+answer: Graduated Pipet
+
+Name all of the following 4 laboratory tools that would require a user to read a meniscus : graduated pipet; pH paper; watch glass; Buchner funnel
+
+----
+num: 19
+category: Life Science
+difficulty: MS
+seen: 10
+answer: Caroten Oids
+
+What is the most common name of the plant pigments that give fruits and many plant parts their orange color?
+
+----
+num: 20
+category: Physical Science
+difficulty: MS
+seen: 6
+answer: Glucose  (Accept:  D-Glucose or Dextrose)
+
+What is the most commonly used scientific name for the compound with the chemical formula C ^6H^12O^6, which is a product of photosynthesis?
+
+----
+num: 20
+category: Physical Science
+difficulty: MS
+seen: 5
+answer: Bleach;  Normal Human Saliva;  Black Coffee;  Stomach Acid
+(Solution: Bleach = 13;  Saliva = 6.5 -7.4;  Coffee = 5;  Stomach Acid = 2)
+
+Arrange the following 4 substances in order of 
+DECREASING pH: normal human saliva; black coffee; bleach; stomach acid
+
+----
+num: 22
+category: Math
+difficulty: MS
+seen: 6
+answer: Y-Intercept  (Accept:  Where the Line Crosses the Y or Ordinate 
+Axis)
+
+For the equation y = mx + b, b represents what value?
+
+----
+num: 22
+category: Math
+difficulty: MS
+seen: 6
+answer: 3
+(Solution: 10 X – 3 = 4x + 15)
+
+Find a number such that 10-times the number reduced by 3 equals 4 -times the number increased by 15:
+
+----
+num: 23
+category: General Science
+difficulty: MS
+seen: 5
+answer: Gemini
+
+From what constellation do the Geminids meteor shower appear to originate?
+
+----
+num: 24
+category: Life Science
+difficulty: MS
+seen: 10
+answer: 2
+
+How many pairs of wings do beetles typically have?
+
+----
+num: 24
+category: Life Science
+difficulty: MS
+seen: 10
+answer: 7
+
+How many cervical vertebrae are found in most mammals?
+
+----
+num: 25
+category: Physical Science
+difficulty: MS
+seen: 5
+answer: 5,000
+
+How many wavelengths per second are equal to 5 kilohertz?
+
+----
+num: 25
+category: Physical Science
+difficulty: MS
+seen: 5
+answer: 80
+(Solution: %Efficiency = Work Out/ Work in × 100   1600/2000 × 100 = 80%)
+
+What is the percent efficiency for a lever that has a work input of 2,000 joules and a work output of 1,600 joules?

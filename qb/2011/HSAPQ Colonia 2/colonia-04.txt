@@ -1,0 +1,434 @@
+####
+tournament: HSAPQ Colonia 2
+round: colonia-04.pdf
+year: 2011
+####
+
+num: 1
+category: Fine Arts
+difficulty: HS
+fixed: 1
+seen: 492
+answer: {trumpet}
+
+One person who plays this instrument was awarded the first Pulitzer Prize for Music for a jazz recording; that work is Blood on the Fields and was recorded by Wynton Marsalis. The Hot Five and Hot Seven were lead by a man who played this instrument, while another player of it wrote “A Night in Tunisia” and played a “bent” version. That man, Dizzy Gillespie, would also collaborate with a man who would play this instrument on Sketches of Spain and Kind of Blue. For 10 points, name this brass instrument played by Miles Davis and Louis Armstrong.
+
+----
+num: 2
+category: Social Science
+difficulty: HS
+fixed: 1
+seen: 381
+answer: {crimes}
+
+Societal pressures are blamed for this phenomenon by Robert K. Merton and other proponents of Strain Theory. Emile Durkheim wrote an essay on the normality of this phenomenon, which is the first concept in the most famous title of Cesare Beccaria. Those who repeat this behavior are dubbed recidivists. The prefixes “organized” and “white collar”are sometimes applied to types of it. For 10 points, give this term for breaking the law that is often paired with punishment.
+
+----
+num: 3
+category: Science
+difficulty: HS
+fixed: -1
+seen: 489
+answer: electric field
+
+The energy density of this field is given by the equation one-half the permittivity times the absolute value of the field vector squared. In contrast to bipolar-junction transistors, field-effect transistors use this field to control the conductivity of the channels in the semiconducting material. The SI units of this field are newtons per coulomb. When this field moves, it produces a magnetic field. For 10 points, name this field, characterized by the effect it has on charged particles.
+
+----
+num: 4
+category: Science
+difficulty: HS
+fixed: 1
+seen: 493
+answer: {liver}
+
+In first trimester fetuses, this organ is the primary producer of red blood cells. As blood flows into this organ through the portal vein, sugars are converted into glycogen which is stored until needed. These organs in polar bears contain toxic amounts of retinol. It secretes about a quart of bile, and a yellowness of the skin called jaundice can occur when it malfunctions. Excessive alcohol consumption can cause cirrhosis of this organ. For 10 points, name this largest gland in the body, which removes toxins from the blood.
+
+----
+num: 4
+category: Science
+difficulty: HS
+fixed: 57
+seen: 491
+answer: liver
+
+In first trimester fetuses, this organ is the primary producer of red blood cells. As blood flows into this organ through the portal vein, sugars are converted into glycogen which is stored until needed. These organs in polar bears contain toxic amounts of retinol. It secretes about a quart of bile, and a yellowness of the skin called jaundice can occur when it malfunctions. Excessive alcohol consumption can cause cirrhosis of this organ. For 10 points, name this largest gland in the body, which removes toxins from the blood.
+
+----
+num: 5
+category: Literature
+difficulty: HS
+fixed: 57
+seen: 440
+answer: Irwin Allen {Ginsberg}
+
+In one poem, this author recalled throwing potato salad at a Dadaism expert with his friend Carl Solomon, to whom he dedicated the poem. This author wrote of walking with Walt Whitman down the aisles of a grocery store and through the darkened streets in his poem "A Supermarket in California." For 10 points, name this American poet who "saw the best minds of [his] generation destroyed by madness" at the beginning of his long poem Howl, which exemplified the Beat movement.
+
+----
+num: 6
+category: Literature
+difficulty: HS
+fixed: 1
+seen: 447
+answer: Nathaniel {Hawthorne}
+
+This author's short stories include one about doctor who offers water from the Fountain of Youth and another based off John Bunyan's Pilgrim's Progress. This author of "Dr. Heidegger's Experiment" and "The Celestial Railroad" also wrote many stories set in Puritan New England, including "Young Goodman Brown." He also wrote a novel featuring such characters as the minister Dimmesdale, Roger Chillingworth, and Hester Prynne. For 10 points, name this American author of The Scarlet Letter.
+
+----
+num: 7
+category: Literature
+difficulty: HS
+fixed: 1
+seen: 449
+answer: Johann Wolfgang von {Goethe} ["{GUR}-{tuh}"]
+
+One of this man's characters marries Helen of Troy in the second part of a two-part play after seducing Gretchen in the first part. This man wrote a semi-autobiographical novel about a young man with unrequited love for Charlotte, which spawned a rash of copycat suicides across Napoleonic Europe. This man's Wilhelm Meister's Apprenticeship is considered the prototype of the bildungsroman (BILL-doongs-roe-MAHN). For 10 points, name this German romantic who wrote Faust and The Sorrows of Young Werther.
+
+----
+num: 8
+category: History
+difficulty: HS
+fixed: 1
+seen: 413
+answer: Battle of {Gettysburg}
+
+This battle started after troops under Henry Heth (HEETH) spotted John Buford's cavalry. Key locations in this battle included the Peach Orchard and Devil's Den. One general in this battle, Dan Sickles, disobeyed orders by moving his corps from its location along Cemetery Ridge. That ridge was the object of Pickett's Charge at the end of this battle. George Meade's victory in this battle ended a Confederate invasion of the North. For 10 points, name this battle whose site was later the location of an Address by Abraham Lincoln.
+
+----
+num: 9
+category: Geography
+difficulty: HS
+fixed: 1
+seen: 723
+answer: {Tierra} del {Fuego}
+
+The Yamana are the only still extant native tribe from this region. Though not in Mexico, this region includes Lapataia and Ensenada Bays. One mountain range in this region is known as the Cordillera Darwin. The city of Ushuaia in this region calls itself the "End of the World," lies on the Beagle Channel, and is the southernmost city in the world. For 10 points, name this region between the Strait of Magellan and the Drake Passage, which is split between Chile and Argentina and whose name literally means "land of fire."
+
+----
+num: 9
+category: Geography
+difficulty: HS
+fixed: 1
+seen: 722
+answer: {Tierra} del {Fuego}
+
+The Yamana are the only still extant native tribe from this region. Though not in Mexico, this region includes Lapataia and Ensenada Bays. One mountain range in this region is known as the Cordillera Darwin. The city of Ushuaia in this region calls itself the "End of the World," lies on the Beagle Channel, and is the southernmost city in the world. For 10 points, name this region between the Strait of Magellan and the Drake Passage, which is split between Chile and Argentina and whose name literally means "land of fire."
+
+----
+num: 10
+category: Science
+difficulty: HS
+fixed: 1
+seen: 489
+answer: {fats} [or {fatty acids}; accept {adipose tissue} before mentioned; prompt on {lipidss}; accept {oil}
+
+In addition to apoptosis, the CIDEA gene plays a role in the breakdown of these. The tissue associated with this is responsible for much of the body's thermogenesis. Leptin acts as an indicator of the level of this in the body. It is stored in tissue that can be brown or white. This is stored in adipose tissue. These are triglycerides, meaning they are lipids. Trans ones are associated with heart disease and they can be saturated or unsaturated. For 10 points, name this material that stores energy in the long term for humans and whose presence brings about an increase in weight.
+
+----
+num: 11
+category: History
+difficulty: HS
+fixed: -1
+seen: 423
+answer: {Mali} Empire [or {Mandingo} Empire; or {Manden Kurufa}]
+
+This empire came into existence after its first leader won the Battle of Kirina against the Susu chief Sumanguru. Another ruler of this empire had the general Sagmandia capture the Songhai capital, Gao. That ruler of this empire caused a long-lasting depression in the value of gold in Cairo by his considerable spending while traveling on a hajj to Mecca. For 10 points, name this West African empire that shares its name with a modern country and was ruled by mansas such as its founder Sundiata Keita and Musa I.
+
+----
+num: 11
+category: History
+difficulty: HS
+fixed: -1
+seen: 417
+answer: {Mali} Empire [or {Mandingo} Empire; or {Manden Kurufa}]
+
+This empire came into existence after its first leader won the Battle of Kirina against the Susu chief Sumanguru. Another ruler of this empire had the general Sagmandia capture the Songhai capital, Gao. That ruler of this empire caused a long-lasting depression in the value of gold in Cairo by his considerable spending while traveling on a hajj to Mecca. For 10 points, name this West African empire that shares its name with a modern country and was ruled by mansas such as its founder Sundiata Keita and Musa I.
+
+----
+num: 12
+category: History
+difficulty: HS
+fixed: 1
+seen: 419
+answer: {U.S.A.} and People’s Republic of {China} [or equivalents in either order; do not accept “Republic
+
+These two countries' relationship was strained after a 1999 incident in which one of them bombed the other one’s embassy in Belgrade. Two years later, they clashed over the detainment of pilots following the Hainan Island incident. These countries directly fought each other after one side’s commander approached the Yalu River during the Korean War. Relations between these two countries improved due to Ping Pong diplomacy. For 10 points, name these two countries that experienced normalized relations after a 1972 visit by Richard Nixon.
+
+----
+num: 13
+category: Mythology
+difficulty: HS
+fixed: 1
+seen: 780
+answer: {Hercules} [or {Heracles}]
+
+He was forced to wear women’s clothing while working for the Lydian queen Omphale. He accidentally killed his music teacher Linus, and killed his wife Megara in a fit of madness. He killed the giant Antaeus by lifting him off the ground. He scared away the Stymphalian birds and killed the Nemean Lion with his club. This figure rerouted some rivers to clean the Augean Stables as part of a series of tasks completed for Eurystheus. For 10 points, name this demigod son of Zeus known for his twelve labors.
+
+----
+num: 14
+category: History
+difficulty: HS
+fixed: 1
+seen: 656
+answer: {Wisconsin}
+
+This state was first reached by a European by the French explorer Jean Nicolet. A Democratic senator from this stated worked on a bipartisan bill that reformed campaign finance along with John McCain. That senator from this state was Russ Feingold. This state's namesake "idea" of being a laboratory for progressive legislation was championed by Senator Robert La Follette. For 10 points, name this state that was the home of Joseph McCarthy and has a capital at Madison.
+
+----
+num: 15
+category: Fine Arts
+difficulty: HS
+fixed: 1
+seen: 491
+answer: {Leonardo} da Vinci [accept either]
+
+One work by this artist is situated across from a Donato Montorfano work and is located at Santa Maria delle Grazie. Another of his works depicts Cecilia Gallerani holding a small white mammal, while another of his works is a drawing based on proportions of a Roman architect. In addition to creating Lady with an Ermine and the Vitruvian Man, he also completed a portrait of Lisa Gherardini which is sometimes called “La Gioconda.” For 10 points, name this Italian artist best known for his paintings The Last Supper and the Mona Lisa.
+
+----
+num: 16
+category: Science
+difficulty: HS
+fixed: 1
+seen: 491
+answer: {flasks}
+
+Atmospheric nitrogen or vacuum reaction conditions can be simulated with the Schlenk variety of these objects. Another variety can easily connect to vacuum filtration apparatuses via a sidearm. A more common variety than the Buchner variety contains a fill-line for measuring high-precision. For 10 points, identify these pieces of laboratory glassware that include a volumetric kind and a familiar conical variety known as the Erlenmeyer kind.
+
+----
+num: 17
+category: Religion
+difficulty: HS
+fixed: 1
+seen: 446
+answer: {Zoroastrianism}
+
+This belief system's apocalypse is called Frashokereti, and one heresy in this belief system was called Zurvanism. Funerary rites in this religion include leaving the dead on raised platforms called towers of silence, and the primary conflict between good and evil in this religion is represented by the beings Ahura Mazda and Ahriman. For 10 points, name this religion named after a certain Persian prophet.
+
+----
+num: 17
+category: Religion
+difficulty: HS
+fixed: 1
+seen: 444
+answer: Zoroastrianism
+
+This belief system's apocalypse is called Frashokereti, and one heresy in this belief system was called Zurvanism. Funerary rites in this religion include leaving the dead on raised platforms called towers of silence, and the primary conflict between good and evil in this religion is represented by the beings Ahura Mazda and Ahriman. For 10 points, name this religion named after a certain Persian prophet.
+
+----
+num: 18
+category: Literature
+difficulty: HS
+fixed: 1
+seen: 442
+answer: Ahmed Salman {Rushdie}
+
+This author attached a story about a man who buys a pair of ruby slippers at auction to his work of film criticism, which opens “When I first saw The Wizard of Oz it made a writer of me.” This author of novels such as Fury and Shame also wrote about the switched-at-birth Saleem and Shiva, part of a generation of children born at the moment of India’s independence. For 10 points, name this author of Midnight’s Children, who was targeted for assassination after his controversial The Satanic Verses.
+
+----
+num: 19
+category: Science
+difficulty: HS
+fixed: -1
+seen: 478
+answer: {mitochondria} [or {mitochondrion}]
+
+One process that takes place in these structures involves a combination with coenzyme A to create acetyl CoA. That process takes place in this organelle's matrix. Another process that takes place in this structure creates a proton gradient. This organelle is the location of the Krebs cycle and the electron transport chain. This double-membraned structure has an inner membrane that is folded called the cristae. For 10 points, name this organelle that is responsible for the production of ATP and is often called the powerhouse of the cell.
+
+----
+num: 20
+category: Literature
+difficulty: HS
+fixed: 57
+seen: 447
+answer: Albert {Camus}
+
+In one of this author’s novels, Joseph Grand struggles to write the perfect sentence, and Jean Tarrou dies despite the efforts of Dr. Bernard Rieux. This author wrote about a disease that strikes Oran in The Plague. A novella by this man begins with the sentence, “Maman is dead today;” in that novel, Mersault is executed for shooting an Arab “because of the sun.” For 10 points, name this French existentialist author of The Stranger.
+
+----
+num: 21
+category: Literature
+difficulty: HS
+fixed: 57
+seen: 648
+answer: Samuel {Johnson}
+
+Before opposing the American independence activists in Taxation No Tyranny, this author used Juvenalian satire as a model for his poem "The Vanity of Human Wishes." He was the first to include real literary quotations as usage examples, in his monumental Dictionary of the English Language. He may be best-known not as an author but as a subject of a work based on two decades of friendship with a Scottish attorney. For 10 points, name this eighteenth-century literary figure, the subject of a noted biography by James Boswell.
+
+----
+num: 22
+category: Science
+difficulty: HS
+fixed: 1
+seen: 488
+answer: {quartz} [before "{silicon}," accept {silicon dioxide}; or {silica}; or {SiO2}]
+
+At very high pressure, such as below impact craters, this mineral can metamorphose into coesite (KO-uh-zite). Evidence of the K-T boundary was provided by a layer of the amorphous "shocked" type of this mineral. Together with various types of feldspar, this mineral comprises the major ingredient of granite. Its piezoelectric (pee-AY-zo-"electric") properties make it allows its use in crystal oscillators. For 10 points, name this mineral made up of silicon dioxide, which has a hardness of seven on the Mohs scale.
+
+----
+num: 23
+category: Science
+difficulty: HS
+fixed: 57
+seen: 487
+answer: {Pythagorean} theorem
+
+James Garfield used trapezoids to prove this result, which is also proven in Euclid's Elements. With integral values for its three variables, it gives rise to namesake "triples," which cannot be found for exponents greater than two, according to Fermat's Last Theorem. It is a special case of the cosine law, where the angle is ninety degrees. For 10 points, name this theorem which is stated as "A squared plus B squared equals C squared."
+
+----
+num: 24
+category: Science
+difficulty: HS
+fixed: 1
+seen: 487
+answer: {noble} gases [or {inert} gases before mentioned; or Group {VIIIA} ({eight}-{A}); or Group {18}; prompt
+
+One element in this family was originally isolated by heating clevite, while the first isolated element in this family was discovered when Lord Rayleigh and William Ramsay noted that a sample of pure nitrogen air was too heavy to be just nitrogen. Neil Bartlett was the first chemist to make a compound containing one of these elements, which had previously been thought to be “inert.” For 10 points, name this family of elements that includes xenon, argon, krypton, and helium, which is found at the extreme right of the periodic table.
+
+----
+num: 25
+category: Literature
+difficulty: HS
+fixed: 1
+seen: 446
+answer: {The Invisible Man}
+
+This novel's protagonist yells at Teddy Henfrey and forces Thomas Marvel to be his assistant. After Marvel escapes to the town of Burdock, the title character is shot and finds his old colleague Dr. Kemp, who soon finds out about his experiments with changing the refractive index of objects. The title character, whose name is Griffin, is an albino who wraps himself up with bandages in order to conceal his most notable attribute. For 10 points, name this 1897 novel by H. G. Wells whose protagonist cannot be seen.
+
+----
+num: 26
+category: Literature
+difficulty: HS
+fixed: 1
+seen: 438
+answer: Sinclair {Lewis}
+
+This author wrote a novel in which the United States is ruled by the tyrannical Buzz Windrip. In another novel by this author of It Can't Happen Here, the shooting of Zilla by her husband Paul Riesling causes Myra’s husband to resent his middle-class lifestyle. This man created the fictional city of Zenith, Winnemac, the home of the minister Elmer Gantry. In another of his novels, Erik Valborg has an affair with Carol Kennicott, who grows dissatisfied with Gopher Prairie, Minnesota. For 10 points, name this author of Main Street and Babbitt.
+
+----
+num: 27
+category: History
+difficulty: HS
+fixed: 1
+seen: 411
+answer: Nikita Sergeyevich {Khrushchev}
+
+This man received the Order of Lenin for supervising the completion of the Moscow subway system. This man oversaw the assimilation of Eastern Poland following the Soviet invasion in 1940. This leader served as a political adviser during the siege of Stalingrad. This man initiated his namesake "Thaw" after delivering the Secret Speech in 1956, which denounced Stalin's excesses. This leader allegedly banged a shoe on his desk at a 1960 United Nations meeting. For 10 points, name this premier of the Soviet Union during the Cuban Missile Crisis.
+
+----
+num: 28
+category: History
+difficulty: HS
+fixed: 1
+seen: 414
+answer: {Third Crusade} [prompt on {Crusade}]
+
+This military campaign was preceded by a victory for Baldwin IV at the Battle of Montgisard and the defeat of Raynald of Chatillon and Guy of Lusignan at the Battle of Hattin. One side in this campaign included forces of the Ayyubid Dynasty. The other side was led by the French ruler Philip II and Richard the Lionhearted. Frederick Barbarossa drowned during this military campaign, which was fought against the Muslim ruler Saladin. For 10 points, name this third of a series of European attempts to conquer the Holy Land.
+
+----
+num: 29
+category: Fine Arts
+difficulty: HS
+fixed: 1
+seen: 494
+answer: {tuba}
+
+A version of this instrument created for the Ring Cycle is known as the “Wagner” type and combines it with the French horn. This instrument replaced the ophicleide in the modern orchestra and its virtuosos include Harvey Phillips and Tommy Johnson. It was invented by Wieprecht and Moritz and is closely related to the euphonium and an instrument which sometimes replaces it in marching bands, the sousaphone. For 10 points, name this lowest pitched and largest of the brass instruments.
+
+----
+num: 30
+category: Science
+difficulty: HS
+fixed: -1
+seen: 486
+answer: {Fibonacci} numbers [or {Fibonacci} sequence]
+
+Binary coding based on these values depends on Zeckendorf's theorem, which states that any integer can be written as the sum of any one or more of them. Euclid's algorithm for finding a greatest common divisor has a worst-case runtime when consecutive values of this type are inputted. A namesake type of heap uses these numbers in its runtime analysis. The ratio of consecutive numbers of this type approaches the golden ratio. For 10 points, name these numbers, which comprise a sequence that begins 1, 1, 2, 3, 5, and are named for an Italian mathematician.
+
+----
+num: 35
+category: History
+difficulty: HS
+fixed: 57
+seen: 412
+answer: William Henry {Harrison} [prompt on {Harrison}]
+
+This President ran on a campaign that promoted his simplicity as a man who knew about “log cabins and hard cider.” This man’s popular nickname came from a battle he won against Tenskwatawa, whose brother Tecumseh was also defeated by this man at the Battle of the Thames. This President nicknamed Tippecanoe defeated Martin Van Buren in the election of 1840. This man then gave a two-hour-long inaugural address on a cold and rainy day, causing him to catch a cold. For 20 points, name this ninth President who died after a month in office.
+
+----
+num: 36
+category: History
+difficulty: HS
+fixed: 1
+seen: 417
+answer: {cotton}
+
+John Kay and James Hargreaves made inventions that allowed for greater growth of this crop, with those inventions being the flying shuttle and spinning jenny. The belief that Europe was dependent on this crop led it to be known as "king." In the late nineteenth century, this crop was ravaged by the boll weevil. This crop became widely grown after a machine was made to separate it from its seeds. For 20 points, identify this crop which was fed into a machine made by Eli Whitney.
+
+----
+num: 37
+category: History
+difficulty: HS
+fixed: 57
+seen: 420
+answer: {governor} of {California} [prompt on partial answer]
+
+A snub of Hiram Johnson, the holder of this office in 1916, may have cost Charles Evans Hughes that year's election. After losing to incumbent Pat Brown in the 1962 election for this office, one man declared that "you won't have Nixon to kick around anymore." Brown was defeated four years later by Ronald Reagan, who promised that in this office he would "clean up the mess at Berkeley." For 20 points, name this office held by Gray Davis until a 2003 election recalled him.
+
+----
+num: 38
+category: History
+difficulty: HS
+fixed: 1
+seen: 412
+answer: {seceding} from the {Union} [or {seceding} from the {United States;} or clear-knowledge equivalents]
+
+Sam Houston resigned as Governor of Texas to protest this action. The Federalist Party was ruined because the Hartford Convention became synonymous with performing this action, even though it decided against it. The admittance of California caused some states to threaten to do this in 1850, although no state actually performed this action until the election of Abraham Lincoln incited South Carolina to perform it. For 20 points, name this action taken by Southern states which directly caused the Civil War.
+
+----
+num: 39
+category: Geography
+difficulty: HS
+fixed: 1
+seen: 710
+answer: Kingdom of {Saudi Arabia}
+
+This nation’s capital contains the Olaya District, and is found on the central Nejd plateau. This country is home to Ghawar, the world’s largest conventional oil field, and Aramco is its national oil company. It borders both the Red Sea and Persian Gulf, and a city in this country is home to the Ka’aba. It’s southernmost portion is the massive sand desert Rub ‘al Khali, or the “Empty Quarter”. For 20 points, Mecca and Medina are found in what Islamic monarchy?
+
+----
+num: 39
+category: Geography
+difficulty: HS
+fixed: 1
+seen: 713
+answer: Kingdom of {Saudi Arabia}
+
+This nation’s capital contains the Olaya District, and is found on the central Nejd plateau. This country is home to Ghawar, the world’s largest conventional oil field, and Aramco is its national oil company. It borders both the Red Sea and Persian Gulf, and a city in this country is home to the Ka’aba. It’s southernmost portion is the massive sand desert Rub ‘al Khali, or the “Empty Quarter”. For 20 points, Mecca and Medina are found in what Islamic monarchy?
+
+----
+num: 40
+category: Science
+difficulty: HS
+fixed: 1
+seen: 493
+answer: {AIDS} [or {Acquired Immune Deficiency Syndrome} prompt on " {HIV} "]
+
+Glycoprotein 120 is exposed on the surface of the envelop of the virus that causes this disease. A common tumor found in patients infected with the virus that causes this disease is Kaposi's Sarcoma. This disease is caused by a retrovirus that destroys CD4 plus T-cells. For 20 points, name this autoimmune deficiency disease.
+
+----
+num: 41
+category: Social Science
+difficulty: HS
+fixed: 1
+seen: 382
+answer: {linguistics}
+
+One scholar in this field is Johannes Schmidt, who created the wave model of development. Derek Bickerton and Dan Everett also work in this field, whose modern form was inaugurated in a work which introduced the concept of the "sign" and which was written by Ferdinand de Saussure. Important concepts in this field include phonemes and the Universal Grammar. For 20 points, name this field which is dominated by the generative theories of Noam Chomsky, and is the study of language.
+
+----
+num: 42
+category: Science
+difficulty: HS
+fixed: 1
+seen: 486
+answer: {Mesozoic} Era [accept {Triassic} period until " K-T " is spoken]
+
+During this period of time, non-decomposed organic matter formed black shale and this period of time began after the "Great Dying" which occurred at the end of the Permian. The end of this geologic Era is marked by the K-T extinction event, which according to the Alvarez hypothesis was caused by a large asteroid. For 20 points, name this geologic era consisting of the Triassic, Jurassic and Cretaceous periods.

@@ -1,0 +1,328 @@
+####
+tournament: Question Set C
+round: Round-4C.pdf
+####
+
+num: 1
+category: Biology
+difficulty: HS
+seen: 1
+answer: X)   His Observations of Cork Cells
+
+Robert Hooke coined the term ‘cell’ mostly because of:
+W) his observations of red blood cells
+X) his observations of cork cells
+Y) his analysis of hundreds of different protozoans
+Z) his readings of the works of other early microscopists
+
+----
+num: 2
+category: Chemistry
+difficulty: HS
+seen: 1
+answer: Y)  Surface Tension
+
+Which of the following properties BEST explains why small liquid water droplets on a clean sheet of glass often coalesce into larger spherical water droplets:
+W) tensile strength 
+X) capillary action 
+Y) surface tension
+Z) viscosity
+
+----
+num: 3
+category: Physics
+difficulty: HS
+answer: Z)  Only When the Velocity Is Constant
+
+For a given time interval, when is the average velocity of an object equal to the instantaneous velocity for every time in the interval:
+W) never
+X) always
+Y) only when the velocity is changing at a constant rate
+Z) only when the velocity is constant
+
+----
+num: 3
+category: Physics
+difficulty: HS
+seen: 1
+answer: Y)  5,000 Newtons
+
+In a tug-of-war, each person on a team pulls with an average force of 500 newtons. What is the tension in the center of the rope if there are 10-man teams on each side:
+W) 0 newtons
+X) 2,500 newtons
+Y) 5,000 newtons
+Z) 10,000 newtons
+
+----
+num: 4
+category: Math
+difficulty: HS
+seen: 1
+answer: X)  2,636
+(Solution:  36, the Last 2 Digits, Is a Multiple of 4)
+
+Which of the following numbers is evenly divisible by 4:
+W) 1,722
+X) 2,636
+Y) 4,114
+Z) 6,126
+
+----
+num: 5
+category: Earth Science
+difficulty: HS
+seen: 1
+answer: X)  Interglacial
+
+Which of the following BEST describes Earth’s current climate type:
+W) glacial
+X) interglacial
+Y) pre-ice age
+Z) post -ice age
+
+----
+num: 5
+category: Earth Science
+difficulty: HS
+answer: Z)  the Ring of Fire Is Dominated by Volcanoes That Erupt 
+Basaltic Magma
+
+Which of the following is NOT true about volcanoes:
+W) stratovolcanoes are typically found at convergent plate boundaries
+X) 80% of all magma erupted by volcanoes on Earth is basaltic
+Y) Mount Kilimanjaro is a stratovolcano
+Z) the Ring of Fire is dominated by volcanoes that erupt basaltic magma
+
+----
+num: 6
+category: General Science
+difficulty: HS
+seen: 1
+answer: W)  55.0000
+
+Which of the following numbers has 6 significant figures:
+W) 55.0000
+X) 555,000
+Y) 0.00500
+Z) 0.55000
+
+----
+num: 7
+category: Astronomy
+difficulty: HS
+answer: Z)  Cosmic Rays Are Electromagnetic Radiation of Very High 
+Energies
+
+Which of the following is NOT true:
+W) Vega is part of the summer triangle
+X) the Seven Sisters is a star cluster
+Y) Cassiopeia is a constellation generally shaped like a W
+Z) cosmic rays are electromagnetic radiation of very high energies
+
+----
+num: 8
+category: Biology
+difficulty: HS
+seen: 1
+answer: W)  Female Bird
+
+The cloaca (read as: klo-AY-ka) is a reproductive structure of:
+W) female bird
+X) male shark
+Y) female cestode
+Z) male lobster
+
+----
+num: 8
+category: Biology
+difficulty: HS
+seen: 1
+answer: Z)   Nematoda
+
+Which of the following does NOT belong to the Arthropoda:
+W) Arachnida
+X) Diplopoda
+Y) Chilopoda
+Z) Nematoda
+
+----
+num: 10
+category: Physics
+difficulty: HS
+answer: W)  the Spring Must Be Within Its Proportional Elastic Limit
+
+Which of the following conditions must be true for Hooke’s law to apply:
+W) the spring must be within its proportional elastic limit
+X) the spring must me made of cold formed steel coils
+Y) the deflection of the spring must be less than one tenth the spring’s free length
+Z) the carbon content of the metal must be over 0.023 percent
+
+----
+num: 12
+category: Earth Science
+difficulty: HS
+seen: 1
+answer: Y)  Air and Water
+
+The zone of aeration is BEST described as pores in rock or soil that contain:
+W) only water
+X) only oil
+Y) air and water 
+Z) oil and water
+
+----
+num: 12
+category: Earth Science
+difficulty: HS
+seen: 1
+answer: X)  P-Wave
+
+Which of the following is a compressional elastic seismic wave that causes rock particles to move back and forth parallel to wave direction:
+W) Rayleigh-wave
+X) P-wave
+Y) S-wave
+Z) L -wave
+
+----
+num: 13
+category: General Science
+difficulty: HS
+seen: 1
+answer: W)  Fly
+
+Which of the following is MOST closely related to the mosquito:
+W) fly
+X) wasp
+Y) human body louse
+Z) dragonfly
+
+----
+num: 13
+category: General Science
+difficulty: HS
+seen: 1
+answer: Z)  Vitamin a and Absorption of Iron
+
+Which of the following vitamins is NOT properly matched with its function in humans:
+W) vitamin E and antioxidant action 
+X) vitamin C and collagen production
+Y) vitamin D and calcium absorption 
+Z) vitamin A and absorption of iron
+
+----
+num: 14
+category: Astronomy
+difficulty: HS
+seen: 1
+answer: W)  Meteorite
+
+Which of the following would have a Widmanstätten Pattern:
+W) meteorite
+X) comet
+Y) planet
+Z) constellation
+
+----
+num: 14
+category: Astronomy
+difficulty: HS
+answer: Y)  It Plots Luminosity Versus Surface Temperature With 
+Highest Temperatures on the Left
+
+Which of the following is the BEST description of the H-R 
+Diagram:
+W) it plots apparent brightness versus age
+X) it plots luminosity versus surface temperature with highest temperatures on the right 
+Y) it plots luminosity versus surface temperature with highest temperatures on the left 
+Z) it plots apparent magnitude versus average stellar temperature
+
+----
+num: 15
+category: Biology
+difficulty: HS
+answer: Z)  Carries the Sperm Nuclei to the Ovule
+
+Which of the following is a function of the pollen tube in flowering plants:
+W) attaches pollen to the developing anther
+X) allows pollen to absorb nutrients as they develop in the anther
+Y) enables the ovule to breach through the micropyle
+Z) carries the sperm nuclei to the ovule
+
+----
+num: 19
+category: Earth Science
+difficulty: HS
+seen: 1
+answer: Z)  Unsorted and Unstratified
+
+Glacial till is:
+W) sorted and stratified
+X) sorted and unstratified
+Y) unsorted and stratified
+Z) unsorted and unstratified
+
+----
+num: 19
+category: Earth Science
+difficulty: HS
+seen: 1
+answer: X)  Cambrian
+
+In which period of the Geological Time Scale did trilobi tes first appear:
+W) Permian 
+X) Cambrian
+Y) Devonian
+Z) Silurian
+
+----
+num: 20
+category: General Science
+difficulty: HS
+answer: Y)  Lead Ore Is Most Commonly Mined in Bauxite
+(Solution:  Lead Ore Is Galena)
+
+Which of the following is NOT true:
+W) phosphorous is used in the manufacture of detergents 
+X) nitric acid is used in the manufacture of fertilizers
+Y) lead ore is most commonly mined in bauxite 
+Z) flotation separation is used in the preparation of ores
+
+----
+num: 20
+category: General Science
+difficulty: HS
+seen: 1
+answer: X)  Consume Only Pasteurized Dairy Products
+
+Which of the following is one of the MAIN ways of preventing Brucellosis in humans:
+W) avoid person -to-person contact 
+X) consume only pasteurized dairy products
+Y) avoid flea bites 
+Z) boil all drinking water
+
+----
+num: 21
+category: Astronomy
+difficulty: HS
+seen: 1
+answer: W)  Cassiopeia and Ursa Major
+
+Which of the following constellations are circumpolar for people in North America and are found on opposite sides and close to Polaris:
+W) Cassiopeia and Ursa Major
+X) Orion and Leo
+Y) Aquarius and Capricorn
+Z) Leo and Sagittarius
+
+----
+num: 23
+category: Chemistry
+difficulty: HS
+seen: 1
+answer: Z)  Iron Sulfide Is a Glassy Solid
+
+Which of the following classifications of crystalline solids is 
+NOT true:
+W) quartz is a covalent network solid
+X) calcium carbonate is an ionic solid
+Y) sucrose is a molecular solid
+Z) iron sulfide is a glassy solid

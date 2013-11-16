@@ -1,0 +1,438 @@
+####
+tournament: #6476
+round: Show #6476 - Monday, November 12, 2012
+year: 2012
+date: 2012-11-12
+####
+
+num: 1
+category: Literature
+difficulty: 200
+seen: 4
+answer: nose
+
+"Pay through the ____".
+
+----
+num: 2
+category: History
+difficulty: 200
+seen: 5
+answer: (Simón) Bolívar
+
+Born in Caracas in 1783, he's been called the "George Washington of South America".
+
+----
+num: 3
+category: History
+difficulty: 200
+seen: 5
+answer: Doctors Without Borders
+
+Started in 1971, it's also known by its French name, Medecins sans Frontieres.
+
+----
+num: 4
+category: Art
+difficulty: 200
+seen: 4
+answer: pajamas
+
+Dr. Denton sleepers & (oo la la!) French maid sleepers are types of these.
+
+----
+num: 5
+category: Literature
+difficulty: 400
+seen: 4
+answer: neck
+
+"An albatross around one's ____".
+
+----
+num: 6
+category: History
+difficulty: 400
+seen: 4
+answer: Peter the Great
+
+In 1703 he founded a city that served as Russia's capital until 1918.
+
+----
+num: 7
+category: Literature
+difficulty: 400
+seen: 4
+answer: Hamlet, Sr.
+
+It's the name of the father of the title prince of Denmark.
+
+----
+num: 8
+category: History
+difficulty: 400
+seen: 3
+answer: OPEC
+
+Though there's not a lot of oil in Austria, this international organization has been based in Vienna since 1965.
+
+----
+num: 9
+category: Art
+difficulty: 400
+seen: 4
+answer: a Panama hat
+
+Fine, expensive straw of the jipijapa plant is handwoven in Ecuador, yet marketed as this type of hat.
+
+----
+num: 10
+category: Literature
+difficulty: 600
+seen: 4
+answer: cheek
+
+"Tongue in ____".
+
+----
+num: 11
+category: History
+difficulty: 600
+seen: 4
+answer: William Penn
+
+Known as the father of the Keystone State, he also fathered 14 children.
+
+----
+num: 12
+category: History
+difficulty: 600
+seen: 4
+answer: a laptop
+
+OLPC is a learning organization standing for "One" of these computers "Per Child".
+
+----
+num: 13
+category: Art
+difficulty: 600
+seen: 4
+answer: a pump
+
+It's a slip-on shoe with a low-cut throat & usually a medium to high heel.
+
+----
+num: 14
+category: Literature
+difficulty: 800
+seen: 4
+answer: arms
+
+"In the ____ of Morpheus".
+
+----
+num: 15
+category: History
+difficulty: 800
+seen: 4
+answer: Lucretia
+
+This Borgia died in 1519 from childbirth complications, leaving behind at least 5 other kids.
+
+----
+num: 16
+category: Trash
+difficulty: 800
+seen: 5
+answer: Frazier
+
+When this sitcom psychiatrist said he was dating a supermodel, no one believed him & everyone thought he was going nuts.
+
+----
+num: 17
+category: Literature
+difficulty: 800
+seen: 4
+answer: Pistol
+
+In "Henry V", he's the swaggering soldier named for a weapon.
+
+----
+num: 18
+category: History
+difficulty: 800
+seen: 4
+answer: Hypnotists
+
+You are getting sleepy as we tell you the Intl. Association of Youth these offers tips on suggestibility.
+
+----
+num: 19
+category: Art
+difficulty: 800
+seen: 4
+answer: pantyhose
+
+In 1958 France's Societe de Bonneterie de Tergnier patented mitoufle, a brand of this sheer item for ladies' legs.
+
+----
+num: 20
+category: Literature
+difficulty: 1000
+seen: 3
+answer: stomach
+
+"An army marches on its ____".
+
+----
+num: 21
+category: History
+difficulty: 1000
+seen: 4
+answer: Mary (Queen of Scots)
+
+On Feb. 1, 1587 Elizabeth I reluctantly signed this royal woman's death warrant.
+
+----
+num: 22
+category: Trash
+difficulty: 1000
+seen: 5
+answer: Christopher Lloyd
+
+As Rev. Jim on "Taxi", this actor plays piano flawlessly, stops & says, "I must have had music lessons".
+
+----
+num: 23
+category: History
+difficulty: 1000
+seen: 5
+answer: a coelacanth
+
+There's a Comoros Islands-based association for the preservation of.
+
+----
+num: 24
+category: Art
+difficulty: 1000
+seen: 4
+answer: polyester
+
+Generic name for man-made fibers developed in the 1930s that are shrinkproof & wrinkle-resistant.
+
+----
+num: 25
+category: Literature
+difficulty: 400
+seen: 4
+answer: monkey bars
+
+They're part of a jungle gym.
+
+----
+num: 26
+category: Geography
+difficulty: 400
+seen: 8
+answer: a bison
+
+While this bovine of the American plains has a thick beard & a hump, the true buffalo has neither.
+
+----
+num: 27
+category: Mythology
+difficulty: 400
+seen: 12
+answer: thunder
+
+Thor is an Old Norse word for this weather phenomenon.
+
+----
+num: 28
+category: Literature
+difficulty: 400
+seen: 4
+answer: chicken fried steak
+
+Oklahoma's official state meal includes this, CFS for short.
+
+----
+num: 29
+category: Literature
+difficulty: 400
+seen: 4
+answer: Superman
+
+The U.K.'s Guardian said it stank when this superhero reversed Earth's rotation at the end to save Lois Lane.
+
+----
+num: 30
+category: Literature
+difficulty: 800
+seen: 4
+answer: money market funds
+
+U.S. investors have over $2.7 trillion in these safe but not sexy funds.
+
+----
+num: 31
+category: Literature
+difficulty: 800
+seen: 4
+answer: binary
+
+This numeration system that works with base 2, not 10, renders the number 2 to look like 10.
+
+----
+num: 32
+category: Geography
+difficulty: 800
+seen: 8
+answer: a moose
+
+This largest deer is also the tallest land mammal in North America, measuring about 6 feet to the shoulders.
+
+----
+num: 33
+category: Mythology
+difficulty: 800
+seen: 11
+answer: a chariot
+
+The Norse believed that during storms, Thor rode one of these, drawn by goats.
+
+----
+num: 34
+category: Literature
+difficulty: 800
+fixed: -1
+seen: 3
+answer: a po\' boy
+
+When this New Orleans sandwich is made with fried oysters, it's called "the peace maker".
+
+----
+num: 35
+category: Literature
+difficulty: 1200
+seen: 4
+answer: Monsignor
+
+A title for a well-regarded Catholic, such as a papal chaplain.
+
+----
+num: 36
+category: Literature
+difficulty: 1200
+seen: 4
+answer: two turtledoves
+
+In "The 12 Days of Christmas", it's the gift on the second day.
+
+----
+num: 37
+category: Geography
+difficulty: 1200
+seen: 8
+answer: an ant
+
+The thorny devil lizard, which has a spiny hump, feeds entirely on this social insect & may eat 3,000 in a single meal.
+
+----
+num: 38
+category: Mythology
+difficulty: 1200
+seen: 13
+answer: Loki
+
+O gods, rain fire on Marvel & Paramount for making this slimy god Thor's brother.
+
+----
+num: 39
+category: Literature
+difficulty: 1200
+seen: 3
+answer: churros
+
+deep-fried Mexican treats are often coated with cinnamon & sugar.
+
+----
+num: 40
+category: Literature
+difficulty: 1600
+seen: 5
+answer: moniker
+
+Slang word for a name or, especially, a nickname.
+
+----
+num: 41
+category: Geography
+difficulty: 1600
+seen: 8
+answer: the musk ox
+
+Named for its odor,.
+
+----
+num: 42
+category: Mythology
+difficulty: 1600
+seen: 10
+answer: dwarves
+
+Brok & Sindri, members of this race, made many magic objects for Norse gods, including Thor's hammer.
+
+----
+num: 43
+category: Literature
+difficulty: 1600
+seen: 4
+answer: matzo brei
+
+A classic Passover breakfast is this dish, matzoh that's been soaked in water, dipped in egg & fried like French toast.
+
+----
+num: 44
+category: Literature
+difficulty: 2000
+seen: 6
+answer: a monolith
+
+I'm a big rock fan, &.
+
+----
+num: 45
+category: Literature
+difficulty: 2000
+seen: 5
+answer: Cantonese
+
+2 is lucky in China & in this most common Hong Kong dialect is pronounced the same way as the word for "easy".
+
+----
+num: 46
+category: Geography
+difficulty: 2000
+seen: 13
+answer: the Bactrian camel
+
+The wild species of this 2-humped camel have smaller humps & less hair than their domesticated brethren.
+
+----
+num: 47
+category: Mythology
+difficulty: 2000
+seen: 22
+answer: Mjolnir
+
+This was the name of Thor's hammer, which could return like a boomerang.
+
+----
+num: 48
+category: Literature
+difficulty: 2000
+seen: 5
+answer: funnel cake
+
+This Pennsylvania Dutch pastry is named for what the batter is dripped through before it's fried.

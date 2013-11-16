@@ -1,0 +1,234 @@
+####
+tournament: Fall Novice
+round: Packet 7.doc
+year: 2010
+####
+
+num: 1
+category: Literature
+difficulty: HS
+fixed: None
+seen: 442
+answer: Madame Bovary
+
+In this novel, a shutter is left open to show that the protagonist has accepted a marriage proposal, and that protagonist is led into debt by the manipulative money-lender Monsieur L'Heureux. The title character of this novel cheats on her husband with Rodolphe and with the chemist Ume's clerk, Leon. The protagonist grows unhappy with the doctor Charles and their marriage in, for 10 points, what Gustave Flaubert novel in which Emma kills herself with arsenic?
+
+----
+num: 1
+category: Literature
+difficulty: HS
+fixed: None
+seen: 450
+answer: Madame Bovary
+
+In this novel, a shutter is left open to show that the protagonist has accepted a marriage proposal, and that protagonist is led into debt by the manipulative money-lender Monsieur L'Heureux. The title character of this novel cheats on her husband with Rodolphe and with the chemist Ume's clerk, Leon. The protagonist grows unhappy with the doctor Charles and their marriage in, for 10 points, what Gustave Flaubert novel in which Emma kills herself with arsenic?
+
+----
+num: 2
+category: History
+difficulty: HS
+fixed: 1
+seen: 412
+answer: Kingdom of {Belgium} [accept {Royaume} de {Belgique} or {Konigkrijk België}]
+
+The Louvain University library was burned in this country. Its city of Liege was besieged at the start of World War I, and another battle here included the first use of poison gas on the Western Front at Ypres. The route of the failed Schlieffen plan went through this country, whose king Leopold II profited from its brutal colony in the Congo. For 10 points, name this European country containing Flanders, whose French south and Dutch north dispute issues in Brussels.
+
+----
+num: 3
+category: Science
+difficulty: HS
+fixed: 57
+seen: 487
+answer: {carbon}
+
+One porous form of this element is useful for adsorption reactions and in water filtration; that form is known as its “activated” variety.  One isotope of this element has a half-life of 5730 years; that mass 14 isotope is used for radiometric dating. Organic compounds must contain this element, which forms an allotrope that is the hardest substance in the world. For 10 points, name this element with atomic number 6 that can be found in coal, graphite, and diamond.
+
+----
+num: 4
+category: History
+difficulty: HS
+fixed: 1
+seen: 421
+answer: Joseph {Stalin} [or Iosif Vissarionovich {Dzhugashvilli}; or Ioseb Besarionis dze {Jughashvili}]
+
+The end of this man's rule included the Night of the Murdered Poets, and he invented the fictitious Doctor's Plot. His policies caused the holodomor famine in the Ukraine, and this liquidator of the kulaks was denounced in a “Secret Speech” by Khruschev. This developer of Five-Year Plans and “socialism in one country” drove out Leon Trotsky. For 10 points, name this Soviet leader who instigated the Great Purge and fought Hitler in World War II after succeeding Lenin.
+
+----
+num: 5
+category: Science
+difficulty: HS
+fixed: -1
+seen: 488
+answer: {recursion} [accept word forms {such} as {recursive}]
+
+The Ackermann function must be expressed using this concept, and it is often used to define fractals such as the Sierpinski triangle. This technique is employed by the fastest algorithms for computing factorials, and its “tail-” form can emulate iterative processes. The operation of an algorithm of this kind continues until encountering a base case. For 10 points, name this technique from computer science employed by functions which call themselves.
+
+----
+num: 6
+category: History
+difficulty: HS
+fixed: 1
+seen: 421
+answer: Federative Republic of {Brazil} [accept {Republica Federativa} do {Brasil}]
+
+The Cry of Ipiranga declared this country's independence, and its Golden Law freed slaves under Dom Pedro II. Juscelino Kubitschek began to build its capital, designed largely by Oscar Niemeyer. It joined with Argentina and Uruguay in the War of the Triple Alliance, and explorer Pedro Cabral sighted this country where Getulio Vargas later ran the Estado Novo. For 10 points, name this country once colonized by Portugal, with major city Rio de Janiero.
+
+----
+num: 7
+category: Literature
+difficulty: HS
+fixed: 1
+seen: 446
+answer: William Butler {Yeats}
+
+This author wrote that “an aged man is but a paltry thing” in one of his poems. This poet wrote that “a terrible beauty is born” in “Easter, 1916” and he saw a “vast image out of Spiritus Mundi” in another poem. This author leaves a place that is “no country for old men” in one of his poems, and described a “rough beast slouching towards Bethlehem” in another. That poem notes that “the center cannot hold.”  For 10 points, name this Irish poet of “Sailing to Byzantium” and “The Second Coming”.
+
+----
+num: 8
+category: Fine Arts
+difficulty: HS
+fixed: 1
+seen: 493
+answer: Nikolai Rimsky-{Korsakov}
+
+“Fandango Asturiano” is the final movement of one of this man's orchestral works which was inspired by Spanish folk music, and he composed a suite based on One Thousand and One Arabian Nights. In addition to Capriccio Espagnole and Scheherezade, he is known for an interlude in The Tale of Tsar Sultan in which the Tsar's son is turned into an insect. For 10 points, what Russian composer created “The Flight of the Bumblebee”?
+
+----
+num: 9
+category: Science
+difficulty: HS
+fixed: 57
+seen: 485
+answer: {Doppler} effect [or {Doppler} shift]
+
+The classical variety of this effect involves a ratio calculated by dividing wave velocity by source velocity plus wave velocity. This effect is utilized in radar guns to measure the speeds of cars and baseballs, and it explains the redshift in the light emitted by receding galaxies. For 10 points, name this effect in which the frequency of a wave changes when an observer is moving relative to the wave, exemplified by the change in pitch of a moving siren.
+
+----
+num: 10
+category: Literature
+difficulty: HS
+fixed: -1
+seen: 452
+answer: Edgar Allan {Poe}
+
+This man writes about a “tintinnabulation that so musically wells” in his poem “The Bells.” A man walls his companion Fortunato into a niche with bricks in a work by this man. In addition to “The Cask of Amontillado”, this man wrote about the title girl laid in a “sepulchre there by the sea.” For 10 points, name this author of “Annabel Lee” who writes about the title creature saying, “Nevermore,” in “The Raven.”
+
+----
+num: 11
+category: Mythology
+difficulty: HS
+fixed: 1
+seen: 781
+answer: Shiva
+
+This god consumed Halahala, a poison from the Ocean of Milk, and gained a blue throat as a result. The bull Nandi is the mount of this deity who killed the god Kama. One aspect of this god is the cosmic dancer Nataraja; the Ganges flows from his hair, and his primary residence is Mount Kailash. This father of elephant-headed Ganesha and husband of Parvati has a third eye. For 10 points, name this destroyer deity in the Hindu Trimurti.
+
+----
+num: 12
+category: Fine Arts
+difficulty: HS
+fixed: 57
+seen: 495
+answer: The {Persistence} of {Memory} [or La {persistencia} de la {memoria}]
+
+A tiny ovoid object rests beside a large mountain rising out of still waters in the background of this painting, whose foreground contains a dying tree branch, a bee, and a bunch of ants, all sitting on a wooden table.  Lying on the ground next to that table is a strange dream-creature, and its artist went on to paint a ‘Disintegration' of this painting.  Also containing a bunch of melting clocks, for 10 points, name this surrealist masterpiece by Salvador Dali.
+
+----
+num: 13
+category: Literature
+difficulty: HS
+fixed: 57
+seen: 444
+answer: Gabriel Garcia {Marquez} [prompt on “{Marquez}”]
+
+This writer created an earth-eating orphan named Rebeca and her sister Amaranta in one work. One of his novels concludes with Fermina Daza and Florentino Ariza reuniting on a ship quarantined in an epidemic, while another novel by him chronicles the lives of Jose Arcadio and Aureliano Buendia and is set in in Macondo. For 10 points, identify this Colombian author of Love in the Time of Cholera and One Hundred Years of Solitude.
+
+----
+num: 14
+category: History
+difficulty: HS
+fixed: 1
+seen: 411
+answer: {Federalist Papers} [prompt “The {Federalist}”]
+
+These documents were first judicially cited in Calder v. Bull. One of these documents cites disagreement between Roman leaders to support a single executive. Another says no government would exist if men were angels, and the dangers of domestic factions are described in the tenth of these. Printed under the pseudonym Publius, for 10 points, name these documents written by John Jay, James Madison, and Alexander Hamilton that advocated ratifying the Constitution.
+
+----
+num: 15
+category: History
+difficulty: HS
+fixed: 57
+seen: 421
+answer: {eminent domain} [prompt “{condemnation}” until read]
+
+This practice was the subject of Kelo v. City of New London, a 2005 Supreme Court case involving a now-abandoned Pfizer construction plant. Dummy buyers can make this practice unnecessary. This power, which involves legal condemnation, is limited by Fifth Amendment “public use” and “just compensation” requirements in the Takings Clause. For 10 points, name this power of a government to take private property for development without owners' consent.
+
+----
+num: 16
+category: Trash
+difficulty: HS
+fixed: 57
+seen: 1020
+answer: {Tampa} Bay
+
+This city's football team set an NFL record by losing its first 26 games. The last sports team from this city to win a championship was John Tortella's 2004 hockey team. This city's first sports championship came in Super Bowl 37, when its football team, coached by Jon Gruden, defeated the Oakland Raiders. For 10 points, name this city, home of 2008 Rookie of the Year Evan Longoria, whose sports teams include the Lightning, the Bucs, and the Rays.
+
+----
+num: 17
+category: Fine Arts
+difficulty: HS
+fixed: 1
+seen: 487
+answer: August {Rodin}
+
+This artist created a large cloaked depiction of  Honore de Balzac and was accused of casting from a live model for The Age of Bronze. This artist sculpted Paolo and Francesca kissing and depicted several men with nooses around their necks in The Burghers of Calais. His most famous work sits at the top of a work containing the Three Shades, a massive bronze portal titled The Gates of Hell. For 10 points, name this French mentor of Brancusi and creator of The Thinker.
+
+----
+num: 17
+category: Fine Arts
+difficulty: HS
+fixed: 57
+seen: 494
+answer: August {Rodin}
+
+This artist created a large cloaked depiction of  Honore de Balzac and was accused of casting from a live model for The Age of Bronze. This artist sculpted Paolo and Francesca kissing and depicted several men with nooses around their necks in The Burghers of Calais. His most famous work sits at the top of a work containing the Three Shades, a massive bronze portal titled The Gates of Hell. For 10 points, name this French mentor of Brancusi and creator of The Thinker.
+
+----
+num: 18
+category: Religion
+difficulty: HS
+fixed: 57
+seen: 442
+answer: {Passover} [accept {Pesach}]
+
+Some modern observers of this holiday use an orange to represent excluded women and gays, and its traditional songs include “One Little Goat.” Preceded by the elimination of chametz from houses, its observance on the 15th of Nisan includes the spilling of ten drops of wine and Four Questions asked by the youngest person present. Initiated by the Seder, for 10 points, name this eight-day holiday in which Jews celebrate the exodus from Egypt by eating unleavened matzah.
+
+----
+num: 19
+category: Science
+difficulty: HS
+fixed: 1
+seen: 490
+answer: Szent-Gyorgyi-{Krebs} cycle [or {Krebs}-Szent-Gyorgi {cycle}; accept {citric acid cycle} or {citrate cycle}; prompt on {tricarboxylic acid cycle}]
+
+A molecule important in this process is formed when beta-oxidation breaks down fatty acids, and one step in it produces L-malate from fumarate. Beginning when oxaloacetate and acetyl CoA react, it sends succinate, FADH2, and NADH to the electron transport chain. Pyruvate from glycolysis starts this pathway that occurs in the matrix of the mitochondrion. For 10 points, name this second stage of cellular respiration, often named for a German-born biologist.
+
+----
+num: 20
+category: Geography
+difficulty: HS
+fixed: 1
+seen: 717
+answer: {Buenos Aires}
+
+This city's downtown square was historically the site of marches of the mothers of “los desaparecidos;” that square is the Plaza de Mayo. The Teatro Colón and Casa Rosada are found in this city whose residents are called porteños. This city is the capital of a country that claims ownership of the British-controlled Falkland Islands. For 10 points, name this South American city located across the Rio de la Plata from Uruguay, the capital of Argentina.
+
+----
+num: 21
+category: History
+difficulty: HS
+fixed: 1
+seen: 421
+answer: Republic of the {Philippines} [accept {Pilipinas}]
+
+Prior to this nation's 1986 People Power rebellion, one first lady of this nation bought over 1,000 pairs of shoes. Two earlier rebellions here were led by Emilio Aguinaldo, and Admiral George Dewey won a battle in its capital's bay. Its Corregidor Island fell before the Bataan Death March in this nation during World War II. For 10 points, name this archipelago which fell under American possession following the Spanish-American War, a nation with capital at Manila.

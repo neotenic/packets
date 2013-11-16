@@ -1,0 +1,214 @@
+####
+tournament: MUT
+round: MUT II - Minnesota 2.doc
+year: 2009
+####
+
+num: 1
+category: Literature
+difficulty: College
+fixed: 1
+seen: 60
+answer: Allen {Ginsberg}
+
+One of this man's poems ends with a question regarding a boat disappearing on the “black waters of the Lethe.” Another of his works ends with the comment that he is putting his “queer shoulder to the wheel,” and he updated William Blake in a poem inspired that claims the title flower is not a train. This author of “America” and “Sunflower Sutra,” addressed another poem to Carl Solomon that contains the refrain “I'm with you in Rockland” and whose second section describes the nightmare Moloch. For 10 points, name this American poet who wrote about seeing “the best minds of my generation destroyed” in the long poem Howl.
+
+----
+num: 2
+category: Philosophy
+difficulty: College
+fixed: 1
+seen: 54
+answer: David {Hume}
+
+This man claimed that reason cannot answer moral quandaries and denounced asceticism in one work, and wrote of Philo and Demea's discussion of the cosmological and teleological arguments in another. In another work, this man asks whether moral approval is a rational or emotional response in “Of the Understandings.” This author of An Enquiry Concerning the Principles of Morals and Dialogues Concerning Natural Religion wrote another work that describes the “transgression of the laws of nature” by a Deity in the section “Of Miracles.” For 10 points, name this thinker who wrote A Treatise of Human Nature and An Essay Concerning Human Understanding.
+
+----
+num: 3
+category: Science
+difficulty: College
+fixed: 57
+seen: 78
+answer: the {electric} field [prompt on {E}]
+
+The real portion of the Clausius-Mossoti factor gives the direction of the force that this entity exerts. An oscillating example of this entity produces spectral lines in the effect named for Autler and Townes. This entity is used to control the size of “conductive channels” in a certain type of transistor, often contrasted with a bipolar junction transistor. The presence of this entity causes birefringence in the Kerr effect, and the splitting of spectral lines in the presence of one of these entities is known as the Stark effect. For 10 points, name this entity measured in newtons per coulomb, a field that surrounds point charges and is denoted E.
+
+----
+num: 4
+category: History
+difficulty: College
+fixed: 1
+seen: 68
+answer: Spiro Theodore {Agnew}
+
+This man won an important early political victory by contrasting his views against that of his segregationist opponent, George Mahoney, who used the slogan “Your Home is Your Castle--Protect It.” Upon election, he alienated liberals by ordering the arrest of protesters at Bowie State College and blaming H. Rap Brown and SNCC for the riots in Cambridge in 1967. His conservatism was further seen in a later position, in which he mocked liberals as “nattering nabobs.” This governor of Maryland was selected as a running mate in 1968. For 10 points, name this vice president who resigned in 1973 over a bribery scandal, the first vice-president of Richard Nixon.
+
+----
+num: 5
+category: Fine Arts
+difficulty: College
+fixed: 57
+seen: 69
+answer: Marc {Chagall}
+
+This artist painted a street sweeper and a woman in green holding her hands above her head in The Dead Man, and depicted blue figures and a seven-candle chandelier above a marriage ceremony in The Wedding Candles. One of his paintings shows a white Eiffel Tower behind himself painting, and another shows a man toting a sack an army advancing with red flags, and a burning place of worship around the central dying figure. This artist of White Crucifixion and Self Portrait with Seven Fingers painted some upside-down houses and a sheep facing a green man's face in another work. For 10 points, name this Belarussian who painted I and the Village.
+
+----
+num: 6
+category: Science
+difficulty: College
+fixed: 57
+seen: 78
+answer: {flasks} [prompt on more general answers that imply {containers}]
+
+A typical Dean-Stark apparatus contains two of these entities, one connected to a fractioning column and the other below a tap on a burette. One of these entities is sometimes named for Kitasato, and contains an arm that can be attached to an aspirator. In addition to that type named for Buchner, a version of these entities can have gas introduced into them via a side-arm, in the type named for Schlenk. The Florence type has a round bottom, and the version with vacuum-enclosing walls is named for Dewar. For 10 points, name these common pieces of laboratory glassware, exemplified by the Erlenmeyer type.
+
+----
+num: 7
+category: Literature
+difficulty: College
+fixed: None
+seen: 60
+answer: The {Fall} [or La {Chute}]
+
+At one point in this work, the narrator obtains a stolen panel of the Ghent Altarpiece in a bar called “Mexico City,” which is situated in a red light district likened to the innermost circle of hell by the concentric patterns of Amsterdam's canals. The narrator recounts how he came to be haunted by laughter one evening in the Pont des Arts in Paris, which he later discovers to be his own laughter, and he is ultimately unable to forget an instance in which he failed to assist a drowning woman. For 10 points, name this work about the moral descent of “judge-penitent” Jean-Baptiste Clamence, a work of Albert Camus.
+
+----
+num: 8
+category: Trash
+difficulty: College
+fixed: 1
+seen: 184
+answer: Elizabeth Stamatina “Tina” {Fey}
+
+This person voiced a giant burrito in the Aqua Teen Hunger Force movie. More substantial work saw her play businesswoman Kate Holbrook, who dates a guy played by Greg Kinnear in a 2008 comedy, and for playing math teacher Ms. Norbury in a film she wrote. This actress currently appears on a television program as the best friend of Jenna Maroney, one of the stars of the fictional TV show TGS. For 10 points, name this star of the film Baby Mama and writer of Mean Girls, who plays Liz Lemon on the sitcom 30 Rock and received notoriety last year for her impression of Sarah Palin.
+
+----
+num: 9
+category: History
+difficulty: College
+fixed: 57
+seen: 70
+answer: {Great Yuan} Dynasty [accept {Yuanchao}, {Dai} On {Ulus}, or {Da Yuan Diguo}; prompt on answers that mention {Mongols} and {China} until {given}]
+
+This dynasty adopted a law code called the Yassa and considered "southerners" its lowest class, and it saw the introduction of paper money and Arabic numerals. It finished off its predecessor at the Battle of Yamen and established its capital at Dadu. Problems faced by this dynasty included its costly military campaigns against Java and a successful revolt that saw Zhu Yuanzhang declare himself Hongwu Emperor and found the Ming Dynasty, the Red Turban Rebellion. For 10 points, name this Chinese dynasty that hosted Marco Polo and attempted to invade Japan, but is best known for being founded by the leader of the Mongols, Kublai Khan.
+
+----
+num: 10
+category: Science
+difficulty: College
+fixed: 1
+seen: 82
+answer: {Hardy}-{Weinberg} Equilibrium/Principle/whatever
+
+One of this concept's namesakes names an inequality that is the more general form of Carleman's inequality. A diagram that depicts the results of this principle depicts it as a curved segment on an equilateral triangle named for de Finetti. This principle yields an equation stated as “one equals p-squared plus two-p-q plus q-squared,” and it only holds when disturbing influences like gene flow and non-random mating are not present. For 10 points, name this principle that states that allele and genotype frequencies in a population remain constant, a doubly-eponymous principle from population biology.
+
+----
+num: 11
+category: Fine Arts
+difficulty: College
+fixed: 1
+seen: 73
+answer: {Guggenheim} Museum {Bilbao} [prompt on partial answer]
+
+Near this building is a sculpture consisting of a vertical red rectangle with three circles cut out of it. That Daniel Buren piece is found on the La Salve Bridge, which cuts the eastern tower off from the rest of this building. The plaza in front of this building features a sculpture made entirely of flowers in which terrorists once tried to hide a bomb, Jeff Koons' Puppy. The home of Robert Rauschenberg's mural Barge, its only permanent exhibition, which includes the sculpture Snake, is Richard Serra's Matter of Time. For 10 points, name this boat-shaped building, covered in titanium scales,  near the River Nervion in a Basque city and designed by Frank Gehry.
+
+----
+num: 12
+category: Social Science
+difficulty: College
+fixed: 1
+seen: 49
+answer: The {Theory} of the {Leisure Class}
+
+In this work's introduction, the author mentions Icelandic communities in the time of the Sagas, as well as the Polynesian Islanders. Another section of this work analyzes such groups as the YMCA, while discussing the religious zeal which seems to permeate college athletics. This work concludes with a section on “elegant diction” and “conventional spelling.” Another chapter discusses “the gambling proclivity” and is entitled “The Belief in Luck,” while another chapter of this work describes the wearing of liveries and owning spacious servants quarters. For 10 points, name this work which coined the term “conspicuous consumption,” work by Thorstein Veblen.
+
+----
+num: 13
+category: Religion
+difficulty: College
+fixed: 57
+seen: 62
+answer: {Seder}
+
+One tradition of this name is a celebration of fruits and occurs on a holiday that commemorates the New Year of Trees. In addition that one falling on Tu Bishavt, another ceremony of this name include a dialogue with a wicked character who asks "what does it all mean to you" and the hiding and discovery of the afikomen. Additions to this ceremony's form include songs titled "Who Knows One" and "Next Year in Jerusalem," and that form includes the Four Questions and the story of Exodus and is contained in the Haggadah. For 10 points, identify this ritual meal containing bitter herbs and matzah eaten on Passover.
+
+----
+num: 14
+category: History
+difficulty: College
+fixed: None
+seen: 71
+answer: {Mayor} of {New York City} [prompt on partial answer; accept {logical} equivalents]
+
+The youngest man to hold this position defeated machine politician John Hylan in a World War I era election.  This first holder of this position after the polity it governs was consolidated created its public transportation system and is Robert Van Wyck. In addition to John Mitchel, the first and only black man to serve in this position was David Dinkins. The holder of this position is entitled to live in a house located in Carl Schurz Park, called Gracie Mansion. A former holder of this position co-sponsored a bill with Norris that outlawed yellow dog contracts. For 10 points, name this position  held by people like Fiorello La Guardia, Rudy Giuliani, and Michael Bloomberg.
+
+----
+num: 15
+category: Fine Arts
+difficulty: College
+fixed: None
+seen: 72
+answer: {Ralph Vaughan Williams} [do not accept or prompt on partial last name]
+
+This man adapted A.E. Housman's "Is my team ploughing" into the third part of his song cycle On Wenlock Edge, and he provided six quotes from the Book of Solomon to accompany his suite Flos Campi. "The March Past of the Kitchen Utensils" is the third section of one of his works, while a Meredith poem is the basis for another. In addition to incidental music for The Wasps and The Lark Ascending, he adapted his score for Scott of the Antarctic into his Sinfonia Antarctica and set poems from Leaves of Grass in his first symphony. For 10 points, identify this British composer of A Sea Symphony and fantasias on "Greensleeves" and a Theme of Thomas Tallis.
+
+----
+num: 16
+category: Literature
+difficulty: College
+fixed: 1
+seen: 60
+answer: Federal Republic of {Nigeria}
+
+One author from this country wrote about Adah, who leaves Pussy Cat Mansions.  Another author from this country wrote a novel “in Rotten English.” In addition to the authors of In the Ditch and Sozaboy, another author from this country wrote the poems “Elegy For Alto” and “Heavensgate.” Those authors from this country are Buchi Emecheta, Ken Saro-Wiwa, and Christopher Okigbo. Another author from this country wrote novels like A Man of the People and Anthills of the Savannah. For 10 points, name this country, home to the author of Arrow of God, Chinua Achebe.
+
+----
+num: 17
+category: Science
+difficulty: College
+fixed: 57
+seen: 84
+answer: {ice ages} [accept {glacial ages} or anything that {suggests massive glaciations}]
+
+One of these occurrences is named after Karoo, South Africa. One problem relating to these entities may be partially explained by the Dole Effect, which relates the ratio of oxygen-18 to oxygen-16 based on types of photosynthesis, which could partially explain the hundred-thousand-year problem of them. Their frequency is predicted by Milankovitch cycles, and the most recent one contains divisions named for Wisconsin and Greenland. The most recent one culminated in the LGM, and a so-called “little” one occurred in between 1300 and 1800. For 10 points, name these periods in the earth's history when the planet is covered with lots of frozen water.
+
+----
+num: 18
+category: History
+difficulty: College
+fixed: None
+seen: 68
+answer: {Ivan IV Vasilyevich} [or {Ivan} the {Terrible}]
+
+This man funded a military corps known as the streltsy, which led to the annexations of Kazan and Astrakhan. At one point during this man's rule, he abdicated the throne and was replaced by Simeon Bekbulatovich. Difficulties in his later years included a botched military campaign to retake western Slavic lands in the Livonian War, and the harsh government he created called the oprichnina, a far cry from his earlier Chosen Council. He killed his own son, bringing about the downfall of the Rurik Dynasty. For 10 points, identify this Russian leader who served as the first man to take the title tsar and is best known for his rampant acts of cruelty.
+
+----
+num: 19
+category: Mythology
+difficulty: College
+fixed: None
+seen: 87
+answer: {Krishna} [accept: {Gopinath}, {Govinda}, or {Gopala}]
+
+Abhimanyu, in his mother's womb, overhears this figure describing the tactics behind breaking the "chakra-vyuha" formation to Subhadra, and like Achilles, this figure dies after he is shot in his foot with an arrow by an erring hunter. He also lifts Mount Go-var-dhana to provide shelter for the residents of Vrinadavana, and his best known devotee is Mira Bai. This husband of Rukmini is the eight child of Devaki is exchanged with Yashoda's child by Vasudeva, and this figure kills Devaki's evil cousin Kans. For 10 points, identify this avatar of Vishnu, best known for stealing butter and serving as Arjuna's charioteer when he narrated the Bhagavad Gita.
+
+----
+num: 20
+category: History
+difficulty: College
+fixed: None
+seen: 69
+answer: {Richard} I [accept {Richard} the {Lion}-{Hearted}; or {Richard Coeur} de {Lion}, before mentioned; prompt on {Richard}]
+
+During one of this man's military campaigns, he left the government in the hands of Hubert Walter. Earlier, he had become embroiled in a campaign against the Gascons, who had revolted against his rule, while yet another conflict saw him conquering Messina and forcing a treaty that named Tancred the king of Sicily. He died while besieging the castle at Chalus. This victor over the Saracens at Acre was separated from his wife, Berengaria of Navarre, when he was captured by Duke Leopold, who handed him over to his enemy Henry VI. For 10 points, name this British monarch, who went on the Third Crusade, the brother of John noted for his lion-heartedness.
+
+----
+num: 21
+category: Literature
+difficulty: College
+fixed: 1
+seen: 58
+answer: {Vanity Fair}
+
+One character in this novel dies under unexplained circumstances after he takes out a large insurance policy in his lover's name.  One character's lover has an affair with Sir Pitt, her husband's brother, while he is in jail for gambling debts in this work. In addition to the protagonist's failed marriage with Rawdon Crawley, this novel sees its protagonist meet her best friend at Miss Pinkerton's School, and another character marries George Osborne, although she was loved by Captain Dobbin.  For 10 points, name this novel about Amelia Sedley and Becky Sharp, a work by William Makepeace Thackeray.

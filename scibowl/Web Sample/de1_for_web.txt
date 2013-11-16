@@ -1,0 +1,151 @@
+####
+tournament: Web Sample
+round: de1_for_web.pdf
+####
+
+num: 1
+category: General Science
+difficulty: MS
+seen: 6
+answer: The Chromosphere
+
+What layer of the Sun’s atm osphere is imm ediately interior to the corona?
+
+----
+num: 1
+category: General Science
+difficulty: MS
+seen: 6
+answer: Kilogram and Second
+
+According to the internationally accep ted system of scientific units called the S I system, what are the basic units for m ass and time?
+
+----
+num: 3
+category: Mathematics
+difficulty: MS
+seen: 34
+answer: 360 Degrees
+
+What is the sum of the measures of the exterio rangles in a convex polygon?
+
+----
+num: 3
+category: Mathematics
+difficulty: MS
+seen: 35
+answer: 2 Pi
+
+Given a circle of radius 1 how m any radians are in the circle?
+
+----
+num: 4
+category: Life Science
+difficulty: MS
+seen: 10
+answer: 16
+
+How many teeth are found in the norm al human adult jaw or m andible?
+
+----
+num: 5
+category: Physical Science
+difficulty: MS
+seen: 5
+answer: 12.5 Gram S/milliliter (Accept 12.5 Grams/cm^3)
+
+Calculate the den sity, to the first decimal place, for an object with a m ass of 2500 grams that displaces 200 milliliters of water.
+
+----
+num: 7
+category: Earth Science
+difficulty: MS
+seen: 8
+answer: Paleozoic;  Mesozoic;  Cenozoic  (Must Be in Order)
+
+Name, in order from the oldest to the m ost recent, the three m ajor subdivisions of the Phanerozoic Eon.
+
+----
+num: 8
+category: Mathematics
+difficulty: MS
+seen: 34
+answer: 2, 3, 5, 7, 11
+
+What are the first 5 prim e numbers greater th an 1?
+
+----
+num: 10
+category: Physical Science
+difficulty: MS
+seen: 6
+answer: 45
+
+If acceleration because of gravity is 10 meters per second squared, how many meters will an apple fall in three seconds if friction is ignored and it starts from a resting po sition?
+
+----
+num: 13
+category: Mathematics
+difficulty: MS
+seen: 33
+answer: 9  (Accept “9 to 1,” “9:1 ,” or “9 Over 1”)
+
+If each side of a square is tripled what is the ratio of the area o f the enlarged square to the orig inal square?
+
+----
+num: 13
+category: Mathematics
+difficulty: MS
+fixed: -1
+seen: 35
+answer: 40%
+
+Eighteen of the 30 students in a class are girls. 
+What percen t of the students are boys?
+
+----
+num: 16
+category: General Science
+difficulty: MS
+seen: 6
+answer: The Id
+
+Sigmund Freud proposed the idea that the subconscious mind existed in three separate di visions two of which he called the ego and the superego. W hat was the third?
+
+----
+num: 18
+category: Mathematics
+difficulty: MS
+fixed: -1
+seen: 34
+answer: 1000
+
+The ratio of boys to girls enrolled at Big High 
+School is 2:3. There are 1500 students enrolled. How many are girls?
+
+----
+num: 18
+category: Mathematics
+difficulty: MS
+seen: 32
+answer: 20
+
+How many distinct diagonals are contained within a regular octagon?
+
+----
+num: 20
+category: Physical Science
+difficulty: MS
+seen: 5
+answer: .110
+
+If the atomic weight of manganese is 55, how many kilograms of manganese, to the third decimal place will con tain two moles of m anganese atoms?
+
+----
+num: 24
+category: Life Science
+difficulty: MS
+seen: 11
+answer: The Anther (Accept: Stamen)
+
+What male reproductive part of a plant produces pollen ?

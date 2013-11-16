@@ -1,0 +1,194 @@
+####
+tournament: NTSS
+round: finals phase 2.pdf
+year: 2010
+####
+
+num: 1
+category: Science
+difficulty: HS
+fixed: 57
+seen: 486
+answer: {thermite} reaction [or {thermit} reaction]
+
+One version of this reaction, the Ames process, was used to purify uranium during the Manhattan Project, while the nano- type frequently ends with the reduction of molybdenum-6-plus. A mixture of potassium permanganate and glycerol often provides the activation energy for this reaction, which its discoverer, Hans Goldschmidt, originally used to weld railroad tracks. This reaction is notoriously difficult to smother since its metal oxide reactant yields a constant supply of oxygen, explaining why the U.S. Coast Guard has used this reaction to fragment icebergs. Generating tem- peratures up to 2500 degrees Celsius, name this chemical reaction that in its most common form, combines aluminum powder with rust to produce molten iron.
+
+----
+num: 2
+category: Literature
+difficulty: HS
+fixed: 57
+seen: 446
+answer: {Timon} of {Athens}
+
+In one scene in this play, the title character is called a beast, a toad, too bad to curse, and the cap of all the fools alive. A servant in this play who claims that he bleeds inwardly for his lord is eventually recognized as a singly honest man. This contrasts with a man freed from jail who is referred to early in this work as Honest Ventidius. This work opens with a poet, painter, and jeweler selling their goods to the title character, and it ends with the title character, af- ter he has gone broke and then found gold, being praised by Alcibiades (al-sih-BIE-uh-dees). Name this Shakespeare play set in Ancient Greece.
+
+----
+num: 3
+category: Fine Arts
+difficulty: HS
+fixed: 57
+seen: 501
+answer: Samuel Osborne {Barber} II
+
+One group of songs by this composer includes “The Heavenly Banquet”, based on translations by Sean O'Faolain of medieval Irish poetry. The violin concerto by this composer begins its second section with an extended oboe solo, and its third section, labeled Presto in moto perpetuo, caused Iso Briselli not to premier it. In addition to Hermit Songs, this composer wrote two works he titled Essays for Orchestra. This composer's most famous work, which begins with a B flat played by the violins, was premiered by Arturo Toscanini in 1938 and became associated with state fu- nerals starting with the death of Franklin Roosevelt. Name this composer of Adagio for Strings.
+
+----
+num: 4
+category: Science
+difficulty: HS
+fixed: 1
+seen: 486
+answer: {transitive} property [accept word forms, {e.g. transitivity} ]
+
+A group action has this property if it is possible to find an element of the group that takes any element of the set to any other. This adjective precedes the word “closure” to describe a graph that contains edges between any two vertices that are connected. Like reflexivity, this property of binary relations is an essential quality to both preorders and par- tially ordered sets. One of the three properties of equivalence relations, it also applies to relations such as implication, set containment, and inequality; the other two properties of equivalence relations are reflexivity and symmetry. Name this property, an example of which is the statement that if x equals y and y equals z, then x equals z.
+
+----
+num: 5
+category: History
+difficulty: HS
+fixed: 57
+seen: 416
+answer: Battle of {Fredericksburg}
+
+The outcome of this battle probably was determined by a seventeen day wait by Union forces for supplies to build pontoon bridges, allowing Confederate forces to set up artillery at points such as Telegraph Hill and Howison Hill. Union attacks such as the one led by Edwin Sumner and William Franklin were easily turned back by troops under James Longstreet and Stonewall Jackson. The Union plan to advance on Richmond was halted at this battle on the Rappahannock River, harming the reputation of General Ambrose Burnside. Name this battle that lasted five days in December, 1862.
+
+----
+num: 6
+category: Science
+difficulty: HS
+fixed: 1
+seen: 493
+answer: {electroweak unification} [accept other words after “electroweak”, accept answers describing a combination
+
+This accomplishment was calculated by crossing a special unitary group with determinant two with the first uni- tary group. Its first major confirmation was the discovery of neutral currents in experiments involving neutrinos at CERN in 1974, which led to Nobel Prizes being awarded to Salam, Glashow, and Weinberg. It was further con- firmed by the discovery of the W and Z bosons. Widely considered the biggest success of the Standard Model, re- search is still being conducted to discover why those bosons have mass but photons do not, and how spontaneous symmetry breaking took place as the universe cooled after the Big Bang. Name this achievement that physicists hope will one day be expanded to include the strong nuclear and gravitational forces.
+
+----
+num: 7
+category: Literature
+difficulty: HS
+fixed: 57
+seen: 455
+answer: “Ode to a {Nightingale}”
+
+The narrator of this poem admits that many times he has “been half in love with easeful Death” and is jealous of a creature that has “never known the weariness, the fever, and the fret.” He also connects himself to sailors listening through casements, Ruth, and emperors and clowns because they hear the same sound, and he later wonders whether “it was a vision or a waking dream.” This poem begins, “My heart aches, and a drowsy numbness pains my sense,” and it tells its subject that it “wast not born for death.” Name this work by John Keats addressed to an “immortal bird.”
+
+----
+num: 8
+category: Science
+difficulty: HS
+fixed: 1
+seen: 486
+answer: {Poisson} distribution [accept {Poisson processes}]
+
+Inter-event times for this distribution follow the exponential distribution, and its moment-generating function is proportional to e to the t, quantity minus one. The sum of variables with this distribution itself follows this distribu- tion; that result is its reproductive property. This distribution applies when the question of how many events have not occurred has no meaning, and when the product of the number of trials with the probability remains fixed as the number of trials goes to infinity, it approximates the binomial distribution; that approximation is good for many trials with small probability of success. Its mean and variance are both equal to its single parameter, and its mass function at x for a parameter mu is e to the minus mu times mu to the x, over x factorial. Name this distribution used to model waiting times for arrivals, named for a Frenchman.
+
+----
+num: 9
+category: History
+difficulty: HS
+fixed: -1
+seen: 412
+answer: Entente Cordiale [accept Cordial {Understanding}; prompt on anything reasonable that mentions cor-
+
+The first test of this two-nation alliance was the First Moroccan Crisis. It originated with three documents, in- cluding one dealing with Newfoundland and another with Siam. The primary document that set this alliance con- tained nine public and five secret articles focused on Morocco and Egypt and, to a lesser extent, the role of Spain, which enjoyed positive relations with both of the nations that joined it. This agreement followed state visits by Emile Loubet and Edward VII to each other's countries and, once the Anglo-Russian Entente was completed, it formed a role in defeating the Triple Alliance in World War I. Name this alliance between Great Britain and France.
+
+----
+num: 10
+category: Fine Arts
+difficulty: HS
+fixed: 1
+seen: 493
+answer: The {Tales} of {Hoffmann}
+
+Luther's tavern is the setting for the prologue and epilogue of this opera. In the aria “Scintille, diamant”, the magi- cian Dappertutto bribes a courtesan with a dazzling diamond to seduce the protagonist into giving her his reflection; earlier, that courtesan sings a barcarole with Nicklausse, the protagonist's muse. Another love interest of the protago- nist is a puppet created by Spalanzani; that puppet must be constantly wound up over the course of the “Doll's Song”. In addition to Giulietta and Olympia, the protagonist loves a frail singer, Antonia; recalling those three lost loves con- vinces the very drunk protagonist that he does not love the prima donna Stella. Featuring a Jules Barbier libretto in- spired by short stories such as “Der Sandmann”, name this opera “starring” the author of The Nutcracker, composed by Jacques Offenbach.
+
+----
+num: 11
+category: Literature
+difficulty: HS
+fixed: 1
+seen: 444
+answer: The {Libation Bearers} [or {Choëphoræ}; prompt on The {Oresteia}]
+
+This play contains the line, “Oft for my slaughtered lord I mourn, Chilled by the frost of grief, with secret anguish torn!” It begins at a grave, where a woman prays to see her brother; she sees a lock of his hair before finding him. Much later, that brother hesitates to complete his quest until he is encouraged by Pylades, a servant of Apollo, to fin- ish the job. That quest is to kill Aigisthos and then kill the siblings' mother Clytemnestra. Identify this Aeschylus work that comes between Agamemnon and The Eumenides in The Oresteia.
+
+----
+num: 12
+category: History
+difficulty: HS
+fixed: 1
+seen: 413
+answer: {Cherokee} Nation/Tribe
+
+In 1791, this group received farm tools for signing the Treaty of Holston. At the beginning of the Civil War, this group signed a treaty at Park Hill with the Confederacy, and these Native Americans supported the Confederacy un- der the leadership of William Holland Thomas and Stand Watie. Earlier, Chief John Ross unsuccessfully tried to bring a case to the Supreme Court in 1831 to settle what he saw as a boundary dispute with Georgia, but a more fa- vorable ruling was made a year later. This tribe's Eastern headquarters are at the Eastern end of the Great Smoky Mountains. Name this tribe that went from Red Clay, Tennessee to Tahlequah, Oklahoma, becoming the last one forced to follow the Trail of Tears.
+
+----
+num: 13
+category: Science
+difficulty: HS
+fixed: None
+seen: 488
+answer: endospores [prompt on {spores}]
+
+The discovery of these cells by Ferdinand Cohn helped disprove the theory of spontaneous generation, and, unlike cysts, these cells form internally rather than grow on the cell wall. Those produced by the genus Clostridium contrib- ute to the severest form of food poisoning, while biowarfare with anthrax requires the airborne disperal of these cells. Able to remain dormant for centuries, and resistant to UV rays, dessication, high temperature, and chemical disinfec- tants, identify these thick-coated bacterial cells that can survive long exposure to harsh environments.
+
+----
+num: 14
+category: Philosophy
+difficulty: HS
+fixed: 57
+seen: 514
+answer: {Meditations} on First Philosophy [or {Meditationes} de {prima philosophia} or {Méditations Metaphysiques},
+
+The sixth and final one of these essays distinguishes between understanding and imagination and proves the exis- tence of material things based on the fact that God is no deceiver. The third essay in this collection argues for the exis- tence of God because it is the only possible creator of myself. Its second essay states that the only three possible ways to understand wax are by sense, imagination, or mind alone before eliminating sense and imagination as possibilities. That essay also answers the question as to what kind of thing the writer is with the answer “a thinking thing”. Name this work completed by René Descartes between his Discourse on Method and his Principles of Philosophy.
+
+----
+num: 15
+category: Literature
+difficulty: HS
+fixed: 1
+seen: 440
+answer: Harry “{Rabbit}” {Angstrom} [accept any part or combination of {parts}]
+
+This man's final word, delivered in a Florida hospital, is, “Enough.” He is the father of Rebecca, who dies as an in- fant, and Annabelle Byer, whose mother is a prostitute named Ruth Leonard. He also has an affair with Pru, who married his son, a cocaine addict named Nelson. This fictional character spent much of his life in Mount Judge, Penn- sylvania, where he was a high school basketball star. His family was the subject of a novella that was published in 2001, and he was the protagonist in four novels, one of whose titles describes him as rich. Identify this John Updike character.
+
+----
+num: 16
+category: Geography
+difficulty: HS
+fixed: 1
+seen: 720
+answer: Mauritania
+
+This country contains the city of Atar, which is located on the Adrar Plateau. It recently jailed a man from Mali, Omar Sid'Ahmed Ould Hamma, for kidnapping Spanish aid workers and giving them to Al Qaeda. This country's government was overthrown by military coups in 2005 and 2008, removing Ould Taya and Sidi Ould Cheikh Abdal- lahi from office. This nation's Richat Structure appears on sattelite photos to be a bullseye at the Western end of the Sahara. Bordered by Algeria and Mali, this country is between Senegal and Western Sahara. Name this nation cur- rently headed by President Mohamed Ould Abdel Aziz with its capital at Nouakchott.
+
+----
+num: 17
+category: History
+difficulty: HS
+fixed: 1
+seen: 414
+answer: {Alexander I} Pavlovich of Russia [prompt on partial answer; accept {Alexander} the {Blessed}]
+
+This Russian leader employed Ioannis Kapodistrias, who became the first leader of the First Hellenic Republic, which became the modern nation of Greece. According to legend, he was convinced to become a mystic by Baroness Barbara Juliana von Kriüdener, so he moved to Siberia and changed his identity to Fyodor Kuzmich after faking his death. Historians also argue about whether or not he knew about the assassination plot that brought him to power against his father Paul the First. This leader increased Russian territory during the Finnish War and became King of Poland according to the Congress of Vienna. Name this Tsar during the Napoleonic Wars.
+
+----
+num: 18
+category: Science
+difficulty: HS
+fixed: -1
+seen: 485
+answer: {Cambrian} period
+
+The beginning of this period is marked by the appearance of Treptichnus pedum trace fossils, and the Hawke Bay event signaled an abrupt drop in global sea level in the middle of this period. The Phanerozoic eon began in this pe- riod, whose rocks were first classified by Adam Sedgwick. This period is known for its rich abundance of lagerstatten, with brachiopods as the second most prevalent fossil type, though the best record of this period's fauna is found in British Columbia's Burgess Shale. Having the trilobite as its characteristic fossil, name this period, the first in the Pa- leozoic era, when at least eleven of the present animal phyla evolved in a namesake “explosion”.
+
+----
+num: 19
+category: Fine Arts
+difficulty: HS
+fixed: 57
+seen: 489
+answer: Jean-Honoré {Fragonard}
+
+Early in his career, this painter did serious historical and religious works such as Jeroboam Sacrificing to the Idols. This painter worked on a series which generally showed a blonde-haired woman wearing white or yellow clothes being pursued by a man usually wearing red in works such as The Pursuit, The Meeting, and The Lover Crowned; that series is The Progress of Love. Another work by this artist shows a man holding a woman in one arm as he reaches with his other hand to bolt the door, and another work shows a young girl in yellow sitting and reading a small book. This art- ist also showed a man in white lying on the ground holding up an object towards a woman dressed in bright pink who is kicking off her shoes. Name this Rococo and Neoclassicist French painter of The Swing.

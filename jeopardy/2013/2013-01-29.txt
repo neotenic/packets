@@ -1,0 +1,446 @@
+####
+tournament: #6532
+round: Show #6532 - Tuesday, January 29, 2013
+year: 2013
+date: 2013-01-29
+####
+
+num: 1
+category: History
+difficulty: 200
+seen: 5
+answer: San Francisco
+
+"S" is for this city where giants dwell.
+
+----
+num: 2
+category: Literature
+difficulty: 200
+seen: 4
+answer: Steve Jobs
+
+In this man's bio: "The enterprise he started in his parents' garage became the world's most valuable company".
+
+----
+num: 3
+category: History
+difficulty: 200
+seen: 4
+answer: Billy Graham
+
+This evangelist was knighted in 2001 by the British ambassador on behalf of the queen.
+
+----
+num: 4
+category: History
+difficulty: 200
+seen: 6
+answer: the Kentucky Derby
+
+Held at Churchill Downs, it's popularly known as the "Run for the Roses".
+
+----
+num: 5
+category: Literature
+difficulty: 200
+seen: 4
+answer: teeth
+
+Sharks can have as many as 5 rows of these, which fall out & grow back.
+
+----
+num: 6
+category: Literature
+difficulty: 200
+seen: 4
+answer: baggage
+
+Many airlines now charge a fee to check any amount of this.
+
+----
+num: 7
+category: History
+difficulty: 400
+seen: 5
+answer: Philadelphia
+
+"P" is for this city, brother.
+
+----
+num: 8
+category: Literature
+difficulty: 400
+seen: 4
+answer: (Robert) Ludlum
+
+You must remember Eric van Lustbader's "The Bourne Imperative" is based on a character created by this man.
+
+----
+num: 9
+category: History
+difficulty: 400
+seen: 4
+answer: Spielberg
+
+In 2001 the queen's list of new knights included this director of "Schindler's List".
+
+----
+num: 10
+category: History
+difficulty: 400
+seen: 4
+answer: the Tour de France
+
+It's held over a 3-week period in July & covers more than 2,000 miles before ending in Paris.
+
+----
+num: 11
+category: Literature
+difficulty: 400
+seen: 4
+answer: a king snake
+
+large North American.
+
+----
+num: 12
+category: Literature
+difficulty: 400
+seen: 4
+answer: bugging
+
+Mary, Mary why you doing this to a room by putting in a hidden microphone?.
+
+----
+num: 13
+category: History
+difficulty: 600
+seen: 4
+answer: Carson City
+
+"CC" is for this state capital.
+
+----
+num: 14
+category: History
+difficulty: 600
+seen: 4
+answer: Teddy Kennedy
+
+In 2009, 6 months before his death, this giant of Massachusetts politics got a knighthood.
+
+----
+num: 15
+category: History
+difficulty: 600
+seen: 4
+answer: the Daytona 500
+
+Held annually in Florida, it was the first NASCAR race to be televised nationally from start to finish.
+
+----
+num: 16
+category: Literature
+difficulty: 600
+seen: 4
+answer: goggles
+
+Large spectacles with protective rims used to prevent eye injuries.
+
+----
+num: 17
+category: History
+difficulty: 800
+seen: 4
+answer: West Point
+
+"W" is for this home of cadets.
+
+----
+num: 18
+category: History
+difficulty: 800
+seen: 4
+answer: the Soapbox Derby
+
+This "All-American" competition was inspired by 3 boys in the 1930s racing homemade engineless cars down an incline.
+
+----
+num: 19
+category: Literature
+difficulty: 800
+seen: 4
+answer: a gila monster
+
+Growing up to two feet long,.
+
+----
+num: 20
+category: Literature
+difficulty: 800
+seen: 4
+answer: a gold digger
+
+2-word term for a woman who weds chiefly for financial gain; now I ain't sayin' she's one.
+
+----
+num: 21
+category: History
+difficulty: 1000
+seen: 5
+answer: Charlotte
+
+A "C" on gold coins stands for this city named for George III's queen.
+
+----
+num: 22
+category: Literature
+difficulty: 1000
+seen: 4
+answer: George R.R. Martin
+
+In addition to "A Feast of Crows", this novelist penned the short story collection "Songs the Dead Men Sing".
+
+----
+num: 23
+category: History
+difficulty: 1000
+seen: 4
+answer: Watson
+
+This American who helped find the double helix of DNA was double tapped.
+
+----
+num: 24
+category: History
+difficulty: 1000
+seen: 4
+answer: Hobart
+
+A world famous yacht race takes place annually from Sydney to this capital of Tasmania.
+
+----
+num: 25
+category: Literature
+difficulty: 1000
+seen: 4
+answer: cones
+
+In trees such as pines & firs, the seeds form in these.
+
+----
+num: 26
+category: Literature
+difficulty: 1000
+seen: 4
+answer: eggnog
+
+Alton Brown's recipe for this Christmastime beverage includes Bourbon.
+
+----
+num: 27
+category: History
+difficulty: 400
+seen: 4
+answer: Altoids
+
+The tins that house.
+
+----
+num: 28
+category: Art
+difficulty: 400
+seen: 4
+answer: (Edvard) Munch
+
+The influence of Toulouse-Lautrec & Gauguin can be seen in this Norwegian's "The Scream".
+
+----
+num: 29
+category: Literature
+difficulty: 400
+seen: 4
+answer: l\'chaim
+
+This Jewish drinking toast means "to life".
+
+----
+num: 30
+category: History
+difficulty: 400
+seen: 4
+answer: the Marshall plan
+
+In 1949 Moscow set up a council for economic mutual assistance to rival this "plan" of U.S. aid to Europe.
+
+----
+num: 31
+category: Geography
+difficulty: 400
+seen: 7
+answer: Ecuador
+
+A country in South America.
+
+----
+num: 32
+category: Art
+difficulty: 800
+seen: 3
+answer: Seurat
+
+His 1883-84 "Une Baignade, Asnières" is seen.
+
+----
+num: 33
+category: Literature
+difficulty: 800
+seen: 4
+answer: semper fidelis
+
+This Latin motto of the U.S. Marine Corps means "always faithful".
+
+----
+num: 34
+category: History
+difficulty: 800
+seen: 4
+answer: Edgar Bergen
+
+Seems odd, but in the 1940s this man's act with Charlie McCarthy was a smash on radio.
+
+----
+num: 35
+category: Geography
+difficulty: 800
+seen: 8
+answer: England
+
+The bard called it "this scepter'd isle".
+
+----
+num: 36
+category: History
+difficulty: 1200
+seen: 5
+answer: Tic-Tacs
+
+alliterative breath fresheners are "less than 2 calories per.
+
+----
+num: 37
+category: Art
+difficulty: 1200
+seen: 5
+answer: Pieter
+
+Artist Jan Brueghel was the son & the brother of artists with   this first name.
+
+----
+num: 38
+category: Literature
+difficulty: 1200
+seen: 4
+answer: Mamma Mia
+
+ABBA can thank the Italians for this phrase used to express surprise, sorrow,  happiness, you name it.
+
+----
+num: 39
+category: History
+difficulty: 1200
+seen: 3
+answer: the Manhattan Project
+
+Created in 1942, this "project" was commanded by general Leslie Groves.
+
+----
+num: 40
+category: Geography
+difficulty: 1200
+seen: 8
+answer: Entebbe
+
+Uganda city of commando raid fame.
+
+----
+num: 41
+category: History
+difficulty: 1600
+seen: 5
+answer: an After Eight
+
+always time for one of.
+
+----
+num: 42
+category: Art
+difficulty: 1600
+seen: 4
+answer: (Marc) Chagall
+
+Some of his paintings include "Jew in Green" & "The Praying Jew" (also called "The Rabbi of Vitebsk").
+
+----
+num: 43
+category: Literature
+difficulty: 1600
+seen: 4
+answer: konichiwa
+
+In Japanese konbanwa means "good evening"; this means "good afternoon".
+
+----
+num: 44
+category: Geography
+difficulty: 1600
+seen: 8
+answer: Ellesmere
+
+Cape Columbia on this island is Canada's northernmost point.
+
+----
+num: 45
+category: History
+difficulty: 2000
+seen: 6
+answer: Icebreakers
+
+mints have round containers; talk to her about that if you can't think of anything to say.
+
+----
+num: 46
+category: Art
+difficulty: 2000
+seen: 6
+answer: Renoir
+
+This impressionist's "Le Moulin de la Galette" shows ordinary people in an open-air dance hall.
+
+----
+num: 47
+category: Literature
+difficulty: 2000
+seen: 6
+answer: Anschluss
+
+German word for a political union, like the one that joined Germany & Austria in 1938.
+
+----
+num: 48
+category: History
+difficulty: 2000
+seen: 5
+answer: Leonard Bernstein
+
+subbed in conducting the New York Philharmonic in November of 1943 and shot to fame.
+
+----
+num: 49
+category: Geography
+difficulty: 2000
+seen: 13
+answer: Elizabethtown
+
+Title Kentucky city of an Orlando Bloom movie.

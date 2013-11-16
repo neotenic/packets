@@ -1,0 +1,321 @@
+####
+tournament: Web Sample
+round: m_round16.pdf
+####
+
+num: 1
+category: Life Science
+difficulty: MS
+answer: Y)  Denatured
+
+Which of the following is the most common term biologists use to indicate that an enzyme has lost its normal 3 -dimensional shape:
+W) virulent
+X) catalyzed
+Y) denatured
+Z) degenerated
+
+----
+num: 2
+category: Physical Science
+difficulty: MS
+answer: W)  a Measure of the Disorder of a System
+
+Which of the following is the BEST description of the thermodynamic term entropy:
+W) a measure of the disorder of a system
+X) the amount of heat in a system
+Y) all energy is conserved 
+Z) heat moving from a warm system and generating work
+
+----
+num: 2
+category: Physical Science
+difficulty: MS
+answer: X)  Light Emitted From a Galaxy That Is Moving Away From 
+Earth Is Shifted to the Red Wavelengths
+
+Which of the following is an example of the Doppler effect:
+W) the higher a sound pitch the slower it travels through a dense medium
+X) light emitted from a galaxy that is moving away from Earth is shifted to the red wavelengths
+Y) sound is louder the closer it is to an observer
+Z) light intensity falls off with the cube of the distance from an observer
+
+----
+num: 3
+category: Earth Science
+difficulty: MS
+answer: X)  the Shape of Landmasses and the Distribution of Fossils
+
+Which of the following did Alfred Wegener study to come up with the theory of continental drift:
+W) remnant magnetism in rock
+X) the shape of landmasses and the distribution of fossils
+Y) altimetry data
+Z) sea floor topography
+
+----
+num: 3
+category: Earth Science
+difficulty: MS
+answer: Z)  Magnetic Surveys of the Seafloor
+
+The interpretatio n of which of the following gave strong and convincing support to the concept of sea -floor spreading:
+W) subsurface crystallography studies
+X) color comparisons of basaltic rock
+Y) fossil studies of benthic organisms
+Z) magnetic surveys of the seafloo r
+
+----
+num: 5
+category: General Science
+difficulty: MS
+answer: Z)   Ursa Major
+
+For people viewing the nights ky from mid-northern latitudes, which of the following constellations would never set below the horizon during the night:
+W) Centaurus
+X) Orion
+Y) Pegasus
+Z) Ursa Major
+
+----
+num: 6
+category: Life Science
+difficulty: MS
+answer: X)  Germs Gain Entry Into Cells by Binding to Receptors Which 
+Are Often Specific to Certain Groups of Organisms
+
+Which of the following is the best explanation as to why germs that infect a certain family of animals will often NOT be able to infect a different family of an imals:
+W) different metabolic pathways exist in different animals
+X) germs gain entry into cells by binding to receptors which are often specific to certain groups of organisms 
+Y) the immune systems of different animals prevents infection of unusual d iseases
+Z) germs reproduce only when genes in a cell allow them
+
+----
+num: 7
+category: Physical Science
+difficulty: MS
+answer: Z)  the Neutron Because It Has No Charge
+
+Which of the following BEST describes what atomic particle was the last to be discovered and why:
+W) the electron because it has very small mass
+X) the proton because it resides in the nucleus
+Y) the proton because it does not have any angular momentum
+Z) the neutron be cause it has no charge
+
+----
+num: 8
+category: Earth Science
+difficulty: MS
+answer: Z)  Evaporation
+
+Which of the following is NOT a key step in the nitrogen cycle:
+W) nitrification
+X) assimilation
+Y) ammonification
+Z) evaporation
+
+----
+num: 8
+category: Earth Science
+difficulty: MS
+answer: X)  Fair Weather With Increasing Cirrus or Cirrostratus 
+Clouds
+
+When lengthy and lasting jet contrails predominate in the sky, which of the following is the most likely forecast:
+W) showers within 24 hours
+X) fair weather with increasing cirrus or cirrostratus clouds
+Y) violent thunderstorms within 24 hours
+Z) overcast with slow clearing
+
+----
+num: 9
+category: Math
+difficulty: MS
+answer: Y)  Z)   X X
+X
+
+Which of the following expressions is NOT a monomial:
+X) W) 321xx^2y
+Y)
+
+----
+num: 10
+category: General Science
+difficulty: MS
+answer: X)  It Must Be Subject to Some Sort of Testing or
+Experimentation
+
+Which of the following is the best basic guide for recognizing a theory as scientific:
+W) it must have a hypothesis that will be proven true
+X) it must be subject to some sort of test ing or experimentation 
+Y) it must be new and able to be proved true in all instances
+Z) the subject with which it deals must be able to be directly observed
+
+----
+num: 10
+category: General Science
+difficulty: MS
+answer: W)  They Are Fat Soluble
+
+Which of the following is NOT true regarding 
+B -vitamins:
+W) they are fat soluble
+X) there are more than 5 different B -vitamins
+Y) niacin is a B-vitamin
+Z) vitamin B -12 is found in meat, milk and eggs
+
+----
+num: 11
+category: Life Science
+difficulty: MS
+answer: Z)  Most of the Dna Sequences in Chromosomes Are Genes
+
+Which of the following is NOT true of genes:
+W) they are a passed from generation to generation through chromosomes
+X) they can come in dominant or recessive forms
+Y) genes often lead to the production of a protein
+Z) most of the DNA sequences in chromosomes are genes
+
+----
+num: 12
+category: Physical Science
+difficulty: MS
+answer: Y)  Brownian Motion
+
+A botanist observes pollen grains suspended in water jittering about in a random fashion. Another scientist observes similar random motion of coal dust on the sur face of another liqu id. These are commonly considered an examples of:
+W) speculative motion
+X) Bose condensation
+Y) Brownian motion
+Z) osmosis
+
+----
+num: 12
+category: Physical Science
+difficulty: MS
+answer: W)  Thermal Energy
+
+With which of the following is Brownian motion mo st directly related:
+W) thermal energy
+X) conservation of mass 
+Y) Dalton’s law
+Z) chemical ionic bonds
+
+----
+num: 13
+category: Earth Science
+difficulty: MS
+answer: W)  Sunlight Reflected Off the Earth’s Surface Onto the Moon
+
+The darker portion of the Moon that faces the Earth in a crescent phase often appears somewhat lighted with a faint grayish glow. Which of the following 
+BEST describes why this happens:
+W) sunlight reflected off the Earth’s surface onto the Moon
+X) afterglow of the Moon’s lighted surface
+Y) an optical illusion
+Z) sunlig ht reflected off interplanetary dust
+
+----
+num: 13
+category: Earth Science
+difficulty: MS
+answer: Y)  It Is Largely Deflected by the Earth’s Magnetosphere
+
+Which of the following best describes what occurs to the solar wind as it approaches close to the pl anet Earth:
+W) it is absorbed by the troposphere and significantly heats the upper atmosphere
+X) it forms cosmic rays that create the Van Allen belts
+Y) it is largely deflected by the Earth’s magnetosphere 
+Z) it causes a shock wave to form, creating what is called a termination shock in the Earth’s ionosphere
+
+----
+num: 15
+category: General Science
+difficulty: MS
+answer: Z)  Nebula
+
+Which of the following is the earliest stage in the birth of a star:
+W) globular cluster 
+X) planetary nebula
+Y) Blue Giant
+Z) nebula
+
+----
+num: 16
+category: Life Science
+difficulty: MS
+answer: X)  Calvin Cyc Le
+
+Which of the following is a set of reactions that do NOT require light and where carbon dioxide is used to make 3 carbon sugar phosphate molecules that are later used to make 6 carbon sugars:
+W) photosystem-two
+X) Calvin cycle
+Y) citric acid cycle
+Z) electron transport
+
+----
+num: 16
+category: Life Science
+difficulty: MS
+answer: W)  Swan Necked Flasks With Boiled and Unboiled Broth
+
+Which of the following instruments did Louis Pasteur use in dispelling the theory of spontaneous generation:
+W) swan necked flasks with boiled and unboiled broth
+X) open and closed jars with rotting meat
+Y) flasks of amino acids and other organic molecules exposed to electric charges
+Z) bacterial cultures inside sterile tubes
+
+----
+num: 17
+category: Physical Science
+difficulty: MS
+answer: W)  the Gas Exerts the Same Pressure on All the Walls of the 
+Container
+
+Which of the foll owing is TRUE of a gas contained in a tall, sealed cylindrical container at 1 atmosphere of pressure and 25ºC:
+W) the gas exerts the same pressure on all the walls of the container
+X) the gas exerts a higher pressure on the top of the container
+Y) the gas exerts a higher pressure on the bottom of the container
+Z) the gas exerts a higher pressure on the sides of the container
+
+----
+num: 18
+category: Earth Science
+difficulty: MS
+answer: Y)  60º
+
+The prevailing westerlies converge an d are caused to rise at which of the following latitudes:
+W) 0º
+X) 30º
+Y) 60º
+Z) 90º
+
+----
+num: 18
+category: Earth Science
+difficulty: MS
+answer: X)  Very Light Winds
+
+The horse latitudes are zones primarily characterized by:
+W) fierce polar winds
+X) very light winds
+Y) rising air masses
+Z) strong tropical downbursts
+
+----
+num: 19
+category: Math
+difficulty: MS
+answer: Y) 6,000 Milliliters at $30.00
+
+Which of the following is the most economical purchase for a given brand of olive oil:
+W) 3 liters at $30.00
+X) 4 quarts at $30.00
+Y) 6,000 milliliters at $30.00
+Z) 1 gallon at $30.00
+
+----
+num: 20
+category: General Science
+difficulty: MS
+answer: W)  Methane Gas Hydrate
+
+Which of the following is a crystalline material found in arctic regions and within relatively shallow marine sediments that is sometimes called “burning ice” and may one day be used as a vast energy source:
+W) methane gas hydrate
+X) liquid hydrogen
+Y) sublimated helium
+Z) coal gas

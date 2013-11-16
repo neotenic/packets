@@ -1,0 +1,329 @@
+####
+tournament: #6160
+round: Show #6160 - Friday, May 27, 2011
+year: 2011
+date: 2011-05-27
+####
+
+num: 1
+category: Literature
+difficulty: 200
+seen: 4
+answer: dog
+
+"Tongue of" one of these best friends.
+
+----
+num: 2
+category: Literature
+difficulty: 200
+seen: 4
+answer: name-drop
+
+Refer to other people in conversation in order to impress those you're talking to.
+
+----
+num: 3
+category: Literature
+difficulty: 200
+seen: 5
+answer: to book
+
+To officially record a charge against an arrestee; do it, Danno.
+
+----
+num: 4
+category: Art
+difficulty: 400
+seen: 4
+answer: Switzerland
+
+This Alpine country's.
+
+----
+num: 5
+category: Literature
+difficulty: 400
+seen: 4
+answer: newt
+
+"Eye of" this amphibian.
+
+----
+num: 6
+category: Literature
+difficulty: 400
+seen: 4
+answer: a gumdrop
+
+Firm candy made of gelatin & covered with sugar.
+
+----
+num: 7
+category: Literature
+difficulty: 600
+seen: 4
+answer: wolf
+
+"Tooth of" this carnivore that can be timber or gray.
+
+----
+num: 8
+category: Literature
+difficulty: 600
+seen: 4
+answer: backdrop
+
+Painted cloth hanging at the rear of a stage.
+
+----
+num: 9
+category: Trash
+difficulty: 600
+seen: 5
+answer: Buddy Holly
+
+...and the Crickets.
+
+----
+num: 10
+category: Art
+difficulty: 800
+seen: 5
+answer: Frida Kahlo
+
+Artwork brought to China for the expo included a van Gogh, a Gauguin, and a.
+
+----
+num: 11
+category: Literature
+difficulty: 800
+seen: 4
+answer: bat
+
+"Wool of" one of these flyers.
+
+----
+num: 12
+category: Literature
+difficulty: 800
+seen: 4
+answer: at the drop of a hat
+
+Perhaps a slippery sombrero inspired this phrase meaning "on a moment's notice".
+
+----
+num: 13
+category: Literature
+difficulty: 800
+seen: 4
+answer: a billy club
+
+There's a first name in this term for a policeman's heavy nightstick.
+
+----
+num: 14
+category: Literature
+difficulty: 1000
+seen: 4
+answer: frog
+
+"Toe of" this amphibian.
+
+----
+num: 15
+category: Literature
+difficulty: 1000
+seen: 4
+answer: dropsy
+
+It's an old medical term for edema, the abnormal swelling of body tissue.
+
+----
+num: 16
+category: Literature
+difficulty: 1000
+seen: 4
+answer: a gendarme
+
+If you need a policeman in Marseilles, ask for one of these.
+
+----
+num: 17
+category: Trash
+difficulty: 1000
+seen: 5
+answer: Bob Marley
+
+...and the Wailers.
+
+----
+num: 18
+category: History
+difficulty: 400
+seen: 4
+answer: Swedish massage
+
+Effleurage is a light gliding stroke used in this hands-on type of spa treatment.
+
+----
+num: 19
+category: Science
+difficulty: 400
+seen: 7
+answer: 144
+
+Number of simians in a Bruce Willis time travel movie squared.
+
+----
+num: 20
+category: Literature
+difficulty: 400
+seen: 4
+answer: a summit
+
+In 1985 Reagan & Gorbachev met in Geneva in this type of diplomatic meeting.
+
+----
+num: 21
+category: History
+difficulty: 400
+seen: 4
+answer: McCormick
+
+In 1831 at age 22, he tried his hand at building a reaper.
+
+----
+num: 22
+category: Literature
+difficulty: 400
+seen: 4
+answer: a stagehand
+
+Someone who moves props or lighting for a theatrical production.
+
+----
+num: 23
+category: History
+difficulty: 800
+seen: 4
+answer: a Dutch oven
+
+It's basically a big kettle with a close-fitting lid, used to cook pot roasts & stews.
+
+----
+num: 24
+category: Literature
+difficulty: 800
+seen: 4
+answer: acme
+
+A fictional co. that may or may not help in roadrunner chasing, or a word from the Greek for "highest point".
+
+----
+num: 25
+category: History
+difficulty: 800
+seen: 3
+answer: (Joseph)McCarthy
+
+His colleagues in the senate had the decency to censure him, at long last, on Dec. 2, 1954.
+
+----
+num: 26
+category: Literature
+difficulty: 800
+seen: 4
+answer: diagnose
+
+To identify an illness via medical exam.
+
+----
+num: 27
+category: History
+difficulty: 1200
+seen: 5
+answer: the Belgian Congo
+
+Leopoldville was the capital of this colony that existed from 1908 to 1960.
+
+----
+num: 28
+category: Literature
+difficulty: 1200
+seen: 4
+answer: peak
+
+The point formed in the hairline in the middle of the forehead is a "widow's" this.
+
+----
+num: 29
+category: History
+difficulty: 1200
+seen: 4
+answer: (Mitch) McConnell
+
+You don't have to picture this Republican senator; he's seen.
+
+----
+num: 30
+category: Literature
+difficulty: 1200
+seen: 3
+answer: a bootleg
+
+Smugglers who hid booze in their footwear gave rise to this adjective for something made or sold illicitly.
+
+----
+num: 31
+category: History
+difficulty: 1600
+seen: 5
+answer: (Robert) McNamara
+
+This '60s secretary of defense passed away in July 2009.
+
+----
+num: 32
+category: Literature
+difficulty: 1600
+seen: 4
+answer: an urchin
+
+A spiky sea critter, or a mischievous boy.
+
+----
+num: 33
+category: History
+difficulty: 2000
+seen: 5
+answer: Greek revival
+
+The Elgin marbles helped establish this architectural style, based on 5th century B.C. works.
+
+----
+num: 34
+category: Science
+difficulty: 2000
+seen: 8
+answer: minus five or negative five
+
+Number preceding "Pick Up" in a Roy Scheider film minus Wesley Snipes' "Passenger" number in a 1992 movie.
+
+----
+num: 35
+category: Literature
+difficulty: 2000
+seen: 5
+answer: Zenith
+
+This TV-making brand got its start in 1918 making radio equipment in Chicago.
+
+----
+num: 36
+category: History
+difficulty: 2000
+seen: 6
+answer: (John) McAdam
+
+This 18th century Scotman invented a form of pavement.

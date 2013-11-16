@@ -1,0 +1,214 @@
+####
+tournament: HSAPQ NSC 1
+round: Round_13_HSAPQ_NSC1.pdf
+year: 2008
+####
+
+num: 1
+category: Fine Arts
+difficulty: HS
+fixed: 1
+seen: 489
+answer: The Death of General {Wolfe}
+
+In the left background of this painting, a steeple rises above a cloud of smoke, and a man holding a letter rushes towards the foreground. On the right, two men with clasped hands look at the central figure while one man holds his left arm, one stands over him with a giant flag, and one stuffs a white cloth into his chest. A crouching Native American stares at the title red-uniformed man, and guns litter the ground of the Plains of Abraham. For 10 points, name this painting by Benjamin West which shows the death of a British general during the French and Indian War.
+
+----
+num: 2
+category: Social Science
+difficulty: HS
+fixed: 1
+seen: 389
+answer: {memories} [or {memory}; or {clear}-{knowledge} equivalents; or short-term {memory} before
+
+In Alan Baddeley's model of this concept, a "central executive" supervises three "slave systems." Atkinson and Shiffrin proposed a three-stage model of this concept, while a study asking subjects about the assassination of John F. Kennedy demonstrated that emotions helped create the flashbulb type. According to Elizabeth Loftus, almost all repressed ones are actually false ones. They result from the encoding, storage, and recall of information. For 10 points, name these mental properties whose types include sensory, long-term, and short-term.
+
+----
+num: 3
+category: History
+difficulty: HS
+fixed: 1
+seen: 412
+answer: Prince Klemens Wenzel von {Metternich}
+
+This man attended the Conference of Altenburg after succeeding Johann Philipp Stadion, and he traveled to South Africa after being forced to resign. He headed up a regency council when Holy Roman Emperor Francis II died and left Ferdinand as king of his country. He held his most power when signing the Treaty of Paris in 1814 and bringing Alexander I, Castlereagh and Talleyrand together to create a new European balance after the exile of Napoleon. For 10 points, name this Austrian statesman who chaired the Congress of Vienna.
+
+----
+num: 4
+category: Literature
+difficulty: HS
+fixed: 1
+seen: 445
+answer: {Dorian Gray} (accept either)
+
+He's not Hector Berlioz, but he falls in love with an actress after seeing her performance in Romeo and Juliet. Revealing himself only as “Prince Charming”, he rebuffs her after a terrible performance, leading to her suicide. James Vane learns the truth while investigating that suicide, but is shot before he can accuse this man. He also blackmails Alan Campbell into covering up the murder of Basil Hallward, before committing suicide by stabbing a portrait of himself. For 10 points, name this man who stays young as his picture ages in an Oscar Wilde novel.
+
+----
+num: 5
+category: History
+difficulty: HS
+fixed: 1
+seen: 413
+answer: Gandhi
+
+One person of this surname won an election with the slogan “Garibi Hatao” or “Abolish Poverty,” and formed a splinter wing of her political party known by her first initial. That person declared “The Emergency” and imprisoned opponents of the Congress Party before being assassinated by Sikh bodyguards in 1984. Another person of this surname was killed by Tamil Tigers in 1991 while attempting to win election as prime minister. For 10 points, Indira and Rajiv, the descendants of Jawaharlal Nehru, shared what name with Mahatma?
+
+----
+num: 6
+category: Science
+difficulty: HS
+fixed: 57
+seen: 483
+answer: {platelets} [or {thrombocytes}]
+
+One variant of pre-eclampsia, the HELLP syndrome, is characterized by a reduced number of these entities. A significant role in angiogenesis is played by a growth factor derived from them, and these entities function in signaling cytokines and often correspond with the receptor GP IIb or IIba. Their best known function is mediated by the hormone thrombopoietin, and these bodies often contain von Willebrand factors. Fibrin is absent during hemophilia, which results from the improper function of, for 10 points, what cytoplasmic bodies involved in blood clotting?
+
+----
+num: 7
+category: Mythology
+difficulty: HS
+fixed: 1
+seen: 790
+answer: Midas
+
+He once disagreed with Omphale's husband, the mountain god Tmolus, about the results of a contest between the god to whom he was devoted, Pan, and Apollo. He was adopted by Gordias and Cybele, and later became king of Phyrgia himself, or at least the city of Pessinus. Once given the ears of an ass, this figure attended to a drunk satyr, Silenus, and bathed in the river Pactolus. For 10 points, identify this king who has a certain power of transfiguration.
+
+----
+num: 8
+category: Science
+difficulty: HS
+fixed: 1
+seen: 482
+answer: arrays
+
+These structures have amortized insert cost of “big O of 1” despite having to be periodically resized. Due to their constant lookup time, they are often used instead of linked lists to implement data structures such as hash tables and queues. In C they can be dynamically allocated with malloc, and they function by automatically implementing pointer arithmetic. The multi-dimensional types are useful for storing matrices, and they are generally accessed with square brackets. For 10 points, name these data structures that store multiple elements by index.
+
+----
+num: 9
+category: Literature
+difficulty: HS
+fixed: 57
+seen: 448
+answer: {Main Street}
+
+In this novel, a librarian asserts it is her duty to preserve books in an argument over getting more people to read at the Jolly Seventeen club. The protagonist of this work takes her son Hugh to Washington state, and attempts to produce Androcles and the Lion, but members of the Thanatopsis club instead choose The Girl from Kankakee. The protagonist of this work scandalized her husband Will by redecorating his Victorian House. Centering on Carol Kennicott's attempts to bring culture to Gopher Prairie, for 10 points, name this novel by Sinclair Lewis.
+
+----
+num: 10
+category: Trash
+difficulty: HS
+fixed: -1
+seen: 1033
+answer: {FedEx} [or {Federal Express}]
+
+The fictional character Chuck Noland worked for this company, which names the arena where Tyreke Evans plays home games. This primary sponsor of Denny Hamlin's #11 car also names the facility where Rudy Gay plays home games. Ken Jennings incorrectly answered this company instead of H&R Block during a notable Final Jeopardy. In 2004, Kinko's was bought by this company that sponsors the Orange Bowl. For 10 points, name this Memphis-based shipping company that is also the namesake of the stadium where Robert Griffin III and the Washington Redskins play home games.
+
+----
+num: 11
+category: Science
+difficulty: HS
+fixed: 1
+seen: 483
+answer: benzene
+
+Substituting two of this molecule's hydrogen atoms with –OH groups can lead to such compounds as the antiseptic catechol, and the antioxidant hydroquinone. Substitution with one –OH group and one – COOH group leads to salicylic acid, while substituting a hydrogen with a methyl group results in toluene. This simplest aromatic hydrocarbon has formula C6H6. For 10 points, name this organic compound whose structure was famously discovered when Frederick Kekule dreamt of a snake eating its own tail.
+
+----
+num: 12
+category: Geography
+difficulty: HS
+fixed: -1
+seen: 716
+answer: Kingdom of {Sweden}
+
+In the north of this country, the Torne River forms part of its eastern border, and the city of Umea is the largest. With its highest point at Kebnekaise, this nation controls the islands of Oland and Gotland, while its largest bodies of water include lakes Vattern and Vanern. Home to large cities including Uppsala, Malmo and Gothenburg, this country is bordered on the south by the Oresund strait and the Kattegat, and to its east lies the Gulf of Bothnia. For 10 points, name this Scandinavian country with capital at Stockholm.
+
+----
+num: 13
+category: Trash
+difficulty: HS
+fixed: 1
+seen: 925
+answer: Alec {Guinness}
+
+This man's first film role came as Herbert Pocket in Great Expectations, and Peter Ustinov claimed he was “the outstanding poet of anonymity.” In a 1949 film, this man plays a sufragette who is killed when the protagonist shoots an arrow through her hot air balloon that she is flying pro-vote messages from. In addition to playing eight heirs to a fortune in Kind Hearts and Coronets, this man has played a character named Yevgraf, whose line, “Ah, then, it's a gift,” concludes the film Dr. Zhivago. For 10 points, name this British actor who played Colonel Nicholson in Bridge on the River Kwai.
+
+----
+num: 14
+category: History
+difficulty: HS
+fixed: 1
+seen: 419
+answer: Lucius Cornelius {Sulla} Felix [accept {Felix} before mentioned]
+
+He gained political power with the marriage to his fourth wife, Caecilia Metella, and he was replaced in the Asian command by Lucius Valerius Flaccus. He instituted the Lex Cornelia Majestatis, a treason law, and his victory at the Colline Gate solidified his power. During the invasion of Cimbri, he was transferred to the service of Quintus Lutatius Catulus, and in 88 BCE, he was placed in command in the war against Mithradates. For 10 points name this dictator of Rome and rival of Gaius Marius who assumed the name Felix.
+
+----
+num: 15
+category: Literature
+difficulty: HS
+fixed: 57
+seen: 442
+answer: {Winesburg}, {Ohio}
+
+One character in this work organizes the local baseball club and plays first base with constant thrill. Another character keeps small balls of paper in his pockets. In addition to Joe Welling and Dr. Reefy, a priest in this work sees Kate praying naked through a hole in his stained glass window. Wing Biddlebaum and Jesse Bentley are other characters in this work, which begins comparing people to misshapen apples in “The Book of the Grotesque.” For 10 points, name this work about George Willard's eventual escape from the title town, written by Sherwood Anderson.
+
+----
+num: 16
+category: Fine Arts
+difficulty: HS
+fixed: 57
+seen: 496
+answer: Hector {Berlioz}
+
+His inspiration from Cherubini can be found in his recently rediscovered Messe solennelle, which was reused in his Te Deum. This man's Requiem is scored for an orchestra with four brass bands at different ends of the stage. One of his works for viola and orchestra is based on a Byron poem and is entitled Harold in Italy. Another of this works uses an idée fixe to represent a love interest, and includes the section “March to the Scaffold.” For 10 points, name this French composer of Symphonie Fantastique.
+
+----
+num: 17
+category: History
+difficulty: HS
+fixed: 57
+seen: 428
+answer: the formation of West {Virginia} [or the secession of West {Virginia} from {Virginia}; accept
+
+This action was ratified by Congress only due to the Willey Amendment. The Declaration of the People, which proclaimed this, announced the formation of the “Restored Government.” John Carlile's convention at Clarksburg had resolved to perform this action, which involved fifty counties and was orchestrated by those who left the 1861 Secession Convention in protest. Supported by the small farmers and abolitionists who were antagonistic towards the Richmond government, for 10 points, name this 1863 event that broke a former slave state in two.
+
+----
+num: 18
+category: Literature
+difficulty: HS
+fixed: 57
+seen: 444
+answer: Italo {Calvino}
+
+This man's short story "A King Listens" is found in his collection Under the Jaguar Sun. One novel by this man centers on a group of mute travelers telling stories with Tarot cards, and another is titled after the hiding place of Pin. In addition to Castle of Crossed Destinies and Path to the Nest of Spiders, this man wrote a "heraldic trilogy" that begins with The Cloven Viscount, and a second-person novel which stars The Reader. For 10 points, identify this Italian author of Cosmicomics, Invisible Cities, and If on a winter's night a traveler.
+
+----
+num: 19
+category: History
+difficulty: HS
+fixed: 1
+seen: 420
+answer: {Tokugawa} Ieyasu [or Matsudaira Jirosaburo Motonobu; or Matsudaira Kurandonosuke
+
+William Adams, known as the “pilot of Miura”, served as advisor to this man, who first saw battle against Suzuki Shigeteru. Captured en route to Sumpu, this man was held hostage in the Manshoji Temple for three years after which he was traded to Imagawa Sessai. He was victorious at the battles of Komaki and Nagakute, as well as at Temmokuzan, Anegawa, and Nagashino with his mentor Oda Nobunaga. For 10 points, name this victor of the Battle of Sekigahara over supporters of Hideyoshi, the unifier of Japan and namesake of a Shogunate.
+
+----
+num: 20
+category: Science
+difficulty: HS
+fixed: 1
+seen: 484
+answer: ? [read as {mu}]
+
+A quantity represented alternately by nu and this letter is found in Sutherland's formula. Another quantity represented by this letter is the quotient of the magnetic flux density and the magnetic field; with a certain subscript, it multiplies I in the most common version of Ampere's Law. In addition to viscosity and magnetic permeability, this letter also represents the coefficient of friction. For 10 points, name this Greek letter that also represents the prefix “micro-.”
+
+----
+num: 21
+category: Mythology
+difficulty: HS
+fixed: 1
+seen: 784
+answer: {mirrors} [accept equivalents; prompt on "{reflections}"]
+
+One god associated with these items had his foot eaten by Cipactli and was known as the “smoking obsidian” type. In addition to Tezcatlipoca, another goddess associated with these objects was tricked into coming out of a cave after some jewels and one of these were tied to a tree, and is the Shinto sun goddess Ameterasu. For 10 points, name this type of surface, a watery one of which prompted Narcissus to fall in love with himself.

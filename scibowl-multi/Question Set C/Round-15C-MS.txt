@@ -1,0 +1,224 @@
+####
+tournament: Question Set C
+round: Round-15C-MS.pdf
+####
+
+num: 1
+category: Physical Science
+difficulty: MS
+answer: Y)  Single Replacement
+
+When magnesium and zinc bromide are combined, zinc and magnesium bromide are formed according to the reaction, Mg + ZnBr^2 ! Zn + MgBr^2. Which of the following types of reactions has occurred:
+W) synthesis 
+X) combustion
+Y) single replacement
+Z) double replacement
+
+----
+num: 4
+category: General Science
+difficulty: MS
+answer: W)  Astronomer
+
+Which of the following types of scientists would most likely use interferometry in their experiments:
+W) astronomer 
+X) plastics engineer
+Y) chemical engineer
+Z) microbiologist
+
+----
+num: 4
+category: General Science
+difficulty: MS
+answer: X)  Linking Multiple Telescopes on Earth by Computers
+
+Which of the following is currently the MOST popular method of making very large telescopes with immense abilities to detect very faint light sources in deep outer space:
+W) launching large parts of telescopes and assembling them in outer space
+X) linking multiple telescopes on Earth by computers
+Y) using a new form of ceramic glass to pour mirrors with diameters greater than 15 meters
+Z) usi ng ultra-light carbon-fiber reinforced mirrors
+
+----
+num: 5
+category: Life Science
+difficulty: MS
+answer: Z)  the Original Plant Was Homozygous but Gary Cannot Know 
+for Sure Whether It Is a Dominant or Recessive Color
+
+Gary the gardener raises a species of annual flowers that can produce pink or white flowers. Gary buys a pot of white flowers and plants them in his garden and each successive year saves only that year’s generation of seeds to plant the next year. Over many generations of years of flowers Gary only ever sees white flowers. Which of the following is the 
+BEST explanation for this breeding pattern:
+W) the original plant was homozygous dominant
+X) the original plant was homozygous recessive
+Y) the original plant was heterozygous for both colors
+Z) the original plant was homozygous but Gary cannot know for sure whether it is a dominant or recessive color
+
+----
+num: 6
+category: Physical Science
+difficulty: MS
+answer: Y)  Certain Buffers Will Absorb Hydrogen Ions to Prevent a 
+Change in a Solution’s Ph
+
+Which of the following statements is TRUE of buffers:
+W) all neutral pH solutions have equal numbers of buffers
+X) hydronium ions are present in large amounts in most buffers
+Y) certain buffers will absorb hydrogen ions to prevent a change in a solution’s pH
+Z) buffers are artificial chemicals rarely found in nature
+
+----
+num: 7
+category: Earth Science
+difficulty: MS
+answer: W)  Paleomagnetic Data
+
+What type of data ultimately convinced geologists that 
+Wegener’s theory of continental drift was correct:
+W) paleomagnetic data 
+X) well-preserved dinosaur fossils in Antarctica 
+Y) detailed sonar imaging of the mid-Atlantic ridge
+Z) direct sampling and analysis of mantle material
+
+----
+num: 7
+category: Earth Science
+difficulty: MS
+answer: X)  P-Waves
+
+Which of the following seismic waves causes rock particles to move back and forth in the same direction as the wave is moving, much like the wave propagation in an outstret ched spring that is hit on one end:
+W) L-waves
+X) P-waves
+Y) S-waves
+Z) T-waves
+
+----
+num: 9
+category: General Science
+difficulty: MS
+answer: Y)  the Critical Angle of Refraction Is Exceeded
+
+Which of the following must occur for total internal reflection to occur:
+W) the angle of incidence equals the angle of reflection
+X) dispersion of all wavelengths of light
+Y) the critical angle of refraction is exceeded
+Z) polarized light must be used
+
+----
+num: 10
+category: Life Science
+difficulty: MS
+answer: Z)  Upper Left Abdomen Just Under the Lower Left Ribs
+
+Which of the following is the BEST description for the location of the human spleen:
+W) lower right abdomen just above the hip bone
+X) upper right abdomen just under the lower right ribs
+Y) lower left abdomen just above the hip bone
+Z) upper left abdomen just under the lower left ribs
+
+----
+num: 11
+category: Physical Science
+difficulty: MS
+answer: X)  a Mixture of Different Substances That Never Settle Out of 
+Solution
+
+Which of the following is the BEST description of a colloid:
+W) a homogeneous mixture of uniform particles in solution
+X) a mixture of different substances that never settle out of solution
+Y) ionized particles in suspension
+Z) unfilterable suspended solutions
+
+----
+num: 12
+category: Earth Science
+difficulty: MS
+answer: Z)  the Tropopause Is Lower at the Equator Than at the North 
+Pole
+
+Which of the following is NOT true about Earth’s atmosphere:
+W) carbon monoxide is found in trace amounts in Earth’s atmosphere at sea level
+X) nitrogen and oxygen make up nearly 99% of Earth’s atmosphere at sea level
+Y) temperatures in parts of the stratosphere are nearly as warm as they are on Earth 
+Z) the tropopause is lower at the equator than at the north pole
+
+----
+num: 14
+category: General Science
+difficulty: MS
+answer: W)  Blue Giant
+
+Which of the following stars would have the hottest surface temperature:
+W) Blue Giant 
+X) Red Supergiant
+Y) red dwarf
+Z) brown dwarf
+
+----
+num: 15
+category: Life Science
+difficulty: MS
+answer: Z)  Sieve Tube Cells
+
+Which of the following are the sugar transporting cells of the phloem in flowering plants:
+W) tracheids
+X) collenchyma
+Y) vessel elements 
+Z) sieve tube cells
+
+----
+num: 16
+category: Physical Science
+difficulty: MS
+answer: Z)  a Phase Change Cannot Be Reversed
+
+Which of the following is NOT true about phase changes in substances:
+W) energy is exchanged during a phase change
+X) sublimation is a type of phase change involving solids
+Y) freezing is an exothermic phase change 
+Z) a phase change cannot be reversed
+
+----
+num: 17
+category: Earth Science
+difficulty: MS
+answer: X)  Marble
+
+There are 4 new statues in a park in New York city. The statue composed of which of the following materials will most likely deteriorate by chemical weathering the quickest:
+W) granite
+X) marble
+Y) slate
+Z) schist
+
+----
+num: 18
+category: Math
+difficulty: MS
+answer: W)  Z)  Y = X^2 – 2
+Y  = –X^2
+
+Which of the following is the equation of a parabola whose graph opens downward:
+Y) W) 
+X) yy y= = =xx–^2^3 x+ 2^2
+
+----
+num: 19
+category: General Science
+difficulty: MS
+answer: Z)  Refrigerator
+
+Which of the following household objects is an example of a heat pump:
+W) electric baseboard heater
+X) plasma TV
+Y) microwave
+Z) refrigerator
+
+----
+num: 20
+category: Life Science
+difficulty: MS
+answer: W)  Cellular Maturation Into Specialized Cells
+
+Differentiation of cells during plant development is MOST commonly associated with:
+W) cellular maturation into specialized cells
+X) enlargement of cells without specialization
+Y) division of cells without specialization
+Z) allowing cells to recognize other cells

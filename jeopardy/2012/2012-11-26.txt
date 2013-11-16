@@ -1,0 +1,311 @@
+####
+tournament: #6486
+round: Show #6486 - Monday, November 26, 2012
+year: 2012
+date: 2012-11-26
+####
+
+num: 1
+category: History
+difficulty: 200
+seen: 5
+answer: Charles Addams
+
+This cartoonist died in not particularly macabre fashion Sept. 29, 1988.
+
+----
+num: 2
+category: Art
+difficulty: 200
+seen: 5
+answer: a pouch
+
+It's what a baby wallaby rides in.
+
+----
+num: 3
+category: Trash
+difficulty: 200
+seen: 6
+answer: "Smooth"
+
+1999, Santana & Rob Thomas:.
+
+----
+num: 4
+category: History
+difficulty: 400
+seen: 4
+answer: Charles Lindbergh
+
+You might say he took that final solo flight from Maui Aug. 26, 1974.
+
+----
+num: 5
+category: Art
+difficulty: 400
+seen: 4
+answer: a scabbard
+
+A sheath to hold your dagger or sword.
+
+----
+num: 6
+category: Trash
+difficulty: 400
+seen: 6
+answer: "Shout"
+
+1985, Tears for Fears:.
+
+----
+num: 7
+category: History
+difficulty: 600
+seen: 4
+answer: (Charles) Richter
+
+The world of seismology was shaken when he passed on Sept. 30, 1985.
+
+----
+num: 8
+category: Trash
+difficulty: 600
+seen: 5
+answer: "War"
+
+1970, Edwin Starr:.
+
+----
+num: 9
+category: Literature
+difficulty: 600
+seen: 4
+answer: Soldier Field
+
+This is the stadium where the Bears play, but please don't put an "s" on the end.
+
+----
+num: 10
+category: History
+difficulty: 800
+seen: 4
+answer: Goodyear
+
+He vulcanized rubber but bounced out of the world a poor man July 1, 1860.
+
+----
+num: 11
+category: Art
+difficulty: 800
+seen: 4
+answer: a bassinet
+
+From the French for "small basin", it's a basketlike container for an infant.
+
+----
+num: 12
+category: Trash
+difficulty: 800
+seen: 5
+answer: "Paparazzi"
+
+2009, Lady Gaga:.
+
+----
+num: 13
+category: History
+difficulty: 1000
+seen: 5
+answer: Charles Atlas
+
+This man who muscled his way into the world as Angelo Siciliano in 1892 left his well-built body Dec. 23, 1972.
+
+----
+num: 14
+category: Art
+difficulty: 1000
+seen: 4
+answer: a jerry can
+
+Named by the Brits after the Germans who created it, it's the two-word name for the 5-gallon container seen.
+
+----
+num: 15
+category: Trash
+difficulty: 1000
+seen: 4
+answer: "Physical"
+
+1981, Olivia Newton-John:.
+
+----
+num: 16
+category: Literature
+difficulty: 1000
+seen: 4
+answer: Grant Park
+
+downtown park is known as Chicago's front yard; it was the place to be for 125,000 of our friends on Election Night 2008.
+
+----
+num: 17
+category: Literature
+difficulty: 400
+seen: 4
+answer: a red-letter day
+
+Church calendars once marked festivals in a certain color, hence this term for a special day.
+
+----
+num: 18
+category: Social
+difficulty: 400
+seen: 6
+answer: manslaughter
+
+"The unlawful killing of a human being without malice aforethought", it may be involuntary.
+
+----
+num: 19
+category: History
+difficulty: 400
+seen: 4
+answer: Spain
+
+Though born in what's now Slovenia, Don Carlos was a 19th c. pretender to this country's throne.
+
+----
+num: 20
+category: History
+difficulty: 400
+seen: 4
+answer: Peru
+
+The Andes cover about 25% of it.
+
+----
+num: 21
+category: Literature
+difficulty: 800
+seen: 4
+answer: the witching hour
+
+This term for midnight implies it's the time to bring out the broom & pointy hat.
+
+----
+num: 22
+category: History
+difficulty: 800
+seen: 4
+answer: Pakistan
+
+An Islamic republic.
+
+----
+num: 23
+category: Literature
+difficulty: 1200
+seen: 4
+answer: Happy New Year
+
+"An nou fericit" is the Romanian equivalent of this annual English phrase.
+
+----
+num: 24
+category: Social
+difficulty: 1200
+seen: 4
+answer: obscene (or obscenity)
+
+The "state of being morally abhorrent or socially taboo" in depicting sex, such as in pornography.
+
+----
+num: 25
+category: History
+difficulty: 1200
+seen: 4
+answer: Norway
+
+King Inge the Hunchback of this country had to battle the pretender Haakon the Broad-Shouldered.
+
+----
+num: 26
+category: History
+difficulty: 1200
+seen: 5
+answer: Portugal
+
+Uses the euro as its currency.
+
+----
+num: 27
+category: Literature
+difficulty: 1600
+seen: 4
+answer: Hell Week
+
+In 1950 an Alpha Tau Omega master changed one letter in this to create a do-gooding "Help Week".
+
+----
+num: 28
+category: Social
+difficulty: 1600
+seen: 5
+answer: hearsay
+
+"Testimony that is given by a witness who relates not what he or she knows personally, but what others have said".
+
+----
+num: 29
+category: History
+difficulty: 1600
+seen: 4
+answer: Bonnie Price Charlie
+
+Charles Stuart, the 18th c. "Young Pretender" to the British throne, was better known by this handsome-sounding nickname.
+
+----
+num: 30
+category: History
+difficulty: 1600
+seen: 4
+answer: the Philippines
+
+Pacific land named for a 16th century king.
+
+----
+num: 31
+category: Literature
+difficulty: 2000
+seen: 5
+answer: the century plant
+
+agave gets its name from lo-o-o-ng time it takes to bloom.
+
+----
+num: 32
+category: Social
+difficulty: 2000
+seen: 5
+answer: mitigating (or extenuating circumstances)
+
+This circumstance "reduces the degree of culpability and thus may reduce the damages... or the punishment".
+
+----
+num: 33
+category: History
+difficulty: 2000
+seen: 6
+answer: Louis de Bourbon
+
+In the 21st century Henri d'Orleans & Louis de this were rival claimants to the nonexistent title King of France.
+
+----
+num: 34
+category: History
+difficulty: 2000
+seen: 6
+answer: Poland
+
+It borders Belarus.

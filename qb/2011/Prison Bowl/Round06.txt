@@ -1,0 +1,214 @@
+####
+tournament: Prison Bowl
+round: Round06.doc
+year: 2011
+####
+
+num: 1
+category: Social Science
+difficulty: HS
+fixed: 1
+seen: 379
+answer: David {Ricardo}
+
+Joseph Schumpeter criticized this thinker’s abstract reasoning and labelled it his namesake vice. He made his fortune in arbitrage of government securities during the Napoleonic Wars, and described the economic advantage of land used to its most productive capacity in his Principles of Political Economy and Taxation. In addition to his Law of Rent, this economist also used the trade of English cloth for Portuguese wine to describe his most famous principle. For 10 points, name this 19th-century British economist who described the theory of comparative advantage and argued against the Corn Laws.
+
+----
+num: 2
+category: Fine Arts
+difficulty: HS
+fixed: 1
+seen: 492
+answer: Maurice {Ravel}
+
+One work by this composer features a B-flat octave ostinato and is titled after the gallows, while another work is based on an Aloysius Bertrand poem about a water sprite. This composer of Le Gibet and Ondine, part of his piece for solo piano Gaspard de la Nuit, also composed a “choreographic symphony" about a goatherd and shepherdess, in  his ballet, Daphnis et Chloé. Ida Rubenstein commissioned a work by this man featuring a steadily increasing orchestra crescendo alongside an ostinato snare drum. For 10 points, name this composer of Boléro.
+
+----
+num: 3
+category: Geography
+difficulty: HS
+fixed: 57
+seen: 710
+answer: {Scotland} or {Alba} [prompt on {Scottish Highlands} until it is mentioned]
+
+Arram forms one end of a boundary fault dividing this region, and off its shore lies the isle of Skye. It partially contains the Cheviot Hills and some of its tallest mountains are in the Cairngorms. Its Grampian Mountains include the tallest peak in this region, Ben Nevis. Its largest subdivision is divided by a fault extending from Fort William to Inverness, the Great Glen. This region's largest island is Lewis and Harris, located in the Outer Hebrides. Partially divided into the Southern Uplands, Central Lowlands, and the Highlands, for 10 points, name this country of the United Kingdom, home to cities such as Glasgow and Edinburgh.
+
+----
+num: 4
+category: Literature
+difficulty: HS
+fixed: 57
+seen: 448
+answer: Kate {Chopin}
+
+In one short story by this author, Bobinot and Bibi purchase a can of shrimps for Calixta, and in another, Louise Mallard celebrates her husband's death but dies upon being told that he is alive. This author of "The Storm" and "The Story of an Hour" created a work where the title character's mother is adopted by the Valmondes, "Desiree's Baby." In her most famous work, the pianist Madamoiselle Reisz advises the protagonist, who has an affair with Alcee Arobin and is abandoned by Robert Lebrun. For 10 points, name this creator of Edna Pontellier and author of The Awakening.
+
+----
+num: 5
+category: Philosophy
+difficulty: HS
+fixed: 57
+seen: 519
+answer: Ludwig {Wittgenstein}
+
+One work about this thinker discusses his “skeptical solution” to the rule-following paradox and was written by Saul Kripke. This man once asked Karl Popper to state an example of a "moral law," to which Popper replied, "Not to threaten visiting lecturers with pokers." This thinker introduced the “beetle in a box” experiment and introduced a language with words like "pillar" and "slab." He put forth the "picture theory of language," and wrote about the private language argument and the language-game in his Philosophical Investigations. For 10 points, name this author of Tractatus Logico-Philosophicus.
+
+----
+num: 6
+category: Science
+difficulty: HS
+fixed: 1
+seen: 488
+answer: {entropy}
+
+The von Neumann form of this concept is given in terms of the trace of a density matrix times its log. The Sackur-Tetrode equation gives this quantity extensively, avoiding the Gibbs paradox. Defined as the Boltzmann constant times natural log of the number of microstates, it is multiplied by temperature in the expression for Gibbs free energy. Maxwell's hypothetical demon purports to lowers this quantity. Symbolized by the letter S, its tendency to increase is dictated by the second law of thermodynamics. For 10 points, name this quantity, a measure of a system's disorder.
+
+----
+num: 7
+category: History
+difficulty: HS
+fixed: 1
+seen: 422
+answer: William Henry {Seward}
+
+This man defeated William Marcy to become governor of his state, and was previously a member of the Anti-Masonic party. He successfully appealed the conviction of William Freeman, and opposed the Fugitive Slave Act despite supporting Zachary Taylor. The leader of the Conscience Whigs, he had the support of Thurlow Weed and Tammany Hall, though Horace Greeley's betrayal led to his defeat in the Republican National Convention of 1859. For 10 points, name this governor of New York chosen by Abraham Lincoln as his Secretary of State, a man whose “folly” was the purchase of Alaska.
+
+----
+num: 8
+category: Fine Arts
+difficulty: HS
+fixed: 57
+seen: 488
+answer: {Hudson River} School [accept {Luminism} before it is mentioned]
+
+One branch of this art movement produced the painting Eaton’s Neck, by John Kensett, an adherent of Luminism. One work associated with this movement depicts a small cross by a waterfall. In addition to Heart of the Andes, this movement yielded the painting The Voyage of Life and one that depicts William Cullen Bryant with his friend, the artist of The Oxbow and The Course of Empire. That painting is Kindred Spirits by Asher Durand. For 10 points, name this art movement including Frederick Church and Thomas Cole, whose paintings often featured landscapes of its namesake body of water.
+
+----
+num: 9
+category: Science
+difficulty: HS
+fixed: 57
+seen: 480
+answer: matrix {determinant}
+
+This is the only alternating multilinear function, up to a constant factor. This function can be expressed in terms of the sign function of elements in the symmetric group, as in the Leibniz formula. Using the Laplace expansion, it can be computed via expansion by minors. This function appears in the formula for a characteristic polynomial, as well as in Cramer's rule. It equals 0 if and only if the matrix is non-invertible, and it equals 1 for an identity matrix. For 10 points, name this value associated with a square matrix, which for a 2 by 2 matrix is calculated as ad minus bc.
+
+----
+num: 10
+category: Literature
+difficulty: HS
+fixed: 57
+seen: 444
+answer: {Fathers} and {Sons}
+
+One character in this novel meets his love interest through the feminist Kukshina. That character’s love interest kisses him on the head before he dies of typhus contracted during an autopsy. One character is invited to Kolyazin's ball and another meets Sitnikov, who arrives uninvited at Anna Odintsov's. In this novel, Pavel is shot in the leg in a duel while his father Nikolai marries Fenitchka, and his brother marries Katya Odintsov. Centering on Arkady Kirsanov and the nihilist Bazarov, for 10 points, name this novel by Ivan Turgenev.
+
+----
+num: 11
+category: History
+difficulty: HS
+fixed: 1
+seen: 422
+answer: {Pliny} the {Elder} [prompt on {Pliny}]
+
+This man continued a work of Aufidius Bassus, which was cited heavily in Germania by Tacitus. This man was a procurator of several provinces in Tunisia and Spain, and served as a commander in Germania, after which he claimed to have been a messmate of Titus. He described techniques of gold mining in the largest surviving Roman-era work. Before his death he proclaimed, according to his nephew of the same name, that "Fortune favors the bold," and then took a boat to Herculaneum. For 10 points, name this Roman author of Natural History who died attempting to rescue a friend during the eruption of Vesuvius.
+
+----
+num: 12
+category: Trash
+difficulty: HS
+fixed: 1
+seen: 1031
+answer: {banana} [accept {bananas}]
+
+The plural form of this word names a 2003 Deep Purple album and a 2009 documentary film set in Nicaragua. A film with this name stars Louise Lasser and Woody Allen. A giant one of these is on an album cover with songs like "Sunday Morning" and "Heroin"; that album was The Velvet Underground and Nico. One band with this word in its name released a song with the lyrics "I'm your Venus, I'm your fire." In the name of that band, this word precedes   “-rama.” This word also appears in the name of a clothing retailer owned by Gap. For 10 points, name this yellow fruit with a slippery peel.
+
+----
+num: 13
+category: Mythology
+difficulty: HS
+fixed: 1
+seen: 783
+answer: {Aeneas}
+
+This figure was a son of Aphrodite and a minor prince, a nephew to King Priam. He was attacked by Diomedes and later by Achilles, and killed 28 people. One of his lovers burnt his belongings and then killed herself on the pyre, cursing him forever, while Juno sent that lover an easy death. He killed Turnus and married Lavinia, and this man became the ancestor of Remus and Romulus, who eventually founded Rome. For 10 points, name this prince of Troy, who shacked up with with Dido for a year before leaving her to go to Italy.
+
+----
+num: 14
+category: Literature
+difficulty: HS
+fixed: 1
+seen: 443
+answer: Yasunari {Kawabata}
+
+This man wrote a novella in which a man talks to and ultimately decides to keep an object he had borrowed, a woman's right arm. Many of his short stories are collected in Palm-of-the-Hand Stories. In one work by this man, a family patriarch, Shingo, hears noises that he takes as omens of death, including the title Sound of the Mountain. His most famous work centers on the ballet critic Shimamura, who takes a train to the title location, where he has an affair with Komako, a geisha. For 10 points, name this author of Snow Country.
+
+----
+num: 14
+category: Literature
+difficulty: HS
+fixed: 1
+seen: 453
+answer: Yasunari {Kawabata}
+
+This man wrote a novella in which a man talks to and ultimately decides to keep an object he had borrowed, a woman's right arm. Many of his short stories are collected in Palm-of-the-Hand Stories. In one work by this man, a family patriarch, Shingo, hears noises that he takes as omens of death, including the title Sound of the Mountain. His most famous work centers on the ballet critic Shimamura, who takes a train to the title location, where he has an affair with Komako, a geisha. For 10 points, name this author of Snow Country.
+
+----
+num: 15
+category: History
+difficulty: HS
+fixed: 57
+seen: 424
+answer: Battle of {Sedan}
+
+This battle resulted from an attempt to relieve a besieged army that had been defeated in the Battle of Gravelotte, Marshal Bazaine’s Army of the Rhine. Although the winning side used inferior needle guns, this battle was decided by the superiority of Krupp field artillery, which would later be used to besiege Paris. In this battle, the Third Army and Meuse Army encircled the Army of Chalons. Helmuth von Moltke defeated and captured Napoleon III, leading to the collapse of the Second French Empire. For 10 points, name this decisive battle of the Franco-Prussian War.
+
+----
+num: 16
+category: Science
+difficulty: HS
+fixed: -1
+seen: 495
+answer: {esters}
+
+The phenyl type of these compounds are converted to hydroxy aryl ketones in the Fries rearrangement, and Dieckmann and Claisen condensations occur between these compounds. Under basic conditions, they can be hydrolyzed to form soaps, as triglycerides are examples of these compounds. They can be produced by refluxing the reagents with a sulfuric acid catalyst in a reaction named for Fischer. Characterized by a carbon atom single-bonded to one oxygen atom and double-bonded to another, they are often fruity-smelling. For 10 points, name these organic compounds formed in the reaction of a carboxylic acid with an alcohol.
+
+----
+num: 17
+category: Fine Arts
+difficulty: HS
+fixed: 1
+seen: 499
+answer: Alfred {Stieglitz}
+
+This man created a series showing clouds called Equivalents, while his later work usually depicted the busy streets of New York. He depicted poor passengers on the boat Kaiser Wilhelm II in The Steerage, and met Edward Steichen at the First Chicago Photographic Salon. Along with F Holland Day, this man led the Photo-Secession movement. One of the first to exhibit Ansel Adams’s works, for 10 points, name this photographer who also made nude pictures of his wife, Georgia O'Keefe.
+
+----
+num: 18
+category: History
+difficulty: HS
+fixed: 57
+seen: 418
+answer: {Heian} period
+
+During this period, a religious sect centered around Mahavairocana and founded by Kukai came to prominence, and was known Shingon Buddhism. A major noble family in this period fell from power during the reign of Go-Sanjo, and was later defeated in the Hogen Rebellion. That family was the Fujiwara, who had controlled the emperors of this period as hereditary regents. Their successors, the Taira family, were defeated at Dan-no-Ura by Minamoto no Yoritomo, leading to the foundation of the first shogunate. It is named after its capital at modern-day Kyoto. For 10 points, name this early period of Japanese history.
+
+----
+num: 19
+category: Literature
+difficulty: HS
+fixed: 57
+seen: 450
+answer: The Tragedy of {Macbeth}
+
+Thomas de Quincey wrote an essay about the event that opens this play's Act II, Scene 3. After Malcolm and Donalbain flee, the title character hires three men to kill Fleance, but he escapes. This play’s "Tomorrow and tomorrow and tomorrow" soliloquy is delivered after the main female character’s commits suicide, having earlier tried to wash out a "damned spot." While an army disguised as Birnam Wood approaches Dunsinane, the title character is defeated by Macduff. For 10 points, name this Shakespeare tragedy in which the title character kills Duncan and becomes king of Scotland.
+
+----
+num: 20
+category: Science
+difficulty: HS
+fixed: 57
+seen: 484
+answer: cell {membrane} or {plasma membrane}
+
+The phosphatidylserine (“foss-fuh-tie-dil-ser-een”) in this structure is redistributed by scramblases and flippases, which facilitate the transverse diffusion of its components. SNARE complexes and clathrin coats facilitate one of its functions. During apoptosis, localized decoupling of this structure leads to blebbing. Components of this structure include G protein-coupled receptors, aquaporins, sodium-potassium pumps, and ion channels. Described by the fluid mosaic model, this structure consists of a phospholipid bilayer. In plants, this semipermeable structure is found just inside the cell wall. For 10 points, name this organelle marking the boundary of a cell.

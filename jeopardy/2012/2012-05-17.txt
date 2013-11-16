@@ -1,0 +1,302 @@
+####
+tournament: #6379
+round: Show #6379 - Thursday, May 17, 2012
+year: 2012
+date: 2012-05-17
+####
+
+num: 1
+category: Art
+difficulty: 200
+seen: 4
+answer: Andrew Jackson
+
+Thomas Sully painted the portrait of this man that's the basis for the $20 bill.
+
+----
+num: 2
+category: Art
+difficulty: 200
+seen: 4
+answer: duffle
+
+Military folk carry personal items in this large, cylindrical 6-letter "bag".
+
+----
+num: 3
+category: Art
+difficulty: 200
+seen: 4
+answer: Sonny Bono
+
+He entered Congress in 1995, 30 years after he & Cher topped the pop charts.
+
+----
+num: 4
+category: Literature
+difficulty: 200
+seen: 4
+answer: black comedies
+
+Term for films like "Catch-22" & "Dr. Strangelove", which juxtapose morbid elements with farce.
+
+----
+num: 5
+category: Trash
+difficulty: 400
+seen: 4
+answer: Sheryl Crow
+
+In the '90s she took wing with the album "Tuesday Night Music Club" & the hit "All I Wanna Do".
+
+----
+num: 6
+category: Art
+difficulty: 400
+seen: 4
+answer: Renoir
+
+This Impressionist painter was the father of Jean, director of "The Rules of the Game".
+
+----
+num: 7
+category: Art
+difficulty: 400
+seen: 4
+answer: a garment bag
+
+Frequent travelers appreciate the tri-fold feature of Tumi's Presidio model of this bag.
+
+----
+num: 8
+category: Literature
+difficulty: 400
+seen: 4
+answer: Deadwood
+
+Ann Charles sets creepy novels in this morbid-sounding South Dakota city.
+
+----
+num: 9
+category: Art
+difficulty: 400
+seen: 5
+answer: Hannukah
+
+Look out, Adam Sandler!  Senator Orrin Hatch's many songs include "Eight Days Of" this.
+
+----
+num: 10
+category: Trash
+difficulty: 600
+seen: 5
+answer: Lent
+
+Ash Wednesday is the first day of this religious period.
+
+----
+num: 11
+category: Art
+difficulty: 600
+seen: 4
+answer: a buffalo
+
+In depicting Native Americans, George Catlin often painted this beast, as in "Assiniboine Indians Pursuing" it "on Snowshoes".
+
+----
+num: 12
+category: Literature
+difficulty: 600
+seen: 4
+answer: Dr. No
+
+He's Ian Fleming's title "doctor".
+
+----
+num: 13
+category: Art
+difficulty: 600
+seen: 4
+answer: the barbershop quartet
+
+The 1998 album "Let Freedom Sing" is by The Singing Senators quartet, who specialized in this non-hair-raising vocal style.
+
+----
+num: 14
+category: Literature
+difficulty: 600
+seen: 4
+answer: Blackbeard
+
+Queen Anne's Revenge was this pirate's ship.
+
+----
+num: 15
+category: Literature
+difficulty: 800
+seen: 4
+answer: Scott Turow
+
+You presumed right if you think you're looking at.
+
+----
+num: 16
+category: Literature
+difficulty: 800
+seen: 5
+answer: the Blackfeet
+
+The Siksika are part of this Native American Confederacy.
+
+----
+num: 17
+category: Trash
+difficulty: 400
+seen: 4
+answer: the 
+
+In 2012 this encyclopedia announced it was discontinuing its 244-year-old print version & going online only.
+
+----
+num: 18
+category: History
+difficulty: 400
+seen: 4
+answer: Joe McCarthy
+
+A 1950s senator who saw red:.
+
+----
+num: 19
+category: Literature
+difficulty: 400
+seen: 4
+answer: darling
+
+A term of endearment, like for my Clementine.
+
+----
+num: 20
+category: History
+difficulty: 400
+seen: 4
+answer: a net
+
+A purse seine is a huge one of these that takes many fishermen (or a power block) to haul out of the water.
+
+----
+num: 21
+category: Trash
+difficulty: 800
+seen: 4
+answer: Amazon
+
+In 2011 this online retailer announced that its sales of e-books exceeded its sales of hardbacks & paperbacks.
+
+----
+num: 22
+category: Literature
+difficulty: 800
+seen: 3
+answer: darts
+
+The inner bull's eye is commonly worth 50 points in this game.
+
+----
+num: 23
+category: History
+difficulty: 800
+seen: 3
+answer: garbage
+
+In the mid-1990s New York City broke the 40-year dominance of organized crime in the hauling of this.
+
+----
+num: 24
+category: Trash
+difficulty: 1200
+seen: 6
+answer: Seattle
+
+This city's 146-year-old Post-Intelligencer went online only in 2009.
+
+----
+num: 25
+category: History
+difficulty: 1200
+seen: 4
+answer: Mr. Rayburn
+
+A nearly 50-year congressman:.
+
+----
+num: 26
+category: Literature
+difficulty: 1200
+seen: 4
+answer: Darwin
+
+This capital of Australia's Northern Territory is named for an evolutionary scientist.
+
+----
+num: 27
+category: History
+difficulty: 1200
+seen: 4
+answer: a long haul
+
+In trucking, it's been defined as a run that covers more than 1,000 miles.
+
+----
+num: 28
+category: History
+difficulty: 1600
+seen: 4
+answer: the Three Musketeers
+
+Stephen Holden noted this 17th c. title trio's return to the big screen in 2011 with "All for one, and then maybe a sequel".
+
+----
+num: 29
+category: Literature
+difficulty: 1600
+seen: 4
+answer: a dark horse
+
+A longshot who wins, or a "Star Wars" comic book publisher.
+
+----
+num: 30
+category: History
+difficulty: 1600
+seen: 5
+answer: schlep
+
+Also meaning a dopey person, it's from the Yiddish for "to haul", as in "for this I ____ed those books all the way here?".
+
+----
+num: 31
+category: History
+difficulty: 2000
+seen: 6
+answer: Henry Clay
+
+A 19th century senator:.
+
+----
+num: 32
+category: Literature
+difficulty: 2000
+seen: 5
+answer: the Dardanelles
+
+It's the Turkish strait.
+
+----
+num: 33
+category: History
+difficulty: 2000
+seen: 5
+answer: Dr. Livingstone
+
+"I presume" Chuma & Susi were the bearers who hauled this missionary around Africa, both alive & dead.

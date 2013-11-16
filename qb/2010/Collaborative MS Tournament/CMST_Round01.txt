@@ -1,0 +1,204 @@
+####
+tournament: Collaborative MS Tournament
+round: CMST_Round01.pdf
+year: 2010
+####
+
+num: 1
+category: Fine Arts
+difficulty: MS
+fixed: 1
+seen: 2829
+answer: The {Last Supper}
+
+Three square windows can be seen in the back of this painting, and the back of a chair takes up its lower center portion. The central figure is wearing red and blue with his hands on a table; to his right is an effeminate figure believed to be the Apostle John. Judas clutches a bag of silver in, for 10 points, what Leonardo da Vinci painting that depicts Christ's final meal with his disciples?
+
+----
+num: 2
+category: Science
+difficulty: MS
+fixed: 1
+seen: 3797
+answer: levers
+
+The “law of” these objects states that the torque (“tork”) on one side is equal to the torque on the other side. These objects can be classified as first class, second class, or third class depending on the location of the fulcrum. For 10 points, name these simple machines, familiar examples of which include a wheelbarrow and see-saw.
+
+----
+num: 3
+category: Geography
+difficulty: MS
+fixed: -1
+seen: 4455
+answer: Puerto Rico
+
+Landmarks on this island include the El Yunque (“YOON-kay”) rainforest and Fort San Felipe del Moro. Humacao (“HOO-muh-COW”), Caguas (“CAW-gwahs”), Bayamon (“BYE-uh-moan”), and Ponce (“PAWN-say”) are some of its municipalities. The largest municipality shares the name given to the island by Columbus, San Juan. For 10 points, identify this island, a United States commonwealth in the Caribbean.
+
+----
+num: 4
+category: Literature
+difficulty: MS
+fixed: -1
+seen: 2863
+answer: {Oedipus}
+
+While travelling back to his hometown, this man solves a riddle with the answer of “man.” He kills his own father over the right-of-way at a crossroads. This man fathers his daughter Antigone (“ann-TIH-go- nee”) by his own mother Jocasta (“joe-CASS-tuh”), fulfilling a prophecy made at his birth. For 10 points, name this title character of plays by Sophocles (“SOFF-oh-clees”), including one in which he is at Colonus (“CALL-oh-nuss”) and one in which he is Rex, or The King.
+
+----
+num: 5
+category: History
+difficulty: MS
+fixed: 1
+seen: 3022
+answer: {Vietnam} War
+
+Policies during this war included the "strategic hamlet" program and the use of Agent Orange as a defoliant. The Battle of Khe Sanh (“KAY SAWN”) was fought during this war, which ended with the fall of Saigon, a city that was renamed after the victorious side's leader, Ho Chi Minh (“HO CHEE MIN”). For 10 points, a memorial wall in Washington, DC lists the American casualties of what conflict in Southeast Asia?
+
+----
+num: 6
+category: Science
+difficulty: MS
+fixed: 57
+seen: 3775
+answer: {mitochondria} (“ MY-toe-KON-dree-uh ”) [or {mitochondrion}]
+
+The DNA in this organelle (“or-guh-NELL”) is inherited only from the mother. The inner membrane of this organelle contains folds known as cristae (“CRISS-tay”) and encloses its matrix. This organelle is the site of oxidative phosphorylation (“ox-ih-DAY-tiv FOSS-for-ill-AY-shun”), which occurs at the end of the electron transport chain. For 10 points, name this organelle responsible for cellular respiration, which produces ATP and thus provides energy for the cell.
+
+----
+num: 7
+category: Literature
+difficulty: MS
+fixed: -1
+seen: 2869
+answer: {Sherlock Holmes} [accept either]
+
+The most winning woman he ever knew was hanged for poisoning three little children for their insurance-money. Irene Adler, always THE woman to this man, outwitted him during his investigation of “A Scandal in Bohemia.” This man returned in “The Adventure of the Empty House” after battling Professor Moriarty to the death. For 10 points, name this detective faithfully accompanied by John Watson.
+
+----
+num: 8
+category: Fine Arts
+difficulty: MS
+fixed: 1
+seen: 2812
+answer: Ludwig von {Beethoven}
+
+This man composed a ballet called The Creatures of Prometheus (“pro-MEE-thee-us”), and Leonato is a major character in his opera Fidelio (“fih-DAY-lee-oh”). His third symphony was originally written to honor Napoleon and was called Eroica (“air-OH-ih-kuh”). A later symphony by this man borrows from Schiller's "Ode to Joy" for its choral final movement. For 10 points, name this composer whose fifth symphony begins with a fate knocking at the door theme and who went deaf.
+
+----
+num: 9
+category: History
+difficulty: MS
+fixed: -1
+seen: 3025
+answer: Chief Justice of the Supreme Court
+
+The oldest person to hold this position was Roger Taney (TAW-nee). This office serves as Chancellor of the Smithsonian, and also presides over Presidential impeachment trials. It was held by Charles Evans Hughes, John Marshall, and Earl Warren, the latter of whom wrote an opinion that mandated the so-called “Miranda Rights”. For 10 points, name this position currently held by John Roberts Jr., the head of the federal judiciary.
+
+----
+num: 10
+category: Science
+difficulty: MS
+fixed: -1
+seen: 3761
+answer: {triangle}
+
+The Euler (“OIL-er”) line passes through the orthocenter (“OR-tho-SEN-ter”), circumcenter, and centroid (“SEN-troyd”) in this figure. The area of this polygon can be found by halving the product of two sides and the sine of the angle opposite of the third side or by simply using Heron's formula. It is the only polygon that cannot be concave, because its angles must add to 180 degrees. For 10 points, name this polygon with three sides.
+
+----
+num: 11
+category: History
+difficulty: MS
+fixed: 1
+seen: 3027
+answer: Battle of {Yorktown}
+
+In the buildup to this battle, the losing commander set up a fortification at Gloucester (“GLAU-ster”) shortly after retreating from Williamsburg. A key turning point in this battle was the arrival of reinforcements under Count Rochambeau (“RO-sham-BO”). British naval forces under Thomas Graves failed to break through the French blockade. For 10 points, name this final Revolutionary War battle, after which Lord Cornwallis surrendered.
+
+----
+num: 12
+category: Trash
+difficulty: MS
+fixed: 1
+seen: 5486
+answer: {Cookie Monster}
+
+He compared himself to Robert Downey Jr. on a Colbert (“cole-BEAR”) Report appearance in which he defended himself from rumors of a lifestyle change. While Kermit the Frog lectured about the W, this character turned it into an N, a V, and then an I. He notes, “that's good enough for me” while singing about what C is for. For 10 points, name this blue Muppet known for catchphrases like “Me want cookie!”.
+
+----
+num: 13
+category: Science
+difficulty: MS
+fixed: 1
+seen: 3776
+answer: Moon
+
+One theory of this entity's creation states that a Mars-sized body named Theia (“THEE-uh”) collided with its parent planet. This object exhibits synchronous (“SIN-kro-nuss”) rotation with its parent planet, and that rotation results in the namesake "dark side" of this object. The Sea of Tranquility lies on, for 10 points, what astronomical body responsible for the Earth's tides, its largest natural satellite?
+
+----
+num: 14
+category: Literature
+difficulty: MS
+fixed: 1
+seen: 2855
+answer: Roald {Dahl}
+
+This man wrote about an animal who steals from the farmers Boggis, Bunce and Bean in The Fantastic Mister Fox. He also wrote about a girl with psychic powers who reads every book in the library and then loses her powers in Miss Honey's class in his book Matilda. A better known book by this man sees its title fruit get stuck on top of the Empire State Building. For 10 points, name this author of James and the Giant Peach.
+
+----
+num: 15
+category: History
+difficulty: MS
+fixed: 1
+seen: 3023
+answer: Ohio
+
+One senator from this state was the only one not to cast a vote on the December 24th Senate Health Care Bill. That man, George Voinovich (“VOY-no-vitch”), earned his first major political post by defeating Dennis Kucinich (“koo-SIN-itch”). Other political figures from this state include retired Senator John Glenn and current Governor Ted Strickland. For 10 points, what swing state of the 2004 election has its capital at Columbus?
+
+----
+num: 16
+category: Religion
+difficulty: MS
+fixed: -1
+seen: 2750
+answer: Buddhism [or word forms such as Buddhists]
+
+One variety of this faith is outlined in the Pali (“POLLY”) Canon. Another variety venerates those who become enlightened but remain in samsara (“sam-SAHR-uh”), called bodhisattvas (“bo-dee-SOTT- vuhs”). Those varieties are Theravada (“THERE-uh-vah-duh”) and Mahayana (“MAH-hi-yawn-uh”).  Adherents to another variety of this faith meditate on koans (“KO-awns”) such as “What is the sound of one hand clapping?”. For 10 points, name this Asian faith that venerates Siddhartha Gautama (sid-DAR- thuh go-TOM-uh”).
+
+----
+num: 17
+category: Mythology
+difficulty: MS
+fixed: 1
+seen: 4237
+answer: {Perseus}
+
+He fulfilled a prophecy by accidentally killing his grandfather Acrisius (“uh-CRIZZ-ee-us”) with a discus. Acrisius had imprisoned his mother, Danae (“duh-NAY-ee”), but Zeus visited her as a golden shower. This man borrowed the invisibility cap of Hades, the reflective shield of Athena, and the winged sandals of Hermes. He slew a sea monster that was about to consume Andromeda, whom he made his wife. For 10 points, name this figure who beheaded Medusa.
+
+----
+num: 18
+category: Science
+difficulty: MS
+fixed: 1
+seen: 3773
+answer: {subduction zone}
+
+The Andean type of these entities occurs beneath a continental plate, and it is at these sites that about 20% of Earth's crust has been consumed. This antithesis (“an-TITH-uh-sis”) of the mid-oceanic ridge is usually typified by lines of volcanoes running parallel near an oceanic trench. For 10 points, identify this region where tectonic (“tec-TON-ick”) plates collide, and one goes underneath the other.
+
+----
+num: 19
+category: Literature
+difficulty: MS
+fixed: 1
+seen: 2873
+answer: John Ernst {Steinbeck}
+
+This man described a trip around America with his poodle in Travels with Charley. In a novella by this man, George shoots Lennie to prevent him from being lynched. This man also wrote about the Joad family's attempt to escape the Depression by moving to California from Oklahoma. For 10 points, identify this American author of Of Mice and Men and The Grapes of Wrath.
+
+----
+num: 20
+category: History
+difficulty: MS
+fixed: -1
+seen: 3013
+answer: Julius Caesar
+
+This man fought against Ariovistus (“air-ee-oh-VIS-tuss”), a German leader, and Vercingetorix (“ver- KING-uh-TOR-ix”), a chieftain of the Arverni (“ar-VEHR-nee”) whose defeat is described in this man's book, Commentaries on the Gallic Wars. He led his troops across the Rubicon to start a civil war with Pompey, one of his partners in the First Triumvirate. For 10 points, name this Roman leader who was assassinated by Brutus on the Ides of March.

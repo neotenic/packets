@@ -1,0 +1,204 @@
+####
+tournament: HFT
+round: HFT Round 03.doc
+year: 2008
+####
+
+num: 1
+category: Literature
+difficulty: HS
+fixed: 1
+seen: 443
+answer: Jack {Kerouac}
+
+This author wrote about the romance of jazz singer Mardou Fox and Leo Percepied, and another work's subplot sees Waldo Meister commit suicide from Kenneth Wood's balcony. That novel depicts Peter Martin's struggles to earn a football scholarship to leave Galloway. In addition to The Subterraneans and The Town and the City, one of his works is instigated at Remi Boncoeur's invitation, and in another Japhy Ryder and Ray Smith climb the Matterhorn. FTP, name this author of the Dharma Bums who wrote about Sal Paradise and Dean Moriarty in On the Road.
+
+----
+num: 2
+category: Fine Arts
+difficulty: HS
+fixed: -1
+seen: 489
+answer: {Guernica}
+
+The bottom center of this painting depicts a flower growing from a broken sword hilt held by a dismembered arm, while a disembodied hand holds a lamp and light bulb at the top. Most of the figures in this painting about Operation Rügen are female because it depicts a market day, and its non-human figures include a screaming horse gazing toward a bull. Created in response to a Luftwaffe raid, it was not shown in its artist's home nation until 1981. FTP, name this black-and-while Pablo Picasso painting in memory of a Basque town bombed in the Spanish Civil War.
+
+----
+num: 3
+category: History
+difficulty: HS
+fixed: 57
+seen: 414
+answer: Otto von {Bismarck}
+
+This politician bribed journalists with the Reptiles Fund and blamed followers of a certain religion for poisoning a lion in his country's zoo. With the support of the National Liberals, he supported the May Laws, banned the Jesuits, and broke off relations with the Vatican as part of the Kulturkampf. His earlier successes included the conquests of Schleswig and Holstein and the defeat, after his publication of the Ems Dispatch, of Napoleon III, which led to Wilhelm I being proclaimed Kaiser. FTP, identify this Iron Chancellor who masterminded Germany's unification.
+
+----
+num: 4
+category: Science
+difficulty: HS
+fixed: -1
+seen: 483
+answer: {triple} point
+
+Many of these exist for substances with multiple polymorphs, such as silver iodide and aluminum silicate, and helium-4 has two of them, called “lambda” ones, because of superfluidity. If a substance has n solid phases, it will have n choose three of these. Gibbs's phase rule states that there exist one fewer degrees of freedom under this condition than the number of components in the mixture. One aspect of it for water is the second reference point of the Kelvin scale. FTP, name this pressure and temperature at which one may isolate all of a substance's three phases.
+
+----
+num: 5
+category: Fine Arts
+difficulty: HS
+fixed: 1
+seen: 488
+answer: Hector {Berlioz}
+
+He recycled an aria from his The Vehmic Judges as the second movement of his symphony The Funereal and Grand Symphony. “Serenade of a Mountaineer of the Abruzzi” and “Orgy of the Brigands” are movements in a work he created for Paganini, and his operas include Benvenuto Cellini and Les Troyens. In addition to composing Harold in Italy, he wrote an interplay between oboe and English horn representing shepherds in “Scene in the Country” and an idée fixe in the clarinet is featured in “March to the Scaffold.” FTP, name this composer of Symphonie Fantastique.
+
+----
+num: 6
+category: Mythology
+difficulty: HS
+fixed: 1
+seen: 788
+answer: Vishnu
+
+One of his five vyuhas is kidnapped by Bana, and after defeating the demon Mahabali he earns the title Trivikrama.  He reclines on the serpent Ananta during the pralaya, and he wields a mace and the Sudarshana chakra. As Mohini, he steals the amrita from the asuras during the Churning of the Milk Ocean. This challenger of Bali and slayer of Hirankashipu warns King Manu of an imminent flood as Matsya, and he can also appear as a dwarf, a man-lion, a boar, a turtle, or a fish. FTP, name the Hindu preserver god who descends to Earth as ten avatars.
+
+----
+num: 7
+category: History
+difficulty: HS
+fixed: 57
+seen: 423
+answer: {Monroe} Doctrine
+
+Richard Olney claimed that it gave him the right to mediate a dispute over territory west of the Essequibo River, Argentine President Luís María Drago “extended” it when he condemned the use of force to collect debt, J. Reuben Clark's memorandum on it was a forerunner of the Good Neighbor Policy, and Theodore Roosevelt's corollary to it declared the United States' right to intervene in Latin America. FTP, identify this policy written by John Quincy Adams opposing European intervention in the Western Hemisphere, which was named for our fifth president.
+
+----
+num: 8
+category: History
+difficulty: HS
+fixed: 57
+seen: 427
+answer: {Nigeria}
+
+This country's Cross River state boasts the richest diversity of butterfly species in the world, while its Enugu state became the center of a breakaway region in 1967 led by Emeka Ojukwu. This country's Kano and Kaduna states saw religious violence as Muslims tried to institute shari'a, but the most recent violence has centered on its Delta state on the Bight of Benin, where some foreign oil workers have been kidnapped. Africa's leading oil producer and most populous country, this is, FTP, what country whose capital moved in 1991 from Lagos to Abuja?
+
+----
+num: 9
+category: History
+difficulty: HS
+fixed: 1
+seen: 419
+answer: {teaching evolution} in public schools (accept clear knowledge equivalents)
+
+Epperson v. Arkansas struck down a state law forbidding this activity, while Edwards v. Aguillard invalidated mandates that it be given only “equal time.” In 2005, John Jones ruled that a Dover, Pennsylvania, requirement to present an alternative to it violated the Establishment Clause. Weeks after the Butler Act outlawed it, a football coach committed this act, resulting in litigation that saw William Jennings Bryan, a self-described “expert on the Bible,” cross-examined by Clarence Darrow. FTP, name this “crime” at the center of the 1925 Scopes Monkey Trial.
+
+----
+num: 10
+category: Fine Arts
+difficulty: HS
+fixed: 57
+seen: 489
+answer: film {noir}
+
+This term was first coined by Nino Frank, and Boris Ingster's Stranger on the Third Floor is often said to be the first one. Other famous ones included Out of the Past, about a man who once worked for a gambler, and The Postman Always Rings Twice. Constrained by the Hays Code, nobody actually got away with murder in one, thanks to detectives like Humphrey Bogart in The Maltese Falcon. Known for flashbacks, dark cinematography, private investigators, and beautiful femmes fatale, this is, FTP, what genre of 1940s crime movies known by a French term?
+
+----
+num: 11
+category: Science
+difficulty: HS
+fixed: 1
+seen: 486
+answer: {exponential} function ({accecpt} y = {e} to the {x} after “reals” is read)
+
+It provides a map to any Lie group from its corresponding Lie algebra. Its matrix form may be used to give solutions to systems of linear differential equations, while for the reals it is the unique Lebesgue measurable function f that satisfies f(x+y) = f(x) f(y). Its MacLaurin coefficients are equal to one, and it is the only function that is its own derivative. Euler's identity shows that its value at pi i is negative one, while its inverse is the natural logarithm. FTP, name this function whose value at positive integers is the product of several copies of Euler's constant.
+
+----
+num: 12
+category: History
+difficulty: HS
+fixed: -1
+seen: 411
+answer: {Mughal} Dynasty (or {Gurakani}; prompt on {Timurid} before the word “{Panipat}”)
+
+This dynasty was defeated in the War of 27 Years and in the Battle of Karnal, while one of its rulers fled Sher Shah. Its last emperor, who went by the name Zafar, died in exile in Rangoon in 1862, five years after his deposition. This dynasty, one of whose rulers was tutored by Bairam Khan, was first established after the Battle of Panipat, but Humayun could not consolidate its territories, a task that fell to Akbar the Great. Also including Shah Jahan, who oversaw construction of the Taj Mahal, this is, FTP, what Muslim dynasty founded by Babur that long ruled India?
+
+----
+num: 13
+category: History
+difficulty: HS
+fixed: -1
+seen: 418
+answer: {Punic} Wars (accept First and {Second Punic Wars} before “{third}” is read {because Hoyos wrote} about the first {two}; {otherwise} do not accept any {particular Punic War})
+
+D. Hoyos recently argued that these conflicts were unplanned rather than the result of imperialism or a desire for revenge. The first escalated from a conflict between Hiero II and Mamertines and was followed by the Mercenary War, while the second saw Hasrudubal killed at the Battle of Metaurus River. The third was supported by Cato the Elder and ended with a victory for Scipio Africanus. Featuring the battles of Cannae and Zama and Hannibal's elephants' march over the Alps, this was, FTP, what series of wars in which Rome defeated and destroyed Carthage?
+
+----
+num: 14
+category: Science
+difficulty: HS
+fixed: 57
+seen: 486
+answer: {quartz}
+
+A cubic polymorph of this mineral, cristobalite, forms metastable spheres that, when hydrated, form opal. One stone made of this mineral and moganite is monoclinic and has a characteristic waxy luster and is called chalcedony. Another form of this mineral, citrine, is generated upon heating a stone with iron and aluminum impurities that give it a purple color, amethyst. FTP, identify this mineral commonly found along with gold, a silicon dioxide crystal defining Mohs hardness seven and known for its rose and milky varieties.
+
+----
+num: 15
+category: Literature
+difficulty: HS
+fixed: 1
+seen: 445
+answer: Carlos {Fuentes}
+
+This author created a couple planning to give birth on Columbus's 500th anniversary in Christopher Unborn. He wrote about Norma's death in a fire locked in a room when her husband tries to steal her jewelry, and he created Felipe Montero, who realizes a beautiful girl is the projected image of an old widow. In addition to Aura and Where the Air is Clear, he wrote about a man who loves Harriet Winslow and is shot by General Tomas Arroyo. FTP, name this Mexican author who fictionalized Ambrose Bierce in The Old Gringo and wrote The Death of Artemio Cruz.
+
+----
+num: 16
+category: Science
+difficulty: HS
+fixed: -1
+seen: 486
+answer: {phototropism} (accept {heliotropism} before “{light source}”)
+
+The Bunsen-Roscoe law, or reciprocity theorem, explains this effect but cannot explain why both its positive and negative kinds can occur in the same tissue. Null nph1 mutants of Arabidopsis do not display it. Etiolation occurs when this phenomenon cannot operate, resulting in characteristically thin, yellow stems. Certain hormones activate proton pumps on one side of a cell, leading to a pH decrease that weakens the cell wall, and this phenomenon is driven by turgor in that direction. FTP, name this tendency of plants to grow toward or away from a light source.
+
+----
+num: 17
+category: Science
+difficulty: HS
+fixed: 57
+seen: 477
+answer: {capacitor}
+
+Marx generators use a large number of these connected in series by spark gap switches to generate a high voltage. One of their components has an electrolytic variety, which soaks that component in liquid electrolyte but is not suitable for high frequency operation. One of these appears with a resistor, a switch, and a DC source in charging circuits. FTP, name this type of circuit element that uses a dielectric to store energy between a pair of conducting plates and whose strength is measured as the ratio of charge and induced voltage.
+
+----
+num: 18
+category: Literature
+difficulty: HS
+fixed: 1
+seen: 448
+answer: The {Red} and the {Black} (or {Scarlet} and {Black;} or Le {Rouge et} Le {Noir})
+
+A surprise inspection at Vergy forces this novel's protagonist to beg another character to remove the hidden portrait under his straw mattress. Prince Korasoff advises the protagonist to pretend to woo an elderly lady with fifty-three pre-written love letters, while another character dresses in black to mourn anniversary of the beheading of her ancestor Boniface. A recommendation from l'Abbé Pirard gets the protagonist a job as a secretary, and he later shoots his former lover, Madame de Rênal, after she undermines his marriage plans with Madame de la Mole. FTP, name this novel about Julien Sorel by Stendhal.
+
+----
+num: 19
+category: Philosophy
+difficulty: HS
+fixed: 57
+seen: 526
+answer: Georg {Hegel}
+
+This thinker who called Jakob Fries the “ringleader of the hosts of superficiality” was re-popularized by Wilhelm Dilthey. Being, Essence, and Comprehension form the basis for one of his works, while in another work he used his idea of sublation, or aufhebung, to explain the relationship between master and slave. Most famous for a work outlining the path from consciousness to absolute knowledge, this is, FTP, what German author of Lectures on the Philosophy of History, Science of Logic, and The Phenomenology of Spirit who discussed the dialectic?
+
+----
+num: 20
+category: Literature
+difficulty: HS
+fixed: 1
+seen: 444
+answer: Robert {Browning}
+
+The speaker of one of his poems refuses to believe that “the Quiet made all things” and holds that God created mankind weak “so weakness He might vex,” while the narrator of another poem asserts he would make a deal with the Devil to ruin Brother Lawrence. In addition to “Caliban upon Setebos” and “Soliloquy of the Spanish Cloister,” the title character of another poem “warily open[s]” the eyelids of the corpse of the women he had just strangled with her hair, and another of his poems ends by discussing a sculpture of Neptune taming a sea horse. FTP, name this poet who wrote “Porphyria's Lover” and talked about a painting by Fra Pandolf in “My Last Duchess.”

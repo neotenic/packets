@@ -1,0 +1,214 @@
+####
+tournament: HSAPQ ACF 1
+round: Round_08_HSAPQACF1.pdf
+year: 2008
+####
+
+num: 1
+category: History
+difficulty: HS
+fixed: 1
+seen: 411
+answer: Iceland
+
+This nation's early history is described in the Landnamabok, and the end of the Middle Ages in this nation is generally marked by the 1550 beheading of Bishop Jon Arason. Known during parts of its history as Thule, the United States took defensive responsibility of this country in 1941 following the German occupation of Denmark. For 10 points, name this nation, whose Althing is the oldest legislative body in Europe and whose first recorded settler, Ingolfr Arnarson, named his homestead Reykjavik.
+
+----
+num: 2
+category: Science
+difficulty: HS
+fixed: 1
+seen: 480
+answer: Charles Augustin de {Coulomb}
+
+A stepwise change in current potential curves of nanometer size objects is named for this man, while crystals with particles of same charge occurring in plasmas are also named for him. The type of friction associated with the contact of two surfaces was first developed by him, and he also names the repulsion associated with two objects of like charges. For 10 points, name this Frenchman whose namesake law states that the force between two charges is proportional to the product of their charges and the inverse square of the distance between them.
+
+----
+num: 3
+category: History
+difficulty: HS
+fixed: -1
+seen: 417
+answer: {Marseilles} [do not accept or prompt on “{Marseillaise}”]
+
+From 1953 to 1986, this city was led by Gaston Defferre, and this city's Panier district and Old Port were dynamited by its German occupiers during World War II due to its resistance activity. This city was the center of the French Connection heroine smuggling scheme, and during the French Revolution, volunteers from this city sang the “War Song of the Rhine Valley,” which was renamed for this city. For 10 points, identify this French port city, the namesake of the French national anthem.
+
+----
+num: 4
+category: Science
+difficulty: HS
+fixed: 57
+seen: 482
+answer: {adiabatic} [accept {adiabatic lapse rate} before "{this adjective}" is read]
+
+Atmospheric chemistry follows a given volume of air rising upward and its corresponding temperature change, defining a dry and moist lapse rate given this adjective, and adequately gradual perturbations do not take a system out of its original eigenstate according to a theorem called this formulated by Fock and Born. In a reversible one of these processes, the product of pressure with volume raised to gamma is held constant. For 10 points, give this adjective that describes all thermodynamic processes that do not involve a transfer of heat.
+
+----
+num: 5
+category: History
+difficulty: HS
+fixed: 1
+seen: 411
+answer: Henry {Clay}
+
+In 1806, this man served as counsel for Aaron Burr, and he was a member of the Ghent commission that negotiated peace with Britain. He fought a duel with John Randolph in which neither man was wounded, and he helped solve the nullification crisis with his support of the Tariff of 1833. Nicknamed the Great Pacificator for his shepherding the Missouri Compromise, for 10 points, name this Kentucky stateman who was known for his American System of economic development.
+
+----
+num: 6
+category: Literature
+difficulty: HS
+fixed: 1
+seen: 441
+answer: Victor-Marie {Hugo}
+
+In one of his verse plays, Puritans and Cavaliers attempt to assassinate the title Lord Protector of England, Cromwell. Another of his plays focuses on the suitors of Dona Sol, which include Don Carlos and his brother, the title figure. In addition to Hernani, one of his novels is partially set in the Revolt of 1840, and involves the lover of Marius and daughter of Fantine, Cosette, who is cared for by a bread thief chased by Javert. The creator of Jean Valjean, as well as Quasimodo, for 10 points, name this author of Les Miserables and The Hunchback of Notre Dame.
+
+----
+num: 7
+category: Science
+difficulty: HS
+fixed: 1
+seen: 487
+answer: {Gibbs} Free Energy
+
+The partial derivative of this quantity with respect to mass gives the chemical potential of a system. Dividing it by the product of the Universal Gas Constant and Temperature gives the logarithm of the equilibrium constant for a reaction. This quantity is equal to the negative product of temperature and the change entropy plus the change in enthalpy, and a reaction is spontaneous if the change in this quantity is negative. For 10 points, identify this quantity represented as G.
+
+----
+num: 8
+category: Trash
+difficulty: HS
+fixed: 1
+seen: 1025
+answer: Joe {Namath}
+
+This man shaved his mustache after receiving $10,000 from Remington, and threw a game-losing interception in the first Monday Night Football game. His last season saw him play in just three games for the L.A. Rams, while recently he has gained notoriety for drunkenly slurring "I want to kiss you" to Suzy Kolber during an ESPN broadcast. The only Hall of Fame quarterback to play primarily for the franchise that Brett Favre just joined, for 10 points, name guarantor of victory over the Colts in Super Bowl III, a legendary Jets quarterback.
+
+----
+num: 9
+category: Literature
+difficulty: HS
+fixed: 57
+seen: 445
+answer: {Bloom}
+
+One author of this last name argued that the educational reforms advocated by 1960s student protesters ruined the special character of universities in The Closing of the American Mind. Another person of this last name said that writers must overthrow their predecessors in The Anxiety of Influence and gave essential reading lists in The Western Canon. In a novel, a woman by this name has an affair with Blazes Boylan, and a man of this name journeys through a June day in Dublin. For 10 points, give this last name of Molly and Leopold in James Joyce's Ulysses.
+
+----
+num: 10
+category: Fine Arts
+difficulty: HS
+fixed: 57
+seen: 496
+answer: The {Raft} of the {Medusa}
+
+In this painting, a man with curly grey hair covered by a red cloak stares to the left, in front of a man holding his head in his hands. A hatchet lies in the foreground of this painting, which depicts a pyramid of bodies to the right of a single billowing sail. Its most dramatic figure may be a shirtless man standing on a barrel waving a shirt at a distant ship. For 10 points, name this painting of the survivors of a shipwreck, by Theodore Gericault.
+
+----
+num: 11
+category: Mythology
+difficulty: HS
+fixed: 1
+seen: 793
+answer: {ships} [accept {boats}]
+
+The Japanese Shichi Fujukin gods live in one of these, and the Celtic Manannan mac Lir has one that responds to spoken commands. Skidbladnir is one which Freyr can collapse into his pocket, while Naglfar is one made entirely of fingernails. Another one of these, which could talk because it was built in Dodona, lent its name to a group of people including Telamon, Atalanta, Orpheus, and Heracles, who sought the Golden Fleece under the leadership of Jason. For 10 points, name these conveyances, whose mythical examples included the Argo.
+
+----
+num: 12
+category: Geography
+difficulty: HS
+fixed: 1
+seen: 714
+answer: Seattle
+
+An amusement park named Playland once existed in this city's Bitter Lake neighborhood, and part of state route 99 through this city is known as the Alaskan Way Viaduct. A former utilities plant gives its name to this city's Gas Works Park, and neighborhoods in this city include Green Lake and Rainier Beach. This city's namesake “Center” includes the Experience Music Project and a tower built for the 1962 World's Fair. Located on Puget Sound, for 10 points, name this large Washington city which includes the Space Needle.
+
+----
+num: 13
+category: History
+difficulty: HS
+fixed: 1
+seen: 430
+answer: Klemens Wenzel von {Metternich}
+
+In 1938, the publication of over three hundred pages of letters written by Dorothea Lieven to this man confirmed suspicions that he had used Lieven to spy on his Russian and British counterparts. A leader of the Holy Alliance, the murder of August von Kotzebue led this man to call a congress which resulted in university restriction, newspaper censorship, and other Carlsbad Decrees, and he was forced to flee to England following the Revolutions of 1848. For 10 points, name this Austrian prince and conservative who hosted the Congress of Vienna.
+
+----
+num: 14
+category: Religion
+difficulty: HS
+fixed: 57
+seen: 450
+answer: {Messianic Judaism} [or {Jews} for {Jesus}; accept word forms; prompt on {Jewish Christians} or
+
+One group in this movement publishes such periodicals as Issues and Mishpochah Message and was founded by Martin Rosen. Some of these sects trace their lineage to a community led by James in the 30s CE, and many groups of this type advance a doctrine of “completion” through accepting a figure they usually call “Yeshua.” They are not permitted to use the Law of Return to claim Israeli citizenship, and no rabbinical group in the U.S. considers them Jewish. For 10 points, name this religious movement which combines Jewish rituals with acceptance of Christ.
+
+----
+num: 15
+category: Fine Arts
+difficulty: HS
+fixed: 1
+seen: 489
+answer: Richard {Strauss}
+
+In one of this composer's operas, the noisy singer Aminta marries Sir Morosus, who cannot stand any sound. In addition to The Silent Woman, he wrote an opera about Matteo's efforts to woo Arabella, as well as The Egyptian Helen and Elektra. In another of his operas, Baron Ochs sends Octavian to present a silver rose to Sophie. The title character of another of his operas performs the Dance of the Seven Veils for Herodias while carrying John the Baptist's head on a platter. For 10 points, name this composer of Der Rosenkavalier, Salome, and Also Sprach Zarathustra.
+
+----
+num: 16
+category: Literature
+difficulty: HS
+fixed: 1
+seen: 440
+answer: One {Hundred Years} of {Solitude} [or {Cien Años} de {Soledad}]
+
+In this novel, Don Crespi unsuccessfully introduces the cinema. One character in this novel spends his time crafting intricate golden fish, while another character perishes because of too much loneliness. Pilar Ternera is an intimate acquaintance of many of the men in this novel, and it opens by mentioning one character's execution by a firing squad. This novel is set in Macondo and features characters from the Beundia family like Jose Arcadio and Aureliano. For 10 points, identify this novel by Gabriel Garcia Marquez.
+
+----
+num: 17
+category: Social Science
+difficulty: HS
+fixed: 1
+seen: 378
+answer: sociology
+
+Members of this field include Pitirim Sorokin, Georg Simmel, and the author of Gemeinschaft and Gesellschaft, Ferdinand Tonnies. Its major theories are symbolic interactionism and structural functionalism, and an early member of this field developed the term "anomie" in his study Suicide. Another member of this field studied "ideal types" in works like The Protestant Ethic and the "Spirit" of Capitalism. Associated with Emile Durkheim and Max Weber, its name was coined by Auguste Comte. For 10 points, name this discipline that studies society.
+
+----
+num: 18
+category: Literature
+difficulty: HS
+fixed: 1
+seen: 446
+answer: Edward Estlin {Cummings} [accept {ee cummings}]
+
+This poet wrote that "electrons deify one razorblade into a mountain range" in "Pity this Busy Monster, Manunkind," while he remembered a pacifist who had entered army training with him in “I Sing of Olaf, Glad and Big.” He also wrote of a place "with up so floating many bells down" where the title character "danced his did" in the poem "Anyone lived in a pretty how town,” and about a prison in his novel based on Pilgrim's Progress, The Enormous Room. For 10 points, name this American author who used creative capitalization in his poems.
+
+----
+num: 19
+category: Science
+difficulty: HS
+fixed: 57
+seen: 490
+answer: {HIV} [or {Human Immunodeficiency} Virus]
+
+Its NCp7 protein acts as a chaperone for RNA molecules. A fusin co-receptor is usually present on the surface of cells infected by it, and the infection is initiated by the binding of gp120 to CD4 proteins on certain cells. Patients infected with it can die of a rare cancer named Kaposi's sarcoma, and symptoms for it include swelling of lymph nodes. Classified as lentivirus, it uses reverse transcriptase to integrate its genome into the host cell. For 10 points, identify this virus that causes AIDS.
+
+----
+num: 20
+category: Literature
+difficulty: HS
+fixed: 57
+seen: 443
+answer: The {Merry Wives} of {Windsor}
+
+One man tries to find out the truth about an affair in this play by pretending to be Mr. Brook, and shortly thereafter a man is stuffed into a laundry basket and thrown into the river. A plan to embarrass a man by dressing him as Herne the Hunter is launched by the mother of the woman who loves Fenton, but is betrothed to Dr. Caius. This play includes the scheming Mistress Quickly, and it opens with love letters to Mistress Ford and Mistress Page. For 10 points, name this Shakespearean comedy depicting the comeuppance of Falstaff.
+
+----
+num: 21
+category: Science
+difficulty: HS
+fixed: 1
+seen: 490
+answer: {Crab} Nebula [or {NGC} 1952; accept {M1} before “{Messier}” is read; prompt on {Taurus} A;
+
+A recent study has suggested that this object contains four magnetic poles, and much earlier, Iosif Shklovsky proposed that a colorful region of this object was attributable to synchrotron radiation. It contains knotty filaments, an indicator of its accelerated expansion from the time of its creation, which was observed by the Chinese in 1054. It contains an object first confirmed in 1968, a namesake pulsar spinning at 30 cycles per second. Located in Taurus, for 10 points, name this cloudy entity which resembles a certain animal, the first of the Messier objects.

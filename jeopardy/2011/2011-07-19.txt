@@ -1,0 +1,276 @@
+####
+tournament: #6197
+round: Show #6197 - Tuesday, July 19, 2011
+year: 2011
+date: 2011-07-19
+####
+
+num: 1
+category: Literature
+difficulty: 200
+seen: 5
+answer: Huck Finn & Tom Sawyer
+
+One adventure of these 2 Twain boys:  attempting to cure warts with a dead cat out in the cemetery at midnight.
+
+----
+num: 2
+category: History
+difficulty: 200
+seen: 5
+answer: the faucet
+
+...how to install an aerator on this sink part to control flow & splashing.
+
+----
+num: 3
+category: History
+difficulty: 200
+seen: 5
+answer: Thomas Edison
+
+National Inventors Day, February 11.
+
+----
+num: 4
+category: Science
+difficulty: 200
+seen: 7
+answer: ether
+
+(Sarah of the Clue Crew stands on a stage.) W.T.G. Morton made history here in Mass General's surgical amphitheatre.  On October 14, 1886 he performed the first public successful surgery using this anesthetic.
+
+----
+num: 5
+category: Art
+difficulty: 400
+seen: 4
+answer: One
+
+Barenaked Ladies:.
+
+----
+num: 6
+category: Literature
+difficulty: 400
+seen: 4
+answer: Aetna
+
+"I'm glad I met ya", this company providing medical insurance to more than 19 million Americans.
+
+----
+num: 7
+category: History
+difficulty: 400
+seen: 4
+answer: (Florence) Nightingale
+
+International Nurses Day, May 12.
+
+----
+num: 8
+category: Science
+difficulty: 400
+seen: 7
+answer: MRI
+
+(Jimmy of the Clue Crew stands in front of a piece of apparatus.)  Massachusetts General is the only place where PET scanning and this imaging use one machine; the combination in 3-D images gives information faster in brain cancer patients, minimizing the time between detection and treatment.
+
+----
+num: 9
+category: Literature
+difficulty: 600
+seen: 4
+answer: Aer Lingus
+
+For its 75th anniversary, it is offering flights between Dublin & Boston for as low as 199 euros.
+
+----
+num: 10
+category: History
+difficulty: 600
+seen: 4
+answer: Luther Burbank
+
+Arbor Day in California, March 7.
+
+----
+num: 11
+category: Science
+difficulty: 600
+seen: 6
+answer: a biopsy
+
+(Jimmy of the Clue Crew stands in front of another apparatus.)  A device that uses microchips to detect one cancer cell in a billion may supersede this technique of taking tissue samples from living patients and may lead to finding  cancers before tumors form.
+
+----
+num: 12
+category: Art
+difficulty: 800
+seen: 5
+answer: Seven
+
+The White Stripes:.
+
+----
+num: 13
+category: Literature
+difficulty: 800
+seen: 4
+answer: Aeneas
+
+Per Virgil, he "was the first to journey from the coasts of Troy as far as Italy and the Lavinian shores".
+
+----
+num: 14
+category: History
+difficulty: 800
+seen: 4
+answer: Norman Rockwell
+
+American Painters Day, February 3.
+
+----
+num: 15
+category: Literature
+difficulty: 1000
+seen: 4
+answer: the aerocar
+
+It's the 7-letter name for.
+
+----
+num: 16
+category: History
+difficulty: 1000
+seen: 3
+answer: J.M. Barrie
+
+Peter Pan Day, May 9.
+
+----
+num: 17
+category: Science
+difficulty: 1000
+seen: 7
+answer: protons
+
+(Sarah of the Clue Crew stands before another apparatus.)  To spare healthy tissues while treating tumors Massachusetts General uses a state-of-the-art cyclotron to deliver radiation; beams of these particles:  hydrogen atoms whose electrons have been removed.
+
+----
+num: 18
+category: Literature
+difficulty: 400
+seen: 4
+answer: wombats
+
+There are 3 species of.
+
+----
+num: 19
+category: Trash
+difficulty: 400
+seen: 4
+answer: Peter Jackson
+
+He wrote & directed the most recent incarnation of "King Kong".
+
+----
+num: 20
+category: Literature
+difficulty: 400
+seen: 4
+answer: a rattle
+
+Snake's end, or baby's plaything.
+
+----
+num: 21
+category: Literature
+difficulty: 800
+seen: 4
+answer: a kangaroo
+
+Mr. & Mrs. eastern gray this animal welcome joey, 1 inch long & weighing less than a gram.
+
+----
+num: 22
+category: Trash
+difficulty: 800
+seen: 5
+answer: Peter Sellers
+
+In an HBO biopic John Lithgow played Blake Edwards, & Geoffrey Rush, this late actor.
+
+----
+num: 23
+category: Literature
+difficulty: 800
+seen: 4
+answer: ratification
+
+The formal confirmation of a treaty by a government.
+
+----
+num: 24
+category: Trash
+difficulty: 1200
+seen: 5
+answer: Peter Lawford
+
+The Peter of the Rat Pack was this British actor who married Patricia Kennedy.
+
+----
+num: 25
+category: Literature
+difficulty: 1200
+fixed: -1
+seen: 4
+answer: a ratchet
+
+A toothed wheel that allows movement in only one direction.
+
+----
+num: 26
+category: Literature
+difficulty: 1600
+seen: 4
+answer: mammary glands
+
+In marsupials only, these glands develop independently to provide tailored nutrition to individual joeys.
+
+----
+num: 27
+category: Trash
+difficulty: 1600
+seen: 6
+answer: Peter Weir
+
+His first Oscar nomination came in 1986 for directing "Witness".
+
+----
+num: 28
+category: Literature
+difficulty: 1600
+seen: 5
+answer: rattan
+
+Climbing palm of Asia used to make furniture.
+
+----
+num: 29
+category: Trash
+difficulty: 2000
+seen: 8
+answer: Pete Postlethwaite
+
+This British actor from "The Usual Suspects", "In the Name of the Father" & "The Town" passed away in 2011.
+
+----
+num: 30
+category: Literature
+difficulty: 2000
+seen: 6
+answer: rationale
+
+9-letter word for the underlying reason for a belief or course of action.

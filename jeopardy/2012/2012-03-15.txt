@@ -1,0 +1,356 @@
+####
+tournament: #6334
+round: Show #6334 - Thursday, March 15, 2012
+year: 2012
+date: 2012-03-15
+####
+
+num: 1
+category: Art
+difficulty: 200
+seen: 4
+answer: Lincoln Center
+
+Robert Wagner was the mayor when work began on this 16-acre performing arts center.
+
+----
+num: 2
+category: Science
+difficulty: 200
+seen: 7
+answer: a gross
+
+It's a group of 12 dozen items, & not necessarily offensive.
+
+----
+num: 3
+category: Philosophy
+difficulty: 200
+seen: 11
+answer: definition
+
+The formal, concise statement of the meaning of a word; I worked out for weeks to get it for my muscles.
+
+----
+num: 4
+category: Literature
+difficulty: 200
+seen: 4
+answer: a dingo
+
+This wild dog of Australia is also known as a warrigal.
+
+----
+num: 5
+category: Art
+difficulty: 400
+seen: 3
+answer: ring the bell
+
+When companies first list on the NYSE, the CEO is typically invited to do this, which starts trading on the floor.
+
+----
+num: 6
+category: Science
+difficulty: 400
+seen: 5
+answer: a stone
+
+In Britain, if you weigh 140 pounds, you weigh 10 of these units.
+
+----
+num: 7
+category: Philosophy
+difficulty: 400
+seen: 9
+answer: a cliché
+
+It's a French word for a trite phrase, & the French have their own, like "J'ai dormi comme une souche", "I slept like a stump".
+
+----
+num: 8
+category: Literature
+difficulty: 400
+seen: 4
+answer: an annual
+
+It's the term for a plant that lives or grows for only one year or season.
+
+----
+num: 9
+category: Philosophy
+difficulty: 600
+seen: 7
+answer: fallacy
+
+"Pathetic" or not, it's a misconception resulting from incorrect reasoning.
+
+----
+num: 10
+category: Literature
+difficulty: 600
+seen: 4
+answer: nonprescription
+
+This adjective describes medications you can legally purchase without seeing a doctor.
+
+----
+num: 11
+category: Art
+difficulty: 800
+seen: 3
+answer: the Museum of Modern Art (MoMA)
+
+This museum, established in the late 1920s, began with 8 prints & one drawing.
+
+----
+num: 12
+category: Science
+difficulty: 800
+seen: 6
+answer: acre
+
+This unit of area is in the name of the wood that's home to Winnie-the-Pooh.
+
+----
+num: 13
+category: Philosophy
+difficulty: 800
+seen: 7
+answer: brevity
+
+The use of only a few words to convey meaning, it's said to be "the soul of wit".
+
+----
+num: 14
+category: Literature
+difficulty: 800
+seen: 4
+answer: unannounced
+
+When you're this type of guest, it means you didn't bother to tell anyone you were coming.
+
+----
+num: 15
+category: Art
+difficulty: 1000
+seen: 4
+answer: Gracie Mansion
+
+In 1942 Fiorello La Guardia became the first mayor to reside in this home built in 1799 by a New York City merchant.
+
+----
+num: 16
+category: Philosophy
+difficulty: 1000
+seen: 10
+answer: personification
+
+It can be someone who embodies a certain quality or idea, or a term for attributing human qualities to animals or things.
+
+----
+num: 17
+category: Literature
+difficulty: 1000
+seen: 4
+answer: a spinning jenny
+
+It's the 2-word name of the 18th-century invention seen.
+
+----
+num: 18
+category: Trash
+difficulty: 400
+seen: 5
+answer: Acura
+
+Honda introduced this luxury division in the 1980s.
+
+----
+num: 19
+category: Science
+difficulty: 400
+seen: 5
+answer: jugular
+
+The internal this vein "collects blood from the skull, brain, superficial parts of face and much of the neck".
+
+----
+num: 20
+category: History
+difficulty: 400
+seen: 4
+answer: Georgia
+
+It shares its name with a U.S. state.
+
+----
+num: 21
+category: Literature
+difficulty: 400
+seen: 4
+answer: "Light My Fire And Rain"
+
+Song mash-up by The Doors & James Taylor that says, "Girl, we couldn't get much higher" & "sweet dreams & flying machines".
+
+----
+num: 22
+category: History
+difficulty: 800
+seen: 3
+answer: (Hosni) Mubarak
+
+February 11, 2011:.
+
+----
+num: 23
+category: Trash
+difficulty: 800
+seen: 5
+answer: Jeep
+
+Liberty & Patriot are models of this make from Chrysler.
+
+----
+num: 24
+category: Science
+difficulty: 800
+seen: 6
+answer: the tibia
+
+This, "medial to and much stronger than the fibula, is exceeded in length only by the femur".
+
+----
+num: 25
+category: History
+difficulty: 800
+seen: 4
+answer: Lithuania
+
+It's the southernmost of the 3 Baltic republics.
+
+----
+num: 26
+category: Literature
+difficulty: 800
+seen: 3
+answer: "Achy Breaky Heart Of Glass"
+
+The first Top 40 pop hits for Billy Ray Cyrus & Blondie, no wonder it hurt so much--lucky thing it didn't shatter.
+
+----
+num: 27
+category: Trash
+difficulty: 1200
+seen: 5
+answer: Saab
+
+In 2010 GM sold this Swedish auto brand to a tiny company called Spyker.
+
+----
+num: 28
+category: Science
+difficulty: 1200
+seen: 6
+answer: the ear
+
+"The external" this "comprises the auricle, or pinna, and the external acoustic meatus".
+
+----
+num: 29
+category: Literature
+difficulty: 1200
+seen: 3
+answer: Doe
+
+Anonymous John's last name.
+
+----
+num: 30
+category: Literature
+difficulty: 1200
+seen: 4
+answer: "Private Eyes Without A Face"
+
+According to Hall & Oates, "they see your every move", while Billy Idol sings, "got no human grace".
+
+----
+num: 31
+category: Science
+difficulty: 1600
+seen: 6
+answer: the pulmonary veins
+
+These "veins return oxygenated blood to the left atrium".
+
+----
+num: 32
+category: Literature
+difficulty: 1600
+seen: 5
+answer: a tot
+
+A small child, or a form of tater.
+
+----
+num: 33
+category: History
+difficulty: 1600
+seen: 5
+answer: Belarus
+
+It was once known as White Russia.
+
+----
+num: 34
+category: Literature
+difficulty: 1600
+seen: 4
+answer: "Blame It On The Rain In Spain"
+
+A soggy No. 1 hit by Milli Vanilli stays soggy when combined with a song from "My Fair Lady".
+
+----
+num: 35
+category: History
+difficulty: 2000
+seen: 5
+answer: Trent Lott
+
+December 18, 2007:.
+
+----
+num: 36
+category: Science
+difficulty: 2000
+seen: 8
+answer: the clavicle (or collar bone)
+
+This bone "extends laterally and almost horizontally across the neck from manubrium to acromion".
+
+----
+num: 37
+category: Literature
+difficulty: 2000
+seen: 5
+answer: tat
+
+Not sew, but you do this to make lace using knots & loops.
+
+----
+num: 38
+category: History
+difficulty: 2000
+seen: 5
+answer: Armenia
+
+One of the quarters of historic Jerusalem is named for its people.
+
+----
+num: 39
+category: Literature
+difficulty: 2000
+seen: 6
+answer: "I\'m Burnin\' For You Light Up My Life"
+
+Mash-up from Blue Oyster Cult & Debby Boone that says, "I'm living for giving the devil his due" & "you give me hope".

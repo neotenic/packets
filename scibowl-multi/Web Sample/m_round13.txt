@@ -1,0 +1,275 @@
+####
+tournament: Web Sample
+round: m_round13.pdf
+####
+
+num: 1
+category: Earth Science
+difficulty: MS
+answer: X)  Water Table
+
+The upper limit of the zone of saturation is the:
+W) watershed
+X) water table 
+Y) precipitation zone
+Z) Darcy zone
+
+----
+num: 1
+category: Earth Science
+difficulty: MS
+answer: X)  Hail
+
+Which of the following ground-level forms of precipitation results when supercooled water droplets collide with ice pellets and they freeze together:
+W) sleet
+X) hail
+Y) snow
+Z) rain
+
+----
+num: 3
+category: General Science
+difficulty: MS
+answer: X)  Pressure Cookers Increase the Boiling Point of Water So 
+That Food Cooks Faster
+
+Which of the following is TRUE regarding cooking with water:
+W) rice cooking at a vigorous boil in an open pot is at a higher temperature than at a slow boil
+X) pressure cookers increase the boiling point of water so that food cooks faster
+Y) cooking times in Miami , Florida are longer than in Denver, Colorado
+Z) live steam is used in most electric rice cookers
+
+----
+num: 4
+category: Life Science
+difficulty: MS
+answer: Y)  Evolutionary History
+
+Phylogenetic systems of classifying organisms into various groups are mostly based on:
+W) physical appearances
+X) numbers of genes
+Y) evolutionary history 
+Z) environmental origi ns
+
+----
+num: 4
+category: Life Science
+difficulty: MS
+answer: W)  Wing of a Bat and the Arm of a Human
+
+Which of the following are homologous structures:
+W) wing of a bat and the arm of a human
+X) leg of a cat and the wing of a fly
+Y) stinger of a bee and the fang of a sna ke
+Z) rattler of a rattle snake and the whistle of a song bird
+
+----
+num: 6
+category: Earth Science
+difficulty: MS
+answer: X)  40
+
+About what percent of the Northern Hemisphere is continental land mass:
+W) 20
+X) 40
+Y) 60
+Z) 80
+
+----
+num: 6
+category: Earth Science
+difficulty: MS
+answer: Z)  Nitrogen
+(Solution: Earth ~ 78%;  Venus ~ 3.5%;  Mars ~ 2.7%)
+
+Which of the following atmospheric gases is found on 
+Earth and on our two closest planetary neighbors, but is found in much higher concentrations in 
+Earth’s atmosphere:
+W) helium
+X) carbon dioxide 
+Y) argon 
+Z) nitrogen
+
+----
+num: 8
+category: General Science
+difficulty: MS
+answer: W)  Salamanders
+
+Measuring at 2 feet in length, the hel lbender, commonly known as a snot otter or devil dog, found in many streams in the Appalachian and Ozark Mountains of the Eastern United States, are one of the larges species of:
+W) salamanders
+X) jawless fish
+Y) giant catfish
+Z) bright, red -colored frogs with horn-like ears
+
+----
+num: 8
+category: General Science
+difficulty: MS
+answer: Y)  Their Presence Is an Excellent Indicator That the Water 
+Quality of the Stream Is Good
+
+Which of the following is most likely if a healthy hellbender population is found in a stream:
+W) they should be eradicated because they eat all the predatory fish
+X) they are venomous creatur es and are a threat to people
+Y) their presence is an excellent indicator that the water quality of the stream is good
+Z) their presence is an excellent indicator that the stream is polluted with heavy metals and PCB’s
+
+----
+num: 9
+category: Life Science
+difficulty: MS
+answer: Y)  Nucleic Acid and Protein
+
+Ribosomes are made of:
+W) protein only
+X) nucleic acid only
+Y) nucleic acid and protein 
+Z) nucleic acid and carbohydrate
+
+----
+num: 10
+category: Physical Science
+difficulty: MS
+answer: W)  They Have Low Melting Points
+
+Which of the following is LEAST accurate of ionic solids such as NaCl:
+W) they have low melting points
+X) they are salts
+Y) they conduct electricity when dissolved in water
+Z) they dissolve completely in water
+
+----
+num: 10
+category: Physical Science
+difficulty: MS
+answer: Z)  Heat
+
+Knowing that an extensive property of a system is a physical quality whose value DOES depend on the amount of the substance in a system, which of the following is an extensive propert y:
+W) temperature
+X) melting point
+Y) density
+Z) heat
+
+----
+num: 11
+category: Earth Science
+difficulty: MS
+answer: W)  the Sun
+
+Which of the following celestial objects has the closest chemical makeup to the planet Jupiter:
+W) the Sun
+X) the planet Earth
+Y) the planet Mercury
+Z) a Kuiper -belt comet
+
+----
+num: 11
+category: Earth Science
+difficulty: MS
+answer: W)  Strong Earthquakes With Deep Foci
+
+Which of the following is NOT prevalent at mid -ocean ridges:
+W) strong earthquakes with deep foci 
+X) black smokers
+Y) hydrothermal activit y
+Z) rift valleys
+
+----
+num: 13
+category: General Science
+difficulty: MS
+answer: Y)  Chickenpox
+
+Which of the following is a highly contagious disease and is easily spread from person to person by simply coughing or sneezing:
+W) HIV
+X) Lyme disease
+Y) chickenpox
+Z) cellulitis
+
+----
+num: 14
+category: Life Science
+difficulty: MS
+answer: Z)  Crocodiles
+
+Which of the follo wing animals are believed to be the closest living relatives to the dinosaurs:
+W) salamanders
+X) snakes
+Y) ostriches
+Z) crocodiles
+
+----
+num: 15
+category: Physical Science
+difficulty: MS
+answer: Z)  Particles and Waves
+
+The behavior of light has lead scientists to generally consider light as behaving as:
+W) a particle only
+X) a wave only
+Y) the most basic energy source
+Z) particles and waves
+
+----
+num: 15
+category: Physical Science
+difficulty: MS
+answer: Y)  They Need Only One Electron to Fill Their Outermost Shell 
+So They Are Highly Reactive
+
+Which of the following BEST explains why the halogens are found in nature as co mpounds or ions:
+W) they have an excess of neutrons and are unstable in pure form
+X) they have 1 electron in their outer shell
+Y) they need only one electron to fill their outermost shell so they are highly reactive
+Z) they are non-metals with unfille d energy shells
+
+----
+num: 16
+category: General Science
+difficulty: MS
+answer: Y)  1 Cup White Granulated Sugar
+(Solution: Liver ~ 7;  Lard ~ 0;  Potato ~ 50;  Sugar ~ 200 G)
+
+Which of the following foods contains the MOST grams of carbohydrates:
+W) 3 ounces fried beef liver
+X) 1 cup lard
+Y) 1 cup white granulated sugar
+Z) 1, 8-ounce baked potato, with skin
+
+----
+num: 17
+category: Earth Science
+difficulty: MS
+answer: Z)  the Dew Point Is Measured in Percent Along With the 
+Relative Humidity
+
+Which of the following is NOT true of humidity:
+W) relative humidity is a description of the water vapor content in air 
+X) humans feel uncomfortable when the rel ative humidity is high because cooling from sweating is less effective
+Y) dew points normally occur when the relative humidity of an air mass is 100%
+Z) the dew point is measured in percent along with the relative humidity
+
+----
+num: 19
+category: Life Science
+difficulty: MS
+answer: X)  Hot Spring
+
+In which of the following environments would a thermophilic bacteria most likely evolve:
+W) Antarctic
+X) hot spring
+Y) desert
+Z) thermokarst
+
+----
+num: 20
+category: Physical Science
+difficulty: MS
+answer: Z)  Flammable
+
+Which of the following is NOT a hazard that would be listed on the Material Safety Data Sheet for concentrated sulfuric acid:
+W) corrosive
+X) poison
+Y) use with adequate ventilation
+Z) flammable

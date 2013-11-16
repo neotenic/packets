@@ -1,0 +1,283 @@
+####
+tournament: Web Sample
+round: m_round11.pdf
+####
+
+num: 1
+category: Life Science
+difficulty: MS
+answer: X)  Replication
+
+Which of the following terms is MOST commonly used to refer to the copying of DNA during the cell cycle:
+W) duplication
+X) replication
+Y) translation
+Z) complementation
+
+----
+num: 2
+category: Physical Science
+difficulty: MS
+answer: W)  Electroscope
+
+Which of the following is a simple instrument often used to demonstrate electrostatic induction:
+W) electroscope
+X) voltmeter
+Y) electrometer
+Z) spectrometer
+
+----
+num: 3
+category: Earth Science
+difficulty: MS
+answer: X)  Low -Gradient Streams
+
+Meanders are typically associated with:
+W) turbulent rivers
+X) low-gradient streams
+Y) V-shaped valleys
+Z) alluvial fans
+
+----
+num: 5
+category: General Science
+difficulty: MS
+answer: Y)  Centrifugation
+
+Which of the following would be most useful for separating blood into its component parts:
+W) cross matc hing
+X) precipitation
+Y) centrifugation
+Z) atomization
+
+----
+num: 5
+category: General Science
+difficulty: MS
+answer: X)  12 Centimeters
+
+Which of the following is closest to the diameter of a standard compact disc or DVD:
+W) 3 centimeters
+X) 12 centimeters
+Y) 20 millimeters
+Z) 1500 millimeters
+
+----
+num: 6
+category: Life Science
+difficulty: MS
+answer: Z)  Lipids
+
+Which of the following is the most common long -term storage form of energy for vertebrate animals:
+W) nucleic acids
+X) proteins
+Y) starch
+Z) lipids
+
+----
+num: 7
+category: Physical Science
+difficulty: MS
+answer: Y)  It Is Toxic to Humans Even in Very Low Concentrations
+
+Which of the following is LEAST accurate regarding the element helium:
+W) it is the second most abundant element in the universe
+X) it is constantly escaping from Earth’s atmosphere into space
+Y) it is toxic to humans even in very low concentrations
+Z) it is a noble gas
+
+----
+num: 7
+category: Physical Science
+difficulty: MS
+answer: Y)  Graphite
+
+Which of the following substances when pure typically contains ONLY carbon atoms:
+W) isopropyl alcohol
+X) glass
+Y) graphite
+Z) natural gas
+
+----
+num: 8
+category: General Science
+difficulty: MS
+answer: Y)  1 Cup Raw Spinach
+(Solution: Apple ~ 125;  Potato ~ 220;  Spinach ~ 10;  Oil ~ 125)
+
+Which of the following contains the FEWEST calories:
+W) 1 large, fresh apple
+X) 1 large, baked potato
+Y) 1 cup raw spinach
+Z) 1 tablespoon extra virgin olive oil
+
+----
+num: 9
+category: Earth Science
+difficulty: MS
+answer: W)  Limestone
+
+The presence of which of the following most clearly indicates that much of the U.S. was covered by shallow seas for mi llions of years:
+W) limestone
+X) breccia
+Y) basalt
+Z) coal
+
+----
+num: 9
+category: Earth Science
+difficulty: MS
+answer: X)  Mid -Atlantic Ridge
+
+In which of the following locations would a preponderance of actively-produced pillow lavas be found:
+W) Mount Saint Helens
+X) mid-Atlantic ridge
+Y) Mount Vesuvius, Italy
+Z) Yellowstone Caldera
+
+----
+num: 11
+category: Life Science
+difficulty: MS
+answer: W)  Culture
+
+Which of the following is a general term widely used by scientists to indicate artificial growth of cells in the laboratory:
+W) culture
+X) monocell
+Y) attenuate
+Z) decoction
+
+----
+num: 11
+category: Life Science
+difficulty: MS
+answer: W)  Substrate
+
+Which of the following is the most common term biologists use for the molecule that an enzyme will act on:
+W) substrate
+X) product
+Y) producer
+Z) catalyst
+
+----
+num: 12
+category: Physical Science
+difficulty: MS
+answer: X)  When Pure Water Freezes, It Reaches Its Maximum Density at 
+0ºc
+(Solution: Max Density at ~4ºc)
+
+Which of the following is NOT true:
+W) the freezing point of pure water is 0ºC at sea level
+X) when pure water freezes, it reaches its maximum density at 0ºC
+Y) adding salt to ice will lower its melting point 
+Z) when pure maple syrup is cooled below 0ºC, pure water ice separates out
+
+----
+num: 13
+category: Earth Science
+difficulty: MS
+answer: Z)  Most of Earth’s Groundwater Comes From Glacial 
+Meltwater
+
+Which of the following is NOT true:
+W) global sea levels have generally risen over the past 18,000 years
+X) the Mississippi River Delta in Louisiana has one of the highest rates of wetland loss in the U.S. 
+Y) tide stations measure local sea levels 
+Z) most of Earth’s groundwater comes from glacial meltwater
+
+----
+num: 13
+category: Earth Science
+difficulty: MS
+answer: X)  Abrasion
+
+The primary process in the mechanical weathering of rocks worldwide is:
+W) exfoliation
+X) abrasion
+Y) thermal expansion
+Z) t hermal contraction
+
+----
+num: 15
+category: General Science
+difficulty: MS
+answer: Y)  Virus
+
+Chickenpox is a disease caused by a:
+W) bacteria
+X) fungus
+Y) virus
+Z) protozoan
+
+----
+num: 15
+category: General Science
+difficulty: MS
+answer: W)  Lupus
+
+Which of the following is an autoimmune disease:
+W) Lupus
+X) spina bifida
+Y) scabies
+Z) y ellow fever
+
+----
+num: 16
+category: Life Science
+difficulty: MS
+answer: X)  Trypsin
+
+Which of the following is a protein:
+W) glycerol
+X) trypsin
+Y) cholesterol 
+Z) tyrosine
+
+----
+num: 18
+category: Earth Science
+difficulty: MS
+answer: Z)  Methane
+
+Which of the following is a greenhouse gas that primarily comes from landfills, coal mines, oil and natural gas operations, and agriculture:
+W) ozone
+X) sulfur dioxide
+Y) nitric oxide
+Z) methane
+
+----
+num: 18
+category: Earth Science
+difficulty: MS
+answer: Z)  Pleistocene
+
+Mammoths and mastodons became extinct around the end of the:
+W) Cretaceous
+X) Jurassic
+Y) Triassic
+Z) Pleistocene
+
+----
+num: 20
+category: General Science
+difficulty: MS
+answer: Y)  Middle Age
+
+If we were to use human developmental stages for the age of our Sun, in which of the following stages of life would our Sun be considered:
+W) infant
+X) teenager
+Y) middle age
+Z) elde rly
+
+----
+num: 23
+category: Earth Science
+difficulty: MS
+answer: X)  Cretaceous and Tertiary
+
+The impact crater located beneath the Yucatan Peninsula in Mexico is implicated i n causing an extinction event that happened between which of the following two periods:
+W) Permian and Triassic
+X) Cretaceous and Tertiary
+Y) Cambrian and Ordovician
+Z) Devonian and Carboniferous

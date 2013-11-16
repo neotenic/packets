@@ -1,0 +1,263 @@
+####
+tournament: Sample
+round: round17.pdf
+####
+
+num: 1
+category: Chemistry
+difficulty: HS
+answer: Z)  Optical
+
+L-alanine and D-alanine are BEST classified as what type of isomers:
+W) cis
+X) trans
+Y) structural
+Z) optical
+
+----
+num: 2
+category: Biology
+difficulty: HS
+answer: Y)  It Activates a Wide Variety of Specific Protein Kinases
+
+Which of the following BEST explains how cyclic AMP can cause so many different intracellul ar responses in a mammalian cell:
+W) it is produced in large quantities
+X) it migrates to the DNA where it binds to a variety of histones
+Y) it activates a wide variety of specific protein kinases
+Z) it prevents the activation of other hormonal signal s
+
+----
+num: 2
+category: Biology
+difficulty: HS
+answer: Z)  Removing Introns
+
+Which of the following BEST describes the function of a spliceosome (read as: SPLY-see-oh-zome):
+W) splicing DNA together during replication
+X) splicing out mutations
+Y) joining multiple copies of structural genes
+Z) removing introns
+
+----
+num: 3
+category: Physics
+difficulty: HS
+answer: X)  the Radium Is Replenished by Decay of Longer Lived 
+Radioactive Elements
+
+Which of the following BEST explains how a radium isotope with a half-life of about 1,600 years can be found in the crust of the Earth that was formed millions of years ago:
+W) its decay is slowed by the pressure of the Earth
+X) the radium is replenished by decay of longer lived radioactive elements
+Y) the radium was replenished by meteors a nd asteroids over the millennia 
+Z) the radium is recycled from the Earth’s core where magnetic fields slow the decay
+
+----
+num: 3
+category: Physics
+difficulty: HS
+answer: X)  the Proximity to Production Facilities for Short -Lived 
+Radioisotopes
+
+Which of the following is probably the most significant limitation for PET scans being used in remote rural hospital sites:
+W) lack of properly trained personnel
+X) the proximity to production facilities for short -lived radioisotopes
+Y) the high level of radiation requiring special training and increased radiation risk
+Z) difficulty in PET radiotracers binding to receptors when imaging certain human tissues
+
+----
+num: 5
+category: Earth Science
+difficulty: HS
+answer: X)  6.0 to 7.0
+
+Most terrestrial plants grow best in soil with a pH range of:
+W) 4.5 to 5.5
+X) 6.0 to 7.0
+Y) 7.0 to 8.0
+Z) 7.5 to 8.5
+
+----
+num: 5
+category: Earth Science
+difficulty: HS
+answer: Y)  Aluminum Toxicity to Their Roots
+
+Which of the following is a problem that affects most plants growing in very acidic soil:
+W) iron deficiency
+X) accumulation of excess salt in their foliage
+Y) aluminum toxicity to their roots
+Z) excess calcium and magnesium ion uptake
+
+----
+num: 6
+category: General Science
+difficulty: HS
+answer: Z)  High Self -Discharge Rate
+
+Which of the following best illustrates a limitation of a supercapacitor, or electric double -layer capacitor, versus an electrochemical battery:
+W) virtually unlimited cycle life
+X) rapid recharging
+Y) low impedance
+Z) high self-discharge rate
+
+----
+num: 7
+category: Astronomy
+difficulty: HS
+answer: Y)  Glowing H Ii Regions
+
+Which of the following would astronomers most likely consider emission nebula:
+W) Population III (read as: 3) regions
+X) Population II (read as: 2) regions
+Y) glowing H II (read as: H, 2) regions
+Z) active regions
+
+----
+num: 7
+category: Astronomy
+difficulty: HS
+answer: W)  in Globular Clusters
+
+In which of the following locations would there typically be more Population Two stars than Population One stars:
+W) in globular clusters
+X) in spiral arms of galaxies 
+Y) in planetary nebula 
+Z) in regions actively forming stars
+
+----
+num: 8
+category: Chemistry
+difficulty: HS
+answer: X)  M–^1s–^1^
+(Solution: Units Relationship Is M ^1–^order × Time–^1)
+
+Which of the following are the units of the rate constant for a 2 ^nd order reaction given that concentration is me asured in molarity and time in seconds:
+W) M–^2s–^1^
+X) M–^1s–^1^
+Y) Ms–^1^
+Z) M –^2minutes–^1
+
+----
+num: 9
+category: Biology
+difficulty: HS
+answer: W)  Hypothalamus
+
+Which of the following is the tar get tissue of the hormone le ptin where it binds with LepRB (read as: L, E, P, R, B) receptors:
+W) hypothalamus 
+X) pancreas
+Y) adipose tissue
+Z) kidney
+
+----
+num: 9
+category: Biology
+difficulty: HS
+answer: Y)  an Omega 3 Fatty Acid
+
+Which of the following types of fa tty acids would alpha linolenic or all cis -9,12,15-Octadecatrienoic (read as: octa -deca-tri-en-oh-ick) acid most commonly be classified:
+W) an alpha 9 fatty acid
+X) an alpha 9,12,15 fatty acid
+Y) an omega 3 fatty acid
+Z) an omega 6 fatty acid
+
+----
+num: 11
+category: Math
+difficulty: HS
+answer: W)  Z)   Y = 4x + 3
+Y = 4x – 3
+(Solution: Using the Derivative,  Y’ = 4x^3, the Slope of the Tangent Line at  X = 1 Is 4.  the Line Must Pass 
+Through (1, 1) So Y – 1 = 4(x – 1))
+
+Which of the following is the equation for the tangent line for y = x^4 at the point (1, 1):
+Y) X) W) y
+yy= 4= 4= 4xxx+ 1 – –1 3
+
+----
+num: 12
+category: Earth Science
+difficulty: HS
+answer: X)  Olivine
+
+According to the discontinuous side of Bowen’s reaction series, which of the following is likely to first crystallize as basaltic magma cools:
+W) quartz
+X) olivine
+Y) pyroxene
+Z) hornblende
+
+----
+num: 13
+category: General Science
+difficulty: HS
+answer: W)  Infant
+
+Which of the following age groups would have the most brown fat per kilogram of body weight:
+W) infant
+X) adolescent
+Y) middle age
+Z ) elderly
+
+----
+num: 13
+category: General Science
+difficulty: HS
+answer: X)  Oxidative Metabolism
+
+Which of the following physiological processes generates most of the heat needed to keep an infant warm:
+W) digestion of food in the gut
+X) oxidative metabolism
+Y) inspiration of air
+Z) bacterial activity in the gut
+
+----
+num: 15
+category: Chemistry
+difficulty: HS
+answer: Y)  Removing Carbon Dioxide
+(Solution: Shifts to the Right)
+
+Consider the following equilibrium reaction, 
+FeO + CO ↔ Fe + CO , where ∆H (read as: delta H) equals –10 kilojoules. Which ^(solid) ^(gas) ^(solid) ^2(gas)of the following would have a similar eff ect on the equilibrium position as lowering the temperature:
+W) adding iron
+X) increasing pressure
+Y) removing carbon dioxide
+Z) removing carbon monoxide
+
+----
+num: 17
+category: Physics
+difficulty: HS
+answer: Z)  the Square Root of the Bulk Modulus of the Liquid Divided 
+by Its Density
+
+Which of the following BEST describes h ow one would compute the speed for a sound wave through a liquid:
+W) the square of the density of liquid divided by its bulk modulus
+X) the square of the bulk modulus of the liquid divided by its density 
+Y) the square root of the density of liquid div ided by its bulk modulus
+Z) the square root of the bulk modulus of the liquid divided by its density
+
+----
+num: 19
+category: Earth Science
+difficulty: HS
+answer: W)  Continental Tropical
+
+Which of the following BEST describes an air mass that originates in northern Mexico, moves into the Great Plains and stagn ates, resulting in severe drought:
+W) continental tropical
+X) continental polar
+Y) maritime tropical
+Z) maritime polar
+
+----
+num: 20
+category: General Science
+difficulty: HS
+answer: Z)  the Energy Content Per Gallon of Biodiesel Is 
+Approximately 28% Lower Than That of Ethanol
+
+Which of the following is NOT true regarding t he burning of biodiesel versus gasoline in automobile engines:
+W) biodiesel combustion does not emit SO ^2
+X) biodiesel contains more oxygen than gasoline
+Y) the CO^2 released when biodiesel is burned is the same CO ^2 the plants removed from the atmosphere as they grew
+Z) the energy content per gallon of biodiesel is approximately 28% lower than that of ethanol

@@ -1,0 +1,365 @@
+####
+tournament: #6307
+round: Show #6307 - Tuesday, February 7, 2012
+year: 2012
+date: 2012-02-07
+####
+
+num: 1
+category: Literature
+difficulty: 200
+seen: 4
+answer: Moses
+
+Aaron, who was denied entrance into Canaan, was the biblical brother of Miriam & this man.
+
+----
+num: 2
+category: Literature
+difficulty: 200
+seen: 3
+answer: a Caltech deck
+
+A pack of playing cards for a Pasadena school with a Jet Propulsion Lab.
+
+----
+num: 3
+category: Science
+difficulty: 200
+seen: 9
+answer: an applet
+
+This term for a small program that runs within an application sounds like a baby Granny Smith.
+
+----
+num: 4
+category: Geography
+difficulty: 200
+seen: 8
+answer: Puerto Rico
+
+A Caribbean island:.
+
+----
+num: 5
+category: Literature
+difficulty: 200
+seen: 4
+answer: Visa
+
+If "more people go with" this credit card, then why shouldn't mom & dad give you one with an unlimited line of credit?.
+
+----
+num: 6
+category: Literature
+difficulty: 400
+seen: 4
+answer: Aaron Burr
+
+Before becoming vice president, he was a Lt. Colonel in the Continental Army during the Revolutionary War.
+
+----
+num: 7
+category: Literature
+difficulty: 400
+seen: 5
+answer: a Georgetown gown
+
+A ballroom dress for a Washington, D.C. university function.
+
+----
+num: 8
+category: Science
+difficulty: 400
+seen: 6
+answer: bytes per second
+
+Baud, an old unit of signaling speed, is now measured as bps, short for this.
+
+----
+num: 9
+category: Literature
+difficulty: 400
+seen: 4
+answer: figure skating
+
+Irina Slutskaya &.
+
+----
+num: 10
+category: Literature
+difficulty: 400
+seen: 4
+answer: Harley-Davidson
+
+The folks can make you a road hog on a 2011 Road King Classic from this motorcycle company.
+
+----
+num: 11
+category: Literature
+difficulty: 600
+seen: 3
+answer: (Aaron) Spelling
+
+A reality show focused on this TV mogul's widow, Candy, selling their 56,500-square-foot manor.
+
+----
+num: 12
+category: Literature
+difficulty: 600
+seen: 4
+answer: Tulane rain
+
+Precipitation falling on a New Orleans college.
+
+----
+num: 13
+category: Science
+difficulty: 600
+seen: 6
+answer: cloud computing
+
+Look to the sky for this type of computing that stores your info online, not on your hard drive.
+
+----
+num: 14
+category: Geography
+difficulty: 600
+seen: 7
+answer: Tripoli
+
+A North African city:.
+
+----
+num: 15
+category: Literature
+difficulty: 600
+seen: 4
+answer: the Bahamas
+
+Sending you & 20 of your pals to Atlantis on Nassau's Paradise Island in this nation?  How nice!.
+
+----
+num: 16
+category: Literature
+difficulty: 800
+seen: 4
+answer: (Aaron) Sorkin
+
+screenplay for "The Social Network" got us to care deeply about intellectual property law.
+
+----
+num: 17
+category: Literature
+difficulty: 800
+seen: 4
+answer: a Duke fluke
+
+A stroke of unexpected good luck for a Durham college.
+
+----
+num: 18
+category: Geography
+difficulty: 800
+seen: 7
+answer: Bloemfontein
+
+A South African city:.
+
+----
+num: 19
+category: Literature
+difficulty: 800
+seen: 4
+answer: Gucci
+
+Into handbags?  The Sukey tote with detachable interlocking G charm from this Italian company is only $1,515.
+
+----
+num: 20
+category: Literature
+difficulty: 1000
+seen: 4
+answer: (Aaron) Copland
+
+This American composer for ballet also won an Oscar for his work on the 1949 film "The Heiress".
+
+----
+num: 21
+category: Literature
+difficulty: 1000
+seen: 4
+answer: a Gallaudet net
+
+A tennis court divider at a university for the hearing impaired.
+
+----
+num: 22
+category: Literature
+difficulty: 1000
+seen: 4
+answer: Pablo Picasso
+
+"Boy With a Pipe" by this alliteratively named Spaniard, which sold for $104 mil. in 2004, would look great on your wall.
+
+----
+num: 23
+category: Science
+difficulty: 400
+seen: 5
+answer: four
+
+To multiply 2.57 & 5.72, take the product of 257 & 572 & move the decimal point this many places to the left.
+
+----
+num: 24
+category: History
+difficulty: 400
+seen: 4
+answer: (Ulysses) Grant
+
+Nearly 4 years after the end of the Civil War, he became the first veteran of that war elected president.
+
+----
+num: 25
+category: Art
+difficulty: 400
+seen: 4
+answer: a footman
+
+In Disney's "Cinderella", a dog is transformed into this liveried servant who attends the carriage.
+
+----
+num: 26
+category: Trash
+difficulty: 400
+seen: 4
+answer: Will Smith
+
+He starred in "Men in Black" & rapped the title song on the soundtrack.
+
+----
+num: 27
+category: Science
+difficulty: 800
+seen: 6
+answer: a cube
+
+The ancient altar at Delos was this geometric shape, so the "Delian Problem" is how to exactly double it in volume.
+
+----
+num: 28
+category: History
+difficulty: 800
+seen: 4
+answer: Lady Bird Johnson
+
+She married the future president on November 17, 1934 in San Antonio.
+
+----
+num: 29
+category: Art
+difficulty: 800
+seen: 4
+answer: brass knuckles
+
+The TSA specifically bans.
+
+----
+num: 30
+category: Trash
+difficulty: 800
+seen: 5
+answer: Clooney
+
+He co-wrote, directed & starred in "The Ides of March".
+
+----
+num: 31
+category: History
+difficulty: 1200
+seen: 3
+answer: (Nancy) Reagan
+
+The daughter of a stage actress, she began her film career in 1949 with a role in "The Doctor and the Girl".
+
+----
+num: 32
+category: Art
+difficulty: 1200
+seen: 4
+answer: kidney bean
+
+Cannellini is an Italian white type of this legume.
+
+----
+num: 33
+category: Trash
+difficulty: 1200
+seen: 5
+answer: Emma Thompson
+
+She played Elinor Dashwood in 1995's "Sense and Sensibility", for which she adapted the screenplay.
+
+----
+num: 34
+category: Science
+difficulty: 1600
+seen: 6
+answer: a permutation
+
+This arrangement of a group is often paired with "combination"; for 3 items, there are 3 x 2 x 1 or 6 possible ones.
+
+----
+num: 35
+category: History
+difficulty: 1600
+seen: 4
+answer: John Quincy Adams
+
+He served as minister to the Netherlands from 1794 to 1797, while his father was vice president.
+
+----
+num: 36
+category: Art
+difficulty: 1600
+seen: 4
+answer: shin splints
+
+This painful condition of the front of the lower leg can be the result of running on a non-resilient surface.
+
+----
+num: 37
+category: Trash
+difficulty: 1600
+seen: 5
+answer: Seth Rogen
+
+He got writing credits on "Superbad", "Pineapple Express" & "The Green Hornet", & acted in all 3.
+
+----
+num: 38
+category: History
+difficulty: 2000
+seen: 5
+answer: Bess Truman
+
+Born Elizabeth Wallace, she was 97 when she died in 1982, the longest-living First Lady.
+
+----
+num: 39
+category: Art
+difficulty: 2000
+seen: 6
+answer: a ribeye
+
+There are 2 body parts in the name of this steak from between the short loin & the chuck.
+
+----
+num: 40
+category: Trash
+difficulty: 2000
+seen: 9
+answer: Jon Favreau
+
+wrote and starred in "Swingers"; he also directed "Cowboys & Aliens".

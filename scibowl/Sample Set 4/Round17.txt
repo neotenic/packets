@@ -1,0 +1,309 @@
+####
+tournament: Sample Set 4
+round: Round17.pdf
+####
+
+num: 1
+category: Physical Science
+difficulty: MS
+fixed: -1
+seen: 6
+answer: Toward the Center of the Circle
+
+In which direction does the vector of centripetal (read as: sehn-TRI-peh-tahl) acceleration point in uniform circular motion?
+
+----
+num: 1
+category: Physical Science
+difficulty: MS
+seen: 5
+answer: 2
+
+
+If an object in uniform circular motion has a centripetal acceleration of 2 meters per second squared and is moving in a circle with a radius of 2 meters, what is its velocity in meters per second?
+
+----
+num: 2
+category: General Science
+difficulty: MS
+seen: 6
+answer: 3
+
+How many carbon atoms are in a molecule of propanol?
+
+----
+num: 3
+category: Life Science
+difficulty: MS
+seen: 11
+answer: Propase One
+ 
+
+During what stage of meiosis does crossing over take place?
+
+----
+num: 4
+category: Earth and Space Science
+difficulty: MS
+seen: 5
+answer: Squall Line
+
+What is the name for an elongated cluster of thunderstorm cells that is accompanied by a continuous gust front at the li ne’s leading edge?
+
+----
+num: 5
+category: General Science
+difficulty: MS
+seen: 7
+answer: 418,400  (Accept: 418,000)
+
+According to its nutrition facts, a candy bar contains 100 calories. Giving your answer to the nearest hundred, what would the equivalent be in joules?
+
+----
+num: 5
+category: General Science
+difficulty: MS
+seen: 5
+answer: 25,000
+ 
+
+Giving your answer to the nearest thousand, how many joules of energy are required to raise the temperature of 2 kilograms of water by 3 degrees 
+Celsius?
+
+----
+num: 6
+category: Energy
+difficulty: MS
+seen: 7
+answer: Heat Engine
+
+What type of device converts heat energy into mechanical work?
+
+----
+num: 7
+category: General Science
+difficulty: MS
+seen: 6
+answer: Anadromous
+
+
+What is the adjective for a fish that is born in fresh water, swims to salt water, and returns to fresh water to spawn?
+
+----
+num: 8
+category: Physical Science
+difficulty: MS
+seen: 5
+answer: An Electron Pair (Accept: Electrons)
+
+According to the Lewis definition of an acid, what can a 
+Lewis acid accept from a Lewis base?
+
+----
+num: 9
+category: Earth and Space Science
+difficulty: MS
+fixed: -1
+seen: 5
+answer: Y) 66%
+
+About what percentage of worldwide rainfall occurs in the tropics?
+W) 14%
+X) 45%
+Y) 66%
+Z) 85%
+
+----
+num: 10
+category: Math
+difficulty: MS
+seen: 6
+answer: 1
+
+What is the integer value that is equal to log 5 + log 2?
+
+----
+num: 10
+category: Math
+difficulty: MS
+seen: 6
+answer: 28
+
+What is the volume of a rectangular pyramid in cubic meters if the length of the base is 3.5 meters, the width of the base is 4 me ters and the height of the pyramid is 6 meters?
+
+----
+num: 11
+category: Physical Science
+difficulty: MS
+seen: 5
+answer: Mass and Velocity
+ __
+
+The linear momentum of a particle is directly proportional to which two quantities?
+
+----
+num: 12
+category: Life Science
+difficulty: MS
+seen: 10
+answer: Imperfect Fungi (Accept: Deuteromycota)
+
+Give the name currently used for the heterogeneous group of fungi in which scientists have never observed sexual reproduction.
+
+----
+num: 12
+category: Life Science
+difficulty: MS
+seen: 11
+answer: Penicillin
+
+Name the best known product made from organisms classified as imperfect fungi.
+
+----
+num: 13
+category: Math
+difficulty: MS
+seen: 7
+answer: 12
+
+What is the sum of all positive integer factors of 6?
+
+----
+num: 13
+category: Math
+difficulty: MS
+seen: 6
+answer: N + 2
+
+
+Assuming all functions are defined, and expressing your answer in simplest form, evaluate (n^2 + 7n – 8)/(n – 1) x (n^2 – 4)/(n^2 + 6n – 16)
+Read as: open parenthesis n squared plus 7n minus 8 close parenthesis over open parenthesis n minus 1 close parenthesis times the quantity open parenthesis n squared minus 4 close parenthesis over open parenthesis n squared plus 6n minus 16 close parenthesis.
+
+----
+num: 14
+category: Energy
+difficulty: MS
+seen: 6
+answer: Power
+
+In a four stroke internal combustion engine, during which stroke is the energy transformed from chemical potential energy to kinetic energy?
+
+----
+num: 14
+category: Energy
+difficulty: MS
+seen: 7
+answer: A Heat Sink
+
+A car’s radiator is an example of a component that transfers heat generated within a solid material to a fluid medium. What is such a component called?
+
+----
+num: 16
+category: Math
+difficulty: MS
+seen: 5
+answer: 2
+
+How many positive factors does the number 1051 have?
+
+----
+num: 16
+category: Math
+difficulty: MS
+seen: 6
+answer: 
+
+In right triangle ABC, angle A = 60°, angle C = 90°, and side AB = 10 centimeters. What is the length of side BC in centimeters?
+
+----
+num: 17
+category: Life Science
+difficulty: MS
+seen: 10
+answer: They Have Declined
+
+Since the 1970’s, what have scientists observed about the size of global amphibian population?
+
+----
+num: 18
+category: Energy
+difficulty: MS
+seen: 6
+answer: Combustion (Accept: Oxidation)
+
+What chemical reaction is necessary to convert the chemical energy from fossil fuels into useable forms of energy such as electricity?
+
+----
+num: 19
+category: Earth and Space Science
+difficulty: MS
+seen: 6
+answer: 1/25
+
+If Jupiter is approximately 5 times further from the Sun than the Earth, what fraction of the intensity of light does it receive relative to the 
+Earth?
+
+----
+num: 20
+category: Math
+difficulty: MS
+seen: 6
+answer: (4, 0) and (-3, 0) (Accept: 4 and -3)
+
+What are the x-intercepts for the function f(x) = x² - x - 12?
+
+----
+num: 20
+category: Math
+difficulty: MS
+seen: 6
+answer: 
+
+Find the reference angle to angle A =
+
+----
+num: 21
+category: Life Science
+difficulty: MS
+seen: 10
+answer: Analogous
+
+
+The similarities between the wings of a bat and the wings of a dragonfly can be described, in evolutionary terms, as what type of structures?
+
+----
+num: 22
+category: General Science
+difficulty: MS
+seen: 6
+answer: Hydrogen Bonds
+
+What type of bonds are the main intermolecular forces that allow water molecules to undergo cohesion?
+
+----
+num: 23
+category: Earth and Space Science
+difficulty: MS
+seen: 6
+answer: Solid Pools of Lava (Accept: Basaltic Lava)
+
+
+What geological feature is responsible for the dark spots on the moon?
+
+----
+num: 24
+category: Math
+difficulty: MS
+seen: 6
+answer: 12
+
+What is the radius in units of a cone with a volume of 384 π cubic units and a height of 8 units?
+
+----
+num: 25
+category: Earth and Space Science
+difficulty: MS
+seen: 6
+answer: Natural Gas
+
+Recently, deposits of which natural resource were found in the Marcellus shale of the Appalachian Basin?

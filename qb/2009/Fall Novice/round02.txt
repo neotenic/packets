@@ -1,0 +1,234 @@
+####
+tournament: Fall Novice
+round: round02.doc
+year: 2009
+####
+
+num: 1
+category: Social Science
+difficulty: HS
+fixed: 57
+seen: 379
+answer: John Maynard {Keynes}
+
+This man's works include Indian Currency and Finance and Treatise on Money, which was criticized by Friedrich Hayek, while in another work, he introduced marginal efficiency of capital and the liquidity trap to criticize monetary policy. His other ideas include a namesake “cross,” the money multiplier, and aggregate supply and demand. For 10 points, name this twentieth-century British economist who opposed classicists in his General Theory of Employment, Interest, and Money.
+
+----
+num: 2
+category: Fine Arts
+difficulty: HS
+fixed: 57
+seen: 493
+answer: Sergei {Prokofiev}
+
+This man's first symphony is nicknamed “Classical” for paying homage to Mozart, and he composed the score for the film Alexander Nevsky. One of his operas has the witch Fata Morganna cause a prince to be enamored of fruit, The Love for Three Oranges. Another of his works contains a “troika” the Lieutenant Kije Suite. In one of his works, the bassoon represents the title character's grandfather. For ten points, identify this composer of Peter and the Wolf.
+
+----
+num: 3
+category: Literature
+difficulty: HS
+fixed: -1
+seen: 448
+answer: {Inferno} [accept {Divine Comedy} until "{Virgil}", prompt from {there} until “part”]
+
+In this work, the narrator discusses the fates of various countrymen with a man known as the “hog,” and that narrator is later assisted by Geryon. This work sees discussion of the deaths of Ugolino and his sons, and Minos assigns punishment by wrapping his tail around himself. This work also featuring the lovers Paolo and Francesa opens in a dark wood on Good Friday, and the narrator is guided by Virgil, who is sent by Beatrice. For 10 points, name this first part of Dante Alighieri's Divine Comedy.
+
+----
+num: 4
+category: Fine Arts
+difficulty: HS
+fixed: 1
+seen: 498
+answer: Ferdinand Victor Eugène {Delacroix}
+
+This painter showed Turkish warriors around wounded civilians of the namesake island in Massacre at Chios. He depicted an Assyrian king watching soldiers destroy his possessions and kill his concubines in a painting based on a Byron play, Death of Sardanapalus. Another of his works shows a man in a top hat holding a rifle and a boy holding two pistols. For 10 points, who painted a semi-nude woman carrying the French flag through piles of debris and bodies, Liberty Leading the People?
+
+----
+num: 4
+category: Fine Arts
+difficulty: HS
+fixed: 1
+seen: 487
+answer: Ferdinand Victor Eugène {Delacroix}
+
+This painter showed Turkish warriors around wounded civilians of the namesake island in Massacre at Chios. He depicted an Assyrian king watching soldiers destroy his possessions and kill his concubines in a painting based on a Byron play, Death of Sardanapalus. Another of his works shows a man in a top hat holding a rifle and a boy holding two pistols. For 10 points, who painted a semi-nude woman carrying the French flag through piles of debris and bodies, Liberty Leading the People?
+
+----
+num: 4
+category: Fine Arts
+difficulty: HS
+fixed: 1
+seen: 493
+answer: Ferdinand Victor Eugène {Delacroix}
+
+This painter showed Turkish warriors around wounded civilians of the namesake island in Massacre at Chios. He depicted an Assyrian king watching soldiers destroy his possessions and kill his concubines in a painting based on a Byron play, Death of Sardanapalus. Another of his works shows a man in a top hat holding a rifle and a boy holding two pistols. For 10 points, who painted a semi-nude woman carrying the French flag through piles of debris and bodies, Liberty Leading the People?
+
+----
+num: 5
+category: Mythology
+difficulty: HS
+fixed: 57
+seen: 784
+answer: Aztecs
+
+One god of this people killed his sister shortly after being born to a mother who was impregnated by a ball of feathers. That god is often represented as a hummingbird, while another god's name means “Smoking Mirror.” These people sacrificed children to their rain god and worshipped another deity whose name means “feathered serpent.” For 10 points, name this Latin American civilization whose gods included Huitzilopochtli, Tezcatlipoca, Tlaloc, and Quetzalcoatl.
+
+----
+num: 6
+category: Geography
+difficulty: HS
+fixed: 1
+seen: 717
+answer: Kingdom of {Morocco} or al Mamlaka al-Magribiyya
+
+This nation, the home of the Rif Mountains, disputes a territory with the Polisario Front, and Spanish enclaves in this nation include Melilla and Ceuta. This nation, which is part of the Maghreb, contains the Atlas Mountains and disputes ownership of Western Sahara. Major cities in this nation include Tangier, Fes, and Marrakech. For 10 points, name this North African nation ruled from Rabat, with largest city Casablanca.
+
+----
+num: 7
+category: History
+difficulty: HS
+fixed: -1
+seen: 419
+answer: {Isabella} I of Spain [or {Isabella} of {Castile}; prompt on {Isabella}]
+
+This figure sought the religious advice of Hernando de Talavera and Cardinal Cisneros. This ruler fought Juana la Beltraneja to succeed Henry IV. This woman expelled Jews from her country with the Alhambra Decree. She succeeded in driving the Moors from Spain during the Reconquista and established the Inquisition with her husband. For 10 points, name this Spanish queen, the wife of Ferdinand of Aragon, who funded the voyages of Christopher Columbus.
+
+----
+num: 8
+category: Philosophy
+difficulty: HS
+fixed: 1
+seen: 523
+answer: Friedrich {Nietzsche}
+
+This man discussed the distinction between Dionysian and Apollonian character in one work, and one chapter entitled “Why I Write Such Good Books” appears in his intellectual autobiography Ecce Homo. This author of The Birth of Tragedy is also known for a statement in The Gay Science. For 10 points, name this German philosopher, who discussed the will to power in Beyond Good and Evil, posited the idea of the ubermensch, and declared that “God is dead.”
+
+----
+num: 9
+category: History
+difficulty: HS
+fixed: 57
+seen: 420
+answer: {Alexander} the Great [or {Alexander} III of {Macedon}({ia}) or {Alexander} of {Macedon}({ia}); prompt on {Alexander}]
+
+This man's first major victory was at the Battle of the Granicus. This man's father defeated the Sacred Band at Charonea, while Bessus murdered this man's nemesis after the Battle of Gaugamela and he won the Battle of Issus, defeating Darius III. This man was also tutored by Aristotle and legendarily cut the Gordian knot. For 10 points, name this Argeadian Macedonian king who laid the foundations for Hellenistic civilization with his vast conquests in the Middle East.
+
+----
+num: 10
+category: Trash
+difficulty: HS
+fixed: 1
+seen: 1021
+answer: The {Beatles}
+
+This band recorded a song that mentions "four thousand holes in Blackburn, Lancashire" and ends with a single chord being sustained for forty-five seconds. This song, “A Day in the Life”, is the final track of the album that also features “Lovely Rita” and “With a Little Help from My Friends”. For 10 points, name this British band, featuring John Lennon and Paul McCartney, that recorded Sgt. Pepper's Lonely Hearts Club Band and songs such as “Yesterday” and “Hey Jude”.
+
+----
+num: 11
+category: Science
+difficulty: HS
+fixed: 57
+seen: 479
+answer: {halogens} [or Group 17; or Group 7A]
+
+This group of elements commonly provides the leaving group in an SN2 reaction. These elements form PTFE when they bond with an alkyl group. They bond with hydrogen to form compounds such as hydrastatic acid and another acid that has the ability to dissolve glass. The most electronegative element is a member of this group. With 7 valence electrons and ions known as halides, for 10 points, name these group seventeen elements including astatine, chlorine, and fluorine.
+
+----
+num: 12
+category: History
+difficulty: HS
+fixed: 1
+seen: 421
+answer: Marcus Tullius {Cicero}
+
+This man was exiled by Clodius Pulcher, prompting his defense of Titus Milo for the murder of Clodius, Pro Milonem. This consul, uncovered the Catiline conspiracy and drove Cataline out of the city. This man critiqued Marc Antony as a debaucher, for which he was killed, and his hands and tongue removed. For 10 points, name this proponent of the senate during Caesar's civil war, a noted orator.
+
+----
+num: 13
+category: Science
+difficulty: HS
+fixed: -1
+seen: 491
+answer: {Doppler} effect
+
+This effect's transverse form was detected by the Ives-Stillwell experiment, and Hubble used this effect to prove the expansion of the universe. This effect is used in astronomy to measure the speed of moving galaxies because the light they produce may blue shift or red shift, which are both examples of this effect. For 10 points, name this effect that explains the change in the frequency of waves as they move by an observer, typically demonstrated by a moving train.
+
+----
+num: 14
+category: Literature
+difficulty: HS
+fixed: 1
+seen: 445
+answer: Gabriel Jose de la Concordia {Garcia Marquez} [prompt on {Marquez}]
+
+This author described the Vicario brothers' murder of Santiago Nasar in his Chronicle of a Death Foretold. In another work by this author, Juvenal Urbino's funeral reunites Fermina Daza and Florentino Ariza, and this man also wrote a novel describing a massacre of banana plantation workers and the seventeen illegitimate children of Colonel Aureliano Buendia. For 10 points, name this Colombian author of Love in the Time of Cholera and One Hundred Years of Solitude.
+
+----
+num: 15
+category: Science
+difficulty: HS
+fixed: 1
+seen: 490
+answer: vitamin {C} [or ascorbic acid; or L-ascorbate; or dehydroascorbic acid]
+
+Before it was discovered by King and Szent-Gyorgyi in 1932, this molecule's importance was demonstrated in an experiment by James Lind in 1747. This substance is required for the synthesis of norepinephrine and carnitine, but most importantly, it hydroxylazes proline and lysine to produce collagen. Linus Pauling advocated for megadoses of, for 10 points, what vitamin which prevents scurvy and can be found in citrus fruits?
+
+----
+num: 16
+category: Trash
+difficulty: HS
+fixed: 1
+seen: 541
+answer: swords
+
+One of these objects containing an emerald was used against Fulad-Zereh by Arsalan, while another is noted for its proficiency against grass and emerged from the corpse of Orochi. In addition to Shamshir and Kusanagi, one hung over the head of Damocles, and another had the inscriptions “take me up” and “cast me away” as well as a holder that would clot wounds. That one was returned by Sir Bedivere to the Lady of the Lake. For 10 points, name this object whose examples include Excalibur, King Arthur's weapon.
+
+----
+num: 17
+category: Science
+difficulty: HS
+fixed: 57
+seen: 484
+answer: {factorial} [prompt “{exclamation} point” before mention]
+
+The gamma function extends this operation to complex numbers, and an approximation named for Stirling can calculate very large ones. This function, whose rate of growth surpasses the exponential function, can be used to find how many permutations there are of n objects. For 10 points, name this function whose symbol is the exclamation point, which for a positive integer consists of multiplication by all lower positive integers.
+
+----
+num: 18
+category: Literature
+difficulty: HS
+fixed: 1
+seen: 440
+answer: John {Keats}
+
+One of his poems is based on the tale of a mythological shepherd loved by Selene, and its first line states “A thing of beauty is a joy forever.” In addition to “Endymion,” one of his poems states that the title creature “was not born for death, Immortal Bird,” and another beginning “Thou still unravished bride of quietness!” concludes “Beauty is truth, truth beauty.” For 10 points, name this Romantic poet of “Ode to a Nightingale” and “Ode on a Grecian Urn.”
+
+----
+num: 19
+category: History
+difficulty: HS
+fixed: None
+seen: 415
+answer: Warren Gamaliel Harding
+
+This president's penchant for a certain game caused his staff to become known as the Poker Cabinet. This man pleaded for a "Return to Normalcy" after the trying times of World War One. This president's Secretary of the Interior was arrested after a scandal involving the sale of certain oil fields to Sinclair Oil in exchange for kickbacks, known as the Teapot Dome scandal. For 10 points, name this president whose time in office saw the start of the Roaring Twenties, and who was succeeded after his death by Calvin Coolidge.
+
+----
+num: 20
+category: Literature
+difficulty: HS
+fixed: 1
+seen: 439
+answer: Edith {Wharton} [or Edith Newbold {Jones}]
+
+In one work by this author, Gus Trenor loans money to a character who overdoses on sleeping pills, Lily Bart. In addition to The House of Mirth, another novel by this author depicts Ellen Olenska falling in love with Newland Archer. This author also wrote a novel in which the title character and his wife's cousin Mattie Silver attempt to kill themselves by running a sled into a tree. For 10 points, name this American author of The Age of Innocence and Ethan Frome.
+
+----
+num: 21
+category: History
+difficulty: HS
+fixed: 57
+seen: 419
+answer: {Hundred Years}' War or {Guerre} de {Cent Ans}
+
+The Jacquerie peasant uprising occurred during this war, which saw one phase ended by the Treaty of Bretigny. The last battle of this war, at Castillon, saw extensive use of cannon, and, at another battle, John II was defeated and captured by the Black Prince. The Siege of Orleans was broken by Joan of Arc during this conflict, which also saw the Battles of Poitiers, Crecy, and Agincourt. For 10 points, name this war between the French and the English that lasted more than a century.

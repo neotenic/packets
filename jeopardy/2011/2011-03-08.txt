@@ -1,0 +1,385 @@
+####
+tournament: #6102
+round: Show #6102 - Tuesday, March 8, 2011
+year: 2011
+date: 2011-03-08
+####
+
+num: 1
+category: Literature
+difficulty: 200
+seen: 4
+answer: a lemon meringue pie
+
+Make your own version of Marie Callender's top-selling pie, this one with stiffly beaten egg whites.
+
+----
+num: 2
+category: History
+difficulty: 200
+seen: 5
+answer: Monroe
+
+Wearing No. 5, he's famous for a doctrine.
+
+----
+num: 3
+category: Art
+difficulty: 200
+seen: 4
+answer: champagne
+
+The tall, narrow flute used for this beverage named for a region of France allows the bubbles to rise slower.
+
+----
+num: 4
+category: Trash
+difficulty: 200
+seen: 6
+answer: a face mask
+
+Jacques Plante is credited with making this piece of equipment de rigueur for goalies.
+
+----
+num: 5
+category: Art
+difficulty: 200
+seen: 5
+answer: peck
+
+A quick kiss, or part of a primitive typing style.
+
+----
+num: 6
+category: Literature
+difficulty: 400
+seen: 4
+answer: an Arnold Palmer
+
+Make lemonade, add an equal amount of iced tea & you'll have this drink named for a golfer.
+
+----
+num: 7
+category: History
+difficulty: 400
+seen: 4
+answer: Buchanan
+
+Was engaged only once, to Ann Coleman, but broke it off.
+
+----
+num: 8
+category: Art
+difficulty: 400
+seen: 4
+answer: a stein
+
+Also the name of a pub at Brandeis U., this earthenware vessel can hold about a pint of beer.
+
+----
+num: 9
+category: Trash
+difficulty: 400
+fixed: -1
+seen: 5
+answer: the Red Wings
+
+A winged wheel is the logo of this franchise.
+
+----
+num: 10
+category: Art
+difficulty: 400
+seen: 4
+answer: Beck
+
+"Odelay" alt-rocker.
+
+----
+num: 11
+category: Literature
+difficulty: 600
+seen: 5
+answer: capers
+
+Cook up a sauce for chicken or fish with lemon & these small, dried pickled buds.
+
+----
+num: 12
+category: History
+difficulty: 600
+seen: 5
+answer: JFK
+
+From 1937 to 1940 his father was U.S. Ambassador to Great Britain.
+
+----
+num: 13
+category: Art
+difficulty: 600
+seen: 4
+answer: a beaker
+
+Although it usually refers to a laboratory container, it can also mean a large drinking cup with a wide mouth.
+
+----
+num: 14
+category: Trash
+difficulty: 600
+seen: 5
+answer: women
+
+In 2010 the Hockey Hall of Fame welcomed its first 2 of these, James & Granato.
+
+----
+num: 15
+category: Art
+difficulty: 600
+seen: 4
+answer: the neck
+
+Area containing the trachea.
+
+----
+num: 16
+category: Literature
+difficulty: 800
+seen: 4
+answer: lemon-flavored vodka
+
+Pucker up with a lemon drop cocktail, lemon juice, a lemon slice, sugar & this liquor.
+
+----
+num: 17
+category: History
+difficulty: 800
+seen: 3
+answer: Reagan
+
+The oldest to be inaugurated.
+
+----
+num: 18
+category: Art
+difficulty: 800
+seen: 4
+answer: tumbler
+
+A flat-bottomed glass with no handle, it sounds like a gymnast.
+
+----
+num: 19
+category: Trash
+difficulty: 800
+seen: 5
+answer: (Bobby) Orr
+
+He won the Calder Trophy as rookie of the year in 1967 playing with great conviction, or is it conjunction?.
+
+----
+num: 20
+category: Art
+difficulty: 800
+seen: 4
+answer: check
+
+To threaten the king, in chess.
+
+----
+num: 21
+category: Literature
+difficulty: 1000
+seen: 4
+answer: zest
+
+When life gives you lemons, get out a grater, as you can add intense flavor to a dish using.
+
+----
+num: 22
+category: History
+difficulty: 1000
+seen: 4
+answer: Dwight David Eisenhower
+
+Had been president of Columbia University.
+
+----
+num: 23
+category: Art
+difficulty: 1000
+seen: 4
+answer: sake
+
+Ochoko are traditional tiny cups from which to drink this alcoholic beverage.
+
+----
+num: 24
+category: Trash
+difficulty: 1000
+seen: 5
+answer: Sweden
+
+Borje Salming, from this country, helped get European players accepted in the NHL.
+
+----
+num: 25
+category: Art
+difficulty: 1000
+seen: 3
+answer: a gecko
+
+Wall-climbing house lizard.
+
+----
+num: 26
+category: Mythology
+difficulty: 400
+seen: 13
+answer: the Gorgons
+
+These monstrous sisters were the daughters of Phorcys & Ceto.
+
+----
+num: 27
+category: History
+difficulty: 400
+fixed: -1
+seen: 4
+answer: destruction
+
+In the '60s the U.S. had a strategic policy known as MAD, mutual assured this.
+
+----
+num: 28
+category: Literature
+difficulty: 400
+seen: 4
+answer: Alberta
+
+Calgary & Medicine Hat are in this Canadian province.
+
+----
+num: 29
+category: History
+difficulty: 400
+seen: 4
+answer: Ireland
+
+In 1997 Tony Blair formally apologized to this country for British negligence during the 1845-49 famine.
+
+----
+num: 30
+category: Mythology
+difficulty: 800
+seen: 11
+answer: the Gordian knot
+
+An oracle decreed that anyone who could unravel this would rule Asia.
+
+----
+num: 31
+category: Literature
+difficulty: 800
+seen: 4
+answer: Mother\'s Day
+
+International Nurses Day is May 12; in 2013 it'll coincide with this other big day for caregivers.
+
+----
+num: 32
+category: Mythology
+difficulty: 1200
+seen: 13
+answer: Gaia
+
+In Greek myth, she's Mother Earth.
+
+----
+num: 33
+category: History
+difficulty: 1200
+seen: 5
+answer: Business
+
+The computer language COBOL is an acronym: Common this Oriented Language.
+
+----
+num: 34
+category: Literature
+difficulty: 1200
+seen: 4
+answer: AIG
+
+Since 2008 this insurance conglomerate has gotten $182 billion in government funds.
+
+----
+num: 35
+category: History
+difficulty: 1200
+seen: 4
+answer: (George) Wallace
+
+In the '70s this ex-Alabama gov. said his opposition to integration had been wrong & apologized for his actions.
+
+----
+num: 36
+category: Mythology
+difficulty: 1600
+seen: 11
+answer: Galatea
+
+Pygmalion fell in love with a statue called this when she came to life.
+
+----
+num: 37
+category: History
+difficulty: 1600
+seen: 4
+answer: Criminal Investigation Department
+
+Often loosely referred to as Scotland Yard, CID stands for this Department.
+
+----
+num: 38
+category: Literature
+difficulty: 1600
+seen: 5
+answer: Elba
+
+In February 1815 Napoleon snuck off this island with about 1,000 followers.
+
+----
+num: 39
+category: History
+difficulty: 1600
+seen: 4
+answer: Toyota
+
+On Feb. 5, 2010 the president of this car company apologized for massive global recalls over sticking gas pedals.
+
+----
+num: 40
+category: Mythology
+difficulty: 2000
+seen: 21
+answer: Ganymede
+
+One of Jupiter's moons is named for this boy, Zeus' cupbearer.
+
+----
+num: 41
+category: Literature
+difficulty: 2000
+seen: 5
+answer: lemurs
+
+Madagascar's pygmy mouse type of this grows about 8 inches long & weighs about 1 ounce.
+
+----
+num: 42
+category: History
+difficulty: 2000
+seen: 6
+answer: Atlanta
+
+Richard Jewell, a suspect for 3 months in this city's 1996 Olympic Park bombing, got an apology from Janet Reno.

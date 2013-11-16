@@ -1,0 +1,229 @@
+####
+tournament: Sample
+round: round5.pdf
+####
+
+num: 1
+category: Chemistry
+difficulty: HS
+seen: 36
+answer: 6  (Accept:  +6)  (Do Not Accept:   –6)
+
+What is the oxidation number of chromium in the chromate ion, or 
+CrO ^4^2–?
+
+----
+num: 2
+category: Biology
+difficulty: HS
+seen: 39
+answer: Attenuation
+
+What is the most common term for the method Louis Past eur used to create the first rabies vaccine?
+
+----
+num: 3
+category: Physics
+difficulty: HS
+seen: 26
+answer: Helium
+
+The nucleus of what element is the same as an alpha particle?
+
+----
+num: 3
+category: Physics
+difficulty: HS
+seen: 26
+answer: Transformers;  Generators;  Batteries  
+(Accept:  All but Conductors)
+
+Name all of the following 4 choices that would typically be considered to supply electromotive force: transformers; generators; batteries; conductors
+
+----
+num: 4
+category: Math
+difficulty: HS
+seen: 24
+answer: –12
+5yzx^3
+^2
+
+Simplify the following without the use of negative exponents: −1024yx^6^3zy^2^5
+
+----
+num: 4
+category: Math
+difficulty: HS
+seen: 26
+answer: 30
+(Solution: 12/20 + 12/x = 1, X = 30 Min)
+
+It takes 20 minutes for Janis to prepare lunch. When Kristen helps, it only takes 12 minutes. How many minutes would it take Kristen to prepare the same lunch if she worked alone?
+
+----
+num: 6
+category: General Science
+difficulty: HS
+seen: 32
+answer: 1,000  (Accept:  1 × 10^3)
+
+Convert 0.001 grams per cubic millimeter into kilograms per cubic meter:
+
+----
+num: 9
+category: Biology
+difficulty: HS
+seen: 38
+answer: Photoautotrophs  (Accept:   Phototrophs)
+
+What is the general biological term for organisms that synthesize organic molecules from inorganic molecules using light as an energy source?
+
+----
+num: 11
+category: Math
+difficulty: HS
+fixed: -1
+seen: 26
+answer: 6π
+(Solution: Ab = ½(2πr) = 6π Cm)
+
+In a circle with diameter AB, if the radius is 6 centimete rs, find the length in centimeters , giving your answer in terms of π, of the arc AB:
+
+----
+num: 11
+category: Math
+difficulty: HS
+seen: 25
+answer: 24
+(Solution:  a = ½ D
+^1d
+^2 = ½ (6)(8) = 24 Cm^2, (3:4:5 Triangle))
+
+Find the area, in square centimeters, of a rhombus with a diagonal of 6 centimeters and a side of 5 centimeters:
+
+----
+num: 13
+category: General Science
+difficulty: HS
+seen: 30
+answer: Ethylene (Accept:  Ethene)
+
+HDPE is a tough plastic often used for the manufacture of toys. What monomer is the primary repeating unit in this polymer?
+
+----
+num: 14
+category: Astronomy
+difficulty: HS
+seen: 54
+answer: Gravity
+
+The formation of what is referred to as “metallic hydrogen” on some of the our solar system’s planets is driven by what basic force?
+
+----
+num: 16
+category: Biology
+difficulty: HS
+seen: 40
+answer: All
+
+By words or numbers, name all of the following 3 functions that meiosis accomplishes:
+1) reducing the copies of alleles in the ovum and sperm
+2) reducing the numbers of chromosomes in the ovum and sperm
+3) increasing genetic diversity through chromosomal exchange events
+
+----
+num: 16
+category: Biology
+difficulty: HS
+seen: 40
+answer: Collenchyma
+
+Which one of the basic 3 plant cell types has irregul arly thickened cell walls, retains its cytoplasm, and functions in structural support?
+
+----
+num: 17
+category: Physics
+difficulty: HS
+seen: 27
+answer: 784 Newtons  (M Ust Give Units)
+
+Using g rounded to the first decimal place, how much does an 80 -kilogram person weigh on Earth, giving your answer in proper SI units?
+
+----
+num: 18
+category: Math
+difficulty: HS
+fixed: -1
+seen: 26
+answer: 48
+(Solution: 12/25 = B/100, B = 48)
+
+A jar of 100 marbles contains only 2 colors of marbles, red and blue. If there are 13 red marbles for every 12 blue marbles, how many blue marbles are in the jar?
+
+----
+num: 18
+category: Math
+difficulty: HS
+seen: 25
+answer: –2 ≤ X ≤ 5  (Accept:  5 ≥ X ≥ –2)
+
+Solve the following inequality for x: |3 – 2x| ≤ 7 (read as: the absolute value of, 3 minus 2x, close absolute value, is less than or equal to 7)
+
+----
+num: 21
+category: Astronomy
+difficulty: HS
+seen: 56
+answer: Uranus
+
+Although you might expect this planet to be visible to the unaided eye because of its maximum apparent magnitude valu e of about +5.8, what planet is unlikely to be seen by most stargazers since it requires nearly ideal viewing conditions?
+
+----
+num: 23
+category: Biology
+difficulty: HS
+fixed: -1
+seen: 41
+answer: Amino;  Carboxyl (Accept:  Amine and Carboxylic Acid)
+
+What are the common names for the 2 functional groups that combine to form a peptide bond?
+
+----
+num: 23
+category: Biology
+difficulty: HS
+seen: 37
+answer: Sodium and Potassium  (Accept:  Na+ and K+)
+
+What 2 ions are most directly involved with the conduction of a nerve cell message down an axon?
+
+----
+num: 24
+category: Physics
+difficulty: HS
+seen: 25
+answer: First = 880;  Second = 1320
+
+What are the frequencies of the first and second overtones, respectively, for a string vibrating at a fundamental frequency of 440 hertz?
+
+----
+num: 25
+category: Math
+difficulty: HS
+fixed: -1
+seen: 25
+answer: 0.5
+(Solution: (1/3)(ln 5) = 1.6/3 = 0.53)
+
+Assuming that the natural log of 5 = 1.6, find , to the first decimal place,the natural log of 5^1^3 :
+
+----
+num: 25
+category: Math
+difficulty: HS
+fixed: -1
+seen: 25
+answer: 25(2 X + Y)(2x – Y)
+
+Factor the following expression completely: 100 x^2 – 25y^2

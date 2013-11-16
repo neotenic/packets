@@ -1,0 +1,645 @@
+####
+tournament: Sample Set 4
+round: Round2.pdf
+####
+
+num: 1
+category: Biology
+difficulty: HS
+answer: W) Mitochondrial Dna
+
+
+All Homo sapiens are thought to share a common matrilineage. 
+What genetic information has been used as key evidence for this shared matrilineage?
+W) Mitochondrial (read as: my-toh-KOHN-dree-ahl) DNA
+X) Nuclear DNA
+Y) Plasma membranes
+Z) Cytoplasmic tRNA
+
+----
+num: 1
+category: Physical Science
+difficulty: MS
+answer: Y) Third
+
+Which of Newton's laws tells us that when a force acts upon an object, an equal and opposite force acts on another body?
+W) First
+X) Second
+Y) Third
+Z) Fourth
+
+----
+num: 2
+category: General Science
+difficulty: MS
+answer: X) They Decrease
+
+Within a given period, what happens to the size of atoms as you move across a period of the periodic table, from left to right?
+W) They increase
+X) They decrease
+Y) They stay the same
+Z) There is no pattern
+
+----
+num: 3
+category: Earth and Space
+difficulty: HS
+seen: 1
+answer: W) Shallow Marine
+
+In which of the following sedimentary environ ments would a dominantly organic sedimentary rock most likely be formed?
+W) Shallow marine
+X) Deep ocean
+Y) Wind-blown desert
+Z) Glacial outwash plain
+
+----
+num: 3
+category: Earth and Space
+difficulty: HS
+seen: 1
+answer: Z) Well Rounded Gravels
+
+
+A high-energy river environment will most likely create which of the following deposits:
+W) Laminar silt beds
+X) Course-grained, angular cross bedding
+Y) Poorly sorted beds with no structure
+Z) Well rounded gravels
+
+----
+num: 3
+category: Life Science
+difficulty: MS
+answer: Z) Humans
+
+Homo sapiens is the scientific name for which of the following?
+W) Neanderthals (read as: nee-ANH-dehr-thohls)
+X) Dolphins
+Y) Monkeys
+Z) Humans
+
+----
+num: 3
+category: Life Science
+difficulty: MS
+answer: W) Amphibians
+
+
+Toads and salamanders live in water and on land. They are both examples of:
+W) Amphibians
+X) Reptiles
+Y) Invertebrates
+Z) Mollusks
+
+----
+num: 4
+category: Math
+difficulty: HS
+answer: Y) B Has the Same Magnitude as A, Applied in the Opposite 
+Direction
+
+If b is a negative vector of a given vector a, then how do b and acompare?
+W) a has a smaller magnitude than b
+X) b has a smaller magnitude than a
+Y) b has the same magnitude as a, applied in the opposite direction
+Z) b has a larger magnitude than a, applied in the opposite direction
+
+----
+num: 5
+category: General Science
+difficulty: MS
+answer: Y) Mammals
+
+While recognizing that evolution is a continua l process for all organisms, historically speaking, which of the following kinds of organisms evolved most recently on Earth?
+W) Reptiles
+X) Insects
+Y) Mammals
+Z) Fish
+
+----
+num: 5
+category: General Science
+difficulty: MS
+answer: Z) They Maintain a Constant Internal Temperature at All Air 
+Temperatures
+
+
+Which of the followin g is a characteristic of endothermic animals?
+W) They have a higher metabolism in warm weather
+X) They are more aggressive overall as compared to cold-blooded animals
+Y) They are found only in warm climates
+Z) They maintain a constant internal temperature at all air temperatures
+
+----
+num: 6
+category: Energy
+difficulty: MS
+answer: Y) 10
+
+What wattage of light bulb is closest to the energy used by the human brain?
+W) 0.1
+X) 1
+Y) 10
+Z) 100
+
+----
+num: 6
+category: Energy
+difficulty: MS
+answer: Y) 100
+
+About how many watts does the average human generate over an 8 hour period, if not doing additional exercise or other activities?
+W) 1
+Y) 100X) 10
+Z) 1000
+
+----
+num: 7
+category: Earth and Space
+difficulty: HS
+seen: 1
+answer: W) Chalcopyrite
+
+Which of the following minerals could be mined to create electrical wiring?
+W) Chalcopyrite (read as: kahl-koh-PY-ryt)
+X) Limestone 
+Y) Galena (read as: gah-LEE-nah)
+Z) Gypsum
+
+----
+num: 7
+category: Earth and Space
+difficulty: HS
+seen: 1
+answer: Z) Silicates
+
+
+Which of the following is the most abundant mineral group found in the Earth's crust?
+W) Carbonates
+X) Oxides
+Y) Sulfides
+Z) Silicates
+
+----
+num: 9
+category: Chemistry
+difficulty: HS
+seen: 1
+answer: X) Al ^3+^
+
+Which of the following is a common ion?
+W) Na^2+ 
+X) Al^3+ 
+Y) B^2+ 
+Z) Kr ^2+
+
+----
+num: 9
+category: Chemistry
+difficulty: HS
+seen: 1
+answer: Z) Calcium Ion^
+
+
+Which of the following has an electron configuration of 1s^2 2s^2 2p^6 3s^2 3p^6 (read as: 1 s 2, 2 s 2, 2 p 6, 3 s 2, 3 p 6)?
+W) Sodium ion
+X) Chlorine
+Y) Neon
+Z) Calcium ion
+
+----
+num: 10
+category: Math
+difficulty: MS
+answer: X) 0
+
+Which of the following integers is closest to the product of 0 .00009 (read as: zero point zero zero zero zero nine) and 1.00001 (read as: one point zero zero zero zero one)
+W) 
+X) 0-1
+Y) 1
+Z) 9
+
+----
+num: 10
+category: Math
+difficulty: MS
+answer: Z) 10,000
+
+Which of the following integers is closest to 0.00009 (read as: zero point zero zero zero zero nine) to the power of -1?
+Y) 0X) W) --19
+Z) 10,000
+
+----
+num: 11
+category: Physics
+difficulty: HS
+seen: 1
+answer: Z) Violet
+
+
+Which of the following colors of light has the most energy?
+W) Yellow
+X) Red
+Y) Green
+Z) Violet
+
+----
+num: 11
+category: Physical Science
+difficulty: MS
+answer: X) a Boy Holding the Box Still Above His Head
+
+
+Work is done on the box in all of the following scenarios except:
+W) A boy raising the box above his head
+X) A boy holding the box still above his head
+Y) A boy pushing the box up a ramp
+Z) A boy kicking the box from rest across a frictionless floor
+
+----
+num: 12
+category: Earth and Space
+difficulty: HS
+answer: Y) Plate Tectonics Cause Earth's Equator T O Change Location
+
+Which of the following is NOT considered a component of the modern theory of ice ages?
+W) The Earth wobbles on its axis
+X) The tilt of the Earth varies
+Y) Plate tectonics causes Earth's equator to change location
+Z) The Earth's orbit around the Sun varies
+
+----
+num: 12
+category: Earth and Space
+difficulty: HS
+answer: X) Localized Sea Level Drop
+
+Isostatic rebound following the end of the most recent ice age caused which of the following?
+W) Localized sea level rise
+X) Localized sea level drop
+Y) Mountain formation in the eastern p art of the U.S.
+Z) Volcanism in Southern Mexico
+
+----
+num: 12
+category: Life Science
+difficulty: MS
+answer: Z) Excretory
+
+What system in a mammalian body is responsible for removing liquids and solid wastes?
+W) Circulatory
+X) Respiratory
+Y) Endocrine (read as: EHN-doh-krin)
+Z) Excretory (read as: EHK-skreh-tohr-ee)
+
+----
+num: 13
+category: Math
+difficulty: MS
+answer: X) Z) Y)
+2^2^(
+(^Abc
+a ^2
++ ^)
+B  + C)
+^A + ^B 
+^2 + ^C
+
+Simplify: ^2
+X) W) ^a +^a ^abc^2+ ^2^4^b^b ^2++ ^2^c^c(read as: the quantity of 2a plus 2b plus 2c divided by 4).
+
+----
+num: 14
+category: Biology
+difficulty: HS
+answer: X) They Have Flowers to Attract Pollinators
+
+What characteristic has made angiosperms so successful during the last 140 million years?
+W) They are very tall, outcompeting other plants for sunlight
+X) They have flowers to attract pollinators
+Y) They are thorny to deter herbivores from consuming them
+Z) They are the only plants that can reproduce asexually
+
+----
+num: 14
+category: Biology
+difficulty: HS
+answer: W) Animals Disp Erse the Seeds
+
+Fruits primarily function in order to entice animals to ea t them. 
+In what way does this benefit the fruiting plant?
+W) Animals disperse the seeds
+X) Animals pollinate while eating the fruits
+Y) Animals eat the fruit instead of other parts of the plant
+Z) There is no benefit to the plant
+
+----
+num: 14
+category: Energy
+difficulty: MS
+answer: W) Chemical
+
+Food provides energy in what form?
+W) Chemical
+X) Kinetic
+Y) Electrical
+Z) Nuclear
+
+----
+num: 14
+category: Energy
+difficulty: MS
+answer: Z) Light
+
+What form of energy do plants use to produce the sugars present in fruit?
+W) Gravitational
+X) Chemical
+Y) Heat
+Z) Light
+
+----
+num: 15
+category: Chemistry
+difficulty: HS
+answer: Y) It Was Used by Er Nest Rutherford in Experiments Relating to 
+the Nucleus of the Atom
+
+Which of the following is true about the alpha particle?
+W) It is a hydrogen atom
+X) It was discovered by J.J. Thomson
+Y) It was used by Ernest Rutherford in experiments relating to the nucleus of the atom
+Z) It is purely electromagnetic radiation
+
+----
+num: 15
+category: Chemistry
+difficulty: HS
+seen: 1
+answer: Z) Radioactive Decay
+
+
+What term best describes the type of reaction that converts uraniu m in the soil to radon?
+W) Acid-base
+X) Fusion
+Y) Electromagnetic radiation
+Z) Radioactive decay
+
+----
+num: 16
+category: Physics
+difficulty: HS
+seen: 1
+answer: X) Increase
+
+A child is holding a string with a yo -yo dangling at the bottom of it. As the child yanks the string up, the tension in the string will:
+W) Decrease
+X) Increase
+Y) Stay the same
+Z) Become negative
+
+----
+num: 17
+category: Chemistry
+difficulty: HS
+seen: 1
+answer: W) Ionic Bonding
+
+What is the process that best describes the transfer of electrons from one atom to another through electrostatic attraction?
+W) Ionic bonding
+X) Repulsion
+Y) Nuclear force
+Z) Covalent bonding
+
+----
+num: 17
+category: Life Science
+difficulty: MS
+answer: W) Extremophiles
+
+Which of the following is an example of organisms found living next to hydrothermal vents.
+W) Extremophiles (read as: ik-STREE-moh-FYLS)
+X) Hydrophiles (read as: hy- drōe -FYLS)
+Y) Oceanophiles (read as: oh-sheh-nōe-FYLS)
+Z) Bacteriophiles (read as: bahk-TIR-ōe-FYLS)
+
+----
+num: 17
+category: Life Science
+difficulty: MS
+answer: Z) Archaea
+
+
+Most extremophiles belong to which group of organisms?
+W) Protists (read as: PRŌE-tists)
+X) Fungi
+Y) Eukaryotes (read as: yuh-KEHR-ee-ōets)
+Z) Archaea (read as: arh -KEE-ah)
+
+----
+num: 18
+category: Energy
+difficulty: MS
+answer: Z) Mechanical Energy
+
+Fossil fuel combustion in power plants creates heat. In order to run an electrical generator, heat is converted into what form of ene rgy?
+W) Electrical energy 
+X) Chemical energy
+Y) Light energy
+Z) Mechanical energy
+
+----
+num: 19
+category: Energy
+difficulty: HS
+seen: 1
+answer: Y) Maintenance Costs
+
+
+Which of the following is NOT a significant limitation to the further development of U.S. hydropower?
+W) Availability of sites for new large hydro facilities
+X) Regulatory requirements
+Y) Maintenance costs
+Z) Environmental concerns
+
+----
+num: 19
+category: Earth and Space Science
+difficulty: MS
+answer: Y) Coal
+ ______
+
+What fossil fuel is responsible for most of the acid rain in the United States?
+W) Oil
+X) Natural Gas
+Y) Coal
+Z) Oil Shale
+
+----
+num: 20
+category: Earth and Space
+difficulty: HS
+answer: X) Cliffs in the Lunar Crust Indicate That the Moon Has Expanded 
+in the Recent Past
+
+NASA’s Lunar Reconnaissance Orbiter, which reached lunar orbit in June of 2009, has gathered digital information about the moon. Which of the following has NOT been observed by LRO?
+W) The far side of the moon is rougher and has more craters than the near side
+X) Cliffs in the lunar crust indicate that the moon has expanded in the recent past
+Y) Astronaut landing sites
+Z) Lunar rilles, which look like river channels
+
+----
+num: 20
+category: Math
+difficulty: MS
+answer: Y) 48
+
+Which of the following is closest to the area in square centimeters of a circle with a radius of 4 centimeters?
+W) 12
+X) 24
+Y) 48
+Z) 192
+
+----
+num: 21
+category: Life Science
+difficulty: MS
+answer: Y) Either Before or After Arriving on the Stigma, Each Pollen 
+Grain Undergoes a Mitotic Cell Division Producing Two Sperm
+
+
+Which of the following statements it true about pollen?
+W) Pollen must be transferred between plants by insects
+X) Pollen travels through the style and directly fertilizes the ovule
+Y) Either before or after arriving on the stigma, each pollen grain undergoes a mitotic cell division producing two sperm
+Z) Pollen is a gamete
+
+----
+num: 22
+category: Energy
+difficulty: HS
+seen: 1
+answer: Z) Battery
+
+Which of the following devices stores electrical energy in chemical form in order to release it slowly through a circuit?
+W) Inductor
+X) Resistor
+Y) Capacitor
+Z) Battery
+
+----
+num: 22
+category: Energy
+difficulty: HS
+seen: 1
+answer: Y) Lead -Acid
+
+Which of the following types of battery is most commonly used in automobiles?
+W) Lithium-ion (read as: LI-thee-uhm)
+X) Nickel Cadmium
+Y) Lead-acid 
+Z) Zinc chloride
+
+----
+num: 22
+category: General Science
+difficulty: MS
+answer: Z) the Sun
+
+Which of the following do most asteroids orbit in our solar system?
+W) Jupiter
+X) The Earth
+Y) The Moon
+Z) The Sun
+
+----
+num: 23
+category: Math
+difficulty: HS
+seen: 1
+answer: Z) (14, 26)
+
+
+Line 1 and line 2 are parallel. If line 1 contains the points (6, 13) and (4, 11) and line 2 contains the point (8, 20), determine which of the following points lies on line 2.
+W) (12, 15)
+X) (18, 10)
+Y) (10, -12)
+Z) (14, 26)
+
+----
+num: 23
+category: Earth and Space Science
+difficulty: MS
+answer: Y) Hurricanes
+
+Which of the following natural disasters is 
+NOT commonly caused by the movement of tectonic plates?
+W) Volcanoes
+X) Earthquakes
+Y) Hurricanes
+Z) Tsunamis
+
+----
+num: 23
+category: Earth and Space Science
+difficulty: MS
+answer: Y) Greater Than 25 Miles Per Hour Change in Wind Speed Between 
+the Surface and Upper Troposphere
+
+
+Which of the following environmental conditions is NOT commonly associated with hurricanes?
+W) Warm ocean waters
+X) Further than 300 miles from the equator
+Y) Greater than 25 miles per hour change in wind speed between the surface and upper troposphere
+Z) Moist air near the mid-level of the troposphere
+
+----
+num: 24
+category: Energy
+difficulty: HS
+seen: 1
+answer: X) Wood
+
+Which of the following is a renewable resource?
+W) Diamonds
+X) Wood
+Y) Coal
+Z) Propane
+
+----
+num: 24
+category: Energy
+difficulty: HS
+answer: W) It Warms the Earth  to a Temperature Necessary for Life on 
+Earth
+
+Which of the following choices describes one reason why the greenhouse effect is important?
+W) It warms the Earth to a temperature necessary for life on Earth
+X) It allows solar radiation to escape, preventing extreme radiation
+Y) It cools the Earth to a temperature necessary for life on Earth
+Z) It creates nitrogen for Earth’s atmosphere
+
+----
+num: 25
+category: Earth and Space
+difficulty: HS
+seen: 1
+answer: X) It I S Focused on a Large Section of the Sky
+
+Why is the Kepler telescope unique?
+W) It is pointed at one specific target
+X) It is focused on a large section of the sky
+Y) It is scanning the entire sky
+Z) It generates a small amount of data
+
+----
+num: 25
+category: Earth and Space Science
+difficulty: MS
+answer: W) 380
+
+What is the approximate concentration of^carbon dioxide, in parts per million, in Earth’s atmosphere?
+W) 380
+X) 3,800
+Y) 38,000
+Z) 380,000

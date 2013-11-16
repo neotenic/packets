@@ -1,0 +1,269 @@
+####
+tournament: Regional B
+round: round13.pdf
+year: 2002
+####
+
+num: 2
+category: Chemistry
+difficulty: HS
+seen: 1
+answer: W)  at the Equivalence Point, the Ph Is Primarily Controlled by 
+the Acetate Ion
+
+In the typical titration of a weak acid, such as 0.1 molar acetic acid, with a strong base, such as 0.1 molar sodium hydroxide, what is the best description of the characteristic titration curve:
+W) at the equivalence point, the pH is primarily controlled by the acetate ion 
+X) at the equivalence point, the pH drops dramatically 
+Y) the second equivalence point is pr imarily controlled by the hydroxide ion 
+Z) the pH at the equivalen ce point is almost always 7
+
+----
+num: 5
+category: Math
+difficulty: HS
+answer: X)  Sampling Distribution
+
+If one considers the distribution of the means of 5 groups, such a distribution is most accurately referred to as a:
+W) sample distribution 
+X) sampling distribution 
+Y) composite distribution 
+Z) population distribution
+
+----
+num: 6
+category: Earth Science
+difficulty: HS
+seen: 1
+answer: W)  the Earth's Axis Is  Not Perpendicular to the Ecliptic
+
+Which of the following is re sponsible for the changing of the seasons:
+W) the Earth's axis is not perpendicular to the ecliptic 
+X) the Earth's orbit is elliptical 
+Y) the Earth's axis precesses 
+Z) the Sun moves through space
+
+----
+num: 6
+category: Earth Science
+difficulty: HS
+answer: Z)  an Ice Field
+
+Which of the following surfaces would exhibit the highest albedo:
+W) bare rock 
+X) an ocean at sunrise 
+Y) an ocean at sunset 
+Z) an ice field
+
+----
+num: 7
+category: General Science
+difficulty: HS
+seen: 1
+answer: Z)  Deeper Part Where Light Does Not Penetrate
+
+The profundal zone of a lake is the:
+W) bottom of the lake 
+X) area between the shore and water ex tending to a depth of about 10 meters 
+Y) upper layer below which the temperature drops 
+Z) deeper part where light does not penetrate
+
+----
+num: 7
+category: General Science
+difficulty: HS
+answer: Y)  Theobromine
+
+Which of the following chemicals is most predominant in chocolate:
+W) tyrosine 
+X) theophylline 
+Y) theobromine 
+Z) caffeine
+
+----
+num: 8
+category: Computer Science
+difficulty: HS
+seen: 1
+answer: Z)  Restart and Hold Down F5 Key
+
+One of the ways to start a computer running Windows 95 or 98 in Safe Mode is to:
+W) press control and F1 key at any time 
+X) restart and hold the Escape key 
+Y) press Control + Alt + Delete key at the same time 
+Z) restart and hold down F5 key
+
+----
+num: 9
+category: Biology
+difficulty: HS
+seen: 1
+answer: W)  Triacylglycerol
+
+Which of the following is the most accurate name for a molecule of glycerol with all three hydroxyl gr oups esterified to fatty acids :
+W) triacylglycerol (read as: tri-acyl-gliss-er-ol) 
+X) fatty glycerol 
+Y) esterified lipid 
+Z) triesterglyceride (rea d as: tri-ester-gliss-er-ide)
+
+----
+num: 10
+category: Chemistry
+difficulty: HS
+answer: X)  C ^11h^20 Is an Alkane
+
+Which of the following is incorrect:
+W) C^5H^11CHO is an aldehyde 
+X) C^11H^20 is an alkane 
+Y) C^5H^11OH is an alcohol 
+Z) C^5H^11NH^2 is an amine
+
+----
+num: 12
+category: Astronomy
+difficulty: HS
+answer: W)  Isotropic and Homogeneous
+
+Most astrophysicists believe that the universe is:
+W) isotropic and homogeneous 
+X) isotropic and non-homogeneous 
+Y) anistotropic and homogeneous 
+Z) anisotropic and non-homogeneous
+
+----
+num: 14
+category: Earth Science
+difficulty: HS
+answer: W)  1%
+
+Which of the following best approximates the relative humidity in the stratosphere:
+W) 1% 
+X) 10% 
+Y) 35% 
+Z) 50%
+
+----
+num: 15
+category: General Science
+difficulty: HS
+answer: Y)  Phase-Contrast
+
+If you wanted to see the deta iled internal structures of living unstained organisms, which t ype of microscope would you use:
+W) bright-field 
+X) dark-field 
+Y) phase-contrast 
+Z) scanning-tunneling
+
+----
+num: 16
+category: Computer Science
+difficulty: HS
+answer: Y)  Invertiblity
+(Solution:  I = Isolation)
+
+In workflow modeling, which of the following is 
+NOT part of the ACID properties of transactions:
+W) Atomicity 
+X) Consistency Preservation 
+Y) Invertibility 
+Z) Durability
+
+----
+num: 16
+category: Computer Science
+difficulty: HS
+answer: X)  Switch
+
+Which of the following is NOT a storage class specification in C programming:
+W) auto 
+X) switch 
+Y) register 
+Z) static
+
+----
+num: 17
+category: Biology
+difficulty: HS
+answer: Y)  Potassium Ions ^
+
+Which of the following would be LEAST likely to diffuse through a typical plasma membrane:
+W) propane 
+X) methanol 
+Y) potassium ions 
+Z) carbon dioxide
+
+----
+num: 17
+category: Biology
+difficulty: HS
+answer: Z)  a Skeletal Muscle Cell
+
+In which of the following ce ll types does phosphocreatine provide the greatest role:
+W) hepatocyte 
+X) parafollicular cell 
+Y) endothelial cell 
+Z) a skeletal muscle cell
+
+----
+num: 18
+category: Chemistry
+difficulty: HS
+answer: X)  One or More Hydrogen Atoms
+
+An aldehyde is a class of compounds that contains a carbonyl group bonded to:
+W) 2 carbon atoms 
+X) one or more hydrogen atoms 
+Y) one or more nitrogen atoms 
+Z) 2 sulfur atoms
+
+----
+num: 21
+category: Math
+difficulty: HS
+seen: 1
+answer: W)  Correlation Typically Distinguishes Between Explanatory 
+and Response Variables
+
+Which of the following is NOT true about statistical correlation:
+W) correlation typically di stinguishes between explanat ory and response variables 
+X) the correlation “r” always lies between +1 and -1 
+Y) a negative correlation indicates a negative association 
+Z) correlation is usually strongl y affected by outlying observations
+
+----
+num: 22
+category: Earth Science
+difficulty: HS
+seen: 1
+answer: Z)  Cyclonic Flow
+
+In meteorology, a center where air spirals inward around a low-pressure center and designated on w eather maps by the letter “L” is called:
+W) a center of divergence 
+X) coriolis inversion 
+Y) gradient wind 
+Z) cyclonic flow
+
+----
+num: 23
+category: Biology
+difficulty: HS
+answer: X)  Rna Sequences
+
+Southern blot is to DNA sequences as Northern blot is to:
+W) amino acid sequences 
+X) RNA sequences 
+Y) DNA sequences 
+Z) hybrid DNA/RNA sequences
+
+----
+num: 24
+category: Chemistry
+difficulty: HS
+seen: 1
+answer: Y)  Highly Branched With Alpha 1,6 Linkages at Its Branch 
+Points
+
+The starch amylopectin is:
+W) unbranched with alpha 1,6 linkages between the monomers 
+X) highly branched with alpha 1,4 linkages at its branch points 
+Y) highly branched with alpha 1,6 linkages at its branch points 
+Z) unbranched with alpha 1,4 linkages between the monomers

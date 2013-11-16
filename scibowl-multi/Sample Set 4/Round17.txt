@@ -1,0 +1,210 @@
+####
+tournament: Sample Set 4
+round: Round17.pdf
+####
+
+num: 2
+category: General Science
+difficulty: MS
+answer: X) Nonpolar Compound
+
+Which of the following substances would be least likely to dissolve in water?
+W) Polar compound
+X) Nonpolar compound
+Y) Ionic compound
+Z) Salt
+
+----
+num: 3
+category: Life Science
+difficulty: MS
+answer: Z) Metaphase
+
+During which stage of mitosis do the chromosomes line up in the center o f the nucleus?
+W) Anaphase
+X) Prophase
+Y) Interphase
+Z) Metaphase
+
+----
+num: 4
+category: Earth and Space Science
+difficulty: MS
+answer: Y) Relatively Low Tempe Ratures
+
+Which of the following choices is NOT a condition required for the formation of a thunderstorm?
+W) Humid air in low - to mid-troposphere
+X) Atmospheric instability
+Y) Relatively low temperatures
+Z) A source of uplift
+
+----
+num: 6
+category: Energy
+difficulty: MS
+answer: Y) Refrigerator
+
+Which of the following devices exemplifies a rever se heat engine?
+W) Diesel engine
+X) Electrical generator
+Y) Refrigerator
+Z) Steam engine
+
+----
+num: 7
+category: General Science
+difficulty: MS
+answer: X) Pink Salmon
+
+Which of the following is not an example of a cartilaginous (read as: kahr-ti-LAH-ji-nehs) fish?
+W) Longnose skate
+X) Pink salmon
+Y) Tiger shark 
+Z) Sting ray
+
+----
+num: 8
+category: Physical Science
+difficulty: MS
+answer: X) Calcium Oxide
+
+Which of the following could be used to neutralize an acid spill?
+W) Hydrogen sulfide 
+X) Calcium oxide
+Y) Water
+Z) Bromine
+
+----
+num: 9
+category: Earth and Space Science
+difficulty: MS
+answer: Y)  Increased Understanding of Contrails
+
+
+The Tropical Rainfall Measuring Mission (TRMM) satellite was launched in 1997 with the primary mission of measuring rainfall from space using passive microwave and active radar sensors. Which of the following is NOT a benefit of TRMM?
+W) Increased understanding of the water cycle
+X) Increased understanding of the heat release associated with rainfall
+Y) Increased understanding of contrails
+Z) Better likelihood of accurate climate models
+
+----
+num: 11
+category: Physical Science
+difficulty: MS
+answer: Y) Momentum
+
+Which of the following quantities is always conserved in an inelastic collision?
+W) Kinetic energy
+X) Mechanical energy
+Y) Momentum
+Z) Impulse
+
+----
+num: 15
+category: Physical Science
+difficulty: MS
+answer: Y) Hydrogen
+
+When alkali metals such as sodium are placed in water, a gaseous substance is produc ed. What is this gas?
+W) Water vapor
+X) Oxygen
+Y) Hydrogen
+Z) Carbon dioxide
+
+----
+num: 15
+category: Physical Science
+difficulty: MS
+answer: W) Al Uminum
+
+
+Which of the following is NOT a transition metal?
+W) Aluminum
+X) Zinc
+Y) Copper
+Z) Manganese
+
+----
+num: 18
+category: Energy
+difficulty: MS
+answer: X) Circular
+
+Which of the following is the typical shape of a charged particle’s path in a magneti c field?
+W) Elliptical
+X) Circular
+Y) Parabolic
+Z) Hyperbolic
+
+----
+num: 19
+category: Earth and Space Science
+difficulty: MS
+answer: Z) Waxing Crescent
+
+
+If you see the Moon in the western sky just above the setting Sun, what is the Moon’s phase?
+W) New moon
+X) Full moon
+Y) Gibbous
+Z) Waxing crescent
+
+----
+num: 21
+category: Life Science
+difficulty: MS
+answer: W) Homologous Structures
+
+The similarities between the lungs of a reptile and the air bladder of a fish can be described, in evolutionary terms, as:
+W) Homologous (read as: hōe-MOH-loh-gehs) structures
+X) Erroneous structures
+Y) Vestigial structures
+Z) Inert structures
+
+----
+num: 22
+category: General Science
+difficulty: MS
+answer: W) Polar Covalent
+
+The intramolecular bonds that hold together an individual water molecule can be classified as which of the following?
+W) Polar covalent
+X) Nonpolar covalent
+Y) Hydrogen bonds
+Z) Ionic bonds
+
+----
+num: 23
+category: Earth and Space Science
+difficulty: MS
+answer: Z) 90°
+
+Which north or south latitude experiences the greatest variation in sun exposure over the course of the year?
+W) 0°
+X) 30°
+Y) 60°
+Z) 90°
+
+----
+num: 24
+category: Math
+difficulty: MS
+answer: Z)  the Function Is Neither Odd Nor Even
+
+Which of the following is true about the function y =56x^3 +4?
+W) The function is odd
+X) The function is even
+Y) The function is positive 
+Z) Th e function is neither odd nor even
+
+----
+num: 25
+category: Earth and Space Science
+difficulty: MS
+answer: W ) Indiana
+
+Marcellus shale occurs in the subsurface under several states. Which of the following is NOT one of them?
+W) Indiana 
+X) Ohio
+Y) Pennsylvania
+Z) West Virginia

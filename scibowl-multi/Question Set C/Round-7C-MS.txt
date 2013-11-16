@@ -1,0 +1,270 @@
+####
+tournament: Question Set C
+round: Round-7C-MS.pdf
+####
+
+num: 2
+category: Earth Science
+difficulty: MS
+answer: Y)  Have Large Crystals
+
+When the nickel-iron crystals in iron meteorites cool very slowly it often causes them to:
+W) fall apart 
+X) be exceedingly brittle with a flake-like appearance
+Y) have large crystals
+Z) have a soft outer layer and a dense hard inner core
+
+----
+num: 2
+category: Earth Science
+difficulty: MS
+answer: W)  Index Fossils Are Not Geographically Widespread
+
+Which of the following is NOT typically true about fossils:
+W) index fossils are not geographically widespread
+X) fossilized marine animals have been found in the Himalayan Mountains
+Y) fossils found in tar pits are very well preserved
+Z) petrified wood is a type of fossil
+
+----
+num: 4
+category: General Science
+difficulty: MS
+answer: W)  the Sum of the 3 Angles Is Greater Than 180º
+
+If you draw a triangle on a sphere such as a basketball, which of the following is TRUE:
+W) the sum of the 3 angles is greater than 180º
+X) the sum of the 3 angles is equal to 180º
+Y) the sum of the 3 angles is less than 180º
+Z) the triangle has negative curvature and is not considered a triangle
+
+----
+num: 5
+category: Life Science
+difficulty: MS
+answer: Y)  Malpighian Tube
+
+Which of the following is the primary excretory organ of the grasshopper:
+W) mandible
+X) gonopore
+Y) malpighian (read as: MAL-pig-ee-an) tube
+Z) siphon
+
+----
+num: 7
+category: Earth Science
+difficulty: MS
+answer: Z)  Ozone
+
+Which of the following is a gas that is a pollutant when present in the troposphere but beneficial when present in the stratosphere:
+W) nitrogen
+X) chlorofluorocarbons
+Y) hydrogen
+Z) ozone
+
+----
+num: 9
+category: General Science
+difficulty: MS
+answer: W)  Light That Reflects Off the Retina
+
+Which of the following produces red-colored eyes in humans in some photographs taken with a flash:
+W) light that reflects off the retina
+X) light of a certain wavelength that is scattered by the cornea 
+Y) light that is illuminating the optic nerve
+Z) certain films react with red light more than others
+
+----
+num: 11
+category: Physical Science
+difficulty: MS
+seen: 1
+answer: Z)  the Colder It Gets the Denser It Gets From 100ºc to 0ºc
+
+Which of the following is NOT true concerning pure liquid water:
+W) it is a good solvent for simple sugars
+X) it has a high specific heat
+Y) it is a requirement for all known life forms 
+Z) the colder it gets the denser it gets from 100ºC to 0ºC
+
+----
+num: 11
+category: Physical Science
+difficulty: MS
+seen: 1
+answer: Y)  Dioxide Means Something Has Two Oxygen Molecules
+
+Which of the following is LEAST accurate:
+W) water is a molecule composed of two hydrogen atoms and one oxygen atom
+X) each carbon dioxide molecule has 2 oxygen atoms
+Y) dioxide means something has two oxygen molecules
+Z) carbon dioxide is made of two elements
+
+----
+num: 12
+category: Earth Science
+difficulty: MS
+answer: W)  P -Waves and S-Waves
+
+To calculate the distance between an earthquake epicenter and a seismograph, seismologists construct a time-travel curve. What 2 seismic waves are plotted on this curve:
+W) P-waves and S-waves
+X) P-waves and surface waves 
+Y) S-waves and surface waves
+Z) P-waves and L-waves
+
+----
+num: 14
+category: General Science
+difficulty: MS
+answer: Z)  a Spider’s Web Is Made From a S Pecialized Carbohydrate
+
+Which of the following statements is NOT true:
+W) yeast reproduces asexually 
+X) lichens are the mainstay of the caribou diet
+Y) coal is not a native mineral
+Z) a spider’s web is made from a specialized carbohydrate
+
+----
+num: 14
+category: General Science
+difficulty: MS
+answer: W)  the Most Distant Quasar
+
+Which of the following celestial objects is the farthest from Earth:
+W) the most distant quasar
+X) the Andromeda galaxy
+Y) the closest binary star
+Z) Vega
+
+----
+num: 16
+category: Physical Science
+difficulty: MS
+seen: 1
+answer: X)  the Potential Energy of the Bottle Decreases
+
+Which of the following occurs as a bottle of milk falls from the edge of a table until just before it strikes a floor:
+W) all the bottle’s potential energy is lost to heat and friction
+X) the potential energy of the bottle decreases 
+Y) the potential energy of the bottle increases
+Z) the total potential energy of the bottle remains the same
+
+----
+num: 17
+category: Earth Science
+difficulty: MS
+answer: X)  Precipitation
+
+Where does most of Earth’s groundwater come from:
+W) percolation of seawater into underground aquifers where it undergoes natural desalination 
+X) precipitation
+Y) aquifers that have been there since Earth's origin
+Z) glacial melting and runoff
+
+----
+num: 17
+category: Earth Science
+difficulty: MS
+answer: X)  Clastic Sedimentary
+
+A conglomerate rock belongs to which of the following groups of rocks:
+W) foliated metamorphic 
+X) clastic sedimentary
+Y) chemical sedimentary
+Z) organic sedimentary
+
+----
+num: 19
+category: General Science
+difficulty: MS
+answer: X)  as an Abrasive
+
+Which of the following is the primary industrial use for diamond dust:
+W) it is melted and made into liquid crystal displays
+X) as an abrasive
+Y) as a bonding agent in high-end ceramics
+Z) as a strengthening agent in high-tech cements
+
+----
+num: 19
+category: General Science
+difficulty: MS
+answer: Y)  the Air Molecules Inside the Balloon Move Faster
+
+Which of the following BEST explains why when a balloon filled with air is moved from a cold room to a warm room, the balloon expands:
+W) the air pressure on the outside of the balloon is now greater
+X) the air molecules inside the balloon get bigger
+Y) the air molecules inside the balloon move faster
+Z) the room’s air molecules are repelled from the outside of the balloon by electrostatic forces
+
+----
+num: 20
+category: Life Science
+difficulty: MS
+answer: Z)  Cherry and Apple
+
+Which of the following trees have simple, pinnate leaves:
+W) red oak and fig
+X) sugar maple and sycamore
+Y) sassafras and palm
+Z) cherry and apple
+
+----
+num: 21
+category: Physical Science
+difficulty: MS
+answer: X)  the Sharing of Valence Electrons
+
+The octet rule MOST directly involves which of the following:
+W) only atoms with 8 or more protons 
+X) the sharing of valence electrons
+Y) the balance of neutrons to protons
+Z) the loss of protons in radioactive decay
+
+----
+num: 21
+category: Physical Science
+difficulty: MS
+answer: Y)  Potassium and Bromine Normally Form Covalent Bonds
+
+Which of the following is LEAST accurate:
+W) all atoms have protons in their nuclei 
+X) covalent bonding of atoms involves the sharing of electrons 
+Y) potassium and bromine normally form covalent bonds
+Z) most of the mass of an atom is in its nucleus and the atom is mostly empty space
+
+----
+num: 22
+category: Earth Science
+difficulty: MS
+answer: X)  Basalt
+
+Oceanic crust being formed at spreading centers is primarily made of:
+W) granite 
+X) basalt
+Y) peridotite
+Z) andesite
+
+----
+num: 24
+category: General Science
+difficulty: MS
+answer: Z)  Communication
+
+Pheromones are chemicals produced by various species and function primarily in:
+W) camouflage 
+X) digestion
+Y) sweat secretion
+Z) communication
+
+----
+num: 24
+category: General Science
+difficulty: MS
+answer: W)  Florida
+
+Which of the following U.S. states is LEAST prone to having earthquakes because it does not lie near an existing fault zone:
+W) Florida
+X) Alaska
+Y) Washington 
+Z) Missouri

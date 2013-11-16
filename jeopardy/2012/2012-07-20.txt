@@ -1,0 +1,410 @@
+####
+tournament: #6425
+round: Show #6425 - Friday, July 20, 2012
+year: 2012
+date: 2012-07-20
+####
+
+num: 1
+category: Geography
+difficulty: 200
+seen: 9
+answer: the Amazon forest
+
+The world's largest tropical rain forest, it covers parts of 6 countries, including Brazil & Peru.
+
+----
+num: 2
+category: Literature
+difficulty: 200
+seen: 4
+answer: Sarah Ferguson
+
+In 2011 she published a very personal memoir called "Finding Sarah:  A Duchess's Journey To Find Herself".
+
+----
+num: 3
+category: History
+difficulty: 200
+seen: 5
+answer: a minefield
+
+A broad area where explosive devices have been concealed; it can be in water as well as on land.
+
+----
+num: 4
+category: Trash
+difficulty: 200
+seen: 5
+answer: Subway
+
+This sandwich chain that gave us Jared also gave us a new word to describe its products--"meltilicious".
+
+----
+num: 5
+category: History
+difficulty: 200
+seen: 5
+answer: what
+
+It's alphabetically 1st in journalism's 5 W's; you'll probably say it twice as you respond.
+
+----
+num: 6
+category: Geography
+difficulty: 400
+seen: 7
+answer: Cardigan
+
+Britain's 4,500-acre Savernake Forest is privately owned by the Earl of this (think sweater).
+
+----
+num: 7
+category: Literature
+difficulty: 400
+seen: 4
+answer: Gordon Ramsay
+
+His "Roasting in Hell's Kitchen" has been called "the essential autobiography for foodies".
+
+----
+num: 8
+category: History
+difficulty: 400
+seen: 4
+answer: (Giorgio) Armani
+
+In 1980 the Italian air force wanted an "exchange", so he designed the new uniform.
+
+----
+num: 9
+category: Trash
+difficulty: 400
+seen: 5
+answer: Chevrolet
+
+How could you "fuelgettaboutit" when it came to a print ad for this car brand's Equinox SUV.
+
+----
+num: 10
+category: History
+difficulty: 400
+seen: 4
+answer: Styx
+
+The 5 rivers of Hell include Cocytus (of weeping) & Acheron (of grief), but this one (of hate) gets all the press.
+
+----
+num: 11
+category: Art
+difficulty: 400
+seen: 4
+answer: a shark
+
+There are tiger & nurse varieties of this critter.
+
+----
+num: 12
+category: Geography
+difficulty: 600
+seen: 8
+answer: Wyoming
+
+The USA's first Natl. Forest, Shoshone, was set aside in 1891 as part of the Yellowstone Timberland Reserve in this state.
+
+----
+num: 13
+category: Literature
+difficulty: 600
+seen: 4
+answer: Whoopi Goldberg
+
+This co-host of "The View" shares some of her views in a 2010 book called "Is It Just Me?  Or Is It Nuts Out There?".
+
+----
+num: 14
+category: History
+difficulty: 600
+seen: 4
+answer: leathernecks
+
+The story goes that 19th century Marines wore collar protection from bayonets--hence this nickname.
+
+----
+num: 15
+category: Trash
+difficulty: 600
+seen: 5
+answer: Zooey Deschanel
+
+Fox branded this star of "New Girl" as "adorkable".
+
+----
+num: 16
+category: Art
+difficulty: 600
+seen: 4
+answer: an ark
+
+Biblically, it was a box as well as a boat.
+
+----
+num: 17
+category: Literature
+difficulty: 800
+seen: 4
+answer: Steve Martin
+
+This comedian's "shopgirl" was turned into a 2005 film staring himself & Claire Danes.
+
+----
+num: 18
+category: History
+difficulty: 800
+seen: 3
+answer: Ferdinand Zeppelin
+
+This German made his first balloon ascent as a military observer for the Union army in the civil war.
+
+----
+num: 19
+category: Trash
+difficulty: 800
+seen: 5
+answer: Kraft
+
+This company's natural cheese crumbles were-- how shall I say-- "crumbelievable".
+
+----
+num: 20
+category: History
+difficulty: 800
+seen: 4
+answer: the Security Council
+
+In 1991 Russia took over the seat of the old Soviet Union as one of the 5 permanent members of this U.N. group of 15.
+
+----
+num: 21
+category: Art
+difficulty: 800
+seen: 5
+answer: keeps
+
+We "play for" these, the large, strong towers in the centers of castles.
+
+----
+num: 22
+category: Geography
+difficulty: 1000
+seen: 9
+answer: Superior
+
+The Boundary Waters Canoe Area Wilderness is within the Minnesota national forest named for this Great Lake.
+
+----
+num: 23
+category: Literature
+difficulty: 1000
+seen: 4
+answer: Carrie Fisher
+
+In "The Best Awful", she continued the story of Suzanne Vale from "Postcards From The Edge".
+
+----
+num: 24
+category: History
+difficulty: 1000
+seen: 4
+answer: uranium
+
+(Kelly gives the clue from the USS Iwo Jima).
+
+----
+num: 25
+category: Trash
+difficulty: 1000
+seen: 5
+answer: Yoplait
+
+Don't look in the dictionary for "swapportunity", a word provided by this brand that makes Go-gurt.
+
+----
+num: 26
+category: History
+difficulty: 1000
+seen: 3
+answer: the Pentateuch
+
+The first 5 books of the Old Testament are sometimes known as this, from the Greek for "five".
+
+----
+num: 27
+category: Art
+difficulty: 1000
+seen: 4
+answer: a harp
+
+There are strings attached to this musical instrument, & they're stretched over a large upright frame.
+
+----
+num: 28
+category: Literature
+difficulty: 400
+seen: 4
+answer: (Colleen) McCullough
+
+This author of "The Thorn Birds" lives on remote Norfolk Island in the Pacific with her husband.
+
+----
+num: 29
+category: Trash
+difficulty: 400
+seen: 5
+answer: the Dixie Chicks
+
+In 2002 they covered Stevie Nicks' "Landslide".
+
+----
+num: 30
+category: History
+difficulty: 400
+seen: 4
+answer: Wall Street
+
+The N.Y. Times won a Pulitzer in 2002 for covering this street, also in the name of another winning paper that year.
+
+----
+num: 31
+category: History
+difficulty: 400
+seen: 5
+answer: the Suez
+
+In 1875 Britain purchased the holdings of Ismail Pasha in this canal company.
+
+----
+num: 32
+category: Literature
+difficulty: 800
+seen: 3
+answer: (Cormac) McCarthy
+
+The film "No Country For Old Men" was based on a novel by him.
+
+----
+num: 33
+category: Trash
+difficulty: 800
+seen: 5
+answer: whistling Dixie
+
+If you said something important, you ain't just doing this.
+
+----
+num: 34
+category: History
+difficulty: 800
+seen: 5
+answer: the Rue de Rivoli
+
+Tivoli is in Copenhagen; this is the similar-sounding name of the Paris street along the north side of the Louvre.
+
+----
+num: 35
+category: History
+difficulty: 800
+seen: 3
+answer: Labour
+
+In 1924 Ramsay MacDonald, a founder of this party, became its first prime minister.
+
+----
+num: 36
+category: Literature
+difficulty: 1200
+seen: 4
+answer: Anne McCaffrey
+
+Dubbed "The Dragonlady", she was known for her sci-fi/fantasy series "Dragonriders of Pern".
+
+----
+num: 37
+category: Trash
+difficulty: 1200
+seen: 6
+answer: the Dixie Cup
+
+Marketed as a way to prevent the spread of germs, this product got its current name in 1919.
+
+----
+num: 38
+category: History
+difficulty: 1200
+seen: 5
+answer: (Order of the) Garter
+
+Edward III founded this order of knighthood named for a piece of intimate apparel.
+
+----
+num: 39
+category: Literature
+difficulty: 1600
+seen: 4
+answer: (Terry) McMillan
+
+She co-wrote the film adaptation of her novel "Waiting to Exhale".
+
+----
+num: 40
+category: Trash
+difficulty: 1600
+seen: 6
+answer: Winn-Dixie
+
+This grocery chain goes back to a store founded in Miami in 1925 by W.M. Davis.
+
+----
+num: 41
+category: History
+difficulty: 1600
+seen: 4
+answer: Eton
+
+In 1440 Henry VI founded this boys' school as a prep school for King's College.
+
+----
+num: 42
+category: Literature
+difficulty: 2000
+seen: 6
+answer: Joe McGinniss
+
+He moved in next door to Sarah Palin to research his 2011 biography of her.
+
+----
+num: 43
+category: Trash
+difficulty: 2000
+seen: 8
+answer: the Dixiecrats
+
+Nickname of the party led by 1948 presidential candidate Strom Thurmond.
+
+----
+num: 44
+category: History
+difficulty: 2000
+seen: 5
+answer: Friedrichstrasse
+
+In Berlin, Wilhelmstrasse runs parallel to this other major street bearing the name of a German emperor.
+
+----
+num: 45
+category: History
+difficulty: 2000
+seen: 5
+answer: Welsh
+
+In the 16th century, Richard Davies, Bishop of St. David's, helped translate the New Testament into this language.

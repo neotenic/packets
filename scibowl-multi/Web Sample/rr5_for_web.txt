@@ -1,0 +1,99 @@
+####
+tournament: Web Sample
+round: rr5_for_web.pdf
+####
+
+num: 2
+category: Earth Science
+difficulty: MS
+answer: W )  3
+
+What is the m inimum number of locations around the world needed to locate the epicenter of an earthquake?
+X) 10 W) 3
+Y) 1 
+Z) 5
+
+----
+num: 4
+category: Life Science
+difficulty: MS
+answer: X)  Mutations Are Changes in the Genetic Code Found in 
+Dna
+
+Which of the following statem ents is TRUE?
+W) the human y chromosome has hundreds of known genes 
+X) mutations are changes in the genetic code found in DNA 
+Y) humans have the largest brains per body size than any other anim al that has ever lived on Earth 
+Z) all infectious agen ts are caused by some sort of living organism
+
+----
+num: 10
+category: Physical Science
+difficulty: MS
+answer: Y)  the El Ectromagnetic Force
+
+Atoms are made up of mostly empty space. 
+Which basic force prevents the atoms of your hand, which are mainly empty space, fromeasily passing through the atoms in a table top, which are also m ainly empty space?
+W) Gravity
+X) The Strong Nuclear Force 
+Y) The Electrom agnetic Force 
+Z) The Weak Nuclear Force
+
+----
+num: 11
+category: General Science
+difficulty: MS
+answer: Z)  Increasing the Amount of Light the Lens Captures
+
+An oil-immersion objective lens primarily im proves magnification in a co mpound light microscope by:
+W) decreasing the wavelength of light entering the ocular lens 
+X) eliminating chromatic aberration 
+Y) increasing contrast in the im age 
+Z) increasin g the amount of light the lens captures
+
+----
+num: 12
+category: Earth Science
+difficulty: MS
+answer: Z)  Mercury
+
+Which planet has the greatest surface tem perature range?
+W) Venus 
+X) Earth
+Z)Y) Mars Mercury
+
+----
+num: 13
+category: Mathematics
+difficulty: MS
+answer: X)  Irrational
+
+Which one of the following terms would best describe pi?
+W)
+X) IrraWhole tional 
+Y) Mixed 
+Z) Integer
+
+----
+num: 14
+category: Life Science
+difficulty: MS
+answer: Z)  Cerebellum
+
+What is the part of the br ain that is most directly involved in walking and coordination?
+W) Pre-frontal lobe 
+X) Cerebrum 
+Y) Medulla 
+Z) Cerebellum
+
+----
+num: 15
+category: Physical Science
+difficulty: MS
+answer: Z)  Their Atmospheres Absorb Red Light Very Efficiently
+
+Why do the planets Uranus and Neptune appear b lue?
+W) Their atmospheres a bsorb blue light very efficiently. 
+X) The wind speeds are very high and so show a strong blue shift. 
+Y) Their surfaces are covered with water and their clouds are very th in. 
+Z) Their a tmospheres absorb red light very efficiently.

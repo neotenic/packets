@@ -1,0 +1,246 @@
+####
+tournament: Sample
+round: round8.pdf
+####
+
+num: 1
+category: Chemistry
+difficulty: HS
+seen: 35
+answer: K = 32%;  Cl = 29%;  O = 39%
+(Solution:  K^ = 39g/122g × 100% = 32%;  Cl^ = 35/122 × 100% = 29%;  O^ = 48/122 × 100% = 39%)
+
+Find the mass percent composition, rounded to the nearest whole number, for each atom in KClO ^3. Assume the atomic masses of potassium = 39, chlorine = 35, and oxygen = 16
+
+----
+num: 2
+category: Biology
+difficulty: HS
+fixed: -1
+seen: 39
+answer: Gram Negative;  an Enteric Organism;  Bacillus
+(Accept:  All but Non-Motile)
+
+Name all of the following 4 choices that are characteristic of 
+E. coli: gram negative; an enteric organism; non -motile; bacillus
+
+----
+num: 4
+category: Math
+difficulty: HS
+fixed: -1
+seen: 25
+answer: 17,640
+(Solution:  (100 – 2)(180) = 17,640º)
+
+Find the sum of all interior angles, in de grees, in a regular polygon having 100 sides:
+
+----
+num: 7
+category: Astronomy
+difficulty: HS
+seen: 57
+answer: Mercury
+
+Which of the terrestrial planets has the lowest albedo?
+
+----
+num: 7
+category: Astronomy
+difficulty: HS
+seen: 56
+answer: Liquid
+
+Most of the hydrogen that makes up the planet Jupiter is in what phase?
+
+----
+num: 8
+category: Chemistry
+difficulty: HS
+seen: 34
+answer: 7
+
+In a strong acid-base titration, what is the pH of the solution when the equivalence point is reached?
+
+----
+num: 9
+category: Biology
+difficulty: HS
+seen: 39
+answer: Ige  (Accept:  Immunolglobulin E)
+
+What specific class of antibodies is most commonly responsible for degranulation of basophils or mast cells?
+
+----
+num: 10
+category: Physics
+difficulty: HS
+seen: 26
+answer: Amplitude
+
+What property of a wave is generally said to increase during constructive interference?
+
+----
+num: 10
+category: Physics
+difficulty: HS
+seen: 25
+answer: Faraday’s First Law of Electrolysis  
+(Accept:  Faraday’s First Law or Faraday’s Law of Electrolysis)
+
+What is the most common n ame for the Law or principal dictating that the amount of a substance that is released or deposited from an electrode is directly proportional to the amount of electric current passing through the circuit?
+
+----
+num: 11
+category: Math
+difficulty: HS
+seen: 25
+answer: 6 and 12
+(Solution: 3r^3 = 24, R = 2)
+
+Find 2 mean proportionals between the numbers 3 and 24:
+
+----
+num: 11
+category: Math
+difficulty: HS
+seen: 25
+answer: 32 (Do Not Accept:  2^5)
+(Solution: 1 + 3 + 8 + 8 = 20/4 = 5;  2^5 = 32)
+
+Find the numerical val ue of the geometric mean of the following 4 values: 2^1; 2^3; 2^8; 2^8
+
+----
+num: 14
+category: Astronomy
+difficulty: HS
+seen: 55
+answer: Comet(s)
+
+From what specific celestial body do meteor showers originate?
+
+----
+num: 16
+category: Biology
+difficulty: HS
+fixed: -1
+seen: 39
+answer: 2 Polar Nuclei  (Accept:  2 or Both Polar Nuclei or Polar Nuclei)
+(Do Not Accept:  Polar Nucleus)
+
+In angiosperm seed development, what fuses with the second sperm nucleus to form the endosperm?
+
+----
+num: 16
+category: Biology
+difficulty: HS
+seen: 38
+answer: Mitochondrion  (Accept:  Mitochondria)
+
+In what specific part of a eukaryotic cell will pyruvate be converted into acetyl Co -enzyme A?
+
+----
+num: 18
+category: Math
+difficulty: HS
+fixed: 1
+seen: 25
+answer: {5} (Solution: 6-11-16-21-26-31-36-41-46-51)
+
+There are 10 people on a bus who , when ranked from youngest to oldest,all differ from those on the bus closest in age to them by the same number of years. If the youngest is 6 and the oldest is 51 , what is the common difference in their age?
+
+----
+num: 18
+category: Math
+difficulty: HS
+fixed: -1
+seen: 24
+answer: 1 and  –7
+
+Solve the following equation for all real values of x: (x + 3)^2 = 16
+
+----
+num: 19
+category: Earth Science
+difficulty: HS
+seen: 64
+answer: Condensation Nuclei
+
+What is the general name for the myriad ofs uspended particles or aerosols in the Earth’s atmosphere that allow rain droplets to undergo coalescence?
+
+----
+num: 21
+category: Astronomy
+difficulty: HS
+seen: 55
+answer: Sidereal Period
+
+What is the most accurate term astronomers use for the time it takes for a planet to orbit the Sun relative to the stars?
+
+----
+num: 21
+category: Astronomy
+difficulty: HS
+seen: 53
+answer: Mars
+
+What terrestrial planet has the longest sidereal period?
+
+----
+num: 22
+category: Chemistry
+difficulty: HS
+seen: 33
+answer: Cathode = Copper  (Accept :  Cu);  Anode = Chlorine  (Accept:  
+Chlorine Gas or Cl
+^2)
+
+In the electrolysis of a copper chloride solution, what forms at the cathode and anode, respectively?
+
+----
+num: 22
+category: Chemistry
+difficulty: HS
+fixed: -1
+seen: 34
+answer: (Nh^4)^2so^4
+
+According to standard chemical nomenclature , what is the formula for ammonium sulfate?
+
+----
+num: 23
+category: Biology
+difficulty: HS
+seen: 38
+answer: 1
+(Solution: Mammals Produce 1 Ovum and 3 Polar Bodies Per Primary Oocyte)
+
+How many human ova are produced by a full round of meiosis from a single primary oocyte?
+
+----
+num: 23
+category: Biology
+difficulty: HS
+fixed: -1
+seen: 40
+answer: Humans
+
+Name all of the following 4 animals for which L -ascorbate is an essential nutrient: humans; dogs; cats; horses
+
+----
+num: 24
+category: Physics
+difficulty: HS
+seen: 26
+answer: Conservation of Charge
+
+In triboelectric charging, when one object loses electrons, the object that accepts the charges acquires the same number of charges that the oth er object has lost. What law most directly governs this equal exchange?
+
+----
+num: 24
+category: Physics
+difficulty: HS
+seen: 28
+answer: 2  (Accept:  2 Pipe Lengths)
+
+Consider an organ pipe open at both ends. For a standing wave in the pipe, what is the wavelength of the fundamen tal tone, in terms of the pipe’s length?

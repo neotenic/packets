@@ -1,0 +1,224 @@
+####
+tournament: ACF Regionals
+round: 2010 - ACF Regionals - CMU+Harvard.doc
+year: 2010
+####
+
+num: 1
+category: History
+difficulty: College
+fixed: 57
+seen: 68
+answer: Wang {Mang}
+
+This figure was given an albino chicken that he used to gain the title Duke of Anhan, and in the century following his death treasure hunters roamed the countryside seeking the ample rewards for locating various fragments of his corpse. Chunyu Zhang was murdered by Emperor Cheng as a result of this man's actions, and one rebellion against him was led by Wang Kuang and Wang Feng, who were part of the Lulin Mountain group. This man instituted an agricultural approach named for the character it resembled, the well-field system, and made sweeping and violently unpopular changes to geographical names. A sloth tax for unused land prompted the revolt of Mother Lu against this ruler, who served as a regent for the infant Ping and appointed Ruzi as his successor. Seizing power from the Liu family and ousted in the Red Eyebrow revolt, for 10 points, identify this man who established the Xin dynasty after briefly usurping the throne of Han China.
+
+----
+num: 2
+category: Science
+difficulty: College
+fixed: None
+seen: 80
+answer: {shortest path} algorithms [accept with any of the {following modifying} the answer: {all}-{pairs}, {single}-{source}, or {single}-{source single}-{destination}]
+
+Zhan and Noon tested algorithms for solving this problem, finding approximate or double bucket modifications to one algorithm and Pallattino's algorithm with two queues were fastest on actual data. Johnson's algorithm solves this problem in the sparse case faster than the cubic Floyd's algorithm, both of which solve this for all pairs. Another approach uses dynamic programming, and checks all edges n times; that algorithm also detects negative cost cycles, and is named for Bellman and Ford. A Fibonacci heap is used to speed up a greedy approach, which works only for positive-weight edges, while if an admissible heuristic is available, the A* algorithm can be used. For 10 points, identify this problem in graph theory, most famously solved by Dijkstra's algorithm, which asks for a fast route between two nodes.
+
+----
+num: 3
+category: Fine Arts
+difficulty: College
+fixed: 57
+seen: 68
+answer: {Austria}
+
+An architecture firm originating in this country designed the Vodol chair as well as the UFA Cinema Center and an extension for the Akron Art Museum.  An architect from this country designed the Haas Haus and the Museum Abteiburg.  In addition to the firm Coop Himmelblau and Hans Hollein, this country was home to an architect who created the Goldman and Salatsch building, the Steiner house, and the Paris home of Tristan Tzara as well as writing the manifesto Ornament and Crime.  That man, Adolf Loos, was opposed to a movement in this country's capitol that was headquartered in a building topped by a gold leaf dome and was known as the city's namesake “Secession.”  That movement from this country produced the Beethoven Frieze and was led by a man who painted figures covered with squares and circles in The Kiss.  For 10 points, name this home of Gustav Klimt as well as composers like Franz Schubert and Johann Strauss.
+
+----
+num: 4
+category: Literature
+difficulty: College
+fixed: None
+seen: 59
+answer: {Rob Roy}
+
+One character in this novel lies about the contents of his portmanteau, which contains money rather than stockings as claimed. Later on, that character joins the protagonist at the Black Bear Inn.The protagonist of this novel visits Mr. Owen at Tolbooth prison accompanied by Andrew Fairservice. This novel's main action begins when Tresham sends a letter alerting the protagonist of a plot to embezzle his father's funds. The protagonist of this novel fell in love while watching Diana Vernon at a fox hunt on the way to live with her uncle, Sir Hildebrand. The novel ends when the protagonist pursues Rashleigh, who is in turn killed by MacGregor Campbell. For 10 points, identify this novel about Frank Osbaldistone, which takes its name from the appearances of the titular Scottish outlaw, a work of Walter Scott.
+
+----
+num: 5
+category: Religion
+difficulty: College
+fixed: None
+seen: 90
+answer: {Ahura Mazda} [or {Ormazd}; accept {Hormisdas}]
+
+A pope named for this figure's Greek name had a namesake formula supported by Justin I which ended the Acacian Schism.  Kavis and Karipans were people who could not see or hear anything of this figure. The primal man of Manichaeist cosmology was named for this figure, whose twenty names of are recounted in the first Yasht, which praises him. The Yasna is a hymn to this figure, who is assisted by Yazatas such as Atar as well as by the messenger VohuManah. This figure was assisted by the six “beneficent immortals,” or Amesha Spentas, and he was opposed by the Daevas.   Sometimes identified as a son of Zurvan, this god is destined to win a cosmic struggle against his evil counterpart Ahriman.  For 10 points, name this figure worshiped in the Avestas, the chief god of Zoroastrianism.
+
+----
+num: 6
+category: Social Science
+difficulty: College
+fixed: None
+seen: 52
+answer: {thick description}
+
+One essay explains this concept in terms of “what is ‘Le Penseur' doing?”  An essay titled for this concept borrows Paul Ricoeur's idea of “inscription of action” and contains a version of the “turtles all the way down” story.  That essay explains this concept in terms of a Jewish merchant participating in a sham sheep raid in Morocco, and cites “The Thinking of Thoughts” by Gilbert Ryle, which explains this concept in the difference between various forms of winking.  This concept is used to explore the Weberian “webs of significance” that make up its popularizer's semiotic theory of culture, which is used in works likes “Deep Play: Notes on the Balinese Cockfight.”  For 10 points, name this concept which titles the first essay in Clifford Geertz's Interpretation of Cultures, and which involves including context in ethnographic explanations.
+
+----
+num: 6
+category: Fine Arts
+difficulty: College
+fixed: None
+seen: 72
+answer: {thick description}
+
+One essay explains this concept in terms of “what is ‘Le Penseur' doing?”  An essay titled for this concept borrows Paul Ricoeur's idea of “inscription of action” and contains a version of the “turtles all the way down” story.  That essay explains this concept in terms of a Jewish merchant participating in a sham sheep raid in Morocco, and cites “The Thinking of Thoughts” by Gilbert Ryle, which explains this concept in the difference between various forms of winking.  This concept is used to explore the Weberian “webs of significance” that make up its popularizer's semiotic theory of culture, which is used in works likes “Deep Play: Notes on the Balinese Cockfight.”  For 10 points, name this concept which titles the first essay in Clifford Geertz's Interpretation of Cultures, and which involves including context in ethnographic explanations.
+
+----
+num: 7
+category: Literature
+difficulty: College
+fixed: 57
+seen: 61
+answer: Luigi Pirandello
+
+This author wrote about a husband who goes mad after his wife comments that his nose tilts to the right in One, None, and One Hundred Thousand. One work by this author sees a man escape to Monte Carlo where he discovers his family has declared him dead, and another work takes place within the audience where the stage manager Dr. Hinkfuss proclaim himself the author. In addition to writing Tonight We Improvise, this author described a character who falls off a horse and believes he is the titular Holy Roman emperor. He also wrote a play in which the Manager becomes angry at the title group of actors who rehearse in Madame Pace's shop. For 10 points, name this Italian author who wrote Henry IV and Six Characters in Search of an Author.
+
+----
+num: 8
+category: History
+difficulty: College
+fixed: None
+seen: 68
+answer: {Alexander} I
+
+During this figure's rule, his nation acquired the territory of Karabakh under the Treat of Gulistan. This ruler joined with figures such as Victor Kochubei to form the “Unofficial Committee,” and his government acquired Bessarabia in the Treaty of Bucharest. This man sought to address food shortages by creating agriculturally-based Military Settlements; the ensuing disaster of this plan led this ruler to dismiss Aleksey Arakcheyev. He evaded a plot to kidnap him on the way of the Congress of Aix-la-Chapelle and was advised for much of his reign by the reform-minded Mikhail Speransky. This architect of the Holy Alliance was rumored to have faked his death and become a misanthropic monk at Pochayiv Lavra, years after agreeing to a treaty negotiated on a raft in the Neman River. The Decembrist revolt occurred in the wake of the death of, for 10 points, what Russian Tsaw who signed the Treaty of Tilsit with Napoleon and was succeeded by his brother, Nicholas I?
+
+----
+num: 9
+category: Science
+difficulty: College
+fixed: None
+seen: 80
+answer: {Meselson}-{Stahl} experiment
+
+Edward Simon showed that the results of this experiment held in HeLa cells. When reviewing the manuscript that ultimately published this experiment's results, John Cairns suggested a reason why its results with salmon sperm were different. Along with Vinograd, the experimenters had the year before perfected a way of using cesium chloride to establish a density gradient during centrifugation. This pulse-chase experiment disproved Max Delbrück's ideas about the “unwinding problem.” It grew E. coli in nitrogen-15 labeled media for several generations, then moved it to a nitrogen-14 medium and looked at the density of DNA in further generations. For 10 points, what doubly-eponymous experiment confirmed the semiconservative nature of DNA replication?
+
+----
+num: 10
+category: Fine Arts
+difficulty: College
+fixed: 57
+seen: 71
+answer: John Everett {Millais}
+
+An injured soldier holds a newspaper while his daughters play with a lion, bear, turkey, and rooster in this artist's Peace Concluded, and he illustrated several works of Anthony Trollope.  A man leans forward on a green chair, pointing his white leg at a pair of lovers on the other side of a banquet table in his Isabella, while a melancholy girl holds an apple as her older sisters gather the title objects in his Autumn Leaves.  A young boy holds a bowl of water on the right side of a painting which shows the title figure raising a bleeding hand while a door is being made behind him in this man's controversial depiction of biblical figures, while another of his works is known for its depiction of vegetation along a creek side, and shows the title figure wearing an embroidered silver dress as she floats in the water.  For 10 points, name this Pre-Raphaelite painter of Christ in the House of His Parents and Ophelia.
+
+----
+num: 11
+category: Trash
+difficulty: College
+fixed: 57
+seen: 186
+answer: The {Rolling Stones}
+
+In one song this band sings about a “honey kind of girl” addressed as “Hannah baby,” who “got a mind of her own and she use it well.” Another of their songs claims “what a drag it is getting old” and extols the virtues of a “little yellow pill.”  In addition to “Memory Motel” and “Mother's Little Helper,” they sang about a girl who “taste so good”, “just like a black girl should” and about another figure “born in a cross-fire hurricane” who thinks it's a “gas, gas, gas.”  In one song, their singer says “I see the girls walk by dressed in their summer clothes, I have to turn my head until my darkness goes,” and another opens with “Please allow me to introduce myself, I'm a man of wealth and taste.”  For 10 points, name this band whose songs include “Brown Sugar,” “Jumpin' Jack Flash,” “Paint It, Black,” “Sympathy for the Devil,” and “Satisfaction.”
+
+----
+num: 12
+category: Literature
+difficulty: College
+fixed: None
+seen: 61
+answer: {Portnoy's Complaint}
+
+In this novel Ronald Nimkin hangs himself and leaves a note about bringing mah-jong rules. One character has a vision about arriving home with a seeing eye dog after having a fling with Bubbles Girardi. The protagonist  takes a job as the Assistant Commissioner for Human Opportunity, and constantly fights his constipated father to use the bathroom. Later, the protagonist of this novel is left by his girlfriend in Rome after sleeping with the prostitute Lina. The main character becomes involved with women he calls “The Pilgrim” and “The Pumpkin” in addition to Mary Jane Reed, who is dubbed “The Monkey.” For 10 points, name this novel in which the title character tells his story to Dr. Spielvogel, written by Philip Roth. 
+
+----
+num: 13
+category: Science
+difficulty: College
+fixed: None
+seen: 79
+answer: {Wittig} reaction [or {Wittig olefination}]
+
+Although Georg Geissler was the second author on the paper introducing this reaction, he is never referred to as a namesake of this reaction. One alternative to this reaction uses a compound obtained in the Arbuzov rearrangement; that alternative transforms carbanions into olefins with E-selectivity and is named after Emmons, Wadsworth, and Horner. Another modification to this reaction adds lithium salts to create the threo version of the betaine intermediate, which again creates E-selectivity, instead of the usual Z-selectivity, in the product of that Schlosser modification. For 10 points, what is this reaction that forms olefins from ketones and phosphonium ylides, named after a German chemist?
+
+----
+num: 14
+category: Mythology
+difficulty: College
+fixed: 57
+seen: 111
+answer: {Troy} [accept {Ilium}; accept {Ilion}]
+
+According to Apollodorus, Zeus hurled the goddess Ate from Olympus and she landed at this place. One early ruler of this place had three thousand horses who could run on the top of wheat stalks, and an early queen of this place was named Batea. It's not Thebes, but the founder of this place followed a cow until it sat down, and one future ruler of this place was named Podarces. One member of its royal house was abducted by Zeus to become the cupbearer of the gods, and sea monster was sent to this city to devour Hesione because one ruler of this place cheated Apollo and Poseidon after they helped built its walls. In addition to Ganymede and Laomedon, early kings of this place included Dardanus and Ilus, and this city was home to the Palladium. For 10 points, identify this city whose final residents included Hecuba, Hector, and king Priam.
+
+----
+num: 15
+category: History
+difficulty: College
+fixed: 57
+seen: 70
+answer: {Chartism} [or {Chartists}]
+
+Some leaders of this movement called for a “sacred month,” and it saw notable gatherings at Hatshead Moor and Kersal Moor. One leader of this movement broke with its main body to found a National Association, and with John Collins co-wrote a tract supporting it while in jail. Another leader of this movement published the Northern Star, and George Julian Harney was among those who supported the drafting of “ulterior methods” for achieving its aims.  This movement grew out of the LWMA, and its leaders included Francis Place and Feargus Edward O'Connor. It saw numerous members executed after John Frost's Newport Rising, and sought annual elections and secret balloting as part of its six points. FTP, name this working class movement that pushed for universal male suffrage in mid-nineteenth century Britain, named for William Lovett's founding document.
+
+----
+num: 16
+category: Literature
+difficulty: College
+fixed: 57
+seen: 61
+answer: Gaius Valerius {Catullus}
+
+One of this author's poems condemns a man who goes to parties and steals people's napkins, and another describes a voyage home on a boat that resembles a bean pod. This author addressed his town Sirmio as “the most pleasant of peninsulas,” and asks for more kisses than grains of sand in the desert in another poem. He translated Callimachus's poem “The Lock of Berence,” and this member of the Neoteric group dedicated his collection of poems called “nugae” to Cornelius Nepos. This figure's more famous poems include one about the death of his lover's sparrow, and one beginning “ave atque vale” on the death of his brother. For 10 points, name this Roman poet who wrote poems to Lesbia.
+
+----
+num: 17
+category: Fine Arts
+difficulty: College
+fixed: -1
+seen: 70
+answer: {London Symphonies}
+
+The first one of these works features a bassoon chord meant to imitate a fart. Another one quotes from the Croatian folk song “a little girl treads on a brook” in the final movement and gets its name from the opening timpani rhythm. One of these works got its nickname from an incident at the premiere when a chandelier fell from the ceiling but did not hurt any audience members. In addition to pieces titled “Drumroll” and “Miracle” a “ticking” rhythm appear in one of these works subtitled “Clock” and the best-known one features a sudden fortissimo G chord in the soft second movement. For 10 points, name this group of Haydn compositions including one titled “Surprise” that are named for an English city.
+
+----
+num: 18
+category: Science
+difficulty: College
+fixed: 57
+seen: 83
+answer: {measurement} or {observation} [accept {experiment} before *]
+
+According to Neumark's theorem, one of these realizable actions can always be constructed for a given positive value operator. The resolution of the consistency problem associated with this action(*) requires that it be irreversible. Repeating this process very frequently results in a "freezing" of the system state, a phenomenon known as the quantum Zeno effect. Mathematically, this process can be thought of as the forced projection of the system state onto an eigenstate of the Hamiltonian, and according to the Heisenberg uncertainty principle, this process cannot be performed simultaneously with arbitrary accuracy for non-commuting observables. For 10 points, identify this action which in von Neumann's formalism of quantum mechanics results in the collapse of the wave function to an energy eigenstate.
+
+----
+num: 19
+category: Philosophy
+difficulty: College
+fixed: None
+seen: 56
+answer: {Tractatus Logico}-{Philosophicus} [accept {Logical}-{Philosophical Treatise} or other reasonable {translations}]
+
+One theory presented in this book was inspired by a magazine article about how a car accident was modeled in a Paris courtroom.   This work makes a distinction between a proposition showing its sense and it saying how things are. This work argues that common representations share “pictorial form” and that a fact is a “state of affairs,” as part of its claim that thoughts and propositions are pictures.  The sixth section of this work presents the “general form of proposition” and argues that propositions of logic are tautologies, and thus meaningless.  The structure of this work is built around seven aphorisms, the first of which is “the world is all that is the case” and the final that “what we cannot talk about we must pass over in silence.” Later repudiated in its author's Philosophical Investigations, for 10 points, name this first and major work of Ludwig Wittgenstein.
+
+----
+num: 20
+category: History
+difficulty: College
+fixed: 57
+seen: 73
+answer: {Hartford} Convention
+
+Meetings at this event were convened by prayers of Reverend Strong, and this event was satirized by a William Charles cartoon called “Leap No Leap” in which one of its leaders was jumping into a king's lap. Some attendees of this event were referred to by the term “blue lights.” Theodore Dwight published a History of this event, while Harrison Gray Otis published Letters in Defense of it. George Cabot served as its president and was a part of its dominant faction, the Essex Junto. This conference sought to amend the Constitution to limit presidents to one term and abolish the three-fifths clause. It was ultimately rendered ineffective by the signing of the Treaty of Ghent. For 10 points, name this meeting of Federalists who opposed the War of 1812, which took place in Connecticut.
+
+----
+num: 21
+category: History
+difficulty: College
+fixed: 57
+seen: 82
+answer: {Frederick}
+
+One ruler of this name was influenced by Arnau de Vilanova to enact law codes such as the Constitutiones regales and the Ordinationes generales.  That ruler of this name was the first to take the title King of Trinacria, which he was granted by the Peace of Caltabellotta, and was a son of Peter III of Aragon. Another ruler of this name used his marriage to Yolande of Brienne to claim the crown of the Kingdom of Jerusalem. That ruler of this name was excommunicated by Gregory IX and was stripped of his position as emperor by Innocent IV, though he had earlier led the Sixth Crusade.  Another ruler of this name was defeated at the Battle of Legnano by the Lombard League and drowned in the Saleph River while attempting to join the Third Crusade.  For 10 points, give this regnal name held by the first Hohenstaufen Holy Roman Emperor, a certain Barbarossa.

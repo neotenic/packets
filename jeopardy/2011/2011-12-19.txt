@@ -1,0 +1,384 @@
+####
+tournament: #6271
+round: Show #6271 - Monday, December 19, 2011
+year: 2011
+date: 2011-12-19
+####
+
+num: 1
+category: History
+difficulty: 200
+seen: 5
+answer: Mayo
+
+Last name of William & Charles, brothers who built their own medical center in Rochester, Minnesota in 1914.
+
+----
+num: 2
+category: Social
+difficulty: 200
+seen: 5
+answer: a kayak
+
+"n... an Eskimo canoe made of a frame covered usu. with sealskin except for a small opening in the center".
+
+----
+num: 3
+category: Trash
+difficulty: 200
+seen: 5
+answer: Atlanta
+
+The Chick-fil-A Bowl at the Georgia Dome.
+
+----
+num: 4
+category: History
+difficulty: 200
+seen: 5
+answer: IHOP
+
+The restaurant chain known by these 4 letters also serves Florentine, Danish & Swedish crepes.
+
+----
+num: 5
+category: Literature
+difficulty: 200
+seen: 4
+answer: honk
+
+Do this with your car horn "if you love peace and quiet".
+
+----
+num: 6
+category: Science
+difficulty: 200
+fixed: -1
+seen: 8
+answer: light years
+
+Sirius is pretty close--just 8.6 of these from Earth.
+
+----
+num: 7
+category: Social
+difficulty: 400
+seen: 5
+answer: forecast
+
+"vt 1 archaic: to plan ahead... 2 a...to predict (weather conditions)".
+
+----
+num: 8
+category: Trash
+difficulty: 400
+seen: 5
+answer: San Antonio
+
+The Valero Alamo Bowl at the Alamodome.
+
+----
+num: 9
+category: History
+difficulty: 400
+seen: 4
+answer: icons
+
+In Orthodox churches, screens before the altar display these for instruction.
+
+----
+num: 10
+category: Literature
+difficulty: 400
+seen: 4
+answer: cheese
+
+"When" this food "gets its picture taken, what does it say?".
+
+----
+num: 11
+category: Science
+difficulty: 400
+seen: 5
+answer: a binary
+
+In 1844 Friedrich Bessel discovered that Sirius was one of these, also called a double or twin star.
+
+----
+num: 12
+category: Social
+difficulty: 600
+seen: 4
+answer: thou
+
+"pron... archaic... a nominative pronoun of the second person singular esp. in biblical... language".
+
+----
+num: 13
+category: Trash
+difficulty: 600
+seen: 5
+answer: Tempe
+
+The Insight Bowl at Sun Devil Stadium.
+
+----
+num: 14
+category: History
+difficulty: 600
+seen: 5
+answer: Izod
+
+Formerly aligned with Lacoste, this clothing brand is now a brand of Phillips-Van Heusen.
+
+----
+num: 15
+category: Literature
+difficulty: 600
+seen: 3
+answer: went shopping (spent money/charged it accepted)
+
+"Veni, vidi, Visa. I came, I saw, I" did this.
+
+----
+num: 16
+category: Science
+difficulty: 600
+seen: 5
+answer: a white dwarf
+
+As massive as the sun but much more condensed, Sirius B was the first of these "colorful" little stars to be discovered.
+
+----
+num: 17
+category: History
+difficulty: 800
+seen: 4
+answer: Clarence Darrow
+
+He managed to save Leopold & Loeb from the death penalty in 1924; the 2 got 99 years plus life.
+
+----
+num: 18
+category: Social
+difficulty: 800
+seen: 5
+answer: but
+
+"conj... 1 a: except for the fact--used to introduce a dependent clause".
+
+----
+num: 19
+category: Trash
+difficulty: 800
+seen: 5
+answer: Nashville
+
+The Franklin American Mortgage Music City Bowl at LP Field.
+
+----
+num: 20
+category: History
+difficulty: 800
+seen: 4
+answer: Iberia
+
+It's a European peninsula, or a European airline founded in 1927.
+
+----
+num: 21
+category: Literature
+difficulty: 800
+seen: 4
+answer: clowns
+
+"Cannibals won't eat" these circus performers... "they taste funny".
+
+----
+num: 22
+category: Science
+difficulty: 800
+seen: 5
+answer: magnitude
+
+Sirius is really bright--it has an apparent this of -1.44 (the lower the brighter).
+
+----
+num: 23
+category: History
+difficulty: 1000
+seen: 4
+answer: (Dr. Samuel) Mudd
+
+This doc imprisoned for his role in the assassination of Lincoln saved many prisoners & guards in a yellow fever epidemic.
+
+----
+num: 24
+category: Social
+difficulty: 1000
+seen: 4
+answer: halcyon
+
+"adj... 2 b: happy, golden" as in (this) era or the (this) days of youth.
+
+----
+num: 25
+category: Trash
+difficulty: 1000
+seen: 5
+answer: San Diego
+
+The Bridgepoint Education Holiday Bowl at Qualcomm Stadium.
+
+----
+num: 26
+category: History
+difficulty: 1000
+seen: 4
+answer: the Isotopes
+
+It's Albuquerque's minor league baseball team; I can't wait for uranium 235 to bat.
+
+----
+num: 27
+category: Literature
+difficulty: 1000
+seen: 3
+answer: haunt me
+
+"I believe in ghosts.  My past just came back to" do this.
+
+----
+num: 28
+category: Science
+difficulty: 1000
+seen: 8
+answer: Isis
+
+In Ancient Egypt Sirius was known as the Nile star or the star of this goddess.
+
+----
+num: 29
+category: Trash
+difficulty: 400
+seen: 5
+answer: a greenhouse
+
+This structure for the cultivation of your prized orchids can have quite an "effect" on visitors.
+
+----
+num: 30
+category: Science
+difficulty: 400
+seen: 5
+answer: the core
+
+Doing exercise to strengthen this 4-letter region?  It includes the stomach muscles, the butt, hips & lower back.
+
+----
+num: 31
+category: Trash
+difficulty: 800
+seen: 4
+answer: Emma Thompson
+
+She played Katherine in then-husband Kenneth Branagh's 1989 film of "Henry V".
+
+----
+num: 32
+category: Trash
+difficulty: 800
+seen: 4
+answer: a greengrocer
+
+A retailer of fresh vegetables & fruits in England.
+
+----
+num: 33
+category: Science
+difficulty: 800
+seen: 6
+answer: an elliptical
+
+The name of this machine that gives a low-impact cardio workout is the almost circular motion its pedals make.
+
+----
+num: 34
+category: Trash
+difficulty: 1200
+seen: 5
+answer: Mila Kunis
+
+This alumna of "That '70s Show" went to the future in "The Book of Eli"; "Friends with Benefits" is present-day.
+
+----
+num: 35
+category: Trash
+difficulty: 1200
+seen: 6
+answer: a greenhorn
+
+A first timer on a cattle drive.
+
+----
+num: 36
+category: Science
+difficulty: 1200
+seen: 5
+answer: curves
+
+"Your" these "will amaze you", says the women-only gym of the same name.
+
+----
+num: 37
+category: Trash
+difficulty: 1600
+seen: 5
+answer: Neve Campbell
+
+This "Party of Five" actress, a trained ballerina, starred in Robert Altman's ballet film "The Company".
+
+----
+num: 38
+category: Trash
+difficulty: 1600
+seen: 5
+answer: a greenbelt
+
+A swath of parks or rural land surrounding a city, or a rank of a karate student.
+
+----
+num: 39
+category: Science
+difficulty: 1600
+seen: 5
+answer: a kettlebell
+
+You have to be careful swinging around.
+
+----
+num: 40
+category: Trash
+difficulty: 2000
+seen: 9
+answer: Barbara Stanwyck
+
+A star for decades, she's seen.
+
+----
+num: 41
+category: Trash
+difficulty: 2000
+seen: 9
+answer: greenmail
+
+A raiding practice of buying up shares, forcing the company to buy them back at a premium.
+
+----
+num: 42
+category: Science
+difficulty: 2000
+seen: 8
+answer: Zumba
+
+Colombian-born Alberto Perez brought this Latin-inspired "Dance Fitness Party" to Miami in 2001.

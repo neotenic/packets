@@ -1,0 +1,446 @@
+####
+tournament: #6059
+round: Show #6059 - Thursday, January 6, 2011
+year: 2011
+date: 2011-01-06
+####
+
+num: 1
+category: History
+difficulty: 200
+seen: 4
+answer: the Bastille
+
+This structure, a symbol of the Bourbon monarchy, was stormed on July 14, 1789.
+
+----
+num: 2
+category: Literature
+difficulty: 200
+seen: 4
+answer: the Venus Flytrap
+
+The hungry South Carolina native seen.
+
+----
+num: 3
+category: Geography
+difficulty: 200
+seen: 9
+answer: Sacramento
+
+You'll find San Jose, California about 90 miles southwest of this state capital.
+
+----
+num: 4
+category: Literature
+difficulty: 200
+seen: 4
+answer: Uncle Sam
+
+This personification of the United States wears a white top hat that has white stars on a blue band.
+
+----
+num: 5
+category: History
+difficulty: 200
+seen: 5
+answer: Washington
+
+A salmon breaching the water in front of Mount Rainier.
+
+----
+num: 6
+category: Literature
+difficulty: 200
+seen: 4
+answer: Gromit
+
+Nick Park created the animated characters Wallace & this loyal dog.
+
+----
+num: 7
+category: History
+difficulty: 400
+seen: 4
+answer: the American Revolution
+
+France was in dire straits financially due to its support of this other revolution.
+
+----
+num: 8
+category: Literature
+difficulty: 400
+seen: 4
+answer: the Victoria Falls
+
+You're all wet if you can't name.
+
+----
+num: 9
+category: Geography
+difficulty: 400
+seen: 8
+answer: The Philippines
+
+San Jose in this country is on the main highway from Manila to Aparri.
+
+----
+num: 10
+category: Literature
+difficulty: 400
+seen: 3
+answer: Uncle Fester
+
+This "electric" character in "The Addams Family" could light up a light bulb by sticking it in his mouth.
+
+----
+num: 11
+category: History
+difficulty: 400
+seen: 4
+answer: Virginia
+
+Susan Constant, Godspeed & Discovery, ships that brought settlers to Jamestown.
+
+----
+num: 12
+category: Literature
+difficulty: 400
+seen: 4
+answer: Nick Nolte
+
+He played Four Leaf Tayback in the 2008 comedy "Tropic Thunder".
+
+----
+num: 13
+category: History
+difficulty: 600
+seen: 4
+answer: calendar
+
+Germinal, Fructidor & Thermidor could be found on the New French Republican this adopted in 1793.
+
+----
+num: 14
+category: Literature
+difficulty: 600
+seen: 4
+answer: a vertex
+
+It's a point on a triangle indicated.
+
+----
+num: 15
+category: Geography
+difficulty: 600
+seen: 8
+answer: the Mayans
+
+San Jose Succotz in Belize is the starting point for Xunantunich, famous for its ruins of this people.
+
+----
+num: 16
+category: Literature
+difficulty: 600
+seen: 4
+answer: Uncle Remus
+
+Among the stories he narrates are "The Sad Fate of Mr. Fox" & "Why Mr. Possum has no hair on his tail".
+
+----
+num: 17
+category: History
+difficulty: 600
+seen: 4
+answer: Alaska
+
+A grizzly bear emerging from the water with a salmon in its jaws & the motto "The Great Land".
+
+----
+num: 18
+category: Literature
+difficulty: 600
+seen: 4
+answer: Nick Cannon
+
+Drumroll, please, for this star of "Drumline" who is the CEO of the Can I Ball record label.
+
+----
+num: 19
+category: Literature
+difficulty: 800
+seen: 3
+answer: Pancho Villa
+
+Early 20th century revolutionary seen.
+
+----
+num: 20
+category: Geography
+difficulty: 800
+seen: 7
+answer: British Columbia
+
+If you're looking for the San Jose river, it's in this Canadian province on the Pacific.
+
+----
+num: 21
+category: Literature
+difficulty: 800
+seen: 4
+answer: Uncle Buck
+
+John Candy played this loud & crude slacker relative of Macaulay Culkin in a 1989 film.
+
+----
+num: 22
+category: History
+difficulty: 800
+seen: 4
+answer: Indiana
+
+A racecar superimposed on an outline of the state & the motto "Crossroads of America".
+
+----
+num: 23
+category: Literature
+difficulty: 800
+seen: 3
+answer: "Peace, Love, And Understanding"
+
+Nick Lowe wrote Elvis Costello's classic song "(What's so funny 'bout)" this trio.
+
+----
+num: 24
+category: History
+difficulty: 1000
+seen: 4
+answer: Napoleon Bonaparte
+
+A royalist power grab in Paris was crushed by this young general in 1795.
+
+----
+num: 25
+category: Geography
+difficulty: 1000
+seen: 8
+answer: a barrier island
+
+San Jose island off Texas in the Gulf of Mexico is this type of narrow island parallel to the shore.
+
+----
+num: 26
+category: Literature
+difficulty: 1000
+seen: 4
+answer: Uncle Vanya
+
+This Chekhov hero's real name is Ivan Petrovich Voynitsky.
+
+----
+num: 27
+category: History
+difficulty: 1000
+seen: 4
+answer: Louisiana
+
+A trumpet with musical notes & a pelican.
+
+----
+num: 28
+category: Science
+difficulty: 400
+seen: 5
+answer: light
+
+In the late 19th century, scientists postulated that this travels in waves through what they called luminiferous ether.
+
+----
+num: 29
+category: Literature
+difficulty: 400
+seen: 4
+answer: "Bad, Bad Leroy Brown"
+
+This title character of a Jim Croce No. 1 carried "a 32 gun in his pocket for fun".
+
+----
+num: 30
+category: Art
+difficulty: 400
+seen: 5
+answer: terracota
+
+Luca Della Robbia made decorative reliefs from this, baked clay, glazed in blue & white.
+
+----
+num: 31
+category: Literature
+difficulty: 400
+seen: 4
+answer: winter
+
+The narrator of "A Visit from St. Nicholas" has settled his brain "for a long" this season's "nap".
+
+----
+num: 32
+category: History
+difficulty: 400
+seen: 4
+answer: Princess Diana
+
+On her death, Tony Blair said, "she was the 'People's Princess', and that is how she will stay".
+
+----
+num: 33
+category: Science
+difficulty: 800
+seen: 5
+answer: mercury
+
+The torr is equal to 1 mmHg, or the pressure exerted by 1 millimeter of this metal.
+
+----
+num: 34
+category: Literature
+difficulty: 800
+seen: 4
+answer: "Georgia"
+
+In "the night the lights went out in" this state, an innocent man fires a shot to summon the law--big mistake.
+
+----
+num: 35
+category: Art
+difficulty: 800
+seen: 5
+answer: a triptych
+
+Bosch's "Garden of Earthly Delights" is one of these multipaneled works.
+
+----
+num: 36
+category: Literature
+difficulty: 800
+seen: 4
+answer: Ulysses Grant
+
+In 1864 at Spotsylvania, this Union General vowed "to fight it out on this line, if it takes all summer".
+
+----
+num: 37
+category: History
+difficulty: 800
+seen: 3
+answer: Houdini
+
+Born in 1874, he was nicknamed "The Handcuff King" & "The King of Escapologists".
+
+----
+num: 38
+category: Literature
+difficulty: 1200
+seen: 3
+answer: "Another One Bites The Dust"
+
+"Out of the doorway the bullets rip/ to the sound of the beat" in this Queen no. 1.
+
+----
+num: 39
+category: Literature
+difficulty: 1200
+seen: 4
+answer: The Queen of Hearts
+
+This royal "made some tarts all on a summer's day".
+
+----
+num: 40
+category: History
+difficulty: 1200
+seen: 4
+answer: Thoreau
+
+This writer was known affectionately as "The Concord Rebel" & "The Poet Naturalist".
+
+----
+num: 41
+category: Science
+difficulty: 1600
+seen: 6
+answer: steam engines
+
+The term horsepower was first used by James Watt affer comparing the power of horses to the power of these.
+
+----
+num: 42
+category: Literature
+difficulty: 1600
+seen: 4
+answer: "Chicago"
+
+"The sound of the battle rang/ through the streets of the old east side" in "the night" this town "died".
+
+----
+num: 43
+category: Art
+difficulty: 1600
+seen: 4
+answer: trompe l\'oeil
+
+Still life painter William Harnett was a practitioner of this type of illusionism, French for "deceive the eye".
+
+----
+num: 44
+category: History
+difficulty: 1600
+seen: 5
+answer: John C. Fremont
+
+Though he didn't really blaze his own trails, this explorer & politician was nicknamed "The Pathfinder".
+
+----
+num: 45
+category: Science
+difficulty: 2000
+seen: 8
+answer: a helix
+
+(Sarah of the clue crew gives the clue) On the surface of a cylinder rising at a constant angle lies this three-dimensional curve whose name is from the Greek for "spiral".
+
+----
+num: 46
+category: Literature
+difficulty: 2000
+seen: 6
+answer: "Destruction"
+
+In the 1965 no. I "Eve of" this, "the eastern world, it is explodin'/ violence flarin', bullets loadin"'.
+
+----
+num: 47
+category: Art
+difficulty: 2000
+seen: 5
+answer: Turner
+
+John Constable deprecatingly called the work of this other Brit "airy visions, painted with tinted steam".
+
+----
+num: 48
+category: Literature
+difficulty: 2000
+seen: 5
+answer: "The Autumn Leaves"
+
+In 1950 Johnny Mercer wrote the lyric "but I miss you most of all, my darling, when" these "start to fall".
+
+----
+num: 49
+category: History
+difficulty: 2000
+seen: 5
+answer: Enrico Fermi
+
+Before he came to the U.S., this physicist's Italian students called him "The Pope"; they considered him infallible.

@@ -1,0 +1,204 @@
+####
+tournament: Prison Bowl
+round: Round 1.rtf
+year: 2008
+####
+
+num: 1
+category: History
+difficulty: HS
+fixed: 1
+seen: 414
+answer: {Finland} (accept {Suomi} until it is mentioned)
+
+This nation's Continuation War involved an alliance with Germany partially to respond to a neighbor's use of the Aland Islands and ended during Gustaf Mannerheim's presidency. It helped the Nazis because it allowed for submarine training in the Baltic and cut off the Murmansk railroad. This followed a 4 month war with fighting was over control of the (*) Petsamo mines, Lake Ladoga, and the the Karelian Isthmus, called the Winter War. They were a grand duchy controlled by Russia until 1917, and which was taken from Sweden. Inhabited by the Suomi, this is FTP what Baltic nation with capital Helsinki? 
+
+----
+num: 2
+category: Literature
+difficulty: HS
+fixed: 57
+seen: 446
+answer: Oscar (Fingal O'Flahertie Wills) {Wilde}
+
+This author edited Woman's World for 3 years during which time, this author published The Happy Prince and Other Tales. Several previously-published essays were collected in Intentions, which came out the same year as two more collections of this author's stories, Lord Author Savile's Crime, and Other Stories, and A House of Pomegranates. Aubrey Beardsley published an English version of his play originally written in French, Salomé, and soon after appeared his A Woman of No Importance. The Dutchess of Berwick and Mrs. Erlynne appeared in his first major hit, (*) Lady Windermere's Fan, and the title character loves Sibyl Vane and has the title object painted by Basil Hallward in this man's only novel, The Picture of Dorian Grey. FTP, name this Irish author of The Importance of Being Earnest.
+
+----
+num: 3
+category: Science
+difficulty: HS
+fixed: 57
+seen: 485
+answer: {standard deviation} (prompt on “{sigma}” before it is mentioned and prompt on "{six sigma}" before "{empirical rule}")
+
+A set of corporate practices developed by Motorola and practiced by 3M and Raytheon, among others, is named for this, implying exceptional quality and almost no manufacturing defects. The so-called empirical rule, or 68-95-99.7 rule, relates area to distance, which is expressed in terms of this quantity. The z-score is computed by subtracting mu from the individual raw score, then dividing the difference by this (*) number, in a process known as normalization. For the Wechsler IQ test it is 15, while for the Stanford-Binet it is 16. It is the root mean square of the differences between each data point and the arithmetic mean. Also defined as the square root of the variance, it is denoted by the Greek letter sigma. FTP, in statistics, this is a measure of the spread of values in a random variable or a probability distribution.
+
+----
+num: 4
+category: History
+difficulty: HS
+fixed: 57
+seen: 426
+answer: Stonehenge
+
+One legend says a wizard took part of Mount Killaraus and moved it here. The circular bank and ditch about 110 meters in diameter were the first parts to be created, along with the 56 Aubrey holes. The Q and R Holes in the middle were dug about 500 years later, and contained materials that were originally thought to have been transported from (*) Wales but are now theorized to have been deposited near the site by the Irish Sea Glacier. The sun rises directly behind the Heel Stone on the summer solstice, when Druidic ceremonies are held. FTP, name this prehistoric monument located north of Salisbury that is mainly known for its large circles of stones.
+
+----
+num: 5
+category: Science
+difficulty: HS
+fixed: 1
+seen: 485
+answer: {Meissner}-Ochsenfeld {effect}
+
+It was first observed in 1933 by its eponymous discoverers in tin and lead specimens. Rather than a sharp boundary at the edge of the sample, there is a gradual decay of the magnetic field across the penetration depth of the material. This is caused by persistent (*) currents which form on the surface of the material as it is cooled below the critical temperature, which completely cancel out the flux inside it, resulting in perfect diamagnetism. It allows the diamagnetic levitation of small items, including live frogs. FTP, name this uniquely defining property of superconductors, a phenomenon characterized by the complete expulsion of a magnetic field.
+
+----
+num: 6
+category: Literature
+difficulty: HS
+fixed: -1
+seen: 446
+answer: {Howl}
+
+Its "Footnote" begins by repeating the word "Holy!" fifteen times. Its third and final section expresses solidarity with the person to whom it is dedicated by repeatedly stating "I'm with you in Rockland". Its second section begins with asking about a "sphinx of cement", and from there most of the lines begin with an invocation of Moloch. Like the rest of it, the first part of this poem features increasingly long lines about the exploits of (*) "angelheaded hipsters". The dedication is to a mental patient, Carl Solomon. FTP name this poem first published by Lawrence Ferlinghetti in 1956 that begins, "I saw the best minds of my generation destroyed by madness, hysterical naked", a landmark beat poem by Allen Ginsberg.
+
+----
+num: 7
+category: Science
+difficulty: HS
+fixed: 57
+seen: 489
+answer: {platypus} or {Ornithorhynchus anatinus} (accept “{duck}-{billed platypus}”)
+
+This animal's Y chromosome shares genes with the ZZ/ZW sex chromosomes found in birds. It is one of the only animals known to use electroreception to locate its prey, by detecting electric fields generated by muscular contractions. The males have ankle spurs which deliver a cocktail of (*) venom. When this mammal was first discovered by Europeans in the 1700s, most scientists thought it was a hoax. It is one of the five remaining species of monotremes, or egg-laying mammals. FTP, name this semi-aquatic mammal commonly described as “duck-billed”.
+
+----
+num: 8
+category: History
+difficulty: HS
+fixed: 57
+seen: 417
+answer: {Ethiopia} (accept “{Abyssinia}” early)
+
+This country's ruler Kaleb invaded southern Arabia and ruled there until 525, and a century later, Armah gave asylum to early Muslims. Kassa Halyu had himself crowned Emperor Theodore II in 1855, and was succeeded by Johannes, who was himself succeeded by the signer of the Treaty of Ucciali. Starting in 1527, this country was overrun by Muslims led by Harar, and many of this country's Falashas were repatriated to their religious homeland of (*) Israel in 1991 as part of Operation Solomon. This country was ruled by the Zagwe dynasty for 300 years after the fall of the Kingdom of Aksum, and in medieval Europe, this country was associated with the Christian kingdom of Prester John. Other famous rulers include Lij Yasu, Menelik II, and Haile Selassie. FTP, name this eastern African nation, formerly known as Abyssinia, with capital at Addis Ababa. 
+
+----
+num: 9
+category: History
+difficulty: HS
+fixed: 1
+seen: 416
+answer: {Conservative}-Unionist Party
+
+The Ugandan party of this name is led by Nsubuga Nsambu and won one seat in the 2006 elections. In Canada one joined itself with pro-conscription liberals to form the Unionist Party in 1917 and was formed by George-Etienne Cartier and John MacDonald, bringing together ultramontane Quebecois and  Orange men. The most famous one traces its roots to supporters of (*) King James the 2nd and Robert Peel created this party from the Tories. FTP what is this party of Benjamin Disraeli and Margaret Thatcher, which suggests being to the right of the political spectrum.
+
+----
+num: 10
+category: Social Science
+difficulty: HS
+fixed: 57
+seen: 380
+answer: The {Golden Bough}
+
+This work ends with, “Le roi est mort, vive le roi! Ave Maria!” in its last chapter, “Farewell to Nemi”. Other chapters include “Killing the God in Mexico” and “Homeopathic Magic of a Flesh Diet”. Three chapters are devoted to Attis, five to Adonis, and four to Osiris. Several chapters are devoted to taboos, and another chapter discusses the Corn-spirit as several different animals. Its analysis of the Crucifixion was removed in later editions, and this work otherwise caused a scandal for its inclusion of Jesus in its depiction of otherwise pagan gods. Named after an object that (*) Aeneas and Sibyl presented to earn admission to Hades, FTP, name this seminal work of comparative anthropology by James Frazer.
+
+----
+num: 11
+category: Trash
+difficulty: HS
+fixed: -1
+seen: 1031
+answer: Tom
+
+In his first appearance in 1940, he is named Jasper, and his ostensible owner from then until 1952 is Mammy Two Shoes, a very stereotypical African-American housemaid. He sings "Is You Is Or Is You Ain't My Baby" to woo a potential mate in "Solid Serenade", and later competes for her affection with Butch. His main enemy takes care of an orphan in a diaper whose speaking roles are almost entirely in French as a Musketeer of sorts, but has also dressed up as a (*) pilgrim and eaten an entire turkey while he himself was dressed as an Indian. He is frequently antagonized by Spike and his son Tyke, bulldogs who inconveniently have a soft spot for collaborating with mice. FTP name this cartoon cat who never seems to succeed in catching Jerry.
+
+----
+num: 12
+category: Science
+difficulty: HS
+fixed: -1
+seen: 488
+answer: {Mohorovičić discontinuity} (grudgingly accept “{Moho}”)
+
+Its discoverer posited this based on aberrations in recorded data from an earthquake in the Kulpa Valley. An ophiolite forms when rocks formed in this region are exposed due to an obduction into the continental crust. A proposal to drill a hole down to (*) it was cancelled by Congress due to insufficient support. This can define the boundary between the asthenosphere and the region above it when under mid-ocean ridges, but it usually lies entirely within the lithosphere. It was first identified by its namesake Croatian seismologist in 1909. For 10 points, name the boundary between the Earth's crust and mantle.
+
+----
+num: 13
+category: Literature
+difficulty: HS
+fixed: 1
+seen: 442
+answer: Gustave {Flaubert}
+
+His final, unfinished novel concerns two Parisian Clerks who move into the country near Chavignolles to pursue every kind of intillectual stimulation and failing miserably. Related to that work, Bouvard and Pecuchet, is his Dictionary of Recieved Ideas, which is a spoof of the 2nd French empire. Another novel's focus is a Carthaginian priestess, (*) Salammbo. His most famous works center on the selfless maid Felicite,  the autobiographical Frederic Moreau, and the bored Norman wife Dr. Charles who commits adultery and suicide. FTP name this French author of A Simple Heart, A Sentimental Education, and Madame Bovary.
+
+----
+num: 14
+category: Mythology
+difficulty: HS
+fixed: 1
+seen: 778
+answer: Daedalus
+
+According to Pausanias, the statue of Britomartis in the temple of Olous was made by him, and in the Iliad, Homer calls him the creator of a wide dancing-ground.  The son of Metion, after arriving in Sicily, he built a temple to Apollo and was taken in by King Cocalus, whose daughters murdered his former employer.  The partridge avoids high places because his nephew, the inventor of the saw, was turned into one by Athena after he tried throwing Perdix off a tower, and his identity is revealed through a riddle about a sprial seashell.  At the request of Pasiphae he made a wooden cow, he was locked up after (*) Ariadne fled, but in his escape his son didn't listen and ended up drowning.  FTP, identify this mythological inventor, the father of Icarus and the man who built, and then escaped from, the labyrinth.
+
+----
+num: 15
+category: Fine Arts
+difficulty: HS
+fixed: 1
+seen: 495
+answer: Richard {Strauss}
+
+Tone poems by this composer include the semi-autobiographical A Hero's Life and one with a really big cello solo, Don Quixote. Two of his symphonies describe single days: one, a day in the life of his household, including bathing the baby; in the other, he depicts a thunderstorm and the view from a mountain peak. In addition to Symphonia Domestica and Alpine Symphony, he depicted death by a squawk on a clarinet in one tone poem and an (*) elegant sigh in another, Till Eulenspiegel's Merry Pranks and Death and Transfiguration. Appropriately, his last major work is his Four Last Songs, and his operas include Intermezzo, Die Frau Ohne Schatten, and Der Rosenkavalier. FTP, name this German composer of the opera Salome and an homage to Friedrich Nietzsche, Thus Spake Zarathustra.
+
+----
+num: 16
+category: Philosophy
+difficulty: HS
+fixed: 1
+seen: 517
+answer: Karl {Marx}
+
+He asserted that “history repeats itself, first as tragedy, second as farce” in his discussion of France's 1851 coup d'etat, and another work took the form of a letter to the Eisenbach political party. In addition to The Eighteenth Brumaire of Louis Napoleon and Critique of the Gotha Program he argued in one work that social relationships were being replaced with commodity fetishism and another begins with the line, “A (*) spectre is haunting Europe” and was co-written with Friedrich Engels. FTP, name this philosopher who penned Das Kapital and The Communist Manifesto.
+
+----
+num: 17
+category: Science
+difficulty: HS
+fixed: 57
+seen: 487
+answer: {arsenic}
+
+Along with lead and belladonna, it is used to make Aqua Tofana. It is poisonous because it disrupts ATP production by inhibiting NAD+ in the citric acid cycle. During the Bronze Age, it was included in bronze to make the alloy harder. The Grainger challenge is to find an economical way to remove it from contaminated groundwater in countries such as Bangladesh. Some of it was found in Otzi's (*) hair and Napoleon's wallpaper and could've caused their deaths. FTP, name this metalloid with atomic number 33 and symbol As.
+
+----
+num: 18
+category: Literature
+difficulty: HS
+fixed: 57
+seen: 450
+answer: {Chile}
+
+One author from this country wrote a novel that gets its title from a letter by Henry James senior, and chronicles a resident of the Casa de Ejercicios Espirituales, who is a deformed member of the Azcoitias family. Another writer from this country wrote the poetry collections Sonnets of Death and Despair. An author who used to live here wrote the fantasy City of the Beasts along with a retelling of (*) Zorro. The most famous poet from here wrote a 340 poem cycle that examines Latin America from a Marxist view entitled Canto General. Home to the author of The Obscene Bird of Night, Jose Donoso, and the creator of Eva Luna who wrote about the Truebas in House of the Spirits, that author wrote about the dictatorship of Pinochet. The native country of Gabriela Mistral, this is FTP what South American nation, home to Isabel Allende and Pablo Neruda, with captial Santiago.
+
+----
+num: 19
+category: History
+difficulty: HS
+fixed: 1
+seen: 413
+answer: {Triangle} Shirtwaist Factory Fire
+
+In this event's subsequent lawsuit, the legal counsel of the defendants, Max Steuer, discredited a witness who did not alter a word of testimony after several repeats, which implied memorization, thus helping acquit Max Blanck and Isaac Harris.  Their company had already gained fame two years prior in the Uprising of the 20,000, but it was this notorious occurrence which prompted the creation of the American Society of Safety Engineers.  Probably started by a (*) lit cigarette, warning did not reach the 9th floor of the Asch Building in time, the only viable door was locked, and the fire escape quickly collapsed.  FTP – Name this 1911 fire in a New York clothing factory.
+
+----
+num: 20
+category: Fine Arts
+difficulty: HS
+fixed: 57
+seen: 492
+answer: {Oath} of the {Horatii}
+
+A student of this work's artist, Anne-Louis Girodet, depicted a continuation of its story, in which a title character kills his sister for mourning her fiancé, The Death of Camilla. That sister is in the painting itself, along with several other women on the right-hand side. The central figures are preparing to fight an analogous group from Alba Longa, one of whom is Camilla's husband-to-be, who is killed in the altercation. A secondary focus is the background, whose arches number the same as the title (*) characters, while one of the men is clutching a spear in his right hand and himself being held by his brother. A man in front of them has one hand open and three swords in the other, while the three title characters stretch their arms forward towards the swords. FTP name this painting depicting a triplet of soldiers swearing to fight for Rome, by Jacques Louis David.

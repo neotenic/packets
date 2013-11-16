@@ -1,0 +1,447 @@
+####
+tournament: #6474
+round: Show #6474 - Thursday, November 8, 2012
+year: 2012
+date: 2012-11-08
+####
+
+num: 1
+category: Geography
+difficulty: 200
+seen: 9
+answer: Manhattan
+
+Rockefeller Center: the borough.
+
+----
+num: 2
+category: History
+difficulty: 200
+seen: 5
+answer: liberty
+
+Patrick Henry: "Give me ____ or give me death!".
+
+----
+num: 3
+category: Literature
+difficulty: 200
+seen: 4
+answer: boredom
+
+Ennui means this; Schopenhauer calls it the feeling of the emptiness of existence, & I feel it when I read Schopenhauer.
+
+----
+num: 4
+category: Trash
+difficulty: 200
+seen: 5
+answer: Dr. No
+
+The franchise started in 1962 with James Bond facing off against.
+
+----
+num: 5
+category: History
+difficulty: 200
+seen: 5
+answer: Exxon Mobil
+
+In 2012 this 2-named energy company reported a quarterly profit of nearly $16 bil., the highest ever for a U.S. corp.
+
+----
+num: 6
+category: Art
+difficulty: 200
+seen: 4
+answer: reflecting telescope
+
+Light is focused by a concave mirror in this type of telescope.
+
+----
+num: 7
+category: Geography
+difficulty: 400
+seen: 8
+answer: Cook
+
+Chicago: the county.
+
+----
+num: 8
+category: History
+difficulty: 400
+seen: 4
+answer: good war
+
+Benjamin Franklin: "There never was a ____  ____ or a bad peace".
+
+----
+num: 9
+category: Literature
+difficulty: 400
+seen: 4
+answer: lungs
+
+20,000 times a day these paired organs expand & contract, in & out; how tedious.
+
+----
+num: 10
+category: History
+difficulty: 400
+seen: 4
+answer: Apple
+
+In January 2009 a share in this tech co. was $82.33; In August 2012, after a court victory over Samsung, it opened at $680.
+
+----
+num: 11
+category: Geography
+difficulty: 600
+seen: 7
+answer: San Diego
+
+Petco Park major league baseball stadium: the city.
+
+----
+num: 12
+category: History
+difficulty: 600
+seen: 4
+answer: kingfish
+
+Huey P. Long: "I looked around at the little fishes present, and said, 'I'm the ____'".
+
+----
+num: 13
+category: Literature
+difficulty: 600
+seen: 4
+answer: Excel
+
+I tire of the rows & columns of this Microsoft spreadsheet program introduced in 1985.
+
+----
+num: 14
+category: Trash
+difficulty: 600
+seen: 4
+answer: Daniel Craig
+
+Skyfall, the 23rd film in the franchise marks.
+
+----
+num: 15
+category: History
+difficulty: 600
+fixed: -1
+seen: 4
+answer: JetBlue
+
+In 1999 this "colorful" airline took delivery of its 1st airbus A320--in 2011 it boasted 100 daily flights at Logan Airport.
+
+----
+num: 16
+category: Art
+difficulty: 600
+seen: 4
+answer: revised
+
+It's the "R" in RSV, a 1952 version of the Bible.
+
+----
+num: 17
+category: Geography
+difficulty: 800
+seen: 7
+answer: Denali
+
+Mount McKinley: the national park.
+
+----
+num: 18
+category: History
+difficulty: 800
+seen: 4
+answer: silent majority
+
+Richard Nixon: "It is time for the great ____  ____ of Americans to stand up and be counted".
+
+----
+num: 19
+category: Literature
+difficulty: 800
+seen: 4
+answer: calisthenics
+
+Calling sit-ups & push-ups by this word from the Greek for "beautiful" doesn't make them interesting.
+
+----
+num: 20
+category: History
+difficulty: 800
+seen: 4
+answer: Wells Fargo
+
+O-ho, this bank's wagon is a-comin' down the street & it's filled with money; it's No. 26 on the 2012 Fortune 500.
+
+----
+num: 21
+category: Art
+difficulty: 800
+seen: 4
+answer: reentry
+
+It's the "R" in RV when the "V" is a spacecraft.
+
+----
+num: 22
+category: Geography
+difficulty: 1000
+seen: 7
+answer: Slovakia
+
+Holiday Inn Bratislava: the country.
+
+----
+num: 23
+category: History
+difficulty: 1000
+seen: 4
+answer: mother
+
+Margaret Sanger: "No woman can call herself free until she can choose...whether she will or will not be a ____".
+
+----
+num: 24
+category: Literature
+difficulty: 1000
+seen: 4
+answer: the national weather service
+
+This government agency with a lightning bolt logo says sunshine all next week; will it never end?.
+
+----
+num: 25
+category: History
+difficulty: 1000
+seen: 4
+answer: Gap
+
+Don Fisher "couldn't find a pair of jeans that fit"; the result was this store, clothing us since 1969.
+
+----
+num: 26
+category: Art
+difficulty: 1000
+seen: 4
+answer: reverberate
+
+From the Latin for "beat back", it means to resound in a succession of echoes.
+
+----
+num: 27
+category: Science
+difficulty: 400
+seen: 7
+answer: carbon dioxide
+
+Carbonation is the phenomenon in which this gas is suspended in liquid, creating small bubbles or fizz.
+
+----
+num: 28
+category: Literature
+difficulty: 400
+seen: 4
+answer: Gigi
+
+"The Starter Wife" is by Ms. Levangie Grazer, who has this first name.
+
+----
+num: 29
+category: History
+difficulty: 400
+seen: 5
+answer: an asp
+
+Shakespeare is among those who say Cleopatra killed herself with one of these, a symbol of divine royalty.
+
+----
+num: 30
+category: Religion
+difficulty: 400
+seen: 9
+answer: Hebrew
+
+In this language Pe is the first letter of Pesach, meaning Passover.
+
+----
+num: 31
+category: Literature
+difficulty: 400
+seen: 4
+answer: Nobel prize
+
+In 1965 Mikhail Sholokhov won this prestigious award & traveled to Stockholm to receive it.
+
+----
+num: 32
+category: Science
+difficulty: 800
+seen: 5
+answer: fermentation
+
+Beer has natural carbonation as a byproduct of this process involving yeast & sugar that produces the alcohol.
+
+----
+num: 33
+category: Literature
+difficulty: 800
+seen: 4
+answer: Jay Jay
+
+In kids' books, the gang at Tarrytown Airport includes this jet plane.
+
+----
+num: 34
+category: History
+difficulty: 800
+seen: 3
+answer: a sphinx
+
+The Ptolemies, Cleo's dynasty, put these lion/human statues in front of temples to show a pharaoh's brains & brawn.
+
+----
+num: 35
+category: Religion
+difficulty: 800
+seen: 9
+answer: a bone
+
+Os is a technical name for one of these in the body.
+
+----
+num: 36
+category: Literature
+difficulty: 800
+seen: 4
+answer: Dostoyevsky
+
+This author began writing "Crime and Punishment" in the form of a confession but later abandoned that idea.
+
+----
+num: 37
+category: History
+difficulty: 800
+seen: 3
+answer: ten cents
+
+From 1879 to 1931 this was the most any item cost at Woolworth's.
+
+----
+num: 38
+category: Science
+difficulty: 1200
+seen: 5
+answer: float
+
+Soda on top of ice cream makes an ice cream soda; put the ice cream on top & it's called this, like a root beer one.
+
+----
+num: 39
+category: Literature
+difficulty: 1200
+seen: 3
+answer: Lolo (Jones)
+
+Nickname of the Olympian seen.
+
+----
+num: 40
+category: Literature
+difficulty: 1200
+seen: 4
+answer: Tolstoy
+
+This count's first published work was "Childhood", a fictionalized account of his early years.
+
+----
+num: 41
+category: History
+difficulty: 1200
+seen: 4
+answer: German
+
+Swiss writers of this language generally ignore the weird "B" that sometimes replaces a double "S".
+
+----
+num: 42
+category: Science
+difficulty: 1600
+seen: 6
+answer: diamonds
+
+New studies show chemical carbonation in magma may fizz up these hardest gems from within the earth.
+
+----
+num: 43
+category: Literature
+difficulty: 1600
+seen: 4
+answer: Boo Boo
+
+Completes the title of a spin-off from "Toddlers & Tiaras", "Here Comes Honey...".
+
+----
+num: 44
+category: History
+difficulty: 1600
+seen: 4
+answer: Alexandria
+
+Cleopatra's royal residence was in this Egyptian port city; many artifacts have been recovered from its waters.
+
+----
+num: 45
+category: Science
+difficulty: 2000
+seen: 9
+answer: Joseph Priestley
+
+The first artificially carbonated beverage was invented by this English discoverer of oxygen.
+
+----
+num: 46
+category: Literature
+difficulty: 2000
+seen: 6
+answer: nene
+
+It's the Hawaiian name of the goose seen.
+
+----
+num: 47
+category: History
+difficulty: 2000
+seen: 5
+answer: Caesarion or Ptolemy XV
+
+A head from the exhibit Cleopatra: The Search for the Last Queen of Egypt is thought to depict.
+
+----
+num: 48
+category: Literature
+difficulty: 2000
+seen: 6
+answer: (Ivan) Turgenev
+
+Hostile reaction to his novel "Fathers and Sons" prompted him to leave Russia in 1863.
+
+----
+num: 49
+category: History
+difficulty: 2000
+seen: 6
+answer: Mid-Atlantic Ridge
+
+The Azores & St. Helena are actually among the highest peaks of this mountain "ridge".

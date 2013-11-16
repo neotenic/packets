@@ -1,0 +1,194 @@
+####
+tournament: NTSS
+round: 14.pdf
+year: 2010
+####
+
+num: 1
+category: History
+difficulty: HS
+fixed: -1
+seen: 418
+answer: {Hull} House
+
+Some of this institution's earliest supporters were union organizers Mary Kenney and Alzina Stevens in addition to Alice Hamilton, the first female Harvard faculty member. It was cofounded by Ellen Starr and modeled after Lon- don's Toynbee Hall. After starting with a few lessons for adults, it soon offered day-care and then a kindergarten. Re- sponding to the need of its neighborhood, it added a boarding club and women's dormitory. Its other cofounder, who eventually headed the Women's International League for Peace, eventually won the Nobel Peace Prize. Name this set- tlement house located on Halsted Street in Chicago cofounded by Jane Addams.
+
+----
+num: 2
+category: Fine Arts
+difficulty: HS
+fixed: 1
+seen: 499
+answer: {Beethoven's Symphony} No. {5} in C minor, Opus 67 [accept any underlined part or combination of parts;
+
+The fourth movement of this symphony adds trombones, a piccolo and a contrabassoon, the first time a contrabas- soon was written into a symphony. The first orchestra to play this song only had one rehearsal and premiered it after the intermission of a cold and long concert in 1808. Historians disagree as to whether the composer said this piece sounds like, “Fate when it knocks at the door,” and its popularity in Britain may be due to its opening evoking the “V for Victory” during World War Two, even though this piece was composed by a German. Name this symphony that begins with three eighth notes in G followed by a half note in E flat.
+
+----
+num: 3
+category: Literature
+difficulty: HS
+fixed: 57
+seen: 447
+answer: “{Song} of {Myself}” [accept “{Poem} of {Walt Whitman}, an {American}” before “{Walt}”]
+
+In the 37th section of this poem, the poet connects himself to mutineers and cholera patients before stating, “I pro- ject my hat, sit shame-faced, and beg.” The 52nd and final section refers to a “barbaric yawp” and states that the writer can be found “under your boot-soles.” The first section in the original version states that the poet is thirty-seven years old, but the title this work is best-known by was not used until 1881, when the poet was sixty-two. Much of this poem can be viewed as an attempt to answer a child's question that gets asked in its 6th Section: “What is the grass?” Name this work containing the line, “I am large, I contain multitudes,” originally titled “Poem of Walt Whitman, an Ameri- can”.
+
+----
+num: 4
+category: Science
+difficulty: HS
+fixed: -1
+seen: 482
+answer: {climate} [prompt on {weather} before it is mentioned]
+
+Continentality is the difference in this concept between land and ocean environments, and in urban areas, this con- cept is disrupted by the thermal inversion caused by air pollution. Prevailing westerlies are the dominant regulator of this concept in northern Europe, and El Niño is the periodic shift in this concept around the Pacific. Systems for clas- sifying this concept include the Thornthwaite, which incorporates evapo-transpiration, and the Köppen, which is based on precipitation and temperature and has examples like monsoon, tundra, and desert. Often used as evidence in support of the global warming theory, name this meteorological concept defined as the weather in a particular region averaged over a long period of time.
+
+----
+num: 5
+category: Science
+difficulty: HS
+fixed: 1
+seen: 485
+answer: {anaerobic} [or {anaerobes}, etc.]
+
+One controversial suggestion of the Gaia hypothesis is that ancient organisms with this property sacrificed them- selves for the benefit of the planet. Denitrification occurs most quickly in soil with this property, while hydrogeno- somes take the place of mitochondria in protists of this type. Gas gangrene only develops under this condition, and methane is a byproduct of this form of digestion. Also a method of respiration that produces hydrogen sulfide, iden- tify this term that describes environments or processes like fermentation, which function in the absence of oxygen.
+
+----
+num: 6
+category: Religion
+difficulty: HS
+fixed: 1
+seen: 450
+answer: sacraments
+
+The importance of these acts increased in prominence during the twelfth century because of the writings of Peter Lombard and Hugh of Saint Victor, and the number of them was set in the sixteenth century at the Council of Trent. This term became associated with Christianity when the Greek word Mysterion was translated into Latin. Catholics claim that they are different than practices in other religions because they cause grace rather than signify grace. De- fined as an outward sign instituted by Christ to give grace, one of them before Vatican II was known as Extreme Unc- tion. Give the collective name for the practices of Anointing of the Sick, Holy Orders, Eucharist, Matrimony, Bap- tism, and Penance.
+
+----
+num: 7
+category: Science
+difficulty: HS
+fixed: 57
+seen: 490
+answer: electric {current} [accept {displacement current}]
+
+The derivative of this quantity with respect to time multiplied by inductance gives the induced electrical potential difference of an inductor. One type of this quantity is proportional to the time-derivative of electric flux; that was added to Ampère's Law by Maxwell and is called the displacement type of this quantity. The SI unit for this quantity is defined as enough of this quantity to create a certain force between two wires a meter apart. This quantity is multi- plied times electrical potential difference to calculate power and, given a constant number of volts, varies inversely with resistance according to Ohm's law. Name this electric quantity measured in coulombs per second, or amperes.
+
+----
+num: 8
+category: Literature
+difficulty: HS
+fixed: 1
+seen: 445
+answer: “Rip {Van Winkle}”
+
+In this story, the landlord of an inn who moves his seat during the day to avoid direct sunlight is named Nicholas Vedder, but Vedder is eventually replaced by Jonathan Doolittle. The title character owns the most pestilent little piece of ground in the whole country, and he and his dog Wolf are constantly berated by his wife. That title character almost gets in trouble for calling himself a loyal subject of the king after a night in the Catskills in which he had a lot to drink while some odd-looking characters played ninepins. First appearing in The Sketch Book of Geoffrey Crayon, name this Washington Irving story about a man who misses the American Revolution because of oversleeping.
+
+----
+num: 9
+category: Science
+difficulty: HS
+fixed: 57
+seen: 483
+answer: {trapezoid} [or {trapezium}]
+
+This shape's namesake numbers are also known as polite numbers, and when this figure's diagonals break it down into four triangles, the result is exactly one pair of triangles with equal areas; dividing that equal area by the areas of the other triangles gives reciprocals. Approximations using this shape generally give a worse result than Simpson's Rule but a better result than Riemann sums when approximating integrals. Its area is usually given by the formula half the sum of the bases times the height, and it has a median which is parallel to its bases and whose length is the average of them. Name this quadrilateral with one pair of parallel sides.
+
+----
+num: 10
+category: History
+difficulty: HS
+fixed: 57
+seen: 418
+answer: {Nero} Claudius Caesar Augustus Germanicus [or {Lucius Domitius Ahenobarbus}; or {Nero} Claudius
+
+This leader had Severus and Celer design his Golden House, or “domus aurea”. During the last few years of his reign, his top advisor was Tigellinus, who eventually shifted his allegiance to Galba, while the early part of this em- peror's reign were more successful thanks to the advice he received from Burrus and Seneca. This leader gained the throne instead of Britannicus because of the scheming of his mother Agrippina the Younger, who may have poisoned her husband Claudius. Name this emperor who supposedly fiddled as Rome burned.
+
+----
+num: 11
+category: Science
+difficulty: HS
+fixed: -1
+seen: 486
+answer: {VSEPR} ({VES}-{pur}) theory [or {valence shell electron pair repulsion} theory; accept {Gillespie}-{Nyholm}
+
+This concept can be used to determine the covalent portion of “all-atom” force fields, and one of its co-developers, R. J. Gillespie, has extended it to include ligand close packing among second period elements. In the 1960s, Argonne National Lab successfully applied this concept to noble gas compounds, though it unexpectedly fails for phosphine and gives out entirely at aprismatic molecules. Application of this concept often calls for the AXE method to find steric numbers, and while it cannot be used to calculate bond lengths, it does predict unusual cases like the T and see- saw. Treating multiple bonds as “superpairs”, identify this theory that uses electrostatic interaction to predict molecu- lar geometries like bent for water and tetrahedral for methane.
+
+----
+num: 12
+category: Social Science
+difficulty: HS
+fixed: 1
+seen: 379
+answer: {Columbia} University [do not accept “Columbia College”]
+
+One longtime professor at this school, who wrote the book Orientalism and was an outspoken advocate for Pales- tinians, was Edward Said. A professor who taught for a long time at this university's highly respected Teachers Col- lege was the author of the books The School and Society and Democracy and Education, John Dewey. One of its current professors, who won the Nobel Prize in Economics, is Joseph Stiglitz. One of its professors, who became known as the Father of American Anthropology, was Franz Boas, and one of his many important students was Margaret Mead. Just before becoming President of the United States, Dwight Eisenhower served as its President, and it awarded a Bachelor's degree in Political Science to Barack Obama. Name this Ivy League university located in New York City.
+
+----
+num: 13
+category: Literature
+difficulty: HS
+fixed: 57
+seen: 442
+answer: The {Two Gentlemen} of {Verona}
+
+In this play, when one character is called a chameleon, he replies that he has more mind to feed on the name caller's blood than live in his air. Sir Eglamour helps a woman avoid marriage with that character, Thurio. That woman is later attacked by a group of outlaws, and the head of the outlaws and the man who initially rescues her turn out to be close friends, though she soon needs to be rescued from the man who supposedly saved her. Eventually, the Duke of Milan says that Silvia can marry Valentine. Identify this Shakespeare play in which the title characters are Valentine and Proteus.
+
+----
+num: 14
+category: History
+difficulty: HS
+fixed: 57
+seen: 423
+answer: {Jerusalem} [or {Y'rushalaim}; or {al}-{Quds Sharif}]
+
+General Falkenhayn surrendered this city to Field Marshal Chetwode and General Allenby during World War I, and it was more recently the site of the Battle of Ammunition Hill. An ancient attack on this city is depicted on the Arch of Titus in Rome. This city is where Emir Iftikhar was defeated by Godfrey de Bouillon in 1099, a result that was reversed soon after the Battle of Hattin in 1187 by Saladin. This is also the city where the Babylonians under Ne- buchadnezzar II destroyed Solomon's Temple. Identify this city whose control in 1948 was divided between Jordan and Israel.
+
+----
+num: 15
+category: Fine Arts
+difficulty: HS
+fixed: 1
+seen: 496
+answer: {Messiah}, Oratorio, HWV 56 [accept either or both parts; accept {Der Messias}, {Oratorium}]
+
+One musical phrase from this work is borrowed from an earlier duet by the same composer that stated, “No, I don't want to trust you, blind Cupid!” This piece includes fugues such as “And with his stripes” and the duet “O death, where is thy sting?” Written just before its composer worked on Samson, this work premiered in Dublin in 1742, and rumor has it that standing during its best-known section was a tradition that started at it London premier with King George II. That famous section, which occurs at the end of the second of third sections and proclaims “He shall reign for ever and ever,” is the Hallelujah Chorus. Name this Oratorio based on biblical passages written by George Frideric Handel.
+
+----
+num: 16
+category: Fine Arts
+difficulty: HS
+fixed: 57
+seen: 495
+answer: {Raphael} da Urbino [or {Raffaello Sanzio da Urbino}; or {Raffaello Sanzio da Urbino}; or {Raphael Santi}]
+
+One portrait by this artist, in which the subject is wearing all red except for a white collar, is Young Man with an Apple. Another portrait, which may be Saint Catherine seated between two columns, shows a woman holding a baby unicorn. That work used to be attributed to this artist's teacher Perugino. Several well-known frescoes by this artist are in the Stanza della segnatura, including The Cardinal Virtues and The Parnassus. Another work in that room de- picts another one of this painter's teachers, Bramante, depicting him as one of many theologians arguing under Jesus in Disputa. Some art historians believe that Bramante also posed as Euclid in another fresco in the same room showing many famous thinkers from Ancient Greece. Name this artist who painted The School of Athens.
+
+----
+num: 17
+category: Science
+difficulty: HS
+fixed: 57
+seen: 486
+answer: {Fundamental} Theorem of {Algebra} [prompt on partial answer]
+
+Proofs of this result sometimes make use of Liouville's Theorem that a bounded entire complex function must be constant. An early proof of this by Argand was based on earlier work by D'Alembert, while the most famous proof of it was actually faulty because it assumed the Jordan curve theorem. Early arguments over it were faulty because they did not use complex numbers or, in Leibniz's case, did not realize that the square root of i could be expressed in the form a + b i, and thus failing in the case of x to the fourth power plus one. Nearly proven in Gauss's dissertation, name this theorem that states that every polynomial of degree n with complex coefficients has n complex roots.
+
+----
+num: 18
+category: History
+difficulty: HS
+fixed: 1
+seen: 418
+answer: Joseph Vissarionovich {Stalin} [or Ioseb Besarionis dze Jughashvili; accept mixtures of those two answers
+
+This man's predecessor and successor both labeled him as excessively rude, the latter through a supposedly secret speech delivered three years after this man died that, among other things, accused him of using fake embezzlement charges to have war heroes executed. This leader had earlier weakened his army by having Lavrenty Beria use the NKVD to arrest and execute several military officers. One of the many executions he ordered was carried out by Ramón Mercader. This leader tried to modernize his economy by ordering massive production increases over five year periods and by collectivizing farms starting in 1928. Name the first General Secretary of the Communist Party of the Soviet Union, who ruled from 1922 until his death in 1953.
+
+----
+num: 19
+category: Geography
+difficulty: HS
+fixed: 1
+seen: 712
+answer: Mongolia
+
+This nation contains most of the Uvs Lake, the rest of which is in Tuva in Russia. This country's third largest city, Darkhan, has a name that means Blacksmith and was started by the Soviet Union in 1961. Its second most populous city is Erdenet, which is in the Orkhon Aimag, an Aimag being the equivalent of a province. The unicameral legisla- ture in this nation is called the State Great Khural, and its leading political party is the People's Revolutionary Party. Many of the residents of this sparse country live in portable round dwellings called yurts. The southern part of this country is the Gobi Desert, and its capital is Ulan Bator. Name this country between China and Russia.

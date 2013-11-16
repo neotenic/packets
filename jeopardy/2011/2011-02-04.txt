@@ -1,0 +1,402 @@
+####
+tournament: #6080
+round: Show #6080 - Friday, February 4, 2011
+year: 2011
+date: 2011-02-04
+####
+
+num: 1
+category: Trash
+difficulty: 200
+seen: 6
+answer: Kermit the Frog
+
+Joe Raposo wrote the words & music, but this character first sang, "It's Not Easy Being Green".
+
+----
+num: 2
+category: History
+difficulty: 200
+seen: 5
+answer: freon
+
+Now considered an environmental hazard, this refrigerant gas was discovered in the 1930s by Dr. Thomas Midgley.
+
+----
+num: 3
+category: History
+difficulty: 200
+seen: 6
+answer: detention
+
+On film the members of "The Breakfast Club" were sentenced to it in the library.
+
+----
+num: 4
+category: Literature
+difficulty: 200
+seen: 4
+answer: a parakeet
+
+The name of this small member of the parrot family can contain a "qu" instead of a "k".
+
+----
+num: 5
+category: Literature
+difficulty: 200
+seen: 4
+answer: forehead
+
+It goes from your eyebrows to your hairline.
+
+----
+num: 6
+category: Trash
+difficulty: 400
+seen: 5
+answer: jade
+
+The Chinese have equated this green gemstone with purity & indestructibility.
+
+----
+num: 7
+category: History
+difficulty: 400
+seen: 4
+answer: New Jersey
+
+This state's many hazardous waste sites include Chemsol in Piscataway & Crompton in Perth Amboy.
+
+----
+num: 8
+category: History
+difficulty: 400
+fixed: -1
+seen: 5
+answer: Sam\'s Club
+
+Wal-Mart opened the first one in 1983; today there are 47 million U.S. members.
+
+----
+num: 9
+category: Literature
+difficulty: 400
+seen: 4
+answer: a foreigner
+
+A guy from out of town... way out of town.
+
+----
+num: 10
+category: Trash
+difficulty: 600
+seen: 4
+answer: olives
+
+Green ones of these popularly come in jars, stuffed with almonds, anchovies or pimientos.
+
+----
+num: 11
+category: History
+difficulty: 600
+seen: 4
+answer: biohazard
+
+Cancel the picnic--the international symbol for.
+
+----
+num: 12
+category: History
+difficulty: 600
+seen: 5
+answer: Harvard
+
+Now a prestigious musical group, the glee club of this Boston-area school began in 1858 basically as a social club.
+
+----
+num: 13
+category: Literature
+difficulty: 600
+seen: 4
+answer: the whooping crane
+
+Only 2 species of cranes are native to North America: the sandhill & this noisy one.
+
+----
+num: 14
+category: Literature
+difficulty: 600
+seen: 3
+answer: a forehand
+
+A ground stroke, in tennis.
+
+----
+num: 15
+category: Trash
+difficulty: 800
+seen: 4
+answer: the Emerald City
+
+Because Seattle is so lush & green, its official nickname is this city (it's a real gem).
+
+----
+num: 16
+category: History
+difficulty: 800
+seen: 4
+answer: nitrogen
+
+The scuba diving hazard known as the bends results from this gas being released into the blood during a too rapid ascent.
+
+----
+num: 17
+category: History
+difficulty: 800
+seen: 4
+answer: Culture Club
+
+This band was ready to "Tumble 4 Ya" in a hit song from 1983.
+
+----
+num: 18
+category: Literature
+difficulty: 800
+seen: 4
+answer: the kookaburra
+
+Share a laugh with this Aussie bird heard.
+
+----
+num: 19
+category: Literature
+difficulty: 800
+seen: 4
+answer: the forefront
+
+If you're leading an army or a movement, you're in this.
+
+----
+num: 20
+category: History
+difficulty: 1000
+seen: 4
+answer: Oliver Hazard Perry
+
+Hazard was the middle name of this Battle of Lake Erie hero; yellow fever was his fatal hazard 6 years later.
+
+----
+num: 21
+category: History
+difficulty: 1000
+seen: 5
+answer: Growth
+
+"Prosperity and opportunity through economic freedom" is the motto of the anti-tax "Club for" this.
+
+----
+num: 22
+category: Literature
+difficulty: 1000
+seen: 4
+answer: a homing pigeon
+
+For his service during WWI, Cher Ami, one of these useful birds, was awarded France's Croix de Guerre.
+
+----
+num: 23
+category: Science
+difficulty: 400
+seen: 6
+answer: a shark
+
+The overlapping scales of.
+
+----
+num: 24
+category: Literature
+difficulty: 400
+seen: 4
+answer: quail
+
+The meat of this American game bird is white & delicately flavored.
+
+----
+num: 25
+category: Literature
+difficulty: 400
+seen: 4
+answer: Emily Dickenson
+
+Born & died in Amherst:.
+
+----
+num: 26
+category: History
+difficulty: 400
+seen: 4
+answer: the Byzantine Empire
+
+As Emperor of this empire from 780 to 797, Constantine VI was so cruel his own mom deposed & blinded him.
+
+----
+num: 27
+category: History
+difficulty: 400
+seen: 4
+answer: brief
+
+To summarize a complicated case, the attorney submitted a lengthy...
+
+----
+num: 28
+category: Science
+difficulty: 800
+seen: 5
+answer: tough
+
+The ability to absorb stress makes metal.
+
+----
+num: 29
+category: Literature
+difficulty: 800
+seen: 4
+answer: quinine
+
+This alkaloid from the bark of a tree is the base flavor in most bitters.
+
+----
+num: 30
+category: Literature
+difficulty: 800
+seen: 3
+answer: Percy Bysshe Shelley
+
+Maybe this Brit's life could be the subject of a PBS special:.
+
+----
+num: 31
+category: History
+difficulty: 800
+seen: 4
+answer: Henry VI
+
+Shakespeare wrote not 1, not 2, but 3 plays about this guy.
+
+----
+num: 32
+category: History
+difficulty: 800
+seen: 4
+answer: high
+
+Only 52 degrees today in Tallahassee?  That's a low...
+
+----
+num: 33
+category: Science
+difficulty: 1200
+seen: 6
+answer: invisibility
+
+Materials that influence light waves to bend around them are a step toward a "cloak of" this, as in Harry Potter.
+
+----
+num: 34
+category: Literature
+difficulty: 1200
+seen: 4
+answer: quahog
+
+It's the Native American name for the East Coast hard-shell clam.
+
+----
+num: 35
+category: History
+difficulty: 1200
+seen: 4
+answer: the Pope
+
+Rodrigo Borgia became Alexander VI in this post in 1492.
+
+----
+num: 36
+category: Science
+difficulty: 1600
+seen: 5
+answer: gastrointestinal
+
+Making stuff smaller includes a pill with a camera taking 2 pictures a second of.
+
+----
+num: 37
+category: Literature
+difficulty: 1600
+seen: 4
+answer: quinoa
+
+This "supergrain of the future" is considered a complete protein.
+
+----
+num: 38
+category: Literature
+difficulty: 1600
+seen: 5
+answer: Edna St. Vincent Millay
+
+Her candle burned at both ends:.
+
+----
+num: 39
+category: History
+difficulty: 1600
+seen: 5
+answer: George VI
+
+In "The King's Speech" Colin Firth plays this monarch who struggled with his stammer.
+
+----
+num: 40
+category: History
+difficulty: 1600
+seen: 4
+answer: brave
+
+The Native American warrior who fled the battle was a cowardly...
+
+----
+num: 41
+category: Science
+difficulty: 2000
+seen: 8
+answer: a dragline
+
+So light & strong, 1 pound could stretch around the Earth, the silk spiders spin to hang from is called.
+
+----
+num: 42
+category: Literature
+difficulty: 2000
+seen: 6
+answer: Samuel Taylor Coleridge
+
+A fan of Xanadu:.
+
+----
+num: 43
+category: History
+difficulty: 2000
+seen: 6
+answer: Thailand
+
+From 1910 to 1925 you could rendezvous with Rama VI, king of this Asian country.
+
+----
+num: 44
+category: History
+difficulty: 2000
+seen: 5
+answer: fast
+
+Yom Kippur seemed to last forever; it was a slow...

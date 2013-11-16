@@ -1,0 +1,356 @@
+####
+tournament: #6110
+round: Show #6110 - Friday, March 18, 2011
+year: 2011
+date: 2011-03-18
+####
+
+num: 1
+category: Literature
+difficulty: 200
+seen: 4
+answer: cherries
+
+Totally sweet!  Tartarian & Bing are sweet types of this fruit.
+
+----
+num: 2
+category: Literature
+difficulty: 200
+seen: 4
+answer: Daedalus
+
+Your words of advice are as powerful as when this man of myth warned his boy Icarus about flying too near the sun.
+
+----
+num: 3
+category: Geography
+difficulty: 200
+seen: 9
+answer: east
+
+From Taegu, South Korea to Tokyo, Japan.
+
+----
+num: 4
+category: Literature
+difficulty: 200
+seen: 4
+answer: KOs (knockouts)
+
+This boxing stat; Sugar Ray Robinson had 109 during his career.
+
+----
+num: 5
+category: Literature
+difficulty: 400
+seen: 4
+answer: honey
+
+The color of this sweet liquid is determined by the source of the nectar.
+
+----
+num: 6
+category: Literature
+difficulty: 400
+seen: 4
+answer: poison ivy
+
+You will roll around in this 2-word item.
+
+----
+num: 7
+category: Geography
+difficulty: 400
+seen: 8
+answer: south
+
+From Hamburg to Stuttgart in Germany.
+
+----
+num: 8
+category: Literature
+difficulty: 400
+seen: 4
+answer: a knave
+
+This archaic term for a male servant; in cards, a jack.
+
+----
+num: 9
+category: Geography
+difficulty: 600
+seen: 9
+answer: north
+
+From Cairo to Ankara.
+
+----
+num: 10
+category: Literature
+difficulty: 600
+seen: 4
+answer: the Know-Nothing Party
+
+This American political party prominent in the 1850s.
+
+----
+num: 11
+category: Literature
+difficulty: 800
+seen: 4
+answer: chocolate
+
+Plain, bitter or unsweetened this contains about 50% cocoa butter & if stored properly, will keep for years.
+
+----
+num: 12
+category: Literature
+difficulty: 800
+seen: 4
+answer: the IRS
+
+You are always on our minds... says this agency in the Treasury Dept., established in 1862 to help pay Civil War costs.
+
+----
+num: 13
+category: Geography
+difficulty: 800
+seen: 6
+answer: south
+
+From Galway to Cork in Ireland.
+
+----
+num: 14
+category: Literature
+difficulty: 800
+seen: 4
+answer: a knockwurst
+
+This German word for a short, thick, highly seasoned sausage.
+
+----
+num: 15
+category: Literature
+difficulty: 1000
+seen: 4
+answer: melon
+
+Despite its name, "bitter" this doesn't taste like a casaba; it's a side dish in Asian cuisine.
+
+----
+num: 16
+category: Literature
+difficulty: 1000
+seen: 4
+answer: Lehman Brothers
+
+A surprise awaits you ... especially if you have funds in this "sibling" investment house; it'll go bankrupt (Sept. '08 cookie).
+
+----
+num: 17
+category: Geography
+difficulty: 1000
+seen: 8
+answer: west
+
+From Tegucigalpa to Guatemala City.
+
+----
+num: 18
+category: Literature
+difficulty: 1000
+seen: 4
+answer: a knell
+
+This sound made by a bell rung slowly, especially for a death.
+
+----
+num: 19
+category: History
+difficulty: 400
+seen: 5
+answer: Alexander the Great
+
+The Battle of Hydaspes in 326 B.C. opened the way for this conqueror to enter India.
+
+----
+num: 20
+category: Trash
+difficulty: 400
+seen: 5
+answer: Star Jones
+
+This onetime member of "The View" was once an assistant D.A. in Brooklyn.
+
+----
+num: 21
+category: Trash
+difficulty: 400
+seen: 5
+answer: Twister
+
+It's "the game that ties you up in knots".
+
+----
+num: 22
+category: Science
+difficulty: 400
+seen: 6
+answer: the Flintstones
+
+In 1968 Bayer introduced vitamins named for this fictional family.
+
+----
+num: 23
+category: History
+difficulty: 400
+seen: 4
+answer: a portfolio
+
+The range of your investments, or a thin case to hold drawings.
+
+----
+num: 24
+category: Trash
+difficulty: 800
+seen: 4
+answer: January Jones
+
+She played Alyson Hannigan's sister in "American Wedding" before becoming a '60s wife on TV.
+
+----
+num: 25
+category: Trash
+difficulty: 800
+seen: 5
+answer: Clue
+
+Anthony Pratt, a solicitor's clerk, invented this classic whodunit board game.
+
+----
+num: 26
+category: Science
+difficulty: 800
+seen: 5
+answer: the common cold
+
+Linus Pauling's 1970 book was on "Vitamin C and" this ailment; by 1979 he'd moved up to "Cancer and Vitamin C".
+
+----
+num: 27
+category: History
+difficulty: 800
+seen: 4
+answer: portage
+
+Lewis & Clark had to resort to this, carrying boats overland.
+
+----
+num: 28
+category: Trash
+difficulty: 1200
+seen: 6
+answer: Boggle
+
+The name of this word search game with lettered cubes means "bewilder".
+
+----
+num: 29
+category: History
+difficulty: 1200
+seen: 4
+answer: the Port Authority
+
+1921 saw the creation of this organization for which a Manhattan bus terminal is named.
+
+----
+num: 30
+category: History
+difficulty: 1600
+seen: 5
+answer: the Philippine Sea
+
+U.S. success got the 1944 battle of this national-named sea the nickname "Great Marianas Turkey Shoot".
+
+----
+num: 31
+category: Trash
+difficulty: 1600
+seen: 6
+answer: Catherine Zeta-Jones
+
+Like Dylan Thomas, she is from Swansea & named her production company Milkwood after one of Thomas' plays.
+
+----
+num: 32
+category: Trash
+difficulty: 1600
+seen: 6
+answer: Connect Four
+
+This game is sort of an upright version of Tic-Tac-Toe, using checkers dropped into a grid.
+
+----
+num: 33
+category: Science
+difficulty: 1600
+seen: 6
+answer: vitamin K
+
+This vitamin is commonly given to newborns to prevent bleeding problems.
+
+----
+num: 34
+category: History
+difficulty: 1600
+seen: 4
+answer: a portico
+
+From the Latin for "gate", it's a columned entranceway.
+
+----
+num: 35
+category: History
+difficulty: 2000
+seen: 6
+answer: (Abe) Lincoln
+
+After the Battle of Fort Stevens, Jubal Early said, "We didn't take Washington, but we scared" this man "like hell".
+
+----
+num: 36
+category: Trash
+difficulty: 2000
+seen: 9
+answer: Cherry Jones
+
+This Broadway actress seen.
+
+----
+num: 37
+category: Trash
+difficulty: 2000
+seen: 8
+answer: Trouble
+
+The "popomatic" keeps you from having to find lost dice playing this Milton Bradley race & chase game.
+
+----
+num: 38
+category: Science
+difficulty: 2000
+seen: 8
+answer: vitamin A
+
+Your liver converts beta-carotene into this vitamin.
+
+----
+num: 39
+category: History
+difficulty: 2000
+seen: 6
+answer: the portcullis
+
+This large iron grating covered the entrance to many medieval castles.

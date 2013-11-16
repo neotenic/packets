@@ -1,0 +1,333 @@
+####
+tournament: Sample
+round: round2.pdf
+####
+
+num: 1
+category: Chemistry
+difficulty: HS
+seen: 36
+answer: Specific Gravity  (Accept:  Relative Density)
+
+What is the scientific term for the ratio between the density of a given substance to that of water when both are at the same temperature?
+
+----
+num: 2
+category: Biology
+difficulty: HS
+seen: 38
+answer: Anterior
+
+What is the MOST common anatomical synonym for ventral, when locating a part of the human body in relation to another part?
+
+----
+num: 2
+category: Biology
+difficulty: HS
+seen: 39
+answer: Cytosine;  Thymine
+
+What are the names for the pyrimidine bases found in DNA?
+
+----
+num: 3
+category: Physics
+difficulty: HS
+seen: 26
+answer: R Ed
+
+According to one of the most common color triangles, if blue and green are primary colors, what is the third primary color?
+
+----
+num: 3
+category: Physics
+difficulty: HS
+seen: 26
+answer: Interference Pattern  (Accept:  Interference)
+
+What is the most common name for the pattern of light and dark lines produced when coherent light is passed through two horizontal slits in a thin opaque sheet , causing superposition of waves projected on a wall?
+
+----
+num: 6
+category: General Science
+difficulty: HS
+seen: 31
+answer: 18
+(Solution: 0.9g/100 Ml × 2000 Ml = 18.0 G)
+
+How many grams of sodium chloride is in 2,000 milliliters of 0.9% NaCl solution?
+
+----
+num: 7
+category: Astronomy
+difficulty: HS
+fixed: -1
+seen: 52
+answer: Gravity
+
+What basic force of the universe is most responsible for holding the planets of our solar system in their orbits?
+
+----
+num: 7
+category: Astronomy
+difficulty: HS
+seen: 53
+answer: Mercury;  Venus;  Mars;  Jupiter;  Saturn   (In Any Order)
+
+What are the proper names of the 5 celestial bodies called wanderers by Greek astronomers because they had unusual paths in the sky throughout the year?
+
+----
+num: 8
+category: Chemistry
+difficulty: HS
+fixed: -1
+seen: 33
+answer: Iron Sulfide  (Accept:  Iron(ii) Sulfide or Ferrous Sulfide)
+
+Give the chemical name for the compound formed when pure iron and pure sulfur are mixed together and heated:
+
+----
+num: 9
+category: Biology
+difficulty: HS
+fixed: -1
+seen: 39
+answer: Right Ventricle
+
+From what chamber of the human heart does blood carried by the left pulmonary artery leave?
+
+----
+num: 9
+category: Biology
+difficulty: HS
+seen: 39
+answer: Thyroid
+
+What human gland or organ produces tri -iodothyronine (read as: 
+TRY- I-OH-doh-THY-row-neen)?
+
+----
+num: 10
+category: Physics
+difficulty: HS
+seen: 25
+answer: Green
+
+A white-colored object illuminated by a green light will appear as what color to the human eye?
+
+----
+num: 11
+category: Math
+difficulty: HS
+seen: 25
+answer: 2 × 2 × 2 × 2 × 3 × 5  (Accept:  2^4 × 3 × 5)
+
+Find the prime factorization of 240:
+
+----
+num: 13
+category: General Science
+difficulty: HS
+seen: 29
+answer: Collagen
+
+From what protein is gelatin, which is used as a food additive, most commonly derived?
+
+----
+num: 14
+category: Astronomy
+difficulty: HS
+fixed: -1
+seen: 55
+answer: Big Bang
+
+First proposed by Georges Lemaitre, what is the name, most likely coined by Fred Hoyle, for the theory that the universe originated at a finite time many eons ago from an extremely compressed hot state?
+
+----
+num: 14
+category: Astronomy
+difficulty: HS
+seen: 55
+answer: Ursa Minor  (Do Not Accept:  Little Dipper)
+
+In what constellation is the star Polaris found?
+
+----
+num: 15
+category: Chemistry
+difficulty: HS
+seen: 33
+answer: 7.2
+
+What is the pH of a solution with a pOH of 6.8 at 25ºC?
+
+----
+num: 16
+category: Biology
+difficulty: HS
+seen: 41
+answer: Genus (Accept:  Genera)
+
+Yersinia, Drosophila and Homo are all what taxonomical categor y?
+
+----
+num: 16
+category: Biology
+difficulty: HS
+seen: 38
+answer: Glucose  (Accept:  β-D-Glucopyranosyl or D-Glucose)
+
+From what monosaccharide is cellulose primarily composed?
+
+----
+num: 17
+category: Physics
+difficulty: HS
+seen: 25
+answer: Force
+
+Although in many respects difficult to define, what term is MOST often described as a push or a pull that can cause an object to accelerate ?
+
+----
+num: 17
+category: Physics
+difficulty: HS
+seen: 26
+answer: Centripetal (Accept:  Centripetal Force)
+
+What is the MOST common term for the inwardly directed force exerted on an object to keep the object moving in a circle?
+
+----
+num: 18
+category: Math
+difficulty: HS
+seen: 27
+answer: 12
+
+Giving your answer in centimeters, wha t is the length of a side of a square whose diagonal measures 12 2 centimeters?
+
+----
+num: 18
+category: Math
+difficulty: HS
+seen: 24
+answer: 2.7 × 10^8
+
+Multiply the following 4 numbers and give your answer in scientific notation: 30,000 × 3,000 × 30 × 0.1
+
+----
+num: 19
+category: Earth Science
+difficulty: HS
+fixed: -1
+seen: 63
+answer: Precambrian
+
+What is the oldest Eon on the Geological Time Scale within which the first organisms appeared between 550 million and 3.4 billion years ago?
+
+----
+num: 19
+category: Earth Science
+difficulty: HS
+seen: 63
+answer: Cenozoic
+
+Homo sapiens evolved during which geological era of the 
+Geological Time Scale?
+
+----
+num: 20
+category: General Science
+difficulty: HS
+fixed: -1
+seen: 29
+answer: Sulfur Oxides;  Nitrogen Oxides  (In Any Order)  
+(Accept:  Sulfur Dioxide or So^2 and Nitrogen Dioxide or No^2)   
+(Do Not Accept:  Sulfuric Acid or Nitric Acid)
+
+The primary anthropogenic cause of acid rain is the emission of what 2 gases?
+
+----
+num: 21
+category: Astronomy
+difficulty: HS
+fixed: -1
+seen: 53
+answer: Helium
+
+What is the primary elemental product of stellar hydrogen fusion?
+
+----
+num: 21
+category: Astronomy
+difficulty: HS
+fixed: -1
+seen: 53
+answer: Longitude = Right Ascension;  Latitude = Declination
+
+In the equatorial celestial coordinate system, what terms are synonymous with longitude and latitude, respectively?
+
+----
+num: 22
+category: Chemistry
+difficulty: HS
+seen: 35
+answer: 9
+
+What is the atomic numb er for the ground state element with the following electron configuration: 1s ^22s^22p^5 (read as: 1, s, 2; 2, s, 2; 2, p, 5)
+
+----
+num: 22
+category: Chemistry
+difficulty: HS
+seen: 34
+answer: 225
+(Solution: 1 L × (3.0 Mol/l)(75 G/mol) = 225 G)
+
+How many grams of KCl, with a molar mass of 75, are needed to make 1 liter of a 3 m olar solution?
+
+----
+num: 23
+category: Math
+difficulty: HS
+fixed: -1
+seen: 25
+answer: Y^6
+
+Giving your answer in standard form, what is the last term in the binomial expansion of the following: ( x + y)^6
+
+----
+num: 23
+category: Math
+difficulty: HS
+seen: 25
+answer: 12a – 4.03b + 1.2
+
+Simplify the following expression by combining like terms: 12.03A – 4.03B – 0.03(A – 40)
+
+----
+num: 24
+category: Physics
+difficulty: HS
+seen: 27
+answer: Newton’s Third Law  (Accept:  Third Law)
+
+What specific law of motion most directly implies that every action has an equal and opposite reaction?
+
+----
+num: 25
+category: Biology
+difficulty: HS
+seen: 39
+answer: Heart
+
+The sinoatrial (read as: sine -oh-AYE-tree-al) node is located in what human organ?
+
+----
+num: 25
+category: Biology
+difficulty: HS
+seen: 39
+answer: Right Atrium
+
+In what chamber of the human heart is the sinoatrial (read as: sine -oh-AYE-tree-al) node located?

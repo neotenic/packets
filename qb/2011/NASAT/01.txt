@@ -1,0 +1,343 @@
+####
+tournament: NASAT
+round: 01.pdf
+year: 2011
+####
+
+num: 6
+category: Science
+difficulty: HS
+fixed: 57
+seen: 485
+answer: {liquid crystals} [prompt on {nematic material} before {lipid membranes}]
+
+One notable property of these materials can be described by Miezowicz geometries and store
+ Frank-Oseen energy. They can suffer from radial hedgehog defects. A change in their orientation by an
+ electric field occurs at the Fredericks transistion. The direction of the averaged orientation in these are
+ characterized by directors. Lipid membranes in cells are believed to have the dynamics of these. Two
+ classes of these are thermotropics and lyotropics. Their phases include columnar, smectic, and nematic.
+ These have orientational, but not long range order. For 10 points, name these fluid materials with
+ intermediate organizational properties that are used in TV and computer displays.
+
+----
+num: 7
+category: Religion
+difficulty: HS
+fixed: 1
+seen: 446
+answer: Jainism
+
+The Kapla is the biography of this religion’s founder. Books called the Cheda contain rules for monks in
+ this religion. The most important texts in this religion are the Agamas. Vision, knowledge, and conduct are
+ the so-called “triple gems” of this religion. Each of this religion’s prophets was smaller than the one that
+ came before him; these prophets are called the 24 bridge-makers, or Tirthankars, the most recent of which
+ was this religion’s founder, Mahavira. Because of this religion’s principle of ahimsa, some members wear
+ masks to avoid accidentally inhaling and killing insects. For 10 points, name this Indian religion committed
+ to non-violence.
+
+----
+num: 7
+category: Religion
+difficulty: HS
+fixed: 1
+seen: 445
+answer: Jainism
+
+The Kapla is the biography of this religion’s founder. Books called the Cheda contain rules for monks in
+ this religion. The most important texts in this religion are the Agamas. Vision, knowledge, and conduct are
+ the so-called “triple gems” of this religion. Each of this religion’s prophets was smaller than the one that
+ came before him; these prophets are called the 24 bridge-makers, or Tirthankars, the most recent of which
+ was this religion’s founder, Mahavira. Because of this religion’s principle of ahimsa, some members wear
+ masks to avoid accidentally inhaling and killing insects. For 10 points, name this Indian religion committed
+ to non-violence.
+
+----
+num: 8
+category: History
+difficulty: HS
+fixed: 57
+seen: 414
+answer: Dwight David {Eisenhower}
+
+This man’s Chief of Staff was dubbed the “Abominable No Man” and resigned after it was revealed he
+ had taken an overcoat as a gift. Besides Sherman Adams, this man’s advisers included a Cabinet dubbed
+ “eight millionaires and a plumber.” One of this man’s Cabinet members, Charles Wilson, said during
+ confirmation hearings that “for years I thought what was good for the country was good for General
+ Motors.” This man’s Secretary of State initiated Operations PBSUCCESS and Ajax to overthrow
+ governments in Guatemala and Iran. For 10 points, name this president whose Secretary of State was John
+ Foster Dulles, and who had served during World War II as Supreme Allied Commander in Europe.
+
+----
+num: 9
+category: Philosophy
+difficulty: HS
+fixed: 1
+seen: 526
+answer: Simone de {Beauvoir}
+
+In one work, this thinker outlined six figures, including the “sub-man” and the “adventurer,” to depict
+ different ways in which man fails to be ethical. This philosopher wrote a metaphysical novel in which
+ Francoise murders Xaviere, the lover of both her and Pierre. In another novel, this author wrote about Anne
+ Dubreilh’s affair with Lewis Brogan, a representation of Nelson Algren. The most famous work by this
+ author of She Came to Stay, The Mandarins, and The Ethics of Ambiguity attacks the myth of the “eternal
+ feminine” and states that “one is not born, but becomes, a woman.” For 10 points, name this feminist
+ philosopher and lover of Jean-Paul Sartre, who wrote The Second Sex.
+
+----
+num: 10
+category: Science
+difficulty: HS
+fixed: 1
+seen: 491
+answer: {glucagon}
+
+A beta-blocker overdose can be treated by using an IV infusion of this hormone. A tumor producing
+ this hormone causes necrolytic migrating erythema, and such a tumor can be controlled with octreotide.
+ DPP-4 degrades a peptide named for this hormone; that peptide is secreted by L-cells in the intestine. This
+ hormone acts through a cAMP-mediated mechanism via a G-protein coupled receptor, and leads to the
+ activation of glycogen phosphorylase in the liver and the breakdown of glycogen. This hormone is secreted
+ by the alpha cells of the Islets of Langerhans in the pancreas. For 10 points, name this hormone that
+ opposes insulin by raising blood sugar levels.
+
+----
+num: 11
+category: Geography
+difficulty: HS
+fixed: 57
+seen: 711
+answer: {Wales} [do not accept or prompt on "{United Kingdom}," etc]
+
+The highest waterfall in this political unit is called the Devil's Appendix and is located on the side of
+ Cwm (k-OOM) Idwal. An grove of Yew trees at Overton may be the oldest in this place, where a causeway
+ known as "the cob" connects the town of Holyhead to Anglesey. A Beaker people site at Llethryd Tooth
+ Cave is located on this component country's Gower Peninsula, which also includes an unusual rock
+ formation called the Hog's Head. People in this region hold spoken word festivals called eisteddfodau, and
+ it includes the Wye River valley as well as a large earthern wall separating it from its eastern neighbor,
+ Offa's Dyke. For 10 points, identify this component country of the United Kingdom represented on its
+ official flag by a dragon.
+
+----
+num: 11
+category: Geography
+difficulty: HS
+fixed: 57
+seen: 715
+answer: {Wales} [do not accept or prompt on "{United Kingdom}," etc]
+
+The highest waterfall in this political unit is called the Devil's Appendix and is located on the side of
+ Cwm (k-OOM) Idwal. An grove of Yew trees at Overton may be the oldest in this place, where a causeway
+ known as "the cob" connects the town of Holyhead to Anglesey. A Beaker people site at Llethryd Tooth
+ Cave is located on this component country's Gower Peninsula, which also includes an unusual rock
+ formation called the Hog's Head. People in this region hold spoken word festivals called eisteddfodau, and
+ it includes the Wye River valley as well as a large earthern wall separating it from its eastern neighbor,
+ Offa's Dyke. For 10 points, identify this component country of the United Kingdom represented on its
+ official flag by a dragon.
+
+----
+num: 12
+category: Science
+difficulty: HS
+fixed: 1
+seen: 485
+answer: chromatography
+
+Excluding sample preparation, two of these processes make up the first two phases of MudPit protein
+ analysis. This process can be described with an equation that contains terms for eddy-dffusion, longitudinal
+ diffusion and mass transfer called the van Deemter equation. A common material used in these setups is
+ sepharose. It uses antibodies or other binding molecules in its affinity variant and a charged resin in its ion
+ exchange form. The retention time is used to characterize this technique, which typically makes use of a
+ column in its gas, liquid or high performance liquid variants. For 10 points, name this chemical technique
+ which involves passing a mobile phase through a stationary phase to separate a mixture.
+
+----
+num: 13
+category: Literature
+difficulty: HS
+fixed: 57
+seen: 443
+answer: The {Moonstone}
+
+One character in this novel attempts to read from a tract entitled The Life, Letters, and Labours of Miss
+ Jane Ann Stamper. Part of this novel is a statement by the captain of the steamboat Bewley Castle. One
+ character in this work is found dead at the Wheel of Fortune inn. That character, Godfrey Ablewhite, is
+ shown to be a hypocrite during Miss Clack's narrative. Franklin Blake and Rachel Verinder are ultimately
+ married in this novel. At the end of this work, Mr. Murthwaite observes a religious ceremony at the shrine
+ of Somnauth at which the title object is placed in a statue. John Herncastle had previously stolen the title
+ object from Seringapatam. For 10 points, name this novel by Wilkie Collins about the theft of the title gem.
+
+----
+num: 14
+category: Science
+difficulty: HS
+fixed: 1
+seen: 486
+answer: {pyruvate} [or {pyruvic} acid]
+
+Over 90% of patients with primary biliary cirrhosis have antibodies against an enzyme that breaks
+ down this compound. In the Cori cycle, this compound is created in the liver from lactate. One enzyme that
+ breaks down this compound contains E1, E2, and E3 subunits and uses lipoic acid and thiamine
+ pyrophosphate as cofactors. Transamination of this compound produces alanine. A namesake carboxylase
+ converts this compound to oxaloacetate in gluconeogenesis, and a namesake dehydrogenase converts it to
+ Acetyl CoA for entrance into the Krebs Cycle. For 10 points, name this three-carbon compound, two
+ molecules of which are the final products of glycolysis.
+
+----
+num: 15
+category: History
+difficulty: HS
+fixed: -1
+seen: 419
+answer: {Rhodes}
+
+A Burgundian force under Geoffroy de Thoisy helped fend off a 1444 Mamluk siege of this city.
+ Bayezid II paid a bribe to have his brother Cem imprisoned in this city by Pierre d’Aubusson, who had
+ earlier defended it from a 1480 Ottoman Siege. After being expelled from Jerusalem in the 14th century,
+ the Knights of St. John made this their base, although were forced to find a new home after it was sacked in
+ 1522 by Suleiman the Magnificent. In ancient times, its harbor was home to a wonder of the ancient world
+ which was destroyed in a 226 BCE earthquake. For 10 points, name this Greek island city which was home
+ to an ancient “colossus.”
+
+----
+num: 16
+category: Literature
+difficulty: HS
+fixed: 57
+seen: 445
+answer: {lawyer} [accept reasonable equivalents like {attorney} or {advocate}]
+
+One character with this profession, Hubert Blorna, has a wife nicknamed "Trude the Red" due to her
+ leftist sympathies. That character of this profession appears in Heinrich Boll's novel The Lost Honor of
+ Katharina Blum. Another character of this profession is engaged to Dunya in a novel in which he accuses
+ the prostitute Sonya Marmeladova of robbing him. That character of this profession is named Pyotr Luzhin
+ and appears in Crime and Punishment. Jean-Baptiste Clamence, a character in this profession, observes a
+ woman who jumps into the Seine and fails to save her in Albert Camus' The Fall. For 10 points, Herr Huld,
+ a member of this profession, does a poor job of defending Joseph K. in Franz Kafka's novel The Trial.
+
+----
+num: 17
+category: History
+difficulty: HS
+fixed: 57
+seen: 420
+answer: {Switzerland}
+
+An army from this country won the 1513 Battle of Novara, giving this country temporary control of
+ Milan. The Field of Rutli is considered the place where this country was founded, and was also the site of a
+ 1940 rally led by General Henri Guisan, who commanded this country’s forces during World War II. Early
+ in its history, this country won the Battle of Mortgarten, preventing its annexation by the Habsburgs. The
+ Kapel Wars were fought between Catholics and Protestants in this country, which is home to several
+ valleys where Romansch is spoken. This country is currently composed of 26 cantons. For 10 points, name
+ this Alpine country in Europe, known for its neutrality.
+
+----
+num: 18
+category: Fine Arts
+difficulty: HS
+fixed: 57
+seen: 480
+answer: Ottorino {Respighi}
+
+Proper recordings of one piece by this composer use a pipe organ to play the "Saint Gregory the Great"
+ section of his four-movement piece about fictional stained-glass religious scenes, Church Windows. He
+ used the traditional Christmas carol "O Come, O Come, Emanuel" as the basis for the "Adoration of the
+ Magi" movement of another art-inspired wrok, the Three Botticelli Pictures. His material was often
+ performed or completed by his wife Elsa, as in his opera Lucrezia. His andante mosso depiction of the
+ Valle Giulia is included in a work that also takes place at the Villa Medici, the Tritone, and the Trevi, and
+ this composer of Ancient Airs and Dances also used a recorded nightingale call in another work set in the
+ same city. For 10 points, name this Italian who composed The Fountains of Rome and The Pines of Rome.
+
+----
+num: 19
+category: Mythology
+difficulty: HS
+fixed: 57
+seen: 784
+answer: {Ariadne}
+
+In one story, this woman is killed by Artemis after giving birth to the twins Oenopion and Staphylus.
+ This woman is also said to have died in a fight against the Argives, and in another story, this woman's
+ apotheosis took place at Drios and the crown given to this woman at her wedding became the constellation
+ Corona. This sister of Phaedra became the immortal wife of Dionysus. This woman used a gift from
+ Hephaestus, a ball of string, in order to help her ultimately ungrateful lover escape from a labyrinth. For 10
+ points, name this woman abandoned on Naxos by Theseus.
+
+----
+num: 20
+category: Literature
+difficulty: HS
+fixed: 57
+seen: 447
+answer: “Good {Country People}”
+
+One character in this story is described as having two expressions that she uses for all human dealings,
+ “forward and reverse,” and she repeatedly comments, “I always said so myself.” Another character gives
+ the derisive nicknames “Glycerin” and “Caramel” to Glynese and Carramae, who are the daughters of the
+ nosy tenant Mrs. Freeman, and that character legally changed her name from Joy to annoy her mother. At
+ the end of this story one character pulls out a pack of pornographic playing cards and of whiskey hidden in
+ a hollow Bible and comments his real name is not Manley Pointer after abandoning a thirty-two year old
+ woman who has a philosophy Ph.D. in the top loft of a barn. For 10 points, name this story in which Hulga
+ Hopewell has her artificial leg stolen from her, written by Flannery O’Connor.
+
+----
+num: 21
+category: Literature
+difficulty: HS
+fixed: 57
+seen: 445
+answer: Miss {Havisham}
+
+This character instructs a young man to visit her again after a six-day interval, at which time she
+ demonstrates a "black fungus" covered in cobwebs and spiders. Her home is depicted as airless and
+ oppressive because she always keeps the window-blinds closed, and that home is full of stopped clocks.
+ Despite the warnings of Matthew, this character accepted a marriage proposal from Compeyson; she later
+ intervenes to stop Bently Drummle from marrying her adopted daughter Estella, before dying when a fire
+ consumes the wedding dress that she constantly wears. For 10 points, name this woman who is obsessed
+ with her long-ago jilting at the altar in Charles Dickens's Great Expectations.
+
+----
+num: 22
+category: Science
+difficulty: HS
+fixed: 1
+seen: 489
+answer: Triton
+
+One ridge feature on this body is the Slidr Sulci and a unique class of dark features here are guttae. Its
+ largest impact crater is Mazomba. This moon has a unique surface feature called “cantaloupe terrain”,
+ which resembles a melon skin. Due to tidal heating, this moon is believed to have spent a billion years in a
+ liquid state. This moon’s gravity is believed to cause disruption in the orbit of its neighbor, Nereid. Frozen
+ nitrogen is emitted by geysers on this moon, the most notable example of ice volcanoes. Because of its
+ retrograde orbit, this moon is believed to have been captured from the Kuiper Belt. For 10 points, name this
+ largest moon of Neptune.
+
+----
+num: 22
+category: Science
+difficulty: HS
+fixed: 1
+seen: 479
+answer: {Triton}
+
+One ridge feature on this body is the Slidr Sulci and a unique class of dark features here are guttae. Its
+ largest impact crater is Mazomba. This moon has a unique surface feature called “cantaloupe terrain”,
+ which resembles a melon skin. Due to tidal heating, this moon is believed to have spent a billion years in a
+ liquid state. This moon’s gravity is believed to cause disruption in the orbit of its neighbor, Nereid. Frozen
+ nitrogen is emitted by geysers on this moon, the most notable example of ice volcanoes. Because of its
+ retrograde orbit, this moon is believed to have been captured from the Kuiper Belt. For 10 points, name this
+ largest moon of Neptune.
+
+----
+num: 23
+category: History
+difficulty: HS
+fixed: 1
+seen: 421
+answer: Battle of {Little Round Top} [prompt on Battle of {Gettysburg}; prompt on Round Top]
+
+This location that was part of a larger battle was defended by troops under Paddy O’Rorke, who died
+ here. Charles Hazlett died at this position after setting up his artillery to help secure it. One man who died
+ at this location of a greater battle cried out “Don’t give an inch!” before being shot in its defense. That
+ man, Strong Vincent, and G.K. Warren helped organize troops here once it was discovered to be
+ undefended. William C. Oates led a portion of the 15th Alabama against this position, which was held by a
+ bayonet charge led by the 20th Maine under Joshua Chamberlain. For 10 points, name this location during
+ the Battle of Gettsyburg that shares part of its name with a larger hill.

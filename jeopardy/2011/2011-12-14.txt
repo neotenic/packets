@@ -1,0 +1,276 @@
+####
+tournament: #6268
+round: Show #6268 - Wednesday, December 14, 2011
+year: 2011
+date: 2011-12-14
+####
+
+num: 1
+category: Religion
+difficulty: 200
+seen: 11
+answer: Mecca
+
+Muslims are required to pray 5 times a day while facing this holy city.
+
+----
+num: 2
+category: History
+difficulty: 200
+seen: 5
+answer: Wrigley\'s
+
+In 1892 this Chicago company began offering free chewing gum with each can of baking powder sold.
+
+----
+num: 3
+category: History
+difficulty: 200
+seen: 5
+answer: Tolkien
+
+English: His "Unfinished Tales", a collection of more Middle-earth material, was published 7 years after his death.
+
+----
+num: 4
+category: Social
+difficulty: 200
+seen: 4
+answer: a push-up bra
+
+An uplift brassiere is more commonly known as this, moving the "up" to the end of the word.
+
+----
+num: 5
+category: Religion
+difficulty: 400
+seen: 10
+answer: Buddhism
+
+In the 200s B.C. Indian emperor Ashoka converted to this religion that had been founded about 300 years earlier.
+
+----
+num: 6
+category: History
+difficulty: 400
+seen: 4
+answer: Boston
+
+On April 19, 1897 this city's marathon was run for the first time; John McDermott won in 2 hrs., 55 min., 10 sec.
+
+----
+num: 7
+category: Social
+difficulty: 400
+seen: 5
+answer: a gazelle
+
+In ancient times the greyhound was trained to hunt.
+
+----
+num: 8
+category: History
+difficulty: 400
+fixed: -1
+seen: 4
+answer: gross domestic product
+
+Econ: GDP, this, is the market value of all goods made within a nation's boundaries during a given period.
+
+----
+num: 9
+category: Religion
+difficulty: 600
+seen: 8
+answer: Voodoo
+
+Mambos & houngans are priests & priestesses in this Haitian religion.
+
+----
+num: 10
+category: History
+difficulty: 600
+seen: 4
+answer: (Booker T.) Washington
+
+In 1895 this black educator delivered the Atlanta Compromise speech about improving the lot of African Americans.
+
+----
+num: 11
+category: Social
+difficulty: 600
+seen: 4
+answer: Guatemala
+
+Indian culture is stronger in.
+
+----
+num: 12
+category: History
+difficulty: 600
+seen: 4
+answer: Jesse Jackson
+
+Social studies: In 1984 this Baptist minister established the National Rainbow Coalition.
+
+----
+num: 13
+category: Religion
+difficulty: 800
+seen: 10
+answer: Hinduism
+
+The name of the divine mother goddess Durga in this religion is Sanskrit for "invincible".
+
+----
+num: 14
+category: History
+difficulty: 800
+seen: 3
+answer: "Stars And Stripes Forever"
+
+John Philip Sousa sat down on Christmas 1896 & wrote this march, including the lyric "Hurrah for the flag of the free".
+
+----
+num: 15
+category: Social
+difficulty: 800
+seen: 4
+answer: the gallbladder
+
+Normally holding up to about 2 ounces of fluid,.
+
+----
+num: 16
+category: History
+difficulty: 800
+seen: 4
+answer: the Hanging Gardens of Babylon
+
+History: This one of the 7 Ancient Wonders was said to be laid out on several brick terraces & 75 feet above the ground.
+
+----
+num: 17
+category: Religion
+difficulty: 1000
+seen: 12
+answer: Deuteronomy
+
+Each year on the Jewish festival Simchat Torah, or "Torah rejoicing", the last part of this book of the Bible is read.
+
+----
+num: 18
+category: History
+difficulty: 1000
+seen: 4
+answer: the Wild Bunch
+
+On June 2, 1899 Butch Cassidy & this gang, also a 1969 movie title, robbed their first train near Wilcox, Wyoming.
+
+----
+num: 19
+category: Social
+difficulty: 1000
+seen: 5
+answer: a gantry
+
+It's the type of large support structure for launching rockets seen.
+
+----
+num: 20
+category: History
+difficulty: 1000
+seen: 4
+answer: the Arabian Sea
+
+Geography: This sea, an arm of the Indian Ocean, separates Oman & India.
+
+----
+num: 21
+category: Literature
+difficulty: 400
+seen: 4
+answer: Romeo
+
+Paris calls this character a "banished haughty Montague".
+
+----
+num: 22
+category: Literature
+difficulty: 400
+seen: 3
+answer: faction
+
+Drop a letter from "fraction" to get this fraction of a group within a larger group.
+
+----
+num: 23
+category: Science
+difficulty: 400
+seen: 6
+answer: crane
+
+The sandhill type of this tall wading bird breeds from Alaska to Hudson Bay.
+
+----
+num: 24
+category: Literature
+difficulty: 800
+seen: 4
+answer: Portia
+
+This lover of Bassanio disguises herself as a lawyer & saves Antonio.
+
+----
+num: 25
+category: Literature
+difficulty: 800
+seen: 4
+answer: a league
+
+It's a group of bowling teams that compete against each other, or a former association of nations.
+
+----
+num: 26
+category: Literature
+difficulty: 1200
+seen: 4
+answer: the Rat Pack
+
+Shirley MacLaine was one of the few female members of this fabled group that also included Dean Martin & Frank Sinatra.
+
+----
+num: 27
+category: Literature
+difficulty: 1600
+seen: 4
+answer: clique
+
+At school, kids inevitably form these exclusive groups of friends, from the French for "noise".
+
+----
+num: 28
+category: Science
+difficulty: 1600
+seen: 5
+answer: a cyclotron
+
+This type of particle accelerator utilizes a spiraling path.
+
+----
+num: 29
+category: Literature
+difficulty: 2000
+seen: 5
+answer: a bevy
+
+A synonym for group, it's often applied to "beauties" & is a collective noun for several swans.
+
+----
+num: 30
+category: Science
+difficulty: 2000
+seen: 9
+answer: cephalopod
+
+The name of this class of mollusks comes from Greek words meaning "head foot".

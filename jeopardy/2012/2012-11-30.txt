@@ -1,0 +1,374 @@
+####
+tournament: #6490
+round: Show #6490 - Friday, November 30, 2012
+year: 2012
+date: 2012-11-30
+####
+
+num: 1
+category: Science
+difficulty: 200
+seen: 7
+answer: lead
+
+"In housing built before 1978 assume that the paint has" this toxic element "unless tests show otherwise".
+
+----
+num: 2
+category: Trash
+difficulty: 200
+seen: 6
+answer: Nicolas Cage
+
+Oscar-winning actor Nicolas Coppola.
+
+----
+num: 3
+category: Trash
+difficulty: 200
+seen: 6
+answer: Foster\'s
+
+A red kangaroo is on the so-called "oil cans" of this brand of beer.
+
+----
+num: 4
+category: Literature
+difficulty: 200
+seen: 4
+answer: combustion
+
+When materials reach ignition temperature, you get this fiery reaction that can be "spontaneous".
+
+----
+num: 5
+category: History
+difficulty: 200
+seen: 5
+answer: Santiago
+
+About a third of all Chileans live in this capital city.
+
+----
+num: 6
+category: Science
+difficulty: 400
+seen: 6
+answer: antibiotics
+
+This is scary-- "almost every type of bacteria has become stronger & less responsive to" treatment with these drugs.
+
+----
+num: 7
+category: Trash
+difficulty: 400
+seen: 5
+answer: David Copperfield
+
+Illusionist David Kotkin.
+
+----
+num: 8
+category: Trash
+difficulty: 400
+seen: 5
+answer: Guinness
+
+This brand was the first to put a widget in cans of its draught beer to create the creamy head on a pint served in a pub.
+
+----
+num: 9
+category: Literature
+difficulty: 400
+seen: 4
+answer: torch
+
+As a noun, it means a flame carried on a stick; as a verb, it means to burn down.
+
+----
+num: 10
+category: History
+difficulty: 400
+seen: 4
+answer: Cape Horn
+
+This cape, the southernmost point of Chile & of South America, is only about 600 miles from Antarctica.
+
+----
+num: 11
+category: Science
+difficulty: 600
+seen: 6
+answer: a concussion
+
+Beware--this injury caused by "a bump, blow, or jolt to the head...can occur in any sport or recreational activity".
+
+----
+num: 12
+category: Trash
+difficulty: 600
+seen: 4
+answer: Kareem Abdul-Jabbar
+
+Basketball great Ferdinand Lewis Alcindor Jr.
+
+----
+num: 13
+category: Literature
+difficulty: 600
+seen: 4
+answer: stoke
+
+To stir up & feed a furnace.
+
+----
+num: 14
+category: History
+difficulty: 600
+seen: 4
+answer: an empanada
+
+One of Chile's national dishes is this single-serving folded meat pie.
+
+----
+num: 15
+category: Science
+difficulty: 800
+seen: 6
+answer: mammograms
+
+Women should have these "every 2 years from age 50 to 74" as they "are the best tests...to find breast cancer early".
+
+----
+num: 16
+category: Trash
+difficulty: 800
+seen: 4
+answer: Lil Wayne
+
+"Tha Carter" rapper Dwayne Carter Jr.
+
+----
+num: 17
+category: Trash
+difficulty: 800
+seen: 4
+answer: Stella Artois
+
+Its label calls it (her?) "Belgium's original beer".
+
+----
+num: 18
+category: Literature
+difficulty: 800
+seen: 4
+answer: inferno
+
+A hellish, raging fire, or the Italian word for hell.
+
+----
+num: 19
+category: Science
+difficulty: 1000
+seen: 6
+answer: carbon monoxide
+
+To prevent this type of poisoning, don't use "gasoline or charcoal-burning" devices "inside your home".
+
+----
+num: 20
+category: Trash
+difficulty: 1000
+seen: 5
+answer: Whoopi Goldberg
+
+Actress/comedian/TV talker Caryn Johnson.
+
+----
+num: 21
+category: Trash
+difficulty: 1000
+seen: 5
+answer: Sam Adams
+
+You get to taste the malts & smell the hops on a tour of this brand's brewery on Germania Street in Boston.
+
+----
+num: 22
+category: Literature
+difficulty: 1000
+seen: 4
+answer: thermals
+
+Rising updrafts of warm air; birds ride them to stay aloft while expending less energy.
+
+----
+num: 23
+category: History
+difficulty: 1000
+seen: 4
+answer: (Salvador) Allende
+
+In 2011 a forensic investigation concluded that this president's 1973 death was a suicide.
+
+----
+num: 24
+category: Art
+difficulty: 400
+seen: 3
+answer: the Rockettes
+
+Women auditioning for this leggy New York City dance troupe must between 5'6" & 5'10 1/2" in height.
+
+----
+num: 25
+category: History
+difficulty: 400
+seen: 4
+answer: (Adlai) Stevenson
+
+After Eisenhower defeated this man twice, he went on to serve as U.N. Ambassador for 4 years, until his death.
+
+----
+num: 26
+category: Science
+difficulty: 400
+seen: 5
+answer: aircraft carriers
+
+Classes of these ships include Kitty Hawk, Enterprise & Nimitz.
+
+----
+num: 27
+category: Literature
+difficulty: 400
+seen: 4
+answer: money
+
+Benjamin Franklin in his "Advice to a Young Tradesman":.
+
+----
+num: 28
+category: Art
+difficulty: 800
+seen: 4
+answer: flamenco
+
+In 1992 Joaquin Cortes formed his own company that featured this gypsy dance.
+
+----
+num: 29
+category: History
+difficulty: 800
+seen: 4
+answer: Richardson
+
+In 1997 this Hispanic American from New Mexico fit the bill.
+
+----
+num: 30
+category: Science
+difficulty: 800
+seen: 5
+answer: a loom
+
+This device used in making fabrics comes in high warp & low warp varieties.
+
+----
+num: 31
+category: Literature
+difficulty: 800
+seen: 4
+answer: weep alone
+
+Ella Wheeler Wilcox:.
+
+----
+num: 32
+category: Art
+difficulty: 1200
+seen: 4
+answer: the Bolshoi
+
+The building housing this dance company opened August 20, 1856, in time for Czar Alexander II's coronation.
+
+----
+num: 33
+category: History
+difficulty: 1200
+seen: 4
+answer: (John) Bolton
+
+On August 1st, 2005, the President named.
+
+----
+num: 34
+category: Science
+difficulty: 1200
+seen: 5
+answer: the station wagon
+
+This type of auto got its name from the old method of taking passengers to & from train stops.
+
+----
+num: 35
+category: Trash
+difficulty: 1200
+seen: 5
+answer: Chuck Norris
+
+"The Expendables 2" adds the thespian talents of this former TV Texas Ranger to those of Stallone & Schwarzenegger.
+
+----
+num: 36
+category: Art
+difficulty: 1600
+seen: 4
+answer: the American Ballet Theater
+
+This company's present artistic director is, fittingly, Kevin McKenzie from the good old United States.
+
+----
+num: 37
+category: Science
+difficulty: 1600
+seen: 6
+answer: Corinthian
+
+This type of column named for a Greek city is usually decorated with acanthus leaves.
+
+----
+num: 38
+category: Trash
+difficulty: 1600
+seen: 6
+answer: Meryl Streep
+
+In "Hope Springs" Tommy Lee Jones & this actress try to reignite their marital sparks.
+
+----
+num: 39
+category: Literature
+difficulty: 1600
+seen: 4
+answer: promised land
+
+Martin Luther King Jr.: "He's allowed me to go up to the mountain.  And I've looked over, and I've seen the ____ ____".
+
+----
+num: 40
+category: History
+difficulty: 2000
+seen: 5
+answer: Jean Kirkpatrick
+
+Despite being a longtime Democrat,.
+
+----
+num: 41
+category: Science
+difficulty: 2000
+seen: 8
+answer: germ (or the bran)
+
+The difference between white & brown rice is that white has had this fibrous & nutritious part removed.

@@ -1,0 +1,524 @@
+####
+tournament: HSAPQ NASAT Tryout Set
+round: nasat-tryout-science.pdf
+year: 2009
+####
+
+num: 1
+category: Science
+difficulty: HS
+fixed: 1
+seen: 487
+answer: cellulose
+
+This compound is turned into xanthate (ZAN-thate) before being rebuilt through a spinneret in the process to create viscose rayon. This compound has beta-1,4 glycosidic (gly-co-SID-ic) linkages; those linkages are the only difference between this compound and starches, which are likewise made up of repeating chains of glucose. This most abundant organic compound on earth is indigestible by humans; however, it can be broken down by microorganisms that live in cows and termites. For 10 points, name this compound that makes up the majority of a plant's cell wall.
+
+----
+num: 3
+category: Science
+difficulty: HS
+fixed: -1
+seen: 483
+answer: {JavaScript} [or {ECMAScript}; or {JScript}]
+
+This language's arguments dot callee gives extra power to anonymous functions. Like Python, it has a for in construction. Commonly used libraries for this language includes Ext, YUI, and Dojo. Primitive types in this language include undefined and null. Instead of using classes, this language like its Self predecessor uses prototypes. Local variables can be declared by the keyword var. For 10 points, name this programming language often used in webpages.
+
+----
+num: 4
+category: Science
+difficulty: HS
+fixed: 1
+seen: 484
+answer: {Michelson}-{Morley} experiment
+
+The Shankland team supported the outcome of this experiment by finding fundamental flaws in Daisy Miller's observations. A version of this experiment looking for seasonal variation was carried out by Kennedy and Thorndike. It used a half-silvered mirror to split coherent light and attempted to detect a certain "wind" by measuring fringe shift with an interferometer. Its results were explained by the Lorenz-FitzGerald hypothesis concerning length contraction. For 10 points, what experiment, named for two physicists at Case Western, disproved the existence of luminiferous (loo-min-IF-er-us) aether (EE-ther)?
+
+----
+num: 5
+category: Science
+difficulty: HS
+fixed: 57
+seen: 486
+answer: {indicator} [or {pH indicator}; or acid-base {indicator}]
+
+A form of these substances that marks a shift to a specific electric potential is known as the redox type. The most notable type of these substances includes chemicals like cresol (KREE-sol) red and bromothymol (BRO-mo-THY-moll) blue and demonstrates the endpoint of an acid-base titration. For 10 points, name these chemicals that reversibly change color at a certain chemical point and include acid-base examples like phenolphthalein (FEE-nolf-THALE-een).
+
+----
+num: 6
+category: Science
+difficulty: HS
+fixed: 57
+seen: 483
+answer: {sulfur} [or {S}]
+
+This element, whose most stable form is the rhombic (ROM-bick) allotrope (AL-oh-trope), is extracted by pumping superheated steam into deposits in the Frasch (FRASH) process. Thiols (THY-olls) are alcohol analogs with oxygen replaced by this element. A platinum or vanadium (vuh-NAY-dee-um) catalyst is used in the contact process, which synthesizes a compound consisting of oxygen, hydrogen, and this element. Although blue in flame test, it is yellow as a solid and a liquid. This element forms cross-links in rubber vulcanization. For 10 points, name this element with atomic number 16.
+
+----
+num: 7
+category: Science
+difficulty: HS
+fixed: 57
+seen: 484
+answer: {pH}
+
+Under some conditions, an ICE table must be use to compute this property, and a device used to measure this property is named for Arnold Beckman. The Henderson-Hasselbalch (HEN-der-sun HOSS-el-bock) equation relates this quantity to the pKa of a compound, and it is kept constant by buffer solutions. It is defined as the negative of the base ten log of the concentration of hydronium ("high"-DRO-nee-um) ions. For 10 points, give this quantity that measures how acidic or basic a solution is, which is seven for water.
+
+----
+num: 8
+category: Science
+difficulty: HS
+fixed: 57
+seen: 487
+answer: {Arthropoda} [or {arthropods}]
+
+Along with mollusks, this grouping is defined by the existence of a cavity for blood circulation known as the hemocoel (HEE-moh-"SEAL"). This phylum takes in oxygen through stacks of plates filled with blood known as book lungs. One extinct member of this phylum was the most common animal of the Cambrian Explosion. That animal was a three lobed marine creature known as the trilobite (TRY-lo-bite). Members of this phylum have exoskeletons made of chitin (KYE-tin). For 10 points, name this phylum that includes crustaceans (crus-TAY-"shins") and insects.
+
+----
+num: 9
+category: Science
+difficulty: HS
+fixed: 1
+seen: 490
+answer: blackbody
+
+Historically, it was believed that these objects could be modeled as a cavity with equally likely modes that increased with frequency. The fourth power of temperature is proportional to the flux emitted by one of these according to the Stefan-Boltzmann (STEF-on BOLTS-mon) law. They have a wavelength of maximum intensity described by Wien's (VEENZ) displacement law. The ultraviolet catastrophe describes the breakdown of the Rayleigh-Jeans Law governing radiation from these entities. For 10 points, name these objects that absorb all incoming energy.
+
+----
+num: 10
+category: Science
+difficulty: HS
+fixed: 57
+seen: 485
+answer: {entropy} [prompt on {S} before it is read]
+
+For a black hole, this quantity is given by the product of the area of that black hole with Boltzmann's constant, divided by four times the Planck length squared. Taking the negative derivative with respect to temperature of the Helmholtz free energy yields this quantity, which can be defined as Boltzmann's constant times the logarithm of the number of microstates of a system. This quantity goes to a minimum as temperature approaches absolute zero. For 10 points, the second law of thermodynamics holds that, over time for isolated systems, there is an increase in what measure of disorder, symbolized S?
+
+----
+num: 11
+category: Science
+difficulty: HS
+fixed: 57
+seen: 485
+answer: {GPU} [or {graphics processing unit}; or {video card}; or {graphics card}]
+
+These can be treated as a collection of stream processors. They often use z-buffers and they make use of framebuffers. These devices must deal with transformations, clipping, and shaders. Two popular ways of writing software that use them are OpenGL and DirectX. These devices use many small computing units to operate on vertices and pixels. For 10 points, name these components of a computer that accelerate the rendering and display of visual output.
+
+----
+num: 16
+category: Science
+difficulty: HS
+fixed: 1
+seen: 478
+answer: {Mersenne prime} numbers [prompt on {prime} before mentioned]
+
+They are the subject of Wagstaff's Conjecture. The Lucas-Lehmer test is used to find these numbers. The programs GIMPS searches for new examples of these numbers. Every even perfect number is the product of one of these numbers and a corresponding power of two. The first four of these numbers are three, seven, thirty-one, and one hundred and twenty-seven. For 10 points, identify these prime numbers of the form two to the n minus one, named for a medieval French mathematician.
+
+----
+num: 17
+category: Science
+difficulty: HS
+fixed: -1
+seen: 487
+answer: wind
+
+On the station model, this phenomenon is plotted using a barb that contains flags which show its magnitude. On a map, this phenomenon's direction is held constant along an isogon, while its speed is constant along an isotach. Near the ocean, this phenomenon changes direction at night, when the land cools faster than water. The lack of this phenomenon defines the "horse latitudes." The Beaufort Scale measures the strength of this phenomenon, the speed of which is related to damage on the Saffir-Simpson and Fujita scales. For 10 points, name this phenomenon, the movement of air on the earth's surface.
+
+----
+num: 18
+category: Science
+difficulty: HS
+fixed: 57
+seen: 492
+answer: {flagella} [or {flagellum}]
+
+Spirochetes (SPY-ro-KEATS) have modified versions of these structures known as axial filaments. In bacteria, the hook, or base of this organelle, is covered. This organelle is attached to a basal body. In eukaryotes, they are the longer of two types of structures that are composed of a "nine plus two" arrangement of microtubules. Unlike that other structure, cilia, these structures work by rotating in a clockwise or counterclockwise manner. For 10 points, name these whiplike projections that are the main method of cell motility in Euglena and sperm cells.
+
+----
+num: 19
+category: Science
+difficulty: HS
+fixed: 57
+seen: 489
+answer: {cystic fibrosis} [or {mucoviscidosis}; prompt on "{CF}"]
+
+Along with rural agenesis (ay-JEN-uh-sis), this disease accounts for a majority of the occurrences of congenital absence of the vas deferens (VOSS DEF-er-enz). This disease is most commonly caused by a deletion of three nucleotides, starting with the phenylalanine (fen-il-AL-uh-neen) at position 508, of a namesake chloride channel. This disease is diagnosed in early childhood via the noninvasive sweat test. It was first described by Dorothy Andersen, who described its characteristic pancreatic scarring. For 10 points, name this autosomal recessive genetic disease that causes a buildup of mucus in the lungs.
+
+----
+num: 20
+category: Science
+difficulty: HS
+fixed: -1
+seen: 490
+answer: logarithms [or {Napierian} logarithms; or natural logarithms]
+
+The earliest definition of this term involved the use of tens to the seventh and negative seventh and was named for John Napier. Numbers of this type are made up of an integer called the characteristic and a fraction called the mantissa. Taking this operation to the multiplication of two components is equivalent to adding the values of this operation to those components individually. The derivative of one type of this function is equal to one over x. That type is taken in the base of e and is called the natural type of this. For 10 points, name this function that is the inverse of an exponent.
+
+----
+num: 21
+category: Science
+difficulty: HS
+fixed: 1
+seen: 489
+answer: iodine
+
+This element forms a namesake cycle with sulfur whose net reactant is water and net products are hydrogen gas and oxygen gas. A hormone that includes this element is thyroxine (thy-ROX-een), which loses one atom of this element to yield its active form. Preparations of this element include Lugol's solution, and its presence in the diet prevents goiter. For 10 points, name this halogen often used as a test for starch and in a disinfecting agent, which on the periodic table appears below bromine but above astatine.
+
+----
+num: 22
+category: Science
+difficulty: HS
+fixed: -1
+seen: 480
+answer: {force} [or {net force}]
+
+In Minkowski space, this quantity equals the rate of change above the four-momentum vector with respect to proper time. The total amount of this quantity imparted on a charged particle by both the magnetic and electric fields is named for Lorentz. This quantity is equal to the time derivative of the body's momentum by Newton's Second Law. Work is equal to this quantity times distance. For 10 points, name this vector quantity measured in newtons, which equals mass times acceleration.
+
+----
+num: 25
+category: Science
+difficulty: HS
+fixed: -1
+seen: 485
+answer: cell {membrane}
+
+An outdated model for the structure of this entity was proposed by Davson and Danielli. Enzymes such as flippases ("FLIP"-"aces") move molecules within this structure. It contains glycolipids (GLY-ko-LIP-idz) such as gangliosides (GANG-lee-oh-"sides"). The fluidity of this structure is regulated by the amount of cholesterol within it. The fluid mosaic model of this structure holds that proteins and lipid rafts are embedded in a freely moving phospholipid (FOSS-fo-LIP-id) bilayer. For 10 points, name this structure that encloses the cell and separates it from the outside environment.
+
+----
+num: 26
+category: Science
+difficulty: HS
+fixed: 1
+seen: 486
+answer: lines
+
+The Sylvester-Gallai theorem gives a requirement that all items in question are upon only one of these. These objects are replaced by the idea of a geodesic on a general metric; specifically, in spherical geometry, these objects are replaced by "great circles." In coordinate geometry, these objects can be specified in slope-intercept form. Perpendicular ones intersect at an angle of ninety degrees. For 10 points, name this geometric construct defined by two points.
+
+----
+num: 27
+category: Science
+difficulty: HS
+fixed: 1
+seen: 496
+answer: Carl Friedrich {Gauss}
+
+This man proved the theorem of quadratic reciprocity. He used his formulation of least squares to accurately predict the orbit of Ceres. This mathematician discovered a compass and ruler construction for the heptadecagon. This man devised an improved proof of the fundamental theorem of arithmetic. According to a popular legend, while still in school he devised a simple formula for the sum of one through n. His name is also attached to a statistical distribution about a mean, also called the normal distribution or bell curve. For 10 points, name this German mathematician.
+
+----
+num: 29
+category: Science
+difficulty: HS
+fixed: 1
+seen: 487
+answer: {surface tension}
+
+Methods of measuring the magnitude of this effect often include the use of a platinum probe, such as a DuNouy ring or Wilhelmy plate. This phenomenon is no longer changed once the critical micelle concentration is reached. Those micelles are formed by substances that lower the strength of this effect, which are called surfactants. This effect limits the height in a container of a meniscus caused by capillary action. Bubbles form spheres according to this effect. For 10 points, name this cohesive attraction that causes a film to be created at the top of liquids, which allows some insects to walk on water.
+
+----
+num: 30
+category: Science
+difficulty: HS
+fixed: 57
+seen: 484
+answer: {mitochondria} [or {mitochondrion}]
+
+This body releases cytochrome ("SIGH"-tow-krome) c to trigger apoptosis (AY-pop-TOW-sis). The DNA found in these organelles (OR-guh-NELLZ) is passed down matrilineally (MAT-ruh-LIN-ee-uh-lee), and along with its double membrane, may be evidence for its endosymbiotic (EN-"dough"-sim-by-OTT-ick) origin. Its inner folds are called cristae (KRIS-tay), and its matrix is home to respiration reactions like glycolysis (GLY-"CALL"-ih-sis). For 10 points, name this organelle, the "powerhouse" of the cell.
+
+----
+num: 31
+category: Science
+difficulty: HS
+fixed: 1
+seen: 485
+answer: ATP [{or} adenosine triphosphate; {or} adenosine 5' (five-prime) triphosphate]
+
+The enzyme that produces this compound has segments called F0 and F1 connected by a rotating axle. This compound is converted into a cyclic signal transduction second messenger called cAMP ("camp"). The Embden-Meyerhof pathway produces two molecules of NADH and two molecules of this compound. Hydrogen ions are pumped across a gradient to produce this compound in oxidative phosphorylation (OX-ih-DAY-tive FOSS-FOR-ill-AY-shun). For 10 points, name this "energy transfer currency" of the cell, a compound that contains three phosphate groups and goes by a three-letter acronym.
+
+----
+num: 31
+category: Science
+difficulty: HS
+fixed: -1
+seen: 482
+answer: {ATP} [or {adenosine triphosphate}; or {adenosine} 5' ({five}-{prime}) {triphosphate}]
+
+The enzyme that produces this compound has segments called F0 and F1 connected by a rotating axle. This compound is converted into a cyclic signal transduction second messenger called cAMP ("camp"). The Embden-Meyerhof pathway produces two molecules of NADH and two molecules of this compound. Hydrogen ions are pumped across a gradient to produce this compound in oxidative phosphorylation (OX-ih-DAY-tive FOSS-FOR-ill-AY-shun). For 10 points, name this "energy transfer currency" of the cell, a compound that contains three phosphate groups and goes by a three-letter acronym.
+
+----
+num: 32
+category: Science
+difficulty: HS
+fixed: 57
+seen: 491
+answer: {hyphae}
+
+Monomitic systems occur when only the generative type of these structures is present. Other types of them include the elongated and thick walled skeletal type and the multi-branching binding variety. Their tips are sometimes the site of haustoria (how-STOR-ee-uh) in parasites. Those tips are the source of their expansion through an organelle known as the spitzenkorper (SPIT-zen-kor-per). Most of them are divided into cells by barriers called septa. A collection of these structures is known as a mycelium (my-SEEL-ee-um). For 10 points, name these structures that make up most of a fungus.
+
+----
+num: 33
+category: Science
+difficulty: HS
+fixed: 1
+seen: 483
+answer: malaria
+
+Drugs containing a compound called artemisinin (AR-tuh-mih-SINE-in) are used to treat this disease, whose severity is lessened in individuals with thalassaemias (THAL-uh-SEEM-ee-uhs). Those who completely lack receptor proteins called Duffy antigens are immune to one form of this disease. Individuals who are heterozygous for the mutated allele for sickle cell anemia are at far less risk for this disease. Its longtime treatment was derived from Cinchona (sin-CHO-nuh) bark. For 10 points, the parasite Plasmodium causes what disease that was once treated by quinine (KWY-nine) and is spread by mosquitoes?
+
+----
+num: 34
+category: Science
+difficulty: HS
+fixed: 1
+seen: 489
+answer: {ants} [or Formicidae until it is read]
+
+One species of these creatures, Mycocepurus smithii (MY-coh-seh-"PURE"-us "SMITH"-"e"), is cultivated by the Attini and is entirely female. The presence of a metapleural (MET-uh-PLOOR-uhl) gland, which secretes phenylacetic acid (FEN-il-uh-SEE-tic), differentiates most species of these creatures from other members of order Hymenoptera (hi-men-OP-ter-uh). These organisms of family Formicidae (for-MISS-uh-dee) often herd aphids for food and include "driver," "carpenter," and "army" varieties. For 10 points, name these insects which form underground hives occupied by soldiers, workers, and the queen.
+
+----
+num: 35
+category: Science
+difficulty: HS
+fixed: 57
+seen: 482
+answer: {glaciers} [accept {alpine glacier} or {cirque glacier} or {valley glacier} until "{moraines};" do not
+
+The movement of one type of these objects at high altitudes can create cracks called bergschrunds (BEARG-schrundts). These objects are split by the firn limit into two zones, called the zones of accumulation and ablation. When two of these objects are near each other on a mountain, they can cause the formation of an arête (ar-RET). The movement of these objects caused the formation of such geographic features as moraines. Types of them include cirque, alpine, valley, and continental. For 10 points, name these large moving masses of ice.
+
+----
+num: 38
+category: Science
+difficulty: HS
+fixed: 57
+seen: 488
+answer: {ketones}
+
+These compounds form Weinreb amides by the Wittig reaction, and varieties of these substances with alpha-hydrogen centers participate in a type of tautomerism named for these compounds and enols. Examples of these compounds include a compound with abbreviated formula Ph2CO ("P-H-TWO-C-O"), benzophenone, which like other members of this family features a carbonyl group. For 10 points, name this functional group which consists of a carbon double bonded to an oxygen and to two other carbon atoms.
+
+----
+num: 40
+category: Science
+difficulty: HS
+fixed: 57
+seen: 487
+answer: {inductors}
+
+These devices are typically used in traffic light sensors, and their impedance is proportional to angular frequency. Like resistors, when these devices are arranged in series or in parallel their strength is combined. The energy stored by these devices is proportional to one half times the current squared. The L in RLC circuits refers to these devices. These devices, which include solenoids and toroids, are represented in circuit diagrams by a coil. For 10 points, name these electrical devices that can store energy in a magnetic field.
+
+----
+num: 41
+category: Science
+difficulty: HS
+fixed: 57
+seen: 487
+answer: {Drosophila} melanogaster [or fruit fly]
+
+The gene "mothers against decapentaplegic" (DECK-uh-PEN-tuh-PLEE-jick) was discovered in this model organism. Genes such as bicoid (BI-coyd), oscar, and hunchback are important for its early development, which takes place in a syncytium. One mutant of it is eyeless. Polytene (PAHL-ee-teen) chromosomes can be found in this organism, as can P elements. Features of this organism includes bristles, ommatidia (OM-muh-TID-ee-uh), and wings. Thomas Hunt Morgan did his primary genetic research on this organism. For 10 points, name this insect model organism.
+
+----
+num: 42
+category: Science
+difficulty: HS
+fixed: 57
+seen: 486
+answer: {spleen}
+
+Though it is not the kidneys, the tissue surrounding arteries in this organ is called a Malpighian (mal-PEE-gee-uhn) body. One type of tissue in this organ is made up of Cords of Billroth. Along with the liver and bone marrow, the body stores ferritin (FAIR-it-in) bound iron in this organ. The two main types of tissue in this organ meet at the "marginal zone." Along with the thymus, this part of the lymphatic system is the only organ that contains efferent lymphatic vessels. This organ is made up of red pulp and white pulp. For 10 points, name this organ that removes old red blood cells from the blood.
+
+----
+num: 43
+category: Science
+difficulty: HS
+fixed: 1
+seen: 487
+answer: {hotspots} [or {mantle plumes}]
+
+One model for the formation of these regions was proposed by John T. Wilson. One of these regions, nicknamed the "Great Meteor," may be responsible for diamond-containing kimberlite deposits. Rhyolites (RYE-oh-lites) are formed when basaltic magma from these regions bubbles under a continental crust. One of them created the Galapagos island chain. A currently active one resulted in the formation of the Hawaiian island chain. For 10 points, name these areas on the earth's crust where very hot plumes of magma result in unusually high levels of volcanic activity.
+
+----
+num: 44
+category: Science
+difficulty: HS
+fixed: -1
+seen: 483
+answer: {double displacement} reactions [or {double replacement} reactions]
+
+An alternate name for this type of reaction is "metathesis" (muh-TATH-uh-sis). If one of the products of this kind of reaction breaks down to release a gas, it is an effervescent reaction. This type of reaction is also undergone when acids and bases are neutralized to form salts. This type of reaction differs from a redox reaction in that no reactant changes oxidation states. In the most common form of this kind of reaction, two ionic solutions are added to each other to form a precipitate. For 10 points, name this type of reaction in which portions of two reactants swap positions with each other.
+
+----
+num: 45
+category: Science
+difficulty: HS
+fixed: 57
+seen: 484
+answer: {lava} [do not accept "{magma}"]
+
+This material completely surrounds lands known as "kipuka." A landform called a tuya results when this substance is found beneath a glacier. This substance interacts with water to form the "pillow" type of it. When this substance is very liquid, it is known as pahoehoe (pa-HOY-hoy). When this material takes on a chunky consistency, it is known as aa (AH-ah). Composite, or "strato" cones, alternate between this emitting this material and expelling tephra and ash. For 10 points, name this type of molten rock, the above-ground counterpart of magma.
+
+----
+num: 46
+category: Science
+difficulty: HS
+fixed: -1
+seen: 484
+answer: gallbladder
+
+This organ is calcified in a condition named for its resemblance to porcelain, and a condition caused by an excess of cholesterol is named for this organ's resemblance to a strawberry. Like the pancreas, it is emptied through the action of the hormone cholecystokinin (COAL-uh-sis-toe-KINE-in). Its cystic duct connects with the common hepatic duct; that connection forms a duct named for a substance the liver produces but this organ stores. For 10 points, name this organ found just above the liver, whose main function is to store bile.
+
+----
+num: 47
+category: Science
+difficulty: HS
+fixed: 57
+seen: 492
+answer: {pointers}
+
+Data serialization and restoring serialized data requires these objects to be "swizzled" and "unswizzled." Nonstatic methods implement one of these called "this." Each node of a doubly linked list includes two of these, often called "next" and "previous;" the head and tail nodes have one each of these set to NULL. These objects are "dereferenced" to obtain the value at the address they indicate. For 10 points, name these variables present in many programming languages, notably C and C++, that store a memory address.
+
+----
+num: 48
+category: Science
+difficulty: HS
+fixed: 57
+seen: 484
+answer: cell {nucleus}
+
+Cajal (kuh-HALL) bodies in this structure contain scaRNAs, which direct post-transcriptional modifications of another type of RNA unique to this structure. Transport into and out of this organelle is dependent on a GTPase called Ran. Importins and exportins move proteins across this organelle's membrane. A smaller organelle within this one is the site of ribosome (RYE-bo-some) production. This organelle is surrounded by a membrane known as its "envelope," which breaks down and disintegrates during prophase. For 10 points, name this organelle that contains much of a cell's genetic material.
+
+----
+num: 49
+category: Science
+difficulty: HS
+fixed: 57
+seen: 481
+answer: {limit}
+
+In complete metric spaces, Cauchy sequences always have one of these. Those of a function can be found using the sandwich theorem and a typical definition is that for some delta region around x, f(x) will be within some epsilon region. A technique for finding indeterminate ones of functions of form f(x)/g(x) c uses the ratio of the respective derivatives and is better known as L'Hôpital's rule. These are often used to give define derivatives. For 10 points, name this concept often given as the value of a function as it approaches a certain point.
+
+----
+num: 50
+category: Science
+difficulty: HS
+fixed: -1
+seen: 485
+answer: ideal gases [prompt on gases]
+
+One problem concerning the substances is solved using the Sackur-Tetrode equation and is presented in the Gibbs paradox. The law named for these substances is not effective when dealing with high pressures or low temperatures. That law is a combination of laws named for Charles and Boyle. These substances are assumed to have no attractions between themselves, and have completely elastic collisions. For 10 points, name this hypothetical form of a phase of matter, which is modeled by its same named equation of PV=nRT ("P-V equals N-R-T").
+
+----
+num: 51
+category: Science
+difficulty: HS
+fixed: None
+seen: 486
+answer: {stratigraphy} [prompt on {geology}]
+
+The Harris Matrix makes use of the laws of this scientific field. This field was advanced by the laws of Nicholas Steno, who theorized that assuming original horizontality and lateral continuity were important in this field. Terms in this field include "anticline" and "sincline." The first work in this field was the Law of Superposition, which assumed that the oldest material was on the bottom and the youngest material was on top. The iridium-rich K-T boundary was discovered using this discipline. For 10 points, name this branch of geology, the study of layers of rock.
+
+----
+num: 52
+category: Science
+difficulty: HS
+fixed: 57
+seen: 484
+answer: {redox} reactions [or {oxidation}-{reduction} reactions before "{reduction}"; or {reduction}-{oxidation}
+
+Free radicals act as messengers in the namesake "signaling" of these reactions. Disproportionation (DIS-pro-por-shun-AY-shun) reactions occur when different atoms of the same element undergo both half-reactions of this class of reactions. The two half-reactions which make up these reactions take place in the two half-cells of an electrochemical (ee-LECK-tro-KEM-ih-kul) cell. For 10 points, name this class of reactions which involve a change in oxidation number, named for the fact that they consist of reduction and oxidation.
+
+----
+num: 54
+category: Science
+difficulty: HS
+fixed: -1
+seen: 486
+answer: data {types}
+
+Python employs the "duck" way of determining these constructs. C++ can use RTTI to determine these at runtime as a form of introspection, and C++ uses templates in a similar fashion to "generic" ones. Programming languages can be classified by having static, dynamic, strong, or weak systems of these. If built into a language they can be called "primitive," while object-oriented programming allows the programmer to implement new ones. For 10 points, name these programming constructs which include characters, bools, integers, floats, and strings.
+
+----
+num: 56
+category: Science
+difficulty: HS
+fixed: 57
+seen: 488
+answer: {crystals} [prompt on {lattices}; accept {crystal lattices}]
+
+The Czochralski (cho-KROLL-skee) technique is a way of synthetically making these. The intercepts of the axes of the structure of these can be used to determine their Miller indices, and fourteen structures named for Bravais (bruh-VAY) can be used to describe these. The packing factor of these indicates the percent of space used by matter. Their structure can be classified using terms like orthorhombic (OR-tho-ROM-bick), monoclinic, and face-centered cubic. For 10 points, name these solids made of repeating patterns of atoms or molecules, examples of which include ice and quartz.
+
+----
+num: 58
+category: Science
+difficulty: HS
+fixed: 57
+seen: 483
+answer: {Cnidaria} ({ni}-{DARE}-{ee}-{uh})
+
+One class of this phylum is distinguished by the presence of a pharynx that opens into the gastrovascular (GAS-tro-VAS-kyoo-lurr) cavity and is known as the actinopharynx (ack-TIN-o-FAIR-inks). One member of this phylum, Chironex fleckeri (KY-ro-nex FLECK-er-eye), is in the class Cubozoa (CUBE-oh-ZO-uh). Its class Anthozoa (AN-tho-ZO-uh) contains corals. Organisms in this phylum are characterized by stinging cells known as nematocytes (nuh-MAT-oh-sites) and grow from a polyp to a medusa. For 10 points, what marine phylum includes sea anemone, hydra, and jellyfish?
+
+----
+num: 59
+category: Science
+difficulty: HS
+fixed: -1
+seen: 483
+answer: {Hess's} Law
+
+This statement is invoked in the Born-Haber (BORN HAW-ber) cycle. This statement follows from the fact that the quantity it concerns is a state function, and therefore its value is independent of the system's trajectory. This statement is often framed in terms of the heats of formation of reactants and products. For 10 points, name this statement of thermodynamics that suggests that a reaction's enthalpy change is equal to the sum of the enthalpy changes of each step.
+
+----
+num: 63
+category: Science
+difficulty: HS
+fixed: -1
+seen: 490
+answer: {water} [accept {groundwater}; or {underground water}; or {H2O}; or other reasonable equivalents]
+
+This substance is assumed to have vertical equipotential lines in order to simplify solutions to an equation for its movement. That assumption named for Dupoit is invoked along with Darcy's law to explain this substance's movement. Pockets of air are found alongside it in the vadose zone. It is present in any bedrock pore in the phreatic zone. Structures that contain it can emit it spontaneously if its namesake "table" is above ground level. This substance flows freely from artesian wells. For 10 points, name this substance, which is found in porous rock in aquifers.
+
+----
+num: 64
+category: Science
+difficulty: HS
+fixed: 57
+seen: 488
+answer: {neurons}
+
+Early development of some of these cells are guided by netrin (NET-rin) and semaphorin (SEM-uh-FOR-in) proteins. Historically, reticular (RET-ick-YU-lar) theory contrasted with these cells' namesake doctrine. Examples of these cells include pyramidal cells and Purkinje (pur-KIN-jee) cells. The cell body of one of these cells is known as the soma, and a "hillock" in these cells generates an action potential, which is propagated down the axon. For 10 points, name these cells of the nervous system.
+
+----
+num: 65
+category: Science
+difficulty: HS
+fixed: 1
+seen: 494
+answer: graphs
+
+The Havel-Hakimi theorem gives the conditions for a sequence to correspond to one of these. Ramsey's theorem deals with the coloring of complete ones. They can occur in undirected and directed forms, the latter of which gives a direction to one of their components. Hamilton and Euler (OY-ler) name cycles in these; Euler's is used in the Seven Bridges of Konigsberg Problem, which launched the study of them. For 10 points, name these mathematical objects made of vertices and edges.
+
+----
+num: 67
+category: Science
+difficulty: HS
+fixed: 57
+seen: 480
+answer: {erosion}
+
+Some models of this process have a LS factor, and the most common model for it is the revised USLE. This process comes in sheet, rill, and gully forms. It opposes orogeny and loosens the ped structure. The products of this process can undergo deposition. Fluvial, aeolian, and glacial processes cause this process, which can be increased by a lack of vegetation. It is similar to, but not the same as, the related concept of weathering. For 10 points, name this process by which materials such as soil are moved, such as when a stream wears down its banks.
+
+----
+num: 71
+category: Science
+difficulty: HS
+fixed: -1
+seen: 486
+answer: {Ampere's} Law
+
+This law's integral and differential forms can be related by the Kelvin-Stokes Theorem. The original formulation of this law broke the rule that the divergence of a curl must be zero; that flaw was corrected with the addition of a displacement current by James Maxwell. In cases with the requisite symmetry, this law is used in place of the more cumbersome Biot-Savart (BEE-oh suh-VAR) Law. For 10 points, name this law that states that the line integral of the magnetic field around a closed loop is proportional to the current passing through it.
+
+----
+num: 72
+category: Science
+difficulty: HS
+fixed: 57
+seen: 490
+answer: two [accept {2}]
+
+This is the number of variables that the Ackermann function takes. Euler's formula states that the number of vertices, minus the number of edges, plus the number of faces of any convex polyhedron is equal to this number. This is the only number for which the reciprocals of its powers sum to the number itself. This is the highest number x at which a to the x plus b to the x can equal c to the x, according to Fermat's Last Theorem. It is the third number in the Fibonacci series. For 10 points, name this number, the only even prime.

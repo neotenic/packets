@@ -1,0 +1,192 @@
+####
+tournament: Question Set C
+round: Round-15C.pdf
+####
+
+num: 3
+category: Biology
+difficulty: HS
+seen: 42
+answer: Sodium  (Accept:  Na+)
+
+What elemental ion is MOST commonly excreted in large amounts if the human adrenals are producing low levels of corticosteroid?
+
+----
+num: 4
+category: Math
+difficulty: HS
+seen: 25
+answer: π
+2
+
+Solve the following trigonometric equation for x, giving your answer in radians such that 0 ≤ x < 2π: sin^2 x + sin x – 2 = 0
+
+----
+num: 6
+category: General Science
+difficulty: HS
+seen: 31
+answer: Shistosomiasis
+
+In Africa it is estimated that about 200 million people are infected with what water -borne parasitic disease known as Bilharzia?
+
+----
+num: 8
+category: Physics
+difficulty: HS
+seen: 26
+answer: 75
+(Solution:  30º – 0º = 30º; 30º × 0.0025 = 0.075 × 10m = 0.75m = 75cm)
+
+A metal alloy beam 10-meters long expands in length at 0.25% per kelvin at temperatures about room temperature. If the beam is heated from 0ºC to 30ºC, how many centimeters will it increase in length?
+
+----
+num: 10
+category: Biology
+difficulty: HS
+seen: 41
+answer: Allolactose
+
+What molecule in the lac operon exerts its control by inactivating the repressor?
+
+----
+num: 11
+category: Math
+difficulty: HS
+seen: 26
+answer: (X – 12)^2 + (Y – 7)^2 = 16
+
+Giving your answer in standard form, give the equation of a circle with center at (12, 7) and a radius of 4:
+
+----
+num: 11
+category: Math
+difficulty: HS
+seen: 27
+answer: 24 and  –24
+(Solution:  B^2 - 4ac = 0;  K^2 – 4(16)(9) = 0;  K^2 = 576;  K = 24, -24)
+
+Find every value of k such that the following equation has exactly one real number root: 16x^2 + kx + 9 = 0
+
+----
+num: 15
+category: General Science
+difficulty: HS
+seen: 30
+answer: The Earth Simulator
+
+What is the name of the hybrid super computer in 
+Yokohama, Japan, specifically designed for atmospheric modeling calculations?
+
+----
+num: 20
+category: Biology
+difficulty: HS
+seen: 42
+answer: 4800
+(Solution: Cardiac Output  60 × 80 = 4800)
+
+In a human heart, if the end diastolic volume is a constant 30 cubic centimeters and the heart rate is a constant 60 beats per minute, what is the cardiac output, in milliliters, if the stroke volume is 80 milliliters?
+
+----
+num: 21
+category: Astronomy
+difficulty: HS
+seen: 55
+answer: Ultraviolet  (Accept:  Uv)
+
+In what region of the electromagnetic spectrum is a supernova most commonly detected?
+
+----
+num: 21
+category: Astronomy
+difficulty: HS
+seen: 54
+answer: Photosphere;  Chromosphere;  Corona
+
+What are the 3 general layers of the Sun’s atmosphere from 
+INNERMOST to OUTERMOST?
+
+----
+num: 22
+category: Physics
+difficulty: HS
+seen: 26
+answer: 524 and 786
+
+What are the respective frequencies of the second and third harmonics of a string w ith a fundamental frequency of 262 hertz?
+
+----
+num: 22
+category: Physics
+difficulty: HS
+fixed: -1
+seen: 26
+answer: A One-Inch-Diameter O-Ring;  a Quarter;  a Three-Quarter Inch-
+Diameter Marble
+
+Assuming that they roll without sliding, order the following 3 objects from the one with the SMALLEST rotational velocity down an arbitrarily long inclined plane to the one with the LARGEST, after 5 seconds: a one-inch-diameter o-ring; a three-quarter inch-diameter marble; a quarter
+
+----
+num: 23
+category: Chemistry
+difficulty: HS
+seen: 34
+answer: Hund’s Rule  (Accept:  Hund’s Rule of Maximum Multiplicity)
+
+What rule states that electrons occupy all the orbitals of a given subshell singly before pairing begins and that these unpaired electrons have parallel spins?
+
+----
+num: 23
+category: Chemistry
+difficulty: HS
+seen: 34
+answer: [Ar]4s^23d^104p^1 (Accept:  [Ar]3d^104s^24p^1 or 4s^23d^104p^1 or 3d^104s^24p^1)
+
+Knowing that gallium is in group 13 and Period 4, give the simplified ground-state electron configuration, starting with the last filled noble gas configuration of argon:
+
+----
+num: 24
+category: Biology
+difficulty: HS
+fixed: -1
+seen: 37
+answer: Chromosomes = 2;  Chromatids = 4
+
+A tetrad in prophase one of meiosis has how many chromosomes and chromatids, respectively?
+
+----
+num: 24
+category: Biology
+difficulty: HS
+seen: 37
+answer: Acetyl Coa  (Accept:  Acetyl Co-Enzyme A)
+
+In beta oxidation of fats, long-chain hydrocarbon fatty acids feed into the Krebs cycle most commonly via what central molecule of glucose metabolism?
+
+----
+num: 25
+category: Chemistry
+difficulty: HS
+seen: 33
+answer: Glycine
+
+What is the only amino acid that is not optically active?
+
+----
+num: 25
+category: Chemistry
+difficulty: HS
+seen: 35
+answer: 22
+(Solution:  P
+^1v
+^1 = P
+^2v
+^2;  (24atm)(6l) = (P
+^N2)(8l) = 18atm; (16atm)(2l) = (P
+^O2)(8l) = 4atm;  P
+^Total 
+= 18 + 4 = 22atm)
+
+Consider two tanks that are connected by a closed valve. Tank A contains 6 liters of nitrogen gas at a pressure of 24 atmospheres and tank B contains 2 liters of oxygen gas at a pressure of 16 atmospheres. If the temperature is constant and the valve is opened, what is the pressure, in atmospheres, of the gas mixture at equilibrium?

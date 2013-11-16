@@ -1,0 +1,233 @@
+####
+tournament: Web Sample
+round: m_round02.pdf
+####
+
+num: 2
+category: Earth Science
+difficulty: MS
+answer: W)  Trilobite
+
+Which of the following fossils is the oldest:
+W) trilobite
+X) snake
+Y) petrified wood
+Z) megalodon tooth
+
+----
+num: 4
+category: General Science
+difficulty: MS
+answer: Z)  Concussion
+
+Which of the following can sometimes result after a moderate to severe blow to the head:
+W) Down syndrome
+X) meningitis
+Y) impetigo
+Z) concussion
+
+----
+num: 5
+category: Life Science
+difficulty: MS
+answer: Y)  Glucose
+
+Which of the following is the most common source of energy for brain cells in humans:
+W) nucleic acids
+X) proteins
+Y) glucose 
+Z) pectins
+
+----
+num: 6
+category: Physical Science
+difficulty: MS
+answer: X)  Friction
+
+Which of the following most directly contr ibutes to the actual mechanical advantage always being less than the ideal mechanical advantage:
+W) the basic design of any machine
+X) friction
+Y) how simple machines are combined
+Z) the input distance always being less than the output distance
+
+----
+num: 7
+category: Earth Science
+difficulty: MS
+answer: Y)  Basalt
+
+Which of the following is NOT a mineral:
+W) quartz
+X) topaz
+Y) basalt
+Z) diamond
+
+----
+num: 7
+category: Earth Science
+difficulty: MS
+answer: X)  the Inner Core
+
+Which of the following is the hottest regi on of planet Earth:
+W) the mantle 
+X) the inner core
+Y) the outer core
+Z) the crust
+
+----
+num: 11
+category: Physical Science
+difficulty: MS
+answer: X)  a Solid at Room Temperature
+
+If a chimpanzee were to throw darts at a Periodic 
+Table, he would most likely hit an element with which of the following characteristics:
+W) a naturally radioactive element
+X) a solid at room temperature 
+Y) a gas at room temperature
+Z) a liquid at room temperature
+
+----
+num: 11
+category: Physical Science
+difficulty: MS
+answer: Z)   4 Kilograms of Iron
+
+Which of the following has the most inertia:
+W) 1 kilogram of iron
+X) 2 kilograms of flour
+Y) 5 newtons of iron
+Z) 4 kilograms of iron
+
+----
+num: 12
+category: Earth Science
+difficulty: MS
+answer: X)  Rain Percolating Through Limestone
+
+Which of the following is the BEST example of the chemical weathering of rock:
+W) cracking of rock by plant roots
+X) rain percolating through limestone
+Y) frost action 
+Z) abrasion
+
+----
+num: 13
+category: Math
+difficulty: MS
+answer: X)  Sub Traction
+
+Minuends and subtrahends are used in which of the following mathematical operations:
+W) addition
+X) subtraction
+Y) multiplication
+Z) division
+
+----
+num: 14
+category: General Science
+difficulty: MS
+answer: W)  Fluoride
+
+Which of the following is a product found in most toothpastes for the purpose of making the teeth more resistant to decay by promoting remineral ization:
+W) fluoride 
+X) melamine
+Y) titanium dioxide
+Z) diethylene glycol
+
+----
+num: 16
+category: Physical Science
+difficulty: MS
+answer: Y)  as More Pigments Are Mixed, the Darker the Resulting 
+Mixture Becomes
+
+Which of the following is TRUE regarding mixing pigments:
+W) violet is typically considered a primary color for pigments
+X) only primary pigment colors can be mixed to give other colors
+Y) as more pigments are mixed , the darker the resulting mixture becomes
+Z) magenta and cyan are complementary pigment colors
+
+----
+num: 17
+category: Earth Science
+difficulty: MS
+answer: Y)  Color
+
+Which of the following is often the LEAST reliable property of a mineral that is used in mineral identification:
+W) magnetism
+X) specific gravity
+Y) color 
+Z) cleavage
+
+----
+num: 17
+category: Earth Science
+difficulty: MS
+answer: Z)  Brown
+
+Which of the following terms best describes the streak o f a mineral:
+W) wavy
+X) tabular
+Y) translucent
+Z) brown
+
+----
+num: 19
+category: General Science
+difficulty: MS
+answer: Z)  Tributary
+
+Which of the following best describes a smaller stream that merges with a larger stream:
+W) delta
+X) rip-rap
+Y) streamer
+Z ) tributary
+
+----
+num: 19
+category: General Science
+difficulty: MS
+answer: W)  an Oil -Producing Gland
+
+Which of the following is a structural adaptation of ducks that is most helpful in keeping them dry:
+W) an oil-producing gland
+X) hollow fur
+Y) darkly colored plumage
+Z) ability to float
+
+----
+num: 20
+category: Life Science
+difficulty: MS
+answer: Y)  Ab Le to Move
+
+Which of the following is the closest synonym for motile:
+W) having a motor
+X) using energy
+Y) able to move
+Z) living in water
+
+----
+num: 20
+category: Life Science
+difficulty: MS
+answer: X)  Bacillus
+
+Which of the following terms is used by microbiologists for a bacterium with a rod shape:
+W) tubular
+X) bacillus
+Y) trichome
+Z) cylindrical
+
+----
+num: 24
+category: General Science
+difficulty: MS
+answer: W)  Automobiles
+
+The lead-acid battery is most commonly found in:
+W) automobiles
+X) cell phones
+Y) flashlights
+Z) laptop computers

@@ -1,0 +1,537 @@
+####
+tournament: Sample Set 5
+round: Round7.pdf
+####
+
+num: 1
+category: Earth and Space
+difficulty: HS
+seen: 46
+answer: Coronagraph  (Accept: Solar Coronagraph)
+
+What is the general name of an instrument designed to observe the extremely faint emissions from the region around the Sun in the absence of a solar eclipse?
+
+----
+num: 1
+category: Earth and Space
+difficulty: HS
+seen: 49
+answer: Ice Core
+
+
+What climate proxy can paleoclimate researchers use to provide an uninterrupted climate record extending back hundreds of thousands of years, including information such as temperature, precipitation, chemistry, volcanic eruptions, and other climate indicators?
+
+----
+num: 2
+category: Physics
+difficulty: HS
+seen: 27
+answer: 870
+
+The pressure of an ideal gas is kept constant while the volume of the gas is increased from 2 cubic meters to 6 cubic meters. If the initial temperature is 17° 
+Celsius, find the final temperature in Kelvin to the nearest integer.
+
+----
+num: 2
+category: Physics
+difficulty: HS
+seen: 29
+answer: 2, 3 , and 4
+
+By number, identify all of the following four groups of physical quantities that have the same units: 1) electric flux, electric field, and electric dipole moment; 2) heat, potential energy, and work; 3) pressure, stress, and Young’s modulus; 4) electromotive force, potential difference, and electric voltage.
+
+----
+num: 2
+category: Physical Science
+difficulty: MS
+seen: 5
+answer: Perchlorate
+
+What is the name of the ClO ^4^− (read as: C-L-O-4 minus) ion?
+
+----
+num: 2
+category: Physical Science
+difficulty: MS
+seen: 6
+answer: 5
+
+What is the ideal mechanical advantage of an 18 -centimeter lever if the fulcrum is located 3 centimeters from the resistance?
+
+----
+num: 3
+category: Earth and Space
+difficulty: HS
+fixed: -1
+seen: 49
+answer: Till
+
+What is the name of unsorted sediment that is directly deposited by glaciers?
+
+----
+num: 3
+category: Earth and Space
+difficulty: HS
+fixed: -1
+seen: 50
+answer: Cloud Condensation Nuclei (Accept: Ccn , Condensation Nuclei, 
+Nuclei)
+
+
+What is the name for hygroscopic atmospheric particles on which water vapor condenses to form clouds?
+
+----
+num: 3
+category: Earth and Space Science
+difficulty: MS
+seen: 6
+answer: Convection
+
+
+Hadley and Ferrel atmospheric cells are the result of what kind of heat transport?
+
+----
+num: 4
+category: Energy
+difficulty: HS
+seen: 34
+answer: -277,500; Spontaneous
+[Note: Read (G) as Gaseous; ( L) = Liquid]
+
+Given the reaction C^3H^8(g) + 5O^2(g) → (read as: yields) 4H^2O^(^) + 3CO^2(g) occurs at room temperature with a change in enthalpy of -290,000 joules and change ^lin entropy of -110 joules per Kelvin, what is the delta G in joules for this reaction and is the reaction spontaneous?
+
+----
+num: 4
+category: Energy
+difficulty: MS
+seen: 7
+answer: Chemiluminescence
+
+What is the general name of the process through which light is generated from a chemical reaction without the release of significant heat energy?
+
+----
+num: 5
+category: Life Science
+difficulty: MS
+seen: 11
+answer: White Blood Cell
+
+Which type of cell becomes cancerous in people who develop leukemia?
+
+----
+num: 5
+category: Life Science
+difficulty: MS
+seen: 10
+answer: Oxygen, Carbon, Hydrogen,  Nitrogen, and Phosphorus
+
+
+What are the five most common chemical elements of living biological matter?
+
+----
+num: 6
+category: Math
+difficulty: HS
+seen: 26
+answer: -1/2
+
+Suppose that g is the inverse function of f, f(-1) = 2 (read as: f of negative 1 equals 2), and f’(-1) = -2 (read as: f prime of negative 1 equals negative 2). Find g’(2) (read as: g prime of 2).
+
+----
+num: 6
+category: Math
+difficulty: MS
+seen: 6
+answer: 55
+
+Frodo drove 250 miles at an average speed of 50 miles per hour , and the remaining 360 miles at an aver age speed of 60 miles per hour. To the nearest integer, what was his average speed in miles per hour for the entire trip?
+
+----
+num: 7
+category: Life Science
+difficulty: MS
+seen: 10
+answer: Cocci
+
+What term is used to describe sphere-shaped bacteria?
+
+----
+num: 7
+category: Life Science
+difficulty: MS
+seen: 10
+answer: Bacteriophages Do Not Infect Humans (Accept: Bacteriophages 
+Only Infect Prokaryotes)
+ _
+
+Why are there no human vaccines against bacteriophages(read as: bahk -TIR-ee-oh-fay-jehs)?
+
+----
+num: 8
+category: Energy
+difficulty: MS
+seen: 6
+answer: Potassium, Uranium , and Thorium
+
+Aside from the residual heat generated from the formation of Earth ,what three principle radioactive elements are thought to be the main sources of heat within 
+Earth’s interior?
+
+----
+num: 9
+category: Physics
+difficulty: HS
+seen: 25
+answer: It Is Attracted (Accept: 1)
+
+By name or number, identify how antimatter interacts gravitationally with ordinary matter: 1) it is attracted, 2) it is repelled, or 3) there is no interaction.
+
+----
+num: 9
+category: Physics
+difficulty: HS
+seen: 26
+answer: 4,500,000
+
+
+A solid conducting sphere with a radius of 5 centimeters has a charge of 5 microcoulombs. Given Coulomb’s constant as 9.0 × 10^9 newton meters squared per coulomb squared, what is the magnitude of the electric field in newtons per coulomb at a distance of 5 centimeters from the surface of the sphere?
+
+----
+num: 9
+category: Physical Science
+difficulty: MS
+seen: 5
+answer: 4
+
+What is the maximum number of bonds a carbon atom can form?
+
+----
+num: 10
+category: Biology
+difficulty: HS
+seen: 38
+answer: Turtles, Goldfish , and Beetles (Accept: 1, 2 , and 4)
+
+By name or number, identify all of the following four animals that are ectotherms: 1) turtles, 2) goldfish, 3) otters, 4) beetles.
+
+----
+num: 10
+category: Life Science
+difficulty: MS
+seen: 11
+answer: Water Vascular System
+
+What is the name of the network responsible for echinoderm (read as: ee-KY-neh-dehrm) movement?
+
+----
+num: 11
+category: Math
+difficulty: HS
+seen: 24
+answer: -4x^2 + 8x + 3
+
+
+If f(x) = 2x – 1 and g(x) = 6 + 2x – x^2, what is the standard polynomial form for g(f(x)) (read as: g of f of x)?
+
+----
+num: 11
+category: Math
+difficulty: MS
+seen: 6
+answer: Euclid
+
+Give the name of the Greek mathematician, often referred to as the father of geometry, who deduced geometrical principles based upon postulates such as, “it is possible to draw a straight line from any point to any other point .”
+
+----
+num: 11
+category: Math
+difficulty: MS
+fixed: -1
+seen: 6
+answer: 20
+
+
+A committee of 3 is to be formed from a group of 6 people. How many different committees are possible?
+
+----
+num: 12
+category: Chemistry
+difficulty: HS
+seen: 35
+answer: 1 X 10 ^−^18
+
+In scientific notation, one attojoule is equal to how many joules?
+
+----
+num: 12
+category: Chemistry
+difficulty: HS
+seen: 34
+answer: Lead (Ii) Carbonate (Do Not Accept: Plumbous Carbonate, Lead 
+Carbonate)
+
+What is the IUPAC name of the compound PbCO ^3?
+
+----
+num: 13
+category: Earth and Space
+difficulty: HS
+seen: 46
+answer: California
+
+
+According to records kept since 1897, the all-time record snow depth in the U.S. was 451 inches in 1911. In which state did this record occur?
+
+----
+num: 13
+category: Earth and Space Science
+difficulty: MS
+seen: 5
+answer: Cleavage
+
+What is the term for breakage along planes of weak bonding that produces distinctive, smooth, flat surfaces?
+
+----
+num: 13
+category: Earth and Space Science
+difficulty: MS
+seen: 7
+answer: Hydrogen, Helium, and Methane
+
+
+What are the three gases that primarily compose Uranus’s atmosphere?
+
+----
+num: 14
+category: General Science
+difficulty: MS
+seen: 6
+answer: First
+
+A see-saw is an example of what class of lever?
+
+----
+num: 15
+category: Biology
+difficulty: HS
+fixed: -1
+seen: 39
+answer: 4
+
+
+How many pairs of chromosomes does a fruit fly have?
+
+----
+num: 15
+category: Life Science
+difficulty: MS
+seen: 10
+answer: Aug (Do Not Accept: Atg)
+
+What is always the RNA start codon, where translation begins?
+
+----
+num: 15
+category: Life Science
+difficulty: MS
+seen: 11
+answer: Photosynthesis 
+
+
+When exposed to unfavorable environmental conditions, coral loses its symbiont zooxanthella (read as: zoo-zahn-THEH-lah), a condition known as “bleaching.” Name the process, beneficial to the coral as a whole, for which zooxanthella (read as: zoo -zahn-THEH-lah) are responsible.
+
+----
+num: 16
+category: Chemistry
+difficulty: HS
+seen: 34
+answer: Ethylene (Accept: Ethene)
+
+Plastics with the recycling symbols of 2 and 4, such as those used to make plastic bags, are produced from what monomer?
+
+----
+num: 16
+category: General Science
+difficulty: MS
+seen: 5
+answer: 72
+
+In a reaction that runs to completion, 3 moles of substance A react with 5 moles of substance B to create 2 moles of substance C. To create 18 moles of substance C, what is the total number of moles of reactants required?
+
+----
+num: 17
+category: Math
+difficulty: HS
+seen: 26
+answer: 720
+
+In how many different ways can a president, vice president, and secretary be elected in a club of 10 members if no one may hold more than one office?
+
+----
+num: 17
+category: Math
+difficulty: HS
+fixed: -1
+seen: 24
+answer: 4.3
+
+
+Assuming that log 2 = 0.7 and log 3 = 1.1, find the value of log 72 tothe nearest tenth.
+
+----
+num: 17
+category: Math
+difficulty: MS
+seen: 7
+answer: 97
+
+What is the largest two-digit prime number?
+
+----
+num: 18
+category: Physics
+difficulty: HS
+seen: 25
+answer: 1000
+
+Once a rocket’s fuel runs out, it coasts upwards for another 50 kilometers before falling back to Earth. Given g as 10 meters per second squared, what was the rocket’s vertical velocity in meters per second the moment the fuel ran out?
+
+----
+num: 18
+category: Physical Science
+difficulty: MS
+seen: 5
+answer: Precipitate
+
+What is the term for an insoluble product that is formed in a chemical reaction as a result of combining two liquids?
+
+----
+num: 18
+category: Physical Science
+difficulty: MS
+seen: 6
+answer: Brittle, Dull , and Insulating
+
+Name three properties of non-metals that correspond, respectively, to the following properties of metals: malleable, shiny , and conducting.
+
+----
+num: 19
+category: Life Science
+difficulty: MS
+seen: 9
+answer: Exoskeleton
+
+Lobsters and centipedes have jointed appendages and are both classified as arthropods. What defining characteristic, shared by all arthropods, provides a protective function but limits growth and flexibility ?
+
+----
+num: 20
+category: General Science
+difficulty: MS
+seen: 6
+answer: 2.4
+
+Object 1 has a mass of 3 kilograms and moves across a frictionless surface at a velocity of 4 meters per second. Object 1 then strikes object 2, which has a mass of 2 kilograms and was motionless prior to the collision. The collision is completely inelastic. Providing your answer as a decimal to the nearest tenth, what is the speed of object 2 after the collision, in meters per second?
+
+----
+num: 21
+category: Physics
+difficulty: HS
+seen: 25
+answer: 0.01
+
+
+If an earplug decreases the sound level of sound waves by 20 decibels, providing your answer as a decimal to the nearest hundredth, what is the ratio of the final intensity of the waves to their initial intensity?
+
+----
+num: 21
+category: Physical Science
+difficulty: MS
+seen: 5
+answer: Marie Curie (Do Not Accept: Curie)
+
+What scientist received the Nobel Prize for perfecting a t echnique for refining uranium?
+
+----
+num: 22
+category: Earth and Space
+difficulty: HS
+seen: 46
+answer: 2 and 3
+
+By number, identify all of the following five choices that will allow greater resolution for a radio telescope: 1) lower noise temperature, 2) larger diameter, 
+3) longer baseline , 4) adaptive optics system, 5) larger brightness temperature of the source.
+
+----
+num: 22
+category: Earth and Space Science
+difficulty: MS
+seen: 7
+answer: Divergent, Convergent, and Transform
+
+Name the three types of tectonic plate boundaries.
+
+----
+num: 23
+category: Physics
+difficulty: HS
+seen: 24
+answer: 300
+
+A worker pushes a crate across the floor with a force of 50 newtons for a distance of 10 meters. If a frictional force of 20 newtons acts on the crate, what is the net work, in joules, done on the crate?
+
+----
+num: 23
+category: Physics
+difficulty: HS
+seen: 27
+answer: 0.41
+
+
+A horizontal force of 200 newtons is used to push a 50 kilogram box 10 meters across a floor at constant speed. Given 9.8 meters per second squared as g and providing your answer as a decimal to the nearest hundredth, what is the coefficient of kinetic friction between the box and the floor?
+
+----
+num: 23
+category: Physical Science
+difficulty: MS
+seen: 5
+answer: 0.002
+
+
+When subjected to a potential difference of 100 volts, a certain capacitor builds up a charge on one plate of 0.2 coulombs. Providing your answer as a decimal to the nearest thousandth, what is this capacitor' s capacitance in farads?
+
+----
+num: 24
+category: Energy
+difficulty: HS
+seen: 34
+answer: 9.3
+
+An electronic device operates on a 1.5 volt battery with a resistance of 10 ohms. If the initial capacity of this battery is 1400 milliampere -hours, and providing your answer as a decimal to the nearest tenth, for how many hours of continuous use could this device operate?
+
+----
+num: 24
+category: Energy
+difficulty: MS
+seen: 6
+answer: Ammonium Nitrate
+
+The 1947 Texas City disaster, the deadliest industrial accident in the United States, was caused by the detonation of what chemical compound, often used as an oxidizing agent in explosives?
+
+----
+num: 25
+category: Math
+difficulty: HS
+fixed: -1
+seen: 26
+answer: 5/32
+
+If a family has 5 children, what is the probability that there are 4 girls and 1 boy?
+
+----
+num: 25
+category: Math
+difficulty: MS
+seen: 6
+answer: X = -1 or X = 5
+^[ ^Note: Students Must Give  ^Both Answers]^
+
+Solve the equation | x − 2| = 3 (read as: the absolute value of the quantity x minus 2 equals 3).

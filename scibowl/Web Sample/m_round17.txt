@@ -1,0 +1,223 @@
+####
+tournament: Web Sample
+round: m_round17.pdf
+####
+
+num: 2
+category: Earth Science
+difficulty: MS
+seen: 8
+answer: Frontal Wedging
+(Solution: Frontal Wedging Is a Meteorological Term, Others Are Glacial Terms)
+
+Which one of the following 4 terms does n ot belong with the others: zone of accumulation; zone of wastage; snow line; frontal wedging
+
+----
+num: 3
+category: Math
+difficulty: MS
+fixed: -1
+seen: 6
+answer: 25.6
+
+Giving your answer rounded to the 1^st decimal place , find the 9^th term in the geometric sequence with first three terms : 0.1, 0.2, 0.4...
+
+----
+num: 5
+category: Life Science
+difficulty: MS
+seen: 11
+answer: Hemoglobin;  Insulin;  Dna Polymerase
+(Accept:  All but Collagen)
+(Solution: Structural Proteins Are Generally Insoluble. Globular Proteins, Which Include Enzymes, Are 
+soluble...any Protein With an “Ase” Suffix Is Typically an Enzyme)
+
+Name all of the following 4 proteins that are soluble in water: collagen; hemoglobin; insulin; DNA polymerase
+
+----
+num: 6
+category: Physical Science
+difficulty: MS
+seen: 5
+answer: 3
+
+What is the maximum number of covalent bonds between any 2 carbon atoms?
+
+----
+num: 6
+category: Physical Science
+difficulty: MS
+seen: 6
+answer: 72
+(Solution: (600 G/cm^3)(3 Cm × 4 Cm × 10 Cm)(1 Kg/1000 G) = 72 Kg)
+
+The density of an organic solvent is 600 grams per milliliter . What is the mass, in kilograms, of the solvent if it fills a container that measur es 3 centimeters by 4 centimeters by 10 centimeters?
+
+----
+num: 9
+category: General Science
+difficulty: MS
+seen: 6
+answer: A
+
+Giving your answer as A, B, C, or D, what is a fat-soluble vitamin that is a central component for healthy vision and is important in the transduction of light to the retina, sometimes referred to as “night -vision”?
+
+----
+num: 12
+category: General Science
+difficulty: MS
+seen: 7
+answer: 5
+
+Rounded to the nearest whole number, how many degrees is the Moon inclined with respect to the orbit of the Earth about the Sun?
+
+----
+num: 14
+category: Math
+difficulty: MS
+seen: 6
+answer: 24
+
+Paul is getting dressed for graduation. He has 2 choices of pants, 3 choices of shirts, and 4 choices of shoes. How many different war drobes consisting of pants, shirts and shoes are possible?
+
+----
+num: 16
+category: Physical Science
+difficulty: MS
+seen: 5
+answer: 1 and 3
+
+By words or numbers, name all of the following 3 choices that obey an inverse square law:
+1) gravitational force and distance
+2) the size of an object and its density
+3) the intensity of a light source and the distance bet ween the source and detector
+
+----
+num: 17
+category: General Science
+difficulty: MS
+seen: 5
+answer: Parsec
+
+What astronomical unit for distance is derived from the parallax of one second of arc?
+
+----
+num: 19
+category: Math
+difficulty: MS
+seen: 6
+answer: 161
+
+A balanced coin is flipped 4 times. What is the probability, as a fraction in lowest terms, of obtaining the exact order of tail, tail, head, head?
+
+----
+num: 20
+category: Life Science
+difficulty: MS
+seen: 10
+answer: Mesoderm
+
+From what embryonic germ layer are skeletal bones primarily derived?
+
+----
+num: 20
+category: Life Science
+difficulty: MS
+seen: 10
+answer: Ectoderm;  Mesoderm;  Endoderm
+
+Progressing from the outside to the inside, what are the 3 basic embryonic germ layers in vertebrates?
+
+----
+num: 21
+category: Physical Science
+difficulty: MS
+seen: 5
+answer: 6
+
+Leona swims directly across a river at 4 kilometers per hour and the river has a current of 5 kilometers per hour. To the nearest whole number, w hat is 
+Leona’s total velocity, in kilometers per hour?
+
+----
+num: 21
+category: Physical Science
+difficulty: MS
+seen: 6
+answer: Electron Spin;  Electron Orbit
+
+Which 2 of the following 4 atomic properties primari ly account for the magnetic behavior of an iron magnet: electron spin; neutron number; atomic charge; electron orbit
+
+----
+num: 22
+category: Earth Science
+difficulty: MS
+seen: 7
+answer: East
+(Solution: Polar Easterlies)
+
+Giving your answer as north, south, east, or west, surface winds normally blow FROM what direction at 70º to 80º north latitude?
+
+----
+num: 22
+category: Earth Science
+difficulty: MS
+seen: 7
+answer: Gypsum;  Quartz;  Hematite;  Silver
+
+Arrange the following 4 choices in order of INCREASING specific gravity: quartz; hematite; gypsum; silver
+
+----
+num: 23
+category: General Science
+difficulty: MS
+seen: 6
+answer: Supernova
+
+What stellar cataclysm resulted in the formation of the 
+Crab nebula?
+
+----
+num: 23
+category: General Science
+difficulty: MS
+seen: 5
+answer: Copper
+
+Name all of the following 4 elements that are produced in supernova and NOT by stars with masses similar to the Sun: helium; carbon; oxygen; copper
+
+----
+num: 24
+category: Math
+difficulty: MS
+seen: 6
+answer: Sine
+
+In a right triangle, t he ratio of the length of the side opposite an angle to the length of the hypotenuse describes what trigonometric function?
+
+----
+num: 24
+category: Math
+difficulty: MS
+seen: 7
+answer: 3
+(Solution: V = 4/3πr^3 ^3;  36π = (4/3)πr , R = 3 Cm)
+
+If the volume of a sphere is 36π centimete rs, find its radius, in centimeters:
+
+----
+num: 25
+category: Life Science
+difficulty: MS
+seen: 10
+answer: Phosphorus
+
+Name all of the following 4 elements that are found in DNA and NOT proteins: sulfur; nitrogen; oxygen; phosph orus
+
+----
+num: 25
+category: Life Science
+difficulty: MS
+seen: 10
+answer: Sulfur 35  (Accept:  S-35)
+
+What radioactive isotope did Hershey and Chase use to label the capsid protein of bacteriophage in the pivotal experiment supporting the theory that genetic information was carried in the D NA?

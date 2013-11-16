@@ -1,0 +1,225 @@
+####
+tournament: Question Set C
+round: Round-9C.pdf
+####
+
+num: 3
+category: Biology
+difficulty: HS
+fixed: -1
+seen: 40
+answer: 3 to 1
+
+If the flower color red is dominant and white is recessive, what will be the expected phenotypic ratio of red to white flowers in the first generation of a cross between parent plants both heterozygous for flower color?
+
+----
+num: 4
+category: Math
+difficulty: HS
+seen: 24
+answer: Domain =  –2, 0, 3;  Range = 6, 9, 7
+
+What is the domain and range for the function defined by the following set of three ordered pairs: {(–2, 6), (0, 9), (3, 7)}
+
+----
+num: 4
+category: Math
+difficulty: HS
+seen: 24
+answer: 43
+(Solution:  Curve of Circle =  ¼ πD = 6π = 18.84;  Sides = 12 + 12 = 24;  24 + 18.84 = 42.8cm)
+
+Giving your answer in centimeters to the nearest whole number, what is the perimeter of a closed quarter-circle whose radius is 12 centimeters?
+
+----
+num: 6
+category: General Science
+difficulty: HS
+seen: 30
+answer: Dopamine
+
+What neurotransmitter is deficient in Parkinson’s disease?
+
+----
+num: 8
+category: Physics
+difficulty: HS
+seen: 26
+answer: 50
+(Solution:  a = F/m;  a = 500/10; a = 50 M/sec^2)
+
+What is the acceleration, in meters per second squared, of a 10-kilogram snow sled that is on a frictionless horizontal surface if a horizontal force of 500 newtons is applied to it?
+
+----
+num: 10
+category: Biology
+difficulty: HS
+seen: 38
+answer: Stroma
+
+In photosystem one, when NADP+ forms NADPH with the catalytic help of NADP+ reductase, from what specific place in the chloroplast are the hydrogen ions derived?
+
+----
+num: 11
+category: Math
+difficulty: HS
+seen: 25
+answer: 9
+
+What is the degree of the following monomial: –6x^2y^4z^3
+
+----
+num: 11
+category: Math
+difficulty: HS
+seen: 24
+answer: 90
+(Solution: (N – 2)180º = 176n;  N = 90)
+
+Find the number of sides in a regular polygon if each interior angle measures 176 degrees:
+
+----
+num: 15
+category: Physics
+difficulty: HS
+seen: 25
+answer: 212  (Accept:  213)
+(Solution:  F = (300n)sin 45º = 300n × 0.707 = 212.1n)
+
+A 300-newton box is placed on an inclined plane that makes a 45º angle with the horizontal. Find the component of the box’s weight parallel to the plane’s surface, in newtons to the nearest whole number:
+
+----
+num: 18
+category: Math
+difficulty: HS
+seen: 25
+answer: 3
+9+
+− Xx
+
+Giving your answer in simplest radical form, rationalize the denominatorof the following expression: (3−1
+x)
+
+----
+num: 18
+category: Math
+difficulty: HS
+seen: 25
+answer: 5 ± 3i (Accept:  5 + 3i and 5 – 3i)
+
+Solve the following equation for x over the set of complex numbers, giving your answer in simplest form: x^2 – 10x + 34 = 0
+
+----
+num: 20
+category: General Science
+difficulty: HS
+seen: 29
+answer: Sonar  (Accept:  Min-Range Sonar)
+
+What technique, used by the U.S. Navy in military exercises and suspected of harming many marine species, is the focus of a recent agreement to not run these exercises within 40 kilometers of the new Hawaiian Islands Marine Reserve?
+
+----
+num: 20
+category: General Science
+difficulty: HS
+fixed: -1
+seen: 31
+answer: Earth;  Pluto;  Titan
+
+Name all of the following 5 celestial bodies that have atmospheres composed primarily of nitrogen: Earth; Uranus; Venus; Pluto; Titan
+
+----
+num: 21
+category: Astronomy
+difficulty: HS
+seen: 53
+answer: A Red Giant
+
+A stargazer looks at Orion and sees a reddish star called 
+Betelgeuse. The redness is because the star is what type of star?
+
+----
+num: 21
+category: Astronomy
+difficulty: HS
+seen: 52
+answer: Brown Dwarfs
+
+What is the MOST common name for the celestial objects that are called stars but since they are low mass objects of less than 0.08 solar masses they cannot undergo fusion?
+
+----
+num: 22
+category: Physics
+difficulty: HS
+seen: 26
+answer: Index of Refraction  (Accept:  Refractive Index)
+
+The lens-maker’s equation relates the focal length of a glass lens to the radii of curvature of the lens’s two surfaces and what other property of the lens?
+
+----
+num: 22
+category: Physics
+difficulty: HS
+fixed: -1
+seen: 25
+answer: 6 × 10^14
+
+Green light has a wavelength of 500 nanometers. What is its associated frequency, in hertz?
+
+----
+num: 23
+category: Chemistry
+difficulty: HS
+seen: 35
+answer: Sigma = 5;  Pi = 1
+
+A molecule that contains 4 carbon-hydrogen single bonds and one carbon-carbon double bond contains how many sigma and pi bonds, respectively?
+
+----
+num: 23
+category: Chemistry
+difficulty: HS
+seen: 36
+answer: Rubidium Perchlorate  
+(Do Not Accept:  Rubidium One Perchlorate)
+
+What is the systematic IUPAC name for the compound RbClO^4?
+
+----
+num: 24
+category: Biology
+difficulty: HS
+fixed: -1
+seen: 41
+answer: Epithelial (Accept:  Epithelium)
+
+Animal tissues are generally divided into four main types. If three of them are, connective, nervous, and muscle, what is the fourth tissue?
+
+----
+num: 24
+category: Biology
+difficulty: HS
+seen: 40
+answer: Polio Virus;  Mitochondrion;  Erythrocyte;  Macrophage
+
+Order the following 4 choices from the SMALLEST to the 
+LARGEST, assuming average size for each: erythrocyte; mitochondrion; polio virus; macrophage
+
+----
+num: 25
+category: Chemistry
+difficulty: HS
+seen: 36
+answer: 9
+
+What is the pH of a solution having a hydroxide ion concentration of 1 × 10–^5^M?
+
+----
+num: 25
+category: Chemistry
+difficulty: HS
+seen: 34
+answer: 3
+(Solution:  (67l)(1mol ar/22.4l) = 3 Mol Ar)
+
+At standard temperature and pressure, if a sample of argon has a volume of 67 liters, how many moles of argon are in the sample, to the nearest whole number?

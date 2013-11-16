@@ -1,0 +1,439 @@
+####
+tournament: #6602
+round: Show #6602 - Tuesday, May 7, 2013
+year: 2013
+date: 2013-05-07
+####
+
+num: 1
+category: History
+difficulty: 200
+seen: 4
+answer: Miami
+
+There's this University in Oxford, Ohio as well as the University of this in Coral Gables, Florida.
+
+----
+num: 2
+category: Art
+difficulty: 200
+seen: 4
+answer: Mary
+
+More than 30 statues housed in Notre Dame hail this woman to whom the cathedral is dedicated.
+
+----
+num: 3
+category: Literature
+difficulty: 200
+seen: 4
+answer: Concord
+
+Around the time Ralph Waldo Emerson remarried in 1835, he settled in this town northwest of Boston.
+
+----
+num: 4
+category: History
+difficulty: 200
+seen: 5
+answer: George Lucas
+
+A building at USC's Cinematic Arts Complex is named for this "Star Wars" filmmaker, a USC alumnus.
+
+----
+num: 5
+category: History
+difficulty: 200
+fixed: -1
+seen: 5
+answer: Latin America
+
+The largely Spanish-speaking lands of the western hemisphere south of the United States.
+
+----
+num: 6
+category: History
+difficulty: 400
+seen: 4
+answer: Tulane
+
+The fight song of this New Orleans school begins, "Green wave green wave, hats off to thee".
+
+----
+num: 7
+category: Art
+difficulty: 400
+seen: 4
+answer: a bell
+
+Hanging in the south tower is "Emmanuel", one of these weighing more than 13 tons.
+
+----
+num: 8
+category: Literature
+difficulty: 400
+seen: 5
+answer: Phi Beta Kappa
+
+Emerson first gave "The American Scholar" as a lecture to this Greek letter honor society at Harvard.
+
+----
+num: 9
+category: History
+difficulty: 400
+seen: 4
+answer: local anesthetic (or anesthesia)
+
+It causes loss of sensation only where a drug is applied.
+
+----
+num: 10
+category: History
+difficulty: 600
+seen: 4
+answer: the University of Oregon
+
+Friendly Hall was the first dorm at this West Coast school, UO for short.
+
+----
+num: 11
+category: Art
+difficulty: 600
+seen: 3
+answer: the crown of thorns
+
+Notre Dame is home to the shrine for this holy relic forced upon the head of Jesus.
+
+----
+num: 12
+category: History
+difficulty: 600
+seen: 4
+answer: (George) Lopez
+
+This funnyman was the voice of Papi in "Beverly Hills Chihuahua" & Rafael in "Rio".
+
+----
+num: 13
+category: History
+difficulty: 600
+seen: 4
+answer: a landscape architect
+
+A designer of a building's grounds & gardens.
+
+----
+num: 14
+category: History
+difficulty: 800
+seen: 4
+answer: Vermont
+
+If you want to plan your individual course of study, head for Bennington College in this state.
+
+----
+num: 15
+category: Art
+difficulty: 800
+seen: 4
+answer: gargoyles
+
+The 2 main towers are connected by the Grand Gallery, which could be called the Grand Gallery of these "G" beasts.
+
+----
+num: 16
+category: Literature
+difficulty: 800
+seen: 4
+answer: consistency
+
+"Self-reliance" says contradict yourself, so what? This quality "is the hobgoblin of little minds".
+
+----
+num: 17
+category: History
+difficulty: 800
+seen: 4
+answer: George Washington
+
+When the Gregorian calendar was adopted, his birthday changed from February 11, 1732 to February 22.
+
+----
+num: 18
+category: History
+difficulty: 800
+seen: 4
+answer: liquid assets
+
+"Fluid" part of a financial portfolio that can be turned into cash quickly.
+
+----
+num: 19
+category: History
+difficulty: 1000
+seen: 4
+answer: Princeton
+
+James Madison breezed through this school in 2 years when it was still called the College of New Jersey.
+
+----
+num: 20
+category: Art
+difficulty: 1000
+seen: 4
+answer: a rose window
+
+Botanical name for.
+
+----
+num: 21
+category: Literature
+difficulty: 1000
+seen: 4
+answer: Unitarianism
+
+Like his father, Emerson was a minister of this religion that believes in the single person of God.
+
+----
+num: 22
+category: History
+difficulty: 1000
+seen: 4
+answer: George R.R. Martin
+
+HBO's "Game of Thrones" is based on a bestselling series of books by this author.
+
+----
+num: 23
+category: History
+difficulty: 1000
+seen: 4
+answer: a Lhasa Apso
+
+Bearded canine sentinel of Tibet.
+
+----
+num: 24
+category: Science
+difficulty: 400
+seen: 6
+answer: the eye
+
+The oculomotor nerve controls 4 of the 6 muscles of this organ.
+
+----
+num: 25
+category: History
+difficulty: 400
+seen: 4
+answer: the Inca
+
+Peru's national flower is sometimes called the sacred flower of these people.
+
+----
+num: 26
+category: Geography
+difficulty: 400
+seen: 7
+answer: Mt. Rainier
+
+Washington State's highest peak, it has 3 named summits: Columbia Crest, Point Success & Liberty Cap.
+
+----
+num: 27
+category: Art
+difficulty: 400
+seen: 5
+answer: Frank Ocean
+
+He's the 2013 Grammy-winning singer heard.
+
+----
+num: 28
+category: History
+difficulty: 400
+seen: 4
+answer: enlisted
+
+He just got there & he's not an officer, so he's termed E-1, the "E" standing for this.
+
+----
+num: 29
+category: Science
+difficulty: 800
+seen: 6
+answer: vertebrae
+
+The lumbar spine is composed of 5 of these, L1 to L5.
+
+----
+num: 30
+category: Literature
+difficulty: 800
+seen: 4
+answer: spar
+
+To practice boxing with light blows.
+
+----
+num: 31
+category: History
+difficulty: 800
+seen: 4
+answer: Blackfoot/feet
+
+Northern plains people named for their dark moccasins.
+
+----
+num: 32
+category: Geography
+difficulty: 800
+seen: 8
+answer: the Aleutian Islands
+
+Mount Makushin on Unalaska island in this chain is one of Alaska's most active volcanoes.
+
+----
+num: 33
+category: Art
+difficulty: 800
+seen: 4
+answer: David Bowie
+
+"The Next Day" is this "Modern Love" rocker & trendsetter's first album in 10 years.
+
+----
+num: 34
+category: History
+difficulty: 800
+seen: 4
+answer: to awaken
+
+His letter mentioned "Reveille"; the dictionary says it comes from the French for this verb.
+
+----
+num: 35
+category: Science
+difficulty: 1200
+seen: 5
+answer: the Achilles
+
+Danish scientists discovered that athletes are better runners if this tendon is longer & thinner than normal.
+
+----
+num: 36
+category: History
+difficulty: 1200
+seen: 4
+answer: the Hebrews
+
+The New Testament includes a "Letter to" them, aka the Israelites.
+
+----
+num: 37
+category: Art
+difficulty: 1200
+seen: 3
+answer: Alex Clare
+
+Londoner isn't too far from superstardom.
+
+----
+num: 38
+category: History
+difficulty: 1200
+seen: 4
+answer: his blood type
+
+I saw a picture of his dog tag, listing his name, social security number, religion & this "type".
+
+----
+num: 39
+category: History
+difficulty: 1600
+seen: 5
+answer: tattooing (or painting their bodies)
+
+Scotland's Picts were most likely named from the custom of doing this to their bodies.
+
+----
+num: 40
+category: Geography
+difficulty: 1600
+fixed: -1
+seen: 8
+answer: Mt. St. Helens
+
+The May 18, 1980 eruption of this volcano & a 5.1 earthquake caused the largest landslide in recorded history.
+
+----
+num: 41
+category: Art
+difficulty: 1600
+seen: 5
+answer: Alabama Shakes
+
+Brittany Howard belts out songs like "Hold On" for this heart of Dixie group.
+
+----
+num: 42
+category: History
+difficulty: 1600
+seen: 5
+answer: boot camp (or basic training)
+
+This 10-week army "training" period that turns civilians into soldiers was no picnic.
+
+----
+num: 43
+category: Science
+difficulty: 2000
+seen: 9
+answer: the esophagus
+
+Food passes from the pharynx to the stomach via this straight, muscular tube.
+
+----
+num: 44
+category: Literature
+difficulty: 2000
+seen: 6
+answer: Alva
+
+Name between Thomas & Edison.
+
+----
+num: 45
+category: History
+difficulty: 2000
+seen: 5
+answer: the Kurds
+
+This non-Turkish ethnic group makes up about 20% of Turkey's population.
+
+----
+num: 46
+category: Geography
+difficulty: 2000
+seen: 13
+answer: the Anchorage airport
+
+As in 2009, Alaska's.
+
+----
+num: 47
+category: Art
+difficulty: 2000
+seen: 6
+answer: Tegan and Sara
+
+Sister act heard.
+
+----
+num: 48
+category: History
+difficulty: 2000
+seen: 5
+answer: the inclusion of women in the military
+
+My brother's cool with this big change to the rules about combat troops announced Jan. 24, 2013.

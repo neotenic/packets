@@ -1,0 +1,244 @@
+####
+tournament: Fall Novice
+round: Packet 5.doc
+year: 2010
+####
+
+num: 1
+category: History
+difficulty: HS
+fixed: 57
+seen: 415
+answer: {Berlin} [accept {East Berlin} until “{Treaty}” is read]
+
+The June 17 uprising began in this city, and one conference held in this city revised the Treaty of San Stefano after the Balkan Wars. Separated into sectors by the London Protocol, this city home to Checkpoint Charlie received thousands of tons of supplies during its 1948 airlift, while John F. Kennedy claimed he was “a [citizen of it] too” during a speech here. For 10 points, name this city once home to a concrete wall between West and East, the capital of Germany.
+
+----
+num: 2
+category: Literature
+difficulty: HS
+fixed: 1
+seen: 449
+answer: {1984} [accept {Nineteen Eighty}-{Four}]
+
+Charrington betrays the protagonist of this work by revealing his affair with a girl he had earlier seen wearing a red sash. The protagonist's fear of rats is exploited in Room 101 by O'Brien to get him to disavow his love for Julia. The protagonist of this work works at the Ministry of Truth, and this work features the fictional language of Newspeak. For 10 points, name this dystopian work about Winston Smith's life under Big Brother, a novel by George Orwell.
+
+----
+num: 3
+category: Geography
+difficulty: HS
+fixed: None
+seen: 714
+answer: {Canada}
+
+This nation is home to the volcano Mount Garibaldi and its highest point is at Mount Logan. This country's longest river, which flows into the Beaufort Sea, is the Mackenzie. In 1999, the territory of Nunavut, which includes Baffin Island, was created in this country's northern region. Its provincial capitals include Regina and Halifax, and it contains the Hudson Bay. For 10 points, name this country with capital at Ottawa, the northern neighbor of the US.
+
+----
+num: 4
+category: Trash
+difficulty: HS
+fixed: -1
+seen: 1029
+answer: {Lil Wayne} [prompt on {Dwayne Carter}]
+
+This artist notes that he let one girl “lick the wrapper.” In one song featuring Rick Ross, this artist claims he can turn security guards into track stars. This creator of songs like “The Sky is the Limit” and “I'm Me” has been sighted coming “straight up out the water wit [his] Marc Jacobs goggles.” For 10 points, name this hip-hop sensation of Cash Money Records who performs songs like “Lollipop,” “Stuntin' Like My Daddy” and “Pop Bottles.”
+
+----
+num: 5
+category: Social Science
+difficulty: HS
+fixed: 1
+seen: 381
+answer: Margaret {Mead}
+
+This academic contrasted the uniformly aggressive Mundugumor with the peaceful Arapesh and the Tchambuli, a female-dominated tribe, in Sex and Temperament in Three Primitive Societies. Another study of hers, criticized by Derek Freeman, described “sleep-crawling” and interviewed 68 young women to dispute that sexual repression is universal in adolescents. For 10 points, name this student of Boas, a female anthropologist who wrote Coming of Age in Samoa.
+
+----
+num: 6
+category: Science
+difficulty: HS
+fixed: 1
+seen: 490
+answer: {sine} [do not accept {sin}]
+
+In Euler's formula, this function is multiplied by i. This function's namesake wave is integral to Fourier analysis and represents constant, periodic oscillations. On the unit circle, this function is positive in the first and second quadrants. Additionally, this function is used to represent the y-value of a unit circle arc. For 10 points, identify this trigonometric function that is the inverse of cosecant and, for a right triangle, gives the ratio of the opposite side over the hypotenuse.
+
+----
+num: 7
+category: Social Science
+difficulty: HS
+fixed: 1
+seen: 379
+answer: Adam {Smith}
+
+In one work, this man described potato-eaters as stronger and more beautiful than bread-eaters, explained how monopolies lead to increased prices, and marveled at the division of labor in an efficient pin factory. He wrote of compatible self-interest and ethics in The Theory of Moral Sentiments, where he introduced the idea of a self-correcting “invisible hand” in markets.  For 10 points, name this Scottish founder of classical economics, the author of The Wealth of Nations.
+
+----
+num: 8
+category: Fine Arts
+difficulty: HS
+fixed: 57
+seen: 499
+answer: Eugene {Delacroix}
+
+In one work by this artist, a king lounges on his bed as his guards slay his horses and some naked ladies. In addition to The Death of Sardanapalus, this artist depicted burning towns in the background of a work showing an ottoman on horseback slaying scantily clad Greeks,  Massacre at Chios. For ten points, name this artist who may be most famous for a painting containing a young boy with two pistols following a woman carrying the French flag, Liberty Leading the People.
+
+----
+num: 8
+category: Fine Arts
+difficulty: HS
+fixed: 57
+seen: 489
+answer: Eugene {Delacroix}
+
+In one work by this artist, a king lounges on his bed as his guards slay his horses and some naked ladies. In addition to The Death of Sardanapalus, this artist depicted burning towns in the background of a work showing an ottoman on horseback slaying scantily clad Greeks,  Massacre at Chios. For ten points, name this artist who may be most famous for a painting containing a young boy with two pistols following a woman carrying the French flag, Liberty Leading the People.
+
+----
+num: 8
+category: Fine Arts
+difficulty: HS
+fixed: 57
+seen: 495
+answer: Eugene {Delacroix}
+
+In one work by this artist, a king lounges on his bed as his guards slay his horses and some naked ladies. In addition to The Death of Sardanapalus, this artist depicted burning towns in the background of a work showing an ottoman on horseback slaying scantily clad Greeks,  Massacre at Chios. For ten points, name this artist who may be most famous for a painting containing a young boy with two pistols following a woman carrying the French flag, Liberty Leading the People.
+
+----
+num: 9
+category: Literature
+difficulty: HS
+fixed: 57
+seen: 444
+answer: Thomas {Mann}
+
+In one work by this man, Serenus Zeitblom narrates the life of Adrian Leverkuhn. Though not Marlowe, this author of Doktor Faustus also wrote a novel in which Gustav von Aschenbach becomes obsessed with the Polish boy Tadzio. The setting of another of his novels is a sanatorium inhabited by such characters as Settembrini, Claudia Chauchat, and Hans Castorp. For 10 points, name this German author of Death in Venice and The Magic Mountain.
+
+----
+num: 10
+category: Mythology
+difficulty: HS
+fixed: -1
+seen: 790
+answer: {Odysseus} [prompt “{Ulysses}”]
+
+This man fought the Cicones in Ismara, and a scar on his thigh from a boar hunt allowed him to be recognized by his servant Eurycleia. Some of his followers stayed with the Lotus-Eaters, and one man in his crew died by falling from Circe's hut. Held for eight years on the island of Calypso after blinding the cyclops Polyphemus, for 10 points, name this husband of Penelope and father of Telemachus, an Ithacan king who returns home in his namesake Homeric epic.
+
+----
+num: 11
+category: Literature
+difficulty: HS
+fixed: 57
+seen: 437
+answer: Emily Dickinson
+
+This author wrote  “How dreary to be somebody!” in “I'm Nobody! Who are you?” Another poem describes the title event “Between the light and me”, after which she “could not see to see”.  In one poem by this author, the narrator and the title character “passed the fields of grazing grain” and after he “kindly stopped for” the narrator.  For 10 points, name this Belle of Amherst who wrote “I heard a fly buzz when I died” and “Because I could not stop for Death.”
+
+----
+num: 12
+category: Science
+difficulty: HS
+fixed: 1
+seen: 491
+answer: index of {refraction} [or {refractive} index]
+
+This value, the square root of the product of the relative permeability and relative permittivity, is negative in metamaterials, and multiple values for it appear in objects exhibiting birefringence. The angles of incidence for two adjacent objects with different values of this are calculated by Snell's law. For 10 points, name this dimensionless quantity measuring the ratio of the speed of light in a medium to that in a vacuum.
+
+----
+num: 12
+category: Science
+difficulty: HS
+fixed: 1
+seen: 488
+answer: index of {refraction} [or {refractive} index]
+
+This value, the square root of the product of the relative permeability and relative permittivity, is negative in metamaterials, and multiple values for it appear in objects exhibiting birefringence. The angles of incidence for two adjacent objects with different values of this are calculated by Snell's law. For 10 points, name this dimensionless quantity measuring the ratio of the speed of light in a medium to that in a vacuum.
+
+----
+num: 13
+category: History
+difficulty: HS
+fixed: -1
+seen: 416
+answer: {Huguenots} [accept {Reformed Church} of {France throughout}; accept {French Calvinists} or {French Protestants} until “{Calvinist}” is read; prompt “{Protestants}”]
+
+The dragonnades police intimidated this group, and members of it in Chambon-sur-Lignon saved thousands of Jews from the Nazi SS. Their churches were ordered destroyed by Louis XIV in Fontainebleau, and thousands were massacred by order of Catherine de Medici on Saint Bartholomew's Day in 1572. This group's religious freedom was guaranteed in 1598 by Henry IV's Edict of Nantes. For 10 points, identify this denomination of French Calvinist Protestants.
+
+----
+num: 14
+category: Religion
+difficulty: HS
+fixed: 1
+seen: 443
+answer: {Vodou} [accept {Voodoo} or {Vodun} or {Vaudou}]
+
+Members of this faith form houses known as sosyete, and its holy men are sometimes called houngan. It believes in an ancestral homeland of Ginen, worships the supreme being Bondye, and originates in Yoruban myth.  The Ogunye and Ezili are families of this religion's spirits, or loa, which include Papa Legba and Baron Samedi.  For 10 points, name this syncretic religion practiced in Louisiana and Haiti, whose rarer practices might involve zombies or pin-filled dolls.
+
+----
+num: 15
+category: History
+difficulty: HS
+fixed: 57
+seen: 425
+answer: Abraham {Lincoln}
+
+This man gave the Cooper Union and Peoria Speeches, and one of his opponents proposed the Freeport Doctrine after he spoke there. He also gave a speech claiming that “a house divided against itself cannot stand.” Another of his addresses tells of a “government of the people, by the people, for the people” that dead soldiers helped fight for. For 10 points, name this President assassinated in Ford's Theatre, who issued the Gettysburg Address during the Civil War.
+
+----
+num: 16
+category: Science
+difficulty: HS
+fixed: 1
+seen: 487
+answer: lysosomes
+
+Defects in these structures cause Gaucher's [go-SHAYZ] disease, and another disease affecting them causes the buildup of GM2 gangliosides due to misshapen hexosaminidase [hex-oh-sah-MIN-i-dayz] A. These organelles affected by Tay-Sachs disease use proton pumps to maintain an internal pH of 4.8 and fuse with vacuoles to aid digestion. For 10 points, name these organelles, containing hydrolases and proteases, which break down cellular waste.
+
+----
+num: 17
+category: Literature
+difficulty: HS
+fixed: 57
+seen: 445
+answer: Sir Ahmed Salman {Rushdie}
+
+One of this author's novels begins with a plane exploding over the English Channel. Another novel by this author has a singer known as “Brass Monkey” and features two characters born exactly when India was partitioned, Saleem Sinai and Shiva. Gibreel Farishta appears in a novel by this author which caused Ayatollah Ruhollah Khomeini to issue a fatwa against him. For 10 points, name this author of Midnight's Children and The Satanic Verses.
+
+----
+num: 18
+category: Science
+difficulty: HS
+fixed: 57
+seen: 496
+answer: {birds} [accept {Aves}]
+
+These animals have a vocal organ called the syrinx, and their lymphatic system includes the Bursa of Fabricus. Another important part of their bodies comes in pennaceous and down varieties. Discovered in Solnhofen, Germany, the extinct Archaeopteryx is believed to be the most primitive species of these due to the fact that it had feathers. For 10 points, name this modern class of vertebrates, examples of which include the flightless emu and flying eagles.
+
+----
+num: 19
+category: History
+difficulty: HS
+fixed: 57
+seen: 423
+answer: Gaius Julius Caesar
+
+This man prosecuted Dolabella when he returned home after his marriage to Cornelia forced him to flee during Sulla's dictatorship. At Alesia, this man defeated Vercingetorix, and at the Battle of Pharsalus he defeated Pompey, who, with Crassus and this man, had been in the first triumvirate. The conqueror of Gaul, for 10 points, name this Roman who crossed the Rubicon after saying “the die is cast”, and was assassinated on the Ides of March by Brutus in 44 B.C.E.
+
+----
+num: 20
+category: Fine Arts
+difficulty: HS
+fixed: 57
+seen: 492
+answer: Ludwig van Beethoven's {9th} Symphony or “{Choral}” Symphony
+
+The third movement of this work features a notable solo for the fourth horn while the second scherzo movement contains a D major trio featuring trombones. The final movement begins with the cellos and basses playing recitatives that refer to the earlier movements. Scored in D minor, this piece concludes with a chorus singing lines from Schiller's “Ode to Joy.“ For 10 points, identify this final symphony of Beethoven.
+
+----
+num: 21
+category: Science
+difficulty: HS
+fixed: -1
+seen: 483
+answer: {bone} [accept {osseous tissue} before “these {organs};” prompt afterwards]
+
+Cortical and cancellous tissues compose these organs, and the fusion of their epiphysis and diaphysis signals the end of growth in humans. Haversian canals perforate the compact form of them, and they contain large amounts of hydroxylapatite. Their tissue is produced by osteoblasts and strengthened by the consumption of calcium. For 10 points, name these marrow-containing supportive organs of the skeletal system, of which the adult body contains 206.

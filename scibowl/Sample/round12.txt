@@ -1,0 +1,251 @@
+####
+tournament: Sample
+round: round12.pdf
+####
+
+num: 1
+category: Physics
+difficulty: HS
+seen: 27
+answer: 235
+(Solution:  0.2 × 120 Kg × 9.8m/s^2 = 235.2 N)
+
+Rounding g to the first decimal place, how many newtons are required to keep a 120-kilogram sled moving at a constant velocity across a pond if there is a frictional coefficient of 0.20 between the sled and the pond’ s surface? Round your answer to the nearest whole number.
+
+----
+num: 3
+category: Biology
+difficulty: HS
+fixed: -1
+seen: 40
+answer: All
+
+Name all of the following 3 groups of organisms that generate ATP by chemiosmosis (read as: chem-ee-oz-MOE-sis): Cyanobacteria; plant cells; animal cells
+
+----
+num: 4
+category: Math
+difficulty: HS
+seen: 27
+answer: 21 + 18i
+
+Multiply the following complex numbers, giving your answer in standard a + bi form: (6 + 3i)(4 + i)
+
+----
+num: 6
+category: General Science
+difficulty: HS
+seen: 31
+answer: Beta-Carotene
+
+What alkene is a plant pigment that is a precursor to vitamin-A?
+
+----
+num: 8
+category: Physics
+difficulty: HS
+seen: 25
+answer: 100
+(Solution: Mechanical Advantage, Radius of Wheel/radius of Axle = 250 cm/2.5 Cm = 100)
+
+What is the ideal mechanical advantage of a wheel and axle, if the diameter of the wheel is 500 centimeters and the radius of the axle is 2.5 centimeters?
+
+----
+num: 10
+category: Biology
+difficulty: HS
+seen: 38
+answer: Neurospora (Accept:  Bread Mold or Neurospora Crassa)
+
+Beadle and Tatum primarily used what organism to show that mutations in a single gene caused disruptions in metabolic pathways because of the lack of a single enzyme?
+
+----
+num: 11
+category: Math
+difficulty: HS
+seen: 26
+answer: (0, 3)
+
+Giving your answer as an ordered pair, find the solution of the system ofthe following 2 equations: x = 23 y – 2 and x = y – 3:
+
+----
+num: 12
+category: Earth Science
+difficulty: HS
+seen: 65
+answer: Basaltic  (Accept:   Basalt)
+(Solution: 3 Basic Types: Basaltic = Low; Andesitic = Intermediate; Rhyolitic = High)
+
+Of the 3 basic types of magma on Earth, which one generally has the LOWEST gas content?
+
+----
+num: 13
+category: General Science
+difficulty: HS
+seen: 31
+answer: 1;  2;  3
+
+Name all of the following 4 choices that are characteristic of scientific publications :
+1) scientific papers are peer reviewed
+2) scientific papers present more detailed data
+3) conclusions in scientific papers are supported by original data in the publication
+4) scientific papers have data that has been proven to be true
+
+----
+num: 15
+category: Physics
+difficulty: HS
+seen: 26
+answer: Mass (Accept:  Neutrinos Have Mass)
+
+What physical property of neutrinos, which was confirmed in the past decade, contradicts earlier as sumptions that neutrinos travel at the speed of light?
+
+----
+num: 15
+category: Physics
+difficulty: HS
+fixed: -1
+seen: 25
+answer: 20
+(Solution:  τ = V/r = 50m/s/2.5m = 20 Rad/s)
+
+What is the angular velocity, in radians per second, of a wheel with a radius of 250 centimeters and a surface veloci ty of 50 meters per second?
+
+----
+num: 16
+category: Chemistry
+difficulty: HS
+fixed: -1
+seen: 34
+answer: Li–f;  K–br;  P–cl;  Br–br
+
+Arrange the following 4 bonds in order of decreasing polarity: 
+Br–Br; K–Br; P–Cl; Li–F
+
+----
+num: 18
+category: Math
+difficulty: HS
+fixed: -1
+seen: 25
+answer: All
+
+By words or number, name all of the following 3 statements that are 
+TRUE for the function, f(x) = –3x^2 – 2x – 2 = 0:
+1) there are no real zeros
+2) the graph is a parabola opening downward
+3) the graph has no x-intercepts
+
+----
+num: 20
+category: General Science
+difficulty: HS
+fixed: -1
+seen: 30
+answer: Ethylene;  Propylene  (Accept:  Ethene;  Propene)
+
+What 2 simple alkenes (read as: al-KEENS) are the two most important organic industrial chemicals?
+
+----
+num: 21
+category: Astronomy
+difficulty: HS
+seen: 55
+answer: 43
+
+For someone standing at 43° north latitude, how many degrees above the horizon will the north celestial pole be?
+
+----
+num: 21
+category: Astronomy
+difficulty: HS
+seen: 54
+answer: Full
+
+In what phase does the planet Venus appear during superior conjunction?
+
+----
+num: 22
+category: Physics
+difficulty: HS
+fixed: -1
+seen: 25
+answer: 9
+(Solution:  F = Mv^2/r, Numerator Times 1/3, Denominator Times 3; or Use Newton's Law of Universal 
+Gravitation, F Proportional to 1/r ^2)
+
+If a satellite moving in a circular orbit is raised to another circular orbit 3-times as far from the Earth's center and where the kinetic energy of the satellite is 3-times less, by what factor does the centripetal force on the satellite decrease?
+
+----
+num: 22
+category: Physics
+difficulty: HS
+seen: 25
+answer: 4.8
+(Solution:  E = Wt = (10a)^2 × 2 Ohms × 24 Hr =  4.8 Kilowatt-Hours)
+
+Rounded to the first decim al place, how many kilowatt -hours of energy are used if 10 amps flows for one day though a circuit with a resistance of 2 ohms?
+
+----
+num: 23
+category: Chemistry
+difficulty: HS
+seen: 34
+answer: 1) Iron 2 Plus Ion;  2) Oxygen 2 Minus Ion;  3) Gallium Atom
+
+Name the LARGEST atom or ion in EACH of the following 3 pairs:
+1) an iron 3 plus ion or an iron 2 plus ion
+2) an oxygen atom or an oxygen 2 minus ion
+3) a gallium 3 plus ion or a gallium atom
+
+----
+num: 23
+category: Chemistry
+difficulty: HS
+seen: 33
+answer: Na Po +  3h O (Products in Any Order)
+^3 ^4(aqueous) ^2 ^(Liquid)
+
+Using proper chemical nomenclature, finish balancing the following chemical reaction. Make sure to indicate the state of each substance, such as solid, liquid, aqueous, or gas: 3NaOH + H PO  what? ^(aqueous) ^3 ^4^(aqueous)
+
+----
+num: 24
+category: Biology
+difficulty: HS
+fixed: -1
+seen: 41
+answer: G-1;  S;  G-2  (Accept:  Gap One, Dna Synthesis, Gap 2)
+
+From the FIRST to the LAST, what are the stages into which interphase is most commonly divided?
+
+----
+num: 24
+category: Biology
+difficulty: HS
+seen: 37
+answer: G-1
+
+Cells that become quiescent enter G -zero from what stage of the cell cycle?
+
+----
+num: 25
+category: Chemistry
+difficulty: HS
+seen: 34
+answer: 22.4
+
+Giving your answer to the first decimal place and in liters, one mole of gas at 1.00 atmosphere pressure and a temperature of 273.1 5 kelvin occupies what volume?
+
+----
+num: 25
+category: Chemistry
+difficulty: HS
+seen: 32
+answer: 1.2
+(Solution: P
+^2 = P
+^1v
+^1/v
+^2 = (2 Atm)(300 Cm^3)/500 Cm^3 = 1.2 Atm)
+
+A sample of gas occupies a volume of 300 cubic centimeters at a pressure of 2 atmospheres. Calculate what the pressure would have to be, in atmospheres to the first decimal place, in order for the gas to have a volume of 500 cubic centimeters at constant temperature:

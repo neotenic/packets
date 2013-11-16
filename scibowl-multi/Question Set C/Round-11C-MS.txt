@@ -1,0 +1,250 @@
+####
+tournament: Question Set C
+round: Round-11C-MS.pdf
+####
+
+num: 1
+category: Earth Science
+difficulty: MS
+answer: Z)  Radiosonde Balloons
+
+A research project called Cosmic plans to use GPS satellites for weather forecasting to give data on temperature, pressure and water vapor in the atmosphere. Today, these data are typically gathered by which of the following:
+W) Doppler radar 
+X) sonar
+Y) laser interferometry
+Z) radiosonde (read as: RAY-de-oh-sond) balloons
+
+----
+num: 1
+category: Earth Science
+difficulty: MS
+answer: Y)  Only P-Waves
+
+After the Sumatran earthquake, a seismograph stationed on the opposite side of the epicenter half-way around the Earth would have detected which of the following:
+W) nothing because seismic waves cannot pass through the Earth 
+X) both P-waves and S-waves
+Y) only P-waves
+Z) only S-waves
+
+----
+num: 3
+category: General Science
+difficulty: MS
+answer: X)  Anthracite
+
+Which of the following forms of coal typically has the 
+HIGHEST BTU value per pound:
+W) lignite 
+X) anthracite
+Y) bituminous
+Z) peat
+
+----
+num: 3
+category: General Science
+difficulty: MS
+answer: W)  Gasoline Additive
+
+MTBE or methyl tertiary butyl ether, is a:
+W) gasoline additive
+X) organic dye
+Y) food preservative
+Z) plant alkaloid
+
+----
+num: 4
+category: Life Science
+difficulty: MS
+answer: X)  Certain Mutations Improve an Organism’s Offspring’s 
+Chances to Survive and Reproduce in Different Environments
+
+Which of the following is the BEST example of how evolution progresses:
+W) animals learn to survive through experience and teach their offspring
+X) certain mutations improve an organism’s offspring’s chances to survive and reproduce in different environments
+Y) animals develop certain strengths and weaknesses through experience and pass the knowledge down by example
+Z) an animal that is successful at hunting will be more l ikely to survive
+
+----
+num: 5
+category: Physical Science
+difficulty: MS
+answer: X)  Decomposition
+
+Which of the following BEST describes the following reaction: 2CaO ! 2Ca + O^2
+W) combustion 
+X) decomposition
+Y) single replacement
+Z) double replacement
+
+----
+num: 6
+category: Earth Science
+difficulty: MS
+answer: Y)  Peridotite Is Rock Found Within the Earth’s Mantle and 
+Some Meteorites
+
+Which of the following is TRUE:
+W) pyroclastic flows dominate Hawaiian volcanoes
+X) granitic magma contains less silica than basaltic magma
+Y) peridotite is rock found within the Earth’s mantle and some meteorites
+Z) plutons are large masses of basalt
+
+----
+num: 6
+category: Earth Science
+difficulty: MS
+answer: W)  the Upper Mesosphere Is the Coldest Region of the Earth’s 
+Atmosphere
+
+Which of the following is TRUE about Earth’s atmosphere:
+W) the upper mesosphere is the coldest region of the Earth’s atmosphere
+X) the stratopause lies just below the stratosphere
+Y) moist air weighs more than dry air at the same temperature
+Z) the tropopause is higher at the South Pole than at the equator
+
+----
+num: 8
+category: General Science
+difficulty: MS
+answer: Y)  3 ^Rd Degree
+
+Which of the following is a type of burn in which the outer layer of keratin in the skin and the dermis are damaged and is referred to as a full-thickness burn:
+W) 1^st degree
+X) 2^nd degree
+Y) 3^rd degree
+Z) 4^th degree
+
+----
+num: 11
+category: Earth Science
+difficulty: MS
+answer: X)  Greater Depths Yield Higher Pressures
+
+Which of the following is the BEST reason why the 
+Earth’s inner core is solid and the outer core is not:
+W) greater depths yield cooler temperatures 
+X) greater depths yield higher pressures
+Y) inner core is further removed from the influence of hot magma
+Z) they have different mineral contents
+
+----
+num: 11
+category: Earth Science
+difficulty: MS
+answer: W)  Calcium Carbonate
+
+Coral reefs capture about half of all calcium flowing into the ocean every year by fixing it into:
+W) calcium carbonate
+X) calcium fluoride
+Y) calcium oxalate
+Z) quartz
+
+----
+num: 13
+category: General Science
+difficulty: MS
+answer: Z)  Exploding Stars Called Supernovae
+
+It is believed that the heavy elements in Earth’s crust primarily originated from:
+W) comets
+X) asteroids
+Y) meteorites
+Z) exploding stars called supernovae
+
+----
+num: 15
+category: Physical Science
+difficulty: MS
+answer: Z)  Paper Chromatography
+
+Which of the following is MOST commonly used to separate substances based on solubility differences:
+W) centrifugation 
+X) autoclaving
+Y) paper filtration
+Z) paper chromatography
+
+----
+num: 16
+category: Earth Science
+difficulty: MS
+answer: Y)  Water Can Absorb and Release Large Amounts of Heat With 
+Very Little Change in Temperature
+
+Which of the following BEST explains why there is typically less temperature variation along the coasts of continents versus inland climates at the same latitude:
+W) land surfaces of the planet can store more heat than the oceans
+X) the friction between waves and the shore add heats to the area 
+Y) water can absorb and release large amounts of heat with very little change in temperature
+Z) surface ocean currents along shorelines typically carry warm water
+
+----
+num: 16
+category: Earth Science
+difficulty: MS
+answer: X)  a Glacier Once Moved in the Direction of These Scratches
+
+Surface bedrock in British Columbia often has long, parallel scratches called striations. Which of the following is most likely TRUE about these markings:
+W) they were caused by seasonal freeze-thaw cycles
+X) a glacier once moved in the direction of these scratches
+Y) a swift river once ran through these areas
+Z) the area was once a pluvial lake
+
+----
+num: 17
+category: Math
+difficulty: MS
+answer: Z)  18^9
+
+Which of the following is equivalent to the radical expression, (18^18) Read as: square root of open parenthesis 18 to the 18^th power closed parenthesis
+W) 3^3
+X) 9^9
+Y) 18^3
+Z) 18^9
+
+----
+num: 18
+category: General Science
+difficulty: MS
+answer: W)  Fertilizers
+
+The majority of sulfuric acid produced in the U.S. today is used to make which of the following:
+W) fertilizers
+X) glass
+Y) paint
+Z) plastics
+
+----
+num: 19
+category: Biology
+difficulty: MS
+answer: X)  They Are Cheap to Maintain, Produce Many Offspring, and 
+Have a Short Time Between Generations
+
+Which of the following is the BEST explanation why fruit flies are popular experimental organisms in genetic studies:
+W) they are true breeding with almost no mutations and have only two chromosomes
+X) they are cheap to maintain, produce many offspring, and have a short time between generations
+Y) they are very safe, carry no human diseases, and have only two chromosomes
+Z) their genes are extra-sensitive to mutation-causing substances, which makes them excellent to observe evolving under stress
+
+----
+num: 20
+category: Physical Science
+difficulty: MS
+answer: Z)  Potential Energy
+
+Raising a bucket of chicken fat from the floor to 3 meters high off the floor would increase the bucket’s:
+W) kinetic energy
+X) chemical energy
+Y) thermal energy
+Z) potential energy
+
+----
+num: 20
+category: Physical Science
+difficulty: MS
+answer: Y)  the Law of Conservation of Matter
+
+During normal chemical reactions, although the combinations of atoms that form molecules can change, the total number of atoms must remain the same. This is called:
+W) the law of interchange
+X) the atomic principle
+Y) the law of conservation of matter
+Z) Dalton’s law

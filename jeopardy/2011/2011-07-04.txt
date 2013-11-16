@@ -1,0 +1,392 @@
+####
+tournament: #6186
+round: Show #6186 - Monday, July 4, 2011
+year: 2011
+date: 2011-07-04
+####
+
+num: 1
+category: Literature
+difficulty: 200
+seen: 4
+answer: a curl
+
+Longfellow: "there was a little girl, who had a little" this, "right in the middle of her forehead.
+
+----
+num: 2
+category: Trash
+difficulty: 200
+seen: 5
+answer: football
+
+One team member runs post patterns & buttonhooks.
+
+----
+num: 3
+category: Art
+difficulty: 200
+seen: 5
+answer: a woodpecker
+
+You may recognize.
+
+----
+num: 4
+category: History
+difficulty: 200
+seen: 5
+answer: a bat
+
+It's the only mammal that can fly.
+
+----
+num: 5
+category: Geography
+difficulty: 200
+seen: 9
+answer: Cape
+
+Sharing its name with a garment, it's a piece of land that juts into a body of water, like the one of Good Hope.
+
+----
+num: 6
+category: Literature
+difficulty: 200
+seen: 4
+answer: pie
+
+"Easy as" this, be it farmhouse raisin or double berry icebox.
+
+----
+num: 7
+category: Literature
+difficulty: 400
+seen: 5
+answer: every dog his day
+
+Charles Kingsley: "and round the world away; young blood must have its course, lad, and every dog his".
+
+----
+num: 8
+category: Trash
+difficulty: 400
+seen: 6
+answer: handball
+
+Complete requirements: wall, fist, rubber sphere.
+
+----
+num: 9
+category: History
+difficulty: 400
+seen: 4
+answer: Lake Michigan
+
+It's the only one of the Great Lakes to lie entirely within the United States.
+
+----
+num: 10
+category: Geography
+difficulty: 400
+seen: 8
+answer: a peninsula
+
+Arabia is the world's largest one of these pieces of land nearly surrounded by water.
+
+----
+num: 11
+category: Literature
+difficulty: 400
+seen: 4
+answer: beans
+
+When you "spill" these, tell us if they are Jacob's cattle or moth types.
+
+----
+num: 12
+category: Literature
+difficulty: 600
+seen: 4
+answer: the law
+
+T.S. Eliot: "Macavity's a mystery cat: he's called the hidden paw--for he's the master criminal who can defy" this.
+
+----
+num: 13
+category: Trash
+difficulty: 600
+seen: 5
+answer: soccer
+
+As Landon Donovan knows, using hands is a no-no for the majority of the players.
+
+----
+num: 14
+category: History
+difficulty: 600
+seen: 4
+answer: Cuba
+
+It remains the only Communist country in the Americas.
+
+----
+num: 15
+category: Literature
+difficulty: 600
+seen: 4
+answer: a cucumber
+
+"Cool as a" this; the English variety can grow up to 2 feet long.
+
+----
+num: 16
+category: Literature
+difficulty: 800
+seen: 4
+answer: never
+
+Ogden Nash: "a child need not be very clever / to learn that 'later, dear' means" this.
+
+----
+num: 17
+category: Trash
+difficulty: 800
+seen: 5
+answer: basketball
+
+Depending on the distance, field goals can be worth 2 or 3 points.
+
+----
+num: 18
+category: History
+difficulty: 800
+seen: 5
+answer: Vesuvius
+
+With its last notable eruption in 1944 (nothing like 79 A.D.). it's the only active volcano on the European mainland.
+
+----
+num: 19
+category: Literature
+difficulty: 800
+seen: 4
+answer: cherries
+
+"Life is just a bowl of" these; one sour type is the dark mahogany red morello.
+
+----
+num: 20
+category: Literature
+difficulty: 1000
+seen: 4
+answer: spoken to
+
+Robert Louis Stevenson: "a child should always say what's true / and speak when he is" this.
+
+----
+num: 21
+category: Trash
+difficulty: 1000
+seen: 5
+answer: volleyball
+
+Teams of 6 each hit the ball back & forth over a high net.
+
+----
+num: 22
+category: History
+difficulty: 1000
+seen: 4
+answer: Neptune
+
+Forget Pluto--this farthest planet from the sun is the only planet that can't be seen without a telescope.
+
+----
+num: 23
+category: Geography
+difficulty: 1000
+seen: 8
+answer: a butte
+
+From a French word meaning mound, it's a steep-sided, flat-topped hill like the one seen.
+
+----
+num: 24
+category: Literature
+difficulty: 1000
+seen: 4
+answer: the pudding
+
+"The proof is in" this, which can be thickened with anything from eggs to cornstarch to flour.
+
+----
+num: 25
+category: History
+difficulty: 400
+seen: 4
+answer: John Paul Jones
+
+In April 1778 this American naval hero attempted to kidnap the Earl of Selkirk; it didn't work--the earl wasn't home.
+
+----
+num: 26
+category: Literature
+difficulty: 400
+seen: 4
+answer: a banner
+
+It's the flag of an army or a country, not just a star-spangled one.
+
+----
+num: 27
+category: Geography
+difficulty: 400
+seen: 7
+answer: Russia
+
+Nearly twice as large as Canada, it covers 11% of the Earth's land surface.
+
+----
+num: 28
+category: Geography
+difficulty: 400
+seen: 8
+answer: an atom
+
+It's the smallest unit into which matter can be divided & still keep the properties of an element.
+
+----
+num: 29
+category: History
+difficulty: 800
+seen: 4
+answer: Bunker Hill
+
+To save ammunition during this 1775 battle, Patriots were ordered, "Don't fire until you see the whites of their eyes".
+
+----
+num: 30
+category: Literature
+difficulty: 800
+seen: 4
+answer: synonyms
+
+A thesaurus lists antonyms & these, just the opposite.
+
+----
+num: 31
+category: Geography
+difficulty: 800
+seen: 8
+answer: China
+
+Laos, Nepal & North Korea are among the 14 nations that border it.
+
+----
+num: 32
+category: Geography
+difficulty: 800
+seen: 7
+answer: a meter
+
+The unit of length called the angstrom is equal to one 10 billionth of one of these units that's a bit more than a yard.
+
+----
+num: 33
+category: History
+difficulty: 1200
+seen: 4
+answer: Valley Forge
+
+In February 1778 Baron Friedrich von Steuben arrived at this Pennsylvania site to train the Continental Army.
+
+----
+num: 34
+category: Geography
+difficulty: 1200
+seen: 6
+answer: Brazil
+
+The people of this country, home to the world's largest tropical rain forest, speak Portuguese.
+
+----
+num: 35
+category: Geography
+difficulty: 1200
+seen: 7
+answer: a chihuahua
+
+This smallest recognized dog breed may derive from another tiny animal, the fennec fox.
+
+----
+num: 36
+category: Literature
+difficulty: 1600
+seen: 5
+answer: capillary
+
+The name of this type of teeny tiny blood vessel comes from the Latin for "pertaining to hair".
+
+----
+num: 37
+category: Geography
+difficulty: 1600
+seen: 8
+answer: Australia
+
+This country's highest point, Mount Kosciuszko, lies in the state of New South Wales.
+
+----
+num: 38
+category: Geography
+difficulty: 1600
+seen: 8
+answer: a fish
+
+Discovered in a swamp in 2006, a new species of this is less than a third of an inch long, fins & all.
+
+----
+num: 39
+category: History
+difficulty: 2000
+seen: 5
+answer: Benedict Arnold
+
+This Connecticut native was a general in both the American & British armies during the war.
+
+----
+num: 40
+category: Literature
+difficulty: 2000
+seen: 5
+answer: Animal Planet
+
+"Cats 101" followed by "Whale Wars" on this Discovery cable channel.
+
+----
+num: 41
+category: Literature
+difficulty: 2000
+seen: 6
+answer: antennae
+
+These segmented sensory appendages on the heads of insects are thought to be touch & smell receptors.
+
+----
+num: 42
+category: Geography
+difficulty: 2000
+seen: 13
+answer: Indonesia
+
+The territory of this largest U.N. member country situated only on islands includes Bali & the Molucca islands.
+
+----
+num: 43
+category: Geography
+difficulty: 2000
+seen: 13
+answer: a dinosaur
+
+Guinness says the smallest footprint made by one of these, back in the Jurassic period, is just .7 inches long.

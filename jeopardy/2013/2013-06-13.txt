@@ -1,0 +1,356 @@
+####
+tournament: #6629
+round: Show #6629 - Thursday, June 13, 2013
+year: 2013
+date: 2013-06-13
+####
+
+num: 1
+category: History
+difficulty: 200
+seen: 5
+answer: Republican
+
+Teddy Roosevelt,.
+
+----
+num: 2
+category: Literature
+difficulty: 200
+seen: 4
+answer: CNN
+
+This network, "the most trusted name in news".
+
+----
+num: 3
+category: Trash
+difficulty: 200
+seen: 6
+answer: (Detroit) Lions
+
+The mascot of this NFC team is named Roary.
+
+----
+num: 4
+category: History
+difficulty: 200
+seen: 5
+answer: emu
+
+The Australian sign seen.
+
+----
+num: 5
+category: Mythology
+difficulty: 200
+seen: 13
+answer: legroom
+
+Some airlines advertise that their seats have more of this so you can stretch out.
+
+----
+num: 6
+category: History
+difficulty: 400
+seen: 4
+answer: Bull Moose
+
+Teddy Roosevelt,.
+
+----
+num: 7
+category: Science
+difficulty: 400
+seen: 5
+answer: liver transplant
+
+In the U.S. hepatitis C is the main reason for this delicate operation first done successfully in 1967.
+
+----
+num: 8
+category: Literature
+difficulty: 400
+seen: 4
+answer: Raid
+
+" ...Kills bugs dead".
+
+----
+num: 9
+category: Trash
+difficulty: 400
+seen: 5
+answer: the Bengals
+
+The Jungle Zone is open at Paul Brown stadium before this team's home games.
+
+----
+num: 10
+category: Mythology
+difficulty: 400
+seen: 12
+answer: linoleum
+
+This flooring invented around 1860 has come back in favor because it's environmentally friendly.
+
+----
+num: 11
+category: Science
+difficulty: 600
+seen: 7
+answer: self-medicate
+
+The OED defines it as "to administer to oneself a drug or (perceived) remedy (sometimes... alcohol)".
+
+----
+num: 12
+category: Literature
+difficulty: 600
+seen: 4
+answer: NyQuil
+
+"The nighttime, sniffling, sneezing, coughing, aching, stuffy head, fever, so you can rest medicine".
+
+----
+num: 13
+category: Trash
+difficulty: 600
+seen: 5
+answer: the Seahawks
+
+Pete Carroll left the sunny climes of L.A. & USC to become head coach of this team in a decidedly Rainier environment.
+
+----
+num: 14
+category: History
+difficulty: 600
+seen: 4
+answer: speed bumps
+
+The Swedish street sign seen.
+
+----
+num: 15
+category: Science
+difficulty: 800
+seen: 5
+answer: dermatologist
+
+This medical specialist also takes care of your hair & nails.
+
+----
+num: 16
+category: Literature
+difficulty: 800
+seen: 4
+answer: Michelin
+
+"Because so much is riding on your tires".
+
+----
+num: 17
+category: Trash
+difficulty: 800
+seen: 5
+answer: (Miami) Dolphins
+
+The website for this team has a section for "Finatics".
+
+----
+num: 18
+category: History
+difficulty: 800
+seen: 3
+answer: Venice
+
+The crossing sign seen.
+
+----
+num: 19
+category: Mythology
+difficulty: 800
+seen: 11
+answer: logjam
+
+A deadlock or impasse.
+
+----
+num: 20
+category: Science
+difficulty: 1000
+seen: 7
+answer: bursitis
+
+Shoulder or knee pain may be this -itis, inflammation of the sac that reduces bone friction.
+
+----
+num: 21
+category: Literature
+difficulty: 1000
+seen: 4
+answer: Gerber
+
+"Babies are our business".
+
+----
+num: 22
+category: Trash
+difficulty: 1000
+seen: 6
+answer: (Altanta) Falcons
+
+The winning entry to name this S.E. team said, "it never drops its prey... and has a great sporting tradition".
+
+----
+num: 23
+category: History
+difficulty: 1000
+seen: 4
+answer: tsunami
+
+The Thai sign indicates that the area is prone to this natural disaster that can result from an earthquake.
+
+----
+num: 24
+category: Mythology
+difficulty: 1000
+seen: 12
+answer: Lyceum
+
+This Greek school stood in a grove sacred to Apollo, the god for whom it was named.
+
+----
+num: 25
+category: Literature
+difficulty: 400
+seen: 4
+answer: (Joseph) Heller
+
+"When I read something saying I've not done anything as good as 'Catch-22' I'm tempted to reply, 'Who has?'".
+
+----
+num: 26
+category: History
+difficulty: 400
+seen: 4
+answer: mace
+
+This 4-letter word is a weapon in 2 senses: a club with a spiked head & a nonlethal spray.
+
+----
+num: 27
+category: History
+difficulty: 400
+seen: 4
+answer: St. Andrew
+
+No word on his putting skills, but he is the patron saint of Scotland.
+
+----
+num: 28
+category: History
+difficulty: 400
+seen: 3
+answer: wilderness
+
+An uninhabited natural region.
+
+----
+num: 29
+category: Literature
+difficulty: 800
+seen: 4
+answer: F. Scott Fitzgerald
+
+"Sometimes I don't know whether Zelda and I are real or whether we are characters in one of my novels".
+
+----
+num: 30
+category: History
+difficulty: 800
+seen: 4
+answer: tartan
+
+Sometimes regarded as a family emblem, it's a distinctive fabric pattern used on plaid kilts.
+
+----
+num: 31
+category: History
+difficulty: 800
+seen: 5
+answer: consciousness
+
+If you "lose" this, you pass out.
+
+----
+num: 32
+category: History
+difficulty: 1200
+seen: 4
+answer: infantry
+
+This term that goes back to a word for "boy" or "youth" referred to those soldiers too inexperienced for the cavalry.
+
+----
+num: 33
+category: Literature
+difficulty: 1200
+seen: 4
+answer: Carol Channing
+
+1964: she was Broadway's original Dolly Levi in "Hello, Dolly".
+
+----
+num: 34
+category: History
+difficulty: 1200
+seen: 4
+answer: sweetness
+
+For his pleasant disposition, NFL running back Walter Payton was dubbed this.
+
+----
+num: 35
+category: Literature
+difficulty: 1600
+seen: 4
+answer: Robert Frost
+
+"I choose to be a... New Hampshire farmer with an income in cash of say a thousand (from...a publisher in New York City)".
+
+----
+num: 36
+category: History
+difficulty: 1600
+seen: 5
+answer: Brown
+
+He's the most recent U.K. prime minister born in Scotland.
+
+----
+num: 37
+category: History
+difficulty: 1600
+seen: 4
+answer: Fairness Doctrine
+
+In 2011 the FCC abandoned this doctrine that required equal time for opposing political views.
+
+----
+num: 38
+category: Literature
+difficulty: 2000
+seen: 6
+answer: Oscar Wilde
+
+Not the modest type, in 1882 he told a U.S. Customs official, "I have nothing to declare except my genius".
+
+----
+num: 39
+category: History
+difficulty: 2000
+seen: 5
+answer: Jehovah\'s Witnesses
+
+In 1931 the religious group called the watch tower Bible and tract society adopted this new name.

@@ -1,0 +1,295 @@
+####
+tournament: Regional B
+round: round17.pdf
+year: 2002
+####
+
+num: 1
+category: Physics
+difficulty: HS
+seen: 1
+answer: Y)  Higgs Boson
+
+Which of the following particles has not yet been detected but is generally theorized to exist:
+W) fermionic hadrons 
+X) gluons 
+Y) Higgs boson 
+Z) mesons
+
+----
+num: 2
+category: Chemistry
+difficulty: HS
+seen: 1
+answer: W)  3 Single Up Arrows
+
+Electron configurations can be specified using orbital-filling diagrams, in which electrons are represented in standard nomenclature by up and down arrows. 
+Which of the following best describes the arrows representing the 4p orbitals in Arsenic, whose atomic number is 33:
+W) 3 single up arrows 
+X) one pair of up and down arrows, and a single up arrow 
+Y) 3 pairs of up and down arrows 
+Z) two pairs of up and down a rrows and a single down arrow
+
+----
+num: 3
+category: Biology
+difficulty: HS
+answer: Z)  Cholesterol
+
+Which of the following would be LEAST soluble in distilled water:
+W) propanoic acid 
+X) phosphoglyceraldehyde 
+Y) methanol 
+Z) cholesterol
+
+----
+num: 4
+category: Astronomy
+difficulty: HS
+answer: Y)  Kellner
+
+Which of the following eyepieces is a modified Ramsden eyepiece with an achromatic lens:
+W) Huygens 
+X) orthoscopic 
+Y) Kellner 
+Z) Erfle
+
+----
+num: 6
+category: Earth Science
+difficulty: HS
+seen: 1
+answer: X)  Ferrel Cell
+
+In the general Circulation of the atmosphere, what is the name given to the middle latitude cell marked by sinking motion near 30 ° and rising motion near 60 °latitude:
+W) Polar cell 
+X) Ferrel cell 
+Y) Hadley cell 
+Z) Rossby cell
+
+----
+num: 7
+category: General Science
+difficulty: HS
+seen: 1
+answer: Z)  Aluminum
+
+Which of the following would best be used for an application that required a meta l that does not emit sparks, resists corrosion, becomes stronger under very cold temperatures, and is an excellent thermal conductor:
+W) iron 
+X) tin 
+Y) copper 
+Z) aluminum
+
+----
+num: 8
+category: Computer Science
+difficulty: HS
+answer: Z)  Set a Specification for Digital Transmission of Data Over 
+Analog Phone Lines
+
+The purpose of an ISDN network is to:
+W) determine a server’s IP address from a domain name 
+X) translate binary files to text-based email messaging 
+Y) coordinate packet information for the many IP packets and addresses in an online transmission 
+Z) set a specification fo r digital transmission of da ta over analog phone lines
+
+----
+num: 8
+category: Computer Science
+difficulty: HS
+answer: Y)  a Mapping From a Field in One Table to Information in 
+Another Table
+
+In Oracle databases, a foreign key is:
+W) a field which designates the langua ge in which the table is represented 
+X) a key to decrypt the information in a table 
+Y) a mapping from a field in one ta ble to information in another table 
+Z) a link to a web site about the table
+
+----
+num: 9
+category: Physics
+difficulty: HS
+seen: 1
+answer: Z)  the Connection Be Tween Magnetism and Electricity
+
+Oersted, during a classroom demonstration, accidentally showed the first example of:
+W) capacitance 
+X) artificial lightening 
+Y) electricity being stored in a capacitor 
+Z) the connection between magnetism and electricity
+
+----
+num: 10
+category: Chemistry
+difficulty: HS
+answer: Y)  Alkenes
+
+Addition reactions in organic chemistry are characteristic of:
+W) alkanes 
+X) aromatic compounds 
+Y) alkenes 
+Z) ketones
+
+----
+num: 11
+category: Biology
+difficulty: HS
+answer: W)  the Hematocrit Mutiplied by Ten and Then Divided by the 
+Red Cell Count in Milli Ons Per Microliter
+
+The mean corpuscular volume of erythrocytes is obtained by which of the following:
+W) the hematocrit multiplied by ten and then divide d by the red cell count in millions per microliter 
+X) the red cell count per cc divided by the hematocrit 
+Y) the red cell count pe r cc divided by 7 microns 
+Z) the hemoglobin value divided by the hematocrit
+
+----
+num: 12
+category: Astronomy
+difficulty: HS
+answer: Y)   Constellations
+
+Crux, Ara, Reticulum, and Tucana are all best known as:
+W) craters on the moon 
+X) canals on mars 
+Y) constellations 
+Z) maria on the moon
+
+----
+num: 13
+category: Math
+difficulty: HS
+answer: Z)  E > 1
+
+Which of the following eccentr icities describes a hyperbola:
+W) e = 0 
+X) 0 < e < 1 
+Y) e = 1 
+Z) e > 1
+
+----
+num: 14
+category: Earth Science
+difficulty: HS
+seen: 1
+answer: Y)  Huge Circulatory Convection Cells Moving From the 
+Equator to the Poles
+
+If the Earth were nonrotati ng, global wind circulation would most likely resemble:
+W) the doldrums 
+X) huge circulatory convection cells paralleling lines of latitude 
+Y) huge circulatory convection cells m oving from the equator to the poles 
+Z) global circulation would cease
+
+----
+num: 15
+category: General Science
+difficulty: HS
+seen: 1
+answer: W)  280- 320 Nanometers
+
+The carcinogenic effects of sunlight on skin are caused by light in which of the following wavelength ranges:
+W) 280-320 nanometers 
+X) 320-360 nanometers 
+Y) 400-450 nanometers 
+Z) 1.0-1.5 micrometers
+
+----
+num: 16
+category: Computer Science
+difficulty: HS
+answer: W)  Fortran
+(Solution:  Pass by Reference)
+
+All of these programming languages allow variables to pass by value EXCEPT:
+W) FORTRAN 
+X) PASCAL 
+Y) Java 
+Z) Algol-60
+
+----
+num: 17
+category: Physics
+difficulty: HS
+seen: 1
+answer: Y)  the Wave Nature of Light ^
+
+Thomas Young’s double slit experime nts lent strong support in his time to which of the following:
+W) the particle nature of light 
+X) that light could be polarized 
+Y) the wave nature of light 
+Z) the wave particle duality of light
+
+----
+num: 18
+category: Chemistry
+difficulty: HS
+seen: 1
+answer: X)  Raoult’s Law
+
+What rule would be best used to predict the alcohol vapor pressure over 100 proof bourbon:
+W) Henry’s Law 
+X) Raoult’s Law 
+Y) Dalton’s Law of Partial Pressures 
+Z) Boyles Law
+
+----
+num: 19
+category: Biology
+difficulty: HS
+answer: X)  Mast Cell
+
+If a culture of cells from a hype rallergenic person was exposed to fluorescent labeled immunoglubulin E, which of the following cell t ypes would most likely glow the most:
+W) PMN 
+X) mast cell 
+Y) eosinophile (pronounced: E-O-sin-O-fill) 
+Z) macrophage
+
+----
+num: 20
+category: Math
+difficulty: HS
+answer: W)  a Type 1 Error Rejects  the Null Hypothesis When It Is True
+
+Which of the following is TRUE about tests of significance:
+W) a type 1 error rejects the null hypothesis when it is true 
+X) a type 1 error accepts the null hypothesis when it is true 
+Y) a type 2 error rejects the null hypothesis when it is true 
+Z) a type 2 has no relati onship to the null hypothesis
+
+----
+num: 21
+category: Earth Science
+difficulty: HS
+answer: X)  Katabatic Winds
+
+Cape Dennison in Antarctica holds the world’s record for the highest annual average wind speeds owing to:
+W) Chinook winds 
+X) katabatic winds 
+Y) Hadley cell circulation 
+Z) Ekman spirals
+
+----
+num: 22
+category: General Science
+difficulty: HS
+answer: X)  Culex
+
+Yellow fever is transmitted by what genus of mosquito:
+W) Anopheles (read as: ann-off-a-lees) 
+X) Culex (reas as: CUE-lex) 
+Y) Aedes
+Z) Culiseta (read as: cue-lee-see-ta)
+
+----
+num: 25
+category: Biology
+difficulty: HS
+answer: Z)  Flowering
+
+Which of the following res ponses does indoleacetic acid NOT usually produce in plants:
+W) vascular cell differentiation 
+X) fruit maturation 
+Y) cell elongation 
+Z) flowering

@@ -1,0 +1,429 @@
+####
+tournament: #6301
+round: Show #6301 - Monday, January 30, 2012
+year: 2012
+date: 2012-01-30
+####
+
+num: 1
+category: Literature
+difficulty: 200
+seen: 4
+answer: a black tie
+
+If an invitation specifies this tie, it means it's a semiformal occasion & a tuxedo is required for men.
+
+----
+num: 2
+category: Trash
+difficulty: 200
+seen: 7
+answer: Keith Urban
+
+He sings to wife Nicole Kidman on the slow songs on his "Get Closer" CD.
+
+----
+num: 3
+category: Art
+difficulty: 200
+seen: 4
+answer: Renaissance
+
+The name of this art style literally means "rebirth" in French.
+
+----
+num: 4
+category: Literature
+difficulty: 200
+seen: 4
+answer: an ace
+
+A hole in one, or a skilled fighter pilot.
+
+----
+num: 5
+category: Literature
+difficulty: 200
+seen: 4
+answer: the weather
+
+"Everybody talks about" this, "but nobody does anything about it".
+
+----
+num: 6
+category: Literature
+difficulty: 400
+seen: 4
+answer: a white tie
+
+If an invitation specifies this tie, it means it's a formal occasion & tails are required for men.
+
+----
+num: 7
+category: Trash
+difficulty: 400
+seen: 5
+answer: Taylor Swift
+
+Some of the songs on her 2010 CD "Speak Now" are said to be about Kanye West, Taylor Lautner & John Mayer.
+
+----
+num: 8
+category: Art
+difficulty: 400
+seen: 5
+answer: relief
+
+Donatello used a relatively flat type of.
+
+----
+num: 9
+category: Literature
+difficulty: 400
+seen: 4
+answer: a jack
+
+It's a connecting device in an electrical circuit designed for the insertion of a plug.
+
+----
+num: 10
+category: History
+difficulty: 400
+seen: 4
+answer: Kansas
+
+The wild native sunflower.
+
+----
+num: 11
+category: Literature
+difficulty: 400
+seen: 5
+answer: San Francisco
+
+"The coldest winter I ever spent was a summer in" this California city.
+
+----
+num: 12
+category: Trash
+difficulty: 600
+seen: 5
+answer: Led Zeppelin
+
+This group saw the writing on the wall in 1975 with "Physical Graffiti".
+
+----
+num: 13
+category: Art
+difficulty: 600
+seen: 4
+answer: Realism
+
+Naturalistic -ism practiced by Caravaggio & Courbet.
+
+----
+num: 14
+category: Literature
+difficulty: 600
+seen: 4
+answer: Trey
+
+Phish musician Ernest Joseph Anastasio III, like many guys with III in their names, goes by this.
+
+----
+num: 15
+category: History
+difficulty: 600
+seen: 4
+answer: Colorado
+
+The Rocky Mountain columbine.
+
+----
+num: 16
+category: Literature
+difficulty: 600
+seen: 4
+answer: doubt
+
+"It is better to keep your mouth shut and appear stupid than to open it and remove all" this.
+
+----
+num: 17
+category: Literature
+difficulty: 800
+seen: 4
+answer: a Windsor
+
+This way of tying a tie honors a later title of Prince Edward, who popularized it in the 1920s.
+
+----
+num: 18
+category: Trash
+difficulty: 800
+seen: 4
+answer: Sade
+
+This Nigerian-born woman returned in 2010 with "Soldier of Love", which topped the Billboard album chart.
+
+----
+num: 19
+category: Literature
+difficulty: 800
+seen: 4
+answer: king
+
+The word shah means this in Persian.
+
+----
+num: 20
+category: History
+difficulty: 800
+seen: 3
+answer: Florida
+
+The orange blossom.
+
+----
+num: 21
+category: Literature
+difficulty: 800
+seen: 4
+answer: statistics
+
+"There are three kinds of lies: lies, damned lies and" these.
+
+----
+num: 22
+category: Literature
+difficulty: 1000
+seen: 4
+answer: a four-in-hand
+
+It takes a quartet of steps--at least--to make the slip knot required for the tie with this hyphenated 3-word name.
+
+----
+num: 23
+category: Trash
+difficulty: 1000
+seen: 5
+answer: Adele
+
+Her sophomore album "21" featured her hit "Rolling In The Deep".
+
+----
+num: 24
+category: Literature
+difficulty: 1000
+seen: 4
+answer: a deuce
+
+It's slang for the type of restaurant table seen.
+
+----
+num: 25
+category: History
+difficulty: 1000
+seen: 4
+answer: Hawaii
+
+The yellow hibiscus.
+
+----
+num: 26
+category: Literature
+difficulty: 1000
+seen: 4
+answer: the time
+
+"I would have written a shorter letter, but I did not have" this.
+
+----
+num: 27
+category: History
+difficulty: 400
+seen: 4
+answer: Paris Hilton
+
+A lynx was part of the petting zoo at this hotel heiress' 30th birthday bash in 2011.
+
+----
+num: 28
+category: Geography
+difficulty: 400
+seen: 7
+answer: Melbourne
+
+It's Australia's second-most populous city.
+
+----
+num: 29
+category: Literature
+difficulty: 400
+seen: 3
+answer: ultimatum
+
+It's a final proposal; there was a Bourne one in a 2007 movie title.
+
+----
+num: 30
+category: Trash
+difficulty: 400
+seen: 4
+answer: a Thermos
+
+Keep your coffee hot in a vacuum flask bottle, which got this name in a 1904 contest.
+
+----
+num: 31
+category: History
+difficulty: 800
+seen: 4
+answer: vodka
+
+The Belvedere brand of this paid $100,000 to sponsor a party for Dwyane Wade in 2011.
+
+----
+num: 32
+category: History
+difficulty: 800
+seen: 4
+answer: National Park Service
+
+August 25, 1916:.
+
+----
+num: 33
+category: Literature
+difficulty: 800
+seen: 3
+answer: unique
+
+"The Elements of Style" says it is incorrect to modify this adjective that means "being the only one".
+
+----
+num: 34
+category: Trash
+difficulty: 800
+seen: 5
+answer: Oregon
+
+This West Coast state's 1971 "bottle bill" helped jump-start recycling in the U.S. by banning nonrefundables.
+
+----
+num: 35
+category: History
+difficulty: 1200
+fixed: -1
+seen: 4
+answer: the pen (prison)
+
+A red carpet party for Lil Wayne Nov. 7, 2010 celebrated his homecoming after 8 months here.
+
+----
+num: 36
+category: Geography
+difficulty: 1200
+seen: 7
+answer: Bosnia-Herzegovina
+
+Once part of Yugoslavia, this country consists of a Muslim-Croat federation & a Serbian-led republic.
+
+----
+num: 37
+category: History
+difficulty: 1200
+seen: 5
+answer: a sewing machine
+
+August 12, 1851:.
+
+----
+num: 38
+category: Literature
+difficulty: 1200
+seen: 5
+answer: usurp
+
+This 5-letter verb meaning "to seize by force" is often used of the throne.
+
+----
+num: 39
+category: Trash
+difficulty: 1200
+seen: 5
+answer: Avon Products
+
+Vintage bottles of products from this company, sold door to door by ladies since the 1880s, are now collectibles.
+
+----
+num: 40
+category: Geography
+difficulty: 1600
+seen: 8
+answer: Honduras
+
+Pico Mogoton, Nicaragua's highest point, lies on its northern border with this country.
+
+----
+num: 41
+category: Literature
+difficulty: 1600
+seen: 4
+answer: utilitarianism
+
+John Stuart Mill wrote the book on this philosophy that says an action is right if it promotes happiness.
+
+----
+num: 42
+category: Trash
+difficulty: 1600
+seen: 5
+answer: a bottle rocket
+
+Illegal in many places, this 1 1/2" fireworks item, also the first film Wes Anderson directed, has a 12" stick attached.
+
+----
+num: 43
+category: History
+difficulty: 2000
+seen: 6
+answer: Long Island
+
+Celebs are among the 1,000-plus revelers at Shark Attack Sounds, an annual 4th of July bash at Montauk on this island.
+
+----
+num: 44
+category: Geography
+difficulty: 2000
+seen: 15
+answer: the Great Rift Valley
+
+This "Great" depression stretches about 4,500 miles, from Syria to Mozambique.
+
+----
+num: 45
+category: History
+difficulty: 2000
+seen: 6
+answer: Munich
+
+November 9, 1923:.
+
+----
+num: 46
+category: Literature
+difficulty: 2000
+seen: 6
+answer: an Ulster
+
+Irish name for a long, loose Irish overcoat.
+
+----
+num: 47
+category: Trash
+difficulty: 2000
+seen: 9
+answer: new wine
+
+Matthew 9:17 instructs us that it is not good to put this "into old bottles".

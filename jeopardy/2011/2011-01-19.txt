@@ -1,0 +1,383 @@
+####
+tournament: #6068
+round: Show #6068 - Wednesday, January 19, 2011
+year: 2011
+date: 2011-01-19
+####
+
+num: 1
+category: Science
+difficulty: 200
+seen: 7
+answer: a gene
+
+This basic unit of heredity acts by directing the production of RNA.
+
+----
+num: 2
+category: Literature
+difficulty: 200
+seen: 4
+answer: Jessica
+
+Sarah ____ Parker.
+
+----
+num: 3
+category: Literature
+difficulty: 200
+seen: 4
+answer: Hurricane Katrina
+
+Denise Thornton founded Beacon of Hope to help restore N.O. after this 2005 event; see lakewoodbeacon.org if you want to help.
+
+----
+num: 4
+category: History
+difficulty: 200
+seen: 5
+answer: Luxury Tax
+
+Apparently, diamonds are both forever & $75 when you land on this spot on a Monopoly board.
+
+----
+num: 5
+category: History
+difficulty: 200
+seen: 4
+answer: Houston
+
+Population-wise, by 1980 it had become the fifth-largest city in the U.S.; no problem there.
+
+----
+num: 6
+category: Literature
+difficulty: 400
+seen: 4
+answer: Ivory
+
+Keenen ____ Wayans.
+
+----
+num: 7
+category: Literature
+difficulty: 400
+seen: 4
+answer: Baltimore
+
+Disadvantaged kids can learn to play music with this Maryland city's symphony thanks to Marin Alsop's $100,000 donation.
+
+----
+num: 8
+category: History
+difficulty: 400
+seen: 4
+answer: Xerox
+
+This Fortune 500 company's headquarters are in Norwalk, Connecticut.
+
+----
+num: 9
+category: History
+difficulty: 400
+seen: 4
+answer: Dallas
+
+Check out the I.M. Pei-designed city hall at the south end of downtown in this city, cowboy; it's i-m-pressive.
+
+----
+num: 10
+category: Science
+difficulty: 600
+seen: 6
+answer: a prism
+
+It's the 5-letter term for the transparent solid that disperses light into a spectrum.
+
+----
+num: 11
+category: Literature
+difficulty: 600
+seen: 3
+answer: Hyde
+
+David ____ Pierce.
+
+----
+num: 12
+category: Literature
+difficulty: 600
+seen: 4
+answer: Niagara Falls
+
+In 2003 firefighter Gary Carella & his team saved a man from a 170' fall over Horseshoe Falls, part of this landmark.
+
+----
+num: 13
+category: History
+difficulty: 600
+seen: 4
+answer: Exxon Mobil
+
+This Fortune 500 company's headquarters are in Irving, Texas.
+
+----
+num: 14
+category: History
+difficulty: 600
+seen: 4
+answer: Crawford
+
+From 2001 to 2009 this town was home to "the Western White House".
+
+----
+num: 15
+category: Literature
+difficulty: 800
+seen: 4
+answer: Michelle
+
+Sarah ____ Gellar.
+
+----
+num: 16
+category: Literature
+difficulty: 800
+seen: 4
+answer: (John Philip) Sousa
+
+2005 Natl. Teacher of the Year Jason Kamras did the math at a D.C. middle school named for this "March King".
+
+----
+num: 17
+category: History
+difficulty: 800
+seen: 4
+answer: prix fixe
+
+2-word French term for a type of menu where the charge for a meal is set in stone.
+
+----
+num: 18
+category: History
+difficulty: 800
+seen: 4
+answer: San Antonio
+
+Spain officially founded this city known for its Paseo del Rio (River Walk) in 1718... remember?.
+
+----
+num: 19
+category: Literature
+difficulty: 1000
+seen: 4
+answer: Seymour
+
+Philip ____ Hoffman.
+
+----
+num: 20
+category: Literature
+difficulty: 1000
+seen: 3
+answer: Afghanistan
+
+There are many heroes in our military; we picked Staff Sgt. Michael Keller, at Bagram AFB in this country in 2009... thanks.
+
+----
+num: 21
+category: History
+difficulty: 1000
+seen: 4
+answer: the 
+
+In Cartesian geometry, if you're flatlining, you're drawing this.
+
+----
+num: 22
+category: History
+difficulty: 1000
+seen: 4
+answer: El Paso
+
+You don't get much wester in Texas than this border city, incorporated in 1873 with 173 residents; now it totals 563,000.
+
+----
+num: 23
+category: Trash
+difficulty: 400
+seen: 5
+answer: Elizabeth Taylor
+
+She was married to Larry Fortensky when she played Pearl Slaghoople, Wilma's mom in "The Flintstones" movie.
+
+----
+num: 24
+category: Trash
+difficulty: 400
+seen: 5
+answer: Janet Jackson
+
+In 2008 a federal appeals court tossed a $550,000 FCC fine vs. CBS for this woman's "wardrobe malfunction".
+
+----
+num: 25
+category: Literature
+difficulty: 400
+seen: 4
+answer: (Jonathan) Swift
+
+His "Gulliver's Travels" is savagely bitter, but so witty & imaginative that it became a children's classic.
+
+----
+num: 26
+category: Literature
+difficulty: 400
+seen: 3
+answer: woe
+
+You could probably stop a horse with this exclamation of grief.
+
+----
+num: 27
+category: Trash
+difficulty: 800
+seen: 4
+answer: Dreyfus
+
+In between "Saturday Night Live" & "Seinfeld", she had a small role in "Hannah and Her Sisters".
+
+----
+num: 28
+category: Trash
+difficulty: 800
+seen: 5
+answer: cell phones
+
+An FCC FAQ--"Is there any evidence" these devices "cause cancer?" No, but the FCC is still monitoring it.
+
+----
+num: 29
+category: Literature
+difficulty: 800
+seen: 4
+answer: (Art) Buchwald
+
+The "Art" of this Washington political spoofer won him a Pulitzer in 1982.
+
+----
+num: 30
+category: Literature
+difficulty: 800
+seen: 4
+answer: web
+
+Sir Walter Scott noted that a tangled one results from deception.
+
+----
+num: 31
+category: Art
+difficulty: 1200
+seen: 4
+answer: Mimi
+
+In "La boheme" the poet Rodolfo falls in love with this seamstress who suffers from tuberculosis.
+
+----
+num: 32
+category: Trash
+difficulty: 1200
+seen: 5
+answer: (Renée) Zellweger
+
+Luckily Leatherface didn't have her at hello when she appeared as Jenny in "The Texas Chainsaw Massacre 4".
+
+----
+num: 33
+category: Trash
+difficulty: 1200
+seen: 5
+answer: George Carlin
+
+A 5-4 Supreme Court ruling in a 1978 case about his "filthy words" gave the FCC the ability to censor TV broadcasts.
+
+----
+num: 34
+category: Literature
+difficulty: 1200
+seen: 4
+answer: Christopher Guest
+
+This director, master of the mockumentary, is married to Jamie Lee Curtis.
+
+----
+num: 35
+category: Literature
+difficulty: 1200
+seen: 4
+answer: wad
+
+A roll of something, especially cash.
+
+----
+num: 36
+category: Trash
+difficulty: 1600
+seen: 5
+answer: analog
+
+In March '09 the FCC said stations could stop this type of TV service before June 12 "under certain conditions".
+
+----
+num: 37
+category: Literature
+difficulty: 1600
+seen: 4
+answer: Evelyn Waugh
+
+This Brit's "The Loved One" satirized the California funeral industry.
+
+----
+num: 38
+category: Literature
+difficulty: 1600
+seen: 4
+answer: wry
+
+Ironically humorous: nothing to do with a type of bread.
+
+----
+num: 39
+category: Art
+difficulty: 2000
+seen: 6
+answer: Bayreuth
+
+In 1961, as Venus in "Tannhauser", Grace Bumbry became the first black diva to sing at this Wagner festival.
+
+----
+num: 40
+category: Trash
+difficulty: 2000
+seen: 9
+answer: Liza Minelli
+
+As a toddler she appeared at the end of mom's 1949 movie "In the Good Old Summertime".
+
+----
+num: 41
+category: Trash
+difficulty: 2000
+seen: 9
+answer: Wi-Fi
+
+This rhyming tech. has its origins in a 1985 FCC ruling that released bands of the radio spectrum for unlicensed use.
+
+----
+num: 42
+category: Literature
+difficulty: 2000
+seen: 5
+answer: (Terry) Southern
+
+This "directional" author of the novel "The Magic Christian" co-wrote the script for "Easy Rider".

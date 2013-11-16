@@ -1,0 +1,219 @@
+####
+tournament: Sample Questions
+round: sample_questions_r4.pdf
+####
+
+num: 2
+category: Life Science
+difficulty: MS
+answer: W) Cerebral Cortex
+
+Which of the following is the scientific nam e for the part of the human brain where higher brain operati ons occur such as thinking, imagination, mathematical reasoning and language:
+W ) cerebral cortex 
+X) cerebellum
+Y) medulla oblongata 
+Z) hypothalamus
+
+----
+num: 2
+category: Life Science
+difficulty: MS
+answer: W) Cerebral Cortex
+
+Which of the following is the scientific nam e for the part of the human brain where higher brain operati ons occur such as thinking, imagination, mathematical reasoning and language:
+W ) cerebral cortex 
+X) cerebellum
+Y) medulla oblongata 
+Z) hypothalamus
+
+----
+num: 4
+category: Life Science
+difficulty: MS
+answer: X)  Knee
+
+What is the joint that is f ormed by the articulation of the tibia, fibula, and fe mur?
+W) wrist 
+X) knee 
+Y) elbow 
+Z) ankle
+
+----
+num: 4
+category: Life Science
+difficulty: MS
+answer: Z)  Capillaries
+
+The exchange of gases between blood and the tissue occurs normally in:
+W) venules 
+X) arterioles 
+Y) veins 
+Z) capillaries
+
+----
+num: 4
+category: Life Science
+difficulty: MS
+answer: X)  Knee
+
+What is the joint that is f ormed by the articulation of the tibia, fibula, and fe mur?
+W) wrist 
+X) knee 
+Y) elbow 
+Z) ankle
+
+----
+num: 4
+category: Life Science
+difficulty: MS
+answer: Z)  Capillaries
+
+The exchange of gases between blood and the tissue occurs normally in:
+W) venules 
+X) arterioles 
+Y) veins 
+Z) capillaries
+
+----
+num: 9
+category: Earth Science
+difficulty: MS
+answer: Z)  Mica
+
+Which of the following minerals best illustrates the property of cleavage:
+W) quartz 
+X) diamond 
+Y) topaz 
+Z) m ica
+
+----
+num: 9
+category: Earth Science
+difficulty: MS
+answer: Z)  Mica
+
+Which of the following minerals best illustrates the property of cleavage:
+W) quartz 
+X) diamond 
+Y) topaz 
+Z) m ica
+
+----
+num: 12
+category: Life Science
+difficulty: MS
+answer: W) Robert Hooke
+
+In 1665, what person, using a microscope he built, observed perforations in plant stems, which he called cells:
+W) Robert Hooke 
+X) Anton Van Leewenhoek 
+Y) Carolus Linnaeus 
+Z) Theodor Schwann
+
+----
+num: 12
+category: Life Science
+difficulty: MS
+answer: W) Robert Hooke
+
+In 1665, what person, using a microscope he built, observed perforations in plant stems, which he called cells:
+W) Robert Hooke 
+X) Anton Van Leewenhoek 
+Y) Carolus Linnaeus 
+Z) Theodor Schwann
+
+----
+num: 19
+category: General Science
+difficulty: MS
+answer: Y)  Venus, Mars, Earth
+
+Which list is out of order of closest to furthest distan ce from the sun:
+W) Mercury, Venus, Earth 
+X) Jupiter, Saturn, Neptune 
+Y) Venus, Mars, Earth
+Z) Mercury, Jupiter, Pluto
+
+----
+num: 19
+category: General Science
+difficulty: MS
+answer: Y)  Venus, Mars, Earth
+
+Which list is out of order of closest to furthest distan ce from the sun:
+W) Mercury, Venus, Earth 
+X) Jupiter, Saturn, Neptune 
+Y) Venus, Mars, Earth
+Z) Mercury, Jupiter, Pluto
+
+----
+num: 20
+category: Physical Science
+difficulty: MS
+answer: Z)  Gold
+
+At 100 degrees Fahrenheit, which of the following substances would feel hottest to touch?
+W) wood 
+X) water 
+Y) sand 
+Z) gold
+
+----
+num: 20
+category: Physical Science
+difficulty: MS
+answer: Z)  Gold
+
+At 100 degrees Fahrenheit, which of the following substances would feel hottest to touch?
+W) wood 
+X) water 
+Y) sand 
+Z) gold
+
+----
+num: 22
+category: Physical Science
+difficulty: MS
+answer: X)  Diffraction
+
+What property of waves allows them to bend around the edges of obstacle:
+W) reflection 
+X) diffraction 
+Y) deflection 
+Z) dispersio n
+
+----
+num: 22
+category: Physical Science
+difficulty: MS
+answer: X)  Diffraction
+
+What property of waves allows them to bend around the edges of obstacle:
+W) reflection 
+X) diffraction 
+Y) deflection 
+Z) dispersio n
+
+----
+num: 23
+category: Life Science
+difficulty: MS
+answer: Z)  Formatism
+
+Which of the following is not a case of sym biosis:
+W) parasitism
+X) commensalism 
+Y) mutualism
+Z) formatism
+
+----
+num: 23
+category: Life Science
+difficulty: MS
+answer: Z)  Formatism
+
+Which of the following is not a case of sym biosis:
+W) parasitism
+X) commensalism 
+Y) mutualism
+Z) formatism

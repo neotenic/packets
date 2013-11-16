@@ -1,0 +1,214 @@
+####
+tournament: Fall Novice
+round: round12.doc
+year: 2009
+####
+
+num: 1
+category: Science
+difficulty: HS
+fixed: 57
+seen: 490
+answer: {matrix} or {matrices}
+
+Certain types of these entities have characteristic functions, which can help in finding the eigenvalues and traces of these entities. Different ones represent unique linear transformations., and operations on them include “transpose.” One quantity associated with them can solve linear equations with Cramer's Rule; that quantity, the determinant, is equal to A times D minus B times C in a “square” one of these. For 10 points, name these rectangular arrays of numbers.
+
+----
+num: 2
+category: Geography
+difficulty: HS
+fixed: None
+seen: 713
+answer: Russian Federation or {Rossiyskaya} Federatsiya
+
+Possessions of this nation include Franz Joseph Land and the disputed Kuril Islands, and this country's major cities include Kazan, Yekaterinburg, and Nizhny Novgorod. This country contains the tallest mountain in Europe, Mount Elbrus, and the deepest lake in the world, Baikal. The Ural Mountains divide Asia and Europe in this country. For 10 points, name this country with capital at Moscow that is, by area, the largest in the world.
+
+----
+num: 3
+category: Trash
+difficulty: HS
+fixed: 1
+seen: 1026
+answer: {cats} [accept equivalents]
+
+One animated show about this animal featured Benny the Ball and Choo-Choo, while another of these pursues Hippety Hopper in a series of cartoons. One of these animals attempts to eat Nibbles, and in Friends, Phoebe sings about a “smelly” one of these. They also title a musical known for the song “Memory” and one of these animals is owned by Jon and voraciously eats lasagna. For 10 points, name this mammal exemplified by Tom, Sylvester, the title figures of an Andrew Lloyd Webber musical, and Garfield.
+
+----
+num: 4
+category: Science
+difficulty: HS
+fixed: 57
+seen: 484
+answer: {ammonia} [accept {NH3} until mentioned]
+
+Along with sodium and carbon dioxide, this compound is used in the Solvay process, and this compound is used as a catalyst for manufacturing Bakelite. The industrial process that produces this compound uses an iron catalyst, and this molecule is then used as a reactant for the Ostwald process. The result of nitrogen fixation and an important fertilizer, for 10 points, name this product of the Haber-Bosch process with chemical formula NH3.
+
+----
+num: 5
+category: Science
+difficulty: HS
+fixed: 1
+seen: 486
+answer: {HIV} or {Human Immunodeficiency Virus}
+
+This virus uses the proteins gp41 and gp120 to enter cells, and Kaposi's sarcoma, a type of skin cancer, is a sign of its progression. It sharply reduces an infected person's count of CD4+ helper T cells. AZT is shorthand for an anti-retroviral drug treatment of it, and its ongoing pandemic started in 1981. For 10 points, name this sexually-transmitted infection, a virus that usually leads to AIDS.
+
+----
+num: 6
+category: Science
+difficulty: HS
+fixed: 57
+seen: 491
+answer: laws of {thermodynamics} (accept {Third Law} of {Thermodynamics} until "{another}")
+
+One of these principles follows from the Nernst Heat Theorem, which discusses that Gibbs Free Energy and enthalpy approach each other at small temperatures. According to another one of these principles, a heat engine with one hundred percent efficiency is impossible. Another of this set of principles discusses the conservation of energy with regards to heat and work done by its surroundings. For 10 points, name these four laws of physics, which discuss the conversion of energy into work and heat.
+
+----
+num: 7
+category: Social Science
+difficulty: HS
+fixed: 57
+seen: 382
+answer: Avram Noam Chomsky
+
+This man developed a theory which attempts to predict the formation of grammatically correct sentences, and that theory is known as generative grammar. This man also published the book Syntactic Structures, which contains his idea of transformational grammar. To create a completely nonsensical phrase with correct grammar, this man coined the sentence “colorless green ideas sleep furiously.” For 10 points, name this MIT linguist and leftist political commentator.
+
+----
+num: 8
+category: History
+difficulty: HS
+fixed: 1
+seen: 413
+answer: Battle of {Lepanto}
+
+Preceded by the capture of Nicosia and siege of Famagusta, this battle saw fighting between wings led by Mehmet Suluk and Barbarigo. A crisis in this battle occurred when Andrea Doria was lured away by Ali Pasha, opening up a hole in the Holy League's line. Miguel de Cervantes fought in this battle, and Don John of Austria led the victorious side. For ten points, name this 1571 naval battle that halted Ottoman expansion into the Mediterranean.
+
+----
+num: 9
+category: Fine Arts
+difficulty: HS
+fixed: 1
+seen: 489
+answer: Gioacchino {Rossini}
+
+This composer's operas include Semiramide and Tancredi. In one of his operas, Ninetta is accused of stealing a spoon. In another, the title character shoots an apple off the head of his son Jemmy. Besides writing The Thieving Magpie and William Tell, he composed the aria “Largo al Factotum” for an opera in which Count Almaviva marries Rosina with the help of Figaro. For ten points, name this composer of The Barber of Seville.
+
+----
+num: 10
+category: Science
+difficulty: HS
+fixed: 57
+seen: 486
+answer: white {dwarf}
+
+These objects can emit surface helium flash as they accrete matter from binary companions. Their upper mass limit, about 1.44 solar masses, is named for the Indian physicist Chandrasekhar; above it, electron degeneracy pressure fails and they collapse into neutron stars. Largely incapable of undergoing fusion, this is, for 10 points, what type of faintly luminous, small stellar remnant, not to be confused with “red” and “brown” stars of the same size?
+
+----
+num: 11
+category: History
+difficulty: HS
+fixed: 1
+seen: 419
+answer: {Genghis Khan} [accept similar sounding things, like Chingis Khan; also accept {Temujin} before mentioned; do not accept or prompt on Khan]
+
+This man defeated his friend Jemukha in battle and was exiled by the Taychiut family after his father Yesugei's death. This man conquered the Khwarezmid Empire. He also defeated both the Xi Xia and Jin Dynasties, and after his death, he was succeeded not by Jochi or Chatagai, but by his third son, Ogodai. This man, born Temujin, conquered the largest contiguous empire in the history of the world. For 10 points, name this man, who united the Mongols.
+
+----
+num: 12
+category: Literature
+difficulty: HS
+fixed: 57
+seen: 450
+answer: James {Joyce}
+
+This man wrote about Gabriel Conroy's discovery of his wife's love for Michael Furey in the short story “The Dead.” This author also wrote a novel whose protagonist loves Emma and is the nephew of Dante Riordan, as well as the collection Dubliners. This man wrote another novel featuring Stephen Daedalus in which he meets the man whose day that novel describes, Leopold Bloom. For 10 points, name this author of A Portrait of the Artist as a Young Man and Ulysses.
+
+----
+num: 13
+category: History
+difficulty: HS
+fixed: 57
+seen: 416
+answer: {Cross} of {Gold} speech
+
+Its speaker says that an "Andrew Jackson” is needed to stand "against the encroachments of aggregated wealth.” The title phrase of this speech is preceded by a commandment not to “press down upon the brow of labor this crown of thorns.” Given at the 1896 Democratic National Convention, this speech was in favor of the coinage of silver and bimetallism. For 10 points, identify this speech by William Jennings Bryan, in which he declares that "you shall not crucify mankind" upon the title entity.
+
+----
+num: 14
+category: Literature
+difficulty: HS
+fixed: 1
+seen: 440
+answer: Toni {Morrison} Accept Chloe Anthony Wofford
+
+In one novel by this author, Soaphead tricks the protagonist into poisoning his landlady's dog as she pursues the title feature, and in another novel, Guitar Bains befriends but later fights Milkman Dead after a search for gold. Another of her novels sees an escaped slave from Sweet Home Plantation, Sethe, kill her daughter to prevent her from being recaptured. For 10 points, name this author of The Bluest Eye, Song of Solomon, and Beloved.
+
+----
+num: 15
+category: Fine Arts
+difficulty: HS
+fixed: 1
+seen: 492
+answer: Frank Lloyd {Wright}
+
+One structure this architect designed has an exterior with Roman brick and art glass windows and can be found in Oak Park. This architect designed a home in Wisconsin with limestone chimneys and stucco walls which has a western counterpart in Arizona. In addition to the Robie House and Taliesin, a well-known work by this man has a fireplace built of boulders, exhibiting organic design, and is also known as the Kaufman Residence. For 10 points, name this Prairie School architect of Fallingwater.
+
+----
+num: 16
+category: Mythology
+difficulty: HS
+fixed: 1
+seen: 786
+answer: Shintoism
+
+This faith experienced a revival under its country's National Learning movement, and this religion's god of thunder is known as Raijin. Its creation myth is centered on a spear stirred in the water, and the Ise Jingu is one of the most important of this religion's many shrines. Its deities include Uzume and Susanowo, as well as Izanami and Izanagi, and are known as kami. For 10 points, name this religion whose chief deity is Amaterasu, an animistic religion which originated in Japan.
+
+----
+num: 17
+category: Literature
+difficulty: HS
+fixed: 1
+seen: 442
+answer: Aleksandr {Pushkin}
+
+This man wrote a poem about a St. Petersburg statue of Peter the Great as well as one in which Chernomor kidnaps a princess before she can marry a knight. In addition to “The Bronze Horseman” and “Ruslan and Lyudmila,” this man wrote a play about the downfall of a man who had Dimitry murdered, and another work by this man sees the title character duel Lensky because of Olga and Tatyana. For 10 points, name this author of Boris Godunov and Eugene Onegin.
+
+----
+num: 18
+category: Mythology
+difficulty: HS
+fixed: 1
+seen: 793
+answer: Thoth
+
+Some sources conflate this god with the lunar god Khonsu. Also known as Djehuty and Hermes Trismegistus, he restored Horus' eye, and his cult was centered at Hermopolis. This god served as a mediator and also wrote the Book of the Dead. His consort was Ma'at, and at the judgment of the dead, he stood beside the scales and took down the result. For 10 points, name this powerful Egyptian god of magic, wisdom, and writing often represented as a baboon or an ibis.
+
+----
+num: 19
+category: Science
+difficulty: HS
+fixed: 1
+seen: 492
+answer: {Porifera} [accept {sponges} until “name {this phylum}” is read]
+
+Sclerocytes form the skeletal structure of these organisms by making spicules. Their outsides contain the multi-purpose archeocytes, also known as amoebocytes, and in many of these organisms, flagella-bearing cells known as choanocytes maintain an internal water flow, which is used for feeding and respiration before being expelled through a hole called the osculum. The most primitive member of the Animal kingdom, for 10 points, name this phylum consisting mainly of sea sponges.
+
+----
+num: 20
+category: History
+difficulty: HS
+fixed: -1
+seen: 428
+answer: King {Henry VIII} of England (accept {Henry} after "{eighth}"; prompt on it before)
+
+For writing Defense of the Seven Sacraments, this ruler was given the title "Defender of the Faith." This ruler followed the advice of Thomas Cromwell to pass the Acts of Supremacy and arrested Cardinal Wolsey. After being refused an annulment, he founded the Church of England. For 10 points, Anne of Cleves, Jane Seymour, Catherine of Aragon, and Anne Boleyn were some of the six wives of what English king, the eighth of his name?
+
+----
+num: 21
+category: Literature
+difficulty: HS
+fixed: 1
+seen: 445
+answer: The {Pilgrim's Progress} From This World to That Which is to Come
+
+In the first part of this novel, the title character stops at the Interpreter's House, where he learns about scripture, and is accompanied by Hopeful, while in the second part another protagonist is assisted by Great-Heart. This novel's protagonist must cross the River of Death, fights the demon Apollyon, and, with Faithful, travels to Vanity Fair on his journey. That protagonist is Christian, who appears in the author's dream. For 10 points, name this religious allegory by John Bunyan.

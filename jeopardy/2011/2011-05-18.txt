@@ -1,0 +1,411 @@
+####
+tournament: #6153
+round: Show #6153 - Wednesday, May 18, 2011
+year: 2011
+date: 2011-05-18
+####
+
+num: 1
+category: Art
+difficulty: 200
+seen: 5
+answer: lovers
+
+St. Valentine is the patron saint of these, which "the world will always welcome".
+
+----
+num: 2
+category: Trash
+difficulty: 200
+seen: 6
+answer: Michael Jackson
+
+1983: This singer's "Thriller".
+
+----
+num: 3
+category: Literature
+difficulty: 200
+seen: 3
+answer: Old King Cole
+
+He "was a merry old soul, and a merry old soul was he".
+
+----
+num: 4
+category: History
+difficulty: 200
+seen: 5
+answer: the Declaration of Independence
+
+Georgians Button Gwinnett, Lyman Hall & George Walton all signed this document in 1776.
+
+----
+num: 5
+category: Literature
+difficulty: 200
+seen: 4
+answer: (Luther) Burbank
+
+This botanist is in the U.S. Inventors Hall of Fame for a variety of peach he developed, not his potato.
+
+----
+num: 6
+category: Art
+difficulty: 400
+seen: 4
+answer: St. Christopher
+
+He's the patron saint of travelers & motorists; give him a medal.
+
+----
+num: 7
+category: Trash
+difficulty: 400
+seen: 6
+answer: Alanis Morissette
+
+1995: Her "Jagged Little Pill".
+
+----
+num: 8
+category: Literature
+difficulty: 400
+seen: 4
+answer: (Little Jack) Horner
+
+He said, "What a good boy am I!"--if he's so good, why was he in the corner?.
+
+----
+num: 9
+category: History
+difficulty: 400
+seen: 4
+answer: mayor
+
+From 1942 to 1961 it was the occupation of William Hartsfield, for whom Atlanta's Intl. Airport is named.
+
+----
+num: 10
+category: Literature
+difficulty: 400
+seen: 4
+answer: Southern Comfort
+
+Available in 100 proof & 76 proof varieties, this "Southern" potent potable is a peach-flavored bourbon liqueur.
+
+----
+num: 11
+category: Art
+difficulty: 600
+seen: 3
+answer: Joseph
+
+This biblical husband is the patron saint of carpenters.
+
+----
+num: 12
+category: Trash
+difficulty: 600
+seen: 5
+answer: Billy Joel
+
+1979: His "52nd Street".
+
+----
+num: 13
+category: Literature
+difficulty: 600
+seen: 4
+answer: the candlestick
+
+"Jack be nimble, Jack be quick, Jack jump over" this.
+
+----
+num: 14
+category: Literature
+difficulty: 600
+seen: 4
+answer: Italy
+
+The main European producer of peaches is this nation, growing vast quantities of them in its Campania region.
+
+----
+num: 15
+category: Art
+difficulty: 800
+seen: 4
+answer: dancers
+
+St. Vitus is the patron saint of these performers.
+
+----
+num: 16
+category: Trash
+difficulty: 800
+seen: 4
+answer: Phil Collins
+
+1985: His "No Jacket Required".
+
+----
+num: 17
+category: Literature
+difficulty: 800
+seen: 4
+answer: contrary
+
+Mary, Mary who grows silver bells in her garden is quite this, opposite in position or character.
+
+----
+num: 18
+category: History
+difficulty: 800
+seen: 4
+answer: Dean Rusk
+
+This Georgia-born Secretary of State served under 2 presidents from 1961 to 1969.
+
+----
+num: 19
+category: Literature
+difficulty: 800
+seen: 4
+answer: the mango
+
+This sweet fruit is known as the "peach of the tropics".
+
+----
+num: 20
+category: Art
+difficulty: 1000
+seen: 4
+answer: nurses
+
+These hospital employees have their patron in St. Agatha.
+
+----
+num: 21
+category: Trash
+difficulty: 1000
+seen: 4
+answer: Taylor Swift
+
+2009: Her "Fearless".
+
+----
+num: 22
+category: Literature
+difficulty: 1000
+seen: 5
+answer: Wee Willie Winkie
+
+This little guy "runs through the town, upstairs and downstairs, in his nightgown".
+
+----
+num: 23
+category: History
+difficulty: 1000
+seen: 4
+answer: Hernando de Soto
+
+In 1540 this Spaniard became the first European to explore the interior of Georgia.
+
+----
+num: 24
+category: Literature
+difficulty: 1000
+seen: 4
+answer: Persia
+
+The word peach comes from Malum persicum, meaning "apple of" this empire.
+
+----
+num: 25
+category: Geography
+difficulty: 400
+seen: 7
+answer: Lake Erie
+
+The shallowest of the Great Lakes, it was the site of a U.S. naval victory in 1813.
+
+----
+num: 26
+category: Science
+difficulty: 400
+seen: 5
+answer: laryngitis
+
+A temporary loss of the voice is a symptom of this, inflammation of the mucous membrane of the voice box.
+
+----
+num: 27
+category: History
+difficulty: 400
+seen: 4
+answer: Barack Obama
+
+"If there's one thing that has unified Democrats and Republicans, it's that we all hated the bank bailout".
+
+----
+num: 28
+category: Literature
+difficulty: 400
+seen: 3
+answer: massacre
+
+"Slaughter" ends in -er; this other word for the killing of many ends in -re.
+
+----
+num: 29
+category: Geography
+difficulty: 800
+seen: 7
+answer: the Seine
+
+Rising on the Langres Plateau & heading for the capital, it's the second-longest river in France.
+
+----
+num: 30
+category: Literature
+difficulty: 800
+seen: 4
+answer: Brad Pitt
+
+In "Legends of the Fall", "It was a good death" as he gets killed by the grizzly he wounded as a kid.
+
+----
+num: 31
+category: Science
+difficulty: 800
+fixed: -1
+seen: 7
+answer: HDL
+
+On a blood test, a level of 60 or above of this, the "good cholesterol", is healthy.
+
+----
+num: 32
+category: Trash
+difficulty: 800
+seen: 5
+answer: scuba gear
+
+Buoyancy compensator,.
+
+----
+num: 33
+category: History
+difficulty: 800
+seen: 4
+answer: Nixon
+
+"Five years ago, our college campuses were a battleground".
+
+----
+num: 34
+category: Literature
+difficulty: 800
+seen: 4
+answer: ogre
+
+The name of this man-eating fairy tale monster was popularized by French author Charles Perrault.
+
+----
+num: 35
+category: Literature
+difficulty: 1200
+seen: 4
+answer: Will Smith
+
+In "Seven Pounds" this actor gets in a bathtub with a deadly box jellyfish.
+
+----
+num: 36
+category: Science
+difficulty: 1200
+seen: 6
+answer: embolism
+
+From the Greek for "stopper", it's a clot, as of fat or blood, that can get lodged in a blood vessel & obstruct it.
+
+----
+num: 37
+category: Literature
+difficulty: 1200
+seen: 4
+answer: nacre
+
+Composed of calcium carbonate & conchiolin, it creates the iridescent effect attributed to pearls.
+
+----
+num: 38
+category: Science
+difficulty: 1600
+seen: 5
+answer: tonsils
+
+The adenoids are also called the pharyngeal these.
+
+----
+num: 39
+category: Trash
+difficulty: 1600
+seen: 6
+answer: a parachute
+
+If the $1200 response gets in big trouble--.
+
+----
+num: 40
+category: History
+difficulty: 1600
+seen: 5
+answer: John F. Kennedy
+
+"'Mister Sam' Rayburn is gone.  Neither this house nor the nation is the same without him".
+
+----
+num: 41
+category: Literature
+difficulty: 1600
+seen: 5
+answer: lucre
+
+The Tyndale Bible translated a Greek passage meaning "shameful gain", as "filthy" this.
+
+----
+num: 42
+category: Geography
+difficulty: 2000
+seen: 14
+answer: Tanganyika
+
+Once the name of a country, this is still the name of a lake in East Central Africa with a depth of over 4,700 feet.
+
+----
+num: 43
+category: Science
+difficulty: 2000
+seen: 8
+answer: cleft palate
+
+It's the 2-word term for the birth defect in which the roof of the mouth fails to close.
+
+----
+num: 44
+category: History
+difficulty: 2000
+seen: 6
+answer: George W. Bush
+
+"I know Congress had to... invite me & it could've been a close vote.  So, Mr. VP, I appreciate you being here to break the tie".
+
+----
+num: 45
+category: Literature
+difficulty: 2000
+seen: 5
+answer: timbre
+
+This quality of sound distinguishes it from other sounds of the same pitch & volume.

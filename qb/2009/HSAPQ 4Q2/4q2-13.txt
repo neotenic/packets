@@ -1,0 +1,334 @@
+####
+tournament: HSAPQ 4Q2
+round: 4q2-13.pdf
+year: 2009
+####
+
+num: 1
+category: Fine Arts
+difficulty: HS
+fixed: 57
+seen: 492
+answer: {Masses}
+
+Haydn composed one of this kind of piece labeled "for troubled times," which has been nicknamed "Lord Nelson." Beethoven wrote one in C Major given the Latin title Solemnis. It includes the movements "Kyrie," "Gloria," "Credo," "Sanctus," and "Agnus Dei." Palestrina wrote one named for Pope Marcellus. Bach's only complete one of these was in B Minor. For 10 points, name this sacred musical setting of the Catholic liturgy to accompany services every Sunday.
+
+----
+num: 2
+category: Literature
+difficulty: HS
+fixed: -1
+seen: 443
+answer: {David Copperfield} [accept The {Personal History}, {Adventures}, {Experience} and {Observation} of
+
+Mr. Quinian is present when the title character of this novel meets a man that eventually moves to Australia with Little Em'ly. Another character in this novel ends up praising prison after being exposed by Mr. Micawber. Betsey Trotwood is the aunt of this novel's protagonist, who used to love Dora Spenlow. The mother of title character of this novel marries the abusive Edward Murdstone. For 10 points, name this Dickens novel featuring Uriah Heep, titled after Agnes Wickfield's husband.
+
+----
+num: 3
+category: Science
+difficulty: HS
+fixed: 1
+seen: 486
+answer: {distributive} property [or {distribution}]
+
+For any functions circle and star, this property states that a circle quantity b star c equals quantity a circle b star quantity a circle c. This property is often used when one quantity does not have like terms. Applying this property is the opposite of factoring out common factors. For 10 points, give this property that says that three times quantity two x plus one equals six x plus three.
+
+----
+num: 4
+category: History
+difficulty: HS
+fixed: 57
+seen: 417
+answer: the USS {Maine} [prompt on {ACR}-{1}]
+
+This vessel was commanded by Charles Sigsbee. One theory regarding this vessel's most famous event considers actions in Bunker A16. This ship was the subject of Hyman Rickover's 1976 investigation that echoed the findings of Del Peral and De Salas that a coal bunker caused its demise. A call to "remember" this vessel was rhymed with "To hell with Spain!" in the "yellow" press following its destruction. For 10 points, name this ship that exploded in Havana harbor in 1898, sparking the Spanish-American War.
+
+----
+num: 5
+category: Science
+difficulty: HS
+fixed: 1
+seen: 487
+answer: {entropy}
+
+The Sackur-Tetrode equation can be used to obtain this quantity for ideal gases. One definition can be found by multiplying the logarithm of the multiplicity of a macrostate by Boltzmann's constant. If this quantity reaches a maximum, the universe may experience heat death. Maxwell's Demon can cause a decrease in this quantity, which is stated to always increase by the Second Law of Thermodynamics. For 10 points, name this quantity represented by S that in thermodynamics can refer to the measure of disorder in a system.
+
+----
+num: 6
+category: Literature
+difficulty: HS
+fixed: 57
+seen: 445
+answer: The {Metamorphosis} [or {Die Verwandlung}]
+
+The final sentence of this story points out the attractiveness and marriageability of the protagonist's sister. That protagonist shuns milk and bread and hides under the sofa at one point during this story. An apple thrown by the protagonist's father lodges into his back, leading to an infection. Several boarders in this story threaten the central family with a lawsuit, which causes the violin-playing Grete to realize that her family must get rid of the central character. For 10 points, name this Kafka story about the transformation of Gregor Samsa into an insect.
+
+----
+num: 7
+category: Science
+difficulty: HS
+fixed: 57
+seen: 491
+answer: {artificial intelligence} [or {AI}]
+
+Philosopher John Searle first delineated the strong and weak types of this concept. Edward Feigenbaum developed expert systems, which can be used to simulate this. This field, whose name was coined by John McCarthy, often makes use of the Lisp programming language and concepts like fuzzy logic. Perceptrons are among the different types of neural networks used to simulate this concept. For 10 points, identify this field of computer science involving problems like machine learning, knowledge representation, and simulating human brains.
+
+----
+num: 8
+category: History
+difficulty: HS
+fixed: 1
+seen: 414
+answer: Benito Amilcare Andrea {Mussolini}
+
+After a border incident in disputed African territory, this leader started a war which included the taking of Addis Ababa and led to the exile of the Ethiopian emperor, Haile Selassie. This man allied his country to Germany with the Pact of Steel. This man came to power after organizing a march that led to his becoming prime minister under Victor Emmanuel III, with that march involving this man's Blackshirts. For 10 points, name this man who claimed to make the trains run on time, the fascist dictator of Italy during World War II.
+
+----
+num: 9
+category: Geography
+difficulty: HS
+fixed: 57
+seen: 723
+answer: {Tibetan} Plateau
+
+This region is bordered to the north by the Kunlun Mountains. The Yarlung Zangbo Grand Canyon of this region is carved out by the Brahmaputra River, which cuts an eastward path across this region. This region was recently connected by high-speed rail to Qinghai, and the largest city here contains both the Jokhang Temple and the Potala Palace. That city, Lhasa, is the capital of a namesake "autonomous region" of China. For 10 points, name this plateau that is nicknamed the "Roof of the World" and is bordered to the south by the Himalayas.
+
+----
+num: 10
+category: History
+difficulty: HS
+fixed: None
+seen: 422
+answer: Republic of Kenya
+
+In this nation, the Forum for the Restoration of Democracy was formed by opposition leader Oginga Odinga. This nation's government tried to cover up the murder of Josiah Kariuki (joe-ZAI-uh kah-ree-OO-kee) in 1975. One leader of this nation appointed Richard Leakey to head this nation's civil service. Hundreds of Kikuyu were killed in riots following the 1997 reelection in this country of Daniel arap Moi. This nation was the site of the Mau Mau uprising. For 10 points, name this country whose first president was Jomo Kenyatta.
+
+----
+num: 11
+category: Literature
+difficulty: HS
+fixed: 1
+seen: 450
+answer: Count Leo {Tolstoy} [or Count Lev Nikolayevich {Tolstoy}]
+
+One of this author's novels contrasts the strained relationship between Dolly and Stepan Oblonsky with the happy relationship of Kitty and Constantine Levin. Another of this author's novels describes Pierre Bezukhov's attempt to capture Napoleon. This author wrote a novel about an upper-class woman's affair with Count Vronsky and a sweeping historical novel about the French invasion of Russia. For 10 points, name this Russian author of Anna Karenina and War and Peace.
+
+----
+num: 12
+category: Science
+difficulty: HS
+fixed: -1
+seen: 486
+answer: {influenza} [or the {flu}]
+
+The viruses that cause this disease have an enzyme called neuraminidase (NUR-uh-MIN-uh-dase) on their outsides, and they bind to sialic (sy-AL-ic) acid sugars on the cell surface. This disease may be treated by oseltamivir (OH-sel-TAM-uh-veer) and zanamivir (zuh-NAM-uh-veer). This disease is transmitted by orthomyxoviridae (OR-tho-MIX-oh-VEER-ih-day), whose serotypes (SEER-oh-"types") are classified according to an H-number-N-number convention. For 10 points, name this disease, recent varieties of which include the avian and the swine.
+
+----
+num: 13
+category: Geography
+difficulty: HS
+fixed: 1
+seen: 718
+answer: {New Guinea}
+
+This island's Baliem Valley is home to the Dani people. The Bismarck Range in the eastern part of this island contains Mount Wilhelm. Lorentz National Park, which can be found on this island, contains the Asmat Swamp. This island's Puncak Jaya is the highest island peak in the world. Port Moresby is the capital of a nation found entirely on this island; the western part of this island is the province of Irian Jaya. For 10 points, name this second largest island in the world, which is split between Indonesia and a nation that precedes this island's name with Papua.
+
+----
+num: 14
+category: Literature
+difficulty: HS
+fixed: -1
+seen: 451
+answer: Catch-22
+
+One character in this novel, Hungry Joe, pretends to be a photographer for Life Magazine. Other characters include the physician Doc Daneeka and Colonel Cathcart, who continually raises the number of missions the protagonist has to complete. Major Major Major Major is stationed on the island of Pianosa along with the protagonist of this novel, Yossarian, who is prevented by the titular rule from avoiding flying combat missions. For 10 points, name this military satire written by Joseph Heller.
+
+----
+num: 15
+category: History
+difficulty: HS
+fixed: 1
+seen: 414
+answer: {1884} United States Presidential Election
+
+One major party candidate in this election was accused of fathering an illegitimate child with Maria Halpin. The other major candidate of this election was attacked as a "continental liar from the state of Maine." The Democratic nominee carried the election due to the defection of the Mugwumps and backlash from the slogan "Rum, Romanism, and Rebellion." For 10 points, name this election in which James Blaine lost to Grover Cleveland, the first of Cleveland's non-consecutive election wins.
+
+----
+num: 16
+category: Fine Arts
+difficulty: HS
+fixed: 57
+seen: 490
+answer: {guitar}
+
+Grobert of Mirecourt invented a version of this instrument for one composer, who composed 43 Ghiribizzi for it. Ginastera's opus 47 is his only musical work for this instrument, which is accompanied by an orchestra in the monumental Concierto de Aranjuez. This instrument is closely related to the vihuela and hit a golden age between 1780 and 1850. Heavier than its baroque and flamenco counterparts, this instrument that is similar to the mandolin and lute is notably six-stringed. For 10 points, name this classical instrument popular in Spanish music.
+
+----
+num: 17
+category: Trash
+difficulty: HS
+fixed: 1
+seen: 934
+answer: {Bob Dylan} [or Robert Allen {Zimmerman}]
+
+He was already known for his unique singing voice when XM radio made his speaking voice famous, as well, on the Theme Time Radio Hour. The cover of his second album shows him freewheeling down a New York street with his girlfriend, Suzie Rotolo. That album's first track asks, "How many roads must a man walk down before you can call him a man?". In 2009, he released a holiday album entitled Christmas in the Heart. For 10 points, what singer-songwriter was dubbed "the voice of a generation" for songs such as "Like a Rolling Stone" and "Blowin' in the Wind"?
+
+----
+num: 18
+category: History
+difficulty: HS
+fixed: 1
+seen: 418
+answer: Verdun
+
+In this battle, the crucial Bar-le-Duc (bahl-luh-DUC) road becaem known as the "Sacred Way." Erich von Falkenhayn (EH-rik fohn FALK-un-hayn) masterminded one side's forces in this battle. The namesake fortification of this battle was established as a counterpart to the German stronghold at Metz. French troops at this battle were led by Philippe Petain. This battle took place along the Meuse river. For 10 points, name this World War I battle in which French troops, inspired by the cry, "They shall not pass," repelled a German offensive in 1916.
+
+----
+num: 19
+category: Trash
+difficulty: HS
+fixed: 1
+seen: 1028
+answer: steak
+
+In Australia, this food item is stuffed with oysters to form a dish called "Carpetbag." Another variant of this food item is eaten mostly in Scotland and is called the Pope's Eye. Controversy exists over whether this food can properly be used to make Chateaubriand (SHAT-oh-bree-AHND). Most Mexican dishes that are based on this food employ its "skirt" variety. The filet mignon is included in the Porterhouse or T-bone kind of this food. For 10 points, identify this cut of beef, which can be combined with lobster or shrimp in a "surf and turf."
+
+----
+num: 20
+category: Literature
+difficulty: HS
+fixed: 57
+seen: 443
+answer: Harriet Beecher {Stowe} [or {Catharine Stowe}; or Harriet {Elizabeth} Beecher]
+
+In one novel by this author, Mary Scudder is loved by Dr. Hopkins. This author of Dred: A Story of the Great Dismal Swamp and The Minister's Wooing wrote about Topsy being educated in another work. A novel by this author includes Eva, who is saved by the title character. This author included a scene where Eliza jumps over ice floes on the Ohio River to reach freedom in that work. Simon Legree beats the title character of this author's bestseller to death. For 10 points, name this author of the anti-slavery novel Uncle Tom's Cabin .
+
+----
+num: 21
+category: Geography
+difficulty: HS
+fixed: 57
+seen: 720
+answer: {Jordan} River
+
+The Dan River flows into this river in the Hulah Valley, and the Yarmouk River connects the Hauran Plateau to this river's watershed. A main source of this river is melting snow from Mount Hermon, and this river flows just west of the Golan Heights. This river plunges below sea level before reaching the Sea of Galilee and forming the border of the West Bank. For 10 points, name this river that flows into the Dead Sea, which separates Israel and a nation of this river's name.
+
+----
+num: 22
+category: Fine Arts
+difficulty: HS
+fixed: 1
+seen: 499
+answer: Ralph (rafe) {Vaughn Williams}
+
+One of this man's compositions was inspired by a George Meredith poem about a creature that takes flight "till lost on his aerial wings in light." "A Bold Young Sailor" and "The Captain's Apprentice" are tunes in this man's Norfolk Rhapdody No. 1, and he also wrote a work inspired by a much earlier English composer, Thomas Tallis. For 10 points, name this British composer of The Lark Ascending and Fantasia on Greensleeves.
+
+----
+num: 23
+category: Philosophy
+difficulty: HS
+fixed: 57
+seen: 518
+answer: {utilitarianism}
+
+Thinkers associated with this ethical philosophy include Peter Singer and Herbert Spencer. This philosophy was founded by the author of A Fragment on Government who also created a felicific calculus, Jeremy Bentham. A book named for this philosophy discusses the Greatest-Happiness principle and was written by John Stuart Mill. For 10 points, name this ethical philosophy which holds that the worth of an act lies in the benefits it creates.
+
+----
+num: 24
+category: Literature
+difficulty: HS
+fixed: 57
+seen: 446
+answer: Jack {Kerouac} [or {Jean}-{Louis Lebris} de {Kerouac}]
+
+This man wrote about a main character based on himself, named Jack Duluoz, in Visions of Cody. The "rucksack saints" Ray Smith and Japhy are the focus of this man's The Dharma Bums. Another of his novels sees the protagonist end up with Terry in Mexico after meeting Ed Dunkel and Denver D. Doll on a trip from Denver to California shared with Dean Moriarty. For 10 points, name this author who wrote of Sal Paradise's journey in a fictionalization of the Beat Generation, his novel On the Road.
+
+----
+num: 25
+category: Science
+difficulty: HS
+fixed: 57
+seen: 492
+answer: {Tides}
+
+The potential of these phenomena can be determined by the six Doodson numbers. These phemonena can be modeled as a sheet flow using Laplace's equations for these occurrences, and Ballantine created a scale to measure the exposure of organisms in areas impacted by these phenomena. Bores related with these phenomena can travel against the direction of current, and reduced forms of these events are labeled neap. For 10 points, name these natural phenomena caused by the gravitational forces of the sun and the moon on the Earth's oceans.
+
+----
+num: 26
+category: Literature
+difficulty: HS
+fixed: 57
+seen: 442
+answer: Truman {Capote} [or Truman {Streckfus Persons}]
+
+This author wrote about how that same woman wishes to eat the title meal because nothing bad will happen at a certain jewelry store. Another book by this creator of Holly Golightly ends with the execution of two men who were investigated by Alvin Dewey. This man wrote a book about the crime of Dick Hickock and Perry Smith. For 10 points, name this author of Breakfast at Tiffany's , and a book about the murder of the Clutter family in Kansas, In Cold Blood.
+
+----
+num: 27
+category: Science
+difficulty: HS
+fixed: 57
+seen: 491
+answer: {boron} [or {B}]
+
+The sodium salt of this element's hydride is used as a soft reducing agent in organic chemistry, and most laboratory glassware is heat-resistant because it is fifteen percent this element's oxide. This element is used to dope germanium to enhance p-type conductivity. It forms compounds with hydrogen that are given prefixes like nido- and arachno-. Three atoms of this element form a compound analogous to benzene by alternating with three atoms of nitrogen. For 10 points, name this element found in ulexite (OO-lex-ite) and borax with atomic number five.
+
+----
+num: 28
+category: History
+difficulty: HS
+fixed: 57
+seen: 413
+answer: {Kansas}-{Nebraska} Act
+
+A group influential to this act's passage was known as the F Street Mess. A future President gave the Peoria Speech in opposition to this legislation. The Lecompton Constitution was proposed to resolve an issue associated with this act. The Pottawatomie Massacre was committed by John Brown in reaction to this legislation's passage. This act repealed the Missouri Compromise. For 10 points, name this act created by Stephen Douglas, which allowed popular sovereignty to decide the fate of slavery in the two namesake territories.
+
+----
+num: 29
+category: Literature
+difficulty: HS
+fixed: 1
+seen: 446
+answer: (Eugen) Bertolt (Friedrich) {Brecht}
+
+This author wrote a play about a woman who is separated from her lover Simon after the Fat Prince orchestrates a coup. That play includes the judge Azdak, who mistakenly divorces Grusha and her peasant husband. This author of the Caucasian Chalk Circle wrote about the siblings Kattrin, Eilif, and Swiss Cheese in another play set in the Thirty-Years' War. This author wrote about Jonathan Peachum, the friend of Mack the Knife, in another play. For 10 points, name this German author who collaborated with Kurt Weill on The Threepenny Opera.
+
+----
+num: 30
+category: History
+difficulty: HS
+fixed: 57
+seen: 417
+answer: Republic of {Indonesia} [or Republik {Indonesia}]
+
+This nation's first vice president was Mohammad Hatta. This country's first president expounded the philosophy of Pancasila before seizing personal control of the government in favor of "guided democracy." Real democracy first came to this country in 2001 with the presidency of Megawati, the daughter of that authoritarian ruler. In addition to experiencing the dictatorships of Suharto and Sukarno, this country's colonial history was marked by the domination of the Dutch East India Company. For 10 points, name this large Muslim island nation of Southeast Asia.
+
+----
+num: 31
+category: Literature
+difficulty: HS
+fixed: 1
+seen: 438
+answer: Rudyard {Kipling}
+
+This author wrote "there is neither East nor West, Border, nor Breed, nor Birth / When two strong men stand face to face, tho' they come from the ends of the earth!" in a poem asserting "East is East, and West is West, and never the twain shall meet." This author wrote a poem about a British soldier who tells a water-carrier "you're a better man than I am," as well as several stories about the tiger Shere Khan and the wolf-child Mowgli. For 10 points, name this British author who wrote about India in "Gunga Din" and The Jungle Book.
+
+----
+num: 31
+category: Literature
+difficulty: HS
+fixed: 1
+seen: 446
+answer: Rudyard {Kipling}
+
+This author wrote "there is neither East nor West, Border, nor Breed, nor Birth / When two strong men stand face to face, tho' they come from the ends of the earth!" in a poem asserting "East is East, and West is West, and never the twain shall meet." This author wrote a poem about a British soldier who tells a water-carrier "you're a better man than I am," as well as several stories about the tiger Shere Khan and the wolf-child Mowgli. For 10 points, name this British author who wrote about India in "Gunga Din" and The Jungle Book.
+
+----
+num: 32
+category: Science
+difficulty: HS
+fixed: 1
+seen: 481
+answer: phenotype
+
+Richard Dawkins created an "extended" version of this concept to include manifestations of behavior, such as beaver dams. Silent mutations are called "silent" because they do not alter this feature. Heterozygous crosses display a three to one ratio for this quality, which is part of a distinction advanced by Wilhelm Johannsen. For 10 points, name this term for the physical manifestation of a genetic sequence, the complement to an organism's genotype.

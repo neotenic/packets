@@ -1,0 +1,234 @@
+####
+tournament: Fall Kickoff Tournament
+round: FKT 2010 DuPont FINAL.rtf
+year: 2010
+####
+
+num: 1
+category: Fine Arts
+difficulty: HS
+fixed: 57
+seen: 491
+answer: {Pointillism} [prompt on {Neo}-{Impressionism} until {Cyan}]
+
+Vincent van Gogh used this technique in his Self-Portrait of 1887. One proponent of this movement was the painter of The Pine Tree at St. Tropez and Femmes au Puits, Paul Signac. It creates an effect like the modern Cyan-Magenta-Yellow-Key printing press, or television's RGB colors used in television and computer monitors. The painter of Sunday Afternoon on the Isle of La Grande Jatte, Georges Seurat, is, for 10 points, the most famous proponent of what art movement, applying modern techniques of color to art?
+
+----
+num: 2
+category: Philosophy
+difficulty: HS
+fixed: None
+seen: 529
+answer: Immanuel Kant
+
+This thinker created the idea of schema, or the way a pure, non-empirical concept is associated with the mental image of an object. In Perpetual Peace, he outlined a world without war based on constitutional republics. He served as a professor of the University of Königsberg and didn't write during his tenure there until he was awaken from his dogmatic slumber by David Hume. In his Groundwork of the Metaphysics of Morals, he outlined the categorical imperative. For 10 points, name this author of The Critique of Pure Reason, who broke the Age of Reason.
+
+----
+num: 3
+category: Literature
+difficulty: HS
+fixed: 57
+seen: 445
+answer: "Howl"
+
+The footnote of this poetic work features a repetitive Holy! mantra where the author asserts all is holy. Part III of this work repeats the mantra, I'm with you in Rockland. Considered one of the seminal works of the Beat generation, it details many of the hippies during the 50's starving hysterical naked. I saw the best minds of my generation destroyed by madness is a line from, for 10 points, what poem by Allen Ginsberg that shares its name with a sound a wolf makes?
+
+----
+num: 4
+category: Science
+difficulty: HS
+fixed: 57
+seen: 493
+answer: {black hole}
+
+The Kerr solution to Einstein's field equation describes these entities which are rotating and the Reissner-Nordstom solution to Einstein's field equations describes one of these with a charge. The no-hair theorem states that the only externally observable parameters that can characterize these are: charge, mass and angular momentum. It has been posited that a supermassive variety of these could lie in the center of galaxies. For 10 points, name these entities which don't allow anything, even light, to escape when it crosses their event horizon.
+
+----
+num: 4
+category: Science
+difficulty: HS
+fixed: 57
+seen: 482
+answer: {black hole}
+
+The Kerr solution to Einstein's field equation describes these entities which are rotating and the Reissner-Nordstom solution to Einstein's field equations describes one of these with a charge. The no-hair theorem states that the only externally observable parameters that can characterize these are: charge, mass and angular momentum. It has been posited that a supermassive variety of these could lie in the center of galaxies. For 10 points, name these entities which don't allow anything, even light, to escape when it crosses their event horizon.
+
+----
+num: 6
+category: History
+difficulty: HS
+fixed: 1
+seen: 417
+answer: Thomas Woodrow {Wilson}
+
+During his tenure, the Federal Trade Commission was created, and the Federal Farm Loan Act was passed, as was the Clayton Antitrust Act. During this man's presidency, woman's suffrage was achieved and the Federal Reserve was created. He tried to make the world safe for democracy at Versailles with his Fourteen Points. For 10 points, name this President of the United States from 1912-1920, who served while America was involved in World War I.
+
+----
+num: 7
+category: Geography
+difficulty: HS
+fixed: 1
+seen: 713
+answer: {Ural} Mountains or {Uralskiye} gory
+
+To the west of this mountain range lies the Pechora basin, which includes the Illych and Usa rivers, and to its east lies the Ob basin. This mountain range rises from the Kara Sea in the north, and its nether-polar region contains its highest peaks, including Mount Karpinsky, and the highest peak of this mountain range, Mount Narodnaya. During World War II, the Soviet authority moved many factories to its foothills, which have long been regarded as the major mineral base of Russia. For 10 points, identify this mountain range that is considered the natural boundary between northern Asia and Europe.
+
+----
+num: 8
+category: Science
+difficulty: HS
+fixed: 57
+seen: 496
+answer: {normal} force [prompt on {weight}, prompt on {Fn} or {F sub n}]
+
+When an object hits a surface, this force provides for the deceleration of the object. For an object resting at an angle, this quantity can be calculated by multiplying the mass times the acceleration due to gravity times the cosine of the angle at which the object is resting. One of the basic quantities in mechanics, this force can be calculated for any object lying perpendicular to ground by mass times the acceleration due to gravity. For 10 points, name this force, the force which is required to hold an object in place which always occurs perpendicular to the object.
+
+----
+num: 9
+category: Literature
+difficulty: HS
+fixed: 57
+seen: 443
+answer: Yukio {Mishima} or Kimitake Hiraoka
+
+This author wrote about a young actor named Kochan trying to hide his homosexuality in order to fit into society in the semi-autobiographical Confession of a Mask. In a tetralogy, Shigekuni Honda's attempts to save the various reincarnations of Kiyoaki Matsugae ends up destroying him. In another of his works, Mizoguchi remembers that "when you meet the Buddha, kill the Buddha" and burns down the titular building. For 10 points, identify this Japanese author of The Sea of Fertility and The Temple of the Golden Pavilion who committed seppuku in 1970.
+
+----
+num: 10
+category: Fine Arts
+difficulty: HS
+fixed: 57
+seen: 498
+answer: Johannes {Brahms}
+
+Schumann's attempted suicide prompted this composer of Variations on a Theme of Haydn to write The German Requiem. An honorary diploma from the University of Breslau prompted him to compile a group of drinking songs and write the Academic Festival Overture. This composer of The Tragic Overture also wrote four symphonies, the first of which was nicknamed Beethoven's 10th. For 10 points, name this composer of a namesake lullaby and 21 Hungarian Dances.
+
+----
+num: 11
+category: History
+difficulty: HS
+fixed: 1
+seen: 410
+answer: The Most Serene Republic of {Venice} or {Venezia} or {Venesia}
+
+Pope Julius II formed the League of Cambrai to combat this historically heretical city. It contributed to the Holy Alliance and its navy was crucial to the victory of the 1571 battle of Lepanto. Traders from this city funded the Fourth Crusade and sacked the city of Constantinople in 1204. Its position as the end of the Silk Road allowed native Marco Polo and his family to travel east and meet Kublai Khan. Led by doges, for 10 points, name this Italian city full of canals and gondolas.
+
+----
+num: 12
+category: Trash
+difficulty: HS
+fixed: 1
+seen: 1024
+answer: The {Hurt Locker}
+
+In this film, a young boy nicknamed Beckham for his soccer skills was believed to be found in a warehouse with explosives wired to him, but this was a hallucination of the main character. It opens with a quote including a phrase from Chris Hedge's book written in the setting, war is a drug. It was nominated for nine Academy Awards and won six, and swept the BAFTA awards. Directed by Oscar-winning best director Kathryn Bigelow, for 10 points, name this movie depicting a bomb squad in Iraq, winner of the 2010 Oscar for best picture.
+
+----
+num: 13
+category: Fine Arts
+difficulty: HS
+fixed: 1
+seen: 493
+answer: Gustav {Mahler}
+
+His first symphony included Frere Jacques in a minor key as a funeral march in its third movement. Another of his symphonies includes a chorus with lines taken from the poem Die Auferstehung, which begins "Rise again, yes, rise again." He wrote some lieders, such as Kindertotenlieder and Lieder eines fahrenden Gesellen, as well as a six-movement work in which sees some Chinese motifs and a large choral work as his 8th symphony. For 10 points, identify this Austrian composer who wrote the Titan, Resurrection, and Tragic symphonies as well as Symphony of a Thousand.
+
+----
+num: 14
+category: Science
+difficulty: HS
+fixed: 1
+seen: 487
+answer: {colligative} properties
+
+Raoult's law describes one of these properties. Osmotic pressure, another of these properties, was discovered by a Dutch chemist J. H. Van't Hoff, whose namesake factor, symbolized i, is also found in the equations that use two more of these properties, freezing point depression, and boiling point elevation. For 10 points, name these properties of solutions which only depend on the number, not the type, of solute particles.
+
+----
+num: 15
+category: History
+difficulty: HS
+fixed: 1
+seen: 416
+answer: {Brown} v {Board} of Education of Topeka, Kansas
+
+This case was used as evidence in Gerald Rosenberg's 1991 book The Hollow Hope, because the enforcement of the unanimous decision was not done with deliberate speed. William Rehnquist wrote a memo during its arguments, arguing that the case it overturned, Plessy v. Ferguson, should be affirmed. It was argued by the future first African-American Supreme Court Justice, Thurgood Marshall. Dealing with a schoolgirl's choice of schools, for 10 points, name this Supreme Court decision which nullified the doctrine of separate, but equal.
+
+----
+num: 16
+category: Literature
+difficulty: HS
+fixed: 57
+seen: 447
+answer: A {Raisin} in the {Sun}
+
+In this novel, George Murchison offers a character a marriage proposal that she declines, and she is soon asked to marry again by her Nigerian boyfriend, Joseph Asagai, but the play never reveals Benethea's decision. This work opens with the family receiving a $10,000 check for the life insurance of their deceased father. With this money, Walter Lee wants to start a liquor store, and the Youngers clash over what to do with the money. For ten points, identify this work detailing an African American family living on the South Side of Chicago in the 1950s by Lorraine Hansberry.
+
+----
+num: 17
+category: Religion
+difficulty: HS
+fixed: 1
+seen: 448
+answer: The {Book} of {Mormon}: An Account Written by the Hand of Mormon upon Plates Taken from the Plates of Nephi [accept The Book of Alma prior to section]
+
+This work tells of the story of Korihor, a man stricken dumb because of being an Anti-Christ and dissuading people from the Gospel. It contains a section called the Words of the son of the title figure. When asked about the original language of the source, the translator said it was Reformed Egyptian. This, discovered by a 14-year old farm boy in Palmyra, New York, was found on the Hill Cumorah. Discovered and translated by Joseph Smith, for 10 points, name this sacred work of the Church of Jesus Christ of Latter-day Saints.
+
+----
+num: 17
+category: Religion
+difficulty: HS
+fixed: 1
+seen: 451
+answer: The {Book} of {Mormon}: An Account Written by the Hand of Mormon upon Plates Taken from the Plates of Nephi [accept The Book of Alma prior to section]
+
+This work tells of the story of Korihor, a man stricken dumb because of being an Anti-Christ and dissuading people from the Gospel. It contains a section called the Words of the son of the title figure. When asked about the original language of the source, the translator said it was Reformed Egyptian. This, discovered by a 14-year old farm boy in Palmyra, New York, was found on the Hill Cumorah. Discovered and translated by Joseph Smith, for 10 points, name this sacred work of the Church of Jesus Christ of Latter-day Saints.
+
+----
+num: 18
+category: History
+difficulty: HS
+fixed: 57
+seen: 413
+answer: Otto Eduard Leopold von {Bismarck}
+
+This man predicted World War I to the month, an event he tried to prevent until Kaiser Wilhelm II fired him because of his anti-Socialist domestic policy. He modified the Ems Telegram and called for the Berlin Conference. This German instigated the Seven Weeks War against Austria and the Franco-Prussian War, and was an ardent follower of Realpolitik. This man said that the failure of 1848 can only be fixed through blood and iron in a speech delivered to the Reichstag. For 10 points, name this Iron Chancellor, who united Germany.
+
+----
+num: 19
+category: Science
+difficulty: HS
+fixed: 57
+seen: 494
+answer: hemoglobin
+
+This protein is salvaged from special cells that carry it by transferrins and is often processed by the body into bilirubin. Another structurally similar relative, found in muscle tissue, to this protein is known as myoglobin. Found in biconcave disk shaped cells without a nucleus, the substitution of valine for glutamic acid in the production of this protein causes sickle cell anemia. This protein is a metalloprotein, with an iron cofactor. For 10 points, name this protein found in red blood cells that is used to transfer oxygen in the body.
+
+----
+num: 20
+category: Social Science
+difficulty: HS
+fixed: 1
+seen: 377
+answer: B(uurhus) F(rederic) {Skinner}
+
+When the US Navy called for a project attempting to sink German Bismarck-class battleships, this psychologist stepped up, trying to develop a pigeon-guided missile. He developed the three schedules of reinforcement and his daughter was never put in his air crib. One of his most famous works is a sequel to a Henry David Thoreau work asserting a utopian society of Planners, Managers, and Workers, Walden Two. His other work, Beyond Freedom and Dignity posits that people don't have free will in a world of stimuli. For 10 points, name this behaviorist who developed a name sake box and the operant conditioning chamber.
+
+----
+num: 21
+category: Fine Arts
+difficulty: HS
+fixed: 1
+seen: 493
+answer: Robert {Schumann}
+
+This composer of Papillons twice tried to commit suicide; one attempt included throwing himself off a bridge into the Rhine. In one work, he captures the innocence of childhood in his Kinderszenen, which is better known as Scenes from Childhood. His more famous works include his five movement Rhenish Symphony and Carnaval. FTP, name this composer who was married to Clara.
+
+----
+num: 22
+category: Literature
+difficulty: HS
+fixed: 1
+seen: 440
+answer: Joseph {Conrad} [accept {Józef Teodor Konrad Korzeniowski}]
+
+Alfred Hitchcock based his film The Sabotage on this man's The Secret Agent. One of his works was set in the fictional South American Republic "Costanagua", Nostromo. In this author's most famous work, one of the characters lies to another character's wife, saying the last word he pronounced was – your name. In reality, that character, Kurtz, said, the horror, the horror! For 10 points, identify this Polish born author who detailed Marlowe's travel up the Congo in Heart of Darkness.

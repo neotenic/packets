@@ -1,0 +1,375 @@
+####
+tournament: NASAT
+round: 13.pdf
+year: 2011
+####
+
+num: 1
+category: Science
+difficulty: HS
+fixed: -1
+seen: 480
+answer: {Euclidean} Space [prompt on {metric space}]
+
+The Kakutani fixed point theorem applies to functions operating on subsets of this. The standard
+ formulation of the Vitali covering lemma has a collection in this as its subject. Transformations in these are
+ called rigid motions. One way to generalize length to subsets of this is the Lebesgue measure. Each point in
+ a manifold has a neighborhood that is homeomorphic to a set in one of these. The linear combinations of
+ either the rows or columns of a real valued matrix make a closed, zero containing subset of this. It is a
+ metric space whose metric function is the Pythagorean theorem for its dimension and its inner product is
+ the dot product. For 10 points, name these spaces symbolized by a blackboard capital R to the n, which are
+ named for the Greek author of the Elements.
+
+----
+num: 2
+category: History
+difficulty: HS
+fixed: 57
+seen: 417
+answer: {Mantua}
+
+This city joined Peschiera, Verona, and Legnago in a group of symbiotic Austrian fortresses known as
+ the “Quadrilateral.” After the death of Matilda of Canossa, this city was led by the Bonacolsi family. One
+ ruler of this city was Francesco II, who cheated on his wife Isabella d’Este with Lucrezia Borgia. Dagobert
+ von Wurmser proved unable to defend this city from the forces of Napoleon Bonaparte in a 1796 to 1797
+ siege that led to the Treaty of Campo Formio. The Treaty of Cherasco ended a 1628 to 1631 war between
+ France and the Holy Roman Emperor over control of this city after the death of its ruling Gonzaga line. For
+ 10 points, name this Lombard city.
+
+----
+num: 3
+category: Philosophy
+difficulty: HS
+fixed: 1
+seen: 518
+answer: Willard van Orman {Quine}
+
+This thinker argued that children begin by stating “observation sentences,” then move on to “observation
+ categoricals.” He argued that many theories could adequately describe the world in his idea of “ontological
+ relativity.” In another thought experiment, he argued that one cannot know whether the word “gavagai”
+ means “rabbit” or “let’s go hunting.” This man analyzed the sentence “All bachelors are unmarried” to
+ reject the analytic/synthetic distinction, and he proposed the Indeterminacy of Translation thesis. For 10
+ points, name this philosopher who wrote Two Dogmas of Empiricism.
+
+----
+num: 4
+category: History
+difficulty: HS
+fixed: 57
+seen: 415
+answer: {nullification}
+
+This right was ruled against in the context of fugitive slave laws in the case Ableman v. Booth. A
+ campaign of this name was launched by James Hamilton, Jr., but was opposed by William Drayton and
+ Robert Hayne. This doctrine was put forth in a report commissioned by William Preston and prompted the
+ retaliatory Force Bill. Spelled out in the “South Carolina Exposition and Protest,” it was first called for in
+ the Kentucky and Virginia Resolutions. It was the namesake of a “crisis” following the Tariff of
+ Abominations. For 10 points, name this action advocated by Thomas Jefferson, James Madison, and John
+ C. Calhoun that supported the invalidation of an unconstitutional law by a state.
+
+----
+num: 5
+category: Science
+difficulty: HS
+fixed: 1
+seen: 485
+answer: reaction {rate} [accept reaction {rate constant} since many clues are referring to equations to
+
+The equation for the BET isotherm can be derived by adding, for the first and second layers, these values
+ of condensation and evaporation. The Lindemann mechanism accurately correlates the changing
+ concentration of reactants with this value. Two ratios of constants involved with this value are related by
+ the Swain equation, which quantifies the differences of this parameter for hydrogen versus deuterium and
+ tritium, illustrating the isotope effect that affects this parameter. The Eyring equation also quantifies this
+ parameter, which is related by a power of the concentration of the reactants equal to the order of the
+ reaction. The Arrhenius equation also determines, for 10 points, what value, the speed of a reaction?
+
+----
+num: 6
+category: Literature
+difficulty: HS
+fixed: 57
+seen: 449
+answer: Chinua {Achebe}
+
+In a short story by this author, Michael erects a barbed wire fence alongside the namesake walkway near
+ the school he supervises. Besides “Dead Men’s Path”, he wrote of his country’s civil war in “Girls at
+ War” and wrote of Jonathan being robbed after converting his money into egg-rashers in “Civil Peace.” In
+ one of his novels, a heated battle between the Okperi and Umuaro is stopped by Captain Winterbottom.
+ That work centers on a priest of the god Ulu named Ezeulu and is titled Arrow of God. In his best known
+ work, the protagonist executes Ikemefuna and is sent into exile for seven years after his gun accidentally
+ explodes. For 10 points, name this creator of the character Okonkwo, the Nigerian author of Things Fall
+ Apart.
+
+----
+num: 7
+category: History
+difficulty: HS
+fixed: -1
+seen: 422
+answer: John {Knox}
+
+This man included the section "Why the Mediator Had to Be True God and True Man" in a
+ twenty-one-part confession that he wrote in 1560. Earlier, he had violated canon law by carrying a
+ two-handed greatsword while serving as bodyguard to George Wisehart. After returning from Geneva, he
+ never completed his two planned sequels to a work which caused his falling-out with Elizabeth I by
+ claiming that the Bible forbade women from ruling over men, known as the First Blast of the Trumpet. This
+ influential member of the “kirk” preached for what became Presbyterianism. For 10 points, identify this
+ Protestant reformer who was active in Scotland.
+
+----
+num: 8
+category: Fine Arts
+difficulty: HS
+fixed: 57
+seen: 497
+answer: Edward {Hopper}
+
+This artist depicted his wife sitting in a car and painting a mountain in his painting Jo in Wyoming. His 
+Two Comedians shows the title figures clad in white holding hands on a stage. He depicted a pensive, blond
+ woman in a blue uniform leaning against the wall of a theater in one of his works, and painted a row of
+ businesses, including a barber's shop, in another. In addition to his New York Movie and Early Sunday
+ Morning, this artist painted a pair of women having lunch with parts of the title sign visible through the
+ window in Chop Suey. For 10 points, name this American painter, best known for depicting a group of
+ nocturnal diner patrons in Nighthawks.
+
+----
+num: 9
+category: Literature
+difficulty: HS
+fixed: 1
+seen: 439
+answer: Rainer Maria {Rilke}
+
+This poet implores "to the flowing water say: I am" in a sonnet addressed to "[a] silent friend of many
+ distances." Another poem describes a creature whose vision "has grown" weary" from pacing so it "seems
+ to him there are a thousand bars." This poet wrote about "eyes like ripening fruit" and a object “still
+ suffused with brilliance” in a poem ending with the assertion "You must change your life." He wrote
+ “thing-poems” such as “The Panther” and penned a collection discussing the "City of Pain" and Picasso's
+ painting of acrobats that frequently mentions Gaspara Stampa. This poet of "Archaic Torso of Apollo" also
+ dedicated a collection to Vera Knoop. For 10 points, name this German poet who asked, “Who, if I cried
+ out, would hear me among the angelic orders?” in The Duino Eligies.
+
+----
+num: 10
+category: Geography
+difficulty: HS
+fixed: 1
+seen: 705
+answer: {Orinoco} River
+
+A highly endangered species of crocodile is restricted to the basin of this river as well as that of the
+ Meta River. Tributaries of this river include the Caura, the Atabapo, and the Apure, as well as the Arauca.
+ Another tributary of this river joins it near a waterfall whose name is Spanish for “drizzle.” That tributary,
+ whose source is in the Guiana Highlands, is the Caroní River. The Casiquiare Canal connects this river to
+ the Rio Negro, thus connecting it to the Amazon system. For 10 points, name this river of Venezuela.
+
+----
+num: 11
+category: Science
+difficulty: HS
+fixed: 57
+seen: 483
+answer: {John William Strutt}, {Lord Rayleigh} [accept either]
+
+This man showed how interaural level differences and interaural time differences lead to sound
+ localization. He first mathematically described the instability of a denser fluid when placed above a less
+ dense fluid, an instability co-named for Taylor. The viscosity and thermal diffusivity appear in the
+ denominator of his namesake number, which is low when conduction occurs and high when convection
+ occurs. For a circular aperture, 1.22 times the wavelength divided by the aperture’s diameter yields this
+ man’s criterion, which gives the minimal angular separation required to resolve two separate images.
+ When the natural frequency of the atom is much greater than that of incident radiation, his namesake
+ scattering occurs. For 10 points, name this physicist who won the 1904 Nobel Prize for the discovery of
+ argon.
+
+----
+num: 12
+category: Mythology
+difficulty: HS
+fixed: 1
+seen: 796
+answer: {Hermes} [or {Mercury}]
+
+One of this deity's exploits was witnessed by Battus, a shepherd this deity turned into stone. Statues of
+ this deity often showed a head on top of a uniform stone pillar, where genitalia were attached at an
+ appropriate position; Alcibiades was accused of desecrating those statues. This deity's son with Aphrodite
+ was so beloved by the nymph Salmacis that the gods made them one being, male and female. Offspring of
+ this deity include a satyr conceived with the nymph Dryope named Pan. This deity once stole the cattle of
+ Apollo. For 10 points, name the messenger of the Greek gods.
+
+----
+num: 13
+category: Fine Arts
+difficulty: HS
+fixed: 57
+seen: 497
+answer: {scherzo} [or {scherzi}]
+
+The second of Felix Mendelssohn's three Opus 16 fantasies for piano is one of these pieces. Chopin
+ wrote four unusually dark examples of these pieces, including his Opus 20 and his Opus 31. Mendelssohn's
+ incidental music to A Midsummer Night's Dream includes one of these pieces after the overture. The third
+ movement of nearly all of Bruckner's symphonies is one of these pieces, since it was the main form of the
+ third movement of the Romantic symphony. Beethoven's symphonies replaced the minuet with one of these
+ pieces, which is usually played quickly and humorously. For 10 points, identify this type of piece, whose
+ name is Italian for "joke."
+
+----
+num: 14
+category: History
+difficulty: HS
+fixed: None
+seen: 419
+answer: Mexico [or United Mexican States; or Estados Unidos Mexicanos]
+
+A massacre by this nation’s army of students was recorded in a 1971 work by Elena Poniatowska. This
+ nation had a severe 1994 economic crisis known as the “December mistake.” One person from this country
+ wrote the children’s book The Story of Colors and is the leader of a movement called “The Other
+ Campaign.” That figure always wears a ski mask, holds the title “Sub commander,” and was inspired by a
+ 1968 massacre in his country shortly before the Summer Olympics. This country was led by Ernesto
+ Zedillo and Carlos Salinas, both members of a party in power nearly 70 years. For 10 points, name this
+ country that saw the dominance of the PRI end in 2000 with the election of Vicente Fox.
+
+----
+num: 15
+category: Literature
+difficulty: HS
+fixed: 57
+seen: 445
+answer: "La {Belle Dame Sans Merci}"
+
+The largely ignored published version of this poem substitutes "wild sad eyes" for the eighth stanza
+ phrase "wild wild eyes." The protagonist of this poem makes an accessory called a "fragrant zone." One of
+ its characters has a lily on his brow and a fading rose on his cheeks. Its opening stanza describes a lake
+ where sedge has withered and no birds sing. Its tenth stanza describes "pale kings and princes" who sing
+ that the title character "hath thee in thrall." It describes the encounter between a knight and an elusive lady
+ referred to as a "faery’s child," and partially takes place in an "elfin grot." For 10 points, name this poem
+ by John Keats whose French title translates as "The Beautiful Lady Without Pity."
+
+----
+num: 16
+category: History
+difficulty: HS
+fixed: 57
+seen: 418
+answer: the Soviet {nuclear} weapons program [or anything in the ballpark]
+
+This program was supervised by the Medium Machine Building Ministry, and it was faciliated by
+ removing the city renamed “Arzamas 16” from maps. A major leap in this program, whose first output was
+ “Joe-1,” was made when the "first idea" and "second idea" were combined in the "layer cake" device.
+ Intelligence was provided to this program by the spy Klaus Fuchs, and that information was added to the
+ research of Yakov Zeldovich and Andrei Sakharov to produce items such as “Tsar Bomba.” For 10 points,
+ identify this weapons program which, like its American counterpart, was ultimately restricted by START,
+ SALT, and other anti-proliferation treaties.
+
+----
+num: 17
+category: Science
+difficulty: HS
+fixed: 1
+seen: 490
+answer: {cerebrospinal} fluid [or {CSF}]
+
+The Munro-Kellie hypothesis concerns a decrease in volume of this substance upon injury, and the
+ Dandy Walker malformation obstructs the flow of this substance. The beta-2 transferrin assay is used to
+ detect this substance, and infection by Cryptococcus neoformans causes the pressure of this substance to
+ increase. Oligoclonal bands appear in this substance in sufferers of multiple sclerosis, and this substance is
+ produced in the choroid plexus before flowing through a series of four ventricles. It occupies the
+ subarachnoid space. A lumbar puncture is commonly used to collect this substance, which makes up seven
+ percent of the volume of the skull. For 10 points, name this clear substance that cushions the brain and
+ spinal cord.
+
+----
+num: 18
+category: Fine Arts
+difficulty: HS
+fixed: 1
+seen: 493
+answer: Pyotr Ilyich {Tchaikovsky}
+
+This man's suite of music written to honor an Austrian composer was adapted into the ballet 
+Mozartiana by George Balanchine. This composer is said to have been annoyed when Alexander III called
+ one of his ballets “very nice.” That ballet contains the “Garland Waltz” and the “Procession of the Fairy
+ Tales,” and features leitmotifs representing Carabosse and the Lilac Fairy. In addition to The Sleeping
+ Beauty, he composed a ballet in which Odette is transformed into a bird by the curse of Rothbart, as well as
+ one which includes the “Dance of the Mirlitons” and the “Dance of the Sugar Plum Fairy.” For 10 points,
+ name this composer of the ballets Swan Lake and The Nutcracker.
+
+----
+num: 19
+category: Social Science
+difficulty: HS
+fixed: 57
+seen: 488
+answer: Talcott {Parsons}
+
+This thinker called the gratification of emotions “affectivity” which he contrasted with “neutrality” in
+ his discussion of “pattern variables.” His students Wilbert Moore and Kingsley Davis expanded his
+ educational theories about people finding the appropriate job in society to create the theory of role
+ allocation. He outlined adaptation, goal attainment, integration, and latency as the four components of his
+ “AGIL” paradigm and his best-known work offers a “voluntaristic” methodology to define the “unit act.”
+ For 10 points, name this Harvard sociologist who pioneered his action theory in The Structure of Social
+ Action.
+
+----
+num: 20
+category: Literature
+difficulty: HS
+fixed: 57
+seen: 439
+answer: The {World According} to {Garp}
+
+This novel's protagonist gets revenge on the dog Bonkers for biting off part of his ear as a child by
+ biting off its ear. One character is a former tight end for the Cleveland Browns who undergoes a sex-change
+ operation and is named Roberta Muldoon. Michael Milton's penis is mostly bitten off by the main
+ character's wife Helen Holm in the same car wreck that kills his son Walt. The protagonist's mother is
+ assassinated when she becomes a feminist leader after writing her autobiography A Sexual Suspect. The
+ nurse Jenny Fields names the title character after the ball turret gunner who impregnated her, who she calls
+ the "Technical Sergeant." For 10 points, name this novel whose title character is is the author of The
+ Pension Grillparzer, written by John Irving.
+
+----
+num: 21
+category: Science
+difficulty: HS
+fixed: 57
+seen: 477
+answer: {torque} [accept {moment} until mentioned]
+
+One of these is given by the gyromagnetic ratio times the angular momentum vector crossed with the
+ magnetic field; that form of this phenomenon can cause the precession of the magnetic moment at the
+ Larmor frequency. A set of "planetary" gears, beginning with a "sun" gear, comprise a device that acts as a
+ "multiplier" of this quantity. When two applied force vectors oppose one another, they form a couple and
+ their moment is known as this term. Power is the dot product of angular velocity at this quantity A second
+ condition of static equilibrium is that in addition to force, the sum of these terms must be zero. This term is
+ computed by taking the cross product of lever arm and force. For 10 points, identify this rotational analog
+ of force.
+
+----
+num: 22
+category: History
+difficulty: HS
+fixed: 1
+seen: 418
+answer: {Lajos} Kossuth
+
+This man spent part of his later life advocating a "Danubian federation" which would include Romania,
+ Serbia, and Croatia. He first became politically active by distributing handwritten letters describing the
+ proceedings of the “long Diet,” and his later career included opposition to the Augsleich in the Cassandra
+ letter. He became a national leader following a Croatian invasion and the fall of the Batthyany government,
+ and after his own deposition, learned English from reading Shakespeare. For 10 points, name this
+ beneficiary of the revolutions of 1848, who led the nationalists of Hungary.
+
+----
+num: 23
+category: Literature
+difficulty: HS
+fixed: 57
+seen: 446
+answer: The {Imaginary Invalid} [or Le {Malade Imaginaire}; accept The {Hypochondriac} before
+
+The main character of this play hides money in the wainscoting of his house after the notary Bonnefoi
+ tells him he can’t will his assets to his wife. Beralde brings in a troupe of performing gypsies in an attempt
+ to warm the heart of the protagonist, who is incensed to find his daughter’s suitor posing as her music
+ teacher. The main character is impressed by the histrionic speeches of Thomas Diaforious and Dr. Purgon.
+ The maid Toinette helps the title character fake his death, which allows him to learn that his wife Beline is
+ only after his money. This play ends when the title character allows his daughter Angelique to marry her
+ beloved Cleante. For 10 points, name this Moliere play about Argan, the title hypochondriac.

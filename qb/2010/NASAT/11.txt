@@ -1,0 +1,134 @@
+####
+tournament: NASAT
+round: 11.pdf
+year: 2010
+####
+
+num: 1
+category: History
+difficulty: HS
+fixed: 57
+seen: 421
+answer: {King Philip's} War [or {Metacomet's} War; or equivalent {terms}]
+
+One massacre in this war is commonly called the Great Swamp Fight. This war broke out with fighting in Swansea after the execution of the alleged murderers of John Sassamon. The forces of one side in this war were led by governor Josiah Winslow. The other side of this conflict was supported by forces of Nipmucks and Narragansetts. A soldier under Benjamin Church killed this war's namesake at Mount Hope. For 10 points, name this late seventeenth century conflict in New England, in which colonists fought against the namesake leader of the Wampanoag.
+
+----
+num: 2
+category: Literature
+difficulty: HS
+fixed: -1
+seen: 445
+answer: {Angels} in {America}
+
+One character in this play has a hallucination of a book whose pages contain a great flaming Aleph. That character is treated by a nurse named Belize, who joins several of its main characters at the Bethesda Fountain in its epilogue. A being known as the Continental Principality informs one character in this play that God left heaven in 1908 and orders humanity to stop changing. In the second part of this play, Ethel Rosenberg sings the Kaddish along with Louis Ironson, and Joe Pitt reveals that he is gay to his mentor Roy Cohn, who becomes God's attorney after dying of AIDS. For 10 points, name this play divided into parts called Millennium Approaches and Perestroika and written by Tony Kushner.
+
+----
+num: 13
+category: Fine Arts
+difficulty: HS
+fixed: 1
+seen: 498
+answer: Wolfgang Amadeus {Mozart}
+
+Fernando Sor's opus nine consists of variations for guitar of a theme by this composer. Another theme by this composer provided the basis for the variations and fugue by Max Reger. He wrote his clarinet concerto in A major for Anton Stadler, and composed a fugue based on five themes in the fourth movement of his last symphony. Tchaikovsky's fourth orchestral suite is based on works of this composer, including his setting of the Ave verum corpus. According to legend, he transcribed Giorgio Allegri's Miserere from memory at age twelve, and his works are categorized by Köchel numbers. For 10 points, name this composer of the Jupiter symphony and Eine Kleine Nachtmusik.
+
+----
+num: 14
+category: History
+difficulty: HS
+fixed: -1
+seen: 413
+answer: {William} the Silent [or {William} of {Nassau}-{Dillenberg}; prompt on {William} of {Orange}]
+
+This man called himself "George Certain" in coded letters addressed to "Lambert Certain." His Apology dated his ancestry back to Otto II. His first territorial acquisition, done entirely without his knowledge, occurred after a ferryman vastly overestimated the size of de la Mark's forces; that acquisition was commemorated in a poem celebrating the stealing of the spectacles of the Duke of Alva. This man gave letters of marque to the Sea Beggars, which allowed them to raid Spanish ships. He was shot by Balthasar Gerard, a Jesuit priest. For 10 points, name this leader in the war for Dutch Independence, whose grandson of the same name ascended to the English throne during the Glorious Revolution.
+
+----
+num: 15
+category: Literature
+difficulty: HS
+fixed: 1
+seen: 445
+answer: Ben {Jonson}
+
+This author wrote a satirical poem accusing rhyming poetry of "wresting words from their true calling" and "propping verse for fear of falling." This author of "A fit of rhyme against rhyme" wrote a play that ends with its characters being invited to dinner by Adam Overdo, who visits the title event along with Winwife and Littlewit. One of this playwright's title characters jumps out of his bed and attempts to seduce the wife of Corvino by singing "Come, my Celia, let us prove / While we may, the sports of love." In another of this author's plays, characters like Abel Drugger and Sir Epicure Mammon are cheated by the team of Dol Common, Subtle, and Face. For 10 points, name this Elizabethan playwright of Bartholomew Fair, Volpone, and The Alchemist.
+
+----
+num: 16
+category: Religion
+difficulty: HS
+fixed: 1
+seen: 450
+answer: {Paul's} Epistle to the {Romans} [accept word order variants including {Romans}]
+
+A preface to this book claims that it is worth memorizing and consuming daily, like the "daily bread of the soul." This book contains verses on "patient continuance in well-doing" and those who "worketh not, but believeth," a central conflict to the Sola gratia versus Sola fide controversy. One theologian states that its usage of "ho alazon" does not imply a denunciation of hypocritical Jews. This book's author claims not to be "ashamed" and advances the idea that Jews and Gentiles are equal before God in the "dual-covenant." For 10 points, name this Pauline epistle, the first one in order, in which Paul addresses a church in Italy.
+
+----
+num: 17
+category: Literature
+difficulty: HS
+fixed: 57
+seen: 440
+answer: Soames {Forsyte} [or Soames {Forsyte}]
+
+This character is forced to resign from the board of the Providential Premium Reassurance Society in a scandal over Elderson's corrupt investments in the German mark and the firing of Butterfield. Earlier, he hires Philip Bossiney to build an estate at Robin Hill in order to please his wife Irene. He is ultimately killed by a falling painting while saving his daughter Fleur from a house fire in Swan Song. Earlier, he had arrived at his uncle Old Jolyon's estate upon hearing of the engagement of his niece June. For 10 points, name this "man of property," the protagonist of a John Galsworthy "saga."
+
+----
+num: 18
+category: Science
+difficulty: HS
+fixed: 1
+seen: 494
+answer: {debug} (or {debugging}; accept other close equivalents)
+
+One automated approach to this is dynamic slicing. One systematic approach to this is known as delta. The value DEADBEEF has been used historically to aid in this. It often involves the use of after-the-fact data such as core dumps. Commands in the namesake programs of this process are often equivalent to "step", "next", and "continue," which can be called after setting a breakpoint. One technique in this procedure is stack tracing, which shows the stack of current function calls. A widely used program designed to do this os gdb. It often involves looking at the values of variables over the course of a program's execution. For 10 points, name this process of fixing errors and problems in a computer program.
+
+----
+num: 19
+category: Social Science
+difficulty: HS
+fixed: 57
+seen: 383
+answer: {conforming} [or word forms {such} as {conformity}]
+
+Deutsch and Gerard showed that this action is performed more often at higher degrees of uncertainty. Stanley Milgram found that the French do this less often than Norwegians, and Whittaker and Meade found that this occurs more often among the Bantu, which have sanctions against not doing it, than among Lebanese. The two major types of this behavior are conversion and compliance. The most famous experiment involving this action told participants it was actually a vision test, and pressured subjects to assert that an incorrect line was closer in length to another line after a group of confederates also identified the wrong line. For 10 points, name this action studied by Solomon Asch, in which a person subjugates his private attitudes in the face of implied social norms.
+
+----
+num: 20
+category: Fine Arts
+difficulty: HS
+fixed: 57
+seen: 492
+answer: Praxiteles
+
+The missing arm of a work by this sculptor may have clutched a bunch of grapes. Two works attributed to this artist are the disembodied Leconfield Head and Aberdeen Head. He depicted a goddess draping a robe over an urn with her left hand while covering her genitals with her right. Another work by this sculptor depicts an animal on a tree-trunk, about to be smote by a god's outstretched right hand. This sculptor of the bathing Aphrodite of Cnidos (NYE-dus) and lizard-killing Apollo Sauroktonos created a sculpture of the messenger of the gods holding a young god. For 10 points, name this Greek sculptor of Hermes Bearing the Infant Dionysus.
+
+----
+num: 21
+category: Literature
+difficulty: HS
+fixed: 57
+seen: 449
+answer: "An {Occurrence} at {Owl Creek Bridge}"
+
+The protagonist of this story hears several whispers in a language he doesn't recognize after seeing some unfamiliar stars in strange constellations. That protagonist is distracted from thinking about his wife and children by "a sharp, distinct, metallic percussion" that turns out to be the ticking of his watch. One character in this story tells of a great quantity of driftwood that would easily burn; that character is given water by the protagonist's wife and later revealed to be a Federal scout. The protagonist of this story imagines meeting his wife on his veranda after swimming through some rapids and dodging the bullets of Union soldiers. For 10 points, name this short story in which Peyton Fahrquhar imagines his escape after being hung from the title structure, a work of Ambrose Bierce.
+
+----
+num: 22
+category: Science
+difficulty: HS
+fixed: 57
+seen: 482
+answer: {bryophytes} [accept {Bryophyta}; prompt on {mosses}]
+
+In this group of organisms, Late Embryogenesis Abundant proteins are thought to play a role in preventing damage during droughts. Members of one of its divisions use multi-cellular, branched rhizoids as anchor. Their life cycles include a stage as protonema, a product of spore germination. Although alternation of generation occurs, gametophytes tend to dominate sporophytes, and they require free water to reproduce. For 10 points, name the group of non-vascular plants, which include hornworts, liverworts, and mosses.
+
+----
+num: 23
+category: History
+difficulty: HS
+fixed: 1
+seen: 418
+answer: {Genghis} Khan [accept {Temujin} until mentioned]
+
+One story about this man says that he killed his half-brother with a bow and arrow after that man, Bekhter, stole his hunting spoils. He was served by a general known as the “Arrow,” who led this man's military campaign against the Kara-Khitan region. One of his greatest accomplishments was winning the Battle of the Badger Mouth, while another victory saw him ferociously smash the Khwarezmi empire and destroy their capitals of Urgench and Samarkand. Another story says that he ordered that his son Jochi be poisoned to allow the more reliable son Ogedei to serve as successor. For 10 points, name this man who had the real name of Temujin, the founder of the Mongol Empire who was later succeeded by grandson Kublai.

@@ -1,0 +1,364 @@
+####
+tournament: HSAPQ VHSL States
+round: 03.pdf
+year: 2011
+####
+
+num: 1
+category: Literature
+difficulty: HS
+fixed: 1
+seen: 445
+answer: {World War II}
+
+In one novel set during this war, a soldier conditioned as an infant by Dr. Laszlo Jamf (LASS-low YAWMF) encounters the sadistic Captain Blicero. That novel, which is set during this war, begins with the line "A screaming comes across the sky," and focuses on the adventures of Tyrone Slothrop. In another novel set during this war, the death of Snowden causes a lieutenant to attempt to get himself declared insane in order to avoid Colonel Cathcart's bombing missions. For 10 points, name this war which is the backdrop for Thomas Pynchon's novel Gravity's Rainbow and Joseph Heller's novel Catch-22.
+
+----
+num: 2
+category: Trash
+difficulty: HS
+fixed: -1
+seen: 1032
+answer: Betty {White} [or Betty Ludden]
+
+This woman is the widow of the former host of GE College Bowl, Allen Ludden. She currently plays the caretaker Elka on the original TV Land show Hot in Cleveland. An earlier TV role saw this actress play former St. Olaf resident Rose Nylund. In an Emmy winning guest appearance, this actress made jokes with Molly Shannon and played MacGruber’s grandmother. For 10 points, name this veteran sitcom actress and former Golden Girl, the oldest person to ever guest host Saturday Night Live.
+
+----
+num: 3
+category: History
+difficulty: HS
+fixed: 1
+seen: 412
+answer: {Pullman} Strike
+
+This action was prompted by a twenty-five percent wage cut following an economic panic, with no corresponding drop in prices at the company town's stores. One of the chief foes of this action was Richard Olney, who used an injunction against its organizers. Allies of this event included governor John Peter Altgeld, who protested Grover Cleveland's attempt to end it. Months later, Cleveland attempted to calm tensions resulting from this event by signing a bill creating Labor Day. Eugene Debs went to prison for organizing, for 10 points, what 1894 labor action against a manufacturer of railroad sleeping cars?
+
+----
+num: 4
+category: Science
+difficulty: HS
+fixed: 1
+seen: 488
+answer: vectors
+
+In x86, a table of these of interrupts is stored starting at address zero. In the Flynn classification, the instructions operating on these are of the SIMD type. In the C++ STL, the class by this name is essentially a dynamic array. This type of graphics is contrasted to raster or bitmaps images and the standard for this type of graphics is called SVG. For 10 points, name this word that also describes mathematical entities that have direction and magnitude, thus contrasting with scalars.
+
+----
+num: 5
+category: Fine Arts
+difficulty: HS
+fixed: 1
+seen: 492
+answer: Frank Owen {Gehry}
+
+An elementary school is part of the first five floors of a building this man designed to be the tallest residential structure in the world, the recently completed Beekman Tower. This man designed a building for a foundation created by Paul Allen, and that Experience Music Project building is adjacent to the Space Needle. A building this man designed with Vlado Milunic (mee-LOO-nitch) was originally named "Fred and Ginger." This man used erratic light-catching curves for an art museum he designed to resemble a ship. For 10 points, name this architect and designer of the Walt Disney Concert Hall in Los Angeles and Bilbao branch of the Guggenheim Museum.
+
+----
+num: 5
+category: Fine Arts
+difficulty: HS
+fixed: 1
+seen: 486
+answer: Frank Owen {Gehry}
+
+An elementary school is part of the first five floors of a building this man designed to be the tallest residential structure in the world, the recently completed Beekman Tower. This man designed a building for a foundation created by Paul Allen, and that Experience Music Project building is adjacent to the Space Needle. A building this man designed with Vlado Milunic (mee-LOO-nitch) was originally named "Fred and Ginger." This man used erratic light-catching curves for an art museum he designed to resemble a ship. For 10 points, name this architect and designer of the Walt Disney Concert Hall in Los Angeles and Bilbao branch of the Guggenheim Museum.
+
+----
+num: 6
+category: Literature
+difficulty: HS
+fixed: 57
+seen: 441
+answer: State of {Israel}
+
+One poet from this country wrote Exile at Home as well as Not of this Time, Not of this Place. This country awards the Bialik (bee-AL-ick) Prize in literature, which has been won by authors such as David Grossman and A. B. Yehoshua (yeh-HO-shwah). Another writer from this country is the author of A Tale of Love and Darkness, Amos Oz. Its capital gives its name to a hymn based on William Blake's poem "And did those feet in ancient time." For 10 points, name this country whose literature is often written in Yiddish or Hebrew.
+
+----
+num: 7
+category: Science
+difficulty: HS
+fixed: 1
+seen: 487
+answer: {T} lymphocytes [accept {cytotoxic T cells} until "{cytotoxic}"]
+
+One type of these cells mediates delayed hypersensitivity reactions. A compound secreted by one type of these cells is chemically similar to complement protein C9, and makes a hole in the plasma membrane through which water can enter a cell. That compound, perforin, is produced by the type of these cells that recognize MHC Class I and CD8 molecules. In addition to the cytotoxic type, another thype of these cells is destroyed in AIDS. For 10 points, name these lymphocytes produced in the thymus.
+
+----
+num: 8
+category: History
+difficulty: HS
+fixed: 57
+seen: 417
+answer: {Carnation} Revolution
+
+The signal to begin this event was the Eurovision entry from the country in which this event occurred. This event was led by the left-wing Armed Forces Movement. After this event, the country endured the lengthy Continuing Revolutionary Process. The end of this event saw Marcelo Caetano surrender to General Spinola in a police station, and the military proceeded to hold control of the country until the election of Mario Soares. For 10 points, name this 1974 military overthrow of the government of Portugal's Estado Novo, which was named for the flowers carried by the soldiers.
+
+----
+num: 9
+category: Science
+difficulty: HS
+fixed: 1
+seen: 485
+answer: series
+
+The Cauchy condensation test is used to test for one property of these entities. Joseph Fourier defined one which can be used to approximate periodic functions, while those in which the individual entities cancel each other out are known as telescoping. The ratio test can be used on them by taking the limit of the n+1 term divided by the n term and the Taylor can approximate a polynomial function. For 10 points, name this mathematical term denoted with an uppercase sigma which gives the sum of the terms in a sequence.
+
+----
+num: 10
+category: Literature
+difficulty: HS
+fixed: 57
+seen: 437
+answer: "{Civil Disobedience}" [or "{Resistance} to {Civil} Government"]
+
+This essay calls voting "a sort of gaming like checkers and backgammon." It asserts that "Under a government which imprisons any unjustly, the true place for a just man is also a prison," and goes on to describe its author's time in jail for refusing to pay taxes in support of the Mexican War. The nonviolent tactics of Martin Luther King and Gandhi were in part inspired by this essay, which begins by claiming "that government is best which governs least." For 10 points, name this essay which argues that citizens should refuse to obey unjust laws, written by Henry David Thoreau.
+
+----
+num: 11
+category: Science
+difficulty: HS
+fixed: 57
+seen: 496
+answer: {waves}
+
+One type of these entities is described by the KdV-Burgers equation. An infinite length string is assumed in d'Alembert's solution describing this physical phenomena. One self-reinforcing self reinforcing subtype are solitons. In one case, their velocity is equal to the square root of tension over density. Functions of these are solutions to Schrödinger's equation. Important characteristics of them include their namesake number, phase, and amplitude. For 10 points, name these periodic disturbances examples of which include light and sound.
+
+----
+num: 12
+category: History
+difficulty: HS
+fixed: 57
+seen: 421
+answer: {Ivan} the {Terrible} [or {Ivan IV} of Russia; or {Ivan Vasilyevich}; or {Ivan Grozny}; prompt on
+
+This ruler sponsored over three thousand symbolic ancestor-lists which were sent to monasteries to commemorate dead noblemen. His regime was threatened with losing a war after Stephen Bathory became king of Poland, which led this ruler to ask Pope Gregory the Thirteenth to mediate the conflict. After emerging from that disastrous Livonian War, he became increasingly paranoid and organized the oprichniki (aap-RICH-nick-ee) to terrorize his enemies. For 10 points, name this Rurikid Dynasty ruler who killed his own son and left Russia in shambles on his 1584 death.
+
+----
+num: 13
+category: Mythology
+difficulty: HS
+fixed: 57
+seen: 779
+answer: {Inca} [or {Incans}]
+
+These people believed in a goddess named "mother tree" who appeared as a two-headed snake. In this people's origin myth, a golden stick was repeatedly pushed into the ground until sinking at a fertile place. These people believed in a rain god who kept the Milky Way in a jug. The creator of the world in this people's mythology announced his departure at Manta and walked away across the ocean, leaving daily affairs in the hands of such figures as Mama Quilla and the sun god Inti. For 10 points, name this people that worshipped Ilyapa and Viracocha from temples in modern-day Peru.
+
+----
+num: 14
+category: Trash
+difficulty: HS
+fixed: -1
+seen: 1019
+answer: Bobby {Cox} [or Robert Joseph {Cox}]
+
+During one of his earliest managing jobs, this man was responsible for moving Dale Murphy to center field. This man was the first manager to guide the Toronto Blue Jays into the postseason. His only World Series win came when David Justice homered in a 1-0 victory over the Cleveland Indians, while his teams lost to the Yankees twice in the 1990’s. From 1995 to 2005, this man’s team won the NL East every year. This man holds the record for the most ejections by a manager in baseball history. For 10 points, name this recently retired longtime manager of the Atlanta Braves.
+
+----
+num: 15
+category: Science
+difficulty: HS
+fixed: 57
+seen: 486
+answer: {spinal} cord
+
+Brown-Sequard syndrome results from a hemisection of this structure. The inferior end of this structure contains the conus medullaris, whose projections are known as the cauda equina. It contains dorsal and ventral horns, as well as columns known as tracts. Like a related structure, it is divided into cervical, thoracic, lumbar, and sacral sections. CSF is removed from this structure in a namesake "tap." For 10 points, name this part of the central nervous system that communicates between the brain and the peripheral nervous system.
+
+----
+num: 16
+category: Science
+difficulty: HS
+fixed: 1
+seen: 489
+answer: latent {heat of vaporization} [or {enthalpy of vaporization}]
+
+In the Riedel equation, this quantity divided by RT makes up one half of the equation. A characteristic exponent of 0.38 is used in Watson's equation for calculating this quantity given its value at another point. This can be derived from a combination of the B and C Antoine constants along with the second virial coefficient. It looses its meaning beyond the critical point. This energy is used to overcome the intermolecular interactions between molecules. For 10 points, name this energy required to convert a unit of liquid into a gas at the boiling point.
+
+----
+num: 16
+category: Science
+difficulty: HS
+fixed: 1
+seen: 486
+answer: latent {heat} of {vaporization} [or {enthalpy} of {vaporization}]
+
+In the Riedel equation, this quantity divided by RT makes up one half of the equation. A characteristic exponent of 0.38 is used in Watson's equation for calculating this quantity given its value at another point. This can be derived from a combination of the B and C Antoine constants along with the second virial coefficient. It looses its meaning beyond the critical point. This energy is used to overcome the intermolecular interactions between molecules. For 10 points, name this energy required to convert a unit of liquid into a gas at the boiling point.
+
+----
+num: 17
+category: Philosophy
+difficulty: HS
+fixed: 1
+seen: 514
+answer: Harold {Bloom}
+
+An attempt by this man to answer the question of how a poet comes to terms with all the great poetry was subtitled “A Theory of Poetry.” This man adapted his doctoral dissertation into a work in which he uses Buber’s idea of “I and Thou” to describe the romantic poets relation with nature. In addition to  The Anxiety of Influence and Shelley’s Mythmaking, this man concluded in another work that all writers regardless of period must be judged in terms of William Shakespeare. For 10 points, name this Yale professor, a literary critic and author of The Western Canon.
+
+----
+num: 18
+category: Trash
+difficulty: HS
+fixed: 1
+seen: 1027
+answer: “{Party} in the {U.S.A.}”
+
+A parody of this song was ruined by not knowing how the word “Sabre” is pronounced in an episode of The Office. Controversy ensued when a performance of this song featured the singer dancing on an ice cream cart with a pole at the Teen Choice Awards. The music video for this song features the singer arriving at the Corral Drive-In and then singing at a jungle gym. The singer complains she never got the memo about wearing stilettos, but is reassured when she hears the music of Britney Spears and Jay-Z, which causes her to nod her head and move her hips “like yeah.” For 10 points, name this Miley Cyrus hit about a celebration in America.
+
+----
+num: 19
+category: Literature
+difficulty: HS
+fixed: 1
+seen: 441
+answer: Lysistrata
+
+Characters in this play discuss where they will get a white horse before instead deciding to swear an oath over a bowl of Thasian wine. In one part of this play, Myrrhine (mih-REE-nee) continually wanders offstage to obtain, among other things, a cot, a pillow, and two different kinds of perfumes. Only the Spartan Lampito initially agrees to the title character's plan. For 10 points, name this Aristophanes play in which a group of women attempt to stop a war by withholding sex from their husbands.
+
+----
+num: 20
+category: History
+difficulty: HS
+fixed: 1
+seen: 409
+answer: the {French} resistance [or la Résistance; or {National} Resistance {Council}; or {Conseil National}
+
+Many members of this movement joined groups known as "the underbrush" in response to an order for conscript labor. Its leaders took code names such as "Max" and "Aubrac" and attempted to unify such predecessor organizations as the Museum of Man group and the Committee of Socialist Action. Formally led by Jean Moulin, this movement opposed both the Milice and the Gestapo through such actions as blowing up factories and locomotives, most notably in the run-up to D-Day. For 10 points, identify this organized opposition to Vichy and the Nazi occupation government in World War II France.
+
+----
+num: 21
+category: Literature
+difficulty: HS
+fixed: 1
+seen: 446
+answer: John {Milton}
+
+This man wrote a poem in which Patience counsels that "They also serve who only stand and wait." That poem, about this author's loss of sight, begins with the line "When I consider how my light is spent." A prose work by this author claims that “A good book is the precious lifeblood of a master spirit,” and that “he who kills a good Book kills reason itself” in a work that defends the ideals of a free press. For 10 points, name this author of Areopagitica (AIR-ee-OP-uh-JIT-ih-kah), a British poet who wrote an account of the fall of man in his Paradise Lost.
+
+----
+num: 22
+category: Science
+difficulty: HS
+fixed: 1
+seen: 493
+answer: {hydrophobic}
+
+This property of compounds is utilized in a form of chromatography developed by Shaltiel. That technique uses sepharose beads and "salting out." Examples of amino acids with this distinction include leucine, valine, and phenylalanine. This property is caused entropic driven interactions. Structures in the center of a micelle have this distinction. Substances described by this are usually non-polar such as hydrocarbons. For 10 points, name this property of not interacting with water to the point of seemingly being repelled by it.
+
+----
+num: 23
+category: History
+difficulty: HS
+fixed: 1
+seen: 412
+answer: Commonwealth of {Australia}
+
+Recently, the husband of Verity Firth, a minister from this country, was charged with drug possession. This country's most recent election saw its first hung parliament since 1940 and the defeat of Tony Abbott. This country's treasurer, Wayne Swan, has defended a proposed levy to help rebuild the areas which were ravaged by floods in December 2010 and January 2011. For 10 points, name this country led by Julia Gillard which suffered floods in its state of Queensland.
+
+----
+num: 24
+category: History
+difficulty: HS
+fixed: 57
+seen: 413
+answer: Rutherford Birchard {Hayes}
+
+This President sent Winfield Scott Hancock to handle the Great Railroad Strike. Although this man sent his Secretary of State William Evarts to the International Monetary Conference, he brought America back to the gold standard. This president's wife was committed to keeping the White House alcohol-free, leading to her nickname of Lemonade Lucy. Florida, Louisiana, and South Carolina were won by this man according to an Electoral Commission that granted him victory over Samuel Tilden. For 10 points, name this victor of the election of 1876, whose ascension led to the end of Reconstruction.
+
+----
+num: 25
+category: Science
+difficulty: HS
+fixed: -1
+seen: 482
+answer: {DNA} [or {deoxyribonucleic acid}]
+
+This molecule can be introduced into cells after electroporation. Fragments of this molecule can be detected by a Southern blot. It is introduced into cells via transfection. The P element consists of this molecule, which can be sequenced via the Sanger chain-termination method. This molecule can be duplicated by Taq polymerase in the polymerase chain reaction. For 10 points, name this molecule, a complementary version of which can be made from mRNA by reverse transcriptase.
+
+----
+num: 26
+category: Fine Arts
+difficulty: HS
+fixed: 1
+seen: 487
+answer: Claudio Giovanni Antonio {Monteverdi}
+
+He composed an opera that includes a Roman emperor ordering Seneca to commit suicide, and the empress plotting to kill the title mistress of the emperor. He composed an opera based on The Odyssey entitled The Return of Ulysses to his Homeland. One of his operas includes the aria "Possente spirto" (poe-SENT-tay SPEAR-tow). His opera about Nero's court is The Coronation of Poppea. His first opera was about a Greek musician who traveled to the underworld to rescue his dead wife. For 10 points, name this composer of Orfeo.
+
+----
+num: 27
+category: Literature
+difficulty: HS
+fixed: 1
+seen: 439
+answer: Betty {Friedan}
+
+This author challenged assumptions of loss and depletion in the aging process in her book The Fountain of Age. She identified the necessity of going beyond reacting against grievances in The Second Stage. Along with Shirley Chisholm and 26 others, she was a cofounder of the National Organization for Women. In 1963, she published a book arguing that women were doomed to unhappiness because of the delusion that their worth was tied up in their role as mother and wife. For 10 points, name this author of The Feminine Mystique.
+
+----
+num: 28
+category: Social Science
+difficulty: HS
+fixed: 1
+seen: 376
+answer: {Spanish} [or {Español}; or {Castilian}; or {Castellano}]
+
+The conditional of this language is formed by adding “ia” and personal endings directly to the infinitive. It employs a “personal a” when a person is the direct object of a verb. In this language, verbs ending in “zar” may change to end in “ce” to form the first person of the past tense. It distinguishes between two words for “for,” “por” and “para,” and it employs a formal second-person pronoun, “usted.” For 10 points, name this language, which is spoken in Argentina and Chile.
+
+----
+num: 29
+category: Literature
+difficulty: HS
+fixed: 1
+seen: 448
+answer: James {Thurber}
+
+In one story by this writer, a star tackle mentions a train to meet his eligibility requirement of being able to name a mode of transportation. That tale, “University Days,” is recounted in this author’s autobiographical My Life and Hard Times. A character created by this man destroys an alibi, during his trial for murder, of his arm having been in a sling by exclaiming he is ambidextrous and punching an attorney. That character also pilots a Navy hydroplane and performs a miraculous surgery. For 10 points, name this American satirist who wrote "The Secret Life of Walter Mitty."
+
+----
+num: 30
+category: Social Science
+difficulty: HS
+fixed: -1
+seen: 381
+answer: {jury} selection [accept logical equivalents]
+
+This process can be lengthened by a “challenge for cause” or through a “peremptory challenge,” in which no reason needs to be supplied. It can also be lengthened when ensuring moderate views in order to achieve a “death qualification.” If excessive publicity causes this process to be untenable locally, a “change of venue” can be requested. One step in this process is a round of questioning called “voir dire.” For 10 points, name this legal process which in the United States usually results in the “impaneling” of twelve people to serve at a trial.
+
+----
+num: 31
+category: Literature
+difficulty: HS
+fixed: 1
+seen: 446
+answer: essay
+
+Francis Bacon’s first published work had this word as its title, and featured such examples as “Of Friendship” and “Of Truth.” A collection with this word as its title included the notable section “An Apology for Raymond Sebond.” This word names a literary genre of which Joseph Addison collected many examples of in his Spectator publication. Alexander Pope wrote one of these “on Criticism” and one of them “on Man.” For 10 points, name this word, which names a collection by Michel de Montaigne and which has come to mean any short piece of writing.
+
+----
+num: 32
+category: History
+difficulty: HS
+fixed: 1
+seen: 421
+answer: {New Orleans}
+
+General James Wilkinson took military control of this city after informing President Jefferson about a conspiracy led by Aaron Burr centered here. The United States gained access and trading rights in this port under Pinckney's Treaty. After the discovery of the Treaty of San Ildefonso, Robert Livingston was authorized to purchase this city for $2 million dollars. The recovery from a disaster in this city was overseen by a man that described it as a "chocolate city." For 10 points, name this southern city once led by mayor Ray Nagin that in August 2005 was hit by Hurricane Katrina.
+
+----
+num: 33
+category: Science
+difficulty: HS
+fixed: None
+seen: 486
+answer: Albert Einstein
+
+This man names a model of a solid which says each atom is a quantum harmonic oscillator. This scientist proposed the “Hole Argument” to help explain one of his theories. One of his papers argues that organisms moving at the speed of light would not age as compared to those who remained, which inspired the twin paradox. Among his “Annus Mirabilis” papers of 1905 are his explanation of a stochastic model of Brownian motion. This man’s Nobel Prize came for his explanation of the photoelectric effect. For 10 points, name this German physicist who developed the theory of general relativity.
+
+----
+num: 34
+category: Literature
+difficulty: HS
+fixed: 57
+seen: 438
+answer: drowning
+
+This is the method of Daniel Quilp's death in The Old Curiosity Shop. Frankenstein's monster is shot after saving a girl from dying in this fashion. Thomas Gray wrote an elegy for a cat who died in this way. After falling out of a willow tree, Ophelia dies in this way in Hamlet. Also the real-life cause of death of Virginia Woolf and Percy Shelley is, for 10 points, what action that, in a Leigh Hunt poem, happened to Leander while trying to swim the Hellespont?

@@ -1,0 +1,306 @@
+####
+tournament: Sample
+round: round6.pdf
+####
+
+num: 1
+category: Physics
+difficulty: HS
+seen: 25
+answer: 50 Meters Per Second Squared  (Accept:  50 Meters Per Second Per 
+Second)
+(Solution:  a = F/m;  a = 500/10; a = 50m/sec^2)
+
+Debbie pushes a 10-kilogram box of books with a horizontal force of 500 newtons. What is the acceleration of the box, giving your answer in standard SI units, if friction is neglected?
+
+----
+num: 2
+category: Chemistry
+difficulty: HS
+seen: 34
+answer: 540
+
+If pure water is at its boiling point at standard pressure, how many additional calories of heat are needed to convert 1 gram of water from the liquid to the vapor state?
+
+----
+num: 2
+category: Chemistry
+difficulty: HS
+fixed: -1
+seen: 33
+answer: Pentane
+
+What is the name for the straight-chain alkane containing 5 carbons?
+
+----
+num: 3
+category: Biology
+difficulty: HS
+seen: 38
+answer: Calvin Cycle  (Accept:  Calvin-Benson Cycle or Calvin-Benson-
+Bassham Cycle)
+
+In what part of photosynthesis, named after its discoverers, is NADPH used to produce 3-carbon sugar phosphate molecules?
+
+----
+num: 3
+category: Biology
+difficulty: HS
+seen: 42
+answer: 2
+
+For every carbon dioxide molecule fixed in the Calvin -Benson cycle, how many NADPH molecules a re utilized?
+
+----
+num: 4
+category: Math
+difficulty: HS
+seen: 25
+answer: Internal Common Tangent  (Accept:  Internal or Internal 
+Tangent )
+
+What is the specific name for a common tangent that intersects the segment joining the centers of 2 circles?
+
+----
+num: 4
+category: Math
+difficulty: HS
+seen: 27
+answer: 75
+(Solution: (100 × 6)/8 = 75 Ft)
+
+A flagpole casts a 100-foot long shadow. If a 6-foot tall person standing at the base of the pole casts an 8 -foot shadow, how many feet tall is the flagpole?
+
+----
+num: 6
+category: General Science
+difficulty: HS
+seen: 29
+answer: 1.8
+
+Giving your answer to the first decimal place, an increase of 1ºC is equivalent to an increase of how many degrees Fahrenheit?
+
+----
+num: 6
+category: General Science
+difficulty: HS
+seen: 30
+answer: 60
+(Solution: 5/9(140º – 32º) = 60º C)
+
+Convert 140ºF into degrees Celsius:
+
+----
+num: 7
+category: Astronomy
+difficulty: HS
+fixed: -1
+seen: 54
+answer: Mass
+
+What physical property of stars is most directly responsible for how long they will continue fusion?
+
+----
+num: 8
+category: Physics
+difficulty: HS
+seen: 26
+answer: 3,600
+(Solution: (1 Joule Per Second)(60 Sec)(60 Minutes) = 3600 J)
+
+How many joules are in a single watt-hour?
+
+----
+num: 9
+category: Chemistry
+difficulty: HS
+fixed: -1
+seen: 34
+answer: Polar Covalent (Do Not Accept:  Covalent)
+
+If the electronegativity difference in the bonding atoms is intermediate in strength, what general type of bond is typically formed?
+
+----
+num: 10
+category: Biology
+difficulty: HS
+seen: 39
+answer: Duodenum
+
+What section of the small intestine is the first to receive gastric contents?
+
+----
+num: 11
+category: Math
+difficulty: HS
+seen: 24
+answer: 0;  3
+
+Solve the following equation for x over the integers: x^2 = 3x
+
+----
+num: 11
+category: Math
+difficulty: HS
+seen: 26
+answer: – 3
+4
+
+Giving your answer as a fraction reduced to lowest terms, solve thefollowing equation for x: 32x − 14 = 106 x +21
+
+----
+num: 14
+category: Astronomy
+difficulty: HS
+seen: 53
+answer: Methane  (Accept:  Ch
+^4)
+
+What is the MOST common organic molecule in the atmosphere of the planet Uranus?
+
+----
+num: 15
+category: Physics
+difficulty: HS
+seen: 25
+answer: Radium
+
+Radon is primarily produced naturally on Earth most directly from the decay of what ele ment?
+
+----
+num: 15
+category: Physics
+difficulty: HS
+seen: 27
+answer: 3) It Can Be Accelerating
+
+By words or numbers, name all of the following 4 choices that are 
+TRUE for an object moving at a constant speed:
+1) it must have a constant velocity
+2) it must be constantly moving in the same di rection
+3) it can be accelerating
+4) it must have a constant weight
+
+----
+num: 16
+category: Chemistry
+difficulty: HS
+seen: 35
+answer: Kclo^4
+
+According to standard chemical nomenclature and indicating the proper charge, what is the formula for potassium perchlorate?
+
+----
+num: 17
+category: Biology
+difficulty: HS
+fixed: -1
+seen: 41
+answer: Transmission Electron Microscopy  (Accept:  Tem)
+(Do Not Accept:  Scanning Electron Microscopy or Sem)
+
+What specific type of microscopy passes a beam of electrons through an ultra-thin specimen that is usually stained with an electron opaque substance, produci ng an image which can be capture d by a charged coupled device?
+
+----
+num: 17
+category: Biology
+difficulty: HS
+fixed: -1
+seen: 39
+answer: Ribosome;  Mitochondrion;  Erythrocyte;  Average Monocyte
+
+Order the following 4 objects found in the h uman body from the 
+SMALLEST to the LARGEST: mitochondrion; ribosome; erythrocyte; average monocyte
+
+----
+num: 20
+category: Math
+difficulty: HS
+seen: 26
+answer: Cannot Be Further Simplified  (Accept:  
+95y
+Y^2−
++3
+5x
+X^2
+or the Same)
+
+Simplify the following rational expression: 59yy^2−+35xx^2
+
+----
+num: 20
+category: Math
+difficulty: HS
+seen: 26
+answer: 12(x + 3)(x – 1)  (Accept:  12(x – 1)(x + 3))
+
+Factor the following expression completely: 12 x^2 + 24x – 36
+
+----
+num: 21
+category: Astronomy
+difficulty: HS
+seen: 57
+answer: 1.0
+
+To the first decimal place, how many astronomical units is the average radius of the Earth’s orbit around the Sun?
+
+----
+num: 21
+category: Astronomy
+difficulty: HS
+seen: 53
+answer: 90
+
+How many degrees above the celestial equator is the north celestial pole?
+
+----
+num: 22
+category: Physics
+difficulty: HS
+seen: 24
+answer: Both Are Zero
+
+What is the electric charge and mass of the carrier particle for the electromagnetic force?
+
+----
+num: 22
+category: Physics
+difficulty: HS
+seen: 25
+answer: 40
+
+If the intensity of a sound is 10,000 times as loud as another sound, by how many decibels do the two sounds differ?
+
+----
+num: 23
+category: Chemistry
+difficulty: HS
+seen: 34
+answer: 21
+(Solution: Caso
+^4•2h
+^2o)
+
+Knowing that the chemical name f or gypsum is calcium sulfate dihydrate, gypsum is what percent water by weight? Assume the atomic masses of calcium = 40; sulfur = 32 and oxygen = 16.
+
+----
+num: 24
+category: Biology
+difficulty: HS
+fixed: -1
+seen: 40
+answer: Active Transport;  Sodium Potassium Pump  
+(Accept:  All but Facilitated Diffusion)
+
+Name all of the following 3 transport systems that directly require energy to operate: active transport; facilitated diffusion; sodium potassium pump
+
+----
+num: 25
+category: Chemistry
+difficulty: HS
+seen: 34
+answer: Ideal Gas  (Accept:  Ideal)
+
+What is the general name for a hypothetical gas that obeys 
+Boyles’s law at all temperatures and pressures?

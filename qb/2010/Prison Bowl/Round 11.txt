@@ -1,0 +1,224 @@
+####
+tournament: Prison Bowl
+round: Round 11.doc
+year: 2010
+####
+
+num: 1
+category: History
+difficulty: HS
+fixed: 1
+seen: 417
+answer: Republic of {Uganda}
+
+This nation experienced widespread unrest following the overthrow of Edward Mutesa II, and was once ruled by the Kitara Empire. Before independence, its ruler was Benedicto Kiwanuka, who was replaced by its namesake Peoples Congress party. Tito Okello led a coup in this nation and ruled for six months before his overthrow by its current ruler, Yoweri Museveni. Yonatan, the son of Binyamin Netanyahu, died in this nation while commanding Operation Entebbe. Formerly led by Milton Obote, for 10 points, name this nation also ruled by Idi Amin.
+
+----
+num: 2
+category: Mythology
+difficulty: HS
+fixed: 1
+seen: 785
+answer: {sea} or {ocean deities} [accept equivalents, prompt on {water}]
+
+A goblet of wine filling six tubs was sent to a deity of this domain, Repun Kamui. In Norse myth, the figure governing this domain was married to Rán, and his daughters were the billow maidens. Orochi was slain by the Shinto god of this domain. One god of this entity was a patron of horse-racing. That god's Greek counterpart was accompanied by Galatea, Thetis, and other Nereids, and hindered Odysseus' journey home. For 10 points, name this aquatic domain of Neptune and Poseidon.
+
+----
+num: 3
+category: Literature
+difficulty: HS
+fixed: 1
+seen: 449
+answer: Robert Louis {Stevenson}
+
+The title character serves in Reverend Soulis's manse in this author's "Thrawn Janet," from The Merry Men. Keawe sells a container with an inexhaustible supply of whiskey in his The Bottle Imp. He wrote about a protagonist who marries James More's daughter after Alan Breck Stewart is falsely convicted of the Appin murder, in Catriona. He wrote of James Durie joining the Jacobite Uprising, and of Captain Hoseason purchasing David Balfour. In another novel of his, Jim Hawkins meets Long John Silver. For 10 points, who wrote The Master of Ballantrae, Kidnapped, and Treasure Island?
+
+----
+num: 4
+category: Science
+difficulty: HS
+fixed: 1
+seen: 489
+answer: Leonhard {Euler}
+
+In fluid dynamics, this man's namesake equations govern inviscid flow. He names a formula for the distance between a triangle's incenter and circumcenter. In topology, his namesake characteristic, chi, is the number of vertices, minus edges, plus faces, which for a polyhedron is always 2. The number of smaller natural numbers coprime to a given natural number is this man's totient function. His namesake circuit is a solution to the Bridges of Königsberg problem, and his namesake formula states that e to the ix equals cis x [“sis ecks”]. For 10 points, name this 18th century Swiss mathematician.
+
+----
+num: 5
+category: Social Science
+difficulty: HS
+fixed: 57
+seen: 370
+answer: verbs 
+
+Ancient Sanskrit ones have reduplicating and sigmatic aorist forms. In Kurdish and Basque, alignment of their arguments is ergative-absolutive. In Semitic languages, many have three-consonant roots. Latin ones have two supine forms and may be deponent. Linking ones are called copulas, and their non-finite forms include participles and gerunds. Commonly existing in indicative and subjunctive moods, they may be conjugated for voice and tense. For 10 points, name this part of speech expressing a state of being, occurrence, or action.
+
+----
+num: 6
+category: Trash
+difficulty: HS
+fixed: 1
+seen: 1027
+answer: The {B}-{52s}
+
+This band sings of "buying hot dogs and wine" in "Is That You Mo Dean?", while another song mentions "Taco Tiki Hut" and "Chandalabra ... in a wonderbra." This band of Cosmic Thing and Funplex sings about "glitter on the mattress" in the title place, which is "where it's at." Another song claims that you're "underground like a wild potato." This band of "Love Shack" and "Private Idaho" sings that "everybody had matching towels" as the title object is found under a dock. For 10 points, name this New Wave band behind "Rock Lobster."
+
+----
+num: 7
+category: Fine Arts
+difficulty: HS
+fixed: 1
+seen: 493
+answer: The {Arnolfini} Wedding or Giovanni Arnolfini and his Wife [accept equivalents]
+
+In this painting, a figure of St. Margaret emerging from the belly of a dragon is carved into a wooden chair. A cherry tree is visible outside the window. A rosary and brush are seen in the background, and above hangs a brass chandelier with a single lit candle. A pair of wooden clogs and a brown dog are near the bottom of this painting, which also features a convex mirror showing the artist and a priest. The man wears a fur-trimmed coat while the woman wears a green dress. For 10 points, name this portrait of an Italian merchant and his wife, by Jan van Eyck.
+
+----
+num: 8
+category: Science
+difficulty: HS
+fixed: None
+seen: 486
+answer: {collagen}
+
+This protein is stained blue by Masson's trichrome, and its cleaved ends can act as a marker to estimate the rate of its synthesis. Deficiency of it results in osteo·genesis imperfecta, or brittle bone disease. Patients with scurvy cannot properly perform its synthesis, which requires a cofactor, vitamin C. About one sixth of it consists of proline and one third consists of glycine, which helps it form a stable triple helix. It can be processed to form gelatin. For 10 points, name this most abundant protein in mammals, a major component of tendons, cartilage, bones, and skin.
+
+----
+num: 9
+category: Literature
+difficulty: HS
+fixed: 57
+seen: 446
+answer: Luigi Pirandello
+
+This man wrote a play where Lamberto Laudisi stays aloof as the others investigate a scandal involving Mr. Ponza and Mrs. Frola. He wrote a novel where the title character fakes his death twice. This author of Right You Are (If You Think You Are) and The Late Mattia Pascal wrote about a man who feigns madness after falling off a horse in Enrico IV. In his most famous play, Madame Pace runs a brothel where the Stepdaughter works, while the Son commits suicide after the Child drowns. For 10 points, name this Italian playwright of Six Characters in Search of  an Author.
+
+----
+num: 10
+category: Fine Arts
+difficulty: HS
+fixed: -1
+seen: 493
+answer: Frank {Gehry}
+
+This man designed a building with undulating rows of windows and wavy lines running across the whole façade. In 2007, this designer of the Weisman Art Museum and the Dancing House in Prague was sued for defective design on Building 32, the Ray and Maria Stata Center, at MIT. Another of his buildings has a monorail running through it, the Experience Music Project in Seattle, which, along with the Walt Disney Concert Hall, exemplifies his iconic shiny, curved metal-clad exterior walls. For 10 points, name this architect of the Guggenheim Museum in Bilbao.
+
+----
+num: 11
+category: Science
+difficulty: HS
+fixed: -1
+seen: 491
+answer: {Hooke's} law
+
+This statement's anisotropic form can be expressed using Voigt notation with 6 by 6 compliance and stiffness matrices. It can also be stated using Poisson's ratio and Young's modulus. This equation only applies up to the yield strength for linearly elastic materials and gives a linear relationship between stress and strain. It contains the spring constant k as the constant of proportionality between force and displacement. Stated as "F equals negative kx," for 10 points, name this law of elasticity that describes the restorative force of a stretched spring.
+
+----
+num: 12
+category: History
+difficulty: HS
+fixed: 1
+seen: 419
+answer: William {Marbury} v. James {Madison} [accept either name in either order]
+
+The doctrine established in this case was argued against by John B. Gibson in the dissent of the Pennsylvania case Eakin v. Raub. The decision argued that the body in question lacked the original jurisdiction under the Constitution, given to it under Section 13 of the Judiciary Act of 1789, to issue a writ of mandamus, which its author had entrusted to his brother to deliver while Secretary of State to the plaintiff, appointed as one of John Adams's “midnight judges.” For 10 points, name this Supreme Court case decided by John Marshall, which established judicial review.
+
+----
+num: 12
+category: History
+difficulty: HS
+fixed: 1
+seen: 425
+answer: William {Marbury} v. James {Madison} [accept either name in either order]
+
+The doctrine established in this case was argued against by John B. Gibson in the dissent of the Pennsylvania case Eakin v. Raub. The decision argued that the body in question lacked the original jurisdiction under the Constitution, given to it under Section 13 of the Judiciary Act of 1789, to issue a writ of mandamus, which its author had entrusted to his brother to deliver while Secretary of State to the plaintiff, appointed as one of John Adams's “midnight judges.” For 10 points, name this Supreme Court case decided by John Marshall, which established judicial review.
+
+----
+num: 13
+category: Fine Arts
+difficulty: HS
+fixed: 1
+seen: 493
+answer: Charles-Camille {Saint}-{Saëns}
+
+For violinist Pablo de Sarasate, this composer wrote Introduction and Rondo Capriccioso, which mimics Spanish dance music. One of his symphonic poems features a scordatura violin with the E-string tuned down a half-step, so that the resulting tritone represents "Death." He wrote a piece using xylophones to evoke the image of skeletons playing cards, in the movement “Fossils.” He dedicated his Organ Symphony to Franz Liszt, and wrote a Cello Concerto No. 1 in A minor. For 10 points, name this French composer of Danse Macabre and Carnival of the Animals.
+
+----
+num: 14
+category: Literature
+difficulty: HS
+fixed: 57
+seen: 440
+answer: Wole {Soyinka}
+
+This author wrote about the Professor, who owns the Aksident Store and looks for the "Word" in The Road. Goyi, Cripple, Blindman and Aafaa wager body parts in a dice game, in his Madmen and Specialists. He wrote a play in which Omae dies in childbirth and Sunma is sacrificed for the community. In one work, Lakunle and chief Baroka court Sidi. In another, Simon Pilkings interrupts ritual suicide and Olunde's dead body prompts Elesin Oba to strangle himself with chains. For 10 points, name this Nigerian author of The Lion and the Jewel and Death and the King's Horseman.
+
+----
+num: 15
+category: Geography
+difficulty: HS
+fixed: 1
+seen: 711
+answer: Islamic Republic of {Iran}
+
+This country's Orumieh Lake is in danger of drying up, while the nearby Anzali Lagoon in the Gilan region is also ecologically threatened. Cities in this country include Mashhad, a holy city in its Razavi Khorasan Province. A mountain range here is home to Mt. Dena and Zard Kuh, the Zagros Mountains. One strait south of this country has 40% of all oil shipments go through it. That strait, the Strait of Hormuz, is shared with Oman and the UAE. For 10 points, name this country with major cities such as Esfahan and Tehran.
+
+----
+num: 16
+category: History
+difficulty: HS
+fixed: 57
+seen: 421
+answer: {Ramses II} or {Ramses} the Great until “{great}” is read
+
+In the third Syrian campaign, this leader led attacks on the cities of Jerusalem and Jericho, reestablishing his nation's sphere of influence in Syria. The Sed festival honored this ruler's deification. He completed some building projects begun by his father Seti and signed a peace treaty with Hattusili III after winning a battle in which the main Hittite army was secretly hidden behind the fortress of Kadesh. He commissioned statues of himself at Abu Simbel, as well as a temple for his wife Nefertari. For 10 points, name this “great” Egyptian pharaoh.
+
+----
+num: 17
+category: Science
+difficulty: HS
+fixed: 57
+seen: 491
+answer: {benzene} [prompt on {arenes}, prompt on {aromatic compounds}]
+
+In the presence of alcohol, sodium, and ammonia, this compound can undergo the Birch reduction. Catalyzed by aluminum chloride, it reacts with an acyl chloride or alkyl halide in the Friedel-Crafts reactions. All of its bonds are 140 picometers long. It has two more than a multiple of four electrons, in accordance with Hückel's rule. Its substituted derivatives include aniline, toluene, and phenol. It exhibits delocalization and resonance. Its structure can be drawn with three double-bonds and three single-bonds. For 10 points, name this simplest aromatic compound.
+
+----
+num: 18
+category: Literature
+difficulty: HS
+fixed: 57
+seen: 446
+answer: The {Awakening}
+
+In this novel, the protagonist's spouse calls Dr. Mandelet to diagnose the protagonist's odd behavior. The protagonist is moved by the piano playing of a her friend, Madamoiselle Reisz, and later stays with Adele Ratignolle as she goes into labor, even though she finds it tortuous. After the protagonist's husband Leonce leaves for New York on business, she has an affair with Alcee Arobin and later drowns at sea after losing Robert Lebrun. For 10 points, name this novel about Edna Pontellier, by Kate Chopin.
+
+----
+num: 19
+category: History
+difficulty: HS
+fixed: 57
+seen: 416
+answer: Republic of {Albania} [or {Shqiperia}; or Republika {e Shqiperise}]
+
+A national hero from this country converted to Christianity and held a stronghold at Kruje when he organized the princes in this nation to overthrow Turkish rule. This country was the last in Europe to abandon a communist regime, and the only nation to ever ban religion. This home of Skanderbeg was ruled by the isolationist Enver Hoxha. Natives of this country living in Kosovo were targeted by Slobodan Milosevic. For 10 points, name this Balkan country whose capital is Tirane.
+
+----
+num: 20
+category: Religion
+difficulty: HS
+fixed: 1
+seen: 447
+answer: The Book of {Esther} [accept {Megillat Esther}, prompt on {Megillah}]
+
+The wife of this book's antagonist proposes the construction of a gallows ten cubits high. Bigtan and Teresh attempt to poison the king, who promises the title character any request, up to half the kingdom. Vashti refuses to show her beauty at a drunken party and is banished. The title character replaces her as Ahasuerus' queen, while her uncle Mordechai falls into disfavor with the would-be Jew murderer Haman. For 10 points, name this book of the Tanakh read aloud during Purim.
+
+----
+num: 21
+category: Science
+difficulty: HS
+fixed: -1
+seen: 477
+answer: {penicillins} [prompt on {antibiotics} or {antibacterial agents}]
+
+Probenecid is used along with this compound to slow its renal clearance and increase retention. It is synthesized from a core of 6-APA, which contains a cyclic amide of three carbon atoms and one nitrogen, a beta-lactam ring. This compound's V form is orally active, unlike the stronger G form. It binds to PBPs and inhibits the formation of peptidoglycan cross-links, which compromises the structure of the cell wall; thus it is most effective on Gram-negative bacteria. First isolated from a fungus, for 10 points, name this antibiotic discovered by Alexander Fleming.

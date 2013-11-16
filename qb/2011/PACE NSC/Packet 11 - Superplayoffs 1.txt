@@ -1,0 +1,264 @@
+####
+tournament: PACE NSC
+round: Packet 11 - Superplayoffs 1.doc
+year: 2011
+####
+
+num: 1
+category: Fine Arts
+difficulty: HS
+fixed: -1
+seen: 489
+answer: string {quartets} [prompt on {quartet}]
+
+Alban Berg’s Lyric Suite was originally composed in this form, and Beethoven wrote three of these called the “Rasumovsky” ones. One piece of this type begins in 9/8 and has an andante cantabile second movement; that is the first of these by Pyotr Tchaikovsky. One of these by Franz Schubert ends with a tarantella and is called Death and the Maiden. Many modern compositions of this type are commissioned by a group named for (*) Kronos. A famous one of these by Antonín Dvo?ák was composed in Spillville, Iowa, giving it the nickname “American.” An adagio movement from one by Samuel Barber is frequently played on its own. For 10 points, name this type of composition for an ensemble consisting of two violins, a viola, and a cello.
+
+----
+num: 2
+category: Social Science
+difficulty: HS
+fixed: 1
+seen: 373
+answer: Claude {Lévi}-{Strauss}
+
+One of this man’s works uses musical terms in every chapter title and heading; those include “Well-Tempered Astronomy,” “Rustic Symphony in Three Movements,” and “Bororo Song.” This man sought irreducible units known as “mythemes.” One of his works, whose name is an original-language pun involving pansies, contrasts the Engineer with a man who builds from the materials immediately available to him, the (*) bricoleur. He recounted his journeys to Brazil in his memoir Tristes Tropiques and included “The Origin of Table Manners” and “The Raw and the Cooked” in Mythologiques. For 10 points, name this author of The Elementary Structures of Kinship and The Savage Mind, a French structuralist.
+
+----
+num: 3
+category: Science
+difficulty: HS
+fixed: 57
+seen: 495
+answer: {symmetric} matrices [accept word forms; prompt on {matrix} before “{types} of” is read]
+
+A process named for Cholesky decomposes these objects into the product of a lower- triangular matrix with its adjoint. These objects are always orthogonally diagonalizable, and are positive- definite if and only if all their eigenvalues are positive. Different eigenspaces of these objects produce orthogonal eigenvectors, and according to the (*) spectral theorem, these objects always have orthonormal bases of eigenvectors; thus, all these types of matrices’ eigenvalues are real. Generalized by Hermitian matrices, for 10 points, name these types of matrices that are equal to their transpose, with entries i,j always equal to entries j,i.
+
+----
+num: 3
+category: Science
+difficulty: HS
+fixed: 57
+seen: 483
+answer: {symmetric} matrices [accept word forms; prompt on {matrix} before “{types} of” is read]
+
+A process named for Cholesky decomposes these objects into the product of a lower- triangular matrix with its adjoint. These objects are always orthogonally diagonalizable, and are positive- definite if and only if all their eigenvalues are positive. Different eigenspaces of these objects produce orthogonal eigenvectors, and according to the (*) spectral theorem, these objects always have orthonormal bases of eigenvectors; thus, all these types of matrices’ eigenvalues are real. Generalized by Hermitian matrices, for 10 points, name these types of matrices that are equal to their transpose, with entries i,j always equal to entries j,i.
+
+----
+num: 4
+category: Literature
+difficulty: HS
+fixed: 57
+seen: 446
+answer: A {Bend} in the {River}
+
+One character in this novel, who attends a school whose motto is “Semper aliquid novi,” makes a speech in which he says, “We’re all going to hell, and every man knows this in his bones.” That character, Ferdinand, saves the protagonist from execution by putting him on a steamer. The protagonist has an affair with Yvette, the wife of the French intellectual Raymond. The country in which it is set is similar to the Democratic Republic of the Congo during the reign of (*) Mobutu Sese Seko, who is caricatured as the Big Man in this novel. For 10 points, name this novel about Salim, a shopkeeper living in a town at the title location, written by V. S. Naipaul.
+
+----
+num: 5
+category: Geography
+difficulty: HS
+fixed: 1
+seen: 713
+answer: {Switzerland} [or {Swiss Confederation}]
+
+This country’s city of Bellinzona is known for three castles that guarded the route into its Ticino region, and other castles in this country include one in the center of the town of Neuchâtel and the Chillon Castle near a city that hosts a popular jazz festival, Montreaux. Tourists are attracted to this country by resorts in Verbier and (*) Zermatt as well as a castle that may have been designed by Leonardo da Vinci in Locarno and the covered Chapel Bridge in Lucerne. Its second most populous city of Basel is located on the Rhine, while the Jura Mountains rise above its city of Lausanne. For 10 points, name this country that is home to Zurich and Geneva.
+
+----
+num: 6
+category: Philosophy
+difficulty: HS
+fixed: 1
+seen: 524
+answer: phenomenology
+
+Several philosophers who write about this movement distinguish between two outgrowths of nous, noesis the actual and noema the ideal in addition to writing about what they term the “lifeworld.” Maurice Merleau-Ponty, an “existential” as opposed to transcendental philosopher who studies this branch of philosophy, wrote about The [this] of Perception. The founder of this branch of philosophy, a student of Franz Brentano, elaborated it in his work Logical Investigations. For 10 points, name this branch of philosophy concerned with describing conscious experience, founded in the early 20th century by Edmund Husserl.
+
+----
+num: 7
+category: Science
+difficulty: HS
+fixed: 57
+seen: 490
+answer: {polymerase} chain reaction
+
+The fidelity of this process can be increased by using Pfx or Pfu instead of one more typical reagent. More specific types of this are called its “nested” and “touchdown” varieties, and the LATE modification made its asymmetric type more efficient. Cations such as magnesium are used to stabilize the product of this process, which is created from (*) dNTPs. Primers anneal to a template during a lower-temperature step in this technique, which was developed by Kary Mullis and which uses a special heat-resistant polymerase called Taq in order to extend DNA strands. For 10 points, name this laboratory technique used to create DNA ex vivo.
+
+----
+num: 7
+category: Science
+difficulty: HS
+fixed: -1
+seen: 485
+answer: {polymerase} chain reaction
+
+The fidelity of this process can be increased by using Pfx or Pfu instead of one more typical reagent. More specific types of this are called its “nested” and “touchdown” varieties, and the LATE modification made its asymmetric type more efficient. Cations such as magnesium are used to stabilize the product of this process, which is created from (*) dNTPs. Primers anneal to a template during a lower-temperature step in this technique, which was developed by Kary Mullis and which uses a special heat-resistant polymerase called Taq in order to extend DNA strands. For 10 points, name this laboratory technique used to create DNA ex vivo.
+
+----
+num: 7
+category: Science
+difficulty: HS
+fixed: -1
+seen: 483
+answer: polymerase chain reaction
+
+The fidelity of this process can be increased by using Pfx or Pfu instead of one more typical reagent. More specific types of this are called its “nested” and “touchdown” varieties, and the LATE modification made its asymmetric type more efficient. Cations such as magnesium are used to stabilize the product of this process, which is created from (*) dNTPs. Primers anneal to a template during a lower-temperature step in this technique, which was developed by Kary Mullis and which uses a special heat-resistant polymerase called Taq in order to extend DNA strands. For 10 points, name this laboratory technique used to create DNA ex vivo.
+
+----
+num: 8
+category: Literature
+difficulty: HS
+fixed: 57
+seen: 449
+answer: Arthur Evelyn St. John {Waugh}
+
+One of this author’s characters carries a large teddy bear named Aloysius with him around Oxford. In another of this man’s works, the protagonist’s wife has an affair with John Beaver, while the protagonist himself dreams of restoring Hetton Abbey. The protagonist of that novel is forced to read (*) Dickens’s novels when he is captured by a native in South America, while the former novel sees Rex Mottram’s wife Julia fall in love with the narrator, Charles Ryder, who recounts his visits to the estate of the Marchmains. For 10 points, identify this author of A Handful of Dust and Brideshead Revisited.
+
+----
+num: 9
+category: Fine Arts
+difficulty: HS
+fixed: 1
+seen: 500
+answer: Andy {Warhol} [or Andrew {Warhola}, Jr.]
+
+This artist included scenes of car crashes in works like Five Deaths on Orange and Green Disaster Ten Times, components of this artist’s Death and Disaster Series. His long-take films show a man sleeping for five hours and the Empire State Building at night for eight hours. He made a film showing women in environs including the title hotel starring Nico with a soundtrack by the Velvet Underground. This maker of (*) Sleep, Empire, and Chelsea Girls silkscreened fifty images of a movie star, half with blonde hair and a purple face and half in black and white, in his Marilyn Diptych. For 10 points, name this Pop Artist who had a studio called The Factory and painted series of Campbell’s soup cans.
+
+----
+num: 10
+category: Religion
+difficulty: HS
+fixed: None
+seen: 447
+answer: Martin Luther
+
+He conflicted with Johannes Oecolampadius at a meeting about the natural of the sacrament. This man wrote a mass in the vernacular which omitted all requirements of candles and vestments. He released 12 Articles in response to radicalization by peasants, and he was excommunicated by the Papal bull Exsurge Domine before his attendance at the Marburg Colloquy. This author of the German Mass, in addition to both the Small and Large Catechisms, was called before the Diet of Worms to answer for his heresy, and he promulgated the Augsburg Confession. For 10 points, name this religious figure who began Protestantism by nailing 95 Theses to the door of a church.
+
+----
+num: 11
+category: Science
+difficulty: HS
+fixed: 57
+seen: 479
+answer: {chaos} theory
+
+Systems are generally tested for this property by calculating the largest Lyapunov exponent and seeing if it is positive. One model exhibits this property as its parameter passes 3.57; the ratio of its period-doubling intervals approaches the (*) Feigenbaum constant. Systems exhibiting this phenomenon include the nonlinear damping present in the van der Pol oscillator, as well as the double pendulum and the logistic map. This theory was largely inspired by weather simulations performed by Edward Lorenz. For 10 points, name this theory that studies systems that are highly sensitive to initial conditions.
+
+----
+num: 12
+category: Literature
+difficulty: HS
+fixed: None
+seen: 449
+answer: {France}
+
+A Romantic poet from this country asked, “Am I Amor or Phoebus? Lusignan or Byron?” in his sonnet “El Desdichado.” Another poet from this country wrote the pun, “It rains in my heart, as it rains on the town” and wrote about “the long sighs / of the violins” in “Autumn Song,” one of his Saturnine Poems. Another poet from this country wrote that a certain object “will never abolish chance” in “A Throw of the Dice” and wrote “The (*) Afternoon of a Faun.” This country is also home to the poet of “The Drunken Boat,” who was shot by Paul Verlaine. For 10 points, name this home of Gerard de Nerval, Stephane Mallarmé, and Arthur Rimbaud.
+
+----
+num: 13
+category: Fine Arts
+difficulty: HS
+fixed: 57
+seen: 485
+answer: The {Luncheon} of the {Boating Party} [or Le {déjeuner des canotiers}]
+
+In the back of this work, a man with a striped shirt has his arm around a woman holding her hands in black gloves to her ears. A woman in the center-right of this work sips a glass of water, obscuring all but her eyes. Two figures in this work lean on a railing, one coquettishly talking to a man facing away from the viewer in a brown hat. Everyone in this painting is covered by a red- and white-striped (*) awning. On the bottom left, a woman with flowers in her straw hat plays with a small dog; that woman later became the wife of this work’s artist. In the foreground of this work is a table covered with fruit, plates, and bottles of wine. For 10 points, name this painting by Pierre-Auguste Renoir showing a group of his friends eating.
+
+----
+num: 14
+category: History
+difficulty: HS
+fixed: 1
+seen: 412
+answer: L.A. riots [or 1992 {Los} Angeles riots; or {Rodney King} riots; or equivalents mentioning any underlined part; do not accept “Watts riots”; do not accept “Zoot Suit riots”]
+
+Curtis Tucker chaired a state assembly special committee whose report on this event was entitled “To Rebuild Is Not Enough,” a title alluding to an organization co-founded by Peter Ueberroth in the wake of this event. Damian Williams, Antoine Miller, Keith Watson, and Gary Williams earned infamy as the namesake city’s “Four” when they were arrested in conjunction with an assault on Reginald Denny during this event. The sometimes namesake of this event asked, “Can’t we (*) all just get along?”, and these events began hours after Stacey Koon and three other officers were acquitted of wrongdoing in the beating of that man. For 10 points, name these riots that primarily took place in the Downtown, Koreatown, and South-Central neighborhoods of a large California city.
+
+----
+num: 15
+category: Science
+difficulty: HS
+fixed: -1
+seen: 488
+answer: {dopamine}
+
+This substance can be broken down by COMT in the prefrontal cortex, which it connects to the ventral tegmental area via the mesocortical pathwayl. It can also operate via the tuberoinfundibular pathway, and it inhibits the secretion of prolactin. This precursor of norepinephrine is primarily produced in the (*) substantia nigra. Deficiency of this catecholamine can cause a degenerative disease whose most visible symptom is persistent tremors, since this neurotransmitter helps carry out voluntary movement. It is also associated with reward-seeking and pleasure behaviors. For 10 points, name this neurotransmitter whose deficiency leads to Parkinson’s disease and whose precursor is L-dopa.
+
+----
+num: 16
+category: History
+difficulty: HS
+fixed: 1
+seen: 417
+answer: {moving/immigrating} to {Israel} [accept logical equivalents; prompt on a partial answer; accept making {aliyah} before it is mentioned; accept answers like settling Israel]
+
+A 1962 court decision concerned Daniel Rufeisen’s attempt to perform this action, which was advocated by the group BILU and is often followed by attendance at an ulpan. Operation Magic Carpet enabled this action for some Yemenites, and in the 1980s and ’90s, this action was undertaken by a group of people from Ethiopia known as the (*) falashas. It is known by a phrase literally meaning “to go up,” “making aliyah.” For 10 points, name this action undertaken by Jews who take advantage of the Law of Return by moving to a certain country.
+
+----
+num: 17
+category: Literature
+difficulty: HS
+fixed: None
+seen: 441
+answer: Cormac McCarthy
+
+One of this author’s most fearsome villains wields a rifle inscribed with the phrase “Et in Arcadia Ego.” This author wrote of a conscientious shower objector who supports his elaborate tunneling under Knoxville by becoming a bat bounty hunter; that character, Geno Harrogate, appears in his novel about a voluntarily impoverished fisherman, Suttree. Haunting creations of this man include a monstrous, hulking albino, the child-murdering (*) Judge Holden. This author of the “Border Trilogy” and Blood Meridian titled a more recent work from a line in Yeats’s “Sailing to Byzantium.” For 10 points, name this author of No Country for Old Men.
+
+----
+num: 18
+category: Mythology
+difficulty: HS
+fixed: 1
+seen: 783
+answer: {snakes} [or {serpents}; prompt on {nagas}; do not prompt on “{dragons}”]
+
+Ayida Weddo is one of these married to the sky loa Damballa, who is also usually depicted as one. The Chinese goddess Nu Gua has the body of one. Indian ones include one bound to Mount Mandar during the churning of the milk ocean, exhaling blue poison as a result. That jeweled one, King Vasuki, led a group of them opposed to Garuda, while another of these is (*) Sesha. Eurydice was killed by a bite from one of these creatures, and Kusanagi came from the body of one after Susanowo slew it and its eight heads. Exemplified by the nagas, for 10 points, name these creatures that include Jormungandr, the “Midgard” one, and that make up the strands of Medusa’s hair.
+
+----
+num: 19
+category: History
+difficulty: HS
+fixed: 1
+seen: 414
+answer: Vasco {da Gama}, 1st Count of Vidigueira
+
+This man once ordered the ship Miri to be set on fire with all its passengers inside. This man was responsible for placing a padrão on the banks of the River of Good Omens, which is today better known as the Quelimane River. On the 500th anniversary of his most famous feat, Europe’s longest bridge was named for him. He came into conflict with a certain Zamorin he believed to be a Christian, but soon returned home against a (*) monsoon on the São Gabriel. On his first voyage, he gave a province he passed on Christmas Day the name Natal, and he’d go on to places like Mombasa and Malindi on that voyage. For 10 points, name this Portuguese explorer, who in 1498 became the first European to sail directly to India.
+
+----
+num: 20
+category: History
+difficulty: HS
+fixed: 57
+seen: 416
+answer: {Italy} [or {Italia}]
+
+The Southern Development Fund used by this country’s government in the 1950s created so-called “cathedrals in the desert.” The leggine and partyocracy systems in this country endured thanks to the secret Parliamentary voting clause of its post-war Constitution. In the 1960s, it was home to radical groups like the Metropolitan Indians and Worker Autonomy.  Its people expelled their “May King” after World War II, and one prime minister of this country (*) owned the Mediaset Company. This country witnessed kidnappings by the Red Brigade during its “Years of Lead,” as well as the murder of Prime Minister Aldo Moro. For 10 points, name this country, whose First Republic arose after the ouster of “Il Duce,” Benito Mussolini.
+
+----
+num: 21
+category: History
+difficulty: HS
+fixed: 1
+seen: 418
+answer: {Taiwan} [or the {Republic of China} or Formosa; do not accept or prompt on just “China”]
+
+A U.S. ambassador to this country, George H. Kerr, wrote of the “betrayal” by its government following an incident sparked by an old woman being beaten for possessing contraband cigarettes. Indigenous peoples like the Atayal and the Ami now make up just a small minority of its population. In the seventeenth century, the Kingdom of Tungning was established here after Lord Koxinga expelled the Dutch. An extended period of martial law called the White Terror was proclaimed in this country following the (*) 228 Incident in 1947. More recently, a March 19th, 2004 assassination attempt was made against its president, Chen Shui-bian. For 10 points, name this country where the Kuomintang of Chiang Kai-Shek fled after losing the Chinese Civil War.
+
+----
+num: 22
+category: Literature
+difficulty: HS
+fixed: 1
+seen: 438
+answer: Dr. John H. {Watson} [or Dr. James {Watson}]
+
+This character plays billiards, but only with Thurston. He meets his roommate through an old friend, Stamford, with whom his roommate had worked at St. Bartholomew’s Hospital. He draws up a list of that roommate’s “limits,” including “nil” knowledge of literature, philosophy, and astronomy. Dorothy Sayers popularized the theory that his middle initial, “H,” stands for “Hamish.” Described as the “one fixed point in a changing age,” this husband of Mary Marston is the “Boswell” narrating the adventures of a (*) beekeeper and cocaine addict. For 10 points, name this narrator of all but three of Arthur Conan Doyle’s Sherlock Holmes stories.
+
+----
+num: 23
+category: Science
+difficulty: HS
+fixed: 1
+seen: 483
+answer: Edwin Powell {Hubble}
+
+His observations of Cepheid variables in what was then called the Andromeda Nebula demonstrated that that object was too distant to lie within the Milky Way; in addition to suggesting that other galaxies must exist, he introduced a method to classify them featuring a diagram often displayed like a (*) tuning fork. His most prominent contribution arose out of work with Milton Humason, though the constant of proportionality was originally over seven times higher than its present value. For 10 points, name this astronomer who in his namesake law gives recession velocity as about seventy kilometers per second per megaparsec times distance.

@@ -1,0 +1,262 @@
+####
+tournament: Web Sample
+round: m_round06.pdf
+####
+
+num: 1
+category: Life Science
+difficulty: MS
+seen: 10
+answer: Starfish
+
+Name all of the following 4 org anisms that are echinoderms: squid; snails; starfish; lobsters
+
+----
+num: 2
+category: Physical Science
+difficulty: MS
+seen: 5
+answer: Transistor
+
+What modern solid-state electronic device is used as an amplifier in modern radios and, through its wide use as an electronic switch, is a basic component in modern logic circuits?
+
+----
+num: 3
+category: Earth Science
+difficulty: MS
+seen: 8
+answer: 1
+
+What numerical albedo value is given to a surface that reflects 100% of incident light?
+
+----
+num: 4
+category: Math
+difficulty: MS
+seen: 6
+answer: 169
+
+Evaluate the following and give your answer as a proper fraction inlowest terms: 163+ 85– 1
+4
+
+----
+num: 5
+category: General Science
+difficulty: MS
+seen: 6
+answer: 1,600 Yards;  1 Mile;  2 Kilometers
+
+Arrange the following 3 choices i n INCREASING order of distance : 1 mile; 2 kilometers; 1,600 yards
+
+----
+num: 6
+category: Life Science
+difficulty: MS
+seen: 10
+answer: Nitrogen Fixation (Accept:  Fixation)
+
+What is the most common term used for the biological process of converting atmospheric nitrogen into a form readily available for use in organisms?
+
+----
+num: 8
+category: Earth Science
+difficulty: MS
+seen: 7
+answer: Clay;  Silt
+
+Which 2 of the following 4 choices represent the suspended load of a river that gives a slow -moving river a cloudy appearance: gravel; clay; silt; sand
+
+----
+num: 9
+category: Math
+difficulty: MS
+seen: 6
+answer: R =
+Pti
+(Accept:  
+Pti
+)
+
+Solve the formula, I = prt, for r:
+
+----
+num: 9
+category: Math
+difficulty: MS
+seen: 6
+answer: 283
+
+Multiply the following 3 fractions and give your answer as a properfraction in simplest terms: 103× 75× 1
+2
+
+----
+num: 10
+category: General Science
+difficulty: MS
+seen: 5
+answer: Degree Celsius
+
+Name all of the following 4 choices that are NOT SI units: meter; kilogram; degree Celsius; mole
+
+----
+num: 10
+category: General Science
+difficulty: MS
+seen: 6
+answer: 18
+
+Convert 5 meters per second to kilometers per hour:
+
+----
+num: 12
+category: Physical Science
+difficulty: MS
+seen: 5
+answer: Diamond;  Graphite
+
+Name all of the following 3 substances that are allotropes or different chemical forms of carbon: dia mond; graphite; topaz
+
+----
+num: 13
+category: Earth Science
+difficulty: MS
+seen: 7
+answer: Mercury;  Venus;  Earth;  Mars  (In Any Order)
+
+What 4 planets of our solar system have the highest mean density?
+
+----
+num: 14
+category: Math
+difficulty: MS
+seen: 6
+answer: 7x^2 – 11x + 16
+
+Subtract the following 2 polynomials and simplify: (6 x^2 – 7x + 13) – (–x^2 + 4x – 3)
+
+----
+num: 15
+category: General Science
+difficulty: MS
+seen: 6
+answer: Acetone
+
+What is the common name for the organic solvent which is the main ingredient in nail polish remover?
+
+----
+num: 15
+category: General Science
+difficulty: MS
+seen: 5
+answer: Helium
+
+What element makes up about 24% of the Sun’s mass?
+
+----
+num: 16
+category: Life Science
+difficulty: MS
+seen: 11
+answer: Petals
+
+What parts of a flower make up the corolla?
+
+----
+num: 17
+category: Physical Science
+difficulty: MS
+seen: 5
+answer: 2
+
+How many carbons are there in an ethanol molecule?
+
+----
+num: 19
+category: Math
+difficulty: MS
+seen: 6
+answer: Y-Axis (Accept:  Vertical Axis)
+
+If an ordered pair has an x-coordinate of zero, its graph lies on what part of the coordinate plane ?
+
+----
+num: 20
+category: General Science
+difficulty: MS
+seen: 6
+answer: Corn  (Accept:  Maize)
+
+In the United States, what crop is primarily used for ethanol fuel production?
+
+----
+num: 20
+category: General Science
+difficulty: MS
+seen: 6
+answer: Coal = Plant;  Cotton = Plant;   Lard = Animal
+
+Name whether the following 3 substances are primarily derived from plants or animals, respectively: coal; cotton; lard
+
+----
+num: 21
+category: Life Science
+difficulty: MS
+seen: 10
+answer: 2
+
+How many chambers does the heart of a shark h ave?
+
+----
+num: 21
+category: Life Science
+difficulty: MS
+seen: 10
+answer: Birds;  Reptiles;  Mollusks  (Accept:  All but Bacteria)
+
+Name all of the following 4 groups of organisms in which mitosis occurs: birds; reptiles; mollusks; bacteria
+
+----
+num: 22
+category: Physical Science
+difficulty: MS
+seen: 6
+answer: 0.45
+
+What is the density, in grams per cubic centimeter, of a sample of plastic that floats with 45% of its volume submerged in pure water?
+
+----
+num: 22
+category: Physical Science
+difficulty: MS
+seen: 5
+answer: 5
+(Solution:  a = F/m;  a = 1000/200; a = 5 M/sec ^2)
+
+Ignoring friction, what is the acceleration, in meters per second squared, when 1,000 newtons of force are applied to move a 200 -kilogram crate across a level floor?
+
+----
+num: 24
+category: Math
+difficulty: MS
+seen: 6
+answer: 720
+
+If 2 coplanar parallel lines are intersected by a transversal line, what is the sum of all angles formed?
+
+----
+num: 24
+category: Math
+difficulty: MS
+seen: 6
+answer: 48
+
+Malcolm drove his car a distance of 2 miles in a time of 2 minutes 30 seconds. Find his average speed, in miles per hour:
+
+----
+num: 25
+category: General Science
+difficulty: MS
+seen: 6
+answer: Petri Dish (Accept:  Petri)
+
+What is the name for the plastic -ware consisting of two overlapping round plastic or glass dishes used by microbiologists in which to grow bacteria?

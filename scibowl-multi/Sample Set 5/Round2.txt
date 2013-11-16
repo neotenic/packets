@@ -1,0 +1,403 @@
+####
+tournament: Sample Set 5
+round: Round2.pdf
+####
+
+num: 1
+category: Earth and Space
+difficulty: HS
+answer: W) Cold, Dry, Continental
+
+Which of the following most accurately describes the dominant air mass over Nebraska in January?
+W) Cold, dry, continental
+X) Cold, humid, maritime
+Y) Warm, dry, continental
+Z) Cold, humid, aquatic
+
+----
+num: 1
+category: Earth and Space Science
+difficulty: MS
+answer: Z)  Labradorite
+
+Which of the following is NOT a carbonate?
+W) Dolomite
+X) Aragonite
+Y) Malachite (read as: MAH-lah-kyt)
+Z) Labradorite
+
+----
+num: 1
+category: Earth and Space Science
+difficulty: MS
+answer: Z)  Enceladus
+
+
+Which of the following moons has the highest surface albedo?
+W) Phobos
+X) Europa
+Y) Io
+Z) Enceladus (read as: ehn-SEHLL-ah-duhs)
+
+----
+num: 2
+category: Physical Science
+difficulty: MS
+answer: Z) Melting Point
+
+Which of the following is an intensive property?
+W) Mass
+X) Volume
+Y) Length
+Z) Melting point
+
+----
+num: 3
+category: Earth and Space
+difficulty: HS
+answer: Y) the Crust Isostatically Rebounds
+
+Which of the following BEST describes what happens to continental crust as glaciers melt and retreat?
+W) Springs fill in low -lying regions left behind
+X) The crust remains deformed, leaving large synclines
+Y) The crust isostatically rebounds
+Z) There is no impact on the crust
+
+----
+num: 3
+category: Earth and Space
+difficulty: HS
+answer: Z) Karst Topography
+
+
+Sinkholes, disappearing streams, and caves are found in which of the following types of regions?
+W) Marshes
+X) Glaciated alpine 
+Y) Outwash plains
+Z) Karst topography
+
+----
+num: 3
+category: Earth and Space Science
+difficulty: MS
+answer: X)  Peridotite
+
+Which of the following is NOT a type of fine-grained igneous rock?
+W) Rhyolite (read as: RY-oh-lyt)
+X) Peridotite (read as: peh-RI-doh-tyt)
+Y) Komatite
+Z) Basalt
+
+----
+num: 4
+category: Energy
+difficulty: MS
+answer: Y) Mercury or Copper Are Commonly Used as Heat Transfer 
+Media
+
+Which of the following statements is NOT true about solar dish -engine systems?
+W) Direct-beam energy is concentrated at a focal point on a dish made of mirrors
+X) The concentrated solar beam is converted to heat that is transferred to an engine
+Y) Mercury or copper are commonly used as heat transfer media
+Z) The engine uses heat to create mechanical power that drives a generator
+
+----
+num: 5
+category: Biology
+difficulty: HS
+answer: Y) Directional
+
+Wolves are introduced to an island populated with white -taileddeer. After several generations, the average sprint speed of the deer increased significantly relative to the wolf introduction period. In evolutio nary terms, of which of the following kinds of selection is this is an example?
+W) Disruptive 
+X) Stabilizing
+Y) 
+Z) Kin Directional
+
+----
+num: 6
+category: Math
+difficulty: MS
+answer: W) 2z)  Y = ^-
+^2^1
+X – 6
+Y = X + 4
+
+Which of the following is perpendicular to the line y = -2x + 6?
+Y) X) W) 2y = x + 2y =2xyx= 4– + 4
+6
+
+----
+num: 7
+category: Biology
+difficulty: HS
+answer: Y) Abdomens
+
+In insects, larval imaginal discs typically produce all of the following adult structures, EXCEPT:
+W) Legs
+X) Wings
+Y) Abdomens
+Z) Antennae
+
+----
+num: 7
+category: Life Science
+difficulty: MS
+answer: W) Entamoeba
+
+
+Which of the following organisms is NOT a thallophyte (read as: THAH-loh-fyt)?
+W) Entamoeba (read as: ehn-tah-MEE-bah)
+X) Cladophora
+Y) Chara (read as: KAH-rah)
+Z) Ulothrix
+
+----
+num: 8
+category: Energy
+difficulty: MS
+answer: Z) Their Flight Muscles Are Physiologically Very Similar to 
+Those of Fruit Flies
+
+Which of the following statements is NOT true about honeybee flight?
+W) They flap their wings very quickly
+X) Their wings beat over a very short arc
+Y) When they want to generate more power, they increase the arc of their wing strokes
+Z) Their flight muscles are physiologically very similar to those of fruit flies
+
+----
+num: 9
+category: Physical Science
+difficulty: MS
+answer: W) Sulfur
+
+Which of the following elements is NOT diatomic in its natural state?
+W) Sulfur 
+X) Nitrogen
+Y) Hydrogen
+Z) Chlorine
+
+----
+num: 10
+category: Biology
+difficulty: HS
+answer: W) Hydrogen Bonding
+
+Which of the following is the primary determinant of secondary protein structure ?
+W) Hydrogen bonding
+X) Amino acid sequence
+Y) Protein free energy
+Z) Global energy minimum
+
+----
+num: 10
+category: Life Science
+difficulty: MS
+answer: Y) They Are Highly Tolerant of Salt Water
+
+Which of the following statements is NOT true about most carp?
+W) They possess Weberian ossicles
+X) They have teeth on their inferior pharyngeal bones
+Y) They are highly tolerant of salt water
+Z) They have a wide geographical range
+
+----
+num: 12
+category: Chemistry
+difficulty: HS
+answer: W) Single Replacement
+
+A pure element when mixed with an ionic compound is mostlikely to undergo which of the following kinds of reactions?
+W) Single replacement
+X) Double replacement
+Y) Synthesis
+Z) Combustion
+
+----
+num: 12
+category: Chemistry
+difficulty: HS
+answer: X) Meta-Xylene
+
+Which of the following is an alternative name for 1,3-xylene?
+W) Ortho-xylene
+X) Meta-xylene
+Y) Para-xylene
+Z) Cis -xylene
+
+----
+num: 13
+category: Earth and Space
+difficulty: HS
+answer: X) 100 to 200
+
+According to data from the Voyager I and II spacecrafts, at what range , in astronomical units, is the heliopause from the Sun?
+W) 0 to 100
+X) 100 to 200
+Y) 200 to 300
+Z) 300 to 400
+
+----
+num: 13
+category: Earth and Space Science
+difficulty: MS
+answer: Y) Fresh Basalt
+
+Which of the following objects is likely to have the lowest albedo?
+W) Weathered granite
+X) Sea ice
+Y) Fresh basalt
+Z) Rainforest canopy
+
+----
+num: 13
+category: Earth and Space Science
+difficulty: MS
+answer: W) After the Rain Has Ended
+
+
+Which of the following describes when flooding is most likely to occur as the result of a slow moving, relatively long term, moderate rain event?
+W) After the rain has ended 
+X) After it has been raining for about an hour
+Y) After it has been raining for a few hours
+Z) At the beginning of the rainstorm
+
+----
+num: 15
+category: Life Science
+difficulty: MS
+answer: Z) It Remains Biologically Active in the Soil for Approximately 60 
+Days
+
+Which of the following characteristics is NOT true of the herbicide Paraquat?
+W) It is quick acting
+X) It is non-selective, killing a wide range of annual grasses and broad -leaved weeds
+Y) It is linked to the development of Parkinson’s disease
+Z) It remains biologically active in the soil for approximately 60 days
+
+----
+num: 16
+category: Chemistry
+difficulty: HS
+answer: W) Always Spontaneous
+
+When the change of enthalpy of a reaction is negative and the change of entropy of the same reaction is positive, the reaction is which of the following?
+W) Always spontaneous
+X) Spontaneous only under high temperature conditions
+Y) Spontaneous only under low temperature conditions
+Z) Never spontaneous
+
+----
+num: 17
+category: Math
+difficulty: HS
+answer: Y) Mean
+
+Which of the following decreases when 5 is subtracted from each item of a data set?
+W) Standard deviation
+X) 
+Y) MRangeean
+Z) Variance
+
+----
+num: 18
+category: Physical Science
+difficulty: MS
+answer: Y) Sulfur
+
+Which of the following elements has chemical properties similar to oxygen?
+W) Nitrogen
+X) Fluorine
+Y) Sulfur
+Z) Neon
+
+----
+num: 19
+category: Biology
+difficulty: HS
+answer: X) Eucalyptus 
+
+
+Which of the following plants is NOT a succulent ?
+W) Cactus
+X) Eucalyptus
+Y) Aloe
+Z) Yucca
+
+----
+num: 19
+category: Earth and Space Science
+difficulty: MS
+answer: Y) a Magnetic Field
+
+The aurora borealis, or northern lights, would not be observed if Earth lacked which of the following?
+W) Oxygen in its atmosphere
+X) A moon
+Y) A magnetic field
+Z) High altitude clouds
+
+----
+num: 21
+category: Physics
+difficulty: HS
+answer: Y)  the Field Will Do Work on the Particle
+
+An electron is released in space in an electric field. Which of the following statements is TRUE?
+W) The electron will accelerate at a rate directly proportional to its mass
+X) The electron will move parallel to the equipotential lines
+Y) The field will do work on the particle
+Z) The electron will move from positive to negative potential
+
+----
+num: 21
+category: Physics
+difficulty: HS
+answer: Y) the Kinetic Energy of the Planet Is at a Minimum
+
+
+A planet orbits a star in an elliptical orbit. When the planet is furthest from the star, which of the following statements is true?
+W) The angular momentum of the planet is at a maximum
+X) The angular momentum of the planet is at a minimum
+Y) The kinetic energy of the planet is at a minimum
+Z) The kinetic energy of the planet is at a maximum
+
+----
+num: 22
+category: Earth and Space
+difficulty: HS
+answer: X) Shorelines Were Inundated With Terrigenous Sediment From 
+Mountains
+
+Why are there so many more land fossils than marine fossils in early Mesozoic rocks?
+W) Less continental mass existed then
+X) Shorelines were inundated with terrigenous sediment from mountains
+Y) Shallow seas were abundant
+Z) More continental mass existed then
+
+----
+num: 23
+category: Math
+difficulty: HS
+answer: X) 
+− 0
+1 1
+0
+
+
+
+Which of the following 2 by 2 matrices is equivalent to a clockwise rotation of 90 degrees?
+W)  01 − 01(read as: row 1: 0, -1; row 2: 1, 0)
+X) − 01 10 (read as: row 1: 1, 1; row 2: -1, 0)
+Y) − 01 − 01(read as: row 1: 0, -1; row 2: -1, 0)
+Z)  10 10 (read as: row 1: 0, 1; row 2: 1, 0)
+
+----
+num: 23
+category: Physical Science
+difficulty: MS
+answer: X) Change in Size
+
+Although none of the following are concrete proof of a chemical change, which of the following definitely could NOT be used as an indication that a chemical change has occurred?
+W) Color change
+X) Change in size 
+Y) Production of heat
+Z) Formation of gas

@@ -1,0 +1,456 @@
+####
+tournament: #6111
+round: Show #6111 - Monday, March 21, 2011
+year: 2011
+date: 2011-03-21
+####
+
+num: 1
+category: Literature
+difficulty: 200
+seen: 4
+answer: Sparta
+
+It's 404 B.C. & here is our top story: Athens has been forced to accept a humiliating peace treaty with this city-state.
+
+----
+num: 2
+category: Art
+difficulty: 200
+seen: 4
+answer: shoes
+
+A museum at Temple University's School of Podiatric Medicine has some 900 pairs of these in its collection.
+
+----
+num: 3
+category: Literature
+difficulty: 200
+fixed: -1
+seen: 4
+answer: a bigwig
+
+This term for an important person sounds like a giant toupee.
+
+----
+num: 4
+category: History
+difficulty: 200
+seen: 5
+answer: Hollywood Boulevard
+
+In Hollywood, it's the major street 2 blocks north of Sunset Boulevard.
+
+----
+num: 5
+category: History
+difficulty: 400
+seen: 4
+answer: Gibraltar
+
+The castle & key on the flag of this British dependency symbolize its strategic position on the Mediterranean.
+
+----
+num: 6
+category: Trash
+difficulty: 400
+seen: 5
+answer: the Food Network
+
+"Dinner: Impossible".
+
+----
+num: 7
+category: Literature
+difficulty: 400
+seen: 4
+answer: Zeus
+
+Here's Helios with the forecast: lots of rain in Athens from this god of weather & so much more... watch out for his lightning!.
+
+----
+num: 8
+category: Art
+difficulty: 400
+seen: 4
+answer: buffalo
+
+Next time you're roaming through North Dakota, visit the museum of this animal & its herd of about 30.
+
+----
+num: 9
+category: Literature
+difficulty: 400
+seen: 3
+answer: a powwow
+
+It can be a meeting among business colleagues, or a Native American ceremonial feast.
+
+----
+num: 10
+category: History
+difficulty: 400
+seen: 4
+answer: heroin
+
+A 2009 study recommended treating heroin addicts with diacetylmorphine, the active ingredient in this.
+
+----
+num: 11
+category: History
+difficulty: 600
+seen: 5
+answer: Portugal
+
+The armillary sphere on this country's flag honors Prince Henry the Navigator.
+
+----
+num: 12
+category: Trash
+difficulty: 600
+seen: 5
+answer: Lifetime
+
+"Project Runway" (formerly on Bravo).
+
+----
+num: 13
+category: Literature
+difficulty: 600
+seen: 3
+answer: the Persian Empire
+
+Breaking news 479 B.C.: Greece has beaten the remaining forces of this Xerxes-led empire!  Let's party!.
+
+----
+num: 14
+category: Art
+difficulty: 600
+seen: 4
+answer: Spam
+
+In Austin, Minnesota you can ham it up at the museum of this meat product in a can.
+
+----
+num: 15
+category: Literature
+difficulty: 600
+seen: 4
+answer: a backpack
+
+It's a sturdy carryall worn by hikers as well as students.
+
+----
+num: 16
+category: History
+difficulty: 600
+seen: 4
+answer: WD-40
+
+This lubricant's name means "water displacement, 40th attempt".
+
+----
+num: 17
+category: History
+difficulty: 800
+seen: 4
+answer: Saudi Arabia
+
+The green flag of this kingdom has a white sword & the shahadah, the Muslim statement of faith, in white script.
+
+----
+num: 18
+category: Literature
+difficulty: 800
+seen: 3
+answer: Heracles
+
+What's goin' on in sports, Aetos?  King Augeas said now that this hero has cleaned the stables, rodeo season is open.
+
+----
+num: 19
+category: Art
+difficulty: 800
+seen: 4
+answer: nutcrackers
+
+Suite!  A museum in Leavenworth, Wash. displays over 6,000 of these nifty tools, many resembling toy soldiers.
+
+----
+num: 20
+category: Literature
+difficulty: 800
+seen: 4
+answer: a hobo
+
+A natl. assoc. of wanderers says you can still be this 4-letter term even if you never rode a freight train.
+
+----
+num: 21
+category: History
+difficulty: 800
+seen: 4
+answer: the 
+
+If today is Jan. 14, 1952, this show is premiering on NBC.
+
+----
+num: 22
+category: Literature
+difficulty: 1000
+seen: 3
+answer: Sophocles
+
+Up next, entertainment reporter Klakos has a review of this tragedy master's new play, "Oedipus Rex".
+
+----
+num: 23
+category: Literature
+difficulty: 1000
+seen: 4
+answer: ragtag
+
+This adjective meaning unkempt & varied is often applied to disorganized armies or militias.
+
+----
+num: 24
+category: History
+difficulty: 1000
+seen: 4
+answer: a song
+
+China's Song Dynasty was noted for its contributions to the tz'u, a form of this.
+
+----
+num: 25
+category: Literature
+difficulty: 400
+seen: 3
+answer: Daisy
+
+Alfred Uhry's "Driving Miss ____".
+
+----
+num: 26
+category: History
+difficulty: 400
+seen: 4
+answer: Jefferson Davis
+
+'s this Confederate president in full beard, later in life.
+
+----
+num: 27
+category: Art
+difficulty: 400
+seen: 4
+answer: a messiah complex
+
+If you're convinced you're the one true savior, odds are you have this type of complex.
+
+----
+num: 28
+category: Science
+difficulty: 400
+seen: 7
+answer: methane
+
+This gas that I breathe, you call CH.
+
+----
+num: 29
+category: Trash
+difficulty: 400
+seen: 5
+answer: Neil Armstrong
+
+This Ohioan who became a licensed pilot on his 16th birthday is remembered for the one small step he took in 1969.
+
+----
+num: 30
+category: Literature
+difficulty: 800
+seen: 4
+answer: Illinois
+
+Robert E. Sherwood's "Abe Lincoln in ____".
+
+----
+num: 31
+category: Geography
+difficulty: 800
+seen: 7
+answer: boxing
+
+The WBO & the WBA.
+
+----
+num: 32
+category: History
+difficulty: 800
+seen: 4
+answer: Davy Crockett
+
+He's the king of the wild frontier, looking rather dapper in the portrait seen.
+
+----
+num: 33
+category: Art
+difficulty: 800
+seen: 4
+answer: mahogany
+
+Hard reddish-brown wood of the genus Swietenia.
+
+----
+num: 34
+category: Science
+difficulty: 800
+seen: 6
+answer: a pinwheel
+
+You named my home.
+
+----
+num: 35
+category: Trash
+difficulty: 800
+seen: 5
+answer: Neil Diamond
+
+A 2010 episode of "Glee" featured his song "Hello Again".
+
+----
+num: 36
+category: Literature
+difficulty: 1200
+seen: 4
+answer: Life
+
+William Saroyan's "The Time of Your ____".
+
+----
+num: 37
+category: Geography
+difficulty: 1200
+seen: 7
+answer: table tennis
+
+The ITTF--it's what the "TT" stands for.
+
+----
+num: 38
+category: History
+difficulty: 1200
+seen: 4
+answer: Charles Lindbergh
+
+In 1927, Orville Wright, on the left, came face-to-face with.
+
+----
+num: 39
+category: Art
+difficulty: 1200
+seen: 3
+answer: doo-dah
+
+This slang term for an unnecessary article of ornamentation comes from the chorus of "Camptown Races".
+
+----
+num: 40
+category: Science
+difficulty: 1200
+seen: 5
+answer: a white dwarf
+
+My planet's star will reach the late stage called white this in only 3 billion years, so I had to get out of there.
+
+----
+num: 41
+category: Literature
+difficulty: 1600
+seen: 4
+answer: Championship
+
+Jason Miller's "That ____ Season".
+
+----
+num: 42
+category: Geography
+difficulty: 1600
+seen: 9
+answer: sumo
+
+The ISF (it's big in Japan).
+
+----
+num: 43
+category: History
+difficulty: 1600
+seen: 4
+answer: (Salmon) Chase
+
+There was something a little fishy about this treasury secretary & Chief Justice seen.
+
+----
+num: 44
+category: Science
+difficulty: 1600
+seen: 5
+answer: a radio telescope
+
+I got the first message from Earth to the stars, sent from this type of telescope at Arecibo in 1974.
+
+----
+num: 45
+category: Trash
+difficulty: 1600
+seen: 6
+answer: eHarmony.com
+
+In 2000 Neil Clark Warren founded this website that aims to unite people in long-term relationships.
+
+----
+num: 46
+category: Literature
+difficulty: 2000
+seen: 6
+answer: Gin
+
+Donald L. Coburn's "The ____ Game".
+
+----
+num: 47
+category: Geography
+difficulty: 2000
+seen: 14
+answer: skiing
+
+The FIS (it's big in Austria).
+
+----
+num: 48
+category: History
+difficulty: 2000
+seen: 5
+answer: (Shirley) Chisholm
+
+1972 U.S. presidential candidate seen.
+
+----
+num: 49
+category: Art
+difficulty: 2000
+seen: 6
+answer: a mahal
+
+Now meaning a type of woven carpet, it formerly referred to a residence set aside for a noblewoman in India.
+
+----
+num: 50
+category: Trash
+difficulty: 2000
+seen: 8
+answer: Neil Gaiman
+
+Before writing dark children's books like "Coraline" & "The Graveyard Book", he penned a bio of Duran Duran.

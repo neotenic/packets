@@ -1,0 +1,690 @@
+####
+tournament: Sample Set 4
+round: Round3.pdf
+####
+
+num: 1
+category: Energy
+difficulty: MS
+answer: Y) 4%
+
+Approximately what percentage of the energy need in the U.S. is currently met by biomass?
+W) 15%
+X) 10%
+Y) 4%
+Z) 1%
+
+----
+num: 1
+category: Energy
+difficulty: MS
+answer: Z) Food for Cattle Is Produced When Corn Grain Is Converted to 
+Ethanol
+ 
+
+Which of the following is an advantage of using biomass in the form of corn to produce ethanol?
+W) Using corn to produce ethanol means that the U.S. will no longer need to import petroleum -based products
+X) Corn-based ethanol is more fuel efficient than gasoline
+Y) Corn-based ethanol production has little impact on water supply
+Z) Food for cattle is produced when corn grain is converted to ethanol
+
+----
+num: 3
+category: Biology
+difficulty: HS
+seen: 1
+answer: Z)  Whip Scorpion
+
+Which of the following could be considered a multicellular eukaryotic (read as: yew-KEHR-ee-otic) heterotroph whose cells lack cell walls?
+W) Fern
+X) Bacterium 
+Y) Euglena
+Z) Whip scorpion
+
+----
+num: 3
+category: Biology
+difficulty: HS
+answer: Z) They Prefer Saltwater
+
+
+Euglena are unicellular organisms classified into the Kingdom 
+Protista. Which of the following characteristics is NOT true of euglena?
+W) They can make their own food by photosynthesis
+X) They can absorb food from their environment
+Y) They move by the motion of their flagella
+Z) They prefer saltwater
+
+----
+num: 3
+category: Physical Science
+difficulty: MS
+answer: W) Refraction
+
+When looking through a glass of water with a straw in it, why might the straw appear bent and somewhat distorted?
+W) Refraction
+X) Diffraction
+Y) Reflection
+Z) Pressure
+
+----
+num: 3
+category: Physical Science
+difficulty: MS
+answer: Y) Microwaves
+
+
+Which of the following regions of the electromagnetic spectrum has a longer wavelength than visible light?
+W) Ultraviolet
+X) Gamma rays
+Y) Microwaves
+Z) X -rays
+
+----
+num: 4
+category: Earth and Space
+difficulty: HS
+seen: 1
+answer: Y) Proximity to a Volcano
+
+Destruction due to an earthquake does NOT vary because of:
+W) Rock type
+X) Amount of human infrastructure
+Y) Proximity to a volcano
+Z) Distance from the epicenter
+
+----
+num: 4
+category: Earth and Space
+difficulty: HS
+answer: W) Travel Through and Along the Surface of the Earth
+
+Waves of energy that come from an earthquake:
+W) Travel through and along the surface of the earth
+X) Can be felt at every single point on the surface of the earth
+Y) Travel only along the surface of the earth
+Z) Are unrelated to movements of magma beneath the surface
+
+----
+num: 4
+category: Earth and Space Science
+difficulty: MS
+answer: W) Eating a More Beef-Rich Diet
+
+Which of the following activities will increase your carbon footprint?
+W) Eating a more beef -rich diet
+X) Eating a more local vegetarian diet
+Y) Keeping your family’s car tires inflated to the correct level
+Z) Using public transportation like buses and trains
+
+----
+num: 4
+category: Earth and Space Science
+difficulty: MS
+answer: Z) Mantle
+
+Which of the following is least likely to be impacted by climate change?
+W) Atmosphere
+X) Hydrosphere
+Y) Cryosphere 
+Z) Mantle
+
+----
+num: 5
+category: Biology
+difficulty: HS
+seen: 1
+answer: W) Polyploidy
+
+Bananas, citrus fruits, and day lilies are all examples of plants that have more than two sets of chromosomes. What is the term for this phenomenon?
+W) Polyploidy
+X) Genetic variability
+Y) Mutation
+Z) Diploidy
+
+----
+num: 5
+category: Biology
+difficulty: HS
+answer: X) a Transgenic Organism
+
+
+People with insulin -dependent diabetes are now treated with pure human insulin produced by human genes inserted into bacteria. What is the name for an organism produced by taking genes from one organism and inserting them into the cells of a different organism?
+W) Clone
+X) A transgenic organism 
+Y) Hybrid
+Z) A mutagenic organism
+
+----
+num: 5
+category: Math
+difficulty: MS
+answer: Y) the Product Is Even
+
+Which of the following must be true about the product of an integer and one greate r than the integer?
+W) The product is negative
+X) The product is positive
+Y) The product is even
+Z) The product is odd
+
+----
+num: 6
+category: Physical Science
+difficulty: MS
+answer: Y) Disorder
+
+Thermodynamics tells us that we cannot reduce entropy in a closed system; it will always increase. Of what does entropy serve as a measure?
+W) System size
+X) Temperature
+Y) Disorder
+Z) Flux
+
+----
+num: 7
+category: Earth and Space
+difficulty: HS
+answer: Z) Hot Spot Underneath Yellowstone
+
+Which of the following tectonic environments would lead to the formation of the most felsic, silica -rich magma?
+W) Subduction associated with the Andes Mountains
+X) East African Rift Valley
+Y) Volcanic island arc of Japan
+Z) Hot spot underneath Yellowstone
+
+----
+num: 7
+category: Earth and Space
+difficulty: HS
+seen: 1
+answer: Z) Increasing Temperature
+
+
+Which of the following will NOT help crystallize magma?
+W) Cooling the liquid
+X) Increasing pressure
+Y) Removing water to raise the melting point
+Z) Increasing temperature
+
+----
+num: 7
+category: Life Science
+difficulty: MS
+answer: W) Transpiration
+
+What do we call the evaporation of water from plants that occurs chiefly while their stomata are open for the passage of carbon dioxide and oxygen during photosynthesis (read as: fōe-tōe-SIN-teh-sis)?
+W) Transpiration 
+X) Chemotaxis (read as: kee-MŌE-tahk-SIS)
+Y) Chemosynthesis 
+Z) Chlorophyll
+
+----
+num: 7
+category: Life Science
+difficulty: MS
+answer: Y) Mushrooms
+
+
+Which of the following organisms cannot perform photosynthesis?
+W) Cyanobacteria (read as: SY -ah-nōe-bahk-TIR-ee-ah )
+X) Ferns
+Y) Mushrooms
+Z) Trees
+
+----
+num: 8
+category: Physics
+difficulty: HS
+seen: 1
+answer: X) Inertia
+
+Which one of the following terms is used to indicate the natural tendency of an object to remain at rest or in motion at a constant speed along a straight line?
+W) Equilibrium
+X) Inertia (read as: i-NEHR-shah)
+Y) Stability
+Z) Interaction
+
+----
+num: 8
+category: Physics
+difficulty: HS
+seen: 1
+answer: Y) Translational and Rotational
+
+What are the two kinds of motion displayed by the motion of a bowling ball?
+W) Oscillatory and rotational
+X) Periodic and translational
+Y) Translational and rotational
+Z) Random and periodic
+
+----
+num: 9
+category: Energy
+difficulty: MS
+answer: X) They Typically Can L Ast Over One Million Hours
+
+Which of the following is NOT true about incandescent lamps?
+W) They have the least expensive initial purchase price
+X) They typically can last over one million hours 
+Y) They provide warm light
+Z) They operate without a ballast
+
+----
+num: 9
+category: Energy
+difficulty: MS
+answer: Y) Biomass
+
+
+In most developing countries excluding China and India, which of the following is the primary source of energy for household energy consumption in rural and poor areas?
+W) Hydroelectricity
+X) Wind
+Y) Biomass
+Z) Solar
+
+----
+num: 10
+category: Chemistry
+difficulty: HS
+seen: 1
+answer: Y)  Beryllium
+
+Based on trends in the periodic table, which of the following elements is the least electronegative?
+W) Nitrogen
+X) Carbon
+Y) Beryllium 
+Z) Ox ygen
+
+----
+num: 11
+category: Physics
+difficulty: HS
+answer: W) Less Than 9.8 Me Ters Per Second Squared
+
+
+The acceleration of two different masses connected by a light string suspended by a light frictionless pulley is:
+W) Less than 9.8 meters per second squared 
+X) Greater than 9.8 meters per second squared 
+Y) Equal to 9.8 meters per second squared
+Z) 0
+
+----
+num: 12
+category: Chemistry
+difficulty: HS
+seen: 1
+answer: X) Phosphoric^acid^
+
+Which of the following is NOT a strong acid?
+W) Hydrochloric Acid
+X) Phosphoric Acid
+Y) Sulfuric Acid
+Z) Perchloric^Acid
+
+----
+num: 12
+category: Chemistry
+difficulty: HS
+seen: 1
+answer: Y) Phosphate
+
+According to the Brønsted -Lowry acid-base theory, which of the following species cannot function as an acid?
+W) Water
+X) Hydrogen carbonate ion
+Y) Phosphate
+Z) Hydroxide
+
+----
+num: 13
+category: Energy
+difficulty: MS
+answer: W) Low Efficiency
+
+Which of the following is a primary issue associat ed with harnessing solar power via panels?
+W) Low efficiency
+X) Overheating the foundation under the panels
+Y) Difficult assembly
+Z) Rain damage to the solar panels
+
+----
+num: 14
+category: Energy
+difficulty: HS
+answer: W) Not Enough Transmission Lines Connect Cities to the Windiest 
+Parts of the Country
+
+What is the challenge with regard to wind energy and transmission line capacity?
+W) Not enough transmission lines connect cities to the windiest parts of the country
+X) Transmission lines only have the capacity to transfer wind energy from small turbines
+Y) Transmission lines must be buried
+Z) We have more transmission lines than our power plants can currently support
+
+----
+num: 14
+category: Earth and Space Science
+difficulty: MS
+answer: Z) Convergent
+
+Which of the following is used to describe a thrust fault?
+W) Divergent
+X) Transverse
+Y) Spreading 
+Z) Convergent
+
+----
+num: 15
+category: Earth and Space
+difficulty: HS
+seen: 1
+answer: X) 70%
+
+Approximately what percentage of the Earth's surface is covered by ocean?
+W) 50%
+X) 70%
+Y) 90%
+Z) 99%
+
+----
+num: 15
+category: Earth and Space
+difficulty: HS
+seen: 1
+answer: W) Mid -Ocean Ridges
+
+
+Where is the youngest ocean floor found?
+W) Mid-ocean ridges
+X) Subduction zones
+Y) Top of Himalayas
+Z) The abyssal plains
+
+----
+num: 15
+category: Math
+difficulty: MS
+answer: Z) Z) Y) 
+Cc^2
+C
+
+In the Pythagorean theorem, a^2 + b^2 = c^2. If all side lengths are smaller than 1
+X) W) ba^2^2 unit long, which of the following is largest?
+
+----
+num: 16
+category: Life Science
+difficulty: MS
+answer: W) Race
+
+The human genome has been mapped. In this mapping process, they identified genes that coded for all of the following, except:
+W) Race
+X) Hair color
+Y) Handedness
+Z) Vision
+
+----
+num: 16
+category: Life Science
+difficulty: MS
+answer: Y) Each of the Chicks Will Be Black and  White in About Equal
+Pr Oportions
+
+Feather color in chickens can be a codominant trait. You cross a white chicken with a black chicken. Which of the following phenotypes will you see in the first generation of chicks?
+W) All of the chicks will be gray
+X) The chicks will be more black than white
+Y) Each of the chicks will be black and white in about equal proportions
+Z) The chicks will be more white than black
+
+----
+num: 17
+category: Energy
+difficulty: HS
+answer: Z) Turn Thermostats to a Colder Temperature During the 
+Summer
+
+Roberto lives in Florida. Which of the following is NOT a way that he could use less energy at home?
+W) Close the window curtains during the day in the summer
+X) Open the curtains on south-facing windows during the day in the winter
+Y) Hang his wet clothes on clotheslines outside when it is sunny
+Z) Turn thermostats to a colder temperature during the summer
+
+----
+num: 17
+category: Energy
+difficulty: HS
+answer: W)  Purchase a Dryer Model That Has an Energy Star Label*
+^[*Note: There Are No^ ^Energy Star Dryers ^-^ ^See www.energystar.g ^Ov]^
+
+
+A clothes dryer can be a high consumer of household electricity. 
+Which of the following options is NOT a way in which to reduce energy consump tion when using your clothes dryer?
+W) Purchase a dryer model that has an ENERGY STAR label
+X) Use the moisture sensor option, if you have one
+Y) Clean the lint filter to improve the efficiency of the dryer
+Z) Scrub the lint filter if you use dryer sheets
+
+----
+num: 18
+category: Earth and Space
+difficulty: HS
+seen: 1
+answer: Y) Millions or Billions of Years
+
+Which of the following units are typically used when measuring a star’ s lifespan?
+W) Months
+X) Thousands of years
+Y) Millions or billions of years
+Z) Light years
+
+----
+num: 18
+category: Earth and Space Science
+difficulty: MS
+answer: Y) to Verify That a Formation Has Enough Hydrocarbons to Make 
+It Worth Developing
+
+What is the purpose of a confirmation well?
+W) To verify that the site will physically support a drilling platform
+X) To verify that the oil is accessible
+Y) To verify that a formation has enough hydrocarbons to make it worth developing
+Z) To verify that the cost of extricating the oil will not be too high
+
+----
+num: 19
+category: Energy
+difficulty: HS
+seen: 1
+answer: Y) Alternative Diesel Fuel Produced From Renewable Resources
+
+Which of the following best defines biodiesel?
+W) Ethanol
+X) Raw vegetable oil
+Y) Alternative diesel fuel pro duced from renewable resources
+Z) U.S. diesel fuel
+
+----
+num: 20
+category: Earth and Space
+difficulty: HS
+seen: 1
+answer: X) Large Interlocking Crystals
+
+Which of the following is a characteristic of an intrusive, igneous rock?
+W) Vesicles
+X) Large interlocking crystals
+Y) Tightly compressed grains of sand
+Z) Glassy luster
+
+----
+num: 20
+category: Earth and Space
+difficulty: HS
+seen: 1
+answer: X) Mountain Building
+
+Which of the following processes would most likely lead to the formation of a metamorphic rock?
+W) Precipita te forming at the bottom of the oceans
+X) Mountain building
+Y) High speed ejection from a cone
+Z) Crystals cooling from magma
+
+----
+num: 20
+category: Earth and Space Science
+difficulty: MS
+answer: X) Marble
+
+Which of the following is NOT a mineral?
+W) Quartz
+X) Marble 
+Y) Feldspar 
+Z) Calcite
+
+----
+num: 20
+category: Earth and Space Science
+difficulty: MS
+answer: Z) Quartzite
+
+Which of the following is a type of metamorphic rock that is created from sandstone?
+W) Andesite (read as:AHN-di-zyt )
+X) Schist (read as:SHIST )
+Y) Gneiss (read as: NYS)
+Z) Quartzite
+
+----
+num: 21
+category: Biology
+difficulty: HS
+seen: 1
+answer: Y) an Extra Copy of Chromosome 21
+
+Down syndrome is caused by:
+W) A missing copy of chromosom e 21
+X) Genetic mutations on various chromosomes 
+Y) An extra copy of chromosome 21
+Z) A contagious disease passed from mother to fetus
+
+----
+num: 21
+category: Biology
+difficulty: HS
+seen: 1
+answer: W) Females Are Zw, Male S Are Zz
+
+
+Which of the following statements bes t describes the sex chromosome content of female and male cells in birds?
+W) Females are ZW, males are ZZ
+X) Females are WW, males are ZW 
+Y) Females are ZZ, males are ZW
+Z) Females are ZZ, males are WW
+
+----
+num: 21
+category: Physical Science
+difficulty: MS
+answer: Z) Potential
+
+When you stretch a rubber band and hold it, what type of energy results?
+W) Kinetic
+X) Stationary
+Y) Torque
+Z) Potential
+
+----
+num: 22
+category: General Science
+difficulty: MS
+answer: W) the Addition of Boiling Chips Increases the Safety of the
+Boiling Process
+
+Which of the following is t rue about the use of boiling chips in an experiments?
+W) The addition of boilin g chips increases the safety of the boiling process
+X) The addition of boiling chips slows down the boiling process
+Y) Boiling chips provide a surface area upon which chemical reactions can occur 
+Z) Larger boiling chips are more effective than smaller boi ling chips
+
+----
+num: 23
+category: Physics
+difficulty: HS
+seen: 1
+answer: Z) Acceleration
+
+What is the term for the rate at which an object’s velocity changes with time?
+W) Instantaneous velocity
+X) Motion
+Y) Speed
+Z) Acceleration
+
+----
+num: 23
+category: Physics
+difficulty: HS
+answer: W) Between 3 and 4 Seco Nds
+
+
+In 1901, 63-year-old retired schoolteacher Annie Edson Taylor went over the Niagara Falls in a barrel. The Horseshoe Falls have a height of about 51 meters . 
+Using 9.8 meters per second squared as the acceleration due to gravity; about how long in seconds did it take for her to reach the water surface? Assume that her initial velocity was zero, and neglect the effect of the air on the barrel during the fall.
+W) Between 3 and 4 seconds
+X) Between 5 and 6 seconds
+Y) Between 10 and 11 seconds
+Z) Between 27 and 28 seconds
+
+----
+num: 24
+category: Earth and Space Science
+difficulty: MS
+answer: X) Rise in Sea Level
+
+Which of the following is an inevitable consequence of the global climate change we are facing today?
+W) Extinction of humans
+X) Rise in sea level 
+Y) World war
+Z) Closing down of Arctic waterways
+
+----
+num: 24
+category: Earth and Space Science
+difficulty: MS
+answer: X) Exosphere
+
+Which part of Earth’s atmosphere is farthest from Earth’s surface?
+W) Stratosphere
+X) Exosphere
+Y) Thermosphere
+Z) Troposphere
+
+----
+num: 25
+category: Chemistry
+difficulty: HS
+answer: W) Elements Must Be Combined in a Very Specific Ratio
+
+Which of the following is characteristic of a compound?
+W) Elements must be combined in a very specific ratio
+X) Properties can vary throughout the sample
+Y) It can be classified as a colloid
+Z) It can be classified as heterogeneous
+
+----
+num: 25
+category: Chemistry
+difficulty: HS
+answer: Z) Centrifuging Can Separate the Components
+
+Which of the following results will identify an unknown substance as a mixture instead of a compound?
+W) It cannot be separated by distillation
+X) It is homogeneous
+Y) It has a constant melting point
+Z) Centrifuging can separate the components
+
+----
+num: 25
+category: General Science
+difficulty: MS
+answer: X) Polar Bear
+
+Which of the following animals does NOT live in or around Antarctica?
+W) Seal
+X) Polar bear
+Y) Penguin 
+Z) Nematode

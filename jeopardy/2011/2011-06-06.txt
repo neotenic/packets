@@ -1,0 +1,368 @@
+####
+tournament: #6166
+round: Show #6166 - Monday, June 6, 2011
+year: 2011
+date: 2011-06-06
+####
+
+num: 1
+category: Literature
+difficulty: 200
+seen: 3
+answer: a tuna melt
+
+StarKist's recipe for this grilled sandwich includes toast, onion, celery, mayo & cheese.
+
+----
+num: 2
+category: History
+difficulty: 200
+fixed: -1
+seen: 6
+answer: Attila
+
+Although it's known that this Hun died on his wedding night in 453, it's not known how he died.
+
+----
+num: 3
+category: History
+difficulty: 200
+seen: 4
+answer: the State Department
+
+When created by Congress in 1792, the Mint was part of this department more concerned with foreign affairs.
+
+----
+num: 4
+category: Trash
+difficulty: 200
+seen: 6
+answer: long playing recordings
+
+Before iPods & CDs, we spun these, LPs for short.
+
+----
+num: 5
+category: Literature
+difficulty: 200
+seen: 4
+answer: a gurney
+
+A long, narrow hospital bed on wheels.
+
+----
+num: 6
+category: Literature
+difficulty: 400
+seen: 4
+answer: Blue Bonnet
+
+"Everything's better with" this margarine brand on my toast.
+
+----
+num: 7
+category: History
+difficulty: 400
+seen: 5
+answer: Philip
+
+Demosthenes wrote that the second king of this name wasn't Greek but a "pestilent knave from Macedonia".
+
+----
+num: 8
+category: History
+difficulty: 400
+seen: 4
+answer: Philadelphia
+
+The first U.S. Mint building was in this city, then the nation's capital.
+
+----
+num: 9
+category: Literature
+difficulty: 400
+seen: 3
+answer: nocturnal
+
+This adjective means an animal is awake & active mostly at night.
+
+----
+num: 10
+category: Literature
+difficulty: 600
+seen: 3
+answer: garlic bread
+
+Cole's quality foods claims the 1970s introduction of this Italian restaurant bread in frozen form.
+
+----
+num: 11
+category: History
+difficulty: 600
+seen: 4
+answer: Socrates
+
+Plato referred to this Athenian philosopher & mentor as "the justest man of that time".
+
+----
+num: 12
+category: History
+difficulty: 600
+seen: 4
+answer: Fort Knox
+
+The Mint maintains a bullion depository at this Kentucky location.
+
+----
+num: 13
+category: Trash
+difficulty: 600
+seen: 5
+answer: (Howard) Cosell
+
+We didn't need Cris Collinsworth or even John Madden on "MNF", we had this man who wrote "I Never Played the Game".
+
+----
+num: 14
+category: Literature
+difficulty: 600
+seen: 3
+answer: heartburn
+
+Technically it's caused by gastroesophageal backflow.
+
+----
+num: 15
+category: Literature
+difficulty: 800
+seen: 3
+answer: tea
+
+If you're ailing, your diet might be reduced to toast & this, such as Lady Grey.
+
+----
+num: 16
+category: History
+difficulty: 800
+seen: 4
+answer: Confucius
+
+At birth this ancient sage of China was given the name Ch'iu, meaning "hill", because he had a noticeable bulge on his head.
+
+----
+num: 17
+category: History
+difficulty: 800
+seen: 4
+answer: San Francisco
+
+The Mint's 3 main coin-producing facilities include the one begun in 1852 in this city to address a sudden "rush".
+
+----
+num: 18
+category: Trash
+difficulty: 800
+seen: 4
+answer: Guy Lombardo
+
+Who needs Ryan Seacrest or even Dick Clark?  For years we enjoyed this man & his Royal Canadians on New Year's Eve.
+
+----
+num: 19
+category: Literature
+difficulty: 800
+seen: 5
+answer: adjourn
+
+To temporarily end a legal proceeding.
+
+----
+num: 20
+category: Literature
+difficulty: 1000
+seen: 4
+answer: a guava
+
+I like to spread the jelly of.
+
+----
+num: 21
+category: History
+difficulty: 1000
+seen: 4
+answer: Pliny (the Elder)
+
+This "elder" Roman writer died in 79 A.D. while rescuing people from Mount Vesuvius' eruption.
+
+----
+num: 22
+category: Literature
+difficulty: 1000
+seen: 4
+answer: Saturnalia
+
+An orgiastic, unrestrained festival in ancient Rome bearing the name of a god.
+
+----
+num: 23
+category: Art
+difficulty: 400
+seen: 4
+answer: Rome
+
+Neptune's Grotto in this classical city attracted many artists.
+
+----
+num: 24
+category: History
+difficulty: 400
+seen: 4
+answer: the Everglades
+
+Marjory Stoneman Douglas spent much of her 108 years fighting to preserve this wetlands region of Florida.
+
+----
+num: 25
+category: Science
+difficulty: 800
+seen: 6
+answer: igneous
+
+Formed by magma, this one of the 3 major types of rock may be plutonic, or formed deep in the Earth.
+
+----
+num: 26
+category: History
+difficulty: 800
+seen: 5
+answer: Madrid
+
+Julio & Enrique Iglesias.
+
+----
+num: 27
+category: Art
+difficulty: 800
+fixed: -1
+seen: 3
+answer: Flanders
+
+Rubens work is fittingly titled "Landscape in" this region, with which the artist is identified.
+
+----
+num: 28
+category: History
+difficulty: 800
+seen: 4
+answer: the Civil War
+
+Pleasant Riggs Crump, who died in 1951 at the age of 104, was one of the last surviving soldiers of this war.
+
+----
+num: 29
+category: Literature
+difficulty: 800
+seen: 4
+answer: odyssey
+
+From the name of a mythological hero, it's an extended trip, or an intellectual or spiritual quest.
+
+----
+num: 30
+category: Science
+difficulty: 1200
+seen: 6
+answer: a schist
+
+A schism is a division into faction;.
+
+----
+num: 31
+category: History
+difficulty: 1200
+seen: 4
+answer: London
+
+Elizabeth Taylor.
+
+----
+num: 32
+category: Art
+difficulty: 1200
+seen: 4
+answer: Lake Geneva
+
+The 1444 work "Miraculous Draught of Fishes" sets the biblical miracle on this Alpine lake.
+
+----
+num: 33
+category: History
+difficulty: 1200
+fixed: -1
+seen: 4
+answer: the Curies
+
+Eve, a daughter of this pair & the only member of her family not to become a scientist & win a Nobel Prize, died in 2007 at 102.
+
+----
+num: 34
+category: Literature
+difficulty: 1200
+seen: 5
+answer: scrod
+
+From the Dutch for "slice", it's a young haddock split & boned for cooking as catch of the day.
+
+----
+num: 35
+category: Science
+difficulty: 1600
+seen: 6
+answer: quartz
+
+Dacite is volcanic rock characterized by the presence of this common form of silicon dioxide.
+
+----
+num: 36
+category: Art
+difficulty: 1600
+seen: 4
+answer: Tahoe
+
+Born near Dusseldorf in 1830, Albert Bierstadt traveled far to paint.
+
+----
+num: 37
+category: History
+difficulty: 1600
+seen: 5
+answer: Gloria Stuart
+
+This actress who played 100-year-old Rose in "Titanic" passed away at 100 in 2010.
+
+----
+num: 38
+category: Art
+difficulty: 2000
+seen: 6
+answer: Giverny
+
+In 1897 Monet painted "Branch of the Seine Near" this small village he grew to know well.
+
+----
+num: 39
+category: History
+difficulty: 2000
+seen: 5
+answer: (Claude) Lévi-Strauss
+
+In his 100 years this French anthropologist erroneously received numerous orders for blue jeans.
+
+----
+num: 40
+category: Literature
+difficulty: 2000
+seen: 5
+answer: ramrod
+
+An old gun accessory, or an overseer, like Clint Eastwood as Rowdy Yates on TV's "Rawhide".

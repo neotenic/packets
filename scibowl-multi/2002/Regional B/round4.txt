@@ -1,0 +1,213 @@
+####
+tournament: Regional B
+round: round4.pdf
+year: 2002
+####
+
+num: 2
+category: Chemistry
+difficulty: HS
+answer: Y)  Lactic Acid and Carbon Dioxide
+
+For individuals who are “Lact ose Intolerant,” the reason for their gastric distress is the production of:
+W) methane 
+X) acetic acid and nitrogen 
+Y) lactic acid and carbon dioxide 
+Z) acetic acid and methane
+
+----
+num: 2
+category: Chemistry
+difficulty: HS
+answer: X)  Phosphoric Acid
+
+Which acid connects the 2-deoxyr ibose units within every DNA strand:
+W) acetic acid 
+X) phosphoric acid 
+Y) citric acid 
+Z) glycolic acid
+
+----
+num: 3
+category: Biology
+difficulty: HS
+answer: X)  Lobsters
+
+Which of the following organisms does NOT belong to the Class 
+Arachnida:
+W) scorpions 
+X) lobsters 
+Y) mites 
+Z) ticks
+
+----
+num: 4
+category: Astronomy
+difficulty: HS
+answer: W)  Venus
+
+Which of the following planets is NOT known to have any orbiting satellites:
+W) Venus 
+X) Mars 
+Y) Uranus 
+Z) Saturn
+
+----
+num: 6
+category: Earth Science
+difficulty: HS
+answer: W)  Basaltic
+
+Hawaiian volcanoes such as Kilauea and Mauna Loa are examples of which of the following types of volcanoes:
+W) basaltic 
+X) rhyolitic 
+Y) andesitic 
+Z) andesitic and rhyolitic
+
+----
+num: 7
+category: General Science
+difficulty: HS
+seen: 1
+answer: X)  Robert Koch
+
+What pioneer bacteriologist in 1873 located a particular bacterium that caused anthrax in the spleen of infected cattle and, after transferring it serially to mice, recovered the same bacterium in the end:
+W) Louis Pasteur 
+X) Robert Koch (pronounced: Coke) 
+Y) Rudolf Virchow 
+Z) Peter Vogt
+
+----
+num: 10
+category: Chemistry
+difficulty: HS
+answer: W)  Phosphorous
+
+Which of the following elements is found in Period 3 and main 
+Group 5A:
+W) phosphorous 
+X) silicon 
+Y) nitrogen 
+Z) arsenic
+
+----
+num: 14
+category: Earth Science
+difficulty: HS
+answer: Y)  Permeability
+
+A measure of how easily water flows through rock is called its:
+W) porosity 
+X) aquifer system 
+Y) permeability 
+Z) zone of aeration
+
+----
+num: 17
+category: Physics
+difficulty: HS
+answer: X)  Archimedes Principle ^
+
+Which physical phenomenon explains the flotation of boats and air balloons:
+W) Bernoulli’s principle 
+X) Archimedes principle 
+Y) Newton's second law of motion 
+Z) Galileo’s law of displacement
+
+----
+num: 18
+category: Chemistry
+difficulty: HS
+answer: Z)  Potassium
+
+In which element is the first cr ossing in the orbital-filling order encountered, whereby the next 2 electrons go into th e 4s subshell rather than filling the 3d orbitals?
+W) argon 
+X) scandium 
+Y) rubidium 
+Z) potassium
+
+----
+num: 19
+category: Biology
+difficulty: HS
+answer: W)  a Keystone Species
+
+Removal of a predatory starfish results in an overabundance of mollusks dramatically altering the community popul ation. The starfish would be considered:
+W) a keystone species 
+X) primary competitor 
+Y) secondary producer 
+Z) an endangered species
+
+----
+num: 21
+category: Earth Science
+difficulty: HS
+answer: Z)  Contours
+
+On a topographical map, what are the lines drawn that connect points of the same elevation above or below mean sea level called:
+W) isobars 
+X) ridges 
+Y) isohyets 
+Z) contours
+
+----
+num: 21
+category: Earth Science
+difficulty: HS
+answer: X)  Continental Rise
+
+The abyssal plain of the Atlantic ocean lies directly adjacent to the:
+W) continental slope 
+X) continental rise 
+Y) continental shelf 
+Z) continental crust
+
+----
+num: 22
+category: General Science
+difficulty: HS
+seen: 1
+answer: W)  Percival Lowell
+
+In 1905, on the basis of apparent irregularities in the orbital motion of Neptune that la ter proved to be incorrect, who pr edicted the existence of a ninth planet with an orbit beyond Neptune:
+W) Percival Lowell 
+X) Charles Dillon Perrine 
+Y) George Ellery Hale 
+Z) Johannes Franz Hartman
+
+----
+num: 24
+category: Chemistry
+difficulty: HS
+answer: X)  Maximum Principal Quantum Number
+
+All elements in a given peri od of the periodic table have similar:
+W) valence-shell el ectron configuration 
+X) maximum principal quantum number 
+Y) atomic radii 
+Z) atomic number
+
+----
+num: 25
+category: Biology
+difficulty: HS
+answer: Z)  Chelicerae
+
+Which of the following is a f eeding structure in arachnids :
+W) dentipalps 
+X) radula 
+Y) proboscis 
+Z) chelicerae (read as: chill-iss-err-aye)
+
+----
+num: 25
+category: Biology
+difficulty: HS
+answer: Z)  Lacrimal
+(Solution:  Lacrimal Is a Facial Bone)
+
+Which of the following is NOT a cranial bone:
+W) parietal 
+X) occipital 
+Y) sphenoid 
+Z) lacrimal

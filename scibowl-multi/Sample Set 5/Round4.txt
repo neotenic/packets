@@ -1,0 +1,365 @@
+####
+tournament: Sample Set 5
+round: Round4.pdf
+####
+
+num: 1
+category: Physics
+difficulty: HS
+answer: X) It Is Moving With Constant Velocity
+
+Which of the following conditions is necessary and sufficient for an object in equilibrium?
+W) It is at rest 
+X) It is moving with constant velocity
+Y) It is either moving with constant velocity or with constant acceleration
+Z) It is moving with constant acceleration
+
+----
+num: 1
+category: Physical Science
+difficulty: MS
+answer: X) G/9
+
+At the surface of the Earth, the acceleration due togravity is g. At an elevation of twice the Earth’s radius, which of the following best represents the acceleration due to gravity?
+W) g/4
+X) g/9
+Y) g/16
+Z) g/25
+
+----
+num: 3
+category: Physics
+difficulty: HS
+answer: Z) Connecting the Solar Cells in Parallel
+
+Which of the following will INCREASE the current from a solar panel?
+W) Using a lead acid cell in series with the solar cells
+X) Using a wet cell in series with the solar cells
+Y) Connecting the solar cells in series
+Z) Connecting the solar cells in parallel
+
+----
+num: 4
+category: Energy
+difficulty: HS
+answer: Y)  a Diode
+
+An RLC circuit must contain of all of the following, EXCEPT:
+W) A capacitor 
+X) An inductor
+Y) A diode
+Z) A resistor
+
+----
+num: 4
+category: Energy
+difficulty: MS
+answer: Z) Gas Turbine
+
+Which of the following kinds of power plants is BEST suited for peak load demands?
+W) Nuclear
+X) Coal-fired
+Y) Hydroelectric
+Z) Gas turbine
+
+----
+num: 5
+category: Math
+difficulty: HS
+answer: Y) Negative  X-Axis
+
+A line with the equation y = cx + c, where c is a non-zero real number, must intersect which of the following?
+W) Positive x-axis
+X) Positive y-axis
+Y) Negative x-axis
+Z) Negative y-axis
+
+----
+num: 6
+category: Earth and Space Science
+difficulty: MS
+seen: 1
+answer: W) Hadal
+
+With regard to the existence of life, which of the following ocean zones is the harshest?
+W) Hadal (read as: HAY-dahl)
+X) Neritic (read as: neh-RI-tik)
+Y) Pelagic
+Z) Bathyal (read as: bah-thee-ahl)
+
+----
+num: 7
+category: Physics
+difficulty: HS
+answer: Y) 6
+
+Neglecting the effect of air resistance, a stone dropped off of a 197-meter high building lands on the ground at which of the following approximate times in seconds?
+W) 3
+X) 4
+Y) 6
+Z) 18
+
+----
+num: 8
+category: Earth and Space
+difficulty: HS
+answer: Z) Planets Have Peri Ods of Retrograde Motion While Stars Do 
+Not
+
+Which of the following BEST describes how planets are distinguishable from stars in the night sky?
+W) Planets appear brighter than stars
+X) Planets appear redder than stars
+Y) Planets appear bigger than stars
+Z) Planets have periods of retrograde motion while stars do not
+
+----
+num: 8
+category: Earth and Space Science
+difficulty: MS
+seen: 1
+answer: X) Temperature
+
+The spectrum of electromagnetic energy emitted by a black body is determined by which of the following?
+W) Material
+X) Temperature
+Y) Size
+Z) A combination of material and size
+
+----
+num: 9
+category: Energy
+difficulty: HS
+answer: Z) It Is Largely Decentralized
+
+Which of the following statements is NOT true about the current electricity system in the United States?
+W) It is 99.7% reliable
+X) It consists of more than 9,000 electric generating units
+Y) It has more than 1,000,000 megawatts of generating capacity
+Z) It is largely decentralized
+
+----
+num: 9
+category: Energy
+difficulty: MS
+seen: 1
+answer: Y) Inductive Charging Equipment Is Systematically Used to 
+Recharge the Batteries
+ 
+
+Which of the following is NOT true of plug-in hybrid electric vehicles?
+W) They can drive using only electricity for between 10 and 40 miles 
+X) They are powered both by a battery and an internal combustion engine
+Y) Inductive charging equipment is systematically used to recharge the batteries
+Z) They mostly utilize lithium -ion batteries
+
+----
+num: 10
+category: Life Science
+difficulty: MS
+answer: Y) Family
+
+Of the following, which level of taxonomic classification is the most specific?
+W) Class
+X) Phylum (read as: FY-luhm)
+Y) Family
+Z) Order
+
+----
+num: 12
+category: Life Science
+difficulty: MS
+answer: Y) They Like to Live in Groups
+
+Which of the following is NOT true about the black -footed ferret?
+W) They like to eat prairie dogs
+X) They neared total extinction in the 1980s
+Y) They like to live in groups 
+Z) They have one to six young in a litter
+
+----
+num: 13
+category: Energy
+difficulty: MS
+answer: Y) Illinois
+
+
+As of 2008, which of the following states has the highest net generation of energy from nuclear sources?
+W) New York
+X) Texas
+Y) Illinois
+Z) Ohio
+
+----
+num: 15
+category: Biology
+difficulty: HS
+answer: W) Co-Factors
+
+
+Mineral salts participate in enzymatic activity as which of the following?
+W) Co-factors
+X) Activators
+Y) Stabilizers 
+Z) Catalysts
+
+----
+num: 15
+category: Earth and Space Science
+difficulty: MS
+answer: X) Shale
+
+Which of the following rock types is most likely to preserve fossils?
+W) Sandstone
+X) Shale
+Y) Marble
+Z) Slate
+
+----
+num: 16
+category: Math
+difficulty: HS
+answer: Y) All Taylor Series Ar E Convergent
+
+Which of the following statements is NOT true about Taylor series?
+W) Taylor series are defined for infinitely differentiable functions
+X) All Taylor series are power series
+Y) All Taylor series are convergent
+Z) The first n terms of a Taylor series approximate a function with a polynomial
+
+----
+num: 17
+category: Chemistry
+difficulty: HS
+answer: X) They Are Heterogeneous
+
+Which of the following statements is TRUE of ceramics?
+W) They are homogeneous 
+X) They are heterogeneous (read as: heh-teh-roh-JEE-nee-is) 
+Y) They are chelates
+Z) They are a form of glass
+
+----
+num: 17
+category: Chemistry
+difficulty: HS
+answer: W) Phosphorus
+
+
+Which of the following elements has the valence electron configuration of 3s^23p^3?
+W) Phosphorus
+X) Oxygen
+Y) Bromine
+Z) Nitrogen
+
+----
+num: 17
+category: General Science
+difficulty: MS
+answer: W) Spherical
+
+Which of the following best describes the shape of a raindrop with a radius of less than one millimeter?
+W) Spherical
+X) Similar to a hamburger bun
+Y) Teardrop
+Z) Parachute
+
+----
+num: 18
+category: Earth and Space Science
+difficulty: MS
+seen: 1
+answer: Z) if You Lowered the Temperature, Its Rela Tive Humidity Would 
+Decrease
+
+Given a parcel of air that is saturated with water, which of the following statements is NOT correct?
+W) Its relative humidity is 100%
+X) Its dew point is equal to the current temperature
+Y) If you raised the temperature, its relative humidity would decre ase
+Z) If you lowered the temperature, its relative humidity would decrease
+
+----
+num: 19
+category: Chemistry
+difficulty: HS
+answer: X) Trigonal Planar
+
+Which of the following represents the electron -pair geometry of the central oxygen atom of ozone?
+W) Linear
+X) Trigonal planar
+Y) Tetrahedral
+Z) Trigonal bipyramidal
+
+----
+num: 19
+category: General Science
+difficulty: MS
+seen: 1
+answer: Y) Endoplasmic Reticulum
+
+Cell membranes are described as fluid mosaic models consisting of proteins embedded in a bilayer of phospholipids. Which of the following components of a plant cell do NOT contain two of these bilayers?
+W) Chloroplast
+X) Mitochondria (read as: my-toh-KOHN-dree-ah)
+Y) Endoplasmic reticulum (read as: ri-TI-kyuh-luhm)
+Z) Nucleus
+
+----
+num: 21
+category: General Science
+difficulty: MS
+answer: Z) the Spring Scale Would Record a Weight of Greater Than 10 
+Newtons, While the Balance Would Record a Mass of 1 K Ilogram
+
+A balance and a spring scale are taken to the top of 
+Mount Everest. When measured there, the spring scale reads 10 newtons, while the balance reads 1 kilogram. The measurements are then taken again at sea level. How would these measurements differ at sea level?
+W) They would not differ at sea level
+X) The spring scale would record a weight of less than 10 newtons, while the balance would record a mass of 1 kilogram
+Y) The spring scale would record a weight of greater than 10 newtons, while the balance would record a mass of greater than 1 kilogram
+Z) The spring scale would record a weight of greater than 10 newtons, while the balance would record a mass of 1 kilogram
+
+----
+num: 22
+category: Math
+difficulty: MS
+answer: W) Median
+
+Which of the following statistical values is least affected by outliers?
+W) Median
+X) Mean
+Y) Range
+Z) Standard deviation
+
+----
+num: 24
+category: Life Science
+difficulty: MS
+answer: W)  Chinese Shar -Pei
+
+Which of the following breeds of dogs would be least likely to be trained as a seeing eye dog?
+W) Chinese shar-pei
+X) German shepherd
+Y) Labrador retriever
+Z) Golden retriever
+
+----
+num: 25
+category: Chemistry
+difficulty: HS
+answer: W) Ligand
+
+Which of the following can bond to a metal ion?
+W) Ligand
+X) Lewis acid
+Y) Bronsted-Lowry acid
+Z) Enantiomer
+
+----
+num: 25
+category: General Science
+difficulty: MS
+answer: X) It Has a Longer Wavelen Gth
+
+Two pure tones are played in succession and at equal volumes. The first tone is lower in frequency than the second. Therefore, which of the following statements describes the first tone in comparison with the second tone?
+W) It has a shorter wavelength 
+X) It has a longer wavelength 
+Y) It has a smaller amplitude 
+Z) It has a larger amplitude

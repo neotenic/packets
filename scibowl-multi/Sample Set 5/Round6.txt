@@ -1,0 +1,447 @@
+####
+tournament: Sample Set 5
+round: Round6.pdf
+####
+
+num: 1
+category: Chemistry
+difficulty: HS
+answer: Y)  High-Density Polyethylene
+
+Recycling code 2 indicates which of the following types of plastic?
+W) Polyvinyl chloride
+X) Polystyrene (read as: pahl-i-STYR-een)
+Y) High-density polyethylene
+Z) Polyethylene terephthalate
+
+----
+num: 1
+category: General Science
+difficulty: MS
+answer: X) Gold and Silver Are Less Reactive Than S Odium
+
+Which of the following best explains why it is possible to find nuggets of pure gold and silver in nature, but sodium appears only in compounds?
+W) Gold and silver are denser than sodium
+X) Gold and silver are less reactive than sodium
+Y) Gold and silver are less common than sodium
+Z) Gold and silver are solids at room temperature
+
+----
+num: 2
+category: Math
+difficulty: HS
+answer: W) F(x) Is Increasing on [A, B]
+
+If the derivative of f(x) is positive on the closed interval [a, b], then which of the following statements is TRUE?
+W) f(x) is increasing on [a, b]
+X) f(x) has critical points at a and b
+Y) f(x) is constant on [a, b]
+Z) f(x) cannot have an inflection point on [a, b]
+
+----
+num: 2
+category: Math
+difficulty: MS
+answer: X) 3.5 Cups
+
+Which of the following is the least volume?
+W) 1.9 pints
+X) 3.5 cups
+Y) 1 quart
+Z) 1/3 of a gallon
+
+----
+num: 4
+category: Life Science
+difficulty: MS
+answer: X) Platypus
+
+Which of the following is an example of a monotreme (read as: MOH-noh-treem)?
+W) Hedge-hog
+X) Platypus (read as: PLAH-ti-puhs)
+Y) Anteater
+Z) Wombat
+
+----
+num: 5
+category: Chemistry
+difficulty: HS
+seen: 1
+answer: W) Nitrogen
+
+Sodium azide and potassium nitrate react to inflate an airbag during a car crash primarily by producing which of the following gases?
+W) Nitrogen
+X) Oxygen
+Y) Potassium oxide
+Z) Sodium nitrate
+
+----
+num: 6
+category: Physical Science
+difficulty: MS
+answer: Z) Mercury and Bromine
+
+Which of the following pairs of elements are liquid at room temperature?
+W) Mercury and cesium
+X) Bromine and cesium
+Y) Mercury and gallium
+Z) Mercury and bromine
+
+----
+num: 7
+category: Earth and Space
+difficulty: HS
+answer: Z) Convergent and Counterclockwise
+
+Which of the following best describes surface airflow in a northern hemisphere middle-latitude cyclone?
+W) Divergent and clockwise 
+X) Divergent and counterclockwise
+Y) Convergent and clockwise
+Z) Convergent and counterclockwise
+
+----
+num: 8
+category: Physics
+difficulty: HS
+answer: Z)  51
+4.43.6
+W) 3.4
+
+The single electron in the ground state of hydrogen is bound to the proton by 13.6 electron volts. If it is excited to the n = 2 state, by which of the following
+W) energies
+X) 6.83.4 , in electron volts, is it now bound?
+Y)
+
+----
+num: 9
+category: Energy
+difficulty: HS
+answer: Z) Y) 
+2015
+W) 5
+
+Which of the following BEST represents the percentage of global
+X) oil reserves
+W) 105 located in North America?
+
+----
+num: 9
+category: Energy
+difficulty: MS
+seen: 1
+answer: W)  Greenhouse Gases
+
+Relative to conventional sources, such as liquid oil and natural gas, combustion of biomass for heat and electricity does NOT create more of which of the following?
+W) Greenhouse gases
+X) Particulates
+Y) Polyaromatic hydrocarbons
+Z) Dioxins
+
+----
+num: 11
+category: Earth and Space
+difficulty: HS
+answer: X) Intrusive Rocks Have Larger Crystals
+
+
+Which of the following correctly generalizes how crystal size compares between extrusive and intrusive rocks?
+W) Extrusive rocks have larger crystals
+X) Intrusive rocks have larger crystals
+Y) Extrusive and intrusive rocks have comparable sizes of crystals
+Z) Crystal size is variable and unpredictable
+
+----
+num: 11
+category: Earth and Space Science
+difficulty: MS
+answer: Y)  Nitrate
+
+Which of the following nutrients is most likely to benefit photosynthesizers in an upwelling region?
+W) Iron
+X) Oxygen
+Y) Nitrate
+Z) Magnesium
+
+----
+num: 11
+category: Earth and Space Science
+difficulty: MS
+answer: W) Bedding Plane
+
+
+Which of the following structures weakens rock, sometimes causing landslides?
+W) Bedding plane
+X) Concretions
+Y) Inselburg
+Z) Mudcracks
+
+----
+num: 12
+category: Physical Science
+difficulty: MS
+answer: W) Fudge
+
+A precipitation reaction is used to make which of the following?
+W) Fudge
+X) Pickles
+Y) Poached eggs
+Z) Cornstarch gravy
+
+----
+num: 13
+category: Earth and Space
+difficulty: HS
+answer: W) Brittle
+
+A fault is an example of which of the following types of strain?
+W) Brittle
+X) Elastic
+Y) Plastic
+Z) Dilational
+
+----
+num: 13
+category: Earth and Space
+difficulty: HS
+answer: Y) Higher Silica Content 
+
+
+Which of the following properties of felsic melts makes them more viscous than mafic melts ?
+W) Higher temperature
+X) Higher volatile content
+Y) Higher silica content
+Z) Erupting at a higher elevation
+
+----
+num: 13
+category: Earth and Space Science
+difficulty: MS
+answer: Y) Centripetal
+
+Which of the following types of drainage is formed as streams flow toward a central depression?
+W) Rectangular 
+X) Dendritic
+Y) Centripetal
+Z) Radial
+
+----
+num: 14
+category: Energy
+difficulty: HS
+answer: W) Hydroelectric
+
+Which of the following energy generation methods is the BEST source for baseload?
+W) Hydroelectric
+X) Wind
+Y) Solar
+Z) Tidal turbines
+
+----
+num: 14
+category: Energy
+difficulty: MS
+answer: Y) Wind
+
+Which of the following is the fastest growing source of energy in the world since 1990?
+W) Solar
+X) Geothermal
+Y) Wind
+Z) Biofuel
+
+----
+num: 15
+category: Life Science
+difficulty: MS
+answer: W) Prophase
+
+During which of the following parts of mitosis do kinetochores (read as: ki-NEH-toh-kohrs) begin to mature and attach to the spindles?
+W) Prophase
+X) Metaphase
+Y) Anaphase
+Z) Telophase
+
+----
+num: 16
+category: Math
+difficulty: HS
+answer: Y) a Correlation of +0.8 Is Just as Strong as a Correlation of -0.8
+
+Which of the following statements is TRUE?
+W) A correlation of +0.8 is stronger than a correlation of -0.8
+X) A correlation of +0.8 is weaker than a correlation of -0.8
+Y) A correlation of +0.8 is just as strong as a correlation of -0.8
+Z) It is impossible to tell which correlation is stronger
+
+----
+num: 17
+category: Biology
+difficulty: HS
+seen: 1
+answer: W) Mollusks
+
+Cephalopods belong to which of the following groups?
+W) Mollusks 
+X) Annelids
+Y) Roundworms
+Z) Arthropods
+
+----
+num: 18
+category: Energy
+difficulty: MS
+answer: W) Stand Alone Wind Turbine
+
+Which of the following would be the most appropriate for providing power for water pumping?
+W) Stand alone wind turbine
+X) Wind turbine connected to a utility power grid
+Y) Wind turbine combined with a photovoltaic system
+Z) Wind plant
+
+----
+num: 18
+category: Energy
+difficulty: MS
+answer: Z) Unlighted Towers Wit H a Height Less Than 199 Feet
+
+According to the U.S. Fish and Wildlife Service, construction of communications towers may negatively impact migratory birds. Which of the following is LEAST dangerous to migrating birds ?
+W) Lighted towers with a height greater than 199 feet
+X) Unlighted towers with a height greater than 199 feet
+Y) Lighted towers with a height less than 199 feet
+Z) Unlighted towers with a height less than 199 feet
+
+----
+num: 20
+category: Life Science
+difficulty: MS
+answer: Z) Producer
+
+The first evidence that nitrogen-fixing bacteria populations have become too low in a terrestrial biome would be a decline in which of the following populations?
+W) Decomposer 
+X) Second-order consumer
+Y) First-order consumer
+Z) Producer
+
+----
+num: 22
+category: Chemistry
+difficulty: HS
+seen: 1
+answer: Y) Magnesium, Calcium, and Barium
+
+In which of the following sets of elements would all members be expected to have very similar chemical properties?
+W) Neon, oxygen, and fluorine
+X) Argon, bromine, and krypton
+Y) Magnesium, calcium, and barium
+Z) Aluminum, silicon , and phosphorus
+
+----
+num: 22
+category: General Science
+difficulty: MS
+answer: Y) Sea Star
+
+Which of the following organisms does NOT have an external bilaterally symmetric body plan?
+W) Lobster
+X) Human
+Y) Sea star
+Z) Whale
+
+----
+num: 23
+category: Earth and Space
+difficulty: HS
+answer: W) Moisture, Lifting Mechanism, Instability
+
+Which of the following most accurately provides the three necessary ingredients for thunderstorm formation?
+W) Moisture, lifting mechanism, instability
+X) Lifting mechanism, mountains, oceans
+Y) Stability, moisture, heat
+Z) Lifting mechanism, fronts, moisture
+
+----
+num: 23
+category: Earth and Space
+difficulty: HS
+answer: Y) Atmospheric Conditions of the Observing Site
+
+
+The image resolution of a large optical telescope is most directly related to which of the following ?
+W) Focal length of the objective
+X) Diameter of the objective
+Y) Atmospheric conditions of the observing site
+Z) Astigmatism of the optical system
+
+----
+num: 23
+category: Earth and Space Science
+difficulty: MS
+answer: X) Pyrite
+
+Which of the following minerals has a cubic, or isometric, crystal system?
+W) Quartz
+X) Pyrite (read as: PY-ryt)
+Y) Gypsum
+Z) Muscovite (read as: MUHS-koh-vyt) mica
+
+----
+num: 23
+category: Earth and Space Science
+difficulty: MS
+answer: Z) Copper Penny
+
+
+Which of the following materials has a 
+Moh’s hardness between 3 and 4?
+W) Apatite
+X) Wire nail
+Y) Fingernail
+Z) Copper penny
+
+----
+num: 24
+category: General Science
+difficulty: MS
+answer: W) Speed of Travel
+
+Which of the following is the most important observable difference between primary and secondary earthquake waves?
+W) Speed of travel
+X) Place of origin
+Y) Strength of impact
+Z) Size of wave
+
+----
+num: 25
+category: Biology
+difficulty: HS
+seen: 1
+answer: Z) Nucleic Acids
+
+Which of the following monomers CANNOT be converted into an intermediate that can be used for cellular respiration?
+W) Fatty acids
+X) Glycerol
+Y) Amino acids
+Z) Nucleic acids
+
+----
+num: 25
+category: Earth and Space Science
+difficulty: MS
+answer: Z) Hill
+
+On a topographic map, you see a feature represented by a set of concentric circles. The outermost circle is labeled 1,000, and the innermost circle is labeled 1,300. You are most likely looking at w hich of the following features?
+W) Cliff
+X) River
+Y) Basin
+Z) Hill
+
+----
+num: 25
+category: Earth and Space Science
+difficulty: MS
+answer: X)  Tension
+
+Which of the following types of stress is found in spreading environments such as the East African Rift?
+W) Compression
+X) Tension
+Y) Shear
+Z) Rotational

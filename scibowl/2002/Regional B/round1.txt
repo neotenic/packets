@@ -1,0 +1,363 @@
+####
+tournament: Regional B
+round: round1.pdf
+year: 2002
+####
+
+num: 1
+category: Biology
+difficulty: HS
+seen: 39
+answer: Antigen
+
+What is the most common term for the substance recognized as foreign and able to elicit antibody production:
+
+----
+num: 2
+category: Chemistry
+difficulty: HS
+seen: 35
+answer: Bromine
+
+Which of the halogens is a liquid at room temperature:
+
+----
+num: 2
+category: Chemistry
+difficulty: HS
+seen: 34
+answer: Halide
+
+What is the general term for a salt of one of the halogens?
+
+----
+num: 3
+category: Physics
+difficulty: HS
+seen: 26
+answer: Ampere  (Accept:  Amp)
+
+What is the unit for electric curre nt equal to 1 coulomb per second?
+
+----
+num: 4
+category: Astronomy
+difficulty: HS
+seen: 54
+answer: Saturn
+
+As of the summer of 2001, what planet was shown to have the most known moons orbiting it in our solar system?
+
+----
+num: 4
+category: Astronomy
+difficulty: HS
+seen: 54
+answer: Asteroids
+
+What is another name for minor planets, starlike bodies, or planetoids, the vast majority of which have orbits roughly midway between th e orbits of Jupiter and 
+Mars?
+
+----
+num: 5
+category: Math
+difficulty: HS
+fixed: 1
+seen: 25
+answer: {24} (Solution: Perimeter = 6+8+10=24)
+
+What is the perimeter of a right tr iangle whose leg lengths are 6 and 8 and whose hypotenuse is 10?
+
+----
+num: 5
+category: Math
+difficulty: HS
+seen: 26
+answer: 19
+
+The average of -40, 36, 5, 0, 10 and x is 5. What is the value of x?
+
+----
+num: 6
+category: Earth Science
+difficulty: HS
+seen: 64
+answer: Core,  Mantle,  Crust  (Accept in Any Order)
+
+Based on compositional boundaries, name the three different layers that make up the structure of the solid portion of the planet Earth?
+
+----
+num: 7
+category: General Science
+difficulty: HS
+seen: 33
+answer: To Contain and to Deliver
+
+What do the abbreviations TC and TD stand for that are seen on some laboratory pipettes?
+
+----
+num: 7
+category: General Science
+difficulty: HS
+seen: 30
+answer: Lambda
+
+What Greek letter is used to symbolize wavelength?
+
+----
+num: 8
+category: Computer Science
+difficulty: HS
+seen: 63
+answer: 21
+(Solution:  1 + 4 + 16 = 21)
+
+The binary number 10101 (read as: one, zero, one, zero, one) is equivalent to what decimal number?
+
+----
+num: 9
+category: Biology
+difficulty: HS
+seen: 38
+answer: Transpiration
+
+What is the most common scientific term for plant water loss through stomata:
+
+----
+num: 9
+category: Biology
+difficulty: HS
+seen: 40
+answer: O, A, B, and Ab  (Accept in Any Order)
+
+What are the four main human blood types?
+
+----
+num: 10
+category: Chemistry
+difficulty: HS
+seen: 35
+answer: Octet Rule
+
+What is the rule that states that main-group elements tend to undergo reactions that leave them with 8 outer-shell electrons?
+
+----
+num: 11
+category: Physics
+difficulty: HS
+fixed: -1
+seen: 27
+answer: 0.1  (Accept:  One-Tenth)
+
+How many nanometers are in an angstrom?
+
+----
+num: 11
+category: Physics
+difficulty: HS
+seen: 26
+answer: 1/2
+
+For a perfectly spherica l planet of uniform de nsity, the gravitational acceleration at a point half way to the surface from its center will be what fraction of the gravitational acceleration at the surface?
+
+----
+num: 12
+category: Astronomy
+difficulty: HS
+seen: 54
+answer: Neptune
+
+What planet is the most distant gas giant from the sun?
+
+----
+num: 13
+category: Math
+difficulty: HS
+seen: 26
+answer: 4
+
+What is the remainder of (148 + 10) / 7 ?
+
+----
+num: 13
+category: Math
+difficulty: HS
+fixed: -1
+seen: 25
+answer: 63
+
+If y varies directly as x, and y = 42 when x = 30, find y if x = 45:
+
+----
+num: 15
+category: General Science
+difficulty: HS
+seen: 31
+answer: -260
+
+Rounded to the nearest decimal place, convert 13 Kelvin into degrees Centigrade:
+
+----
+num: 15
+category: General Science
+difficulty: HS
+seen: 29
+answer: 9.5873 × 10 ^3
+
+Express the number 9587.3 in proper scientific notation with the correct amount of significant figures:
+
+----
+num: 16
+category: Computer Science
+difficulty: HS
+seen: 64
+answer: 17
+
+The decimal number 15 is equivalent to what octal number?
+
+----
+num: 17
+category: Biology
+difficulty: HS
+seen: 38
+answer: Leaf  (Accept:  Leaves) ^
+
+The spines of cacti are a modifi cation of what plant structure?
+
+----
+num: 17
+category: Biology
+difficulty: HS
+seen: 39
+answer: Catabolism
+
+What is the most common biochemical term for the degradative phases of metabolism?
+
+----
+num: 18
+category: Chemistry
+difficulty: HS
+fixed: -1
+seen: 34
+answer: Atomic Mass
+
+In the periodic table, what name is given to the number representing the total of a given element’s protons and neutrons?
+
+----
+num: 18
+category: Chemistry
+difficulty: HS
+seen: 34
+answer: Polar Covalent Bond
+
+What is the general term fo r a bond in which the shared bonding electrons are attracted somewhat more st rongly by one atom than the other?
+
+----
+num: 19
+category: Physics
+difficulty: HS
+seen: 25
+answer: A Secondary Color
+
+In additive color synthesis, what do equal proportions of two primary colors create?
+
+----
+num: 19
+category: Physics
+difficulty: HS
+seen: 25
+answer: 2
+
+If the speed of a charged particle is doubled while it is moving in a circular orbit in a uniform magnetic field, by what mu ltiple will the orbital radius increase?
+
+----
+num: 20
+category: Astronomy
+difficulty: HS
+seen: 53
+answer: Io
+
+Which of the Galilean moons orbiting Jupiter is the most geologically active object in the en tire solar system, commonly referre d to as the “pizza moon,” and has the longest diameter of 3,630 kilometers?
+
+----
+num: 20
+category: Astronomy
+difficulty: HS
+seen: 53
+answer: Mars
+
+The Tharsis bulge is the majo r geological feature of what planet?
+
+----
+num: 21
+category: Math
+difficulty: HS
+seen: 26
+answer: 3  (Accept:  3.03)
+
+The price of a postage stamp changes from 33 cents to 34 cents. What is the percent increase in price?
+
+----
+num: 21
+category: Math
+difficulty: HS
+fixed: -1
+seen: 25
+answer: $150.00
+
+After a 20% increase, the new price of a tennis racket is $180.00. What was the original pr ice of the racket?
+
+----
+num: 23
+category: Biology
+difficulty: HS
+seen: 39
+answer: Alcohol
+
+To prepare a tincture of iodine th e iodine is mixed in what general type of solvent?
+
+----
+num: 23
+category: Biology
+difficulty: HS
+seen: 40
+answer: Anton Van Leeuwen Hoek  (Accept:  Leeuwenhoek)
+
+What person, in 1676, reported to the Royal Society of London the first known observations of protozoans?
+
+----
+num: 24
+category: Chemistry
+difficulty: HS
+seen: 35
+answer: Antimony
+
+What is the name of the element with the symbol Sb?
+
+----
+num: 24
+category: Chemistry
+difficulty: HS
+fixed: -1
+seen: 34
+answer: Cesium  (Accept:  Cs)
+
+Which element has the lowest ionization energy of all stable neutral atoms?
+
+----
+num: 25
+category: Physics
+difficulty: HS
+seen: 25
+answer: Red, Green, and Blue
+
+According to the typical color tria ngle, what are the three primary colors of light?
+
+----
+num: 25
+category: Physics
+difficulty: HS
+seen: 26
+answer: Pauli Exclusion Principle  (Accept:  Exclusion Principle)
+
+That no two electrons in an atom can have an identical set of quantum numbers is best known as what principle?

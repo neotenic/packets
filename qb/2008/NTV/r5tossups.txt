@@ -1,0 +1,164 @@
+####
+tournament: NTV
+round: r5tossups.pdf
+year: 2008
+####
+
+num: 1
+category: Science
+difficulty: HS
+fixed: 57
+seen: 494
+answer: {precession}
+
+(JG) This effect resulted in erroneous ordering of Flamsteed designations for some stars. Menelaus of Alexandria also made some measurements of this effect among stars, and the Poinsot [pwan SAHT] ellip- soid can be used to visualize this. Applied to orbits, this effect causes the Laplace-Runge-Lenz [lah- PLASS RUN-jee LENZ] vector to rotate, and types of it include Larmor, De Sitter, and Lense-Thirring. Mercury's is observable and was explained by Albert Einstein. On Earth, the torque-induced type applies to gyroscopes, and it can also be torque-free. Identify this effect by which rotating objects have their axis direction changed, often applied to spinning tops.
+
+----
+num: 2
+category: History
+difficulty: HS
+fixed: 57
+seen: 418
+answer: Council of {Trent}
+
+(AS) Pope Paul III was the first to propose this meeting as a way to deal with the spread of Protestant- ism through northern Germany. Its beginning was delayed by hostilities between Holy Roman Emperor Charles V, France, and the Turks. When it convened, there was some hope of finding common ground be- tween the two groups. By the end, however, the Jesuits had gained control of the meeting, and the decrees issued included the reaffirmation of the seven sacraments and the institution of Latin as the official lan- guage for Mass. Identify this 1545 event in European religious history that sparked the Counter- Reformation.
+
+----
+num: 4
+category: Science
+difficulty: HS
+fixed: 57
+seen: 490
+answer: {hail}
+
+(RS) This phenomenon occurs mostly in the summer, especially at high altitudes. Its effects vary in size from about five millimeters up to one hundred seventy millimeters in diameter and are either aggre- gates of smaller objects or concentric layers of frozen condensate around a central nucleation site. Usually roughly spherical and sometimes pellet shaped, these objects form in cumulonimbus clouds with strong updrafts that form the front of a moving thunderstorm. If large enough, they can damage cars and even cause head trauma. Identify this type of ice precipitation.
+
+----
+num: 5
+category: History
+difficulty: HS
+fixed: 1
+seen: 413
+answer: Robert Strange {McNamara}
+
+(JG) After World War II, he and a group of Air Force buddies went to work for Ford Motor Company. He had been commissioned by the Air Force due to work he did in England following a professorship at Harvard. By the end of his eleven years at Ford, he had risen to president, but in 1960 he left to work in the realm for which he is most known. He wrote several books, including The Essence of Security and Out of the Cold. With the federal government, he declined a post as Secretary of the Treasury, instead taking another job where he approached foreign policy with his trademark rationalism. He was noted for his failed attempts to run the Pentagon like a business, and he was largely behind the Vietnam War. Identify this Secretary of Defense under presidents Kennedy and Johnson.
+
+----
+num: 7
+category: Literature
+difficulty: HS
+fixed: 57
+seen: 444
+answer: Carl {Sandburg}
+
+(DR) This poet once wrote, "I am the grass. Let me work." One of his poems points out that Edvard Grieg does not care about his critics now that he is dead. His only novel, over one thousand pages and published when he was seventy, was Remembrance Rock. A collector of folk songs and writer of chil- dren's stories, some of his poetry collections were titled Slabs of the Sunburnt West, Cornhuskers, and Smoke and Steel. Name this writer from Galesburg, Illinois who wrote the poems "Gypsy", "Fog", and "Chicago".
+
+----
+num: 8
+category: Literature
+difficulty: HS
+fixed: 57
+seen: 445
+answer: {epistolary}
+
+(DR) This adjective applies to Up the Down Staircase, Humphry Clinker, Dangerous Liaisons, Poor Folk, The Moonstone, The Sorrows of Young Werther, Pamela, and The Color Purple. It is also used to described much of the New Testament. Though it generally refers to works written as a series of docu- ments, it usually refers to works that are collections of letters. Name this adjective beginning with the let- ter E.
+
+----
+num: 9
+category: Fine Arts
+difficulty: HS
+fixed: 1
+seen: 495
+answer: Gustav {Mahler}
+
+(MS) One cycle by this person contains the pieces "Where the Beautiful Trumpets are Blowing" and "Antony of Padua's Sermon to the Fish" and is entitled after a collection of folk poetry. A second cycle by this artist sets poems of Friedrich Rückert and probably commemorates a brother named Ernst. A third of this musician's song cycles was inspired by Bethge's translations of Li Po and other Chinese poets and is in effect a ninth symphony. In addition to Das Knaben Wunderhorn, Kindertotenlieder, and Das Lied van der Ehrd, this composer is noted for an eighth symphony consisting of settings of "Veni, Creator Spiritus" and Goethe's Faust. Name this composer of the Symphony of a Thousand, an Austrian Jew.
+
+----
+num: 10
+category: Literature
+difficulty: HS
+fixed: 57
+seen: 446
+answer: Utopia
+
+(DR) The main characters in this novel are the author, his friend in real life, and a fictional philoso- pher. It is set in Antwerp, though much of it consists of the philosopher describing his travels around the world. The philosopher has been to a place that used to be called Abraxa that was connected to a mainland until its inhabitants destroyed an isthmus. All of its residents do farm work in addition to an- other job, and there is no private property. Name this novel whose title literally means "nowhere", com- pleted in 1516 by Thomas More.
+
+----
+num: 11
+category: Science
+difficulty: HS
+fixed: 57
+seen: 487
+answer: {cyclohexane}
+
+(JG) It can be used as an azeotroping [AY zee oh trohp ing] agent to purify isopropyl alcohol, and its oxidation can produce adipic [uh DIP ihk] acid. The most common process to produce it involves the hy- drogenation of benzene, and its major industrial application is in the production of nylon. It has a slight sweet odor and is almost insoluble in water. Its boat conformation is less stable than its chair conforma- tion. Name this common nonpolar solvent, a alicyclic [al ih SIHK lihk] hydrocarbon with chemical for- mula C6 H12.
+
+----
+num: 12
+category: Trash
+difficulty: HS
+fixed: 1
+seen: 1011
+answer: The Bridge on the {River Kwai} (accept no substitutions for "on")
+
+(RS) In this movie, William Holden portrays Commander Shears, who uses bribery to avoid hard la- bor. Early in the movie, there is a significant conflict involving Colonel Nicholson, who eventually earns the respect of his adversary, Colonel Saito. Among the historical inaccuracies in this World War II film is that there were in fact two of the title structures, and neither one was destroyed by commandos. In fact, one of them still stands about three miles from the border with Thailand. Name this film starring Alec Guinness that won the Oscar for Best Picture in 1957.
+
+----
+num: 14
+category: Geography
+difficulty: HS
+fixed: 1
+seen: 714
+answer: Iceland
+
+(RS) The powerful waterfall Dettifoss is located here, and some of its cities are Keflavik, Husavik, and Vik. Its volcanoes include Hekla and Eldfell, and it also contains several geysers. Its only native mammal is the arctic fox. This island nation's parliament was founded in 930. Name this island nation whose parliament is known as the Althing and whose capital is Reykjavik [RAYK yah vihk].
+
+----
+num: 15
+category: History
+difficulty: HS
+fixed: 57
+seen: 419
+answer: Emperor {Diocletian}
+
+(AS) After a lightning bolt killed the Emperor Carus, this son of a scribe and imperial cavalry com- mander wasted no time mustering his legions and seizing power. He revitalized the Roman Empire by fighting off outside invaders and improving the legal system. His twenty-one-year reign brought needed political stability after the period before his saw fifty emperors rise and fall in roughly fifty years. He is best known for dividing the empire into a four-part, power-sharing Tetrarchy. Name this Roman emperor, whose doubling of the number of Roman provinces has given him a lasting place in the English language as the root of a word that refers to the territory of a Catholic bishop.
+
+----
+num: 16
+category: Science
+difficulty: HS
+fixed: 1
+seen: 491
+answer: Donald Ervin {Knuth} [{kah NOOTH}]
+
+(JG) He is responsible for a system of mathematical notation to easily write repeated exponentiation, his namesake up-arrow notation. His vector font language defines characters in terms of Bézier [BEH zee ay] curves; that language is Metafont. This man's uncompleted masterwork on algorithms was started in 1968 and is currently on the fourth of seven volumes. He developed a typesetting system particularly geared to technical work specifically for that set of reference books. He used to offer one hexadecimal dollar, or two dollars and fifty-six cents, for finding errors in it. The typesetting system, TeX [TECH], has version numbers that approach pi. Name this Stanford computer scientist who wrote The Art of Computer Programming.
+
+----
+num: 17
+category: Fine Arts
+difficulty: HS
+fixed: -1
+seen: 499
+answer: {buttresses}
+
+(JG) One type of this is also called an arc-boutant and became popular in the 1100s. The general term refers to structures that fulfill the same broad role as a corbel. These structures date back to Mesopota- mian temples and were also used by the Byzantines, but are most associated with a French and German style of architecture that also featured ribbed vaults and was revived in 19th century England. They origi- nally compensated for insufficient roof support and also serve a decorative purpose. Name these struc- tures found mostly on the sides of buildings of the Gothic style, that come in clasping, setback, and flying varieties, perhaps most notably found on the Notre Dame cathedral.
+
+----
+num: 18
+category: Trash
+difficulty: HS
+fixed: 57
+seen: 762
+answer: Queen
+
+(RS) This English rock band was formed in 1970 in London from the remains of Smile. This band's first two albums are self-titled, but their third is called Sheer Heart Attack. The last album before the most prominent member of the band, Freddie Mercury, died in 1991 was "Innuendo". One of their songs was parodied by Weird Al Yankovic as "Another One Rides The Bus". Name this band famous for hits like "We Are The Champions" and "Bohemian Rhapsody".
+
+----
+num: 19
+category: Science
+difficulty: HS
+fixed: 1
+seen: 484
+answer: Carl {Woese}
+
+(HT) Labeled by the journal Science as "Microbiology's Scarred Revolutionary," this scientist called for a less reductionist approach to biology and "A New Biology for a New Century." His work creating a taxonomy of 16s ribosomal RNA led him to formulate some of his most important theories. In addition to his most famous contribution to the world of biology, this man postulated the "RNA world" theory con- cerning the origins of life on Earth. Identify this American microbiologist who suggested a taxonomic system based on not two, but rather three domains.

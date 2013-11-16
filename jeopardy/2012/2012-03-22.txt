@@ -1,0 +1,357 @@
+####
+tournament: #6339
+round: Show #6339 - Thursday, March 22, 2012
+year: 2012
+date: 2012-03-22
+####
+
+num: 1
+category: Science
+difficulty: 200
+seen: 8
+answer: defibrillator
+
+In the event of SCA (Sudden Cardiac Arrest), a life can be saved by an AED (an Automated External one of these devices).
+
+----
+num: 2
+category: History
+difficulty: 200
+fixed: 1
+seen: 5
+answer: {8} hrs
+
+On Aug. 20, 1866 the National Labor Union was ahead of its time when it asked Congress to make the workday this long.
+
+----
+num: 3
+category: Literature
+difficulty: 200
+seen: 4
+answer: gunfight at the O.K. Corral (shootout ... accepted)
+
+Of this incident, Wyatt Earp remarked, "were it to be done again, I would do it exactly as I did it at the time".
+
+----
+num: 4
+category: Literature
+difficulty: 200
+seen: 5
+answer: birdwatching
+
+A life list (which might include auks) & binoculars are used in this hobby.
+
+----
+num: 5
+category: Literature
+difficulty: 200
+seen: 4
+answer: the rough
+
+Tall grass area on a golf course.
+
+----
+num: 6
+category: Science
+difficulty: 400
+seen: 6
+answer: dose
+
+In reference to medication, ED stands for "effective" this.
+
+----
+num: 7
+category: History
+difficulty: 400
+seen: 4
+answer: 3 hrs
+
+Lance Armstrong ran his first marathon with the goal of finishing under this time; he made it by 24 seconds.
+
+----
+num: 8
+category: Literature
+difficulty: 400
+seen: 4
+answer: Frank James
+
+Jesse's brother, he said outlaw life was "one long, anxious, inexorable, eternal vigil".
+
+----
+num: 9
+category: Literature
+difficulty: 400
+seen: 4
+answer: marionettes or string puppets
+
+In the 18th century, these figures were used to perform entire operas.
+
+----
+num: 10
+category: Literature
+difficulty: 400
+seen: 4
+answer: boughs
+
+Deck the halls with these of holly.
+
+----
+num: 11
+category: Science
+difficulty: 600
+seen: 6
+answer: the aorta
+
+To a cardiologist, AO can be short for this blood vessel.
+
+----
+num: 12
+category: Literature
+difficulty: 600
+seen: 4
+answer: (Wild Bill) Hickock
+
+A Topeka paper said this "wild" gunfighter should be thanked for "the safety of life and property at Abilene".
+
+----
+num: 13
+category: Literature
+difficulty: 600
+seen: 4
+answer: scuba diving
+
+The sport of this dates from 1943, when it was also called aqua-lung.
+
+----
+num: 14
+category: Literature
+difficulty: 600
+seen: 4
+answer: dough
+
+Pre-bun or pre-loaf stage.
+
+----
+num: 15
+category: History
+difficulty: 800
+seen: 3
+answer: food trucks
+
+Meals on wheels, indeed! Teams competed in a coast-to-coast culinary battle in a great race of these.
+
+----
+num: 16
+category: Science
+difficulty: 800
+seen: 6
+answer: a beta-blocker
+
+BB is short for this type of drug that is used to treat angina.
+
+----
+num: 17
+category: Literature
+difficulty: 800
+seen: 5
+answer: Billy the Kid
+
+After killing this outlaw, Pat Garrett wrote a book to "correct the thousand false statements" in the press.
+
+----
+num: 18
+category: Literature
+difficulty: 800
+seen: 4
+answer: reenactors
+
+Add 4 letters to "actors" to get these military devotees, like inauthentic farbs & obsessive stitch counters.
+
+----
+num: 19
+category: Science
+difficulty: 1000
+seen: 7
+answer: temperature, pulse and respiration
+
+TPR stands for these 3 vital signs.
+
+----
+num: 20
+category: Literature
+difficulty: 1000
+seen: 4
+answer: Judge Roy Bean
+
+This West Texas judge said, "I know the law...I am its greatest transgressor".
+
+----
+num: 21
+category: Literature
+difficulty: 1000
+seen: 4
+answer: flowers
+
+Ikebana is the Japanese art of creating arrangements made from these.
+
+----
+num: 22
+category: Literature
+difficulty: 1000
+seen: 3
+answer: a trough
+
+A long, narrow area of atmospheric low pressure.
+
+----
+num: 23
+category: Literature
+difficulty: 400
+seen: 4
+answer: checkmate
+
+This winning declaration in a chess game is from the Arabic for "the king is dead".
+
+----
+num: 24
+category: Science
+difficulty: 400
+seen: 5
+answer: a cylinder
+
+Let's measure the volume of our new potion with the glass column called a graduated this shape.
+
+----
+num: 25
+category: Art
+difficulty: 400
+seen: 4
+answer: (Frida) Kahlo
+
+In 1949 she painted "Diego and I", a portrait of herself with her husband's image appearing on her forehead.
+
+----
+num: 26
+category: Literature
+difficulty: 800
+seen: 3
+answer: a speakeasy
+
+A place where alcohol was served illegally during prohibition, so named because its customers talked discreetly.
+
+----
+num: 27
+category: Art
+difficulty: 800
+seen: 4
+answer: (James) Whistler
+
+Don't tell his mother, but his "Arrangement in Grey" self-portrait from 1872 is seen.
+
+----
+num: 28
+category: History
+difficulty: 1200
+seen: 5
+answer: Herodotus
+
+This first great Greek historian did some field work, traveling to Egypt & the Black Sea.
+
+----
+num: 29
+category: Literature
+difficulty: 1200
+seen: 4
+answer: snapdragons
+
+They're the botanic beasts seen.
+
+----
+num: 30
+category: Science
+difficulty: 1200
+seen: 5
+answer: distillation
+
+The "fractional" type of this evaporation process further separates liquids based on their boiling points.
+
+----
+num: 31
+category: Art
+difficulty: 1200
+seen: 4
+answer: (Claude) Monet
+
+He painted Camille "in the Meadow", "in the Garden at Argenteuil" & "on her Deathbed".
+
+----
+num: 32
+category: History
+difficulty: 1200
+seen: 4
+answer: Athens
+
+I'm on the island of Euboea.
+
+----
+num: 33
+category: History
+difficulty: 1600
+seen: 4
+answer: Arthur Schlesinger, Jr.
+
+The son of a historian, he co-founded Americans for Democratic Action & served in JFK's administration.
+
+----
+num: 34
+category: Art
+difficulty: 1600
+seen: 5
+answer: (Toulouse-)Lautrec
+
+His poster "Moulin Rouge" featured dancer La Goulue & her partner.
+
+----
+num: 35
+category: History
+difficulty: 2000
+seen: 6
+answer: Stephen Ambrose
+
+This Eisenhower biographer founded the National D-Day Museum in New Orleans.
+
+----
+num: 36
+category: Literature
+difficulty: 2000
+seen: 5
+answer: Edward de Vere
+
+"Anonymous" posits that this Earl of Oxford is the real author of Shakespeare's plays.
+
+----
+num: 37
+category: Literature
+difficulty: 2000
+seen: 5
+answer: a whirlwind
+
+In the Bible, "there appeared a chariot of fire, and horses of fire... and Elijah went up by" one of these "into heaven".
+
+----
+num: 38
+category: Art
+difficulty: 2000
+seen: 5
+answer: van Dyck
+
+Get in the van & name this Flemish artist whose portrait of 5 children of Charles I hangs in Windsor Castle.
+
+----
+num: 39
+category: History
+difficulty: 2000
+seen: 5
+answer: Caracas
+
+I'm in Maracaibo.

@@ -1,0 +1,214 @@
+####
+tournament: Chicago Open
+round: Packet 04 - Ragged Dick and the Algerian Heroes.doc
+year: 2009
+####
+
+num: 1
+category: Literature
+difficulty: Open
+fixed: None
+seen: 35
+answer: {Astrophel} and {Stella}
+
+According to Jonathan Crewe, the sparrow called "Syr Phip" in one section of this work stands for the poet himself. Penny McCarthy's book Pseudonymous Shakespeare argues that this work's lines "Listen then, lordings, with good ear to me/ for of my life I must a riddle tell" refer to Chaucer's tale of Sir Thopas, and allude to a forbidden relationship this work hides behind a poetic "screen." The speaker of the second poem in this work compares himself to a "slave-born Muscovite" enchained by love and laments "with a feeling skill, I paint my hell." Its twenty-fourth poem's reference to a (*) "rich foole" and its thirty-seventh poem's repetition of the word "rich" are commonly thought to allude to the identify of its central female character. After being rejected by that character, the speaker of this sonnet sequence exclaims "With how sad steps, O moon, thou climb'st the skies!" Probably about the poet's relationship with Penelope Rich, for 10 points, identify this sequence of one hundred and eight sonnets whose title characters have names meaning "star-lover" and "star," written by Philip Sidney.
+
+----
+num: 2
+category: Science
+difficulty: Open
+fixed: None
+seen: 46
+answer: A* [{pronounced} “{A}-{star}”]
+
+A type of ant colony optimization based on this algorithm has been applied by Gan et al to provide partial and negative outcome solutions to combinatorial auction maximization dilemmas. The ALPH variant of this algorithm is more adaptive and better at breaking ties than the original. Another modification has improved accuracy and is often used in AI known as the Iterative Deepening variant. The Lifelong Planning version is useful when costs are constantly changing (*) but requires a large amount of memory, while the Beam Search limits the size of its open search but requires the set to be sorted. It employs a priority queue known as the open set, and combines both a heuristic function and a cost function to balance path-finding considerations. If the heuristic function is zero, this algorithm degenerates into Dijkstra's algorithm. First developed by Peter Hart, Nils Nilsson, and Bertram Raphael, for ten points, name this best-first graph search algorithm which seeks the least-cost path to one of several goal nodes.
+
+----
+num: 3
+category: History
+difficulty: Open
+fixed: None
+seen: 46
+answer: {False Dimitry} I [accept anything {labelling him} the first {man} to {pretend} to be {Dmitriy}; accept {Grigory Otripyev}]
+
+Strong supporters of this ruler included V. Scschelkatov and P. F. Basmanov, and he caused a scandal when he elevated members of the low-born Nagoy family to the Boyars Council. This ruler called a Zemsky Sobor to pass a Bill of Attainder against one of his rivals for power, which was the first Zemsky Sobor in which the third estate elected their representatives, and he re-established the tradition of Yuri's Day, on which serfs could change masters. Another scandal during his reign occurred when his wife, Marina Mniszech, refused to (*) convert to the Orthodox, sparking rumors that this Tsar wanted to make Russia Catholic, and that he was an agent of King Sigismund III Vasa of Poland. This led to his defenestration by the supporters of Vasily Shuisky, who considered him an impostor. For ten points name this man who ruled Russia after Boris Gudenov by pretending to be the son of Ivan the Terrible, the first person to do so.
+
+----
+num: 4
+category: Science
+difficulty: Open
+fixed: None
+seen: 58
+answer: {intelligence} [accept word forms]
+
+P. Guilford broke this concept down intro one hundred and fifty components divided into the axes of operations, concepts, and products. John Carroll's model of this concept divides it into narrow, broad, and general strata, and Robert Sternberg developed a triarchic theory of this concept. Raven's Progressive Matrices measure this concept, whose emotional type was studied by Daniel Goleman. Raymond Cattell divided this concept into fluid and crystallized types, and Charles Spearman defined it as the function g. Steven Jay Gould attacked attempts to encapsulate this concept within a single variable in The Mismeasure of Man, and Howard Gardner argued in favor of multiple ones. For 10 points, name this mental concept measured by the Weschler and Stanford-Binet tests.
+
+----
+num: 5
+category: History
+difficulty: Open
+fixed: None
+seen: 44
+answer: {Carmelites} [accept: Order of the {Brothers} of {Our Lady} of {Mount Carmel}; {Ordo fratrum Beatæ Virginis Mariæ} de {monte Carmelo}]
+
+Early members of this order include St. Albert Avogadro, and one member of this order named Brother Lawrence inspired the work “The Practice of the Presence of God”. The rules of this order refer to a mysterious individual called only “B”, who was later revealed to be St. Bertold, the semi-legendary founder of this order. The titular spirit climbs the ten steps of the ladder of mystical love and reaches union with God in one member of this order's Dark Night of the Soul; that member also wrote a free-verse vernacular retelling of the (*) Song of Solomon named Spiritual Canticle. Another member of this order claimed to have had a vision where an angel pierced her with a spear, and many of its members wear no shoes. For ten points, name this Catholic order that includes St. John of the Cross and Teresa of Avila, noted for their brown clothes.
+
+----
+num: 6
+category: Literature
+difficulty: Open
+fixed: None
+seen: 35
+answer: The {Marble Faun}
+
+In this novel's chapter "Myths," one character describes a legend of a knight whose idyllic love for a water nymph is destroyed when he attempts to wash a bloodstain in her fountain. The expression of another character's face inspires an artist to paint her in the act of discovering a spot of blood on her white robe. That character lives in a tower where she tends a flock of doves and the fire of a shrine to the Virgin Mary. Two characters in this novel are reconciled while meeting at the bronze statue of (*) Julius III in Perugia--one of those characters, the Count de Monte Beni, loses his animal sprightliness and becomes melancholy after throwing a monk off the Tarpeian Rock. This novel ends with Hilda agreeing to marry Kenyon, and begins with American artists comparing a vivacious Italian to a sculpture by Praxiteles. For 10 points, name this novel about a murder committed by Miriam and Donatello in Rome, written by Nathaniel Hawthorne.
+
+----
+num: 7
+category: Trash
+difficulty: Open
+fixed: 57
+seen: 252
+answer: {Ted Mosby} [accept either]
+
+This character returns a blue Toyota Camry hybrid he bought after only a day, and he nearly freezes to death in a car whose broken tape player plays the song “500 Miles” on a loop. This character lost his virginity to a girl who then borrowed 20 bucks and absconded, and he breaks up with a girl known only as “blah blah” because she falls below the “Mendoza line.” The alter-ego of college radio personality Dr. X, this character engages in an unknown sexual escapade involving a pineapple with a character played by Danica McKellar, and he falls in love with a woman who uses the alias “Buttercup” when they meet at a wedding, Victoria. After getting a tramp stamp he meets the dermatologist who later leaves him at the altar, Stella, while he steals a blue French horn to impress Canadian tv reporter Robin Scherbatsky.  Played by Josh Radnor, this architect-turned-professor hangs out at McLaren's with Marshall and Lily Ericsson and a proponent of the “bro code” played by Neil Patrick Harris, Barney Stinson. For 10 points name this protagonist of How I Met Your Mother.
+
+----
+num: 8
+category: Science
+difficulty: Open
+fixed: None
+seen: 57
+answer: {Josephson junction}
+
+Kulik and Omel'yanchuk developed refinements for metallic links in these objects, while thermal fluctuations in these objects can be analyzed with the Ambegaokar-Halperin model, and irradiating one of these devices gives rise to constant voltage Shapiro steps in them. They are characterized by the overdamped and underdamped regimes of the (*) RCSJ model, while semifluxons occur in their zero-pi long variety. Shadow evaporation can be used to create them for flux qubits, and their associated constant is equal to two times e over h, making it the reciprocal of the magnetic flux quantum. The current across one of these devices is equal to the critical current times the sine of the phase difference, while two of these devices are arranged in a superconducting loop in a DC SQUID. For 10 points, name these devices defined by the current flow across a non conducting barrier between two coupled superconductors. 
+
+----
+num: 9
+category: History
+difficulty: Open
+fixed: 57
+seen: 46
+answer: {Barbados}
+
+The first settlers of this colony were led by John Powell, while Errol Barrow led it when it gained independence. James Hay, the Earl of Carlisle, took control of the profits of this colony from William Courten, who had financed its settlement, in an event known as the (*) “Great Robbery” of this colony. The Bayley plantation was home to a 1816 rebellion of slaves here known as the Bussa Rebellion, and it was the first American location that Oloudah Equiano described. Judge Jeffreys of the Bloody Assizes exiled supporters of the Monmouth Rebellion to this colony, and slaves coming from Africa were usually brought here before being shipped to other British colonies. For ten points, name easternmost British colony in the Western Antilles, now a country with capital at Bridgetown.
+
+----
+num: 10
+category: Fine Arts
+difficulty: Open
+fixed: None
+seen: 37
+answer: The {Course} of {Empire}
+
+An epic poem by Robert Pollok provided partial inspiration for this work, which was significantly influenced by Robert Burford's Pandemonium. It was dedicated to its commissioner, Luman Reed, and the “motto” of the artist's program to this work was taken from Childe Harold's Pilgrimage. In one of the paintings in this series, a man can be seen sketching a geometrical problem in the ground on the left while a boy crudely sketches a (*) man with a sword on the right. In another painting in this series, a makeshift bridge strains under the weight of people running across it, while a fountain gushes in the foreground of the third one as a scarlet robed figure crosses a bridge. A megalithic temple appears in the one subtitled, “The Arcadian,” while a cluster of wigwams and a hunter chasing a deer can be seen in the first, “The Savage State.” For 10 points, name this series of paintings about the progress of civilization, a work of Thomas Cole.
+
+----
+num: 11
+category: History
+difficulty: Open
+fixed: None
+seen: 48
+answer: {Payne}-{Aldrich} Tariff
+
+Part of this bill was upheld by the Supreme Court in Flint v. Stone Tracy Co. One author of this bill was nicknamed “The General Manager of the Nation” for his power in the Senate and also sponsored the bill which created the National Monetary Commission. The President who signed this bill praised it in the controversial (*) Winona Speech. The final version of this bill was opposed by a House faction known as the “Insurgents”, whose leaders included George Norris, but it was strongly supported by a faction called the “standpatters”, whose leaders included Mark Hanna and who believed a strong protectionist policy was necessary for Republicans to win. For ten points, name this tariff signed by William Howard Taft, which split the Republicans before the 1912 elections, and which was replaced by the Underwood Tariff.
+
+----
+num: 12
+category: Literature
+difficulty: Open
+fixed: 57
+seen: 34
+answer: {Punjabi}
+
+One form of poetry prominent in this language was developed by Shah Hussain and probably derives its name from Persian for “rhyme scheme.” That form of poetry usually consists of five or seven line verses and is called Kafi. The Sufi influence on literature written in this language can be seen in the works of Bulleh Shah and Sheikh Fareed Shakarganj, the first person to write in this language. One poem in this language asks the author of Heer Ranjha, Waris Shah, to look at his people from his grave and was written by (*) Amrita Pritam.  Like Hindi, this language is derived from Sauraseni Prakrit, and it is written in the Shahmukhi and Gurmukhi scripts. One example of the former is the Mool Mantra seen on the first page of the Adi Granth. For 10 points, name this language of eastern Pakistan and north-western India that is usually associated with Sikhism.
+
+----
+num: 13
+category: Literature
+difficulty: Open
+fixed: None
+seen: 35
+answer: {Jose Rizal}
+
+In 1987, Ambeth Ocampo reconstructed the manuscript of this author's final, unfinished novel. In one of this author's novels, Julî asks the lecherous Father Camorra to help free her boyfriend from prison, only to commit suicide by jumping off a balcony after nearly being raped. The title character of that novel plans an aborted revolution with arms smuggled by the Chinese merchant Quiroga, and gives a lamp containing a secret compartment filled with nitroglycerine to Paulita Gomez and Juanito Pelaez in order to blow up the government officials attending their wedding feast. The pamphlet "Caingat Cayo" warned against reading the novels of this author, whose second novel focuses on the wealthy jeweler Simoun. In another of this author's novels, (*) Father Dámaso excommunicates the idealistic lover of María Clara, Juan Cristosomo Ibarra. For 10 points, name this author who attacked the corruption of Spanish friars ruling his home country in his novels El Filibusterismo and Noli me Tangere, whose death sparked the Phillipine Revolution.
+
+----
+num: 14
+category: Social Science
+difficulty: Open
+fixed: None
+seen: 38
+answer: {Perpetual Peace}: A {Philosophical Sketch}
+
+One appendix to this work discusses the right of heads of state to give the death penalty as long as it is publicly stated ahead of time. Another section in that appendix discusses the role of potentia tremenda in the assumption of oppression. The third section of this work seeks to define hospitality and establishes it as a right of all people based on their common identity as existing on earth, and it defines citizenship by analogy to a more fundamental concept discussed in this essay. The first section of this essay contains a set of conditions by which the title condition could be brought about, including the forgiveness of external debts and a ban on intervention by external powers in the internal affairs of other countries. For ten points, identify this essay by Immanuel Kant which sought to outline the conditions in which war could be eliminated forever.
+
+----
+num: 15
+category: History
+difficulty: Open
+fixed: 1
+seen: 46
+answer: Dom {Pedro I} [accept: {Pedro IV} of {Portugal}; {Pedro} the {Soldier}-{King}; {Pedro o Rei}-{Soldado}]
+
+This leader was encouraged to perform an action by Joaquim Ledo and Jose Clemente Pereira on "stay day." This man dictated the terms of the Peace of Evoramonte after his forces won the Battle of Asseiciera, and he had an affair with Domitila de Castro. This husband of (*) Amelie of Leuchtenberg was criticized in the Sentinella and Tamoyo papers, which were written by supporters of Jose Bonifacio. This man's first marriage was to Maria Leopoldina of Austria, with whom he sired Maria II, who would fight with this man's brother Miguel during the Liberal Wars. Other deeds of this man include making the Cry of Ipiranga, which split the lands of his Braganza dynasty and made his country independent from Portugal. For 10 points, identify this first Emperor of Brazil.
+
+----
+num: 16
+category: Fine Arts
+difficulty: Open
+fixed: None
+seen: 39
+answer: {George Crumb}
+
+This man's works for guitar and percussion include Quest and Mundus Canis. One of this man's works features a chord progression representing the “Music of the Spheres” and features an interlude entitled “Seven Trumpets of the Apocalypse”, which precedes two children's choirs situated at opposite ends of the stage joining to sing the “Hymn for the New Age.” Another work features variations with titles like “Archeozoic” and “Proterozoic”, and this composer of Star Child and Vox Baelaenae was inspired by Garcia Lorca for his books of madrigals as well as his Ancient Voices of Children. One of his works uses water-tuned crystal goblets to create the “God-music” section of the “Return” movement, and that work features two threnodies subtitled “Night of the Electric Insects.” He collected works such as Celestial Mechanics, Music for a Summer Evening, and two sets of 12 Fantasy Pieces after the Zodiac amongst his Makrokosmos works. For 10 points, name this composer of a work for a quartet of instruments amplified “to the threshold of pain”, Black Angels.
+
+----
+num: 17
+category: Science
+difficulty: Open
+fixed: None
+seen: 55
+answer: {phenol} [accept {hydroxylbenzene} until "{hydroxyl};" accept {C6H5OH} until mentioned; prompt on {benzene} until "{sodium salt}"]
+
+The most highly cited paper in bio-science publishing, which was written by O. H. Lowry, characterizes a method which uses a derivative of this compound called Folin's reagent to determine protein concentration. Heating the sodium salt of this compound in high pressure carbon dioxide and subsequently treating the intermediate with sulfuric acid is used to synthesize salicylic acid in the Kolbe-(*) Schmitt method. One industrial method of synthesizing it involves the addition of propylene to yield the intermediate which names the process, and subsequently involves the peroxidation and treatment of that intermediate, cumene, to yield this compound. A defunct method of synthesizing this compound sees the chlorination of its precursor which is then hydrolyzed, regenerating the hydrochloric acid; that process, named for Hooker and Raschig, uses benzene as the starting material. For 10 points, identify this compound which features a hydroxyl group bonded to benzene, with formula C6H5OH.
+
+----
+num: 18
+category: Literature
+difficulty: Open
+fixed: None
+seen: 71
+answer: The {Grouch} [or {Dyskolos}; or The {Bad}-{Tempered Man} or {pretty much} any equivalents]
+
+This play ends with Getas dragging the sleeping protagonist from his house, pounding on his door, and bombarding him with requests to borrow Persian rugs and a bronze wine-bowl. A comic scene in this play occurs when the cook Sikon drags a sheep onstage and attempts to sacrifice it to the shrine of the Nymphs. After Simiche drops a bucket and a mattock into a well, this play's protagonist falls in after them, causing him to adopt his rescuer, Gorgias, as his son. Beginning with a prologue spoken by Pan, this play is set in Phyle, and ends happily with Sostratos being betrothed to Myrrhine, the daughter of the title character, who first appears wishing he owned the head of Medusa so he could turn everyone else into stone. The only fully extant example of its author's New Comedy, for 10 points, name this play by Menander about the ill-tempered farmer Knemon.
+
+----
+num: 19
+category: Mythology
+difficulty: Open
+fixed: 57
+seen: 115
+answer: {werewolf} [accept: {lycanthrope} before mention]
+
+This Navajo equivalent of this kind of person is known as the Mai-cob. Among the Belgians, it is said that these people fear Mountain Ash trees, whose shadow may protect a house from them, while in Haitian tradition they are said to have red eyes. Allegedly, one of them named Hans was executed in Estonia in 1651, and in 1573, Gilles Garnier was executed in France on accusations of being this kind of creature. In eighteenth century France, the Beast of Gevaudan, which killed over a hundred people, was allegedly one of these creatures. For ten points, name this creature which you might encounter under a full moon and slay with a silver bullet. 
+
+----
+num: 20
+category: Science
+difficulty: Open
+fixed: 57
+seen: 54
+answer: {glycogen}
+
+Rhabdomyolysis is seen in patients with Tarui's disease and McArdle's disease because enzymes involved in the biosynthesis of this compound are deficient or dysfunctional. One enzyme which regulates its biosynthesis also appears in the Wnt signalling pathway, wherein that enzyme phosphorylates beta-catenin. Degradation of this molecule does not occur in patients suffering from von (*) Gierke's disease. The degradation of this molecule normally occurs by removal of monomers at its nonreducing ends by a pyridoxal phosphate intermediate. An oxocarbonium intermediate derived from UDP-glucose results in a linear polymer connected by ?-1,4 linkages, while a branching enzyme is required for its ?-1,6 glycosidic bonds. Insulin favors its synthesis while increased glucagon leads to its breakdown. For 10 points, name this polysaccharide used to store glucose in muscle and liver cells.  
+
+----
+num: 21
+category: Literature
+difficulty: Open
+fixed: None
+seen: 33
+answer: {Georges Perec}
+
+This author wrote a mock scientific paper about throwing tomatoes at soprano singers to demonstrate the "yelling reaction." A fictional autobiography by this author intersperses scenes of growing up in Vichy France with stories about a sports-obsessed island off the coast of Tierra del Fuego called W. One of this author's novels is narrated by Serge Valène, and concerns Gaspard Winckler's creation of a group of five hundred jigsaw puzzles that Percival Bartlebooth attempts to solve. In another of this author's novels, Olga Mavrokhordatos dies after discovering the Zahir in the pet fish of Douglas Haig Clifford, who also dies while investigating the disappearance of Anton Vowl. This author used the Knight's Tour to determine the order of chapters in his novel about the inhabitants of the fictional apartment block 11 Rue Simon-Crubellier. For 10 points, name this member of Oulipo who used constraints to write his novels A Void and Life: A User's Manual.

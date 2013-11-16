@@ -1,0 +1,326 @@
+####
+tournament: Question Set C
+round: Round-8C-MS.pdf
+####
+
+num: 1
+category: General Science
+difficulty: MS
+answer: Z)  a Radio Telescope
+
+The giant Arecibo telescope depicted in the movie 
+Contact is:
+W) a gamma ray telescope
+X) an x-ray telescope
+Y) an adaptive optical infrared telescope
+Z) a radio telescope
+
+----
+num: 1
+category: General Science
+difficulty: MS
+answer: Z)  a Solution of Hydrochloric Acid Acts as an Ideal Proton 
+Acceptor
+
+Which of the following is NOT true about solutions:
+W) ethylene glycol, or antifreeze, lowers the freezing point of water in a car radiator
+X) reverse osmosis is used to convert salt water into fresh water 
+Y) the presence of colloidal particles in solution is easily detected by a beam of light
+Z) a solution of hydrochloric acid acts as an ideal proton acceptor
+
+----
+num: 2
+category: Life Science
+difficulty: MS
+seen: 1
+answer: Z)  It Would Lose Water to the Sugar Soluti on and Shrink
+
+Which of the following is the BEST explanation for what would happen to a red blood cell if it were placed in a 25% sugar solution:
+W) it would lose salt to the sugar solution and gain sugar and remain the same size
+X) it would gain salt and swell
+Y) it would lose water to the sugar solution and gain salt and remain the same size
+Z) it would lose water to the sugar solution and shrink
+
+----
+num: 4
+category: Earth Science
+difficulty: MS
+answer: Y)  Eskers
+
+Sinuous ridges of sand and gravel that form beneath the lower end of a glacier in the ablation zone are called:
+W) sandbars
+X) fjords 
+Y) eskers
+Z) dikes
+
+----
+num: 4
+category: Earth Science
+difficulty: MS
+answer: Y)  the Sun’s Influence on Earth’s Tides Is About 2-Times Greater 
+Than the Moon’s Influence
+
+Which of the following is NOT typically true about tides:
+W) a complete tidal day is more than 24 hours long 
+X) tides are influenced by gravitational attractions
+Y) the Sun’s influence on Earth’s tides is about 2-times greater than the Moon’s influence
+Z) each lunar day, some coastlines have 2 high tides and 2 low tides whereas some have only have 1 high tide and 1 low tide
+
+----
+num: 5
+category: Math
+difficulty: MS
+answer: Z)  if a Line Is Parallel to the X-Axis, Its Slope Is 1
+
+Which of the following is NOT true about slopes:
+W) the slope of a line is defined as the ratio of vertical change to horizontal change 
+X) if 2 non-vertical lines are perpendicular, their slopes are negative reciprocals
+Y) parallel lines have the same slope 
+Z) if a line is parallel to the x-axis, its slope is 1
+
+----
+num: 6
+category: General Science
+difficulty: MS
+answer: Z)  Vitamin E Is a Water-Soluble Vitamin
+
+Which of the following is NOT true in nutrition:
+W) poor diet and exercise in youths and adolescents are risk factors for osteoporosis in later life
+X) selenium is considered a trace element
+Y) calcium plays a central role in blood clotting and muscle function
+Z) vitamin E is a water -soluble vitamin
+
+----
+num: 6
+category: General Science
+difficulty: MS
+answer: X)  Fruit
+
+Although bioflavinoids and phytochemicals are not true vitamins, they are commonly sold as a vitamin supplement and are most commonly known for their antioxidant activity. Which of the following is the BEST dietary source for these compounds:
+W) fish
+X) fruit
+Y) meat
+Z) dairy
+
+----
+num: 8
+category: Physical Science
+difficulty: MS
+answer: X)  Positive Hydrogen Ion
+
+Acids are often defined as proton donors. Which of the following is the common form of this proton:
+W) salts
+X) positive hydrogen ion
+Y) positron
+Z) buffer
+
+----
+num: 8
+category: Physical Science
+difficulty: MS
+answer: Y)  the Water Is Vaporizing
+
+Which of the following BEST explains where the bubbles in a boiling pot of water come from:
+W) the water is condensing
+X) hydrogen gas is produced and it rises quickly through the water
+Y) the water is vaporizing
+Z) oxygen from the atmosphere enters the water
+
+----
+num: 9
+category: Earth Science
+difficulty: MS
+answer: Z)  Drumlin
+
+Which of the following is a landform typically formed by glaciers and can be used to determine which way an ancient glacier moved:
+W) dike
+X) pluton
+Y) U-shaped valley
+Z) drumlin
+
+----
+num: 9
+category: Earth Science
+difficulty: MS
+answer: Z)  Polar Easterlies
+
+Which of the following is the global wind system that most influences weather between 60º and 90º north and south latitudes:
+W) tropical easterlies 
+X) prevailing westerlies
+Y) trade winds
+Z) polar e asterlies
+
+----
+num: 11
+category: General Science
+difficulty: MS
+answer: Y)  Long-Range Downwind as Far Away as New England
+
+Coal-burning factory smokestacks in Chicago that release large quantities of pollutants that contribute to acid rain primarily affect which of the following areas:
+W) a regional area within the immediate vicinity of the factory
+X) within about a 1,000 kilometer radius of the factory
+Y) long-range downwind as far away as New England
+Z) most of the U.S. and Canada
+
+----
+num: 11
+category: General Science
+difficulty: MS
+answer: W)  Polymers
+
+Almost all synthetic adhesives are:
+W) polymers
+X) protein based
+Y) ionic bonded non-metals
+Z) covalent-bonded metals
+
+----
+num: 12
+category: Life Science
+difficulty: MS
+seen: 1
+answer: W)  a Catalyst Made of Am Ino Acids
+
+Which of the following is the BEST description of the pr imary function of a protein enzyme:
+W) a catalyst made of amino acids
+X) a string of amino acids added to a sugar to make the sugar stronger
+Y) to store genetic information 
+Z) as a short term form of energy storage
+
+----
+num: 12
+category: Life Science
+difficulty: MS
+seen: 1
+answer: Y)  Most of the Eye Is Filled With a Liquid Called the Aqueous 
+Humor
+
+Which of the following is NOT true about the human eye:
+W) the cornea acts as a lens with a fixed shape 
+X) images that are formed on the retina are inverted 
+Y) most of the eye is filled with a liquid called the aqueous humor
+Z) vitamin A is important for light absorbing molecules critical in vision
+
+----
+num: 13
+category: Physical Science
+difficulty: MS
+answer: W)  Kinetic Energy
+
+Which of the following must increase for the particles in a closed container of a constant volume if the tem perature in the container increases:
+W) kinetic energy
+X) heat of fusion
+Y) total mass
+Z) mechanical energy
+
+----
+num: 14
+category: Earth Science
+difficulty: MS
+answer: X)  Foucault Pendulum
+
+Which of the following is a simple device that can be used to show that the Earth rotates on its axis:
+W) the astrolabe
+X) Foucault Pendulum
+Y) gnomon
+Z) an interferometer
+
+----
+num: 14
+category: Earth Science
+difficulty: MS
+answer: W)  Volcanic Glass Results When Magma Cools Very Slowly
+
+Which of the following is NOT true about magma:
+W) volcanic glass results when magma cools very slowly
+X) fluid basaltic magma typically produces the least pyroclastic material
+Y) granitic magma contains more silica and water than basaltic magma
+Z) andesitic magma is dominant in volcanoes around the Pacific Ocean Basin
+
+----
+num: 16
+category: General Science
+difficulty: MS
+answer: Y)  Iron Plays a Central Role in the Chlorophyll Molecule
+(Solution:  Magnesium in Chlorophyll, Iron in Hemoglobin)
+
+Which of the following is NOT true:
+W) when diluting strong acids, it is safer to pour the acid into the water 
+X) carbon monoxide is a poisonous gas
+Y) iron plays a central role in the chlorophyll molecule
+Z) the pH of soapy water is basic
+
+----
+num: 16
+category: General Science
+difficulty: MS
+answer: Y)  Hepatitis C
+
+Which of the following diseases is LEAST likely to respond to antibiotics:
+W) pertussis or whooping cough
+X) tetanus
+Y) hepatitis C
+Z) strep throat
+
+----
+num: 17
+category: Life Science
+difficulty: MS
+seen: 1
+answer: W)  It Is Stable and Accumulates in Animals as It Moves Up the 
+Food Chain
+
+Which of the following is the BEST explanation of why 
+DDT was such a problem for raptors:
+W) it is stable and accumulates in animals as it moves up the food chain
+X) it causes extreme light sensitivity and since raptors have no eye lids it causes them to go blind quickly
+Y) it is highly concentrated in the kidneys of mice which are a main food source of most raptors
+Z) raptors are extremely sensitive to very low doses of DDT and it causes immediate death on exposure
+
+----
+num: 19
+category: Earth Science
+difficulty: MS
+answer: Z)  Oxbow L Ake
+
+Meandering streams are most commonly noted to form which of the following specific bodies of water:
+W) high mountain stagnant pond
+X) fen
+Y) bog
+Z) oxbow lake
+
+----
+num: 19
+category: Earth Science
+difficulty: MS
+answer: X)  the Spinning of Earth’s Outer Core
+
+Which of the following is believed to create Earth’s magnetic field:
+W) the tilt in Earth’s axis rocking Earth’s inner core
+X) the spinning of Earth’s outer core
+Y) the Coriolis effect
+Z) how fast the Earth revolves around the Sun
+
+----
+num: 21
+category: General Science
+difficulty: MS
+answer: X)  Ph
+
+Buffers in biological fluids primarily work to resist changes in:
+W) temperature
+X) pH
+Y) toxins
+Z) osmotic pressure
+
+----
+num: 24
+category: Earth Science
+difficulty: MS
+answer: Y)  Mid-Ocean Ridge
+
+Which of the following types of sea floor is the youngest:
+W) abyssal plain
+X) abyssal hill
+Y) mid-ocean ridge
+Z) continental shelf

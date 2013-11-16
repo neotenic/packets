@@ -1,0 +1,342 @@
+####
+tournament: Sample Questions
+round: sample_questions_r5.pdf
+####
+
+num: 3
+category: Math
+difficulty: MS
+fixed: -1
+seen: 7
+answer: 24
+(Solution:  a = 1/2bh)
+
+Find the area of a triangle whose base is 8 and whose height is 6:
+
+----
+num: 3
+category: Math
+difficulty: MS
+fixed: -1
+seen: 6
+answer: 24
+(Solution:  a = 1/2bh)
+
+Find the area of a triangle whose base is 8 and whose height is 6:
+
+----
+num: 8
+category: Life Science
+difficulty: MS
+seen: 12
+answer: Natural Selection
+
+What is the term used by Charles Darwin that he believed was the principle m echanism of evolution and way th at nature chose certain members of a population to survive over others?
+
+----
+num: 8
+category: Life Science
+difficulty: MS
+seen: 9
+answer: Natural Selection
+
+What is the term used by Charles Darwin that he believed was the principle m echanism of evolution and way th at nature chose certain members of a population to survive over others?
+
+----
+num: 9
+category: General Science
+difficulty: MS
+seen: 6
+answer: Alpha, Beta,  Gamma, Delta, Epsilon
+
+In order from the beginning, what are the first 5 letters of the Greek alphabet?
+
+----
+num: 9
+category: General Science
+difficulty: MS
+seen: 6
+answer: -40
+
+Rounded to the nearest whole num ber, what is the tem perature in Fahrenheit of a substance at -40°C ?
+
+----
+num: 9
+category: General Science
+difficulty: MS
+fixed: -1
+seen: 6
+answer: Alpha, Beta,  Gamma, Delta, Epsilon
+
+In order from the beginning, what are the first 5 letters of the Greek alphabet?
+
+----
+num: 9
+category: General Science
+difficulty: MS
+seen: 6
+answer: -40
+
+Rounded to the nearest whole num ber, what is the tem perature in Fahrenheit of a substance at -40°C ?
+
+----
+num: 12
+category: Earth Science
+difficulty: MS
+seen: 8
+answer: Isobars
+
+Lines on a weather m ap connecting places of equal air pressure are called:
+
+----
+num: 12
+category: Earth Science
+difficulty: MS
+seen: 9
+answer: Isobars
+
+Lines on a weather m ap connecting places of equal air pressure are called:
+
+----
+num: 13
+category: Life Science
+difficulty: MS
+seen: 10
+answer: Aorta
+
+What main artery carri es oxygenated blood imm ediately away from left ventricle of the heart?
+
+----
+num: 13
+category: Life Science
+difficulty: MS
+seen: 11
+answer: Aorta
+
+What main artery carri es oxygenated blood imm ediately away from left ventricle of the heart?
+
+----
+num: 15
+category: Math
+difficulty: MS
+fixed: -1
+seen: 6
+answer: -1
+
+Solve the following equation: -4 + x = -5
+
+----
+num: 15
+category: Math
+difficulty: MS
+fixed: 1
+seen: 6
+answer: {68} (Solution: M Ean or Average Is 62.6 ; Median Is Middle, Not Average)
+
+Give the median for the following data set: 32, 59, 68, 70, 84
+
+----
+num: 15
+category: Math
+difficulty: MS
+fixed: -1
+seen: 6
+answer: -1
+
+Solve the following equation: -4 + x = -5
+
+----
+num: 15
+category: Math
+difficulty: MS
+seen: 6
+answer: 68
+(Solution:  M Ean or Average Is 62.6 ; Median Is Middle, Not Average)
+
+Give the median for the following data set: 32, 59, 68, 70, 84
+
+----
+num: 16
+category: Earth Science
+difficulty: MS
+seen: 7
+answer: Tropopause
+
+What is the name of the boundary between the troposphere and the stratosphere?
+
+----
+num: 16
+category: Earth Science
+difficulty: MS
+seen: 7
+answer: Tropopause
+
+What is the name of the boundary between the troposphere and the stratosphere?
+
+----
+num: 19
+category: Earth Science
+difficulty: MS
+seen: 8
+answer: Diamond
+
+With a Mohs’ hardness of 10, what is the hardest m ineral known?
+
+----
+num: 19
+category: Earth Science
+difficulty: MS
+seen: 7
+answer: Stratosphere
+
+Most of the ozone in the Earth’s atm osphere is present in which layer?
+
+----
+num: 19
+category: Earth Science
+difficulty: MS
+seen: 8
+answer: Diamond
+
+With a Mohs’ hardness of 10, what is the hardest m ineral known?
+
+----
+num: 19
+category: Earth Science
+difficulty: MS
+seen: 8
+answer: Stratosphere
+
+Most of the ozone in the Earth’s atm osphere is present in which layer?
+
+----
+num: 21
+category: General Science
+difficulty: MS
+seen: 6
+answer: Prions
+
+What is the term used for the unusual infectious agents that cause m ad cow disease?
+
+----
+num: 21
+category: General Science
+difficulty: MS
+seen: 5
+answer: Peanut
+
+George Washington Carver found over 100 uses for the organic molecules derived from what common plant?
+
+----
+num: 21
+category: General Science
+difficulty: MS
+seen: 6
+answer: Prions
+
+What is the term used for the unusual infectious agents that cause m ad cow disease?
+
+----
+num: 21
+category: General Science
+difficulty: MS
+seen: 6
+answer: Peanut
+
+George Washington Carver found over 100 uses for the organic molecules derived from what common plant?
+
+----
+num: 23
+category: Math
+difficulty: MS
+seen: 6
+answer: 1
+
+The identity elem ent for multiplic ation is what number?
+
+----
+num: 23
+category: Math
+difficulty: MS
+seen: 7
+answer: $12,500.00
+
+After a discount of 20%, the price of a motorcycle was $10,000. 
+What was the original price of the motorcyc le?
+
+----
+num: 23
+category: Math
+difficulty: MS
+seen: 5
+answer: 1
+
+The identity elem ent for multiplic ation is what number?
+
+----
+num: 23
+category: Math
+difficulty: MS
+seen: 6
+answer: $12,500.00
+
+After a discount of 20%, the price of a motorcycle was $10,000. 
+What was the original price of the motorcyc le?
+
+----
+num: 24
+category: Life Science
+difficulty: MS
+seen: 10
+answer: Outside of Cells  (Accept: In Between Cells or in the 
+Interstitium)
+
+Where is intercellular fluid norm ally found?
+
+----
+num: 24
+category: Life Science
+difficulty: MS
+seen: 10
+answer: Outside of Cells  (Accept: In Between Cells or in the 
+Interstitium)
+
+Where is intercellular fluid norm ally found?
+
+----
+num: 25
+category: Physical Science
+difficulty: MS
+seen: 5
+answer: Harmonics  (Accept: Harmonic Overtones or Perfect 
+Overtones)
+
+Whole multiples of the fundam ental tone are usu allycalled:
+
+----
+num: 25
+category: Physical Science
+difficulty: MS
+seen: 5
+answer: 9 Protons, 10 Neutrons
+
+If an atom of fluorine has an atomic number of 9 and an atomic mass of 18.998 , how many protons and neutrons are in the nucleus?
+
+----
+num: 25
+category: Physical Science
+difficulty: MS
+seen: 6
+answer: Harmonics  (Accept: Harmonic Overtones or Perfect 
+Overtones)
+
+Whole multiples of the fundam ental tone are usu allycalled:
+
+----
+num: 25
+category: Physical Science
+difficulty: MS
+seen: 6
+answer: 9 Protons, 10 Neutrons
+
+If an atom of fluorine has an atomic number of 9 and an atomic mass of 18.998 , how many protons and neutrons are in the nucleus?

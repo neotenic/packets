@@ -1,0 +1,254 @@
+####
+tournament: HSAPQ NSC 2
+round: Round_07_HSAPQ_NSC2.pdf
+year: 2008
+####
+
+num: 1
+category: Science
+difficulty: HS
+fixed: -1
+seen: 487
+answer: {diffraction} [accept {Fresnel diffraction} before “{Fraunhofer}”]
+
+The magnitude of one type of this phenomenon is governed by a namesake v-parameter given by the Cornu Spiral, and its Fraunhofer type occurs for Fresnel number less than one. Bragg's law explains how x-rays experience it when meeting crystals, and the Davisson-Germer experiment showed that electrons experience it. It can be explained by Huygens ' Principle, and constructive interference illustrated that it happens to light in Young's double-slit experiment, showing its wave nature. For 10 points, name this phenomenon in which a wave bends around an obstacle.
+
+----
+num: 2
+category: Literature
+difficulty: HS
+fixed: 57
+seen: 444
+answer: Maya {Angelou}
+
+This poet wrote "Pretty women wonder where my secret lies" in Phenomenal Woman, and the birth of her son and her drug addiction feature in her autobiography Gather Together In My Name. Her other poetry collections include Now Sheba Sings the Song and Just Give Me a Cool Drink of Water 'Fore I Die. She read her poem "On the Pulse of Morning" at Bill Clinton's inauguration, and another of her works was inspired by her recovery from childhood sexual abuse. For 10 points, name this poet of I Know Why the Caged Bird Sings.
+
+----
+num: 3
+category: Religion
+difficulty: HS
+fixed: 1
+seen: 449
+answer: Zoroastrianism
+
+According to some sources, the first man in this belief system was Gayomard, and its founder was first patronized by Vishtaspa. All souls must cross the Chinvat Bridge in this faith, and the dead are laid out on Dakhmas, or Towers of Silence, to keep earth and fire uncontaminated. This religion's Gathas tell of malevolent spirits called Daevas, who are opposed by the Amesha Spentas. Its main scripture is known as the Avesta. For 10 points, name this religion in which Ahriman is opposed by Ahura Mazda, a Persian religion founded by Zarathustra.
+
+----
+num: 4
+category: History
+difficulty: HS
+fixed: 1
+seen: 418
+answer: {Franco}-{Prussian} War [or {Franco}-{German} War]
+
+Engagements in this conflict included the Battle of Gravelotte, in which the losing side was led by Marshal François Bazaine, and a two month siege of Metz. The victorious side was marshaled throughout this conflict by the elder Helmuth von Moltke, who succeeded in capturing Napoleon III at the Battle of Sedan. Ended by the Treaty of Frankfurt, it prompted the cessation of Alsace-Lorraine as well as Wilhelm I's coronation as German Kaiser in the Palace of Versailles. For 10 points, name this 1870 to 1871 conflict, the final war of Otto von Bismarck.
+
+----
+num: 5
+category: Fine Arts
+difficulty: HS
+fixed: 1
+seen: 486
+answer: {Symphony} No. {9} in D minor by Ludwig van {Beethoven,} “Choral,” [accept any combination]
+
+This work opens with a pianissimo on A and E, and at the end of the movement that theme returns in a major key. The third movement in B flat major includes a solo horn and a fanfare in E flat, and the scherzo second movement of this work has a notable timpani solo and a D major trio using trombones. Premiered in Vienna in 1824, this work's final movement is a “symphony within a symphony,” and that movement includes text from a Friedrich Schiller poem, “Ode to Joy.” For 10 points, name this composition, the last of its kind by Beethoven.
+
+----
+num: 6
+category: Social Science
+difficulty: HS
+fixed: 1
+seen: 380
+answer: University of {Chicago}
+
+In International Relations Theory, this university is home to suicide bombing expert Robert Pape, as well as the founder of “Offensive Realism,” John J. Mearsheimer. This university's law school lost Cass Sunstein to Harvard and is home to Richard Posner. One professor from this school developed capture theory, while another developed the concept of rational expectations. Apart from Robert Lucas and George Stigler, this school is associated with a man who pioneered the wealth effect and wrote Free to Choose to oppose government regulation. For 10 points, name this university best known for its namesake school of free market economics, located in the Windy City.
+
+----
+num: 7
+category: History
+difficulty: HS
+fixed: 1
+seen: 418
+answer: Pennsylvania
+
+Joseph Ritner's refusal to accept his defeat by David Porter led to this state's bloodless Buckshot War. Charles Willson Peale established the first American museum in this state, whose founder signed a treaty with the Lenape tribe. In this state's Conestoga Massacre, many Native Americans were murdered by the Paxton Boys. The Battles of Germantown and Brandywine occurred in this state, where George Washington led troops to put down the Whiskey Rebellion. For 10 points, name this state founded as a Quaker colony by William Penn.
+
+----
+num: 8
+category: Science
+difficulty: HS
+fixed: 57
+seen: 486
+answer: {alloys} [accept early {shape}-{memory alloys}; accept {Nitinol} or {Nickel}-{Titanium Naval Ordnance}
+
+One of these compounds alternates between martensite and austenite phases and is the most widely used of the “shape-memory” variety. The Hume-Rothery rules state that these compounds can only form if its constituent elements are of similar size and electronegativity, though one involving cesium and aluminum was formed in violation of those rules. For 10 points, name these compounds that include Nitinol, pewter, brass, and bronze, which are all mixtures of multiple metals.
+
+----
+num: 9
+category: Literature
+difficulty: HS
+fixed: 1
+seen: 439
+answer: Salmon {Rushdie}
+
+This author wrote about the simpleminded Sufiya, who beheads two hundred eighteen turkeys and turns into the Beast of violence against the backdrop of the Hyder and Harrapa families, in the novel Shame. In another of this author's works, Gibreel Farishta and Saladin Chamcha survive the terrorist attack on an Air India flight. He created a character who can read thoughts with his nose, and who was born at the moment of India's independence, in his novel Midnight's Children. For 10 points, name this author whose The Satanic Verses earned a fatwa from Ayatollah Khomeini.
+
+----
+num: 10
+category: Fine Arts
+difficulty: HS
+fixed: 1
+seen: 497
+answer: 1776
+
+A key point in this musical occurs when Lyman Hall switches allegiances, and this musical's song "Cool, Cool Considerate Men" was removed from the film version due to the objections of President Nixon. "Molasses to Rum" is sung by Edward Rutledge and describes the triangle trade, and John Dickinson leaves the Congress at the end of this musical to fight for the new nation despite not supporting the cause of independence. For 10 points, name this musical about the events leading up to the signing of the Declaration of Independence, named for the year in which that event occurred.
+
+----
+num: 11
+category: Fine Arts
+difficulty: HS
+fixed: 57
+seen: 496
+answer: Auguste {Rodin}
+
+The works of this artist inspired Rilke to write "thing-poems" such as "The Panther." He used a handyman as the model for his realistic The Man with the Broken Nose, and created an enormous statue of the novelist Balzac. Another of his works includes The Three Shades and a sculpture of Paolo embracing Francesca inspired by The Divine Comedy. That work, The Gates of Hell, includes The Kiss, as well as a sculpture of a seated man resting his head on his fist. For 10 points, name this French sculptor of The Thinker.
+
+----
+num: 11
+category: Fine Arts
+difficulty: HS
+fixed: 57
+seen: 493
+answer: Auguste {Rodin}
+
+The works of this artist inspired Rilke to write "thing-poems" such as "The Panther." He used a handyman as the model for his realistic The Man with the Broken Nose, and created an enormous statue of the novelist Balzac. Another of his works includes The Three Shades and a sculpture of Paolo embracing Francesca inspired by The Divine Comedy. That work, The Gates of Hell, includes The Kiss, as well as a sculpture of a seated man resting his head on his fist. For 10 points, name this French sculptor of The Thinker.
+
+----
+num: 12
+category: Science
+difficulty: HS
+fixed: 57
+seen: 487
+answer: {PCR} [or polymerase {chain reaction}]
+
+Foster resonance energy transfer between fluorogenic dyes allows for quantification of the products of this technique in a real-time variant. This technique consists of denaturation, annealing, and elongation steps, and was developed by Kary Mullis. The bacterium Thermus aquaticus provides a necessary heat-stable DNA polymerase known as Taq. The presence of free primers and nucleotides is also necessarily in this technique. For 10 points, name this biological technique used to create numerous copies of segments of DNA.
+
+----
+num: 13
+category: Geography
+difficulty: HS
+fixed: 1
+seen: 719
+answer: Lake {Superior}
+
+Bays of this lake include Michipicoten Bay, and one national park on this bay is Pukaskwa. Islands in this lake include the Slate Islands and St. Ignace Island, and its waters surround the large Keweenaw Peninsula. Also the site of the Apostle Islands and Whitefish Bay, cities on this lake include Grand Marais, Munising, Thunder Bay, and Superior. For 10 points, name this lake to the north of Michigan's Upper Peninsula, the largest Great Lake.
+
+----
+num: 14
+category: History
+difficulty: HS
+fixed: 57
+seen: 417
+answer: {Mali} empire [or {Malinke} empire]
+
+This empire conquered Takrur, and Wolof fought for independence from this polity. During this empire's reign by Mahmud III, Askia Ishaq sacked its capital at Niani. Growing out of the state of Kangaba as a revolt against Sumanguru, its creation was described in a namesake epic of its founder, Sundiata. Home to the trading city Timbuktu, it was ruled by a man who gave away vast amounts of gold while undertaking a hajj, Mansa Musa. For 10 points, name this West African empire whose peak followed the Ghana and preceded the Songhai.
+
+----
+num: 15
+category: Social Science
+difficulty: HS
+fixed: 57
+seen: 386
+answer: {altruism} [accept word forms like {altruistic}]
+
+D. S. Wilson divided this concept into strong and weak forms, and this concept may also explain the sterility of most female social insects. Hamilton's Rule, which governs the degree to which it occurs, has been generalized as “kin selection” theory. Richard Dawkins argued that it was subject to “subversion from within” in The Selfish Gene. For 10 points, name this activity in which an individual sacrifices its own reproductive success for that of others, exhibited by prairie dogs giving off a warning signal instead of running from predators.
+
+----
+num: 16
+category: Mythology
+difficulty: HS
+fixed: -1
+seen: 788
+answer: {winds}
+
+Stribog is the god of this thing in Slavic mythology, while the antelope-riding father of Hanumna, Vayu, is the Hindu god of it. The Shinto god of this carries a large bag and has a brother named Raijin, who is the thunder god. Apart from Fujin, gods of this include the Anemoi of the Greeks and the Venti of the Romans. Another Greek god of it gave Odysseus a bag which, when opened, released it in all directions. For 10 points, name this phenomenon whose gods include Aeolus, Zephyrus, and Boreas.
+
+----
+num: 17
+category: History
+difficulty: HS
+fixed: 57
+seen: 418
+answer: {Constantine} I [or {Constantine} the {Great}]
+
+This man oversaw the execution of his son Crispus on adultery charges, and ordered the exile of St. Athanasius. He defeated Licinius at Chrysopolis, and his mother Helen was said to have found the location of the Holy Sepulcher. He defeated Maxentius in a 312 AD battle, and convened the First Council of Nicaea. For 10 points, name this victor at the Battle of Milvian Bridge, whose signing of the Edict of Milan made Christianity legal in the Roman Empire.
+
+----
+num: 18
+category: Literature
+difficulty: HS
+fixed: 57
+seen: 446
+answer: Sir {Gawain} and the {Green Knight}
+
+This work was written by the author of Patience and Cleanness. Its protagonist has a pentacle emblazoned upon his shield, and is forced to give his host multiple kisses as part of their bartering arrangement, for which he receives the spoils of the host's hunt. The host's wife gives that character a belt that will protect him from his opponent when he meets him in the Green Chapel. For 10 points, name this medieval British poem by the Pearl poet about a beheading contest between the title characters, named for a nephew of King Arthur and a colorful antagonist.
+
+----
+num: 19
+category: Science
+difficulty: HS
+fixed: -1
+seen: 488
+answer: {Saturn's} moons [accept equivalents like {Saturn's satellites}; prompt on moons or similar
+
+A classification known as the Inuit Group contains five of these objects named for Inuit gods. One of these bodies is theorized by Kieffer to produce cryovolcanic effects via a clathrate mechanism, and another of these bodies has a giant crater that makes it look like the Death Star. The only irregular one of these objects is Phoebe. The largest of these bodies is the only moon known to have a dense atmosphere. For 10 points, name these objects including Enceladus, Mimas, and Titan, all of which orbit the second-largest planet in the solar system.
+
+----
+num: 20
+category: Literature
+difficulty: HS
+fixed: 1
+seen: 436
+answer: the Venerable {Bede}
+
+His pupil Egbert founded a school in York, and as a youth he was cared for by Benedict Biscop. The reckoning of Easter was the subject of this man's "Of Times" and "On the Reckoning of Time," and he wrote on the life of St. Cuthbert. His most noted work traced the history of a certain polity to the arrival of St. Augustine in Kent, and he originated the practice of dating events from the time of Christ's birth. For 10 points, name this Anglo-Saxon author of the Ecclesiastical History of the English People.
+
+----
+num: 21
+category: Literature
+difficulty: HS
+fixed: 1
+seen: 446
+answer: The Ingenious Hidalgo {Don Quixote} of La Mancha [or {El ingenioso hidalgo Don Quijote} de la
+
+One character in this novel sports a monkey on his shoulder, and announces the performance of "The Tale of Melisendra." It opens with a dedication to the Duke of Bejar, and at one point the storytelling goatherd Peter is interrupted by the title character for poor use of grammar. Its title character is defeated by the Knight of the White Moon after becoming obsessed with chivalric romances. For 10 points, name this novel about a knight who rides Rocinante, loves Dulcinea, and is served by Sancho Panza, a work by Miguel de Cervantes.
+
+----
+num: 22
+category: Fine Arts
+difficulty: HS
+fixed: 57
+seen: 485
+answer: The Death of {Marat}
+
+In an Edvard Munch painting of this name, a naked woman with red hair stands in front of a blue bed, which the title figure lies on. In another painting of this name, a green sheet appears behind a square wooden stool holding ink and a quill. That painting of this name includes a bloody knife in the lower left corner, as well as the dangling right arm of a corpse whose right hand grasps a petition from Charlotte Corday. For 10 points, name this Jean-Louis David painting of the assassination of a leader of the French Revolution.
+
+----
+num: 23
+category: Science
+difficulty: HS
+fixed: -1
+seen: 485
+answer: {Avogadro's} constant [prompt on {mole} before mentioned]
+
+The Stark-Einstein photochemical equivalence law uses this value to relate mass to the quanta of radiation it absorbs. The first attempt to calculate this value resulted in the similar Loschmidt constant, and it is multiplied by the elementary charge to produce the Faraday constant. The Boltzmann constant is a ratio of the universal gas constant to this other value, and inverting this number yields the atomic mass unit. For 10 points, name this number that represents the number of atoms or molecules present in a mole of a substance.
+
+----
+num: 24
+category: Literature
+difficulty: HS
+fixed: 1
+seen: 451
+answer: {Les Miserables}
+
+One character in this novel mocks another for having no front teeth in a chapter about his "inactivity." That female character had sold her teeth after being abandoned by Felix. Another sells his books to survive, and that man, Mabeuf, subsequently joins the Friends of the ABC. Later in the novel, Enjolas leads a June 5 revolt with a man who rejects a street girl. That character, Marius, is in love with Cosette, the adopted daughter of a man initially imprisoned for stealing a loaf of bread. For 10 points, name this work by Victor Hugo about former prisoner Jean Valjean.

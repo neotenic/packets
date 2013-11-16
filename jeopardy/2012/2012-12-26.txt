@@ -1,0 +1,402 @@
+####
+tournament: #6508
+round: Show #6508 - Wednesday, December 26, 2012
+year: 2012
+date: 2012-12-26
+####
+
+num: 1
+category: Literature
+difficulty: 200
+seen: 4
+answer: barrel
+
+Another way of saying "the whole kit & caboodle" is "lock, stock &" this.
+
+----
+num: 2
+category: Science
+difficulty: 200
+seen: 8
+answer: the brain
+
+An ECG measures the electrical activity of the heart, while an EEG measures the activity of this organ.
+
+----
+num: 3
+category: Literature
+difficulty: 200
+seen: 4
+answer: Athens
+
+Milton called it "the eye of Greece, mother of arts & eloquence".
+
+----
+num: 4
+category: Literature
+difficulty: 400
+seen: 4
+answer: the wolf in sheep\'s clothing
+
+Beware of this idiom, seen.
+
+----
+num: 5
+category: Science
+difficulty: 400
+seen: 5
+answer: the syringe
+
+Alexander Wood, who invented the hollow-needled hypodermic one of these, became a morphine addict.
+
+----
+num: 6
+category: Literature
+difficulty: 400
+seen: 4
+answer: IHOP
+
+"Everything you love about breakfast".
+
+----
+num: 7
+category: Literature
+difficulty: 400
+seen: 4
+answer: Los Angeles
+
+Dorothy Parker is said to have described it as "72 suburbs in search of a city".
+
+----
+num: 8
+category: Literature
+difficulty: 600
+seen: 4
+answer: a log
+
+To get your kids up & moving, you might tell them, "don't sit there like a bump on" this.
+
+----
+num: 9
+category: Science
+difficulty: 600
+seen: 6
+answer: an MRI
+
+In 1977 Raymond Damadian constructed the first one of these full-body magnetic scanners, naming it "indomitable".
+
+----
+num: 10
+category: Literature
+difficulty: 600
+seen: 4
+answer: Taco Bell
+
+"Think outside the bun" is dead! Long live "Live mas".
+
+----
+num: 11
+category: Literature
+difficulty: 600
+seen: 4
+answer: London
+
+According to Samuel Johnson, "when a man is tired of" this city, "he is tired of life".
+
+----
+num: 12
+category: Literature
+difficulty: 800
+seen: 4
+answer: six of one, half dozen of another
+
+It's the same either way with.
+
+----
+num: 13
+category: Science
+difficulty: 800
+seen: 6
+answer: glaucoma
+
+A tonometer, which tests hydrostatic pressure within the eye, is used to detect this condition.
+
+----
+num: 14
+category: Literature
+difficulty: 800
+seen: 4
+answer: Olive Garden
+
+"When you're here, you're family".
+
+----
+num: 15
+category: Literature
+difficulty: 800
+seen: 4
+answer: Raymond Chandler
+
+"I guess God made Boston on a wet Sunday", wrote this mystery novelist; maybe the town put him into a "big sleep".
+
+----
+num: 16
+category: Literature
+difficulty: 1000
+seen: 4
+answer: city hall
+
+When it comes to bureaucratic rules, you've probably learned "you can't fight" this place.
+
+----
+num: 17
+category: Science
+difficulty: 1000
+seen: 7
+answer: a hemostat (or forceps)
+
+The bulldog type of this is used to clamp an artery or vein to stop blood flow.
+
+----
+num: 18
+category: Literature
+difficulty: 1000
+seen: 4
+answer: Outback Steakhouse
+
+"No rules. Just right".
+
+----
+num: 19
+category: Geography
+difficulty: 400
+seen: 9
+answer: the Bay of Bengal
+
+Seafood is naturally important to the economy, as Bangladesh has 360 miles of coast along this bay.
+
+----
+num: 20
+category: Literature
+difficulty: 400
+seen: 4
+answer: Bonnie Parker
+
+During her crime spree with Clyde, she sent samples of her poetry to newspapers.
+
+----
+num: 21
+category: Art
+difficulty: 400
+seen: 4
+answer: Impressionism
+
+This French art movement held its first show in 1874.
+
+----
+num: 22
+category: Literature
+difficulty: 400
+seen: 4
+answer: cheese
+
+Traditionally, it's what you're told to say so you'll be smiling in a photograph.
+
+----
+num: 23
+category: Trash
+difficulty: 400
+seen: 6
+answer: (Isaac) Hayes
+
+Oh, yeah, baby...his "Theme From 'Shaft'" was nominated & won in 1971.
+
+----
+num: 24
+category: Geography
+difficulty: 800
+seen: 7
+answer: the {United States} of America
+
+This country is the main destination for Bangladeshi exports.
+
+----
+num: 25
+category: Literature
+difficulty: 800
+seen: 4
+answer: (Lynette) Fromme
+
+Nicknamed "Squeaky", this Charles Manson follower tried to assassinate President Ford in 1975.
+
+----
+num: 26
+category: History
+difficulty: 800
+fixed: -1
+seen: 4
+answer: the 
+
+This German battleship was launched on February 14, 1939 & sunk by the British 2 years later.
+
+----
+num: 27
+category: Art
+difficulty: 800
+seen: 4
+answer: (Maurice) Ravel
+
+In 1928 he composed "Bolero" as a ballet.
+
+----
+num: 28
+category: Literature
+difficulty: 800
+seen: 4
+answer: a creak
+
+Jane Austen's writing room door made this noise, which she liked because it warned her of visitors.
+
+----
+num: 29
+category: Trash
+difficulty: 800
+seen: 4
+answer: Smokey Robinson
+
+It was just him, without the Miracles, nominated in 1987 for "Just To See Her".
+
+----
+num: 30
+category: Geography
+difficulty: 1200
+seen: 8
+answer: textiles (fibers accepted)
+
+Major industries of Bangladesh include tea processing & the manufacture of these, like jute.
+
+----
+num: 31
+category: Literature
+difficulty: 1200
+seen: 3
+answer: Charlize Theron
+
+Not notorious herself, she played serial killer Aileen Wuornos in the movie "Monster".
+
+----
+num: 32
+category: Literature
+difficulty: 1200
+seen: 4
+answer: the counterculture
+
+14-letter term for the 1960s movement opposed to mainstream American society.
+
+----
+num: 33
+category: Trash
+difficulty: 1200
+seen: 5
+answer: Marvin Gaye
+
+I heard it through the grapevine that this soulful legend was nominated in 1982 for "Sexual Healing".
+
+----
+num: 34
+category: Geography
+difficulty: 1600
+seen: 8
+answer: the Ganges
+
+Subject to flooding, Bangladesh is on the flood plain of this river, which joins with the Brahmaputra.
+
+----
+num: 35
+category: Literature
+difficulty: 1600
+seen: 4
+answer: John Dillinger
+
+When Anna Sage betrayed this gangster on July 22, 1934, she was not dressed in red but wore an orange skirt.
+
+----
+num: 36
+category: Art
+difficulty: 1600
+seen: 4
+answer: the violin
+
+In 2012 Joshua Bell played this instrument at the grand opening of Vegas' Smith Center for the Performing Arts.
+
+----
+num: 37
+category: Literature
+difficulty: 1600
+seen: 4
+answer: calipers
+
+These devices used to measure thickness can be "inside" or  "outside".
+
+----
+num: 38
+category: Trash
+difficulty: 1600
+seen: 5
+answer: a "Midnight Train To Georgia"
+
+It wasn't the soul train but this train that got Gladys Knight & the Pips nominated in 1973.
+
+----
+num: 39
+category: Geography
+difficulty: 2000
+seen: 13
+answer: the Mughal Empire
+
+Following its conquest by Muslim invaders, Bangladesh became part of this empire in the 16th century.
+
+----
+num: 40
+category: Literature
+difficulty: 2000
+seen: 6
+answer: Messalina
+
+This third wife of Emperor Claudius "mess"ed around with a lot of men & tried to get one on the throne, but it didn't work.
+
+----
+num: 41
+category: History
+difficulty: 2000
+seen: 6
+answer: the 
+
+It was hijacked in 1985 by Palestinian terrorists who killed American Leon Klinghoffer.
+
+----
+num: 42
+category: Art
+difficulty: 2000
+seen: 6
+answer: (John) Constable
+
+The 1824 countryside painting "The Lock" is his costliest, going for $35 million in 2012.
+
+----
+num: 43
+category: Literature
+difficulty: 2000
+seen: 5
+answer: the click track
+
+In music recording, this "track" sets the tempo.
+
+----
+num: 44
+category: Trash
+difficulty: 2000
+seen: 8
+answer: Rufus
+
+1974 was good to this "Tell Me Something Good" soul group that featured Chaka Khan.

@@ -1,0 +1,196 @@
+####
+tournament: Regional B
+round: round12.pdf
+year: 2002
+####
+
+num: 1
+category: Physics
+difficulty: HS
+fixed: -1
+seen: 26
+answer: Radiation From 60 Hertz Ac Current;  Am Radio;  Vhf Tv;  
+Ultraviolet
+
+Order the following 4 categories of electromagnetic radiation from the 
+LOWEST frequency to the HIGHEST: Ultraviolet, VHF TV, AM radio, radiation from 60 hertz 
+AC current
+
+----
+num: 2
+category: Chemistry
+difficulty: HS
+seen: 33
+answer: Perchloric Acid;  Hydrochloric Acid;  Nitric Acid;  Acetic Acid
+
+Order the following 4 acids from the strongest to the weakest: nitric acid; perchloric acid; hydrochloric acid; acetic acid
+
+----
+num: 4
+category: Astronomy
+difficulty: HS
+seen: 53
+answer: Fourth
+
+The Stefan-Boltzman Law states that the energy emitted from a black body varies with what power of the temperature?
+
+----
+num: 9
+category: Physics
+difficulty: HS
+seen: 25
+answer: 12
+(Solution:  I  = V/r,   R = V/i,  R =  120/10 = 12 Ohms)
+
+What is the resistance, in ohms, of an electric curling iron that draws 10 amps on a 120 volt line?
+
+----
+num: 9
+category: Physics
+difficulty: HS
+seen: 26
+answer: -2  (Do Not Accept:  2 or +2)
+(Solution:  (15-25) / 5 = -2 M/s ^2)
+
+Consider a marble rolling in a straight path at 25 meters per second that slows to 15 meters per second in 5 seconds. In meters per second squared, what is the marble’s average acceleration?
+
+----
+num: 10
+category: Chemistry
+difficulty: HS
+seen: 36
+answer: Ethanol  (Accept:  Ethyl Alcohol)
+
+Heating ethylene in the pres ence of water vapor at 300 °C and under high pressure, is a common industrial met hod of producing billions of pounds of what substance?
+
+----
+num: 12
+category: Astronomy
+difficulty: HS
+seen: 55
+answer: 90 Degrees
+
+How many degrees of arc are in 6 hours of right ascension?
+
+----
+num: 12
+category: Astronomy
+difficulty: HS
+fixed: -1
+seen: 54
+answer: Ceres and Juno
+
+Which 2 of the following 5 mi nor planets have the largest diameters: Eros, Juno, Ceres, Amor, Apollo
+
+----
+num: 13
+category: Math
+difficulty: HS
+seen: 24
+answer: A = 134;  B = 70;  C = 8
+
+In the following number sequence, what are the values for a, b and c: a, b, 38, 22, 14, 10, c
+
+----
+num: 16
+category: Computer Science
+difficulty: HS
+fixed: -1
+seen: 63
+answer: Beginners All-Purpose Symbolic Instructional Code
+
+In the BASIC programming language, what does the acronym BASIC stand for?
+
+----
+num: 17
+category: Physics
+difficulty: HS
+seen: 25
+answer: 5 Meters
+(Solution:  D = Vot + ½ at ^2 = 10 × 1- ½ 10 × 1^2 = 10 – 5 = 5 Meters)
+
+Assuming g = 10.0 m/sec^2 and friction is 0, if a rock is thrown vertically upward at 10.0 m/sec, how fa r up in meters will it be after 1 second?
+
+----
+num: 18
+category: Chemistry
+difficulty: HS
+seen: 34
+answer: Ethylene
+
+What is the primary product produced when ethyl alcohol is heated to 170°C in the presence of 95% sulfuric acid?
+
+----
+num: 19
+category: Biology
+difficulty: HS
+seen: 39
+answer: Secondary
+
+Of the primary, secondary, tertiary and quaternary levels of protein structure, at what level would a beta-pleated sheet be placed?
+
+----
+num: 19
+category: Biology
+difficulty: HS
+fixed: -1
+seen: 41
+answer: Prophase  (Accept: Prophase-One)
+
+Exchange of DNA among chromosomes occurs in what phase of meiosis-one?
+
+----
+num: 20
+category: Math
+difficulty: HS
+seen: 26
+answer: Null Hypothesis
+
+What is the most common statistical term for the assumption, when comparing sample means, that there is no si gnificant difference between the two samples?
+
+----
+num: 22
+category: General Science
+difficulty: HS
+seen: 30
+answer: Silica  (Accept:  Silica Gel)
+
+Thin layer chromatography most commonly employs what substance as the matrix fo r the chromatographic separation?
+
+----
+num: 23
+category: Physics
+difficulty: HS
+fixed: -1
+seen: 27
+answer: Sno  (Accept:  Sudbury Neutrino Detector or Sudbury Neutrino 
+Observatory)
+
+What is the name of the particle detector in Ontario that is buried 2 kilometers underground in a nickel mine?
+
+----
+num: 24
+category: Chemistry
+difficulty: HS
+seen: 33
+answer: Saponification
+
+A chemical reaction in which esters are hydrolyzed under basic conditions to give an alcohol and a salt of the ac id is generally known as what type of reaction?
+
+----
+num: 25
+category: Biology
+difficulty: HS
+seen: 39
+answer: X-Rays
+
+The most common method used by Beadle and Tatum in generating mutant molds for their metabolic studies was to expose the molds to what?
+
+----
+num: 25
+category: Biology
+difficulty: HS
+seen: 37
+answer: Leucine;  Phenylalanine
+
+Which 2 of the following 4 amino acids contain nonpolar R groups? serine; glutamine; leucine; (read as: lew-seen), phenylalanin e (read as: FEE-nal-AL-a-neen)

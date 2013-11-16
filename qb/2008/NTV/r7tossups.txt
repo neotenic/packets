@@ -1,0 +1,154 @@
+####
+tournament: NTV
+round: r7tossups.pdf
+year: 2008
+####
+
+num: 1
+category: Fine Arts
+difficulty: HS
+fixed: 57
+seen: 496
+answer: {Siegfried}, opera, {WWV 86c} (accept either underlined part)
+
+(MS) A change of tone in Act III of this work can be attributed to several years' abandonment after the composer finished Act II and sees increased emphasis on the sufferings of The Wanderer. The protagonist proves his mettle in Act I's "Forging Song" and uses the sword thus created to obtain a liquid that lets him understand animals, leading to the "Forest Murmuring" interlude. Near the end of this work, a character awakens with the aria "Heil dir, Sonne! Heil dir, Licht!" That character was imprisoned at the end of a proceeding work in which she was the title character, Die Walküre. Identify this opera in which the title character slays Fafner and rescues Brunnhilde; the third of the four operas of Wagner's Ring Cycle.
+
+----
+num: 2
+category: Fine Arts
+difficulty: HS
+fixed: 1
+seen: 489
+answer: {Hockney}-{Falco} theory (accept {clear knowledge} equivalents like "{thesis}" for "{theory}")
+
+(JG) Physicist David Stork criticized this theory on the grounds that the visual evidence is inconsistent with the theory's basic statement. It was first posited in the journal Optics and Photonics, and another strike against it is that there are no records of the necessary equipment existing. An ear in a portrait of Cardinal Albergati and the chandelier in another van Eyck work were two of the original examples cited in the paper, which was inspired by its author's visit to the National Gallery. He believes that the realism of art rose sharply around 1420, and associated it with the idea that Jean Ingres used a camera lucida to trace images. Name this artistic theory that states that Renaissance artists used various mirrors and lenses to create their famous works.
+
+----
+num: 3
+category: History
+difficulty: HS
+fixed: 57
+seen: 422
+answer: {Tamil Tigers} or {Liberation Tigers} of {Tamil} Eelam
+
+(JP) Velupillai Prabhakaran heads this organization which is considered a terrorist group by thirty-one nations, including the United States. Headquartered in Kilinochchi, where a lot of fighting has taken place this month, its members have waged a civil war campaign against their government since the early 1980s in an effort to gain independence for their home state of Eelam. They were responsible for the 1991 assas- sination of Indian Prime Minister Rajiv Gandhi, for which they apologized 15 years later. This groups claims to represent an ethnic group that has opposed the Sinhalese. Name this organization whose exis- tence could be threatened by the advancing Sri Lankan army.
+
+----
+num: 4
+category: History
+difficulty: HS
+fixed: 57
+seen: 417
+answer: {Palatine} or {Palatino} (prompt on {Seven Hills} of {Rome} before *)
+
+(RS) This is where Romulus and Remus were found by the Lupa, or she-wolf. Notable Romans who lived on it (*) included Cicero, Augustus, Tiberius, and Domitian. On one side, there is the Roman Fo- rum, and on the other is the Circus Maximus. The word "palace" comes from the name of this hill of Rome. Name this hill that was once the site of the Arcadian settlement of Pallantium.
+
+----
+num: 5
+category: Science
+difficulty: HS
+fixed: 57
+seen: 483
+answer: {Maxwell's} demon
+
+(JG) Leó Szilárd's 1927 paper pointed out that this is impossible because acquiring information re- quires expending energy. Another theory about this uses analysis of the choices it makes to refute its exis- tence, as Léon Brillouin proposed in 1950, concluding that the paradox is not actually paradoxical. Boltzmann's work led up to this idea, but it was Lord Kelvin who introduced the name for this creature. The argument for it relies on gas molecules of the same temperature having different speeds and moving randomly. Identify this thought experiment featuring a trapdoor between two chambers and a small intel- ligent being that would violate the Second Law of Thermodynamics.
+
+----
+num: 6
+category: Literature
+difficulty: HS
+fixed: 57
+seen: 443
+answer: Umberto {Eco}
+
+(TB) His most recent novel is about a man named Yambo who suffers from a form of amnesia. An ear- lier work concerned three editors who create something known as The Plan, and his first novel's protago- nist was Brother William of Baskerville. This writer's last name is an acronym that stands for "a gift out of heaven" in Latin. Also respected in the field of semiotics, he was born in 1931 in Piedmont. Name this Italian Medievalist who wrote The Mysterious Flame of Queen Loana, Foucault's Pendulum, and The Name of the Rose.
+
+----
+num: 7
+category: Science
+difficulty: HS
+fixed: -1
+seen: 490
+answer: Luis Walter {Álvarez}
+
+(JG) His contributions to science included an attempt to explain strange movements of John F. Ken- nedy's head as he was assassinated. The United States government awarded him their highest award in aviation, the Collier Trophy, for developing a technique for pilots to land airplanes in adverse visibility conditions, the Ground Controlled Approach system. His contributions to the Manhattan Project were also significant, as he helped design the implosive detonators on the Fat Man. Name this Cuban physicist whose career was spent principally at Berkeley, who won the 1968 Nobel Prize in Physics for discovering resonance states used in the hydrogen bubble chamber, and who with his son Walter discovered the rea- son behind the iridium anomaly at the K-T boundary.
+
+----
+num: 9
+category: Trash
+difficulty: HS
+fixed: 1
+seen: 1033
+answer: {Matchbox Twenty}
+
+(JG) Its name comes from a shirt with a patch observed in a bar, and its first single flopped. Its second single was more successful, but drew criticism for ostensibly promoting violence against women. Its fourth studio album was released in late 2007, after the departure of rhythm guitarist Adam Gaynor, and its title was a lame pun on a Beatles album title. That album featured "If I Fall" along with five other new songs, and also included a compilation of previous hits including "Bent" and "Back 2 Good", which was originally featured on Yourself or Someone Like You along with that first single, "Long Day". Perhaps this band's most famous songs were from its third album, More Than You Think You Are. Name this band whose songs include "Bright Lights", "Push", and "Unwell", fronted by Rob Thomas.
+
+----
+num: 10
+category: History
+difficulty: HS
+fixed: 1
+seen: 409
+answer: Mitsubishi {Zero} (accept Zeke before mentioned)
+
+(RS) One of these was found on the island of Akutan in 1942. When it was first introduced, its com- bination of long range and maneuverability made it highly effective. Later in World War II, the unavail- ability of powerful engines meant that substandard versions were produced. Captured models examined closely by the Allies allowed them to develop tactics against it, and by 1944, a combination of new Allied tactics and better aircraft, such as the P-38 Lightning, made it obsolete. Name this carrier-based fighter used by the Imperial Japanese Navy under the codename "Zeke".
+
+----
+num: 11
+category: Literature
+difficulty: HS
+fixed: 1
+seen: 444
+answer: {magical realism}
+
+(JG) Franz Roh named it, and Alejo Carpentier was one of the first authors associated with it. It is thought to be an outcome of the dual truths necessitated by the history of where it developed. It might be geographically surprising that John Fowles and Günter Grass are sometimes associated with this literary movement. It's characterized by authorial ambiguity and irony along with the hybridization of antithetical views such as indigenous and colonialist ones. Some of the authors most associated with it are Jorge Cortázar and Jorge Luis Borges. Name this frequently Latino literary style characterized by the straight- forward insertion of fantastical elements, used by Isabel Allende and Gabriel García Márquez.
+
+----
+num: 12
+category: Literature
+difficulty: HS
+fixed: 1
+seen: 446
+answer: {Cat on a Hot Tin Roof}
+
+(TM) One character in this play shouts the word "Crap!" because it is her husband's favorite word, while later, a character tells a joke about a fornicating elephant. One character breaks his ankle jumping hurdles before the play begins, and another character throws his crutch away and throws his liquor over the balcony. That same character tells about his need to drink until he hears a "click", and had a roommate in college named Skipper. Mae is Gooper's wife in this play, while both are the children of Big Mama, who refuses to believe that Big Daddy is going to die of cancer. Identify this play centering on Brick and Maggie, written by Tennessee Williams.
+
+----
+num: 14
+category: Trash
+difficulty: HS
+fixed: 1
+seen: 1029
+answer: Stern
+
+(DR) This last name has been shared by a German psychologist who helped formulate the concept of IQ and the accountant for Oskar Schindler. A physicist with this last name teamed up with Walther Ger- lach to demonstrate intrinsic quantum properties, and a union leader with the same name currently heads the Service Employees International Union. If you add an E on to the end, it gives the name of a writer who during the 1760s completed a very popular novel titled The Life and Opinions of Tristram Shandy, Gentleman. This name is also held by the actor who teamed up with Joe Pesci to be a bad guy in the Home Alone movies and by the commissioner of the NBA. Give this name shared by two men named Howard, one of whom was linked to Anna Nicole Smith and the other of whom is a well-known shock jock.
+
+----
+num: 15
+category: Literature
+difficulty: HS
+fixed: 57
+seen: 448
+answer: {Titus Andronicus}
+
+(TB/JG) The story is based on a work by Ovid, the tale of Procne [PROK nee] and Philomela. The main character's children include Lucius, Martius, and Lavinia, and this play chronicles the life of a gen- eral after he returns from his conquests with Tamora and several members of her family. The general sac- rifices one of the Queen's sons to avenge his own son's death, and in response, two of her other sons rape the general's daughter and cut off her hands and tongue. The title character also cooks Chiron and De- metrius into a pie, which Tamora unknowingly eats. Name this Shakespearean play whose title character is a successful Roman general.
+
+----
+num: 17
+category: Science
+difficulty: HS
+fixed: 57
+seen: 486
+answer: {polymorphism}
+
+(JG/CA) It had two main types, ad-hoc and parametric, and in C++ [see plus plus], this language fea- ture is implemented with template classes or functions. Associated with strongly-typed languages, a more subtle form of this is the use of one symbol to perform several similar operations, such as concatenation and addition, a technique called operator overloading. This property of object-oriented languages also shares its name with an unrelated property of computer viruses to evade detection by mutating their code without changing their function. Identify this property that allows different types of objects to respond to methods differently.
+
+----
+num: 18
+category: Science
+difficulty: HS
+fixed: 57
+seen: 487
+answer: {Cretaceous} Period
+
+(DR) This period lasted from the Berriasian Age to the Maastrichtian Age. It contained the first ap- pearance of ants, butterflies, and flowering plants. Though life generally increased throughout its eighty million years, its end was marked by many extinctions, especially for large land animals. Name this age that followed the Jurassic Age, the last part of the Mesozoic Era.

@@ -1,0 +1,644 @@
+####
+tournament: Sample Set 5
+round: Round4.pdf
+####
+
+num: 1
+category: Physics
+difficulty: HS
+seen: 25
+answer: 0
+
+
+An object with a mass of 1 gram is whirled in a horizontal circle with a radius of 0.5 meters at a constant speed of 2 meters per second. What is the work done on the object, in joules, during one revolution?
+
+----
+num: 1
+category: Physical Science
+difficulty: MS
+seen: 6
+answer: Neither (Accept: They Do the Same Amount of Work)
+
+
+Atlas and Hercules each lift 200 kilogram barbells offwothe ground. Atlas lifts his in 1 second and Hercules lifts his in 3 seconds. Which hero does more rk?
+
+----
+num: 2
+category: Earth and Space
+difficulty: HS
+seen: 48
+answer: Nebular
+
+What theory states that our solar system formed from the compression of a giant, swirling cloud of gas and dust?
+
+----
+num: 2
+category: Earth and Space
+difficulty: HS
+fixed: -1
+seen: 48
+answer: Front Development, Wave Development , Cyclonic Circulation
+(Accept: 3, 2, 1)
+
+By name or number, order the following three events from earliest to latest as two air masses of different densities develop into a mid -latitude cyclone: 1) cyclonic circulation, 2) wave development, 3) front development.
+
+----
+num: 2
+category: Earth and Space Science
+difficulty: MS
+seen: 6
+answer: Paleozoic
+
+During what era in the geologic time scale did the majority of life exist in the Ea rth’s oceans?
+
+----
+num: 2
+category: Earth and Space Science
+difficulty: MS
+seen: 6
+answer: 2 3.5 (Accept: 23.4)
+
+Providing your answer in degrees to the nearest tenth, what is the most northerly latitude at which the S un can be seen directly overhead?
+
+----
+num: 3
+category: Physics
+difficulty: HS
+seen: 25
+answer: 0.004
+
+
+Given a DC circuit with a voltage source delivering 20 volts and a circuit resistance of 5 kiloohms, what is the value of the current in amperes?
+
+----
+num: 3
+category: Physical Science
+difficulty: MS
+seen: 6
+answer: 5000
+
+How many joules of potential energy does a 1000 -newton boulder have at the top of a 5 -meter ledge, relative to the bottom of the ledge?
+
+----
+num: 3
+category: Physical Science
+difficulty: MS
+fixed: -1
+seen: 5
+answer: 400
+
+
+A honeydew melon weighing 2 kilograms is flying through the air at 20 meters per second. How much kinetic energy in joules does it have?
+
+----
+num: 4
+category: Energy
+difficulty: HS
+seen: 34
+answer: Flow and Head (Accept: 2 and 3)
+
+By name or number, identify all of the following four factors that directly affect the amount of electricity generated from hydroelectric dams: 1) water temperature, 2) flow, 3) head, 4) time of day.
+
+----
+num: 4
+category: Energy
+difficulty: MS
+seen: 7
+answer: Membrane Potential (Accept: Transmembrane Potential)
+
+What is the term for the difference in electric potential between theinterior and exterior of a cell?
+
+----
+num: 5
+category: Math
+difficulty: HS
+fixed: -1
+seen: 25
+answer: 1/e
+
+
+Find the slope of the line tangent to the parametric curve at the given point: x = e^t, and y = lnt (read as: y equals the natural log of t) at t = 1.
+
+----
+num: 5
+category: Math
+difficulty: MS
+seen: 6
+answer: 95%
+
+Consider the graph of a normal distribution. To the nearest percent, what is the probability that a datum lies within two standard deviations of the mean?
+
+----
+num: 5
+category: Math
+difficulty: MS
+fixed: -1
+seen: 7
+answer: 62.5
+
+
+A city has an area of 250 square miles. If 14% is covered with trees, and a separate 11% is covered with water, providing your answer as a decimal to the nearest tenth, how m any square miles are covered with trees or water?
+
+----
+num: 6
+category: Earth and Space
+difficulty: HS
+seen: 47
+answer: Photosphere, Chromosphere, Corona
+
+Name the three layers of the Sun’s atmosphere.
+
+----
+num: 6
+category: Earth and Space
+difficulty: HS
+fixed: -1
+seen: 47
+answer: Increase
+
+The region around Sweden has undergone elastic strain due to pressure from ancient ice cover. What will happen to the elevation of this region over the next 10,000 years?
+
+----
+num: 6
+category: Earth and Space Science
+difficulty: MS
+seen: 6
+answer: Polaris (Accept: North Star)
+
+As Earth rotates, Ursa Major, Ursa Minor, and other constellations in the northern sky appear to circle around what star?
+
+----
+num: 7
+category: Physics
+difficulty: HS
+fixed: -1
+seen: 26
+answer: 20
+
+
+A capacitor has a very large capacitance of 10 farads and is charged by placing a potential difference of 2 volts between its plates. How much energy in joules is stored in the capacitor?
+
+----
+num: 7
+category: Physical Science
+difficulty: MS
+seen: 6
+answer: 0
+
+What is the net magnetic force on a compass needle?
+
+----
+num: 7
+category: Physical Science
+difficulty: MS
+seen: 6
+answer: 12
+
+
+What is the average applied force in newtons requiredto keep a crate of apples moving if it takes 60 joules to move the crate 5 meters across a floor?
+
+----
+num: 8
+category: Earth and Space
+difficulty: HS
+seen: 48
+answer: Dobson Unit
+
+What unit equal to 0.01 millimeters thickness at STP is used to measure Earth’s atmospheric ozone layer?
+
+----
+num: 8
+category: Earth and Space Science
+difficulty: MS
+seen: 6
+answer: Clouds
+
+Early 1800’s scientist Luke Howard first classified what natural atmospheric phenomenon?
+
+----
+num: 9
+category: Energy
+difficulty: HS
+seen: 37
+answer: 1
+
+
+Taking the latent heat of fusion to be 80 calories per gram, how much energy, in kilocalories, does it take to bring 10 grams of ice at 0° Celsius to liquid water at 20° Celsius?
+
+----
+num: 9
+category: Energy
+difficulty: MS
+seen: 6
+answer: 746
+
+To the nearest integer, one horsepower is equal to how many watts?
+
+----
+num: 10
+category: Biology
+difficulty: HS
+seen: 38
+answer: Animals (Accept: 3)
+
+Insect symbionts are represented in all EXCEPT which of the following three groups: 1) bacteria, 2) fungi, or 3) animals?
+
+----
+num: 10
+category: Life Science
+difficulty: MS
+fixed: -1
+seen: 10
+answer: Golgi Apparatus
+
+Which cellular organelle is responsible for packaging and sending biosynthesized molecules from one cell to another?
+
+----
+num: 11
+category: Math
+difficulty: HS
+seen: 24
+answer: 13225
+
+What is the numerical value of 115 ^2?
+
+----
+num: 11
+category: Math
+difficulty: HS
+fixed: -1
+seen: 26
+answer: 40
+
+
+What is the coefficient corresponding to x^3 in the binomial expansion of (x + 2)^5 (read as: the quantity x plus 2 to the power of 5)?
+
+----
+num: 11
+category: Math
+difficulty: MS
+seen: 5
+answer: 10
+
+In a group of 30 students, 20 take French, 15 take Spanish, and 5 take neither language. How many students take both French and Spanish?
+
+----
+num: 11
+category: Math
+difficulty: MS
+seen: 6
+answer: X + Y
+
+
+Simplify the following expression completely if the denominator ≠ 0:^x^3^+ 2^x^2^x+ ^2^y^yx +^ ^x^y^2(read as: open parenthesis x cubed plus 2 x squared y plus x y squared close parenthesis over open parenthesis x squared plus yx close parenthesis).
+
+----
+num: 12
+category: Biology
+difficulty: HS
+seen: 39
+answer: Water, Cholesterol, Bilirubin (Accept: 1, 2 , and 4)
+
+By name or number, give all of the following five choices that are components of bile in vertebrates: 1) water, 2) cholesterol, 3) lymph, 4) bilirubin, 5) amylase.
+
+----
+num: 12
+category: Life Science
+difficulty: MS
+seen: 10
+answer: Beaver
+
+What is North America’s largest rodent?
+
+----
+num: 13
+category: Energy
+difficulty: HS
+seen: 33
+answer: Carbon Increases and Sulfur Decreases
+
+As the grade of coal increases, how do the concentrations ofcarbon and sulfur change , respectively?
+
+----
+num: 13
+category: Energy
+difficulty: HS
+seen: 35
+answer: 240 (Accept: 250, 260, 270, 280, 290)
+
+
+If burned over the course of a minute, providing your answer to the nearest ten, about how many kilowatts of power would a pound of human fat release?
+
+----
+num: 14
+category: Physics
+difficulty: HS
+seen: 27
+answer: Work Function
+
+What is the phrase that refers to the energy required by an incident photon to cause the photoelectric effect?
+
+----
+num: 14
+category: Physics
+difficulty: HS
+seen: 28
+answer: Vacuum Cleaner (Accept: 4)
+
+By name or number, identify all of the following four household items that make use of the Bernoulli principle: 1) refrigerator, 2) can opener, 3) washing machine, 4) vacuum cleaner.
+
+----
+num: 14
+category: Physical Science
+difficulty: MS
+seen: 6
+answer: 1
+
+How many lone pairs of electrons are in NH^3?
+
+----
+num: 14
+category: Physical Science
+difficulty: MS
+seen: 6
+answer: 2
+
+Given g as 10 meters per second squared, how long,in seconds, will a pocket calculator travel upwards before starting to fall if thrown vertically with an initial velocity of 20 meters per second?
+
+----
+num: 15
+category: Biology
+difficulty: HS
+seen: 40
+answer: Parenchyma
+
+Name the plant tissue beneath the epidermis that makes up the cells that surround a stoma.
+
+----
+num: 15
+category: Earth and Space Science
+difficulty: MS
+seen: 6
+answer: Mercury and Venus
+
+
+What two planets in our solar system do 
+NOT have a moon?
+
+----
+num: 16
+category: Math
+difficulty: HS
+seen: 23
+answer: 17
+
+Considering the function fx  = 3x^2- 4x + 1, what is the average rate of change from x = 2 to x = 5?
+
+----
+num: 16
+category: Math
+difficulty: MS
+seen: 6
+answer: 0
+
+What is the smallest non-negative integer which is divisible by each of 2, 3 and 4?
+
+----
+num: 16
+category: Math
+difficulty: MS
+fixed: -1
+seen: 7
+answer: 2 π
+
+Providing your answer in terms of pi and in square units, what is the area of the shape described by the equation x^2+ y^2= 2?
+
+----
+num: 17
+category: General Science
+difficulty: MS
+seen: 6
+answer: Earth, Mars, Jupiter, Saturn (Accept: 4, 1, 3, 2)
+
+
+By name or number, place the following four planets in order from highest to lowest density: 1) Mars, 2) Saturn, 3) Jupiter, 4) Earth.
+
+----
+num: 18
+category: Earth and Space
+difficulty: HS
+seen: 47
+answer: Nor’easter
+
+What term is often used to describe a winter storm that strikes the East Coast of the United States, involving a low pressure system that picks up moisture from the ocean and often dumps snow on land?
+
+----
+num: 18
+category: Earth and Space
+difficulty: HS
+fixed: -1
+seen: 46
+answer: Curved Mirrors (Accept: Mirrors)
+
+What optical device completely eliminates chromatic aberration in telescopes?
+
+----
+num: 18
+category: Earth and Space Science
+difficulty: MS
+seen: 5
+answer: Archean, Pr Oterozoic, Phanerozo Ic (Accept: 2, 3, 1)
+
+By name or number, put the following three 
+Earth eons in order from most ancient to most recent: 1) Phanerozoic (read as: fah-neh-roh-
+ZŌE-ik), 2) Archean (read as: ahr-KEE-ahn), 3) Proterozoic.
+
+----
+num: 19
+category: Chemistry
+difficulty: HS
+fixed: -1
+seen: 33
+answer: 10
+
+
+Within a single atom, w hat is the maximum number of electrons that can fit in an atomic shell defined by the quantum numbers n = 3 and l = 2 (read as: L equals 2)?
+
+----
+num: 19
+category: General Science
+difficulty: MS
+seen: 6
+answer: Hydrothermal Vent
+
+
+What is the name of the phenomenon created when seawater seeps into cracks in the ocean floor, is heated by molten magma , and expelled back into the ocean?
+
+----
+num: 20
+category: Biology
+difficulty: HS
+seen: 39
+answer: Aldose
+
+One group of carbohydrates is known as polyhydroxylated aldehydes. By what other term is this group described?
+
+----
+num: 20
+category: Biology
+difficulty: HS
+seen: 41
+answer: Temperature
+
+Bacteria depend on cell membrane lipids to provide structure and stability. What physical environmental factor is most likely to cause these membranes to lose stability?
+
+----
+num: 20
+category: Life Science
+difficulty: MS
+seen: 12
+answer: Phagocytosis
+
+What is the name of the mechanism by which macrophages engulf bacteria?
+
+----
+num: 20
+category: Life Science
+difficulty: MS
+seen: 11
+answer: Liver
+
+What human organ is composed of the following four lobes: right , quadrate, caudate (read as: KOH-dayt), and left?
+
+----
+num: 21
+category: Chemistry
+difficulty: HS
+seen: 33
+answer: Tin (Ii) Chloride Hexahydrate
+
+What is the IUPAC name for SnCl^2 ∙ 6H^2O?
+
+----
+num: 21
+category: Chemistry
+difficulty: HS
+seen: 35
+answer: Yogurt, Blood, and Ketchup (Accept: 2, 4, and 5)
+
+
+By name or number, list all of the following five substances that are NOT Newtonian fluids: 1) gasoline, 2) yogurt, 3) water, 4) blood, 5) ketchup.
+
+----
+num: 21
+category: General Science
+difficulty: MS
+seen: 6
+answer: 2
+
+
+By number, identify all of the following three traits that are TRUE for all mammals, birds, fish, plants, and insects: 1) the female has an XX genotype; 
+2) the female produces the larger gamete; 3) the female carries the young.
+
+----
+num: 22
+category: Math
+difficulty: HS
+seen: 26
+answer: 80/3 (Accept: 26  2/3)
+
+The linear function y = f(x) contains the two points (2, 1) and (5, 8). In simplest form, what is f(13)?
+
+----
+num: 22
+category: Math
+difficulty: MS
+fixed: -1
+seen: 6
+answer: 20 π
+
+The volume of a closed right circular cylinder is 12 π cubic meters and its base has a radius of 2 meters. In terms of π square meters, what is the surface area of the cylinder?
+
+----
+num: 23
+category: Math
+difficulty: HS
+seen: 26
+answer: 80
+
+A population has a mean of 73 and a standard deviation of 8. If the distribution is standardized to create a new distribution with a mean of 100 and a standard deviation of 20, what is the new value of a score of 65 from the original distribution?
+
+----
+num: 23
+category: Math
+difficulty: HS
+seen: 25
+answer: Amplitude = 7, Period = 12, Horizontal Shift =  - π/12 (Accept: π/12 
+Left), Vertical Shift = -5 (Accept: 5 Down)
+
+
+What are, respectively, the amplitude, period, horizontal shift , and vertical shift of y = -5 + 7cos [π/6^(x + π/12)] (read as: y equals negative 5 plus 7 cosine of open bracket pi over 6 open parenthesis x plus pi over 12 close parenthesis close bracket)?
+
+----
+num: 23
+category: Physical Science
+difficulty: MS
+seen: 6
+answer: It Decreases
+
+Moving down the group on the periodic table from fluorine to astatine, what happens to the el ectronegativity?
+
+----
+num: 23
+category: Physical Science
+difficulty: MS
+seen: 5
+answer: Water
+
+
+When a glycosidic bond is formed to make sucrose, what is the other resulting product?
+
+----
+num: 24
+category: Biology
+difficulty: HS
+seen: 40
+answer: Somatic (Accept: Somatomotor System)
+
+If a person suffers an injury and is no longer able to walk but the heart was not affected, which peripheral nervous system component is most likely to have been damaged?
+
+----
+num: 24
+category: Biology
+difficulty: HS
+seen: 39
+answer: Abscission
+
+What is the technical name of the process, usually occurring in the fall, through which deciduous plants systematically shed their leaves? A thin layer of cells may be produced during this process, thus further sealing the site of detachment.
+
+----
+num: 24
+category: Life Science
+difficulty: MS
+seen: 10
+answer: Conjunctivitis (Accept: Pink Eye)
+
+What is the name of an inflammation or infection of the transparent membrane that lines your eyelid and part of your eyeball, causing small blood vessels to become more prominent?
+
+----
+num: 25
+category: Chemistry
+difficulty: HS
+seen: 34
+answer: 10
+
+How many milliliters of 0.75 molar HCl are required to completely neutralize 25.0 milliliters of 0.15 molar Ba(OH) ^2?
+
+----
+num: 25
+category: General Science
+difficulty: MS
+seen: 6
+answer: Limestone
+
+What rock was created from the dissolved carbon dioxide in the primordial atmosphere?

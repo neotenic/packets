@@ -1,0 +1,320 @@
+####
+tournament: #6456
+round: Show #6456 - Monday, October 15, 2012
+year: 2012
+date: 2012-10-15
+####
+
+num: 1
+category: Science
+difficulty: 200
+seen: 8
+answer: a (plumber\'s) snake
+
+"Beastly" tool consisting of a metal wire fed into curved pipes to remove an obstruction.
+
+----
+num: 2
+category: Trash
+difficulty: 200
+seen: 6
+answer: Elton John
+
+"Bennie And The Jets" & "Candle In The Wind" (both versions).
+
+----
+num: 3
+category: Literature
+difficulty: 200
+seen: 4
+answer: the lime
+
+The limequat is a cross between a kumquat & this lemon-shaped fruit.
+
+----
+num: 4
+category: Science
+difficulty: 400
+seen: 7
+answer: sledgehammer
+
+Peter Gabriel sang about this long-handled smashing tool.
+
+----
+num: 5
+category: Trash
+difficulty: 400
+seen: 5
+answer: Billy Joel
+
+The original "Piano Man" (1974).
+
+----
+num: 6
+category: Literature
+difficulty: 400
+seen: 3
+answer: the coconut
+
+It's the fruit of the coconut palm tree.
+
+----
+num: 7
+category: Literature
+difficulty: 400
+seen: 4
+answer: secretaries general
+
+Secretary-general.
+
+----
+num: 8
+category: Science
+difficulty: 600
+seen: 5
+answer: a saw
+
+Buzz & coping are 2 varieties of this tool.
+
+----
+num: 9
+category: Trash
+difficulty: 600
+seen: 6
+answer: Barry Manilow
+
+"Can't Smile Without You" (1978).
+
+----
+num: 10
+category: Literature
+difficulty: 600
+seen: 4
+answer: a corn dog
+
+It's a hot dog on a stick that's dipped in cornbread batter & deep fried.
+
+----
+num: 11
+category: Science
+difficulty: 800
+seen: 5
+answer: a compass
+
+Dividers have sharp points on both ends; this similar device has one sharp point & one pencil.
+
+----
+num: 12
+category: Trash
+difficulty: 800
+seen: 4
+answer: (Freddie) Mercury
+
+He sang lead & played piano on "Bohemian Rhapsody".
+
+----
+num: 13
+category: Literature
+difficulty: 800
+seen: 4
+answer: blackberries
+
+The blacker the color of these berries, the riper & sweeter the fruit.
+
+----
+num: 14
+category: Literature
+difficulty: 800
+seen: 4
+answer: seraphim
+
+Seraph: seraphs or this longer word.
+
+----
+num: 15
+category: Science
+difficulty: 1000
+seen: 6
+answer: a socket wrench (or socket set)
+
+A group of different-sized attachments for a ratchet-style wrench is called this set.
+
+----
+num: 16
+category: Trash
+difficulty: 1000
+seen: 5
+answer: Jerry Lee Lewis
+
+In 1957 he had a "Whole Lot Of Shakin' Going On".
+
+----
+num: 17
+category: Literature
+difficulty: 1000
+seen: 3
+answer: Linz
+
+The Linzer torte, a tart usually filled with raspberry jam, is named for this Austrian city.
+
+----
+num: 18
+category: Literature
+difficulty: 1000
+seen: 4
+answer: stigmata
+
+Stigma: stigmas or this longer form.
+
+----
+num: 19
+category: History
+difficulty: 400
+seen: 4
+answer: Sinbad
+
+"Arabian Nights" guy.
+
+----
+num: 20
+category: Literature
+difficulty: 400
+seen: 4
+answer: Memphis
+
+Andrew Jackson was a co-founder of this largest Tennessee city.
+
+----
+num: 21
+category: Art
+difficulty: 400
+seen: 4
+answer: a pekin duck
+
+Drop a "G" from a Chinese dish to get this breed of duck popular among U.S. poultry farmers.
+
+----
+num: 22
+category: Literature
+difficulty: 400
+seen: 4
+answer: windmills
+
+Don Quixote attacks a row of these, believing them to be gigantic knights.
+
+----
+num: 23
+category: Art
+difficulty: 800
+seen: 4
+answer: skin
+
+To show musculature, an ecorche drawing shows a figure not only without clothes but without this.
+
+----
+num: 24
+category: Art
+difficulty: 800
+seen: 4
+answer: mallard
+
+It's the most common duck species in North America.
+
+----
+num: 25
+category: Literature
+difficulty: 800
+seen: 4
+answer: Sudoku
+
+The earliest versions of this puzzle of 9 rows & 9 columns were called Number Place.
+
+----
+num: 26
+category: Art
+difficulty: 1200
+seen: 4
+answer: one\'s a male & one\'s a female
+
+It's the main difference between a kouros & a kore, types of Greek sculptures of standing figures.
+
+----
+num: 27
+category: History
+difficulty: 1200
+seen: 4
+answer: sincere
+
+Not feigned or pretended.
+
+----
+num: 28
+category: Literature
+difficulty: 1200
+seen: 3
+answer: Eugene
+
+This home to the University of Oregon was founded by a Mr. Skinner & given his first name.
+
+----
+num: 29
+category: Literature
+difficulty: 1200
+seen: 4
+answer: the Western Wall (or the Wailing Wall)
+
+Archaeologists discovered 19 rows of stones extending below this alliterative holy landmark in Jerusalem.
+
+----
+num: 30
+category: Art
+difficulty: 1600
+seen: 5
+answer: conceptual art
+
+Duchamp is the father of this style of art that elevates idea over execution; the term contains a synonym for "idea".
+
+----
+num: 31
+category: Art
+difficulty: 1600
+seen: 4
+answer: a teal
+
+There are blue-winged & green-winged types of this duck that's also a blue-green color.
+
+----
+num: 32
+category: Literature
+difficulty: 1600
+seen: 4
+answer: a hippodrome
+
+This type of ancient Greek chariot race venue with a 600-to-700-foot course had seats in rows or tiers.
+
+----
+num: 33
+category: Art
+difficulty: 2000
+seen: 6
+answer: provenance
+
+To authenticate a painting, you need this record of its ownership from the period of its creation to the present.
+
+----
+num: 34
+category: History
+difficulty: 2000
+seen: 5
+answer: Sinaloa
+
+Mexican state where you'll find Mazatlan.
+
+----
+num: 35
+category: Literature
+difficulty: 2000
+seen: 5
+answer: Jethro Tull
+
+This 18th c. Oxford man didn't invent an "Aqualung" but did devise a farm tool for planting seeds in rows.

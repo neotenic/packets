@@ -1,0 +1,214 @@
+####
+tournament: ACF Regionals
+round: 2007 ACF Regionals - Princeton A UIUC B Midwest.doc
+year: 2007
+####
+
+num: 1
+category: Science
+difficulty: College
+fixed: 57
+seen: 80
+answer: {potential} energy
+
+Anfinsen's thermodynamic hypothesis uses the minimum of this quantity to predict protein structures, and in the Henon-Heiles equation, this quantity is given by “one half r-squared plus one-third r-cubed times sine of 3-theta.” The Jeans length gives the scale at which one form of this quantity will result in the stability of a gas cloud. For a dipole in an electric field, it is the negative dot product of the moment and the electric field.  The derivative of this quantity with respect to a position gives the force field, and for a spring, it is given by one-half times the spring constant times the displacement squared. For ten points, identify this quantity, the energy a system has by virtue of its configuration.
+
+----
+num: 2
+category: History
+difficulty: College
+fixed: 57
+seen: 70
+answer: {Cyprus}
+
+Its original inhabitants retained only the kingdom of Amathus after six Arcadian colonies were founded here. It may have been the Hittite trading center of Alashiya and was later claimed as a conquest by Thutmose III and Sargon II. In the later Middle Ages it served as a sugar plantation and a refuge for the deposed kings of Jerusalem, who ruled the island as the house of Lusignan and squabbled with the Genoese and Venetians. Captured by the Ottomans in the sixteenth century, in 1878 it became a British naval base. FTP, name this ancient source of copper, an island in the Eastern Mediterranean still disputed between Greeks and Turks.
+
+----
+num: 3
+category: Literature
+difficulty: College
+fixed: None
+seen: 58
+answer: {Bertholdt Brecht}
+
+In one of this man's works, a barber who had offered to set up a shelter for the homeless breaks the hand of a water-seller and competes for a woman who disguises herself as her own cousin in order deal with Shu Fu and Yang Sun.  In a work based on the thirteenth century work Hui Lan Ji, the judge Azdak rules that Grusha or Natalla will get custody of Michael based on which of them can pull the child out of the titular diagram.  Another work sees the deaths of Katrin, Eilif and Swiss Cheese, who are survived by the other title character, Anna Fierling.  FTP name this German playwright of The Good Woman of Setzuan, The Caucasian Chalk Circle, and Mother Courage and Her Children.
+
+----
+num: 4
+category: Fine Arts
+difficulty: College
+fixed: 1
+seen: 72
+answer: Magdalena Carmen Frieda {Kahlo} y Calderón
+
+One of this artist's works originally featured an angel, which was removed at the request of Clare Boothe Luce, who commissioned the painting depicting Hampshire House and the suicide of Dorothy Hale.  Images of Alexander the Great, Martin Luther, Ghandi, Napoleon, Hitler, and Marx are to the left of the embryo of Moses, in one of this artist's paintings. Andre Breton got her a showing at the Julian Levy Gallery, and her other works include a depiction of herself sitting under a portrait of Dr. Farrill, whom she credited with saving her life, as well as Miscarriage in Detroit, inspired by retablos. For ten points, name this Mexican artist, the wife of Diego Rivera who notably painted a self-portrait with monkeys, as well as a painting depicting two versions of herself.
+
+----
+num: 5
+category: Philosophy
+difficulty: College
+fixed: None
+seen: 58
+answer: {Physics} ({Physica/Phusika})
+
+Sarah Waterlow wrote a 1984 philosophical study on this work. The end of its most famous part uses the example of a wall, which comes about because stones sink to the bottom and wood floats to the top, or perhaps it comes about for protection. Prior to this, the work defines the ideas of luck and chance as those things which occur “for something” but only coincidentally, after discussing the four causes - the material, formal, efficient, and final causes - in Part 3 of Book 2. Book 1 gets straight to the main point discussing nature as a principle of change, and the final four of the eight total books all deal primarily with motion. FTP, name this work by Aristotle which deals with the development of a science, rather than mechanics or electromagnetics as its name might imply.
+
+----
+num: 6
+category: Science
+difficulty: College
+fixed: None
+seen: 84
+answer: Internet Protocol version 6 (prompt on partial answer or on “{IPng}”)
+
+A technique using the 48-bit AGGR allows endpoint addresses to be stored in its header, enabling tunneling via its predecessor.  Created by a team lead by Steve Deering at PARC, convention states that strings of zeros in these addresses can be replaced by a double colon and the last 32 bits can be written in decimal instead of hex.  Although its predecessor's header is half as big and is limited to four billion nodes, address translation has slowed its adoption, even though its 128-bit address space allows for 3.4 times ten to the 38 nodes.  China's Next Generation Internet is abandoning the fourth version of, FTP, what addressing protocol usually paired with TCP that is to replace IPv4?
+
+----
+num: 7
+category: History
+difficulty: College
+fixed: None
+seen: 66
+answer: Battle of {Flodden Field} (or Branxton Hill before mentioned)
+
+Of the nobles on the losing side, only Huntly, Lindsay, and Home escaped alive. The last of them, Lord Home, is sometimes alleged to have made an agreement with Lord Dacre to sit out the battle, and was pilloried in its aftermath. A skirmish was initially fought at Milfield, on a pretext of instigation by a man called “the bastard,” John Heron, but the action then moved to Branxton Hill, which provides an alternate name for the battle. Thomas Howard, the Earl of Surrey, commanded forces since the remainder of the English army was in France under Henry VIII, and the result was a crushing defeat of James IV. FTP, name this 1513 victory for the English over the Scots, described in Walter Scott's Marmion.
+
+----
+num: 8
+category: Literature
+difficulty: College
+fixed: 57
+seen: 61
+answer: José de Sousa {Saramago}
+
+One of this author's short stories concerns a petitioner and a cleaning woman, who tries to answer his petition for a boat, while one of his novels ends on April 25th, 1974, the date of a revolution in this writer's home country. He set one of his novels in a location taken from a Platonic allegory, and Azio Corghi based a 1989 opera on this man's Memorial of the Convent. Another of this man's novel is set in 1936, when the title character returns home after 16 years abroad and wanders the city with the ghost of the poet Fernando Pessoa. More famous is a novel which depicts a landmass that detaches from a continent, forming the titular object, and another work about an illness that leaves people able to see only white light. Also the writer of Baltasar and Blimunda, for ten points, identify this author of The Stone Raft and Blindness.
+
+----
+num: 9
+category: Religion
+difficulty: College
+fixed: None
+seen: 55
+answer: Guru {Gobind Singh} (or {Gobind Rai Sodhi})
+
+This man's Chandi di Var is a poetic composition about an aspect of the goddess Durga, and its first stanza forms the first part of the ardaas. He called any who would die for their faith into a tent, after which he emerged holding a sword dripping with blood. The men were not killed and the event formed the basis for the Amrit ceremony, after which adherents are called khalsa, for those “five beloved” men. His father, Teg Bahadur, sacrificed himself up to the current Mughal emperor, Aurangzeb, after which this man succeeded him and compiled the Dasam Granth. He declared that the Guru Granth Sahib would be the ultimate and last guru, but, FTP, name this 10th and final human guru of Sikhism.
+
+----
+num: 10
+category: Fine Arts
+difficulty: College
+fixed: None
+seen: 69
+answer: La {Mer} or The {Sea}
+
+Other works that share its name include a setting of Guinaud's poetry by De Joncieres, an 1889 fantasy by Glazunov inspired by Liszt's tone poems, and an orchestral work prefaced by the poems of Levis, written by Gilson.  These works, along with D'Indy's L'Etranger, helped inspire this piece.  The first edition manuscript given to Varèse includes brass fanfares that were later removed from the third section, a dialogue between the wind and the title setting.  Proceeding “from dawn to noon” in the first movement, FTP name this Debussy piece whose second movement depicts the “play of the waves.”
+
+----
+num: 11
+category: Mythology
+difficulty: College
+fixed: 57
+seen: 112
+answer: {Hephaestus}
+
+He cleansed Pelops of blood-guilt in the western stream of Oceanus, and a practical joke by his uncle resulted in him ejaculating on his half-sister's thigh, making him the father of Erichthonius.  He drove off the River-god Scamander to help Achilles, and the blinded Orion took his apprentice Cedalion as a guide after finding his workshop.  During the revolt of the giants, he scalded Mimas with a ladle full of red-hot metal.  Pandareus and Tantalus conspired to steal a golden mastiff created by this god, and his other creations include a net that caught Ares in bed with his wife.  FTP name this husband of Aphrodite, the lame smith-god of the Greeks.
+
+----
+num: 12
+category: History
+difficulty: College
+fixed: 1
+seen: 72
+answer: Warren Gamaliel {Harding}
+
+This man tapped the head of the American Relief Administration to be his Commerce Secretary, and his Supreme Court appointments included Edward Sanford and the first Justice from Minnesota, Pierce Butler. The first Senator to be elected president, he was grouped with Charles Forbes, Will Hays and Harry Daugherty in the Ohio Gang. Thomas Walsh exposed the corruption of this man's administration, documented in Samuel Hopkins Adams' 1939 book Incredible Era. Elected on a platform of a “return to normalcy” over James Cox, for ten points, identify this president who was succeeded upon his 1923 death by Calvin Coolidge.
+
+----
+num: 13
+category: Literature
+difficulty: College
+fixed: 57
+seen: 60
+answer: Job
+
+This man appears in a work set in “a fair oasis of the purest desert,” and a novel with this title sees Miriam's father come to grips with his son Menuchim being retarded.  In a third work, another character based on this man meets a downtrodden balloon seller and a sardonic popcorn vender named Zuss and Nickles, respectively.  Robert Frost's blank verse comedy A Masque of Reason focuses on this man, as does Joseph Roth's novel about Mendel Singer.  A man who sees his children killed by war, drunk drivers and murderers is based on, FTP, what Biblical character whose story is retold in Archibald Macleish's play J.B.?
+
+----
+num: 14
+category: Trash
+difficulty: College
+fixed: None
+seen: 188
+answer: “The Unit”
+
+Kieth Soto of the New York Times is the son of one of its members, but was convinced not to publish a story about it in return for learning how his father died.  The wife of its NCOIC at the same time was attempting to get the truth out of a woman who stole $40,000 from an investment club by claiming to be selling her house to move to Minnesota for treatment. Tiffy Gerhardt, however, is having an affair with Colonel Tom Ryan, played by Robert Patrick, who is the group's CO. Operating under the cover of the 303rd Logistical Studies Unit, a reference to an earlier Mamet work, Wag the Dog, FTP, name this drama with Dennis Haysbert on CBS, about a fictional special forces group.
+
+----
+num: 15
+category: History
+difficulty: College
+fixed: 57
+seen: 98
+answer: {Clovis}
+
+Lithic similarities led Stanford and Bradley to propose that the culture of this name represents a migratory outpost of the Solutrean culture.  A character of this name appears in a story “on the Alleged Romance of Business” in The Square Egg.  The culture of this name has long been held to have crossed the Bering Land Bridge and peopled the Americas.  In his Histories, Gregory of Tours heaps praise on and discusses the conversion of a man of this name, a son of Childeric I.  The story “Tobermory” appears in the Chronicles of, FTP, this literary character created by Saki who shares his name with the husband of the Clotilde and founder of the Merovingian dynasty.
+
+----
+num: 16
+category: Science
+difficulty: College
+fixed: None
+seen: 80
+answer: {Rhizobium} or {Rhizobia}
+
+They contain large Sym plasmids that bear nod genes coding for factors that induce cortical cell division, and their gene expression is modified by uptake of flavonoids.  Following the recognition and attachment steps mediated by the protein rhicadhesin, they multiply in infection threads.  Effective strains produce large structures whose reddish color comes from the oxygen buffer leghemoglobin, which is partially encoded in the host plant.  FTP name these gram-negative bacteria that form symbiotic relationships with legumes, producing nitrogen-fixing root nodules.
+
+----
+num: 17
+category: History
+difficulty: College
+fixed: None
+seen: 71
+answer: {Choson} or {Joseon} or {Yi} Dynasty
+
+During this dynasty, a Catholic scholar developed a philosophy of the rights of the people that is classified as part of the “practical learning” modernization movement known as Silhak.  Its fourth ruler is credited with developing the official writing system of fourteen consonants and ten vowels, replacing the hanja system.  It was formed after in the late 14th century when an opportunity to invade China was passed over by King U's general in favor of overthrowing the Goryeo.  FTP, name this dynasty that ruled Korea until annexed by Japan in 1910.
+
+----
+num: 18
+category: Philosophy
+difficulty: College
+fixed: 57
+seen: 54
+answer: Robert {Nozick}
+
+This man's essays on interpersonal utility theory and Austrian methodology are collected in his volume Socratic Puzzles. He argued against Edmund Gettier by suggesting a “truth-tracking” solution to the definition of knowledge in Philosophical Explanations, while the Prisoner's Dilemma and Newcomb's problem are covered in his The Nature of Rationality. Another book draws the example of trading with Wilt Chamberlain and introduces the concept of the Lockean proviso for property appropriation, while he argued against an opponent by claiming that “it needn't be that the foundations underlying desert are themselves deserved all the way down.” For ten points, identify this late Harvard philosopher, who attacked John Rawls' Theory of Justice in his Anarchy, State, and Utopia.
+
+----
+num: 19
+category: Literature
+difficulty: College
+fixed: 57
+seen: 60
+answer: {She Stoops} to {Conquer}
+
+One of this play's two settings is frequented by a pewter platter spinner named Tom Twist and a horse doctor named Jack Slang.  Roger and Diggory are servants in the employ of a character whose role was originated by Ned Shuter, an actor mentioned in the prologue written by David Garrick.  Two characters in this play are directed to the Buck's Head, recognizable by the pair of horns over its door, after asking for directions at the Three Jolly Pigeons.  Constance Neville winds up with George Hastings despite the schemes of the mother of Tony Lumpkin.  Young Marlow ends up marrying Kate Hardcastle after mistaking her for a serving wench in, FTP, this comedy by Oliver Goldsmith.
+
+----
+num: 20
+category: History
+difficulty: College
+fixed: 57
+seen: 69
+answer: {Justinian} I (the Great) or {Flavius Petrus Sabbatius Justinianus}
+
+This ruler issued a “divine pragmatic sanction” nullifying certain donations, and was influenced by the theological advisors Domitian of Ancyra and Theodore Askidas. His armies were defeated at the Battle of Callinicum, after which his minister Peter Barsymes devised a set of fiscal reforms. His theological quarrel with Pope Vigilius is sometimes called the Three Chapters dispute. A year after he negotiated the so-called “Endless Peace” with the Persians, his army won at Tricamerum over Gelimer and the Vandals and he commissioned Tribonian to supervise the creation of the Digesta, the Institutiones, and the Novels, all components of his namesake legal code. FTP, name this great Byzantine emperor from 527-565 CE.
+
+----
+num: 21
+category: Science
+difficulty: College
+fixed: 57
+seen: 80
+answer: {spiral}
+
+The Nielsen type of these can be used to derive the Cesaro equation. One of these named after Cotes represents the solutions to a central orbit subject to an inverse-cubed force law, and a polygonal one may be generated from the ratios of the inradius to circumradius of a regular polygon. One of these objects named after Ulam is a graphical representation of the primes, while the Cornu type is a plot of the solutions of the Fresnel integrals. More famous are the Fermat and hyperbolic varieties, which correspond to special cases of the equation “r equals a times theta raised to the 1 over n power.” For ten points, identify these mathematical curves, of which the most famous is the Archimedean.

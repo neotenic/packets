@@ -1,0 +1,204 @@
+####
+tournament: Fall Novice
+round: round08.doc
+year: 2009
+####
+
+num: 1
+category: Fine Arts
+difficulty: HS
+fixed: 1
+seen: 495
+answer: Bela {Bartok} [or {Bartok Béla}]
+
+This composer is the namesake of a string-snapping pizzicato sound. A companion of Zoltan Kodaly [KOE-dye], he collected 153 increasingly difficult piano etudes in his Mikrokosmos, and a girl performs three “seduction dances” in his ballet The Miraculous Mandarin. A princess opens seven colored doors in his one-act opera Duke Bluebeard's Castle. For 10 points, name this composer who incorportated folk songs from his native Hungary.
+
+----
+num: 2
+category: Science
+difficulty: HS
+fixed: 1
+seen: 485
+answer: Johannes {Kepler}
+
+This scientist's work on the stellating polyhedra led his name, along with Poinsot, to those shapes. He published his Cosmographic Mysteries before he discovered that the sun is the focus of an ellipse, and that the cubes of periods of revolution are equal to the squares of the radii of planetary orbits. The student of Tycho Brahe, for 10 points, name this scientist with three namesake laws of planetary motion.
+
+----
+num: 3
+category: Philosophy
+difficulty: HS
+fixed: 1
+seen: 518
+answer: {Stoics} [accept word forms]
+
+One of this group's central beliefs was that truth can be distinguished logically from fallacy, and another tenet was that of “pneuma,” or the breath of life. Like Plato, they considered the four cardinal virtues to be wisdom, courage, justice, and temperance. Its members included Seneca the Younger, Marcus Aurelius, and its founder, Zeno of Citium. For 10 points, name this group of Greek philosophers who advocated high levels of personal discipline over material wealth.
+
+----
+num: 4
+category: Social Science
+difficulty: HS
+fixed: 57
+seen: 380
+answer: {Stanford} Prison Experiment [accept {Zimbardo} Prison Experiment before “{Zimbardo}”]
+
+The only person to object to this experiment during its running was Christina Maslach, while the first person to quit this experiment, known as #8612, had suffered a breakdown. Mirrored glasses were given to participants such as one nicknamed John Wayne, and participants were grouped by a coin toss into the roles of guards or prisoners. For 10 points, name this experiment which lasted only 6 days, run by Philip Zimbardo and named for the California university where it occurred.
+
+----
+num: 5
+category: Science
+difficulty: HS
+fixed: 57
+seen: 491
+answer: {Prime} numbers
+
+One way to find them is with a Sieve of Eratosthenes, and Golbach's Conjecture states that every number greater than 2 can be written as the sum of two of these numbers. Euler proved that the sum of their reciprocals diverges, while the fundamental theorem of arithmetic states that all natural numbers can be uniquely factorized into them. For ten points, name these numbers divisible only by one and themselves.
+
+----
+num: 6
+category: History
+difficulty: HS
+fixed: None
+seen: 423
+answer: Scotland or {Alba}
+
+This country was the site of the Battle of Culloden, which ended the Jacobite Rising. Forces of this country won the battles of Stirling Bridge and Falkirk during this country's war of independence, in which Edward Longshanks was defeated by men such as Robert the Bruce and William Wallace. For 10 points, name this constituent country of the United Kingdom, with largest city of Glasgow and a capital of Edinburgh.
+
+----
+num: 7
+category: Literature
+difficulty: HS
+fixed: 1
+seen: 443
+answer: Alfred, Lord {Tennyson}
+
+This man wrote of a woman who “hath no loyal knight, and true” as well as a poem in which he chronicles the deeds of King Arthur's knights. In addition to “The Lady of Shalott” and “The Idylls of the King,” this poet wrote that it is “far better to have loved and lost/than never to have loved at all” in his “In Memoriam” and also wrote the lines “Half a league onward/All in the Valley of Death/Rode the six hundred.” For 10 points, name this British poet of “The Charge of the Light Brigade.”
+
+----
+num: 8
+category: Trash
+difficulty: HS
+fixed: 1
+seen: 1019
+answer: The {Big Bang Theory}
+
+In one episode of this show, one character attempts to create Nuevo Jerusalem in the desert after losing faith in his intelligence. Another character's shyness around women has only been cured by experimental pharmaceuticals. That second character is Rajesh, while another character in this show, Howard Wolowitz, only has a master's degree. Penny lives across the hall from Leonard Hofstadter and Sheldon Cooper, in, for 10 points, what CBS sitcom about some physicists?
+
+----
+num: 9
+category: History
+difficulty: HS
+fixed: None
+seen: 422
+answer: Mali Empire
+
+This empire's semi-legendary founder was born to "buffalo woman,” and the region this empire ruled later became French Sudan. After this empire's downfall, the region was ruled by the Songhai. One leader of this empire, which was founded by Sundiata, vastly lowered the price of gold by giving away massive amounts traveling to Mecca. That leader was Mansa Musa. For 10 points, name this West African empire, which names a country with capital at Bamako.
+
+----
+num: 10
+category: Science
+difficulty: HS
+fixed: 1
+seen: 483
+answer: pendulum
+
+A double one of these devices exhibits chaotic motion. Bullet speed can be calculated with a “ballistic” one of these devices, while a “physical” one has a massive rod. The one of Foucault's demonstrated that the earth rotated, and it is helpful to use the approximation sin theta equals theta for problems involving this system. Exhibiting simple harmonic motion, for 10 points, name this device, the simplest of which is a bob at the end of a string.
+
+----
+num: 11
+category: Mythology
+difficulty: HS
+fixed: 57
+seen: 781
+answer: Poseidon
+
+This god and a mortal both slept with Aethra in one night, thereby fathering Theseus. This god interfered with the voyage of Odysseus after he blinded this god's son, the Cyclops Polyphemus, and this god known as Earthshaker was infuriated when his gift of a saltwater spring was outdone by Athena's olive tree to win the city of Athens. His children with his wife Amphitrite include his son Triton. For 10 points, name this creator of horses, the trident-wielding Greek god of the sea.
+
+----
+num: 12
+category: History
+difficulty: HS
+fixed: -1
+seen: 412
+answer: Charles Andre Joseph Marie de {Gaulle}
+
+This man wrote Discord Among the Enemy and The Edge of the Sword, and he argued for mechanized warfare and the building of tanks in The Army of the Future. This man was president during student rioting in May 1968. This man became president of his country after a rebellion in Algeria, and was succeeded by Georges Pompidou. For 10 points, name this leader of the Free French during World War II, who later founded the French Fifth Republic.
+
+----
+num: 13
+category: Literature
+difficulty: HS
+fixed: -1
+seen: 437
+answer: {Arabian Nights} [{also} accept One {Thousand} and One {Nights} before “{1001}” is mentioned]
+
+The first French translation of this work was by Antoine Galland, and an uncensored Victorian English version was produced by Richard Burton. One character in this work eats from a giant bird hatchling after his crew breaks its egg and then sees its mother destroy his ships, and another story in it features a cave used by forty thieves. Told to King Shahryar by Scheherezade to delay her execution, this is, for 10 points, what set of 1001 tales featuring characters like Ali Baba and Aladdin?
+
+----
+num: 14
+category: Fine Arts
+difficulty: HS
+fixed: 1
+seen: 492
+answer: Pablo Ruiz y {Picasso}
+
+A morose looking family of clowns is featured in this man's Family of Saltimbanques. One of his more famous paintings was originally supposed to have two more figures, and that painting features a nude prostitute whose face is an African mask. His Blue Period produced such works as the Old Guitarist, and a more distinctive period produced the aforementioned Les Demoiselles d'Avignon. Co-founder of Cubism with Georges Braque, for 10 points, name this Spanish artist who painted the black-and-white mural Guernica.
+
+----
+num: 15
+category: Science
+difficulty: HS
+fixed: 1
+seen: 493
+answer: {alveoli} [or {alveolus}]
+
+These structures are connected to their neighbors by pores of Kohn. Their type II cells secrete surfactants to reduce surface tension and thereby prevent atelectasis, the collapse of the lung, and emphysema causes the elastin in their walls to break down. Oxygen diffuses into the blood stream at, for 10 points, which spherical sacs located at the ends of the bronchioles in the lungs?
+
+----
+num: 16
+category: History
+difficulty: HS
+fixed: 1
+seen: 418
+answer: War of {1812}
+
+During this war, the Battle of Bladensburg allowed the capture of one side's capital. The bloodiest battle of this war was Lundy's Lane. Northern Federalists discussed succession at the Hartford Convention during this war. Events during this war include Oliver Hazard Perry's victory at Lake Erie, Andrew Jackson winning at New Orleans after the official end of the war, and the burning of the White House. Ending with the Treaty of Ghent, name, for 10 points, this “second war of independence,” fought between American and British forces.
+
+----
+num: 17
+category: History
+difficulty: HS
+fixed: 1
+seen: 412
+answer: Robert Edward {Lee}
+
+This man led William Jenkins Worth's men down La Veronica Causeway before he was wounded at the Battle of Chapultepec. He was promoted after the wounding of Joseph Johnston at Seven Pines. At Harper's Ferry, he captured John Brown. This man won the battles of Fredericksburg, Chancellorsville, and Second Bull Run while commanding the Army of Northern Virginia. For 10 points, name this General-in-Chief of the Confederate forces during the American Civil War.
+
+----
+num: 18
+category: Science
+difficulty: HS
+fixed: 57
+seen: 489
+answer: {Avogadro} constant [or {Avogadro's} number; or {N}; or {NA}]
+
+Modern methods of calculating this number use x-ray crystallography, and this number is equal to the Loschmidt constant times RT and divided by pressure. This number is equal to Faraday's constant divided by the electric charge, and Jean-Baptiste Perrin used a study of Brownian motion to calculate this number. Its reciprocal is the atomic mass unit, and carbon-twelve is used to define this constant. For 10 points, name this constant equal to 6.022 x 1023 [six point zero two two times ten to the twenty-third], the number of atoms of molecules in one mole?
+
+----
+num: 19
+category: Literature
+difficulty: HS
+fixed: 57
+seen: 446
+answer: The {Jungle}
+
+The protagonist of this novel is introduced to a life of crime by Jack Duane, whom he meets after attacking a bartender who tried to short-change him. The central figure is given jail time for attacking his wife's boss, resulting in him being blacklisted and having to find work in a machinery factory. This novel ends with the protagonist attending a Socialist rally and centers on the problems of Lithuanian immigrant Jurgis Rudkus. For 10 points, name this muckraking novel by Upton Sinclair.
+
+----
+num: 20
+category: Literature
+difficulty: HS
+fixed: 1
+seen: 447
+answer: The {Three Musketeers} Accept Les Trois Mousquetaires
+
+An affair in this work is almost revealed through the theft of two of twelve diamond studs that are retrieved by the protagonist, and that affair is aided by Constance. The queen's affair with the Duke of Buckingham ends with his death, and this novel sees much scheming by Cardinal Richlieu, as well as the treacherous Lady de Winter. For 10 points, name this novel by Alexandre Dumas whose title characters Athos, Porthos, and Aramis befriend the young D'Artagnan.

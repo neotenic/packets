@@ -1,0 +1,365 @@
+####
+tournament: #6177
+round: Show #6177 - Tuesday, June 21, 2011
+year: 2011
+date: 2011-06-21
+####
+
+num: 1
+category: Geography
+difficulty: 200
+seen: 8
+answer: Colombia
+
+This country has coastlines on both the Caribbean Sea and the Pacific Ocean.
+
+----
+num: 2
+category: Trash
+difficulty: 200
+seen: 6
+answer: the Los Angeles Dodgers
+
+1981: Steve Garvey, Fernando Valenzuela, Ron Cey (The Penguin).
+
+----
+num: 3
+category: Literature
+difficulty: 200
+seen: 4
+answer: burning bush
+
+Divine talkative plant of Exodus Chapter 3.
+
+----
+num: 4
+category: History
+difficulty: 200
+seen: 4
+answer: New York
+
+In 2009 the woman pictured here ended her service to this state.
+
+----
+num: 5
+category: Literature
+difficulty: 200
+seen: 5
+answer: Islam
+
+In Arabic folklore, ghouls were spirits said to be offspring of Iblis, this religion's prince of darkness.
+
+----
+num: 6
+category: Geography
+difficulty: 400
+seen: 8
+answer: Sao Paulo
+
+Founded in 1554, this city is Brazil's industrial & financial center.
+
+----
+num: 7
+category: Trash
+difficulty: 400
+seen: 5
+answer: the Chicago Bulls
+
+1990-91: John Paxson, Horace Grant, Scottie Pippen...I feel like we're leaving someone out.
+
+----
+num: 8
+category: Literature
+difficulty: 400
+seen: 3
+answer: a barn-burner
+
+A cow knocking over a candle, or something really exciting.
+
+----
+num: 9
+category: History
+difficulty: 400
+seen: 4
+answer: Arizona
+
+The politician seen.
+
+----
+num: 10
+category: Literature
+difficulty: 400
+seen: 4
+answer: Ron Weasley
+
+The family of this best friend of Harry Potter has a ghoul living in his attic.
+
+----
+num: 11
+category: Literature
+difficulty: 400
+seen: 4
+answer: rum
+
+Bacardi & Myer's.
+
+----
+num: 12
+category: Geography
+difficulty: 600
+seen: 8
+answer: Patagonia
+
+(Kelley of the Clue Crew stands before a map).
+
+----
+num: 13
+category: Trash
+difficulty: 600
+seen: 5
+answer: the Boston Red Sox
+
+2004:  Curt Schilling, David Oriiz, Mike Myers (No way!  Way!).
+
+----
+num: 14
+category: Literature
+difficulty: 600
+seen: 5
+answer: Auburn
+
+When it opened its doors as a private liberal arts institution in 1859, it was called East Alabama Male College.
+
+----
+num: 15
+category: History
+difficulty: 600
+seen: 4
+answer: Tennessee
+
+The gentleman seen.
+
+----
+num: 16
+category: Literature
+difficulty: 600
+seen: 4
+answer: scotch
+
+Glenlivet & Chivas.
+
+----
+num: 17
+category: Geography
+difficulty: 800
+seen: 7
+answer: Suriname
+
+Juliana Top, this country's highest point, was named for a Dutch Queen.
+
+----
+num: 18
+category: Trash
+difficulty: 800
+seen: 5
+answer: the Edmonton Oilers
+
+1984-85:  Wayne Gretzky, Mike Messier, Grant Fuhr, 3 of the 6 future Hall of Famers on the roster.
+
+----
+num: 19
+category: History
+difficulty: 800
+seen: 4
+answer: Minnesota
+
+In 1964 the man seen.
+
+----
+num: 20
+category: Literature
+difficulty: 800
+seen: 3
+answer: sake
+
+Gekkeikan & Ozeki.
+
+----
+num: 21
+category: Trash
+difficulty: 1000
+seen: 5
+answer: the Dallas Cowboys
+
+1977:  Golden Richards, Billy Joe DuPree, Roger Staubach...all were offensive minded.
+
+----
+num: 22
+category: Literature
+difficulty: 1000
+seen: 4
+answer: Burnham
+
+It came between Drexel & Lambert in the name of Michael Milkin's old brokerage firm.
+
+----
+num: 23
+category: History
+difficulty: 1000
+seen: 4
+answer: Utah
+
+In 2000 the Republican.
+
+----
+num: 24
+category: Literature
+difficulty: 1000
+seen: 4
+answer: gin
+
+Hendrick's & Boodles.
+
+----
+num: 25
+category: Literature
+difficulty: 400
+seen: 3
+answer: Marie Curie
+
+The celebratory year 2011 marks 100 years since this radiant scientist's Nobel Prize for Chemistry.
+
+----
+num: 26
+category: History
+difficulty: 400
+seen: 4
+answer: Pope John Paul II
+
+He issued the most recent Papal bull, "Incarnationis mysterium", "The mystery of the Incarnation", in 1988.
+
+----
+num: 27
+category: Literature
+difficulty: 400
+seen: 3
+answer: Johnson & Johnson
+
+While director of scientific affairs for this company, Joyce Kilmer's father invented its baby powder.
+
+----
+num: 28
+category: History
+difficulty: 400
+seen: 4
+answer: unidentified
+
+In UFO, possibly an alien craft.
+
+----
+num: 29
+category: Literature
+difficulty: 800
+seen: 3
+answer: carbon dioxide
+
+You exhale this gas first identified by British scientist Joseph Black in the 1750s.
+
+----
+num: 30
+category: History
+difficulty: 800
+seen: 4
+answer: Martin Luther
+
+Leo X's 1521 bull "Decet Romanum Pontificem" booted this guy out of the Catholic Church.
+
+----
+num: 31
+category: Literature
+difficulty: 800
+seen: 3
+answer: (Theodore) Dreiser
+
+The state song "On the Banks of the Wabash, Far Away", was written by the brother of this "Sister Carrie" author.
+
+----
+num: 32
+category: Literature
+difficulty: 1200
+seen: 4
+answer: water
+
+A chemical known as an anhydride is one that removes this from substances.
+
+----
+num: 33
+category: Literature
+difficulty: 1200
+seen: 4
+answer: (William) Burroughs
+
+This "Naked Lunch" author was named for his paternal grandfather, who invented the adding machine.
+
+----
+num: 34
+category: History
+difficulty: 1200
+seen: 4
+answer: Urban
+
+In the government department HUD.
+
+----
+num: 35
+category: History
+difficulty: 1600
+seen: 5
+answer: the Vatican Council
+
+John XXIII's bull of December 25, 1961 summoned the second of these.
+
+----
+num: 36
+category: Literature
+difficulty: 1600
+seen: 4
+answer: Daniel Day-Lewis
+
+This acting son of British Poet Laureate Cecil won Oscars in 1990 & 2008.
+
+----
+num: 37
+category: Literature
+difficulty: 2000
+seen: 5
+answer: the electrons
+
+A solid can be finely analyzed using the EELS technique, which studies energy loss in these particles.
+
+----
+num: 38
+category: History
+difficulty: 2000
+seen: 6
+answer: the Knights Templar
+
+Clement V's 1312 "Vox in excelso" disbanded this knightly order.
+
+----
+num: 39
+category: Literature
+difficulty: 2000
+seen: 5
+answer: Peter Benchley
+
+His father Nathaniel was a successful writer & his grandfather Robert was a noted humorist & drama critic.
+
+----
+num: 40
+category: History
+difficulty: 2000
+seen: 6
+answer: Un-American
+
+In the committee known as HUAC.

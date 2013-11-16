@@ -1,0 +1,304 @@
+####
+tournament: Question Set C
+round: Round-4C-MS.pdf
+####
+
+num: 1
+category: Math
+difficulty: MS
+seen: 6
+answer: –(4)^2;  (–1)^4;  (–3)^2;  –(–3)^3
+
+Arrange the following in increasing order: (–3)^2; –(4)^2; (–1)^4; –(–3)^3
+
+----
+num: 2
+category: General Science
+difficulty: MS
+seen: 5
+answer: 326
+
+To the nearest whole number, convert 53ºC into kelvin:
+
+----
+num: 2
+category: General Science
+difficulty: MS
+seen: 6
+answer: 140
+(Solution:  60 × 1.8 + 32 = 140º)
+
+To the nearest whole number, convert 60ºC into degrees 
+Fahrenheit:
+
+----
+num: 3
+category: Life Science
+difficulty: MS
+seen: 10
+answer: Phylum;  Class;  Order;  Family
+
+Order the following 4 groups from the LARGEST taxonomical group to the SMALLEST taxonomical group: family; class; order; phylum
+
+----
+num: 5
+category: Earth Science
+difficulty: MS
+seen: 7
+answer: Venus
+
+At its maximum brightness, which planet of our solar system appears brighter than any other planet in the sky?
+
+----
+num: 6
+category: Math
+difficulty: MS
+seen: 7
+answer: 1
+95
+
+Giving your answer as a mixed fraction reduced to its lowest terms,subtract the following fractions: (98! 1
+9) !(59 !129 )
+
+----
+num: 7
+category: General Science
+difficulty: MS
+fixed: -1
+seen: 6
+answer: 8  × 10^5
+
+Giving your answer in proper scientific notation with the correct number of significant digits, convert 800 kilometers per hour into meters per hour:
+
+----
+num: 8
+category: Life Science
+difficulty: MS
+seen: 10
+answer: Lobster
+
+Name all of the following 4 organisms that molt: nematode; clam; lobster; mollusk
+
+----
+num: 8
+category: Life Science
+difficulty: MS
+seen: 10
+answer: Open
+
+What is the scientific term for the type of circulatory system found in lobsters in which blood empties into spaces in the body that are not contained in vessels?
+
+----
+num: 9
+category: Physical Science
+difficulty: MS
+seen: 5
+answer: 15
+(Solution: Atomic Mass – 17 N = 16 Protons = Atomic # of 16 ! Loss of 1 Is 16 – 1 = 15)
+
+Consider an atom that has an original atomic mass of 33 and has 17 neutrons. If it then loses one proton, what is the resultant atomic number of the atom?
+
+----
+num: 10
+category: Earth Science
+difficulty: MS
+seen: 7
+answer: Anemometer
+
+What is the most common scientific name of the instrument used to measure wind speed?
+
+----
+num: 11
+category: Math
+difficulty: MS
+seen: 7
+answer: 32
+
+If the mileage scale on a road map is 1centimeter per 2.5 miles, an 80-mile trip would be represented by how many centimeters on the same map?
+
+----
+num: 11
+category: Math
+difficulty: MS
+seen: 6
+answer: Least =  – 9;  Greatest =  2
+
+Of the following five quantities, which is the LEAST and which is the 
+GREATEST, respectively: : 0.425; ¼; 2 ; – 9; 4/3
+
+----
+num: 13
+category: Life Science
+difficulty: MS
+seen: 11
+answer: Glu Cose
+
+What is the most common simple sugar or monosaccharide that makes up most of the carbohydrates of the typical American’s diet?
+
+----
+num: 13
+category: Physical Science
+difficulty: MS
+seen: 5
+answer: Lactose
+
+Which one of the following 5 molecules is a disaccharide that is present in high levels in milk: maltose; fructose; glucose; lactose; hexose
+
+----
+num: 14
+category: Physical Science
+difficulty: MS
+seen: 5
+answer: Oxygen and Iron
+
+Rusting of iron is a chemical combination of what two chemical elements?
+
+----
+num: 15
+category: Earth Science
+difficulty: MS
+seen: 8
+answer: Ozone
+
+What is the name for the gas found primarily in the stratosphere that absorbs UV radiation and ultimately protects life on Earth?
+
+----
+num: 16
+category: Math
+difficulty: MS
+fixed: -1
+seen: 7
+answer: 2
+3
+
+If a fair die is tossed once, what is the probability that an odd number or a number less than 3 is thrown expressed as a fraction in lowest terms?
+
+----
+num: 16
+category: Math
+difficulty: MS
+seen: 6
+answer: 11:45 Pm
+
+If the time is 1:15 PM, what time will it be, given as hours, minutes and 
+AM or PM, in 630 minutes?
+
+----
+num: 17
+category: General Science
+difficulty: MS
+seen: 5
+answer: Invertebrates;  Fish;  Reptiles;  Mammals
+
+Arrange the following 4 organisms from the first to appear on Earth to the most recent to appear on Earth: fish; invertebrates; reptiles; mammals
+
+----
+num: 18
+category: Life Science
+difficulty: MS
+seen: 10
+answer: Messenger Rna  (Accept:  Mrna)
+
+What type of nucleic acid has codons for matching with anticodons?
+
+----
+num: 18
+category: Life Science
+difficulty: MS
+seen: 10
+answer: 3
+
+How many nucleotide bases make up an anticodon?
+
+----
+num: 19
+category: Physical Science
+difficulty: MS
+seen: 5
+answer: Meters Per Second Squared
+
+What are the most common SI units used for the acceleration of an object?
+
+----
+num: 19
+category: Physical Science
+difficulty: MS
+seen: 6
+answer: 35
+(Solution:  a = F/m;  a = 700/20; a = 35 M/sec ^2)
+
+Neglecting friction, what is the acceleration, in meters per second squared, of a 20-kilogram iron block across a horizontal surface if 700 newtons is applied to the block?
+
+----
+num: 20
+category: Earth Science
+difficulty: MS
+seen: 8
+answer: Mantle
+
+What is the name for the layer of the Earth that is nearly 1,800 miles thick and represents about 68% of the Earth’s mass?
+
+----
+num: 21
+category: Math
+difficulty: MS
+seen: 6
+answer: 3
+(Solution:  3:4:5 Triangle)
+
+If side A of a right triangle measures 4 meters and the hypotenuse measures 5 meters, what is the length of side B, in meters?
+
+----
+num: 21
+category: Math
+difficulty: MS
+seen: 8
+answer: 49
+
+What is the area of a square, in square meters, if its perimeter is 28 meters?
+
+----
+num: 22
+category: General Science
+difficulty: MS
+seen: 6
+answer: Carbon Dioxide  (Accept:  Co
+^2)
+
+What gaseous molecule is produced from the burning of fossil fue ls and is believed to be the primary cause of the greenhouse warming effect on Earth?
+
+----
+num: 23
+category: Life Science
+difficulty: MS
+seen: 10
+answer: Parallel
+
+What is the most common term for the arrangement of veins in the leaves of most monocots?
+
+----
+num: 23
+category: Life Science
+difficulty: MS
+seen: 10
+answer: 1
+
+How many cotyledons are found in seedlings of plants that develop into adult plants with parallel veins in their leaves and flower parts usually in multiples of three?
+
+----
+num: 24
+category: Physical Science
+difficulty: MS
+seen: 5
+answer: Sour
+
+Solutions with a pH less than about 6 typically have what distinctive taste?
+
+----
+num: 24
+category: Physical Science
+difficulty: MS
+seen: 6
+answer: Hertz
+
+What is the SI the unit for frequency?

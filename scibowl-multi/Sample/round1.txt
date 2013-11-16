@@ -1,0 +1,196 @@
+####
+tournament: Sample
+round: round1.pdf
+####
+
+num: 2
+category: Chemistry
+difficulty: HS
+seen: 1
+answer: W)  Basic
+
+An aqueous solution in which the concentration of OH – ions is greater than that of H+ ions is:
+W) basic
+X) acidic
+Y) neutral
+Z) in equilibrium
+
+----
+num: 5
+category: Earth Science
+difficulty: HS
+seen: 1
+answer: X)  Positive, Negative
+
+The overall charge at the top and bottom, respectively, of a towering cumulonimbus cloud during a thunderstorm is:
+W) positive, positive
+X) positive, negative
+Y) negative, positive
+Z) negative, negative
+
+----
+num: 5
+category: Earth Science
+difficulty: HS
+seen: 1
+answer: W)  3
+
+A lightning bolt is seen and its accompanying thunder is heard 15 seconds later. This means the storm is most likely how many miles away:
+W) 3
+X) 6
+Y) 9
+Z) 15
+
+----
+num: 8
+category: Biology
+difficulty: HS
+answer: W)  Epithelial
+
+Human epidermis is mostly composed of which of the following basic animal tissues types:
+W) epithelial
+X) connective
+Y) nervous
+Z) muscle
+
+----
+num: 10
+category: Physics
+difficulty: HS
+seen: 1
+answer: W)  Constant Acceleration
+
+A constant force acting on a body experiencing no change in its environment will g ive the body:
+W) constant acceleration
+X) constant speed
+Y) constant velocity
+Z) zero acceleration
+
+----
+num: 12
+category: Earth Science
+difficulty: HS
+seen: 1
+answer: Z)  Sandstone
+
+Which of the following is a sedimentary rock:
+W) slate
+X) marble
+Y) basalt
+Z) sandstone
+
+----
+num: 12
+category: Earth Science
+difficulty: HS
+seen: 1
+answer: Z)  a Mineral’s Color Is the Same as Its Streak
+
+Which of the following is LEAST accurate about minerals:
+W) calcite has a hardness of 3 on most of its surfaces but a hardness of 4 along the crystal face perpendicular to its long axis
+X) the Moh’s scale measures the absolute hardness of minerals
+Y) a mineral’s chemical composition largely determines its crystal shape and cleavage pattern
+Z) a mineral’s color is the same as its streak
+
+----
+num: 13
+category: General Science
+difficulty: HS
+seen: 1
+answer: X)  Stone
+
+Which of the following is closest to the meaning of the suffix ‘lith’:
+W) outside
+X) stone
+Y) side
+Z) surface
+
+----
+num: 16
+category: Chemistry
+difficulty: HS
+seen: 1
+answer: Y)  Iron
+
+Which of the following is a metallic element, composes about 5% of the Earth’s crust, oxidizes very easily, and when pure is a dark, silver -grey metal:
+W) cobalt
+X) nickel
+Y) iron
+Z) titanium
+
+----
+num: 17
+category: Physics
+difficulty: HS
+seen: 1
+answer: Y)  the Amount of Matter It Contains
+
+Upon which of the following does the mass of a body MOST directly depend:
+W) its magnetic properties
+X) how much volume it has
+Y) the amount of matter it contains
+Z) its location
+
+----
+num: 17
+category: Physics
+difficulty: HS
+seen: 1
+answer: X)  Joe Has a Greater Acceleration Than Mary
+
+Mary and Joe are on a merry-go-round. Mary is seated near the center of rotation and Joe is on the outer edge. Which of the following BEST describes their motion:
+W) Mary has a greater acceleration than Joe
+X) Joe has a greater accele ration than Mary
+Y) neither Mary nor Joe are accelerating
+Z) both Mary and Joe have the same acceleration
+
+----
+num: 19
+category: Earth Science
+difficulty: HS
+seen: 1
+answer: Y)  Reflectivity
+
+Which of the following terms best describes the albedo of a planet:
+W) electromagnetic energy 
+X) density
+Y) reflectivity 
+Z) absorption
+
+----
+num: 19
+category: Earth Science
+difficulty: HS
+seen: 1
+answer: Z)  the Moon Is Directly Overhead at the Poles
+
+Which of the following is NOT true of what occurs during an equinox:
+W) equal length of day and night except at the poles
+X) the Earth is not tilted with respect to the ecliptic
+Y) the Sun is directly overhead at the equator
+Z) the Moon is directly overhead at the poles
+
+----
+num: 22
+category: Biology
+difficulty: HS
+answer: X)  Two Cotyledons in Its Seedling Stage
+
+If a plant had a taproot, it would also most likely have:
+W) parallel leaf venation
+X) two cotyledons in its seedling stage
+Y) diffusely arranged vascular bundles in its stem
+Z) no stomata on the upper surfaces of its leaves
+
+----
+num: 24
+category: Physics
+difficulty: HS
+seen: 1
+answer: Z)   Horizontally, Tangent to Its Original Circular Path
+
+Martin is swinging a yo-yo in a large room with a circular motion perpendicular to a level floor. If the yo -yo breaks away from its string at the top of the yo -yo’s circular path, in what direction will the yo-yo initially move :
+W) at an angle between horizontal and vertical
+X) straight up, toward the ceiling
+Y) straight down, to the floor
+Z) horizontally, tangent to its original circular path

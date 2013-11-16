@@ -1,0 +1,483 @@
+####
+tournament: Sample Set 5
+round: Round8.pdf
+####
+
+num: 1
+category: Math
+difficulty: HS
+answer: 21
+Y) 1
+
+
+For a function, f(x) (read as: f of x), suppose that f is continuous on the closed interval [-1, 3], differentiable on the open interval ( -1, 3), and that f(-1) = -2 and f(3) = 2. Which of the following is the value of the derivative for at least one value, c, on the
+W)
+X) open0-1interval (-1, 3)?
+Y) 
+Z)
+
+----
+num: 3
+category: Earth and Space
+difficulty: HS
+answer: Z) It Cooled Slowly, at One Time, at Depth
+
+There is an igneous rock where all crystals are visible and the same size. Knowing only these two facts, what can be said about the cooling history of this rock?
+W) It cooled in stages, at different levels within the crust
+X) It cooled rapidly near the surface
+Y) It cooled on the surface and was quenched
+Z ) It cooled slowly, at one time, at depth
+
+----
+num: 4
+category: Chemistry
+difficulty: HS
+seen: 1
+answer: Y) Sigma
+
+Which of the following is a covalent bond formed by orbitals overlapping end to end?
+W) Alpha
+X) Beta
+Y) Sigma
+Z) Pi
+
+----
+num: 4
+category: Physical Science
+difficulty: MS
+answer: Z) the Number of Sections of Rope
+
+The mechanical advantage of a block and tackle depends on which of the following?
+W) The size of the rope
+X) The length of the rope
+Y) The diameter of the wheels
+Z) The number of sections of rope
+
+----
+num: 4
+category: Physical Science
+difficulty: MS
+answer: Z) 16 Newton Force Acting Over 200 Meters in 3.2 Se Conds
+
+Which of the following situations produces the MOST power?
+W) 160 newton force acting over 20 meters in 32 seconds
+X) 160 newton force acting over 2 meters in 3.2 seconds
+Y) 16 newton force acting over 20 meters in 3.2 seconds
+Z) 16 newton force acting over 200 meters in 3.2 seconds
+
+----
+num: 5
+category: Biology
+difficulty: HS
+answer: Y) Filter Water From the Hemolymph
+
+
+The fat body of insects is an important organ for metabolism. 
+Which of the following is NOT a function of the fat body?
+W) Metabolize fat, sugar , and protein
+X) Store fat, sugar, and protein
+Y) Filter water from the hemolymph (read as: HEE-moh-lim(p)f)
+Z) Synthesize hemolymph (read as: HEE-moh-lim(p)f) proteins
+
+----
+num: 5
+category: Life Science
+difficulty: MS
+answer: Z) Closed Circulatory System
+
+
+Unlike other mollusks , cephalopods (read as: SEH-fah-loh-pohds) have which of the following characteristics?
+W) Gills
+X) Radula
+Y) Open circulatory system
+Z) Closed circulatory system
+
+----
+num: 6
+category: Chemistry
+difficulty: HS
+answer: Y) Mercury’s Cohesion Is Greater Than Its a Dhesion
+
+The convex meniscus of mercury in a capillary tube indicates which of the following?
+W) Mercury is highly attracted to glass
+X) Mercury is polar
+Y) Mercury’s cohesion is greater than its adhesion
+Z) Mercury is soluble in water
+
+----
+num: 6
+category: Math
+difficulty: MS
+answer: X) Circle
+
+Assuming that all of the following two dimensional shapes have the same area, which has the least perimeter?
+W) Triangle
+X) Circle
+Y) Trapezoid
+Z) Square
+
+----
+num: 7
+category: General Science
+difficulty: MS
+answer: Z)  the Gene Is Located on Mitochondrial Dna
+
+For a certain genetic disorder in humans, the mother always passes the disease to all of her children, but a father never passes it to any of his children. Which of the following explanations best explains this phenomenon?
+W) The gene for the disease is located on the X -chromosome
+X) The gene is dominant and is located on an autosomal chromosome
+Y) The gene is located on ribosomal (read as: RY-boh-sōem-ahl) DNA
+Z) The gene is located on mitochondrial (read as: my-toh-KOHN-dree-ahl) DNA
+
+----
+num: 8
+category: Physics
+difficulty: HS
+seen: 1
+answer: X) 3900
+
+A 2 meter by 2 meter raft sinks 10 centimeters into the water. 
+Which of the following approximates its weight in newtons?
+W) 5000
+X) 3900
+Y) 2500
+Z) 1600
+
+----
+num: 9
+category: General Science
+difficulty: MS
+answer: Y) Medium Sand
+
+Sediment with a diameter between 2 millimeters and 4 millimeters would be classified as which of the following?
+W) Silt
+X) Coarse sand
+Y) Medium sand
+Z) Cobble
+
+----
+num: 10
+category: Chemistry
+difficulty: HS
+seen: 1
+answer: X) Balmer
+
+Which of the following series of spectral line emissions of the hydrogen atom is i n the visible spectrum?
+W) Paschen
+X) Balmer
+Y) Brackett
+Z) Lyman
+
+----
+num: 10
+category: Chemistry
+difficulty: HS
+answer: W) Systematic
+
+To check the accuracy of a graduated cylinder, a student repeatedly filled the cylinder to the 25 -milliliter mark using water delivered from a buret and then read the volume delivered. The results of the trials in milliliters were as follows: 1) 26.54, 2) 26.51, 3) 26.60, 4) 26.49, and 5) 26.57. What type of error do these results primarily demonstrate?
+W) Systematic
+X) Random
+Y) Conceptual
+Z) Observational
+
+----
+num: 10
+category: Life Science
+difficulty: MS
+answer: W) They Will Reproduce and Form a Colony of Bacteria That Are 
+More Resistant
+
+Which of the following is the most likely effect on the remaining bacteria after killing 90% of bacteria with antibacterial soap?
+W) They will reproduce and form a colony of bacteria that are more resistant
+X) They will die because there are not enough bacteria left to reproduce
+Y) They will relocate
+Z) They can no longer cause infections because their numbers are too low
+
+----
+num: 11
+category: General Science
+difficulty: MS
+answer: X) They Commonly Sting Humans
+
+Which of the following characteristics is NOT true of cannonball jellyfish?
+W) They can make up more than 16% of biomass in shallow inshore areas off the southeastern coast of the United States
+X) They commonly sting humans
+Y) One of their main predators is the leatherback sea turtle
+Z) They can reproduce both sexually and asexually
+
+----
+num: 12
+category: Earth and Space
+difficulty: HS
+seen: 1
+answer: Y ) Dominance of Reptile S Increases With Tim E
+
+Which of the follo wing is NOT consistent with the 
+Cenozoic rock record?
+W) Flowering plants
+X) Foraminifera
+Y) Dominance of reptiles increases with time 
+Z) Dominance of mammals increases with time
+
+----
+num: 13
+category: Physical Science
+difficulty: MS
+answer: X) at Right Angles to the Wave Direction
+
+In a transverse wave, the medium vibrates in which of the following ways?
+W) In a direction opposite the wave direction
+X) At right angles to the wave direction
+Y) In the same direction as the wave
+Z) At a 45 degree angle to the wave direction
+
+----
+num: 15
+category: General Science
+difficulty: MS
+answer: Y ) Phosphorus
+
+Which of the following nutrients is most often limiting in freshwater aquatic ecosystems?
+W) Carbon
+X) Nitrogen
+Y) Phosphorus
+Z) Sulfur
+
+----
+num: 16
+category: Earth and Space
+difficulty: HS
+seen: 1
+answer: Z) Hawaiian Islands  and Seamounts
+
+Which of the following areas exhibits the highest total relief?
+W) Tibetan plateau
+X) Rocky Mountains
+Y) Great Plains
+Z) Hawaiian Islands and seamounts
+
+----
+num: 16
+category: Earth and Space
+difficulty: HS
+seen: 1
+answer: W) Increasing Pressure
+
+Which of the following will cause adiabatic warming?
+W) Increasing pressure 
+X) Decreasing pressure 
+Y) Condensation releasing latent heat
+Z) Heat being added to the volume of air
+
+----
+num: 16
+category: Physical Science
+difficulty: MS
+answer: W) Velocity
+
+Which of the following does the slope on a distance -time graph represent?
+W) Velocity
+X) Acceleration
+Y) Displacement
+Z) Motion
+
+----
+num: 17
+category: Physics
+difficulty: HS
+answer: X) It Is Non-Zero and Nearly Uniform
+
+Which of the following statements concerning the magnetic field inside and far from the surface of a long, current-carrying solenoid is TRUE?
+W) It is zero
+X) It is non-zero and nearly uniform
+Y) It varies with 1/r as measured from the solenoid axis
+Z) It is independent of the current in the solenoid
+
+----
+num: 17
+category: Earth and Space Science
+difficulty: MS
+answer: Z) Calcareous
+
+Which of the following types of sediments came from shells and skeletons of animals?
+W) Terrigenous (read as: teh-RI-jeh-nuhs)
+X) Sulfurous
+Y) Hydrogenous
+Z) Calcareous (read as: kahl-KAHR-ee-uhs)
+
+----
+num: 18
+category: Physical Science
+difficulty: MS
+answer: W) Tungsten
+
+Which of the following elements has the highest melting point at standard atmospheric pressure?
+W) Tungsten
+X) Thallium
+Y) Gold
+Z) Copper
+
+----
+num: 19
+category: Energy
+difficulty: HS
+answer: Z) Convert Hydrogen and Oxygen Gas Into Electricity to Power 
+the Electric Motor
+
+Which of the following is the purpose of a fuel cell stack in a fuel cell vehicle?
+W) Store hydrogen gas compressed at extremely high pressure to increase driving range
+X) Govern the flow of electricity
+Y) Store energy generated from regenerative braking
+Z) Convert hydrogen and oxygen gas into electricity to power the electric motor
+
+----
+num: 19
+category: Energy
+difficulty: HS
+answer: Y) It Is Proportional to L^2^
+
+
+In an experiment, students find the relationship between the period of a stick vibrating at its natural frequency and the length L of the stick, measuring the period of the vibrations with a photogate. Which of the following statements BEST reflects the results of the experiment with regard to the period of the vibrating stick?
+W) It is proportional to L
+X) It is inversely proportional to L
+Y) It is proportional to L^2
+Z) It is inversely proportional to L^2
+
+----
+num: 19
+category: Energy
+difficulty: MS
+answer: W) Denmark
+
+Which of the following countries generates the greatest share of its electricity from wind power?
+W) Denmark
+X) Spain
+Y) Germany 
+Z) United States
+
+----
+num: 20
+category: Math
+difficulty: MS
+answer: X) Hexagonal Pyramid
+
+If a polyhedron had seven faces, exactly six of which were triangles, which of the following could it be?
+W) Hexagonal prism
+X) Hexagonal pyramid
+Y) Pentagonal prism
+Z) Pentagonal pyramid
+
+----
+num: 21
+category: Math
+difficulty: HS
+seen: 1
+answer: W) Sin(x)
+
+Which of the following is a function for which f(-x) = -f(x) (read as: f
+W) of negativesin(x) x equals negative f of x)?
+X) 
+Y) cos(x^2
+x)
+Z) e^x
+
+----
+num: 21
+category: Earth and Space Science
+difficulty: MS
+answer: Y) Trilobites
+
+Which of the following is an example of a well-known group of extinct marine arthropods that existed in abundance during the lower 
+Paleozoic?
+W) Brachiopods
+X) Ammonites
+Y) Trilobites 
+Z) Nautiluses
+
+----
+num: 22
+category: Biology
+difficulty: HS
+seen: 1
+answer: W) Cockroach
+
+Which of the following is NOT in the insect group Apterygota(read as: ahp-teh-ri-GŌE-tah)?
+W) Cockroach
+X) Firebrat
+Y) Bristletail
+Z) Silverfish
+
+----
+num: 22
+category: Physical Science
+difficulty: MS
+answer: X) It Increases as the Wav Elength Decreases
+
+Which of the following best describes how the frequency of an ocean wave changes as its wavelength changes?
+W) It increases as the wavelength increases
+X) It increases as the wavelength decreases 
+Y) It decreases as the wavelength decreases
+Z) It decreases as the wavelength increases
+
+----
+num: 23
+category: Earth and Space Science
+difficulty: MS
+answer: Y) Wave Height
+
+Which of the following characteristics is generally NOT used for classification of ocean waves?
+W) Disturbing force
+X) Wavelength
+Y) Wave height
+Z) Restoring force
+
+----
+num: 23
+category: Earth and Space Science
+difficulty: MS
+answer: W) Graded Bedding
+
+
+Which of the following is a characteristic of a turbidite?
+W) Graded bedding
+X) Lived during the Cambrian
+Y) Found in alkaline bodies of water
+Z) Often found in caves
+
+----
+num: 24
+category: Physics
+difficulty: HS
+seen: 1
+answer: Z) 0.49
+
+Given 9.8 meters per second squared as g, how much kinetic energy in joules is lost when a 100 -gram ball dropped from a 2 meter height rebounds t o 1.5 meters?
+W) 1.96
+X) 1.47 
+Y) 0.98
+Z) 0.49
+
+----
+num: 25
+category: Biology
+difficulty: HS
+answer: Y) Recycling Electrons Resulting From the Absorption of Light 
+in  Photosystem I
+
+Cyclic photophosphorylation (read as: FŌE-tōe-fohs-fohr-i-LAY-shon ) functions mainly for which of the following purposes?
+W) Generating NADPH
+X) Generating PGAL
+Y) Recycling electrons resulting from the absorption of light in Photosystem I
+Z) Regenerating RuBP
+
+----
+num: 25
+category: Biology
+difficulty: HS
+seen: 1
+answer: Y) Cap
+
+Which of the following compounds acts as an activator protein for the lactose operon in Escherichia (read as: ehsh-eh-RIK-ee-ah) coli?
+W) AP-1
+X) AP-2y
+Y) CAP
+Z) SAP

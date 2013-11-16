@@ -1,0 +1,456 @@
+####
+tournament: #6300
+round: Show #6300 - Friday, January 27, 2012
+year: 2012
+date: 2012-01-27
+####
+
+num: 1
+category: Art
+difficulty: 200
+seen: 5
+answer: Miami
+
+Experience Little Havana along Calle Ocho, then get sprayed at the Seaquarium.
+
+----
+num: 2
+category: Art
+difficulty: 200
+seen: 5
+answer: cargo pants
+
+A synonym for freight, or pants with large bellows pockets on the sides & 2 extra-large patch pockets in front.
+
+----
+num: 3
+category: Trash
+difficulty: 200
+seen: 6
+answer: Elliott
+
+Henry Thomas, who played this role in "E.T.", turned 40 in 2011.
+
+----
+num: 4
+category: History
+difficulty: 200
+seen: 5
+answer: Central Park West
+
+On the west, Central Park is bounded by this street.
+
+----
+num: 5
+category: Science
+difficulty: 200
+seen: 8
+answer: photosynthesis
+
+In 1779 Dutch scientist Jan Ingenhousz published his discovery of this process in green plants.
+
+----
+num: 6
+category: Art
+difficulty: 400
+seen: 4
+answer: Toronto
+
+First the Royal Ontario Museum, then for lunch, maybe one of the 5 Chinatowns.
+
+----
+num: 7
+category: Art
+difficulty: 400
+seen: 3
+answer: luau pants
+
+Calf-length pants styled in colorful island prints are named for this type of Hawaiian party.
+
+----
+num: 8
+category: History
+difficulty: 400
+seen: 4
+answer: the Capitol
+
+This building in our national capital was originally designed by Dr. William Thornton.
+
+----
+num: 9
+category: Science
+difficulty: 400
+seen: 5
+answer: aluminum
+
+The "crown jewels" of Alcoa are the bits of this metal that chemist Charles Hall isolated when he was just 22.
+
+----
+num: 10
+category: Trash
+difficulty: 400
+seen: 6
+answer: here
+
+Old school GPS on a shopping mall map: "You are" this.
+
+----
+num: 11
+category: Art
+difficulty: 600
+seen: 4
+answer: Salzburg
+
+Take the "Sound of Music" tour or visit the Hagenauer House, once home to the Mozart family.
+
+----
+num: 12
+category: Art
+difficulty: 600
+seen: 4
+answer: plus fours
+
+When introduced, these wide, baggy pants were 4 inches longer than usual knicker length.
+
+----
+num: 13
+category: Trash
+difficulty: 600
+seen: 5
+answer: Kristen Stewart
+
+At age 11, this future portrayer of Bella Swan was Jodie Foster's daughter in "Panic Room".
+
+----
+num: 14
+category: History
+difficulty: 600
+seen: 4
+answer: (the letter) M
+
+This was first imprinted in black on individual M&Ms in 1950.
+
+----
+num: 15
+category: Science
+difficulty: 600
+seen: 6
+answer: a compass
+
+Gowin Knight's 1745 development of a better way to magnetize steel allowed him to improve this device used by mariners.
+
+----
+num: 16
+category: Trash
+difficulty: 600
+seen: 5
+answer: There
+
+Old school CBS history show: "You Are" this.
+
+----
+num: 17
+category: Art
+difficulty: 800
+seen: 4
+answer: Sydney
+
+There's a great opera house on Bennelong Point from which you can see Fort Denison in the harbor.
+
+----
+num: 18
+category: Trash
+difficulty: 800
+seen: 5
+answer: Jaden Smith
+
+This kid with a familiar last name is seen.
+
+----
+num: 19
+category: History
+difficulty: 800
+seen: 4
+answer: "America The Beautiful"
+
+The second verse of this classic American song begins, "O beautiful for pilgrim feet".
+
+----
+num: 20
+category: Science
+difficulty: 800
+seen: 5
+answer: the metric system
+
+Joseph Lagrange insisted on 10 as the basic unit when standardizing French weights & measures, creating this system.
+
+----
+num: 21
+category: Art
+difficulty: 1000
+seen: 4
+answer: Seville
+
+Arriving at the train station built for the 1992 World's Fair, check out the Alcazar Palace & Biennial of Flemenco art.
+
+----
+num: 22
+category: Art
+difficulty: 1000
+seen: 3
+answer: Pakistan
+
+The baggy shalwar is always in fashion in this country on India's northwest border.
+
+----
+num: 23
+category: Trash
+difficulty: 1000
+seen: 5
+answer: W.C. Fields
+
+In the 1930s Baby LeRoy played opposite this comedian, who spiked his bottle with gin to shut him up.
+
+----
+num: 24
+category: History
+difficulty: 1000
+seen: 3
+answer: the Mosquito Coast
+
+The Mosquito Indians are a majority population of this coastal region of Honduras & Nicaragua.
+
+----
+num: 25
+category: Science
+difficulty: 1000
+seen: 7
+answer: digitalis (or digoxin)
+
+In 1785 William Withering suggested using this drug from the foxglove plant to treat heart disease.
+
+----
+num: 26
+category: Trash
+difficulty: 1000
+seen: 5
+answer: ere
+
+A palindromic preposition of the past.
+
+----
+num: 27
+category: Literature
+difficulty: 400
+seen: 5
+answer: Edgar Rice Burroughs
+
+In 1947 this author's own publishing company released "Tarzan and the Foreign Legion", his last in the series.
+
+----
+num: 28
+category: History
+difficulty: 400
+seen: 4
+answer: Nathan Hale
+
+A patriot with but one life:.
+
+----
+num: 29
+category: Literature
+difficulty: 400
+seen: 4
+answer: breakfast
+
+This meal is found after Irish & English in the names of teas.
+
+----
+num: 30
+category: History
+difficulty: 400
+fixed: -1
+seen: 5
+answer: the 
+
+At the 1862 Battle of Hampton Roads, these 2 vessels fought the first engagement between ironclad warships.
+
+----
+num: 31
+category: Art
+difficulty: 400
+seen: 4
+answer: a parrot
+
+The African gray is this type of bird; the male can precisely echo human speech.
+
+----
+num: 32
+category: Trash
+difficulty: 400
+seen: 5
+answer: the Amazin\' Mets
+
+Casey Stengel led this "Amazin'" 1962 team to a 40-120 record, 60.5 games back, but they were first in errors.
+
+----
+num: 33
+category: History
+difficulty: 800
+seen: 4
+answer: Wilhelm II
+
+A German emperor (Remember the II):.
+
+----
+num: 34
+category: Literature
+difficulty: 800
+seen: 3
+answer: chai
+
+The name of this Indian tea made with milk & spices like cinnamon & cardamom is one syllable & rhymes with "pie".
+
+----
+num: 35
+category: Art
+difficulty: 800
+seen: 3
+answer: paddleball
+
+This racket game can be played on a court that has 1, 3 or 4 walls.
+
+----
+num: 36
+category: Trash
+difficulty: 800
+seen: 5
+answer: the (Washington) Nationals
+
+They were "inaugurated" as a team in 2005 & have finished last 5 seasons out of 7.
+
+----
+num: 37
+category: Literature
+difficulty: 1200
+seen: 4
+answer: Thurber
+
+His 1942 collection "My World and Welcome to It" included "The Secret Life of Walter Mitty".
+
+----
+num: 38
+category: History
+difficulty: 1200
+seen: 4
+answer: Pancho Villa
+
+A Mexican bandit / revolutionary / folk hero:.
+
+----
+num: 39
+category: Literature
+difficulty: 1200
+seen: 4
+answer: chamomile tea
+
+This herbal tea is made with a daisylike flower; Peter Rabbit was put to bed with some.
+
+----
+num: 40
+category: History
+difficulty: 1200
+seen: 4
+answer: cavalry
+
+Charge!  Composed of lesser nobles who could afford horses, weapons & armor, it first appeared around 1000 B.C.
+
+----
+num: 41
+category: Art
+difficulty: 1200
+seen: 4
+answer: "The Pathfinder"
+
+John C. Fremont's exploration of the West earned him this nickname.
+
+----
+num: 42
+category: Trash
+difficulty: 1200
+seen: 6
+answer: the Chicago Cubs
+
+A last-place 2006 N.L. Central finish insured a 98th straight year without a World Series title for this team.
+
+----
+num: 43
+category: Literature
+difficulty: 1600
+seen: 5
+answer: bergamot
+
+Earl Grey tea gets its flavor from this citrus fruit, sort of an acidic orange.
+
+----
+num: 44
+category: History
+difficulty: 1600
+seen: 5
+answer: tanks
+
+The first major use of these vehicles was at the 1917 Battle of Cambrai, leading to a rare breakthrough on the Western Front.
+
+----
+num: 45
+category: Art
+difficulty: 1600
+seen: 4
+answer: a placenta
+
+Unlike other marsupials, bandicoots have this, formed in the lining of the uterus to nourish the fetus.
+
+----
+num: 46
+category: Trash
+difficulty: 1600
+seen: 6
+answer: the San Francisco Giants
+
+In 2007 this team was dead last in the N.L. West, but in 2010 it won the World Series.
+
+----
+num: 47
+category: History
+difficulty: 2000
+seen: 5
+answer: (Gregor) Mendel
+
+A monk who was made for peas:.
+
+----
+num: 48
+category: Literature
+difficulty: 2000
+seen: 5
+answer: Darjeeling
+
+This strong tea is named for a place in the foothills of the Himalayas whose name means "land of the thunderbolt".
+
+----
+num: 49
+category: Art
+difficulty: 2000
+seen: 7
+answer: a pianoforte
+
+How oxymoronic!  This 10-letter name of a musical instrument means "soft loud".
+
+----
+num: 50
+category: Trash
+difficulty: 2000
+seen: 8
+answer: the Philadelphia Phillies
+
+In 1958, pitcher Robin Roberts won 17 games (yay), but this Pennsylvania team of his won only 52 more (not so yay).

@@ -1,0 +1,357 @@
+####
+tournament: #6331
+round: Show #6331 - Monday, March 12, 2012
+year: 2012
+date: 2012-03-12
+####
+
+num: 1
+category: History
+difficulty: 200
+seen: 5
+answer: FDR
+
+His library & museum has a sculpture of.
+
+----
+num: 2
+category: Science
+difficulty: 200
+seen: 8
+answer: the Underground
+
+In London the subway is called "the Tube" or this subterranean term.
+
+----
+num: 3
+category: Trash
+difficulty: 200
+seen: 6
+answer: (Ultimate) Frisbee
+
+In the 1980s college students were combining football & plastic throwing discs to create this "ultimate" sport.
+
+----
+num: 4
+category: History
+difficulty: 200
+seen: 5
+answer: Dallas
+
+Hey, y'all!  The Deep Ellum Arts Festival, not far from the Tom Landry Freeway, is a 3-day "Street Party" in this city.
+
+----
+num: 5
+category: Social
+difficulty: 200
+seen: 5
+answer: a gun
+
+A Luger or Walther PPK.
+
+----
+num: 6
+category: History
+difficulty: 400
+seen: 5
+answer: "The buck stops here"
+
+Truman kept a sign with this 4-word motto on his Oval Office desk; the original sign is at his presidential library.
+
+----
+num: 7
+category: Science
+difficulty: 400
+seen: 6
+answer: USPS
+
+You can get a tube for priority or express mail from the organization with this 4-letter abbreviation.
+
+----
+num: 8
+category: Trash
+difficulty: 400
+seen: 5
+answer: Wimbledon
+
+In 1884 Maud Watson won the first women's singles tennis competition at this British venue.
+
+----
+num: 9
+category: History
+difficulty: 400
+seen: 4
+answer: San Jose
+
+Do you know the way to this California city that topped a 2011 list of America's geekiest cities?.
+
+----
+num: 10
+category: Social
+difficulty: 400
+seen: 4
+answer: tug
+
+To pull with force, perhaps like a certain boat.
+
+----
+num: 11
+category: History
+difficulty: 600
+seen: 4
+answer: the Red Army
+
+Marshal Zhukov presented Eisenhower with the.
+
+----
+num: 12
+category: Science
+difficulty: 600
+seen: 6
+answer: Ultra Brite
+
+Even with a misspelling, this tube toothpaste brand from Colgate sure lightens my teeth.
+
+----
+num: 13
+category: History
+difficulty: 600
+seen: 5
+answer: Park
+
+In the names of Chicago residential neighborhoods, this word follows Hyde & Rogers.
+
+----
+num: 14
+category: Social
+difficulty: 600
+seen: 4
+answer: ego
+
+One of Freud's 3 basic divisions, mentally.
+
+----
+num: 15
+category: Science
+difficulty: 800
+seen: 5
+answer: a UFO
+
+Alleged sightings of these include a cigar-shaped one reported in 1991 by airline pilot Achille Zaghetti.
+
+----
+num: 16
+category: Trash
+difficulty: 800
+seen: 5
+answer: Ryan Braun
+
+In 2011 this Brewers outfielder became the first Jewish Major League MVP since Sandy Koufax.
+
+----
+num: 17
+category: History
+difficulty: 800
+seen: 4
+answer: New Orleans
+
+Located on Tchoupitoulas St., "Rebuilding Together" this city has had 18,000 volunteers rebuild 305 homes.
+
+----
+num: 18
+category: Social
+difficulty: 800
+seen: 5
+answer: gout
+
+A disease characterized by joint pain, especially in the big toe.
+
+----
+num: 19
+category: History
+difficulty: 1000
+seen: 4
+answer: Clinton
+
+Artifacts at his library include hand-knitted Christmas stockings for Buddy & Socks.
+
+----
+num: 20
+category: Science
+difficulty: 1000
+fixed: -1
+seen: 7
+answer: uterine tubes
+
+Also called Fallopian, these tubes are the pathway down which an ovum passes on its way to the womb.
+
+----
+num: 21
+category: Trash
+difficulty: 1000
+seen: 5
+answer: the NBA
+
+Named in honor of one of its former commissioners, the Larry O'Brien Trophy goes to the champion of this pro league.
+
+----
+num: 22
+category: History
+difficulty: 1000
+seen: 5
+answer: Southie
+
+Movies like "The Departed" are set in this colorful area of Boston with a 1-word directional nickname.
+
+----
+num: 23
+category: Social
+difficulty: 1000
+seen: 5
+answer: Eton
+
+A renowned secondary school in England.
+
+----
+num: 24
+category: Social
+difficulty: 400
+seen: 5
+answer: fraternities
+
+In Germany these male student societies differ from those in the U.S.--the uniforms with colorful sashes, for one.
+
+----
+num: 25
+category: Literature
+difficulty: 400
+seen: 4
+answer: the doctor
+
+In 1696 "The Relapse" featured characters like Sir Tunbelly Clumsy & Syringe, who has this job.
+
+----
+num: 26
+category: Literature
+difficulty: 400
+seen: 4
+answer: Hilton
+
+This hotelier was briefly married to Zsa Zsa Gabor; his son Nicky was briefly married to Elizabeth Taylor.
+
+----
+num: 27
+category: History
+difficulty: 400
+seen: 3
+answer: opening statements
+
+It's the first verbal presentation made by an attorney at a trial.
+
+----
+num: 28
+category: Literature
+difficulty: 800
+seen: 4
+answer: a porcupine
+
+National Geographic calls it "the prickliest of rodents".
+
+----
+num: 29
+category: Literature
+difficulty: 800
+seen: 4
+answer: Holy Roman Emperor
+
+The first of 4 emperors of the Salian dynasty, Conrad II of Swabia was crowned this on Easter 1027.
+
+----
+num: 30
+category: History
+difficulty: 800
+seen: 4
+answer: original sin
+
+Because Adam & Eve ate of the forbidden fruit, this was inherited by all their descendants.
+
+----
+num: 31
+category: History
+difficulty: 1200
+seen: 4
+answer: the Ocean State
+
+"Little Rhody" also has this official nickname.
+
+----
+num: 32
+category: Literature
+difficulty: 1600
+seen: 5
+answer: gills
+
+They're the respiratory organs of squid & octopi as well as fish.
+
+----
+num: 33
+category: Literature
+difficulty: 1600
+seen: 4
+answer: Mr. Horner
+
+Not Little Jack, just plain this is the seducer hero of "The Country Wife".
+
+----
+num: 34
+category: Literature
+difficulty: 1600
+seen: 4
+answer: Joseph Conrad
+
+Time magazine's first literary cover boy, in April 1923, was this author of "Nostromo".
+
+----
+num: 35
+category: History
+difficulty: 1600
+seen: 5
+answer: old style
+
+Term used today for dates on the superseded Julian calendar.
+
+----
+num: 36
+category: Literature
+difficulty: 2000
+seen: 6
+answer: a frog
+
+The 2-inch-long golden poison dart one of these has enough venom to kill 10 men.
+
+----
+num: 37
+category: Literature
+difficulty: 2000
+seen: 5
+answer: Valentine
+
+This saintly name belongs to 1 of the "Two Gentlemen of Verona", & also, fittingly, to the hero of "Love for Love".
+
+----
+num: 38
+category: Literature
+difficulty: 2000
+seen: 5
+answer: Conrad Black
+
+A 2007 fraud conviction "darkened" the good name of this Canadian-born onetime owner of 100s of newspapers.
+
+----
+num: 39
+category: History
+difficulty: 2000
+seen: 5
+answer: the Okeefenokee Swamp
+
+Home to many aquatic species & covering 700 square miles, it straddles the Georgia/Florida border.

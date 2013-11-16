@@ -1,0 +1,214 @@
+####
+tournament: ACF Nationals
+round: 2011-ACFNationals-Editors4Final.doc
+year: 2011
+####
+
+num: 1
+category: Fine Arts
+difficulty: Open
+fixed: 1
+seen: 39
+answer: {Paris Street} ; {Rainy Day} [or {Paris} , A {Rainy Day} ]
+
+This painting's creator was said to have executed its preparatory sketches while sitting in a specially constructed “omnibus” that allowed him work from nature. On its right, a worker in white carrying a ladder can be seen stepping over cobblestones. Originally displayed alongside another of its artist’s paintings, which depicted a man looking down on the Saint Lazare train station from a bridge, this work focuses the viewer on an intersection at the Place de Dublin, where the Rue de Turin and the Rue de Moscou meet. A gaslight separates its background from the foreground, where a fashionably dressed woman with a veil walks next to a man in a top hat, who holds an opened umbrella. Currently housed at the Art Institute of Chicago, for 10 points, identify this large 1877 painting, the masterpiece of Gustave Caillebotte.
+
+----
+num: 2
+category: Science
+difficulty: Open
+fixed: None
+seen: 57
+answer: {tertiary protein structure prediction/modeling/approximation} [or another word {indicating} that one is {making} an approximation and not {working} from {experimental} data like a {crystal structure}] or {3}-{dimensional protein structure prediction} [prompt on {protein structure prediction} or {alternatives} like {protein structure modeling} or {protein structure approximation}, prompt on {protein structure determination}, prompt on {protein folding}, do NOT accept {secondary protein structure prediction}, {don’t} accept anything about {x}-{ray crystallography} or {solving protein structures}]
+
+One method for solving this problem relies on Chothia’s finiteness hypothesis, and the CASP studies are conducted to evaluate different methods of solving this problem. In one approach to this problem, the frozen approximation is employed to simplify pairwise comparisons. In another, each position in the target is assigned to one of eighteen environmental classes based on criteria such as degree of exposure; both of these approaches are types of threading. Many programs used for this application, such as Rosetta, use rotamer libraries to simplify conformation sampling. The basic approaches to this problem are ab initio modeling, homology modeling, and fold recognition. This procedure has been straightforward for targets like GCN4, which contains a coiled coil, but can be more difficult for subjects with membrane-spanning domains. For 10 points, name this technique, which is used in the absence of crystallographic data to model the three-dimensional architecture of a certain class of macromolecules.
+
+----
+num: 3
+category: Fine Arts
+difficulty: Open
+fixed: 1
+seen: 40
+answer: {parable} of the {talents} or {parable} of the {pounds} or {parable} of the {minas}
+
+Gregory the Great’s unusual interpretation of this Biblical narrative concerns God’s gifts of theory, practice, and the five senses, while St. Augustine’s gloss is that God is covetous with regard to man’s salvation. The non-canonical Gospel of the Hebrews depicts one of the figures in this narrative as a wastrel addicted to harlots and flute girls, while another version incorporates the allegory of the throne-pretender. In the canonical version of this story, one character’s actions exclude him from being welcomed into his “lord’s joy” upon the lord’s return home. A seduction in John Milton’s Comus involves a perversion of this story, and Milton also made use of this tale is in “On His Blindness”. In a similar narrative in Luke’s gospel, two of the figures in this story are made stewards of many cities, while they are commended as “good and faithful servants” in Matthew’s version. For 10 points, name this story told by Jesus about three slaves who were given various amounts of money.
+
+----
+num: 4
+category: Fine Arts
+difficulty: Open
+fixed: 1
+seen: 41
+answer: Mass in {B Minor} [or BWV 232 before mentioned; prompt on {Johann Sebastian Bach's Mass} or anything that {doesn't make clear} it's the {Mass} in {B minor} ]
+
+One part of this piece includes a fugue for six voices to represent the six-winged seraphim described in Isaiah 6:1. This piece's only music for horn is a solo accompanying the bass aria "Quoniam, tu solus sanctus." This piece represents the unity of substance of Christ and God the Father in its duet "Et in unum dominem." It repeats the music of its "Gratias agimus tibi" movement in its final movement, a setting of the "Dona nobis pacem." Its central movement repeats the lament "Crucifixus," and appears as the fifth of its nine movements setting the Nicene Creed. The last major choral work of its composer, it was given the BWV number 232, and begins with a Kyrie and a Gloria first composed for a Lutheran missa brevis in 1733. For 10 points, name this setting of the complete Roman Catholic Mass by J. S. Bach.
+
+----
+num: 5
+category: Literature
+difficulty: Open
+fixed: 1
+seen: 34
+answer: Jose Maria {Eca} de {Queiroz}
+
+One posthumously published novel by this author concerns the love affair between Vitor and Geneveva, while in another novel by this author, the title character is attempting to write a novel based on Walter Scott and his uncle’s historical poetry. In addition to The Tragedy of the Street of Flowers and The Illustrious House of Ramires, this author wrote of Teodorico Raposo’s quest to retrieve the title object for his Aunt Titi in The Relic. While serving as a diplomat in Newcastle, this author composed a realist novel about the title priest’s affair with Amelia entitled The Sin of Father Amaro. In another novel by this author, the maid Juliana blackmails Luiza after the latter’s affair with the title character, who had seduced her while her husband Jorge was out of town. His most famous work is about the romance between Maria Eduarda and Carlos, the last scion of the titular Lisbon family. For 10 points, identify this author of Cousin Bazilio and The Maias, best known for chronicling the society of his native 19th century Portugal.
+
+----
+num: 6
+category: Science
+difficulty: Open
+fixed: 1
+seen: 57
+answer: {Kolmogorov-Arnold-Moser} theorem [accept any {permutation} of {initials} ]
+
+One version of this theorem was developed using twist maps in a paper concerning invariant curves of area-preserving maps on an annulus, and one condition of its applicability is that the map winding number be sufficiently irrational. A proof of this theorem relies on finding systems with frequencies that are strongly non-resonant, which means that they satisfy the “small divisor” condition. Although this theorem does not provide a way to tell whether a given orbit falls on an invariant torus, it does preclude the onset of ergodicity if its conditions are met. As a consequence of this theorem, the non-resonant toruses on which quasiperiodic motion occurs remain undestroyed. For ten points, identify this theorem which states that for sufficiently small perturbations of an integrable Hamiltonian system the majority of the trajectories remain stable, named for the Russian physicist who first proposed it and two others.
+
+----
+num: 7
+category: Social Science
+difficulty: Open
+fixed: 1
+seen: 37
+answer: the {Partisan Review}
+
+One editor of this publication set forth his views on the development of literature in an essay that identified the last of the title groups with the dialectical synthesis, titled “Three Generations.” Writing in this publication, Leon Abel gave a favorable review to Ignazio Silone’s Bread and Wine, and this periodical also published William Troy’s essay, “The Lawrence Myth.” After providing an unsatisfactory reply to criticism of his short story “The Mean, the Maximum, and the Minimum,” Paul Goodman was largely banished from this publication. Edited for a time by Dwight Macdonald, this magazine published the essay “Parrington, Mr. Smith, and Reality,” one of several essays that would later be compiled into The Liberal Imagination by Lionel Trilling. This magazine was the first to publish Clement Greenberg’s “Avant Garde and Kitsch,” as well as the story “In Dreams Begin Responsibilities,” by Delmore Schwartz. Founded in 1934 by William Phillips and Philip Rahv and known for its leftism and anti-Stalinism, for 10 points, identify this publication, a major literary organ of the New York intellectuals.
+
+----
+num: 8
+category: Literature
+difficulty: Open
+fixed: None
+seen: 34
+answer: the {preface} to {Lyrical Ballads}
+
+This essay warns that the "increasing accumulation of men in cities" is reducing the "discriminating powers of the mind" to "a state of almost savage torpor," causing readers who thirst for "outrageous stimulation" to neglect the works of Shakespeare and Milton in favor of "frantic novels" and "sickly and stupid German tragedies." This essay italicizes five lines from Thomas Gray's "Sonnet on the Death of Mr. Richard West" to argue that the language of the best poems is no different than well-written prose. It defines a poet as "a man speaking to men," and claims that "all good poetry is the spontaneous overflow of powerful feelings." This essay criticizes artificially elaborate poetic diction, and describes the author's attempt to use the "language really spoken by men" in poems such as "Poor Susan," "Goody Blake and Harry Gill," and "We Are Seven." For 10 points, name this essay by William Wordsworth about the poems in a collection he co-wrote with Samuel Taylor Coleridge.
+
+----
+num: 9
+category: History
+difficulty: Open
+fixed: 1
+seen: 49
+answer: {Everson} vs. {Board} of {Education}
+
+The dissent in this case, authored by Justice Jackson, pokes fun at the majority opinion by quoting Byron’s Don Juan regarding Julia, who “whispering ‘will ne’er consent’ -- consented.” Jackson’s dissent cites the Barnette decision of four years prior and argues that a defect in the law being challenged is that it prohibits certain for-profit entities from receiving the compensation in question. The Court’s opinion in this case, delivered by Justice Hugo Black, argued that the law being challenged did serve a public purpose and so was a legitimate use of taxation and that “the Fourteenth Amendment was interpreted to make the prohibitions of the First applicable to state action.” For 10 points, identify this Supreme Court case which ruled constitutional a New Jersey law that authorized transportation reimbursement for parents whose children attended Catholic schools and which began the process of incorporating the Establishment Clause against the states.
+
+----
+num: 10
+category: Mythology
+difficulty: Open
+fixed: 1
+seen: 112
+answer: {Sarasvati}
+
+In the Apri hymns of the Rigveda, this deity is praised together with Ila and Bharati as one member of the triple tongue of the sacrificial fire. In the Jain tradition, this goddess is revered as Srutadevata, while in Vajrayana Buddhism she is the consort of Manjusri. One story about this deity tells of how she preserved the Vedas for twelve years by feeding her son on fish, and iconography associated with this goddess includes the vina, or lute, and her mount, the swan. Originally manifested as a river deity who was alternately the wife of Agni, Indra, or the Ashvins, this goddess was sometimes depicted together with Lakshmi and Vishnu, while certain Puranas syncretized this goddess with Durga. This goddess’ most famous consort was so enamored with her that he grew faces looking in every direction in order to watch her constantly. For 10 points, identify this Hindu goddess, a patron of learning and the arts and usually depicted as the consort of Brahma.
+
+----
+num: 11
+category: Science
+difficulty: Open
+fixed: 1
+seen: 60
+answer: {replicative origins} or {initiation origins} or {initiation sites} [prompt on anything that {indicates} that the {player} is {talking} about {sites where DNA replication begins}]; do not accept {crossovers} at any point [{there exists crossover interference}, but the {proteins} mentioned {aren’t involved} in it and {there aren’t active} and {passive} forms of it]
+
+DePamphilis’s “Jesuit model” describes these entities, and Chk1 and RNR promote an active form of “interference” involving them. A well-studied example in yeast contains an A consensus domain and three B elements and binds to Cdc18, while all of these structures containe DUEs (D-U-Es). In eukaryotes, “licensing” is attained when this structure binds the MCM complex. In eukaryotes, they can be inhibited by binding Mer1-Rad53 complexes or geminin, while in bacteria, the cell membrane protein SeqA renders these structures inactive when they are hemimethylated. Examples of these structures include ColE and ARS. These structures determine the compatibility group identity and copy number of plasmids, and regulatory mechanisms governing these structures ensure that they fire only once per cell cycle. For 10 points, name these DNA sequences from which chromosome replication commences.
+
+----
+num: 12
+category: Social Science
+difficulty: Open
+fixed: 1
+seen: 74
+answer: {scientific management} [or {Taylorism} before {Taylor} is mentioned]
+
+In the 1920s, Alexei Gastev was the main supporter of adopting this theory in the Soviet Union. In Labor and Monopoly Capital, Harry Braverman argues that in practice, this theory is dehumanizing. Henry Gantt used this theory to develop the Gantt chart, which uses a graph to improve scheduling. Many aspects of this theory were developed by a couple who identified a group of basic "therbligs" that comprise tasks. That couple, Lillian and Frank Gilbreth, applied this theory to their twelve children, as recounted in the memoir Cheaper By the Dozen. This theory was devised to combat "soldiering" by its pioneer, who used it at Bethlehem Steel to increase the amount of pig iron loaded by Schmidt from twelve and a half tons a day to forty-seven tons. Often involving detailed time and motion studies, for 10 points, name this theory developed by Frederick Taylor, which attempts to improve worker efficiency by standardizing every element of a job.
+
+----
+num: 13
+category: History
+difficulty: Open
+fixed: 1
+seen: 46
+answer: Shah {Abbas} I or {Abbas} the {Great}
+
+At the behest of the rebellious Bakr Subashi, this ruler’s armies occupied Baghdad and held it throughout his lifetime. This ruler’s reign, along with that of two of his predecessors, was chronicled by Iskandar Beg Munshi. This ruler’s reign saw the establishment of the first French missions in his empire as well as the conversion of a Portuguese base at Hormuz into a trading port that became the center of trade for the English East India Company. Major foreign policy successes of this ruler included making peace in 1589 with the Ottomans in order to focus on expelling the Uzbeks from his empire. This ruler created his empire’s first standing army by using troops called ghulams instead of the Kizilbash, and further military reforms under this ruler were conducted under the auspices of the brothers Anthony and Robert Sherley. Also moving the capital from Kazvin to Esfahan, for 10 points, identify this son of Shah Muhammad who presided over a major period of prosperity for the Saffavid empire from 1588 to 1629.
+
+----
+num: 14
+category: Literature
+difficulty: Open
+fixed: 1
+seen: 35
+answer: Chimamanda Ngozi {Adichie}
+
+This author wrote a short story in which a woman decides not to apply for refugee status because she does not wish to describe the murder of her son, entitled “The American Embassy.” This author’s first novel is narrated by a fifteen-year-old child who falls in love with a priest named Father Amadi and is victimized by her overbearingly religious father Eugene. In addition to writing that novel about Kambili Achike, this author wrote a novel which opens with the narration of Ugwu, who listens to the political conversations between the friends of his employer Odenigbo. One character in that novel sleeps with her sister’s lover Richard after she finds out that Odenigbo impregnated a local girl, who gives birth to a child named Baby. That novel by this author is about the sisters Olanna and Kainene, and takes place around the time of the Biafran War. For 10 points, name this contemporary Nigerian author of the short story collection The Thing Around Your Neck as well as the novels Purple Hibiscus and Half of a Yellow Sun.
+
+----
+num: 15
+category: Social Science
+difficulty: Open
+fixed: None
+seen: 38
+answer: The {Philosophy} of {Poverty} or The {Philosophy} of {Misery} [accept The {System} of {Economic Contradiction}, or, The {Philosophy} of {Poverty} before it is mentioned]
+
+The introduction to this work claims that “To suppose God... is to deny him,” and explains how this work’s author came to view God as “a necessary dialectical tool.” Another section of this work lauds Adam Smith, “whose genius dimly foresaw everything and left us to do everything,” and draws on Smith’s designation of tax collectors as “unproductive.” That chapter of this work suggests that proportional taxes are a “monstrous inequality,” because they tax everyone the same number of days of pay. Chapters 3 through 7 of this work trace economic evolution from the division of labor through machinery, competition, monopoly, and the police period, and this work ends by concluding that the solution to the human enigma “is found... in these words: education, progress.” A notable criticism of this work which argues that it has failed to elucidate the origin of exchange value was written by Karl Marx, and puns on this work’s title. For 10 points, identify this economic treatise, a study of the “System of Economic Contradictions,” written by Pierre-Joseph Proudhon.
+
+----
+num: 16
+category: History
+difficulty: Open
+fixed: None
+seen: 47
+answer: Battle of the {Eurymedon River}
+
+A lesser-known battle of the same name was sandwiched between actions at Corycus and Myonnesus in the war between Rome and Antiochus III; that battle was a victory for Rhodians under Eudamas over forces led by Hannibal. Prior to this battle, the victorious general had extracted aid from the city of Phaselis, and according to Plutarch, the south wall of the Acropolis was built with proceeds from this battle. Following this battle, eighty Phoenician ships that had arrived too late to join the fight were captured off the coast of Cyprus by the victorious general. This battle occurred 13 years after a similar action at Mycale, and the losing generals at this battle included Tithraustes, who commanded the fleet, and Phrenedates, the infantry commander, although the entire losing side may have been led by Ariomandes. For 10 points, identify this 466 B.C.E. naval victory for the Delian League under Cimon over a larger Persian fleet and infantry force, which was fought at the mouth of a namesake waterway in Anatolia.
+
+----
+num: 16
+category: History
+difficulty: Open
+fixed: None
+seen: 49
+answer: Battle of the {Eurymedon River}
+
+A lesser-known battle of the same name was sandwiched between actions at Corycus and Myonnesus in the war between Rome and Antiochus III; that battle was a victory for Rhodians under Eudamas over forces led by Hannibal. Prior to this battle, the victorious general had extracted aid from the city of Phaselis, and according to Plutarch, the south wall of the Acropolis was built with proceeds from this battle. Following this battle, eighty Phoenician ships that had arrived too late to join the fight were captured off the coast of Cyprus by the victorious general. This battle occurred 13 years after a similar action at Mycale, and the losing generals at this battle included Tithraustes, who commanded the fleet, and Phrenedates, the infantry commander, although the entire losing side may have been led by Ariomandes. For 10 points, identify this 466 B.C.E. naval victory for the Delian League under Cimon over a larger Persian fleet and infantry force, which was fought at the mouth of a namesake waterway in Anatolia.
+
+----
+num: 17
+category: Science
+difficulty: Open
+fixed: 1
+seen: 96
+answer: {E1cb} ( {unimolecular} elimination via {conjugate} base)
+
+Its four subtypes include ip and R, in which the departure of the leaving group is rate-limiting. For aryl phenylacetates and other esters with acidic alpha-hydrogens, this mechanism is preferred over the Bac2 mechanism for acyl transfer. The transition from the enolate to the final product of the Knoevenagel reaction proceeds via this mechanism. Samarium oxide and other rare earth oxides are good catalysts for this mechanism, which is highly selective for the Hofmann orientation. In the final step of the Robinson annulation, the transition between the beta-hydroxyketone and the alpha, beta-unsaturated ketone is a dehydration that follows this mechanism. Reactions of alkyl halides proceed via this mechanism if the leaving group is two carbons away from a carbonyl group. It usually takes place in a strong base, and in this mechanism, the departure of the leaving group occurs after a charged intermediate is generated by the abstraction of a proton. For 10 points, name this type of elimination mechanism featuring a carbanion intermediate.
+
+----
+num: 18
+category: Fine Arts
+difficulty: Open
+fixed: 1
+seen: 39
+answer: Gilbert {Stuart}
+
+James Heath enraged this artist by creating a best-selling engraving of one of his most popular paintings. This artist's unfinished portrait of the French circus rider Breschard surrounded by the heads of two horses is sometimes believed to depict John Bill Ricketts instead. He established his reputation with his painting of William Grant folding his arms and gliding on an ice-covered river. This artist of The Skater was lauded by his contemporaries for his realistic portrait of the angular, bony face of Catherine Brass Yates. After moving to London in 1775, he returned to the United States in 1793 in order to paint works such as the Vaughan and Lansdowne portraits. The fame he won because of his unfinished Athanaeum head helped him paint portraits of the first six presidents. For 10 points, name this American artist whose iconic portrait of George Washington appears on the one dollar bill.
+
+----
+num: 19
+category: Literature
+difficulty: Open
+fixed: 1
+seen: 36
+answer: {Mumbo Jumbo}
+
+At the end of this novel, its protagonist exposes Hubert "Safecracker" Gould as a white man in blackface, and explains that Moses had sex with Isis to learn "The Work," a book consisting of the original dances of Osiris. The protagonist deciphers that that book is buried under the center of the Cotton Club, but learns that it was burnt by Abdul Hamid. In one of this novel's subplots, the Mu'tafikah plot to steal artworks from the Center of Art Detention and return them to their native cultures, only for Thor Wintergreen to betray them to Biff Musclewhite. In its main plot, Hinckle Von Vampton attempts to restore the Knights Templar by creating a Talking Android to undermine the Harlem Renaissance, in order to help the Wallflower Order fight an epidemic causing white people to dance. That epidemic threatens the power of the Atonists, and is called Jes Grew. For 10 points, identify this Ishmael Reed novel named for the voodoo practices of PaPa LaBas.
+
+----
+num: 20
+category: History
+difficulty: Open
+fixed: 1
+seen: 46
+answer: {Supreme Soviet} or {Verkhniy Soviet}
+
+Subdivisions of this organization included two “Councils of Elders,” extra constitutional bodies whose responsibilities included the formation of legislative commissions. Convened eleven times during its existence, this legislative body had an upper house called the Council of Nationalities and its responsibilities included the appointment of the Council of Ministers as well as the choosing of the Presidium from among its members. Propaganda often touted the working-class representation in this body, as well as its greater representation of women relative to Western legislatures, and approximately 18 percent of this body’s members were also members of the Communist Party. Ending its existence when it was converted into the Congress of People’s Deputies in 1989 during perestroika, for 10 points, identify this legislative body which was nominally responsible for making law in the USSR.

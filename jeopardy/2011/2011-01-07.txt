@@ -1,0 +1,419 @@
+####
+tournament: #6060
+round: Show #6060 - Friday, January 7, 2011
+year: 2011
+date: 2011-01-07
+####
+
+num: 1
+category: History
+difficulty: 200
+seen: 5
+answer: the Gateway Arch
+
+After viewing the city from the top of this landmark, make sure to visit the museum of westward expansion, below.
+
+----
+num: 2
+category: Trash
+difficulty: 200
+seen: 5
+answer: Hewlett-Packard
+
+Need some toner for that printer? Give HPQ, this company, a try.
+
+----
+num: 3
+category: Art
+difficulty: 200
+seen: 5
+answer: a slouch
+
+As a verb it means to sit with an awkward, drooping posture; as a noun, it refers to an awkward, lazy person.
+
+----
+num: 4
+category: Trash
+difficulty: 200
+seen: 5
+answer: Colt
+
+For his revolver with interchangeable parts.
+
+----
+num: 5
+category: Literature
+difficulty: 200
+seen: 4
+answer: a grain
+
+Millet, this type of plant, is a West African staple.
+
+----
+num: 6
+category: Literature
+difficulty: 200
+seen: 4
+answer: "Blowin\' In The Wind"
+
+This Dylan song asked, "How many times must the cannonballs fly, before they're forever banned".
+
+----
+num: 7
+category: History
+difficulty: 400
+seen: 4
+answer: the steamboat
+
+This type of transport on St. Louis' official seal symbolizes the city's early growth.
+
+----
+num: 8
+category: Trash
+difficulty: 400
+seen: 5
+answer: Alcoa
+
+AA doesn't stand for aluminum, aluminum, but this company.
+
+----
+num: 9
+category: Art
+difficulty: 400
+seen: 4
+answer: a latch
+
+This gate fastener consists of a bar that fits into a slot & is lifted by a lever.
+
+----
+num: 10
+category: Trash
+difficulty: 400
+seen: 5
+answer: Gillette
+
+For the disposable safety razor.
+
+----
+num: 11
+category: Literature
+difficulty: 400
+seen: 4
+answer: caramel
+
+A Spaniard's flan is a Frenchman's alliterative dessert called creme this.
+
+----
+num: 12
+category: Literature
+difficulty: 400
+seen: 4
+answer: Paul Simon
+
+His song told of "People talking without speaking... people writing songs that voices never share".
+
+----
+num: 13
+category: History
+difficulty: 600
+seen: 4
+answer: Lindbergh
+
+A replica of his Spirit of St. Louis plane that was used in the 1957 movie is on display at the Missouri History Museum.
+
+----
+num: 14
+category: Trash
+difficulty: 600
+seen: 6
+answer: Walmart
+
+This company, WMT, employs 2.1 million associates worldwide & is the largest private employer in Mexico.
+
+----
+num: 15
+category: Art
+difficulty: 600
+seen: 4
+answer: a berth
+
+It's a space for a ship to anchor, or a space to sleep on that ship.
+
+----
+num: 16
+category: Trash
+difficulty: 600
+seen: 4
+answer: (Frank) Zamboni
+
+For his ice rink resurfacing machine.
+
+----
+num: 17
+category: Literature
+difficulty: 600
+seen: 4
+answer: David Bowie
+
+This rock god wrote, "Am I sitting in a tin can? Far above the world, planet Earth is blue and there's nothing I can do".
+
+----
+num: 18
+category: History
+difficulty: 800
+seen: 4
+answer: Busch Stadium
+
+In 1953 Sportsman's Park was renamed this, becoming the first of 3 ballparks to bear the name.
+
+----
+num: 19
+category: Trash
+difficulty: 800
+seen: 6
+answer: Capital One
+
+What's in your wallet? This financial company, COF, hopes it's their credit card.
+
+----
+num: 20
+category: Art
+difficulty: 800
+seen: 4
+answer: messiah
+
+Savior, from the Aramaic for "anointed one".
+
+----
+num: 21
+category: Trash
+difficulty: 800
+seen: 4
+answer: Dolby
+
+For his noise reduction systems that revolutionized the audio industry.
+
+----
+num: 22
+category: Literature
+difficulty: 800
+seen: 4
+answer: yogurt
+
+Raita, which cools the mouth after spicy Indian dishes, is made from this dairy product.
+
+----
+num: 23
+category: Literature
+difficulty: 800
+seen: 4
+answer: the Velvet Underground
+
+English major Lou Reed wrote lyrics like "Whiplash girlchild in the dark" for this 1960s band.
+
+----
+num: 24
+category: History
+difficulty: 1000
+seen: 4
+answer: Marlin Perkins
+
+He was director of the St. Louis Zoo in 1962 when he began working on "Mutual of Omaha's Wild Kingdom".
+
+----
+num: 25
+category: Trash
+difficulty: 1000
+seen: 5
+answer: Pfizer
+
+You probably have something made by this company, PFE, in your medicine cabinet.
+
+----
+num: 26
+category: Trash
+difficulty: 1000
+seen: 5
+answer: Borden
+
+For improvements in the condensing of milk.
+
+----
+num: 27
+category: Literature
+difficulty: 1000
+seen: 3
+answer: ceviche
+
+Japanese-Peruvians changed cubes to strips, making tiradito instead of this traditional marinated fish dish.
+
+----
+num: 28
+category: Literature
+difficulty: 1000
+seen: 4
+answer: Patti Smith
+
+"Love is a Banquet on which we feed" is from "Because The Night", co-written by this poetess of punk.
+
+----
+num: 29
+category: History
+difficulty: 400
+seen: 5
+answer: the Smithsonian
+
+Ornithologist Alexander Wetmore was also secretary of this Washington, D.C. institution.
+
+----
+num: 30
+category: Literature
+difficulty: 400
+seen: 4
+answer: a community college
+
+Joel McHale & Chevy Chase attend Greendale, this type of college.
+
+----
+num: 31
+category: History
+difficulty: 400
+seen: 4
+answer: John Quincy Adams
+
+His dad was the second U.S. president; he was No. 6.
+
+----
+num: 32
+category: Art
+difficulty: 400
+seen: 4
+answer: a bandanna
+
+From the Hindi for "tie-dyeing", this cowboy accessory was often used as a dust mask while driving cattle.
+
+----
+num: 33
+category: History
+difficulty: 800
+seen: 4
+answer: Alexander Fleming
+
+He won a Nobel Prize for his 1928 discovery of an early antibiotic.
+
+----
+num: 34
+category: Literature
+difficulty: 800
+seen: 4
+answer: Parks & Recreation
+
+On a sitcom, Amy Poehler works for this department of the local government of Pawnee, Indiana.
+
+----
+num: 35
+category: History
+difficulty: 800
+seen: 4
+answer: Benjamin Harrison
+
+His grandpa was the ninth U.S. president; he was No. 23.
+
+----
+num: 36
+category: Art
+difficulty: 800
+seen: 4
+answer: a lei
+
+In Hawaii a maile one of these was once used to signify a peace treaty between opposing chiefs.
+
+----
+num: 37
+category: History
+difficulty: 1200
+seen: 4
+answer: (Alexander) Pope
+
+Only 4'6" tall,.
+
+----
+num: 38
+category: Literature
+difficulty: 1200
+seen: 4
+answer: the middle
+
+This comedy gets its title from the part of the U.S. (Orson, Indiana) where Patricia Heaton's family lives.
+
+----
+num: 39
+category: History
+difficulty: 1200
+seen: 4
+answer: the Kennedy family
+
+Patrick of this illustrious family was first elected to Congress from Rhode Island in 1994.
+
+----
+num: 40
+category: History
+difficulty: 1600
+seen: 5
+answer: the Roman Empire
+
+Enslaved in a war in Asia Minor, Alexander Polyhistor tutored a Patrician's kids & was made a citizen of this empire.
+
+----
+num: 41
+category: History
+difficulty: 1600
+seen: 4
+answer: William Howard Taft
+
+This president's son & grandson were Ohio senators; a great-grandson, Ohio's governor.
+
+----
+num: 42
+category: Art
+difficulty: 1600
+seen: 4
+answer: a boa
+
+This long tubular scarf was usually made of fur or feathers such as ostrich or marabou.
+
+----
+num: 43
+category: History
+difficulty: 2000
+seen: 6
+answer: (Alexander) Von Humboldt
+
+A major Pacific Ocean current off the South American Coast is named for this Alex who measured it in 1802.
+
+----
+num: 44
+category: Literature
+difficulty: 2000
+seen: 6
+answer: Castle
+
+Nathan Fillion plays a mystery novelist with this last name; he helps a female NYC police detective solve crimes.
+
+----
+num: 45
+category: History
+difficulty: 2000
+seen: 5
+answer: the Udalls
+
+Members of this family dynasty have included 2 Phoenix mayors, a Secretary of the Interior & 3 U.S. senators.
+
+----
+num: 46
+category: Art
+difficulty: 2000
+seen: 6
+answer: a dickey
+
+In the 19th Century, it was not considered proper for men to wear this, a false shirt front with attached collar.

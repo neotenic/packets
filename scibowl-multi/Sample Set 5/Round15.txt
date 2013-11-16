@@ -1,0 +1,454 @@
+####
+tournament: Sample Set 5
+round: Round15.pdf
+####
+
+num: 1
+category: Earth and Space Science
+difficulty: MS
+answer: X) 11,000 to 12,000 Years Ago
+
+In 1849, bones of a beluga whale were discovered in Vermont buried nearly 10 feet below the surface and over 150 miles from the nearest ocean. During which of the following time frames would the whale most likely have died?
+W) 6,000 to 7,000 years ago
+X) 11,000 to 12,000 years ago
+Y) 17,000 to 18,000 years ago
+Z) 23,000 to 24,000 years ago
+
+----
+num: 2
+category: Physics
+difficulty: HS
+seen: 1
+answer: Z) Neutron
+
+Which of the following particles are classified as baryons?
+W) Weak boson
+X) Graviton
+Y) Neutrino
+Z) Neutron
+
+----
+num: 2
+category: Physical Science
+difficulty: MS
+answer: Z) Glycolysis
+
+Which of the following processes could NOT take place in the active site of an enzyme?
+W) Phosphorylation (read as: fahs-fohr-i-LAY-shohn)
+X) Hydrolysis
+Y) Dehydration synthesis
+Z) Glycolysis
+
+----
+num: 3
+category: Earth and Space
+difficulty: HS
+seen: 1
+answer: Y) Köppen
+
+Which of the following systems of climate classification is the best -known and most used?
+W) Trewartha
+X) Klaus
+Y) Köppen
+Z) Strahler
+
+----
+num: 3
+category: Earth and Space Science
+difficulty: MS
+answer: Z) Chukchi
+
+Which of the following seas of the Arctic 
+Ocean has observed the greatest loss of ice since 1990?
+W) Greenland
+X) Laptev
+Y) Labrador
+Z) Chukchi (read as: CHOOK-chee)
+
+----
+num: 3
+category: Earth and Space Science
+difficulty: MS
+answer: X) Tampa, Florida and  Kathmandu, Nepal
+
+
+Which of the following sets of two locations have the most similar latitudes?
+W) New York City, New York and London, England
+X) Tampa, Florida and Kathmandu, Nepal
+Y) Death Valley, California and Boston, Massachusetts
+Z) Sydney, Australia and Lima, Peru
+
+----
+num: 4
+category: Energy
+difficulty: MS
+answer: W) Multijunction
+
+Which of the following is the most efficient type of solar cell?
+W) Multijunction
+X) Single-junction
+Y) Crystalline silicon
+Z) Thin -film
+
+----
+num: 5
+category: Life Science
+difficulty: MS
+answer: Z) Vessel Elements
+
+Indicate which of the following is most efficient for water and minera l transport in plants?
+W) Tracheids (read as: TRAY-keeds)
+X) Sclerids
+Y) Sieve tube element s
+Z) Vessel elements
+
+----
+num: 6
+category: Math
+difficulty: HS
+seen: 1
+answer: Yy)
+Z)  ππ
+^3^2
+/12/6
+) π^2/6
+
+The sum of the squares of reciprocals of all positive integers equals which of the following?
+XW) ) π/3 π
+
+----
+num: 7
+category: Life Science
+difficulty: MS
+answer: Z) Myelin
+
+Which of the following is responsible for speeding up the transmission of action potentials across axons?
+W) Glia
+X) Synapse
+Y) Dendrites
+Z) Myelin (read as: MY-eh-lin)
+
+----
+num: 8
+category: Energy
+difficulty: HS
+seen: 1
+answer: W)  Small
+
+Plasmas are considered strongly coupled when the ratio of the average distance between the particles to the distance of closest approach is which of the following?
+W) 
+X) LSargemall
+Y) Roughly equal to one
+Z) Roughly equal to zero
+
+----
+num: 9
+category: Physics
+difficulty: HS
+answer: Z) the Universe
+
+Which of the following best represents a closed system?
+W) A 2-liter bottle filled with aquatic plants, a fish, water, and a bit of air, sealed with a tight lid and placed in a window
+X) A terrarium with a closed lid, some plants, and a live boa constrictor
+Y) The Earth 
+Z) The universe
+
+----
+num: 10
+category: Biology
+difficulty: HS
+answer: Y) the Hormone Is a Ligand for the G Protein
+
+Which of the following statements is NOT true about the G protein hormone receptor system?
+W) It is an example of membrane -based signal transduction
+X) It results in an amplification of the original signal
+Y) The hormone is a ligand for the G protein
+Z) The G protein must be able to move along the membrane
+
+----
+num: 10
+category: Biology
+difficulty: HS
+answer: W) the G Proteins Remain Activated and Continually Activate 
+Adenylyl Cylase
+
+Some disease-causing microbes attack the body by turning on or off specific signal transduction pathways. In the disease cholera, for example, a toxin from the bacterium Vibrio cholera enters intestinal cells and chemically modifies G proteins. Once modified, the G proteins can no longer cleave GTP into GDP. Which of the following would you expect to see within the intestinal cells of a person with cholera?
+W) The G proteins remain activated and continually activate adenylyl cylase
+X) The G proteins cannot become activated and cannot activate adenylyl cylase
+Y) The G protein subunits do not separate from each other
+Z) The receptor in the membrane is continually activated
+
+----
+num: 10
+category: Life Science
+difficulty: MS
+answer: X) Hypothalamus
+
+Hormones released by the posterior pituitary control numerous emotions, drives, and autonomic functions. In which of the following locations are those hormones actually produced?
+W) Thalamus
+X) Hypothalamus
+Y) Anterior pituitary
+Z) Amygdaloid (read as: AH -mig-lohid) body
+
+----
+num: 11
+category: Math
+difficulty: HS
+answer: X) a Rational Function’s Graph May Intersect One of Its Vertical 
+Asymptotes
+
+Which of the following is NOT true?
+W) A rational function’s graph may intersect its horizontal asymptote
+X) A rational function’s graph may intersect one of its vertical asymptotes
+Y) The function f(x) = -1/x is its own inverse
+Z) The function f(x) = -x is its own inverse
+
+----
+num: 12
+category: General Science
+difficulty: MS
+answer: Y) Meitnerium
+
+Which of the following elements is NOT in group 8 of the periodic table?
+W) Iron
+X) Osmium
+Y) Meitnerium (read as: myt-NIR-ee-uhm)
+Z) Hassium
+
+----
+num: 14
+category: General Science
+difficulty: MS
+answer: Z) Curium
+
+Which of the following elements is NOT a lanthanide?
+W) Europium
+X) Terbium
+Y) Thulium
+Z) Curium
+
+----
+num: 14
+category: General Science
+difficulty: MS
+answer: X ) Horned Podweed
+
+Which of the following organisms has the highest salinity tolerance?
+W) Water stargrass
+X) Horned podweed
+Y) Hydrilla
+Z) Wild celery
+
+----
+num: 15
+category: Life Science
+difficulty: MS
+answer: X) Reticulated Python
+
+Which of the following is the longest snake alive today?
+W) Burmese python
+X) Reticulated python
+Y) Yellow anaconda
+Z) Green anaconda
+
+----
+num: 16
+category: Chemistry
+difficulty: HS
+seen: 1
+answer: W) Hcn
+
+Which of the following molecules contains only one non -bonding pair of valence electrons?
+W) HCN +X) 
+Y) CNH^2H^4^4
+Z) N^2
+
+----
+num: 16
+category: General Science
+difficulty: MS
+answer: Y) Hadal Zone
+
+Which of the following ocean layers receives the least amount of natural light?
+W) Epipelagic (read as: eh-pi-peh-LAH-jik)
+X) Bathypelagic (read as: bah-thi-peh-LAH-jik)
+Y) Hadal Zone
+Z) Mesopelagic
+
+----
+num: 18
+category: Physical Science
+difficulty: MS
+answer: Y) There Is No Effect on the Period
+
+A bob of mass m is attached to a string, forming a pendulum. If the bob is replaced with one of mass 4 m, what effect does it have on the period of the pendulum?
+W) It quarters the period
+X) It halves the period
+Y) There is no effect on the period
+Z) It doubles the period
+
+----
+num: 19
+category: Biology
+difficulty: HS
+seen: 1
+answer: Y) Animals With a Low Surface Area to Volume Ratio Can 
+Conserve Heat More Easily
+
+In ecology, there are two rules that identify relationships between the animal’s habitat and its shape and structure. Bergmann’s rule predicts that body size decreases in proximity to the equator, while Allen’s rule predicts that appendages increase in size in proximity to the equator. Which of the following represents the basis for these predictions?
+W) Small animals have a higher survival rate at the equator because of t he dense foliage
+X) There is less competition for food in the Arctic, so animals can grow larger
+Y) Animals with a low surface area to volume ratio can conserve heat more easily
+Z) The foundation for understanding both rules is based on Gloger’s rule
+
+----
+num: 19
+category: Life Science
+difficulty: MS
+answer: X) Carbon Dioxide Is Transformed to Sugar
+
+Photosynthesis has both light and dark reactions. Which of the following occurs without the presence of light?
+W) Water is split to produce oxygen
+X) Carbon dioxide is transformed to sugar
+Y) NADP+ is converted to NADPH
+Z) ADP is converted to ATP
+
+----
+num: 19
+category: Life Science
+difficulty: MS
+answer: W) When Cholesterol Levels Increase and the Membrane Is at a 
+Low Temperature
+
+
+Cholesterol is responsible for altering membrane fluidity. In which of the following conditions would the presence of cholesterol have the greatest effect on the fluidity of the cell membrane?
+W) When cholesterol levels increase and the membrane is at a low temperature 
+X) When cholesterol levels increase and the membrane is at a moderate temperature
+Y)^ When cholesterol levels decrease and^ the membrane is at a low temperature^^
+Z) Cholesterol has the same effect, regardless of the temperature
+
+----
+num: 20
+category: General Science
+difficulty: MS
+answer: Z) the Equilibrium Constant Will Change
+
+A reaction is currently at equilibrium. Which of the following will NOT happen when a catalyst is added to the reaction?
+W) The forward reaction will proceed at a faster rate
+X) The reverse reaction will proceed at a faster rate
+Y) The rate constant will change
+Z) The equilibrium constant will change
+
+----
+num: 21
+category: Physics
+difficulty: HS
+answer: Z) the Horizontal Motion and Vertical Motion Are Independent 
+of Each Other
+
+Assuming negligible air resistance, which of the following statements is TRUE about two -dimensional projectile motion?
+W) The vertical motion is dependent on the horizontal motion
+X) The horizontal motion is dependent on the vertical motion
+Y) The horizontal motion and vertical motion are both dependent on the projectile’s acceleration vector 
+Z) The horizontal motion and vertical motion are independent of each other
+
+----
+num: 21
+category: Physical Science
+difficulty: MS
+answer: Y) Graham’s
+
+Lighter gases diffuse more quickly than heaviergases . Mathematically, this is expressed by which of the following laws?
+W) Avogadro’s
+X) Boyle’s
+Y) Graham’s
+Z) Charles’s
+
+----
+num: 22
+category: Earth and Space
+difficulty: HS
+seen: 1
+answer: Z) Maritime Navigational Instrument
+
+Which of the following was the LEAST common use of a typical astrolabe?
+W) Finding the time of day
+X) Finding the time of a celestial event
+Y) Reference for celestial positions
+Z) Maritime navigational instrument
+
+----
+num: 22
+category: Earth and Space Science
+difficulty: MS
+answer: W) Potassium Chloride
+
+The salinity of ocean water is often determined from its conductivity, measured against the conductivity of which of the following substances dissolved in water?
+W) Potassium chloride
+X) Sodium chloride
+Y) Sodium sulfate
+Z) Magnesium sulfate
+
+----
+num: 23
+category: Physics
+difficulty: HS
+answer: Y) It Depends on the Use of a Ground to Redistribute Charges
+
+Which of the following is the most accurate description of charging by induction?
+W) It depends on putting two objects in actual physical contact with each other
+X) It depends on the use of friction
+Y) It depends on the use of a ground to redistribute charges 
+Z) It depends on gain of electrons during chemical reactions
+
+----
+num: 23
+category: Math
+difficulty: MS
+answer: Z) 39,216
+
+A one-story building has floor dimensions of 400 feet by 100 feet. If a square patio with sides of 28 feet occupies the center of the building, which of the following is the area in square feet that remains for offices?
+W) 36,216
+X) 37,216
+Y) 38,216
+Z) 39,216
+
+----
+num: 24
+category: Energy
+difficulty: HS
+answer: Z) Storage Rings Are Not Needed Since Beams Can Be Compressed 
+in Length as They Are Accelerated
+
+Which of the following is NOT an advantage of radio -frequency accelerators?
+W) The technology is well established
+X) Emittance dominates transverse beam dynamics during acceleration and storage, rather than space charge
+Y) Obtaining the required ion energy is straightforward due to the high acceleration gradients in radio-frequency structures
+Z) Storage rings are not needed since beams can be compressed in length as they are accelerated
+
+----
+num: 24
+category: Energy
+difficulty: MS
+answer: Y) Placing Cadmium Control Rods Between the Fuel Rods to 
+Absorb Neutrons
+
+Which of the following processes could be used to control fission reactions in a nuclear power plant?
+W) Cooling the fuel rods with water 
+X) Placing gallium control rods between the fuel rods to absorb neutrons
+Y) Placing cadmium control rods between the fuel rods to absorb neutrons
+Z) Placing uranium-235 control rods between the fuel rods to absorb neutrons
+
+----
+num: 25
+category: Math
+difficulty: HS
+seen: 1
+answer: Y) Two Populations, Difference in Proportions
+
+You are conducting an experiment. In a large elementary school, you select two age-matched groups of students. Group 1 follows a normal schedule. Group 2 spends 30 minutes a day in art class in addition to their other classes. You want to test whetherlearning art makes a student less likely to get in trouble. You consider a student in trouble if he or she was sent to the principal’s office at any time during the year. The data you collect would 
+BEST be analyzed by which of the following?
+W) Two populations, difference in means, paired data
+X) Two populations, difference in means, unpaired data
+Y) Two populations, difference in proportions 
+Z) Two populations, contingency table

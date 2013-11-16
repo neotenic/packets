@@ -1,0 +1,104 @@
+####
+tournament: ACF Nationals
+round: Brown A - Final.docx
+year: 2010
+####
+
+num: 3
+category: Science
+difficulty: Open
+fixed: 1
+seen: 57
+answer: {functional} programming languages
+
+AMANDA extended one of these created by David Turner, and Wadler wrote a book on how to use monads in them.  Charity is an example of the so-called “total” type of these that prohibit non-termination, and easy memorization in them is attained through the fact that many of them maintain referential transparency.  Some 70 SFRIs extend one of these beyond its R6RS standards, while another employs call-by-need, a form of lazy evaluation.  Besides that one named for the first namesake of the Curry-Howard correspondence, side effects aren't present in “pure” ones.  Microsoft recently created one that is similar to OCaml called F# ["F-Sharp"], and they usually implement the tuple data type.  Exemplified by Scheme and Lisp, for 10 points, name this type of programming language contrasted with imperative languages.
+
+----
+num: 4
+category: History
+difficulty: Open
+fixed: None
+seen: 45
+answer: House of {Savoy}
+
+One member of this house won a major victory at Guastalla during the War of the Polish Succession, while a member of this house named Boniface served as Archbishop of Canterbury and died accompanying Edward I on a crusade. This house was established by a count known as the White-handed, while a female member of this house named Louise was the mother of King Francis I of France, in which capacity she negotiated the Treaty of Cambrai. Another member of this house recovered much of its territory at the treaty of Cateau-Cambresis; that member was Emmanuel Philibert. A more famous member of its Carignan branch, by defeating the Ottomans at Zenta, helped bring about the Treaty of Karlowitz. For 10 points, identify this Piedmontese house which ruled from 1861 until 1946, and whose members included Eugene as well as several Umbertos and Victor Emmanuels.
+
+----
+num: 5
+category: Literature
+difficulty: Open
+fixed: None
+seen: 34
+answer: {Rasipuram Krishnaswami. Narayan}
+
+This author depicts the revolt of a mother against her husband, a senior executive at the Engladia Insurance Company, in the novel The Dark Room. Such short stories as “A Breath of Lucifer” and “Uncle” were collected in a volume titled, “The Grandmother's Tale,” which focuses on a girl who was married at seven and travels the sub-continent to find her husband. In another work by this writer a husband loses his wife, Susila, to typhoid fever and attempts to contact her beyond the grave.  That novel, The English Teacher, was followed by a work that introduced the character Rosie, a dancer, whose career is managed by the rascally Raju who is mistaken for a swami in The Guide.  For 10 points, identify this Indian author who set his works, including such other novels as The Financial Expert and The Painter of Signs, in the fictional town of Malgudi.
+
+----
+num: 6
+category: Religion
+difficulty: Open
+fixed: None
+seen: 46
+answer: {exorcism} (accept {expelling demons} or the like before mentioned, prompt on {spiritual healing})
+
+In the Spanish cabbalistic tradition this action was undertaken to counteract the effects of a state called 'ibbur. In Tamil communities, troupes of musicians called pampaikkarar are tasked with doing this. In North India, those seeking to have this action performed often make a pilgrimage to the Balaji temple of Hanuman where they must enter a trance known as peshi. The arm relic of John Gualbert of Florence was said to perform this action, and in Islam this action is sometimes performed by observing the motion of a finger and bleeding it. In a more famous episode, Jesus traveled to the land of the Gadarenes and did this to Legion, which resulted in a group of pigs running into the sea and drowning. For 10 points, identify this religious practice of expelling demons from possessed persons.
+
+----
+num: 9
+category: Science
+difficulty: Open
+fixed: None
+seen: 56
+answer: {alcohol dehydrogenase} [also accept {ADH}]
+
+This protein's substrate can also be processed by cytochrome P450 2E1. Lactobacillus kefir's use as a biocatalyst is due to the broad substrate specificity of this enzyme, other catalytically useful examples of which come from Thermonanaerobium brockii and horse liver.  Potent inhibitors of this enzyme include CNAD and pyrazole. Types of this enzyme include cinnamyl ones in plants and dimeric ones in mammals, which can include EE, ES, and SS varieties depending on whether they include steroid-active monomers. In its active site, Cys-146, Cys-174, His-67, and Ser-48 coordinate a zinc atom. Its sigma-sigma form is found in the stomach. A hepatic form of this oxidoreductase can lead to blindness by catalyzing the oxidation of methanol to formaldehyde. For ten points, name this enzyme which in yeast can generating NAD+ and its namesake product during fermentation.
+
+----
+num: 10
+category: Literature
+difficulty: Open
+fixed: None
+seen: 35
+answer: The {World} as {Will} and {Idea} or The {World} as {Will} and {Representation} or {Die Welt als Wille und Vorstellung}
+
+One portion of this work argued that popular theories of punishment, championed by the likes of Pufendorf, were limited because they promote justice by referring to the future, rather than the past.  In another section, it asks “Who would guess why the fish is a symbol of Christianity,” before showing how the object of perception is actually made incomprehensible through the use of allegory.  Book IV, which deals with Ethics, discusses the case of starvation as a situation where an individual has renounced one of the title concepts.  Originally published with an appendix that outlines a polemic against Kantian concepts, its preface advises the reader to seek out its author's “On the Fourfold Root of the Principal of Sufficient Reason” before tackling this tome which was heavily influenced by Hindu philosophy, but criticized for its overwhelming pessimism.  For 10 points, identify this philosophical treatise by Arthur Schopenhauer.
+
+----
+num: 13
+category: Science
+difficulty: Open
+fixed: None
+seen: 53
+answer: {powder diffraction} [accept {X}-{ray powder diffraction}, {neutron powder diffraction}, etc.; prompt on {X}-{ray diffraction} or {neutron diffraction}, etc.]
+
+One program for analyzing data from this technique is DBW, which implements the Rietveld method of using least-squares to match a theoretical line profile to the experimental profile. When theoretical spectra are missing, programs such as TOPAS, GSAS, and Fox can be used for de novo structure determination. The Hall-Williamson method, based on the Scherrer equation and the Stokes-Wilson approximation, can be used to separate peak broadening caused by strain and by size. During analysis, intensity is plotted as a function of "2 theta" or of "q", and a correction for "texture" may be applied if plates or rods align along the axis of the sample holder. For 10 points, name this non-destructive analytic technique also used to study expansion tensors, lattice parameters, phase transitions, and crystallinity, which, for ten points, involves measuring the intensity of neutrons or X-rays as a function of scattering angle.
+
+----
+num: 14
+category: History
+difficulty: Open
+fixed: None
+seen: 48
+answer: {Krung Thep Maha Nakhon}
+
+This city's so-called houses one headquarters of United Overseas Bank, and a sculpture representing its country's 1932 Constitution is surrounded by four wing-like structures at the Democracy monument. Also home to , the popular sporting venues in this city include Ratchadamnoen and Lumphini stadiums, and noted centers of learning include . It was merged with the city of , by which it is linked by three bridges, after the capital was moved here - those bridges span this city located on the . For 10 points, name this city whose complex is the residence of King Rama IX.
+
+----
+num: 15
+category: Fine Arts
+difficulty: Open
+fixed: None
+seen: 40
+answer: {Mahler's 3rd} Symphony
+
+In the first movement, an oboe call is answered by the 'life-will' motif in the basses, while in another movement, a soloist cries "All joy wills eternity, wills deep eternity!." The first movement also features an offstage snare drum inspired by military bands. This work opens with 8 horns playing a unison theme derived from the finale of Brahms's First Symphony, and the composer removed the original last movement of this work but then brought it back as the last movement of his next symphony. Some of the movements of this work were originally titled "Summer marches in" and "What the flowers in the meadow tell me." The fifth movement is a setting of the Wunderhorn song "Three Angels were Singing," while the fourth is a setting of the "Midnight Song" from Nietzsche's Thus Spake Zarathustra. For 10 points, identify this massive six-movement symphony, its composer's longest, which followed the Resurrection.
+
+----
+num: 23
+category: Science
+difficulty: Open
+fixed: 57
+seen: 57
+answer: {orogeny}
+
+The Sarawak one occurred in the Eocene and early Oligocene in the area of Borneo and Palawan, uplifting and deforming turbidites. The Paleo-Tethys Ocean was closed by the Cimmerian one, which occurred in the Triassic. The Taconic and Acadian ones occurred 450 and 400 million years ago, accreting terranes onto proto-North America which include present-day New England. The Cordilleran one on the west coast comprised the Laramide in the late Cretaceous that uplifted the Black Hills, as well as the earlier Nevadan in which subduction of oceanic crust pushed up a tall volcanic arc and batholith which forms the modern Sierra Nevadas. For 10 points, what is this process in plate tectonics involving collisions of two plates, the mechanism of mountain formation?

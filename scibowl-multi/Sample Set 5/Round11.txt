@@ -1,0 +1,386 @@
+####
+tournament: Sample Set 5
+round: Round11.pdf
+####
+
+num: 1
+category: Math
+difficulty: MS
+answer: Z)  Its Opposite Angles Are Supplementary
+
+A quadrilateral may be inscribed in a circle if and only if which of the following is true?
+W) It is a rectangle
+X) It is a square
+Y) It is equilateral
+Z) Its opposite angles are supplementary
+
+----
+num: 3
+category: Physics
+difficulty: HS
+answer: Y)  It Is Directed Perpendicularly to the Surface
+
+Which of the following is TRUE about t he electric field just outside the surface of a charged spherical conductor?
+W) It is zero
+X) It is infinitely large
+Y) It is directed perpendicularly to the surface
+Z) It is directed parallel to the surface
+
+----
+num: 4
+category: Biology
+difficulty: HS
+answer: X) Phagocytosis
+
+Which of the following processes would leukocytes employ to destroy bacteria in interstitial spaces?
+W) Pinocytosis (read as: pin-oh-si-TŌE-sis)
+X) Phagocytosis (read as: fahg-oh-si-TŌE-sis)
+Y) Erythrophagocytosis (read as: i-rith-roh-fahg-oh-si-TŌE-sis)
+Z) Efferocytosis (read as: ehf-eh-roh- si-TŌE-sis)
+
+----
+num: 5
+category: Chemistry
+difficulty: HS
+seen: 1
+answer: W) Oxygen in H^2o^2 and -2
+
+Which of the following pairs does NOT correctly match the element and its oxidation number?
+W) Oxygen in H^2O^2 and -2
+X) Bromine in Br^2 and 0
+Y) Sodium in NaCl and +1
+Z) Sulfur in SO ^3^−^2 and +4
+
+----
+num: 5
+category: Life Science
+difficulty: MS
+answer: Y) Plant Centrosomes Do Not Have Centrioles
+
+
+Which of the following statements best describes the primary difference between animal centrosomes and plant centrosomes?
+W) Plant centrosomes have a rough exterior made of cellulose
+X) Animal centrosomes use microfilaments
+Y) Plant centrosomes do not have centrioles
+Z) Animal centrosomes are in the cytoplasm
+
+----
+num: 6
+category: General Science
+difficulty: MS
+answer: Z)  Webbed Feet on a Duck Towebbed Feet on a Frog
+
+Which of the following is an example of analogous structures resulting from convergent evolution?
+W) Feathers on a bird to feathers on a dinosaur
+X) Forelimbs on a human to forelimbs on a chimpanzee
+Y) Flippers on a dolphin to forelimbs on a human
+Z) Webbed feet on a duck to webbed feet on a frog
+
+----
+num: 7
+category: Math
+difficulty: MS
+answer: Z) Infinity
+
+Which of the following best represents the sum of the reciprocals of all positive integers?
+W) 2^2X) 
+Y) 9π /6
+Z) Infinity
+
+----
+num: 7
+category: Math
+difficulty: MS
+answer: X) 79
+
+
+A cylindrical tin can has a diameter of 4 inches and a height of 5 inches. Approximately how much more volume, in cubic inches, would it have if the diameter were increased to 6 inches?
+W) 63
+X) 79
+Y) 141
+Z) 157
+
+----
+num: 9
+category: Life Science
+difficulty: MS
+answer: X) Okazaki Fragment
+
+
+Which of the following is a relatively short fragment of DNA created on the lagging strand during DNA replication?
+W) DNA polymerase
+X) Okazaki fragment
+Y) Thymine dimer
+Z) Flap endonuclease
+
+----
+num: 11
+category: Earth and Space
+difficulty: HS
+answer: X) It Decreases With Incre Asing Latitude
+
+Which of the following statements is TRUE about the rotation rate of the Sun at its surface?
+W) It is the same everywhere on the Sun
+X) It decreases with increasing latitude
+Y) It increases with increasing latitude
+Z) It is greatest in two bands at mid-latitude
+
+----
+num: 11
+category: Math
+difficulty: MS
+answer: Y) Iii
+
+The line with equation y = −3x + 10 has points in every quadrant 
+EXCEPT:
+W) I
+X) II
+Y) III
+Z) IV
+
+----
+num: 12
+category: Earth and Space Science
+difficulty: MS
+answer: X) Chemosynthetic Archaea
+
+Which of the following is at the base of the hydrothermal vent community food chain?
+W) Symbiotic phytoplankton
+X) Chemosynthetic archaea
+Y) Marine snow
+Z) Photosynthetic bacteria
+
+----
+num: 13
+category: Earth and Space
+difficulty: HS
+answer: Y) They Are More Mas Sive Than Neutrinos
+
+Which of the following is a characteristic of hypothetical weakly interacting massive particles, or WIMPs?
+W) They are fast moving
+X) They attract or repel ordinary particles with electrical forces
+Y) They are more massive than neutrinos
+Z) They interact with the strong nuclear force
+
+----
+num: 13
+category: Physical Science
+difficulty: MS
+answer: W)  Lonsdaleite, Graphene, and Fullerene
+
+Which of the following groups consists entirely of allotropes of carbon?
+W) Lonsdaleite (read as: lohnz-day-LEET), graphene, and fullerene
+X) Crystal, diamond, and graphite
+Y) Graphite, graphene, and crystal
+Z) Fullerene, lonsdaleite (read as: lohnz-day-LEET), and alamosite
+
+----
+num: 14
+category: Energy
+difficulty: HS
+seen: 1
+answer: Y) the Core
+
+Transformer efficiency is lowered, primarily due to power loss, at which of the following locations?
+W) The load
+X) The source
+Y) The core
+Z) The grounding point
+
+----
+num: 14
+category: Energy
+difficulty: MS
+answer: Z) Liquid Biofuels
+
+The U.S. Energy Information Administration is projecting that primary energy consumption of which of the following energy sources will grow by more than 4% per year between 2007 and 2035?
+W) Coal
+X) Natural gas
+Y) Nuclear
+Z) Liquid biofuels
+
+----
+num: 15
+category: Biology
+difficulty: HS
+answer: Z) Gram-Negative Bacteria Ha Ve a Cell Membrane a Nd a 
+Secondary Lipopolysa Ccharide Layer
+
+Which of the following best explains why a Gram-negative bacterial infection would be more difficult to treat than a Gram-positive one?
+W) The cell membrane of Gram-positive bacteria functions as an endotoxin
+X) Gram-positive bacteria are facultative anaerobes
+Y) Gram-positive bacteria have a cell membrane and a secondary lipopolysaccharide layer (read as: lip-ōe-pahl-i-SAHK-ah-ryd)
+Z) Gram-negative bacteria have a cell membrane and a secondary lipopolysaccharide layer
+
+----
+num: 17
+category: Biology
+difficulty: HS
+answer: X) Waste Is Expelled Above the Organism’s Head and Mouth
+
+
+Which of the following BEST describes the problem that torsion creates for gastropods?
+W) More energy is needed to develop a coiled shell
+X) Waste is expelled above the organism’s head and mouth
+Y) It limits the amount of space the organism has for growth
+Z) To eat, an organism must extend its body outside of its protective shell
+
+----
+num: 17
+category: Physical Science
+difficulty: MS
+answer: Y) Lewis Acid
+
+Which of the following is a substance that canaccept a pair of electrons from anothers ubstance?
+W) Brønsted acid
+X) Brønsted base 
+Y) Lewis acid
+Z) Arrhenius base
+
+----
+num: 17
+category: Physical Science
+difficulty: MS
+answer: W) Pauli Exclusion Principle
+
+
+Which of the following states that no two electrons can have the same four quantum numbers?
+W) Pauli exclusion principle
+X) Aufbau principle
+Y) Hund’s rule
+Z) Heisenberg uncertainty principle
+
+----
+num: 18
+category: Earth and Space Science
+difficulty: MS
+answer: W)  Dendritic
+
+A crystal’s habit that is plant-like in shape is called which of the following?
+W) Dendritic
+X) Bladed
+Y) Massive
+Z) Reniform
+
+----
+num: 19
+category: Physics
+difficulty: HS
+answer: W) 25 Watts
+
+A bucket of hot oil weighing 50 newtons is lifted at constant velocity up a castle wall that is 10 meters high. It takes 20 seconds to raise the bucket up the wall. How much power was used to raise the bucket?
+W) 25 watts
+X) 25 joules
+Y) 500 joules
+Z) 500 watts
+
+----
+num: 22
+category: Chemistry
+difficulty: HS
+seen: 1
+answer: W) Sodium Nitrate
+
+Which of the following compounds is generally considered soluble in water?
+W) Sodium nitrate 
+X) Magnesium carbonate
+Y) Silver chloride
+Z) Barium sulfate
+
+----
+num: 22
+category: Chemistry
+difficulty: HS
+answer: Z) 2, 1, 1, 2
+
+Nitrous acid plus calcium hydroxide yield calcium nitrite (read as: ni-TRITE) plus water. Which of the following represents the coefficients for the compounds, in the order listed, when th e reaction is correctly balanced?
+W) 1, 2, 1, 1
+X) 1, 1, 1, 1
+Y) 2, 2, 1, 2
+Z) 2, 1, 1, 2
+
+----
+num: 22
+category: Life Science
+difficulty: MS
+answer: W) Binding to a Promoter
+
+Which of the following is NOT one of the events that occurs during translation?
+W) Binding to a promoter
+X) Termination
+Y) Initiation 
+Z) Elongation
+
+----
+num: 23
+category: Earth and Space
+difficulty: HS
+seen: 1
+answer: Z) Indonesian Islands
+
+Plate divergence is responsible for all of the following formations, EXCEPT:
+W) East African Rift Valley
+X) Iceland
+Y) East Pacific Rise
+Z) Indonesian Islands
+
+----
+num: 23
+category: Energy
+difficulty: MS
+answer: Z)  in Temporary Storage at Nuclear Power Pla Nts Around the 
+Country
+
+In the United States, where is spent nuclear fuel currently stored ?
+W) At a nuclear waste facility in Prairie Island, Minnesota
+X) At a nuclear waste facility in Yucca Mountain, Nevada
+Y) At a nuclear waste facility in Waterford, Connecticut
+Z) In temporary storage at nuclear power plants around the country
+
+----
+num: 24
+category: Chemistry
+difficulty: HS
+answer: W) Some Are Cis -Trans Isomers
+
+Regarding butylene’s alkene isomers, which of the following statements is correct?
+W) Some are cis-trans isomers
+X) Some are chiral
+Y) Some are enantiomers (read as: in-AHNT-ee-oh-mehrs)
+Z) Some are atropisomers (read as: ah-troh-pee-sōe-mehrs)
+
+----
+num: 24
+category: Physical Science
+difficulty: MS
+answer: Y) a  Stream of Electrons Observed in Vacuum Tubes
+
+Which of the following BEST describes a cathode ray?
+W) A device that emits light through a process of optical amplification based on the stimulated emission of photons
+X) An electrode through which electric current flows out of a polarized electrical device
+Y) A stream of electrons observed in vacuum tubes
+Z) An electrode through which electric current flows into a polarized electrical device
+
+----
+num: 25
+category: Life Science
+difficulty: MS
+answer: X) Eel
+
+Which of the following is NOT a cartilaginous fish?
+W) Skate
+X) Eel
+Y) Ray
+Z) Shark
+
+----
+num: 25
+category: Life Science
+difficulty: MS
+answer: X) Chaperonins Are Required for Some Proteins to Fold
+
+Which of the following makes 3-dimensional protein studies difficult?
+W) Proteins never fold properly outside their native cell
+X) Chaperonins are required for some proteins to fold
+Y) Proteins lose their 3D structure once you remove them from the cell
+Z) Contaminating chaperonins will degrade proteins

@@ -1,0 +1,212 @@
+####
+tournament: Sample Questions
+round: sample_questions_r1.pdf
+####
+
+num: 2
+category: Earth Science
+difficulty: MS
+seen: 8
+answer: Mesozoic
+
+The Triassic, Jurassic, and Cretaceous are all periods in what era?
+
+----
+num: 2
+category: Earth Science
+difficulty: MS
+seen: 8
+answer: Mesozoic
+
+The Triassic, Jurassic, and Cretaceous are all periods in what era?
+
+----
+num: 6
+category: Earth Science
+difficulty: MS
+seen: 8
+answer: Tidal Surge   (Accept:  Storm or Basal Surge)
+
+What is the name of the rapid rise of coastal water that accom panies the arri val of a cyclone?
+
+----
+num: 6
+category: Earth Science
+difficulty: MS
+seen: 7
+answer: Tidal Surge   (Accept:  Storm or Basal Surge)
+
+What is the name of the rapid rise of coastal water that accom panies the arri val of a cyclone?
+
+----
+num: 11
+category: Math
+difficulty: MS
+seen: 6
+answer: 3
+
+Solve the following equation: 9x – 13 = 14
+
+----
+num: 11
+category: Math
+difficulty: MS
+seen: 6
+answer: 3
+
+Solve the following equation: 9x – 13 = 14
+
+----
+num: 12
+category: General Science
+difficulty: MS
+seen: 5
+answer: Minus 273
+
+On the Centigrade tem perature scale give the whole num ber value that is the closest to absolute zero.
+
+----
+num: 12
+category: General Science
+difficulty: MS
+seen: 5
+answer: Minus 273
+
+On the Centigrade tem perature scale give the whole num ber value that is the closest to absolute zero.
+
+----
+num: 16
+category: Math
+difficulty: MS
+seen: 6
+answer: 2
+
+What is the cube root of 8?
+
+----
+num: 16
+category: Math
+difficulty: MS
+seen: 7
+answer: 2
+
+What is the cube root of 8?
+
+----
+num: 17
+category: General Science
+difficulty: MS
+seen: 6
+answer: Venus
+
+At its greatest possible brightness, which is the brightest planet in the night sky?
+
+----
+num: 17
+category: General Science
+difficulty: MS
+seen: 6
+answer: Venus
+
+At its greatest possible brightness, which is the brightest planet in the night sky?
+
+----
+num: 20
+category: Math
+difficulty: MS
+seen: 7
+answer: 21
+
+Find the value of x^2 – y^2 when x = -5 and y = -2:
+
+----
+num: 20
+category: Math
+difficulty: MS
+seen: 5
+answer: 21
+
+Find the value of x^2 – y^2 when x = -5 and y = -2:
+
+----
+num: 22
+category: Earth Science
+difficulty: MS
+seen: 7
+answer: A Glacier
+
+A large mass of ice, formed on land by the com paction and recrystallization of snow, th at is moving downhill o r outward under the force of gravity is called:
+
+----
+num: 22
+category: Earth Science
+difficulty: MS
+seen: 8
+answer: A Glacier
+
+A large mass of ice, formed on land by the com paction and recrystallization of snow, th at is moving downhill o r outward under the force of gravity is called:
+
+----
+num: 23
+category: General Science
+difficulty: MS
+seen: 5
+answer: 1000
+
+How many microgams are in a single milligram ?
+
+----
+num: 23
+category: General Science
+difficulty: MS
+seen: 6
+answer: 1000
+
+How many microgams are in a single milligram ?
+
+----
+num: 24
+category: Math
+difficulty: MS
+fixed: -1
+seen: 7
+answer: 1
+A
+
+If a ≠ 0 (read as: a does not equal 0), what is the multiplic ative inverse of a?
+
+----
+num: 24
+category: Math
+difficulty: MS
+seen: 6
+answer: 13
+
+What is the square root of 169?
+
+----
+num: 24
+category: Math
+difficulty: MS
+seen: 6
+answer: 13
+
+What is the square root of 169?
+
+----
+num: 25
+category: Earth Science
+difficulty: MS
+seen: 9
+answer: Lava
+
+Magma that reached the Earth’s surface is called what?
+
+----
+num: 25
+category: Earth Science
+difficulty: MS
+seen: 7
+answer: Lava
+
+Magma that reached the Earth’s surface is called what?

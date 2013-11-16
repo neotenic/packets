@@ -1,0 +1,279 @@
+####
+tournament: Question Set C
+round: Round-14C-MS.pdf
+####
+
+num: 1
+category: Life Science
+difficulty: MS
+seen: 11
+answer: 50%
+
+Tommy has blue eyes and his wife Jean has brown eyes. 
+Tommy’s father has brown eyes and Jean’s father has blue eyes. What percentage of Tommy and 
+Jean’s children would be expected to have blue eyes, assuming blue eyes are recessive?
+
+----
+num: 2
+category: Physical Science
+difficulty: MS
+seen: 5
+answer: White
+(Solution:  They Are Complementary Colors)
+
+What color of light is produced when equal intensities of green and magenta light are combined?
+
+----
+num: 3
+category: Earth Science
+difficulty: MS
+fixed: -1
+seen: 8
+answer: Sulfuric Acid  (Accept:  Aqueous Sulfuric Acid or H
+^2so
+^4)
+
+When sulfur dioxide combines with atmospheric water, what acid is ultimately produced that has greatly contributed to the formation of acid rain?
+
+----
+num: 4
+category: Math
+difficulty: MS
+fixed: -1
+seen: 6
+answer: 251
+(Solution:  La = 2πrh;  = 2(3.14)(4)(10) = 251.2 M^2)
+
+Find the lateral surface area, in square meters, of a right circular cylinder with radius 4 meters and height 10 meters. Use π = 3.14 and give your answer rounded to the nearest whole number:
+
+----
+num: 6
+category: Life Science
+difficulty: MS
+seen: 10
+answer: Centrifuge
+
+What is the scientific name for the instrument used to separate substances of different densities in solution using a rotor to spin specimens at high RPM’s?
+
+----
+num: 7
+category: Physical Science
+difficulty: MS
+seen: 5
+answer: Violet
+
+Which one of the following 4 colors of light has the greatest angle of refraction in normal glass: orange; violet; red; yellow
+
+----
+num: 9
+category: Math
+difficulty: MS
+seen: 6
+answer: 24
+(Solution:  Circular Permutation, (N-1)! = (5-1)! = 4! = 24)
+
+In how many ways can 5 different people be standing around a circular table?
+
+----
+num: 9
+category: Math
+difficulty: MS
+seen: 6
+answer: 33 + 2 2 (Accept:  2 2 + 33)
+
+Express the following in its simplest radical form: (5 + 2 )(7 – 2 )
+
+----
+num: 12
+category: Physical Science
+difficulty: MS
+seen: 5
+answer: 2500
+(Solution:  ½Mv^2 = ½(2)(50)^2 =  ½ × 2 × 2500 = 2500 J)
+
+Consider a 2.0 kilogram rock that falls vertically from a ledge and strikes the ground with a velocity of 50 meters per second. If friction is ignored, what was the gravitational potential energy, in joules, of the rock when it was on the ledge in relation to the place where it struck the ground?
+
+----
+num: 14
+category: Math
+difficulty: MS
+seen: 7
+answer: 6
+(Solution:  the Degree of the Term With the Largest De Gree, 3 + 3)
+
+What is the degree of the following polynomial: 7x^4y –5x^3y^3 + 3xy^3 – 4^^
+
+----
+num: 14
+category: Math
+difficulty: MS
+seen: 6
+answer: 24 π
+(Solution:  v = ⅓πR^2h = ⅓(π)(3^2)(8) = 24π)
+
+Giving your answer in terms of pi, what is the volume of a cone with a height of 8 meters and a base whose diameter is 6 meters?
+
+----
+num: 15
+category: General Science
+difficulty: MS
+seen: 5
+answer: Chromium
+
+What element is MOST commonly added to steel to make it stainless steel?
+
+----
+num: 15
+category: General Science
+difficulty: MS
+seen: 6
+answer: Platinum
+
+What metal is silvery-white when pure, is used as a catalyst in fuel cells and in antipollution devices in automobiles, does not oxidize in air at any temperature, and is used extensively in the making of jewelry and wires?
+
+----
+num: 17
+category: Physical Science
+difficulty: MS
+seen: 5
+answer: Alpha Decay;  Beta Decay
+
+Name all of the following 3 forms of radioactive decay that change the atomic number of the decaying element: alpha decay; beta decay; gamma decay
+
+----
+num: 18
+category: Earth Science
+difficulty: MS
+seen: 8
+answer: Rise = Dawn;  Set = Sunset
+
+Choosing from dawn, noon, sunset, and midnight, when will the Moon rise and set, respectively, for a star gazer in mid-northern latitudes, if the Moon’s phase is a waxing crescent?
+
+----
+num: 19
+category: Math
+difficulty: MS
+fixed: -1
+seen: 7
+answer: Hexagon;  Octagon;  Dodecagon;  Hexadecagon
+
+Order the following 4 polygons from the one with the FEWEST faces to the one with the MOST faces: dodecagon; hexadecagon; octagon; hexagon
+
+----
+num: 19
+category: Math
+difficulty: MS
+seen: 6
+answer: 8
+(Solution: (N – 2)180º = 135n;  N = 8)
+
+Find the number of sides in a regular polygon if each interior angle measures 135 degrees:
+
+----
+num: 20
+category: General Science
+difficulty: MS
+seen: 6
+answer: Wolf
+
+Consider the following ecosystem and name the secondary consumer: A plant that derives energy from the Sun is eaten by a rabbit; the rabbit is eaten by a wolf; the scraps of rabbit are eaten by a hawk; and the remaining carcass is left to decompose
+
+----
+num: 21
+category: Life Science
+difficulty: MS
+seen: 11
+answer: Parasitism
+
+What symbiotic relationship is characterized by one organism benefiting while the other is being harmed?
+
+----
+num: 21
+category: Life Science
+difficulty: MS
+seen: 11
+answer: A Keystone Species
+
+Over-hunting of sea otters on the northwest coast led to an overabundance of sea urchins which in turn overgrazed on sea kelp almost wiping out the kelp forests. What is the scientific ecological term for what the sea otter is considered in this case as a central organism to this community?
+
+----
+num: 22
+category: Physical Science
+difficulty: MS
+seen: 5
+answer: Hydrogen;  Carbon;  Oxygen  (In Any Order)
+
+What three elements are found in ethanoic acid?
+
+----
+num: 22
+category: Physical Science
+difficulty: MS
+fixed: 1
+seen: 5
+answer: {50} (Solution: (250ml) × (20g/100ml) = 50g)
+
+How many grams of potassium chloride, with a molecular weight of 104, must be dissolved in 250 milliliters of water to make a 20% potassium chloride solution?
+
+----
+num: 23
+category: Earth Science
+difficulty: MS
+seen: 7
+answer: Nitrogen, Carbon Dioxide and Oxygen  (In Any Order)
+
+What three gases make up over 99% of all dissolved gases in surface sea water?
+
+----
+num: 23
+category: Earth Science
+difficulty: MS
+seen: 7
+answer: Hydrogen;  Helium;  Carbon;  Iron
+
+Order the following 4 elements from the MOST common in the universe to the LEAST common: carbon; helium; hydrogen; iron
+
+----
+num: 24
+category: Math
+difficulty: MS
+seen: 6
+answer: 35x^3y^4 (Accept:  35y^4x^3)
+
+If the fourth term in the binomial expansion of (x + y)^7 is 35x^4y^3, what is the 5th term?
+
+----
+num: 24
+category: Math
+difficulty: MS
+seen: 6
+answer: –
+163
+(Solution:  a
+^X = A(r)^x^-^1;  a
+^6 = 6(!
+21
+)^5;  a = –
+163
+)
+
+In simplest terms, give the 6^th term of the geometric sequence whosesecond term is –3 and whose third term is 23
+:
+
+----
+num: 25
+category: General Science
+difficulty: MS
+seen: 6
+answer: Mass
+
+The lifetime of a star is mostly determined by what physical property?
+
+----
+num: 25
+category: General Science
+difficulty: MS
+seen: 6
+answer: Brown Dwarf;  Sun;  Neutron Star;  Galaxy
+
+Order the following 4 celestial objects from the LEAST massive to the MOST massive: neutron star; brown dwarf; the Sun; a galaxy

@@ -1,0 +1,334 @@
+####
+tournament: HSAPQ 4Q1
+round: 4q1-09.pdf
+year: 2009
+####
+
+num: 1
+category: Literature
+difficulty: HS
+fixed: 1
+seen: 442
+answer: Günter Wilhelm {Grass} [{accept} Dog Years before "this {author}" is read]
+
+Eddi Amsel runs a scarecrow factory while Walter Matern is assailed by a radio program in this author's Dog Years, and Pilenz narrates a novel in which "The Great Mahlke" steals an Iron Cross, his Cat and Mouse. This author wrote a novel in which the protagonist leads "The Dusters" and loses his virginity to Maria Truczinski. The protagonist of that novel by this author is accused of killing Sister Dorothea, can shatter glass with his shriek, and decides to stop growing at age three, Oscar Matzareth. For 10 points, name this German author of The Tin Drum.
+
+----
+num: 2
+category: History
+difficulty: HS
+fixed: 1
+seen: 417
+answer: {Spanish}-{American} War
+
+This war broke out in part due to reaction against the actions of General Weyler. Pulitzer and Hearst's yellow journalism is often credited with bringing one side into this war. Ended by the Treaty of Paris, this war included Admiral George Dewey's victory in Manila Bay. This conflict was sparked in part by the sinking of the USS Maine in Havana Harbor. For 10 points, name this war which led to the transfer of control of Guam, which also included the exploits of the Rough Riders at the Battle of San Juan Hill.
+
+----
+num: 3
+category: Geography
+difficulty: HS
+fixed: 57
+seen: 715
+answer: {Sydney}
+
+This city's central business district includes the neighborhood of Circular Quay (KEY), and popular beaches in this city include Manly and Bondi. This city surrounds the harbor of Port Jackson, which is spanned by the world's widest bridge. Another landmark in this city is a building located next to the Royal Botanic Gardens on Bennelong Point that was designed by Jørn Utzon, this city's namesake Opera House. For 10 points, name this capital of New South Wales, which is the largest city in Australia.
+
+----
+num: 4
+category: History
+difficulty: HS
+fixed: -1
+seen: 413
+answer: Battle of {Bosworth} Field
+
+The Stanley family brought an army larger than the eventual victors to this battle, but held back while they decided who to support. Following this battle, Lambert Simnel and Perkin Warbeck claimed the throne of England. This battle marked the end of the Plantagenet dynasty, which was replaced by the Tudor dynasty after this battle. This battle proved to be the decisive one in the Wars of the Roses. For 10 points, name this 1485 battle in which the Lancasters defeated the Yorks, which led to Henry VII taking the throne after the death in this battle of Richard III.
+
+----
+num: 5
+category: Science
+difficulty: HS
+fixed: 57
+seen: 482
+answer: {methane} [accept {CH4} before it is read]
+
+Reacting aluminum carbide with water produces this substance, as does heating a mixture of sodium acetate with sodium hydroxide. Under repeated free radical halogenation, this compound can be turned into chloroform. This molecule is found inside clathrate hydrates. This gas is made by a certain type of Archaea (arr-KAY-uh) bacteria. Rains of its liquid form occur on Titan. Since it has no odor, odorants must be added to it as a safety precaution when it us used for fuel. For 10 points, name this compound that is the simplest alkane, has the formula CH4, and is found in natural gas.
+
+----
+num: 6
+category: History
+difficulty: HS
+fixed: -1
+seen: 422
+answer: {Amistad} case [or {United States} v. {Libellants} and {Claimants} of the Schooner {Amistad}]
+
+This event was preceded by the murder of the captain Ramon Ferrar. Josiah Gibbs used his knowledge of Mende numbers to find James Covey for this trial. Joseph Story ruled in favor of the arguments of Roger Baldwin in this case, and the defense was also supported in this trial by John Quincy Adams. The defendants in this case included Cinque, and this case involved the abduction of the defendants from Sierra Leone. For 10 points, name this case that ruled in favor of slaves who mutinied on the namesake Cuban schooner in 1839.
+
+----
+num: 7
+category: Science
+difficulty: HS
+fixed: None
+seen: 488
+answer: limestone
+
+Less common varieties of this type of rock include oolite and coqina. Karst topography landscapes are primarily made of this rock or a similar rock with a magnesium component, dolomite. Sinkholes form when these rocks are eroded away by carbonic acid in underground water systems. Often formed by deposits left behind from shelled marine organisms, orogenic (or-AH-gen-ic) events can metamorphise these rocks into marble. For 10 points, name these sedimentary rocks made from calcite, such as chalk.
+
+----
+num: 8
+category: Social Science
+difficulty: HS
+fixed: 1
+seen: 379
+answer: Margaret {Mead}
+
+This anthropologist studied the Arapesh, Mundugumor, and Tchambuli in Sex and Temperament in Three Primitive Socities. She also wrote a work which was criticized by Derek Freeman for overlooking the taupou system. That work stated that women in the central society enjoyed casual sex while deferring marriage and reported the findings of a study on the island of Ta'u. For 10 points, name this anthropologist who wrote Coming of Age in Samoa.
+
+----
+num: 9
+category: Literature
+difficulty: HS
+fixed: 57
+seen: 448
+answer: Portuguese
+
+One novel written in this language is about the Syrian Nacib Saad, who romances Gabriela. Another novel written in this language is often titled Epitaph for a Small Winner and center on Bras Cubas posthumously telling his life story. This language originated in a country whose authors wrote Blindness and an epic about Bacchus and Neptune's attempt to stop a fleet from arriving in Calicut, India. That work, The Lusiads, was written in this language by Luis Camoens and fictionalized the journey of Vasco da Gama. For 10 points, name this language spoken in Brazil.
+
+----
+num: 10
+category: Mythology
+difficulty: HS
+fixed: 1
+seen: 785
+answer: Loki
+
+This god killed Fimafeng, a servant of the sea god Aegir. This god once turned into a female horse to prevent some walls from being finished on time. That resulted in him giving birth to Sleipnir, the eight-legged horse of Odin. His other offspring include the ruler of the underworld and a giant serpent that wraps around the world. This god talked Hodur into hurling a mistletoe at his brother Baldur, killing him. For 10 points, name this trickster god of Norse myth.
+
+----
+num: 11
+category: Science
+difficulty: HS
+fixed: 57
+seen: 489
+answer: {function} [or {procedure}; or {method}; or {subroutine}]
+
+When invoking these structures in x86 (x-eighty-six), one must first back up registers like EBX onto the stack and then use the call instruction. A common technique inlines them and it is common in some languages to “overload” them. When lacking in a bound type they are known as “void,” while normally they take in a arguments or parameters and have a return value. For 10 points, name this programming construct that has inputs and outputs.
+
+----
+num: 12
+category: Literature
+difficulty: HS
+fixed: 57
+seen: 454
+answer: Saul {Bellow} [or {Solomon Bellows}]
+
+One protagonist created by this author travels with Romilayu to Wariri, where he is crowned as the title figure, Henderson the Rain King. In another work, this author describes the gangster Rinaldo Cantabile, who befriends the protege of Von Humboldt Fleisher. The title character pursues Charlotte Magnus, Thea, and Stella in that work by this man, The Adventures of Augie March. The protagonist of another of this author's novels runs away from commitment with Ramona and is duped by Madeleine and Valentine, who keep custody of his daughter Junie. For 10 points, name this Canadian-born Jewish-American author of Herzog.
+
+----
+num: 13
+category: Science
+difficulty: HS
+fixed: -1
+seen: 483
+answer: {wavelength} [accept {lambda} before it is read]
+
+This quantity is inversely proportional to temperature by Wien's Law. The ratio of this quantity for light in two different media is the reciprocal of the ratio of the media's indices of refraction. Planck's constant divided by the product of mass and velocity is sometimes known as the "de Broglie" one. It is lower for ultraviolet light than visible light and higher for infrared, and is typically denoted with the Greek letter lambda. For 10 points, name this quantity, equal to the velocity divided by frequency, the distance between two peaks of a periodic wave.
+
+----
+num: 14
+category: Fine Arts
+difficulty: HS
+fixed: -1
+seen: 464
+answer: {France}
+
+One composer died working in this country after conducting his Te Deum led to him smashing his foot with a stick. A native of this country depicted a train in his composition Pacific 231 and was a member of the group "The Six." Another native of this country, who mentored The Six, wrote Three Gymnopedies. For 10 points, name this home country of Jean-Baptiste Lully, Arthur Honegger, and Erik Satie.
+
+----
+num: 15
+category: Literature
+difficulty: HS
+fixed: 1
+seen: 444
+answer: {Little Women}
+
+One character in this novel contracts scarlet fever from the Hummel family's baby. Another character in this novel marries Mr. Brooke, and a third character inherits Plumfield and marries Professor Bhaer. This novel is named for the daughters of Marmee, the sisters Amy, Beth, Meg, and Jo Marsh. For 10 points, name this novel written by Louisa May Alcott.
+
+----
+num: 16
+category: History
+difficulty: HS
+fixed: 1
+seen: 418
+answer: Federal Democratic Republic of {Ethiopia}
+
+The early kingdom of Axum was located within this modern day nation. This nation's forces defeated Oreste Baratieri in one war at the Battle of Adowa while under the leadership of Menelik II. During the Scramble for Africa, Liberia and this country remained free from European control. One ruler of this country appealed to the League of Nations for help when Italy under Mussolini invaded in 1935. For 10 points, name this East African nation, from which Eritrea declared independence, once ruled by Haile Selassie.
+
+----
+num: 17
+category: Literature
+difficulty: HS
+fixed: 1
+seen: 442
+answer: William {Wordsworth}
+
+This poet notes that he'd "rather be/A Pagan suckled in a creed outworn" in his sonnet "The World is Too Much With Us." This poet wrote "Strange fits of passion have I known" and "A Slumber Did my Spirit Seal," which are some of his "Lucy Poems." This poet described an outing with his sister Dorothy, when he saw "a host of golden daffodils," in his poem "I Wandered Lonely as a Cloud." Another of his poems notes that "five years have past" since he saw the title church on the banks of the Wye. For 10 points, name this Romantic poet of "Tintern Abbey," who wrote Lyrical Ballads with Coleridge.
+
+----
+num: 18
+category: History
+difficulty: HS
+fixed: 57
+seen: 413
+answer: {Byzantine} Empire [or {Eastern Roman} Empire; or {Byzantium}]
+
+The lawyer Tribonian revised the laws of this empire. This empire was divided into provinces named "themes." Rulers of this empire were protected by the Varangian Guard, which was composed of Vikings. The historian Procopius wrote a Secret History of this empire. Dynasties of this empire include the Isaurian and the Comneni. This empire employed the general Belisarius during the reign of Theodora and Justinian. The capital of this empire fell to Ottoman forces in 1453. For 10 points, name this empire with capital at Constantinople.
+
+----
+num: 19
+category: Literature
+difficulty: HS
+fixed: 1
+seen: 447
+answer: Leo Nikolayevich {Tolstoy}
+
+In a novel by this author, Dmitri Nekhludoff is wracked with guilt after serving on a jury that condemns his former lover Katusha Maslova. In addition to writing Resurrection, this author wrote about the master of Gerasim, who hits his side against a wall while putting up new curtains and develops hate for his son and wife. This author of The Death of Ivan Ilyich wrote a novel that includes the death of Andrey Bolskonoy and the narrator Pierre Bezhukov, who figure in a long narrative about Napoelon's invasion of Russia. For 10 points, name this author of War and Piece.
+
+----
+num: 20
+category: Philosophy
+difficulty: HS
+fixed: -1
+seen: 526
+answer: Confucius
+
+This man believed that naming and defining relationships must precede social order in a doctrine known as the "Rectification of Names." This man argued that Ruler to Subject, Father to Son, and Husband to Wife were among the five relationships subject to filial piety. This man's views were adapted by Mo and Mencius. This man is traditionally credited with authorship of The Spring and Autumn Annals, and his sayings are collected in his Analects. For 10 points each, name this fifth century BCE Chinese philosopher.
+
+----
+num: 21
+category: History
+difficulty: HS
+fixed: 1
+seen: 416
+answer: {Brown} v. Board of Education of Topeka
+
+This case involved a collection of five distinct cases such as Briggs v. Elliott, and this case furthered the decision made earlier in Sweatt v. Painter. This case used in its argument an experiment showing a preference in doll selection by children as run by Mamie and Kenneth Clark. A follow-up case strengthened the decision in this case by declaring action be taken "with all deliberate speed." For 10 points, name this case won by Thurgood Marshall, which made unlawful the practice of segregation in schools.
+
+----
+num: 22
+category: Science
+difficulty: HS
+fixed: -1
+seen: 494
+answer: {degree}
+
+This term of a field extension K over F is the dimension of the vector space K. Formally, this concept may be extended to any function as the ratio of the limit as x increases of log of the magnitude of f of x over log x. The Abel-Ruffini theorem states that the highest this quantity can be for a polynomial equation to be soluble in radicals is four. For 10 points, identify this term that refers both to the highest power of the variable found in a term of a polynomial, and to a unit equal to pi over one hundred eighty radians, used to measure angles.
+
+----
+num: 23
+category: Science
+difficulty: HS
+fixed: -1
+seen: 489
+answer: {sperm} cells
+
+Hyaluronidase and other digestive enzymes in the acrosomes of these objects are activated upon binding to the glycoprotein ZP3. When one of these objects crosses the zona pellucida, it prevents all others from doing so. Interaction with one of these objects causes the oocyte to undergo a second meiotic division, which is followed by the zygote stage. These cells are combined with fluid from the prostate gland after being produced in the testes. For 10 points, name these cells that attach to egg cells during fertilization.
+
+----
+num: 24
+category: Literature
+difficulty: HS
+fixed: 57
+seen: 443
+answer: Ernest Miller {Hemingway} [accept "{Hills} Like {White Elephants}" before "{this author}" is read]
+
+Jig and "The American" drink Anis del Toro in a Madrid train station in this author's "Hills Like White Elephants," which appears in the collection Men Without Women along with some Nick Adams stories, such as "The Killers." In one of this author's novels, the narrator walks home in the rain after Catherine Morland delivers a stillborn baby. This man wrote about Michael Campbell's engagement to Lady Brett Ashley in Pamplona in a work narrated by Jake Barnes, and in another work, Manolin is apprenticed to a fisherman who idolizes Joe DiMaggio, Santiago. For 10 points, name this author of A Farewell to Arms, The Sun Also Rises, and The Old Man and the Sea.
+
+----
+num: 25
+category: Science
+difficulty: HS
+fixed: 57
+seen: 489
+answer: {Mollusca} [or {mollusks}]
+
+The larvae of some organisms of this phylum are called veligers. Organisms in this phylum feed through ribbons of tiny teeth called radula. Many organisms of this phylum can secrete calcium carbonate through their mantle to create a dorsal covering. Other members of this phylum can create spiral shells or produce pearls. Classes in this phylum include Cephalopoda and Gastropoda. For 10 points, name this phylum that includes organisms like snails, squid, and clams.
+
+----
+num: 26
+category: History
+difficulty: HS
+fixed: 1
+seen: 416
+answer: {Nero} Claudius Caesar Augustus Germanicus [or Lucius Domitius {Ahenobarbus}]
+
+This man's general, Gaius Suetonius Paulinus, defeated the revolt of Boudicca in Britain. This emperor had his tutor, Seneca the Younger, executed for his role in the Pisonian Conspiracy. Late in his rule, this man faced the revolt of Galba, who succeeded this ruler to start the Year of the Four Emperors. This man supposedly murdered his wives Octavia and Poppaea, as well as his mother. For 10 points, name this son of Agrippina the Younger and successor to Claudius, a Roman emperor who didn't actually play any instrument while Rome burned.
+
+----
+num: 27
+category: Science
+difficulty: HS
+fixed: -1
+seen: 487
+answer: circle
+
+The Reuleaux triangle is formed from the intersection of three of these objects. It is given by the parametric functions x equals a cosine t and y equals a sine t, and in polar coordinates it is given by the equation r equals a. It can be formed by the intersection of a cone and a plane parallel to the base of the cone. For 10 points, give this two-dimensional geometric object with area proportional to the square of its radius.
+
+----
+num: 28
+category: Fine Arts
+difficulty: HS
+fixed: 57
+seen: 495
+answer: Diego Velazquez
+
+This painter of Old Woman Frying Eggs depicted a pale skinned Bacchus partying with a bunch of drunks in Los Borrachos. This artist painted Cupid holding up a mirror in his Rokeby Venus. This artist depicted the victory of Ambrosio Spinola over the Dutch in The Surrender at Breda. In his most famous work, this artist depicts himself wearing a cross and holding a palette. That painting also includes a girl stepping on a dog and a dwarf, who serves as an attendant to the Infanta Margarita. For 10 points, name this court painter to Philip IV and artist of Las Meninas.
+
+----
+num: 28
+category: Fine Arts
+difficulty: HS
+fixed: 57
+seen: 478
+answer: Diego Velazquez
+
+This painter of Old Woman Frying Eggs depicted a pale skinned Bacchus partying with a bunch of drunks in Los Borrachos. This artist painted Cupid holding up a mirror in his Rokeby Venus. This artist depicted the victory of Ambrosio Spinola over the Dutch in The Surrender at Breda. In his most famous work, this artist depicts himself wearing a cross and holding a palette. That painting also includes a girl stepping on a dog and a dwarf, who serves as an attendant to the Infanta Margarita. For 10 points, name this court painter to Philip IV and artist of Las Meninas.
+
+----
+num: 29
+category: Mythology
+difficulty: HS
+fixed: 1
+seen: 790
+answer: The {Green Knight} [or Bertilak until mentioned]
+
+This character gives a stag, a boar, and a fox to one character in exchange for six kisses. He nicks that character for keeping quiet about a magical sash, and reveals himself to be Bertilak. This character orders a man to the Green Chapel a year after their first encounter, before describing himself as being conjured by Morgan Le Fey to test the Round Table. For ten points, name this character written about by the Pearl Poet that invites anyone to decapitate him, a character paired with Sir Gawain in the title of a long poem.
+
+----
+num: 30
+category: History
+difficulty: HS
+fixed: 1
+seen: 414
+answer: {Meiji} Period
+
+One reaction to this period was an uprising led by Takamori Saigo known as the Satsuma Rebellion, and the work of Ito Hirobumi led to the creation of a constitution during this period. One document produced during this period called for the end of "evil customs of the past" as one of its five articles, and was known as the Charter Oath. This period brought about the end of feudalism in its country, and the end of the Tokugawa shogunate. For 10 points, name this "Restoration" that marked the return to power of the emperor in Japan.
+
+----
+num: 31
+category: Mythology
+difficulty: HS
+fixed: -1
+seen: 777
+answer: {Dionysus} [prompt on {Bacchus}]
+
+The Athenian painter Exekias depicted a scene in which pirates who had kidnapped this god were turned into dolphins. Pentheus was punished for refusing to acknowledge this god by being torn apart by a group of maenads ["ME-nads"], wild female followers of this god. Hestia gave up a throne on Mount Olympus to this god. This god married a Cretan princess abandoned on Naxos, Ariadne. For 10 points, name this son of Zeus and Semele (SEH-meh-lee), the Greek god of wine.
+
+----
+num: 32
+category: Literature
+difficulty: HS
+fixed: 1
+seen: 445
+answer: Ken Elton {Kesey}
+
+This author wrote about Hank Stamper, who vows to "Never give an inch" during a logging strike in Southern Oregon, in Sometimes a Great Notion. He also created Billy Bibbitt, who kills himself after he is caught with the prostitute Kandy. This subject of Tom Wolfe's The Electric Kool-Aid Acid Test also wrote a novel narrated by an Indian called Chief Bromden, which ends with the death of a lobotomy patient. For 10 points, name this leader of the Merry Pranksters, who created Nurse Ratched and R.P. McMurphy in One Flew Over the Cuckoo's Nest .

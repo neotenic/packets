@@ -1,0 +1,204 @@
+####
+tournament: HFT
+round: HFT Round 04.doc
+year: 2008
+####
+
+num: 1
+category: Mythology
+difficulty: HS
+fixed: 1
+seen: 784
+answer: {Loki} (do not accept “{Utgard}-{Loki}”)
+
+Sindri forged Gullinbursti and Draupnir in response to this god's bet that his friend Dvalin's gifts were unsurpassable, and the husband of Idunn offered him a sword, horse, and ring at a banquet. After he was found in the form of a salmon in Franang's Falls, he was bound by the entrails of his son Narfi as his wife Sigyn held a cup over him in punishment for fooling Hodr into throwing a sprig of mistletoe at his brother Baldr. The father with Angrboda of Hel and the wolf Fenrir, this is, FTP, what Norse trickster god?
+
+----
+num: 2
+category: History
+difficulty: HS
+fixed: 1
+seen: 420
+answer: Spanish {Armada} (accept {Invincible Armada} from someone with a flair for the ironic)
+
+The Marquis of Santa Cruz first proposed it and Charles Blount and Thomas Gerard planned how to respond to it. It was first seen from St. Michael's Mount by men under Howard of Effingham. Under the command of the Duke of Medina Sidonia and blessed by Pope Sixtus V, who allowed it to be funded with crusade taxes, its first engagement came at Gravelines. The forces arrayed against it were inspired by the Tilbury Speech and included commanders such as John Hawkins and Francis Drake. FTP, identify this force that tried disastrously to invade England in 1588.
+
+----
+num: 3
+category: Fine Arts
+difficulty: HS
+fixed: 1
+seen: 489
+answer: Robert {Schumann}
+
+The theme of his Opus 1 begins with the notes A-B-E-G-G because it was dedicated to Paulin von Abegg. His only opera was Genoveva, and his marriage inspired him to begin writing vocal music such as his Liederjahr as well as oratorios such as Paradise and the Peri, Scenes from Goethe's Faust, and a setting of Heine, the Dichterleibe. He dedicated one work to the archbishop of Cologne but is better known for the piano pieces Scenes from Childhood and Carnaval. FTP, name this romantic composer of the Spring and Rhenish Symphonies who was married to Clara.
+
+----
+num: 4
+category: Science
+difficulty: HS
+fixed: 57
+seen: 485
+answer: {distance} (accept {modifiers} like {interstellar}, etc.)
+
+One method for determining this is named for Faber and Jackson and suggests that luminosity is roughly proportional to sigma to the fourth. An analogous operation on spiral galaxies calculates it by determining the velocity width, called the Tully-Fisher relation. Alternatively, it may be found by looking at nearby type Ia supernovae or at the object's recession velocity. Its namesake “modulus” relates the difference between the absolute and apparent magnitudes to this quantity. FTP, identify this quantity that can be measured in astronomical units.
+
+----
+num: 5
+category: Geography
+difficulty: HS
+fixed: -1
+seen: 711
+answer: {Black} Sea
+
+Resort towns on this body of water include Dyuni, Albena, Burgas, and Varna along a so-called Riviera on its western shore, while the Pontic Mountains stretch along its southern shore. One landmark on its coast is Livadia Palace, site of a February 1945 conference, and the 2014 Winter Olympics will be held at Sochi, a city on its coast, but tourists should avoid Sokhumi, the capital of Abkhazia, which lies on its shore and seeks to break away from Georgia. FTP, identify this sea whose outlet is the Bosporus and which also borders Bulgaria, Turkey, and Ukraine.
+
+----
+num: 6
+category: Literature
+difficulty: HS
+fixed: 1
+seen: 443
+answer: {Cry}, {the Beloved Country}
+
+This novel's protagonist meets Father Vincent while staying at Mrs. Lithebe's Mission, and that protagonist's siblings include a carpenter-turned-politician and a younger sister who turned to prostitution. In addition to John and Gertrude, Theophilus Msimangu helps this novel's protagonist. A description of the road from Ixopo to Ndotsheni at the beginning of this novel illustrates differences between the protagonist and his neighbor, James Jarvis, whose son Arthur was shot by Absalom. FTP, name this novel about Stephen Kumalo by South African Alan Paton.
+
+----
+num: 7
+category: Science
+difficulty: HS
+fixed: 1
+seen: 486
+answer: {Lewis acid}
+
+The Mukaiyama reaction uses one of these, titanium tetrachloride, and asymmetric ones allow for diastereoselective aldol formation. Their strength is generally positively correlated to charge density, and zinc can act as either an oxygen or a carbon bound one in enolates. Carbenium, like the best known example, is called a “Lobe-LUMO” one, and they are classified, like their counterparts, as hard or soft. They include boron trifluoride because of its unfilled p orbital, but they also trivially include H+. FTP, name these compounds defined as electron acceptors.
+
+----
+num: 8
+category: Social Science
+difficulty: HS
+fixed: 57
+seen: 385
+answer: {money} (or {currency})
+
+The writer Richard Brautigan wrote a treatise advocating its abolition, while Keynes wrote about an “illusion” of this, which leads to lagging nominal prices and its multiplier is the reciprocal of the reserve ratio. When two forms are available, that which is worse dominates, according to Gresham's Law; that principle explains the dominance of the fiat type of this, in contrast to the commodity form, since its value tends constantly to diminish. FTP, name this economic concept that stores value and facilitates commerce by changing hands when people buy things.
+
+----
+num: 9
+category: Fine Arts
+difficulty: HS
+fixed: 57
+seen: 489
+answer: {Pietà}
+
+This statue commissioned for Jean de Billheres features a figural group atop Golgotha, one of whose thighs are unrealistically shortened. The seated figure's abundant drapery distracts from distortions in the other figure but not from her intense gaze. That seated figure, depicted as very young to symbolize purity, cradles the shoulder of the other figure while her left hand is held outward in a gesture of submission. Depicting the Virgin Mary cradling the body of Jesus, this is FTP, what statue in St. Peter's Basilica, the only work signed by Michelangelo?
+
+----
+num: 10
+category: History
+difficulty: HS
+fixed: 1
+seen: 421
+answer: {Christianity} (accept {Roman Catholicism} before the mention of {Syngman Rhee}, {who} was a {Methodist})
+
+Shusako Endo's novels discuss the persecution of this religion, which was banned during the Edo Period. Its Vietnamese followers included South Vietnamese President Ngo Dinh Diem, whose government was protested by self-immolating monks. Koreans Kim Dae-Jung and Syngman Rhee also practiced this religion, which experienced a “conversion boom” in Korea in the 1980s. Its most famous Asian follower was Hong Xiuquan, who led the Taiping Rebellion. FTP, name this religion brought to Asia by missionaries like Matteo Ricci and Francis Xavier.
+
+----
+num: 11
+category: Literature
+difficulty: HS
+fixed: 1
+seen: 446
+answer: Tom {Stoppard}
+
+This author wrote about Eldon Pike's investigation of Flora Crewe's death and about the playwright Henry, who compares writing to cricket and refuses Annie's demands to ghostwrite a play for the political radical Brodie. In addition to Indian Ink and The Real Thing, he wrote about Mikhail Bakunin and Alexander Herzin in a play consisting of the parts Voyage, Shipwreck, and Salvage, while another play sees the protagonists encounter a traveling troupe called “The Tragedians.” FTP, name this playwright of The Coast of Utopia and Arcadia who discussed a coin landing heads 92 times in a row in Rosencrantz and Guildenstern Are Dead.
+
+----
+num: 12
+category: Science
+difficulty: HS
+fixed: 1
+seen: 498
+answer: {Hardy}-{Weinberg} equilibrium
+
+The Wahlund effect implies that this condition does not hold overall, since the emergence of subpopulations suppresses heterozygotes. It may be generalized using a multinomial expansion to an arbitrary power, though working with its simplest case requires squaring a binomial whose terms sum to one. The occurrence of inbreeding, as well as small sample size, assortative mating, mutation, or natural selection, cause deviations from its predictions. FTP, name this null hypothesis that predicts that, across generations, allele frequencies will remain the same.
+
+----
+num: 13
+category: History
+difficulty: HS
+fixed: 57
+seen: 414
+answer: Simón {Bolívar}
+
+Some suggest that this man was inspired by a conversation with Alexander Von Humboldt on Mt. Vesuvius. He later supported a constitutional convention at Ocaña, but issued the “Organic Decree of Dictatorship” when it failed. His most famous publication was the Cartegena Manifesto, and he was victorious in the Battles of Carabobo, Pichincha, and Boyacá. Assisted by Antonio José de Sucre, he secured the independence of a mountainous country named for him. FTP, name this “Liberator” also responsible for the independence of Colombia and Venezuela.
+
+----
+num: 14
+category: Social Science
+difficulty: HS
+fixed: 1
+seen: 378
+answer: {sign languages}
+
+Because of social isolation, Walpiri women have a better command of one kind of these than Walpiri men. Tab, dez, and sig are the three features of the notational system developed by William Stokoe, who showed that they contain minimal pairs. The one that developed spontaneously in a Nicaraguan school is an isolate, and that indigenous to Martha's Vineyard has now died out. The Israeli one achieves prosody by incorporating facial expressions, while the Thai one is a creole with ASL. Koko the gorilla was taught, FTP, what kind of language used by the deaf?
+
+----
+num: 15
+category: Trash
+difficulty: HS
+fixed: 1
+seen: 1018
+answer: The {Daily Show} with Jon Stewart
+
+This program once featured segments called Trivial Compromise, Public Excess, and Five Questions, and its writers created a duck who quacks the name of the governor of Iowa. This program staged a debate between Rob and Nate Corddry, and its producers recently had to change Larry Wilmore's title because of Obama's election. It sent a former marine to “chase the dragon” at the Beijing Olympics; in addition to Rob Riggle, its other correspondents include Samantha Bee and John Oliver. FTP, identify this Comedy Central fake news show hosted by Jon Stewart.
+
+----
+num: 16
+category: Literature
+difficulty: HS
+fixed: 57
+seen: 441
+answer: The {Stranger} (or The {Outsider} or {L'Étranger})
+
+The protagonist of this novel says Thomas Perez will either catch heatstroke by walking too slowly or a chill by walking too quickly. Two days later, that protagonist is fascinated by the seemingly robotic woman next to him at Celeste's, and he is later asked by a friend to help write a letter to lure his former Moorish mistress. While staying at Masson's seaside house, this novel's protagonist walks along the beach with Raymond Sintes where he gets into a fight with two Arabs, one of whom he later kills. FTP, identify this novel about Meursault by Albert Camus.
+
+----
+num: 17
+category: Religion
+difficulty: HS
+fixed: 57
+seen: 458
+answer: Book of {Mormon} (prompt on {Golden Plates} before they are mentioned)
+
+This work that begins in 600BC is often criticized for the “lost 116 pages” as well as for anachronisms such as mentioning horses or using the Greek word “Christ.” The hill Cumorah, where it was discovered, was likely also the site where its namesake commanded the losing Nephite army against the Lamanites. That namesake entrusted the Golden Plates to his son Moroni, who is usually equated with the angel who showed them to Joseph Smith. FTP, name this religious testament sacred to the Church of Jesus Christ of Latter-Day Saints.
+
+----
+num: 18
+category: Science
+difficulty: HS
+fixed: None
+seen: 490
+answer: {hadrons}
+
+Exotic ones include a composite of two hyperons as well as glueballs. The dissimilar masses of the rho and pi varieties suggest the masses of these particles do not correlate to the masses of their components. The generators of the group that governs their interactions are one-half times the eight Gell-Mann matrices. That group, SU(3), describes quantum chromodynamics, so called because the bosons that hold them together transmit color charge. Typically composed of two or three quarks, these are, FTP, what class of subatomic particles that includes the J/psi particle, the neutron, and the proton.
+
+----
+num: 19
+category: Literature
+difficulty: HS
+fixed: 57
+seen: 452
+answer: Robert {Frost}
+
+This author wrote about Job being sainted for emancipating God in his play A Masque of Reason. The narrator of one of his poems says he cannot “rub the strangeness from [his] sight” after “looking through a pane of glass” that he “held against the world of hoary grass,” and he began one poem “the land was ours before we were the land's.” He wrote a poem about a boy “too far from town to learn baseball” who becomes “a swinger of birches,” and he observes that “he is all pine and I am apple orchard” and “good fences make good neighbors.” FTP, identify this poet of “After Apple-Picking,” “The Gift Outright,” “Mending Wall,” and “The Road Not Taken.”
+
+----
+num: 20
+category: History
+difficulty: HS
+fixed: -1
+seen: 416
+answer: {Freedom Riders}
+
+John Patterson said of them that “when you go…looking for trouble, you usually find it,” while the judge at their trial turned his back when their lawyer spoke. One told Robert Kennedy that “if we cooled off any more, we'd be in a deep freeze,” and the beating of Jim Zwerg convinced Kennedy to dispatch federal marshals to protect them. Kennedy's intercession also forced Greyhound to transport them after a bombing, but most never reached New Orleans. FTP, identify this group that protested segregation in 1961 by traveling through the South on buses.

@@ -1,0 +1,295 @@
+####
+tournament: Regional B
+round: round9.pdf
+year: 2002
+####
+
+num: 1
+category: Chemistry
+difficulty: HS
+answer: X)  Transition Metals
+
+The so-called d-block elements of the periodic table constitute the:
+W) lanthanide and actinide series 
+X) transition metals 
+Y) group 3A to 8A elements 
+Z) group 1A and 2A elements
+
+----
+num: 3
+category: Biology
+difficulty: HS
+seen: 1
+answer: W)  Thyroid Hormone Interrupts the Stimulation of the 
+Thyroid by Tsh
+
+An example of negative feedback control is when:
+W) thyroid hormone interrupts the stimulation of the thyroid by TSH 
+X) the initial enzyme of a metabo lic pathway inhibits a later reaction 
+Y) FSH inhibits progesterone production by the corpus luteum 
+Z) the initial product of a metabolic pathway inhibits the next reaction
+
+----
+num: 6
+category: Earth Science
+difficulty: HS
+answer: W)  S-Waves Don't Travel Through Liquid
+
+The earth's outer core is interpreted to be liquid because:
+W) S-waves don't travel through liquid 
+X) S-waves are faster than P-waves 
+Y) S-waves don't travel through gases 
+Z) P-waves don't travel through liquids
+
+----
+num: 7
+category: General Science
+difficulty: HS
+seen: 1
+answer: X)  Where the Neck Attaches to the Flask
+
+If you need to measure 100 milliliters in an Erlenmeyer flask that has a stated volume of 100 ml but has no calibration lines, typically the stated volume will approximately fill to:
+W) the top rim of the flask 
+X) where the neck attaches to the flask 
+Y) 1 centimeter below the where the neck attaches to the flask 
+Z) there is no safe way to approximate 100 ml in such a flask
+
+----
+num: 8
+category: Computer Science
+difficulty: HS
+seen: 1
+answer: Z)  Controls the Flow of Data Between 2 or More Separate 
+Networks
+(Solution:  W & Y = Bridge;  X = Nic)
+
+Which of the following best describes a router:
+W) segments an existing network 
+X) provides the network address for the PC 
+Y) manages traffic on the network by filtering data 
+Z) controls the flow of data be tween 2 or more separate networks
+
+----
+num: 9
+category: Chemistry
+difficulty: HS
+seen: 1
+answer: Z)  101,325
+
+One standard atmosphere of pressure is equal to how many 
+Pascals:
+W) 760 
+X) 1,325 
+Y) 10,325 
+Z) 101,325
+
+----
+num: 10
+category: Physics
+difficulty: HS
+answer: Y)  Particles Emitted by a Cathode, Which Then Struck an 
+Anode
+
+Rutherford discovered that x-rays were produced by:
+W) uranium when bombarded with slow neutrons 
+X) certain binary stars 
+Y) particles emitted by a cathode, which then struck an anode 
+Z) the sun
+
+----
+num: 11
+category: Biology
+difficulty: HS
+answer: Z)  Relapsing Fever
+
+Which of the following is NOT a Rickettsial disease:
+W) Q fever 
+X) Scrub Typhus 
+Y) Rocky Mountain Spotted Fever 
+Z) Relapsing fever
+
+----
+num: 11
+category: Biology
+difficulty: HS
+seen: 1
+answer: Z)  Taiga  and the Northeastern Us
+
+Which of the following vegetations is NOT properly matched with its location:
+W) boreal coniferous fore st and Midwestern Canada 
+X) rain forest and the Olympic National Forest 
+Y) Saguaro desert and the Southwestern US 
+Z) Taiga and the Northeastern US
+
+----
+num: 14
+category: Earth Science
+difficulty: HS
+answer: Y)  Moraine
+
+Which one of the following was NOT formed by the deposition of sediment by a glacial stream:
+W) outwash plain 
+X) kame 
+Y) moraine 
+Z) esker
+
+----
+num: 14
+category: Earth Science
+difficulty: HS
+answer: X)  Windy Conditions
+
+Closely spaced isobars on a weather map most directly indicate which of the following weather-related events:
+W) calm conditions 
+X) windy conditions 
+Y) a gentle pressure gradient 
+Z) torrential rainfall
+
+----
+num: 15
+category: General Science
+difficulty: HS
+answer: Z)  Nitrate
+
+Most plants absorb nitrogen from the soil through their roots in which of the following forms:
+W) dinitrogen 
+X) ammonia 
+Y) ammonium 
+Z) nitrate
+
+----
+num: 15
+category: General Science
+difficulty: HS
+answer: Z)  Biotin
+
+Which of the following is NOT a fat-soluble vitamin:
+W) vitamin K 
+X) vitamin A 
+Y) vitamin D 
+Z) biotin
+
+----
+num: 16
+category: Computer Science
+difficulty: HS
+answer: W)  Rom
+
+What type of chip is commonly used to store the 
+BIOS in a PC:
+W) ROM 
+X) DAT 
+Y) DOS 
+Z) FAT
+
+----
+num: 17
+category: Chemistry
+difficulty: HS
+answer: Y)  Nitrogen and Hydrogen Group ^
+
+An amine is a class of compounds that contains a:
+W) sulfur and hydrogen group 
+X) nitrogen and oxygen group 
+Y) nitrogen and hydrogen group 
+Z) carbon and sulfur group
+
+----
+num: 19
+category: Biology
+difficulty: HS
+answer: Y)  Leech
+
+Which of the following is a member of the Hirudinea: (pronounced: high-rue-DIN-E-A)
+W) earthworm 
+X) centipede 
+Y) leech 
+Z) chelicerae (read as: chell-IS-err-aye)
+
+----
+num: 20
+category: Astronomy
+difficulty: HS
+answer: Z)  Uranus
+
+Which of the following was NOT known to be a planet until 1781 AD:
+W) Saturn 
+X) Venus 
+Y) Mercury 
+Z) Uranus
+
+----
+num: 22
+category: General Science
+difficulty: HS
+seen: 1
+answer: X)  Increase Their Intake of Calcium-Rich Foods
+(Solution:  the Ca Is Thought to Bind With Oxala Tes in the Intestine, Ke Eping It From Entering the 
+Bloodstream)
+
+Recent evidence shows which to be the best advice for a person suffering from recurrent kidney stones:
+W) decrease their intake of calcium-rich foods 
+X) increase their intake of calcium-rich foods 
+Y) increase their inta ke of oxalate-rich foods 
+Z) decrease their intake of magnesium-rich foods
+
+----
+num: 22
+category: General Science
+difficulty: HS
+answer: Y)  Chromatic Aberration
+
+A lens defect resulting from its inability to bring all wavelengths of light into the sa me plane of focus is called:
+W) barrel distortion 
+X) astigmatism 
+Y) chromatic aberration 
+Z) spherical aberration
+
+----
+num: 23
+category: Chemistry
+difficulty: HS
+answer: Y)  Zinc
+
+Which metal acts at the anode in mercury batteries that are commonly found in cameras and watches:
+W) mercury 
+X) mercury (II) oxide 
+Y) zinc 
+Z) lithium
+
+----
+num: 24
+category: Physics
+difficulty: HS
+answer: Z)  Gamma
+
+Which of the following forms of radioactive decay does NOT alter the atomic number of an element:
+W) alpha 
+X) beta minus 
+Y) beta plus 
+Z) gamma
+
+----
+num: 25
+category: Biology
+difficulty: HS
+answer: X)  Nepenthes
+
+Which of the following genera of plants contains a species that traps and digests insects:
+W) Ulmus
+X) Nepenthes (pronounced: neh-PEN-thes) 
+Y) Lupinus (pronounced : lew-PIE-nus) 
+Z) Psilotum (pronounced : sill-O-tum)
+
+----
+num: 25
+category: Biology
+difficulty: HS
+answer: Z)  Inherited Disorders
+
+Thallassemia (pronounced: thal-ah-SEE-me-ah) and Marfan 
+Syndrome are both which of the following types of diseases:
+W) virus-related diseases 
+X) bacteria-related diseases 
+Y) toxic-exposure diseases 
+Z) inherited disorders

@@ -1,0 +1,288 @@
+####
+tournament: Question Set C
+round: Round-7C.pdf
+####
+
+num: 1
+category: Biology
+difficulty: HS
+seen: 1
+answer: Z)  Corn Plants
+
+In Barbara McClintock’s famous experiments revealing the existence of transposable genes, she primarily used which of the following as her experimental organism:
+W) drosophila
+X) E. coli
+Y) lambda phage
+Z) corn plants
+
+----
+num: 1
+category: Biology
+difficulty: HS
+answer: Y)  Transposons and Plasmids Interchanging Genes
+
+Which of the following is NOT properly matched with its function or operation:
+W) conjugation and transfer of genetic material between bacteria
+X) F plasmids and reversible incorporation into bacterial genome
+Y) transposons and plasmids interchanging genes
+Z) R plasmids and antibiotic resistance
+
+----
+num: 2
+category: Chemistry
+difficulty: HS
+seen: 1
+answer: W)  Aluminum Sulfate
+
+Which of the following would be the MOST soluble in water at room temperature:
+W) Aluminum sulfate
+X) Barium sulfate
+Y) Lead sulfate^
+Z) Calcium sulfate^
+
+----
+num: 3
+category: Physics
+difficulty: HS
+seen: 1
+answer: Z)  Neutral
+
+Astrophysicists, when referring to interstellar gases, typically use the Roman numeral I to indicate that an atom is:
+W) singly ionized
+X) doubly ionized
+Y) contains one proton
+Z) neutral
+
+----
+num: 6
+category: General Science
+difficulty: HS
+answer: X)  Clostridium Difficile
+
+As a close relative to the bacteria that cause botulism and gas gangrene, which of the following bacteria are a growing concern in hospitals, killing patients who have been treated with antibiotics:
+W) Bacillus anthracis (read as: an-THRAY-sis)
+X) Clostridium difficile
+Y) Treponema pallidium (read as: Trep-oh-KNEE-mah pal-LID-ee-um)
+Z) Vibrio cholera
+
+----
+num: 6
+category: General Science
+difficulty: HS
+seen: 1
+answer: Y)  1.55 × 10^8
+
+The length of the longest side of a U.S. dollar bill is about how many nanometers in length:
+W) 70 million 
+X) 1.10 × 10^6
+Y) 1.55 × 10^8
+Z) 600 million
+
+----
+num: 7
+category: Astronomy
+difficulty: HS
+seen: 1
+answer: W)  Leo, Virgo, and Scorpius
+
+Which of the following sets of constellations would be found nearest the ecliptic to an observer in mid-northern latitudes:
+W) Leo, Virgo, and Scorpius
+X) Pisces, Aries, and Draco
+Y) Cancer, Gemini, and Cassiopeia
+Z) Taurus, Ursa Minor, and Pisces
+
+----
+num: 7
+category: Astronomy
+difficulty: HS
+answer: W)  a Meteor Shower Could Be Seen From Earth
+
+Which of the following will MOST likely occur if the Earth crosses the orbit of a comet:
+W) a meteor shower could be seen from Earth 
+X) an asteroid will likely strike the Earth
+Y) red sprites and bolides will be seen both day and night
+Z) the Earth would temporarily lose its Van Allen belts
+
+----
+num: 8
+category: Biology
+difficulty: HS
+seen: 1
+answer: Y)  Water
+
+During photosynthesis, from what substance does the oxygen that is liberated originate:
+W) glucose
+X) air
+Y) water
+Z) carbon dioxide
+
+----
+num: 9
+category: Chemistry
+difficulty: HS
+answer: Y)  Their Outermost Electron Configuration Is Represented by 
+Ns^2np^6
+
+Which of the following is NOT true of halogens:
+W) iodine is the least reactive of the stable halogens
+X) elemental halogens exist as diatomic molecules containing single covalent bonds
+Y) their outermost electron configuration is represented by ns^2np^6
+Z) halides of typical metals are ionic
+
+----
+num: 12
+category: Earth Science
+difficulty: HS
+answer: Z)  Microburst
+
+Which of the following is a brief yet destructive windstorm marked by cool moist air descending from a thunderstorm that is sometimes mistaken for a tornado because of the damage it produces:
+W) Chinook
+X) zephyr
+Y) dust devil
+Z) microburst
+
+----
+num: 12
+category: Earth Science
+difficulty: HS
+answer: X)  the Total Amount of Water in the Global System Varies 
+Greatly From Year to Year
+(Solution: The Amount of Water on Earth Is Constant)
+
+Which of the following is NOT true about Earth’s water:
+W) more fresh water exists underground than in streams and lakes
+X) the total amount of water in the global system varies greatly from year to year
+Y) ground water can take thousands or millions of years to recharge naturally 
+Z) a rock is permeable if water can pass through it
+
+----
+num: 13
+category: General Science
+difficulty: HS
+answer: X)  Chronic Fatigue Syndrome
+
+In a recent breakthrough announcement by the CDC, which of the following diseases has been shown to have both a genetic and physiological component:
+W) malaria
+X) chronic fatigue syndrome
+Y) Tay Sach’s disease
+Z) sleeping sickness
+
+----
+num: 14
+category: Astronomy
+difficulty: HS
+answer: Z)  the Region of the Expanding Solar Wind Between the Sun 
+and the Heliopause
+
+Which of the following BEST describes the location of the heliosphere:
+W) the region that extends a few thousand kilometers outside of the Sun’s corona
+X) the region that extends from the Sun’s corona to the end of the solar system
+Y) the region that extends from the Sun’s core to the end of the solar system
+Z) the region of the expanding solar wind between the sun and the heliopause
+
+----
+num: 14
+category: Astronomy
+difficulty: HS
+answer: Y)  High in the South
+
+Which of the following BEST describes the position of the first quarter Moon to an observer in northern mid-latitudes on a clear summer night just after sunset:
+W) rising in the east 
+X) setting in the west
+Y) high in the south
+Z) unable to be seen
+
+----
+num: 16
+category: Chemistry
+difficulty: HS
+seen: 1
+answer: X)  Loses Two, 4 S Electrons
+(Solution:  Electrons Are Lost From Orbital With Highest N Quantum Number)
+
+When iron becomes the ion Fe^2+, it
+W) loses two, 3d electrons
+X) loses two, 4s electrons
+Y) gains two, 3d electrons 
+Z) gains two, 4s electrons
+
+----
+num: 16
+category: Chemistry
+difficulty: HS
+seen: 1
+answer: W)  the Average Kinetic Energy of Gaseous Molecules Is 
+Directly Proportional to the Absolute Temperature of the Sample
+
+Which of the following statements regarding the kinetic molecular theory of ideal gases is TRUE:
+W) the average kinetic energy of gaseous molecules is directly proportional to the absolute temperature of the sample
+X) the volume occupied by the atoms and/or molecules in a gas is large
+Y) collisions between gas particles are both elastic and inelastic
+Z) between collisions, molecules exert both attractive and repulsive forces on each other
+
+----
+num: 17
+category: Physics
+difficulty: HS
+seen: 1
+answer: Y)  the Laws of Reflection and Refraction
+
+Huygen’s principle can be used to most directly derive which of the following:
+W) the speed of light
+X) the law of diffraction
+Y) the laws of reflection and refraction
+Z) Fermat’s Principle
+
+----
+num: 17
+category: Physics
+difficulty: HS
+answer: Z)  Coefficients of Thermal Expansion
+
+When utilizing dissimilar metals in a device that operates over a large temperature range, which of the following factors is most important to consider in determining internal stresse s:
+W) ductility
+X) hardenability
+Y) conductivity
+Z) coefficients of thermal expansion
+
+----
+num: 19
+category: Earth Science
+difficulty: HS
+seen: 1
+answer: W)  Oxide
+(Solution:  Fe^2o^3)
+
+Hematite belongs to which of the following mineral groups:
+W) oxide
+X) carbonate 
+Y) halide
+Z) silicate
+
+----
+num: 20
+category: General Science
+difficulty: HS
+answer: Z)  Recent Studies Show That the Female Brain Releases Up to 3-
+Times More Dopamine as Compared to Males Which May Account for 
+Higher Addiction Rates in Females
+(Solution:  Males Have Higher Rates of Addiction)
+
+Which of the following statements is LEAST accurate:
+W) systemic autoimmunity often targets a person’s own nucleic acids
+X) the protonated hydrogen molecule is the most abundant molecular ion in the universe
+Y) carbenes are highly reactive intermediates in certain organic reactions
+Z) recent studies show that the female brain releases up to 3-times more dopamine as compared to males which may account for higher addiction rates in females
+
+----
+num: 23
+category: Chemistry
+difficulty: HS
+seen: 1
+answer: W)  Energy
+
+The principle quantum number ‘n’ of an electron largely determines its:
+W) energy
+X) spin
+Y) shape
+Z) orientation

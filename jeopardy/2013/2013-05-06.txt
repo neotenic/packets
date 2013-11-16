@@ -1,0 +1,474 @@
+####
+tournament: #6601
+round: Show #6601 - Monday, May 6, 2013
+year: 2013
+date: 2013-05-06
+####
+
+num: 1
+category: Science
+difficulty: 200
+seen: 8
+answer: coal
+
+Utah's state rock, it's burned to produce heat & electricity.
+
+----
+num: 2
+category: Literature
+difficulty: 200
+seen: 4
+answer: a pain/pane
+
+An ache, or a piece of glass in a window.
+
+----
+num: 3
+category: Trash
+difficulty: 200
+seen: 6
+answer: the Giants
+
+Rooney Mara is NFL royalty: her relatives founded the Steelers & also this New York team.
+
+----
+num: 4
+category: Literature
+difficulty: 200
+seen: 4
+answer: "The Raven"
+
+Poe's "ebony bird".
+
+----
+num: 5
+category: Literature
+difficulty: 200
+seen: 4
+answer: dogs
+
+Disproving the adage that you can't teach an old one new tricks, these pets learned to drive as part of an SPCA campaign.
+
+----
+num: 6
+category: History
+difficulty: 200
+seen: 4
+answer: Independence Hall
+
+In a Philadelphia summer, with the windows shut.
+
+----
+num: 7
+category: Science
+difficulty: 400
+seen: 6
+answer: granite
+
+Mount Rushmore is carved into a cliff made of this coarse rock.
+
+----
+num: 8
+category: Literature
+difficulty: 400
+seen: 4
+answer: rose/rows
+
+Got up, or lines of seats.
+
+----
+num: 9
+category: Trash
+difficulty: 400
+seen: 5
+answer: Justin Timberlake
+
+He's the JT in JT & the Tennessee kids, seen on the Grammys in 2013 performing "suit & tie".
+
+----
+num: 10
+category: Literature
+difficulty: 400
+seen: 4
+answer: Donald Trump
+
+Bill Maher said if this real estate tycoon could prove his dad isn't an orangutan, Maher would give him $5 million.
+
+----
+num: 11
+category: History
+difficulty: 400
+seen: 4
+answer: an attorney
+
+Clarence Gideon's.
+
+----
+num: 12
+category: Literature
+difficulty: 600
+seen: 4
+answer: counsel/council
+
+To give advice, or an assembly formed to reach conclusions.
+
+----
+num: 13
+category: Trash
+difficulty: 600
+seen: 4
+answer: Seth MacFarlane
+
+This "Family Guy" guy hosted the Oscars in 2013.
+
+----
+num: 14
+category: Literature
+difficulty: 600
+seen: 5
+answer: a sonnet
+
+Sidney's form in "Astrophel and Stella".
+
+----
+num: 15
+category: Science
+difficulty: 800
+seen: 5
+answer: soapstone
+
+Composed mostly of talc, this soft rock derives its name from its greasy feel, but don't try to wash with it.
+
+----
+num: 16
+category: Literature
+difficulty: 800
+seen: 3
+answer: clime/climb
+
+A meteorological environment, or to go up a mountain.
+
+----
+num: 17
+category: Trash
+difficulty: 800
+seen: 4
+answer: Kate Upton
+
+She appeared on the cover of the 2013 Sports Illustrated swimsuit edition with the caption "polar bare".
+
+----
+num: 18
+category: Literature
+difficulty: 800
+seen: 4
+answer: "Leaves of Grass"
+
+Whitman's 1855 collection.
+
+----
+num: 19
+category: Literature
+difficulty: 800
+seen: 3
+answer: a fireplace
+
+Just like our "yule log", Norwegian public TV aired 12 hours of this--but with commentary!.
+
+----
+num: 20
+category: Science
+difficulty: 1000
+seen: 7
+answer: serpentine
+
+Named for its scaly, snakelike appearance, this mineral commonly passes for jade.
+
+----
+num: 21
+category: Literature
+difficulty: 1000
+seen: 3
+answer: an islet/eyelet
+
+A small bit of land surrounded by water, or a small hole for the passage of a shoelace.
+
+----
+num: 22
+category: Trash
+difficulty: 1000
+seen: 5
+answer: SEAL Team Six
+
+Chris Pratt, goofy Andy on "Parks and Recreation", played one of the members of this elite group in "zero dark thirty".
+
+----
+num: 23
+category: Literature
+difficulty: 1000
+seen: 4
+answer: "Piers the Plowman"
+
+Langland's 14th century title "Plowman".
+
+----
+num: 24
+category: Literature
+difficulty: 1000
+seen: 4
+answer: the Emergency Alert System
+
+TV viewers were warned of zombies rising from their graves when this warning system, EAS for short, was hacked in 2013.
+
+----
+num: 25
+category: History
+difficulty: 1000
+seen: 4
+answer: Arkansas
+
+Five decades later,.
+
+----
+num: 26
+category: History
+difficulty: 400
+seen: 4
+answer: Genoa
+
+Native son Christopher Columbus embodies the maritime tradition of this city.
+
+----
+num: 27
+category: Trash
+difficulty: 400
+seen: 5
+answer: Darth Maul
+
+"Star Wars" had Darth Vader; "Phantom Menace" had this other Darth.
+
+----
+num: 28
+category: History
+difficulty: 400
+seen: 4
+answer: deliberate
+
+From Latin meaning "to balance or weigh", it's what members of a jury do to reach a verdict.
+
+----
+num: 29
+category: History
+difficulty: 400
+seen: 4
+answer: the water cooler
+
+...gossip center is traditionally this device; at "Jeopardy!" we have an oasis one.
+
+----
+num: 30
+category: Art
+difficulty: 400
+seen: 4
+answer: a piano
+
+A concert grand one of these from Steinway & sons weighs in at 990 pounds.
+
+----
+num: 31
+category: History
+difficulty: 400
+seen: 4
+answer: guerilla warfare
+
+Che Guevara described this type of warfare as "irregular., struggle against enemies of superior military power".
+
+----
+num: 32
+category: History
+difficulty: 800
+seen: 4
+answer: Barcelona
+
+On a visit to this seaport, Hans Christian Andersen called it "the Paris of Spain".
+
+----
+num: 33
+category: Trash
+difficulty: 800
+seen: 5
+answer: Voldemort
+
+Tom Marvolo Riddle is the real name of this villain.
+
+----
+num: 34
+category: History
+difficulty: 800
+seen: 4
+answer: to enunciate
+
+It's to pronounce words in a clear, articulate manner, just like this.
+
+----
+num: 35
+category: History
+difficulty: 800
+seen: 4
+answer: exorcism
+
+...of this act, freeing people from satanic dominion, is part of the archdiocese of Manila.
+
+----
+num: 36
+category: Art
+difficulty: 800
+seen: 5
+answer: a giant
+
+Pluto is a dwarf planet; Jupiter is this other type of planet, an antonym of dwarf.
+
+----
+num: 37
+category: History
+difficulty: 800
+seen: 4
+answer: medicine
+
+"I began my career" in this field; "I came into close contact with poverty... with the inability to treat a child".
+
+----
+num: 38
+category: History
+difficulty: 1200
+seen: 5
+answer: Geneva
+
+This Swiss city was known as the "Protestant Rome".
+
+----
+num: 39
+category: History
+difficulty: 1200
+seen: 4
+answer: a mandate
+
+A big election win means you have this, the authority to carry out your program.
+
+----
+num: 40
+category: History
+difficulty: 1200
+seen: 4
+answer: Office of Management and Budget
+
+...of these 2 things helping the president with money matters is OMB for short.
+
+----
+num: 41
+category: Art
+difficulty: 1200
+seen: 5
+answer: a Big Gulp
+
+It's the trademarked name for a 32-ounce drink size at 7-Eleven.
+
+----
+num: 42
+category: History
+difficulty: 1200
+seen: 4
+answer: by firing squad
+
+Che sent many men to execution by this & reportedly spoke of it as the "pedagogy of the wall".
+
+----
+num: 43
+category: Trash
+difficulty: 1600
+seen: 6
+answer: Gollum
+
+He's the villain formerly known as Smeagol.
+
+----
+num: 44
+category: History
+difficulty: 1600
+seen: 4
+answer: to ruminate
+
+To reflect on over & over again, or to chew the cud like a cow.
+
+----
+num: 45
+category: History
+difficulty: 1600
+seen: 5
+answer: cubicles
+
+...may be divided into these spaces; the man who pioneered them said people were using the idea to create hellholes.
+
+----
+num: 46
+category: History
+difficulty: 1600
+seen: 5
+answer: revolution
+
+This type of event that Che advocated "is not an apple that falls when it is ripe. you have to make it fall".
+
+----
+num: 47
+category: History
+difficulty: 2000
+seen: 6
+answer: Prague
+
+Mozart lived for a time in this city on the Vltava river & wrote a symphony named for it.
+
+----
+num: 48
+category: Trash
+difficulty: 2000
+fixed: -1
+seen: 9
+answer: Fred Kruger
+
+This serial killer made Elm Street a nightmare.
+
+----
+num: 49
+category: History
+difficulty: 2000
+seen: 6
+answer: eviscerate
+
+To remove the entrails from an animal.
+
+----
+num: 50
+category: History
+difficulty: 2000
+seen: 6
+answer: Flag Day
+
+...will be closed on June 14 for this holiday commemorating a 1777 event.
+
+----
+num: 51
+category: Art
+difficulty: 2000
+seen: 5
+answer: the Verrazano-Narrows Bridge
+
+suspension bridge that connects Brooklyn.
+
+----
+num: 52
+category: History
+difficulty: 2000
+seen: 6
+answer: Fulgencio Batista
+
+Che said that when this previous Cuban dictator "fled, he cleaned out the national treasury".

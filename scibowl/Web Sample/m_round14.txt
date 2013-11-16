@@ -1,0 +1,229 @@
+####
+tournament: Web Sample
+round: m_round14.pdf
+####
+
+num: 1
+category: Math
+difficulty: MS
+seen: 6
+answer: –10x^2z
+
+Simplify the following completely: −220x^4xy^6^2yz^2^2z^3
+
+----
+num: 3
+category: Life Science
+difficulty: MS
+seen: 10
+answer: Cellulose;  Dna;  Rna  (Accept:  All but Glucose)
+
+Name all of the fol lowing biological molecules that are considered polymers: glucose; cellulose; DNA; RNA
+
+----
+num: 6
+category: Math
+difficulty: MS
+fixed: -1
+seen: 7
+answer: –1,  –9,  –17
+
+Find the next 3 terms of the arithmetic sequence whose first 3 terms are: 23, 15, 7
+
+----
+num: 7
+category: General Science
+difficulty: MS
+seen: 5
+answer: Summer
+
+Giving your answer as winter, spring, summer, or fall, in w hat season will “dead zones” be most prevalent in the Chesapeake Bay?
+
+----
+num: 9
+category: Physical Science
+difficulty: MS
+seen: 5
+answer: Fluorine;  Oxygen;  Nitrogen
+
+Arrange the following 3 diatomic molecules in order of 
+INCREASING number of bonds between atoms: oxygen; fluorine; nitrogen
+
+----
+num: 11
+category: Math
+difficulty: MS
+seen: 6
+answer: 6 X^2y^3
+
+Express the following radical in simplified form for all positive values of x and y: (36x^4y^6)
+
+----
+num: 11
+category: Math
+difficulty: MS
+seen: 7
+answer: 5x X
+
+Find the product of 5x^2 times 5x , giving your answer in its simplest radical form for all positive values of x:
+
+----
+num: 13
+category: Life Science
+difficulty: MS
+seen: 10
+answer: Duodenum;  Jejunum;  Ileum;  Colon
+
+Order the following 4 parts of the human intestine from the 
+FIRST to receive food from the stomach to the LAST: colon; duo denum; ileum; jejunum
+
+----
+num: 15
+category: Earth Science
+difficulty: MS
+seen: 8
+answer: All
+
+Name all of the following 3 choices that influence wind dire ction on Earth: Coriolis effect; centripetal force; pressure gradients
+
+----
+num: 16
+category: Math
+difficulty: MS
+seen: 6
+answer: – 2
+3
+
+Solve the following equation for x: 9x^2 + 12x = –4
+
+----
+num: 17
+category: General Science
+difficulty: MS
+seen: 6
+answer: Comet  (Accept:  Comet Te Mple)
+
+In 2005, into what celestial object did the Deep Impact probe crash into?
+
+----
+num: 18
+category: Life Science
+difficulty: MS
+seen: 12
+answer: Bird’s Beak;  Human Fingernail;  Mammalian Fur
+(Accept:  All but Snake Teeth)
+
+Name all of the following 4 structures that are compos ed mostly of keratin: bird’s beak; snake teeth; human fingernail; mammalian fur
+
+----
+num: 20
+category: Earth Science
+difficulty: MS
+seen: 7
+answer: 2
+
+At any one time, there are always how many major tidal bulges on Earth?
+
+----
+num: 20
+category: Earth Science
+difficulty: MS
+seen: 7
+answer: Gravity;  Inertia
+
+Which 2 of the following 4 choices are primarily responsible for the creation of two major tidal bulges on the Earth: gravity; wind; inertia; sunlight
+
+----
+num: 21
+category: Math
+difficulty: MS
+seen: 6
+answer: 72
+(Solution: W = 12 + 2d = 12 + 2(30) = 72 Words)
+
+Your English teacher asks that you learn 2 new words every day. If you started with 12 new words, how many total new words will you learn after 30 days?
+
+----
+num: 21
+category: Math
+difficulty: MS
+seen: 5
+answer: 0
+π.5
+;  0.5^2; 0.5 ;   ^3 5
+
+Arrange the following 4 choices in INCREASING order: 0
+π.5; 0.5 ; 0.5^2; ^3 5 (read as: the cube root of 5)
+
+----
+num: 22
+category: General Science
+difficulty: MS
+seen: 6
+answer: Uranium -238  (Accept:  238)
+
+What uranium isotope is most common on Earth?
+
+----
+num: 22
+category: General Science
+difficulty: MS
+seen: 6
+answer: Crocus
+
+What is the common name for the plant from which the prized spice saffron is derived?
+
+----
+num: 23
+category: Life Science
+difficulty: MS
+seen: 10
+answer: Auxin  (Accept:  Indole Acetic Acid or Iaa)
+
+What natural plant hormone is most directly involved in controlling phototropism ?
+
+----
+num: 23
+category: Life Science
+difficulty: MS
+seen: 10
+answer: Simple Sugars;  Mrna
+
+Name all of the following 3 types of molecules that are generally soluble in water: simple sugars; mRNA; lipids
+
+----
+num: 24
+category: Physical Science
+difficulty: MS
+seen: 5
+answer: 1s^22s^22p^2 (Accept:  [He]2s^22p^2)
+
+Knowing that carbon is in group 4 and period 2 on the 
+Periodic Table, give the electron configuration of the carbon atom:
+
+----
+num: 24
+category: Physical Science
+difficulty: MS
+seen: 6
+answer: Gold;  Lead;  Granite;  Rubber
+
+Arrange the following 4 materials in DE CREASING order of thermal conductivity: granite; rubber; gold; lead
+
+----
+num: 25
+category: Earth Science
+difficulty: MS
+seen: 7
+answer: White Dwarf  (Accept:  Black Dwarf)
+
+What is the MOST common name for the last stellar stage in the life of our Sun?
+
+----
+num: 25
+category: Earth Science
+difficulty: MS
+seen: 7
+answer: 1.28
+
+The decay rate of the radioactive isotope potassium -40 into stable argon-40 can be used to radiometrically date rocks. If it takes 1.28 billion years for ha lf the potassium-40 to decay into argon -40, a rock that contains a 50/50 ratio of the two is how many billion years old, to the second decimal place?

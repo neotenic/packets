@@ -1,0 +1,243 @@
+####
+tournament: NASAT
+round: 08.pdf
+year: 2011
+####
+
+num: 1
+category: Science
+difficulty: HS
+fixed: 57
+seen: 485
+answer: {identity} element [or {identity} function; or {identity map}]
+
+The assumption in Britton's lemma is that the word is equal to this. Any element of a coset H acts as one
+ of these for H. In a group, if an element is of this type, it must commute with all other group elements and
+ furthermore there is only one of these elements in a group. This is the result of a function composed with its
+ inverse. In algebra, there are usually written as e. For matrices, this a matrix with ones down the diagonal
+ and zeros elsewhere. For 10 points, name these elements and functions that preserve the operand
+ exemplified by how one times any integer b is b.
+
+----
+num: 2
+category: Philosophy
+difficulty: HS
+fixed: -1
+seen: 518
+answer: Gilbert {Ryle}
+
+This philosopher compares a central notion of one work to the claim that a woman either bought a
+ left-hand and a right-hand glove, or a pair of gloves, but not both. He claimed that his mission was to
+ correct the “logical geography” of a certain type of knowledge in a work whose mission he declares is to
+ determine the “logical cross-bearings” of concepts. He criticized a position he claims stems from the
+ confusion of Galilean scientific principles as applying to all existing things, the so-called “Official
+ Doctrine.” He claimed that the statements “there occur mental processes” and “there occur physical
+ processes” are not in the same category. For 10 points, name this author who called Cartesian dualism the
+ “ghost in the machine” in his work The Concept of Mind.
+
+----
+num: 3
+category: Literature
+difficulty: HS
+fixed: 57
+seen: 440
+answer: Pablo {Neruda}
+
+One poem by this author asks, "who are you, who are you?" and begins, "Thinking, tangling shadows in
+ the deep solitude." This poet wrote "the verse falls to the soul like dew to the pasture" in a poem that
+ claims, "love is so short, forgetting is so long." He repeated the line, "Deserted like the wharves at dawn" in
+ a poem that claims, "It is the hour of departure." He wrote the lines, "'The night is shattered and the blue
+ stars shiver in the distance." He began one poem with the line "The memory of you emerges from the night
+ around me." For 10 points, name this poet, whose poem that begins, "Tonight I can write the saddest lines"
+ is found in his collection Twenty Love Poems and a Song of Despair.
+
+----
+num: 4
+category: History
+difficulty: HS
+fixed: 57
+seen: 417
+answer: Nicolae {Ceaucescu}
+
+A defector from this man’s regime later published the book Red Horizons, which detailed many of this
+ ruler’s shadowy operations. Salvador Dali complimented this man on his use of a scepter. This man
+ advocated youth involvement in construction and got rid of collegiate sociology programs as part of his
+ “July Theses”. Another of his policies declared mothers who had more than 10 children as “heroines” and
+ outlawed most cases of abortion. This man’s downfall came after he attempted to remove Laszlo Tokes
+ from his position as a pastor in Timisora, and he succeeded Gheorghe Gheorghiu-Dej as the General
+ Secretary of his nation’s Communist Party. For 10 points, name this man who was executed along with his
+ wife Elena on Christmas Day, 1989, the communist dictator of Romania.
+
+----
+num: 5
+category: Mythology
+difficulty: HS
+fixed: 1
+seen: 788
+answer: Shiva
+
+On a holiday sacred to this deity, bilwa leaves are placed atop a symbol of him, which is bathed in yogurt
+ and rose water every three hours. In one story, this god appeared as a massive pillar of fire and challenged
+ two other deities to find its endpoints. This god is often depicted crushing the evil dwarf Apasmara. This
+ god incinerates the god of love after being woken up by Kama. This god is often depicted in the form of
+ Nataraja, the cosmic dancer. Worship of this god can involve “linga”, or sacred stones. This god rides the
+ bull Nandi and uses a trident as a weapon. His wives include Parvati and Kali. For 10 points, name this
+ Hindu god called “the destroyer”.
+
+----
+num: 6
+category: Literature
+difficulty: HS
+fixed: 1
+seen: 447
+answer: Emile Francois {Zola}
+
+This author wrote a novel in which the teetotaler Coupeau falls from a hospital roof into a play titled 
+Drink. He wrote about the maiden Angelique who waits many years to marry a knight only to die the first
+ time they kiss in the novel  The Dream . The title character of another of his novels is first encountered at a
+ performance of The Blonde Venus and ruins her lovers Philippe Hugon and the journalist Fauchery. This
+ author wrote a novel in which the rich Gregoires only gives warm clothes and not food to the impoverished
+ family of Maheude. Later in that novel, Etienne organizes a strike at the Montsou coal mines. This author
+ included Nana in his twenty-novel cycle, Les Rougon-Macquart. For 10 points, name this French novelist
+ who wrote Germinal and “J’Accuse”.
+
+----
+num: 7
+category: Fine Arts
+difficulty: HS
+fixed: 1
+seen: 499
+answer: Parsifal
+
+Two changes of setting in this opera are accompanied by the "Transformation Music." The title character
+ of this opera throws away his bow and arrow in shame after shooting down a swan. Another of its
+ characters is doomed to wander the earth forever because she laughed at Christ on the cross. Six
+ flower-maidens try to seduce the protagonist of this opera in an enchanted garden owned by the villain
+ Klingsor. After having his feet washed by Kundry, the protagonist of this opera heals the wound of
+ Amfortas with the spear that had stabbed Christ. For 10 points, name this opera about an Arthurian knight
+ who seeks the holy grail, the last completed opera of Richard Wagner.
+
+----
+num: 8
+category: Science
+difficulty: HS
+fixed: 57
+seen: 489
+answer: simple {harmonic} oscillator [or {SHO}; or simple {harmonic} motion; or {SHM}; or {mass}-{on}-{a}-
+
+One deviation from this ideal system is mathematically described by an equation that includes a term
+ proportional to the cube of position, where the proportionality constant is less than zero in the "soft" case.
+ That equation is the Duffing equation. Another deviation from this ideal system is mathematically
+ described by an equal that includes a term proportional to the time derivative of position, where the
+ proportionality constant is known as the damping coefficient. This system itself is described by a
+ second-order differential equation formed by equating Newton's Second Law and Hooke's Law. For 10
+ points, sinusoidal motion is typical of what kind of system exemplified by pendulums and
+ masses-on-springs?
+
+----
+num: 9
+category: Geography
+difficulty: HS
+fixed: -1
+seen: 721
+answer: Republic of {India} [or {Bharat}]
+
+In 2003, this country saw the debut of the Blank Noise Project, a women’s movement designed to
+ counteract the widespread sexual harassment known as “eve-teasing.” It is engaged in a longtime dispute
+ over the Aksai Chin region with the country on its northeast border, which is separated by the Line of
+ Actual Control. In this country’s northwest, the border runs through the Thar Desert and the Rann of
+ Kutch, which cover territory in the states of Haryana and Rajasthan. For 10 points, name this larger of the
+ two countries which were partitioned in 1947, the southern neighbor of Pakistan.
+
+----
+num: 9
+category: Geography
+difficulty: HS
+fixed: -1
+seen: 717
+answer: Republic of {India} [or {Bharat}]
+
+In 2003, this country saw the debut of the Blank Noise Project, a women’s movement designed to counteract the widespread sexual harassment known as “eve-teasing.” It is engaged in a longtime dispute over the Aksai Chin region with the country on its northeast border, which is separated by the Line of Actual Control. In this country’s northwest, the border runs through the Thar Desert and the Rann of Kutch, which cover territory in the states of Haryana and Rajasthan. For 10 points, name this larger of the two countries which were partitioned in 1947, the southern neighbor of Pakistan.
+
+----
+num: 10
+category: History
+difficulty: HS
+fixed: 1
+seen: 418
+answer: Ngo Dinh {Diem}
+
+This politician had his men rough up those who didn't discard green ballot envelopes in favor of red
+ votes. This man resigned from his powerless role as Interior Minister for the Commission of Administrative
+ Reforms. Lucien Conein offered $40,000 to this man's generals to stage a coup, leading to his arrest at
+ Cholon and his convoy stopping in front of railroad tracks, where he and his brother were killed. Brothels
+ and opium dens were closed under the guidance of his brother's wife, Madame Nhu. Thich Quang Duc
+ immolated himself to protest this man's anti-Buddhism. This successor of Bao Dai was backed by Kennedy
+ until 1963. For 10 points, name this Catholic president of South Vietnam.
+
+----
+num: 11
+category: Fine Arts
+difficulty: HS
+fixed: None
+seen: 495
+answer: Arnold Schoenberg
+
+In a choral work by this composer, a series of commands shouted by a sergeant are met by a men's
+ chorus defiantly singing "Shema Yisroel." His first string quartet is only one movement, takes over forty
+ minutes to perform, and consists of asymmetrical phrases this composer called "musical prose." This
+ composer founded the Society for Private Musical Performances in order to play modernist music, and
+ developed his characteristic style after his wife Mathilde left him for the painter Richard Gerstl. His mature
+ pieces, such as his Opus 26 Wind Quintet and A Survivor from Warsaw, lack a key center and often feature
+ the technique of Sprechtsimme. For 10 points, name this leader of the Second Viennese School who
+ developed serialism and the twelve-tone row.
+
+----
+num: 12
+category: Social Science
+difficulty: HS
+fixed: 1
+seen: 450
+answer: {business cycles} [accept: {business cycle} fluctuations]
+
+One theory to explain these phenomena was offered by the authors of the "Time to Build" paper, and
+ invokes the neoclassical growth theory to explain them so that interpretations of these phenomena agree
+ with long term growth models. That theory, developed by Finn Kydland and Edward Prescott assumes that
+ technology shocks are the cause for them. Wesley Mitchell is best known for his work regarding these
+ phenomena, and Austrian theory invokes credit levels as the cause of these phenomena, while William
+ Jevons thought that varying sunspot levels are the cause for these. They have variable periodicity, as
+ described by Kondratieff waves and Kuznets waves, and in the United States they are tracked by the
+ NBER. For 10 points, identify these phenomena which are characterized by booms and busts in economic
+ activity.
+
+----
+num: 13
+category: Literature
+difficulty: HS
+fixed: 1
+seen: 444
+answer: The Tragicall History of the Life and Death of {Doctor Faustus}
+
+In the second scene of this play, one character insults two scholars by saying "But that I am by nature
+ phlegmatic, slow to wrath, and prone to lechery." The "B text" version of this play changes the line "Never
+ too late, if" and retains the stable-hand Rafe. In one scene, the title character causes antlers to sprout from
+ the head of a knight at the court of Charles V, for whom Alexander the Great is conjured. Its protagonist is
+ instructed by Valdes and Cornelius. The protagonist of this play wonders "was this the face that launch'd a
+ thousand ships" after he summons Helen. He dies twenty four years after exchanging his soul for the
+ service of Mephistopheles. For 10 points, name this "tragical history" by Christopher Marlowe.
+
+----
+num: 14
+category: Fine Arts
+difficulty: HS
+fixed: -1
+seen: 491
+answer: {L'Absinthe} [or The {Absinthe Drinker}; or Glass of {Absinthe}; or A {Sketch} of a {French Café}; or
+
+Elongated shadows are cast by the heads of the figures in this painting upon a long, segmented mirror
+ just behind them. A match container and a baton lie on one table in this painting, which is connected to
+ another by a folded newspaper. George Moore's response to the female figure in this painting was "What a
+ slut." That figure, who wears white headgear, has her hands clasped under the table and her gaze fixed
+ downward depressingly, and has been identified as the actress Ellen Andrée. Next to that woman is a man
+ who is cut off by the edge of the painting, and between them is a glass of the title substance. For 10 points,
+ identify this painting that depicts the alienation caused by a kind of alcohol, created by Edgar Degas.

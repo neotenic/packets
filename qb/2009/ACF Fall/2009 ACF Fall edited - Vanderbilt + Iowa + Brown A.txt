@@ -1,0 +1,214 @@
+####
+tournament: ACF Fall
+round: 2009 ACF Fall edited - Vanderbilt + Iowa + Brown A.doc
+year: 2009
+####
+
+num: 1
+category: Fine Arts
+difficulty: College
+fixed: 57
+seen: 71
+answer: Republic of {Hungary}
+
+One composer from this country composed the Peacock Variations and Dances of Galanta, and another composer from this nation composed Atmosphères and Lux Aeterna, two pieces included in 2001: A Space Odyssey. The former of those composers based an orchestral suite on his opera about a hussar who defeats Napoleon, Háry János. One composer from this country wrote a Concerto for Orchestra and Mikrokosmos, and Brahms composed a set of tunes based on dances from this nation. The primary Romantic composer from this country wrote the Transcendental Etudes and Rhapsodies from here. For 10 points, name this country, home of Béla Bartók and Franz Liszt. 
+
+----
+num: 2
+category: Literature
+difficulty: College
+fixed: 57
+seen: 62
+answer: The {Red} and the {Black} [or Le {Rouge et} le {noir}]
+
+One character in this novel adorns a cave with marble after burying the protagonist's severed head in it. The protagonist of this novel steals Voltaire books from a library, and his friend Foque offers him a position in his lumber business. The corrupt poorhouse official Valenod writes an anonymous letter that results in the protagonist losing his tutoring job. After he leaves the seminary at Besancon, the protagonist of this work has his marriage to the wealthy Mathilde de la Mole ended when he shoots at Madame de Renal after she reveals his affair with her. For 10 points, name this novel in which the Napoleonic ambition of Julien Sorel results in his downfall, a novel by Stendhal.
+
+----
+num: 3
+category: Science
+difficulty: College
+fixed: 57
+seen: 79
+answer: {goto} statement [accept {unconditional jump} before it is read; prompt {jump} before it is read]
+
+In Java, the two reserved but unused keywords are const and this keyword. In C languages, its action is performed non-locally by the setjmp keyword. A 1968 letter by E. W. Dijkstra stated that this statement “should be abolished from all ‘higher level' programming languages.” The title of that article was “[this keyword] considered harmful.” Usage of this statement can lead to disorganized “spaghetti code.” For 10 points, name this programming keyword that performs an unconditional jump to a specific label or line of code and whose inverse is the rarely-used parody, the “comefrom” statement.
+
+----
+num: 4
+category: Trash
+difficulty: College
+fixed: 57
+seen: 144
+answer: {Oasis}
+
+This band's song “Step Out” was relegated to a b-side when Stevie Wonder demanded 10% royalties due to its resemblance to “Uptight.” This group sang that “Sally can wait, she knows it's too late” in a John Osborne inspired song. This group repeatedly asked “Where were you when we were getting high” in a song which inspired the name of a structure that seems to violate the Chandrasekhar limit. This band sang “Don't Look Back in Anger” and “Champagne Supernova” as part of the “Battle of Britpop” against rival group Blur.  For 10 points, name this recently-defunct band fronted by Liam and Noel Gallagher, whose songs include “Supersonic” and “Wonderwall.”
+
+----
+num: 5
+category: Philosophy
+difficulty: College
+fixed: 1
+seen: 53
+answer: Baruch {Spinoza} [or Benedictus de {Spinoza}]
+
+Leo Strauss wrote a book on this thinker's “critique of religion,” while Lewis Feuer wrote on this man “and the rise of liberalism.” He wrote a Treatise on the Emendation of the Intellect and he argued that Ezra, not Moses, was the primary author of the Pentateuch in his Theological-Political Treatise. Another work contains a section entitled “Of Human Bondage,” and decries the anthropomorphizing of God after proving through a series of propositions that God is the only substance in the universe. For 10 points, name this pantheist philosopher who wrote Ethics.
+
+----
+num: 6
+category: History
+difficulty: College
+fixed: 57
+seen: 150
+answer: Barry {Goldwater}
+
+This man stated in Time magazine that “Every good Christian ought to kick Falwell right in the ass,” in support of Sandra Day O'Conner's confirmation to the Supreme Court. With Bill Nichols, this man names a piece of 1986 legislation which reformed the command structure of the military. His vote against the Civil Rights Act and support of states' rights allowed him to gain electoral votes in a region of the country that his party had previously done poorly in, despite being the target of the “Daisy Girl” ad. This Senator gained prominence with the publication of his book The Conscience of a Conservative in 1960. For 10 points, name this Arizona Republican politician whose participation in the presidential election of 1964 resulted in a landslide defeat by Lyndon B. Johnson.
+
+----
+num: 7
+category: Religion
+difficulty: College
+fixed: None
+seen: 54
+answer: {Zoroastrianism} [accept {Amesha Spentas} before “{this religion}”]
+
+“Desirable Dominion” and “Good Purpose” are names of two divinities in this religion, whose adherents cross the Chinvat bridge after death. Members of one sect of this religion bury themselves and are eaten as carrion in “towers of silence,” and practitioners of this religion pray in fire temples and revere the Amesha Spentas. The holy book of this religion includes the Vendidad, Yashts, and Yasna, and details the conflict between Ahriman and good. For 10 points, name this religion whose holy book is the Avesta and whose primary god is Ahura Mazda, a religion from Iran.
+
+----
+num: 8
+category: Geography
+difficulty: College
+fixed: 1
+seen: 132
+answer: {Burma} [or {Myanmar}]
+
+This nation's western coast is home to the Arakan Mountains, which extend northward into its state of Chin. This nation's southernmost reaches are the site of the Mergui archipelago, and its eastern region is dominated by the Shan Plateau. This nation is the home to most of the Mon people, whose historical capital of Thaton lies near the mouth of the Salween River. This nation's other major river joins the Chindwin near the city of Mandalay and eventually forms a massive delta at the Andaman Sea. The Irrawaddy River is found in, for 10 points, what Southeast Asian nation, whose capital was officially moved to Naypyidaw from Yangon in 2005.
+
+----
+num: 9
+category: Science
+difficulty: College
+fixed: None
+seen: 81
+answer: {cyclohexane} [accept {cyclohexanone} before “{complete}” in first sentence]
+
+This compound was initially synthesized via a Dieckmann condensation of pimelic acid followed by complete reduction of the product. It is typically produced by incubating benzene with a rhodium catalyst or under very acidic conditions at high temperatures, resulting in complete hydrogenation of the benzene ring and thus production of this compound. Its substituents are deemed axial or equatorial depending on position relative to the plane, and steric hindrance is minimized in its partially twisted chair conformation, as opposed to the boat isomer. For 10 points identify this saturated hydrocarbon, a cycloalkane which consists of a ring of six carbons with formula C6H12.
+
+----
+num: 10
+category: History
+difficulty: College
+fixed: 1
+seen: 69
+answer: {Edward VI}
+
+Humphrey Arundell led a rebellion in Cornwall against this ruler. The Treaty of Greenwich arranged a marriage between this figure and someone who later became consort to Francis II, but that betrothal broke down and resulted in the War of the Rough Wooing. The real power during this man's reign was held by the first Duke of Somerset and John Dudley, the first Duke of Northumberland, and his reign saw the publishing of the Book of Common Prayer by Thomas Cranmer. This ruler was succeeded by his cousin Jane Grey, although she reigned for only nine days before her execution by Mary I. For 10 points, name this son of Jane Seymour and Henry VIII who reigned for six years as King of England before his death at age sixteen.
+
+----
+num: 11
+category: Literature
+difficulty: College
+fixed: 1
+seen: 62
+answer: Upton Beall {Sinclair}, Jr.
+
+This author wrote an eleven part series about the wealthy son of an arms manufacturer who becomes a secret agent for Franklin Roosevelt. In addition to writing a series about the anti-fascist hero Lanny Budd , this author developed the “End Poverty in California” program as part of his unsuccessful campaign for governor. In one novel by this author, the baby Antanas drowns when left unattended, and the protagonist meets the safecracker Jack Duane in jail. This author wrote about Ona's death during childbirth in his novel in which Jurgis Rudkus is rescued from the meatpacking industry by the promise of the socialist party. For 10 points, name this author of The Jungle.
+
+----
+num: 12
+category: Literature
+difficulty: College
+fixed: 57
+seen: 59
+answer: Samuel {Richardson}
+
+In one of this author's novels, Sir Hargrave Pollexfen kidnaps Harriet Byron, until she is rescued by the title character. In addition to that novel which was a favorite of Jane Austen, this author wrote a work in which Mr. Williams is jailed after smuggling the title character's letters. This author of Sir Charles Grandison wrote a novel in which Robert Lovelace elopes with the title character after her father Mr. Harlowe locks her in her room. In addition to that “History of a Young Lady,” this author wrote about the domineering “Mr. B” in his novel about “Virtue Rewarded.” For 10 points, name this rival of Henry Fielding and author of the long epistolary novels Clarissa and Pamela.
+
+----
+num: 13
+category: Fine Arts
+difficulty: College
+fixed: 57
+seen: 69
+answer: Miles Dewey {Davis} III
+
+One live album by this artist is titled for the Rodgers & Hart showtune My Funny Valentine. One group led by  this man performed the first two renditions of Monk's “Straight, No Chaser,” and that sextet went on to release Porgy and Bess as part of this artist's collaboration with Gil Evans. One of this man's albums contains “The Pan Piper” and “Concierto de Aranjuez,” and “Cannonball” Adderley and Herbie Hancock played in his quintets. This artist released Bitches Brew and Sketches of Spain, and included “Flamenco Sketches,” “Freddie Freeloader,” and “So What” on his best known album. For 10 points, name this jazz trumpeter who released Kind of Blue. 
+
+----
+num: 14
+category: Social Science
+difficulty: College
+fixed: 57
+seen: 51
+answer: Gestalt
+
+This school's principles were applied to social behavior by Kurt Lewin, who emphasized the importance of one's entire “life space.” This school's primary principle encompasses laws of similarity, continuity, and closure and is known as prägnanz. It is typically dated back to 1912's Experimental Studies of the Perception of Movement, a discussion of effects such as the phi phenomenon that was written by Kurt Koffka, Wolfgang Köhler, and Max Wertheimer. For 10 points, name this psychological school which emphasizes that the whole is greater than the sum of its parts.
+
+----
+num: 15
+category: History
+difficulty: College
+fixed: 57
+seen: 69
+answer: {Nicaragua}
+
+This nation was ruled from 1894 to 1909 by the dictator José Santos Zelaya, and its president Adolfo Diaz signed a 1914 treaty with the United States. More recent leaders of this nation have included Enrique Bolaños and Arnoldo Alemán, the latter of whom defeated the National Opposition Union of Violeta Chamorro in 1996. This country was a Cold War ally of the US during the dictatorship of Anastasio Somoza, who had overseen the assassination of populist leader Augusto César Sandino, but became a bastion of socialism after its rightist Contras were defeated by the Sandinistas of Daniel Ortega. For 10 points, name this Central American nation with capital at Managua.
+
+----
+num: 16
+category: Science
+difficulty: College
+fixed: 57
+seen: 79
+answer: xylem
+
+Libriform fibers are long pit-containing cells found throughout this tissue, and perforation plates found at the ends of this tissue can be described as simple, foraminate, or scalariform. The primary type of this tissue is located closest to the pith, and it is made up of tracheid vessels in most conifers with trachea elements performing most of its function. This tissue must use the evaporation of water at mesophyll cells in leaves and negative back-pressure at the roots to carry out its function in a process called transpirational pull, which allows water and minerals to travel up through plants.  For 10 points, identify this dead vascular tissue in plants that functions differently from phloem.
+
+----
+num: 17
+category: Science
+difficulty: College
+fixed: None
+seen: 83
+answer: {Young's} modulus [or modulus of {elasticity}; prompt on “{stiffness}”]
+
+For a homogeneous, isotropic material, this quantity is given by three times quantity one minus two times Poisson's ratio, all over the compressibility. When a certain criterion holds, resilience can be defined as one over twice this quantity times the square of yield stress. Like pressure, it is measured in Pascals, and according to the generalized Hooke's law, this quantity is equivalent to the slope of a material's stress-strain curve. Named for the British physicist whose double-slit experiment showed that light is a wave, for 10 points, name this elastic modulus describing the ratio of stress to strain in a material.
+
+----
+num: 18
+category: Fine Arts
+difficulty: College
+fixed: 57
+seen: 68
+answer: Edvard {Munch}
+
+This artist's final paintings included garishly-colored works like Model by the Wicker Chair, while his many self-portraits include The Night Wanderer and a woodcut with a skeleton arm running along the bottom. The majority of his paintings, which include numerous depictions of "vampiric" women, were intended for inclusion in a series entitled The Frieze of Life. His more famous works include a green-walled depiction of his sister's death from tuberculosis, entitled Death in the Sickroom, as well as a work set along a dock at Ljabrochaussen with a swirling, blood-red sky. For 10 points, name this Norwegian Expressionist painter of The Scream.
+
+----
+num: 19
+category: Mythology
+difficulty: College
+fixed: 57
+seen: 113
+answer: {dogs} [or {hounds}; or other synonyms; accept {wolf} on the first clue]
+
+One animal of this type was given to Procris after she cured Midas's curse, but was turned to stone along with the Teumessian fox by Zeus. Four to six heads of this animal are attached to Scylla's waist, and one of them dies after being the first to see Odysseus on Ithaca. In addition to Laelaps, a two-headed Erytheian type of this animal belonged to Eurytion and protected the red cattle of Geryon. That animal, Orthrus, was the brother of another of these animals that frightens Eurystheus when Hercules brings him out of Hades on a labor. For 10 points, name this animal, examples of which are Sirius and the three-headed Cerberus.
+
+----
+num: 20
+category: History
+difficulty: College
+fixed: None
+seen: 68
+answer: {Merovingian} dynasty
+
+Among the infighting that beset this dynasty was a bitter feud between Queens Brunhilda and Fredegunde, while its lesser-known kings included Guntram and Sigebert I. Its later rulers where known as "idle kings", as all of its rulers after Dagobert I relinquished political control to Mayors of the Palace. This dynasty is typically dated back to the Battle of Soissons in 486, when Clovis defeated the last Roman ruler of Gaul, and it officially ended around 750 upon the ascension of Pepin the Short, the father of Charlemagne. For 10 points, name this medieval Frankish dynasty that preceded the Carolingians.
+
+----
+num: 21
+category: Literature
+difficulty: College
+fixed: 57
+seen: 59
+answer: {Beloved}
+
+One character in this novel is disturbed by an insulting figurine inscribed with the words “At Yo' Service” while working at the house of a family that wants to send her to Oberlin. Another character in this work describes his heart as a tin tobacco box and escapes from a chain gang in Alfred, Georgia. The protagonist of this novel marries Baby Suggs' son Halle, before giving birth to Denver while escaping from the Gardner owned Sweet Home Plantation. For 10 points, name this novel in which the title character returns to haunt Paul D and Sethe, her mother who mercy killed her to free her from slavery, a novel by Toni Morrison.

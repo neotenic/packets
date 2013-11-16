@@ -1,0 +1,393 @@
+####
+tournament: #6400
+round: Show #6400 - Friday, June 15, 2012
+year: 2012
+date: 2012-06-15
+####
+
+num: 1
+category: Trash
+difficulty: 200
+seen: 6
+answer: the Beatles
+
+In 1964 this band had 19 Top 40 hits; not a bad year, lads.
+
+----
+num: 2
+category: Literature
+difficulty: 200
+seen: 4
+answer: a pun
+
+A play on words, usually in a humorous way.
+
+----
+num: 3
+category: History
+difficulty: 200
+seen: 5
+answer: (Alexander Graham) Bell
+
+In 1876 he patented the telephone.
+
+----
+num: 4
+category: History
+difficulty: 200
+fixed: -1
+seen: 5
+answer: Gandhi
+
+Following this man's assassination, Jawaharlal Nehru said, "the light has gone out of our lives".
+
+----
+num: 5
+category: Geography
+difficulty: 200
+seen: 9
+answer: Greenland
+
+Look out below!  It's.
+
+----
+num: 6
+category: Trash
+difficulty: 400
+seen: 5
+answer: the Rolling Stones
+
+This band had the "satisfaction" of opening its first U.S. tour in San Bernardino & closing it at Carnegie Hall in '64.
+
+----
+num: 7
+category: Literature
+difficulty: 400
+seen: 4
+answer: a doe
+
+3-letter creature, seen.
+
+----
+num: 8
+category: History
+difficulty: 400
+seen: 4
+answer: (Johannes) Gutenberg
+
+In the 1440s he came up with movable type.
+
+----
+num: 9
+category: History
+difficulty: 400
+seen: 3
+answer: Clark Gable
+
+Howard Hughes said this "Gone With The Wind" actor's "ears make him look like a taxi-cab with both doors open.
+
+----
+num: 10
+category: Geography
+difficulty: 400
+seen: 7
+answer: Glasgow
+
+The fourth-largest city in the United Kingdom, it lies on both sides of the River Clyde.
+
+----
+num: 11
+category: Trash
+difficulty: 600
+seen: 5
+answer: The Kinks
+
+Dave Davies played guitar in this band.
+
+----
+num: 12
+category: Literature
+difficulty: 600
+seen: 3
+answer: a pew
+
+It's any of the bench-like seats with a fixed back arranged in rows in churches.
+
+----
+num: 13
+category: History
+difficulty: 600
+seen: 4
+answer: razor
+
+In the 1920s Jacob Schick produced the first successful electric one.
+
+----
+num: 14
+category: History
+difficulty: 600
+seen: 4
+answer: Joe Louis
+
+Of this prior champ, Muhammad Ali said, "I just give lip service to being the greatest.  He was the greatest".
+
+----
+num: 15
+category: Geography
+difficulty: 600
+seen: 8
+answer: Giza
+
+It's the suburb where you'd see the landmarks shown.
+
+----
+num: 16
+category: Trash
+difficulty: 800
+seen: 4
+answer: "The House Of The Rising Sun"
+
+It took The Animals less than 30 minutes to record this 1964 hit about a certain place in New Orleans.
+
+----
+num: 17
+category: Literature
+difficulty: 800
+seen: 4
+answer: a let
+
+In tennis, when a serve hits the net & drops into the proper court, it's called this & is replayed.
+
+----
+num: 18
+category: History
+difficulty: 800
+seen: 4
+answer: Edison
+
+His 1869 inspiration was the stock ticker.
+
+----
+num: 19
+category: Geography
+difficulty: 800
+seen: 8
+answer: Gouda
+
+This cheesy town in South Holland is also noted for its stained-glass windows.
+
+----
+num: 20
+category: Trash
+difficulty: 1000
+seen: 6
+answer: Donovan
+
+Then-session guitarist Jimmy Page played on this 1-named guy's "Sunshine Superman".
+
+----
+num: 21
+category: Literature
+difficulty: 1000
+seen: 4
+answer: dub
+
+To confer knighthood upon, or to insert new dialogue into a movie.
+
+----
+num: 22
+category: History
+difficulty: 1000
+seen: 5
+answer: (Melville) Bissell
+
+You know him for his 1876 hand-operated carpet sweeper.
+
+----
+num: 23
+category: History
+difficulty: 1000
+seen: 4
+answer: Eisenhower
+
+MacArthur reportedly said of him, "he'll make a fine president, he was the best clerk who ever served under me".
+
+----
+num: 24
+category: Geography
+difficulty: 1000
+seen: 8
+answer: Gatun
+
+(Sasrah of the Clue Crew reports from Panama).
+
+----
+num: 25
+category: History
+difficulty: 400
+seen: 4
+answer: Kenya
+
+In December 1963 Prince Philip was in Nairobi to hand over the documents making this country independent.
+
+----
+num: 26
+category: History
+difficulty: 400
+seen: 4
+answer: an act of God
+
+"Divine" legal phrase for something caused by uncontrollable forces.
+
+----
+num: 27
+category: Trash
+difficulty: 400
+seen: 4
+answer: a taurus chorus
+
+A bullish group of singers.
+
+----
+num: 28
+category: Literature
+difficulty: 400
+seen: 4
+answer: Fitzgerald
+
+He popularized the term "The Jazz Age" in a 1922 book title.
+
+----
+num: 29
+category: Art
+difficulty: 400
+seen: 4
+answer: Carmen
+
+After she declares her love for a toreador named Escamillo, she is stabbed to death by Don Jose.
+
+----
+num: 30
+category: History
+difficulty: 800
+seen: 4
+answer: Hong Kong
+
+Big news in 1997 included the British handover of.
+
+----
+num: 31
+category: History
+difficulty: 800
+seen: 4
+answer: the Library of Congress
+
+Its 3 Capitol Hill buildings hold more than 63 million manuscripts.
+
+----
+num: 32
+category: Literature
+difficulty: 800
+seen: 4
+answer: Sinclair Lewis
+
+World Book says this "Main Street" author "died lonely and unhappy in Italy on Jan. 10, 1951".
+
+----
+num: 33
+category: Art
+difficulty: 800
+seen: 4
+answer: Porgy & Bess
+
+"I Got Plenty O' Nuttin'" & "Oh Lawd, I'm On My Way" are arias in the opera about this title couple.
+
+----
+num: 34
+category: History
+difficulty: 1200
+seen: 5
+answer: right of way
+
+A path you're allowed to take on another's land.
+
+----
+num: 35
+category: Literature
+difficulty: 1200
+seen: 4
+answer: Sylvia Plath
+
+In 2005 Britain's National Portrait Gallery acquired the only known drawing of Ted Hughes by this writer, his wife.
+
+----
+num: 36
+category: Art
+difficulty: 1200
+seen: 4
+answer: Beatrice
+
+At the end of a Berlioz opera inspired by Shakespeare, she & Benedict admit their love for one another.
+
+----
+num: 37
+category: History
+difficulty: 1600
+seen: 4
+answer: Singapore
+
+In 1976 a Colonel Swynnerton was the last British military presence on this island at the tip of the Malay Peninsula.
+
+----
+num: 38
+category: History
+difficulty: 1600
+seen: 4
+answer: a margin of error
+
+If your sample is 1 thousand people in a population of 1 million, your poll has this of 3.1%.
+
+----
+num: 39
+category: History
+difficulty: 2000
+seen: 5
+answer: Belize
+
+This last British mainland colony in the Americas became independent in 1981, but the British Military stayed until 1994.
+
+----
+num: 40
+category: History
+difficulty: 2000
+seen: 6
+answer: the Gulf of California
+
+A little south of the state of the same name, it's AKA the Sea of Cortez.
+
+----
+num: 41
+category: Trash
+difficulty: 2000
+seen: 8
+answer: a libra zebra
+
+Slang for a football referee born in early October.
+
+----
+num: 42
+category: Literature
+difficulty: 2000
+seen: 6
+answer: Edward Albee
+
+3's the charm for this playwright whose "Three Tall Women" earned him his third Pulitzer.
+
+----
+num: 43
+category: Art
+difficulty: 2000
+seen: 6
+answer: Eurydice
+
+In a Gluck opera with the help of the love god Amor, Orfeo attempts to bring her back from Hades.

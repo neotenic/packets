@@ -1,0 +1,456 @@
+####
+tournament: #6290
+round: Show #6290 - Friday, January 13, 2012
+year: 2012
+date: 2012-01-13
+####
+
+num: 1
+category: History
+difficulty: 200
+seen: 5
+answer: golf & wolf
+
+A sand-trapped pastime & Little Red Riding Hood's nemesis.
+
+----
+num: 2
+category: Science
+difficulty: 200
+seen: 8
+answer: Canada
+
+This country's longest bridge at 8 miles connects New Brunswick & Prince Edward Island.
+
+----
+num: 3
+category: Trash
+difficulty: 200
+fixed: -1
+seen: 6
+answer: V-8
+
+There's an octet of veggies in this alphanumeric brand's vegetable juice, but no gluten.
+
+----
+num: 4
+category: History
+difficulty: 200
+seen: 5
+answer: Pocahontas
+
+In 1613 British Admiral Samuel Argall sailed up the Potomac & captured this Indian woman.
+
+----
+num: 5
+category: Literature
+difficulty: 400
+seen: 4
+answer: New York
+
+"The Empire State...".
+
+----
+num: 6
+category: History
+difficulty: 400
+seen: 4
+answer: south & youth
+
+A direction on a map & what proverbially is wasted on the young.
+
+----
+num: 7
+category: Trash
+difficulty: 400
+seen: 5
+answer: spam
+
+This classic canned meat from Hormel that debuted in 1937 has no gluten.
+
+----
+num: 8
+category: History
+difficulty: 400
+seen: 4
+answer: Hanoi
+
+Air Force vet Sam Johnson, ranked in 2011 as most conservative congressman, spent 7 years as a P.O.W. in this city.
+
+----
+num: 9
+category: Literature
+difficulty: 600
+seen: 4
+answer: Louisiana
+
+"Sportsman's Paradise".
+
+----
+num: 10
+category: History
+difficulty: 600
+seen: 4
+answer: lager & wager
+
+A type of beer & another word for a bet.
+
+----
+num: 11
+category: Literature
+difficulty: 600
+seen: 3
+answer: (Matthew) McConaughey
+
+He played an attorney in both "A Time To Kill" & "The Lincoln Lawyer", both based on bestsellers.
+
+----
+num: 12
+category: Science
+difficulty: 600
+seen: 6
+answer: ligaments
+
+The body's connective tissue includes these connecting bone to bone, like the transverse carpal one.
+
+----
+num: 13
+category: Trash
+difficulty: 600
+seen: 6
+answer: Coca-cola
+
+In the U.S., this soda is gluten free, as its Vanilla Zero version.
+
+----
+num: 14
+category: Literature
+difficulty: 800
+seen: 4
+answer: Utah
+
+"Greatest Snow On Earth".
+
+----
+num: 15
+category: History
+difficulty: 800
+seen: 4
+answer: a wallet & a mallet
+
+A billfold & a wooden hammer.
+
+----
+num: 16
+category: Science
+difficulty: 800
+seen: 5
+answer: latching on (or positioning)
+
+A baby who hasn't yet got the hang of breast-feeding is said to have problems doing this.
+
+----
+num: 17
+category: History
+difficulty: 800
+seen: 3
+answer: Atlantis
+
+U.S. Army pilot Sam Gemar flew on 3 Space Shuttle missions, starting with this alphabetically first craft.
+
+----
+num: 18
+category: Literature
+difficulty: 1000
+seen: 3
+answer: Kentucky
+
+"Unbridled Spirit".
+
+----
+num: 19
+category: History
+difficulty: 1000
+seen: 4
+answer: dull & bull
+
+Not sharp & a cow's mate.
+
+----
+num: 20
+category: Literature
+difficulty: 1000
+seen: 4
+answer: Philip K. Dick
+
+"Blade Runner" & "The Adjustment Bureau" were based on works by this writer.
+
+----
+num: 21
+category: Science
+difficulty: 1000
+seen: 6
+answer: interface
+
+In "Sixteen Candles" the geek predicts, "Me and her will" do this, the connection of a computer & an outside entity.
+
+----
+num: 22
+category: Trash
+difficulty: 1000
+seen: 4
+answer: Yoplait
+
+This yogurt brand, known in France as "The Little Flower" has many gluten-free flavors, including strawberry kiwi.
+
+----
+num: 23
+category: History
+difficulty: 1000
+seen: 4
+answer: the Nile
+
+Capt. Samuel Hood of the Zealous helped Nelson win the 1798 battle of this river, also called the Battle of Aboukir Bay.
+
+----
+num: 24
+category: Geography
+difficulty: 400
+seen: 7
+answer: Minnesota
+
+The name of Mille Lacs, a lake in this state, means "1,000 lakes"; sounds like an undercount.
+
+----
+num: 25
+category: History
+difficulty: 400
+seen: 4
+answer: Georgetown
+
+Bill Clinton was elected freshman & sophomore class president at this D.C. school but lost his bid for student body pres.
+
+----
+num: 26
+category: Literature
+difficulty: 400
+seen: 4
+answer: Geoffrey Chaucer
+
+In the 1380s this English poetry pioneer dedicated his verse romance "Troilus and Criseyde" to fellow poet John Gower.
+
+----
+num: 27
+category: Literature
+difficulty: 400
+seen: 4
+answer: the Trojan War
+
+Greek myth says the goddess Eris not getting an invite to Peleus & Thetis' wedding feast helped lead to this war.
+
+----
+num: 28
+category: Art
+difficulty: 400
+seen: 4
+answer: Android
+
+Developed by the Open Handset Alliance, this platform brings "internet-style innovation... to mobile phones".
+
+----
+num: 29
+category: Trash
+difficulty: 400
+seen: 5
+answer: the Pretenders
+
+Chrissie Hynde of this group said she wasn't trying to set an example, "I just wanted to play guitar in a rock & roll band".
+
+----
+num: 30
+category: Geography
+difficulty: 800
+seen: 7
+answer: the Volga
+
+Major ports on this river include Yaroslavl, Nizhny Novgorod & Rybinsk.
+
+----
+num: 31
+category: History
+difficulty: 800
+seen: 5
+answer: Cornell
+
+This university was founded in Ithaca, New York in 1865; today, other campuses are in NYC & Qatar.
+
+----
+num: 32
+category: Literature
+difficulty: 800
+seen: 4
+answer: the devil
+
+Southey wrote, "His coat was red, and his breeches were blue, and there was a hole where his tail came through".
+
+----
+num: 33
+category: Literature
+difficulty: 800
+seen: 3
+answer: Queen Victoria
+
+From 1877 to 1901 she also held the title of Empress of India.
+
+----
+num: 34
+category: Art
+difficulty: 800
+seen: 4
+answer: androgynous
+
+Adjective meaning having both male & female characteristics.
+
+----
+num: 35
+category: Trash
+difficulty: 800
+seen: 5
+answer: the Foo Fighters
+
+Dave Grohl recorded this band's 1995 debut album by himself, but has lots of help on 2011's "Wasting Light".
+
+----
+num: 36
+category: Geography
+difficulty: 1200
+seen: 8
+answer: the Amazon
+
+Crack open a Brazil nut & tell us of your time as a captain on the Rio Madeira, a major tributary of this river.
+
+----
+num: 37
+category: History
+difficulty: 1200
+seen: 4
+answer: Cal Tech
+
+Geeks can hoop! (Eventually!) In 2007 the men at this Pasadena university snapped an 11-year, 207-game losing streak.
+
+----
+num: 38
+category: Literature
+difficulty: 1200
+seen: 3
+answer: Garden
+
+Robert Louis Stevenson's green thumb produced the classic "A Child's" this "Of Verses".
+
+----
+num: 39
+category: Literature
+difficulty: 1200
+seen: 4
+answer: automobiles
+
+Prince Borghese was victorious in a 1907 Beijing to Paris race using these; winning time, 61 days.
+
+----
+num: 40
+category: Art
+difficulty: 1200
+seen: 4
+answer: an ampersand
+
+Name of the symbol seen in all the category titles on the board except "AND".
+
+----
+num: 41
+category: Trash
+difficulty: 1200
+seen: 5
+answer: the Clash
+
+Paul Simonon is smashing his bass on the cover of this group's "London Calling".
+
+----
+num: 42
+category: History
+difficulty: 1600
+seen: 4
+answer: McGill
+
+Ernest Rutherford was working at this Montreal university when he explained how radioactivity works.
+
+----
+num: 43
+category: Literature
+difficulty: 1600
+seen: 5
+answer: Quasimodo
+
+This 1831 literary title character preferred single gypsy women & was a tough guy to buy shirts for.
+
+----
+num: 44
+category: Art
+difficulty: 1600
+seen: 4
+answer: andouille
+
+This spicy sausage is a jambalaya staple.
+
+----
+num: 45
+category: Trash
+difficulty: 1600
+seen: 5
+answer: the Cranberries
+
+Fans offer Thanksgiving for Dolores O'Riordan, lead singer of this band with the hit "Linger".
+
+----
+num: 46
+category: History
+difficulty: 2000
+seen: 6
+answer: Rice
+
+In 1900 the founder of this Houston university was suffocated by his valet & a lawyer out to steal his fortune.
+
+----
+num: 47
+category: Literature
+difficulty: 2000
+seen: 6
+answer: Boccaccio
+
+As a poet, this author of the prose work "Decameron" made the rhyme scheme ottava rima standard in Italian.
+
+----
+num: 48
+category: Literature
+difficulty: 2000
+seen: 5
+answer: Rex
+
+In names of cat breeds, this "kingly" word follows Devon & Cornish.
+
+----
+num: 49
+category: Art
+difficulty: 2000
+seen: 6
+answer: andirons
+
+One of a pair of metal stands for holding logs in a fireplace.
+
+----
+num: 50
+category: Trash
+difficulty: 2000
+seen: 8
+answer: Death Cab for Cutie
+
+A song by the Bonzo Dog Band gave this "I Will Possess Your Heart" group its grisly name.

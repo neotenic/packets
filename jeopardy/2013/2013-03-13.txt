@@ -1,0 +1,446 @@
+####
+tournament: #6563
+round: Show #6563 - Wednesday, March 13, 2013
+year: 2013
+date: 2013-03-13
+####
+
+num: 1
+category: Geography
+difficulty: 200
+seen: 10
+answer: Albany
+
+On the Patroon Island Bridge overlooking the Hudson.
+
+----
+num: 2
+category: Literature
+difficulty: 200
+seen: 4
+answer: a bat
+
+That umpire was "as blind as" this mammal (not the equipment used in the game).
+
+----
+num: 3
+category: Science
+difficulty: 200
+seen: 9
+answer: a backfire
+
+Was that a gunshot? No, it was this, an explosion caused by the ignition of unburned fuel.
+
+----
+num: 4
+category: History
+difficulty: 200
+seen: 6
+answer: the Black Forest
+
+Schwarzwald, also known as the Black this.
+
+----
+num: 5
+category: Geography
+difficulty: 400
+seen: 9
+answer: Boise
+
+From Bronco Stadium at halftime of the Potato Bowl.
+
+----
+num: 6
+category: History
+difficulty: 400
+seen: 4
+answer: (Mikhail) Gorbachev
+
+A Soviet leader:.
+
+----
+num: 7
+category: Literature
+difficulty: 400
+seen: 4
+answer: a beaver
+
+Hot dam! You're "as busy as" this flat-tailed rodent.
+
+----
+num: 8
+category: Science
+difficulty: 400
+seen: 7
+answer: crank
+
+This slang verb meaning to start up a car is literally what you do to start a Model T.
+
+----
+num: 9
+category: History
+difficulty: 400
+seen: 4
+answer: the Christ Child (the baby Jesus accepted)
+
+For Yule shopping, Christkindlmarkt, Christkind literally meaning this little guy.
+
+----
+num: 10
+category: Geography
+difficulty: 600
+seen: 9
+answer: Baton Rouge
+
+From the main campus of Southern University... so laissez les bon temps roulez.
+
+----
+num: 11
+category: History
+difficulty: 600
+seen: 4
+answer: (John Foster) Dulles
+
+A secretary of state with his name on an airport:.
+
+----
+num: 12
+category: Literature
+difficulty: 600
+seen: 4
+answer: a skunk
+
+Plastered, blotto, "drunk as" this mammal, Mephitis mephitis.
+
+----
+num: 13
+category: Science
+difficulty: 600
+seen: 6
+answer: timing
+
+A special xenon light is used to check this, also said to be the essence of good comedy.
+
+----
+num: 14
+category: History
+difficulty: 600
+seen: 4
+answer: the Rhine
+
+This river that flows past Worms & Mainz.
+
+----
+num: 15
+category: History
+difficulty: 800
+seen: 3
+answer: Bill Clinton
+
+A politician & Rhodes scholar:.
+
+----
+num: 16
+category: Literature
+difficulty: 800
+seen: 4
+answer: a hare
+
+Alice knows you're "mad as a March" this.
+
+----
+num: 17
+category: Science
+difficulty: 800
+seen: 5
+answer: octane
+
+This rating given to gasoline indicates its anti-knocking & pinging ability.
+
+----
+num: 18
+category: History
+difficulty: 800
+seen: 3
+answer: Checkpoint Charlie
+
+This former Berlin Wall checkpoint, where you can see instruments of escape used by East Germans.
+
+----
+num: 19
+category: Geography
+difficulty: 1000
+seen: 7
+answer: Richmond
+
+At the White House of the Confederacy on Clay Street.
+
+----
+num: 20
+category: Literature
+difficulty: 1000
+seen: 4
+answer: an ox
+
+I'm "as strong as" this adult castrated male of the genus Bos (but feeling much better it, apparently).
+
+----
+num: 21
+category: Science
+difficulty: 1000
+seen: 7
+answer: to double clutch
+
+This 2-word phrase means to pump the shift pedal twice while changing gears.
+
+----
+num: 22
+category: History
+difficulty: 1000
+seen: 4
+answer: Dachau
+
+This concentration camp site just north of Munich.
+
+----
+num: 23
+category: Literature
+difficulty: 400
+seen: 4
+answer: Tennessee Williams
+
+This playwright's family served as the model for the Wingfields in his play "The Glass Menagerie".
+
+----
+num: 24
+category: History
+difficulty: 400
+seen: 4
+answer: the Amazon
+
+In 1542 Francisco de Orellana began traveling down this river from Ecuador, reaching its mouth on the Atlantic.
+
+----
+num: 25
+category: Trash
+difficulty: 400
+seen: 4
+answer: stand-ins
+
+Lighting & camera blocking are done with these people instead of the stars of the film.
+
+----
+num: 26
+category: Science
+difficulty: 400
+seen: 6
+answer: the Achilles tendon
+
+We gotta repair the rupture of this tendon that attaches the muscles of the calf to the heel bone.
+
+----
+num: 27
+category: Trash
+difficulty: 400
+seen: 5
+answer: Michael J. Fox
+
+This "Back to the Future" star won the 2009 Best Spoken Word Album for "Always Looking Up".
+
+----
+num: 28
+category: Literature
+difficulty: 400
+seen: 3
+answer: an object lesson
+
+A real-life event that illustrates a moral principle is this type of "lesson".
+
+----
+num: 29
+category: Literature
+difficulty: 800
+seen: 4
+answer: Arthur Miller
+
+About this playwright, Marilyn Monroe said, "if I were nothing but a dumb blonde, he wouldn't have married me".
+
+----
+num: 30
+category: History
+difficulty: 800
+seen: 4
+answer: Devil\'s Island
+
+In 1953 the last inmates left this French penal colony that held some 70,000 prisoners over its 100-year existence.
+
+----
+num: 31
+category: Trash
+difficulty: 800
+seen: 5
+answer: drivers
+
+In movie credits, "transportation captain" is often closely followed by about a dozen of these, whom he supervises.
+
+----
+num: 32
+category: Science
+difficulty: 800
+seen: 6
+answer: a facelift
+
+You'll look at least hours younger after a rhytidectomy, aka this cosmetic surgery.
+
+----
+num: 33
+category: Trash
+difficulty: 800
+seen: 4
+answer: Steve Martin
+
+Well, excuuuse this actor for winning the 2009 Best Bluegrass Album for "The Crow: New Songs for the Five-String Banjo".
+
+----
+num: 34
+category: Literature
+difficulty: 800
+seen: 4
+answer: an obituary
+
+This word for a type of notice in a newspaper is from the Latin for "death".
+
+----
+num: 35
+category: History
+difficulty: 1200
+seen: 4
+answer: FARC
+
+It's the Spanish acronym for the Revolutionary Armed Forces of Colombia, battling the government since 1964.
+
+----
+num: 36
+category: Science
+difficulty: 1200
+seen: 5
+answer: a lobotomy
+
+I don't recommend this 8-letter surgical procedure that cuts nerve connections in the brain; it wasn't so big after the '50s.
+
+----
+num: 37
+category: Trash
+difficulty: 1200
+seen: 6
+answer: Rodney Dangerfield
+
+He won 1980's Best Comedy Recording with "No Respect", I tell ya.
+
+----
+num: 38
+category: Literature
+difficulty: 1200
+seen: 4
+answer: the obverse
+
+The front side of a coin.
+
+----
+num: 39
+category: Literature
+difficulty: 1600
+seen: 5
+answer: Chekhov
+
+His 1889 play "The Wood Demon" was a failure; he reworked it as the successful "Uncle Vanya".
+
+----
+num: 40
+category: Trash
+difficulty: 1600
+seen: 6
+answer: an editor
+
+If you're one of these professionals & a cut above, you may win an Eddie Award.
+
+----
+num: 41
+category: Science
+difficulty: 1600
+seen: 5
+answer: bypass
+
+Surgery known as coronary artery this 6-letter word is sometimes used to relieve chest angina resistant to medication.
+
+----
+num: 42
+category: Trash
+difficulty: 1600
+seen: 5
+answer: Taylor Swift
+
+2009's Best Female Country Vocal went to her for "White Horse", where (shocker!) she goes off on an ex-boyfriend.
+
+----
+num: 43
+category: Literature
+difficulty: 1600
+seen: 4
+answer: obedience training
+
+Type of training that'll bring your dog to heel (& sit & stay).
+
+----
+num: 44
+category: Literature
+difficulty: 2000
+seen: 6
+answer: Molière
+
+In 1665 this French playwright's "Don Juan" had a brief run but wasn't seen again during his lifetime due to church pressure.
+
+----
+num: 45
+category: History
+difficulty: 2000
+seen: 5
+answer: Panama
+
+In 2004 Martin Torrijos, son of former dictator Omar Torrijos, was elected president of this Central American country.
+
+----
+num: 46
+category: Trash
+difficulty: 2000
+seen: 8
+answer: dialogue
+
+If an actor's words can't be heard, time for ADR, short for "additional" or "automated" this "replacement".
+
+----
+num: 47
+category: Science
+difficulty: 2000
+seen: 7
+answer: LASIK
+
+A beam reshapes the cornea in this procedure named by Dr. Pallikaris & made up of letters found in his name.
+
+----
+num: 48
+category: Trash
+difficulty: 2000
+seen: 8
+answer: "I Will Survive"
+
+At 1st I was afraid, I was petrified you wouldn't know Gloria Gaynor won the 1979 Best Disco Recording for this tune.
+
+----
+num: 49
+category: Literature
+difficulty: 2000
+seen: 5
+answer: an obelisk
+
+The Washington Monument is one.

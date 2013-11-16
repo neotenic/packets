@@ -1,0 +1,428 @@
+####
+tournament: #6364
+round: Show #6364 - Thursday, April 26, 2012
+year: 2012
+date: 2012-04-26
+####
+
+num: 1
+category: Trash
+difficulty: 200
+seen: 5
+answer: Coca-Cola
+
+This soft drink company with over 3,500 beverages in its portfolio tops the world in brand value, as it has for the past 11 years.
+
+----
+num: 2
+category: Literature
+difficulty: 200
+seen: 4
+answer: John Henry
+
+The drilling of the Big Bend tunnel through the Alleghenies in the 1870s may have led to the tale of this folk hero.
+
+----
+num: 3
+category: History
+difficulty: 200
+seen: 6
+answer: Athens
+
+The modern marathon race was first held at the revival of the Olympic games in 1896 in this city.
+
+----
+num: 4
+category: History
+difficulty: 200
+seen: 5
+answer: Backspace
+
+Where an Apple computer keyboard has "Delete", a P.C. has this.
+
+----
+num: 5
+category: Trash
+difficulty: 400
+seen: 5
+answer: Disney
+
+The world's largest media conglomerate at No. 9, in 2012 it will open Cars Land at its California Adventure park.
+
+----
+num: 6
+category: Geography
+difficulty: 400
+seen: 7
+answer: crushed by a house
+
+The Wicked Witch of the East.
+
+----
+num: 7
+category: Literature
+difficulty: 400
+seen: 4
+answer: Will Rogers
+
+"The Cowboy Philosopher on Prohibition" is a book by this humorist.
+
+----
+num: 8
+category: History
+difficulty: 400
+seen: 4
+answer: the Boston Marathon
+
+This marathon runs from Hopkinton to the Back Bay.
+
+----
+num: 9
+category: History
+difficulty: 400
+seen: 3
+answer: a pacemaker
+
+Cardiac support device that produces rhythmic electrical impulses.
+
+----
+num: 10
+category: Trash
+difficulty: 600
+seen: 5
+answer: Amazon
+
+Interbrand calls shopping online through this retailer "one of the web's defining experiences".
+
+----
+num: 11
+category: Geography
+difficulty: 600
+seen: 8
+answer: by guillotine
+
+Maximilien Robsepierre.
+
+----
+num: 12
+category: Literature
+difficulty: 600
+seen: 4
+answer: Glenn Beck
+
+"The Real America" is one of several books by.
+
+----
+num: 13
+category: History
+difficulty: 600
+seen: 5
+answer: 5 minutes
+
+To the nearest minute, what you'll have to average per mile to run a 2:10 marathon like the champs.
+
+----
+num: 14
+category: History
+difficulty: 600
+seen: 5
+answer: a Pacer
+
+The 1970s were wide open with this model seen.
+
+----
+num: 15
+category: Trash
+difficulty: 800
+seen: 4
+answer: Louis Vuitton
+
+This French firm known for its handmade leather goods sits at No. 18 & is the world's most counterfeited fashion brand.
+
+----
+num: 16
+category: Literature
+difficulty: 800
+seen: 3
+answer: John Muir
+
+"A Passion for Nature" is a 2008 biography of this man, shown.
+
+----
+num: 17
+category: History
+difficulty: 800
+seen: 4
+answer: Munich
+
+The last American man to win the Olympic marathon was Frank Shorter in 1972 in this city.
+
+----
+num: 18
+category: History
+difficulty: 800
+seen: 4
+answer: a carapace
+
+It's the shell you have to remove to enjoy a tasty lobster.
+
+----
+num: 19
+category: Geography
+difficulty: 1000
+seen: 9
+answer: by choking on a pill-bottle cap
+
+Tennessee Williams.
+
+----
+num: 20
+category: Literature
+difficulty: 1000
+seen: 4
+answer: scale Mount Everest
+
+In his adventures, Reinhold Messner, best known for doing this without oxygen, has lost several toes & his brother Gunther.
+
+----
+num: 21
+category: History
+difficulty: 1000
+seen: 4
+answer: Kenya
+
+In Beijing in 2008, Sammy Wanjiru of this nation broke the Olympic record by almost 3 minutes.
+
+----
+num: 22
+category: History
+difficulty: 1000
+seen: 4
+answer: a snail\'s pace
+
+French truckers sometimes stage Operation Escargot; translate & you know traffic slows to this.
+
+----
+num: 23
+category: History
+difficulty: 400
+seen: 4
+answer: the potato
+
+The airborne fungus Phytophthora infestans caused this crop to fail in 1845.
+
+----
+num: 24
+category: Literature
+difficulty: 400
+seen: 4
+answer: a simile
+
+Add a letter to "smile" & you get this figure of speech.
+
+----
+num: 25
+category: Literature
+difficulty: 400
+seen: 3
+answer: Captain Hook
+
+Talking to this villain, Smee says, "I have often noticed your strange dread of crocodiles".
+
+----
+num: 26
+category: History
+difficulty: 400
+seen: 4
+answer: Moscow
+
+Gorki Park, The Revolution Museum.
+
+----
+num: 27
+category: History
+difficulty: 400
+seen: 5
+answer: eight
+
+To make change, the coin called a "piece of" this was cut into smaller pieces; "two bits" was a quarter of one.
+
+----
+num: 28
+category: Trash
+difficulty: 400
+seen: 5
+answer: (Anne) Bancroft
+
+The seductive Mrs. Robinson in the movie "The Graduate".
+
+----
+num: 29
+category: History
+difficulty: 800
+seen: 4
+answer: Easter
+
+A short-lived rebellion for independence began in Dublin on Monday, April 24, 1916, the day after this holiday.
+
+----
+num: 30
+category: Literature
+difficulty: 800
+seen: 4
+answer: verify
+
+From the Latin for "true", it means to test the truth by comparison or investigation.
+
+----
+num: 31
+category: History
+difficulty: 800
+seen: 4
+answer: Mexico City
+
+Alameda Park along Avenida Juarez.
+
+----
+num: 32
+category: Trash
+difficulty: 800
+seen: 5
+answer: Angelina Jolie
+
+Mrs. Smith in 2005's "Mr. & Mrs. Smith".
+
+----
+num: 33
+category: History
+difficulty: 1200
+seen: 5
+answer: St. Patrick
+
+Taken as a slave to Ireland in the early 400s, he escaped to France, where he studied for the priesthood before returning.
+
+----
+num: 34
+category: History
+difficulty: 1200
+seen: 4
+answer: Warsaw
+
+The column of King Sigismund (built in 1644), the heart of Chopin (built in 1810).
+
+----
+num: 35
+category: History
+difficulty: 1200
+seen: 4
+answer: talent
+
+The name of this unit of weight used in monetary transactions also means "natural ability".
+
+----
+num: 36
+category: Trash
+difficulty: 1200
+seen: 6
+answer: Jennifer Jason Leigh
+
+Dorothy Parker in "Mrs. Parker and the Vicious Circle".
+
+----
+num: 37
+category: History
+difficulty: 1600
+seen: 5
+answer: Blarney
+
+In 1446 Dermot McCarthy built this castle & installed a stone taken from an earlier version of the castle.
+
+----
+num: 38
+category: Literature
+difficulty: 1600
+seen: 4
+answer: a serviette
+
+The British borrowed this word for a table napkin from the French.
+
+----
+num: 39
+category: Literature
+difficulty: 1600
+seen: 4
+answer: Quilp
+
+In "The Old Curiosity Shop", Little Nell's grandfather gambles away the shop to this evil dwarf.
+
+----
+num: 40
+category: History
+difficulty: 1600
+seen: 5
+answer: Teheran
+
+The Reza Abbasi Museum.
+
+----
+num: 41
+category: History
+difficulty: 1600
+seen: 4
+answer: the greenback
+
+This colorful currency printed during the Civil War lent its name to a political party of the 1870s & '80s.
+
+----
+num: 42
+category: Trash
+difficulty: 1600
+seen: 6
+answer: Diana Rigg
+
+Mrs. Bradley of Britain's "The Mrs. Bradley Mysteries" & Mrs. Peel of "The Avengers".
+
+----
+num: 43
+category: History
+difficulty: 2000
+seen: 6
+answer: Ulster
+
+Ireland's four historic regions are Munster, Leinster, Connacht, & this one, most of which became Northern Ireland.
+
+----
+num: 44
+category: Literature
+difficulty: 2000
+seen: 6
+answer: corridor
+
+A narrow passageway; a restricted airspace for the passage of aircraft.
+
+----
+num: 45
+category: Literature
+difficulty: 2000
+seen: 6
+answer: Edmund
+
+This unscrupulous villain of "King Lear" betrays his father to Regan & her husband, the Duke of Cornwall.
+
+----
+num: 46
+category: History
+difficulty: 2000
+seen: 6
+answer: a drachma
+
+One of the world's earliest coins, it has a name from the Greek for "to grasp".
+
+----
+num: 47
+category: Trash
+difficulty: 2000
+seen: 8
+answer: Kate Jackson
+
+Mrs. King, who starred opposite Bruce Boxleitner's scarecrow.

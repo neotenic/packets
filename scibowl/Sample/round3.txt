@@ -1,0 +1,333 @@
+####
+tournament: Sample
+round: round3.pdf
+####
+
+num: 1
+category: Physics
+difficulty: HS
+seen: 25
+answer: Thermal
+
+What is the MOST common term for the type of energy that is most directly related to the energy of atoms, molecules and other small particles that are in random motion within a system?
+
+----
+num: 1
+category: Physics
+difficulty: HS
+seen: 26
+answer: Cathode
+
+In electrochemical cells, what is the most common term for the electrode that acts as the negative electrode?
+
+----
+num: 2
+category: Chemistry
+difficulty: HS
+seen: 34
+answer: Ionic
+
+If the electronegativity difference in the bonding atoms is large, what general type of bond is formed?
+
+----
+num: 3
+category: Biology
+difficulty: HS
+seen: 40
+answer: Adrenal Cortex  (Accept:  Adrenal Glands)
+
+Most corticosteroids are synthesized in what specific part of the human body?
+
+----
+num: 4
+category: Math
+difficulty: HS
+fixed: -1
+seen: 25
+answer: 2.4 × 10 ^33
+
+Simplify the following, giving your answer in proper scientific notation: (6.0 × 10^12)(2.0 × 10^10)^2
+
+----
+num: 4
+category: Math
+difficulty: HS
+fixed: -1
+seen: 25
+answer: (9x + 10y)^2^
+
+Factor the following expression completely: 81 x^2 + 180xy + 100y^2^
+
+----
+num: 5
+category: Earth Science
+difficulty: HS
+seen: 64
+answer: Swell(s)
+
+What is the name for the common ocean waves that are not driven by the wind but sustained by the energy they obtained by the sea?
+
+----
+num: 6
+category: General Science
+difficulty: HS
+seen: 29
+answer: 16
+
+A hexadecimal number is a numeral system with a radix o r a base of what?
+
+----
+num: 6
+category: General Science
+difficulty: HS
+fixed: -1
+seen: 31
+answer: 912
+(Solution: 1.2 Atm × 760 Mmhg/1 Atm = 912 Mmhg)
+
+Convert a pressure of 1.2 atmospheres into millimeters mercury:
+
+----
+num: 7
+category: Astronomy
+difficulty: HS
+seen: 52
+answer: Galaxies
+
+The local group is generally referred to as a collection of what celestial objects?
+
+----
+num: 8
+category: Physics
+difficulty: HS
+fixed: -1
+seen: 26
+answer: Coulomb
+
+What is the SI unit of electric charge?
+
+----
+num: 8
+category: Physics
+difficulty: HS
+seen: 27
+answer: 0.5
+(Solution: 40/80 =  0.5 Km/hr/sec)
+
+Giving your answer in kilometers per hour per second, what is the average acceleration of a truck traveling on a straight road from 10 kilometers per hour to 50 kilometers per hour in 1 minute and 20 seconds:
+
+----
+num: 9
+category: Chemistry
+difficulty: HS
+seen: 34
+answer: Gold
+
+What is the name for the most malleable and ductile metal which ca n be dissolved in aqua regia but is unaffected by air and most other reagents?
+
+----
+num: 9
+category: Chemistry
+difficulty: HS
+seen: 33
+answer: Hso^4–^
+
+What is the molecular formula for the conjugate acid of the following 
+Brønsted-Lowry base: SO^4^2–^
+
+----
+num: 10
+category: Biology
+difficulty: HS
+seen: 40
+answer: Cytokinesis
+
+What is the MOST common term for the division of a somatic cell into 2 nucleated cells following of mitosis?
+
+----
+num: 10
+category: Biology
+difficulty: HS
+seen: 39
+answer: Uuu
+
+What is the anticodon on a tRNA for AAA (read as: A , A, A)?
+
+----
+num: 11
+category: Math
+difficulty: HS
+seen: 23
+answer: 75
+
+Giving your answer as a proper fraction, what is the cube root of 125343 ?
+
+----
+num: 13
+category: General Science
+difficulty: HS
+seen: 31
+answer: Temperate  (Accept:  Temperate Rain Forest)
+
+The lush forest of the Pacific northwest is classified as what type of rain forest?
+
+----
+num: 13
+category: General Science
+difficulty: HS
+seen: 30
+answer: Sulfuric Acid  (Accept:  Sulfuric or H^2so^4)
+
+The reaction of lead oxide in the presence of what acid is fundamental to the operation of the lead -acid rechargeable battery found in most cars?
+
+----
+num: 14
+category: Astronomy
+difficulty: HS
+seen: 56
+answer: Polaris  (Accept:  Pole Star;  North Star;  Alpha Ursa Minoris)
+
+The stars Merak and Dubhe in the bowl of the big dipper are most commonly used to locate what star?
+
+----
+num: 14
+category: Astronomy
+difficulty: HS
+seen: 53
+answer: Mars and Jupiter  (In Any Order)
+
+The main asteroid belt is located immediately between what two planets?
+
+----
+num: 15
+category: Physics
+difficulty: HS
+seen: 25
+answer: Inst Antaneous Velocity
+
+What is the most common term used to describe the velocity of an object at any one discrete moment along its path?
+
+----
+num: 15
+category: Physics
+difficulty: HS
+seen: 27
+answer: Electron
+
+What lepton was the first to be discovered?
+
+----
+num: 18
+category: Math
+difficulty: HS
+seen: 25
+answer: − X+
+X 4
+(Accept:   X
+−+
+X4
+or  −(X
+X+ 4)
+or  − X
+X− 4
+)
+
+Simplify the following rational expression by combining like terms ,assuming x is not equal to 4: ((4xx^2−−16x^2)
+)
+
+----
+num: 20
+category: General Science
+difficulty: HS
+fixed: -1
+seen: 31
+answer: Jute = Plants;  Linen = Plants;  Wool = Animals
+
+Identify the following 3 fabrics as derived from animals or plants, respectively: jute; linen; wool
+
+----
+num: 20
+category: General Science
+difficulty: HS
+seen: 31
+answer: 23  (Accept:  24)
+
+Rounded to the nearest whole degree, what is the obliquity of the ecliptic?
+
+----
+num: 21
+category: Astronomy
+difficulty: HS
+seen: 55
+answer: Andromeda
+
+What is the proper name for the closest spiral galaxy to the Milky 
+Way?
+
+----
+num: 21
+category: Astronomy
+difficulty: HS
+seen: 57
+answer: Constellations
+
+What is the common name for the 88 sections into which the 
+International Astronomical Society has divided the sky?
+
+----
+num: 22
+category: Physics
+difficulty: HS
+fixed: -1
+seen: 25
+answer: ½
+
+In one cycle of alternating current, 180º is given to the point at what fractional amount of the way through the cycle?
+
+----
+num: 22
+category: Physics
+difficulty: HS
+seen: 26
+answer: 6
+(Solution:  Wavelength = Speed/f;  = 360/60 = 6 Meters)
+
+If the speed of sound in a certain medium is 360 meters per second, what is the wavelength, in meters, of a sound -wave that has a frequency of 60 hertz?
+
+----
+num: 23
+category: Chemistry
+difficulty: HS
+seen: 35
+answer: 3
+
+The Lewis dot structure for the N ^+2 ion would show how many dots?
+
+----
+num: 24
+category: Biology
+difficulty: HS
+seen: 39
+answer: Bacillus   (Accept:  Rod or Bacilli or Bacilliform)
+
+What is the scientific term given to the shape of the E. coli bacterium?
+
+----
+num: 24
+category: Biology
+difficulty: HS
+seen: 39
+answer: Apple;  Cherry
+
+Name all of the following 4 plants that produce seeds with a fleshy covering that are eaten by animals and dispersed in their droppings: apple; orchid; cherry; sphagnum moss
+
+----
+num: 25
+category: Chemistry
+difficulty: HS
+fixed: -1
+seen: 34
+answer: 0.4
+(Solution: 4.0 G (1 Mole / 40 G) = 0.1;  0.1 moles/0.250 L = 0.4 M or Moles/l)
+
+What is the molarity of a sodium hydroxide solution made by dissolving 4 grams NaOH in 250 milliliters of water?

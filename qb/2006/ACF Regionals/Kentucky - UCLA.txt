@@ -1,0 +1,214 @@
+####
+tournament: ACF Regionals
+round: Kentucky - UCLA.doc
+year: 2006
+####
+
+num: 1
+category: History
+difficulty: College
+fixed: 57
+seen: 69
+answer: {Napoleon III} (or {Louis}-{Napoleon Bonaparte}; do not prompt on “{Napoleon}”)
+
+He escaped from a life sentence by disguising himself as a stonemason and walking away from the fortress of Ham. As an exile in England, he joined Wellington's special forces to suppress the Chartists and, while in Italy, he participated in the 1830 uprising. However, it wasn't until he defeated Ledru-Rollin, Cavaignac and Lamartine that he became the ruler of his home country. He created a Council of State, a powerless Senate and a Legislative Body the members of which were elected by universal male suffrage in corrupt elections. After dissolving the original Legislative Assembly on the forty-sixth anniversary of his uncle's greatest victory, he declared himself emperor in 1852. FTP, who was this man who ruled France until his defeat at Sedan in 1870?
+
+----
+num: 2
+category: Literature
+difficulty: College
+fixed: None
+seen: 60
+answer: The {Palm}-{Wine Drinkard}
+
+At one point in this novel, a “complete gentleman” says “Do not follow unknown man's beauty” to the eventual wife of the narrator. He and she are married after the narrator finds Death and brings him to the town and a child is born from her thumb. They are then cast out to the wilderness because of the insufferable child, whom they abandon to three men named Drum, Dance, and Song. Among the locales visited by the couple are Wraith-Island, Unreturnable Heaven's Town, and Red-Town; they visit these in search of Deads' Town, where the title character intends to find his former servant and return him to his village. FTP, name this novel in which the narrator attempts to retrieve his tapster from the dead; the best-known work of Amos Tutuola.
+
+----
+num: 3
+category: History
+difficulty: College
+fixed: 57
+seen: 70
+answer: {Athens} or {Athinai} (accept {Attica} or the {Duchy} of {Athens} until “{city}” is mentioned)
+
+Purchased by the Florentine Acciaiuoli in 1390, it had earlier been center of a state whose official language was Catalan. Later, it was conquered by Navarrese mercenaries who had defeated Walter V of Brienne at Halymros. Walter had succeeded the French knightly family of de la Roche, which had held power here for over a hundred years. Its early prestige had greatly been checked by a 529 closure that dispersed intellectuals to distant Harran and Ctesiphon. Though Venice would twice launch attacks on this city, it would pass into Muslim hands in 1456. Finally returned to Christian rule in 1833, this is, FTP, what city, made capital in the same year by King Othon I but perhaps more famous for the Pnyx and the Areopagus and its ancient prowess under such leaders as Themistocles and Pericles?
+
+----
+num: 4
+category: Fine Arts
+difficulty: College
+fixed: None
+seen: 72
+answer: The {Unanswered Question} (I & {II}), for trumpet, {winds} & {string orchestra}, S. 50 ({K. 1C25}) (accept any underlined part)
+
+The strings in the background of this work represent “the silence of the druids – who know, see, and hear nothing,” whereas the trumpet phrase repeated over times over them alternates with contrapuntal woodwinds that accelerate in speed and loudness during the course of the work. Revised in the 1930's, it is often paired with Central Park in the Dark in the Good Old Summer Time in performance, where the titular entity is mocked after what the composer calls “a secret conference” finds that the voice of the flute's “invisible reply” comes to nothing. FTP, name work subtitled “A Contemplation of a Serious Matter,” a work of Charles Ives.
+
+----
+num: 5
+category: Literature
+difficulty: College
+fixed: None
+seen: 60
+answer: “The {Library} of {Babel}” or “La {Biblioteca} de {Babel}”
+
+Bonaventura Cavalieri is referenced in the last note to this short story, in which the narrator recalls two axioms. The narrator considers the sequence d-h-c-m-r-l-c-h-t-d-j, which does not mean anything terrible in any secret language, and is concerned that you understand his language. The narrator first attempts to describe the titular structure and notes that the “satisfaction of fecal necessities” is permitted before eventually offering a seven-word definition for it: “ubiquitous and everlasting system of hexagonal galleries.” FTP, what collection of works that includes such titles as The Combed Thunderclap and The Plaster Cramp names this Borges story about an infinite compilation of books?
+
+----
+num: 6
+category: Science
+difficulty: College
+fixed: None
+seen: 78
+answer: {ordinary differential} equations (prompt on {differential equation})
+
+For stiff types of these, Richardsonian extrapolation algorithms far outperform the other general type. Methods for conquering them can be implicit, such as Adams-Moulton, or explicit, such as Adams-Bashforth. Some non-iterative solvers for these add a middle step called a modifier, however, these predictor-corrector methods are not self-starting and must be initiated, for example using Runge-Kutta [RUN-guh CUT-tuh] algorithms. They can be handled analytically using either D operators or integral transforms, both of which generally transform them into sets algebraic equations. FTP, identify this type of equation involving derivatives in only one dependent variable.
+
+----
+num: 7
+category: Fine Arts
+difficulty: College
+fixed: 57
+seen: 68
+answer: The {Kiss}
+
+The signature of the artist in this work is an etching off of the background which is decorated with a technique also used for the Palais Stoclet friezes in Brussels. Housed in the Upper Belvedere, it shows a woman's hand sliding beneath the cloak of a man's before emerging to grasp the man's right hand. The St. Apollinare in Classe near Ravenna is the inspiration for the field of flowers on which the woman kneels with the edge of her feet standing next to nothingness. Black and white rectangles decorate the man's cloak while circles of flowers surrounded by gold tesserae cover the woman's dress and hair. FTP, name this Gustav Klimt painting of an act of love.
+
+----
+num: 8
+category: Science
+difficulty: College
+fixed: None
+seen: 81
+answer: {Cope} elimination
+
+This procedure was introduced by its namesake, along with Foster and Towle, in the Journal of the American Chemical Society 1949. No anti- selectivity has been found for it and, when multiple products are possible, there is little preference except when one product involves a double bond conjugated to an aromatic ring. This reaction is spontaneous between one hundred and one hundred fifty degrees Celsius and, unlike the Hofmann elimination, its mechanism involves a cyclic flow of six electrons. FTP, identify this elimination reaction in which an amine oxide decomposes into a dialkylhydroxylamine and an amine.
+
+----
+num: 9
+category: Literature
+difficulty: College
+fixed: 57
+seen: 59
+answer: {Go Down}, {Moses}
+
+The events of this volume are set into motion when “Cass” and his two uncles visit a neighbor. During their visit, the uncles engage in a poker game that results in a marriage and the subsequent birth of the protagonist. The protagonist is referred to as “uncle to half a county and father to no one” and, in 1940, learns that the relative to whom he relinquished his inheritance has incestuously fathered a mulatto child. In the work's namesake final section, we are introduced to Gavin Stevens, who appears in the author's Intruder in the Dust and attempts to arrange for the burial of Sam Beauchamp following his execution. FTP name this book including the sections “Was,” “Delta Autumn,” and “The Bea;,” a McCaslin-clan-centered Faulkner work that takes its name from a Negro spiritual.
+
+----
+num: 10
+category: Science
+difficulty: College
+fixed: None
+seen: 79
+answer: {Bardeen}-{Cooper}-{Schrieffer} theory of superconductivity
+
+This framework's predictions match measurements of heat capacity in vanadium, which increases exponentially with the low-temperature band gap, three times the critical kinetic temperature; this corresponds to microwaves. Unlike Bose-Einstein condensation, it considers both sign-change and lack-of-sign-change label exchanges involving both bosonic and fermionic particles. It assumes that, in the absence of lattice vibrations, the critical temperature would be zero; a result derived from the isotope effect. FTP, name this theory postulating a band gap below which Cooper pairs can form to mediate a state of reduced resistivity; a theory of superconductivity named for the initials of three physicists.
+
+----
+num: 11
+category: Philosophy
+difficulty: College
+fixed: 1
+seen: 54
+answer: {Jacques Derrida}
+
+This writer critiqued Plato in Dissemination and wrote an autobiography titled Circumfession. Believing that the meaning of a word is “deferred” to the meanings of words it contrasts with, a critical position of this thinker's posits that neither speech nor writing is primary to the other. His Glas is a two-columned book containing Hegelian philosophy on one side and discussions of Jean Genet on the other. An analyst of conceptual distinctions, he wrote Margins of Philosophy, Writing and Difference, and Speech and Phenomena. FTP, name this Jewish-French anti-philosopher; the author of Of Grammatology and founder of deconstructionism.
+
+----
+num: 12
+category: History
+difficulty: College
+fixed: -1
+seen: 69
+answer: {Non}-{Intercourse} Act (accept {Indian Non}-{Intercourse Act} before {San Pedro})
+
+The 2005 Supreme Court case Sherrill, New York  v. Oneida Nation of New York involved interpretation of the 1790 Act that shares its name with this better-known one, which the San Pedro was accused of violating in an 1817 Supreme Court case. Sections 3 and 4 of that Act set the date at which it went into effect as May 20, while Section 2 gave the penalty for violating it as a fine of between one hundred and ten thousand dollars and a jail sentence of between one month and one year. The second of three Acts passed in response to the Berlin and Milan decrees and the Orders of Council, it was designed to alleviate economic problems caused by the passage of the Embargo Act. FTP, identify this law succeeded by Macon's Bill No. 2; an 1809 act that restricted trade with Britain and France.
+
+----
+num: 13
+category: Fine Arts
+difficulty: College
+fixed: None
+seen: 71
+answer: Edward Kennedy “Duke” Ellington
+
+He perpetrated the “Great James Robbery” when he enticed Juan Tizol away from Harry James and taking along Willie Smith and Louis Bellson; the latter performed the drum solos in his “Skin Deep.” Three of his stars left in 1950 to join his former band member Johnny Hodges, but he continued to reinvent himself with works like Drum Is a Woman and Far East Suite. He was back in the spotlight after a solo by tenor saxophonist Paul Gonsalves in “Diminuendo & Crescendo in Blue” for the Newport Festival. FTP name this jazz composer who collaborated with Billy Strayhorn on “Take the ‘A' Train” and who earned his rank at the Cotton Club with works like “It Don't Mean a Thing” and “Mood Indigo.”
+
+----
+num: 14
+category: Mythology
+difficulty: College
+fixed: 57
+seen: 115
+answer: {Antiope}
+
+One woman by this name gave birth on Mount Cithairon after being dragged back from Sicyon by her uncle Lycus. Tormented by Dirce, she was the mother-in-law of Niobe and her sons by Zeus, Amphion and Zethus, built the walls of Thebes. The second woman by this name is sometimes called by the feminized version of her son's name or sometimes said to be the sister of a woman with that name. She was abducted while bringing presents on board a stranger's ship, prompting her followers to wage war with Athens. FTP, give the shared name of these mythological women, the second of whom, possibly identical with Hippolyta, was an Amazon queen and wife of Theseus.
+
+----
+num: 15
+category: Science
+difficulty: College
+fixed: 57
+seen: 79
+answer: {polymerase} chain reaction
+
+The RACE type of this process is a special case of the anchored type, which utilizes a universal linker. The hot-start version separates the components before the first step and the touch-down version decreases hybridization temperatures over time. The ARMS system utilizes the allele-specific type, which relies on single nucleotide distinctions near the three-prime end. Its product usually has an adenosine three-prime overhang and enzymes from Pyrococcus furiosus have been used in it thanks to their three prime to five prime exonuclease proofreading, but VENT and taq pol are also common. FTP, name this technique taking about thirty cycles; a DNA amplification method invented by Kary Mullis.
+
+----
+num: 16
+category: Science
+difficulty: College
+fixed: None
+seen: 80
+answer: {Australopithecus africanus}
+
+The anterior pillars located on either side of this species' nose seem to relate it to species discovered by Gert Terblanche. An earlier fraud initially led the scientific community to ignore the first of four examples, which was found in a lime quarry near Kimberley. The original specimen was a child with a cranial capacity of four hundred five cubic centimeters, but it wasn't until Robert Broom's discovery of a four hundred eighty-five-cubic-centimeter adult skull that the existence of this species was widely accepted. Phylogenic models suggest that it may be the ancestor of P. Robustus, though the OH62 artifact may indicate it to be the direct ancestor of the Homo genus, rather than the afarensis species of its own genus. FTP, name this hominid species named by Raymond Dart with a name meaning “southern ape of Africa.”
+
+----
+num: 17
+category: History
+difficulty: College
+fixed: 57
+seen: 67
+answer: {Xerxes} I (or {Khshayarshan} I or {Ahasuerus} I or {Achashverosh} I)
+
+Among those involved in his assassination was the chamberlain Aspamithres. After his death, the throne passed over his son Hytapses and his successor executed the primary assassin, Artabanus. In an inscription from his reign, he claims to have destroyed the den of the daivas, leading some to believe that this man was religiously intolerant. Earlier, he had gained notoriety for taking a statue of Bel from the temple in Babylon, but he is most famous for a grand expedition that set out from Sardis and included among its preparations the digging of a canal through the Chalcidice. FTP, name this man victorious at Artemisium and Thermopylae before a resounding naval defeat at Salamis; a Persian king whose reign saw the latter stages of the Persian Wars started by his father, Darius I.
+
+----
+num: 18
+category: Literature
+difficulty: College
+fixed: 1
+seen: 57
+answer: William Butler {Yeats}
+
+In the work the Hidden God, literary critic Cleanth Brooks cites William Faulkner and this author as examples of how reading the works of heathens can provide a profound experience for Christians. He was a member of the Order of the Golden Dawn and, during his honeymoon, his wife Georgie Hyde-Lee demonstrated her gift for automatic writing, the result of which was the work A Vision. It was during that same period that he wrote a poem to commemorate a gift given him by Harry Clifton which featured the “ancient, glittering eyes” of “Three Chinese men.” His mystic beliefs are more prevalent in another work that demonstrates his Nietzschean belief in the rough beast who “Slouches towards Bethlehem to be born.” FTP, name this Irish poet of “Lapis Lazuli” and “The Second Coming.”
+
+----
+num: 19
+category: Trash
+difficulty: College
+fixed: 57
+seen: 185
+answer: {Crash}
+
+Cameos in this film include Marina Sirtis's Persian matriarch and Tony Danza's actor, who suggests that a character's dialogue should be dumbed-down. Other minor characters include health care worker Shaniqua Johnson; Peter Waters, a devotee of St. Christopher; and Maria, a Hispanic servant and best friend to an uptight white woman. Tommy Hanson shoots Peter when he mistakes Peter's a figurine for a gun. The film's most emotional scene involves a traffic stop of the Thayers, an affluent Hollywood couple, by racist cop Jack Ryan, who later saves Mrs. Thayer's life. FTP, name this drama about race-relations in the police, featuring Terrence Howard, Don Cheadle, and Matt Dillon.
+
+----
+num: 20
+category: Literature
+difficulty: College
+fixed: 1
+seen: 60
+answer: {Wuthering Heights}
+
+Joyce Carol Oates wrote a controversial article about the “magnanimity” of this novel. The narrator has a dream in which he is forced to attend a sermon delivered by the Reverend James Branderham, who accuses him of committing the “first of the seventy-first” sin. That narrator's landlord is initially hated by his family as a child due to the crushing of a fiddle and the loss of a riding crop, gifts brought for his adopted siblings from Liverpool. The protagonist is then abused physically by Hindley, whose sister he desperately loves, and, after a three-year absence, returns to Thrushcross Grange and the title estate to reclaim his love and exact revenge. FTP, name this novel about Catherine Earnshaw and Heathcliff Heathcliff by Emily Bronte.
+
+----
+num: 21
+category: Science
+difficulty: College
+fixed: None
+seen: 81
+answer: {Crab} nebula (accept {M1} before it's mentioned)
+
+Apparent supraluminal motion in this object was recently resolved by radiation hydrodynamical considerations, in light of the thirty-three-microsecond source at its center. It was determined in 1973 to be six thousand, three hundred light-years away, which gives it an apparent magnitude of negative three point two. About ten light-years in diameter, it was misclassified in 1919 and William Herschel originally thought it was a stellar system that could be resolved with larger telescopes. The inner part of this body appears bluish and emits synchrotron radiation. It also contains NP0532, a pulsar, and an x-ray source, Taurus X-1. FTP, identify this body independently discovered by Bevis and Messier; the nebula resulting from the 1054 supernova, designated M1.

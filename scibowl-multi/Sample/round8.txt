@@ -1,0 +1,275 @@
+####
+tournament: Sample
+round: round8.pdf
+####
+
+num: 1
+category: Chemistry
+difficulty: HS
+answer: X)  Single Replacement
+
+The reaction Fe ^3O^4 + 4H^2  3Fe + 4H^2O, is an example of what class of chemical reaction:
+W) decomposition 
+X) single replacement
+Y) combustion 
+Z) combination
+
+----
+num: 2
+category: Biology
+difficulty: HS
+answer: Y)  Tertiary
+
+Which of the following is the highest level of structural organization in my oglobin:
+W) primary
+X) secondary
+Y) tertiary
+Z) quaternary
+
+----
+num: 3
+category: Physics
+difficulty: HS
+answer: Z)  Blue
+
+Which of the following colors of light has the greatest angle of refraction in normal glass:
+W) yellow
+X) green
+Y) orange
+Z) blue
+
+----
+num: 3
+category: Physics
+difficulty: HS
+answer: W)  Orange
+
+If a beam of white light passes through a prism, which of the following colors color will emerge on the other side at the lowest angle with respect to the incident beam:
+W) orange 
+X) indigo
+Y) green
+Z) blue
+
+----
+num: 4
+category: Math
+difficulty: HS
+answer: Y)  the Circumcircle of a Regular Polygon Is the Circle That 
+Passes Through at Least One Vertex
+
+Which of the following is NOT true:
+W) all central angles in a regular polygon are equal
+X) irregular polygons are not considered to have centers and have no central angle s
+Y) the circumcircle of a regular polygon is the circle that passes through at least one vertex
+Z) all regular polygons are convex
+
+----
+num: 5
+category: Earth Science
+difficulty: HS
+answer: Z)  Western
+
+Because of Earth’s rotation and shape, ocean currents are intensified along which of the following borders o f all oceans:
+W) northern
+X) southern
+Y) eastern
+Z) western
+
+----
+num: 5
+category: Earth Science
+difficulty: HS
+answer: X)  Oceanic Trench
+
+Which of the following is NOT generally characteristic of a passive continental margin:
+W) relatively wide continental shel f
+X) oceanic trench
+Y) terrigenous sediment
+Z) continental rise
+
+----
+num: 6
+category: General Science
+difficulty: HS
+answer: W)  Jellyfish
+
+The sea nettle is the Bering Sea’s most common:
+W) jellyfish
+X) crab
+Y) sea urchin
+Z) walleye pollock
+
+----
+num: 6
+category: General Science
+difficulty: HS
+answer: X)  449
+
+1 cubic foot per second equals approximately how many gallons per minutes:
+W) 256
+X) 449
+Y) 646
+Z) 724
+
+----
+num: 8
+category: Chemistry
+difficulty: HS
+answer: Y)  Equivalence Point
+(Solution: End Point Is the Observed End of a Titration)
+
+Which of the following is the theore tical end of a titration:
+W) end point
+X) indicator point
+Y) equivalence point
+Z) standardization point
+
+----
+num: 9
+category: Biology
+difficulty: HS
+answer: X)  Complement System
+
+Which of the following is a group of about 20 proteins that aid in the attraction and phagocytosis of microorganisms by macrophages:
+W) alpha interferons 
+X) complement system
+Y) TNF
+Z) hemopoietins
+
+----
+num: 12
+category: Earth Science
+difficulty: HS
+answer: X)  15º to 30º
+
+Many of the driest locales on Earth are situated betw een which of the following latitudes:
+W) 0º to 15º
+X) 15º to 30º
+Y) 30º to 45º
+Z) 45º to 60º
+
+----
+num: 12
+category: Earth Science
+difficulty: HS
+answer: Y)  Its Texture Consists of Rounded Pebbles, Cobbles and 
+Boulders
+(Solution: Constituent C Lasts Are Angular)
+
+Which of the following is NOT true of breccia rock:
+W) it is sedimentary
+X) its color is variable
+Y) its texture consists of rounded pebbles, cobbles and boulders
+Z) fragments may be any type of igneous, metamorphic, or sedimentary rocks
+
+----
+num: 13
+category: General Science
+difficulty: HS
+answer: Z)  90
+
+In the northern hemisphere, which of the following degrees latitude would experience a length of day of 6 months:
+W) 0
+X) 30
+Y) 60
+Z) 90
+
+----
+num: 13
+category: General Science
+difficulty: HS
+answer: Z)  Perlite
+(Solution: It Is Easily Reduced to Smaller Pieces With Little Effort)
+
+Which of the following is a substance that is generally considered friable:
+W) concrete
+X) topaz
+Y) quartz
+Z) perlite
+
+----
+num: 14
+category: Astronomy
+difficulty: HS
+seen: 1
+answer: W)  Doppler Shift
+
+Of which of the following is the Hubble Law most directly a consequence:
+W) Doppler shift
+X) Kirchoff’s second law
+Y) Kepler’s second law
+Z) Drake’s equation
+
+----
+num: 15
+category: Chemistry
+difficulty: HS
+answer: Y)  the Density of the Gas
+
+A sample of gas is heated from 300K to 500K. If the container is sealed and of fixed volume, which of the following will remain cons tant:
+W) the average kinetic energy of the gas molecules
+X) the average speed of the gas molecules
+Y) the density of the gas
+Z) the pressure of the gas
+
+----
+num: 15
+category: Chemistry
+difficulty: HS
+answer: W)  O^2–
+(Solution: O^2–^ Has Configuration of Neon)
+
+Which of the followin g does NOT have the electron configuration of argon:
+W) O^2–
+X) Cl–
+Y) S^2–^
+Z) K +
+
+----
+num: 17
+category: Physics
+difficulty: HS
+answer: W)   Melting Point and Boiling Point of Water
+
+Which of the following are the most important calibration references that Celsius used to devise his temperature scale:
+W) melting point and boiling point of water
+X) ice-point and freeze -thaw point of water
+Y) specific gravity of water
+Z) boiling point and steam point of water
+
+----
+num: 19
+category: Earth Science
+difficulty: HS
+answer: W)  the Area Was Once Underwater
+
+When geologists find pillow basalts in ancient rock sequences, which of the following BEST explains their presence:
+W) the area was once underwater
+X) volcanic bombs and lapilli landed on snow or ice and quickly co oled
+Y) they hardened in mid -air, sometimes forming a tear -drop shape
+Z) nearby volcanoes erupted enormous quantities of ash
+
+----
+num: 20
+category: General Science
+difficulty: HS
+answer: Y)  Changing
+
+Which of the following is closest to the meaning of the suffix ‘tropic’ (read as: troh-PIK):
+W) hot
+X) wet
+Y) changing
+Z) under
+
+----
+num: 20
+category: General Science
+difficulty: HS
+answer: X)  in Very Deep Ocean Hydrothermal Vents Along the Mid-
+Atlantic Ridge
+
+In which of the following locations has water at its highest temperature ever been recorded in nature:
+W) within gullies on Venus
+X) in very deep ocean hydrothermal vents along the mid -Atlantic ridge
+Y) at the bottom of Yellowstone Lake in Yellowstone National Park
+Z) within volcanic vents high atop Hawaii’s Kilauea volcano

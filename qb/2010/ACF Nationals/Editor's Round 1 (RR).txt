@@ -1,0 +1,234 @@
+####
+tournament: ACF Nationals
+round: Editor's Round 1 (RR).docx
+year: 2010
+####
+
+num: 1
+category: Science
+difficulty: Open
+fixed: None
+seen: 57
+answer: {curvature} (accept “{sectional curvature}” before the word “{sectional}”)
+
+The Cartan-Hadamard theorem says that the universal cover of a manifold where this is nonpositive is diffeomorphic to Euclidean space; more precisely, it requires that all the sectional ones are nonpositive. For a connection on a principal bundle, viewed as a gauge field, it is the field strength two-form. For a torus, it is intrinsically zero, but there can be an extrinsic one from the embedding in a Euclidean space. A surface's Euler characteristic is related by the Gauss-Bonnet theorem to the integral of the Gaussian form of it over the surface. The Riemann tensor is one measure of it. For the sphere, it is positive, while for a saddle, it is negative. For 10 points, what is this quantity, measuring an obstruction to mapping a space isometrically onto flat Euclidean space?
+
+----
+num: 2
+category: History
+difficulty: Open
+fixed: None
+seen: 82
+answer: {Alfred Mossman Landon}
+
+The story of this man is told in the book Deeds Not Deficits by Richard Fowler, which contains a forward by the journalist whose career was backed by this politician, William Allen White. This man delivered a lecture entitled “New Challenges in International Relations” as the first in a series now named after him. He narrowly defeated Harry Woodring in one election during which he gained the nickname “the Fox,” but he's better remembered for a candidacy which led him to be the target of the joke “As Maine goes, so goes Vermont” - since those were the only two states he won. This former governor of  lost that election running alongside Frank Knox, and his poor showing led his party to replace him four years later with Wendell Willkie. For 10 points, name this Republican who badly lost to FDR in 1936.
+
+----
+num: 3
+category: Social Science
+difficulty: Open
+fixed: 1
+seen: 37
+answer: Thomas {Malthus}
+
+In one work, this thinker wrote that “the proper office of benevolence is to soften the partial evils arising from self-love, but it can never be substituted in its place.” He called for less reliance on foreign politics in The Grounds of an Opinion, while another work defines a certain concept as “the reward of present valour and wisdom as well as of past strength.” Elsewhere, he argued that “moral restraint” is the only feasible “preventative check,” but will not succeed without universal suffrage and education. This author of Inquiry into the Nature and Progress of Rent used that work to present some “Remarks on the Speculations of Mr. Godwin, Condorcet, and Other Writers,” arguing that means of subsistence increase by an arithmetic ratio doomed to lag behind the geometric ratio of population increase. For 10 points, name this British classical economist who wrote Essay on the Principal of Population.
+
+----
+num: 4
+category: Literature
+difficulty: Open
+fixed: None
+seen: 34
+answer: {Memories} of {My Melancholy Whores} or {Memoria} de {Mis Putas Tristes}
+
+A scene in this work involves the discovery of dead, naked banker named J.M.B. and a character's mistaken belief about the lengths to which his longtime friend would go to cover it up.  Its main character pens an article ruminating on the need to put pets to sleep after he is told by his maid, Damiana, that his cat has become uncontrollable.  Although its protagonist was once engaged to a woman named Ximena Ortiz, she leaves him after he spends one last night in the Barrio Chino. Set in the town of La Paz, its narrator, a newspaper critic, once boastful of his status as two time client of the year in the city's red light district, ends up falling in love for the first time with a girl 76 years younger than him at Rosa Cabarcas' brothel.  For 10 points, identify this 2004 novella about a 90 year old writer's love for Delgadina, a work by Gabriel Garcia Marquez.
+
+----
+num: 5
+category: Literature
+difficulty: Open
+fixed: None
+seen: 36
+answer: {Pather Panchali} (or The {Song} of the {Little Road} or The {Lament} of the {Path})
+
+After seeing a 15 to 20 minute silent rough cut of this film John Huston recommended it for release in the U.S. Initially filming took place only on Sunday's due to the director's job at an ad agency, though this changed during this work's three year production. In the final climactic scene the mother's weeping is emphasized by the high notes of the tarshahnai and follows the return of her husband. Happier scenes include the family's two children following the sweet seller through their town and their running through a flower field while chasing a train. The elderly Indir's death is assumed to be inevitable, but the death of Sarabjaya and Harihar's daughter causes them to leave their village by the end of this film, the first of a trilogy.  For 10 points, name this work which introduced the young Bengali boy Apu, the first film by Satyajit Ray.
+
+----
+num: 6
+category: Philosophy
+difficulty: Open
+fixed: None
+seen: 43
+answer: {Meditations} on First {Philosophy}
+
+This work's Preface claims inspiration from Apollonius and Pappus' geometry in its method of exigesis.  Its final section dismisses the efficacy of a particular counterargument based on the notion that man, at times, knows not whether he is asleep or awake, by noting that one's memory never joins dreams to the other actions of life.  That discussion is preceded by the author's argument for “extension” as an essential property, which cites the example of a ball of wax that melts and changes shape but remains the same substance.  Dedicated to “the deans and doctors of the faculty of sacred theology in Paris,” its fourth section argues all that we perceive is true, while the fifth section offers a “new proof” for the existence of God.  For 10 points, identify this essay which responded to the queries prompted by its author's previous piece, Discourse on Method, a work by Rene Descartes.
+
+----
+num: 7
+category: Science
+difficulty: Open
+fixed: 57
+seen: 56
+answer: {black hole} [accept {Schwarzschild} until the word “{chiral}”]
+
+A double analytic continuation of this type of solution reveals the "bubble of nothing" instability of the Kaluza-Klein vacuum, as discovered by Edward Witten. Recently, a correspondence between a chiral half of a two-dimensional conformal field theory and those of extremal Kerr type has been suggested. Above a minimum temperature, anti de Sitter space has a phase transition to a space containing one of these, as shown by Page and Hawking. They have entropy proportional to their area, and a temperature proportional to their surface gravity. Supermassive ones lie at the center of most or all galaxies. For 10 points, what are these objects in general relativity, discovered originally by Karl Schwarzschild, from which light does not escape?
+
+----
+num: 7
+category: Science
+difficulty: Open
+fixed: 57
+seen: 57
+answer: {black hole} [accept {Schwarzschild} until the word “{chiral}”]
+
+A double analytic continuation of this type of solution reveals the "bubble of nothing" instability of the Kaluza-Klein vacuum, as discovered by Edward Witten. Recently, a correspondence between a chiral half of a two-dimensional conformal field theory and those of extremal Kerr type has been suggested. Above a minimum temperature, anti de Sitter space has a phase transition to a space containing one of these, as shown by Page and Hawking. They have entropy proportional to their area, and a temperature proportional to their surface gravity. Supermassive ones lie at the center of most or all galaxies. For 10 points, what are these objects in general relativity, discovered originally by Karl Schwarzschild, from which light does not escape?
+
+----
+num: 8
+category: Literature
+difficulty: Open
+fixed: None
+seen: 35
+answer: {Right you} are (If {you think you} are) or {Right you} are (if {you think so}) or {Così} è ({se vi pare})
+
+In this work, a footman interrupts one of the main characters talking to himself in the mirror, this is followed by a scene in which a woman's piano playing precipitates an emotional confrontation.  Act 2 opens with a call by the Commissary ascertaining whether any records exist from a village recently left in ruins.  Punctuated throughout by the laughter of Uncle Tino, it opens in a dressing room where a group discusses the peculiar relationship between a young woman who stands on a balcony and an older lady who visits, leaves notes, but never enters the house.  Act 3 begins with Centuri announcing that “there is news,” but that it is not definite, a revelation that disappoints the snooping Counselor Agazzi and his wife.  For 10 points, identify this play that ends with Giulia revealing that she is both Ponza's second wife and Signora Frola's daughter, thereby proving the title point about “truth,” a work by Luigi Pirandello.
+
+----
+num: 9
+category: History
+difficulty: Open
+fixed: 57
+seen: 34
+answer: The {Children's} Crusade
+
+Pieter Raedt's landmark 1977 article questioned many of the accounts of this event. Aubrey of Trois-Fontaines, in mentioning the disaster that befell some of its members in an expedition possibly organized by the merchants William Porcus and Hugh Ferreus, recounted how Gregory IX built a church to honor those who died.  The chronicler Wendover wrote of the large contingent of prostitutes and how one of its leaders claimed to have received a letter to the King of France from a pilgrim who was Jesus. Some of it would end due to orders from Phillip II, while the remainder mostly petered out when seas at Genoa failed to part. After getting suckered into “free transport” at Marseilles, some participants were sold into the Egyptian slave market. Led by Stephen of Cloyes and Nicholas of Cologne and coming in the wake of the Fourth Crusade, for 10 points, name this expedition to the Holy Land led by some youths.
+
+----
+num: 10
+category: Fine Arts
+difficulty: Open
+fixed: None
+seen: 37
+answer: {Holberg Suite} or From {Holberg's Time} or {Fra Holberg's Tid}
+
+The concluding section of this work, in lively double meter, evokes the Provencal compositions popular at the Court of Louis XIV, and was identified as a “Rigaudon” by its composer.  It opens with a restless “Praeludium” that features a skipping motif before it eases into an elegant dance.  The fourth section, which contrasts sharply with the previous “Gavotte,” is marked “Andante Religioso,” and presents an emotional “Air” based on folksongs associated with its titular subject's hometown, the city of Bergen.  Its composer's Opus 40, it was later adapted for string orchestra and it was written in the form of dances contemporary with the namesake author's era.  For 10 points, identify this work for piano which was dedicated to and named for the “father of Danish Literature,” a work by Edvard Grieg.
+
+----
+num: 11
+category: Fine Arts
+difficulty: Open
+fixed: None
+seen: 39
+answer: {St. Sebastian} or {San Sebastiano}
+
+Ana Maria Pacheco's “Studies of” this figure are large scale drawings, whereas her Dark Night of the Soul is a wood sculpture inspired by the Pollaiuolo brothers' sculpture depicting his death. In 1915 Egon Schiele painted a self-portrait of himself as this man, and Bellini created a triptych on his life. Il Sodoma's version of him is the painter's masterpiece, and he was also the subject of six paintings by Anthony van Dyck, some of which replaced his face with van Dyck's. Ribera and de la Tour's depictions of him both feature him being tended to by Irene, whereas Perugino, like many others, painted him “bound to a column.” For 10 points, Andrea Mantegna's portrayals show the typical scene of arrows piercing the body and martyrdom of what Christian saint?
+
+----
+num: 12
+category: Philosophy
+difficulty: Open
+fixed: None
+seen: 39
+answer: {Philip Melanchthon} [accept {Philip Schwartzerd}]
+
+According to one story, Leonard Hutter was so enraged by an authoritative appeal to this man's ideas, that he trampled on this man's portrait.  He championed the concept of the sensus literalis rather than the doctrine of the four senses championed by the Scholastics.  His lectures to visiting Hungarians on Sundays and Feast days were the origin of his namesake “Homilies.”  He opposed the ideas of Karlstadt and argued for a spiritual sense of duty or righteous conscience.  He helped edit The Letters of Obscure Men, a satire against his granduncle Johann Reuchlin's ecclesiastical enemies.  Known by the epithet, Praeceptor Germaniae, his work Common Topics in Theology was an extensive formulation of Protestant doctrine.  In 1530 he attempted to reconcile all Christian belief in a statement presented to Emperor Charles V.  For 10 points, identify this reformer and author of the Augsburg Confession.
+
+----
+num: 14
+category: History
+difficulty: Open
+fixed: None
+seen: 47
+answer: {Amritsar massacre}
+
+Alfred Draper wrote a definitive 1981 history of this event. It was followed by the enforcement of a declaration known as the “Crawling Order” for two weeks before that order was revoked by Chelmsford. The chief perpetrator claimed that it was in response to an attack on Marcia Sherwood, and had the support of Police Superintendent Ploper. Due to the observance of Baisakhi Day, several thousand had gathered in the square known as Jalianwalla Bagh and the subsequent actions would result in the assassination of regional governor Michael O'Dwyer for his role 21 years later. Chaos resulted soon after Sir Reginald Dyer's order to fire resulting in, for 10 points, what incident in which 379 people were killed by British troops in the namesake holy city in northern India in 1919?
+
+----
+num: 15
+category: Literature
+difficulty: Open
+fixed: 57
+seen: 35
+answer: Ben {Jonson}
+
+This author reminisced about his time visiting with William Drummond in “My Picture Left in Scotland” and characterized a Spaniard as having “a Rhinoceroses' nose” in “On Don Surly.”  This author borrowed from Quintilian in advocating for a writer's personal style in the volume Timber; or Discoveries, while another of his works features the line, “Make room for the bouncing belly.” That work, which ends with Daedalus leading some dances, is entitled Pleasure Reconciled to Virtue, and was staged in collaboration with Inigo Jones.  This author's imitation of Horace, Inviting a Friend to Supper, was published alongside the country manor poem “To Penshurst” in a 1616 collection that also featured a piece beginning, “Drink to me only with thine eyes.” For 10 points, identify this author of the “Ode on Cary and Morrison,” “To Celia,” as well as the plays Bartholomew Fair and Volpone.
+
+----
+num: 16
+category: Mythology
+difficulty: Open
+fixed: None
+seen: 117
+answer: {Palug's Cat} (or {Cath Palug}, or any {indication} of a {feline} and {Palug})
+
+In one fragmentary poem, this mythological figure is said to have fractured the shield of Fair Cei. Another source says that this figure was birthed under the Black Stone at Llanfair in Arfon, after the mother of this figure had been chased across the country by Coll ap Collfrewy. That source calls this figure one of the "three great oppressions of Mon" and says that its mother Henwen bore a great womb-burden. The prior poem declares that ninescore warriors fell just to make food for this creature, which now roams the Isle of Anglesey after it had swam across the straits of Menai. For 10 points, name this gigantic “clawing” creature in Welsh mythology, named after the man whose sons adopted it.
+
+----
+num: 17
+category: Geography
+difficulty: Open
+fixed: -1
+seen: 168
+answer: {Penobscot} River
+
+One island in this body of water was once known as Orphan Island because it was inherited by a group of orphaned grandkids – that island was connected to the mainland by the Waldo-Hancock Bridge and is now called Verona. This body of water is the namesake of a military action in which Commodore Dudley Saltonstall and General Solomon Lovell attempted to dislodge the British from the town of  on this river – the chief of artillery Paul Revere was court-martialed as a result of that doomed naval expedition in 1779. It flows into a namesake bay near the town of  after originating near Millinocket in western and eastern branches and passing through the “ of the East.” For 10 points, name this river that flows through Bangor and is the largest river entirely in Maine.
+
+----
+num: 18
+category: History
+difficulty: Open
+fixed: None
+seen: 46
+answer: {Albania} (accept early buzz of {Shiqperia} or {Shiqperise} or {Shiqipnia} before {Shiqperia} is mentioned)
+
+A Kragli, or bandit lord, from Bushat set up a dynasty in this country's north while a Kragli from Tepelen set up a fiefdom controlling the south. Six centuries earlier the state of Arber was established in its north and five centuries earlier, in 1272, Charles of Anjou declared himself its king. In 1878, the League of Prizren established a common alphabet, later fully adopted along with a common language at the Congress of Bitolj. Four years later it had its first modern Mpret, or king, the figurehead prince Wilhelm of Wied, whose brief rule followed its declaration of independence at Vlore. For a long time referred to as “northern Epirus,” its native name is Shiqperia, or “land of the Eagles.” For 10 points, name this country whose longest serving king was Ahemd Zogu or Zog I, and whose longest serving leader was the communist dictator Enver Hoxha.
+
+----
+num: 19
+category: Science
+difficulty: Open
+fixed: None
+seen: 56
+answer: {terpenoids} (accept {terpenes}, accept {isoprenoids} before mention of {isoprene}, after which prompt on it)
+
+CAAX is a recognition motif for an enzyme that adds this type of molecule to Ras and other proteins.  The cyclization of these compounds involves enzymes with an “aspartate-rich” DXXDD motif that produce intermediates like bornyl diphosphate.  Biosynthesis of some of these compounds, such as artemesinin, takes place in specialized secretory structures like glandular trichomes, where a plastidial type of synthesis is employed.  Enzymes important in their production include DXR and HMGR, and these compounds are derived from two isomeric precursors, IPP and DMAPP, which can be generated from either 2-C-methyl-D-erythritol-4-phosphate or mevalonic acid.  Examples of this class of compounds include taxanes and giberellins, as well as squalene, testosterone, and other steroids.  For 10 points, name this class of organic molecules which are made of subunits of isoprene.
+
+----
+num: 20
+category: Literature
+difficulty: Open
+fixed: None
+seen: 37
+answer: “The {Blue Hotel}”
+
+One character in this work repeatedly asks another, “How much do I owe you?”  Earlier that same man is shown a picture of another man's oldest son, Michael, now a successful lawyer living in the State capital.  Section eight is set  at Henry's where a seemingly triumphant character comes in from the snow, buys several rounds of whiskey, and boorishly insists that a group of four other men drink with him.  The ninth and final section ends with Mr. Blanc confessing to Bill that the now dead New Yorker had been right about young Johnnie who'd been accused of cheating at cards.  Set in Fort Romper, Nebraska, it was first collected in its author's volume The Monster and Other Stories.  For 10 points, identify this short story that centers on the murder of the Swede at Pat Scully's title establishment, a work by Stephen Crane.
+
+----
+num: 21
+category: Philosophy
+difficulty: Open
+fixed: None
+seen: 55
+answer: {Chinese Room} Argument (or {Chinese Box} Argument; accept “{Problem}” or “{Experiment}” for “{Argument}”; prompt on things like “{Refutations} of the {Strong AI Hypothesis}” before “Other {Minds}”)
+
+A proposed refutation of this "from a Logical Point of View" by Jack Copeland involves people playing cricket at a gym.  One argument against this asserts that Maxwell's Theory of Electromagnetic Waves cannot be disproved by waving a magnet in front a light bulb and generating no light.  Besides that illumination argument against it by the Churchlands, one argument against it asserts that the entire system accomplishes what this formulation claims to refute.  Other proposed refutations of it include the Other Minds, Many Mansions and Robot Replies.  The title entity is capable of passing the Turing Test, and its formulator argued against the notion of Strong AI.  For 10 points, identify this thought experiment asserting that a man given rules to manipulate characters is not truly understanding the namesake language, which was proposed by John Searle.
+
+----
+num: 22
+category: History
+difficulty: Open
+fixed: None
+seen: 48
+answer: War of the {Grand} (or {Nine Years}' War or War of the {League} of or War of the {Palatinate Succession})
+
+One battle in this conflict gave its name to a popular neckcloth with lace ends twisted in front of a coat and pulled through its buttonhole, known as the Steinkirk. In another theater of this conflict, battles at Marsiglia and Staffarda provided victories for Nicolas Catinat and marginalized a heroic stand by the residents of . The successful sieges of , , and  helped one side overcome crushing naval defeat at the Battle of La Hogue. The Earl of Portland was sent to negotiate peace with Marshal Boufflers, resulting in the surrender of  by  in the Treaty of Ryswick, which also recognized William III of  as king. For 10 points, identify this war fought from 1688 to 1697, in which Louis XIV was opposed by the namesake coalition.
+
+----
+num: 23
+category: Literature
+difficulty: Open
+fixed: None
+seen: 35
+answer: The {Arabian Nights}' {Entertainments} [or The One {Thousand} and One {Nights}; or The Book of The {Thousand Nights} and One {Night}; or {Alf Laylah wa Laylah}]
+
+In one section of this book, a husband confesses that he murdered his wife because he saw a slave carrying one of the three apples he bought for her, after a fisherman discovers her body chopped into pieces in a chest. In some translations, this book ends with the story of Jullanar of the Sea. In another section of this work, a little hunchback chokes to death on a piece of fish provided by a tailor, resulting in a Jewish physician, a Muslim purveyor, and a Christian merchant all claiming responsibility for the hunchback's death, before that hunchback is restored to life by a barber. Many stories in this book focus on Ja'far ibn Yahya and the caliph Haroun al-Rashid. For 10 points, name this book translated into English by Richard Burton, whose frame narrative consists of King Shahryar listening to the stories told by Scheherezade.

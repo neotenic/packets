@@ -1,0 +1,194 @@
+####
+tournament: Harvard International
+round: Round 10.doc
+year: 2010
+####
+
+num: 1
+category: Geography
+difficulty: College
+fixed: 57
+seen: 127
+answer: {Glacier} National Park [do not accept “{Glacier Bay National Park}”]
+
+This national park is home to Bird Woman Falls, and the completion of the Great Northern Railway through the Marias Pass opened this national park to the public. This park is home to the Chief Mountain overthrust and the highest peak in this park is Mount Cleveland, and important lakes in this park include MacDonald and St. Mary's. This park's central road contains a snow bank called the Big Drift and passes through Logan Pass and is called Going-to-the-Sun Road, and some of this park's namesake features include the Blackfoot, Agassiz, and Grinnell. Bordering Alberta's Waterton Lakes National Park, for 10 points, identify this National Park located in Montana which is named for its icy, slow-moving features.
+
+----
+num: 2
+category: Science
+difficulty: College
+fixed: 1
+seen: 83
+answer: {viscosity}
+
+This quantity is given by the Vogel-Fulcher-Tammann equation near the glass transition temperature. This quantity is given as lambda times T to the three-halves over T plus Sutherland's constant in one model. Dashpots are combined with springs to model systems for which its contributions matter at the same conditions as elasticity, such as the Kelvin-Voigt model, which accurately measures polymer creep. It decreases following the sustained application of sheer stress for thixotropic materials. The contributions of this quantity is negligible when the Euler equations apply and when the Reynolds number is large. This quantity is constant for Newtonian fluids. For 10 points, name this quantity, which is zero for superfluids.
+
+----
+num: 3
+category: Literature
+difficulty: College
+fixed: None
+seen: 63
+answer: The Three {Sisters} [accept {Tri Sestry}]
+
+One character in this play believes that subsequent generations grow more beautiful and noted, “in two or three hundred years...the whole past will seem clumsy and dull, very uncomfortable, and strange.” A door-keeper tells a story of a man who ate forty or fifty pancakes and then died. A doctor in this work smashes a clock because he gets drunk and is unable to practice, and another character constantly puts perfume on his finger-tips because they smell like corpses. One character is fascinated with a spinning top given as a gift by Fedotik. Characters in this work include Ferapont and the old nurse Anfisa. In the final act a school teacher puts on a fake beard and moustache that he confiscated from a student to cheer up his wife, who is heartbroken because her lover Vershinin is leaving town. At the end of this play one character learns that Solony has killed her fiancé Baron Tuzenbach in a duel, while Natasha carries on an affair with Protopopov after marrying Andrei Prozorov. For 10 points, identify this play by Anton Chekhov whose title characters are Olga, Masha, and Irina.
+
+----
+num: 4
+category: Religion
+difficulty: College
+fixed: None
+seen: 108
+answer: {Tosefta} or {Tosefata}
+
+According to legend, on the day that one of the traditional authors of this text died, a large palm tree was uprooted and fell down, while another traditional author of this text was said to be great for being able to say “I don't know”. Abot, Kinnim, Middot, and Tamid are the four masechtot or tractates missing from this text. This text is traditionally attributed to either Oshaya or Hiyya bar Abba. The baraitot in this text are more varied and less concise than those in its more notable companion text. With a name meaning “appendix”, name this secondary collection of Jewish oral law that supplements the Mishnah. 
+
+----
+num: 5
+category: Fine Arts
+difficulty: College
+fixed: None
+seen: 70
+answer: {Giambologna} (accept {Giovanni da Bologna} or {Jean Boulogne})
+
+This artist designed an artificial cave called the “Animal Grotto” filled with many bas-reliefs depicting beasts for the Villa di Castello. This man carved a giant crouching man whose exterior is covered in limestone for the gardens of the Villa di Pratolino. This artist of the Appennino designed the bronze St. Ranieri's Doors for the Cathedral of Pisa and featured lactating Nereids in the Fountain of Neptune. This artist exemplified his famous ideal of beauty in Venus of Urania and the Cesarini Venus. He remarkably carved three figures stacked on top of each other featuring a man ducking under a soldier who lifts a woman into the air in his depiction of The Rape of the Sabine Women. This sculptor best known work features a figure pointing upwards with his right index finger while standing above a cloud and holding a caduceus. For 10 points, name this Italian Mannerist sculptor who created The Flying Mercury.
+
+----
+num: 6
+category: Trash
+difficulty: College
+fixed: 57
+seen: 186
+answer: {Wonder} Bread
+
+This product was first introduced by the Taggert Company, which also ran a bank in Indianapolis. The credit for inventing this product is usually given to Elmer Cline. The makers of this product sponsored the TV show Howdy Doody, whose host often told the audience that this product builds strong bodies in 8 ways, a reference to the minerals and nutrients added to this product during the 1940's, which helped decrease pellagra. This product notably has no holes, because it is made from batter and not dough. The first product of its kind to come pre-sliced, for ten points name this brand of white bread, whose packaging features red, yellow, and blue balloons.
+
+----
+num: 7
+category: Mythology
+difficulty: College
+fixed: None
+seen: 110
+answer: {Yama}
+
+In one story, this figure doesn't approach a man yelling “bring the booty” and “beat them up,” because he confuses the first phrase for a prayer to Shiva, and servants of this figure got into a quarrel with Vishnu over Ajamila, who had a son named Narayana. This figure was kicked to death after pulling the faithful Markandeya away from his lingam, and this figure was part of the first pair of humans according to the Vedas. This deity's twin sister was the goddess of the Yamuna River, and this owner of two four-eyed dogs was aided by Chitragupta, who read from his records called the Agrasamdhana. This deity represents south on a compass, and this figure's steed is a water buffalo, which he rides carrying a rope and a mace. He lives in a palace called Kalichi in a realm called Naraka, and according to the Vedas this figure gained his position by being the first mortal to die. For 10 points, name this Hindu god of death.
+
+----
+num: 8
+category: Science
+difficulty: College
+fixed: None
+seen: 82
+answer: {variational principle} [or {variational} method]
+
+The typical form of this method that is used for nuclear processes cannot account for two-body problems without the developments of Balian and Vénéroni. Kato found a better bound for energies given using this technique. This method can require the use of a secular determinant whose terms are combinations of the overlap and Hamiltonian matrix elements. Basis sets used in conjunction with an extension of the simplest form of this method, whose Ritz type uses only linear combinations of functions, are often denoted “double-zeta” and are marked with two asterisks if d and f orbitals are included to account for polarization. Gaunt and Slater showed that the Hartree-Fock method should begin with an invocation of this sort of technique. Parameters optimized according to this statement typically include the linear and exponential coefficients of Gaussians and of Slater-type orbitals, which form a trial wavefunction. For 10 points, name this statement that the exact wavefunction minimizes a certain expression for its corresponding energy.
+
+----
+num: 9
+category: Literature
+difficulty: College
+fixed: None
+seen: 61
+answer: {Aethiopica} [accept {Ethiopian History} or equivalents]
+
+At the end of this novel, an embassy presents a giraffe which causes a bull to run wild before a wrestling match. One character in this work is an old woman who impales herself on a spear while trying to attack a priest of Isis. That character manipulates Peloros after sailing away with merchants from Tyre and is named Calasiris. This work opens with the two central characters captured and taken to the village of Herdsmen where they are questioned by Knemon, and the figure Thyamis incorrectly interprets a dream about having a wife and abducts one of the central characters. The central character of this work has white skin because her mother looked upon a marble statue before her birth, and that character's mother Persinna gives her away to Sisimithras, who takes her to Egypt where she becomes a priestess. Ultimately, Chariclea is rescued from sacrifice and is united with Theagenes at Meroe. For 10 points, identify this ancient Greek romance by Heliodorus, which is set in the title African location.
+
+----
+num: 10
+category: Fine Arts
+difficulty: College
+fixed: None
+seen: 73
+answer: The {Large Bathers} (accept {Les Grandes Baigneuses}; accept The {Bathers})
+
+The trees appearing in this painting were influenced by a print the artist saw of Titian's Diana and Actaeon. In a Freudian analysis of this painting's artist, T. J. Clark used the term “double figure” to describe a character on the right side of this painting whose shoulders are indistinguishable from the buttocks of a woman standing above her. This work in the Philadelphia Museum of Art is often compared to a painting on the same theme in the Barnes Collection. Two groups of diagonally pointed trees form a triangle that frames the central scene where one lone person is seen swimming in the water. This painting features thirteen figures on the shore whose skin tones are washed out because the artist left the work unfinished at his death in 1906 after finishing many paintings of Mt. Saint-Victoire. For 10 points, name this painting showing the titular group of nude women relaxing around a pond, by Paul Cezanne.
+
+----
+num: 12
+category: History
+difficulty: College
+fixed: 57
+seen: 71
+answer: {Elizabeth} I of England
+
+During this monarch's reign, the Dutchman Guilliam Boonen introduced the spring-suspension couch to England. Also during this monarch's reign, Parliament passed the Statute of Artificers, which abolished the power of gilds. This monarch signed the Treaty of Nonsuch with the Netherlands. Rebellions against this ruler include the Desmond Rebellions in Ireland and the Northern Rebellion by English Catholics. Francis Walsingham discovered the Throckmorton and Babington plots against this ruler, who knighted Sir Francis Drake. For ten points, name this last Tudor monarch of England, nicknamed the “Virgin Queen.”
+
+----
+num: 13
+category: Trash
+difficulty: College
+fixed: 57
+seen: 190
+answer: University of {Georgia} [accept: {UGA}; “{Bulldogs}” before mention]
+
+This school won the 1967 Cotton Bowl over SMU and won a share of the national title in 1968. This school's current offensive coordinator is Mike Bobo, and its most recent bowl loss came to West Virginia in 2006. In 1980, this school's football team preserved its perfect season when quarterback Buck Belue threw to Lindsay Scott, who made a 75-yard last-second run to the endzone. This school has rivalries nicknamed “Clean, Old-Fashioned Hate” and “World's Largest Outdoor Cocktail Party”. PETA recently suggested replacing this team's mascot, Uga the Bulldog, with a robot. For ten points, name this SEC team from the Peach Tree State.
+
+----
+num: 14
+category: Literature
+difficulty: College
+fixed: None
+seen: 61
+answer: {Vile Bodies}
+
+In this novel Mr. Isaacs produces a historical film titled A Brand from the Burning in which John Wesley and George Whitefield duel over the affection of Countess Selina played by Effie La Touche. The protagonist of this novel invents people such as the Polish sculptor Provna and the society lady Imogen Quest, while later he tries to find a major who owes him 35,000 pounds because he had accidentally given the major 1,000 pounds to bet on a horse named Indian Runner who ended up winning the race. Divine Discontent and Chastity are in a band of girls who dress up as “angels” while accompanying the evangelist Mrs. Ape in this book, while Agatha Runcible is put in a nursing home after injuring herself while filling in as a spare driver during a car race. The protagonist of this novel loses his job at The Daily Excess newspaper writing a gossip column called “Mr. Chatterbox” to Miles Malpractice and he ultimately never marries his fiancée Nina Blount. Featuring some of the same characters as its author's first novel Decline and Fall, for 10 points, name this novel about Adam Fenwick-Symes, written by Evelyn Waugh.
+
+----
+num: 15
+category: Philosophy
+difficulty: College
+fixed: None
+seen: 54
+answer: The {Trauma} of {Birth}
+
+This work demonstrates in one chapter how the Cora-Indians associate the stars with the underworld and logically conclude the sky is a place of fertility before describing how Brahmins spend three days taking a posture related to the title event. A subsequent discussion of the softening inherent to aesthetic treatment, as in Lucas Cranach's Crucifixion, expands on representations of the central “concept of punishment.” Besides those chapters on “Religious Sublimation” and “Artistic Idealization,” this work examines the anxiety of a child left in a dark room, and attempts to use similar explanations of fear of animals. It catalyzed a separation with Freud by claiming the existence of a pre-Oedipal stage, and sought to claim that the titular event was the source of all anxieties. For 10 points, identify this work of Otto Rank, which argues that neuroses all stem from the titular phenomenon, a seminal work of perinatal psychology.
+
+----
+num: 16
+category: History
+difficulty: College
+fixed: 57
+seen: 70
+answer: {Narses}
+
+This commander laid low the Franks at the Battle of Casilinum. He slew King Teias of the Goths at the Siege of Mons Lactarius. This member of the Kamsarakan noble family traced his heritage to the Arsacid Dynasty of his native Armenia. At the Battle of Taginae, this man defeated King Totila of the Ostrogoths and reclaimed Rome for his master. During one uprising, this commander was sent to bribe the Blue faction into abandoning the pretender Hypatius, allowing for the crushing of the Nika Riots. For ten points, name this Byzantine eunuch who served Justinian as a general and was the great rival of Belisarius.
+
+----
+num: 17
+category: Science
+difficulty: College
+fixed: None
+seen: 80
+answer: {crystal growth} [or {crystallization}; or equivalents like making synthetic {crystals}; accept anything that is {too specific} for “{crystal}”, {e.g.}, {making synthetic diamonds} or {making silicon}]
+
+One method of performing this process uses a reflaxicon to convert a laser beam into a uniform hollow cylinder and can use a rotating platinum wire, and a more conventional method, unable to sustain the same pulling rate, involves passing a high-frequency current through a copper coil used to heat an iridium crucible and is named after Czochralski. Chemical vapor deposition is a variety of the “vapor-phase” form of another method for doing this; the “homo-“ form of that method involves a substrate of the same chemical composition as the desired result. That method, epitaxy, involves performing this process in a layer-by-layer fashion. Flame fusion, or the Verneuil process, was the precursor for modern methods of doing this and was used to make the first synthetic gemstones. This process is typically preceded by nucleation, and it starts with the formation of a seed. For 10 points, name this process of making well-ordered solid materials.
+
+----
+num: 18
+category: Literature
+difficulty: College
+fixed: None
+seen: 58
+answer: “I {Sing} the Body {Electric}”
+
+One section of this poem asks, “How do you know who shall come from the offspring of his offspring through the centuries,” after mentioning “the same red-running blood” which “swells and jets a heart.” One line from this poem mentions “dull-faced immigrants” and notes that everyone is part of a procession, and “the universe is a procession with measured and perfect motion.” Another section of this poem ends, “pause, listen, count” after noting the “bent head, the curv'd neck, and the counting” in a part which discusses firemen who march in their own costumes and a swimmer who goes through the “transparent green-shine.” Another section of this poem notes the “immeasurable meaning” of the black eyes of a “common farmer,” who is eighty years old and has five handsome sons. That section ends with the hope, “that you and he might touch each other.” This poem from the “Children of Adam” series ends with the line, “O I say now these are the soul,” after discussing reproductive systems and launching into a catalogue of body parts. Containing the line, “and if the body were not the soul, what is the soul?” for 10 points, identify this poem by Walt Whitman that praises the human form.
+
+----
+num: 19
+category: Philosophy
+difficulty: College
+fixed: None
+seen: 53
+answer: {Philosophy} and the {Mirror} of {Nature}
+
+In this work's last chapter, the author cites Karl-Otto Apel's comparison of Wittgenstein and Heidegger's questioning of metaphysics and considers the difference between mainstream and peripheral thinkers in contrasting “systematic” and “edifying” forms of the first title entity. In a section on psychology, this work cites the confusion between causation and inference in cognitive psychology contra Fodor. This work contrasts Sellars's criticism of the idea of givenness with Quine's criticism of the structure-content distinction, claiming that a premise of both arguments is that knowledge is “a matter of conversation and of social practice.” The author of this work describes his position as “epistemological behaviorism.” For 10 points, name this attack on representationalism and “truth as correspondence” that called epistemological questions about the accuracy of the title reflector of reality unanswerable and irrelevant to social theory, a work by Richard Rorty.
+
+----
+num: 20
+category: History
+difficulty: College
+fixed: None
+seen: 67
+answer: {Minamoto} Clan [accept {Seiwa Genji} before mention]
+
+A general from this clan was defeated at the Battle of Sunomatagawa. One leader of this clan was assisted by the monk Benkei, whom he had earlier defeated in a duel. One leader of this clan committed suicide after his destruction of a bridge failed to prevent the enemy from seizing a temple at Uji. This clan claimed descent from Emperor Seiwa, leading them also being called the Genji. This clan was eventually forced to grant the title of shikken, or regent, to members of the Hojo clan. Earlier, this clan was supported by Emperor Go-Shirakawa and had established the first bakufu by winning the Battle of Dan-no-ura. For ten points, name this clan that won the Gempei war, in which they defeated the rival Taira clan.

@@ -1,0 +1,214 @@
+####
+tournament: Fall Novice
+round: Packet 13.doc
+year: 2010
+####
+
+num: 1
+category: Mythology
+difficulty: HS
+fixed: 1
+seen: 794
+answer: Phoebus {Apollo} [do not accept “{Helios}” at any point]
+
+This god flayed Marsyas alive after losing a contest. The Cumaean Sibyl got her powers from this god who killed the sons of Niobe, and the site where this deity destroyed the Python was inhabited by the oracle at Delphi. This father of Asclepius was rejected by a nymph who turned into a laurel tree, Daphne, and was known for firing plague arrows in The Iliad and mastering the lyre. For 10 points, name this twin brother of Artemis, a god of oracles, music, and the sun.
+
+----
+num: 2
+category: Science
+difficulty: HS
+fixed: 57
+seen: 488
+answer: {triangle}
+
+Ceva's theorem gives the condition for the concurrency of certain lines in this polygon. The sides of this polygon divided by sines of the angle opposite them are equal to each other according to the law of sines. The medians of this polygon form the centroid, and Heron's formula can be used to find the area of this polygon. The right form of this polygon obeys the Pythagorean Theorem. For 10 points, name this polygon with three sides.
+
+----
+num: 3
+category: Philosophy
+difficulty: HS
+fixed: 1
+seen: 528
+answer: John {Locke}
+
+This philosopher oddly denounced atheists in A Letter Concerning Toleration, and his work Some Thoughts Concerning Education claimed humans are born without innate ideas, a concept that he called tabula rasa. Another of this empiricist's works describes a good state of nature featuring rights to “life, liberty, and property.” For 10 points, name this English philosopher who authored Two Treatises of Government and An Essay Concerning Human Understanding.
+
+----
+num: 4
+category: Science
+difficulty: HS
+fixed: 57
+seen: 488
+answer: {energy} [do not prompt on any {more specific} answers {than} that]
+
+The sum of two types of this quantity is given by the Hamiltonian and its “internal” type is symbolized U. Reactions are spontaneous when there is a negative value for a “free” type named for Gibbs. One type is given by negative big G mass 1 mass 2 all divided by radius, or by mgh. ATP is a source of this in cells, and another type has the formula one-half mass velocity squared. For 10 points, name this quantity measured in joules, which has kinetic and potential types.
+
+----
+num: 5
+category: Fine Arts
+difficulty: HS
+fixed: 57
+seen: 492
+answer: Franz {Liszt}
+
+This composer wrote a piece based on the Dies Irae melody, titled Totentanz. A three-section symphony by this man was inspired by a famous Goethe work. This man wrote a collection of pieces in which he utilized the gypsy scale from his native country, and he composed twelve exercises for solo piano that he entitled Transcendental Etudes. For 10 points, name this composer of the Faust Symphony and Hungarian Rhapsodies.
+
+----
+num: 6
+category: History
+difficulty: HS
+fixed: 1
+seen: 414
+answer: Paul von {Hindenburg}
+
+Preceded in one office by Friedrich Ebert, he had been retired for four years before Moltke the Younger recalled him. In command of the Eighth Army he won at Masurian Lakes, and earlier at Tannenberg with Erich Ludendorff. Elected President of Germany in 1925, he appointed Adolf Hitler as Chancellor, and a craft named for him was intended to land in Lakehurst, New Jersey. For 10 points, identify the namesake of a zeppelin that crashed and burned in 1937.
+
+----
+num: 7
+category: Fine Arts
+difficulty: HS
+fixed: 57
+seen: 494
+answer: Sandro {Botticelli} [or Alessandro di Mariano di Vanni Filipepi]
+
+Two satyrs grab hold of a lance near two reclining figures in this Man's Venus and Mars. Poliziano verses inspired one of his works which includes a ghostly figure grabbing at a nymph, while Mercury reaches up to grab a fruit; that work is also known as The Allegory of Spring. Another work includes flowers midair and Zypherus grabs Chloris as the titular figure stands upon a seashell. For 10 points, identify this painter of Primavera and the Birth of Venus.
+
+----
+num: 8
+category: Social Science
+difficulty: HS
+fixed: 1
+seen: 379
+answer: {chimpanzees} [accept {Pan troglodytes;} prompt “{monkeys}” or {“primates”} until read]
+
+One of these named Enos went into space, and other scientific examples of these animals include Washoe and Nim, namesakes of animal language acquisition studies. Another researcher of these creatures named one “David Graybeard” after going to Gombe Valley, Tanzania to document social patterns among these members of genus Pan. Investigated by Jane Goodall, for 10 points, name these large-eared primates often studied due to their brain power and similarity to humans.
+
+----
+num: 9
+category: Religion
+difficulty: HS
+fixed: 57
+seen: 448
+answer: Rastafarianism
+
+Branches of this religion, referred to as “mansions”, include Bobo Shanti and Niyabinghi, and this non-Jewish religion forbids eating shellfish in the I-tal dietary code. “Groundations” are holy days in this religion which also involves “reasoning” ceremonies. Haile Selassie is an incarnation of Jah, or God, in this religion which believes Mount Zion to be in Ethiopia.  For 10 points, name this Jamaican religion whose members smoke ritual “ganja” and wear their hair in dreadlocks.
+
+----
+num: 10
+category: History
+difficulty: HS
+fixed: 1
+seen: 421
+answer: United States Presidential election of {1992} [prompt “Bush-Clinton election” or “Bush-Clinton-Perot election” until “Ross Perot” is read]
+
+One vice presidential aspirant in this election began a debate saying “Who am I? Why am I here?” One candidate defeated Jerry Brown in primaries and used the slogan “It's the economy, stupid!” 19 percent of its popular vote went to third-party billionaire Ross Perot, while the Whitewater affair and adultery accusations harmed its winner. For 10 points, give the year of the election in which incumbent George H.W. Bush lost to the Democratic candidate, Bill Clinton.
+
+----
+num: 11
+category: Science
+difficulty: HS
+fixed: 57
+seen: 483
+answer: {antibodies} [accept {immunoglobins} until mentioned]
+
+These molecules' variable regions use induced fit to bind to epitopes. Human types of them include E, involved in allergic reactions, and M, a pentamer produced in response to mismatched blood transfusions. Autoimmune diseases occur when they mistakenly attack self, rather than foreign, molecules. They are produced by B cells and are also known as immunoglobins. For 10 points, name these proteins in the immune system that defend against antigens.
+
+----
+num: 12
+category: Literature
+difficulty: HS
+fixed: 1
+seen: 445
+answer: Beowulf
+
+This man listens to a poem in which Finn kills Hengest being sung by the Shaper and Unferth has misgivings about a swimming race between this man and Breca. This figure defeats Ongentheow and  Wiglaf is the only character to help this man when he fights a dragon. This man's most famous exploits are saving  Heorot from a descendent of Cain and  killing Grendel's mother. For 10 points, name this titular character of an Old English epic translated by Seamus Heaney.
+
+----
+num: 13
+category: Science
+difficulty: HS
+fixed: 57
+seen: 479
+answer: {surface tension} [prompt on {tension}]
+
+This property decreases as temperature increases according to the Eötvös rule, and a gradient in this causes mass transfer in the Marangoni effect. Analyzed using the drop-weight technique, this property can be decreased by the addition of surfactants. It is responsible for the formation of a meniscus in a capillary, and it allows certain insects to walk on water. For 10 points, name this cohesive force by which liquids are held together, responsible for the “beading” of liquids.
+
+----
+num: 14
+category: Literature
+difficulty: HS
+fixed: 57
+seen: 444
+answer: Jack London
+
+One work by this author sees Perrault buy Billee and Joe before Sol-Leks attacks the protagonist. This author wrote a short story in which the dog runs to a camp as the protagonist freezes to death in the Yukon. This author of “To Build a Fire” wrote a novel in which the main character is tamed by Wheedon Scott and a novel in which  the protagonist is freed from Mercedes by John Thornton. For 10 points, name this American author of White Fang who wrote about Buck in The Call of the Wild.
+
+----
+num: 15
+category: Geography
+difficulty: HS
+fixed: 1
+seen: 721
+answer: Iceland
+
+This country's highest point is in Skaftafell National Park. Bodies of water in this nation include the Sog River and Lake Þórisvatn [thorris-vot-un]. A volcanic explosion in the 1960s created this nation's island of Surtsey, and it is home to the oldest parliament in the world, the Althing. This nation also sees eruptions from Eyjafjallajökull [eya-fyalla-yokle], including a series of them in 2010. For 10 points, name this northernmost European nation, with capital at Reykjavik.
+
+----
+num: 16
+category: Literature
+difficulty: HS
+fixed: 1
+seen: 438
+answer: Alexandre {Dumas} (père)
+
+This author wrote about a man who refuses grapes from  Merecdes; that character seeks revenge on Fernand, Danglars and Villefort using a fortune found in prison. Another novel by this man describes the machinations of Cardinal Richeliu; at the end of that novel a commission is refused by Porthos, Athos, and Aramis. Edmond Dantes and d'Artagnan were created by, for 10 points, what French author of The Count of Monte Cristo and The Three Musketeers?
+
+----
+num: 17
+category: Trash
+difficulty: HS
+fixed: 1
+seen: 1025
+answer: Washington {Redskins} [accept {Washington} before mention; accept {Redskins} at any {time}]
+
+This team's 1991 offensive line, The Hogs, gave up only nine sacks. This team won three championships with wide receiver Art Monk, and its safety Sean Taylor was shot to death. Quarterback Jason Campbell started four seasons for this team, and this team recently traded for Donovan McNabb. For 10 points, name this NFC East football team that has featured Clinton Portis since 2004, was coached by Joe Gibbs, and plays at FedEx Field in Washington DC.
+
+----
+num: 18
+category: History
+difficulty: HS
+fixed: 1
+seen: 415
+answer: Islamic Republic of {Pakistan}
+
+One leader of this country executed his predecessor Zulfikar Ali; that ruler Zia ul-Haq, funded A.Q. Khan's nuclear research. Its first Governor-General was Muhammed Ali Jinnah of the Muslim League, and in 1971, its “East” exclave became Bangladesh. In 2007, its former leader Benazir Bhutto was assassinated, and its Swat valley contains Taliban fighters. For 10 points, name this country home to Pervez Musharraf, which has fought over Kashmir with India.
+
+----
+num: 19
+category: Literature
+difficulty: HS
+fixed: 1
+seen: 448
+answer: Daniel {Defoe}
+
+One novel by this author is about a thieving woman whose many husbands include a banker, a “Lancanshire” man, and her half-brother. Like Samuel Pepys, this author offered an account of the 1665 Plague in his A Journal of the Plague Year. Another novel follows a man who rescues a prisoner from cannibals. That prisoner is named Friday and the novel is narrated by a man stranded on an island for 28 years. For 10 points, name this British author of Moll Flanders and Robinson Crusoe.
+
+----
+num: 20
+category: History
+difficulty: HS
+fixed: -1
+seen: 413
+answer: Winston {Churchill}
+
+This politician proposed forcibly sterilizing 120,000 of his country's mentally disabled as Home Secretary. He resigned as First Lord of the Admiralty after the disastrous Gallipoli campaign in Turkey, and his terms were interrupted by Clement Attlee of the Labor Party. He took office two years after his predecessor declared “Peace for our time,” and met at Yalta with FDR and Stalin. For 10 points, name this Prime Minister who opposed the invasion of Britain by Hitler.
+
+----
+num: 21
+category: Literature
+difficulty: HS
+fixed: 1
+seen: 444
+answer: Fyodor {Dostoyevsky}
+
+This author wrote a work that contains the parable of “The Grand Inquisitor” and sees Smerdyakov frame Dimitry for murdering their father. In another work by him, a woman tells the character she has just shot that she will never love him; that character is Svidrigalov. For 10 points, name this Russian author who wrote about Lizaveta's murder by Raskolnikov in  Crime and Punishment and about Alyosha and Ivan in The Brothers Karamazov.

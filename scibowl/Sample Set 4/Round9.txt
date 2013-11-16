@@ -1,0 +1,467 @@
+####
+tournament: Sample Set 4
+round: Round9.pdf
+####
+
+num: 1
+category: Physical Science
+difficulty: MS
+seen: 5
+answer: Halve It
+
+Using two vertically-aligned pulleys to move a load will double the amount of rope you must pull to move the load a given distance, but what will it do to the amount of force you must exert?
+
+----
+num: 1
+category: Physical Science
+difficulty: MS
+seen: 6
+answer: (Accept 3) Dry, Static, Limiting, Sliding, Kinetic, Rolling, Fluid, 
+Lubricated, Skin, Internal
+ _______
+
+Name three types of friction.
+
+----
+num: 2
+category: Earth and Space
+difficulty: HS
+seen: 47
+answer: Surficial
+
+What kind of map shows soils, alluvium, and glacial deposits, distinguished on the basis of particle size, texture, and composition?
+
+----
+num: 2
+category: Life Science
+difficulty: MS
+seen: 11
+answer: Joint
+
+Hinge and ball -and-socket are two examples of which kind of body part?
+
+----
+num: 3
+category: Math
+difficulty: MS
+seen: 7
+answer: 108
+
+What is the measure in degrees of an interior angle of a regular pentagon?
+
+----
+num: 3
+category: Math
+difficulty: MS
+seen: 6
+answer: 1800
+
+
+What is the sum of the measures of all interior angles of a regular hexagon and a regular octagon?
+
+----
+num: 4
+category: Chemistry
+difficulty: HS
+seen: 36
+answer: Blue
+
+What color are the chromophores NOT absorbing in a blue shirt?
+
+----
+num: 5
+category: Physical Science
+difficulty: MS
+seen: 6
+answer: They Are Denser Than the Water (Accept: They Weigh More Than 
+the Water They Displ Ace)
+
+Why do most rocks sink in water?
+
+----
+num: 6
+category: Math
+difficulty: HS
+fixed: -1
+seen: 26
+answer: 1/9
+
+A number is obtained by tripling an original value, then tripling that result. If the final resulting value obtained by applying the process previously described is 1, what was the original number?
+
+----
+num: 6
+category: Math
+difficulty: HS
+seen: 24
+answer: 
+
+What matrix of integers is equal to 3 - (read as: 3 times the 2 by 2 matrix with row 1: -2, 1, and row 2: 0, 5 minus the 2 by 2 matrix row 1: 4, 0, and row 2: negative 4, 1)
+
+----
+num: 6
+category: Math
+difficulty: MS
+fixed: -1
+seen: 6
+answer: -6
+
+Evaluate: 3 - |6 - 15| (read as: 3 minus the absolute value of the quantity 6 minus 15).
+
+----
+num: 6
+category: Math
+difficulty: MS
+seen: 7
+answer: 33
+
+Evaluate: |(-7)(-5)| - 2 (read as: the absolute value of the product of negative 7 and negative 5 minus 2).
+
+----
+num: 7
+category: Chemistry
+difficulty: HS
+seen: 36
+answer: 0.4
+
+Providing your answer as a decimal to the nearest tenth, i f you start with 3 grams of Carbon-14, how many grams of isotope will remain after 3 half lives?
+
+----
+num: 7
+category: Life Science
+difficulty: MS
+fixed: -1
+seen: 10
+answer: Nucleus  (Do Not Accept: Nucleoid) and True Membrane-Bound 
+Organelles
+
+
+What are the two most defining features of a eukaryotic (read as: yuh-KEHR-ee-ōetik) cell?
+
+----
+num: 8
+category: Energy
+difficulty: MS
+seen: 5
+answer: 3.6  (Accept: 4)
+
+If the average TV consumes 120 watts, and a kilowatt hour costs 10 cents, then how much does it cost in cents to run the TV for 3 hours?
+
+----
+num: 9
+category: Earth and Space Science
+difficulty: MS
+seen: 5
+answer: Neap Tide
+
+What is the name of the tide that has the lowest high tide and highest low tide?
+
+----
+num: 9
+category: Earth and Space Science
+difficulty: MS
+seen: 6
+answer: Strike -Slip
+
+
+The San Andreas Fault, which runs along most of the coast of California, is an example of what type of fault: normal, thrust, or strike -slip?
+
+----
+num: 10
+category: Earth and Space
+difficulty: HS
+seen: 48
+answer: 12
+
+How long, in hours, is the night during the equinox?
+
+----
+num: 10
+category: Earth and Space
+difficulty: HS
+seen: 49
+answer: Altitude
+
+What is the term for t he angle of an object ’s elevation above the horizon?
+
+----
+num: 10
+category: Math
+difficulty: MS
+fixed: -1
+seen: 6
+answer: 42/45
+
+Which of the following values is greater: 42/45, 2/3, or 8/9?
+
+----
+num: 10
+category: Math
+difficulty: MS
+seen: 6
+answer: -4/105
+
+Giving your answer as a fraction in simplest form, what is the difference between 13/15 and 19/21?
+
+----
+num: 11
+category: Physics
+difficulty: HS
+fixed: -1
+seen: 26
+answer: 2
+
+What is the potential difference in volts between two points, located 2 meters apart, in a constant electric field of 1 volt per meter?
+
+----
+num: 12
+category: General Science
+difficulty: MS
+seen: 6
+answer: 14 Atomic Mass Units
+
+If an atom of neutral nitrogen has 7 neutrons, what is its weight in atomic mass units?
+
+----
+num: 13
+category: Math
+difficulty: HS
+fixed: -1
+seen: 26
+answer: 3
+
+
+One side of an equilateral triangle is 6. In simplest form, w hat is the altitude?
+
+----
+num: 13
+category: Math
+difficulty: MS
+fixed: -1
+seen: 7
+answer: (1, -1)
+
+
+On a coordinate grid, a line segment has endpoints ( -1, 2) and (3, -4). What are the coordinates of the midpoint of the segment?
+
+----
+num: 14
+category: Energy
+difficulty: MS
+seen: 6
+answer: Decomposer (Accept: Detritivore)
+
+What is the term for a type of organism that recycles dead matter back into nutrients primary producers can use?
+
+----
+num: 14
+category: Energy
+difficulty: MS
+seen: 6
+answer: Fourth
+
+If a food chain has four trophic levels, apex predators would belong to which trophic level?
+
+----
+num: 15
+category: Earth and Space
+difficulty: HS
+seen: 48
+answer: Limestone (Accept: 2)
+
+Which of the following rocks would be most impacted by acid rain: 1) chert, 2) limestone, or 3) granite?
+
+----
+num: 15
+category: Earth and Space
+difficulty: HS
+seen: 48
+answer: Calcium Carbonate (Accept: Calcite or Caco
+^3)
+
+
+Imagine a sandstone that fizzes when exposed to hydrochloric acid. Name the mineral that cements the sand grains together.
+
+----
+num: 16
+category: Biology
+difficulty: HS
+seen: 42
+answer: Conditioned Response (Accept: Conditioning)
+
+Russian physiologist Ivan Pavlov performed a famous experiment where he rang a bell before giving meat pow der to dogs, which caused them to salivate. After a time, the dogs would salivate at the sound of the bell alone. What type of learned behavior is this?
+
+----
+num: 16
+category: Physical Science
+difficulty: MS
+seen: 5
+answer: Foam (Accept: 4)
+
+By name o r number, identify the following materials which are NOT associated with the ceramics industry: 1) brick, 2) uranium oxide, 3) porcelain, or 4) foam?
+
+----
+num: 17
+category: Math
+difficulty: HS
+seen: 24
+answer: 26
+
+If four numbers have an arithmetic mean of 20, and three of the numbers are 17, 18, and 19, what is the four th number?
+
+----
+num: 17
+category: Math
+difficulty: HS
+seen: 25
+answer: Infinite
+
+
+What adjective is used to describe a set that can be placed in one -to-one correspondence with a subset of itself?
+
+----
+num: 17
+category: General Science
+difficulty: MS
+seen: 6
+answer: Phosphorus (Accept: Phosphates)
+
+What inorganic nutrient, often found in detergent, is implicated in algal blooms?
+
+----
+num: 18
+category: Earth and Space
+difficulty: HS
+seen: 47
+answer: Krill [ Accept: Euphausiids (Read As: Yuh-Foh-Zee-Ids)]
+
+The presence of which organism allows for the low level of trophic complexity observed in coastal Antarctic waters?
+
+----
+num: 18
+category: Life Science
+difficulty: MS
+seen: 11
+answer: Nitrogen
+
+Which element is needed by ocean animals to build protein , is found in about half of the dissolved oceanic gases , and is quite harmful to humans who ascend too quickly while diving ?
+
+----
+num: 19
+category: Math
+difficulty: HS
+fixed: -1
+seen: 25
+answer: 3 0
+
+Find the measure of angle C in degrees in triangle ABC with sides equal to the following: AB = 15 centimeters, AC = 15 centimeters, and BC = 30 centimeters.
+
+----
+num: 19
+category: Math
+difficulty: HS
+fixed: -1
+seen: 26
+answer: 2
+
+
+If y = p(x) and y = q(x) are two cubic polynomial functions that have the same leading coefficient, what is t he maximum possible number of intersections of their graphs?
+
+----
+num: 19
+category: Earth and Space Science
+difficulty: MS
+seen: 5
+answer: Calcite and Aragonite
+
+Limestone is largely composed of which two minerals?
+
+----
+num: 19
+category: Earth and Space Science
+difficulty: MS
+seen: 5
+answer: Lithospheric Mantle (Accept: Below Continental Plates), Site of
+a Meteorite Impact
+
+
+Diamonds are formed when carbon-based material is exposed to high pressures and comparatively low temperatures. Where are these two types of environments found on Earth?
+
+----
+num: 20
+category: Chemistry
+difficulty: HS
+seen: 35
+answer: +7
+
+What is the oxidation number of manganese in potassium permanganate ?
+
+----
+num: 21
+category: Physics
+difficulty: HS
+seen: 25
+answer: X) in a Straight Line Without Changing Direction
+
+When the distance travelled and dis placement are equal and nonzero for a given object in motion, the object must have travelled:
+W) Back and forth
+X) In a straight line without changing direction
+Y) In a circle
+Z) In an ellipse
+
+----
+num: 21
+category: Physics
+difficulty: HS
+seen: 27
+answer: Towards the Circle's Center
+
+
+For an object to travel in a circle, it must experience acceleration in what direction?
+
+----
+num: 21
+category: Math
+difficulty: MS
+seen: 6
+answer: 23
+
+
+A bag of lawn fertilizer covers 2500 square feet. How many bags of fertilizer would you need to share with your neighbor if your lawn was 175 feet by 200 feet and your neighbor’s yard was 150 feet by 150 feet?
+
+----
+num: 22
+category: Earth and Space
+difficulty: HS
+fixed: -1
+seen: 46
+answer: Hydrogen, Helium
+
+Give the two elements that primarily make up ou r sun.
+
+----
+num: 22
+category: General Science
+difficulty: MS
+seen: 6
+answer: Duckbilled Platypus  and Echidna
+
+Name the two living monotremes.
+
+----
+num: 23
+category: Biology
+difficulty: HS
+seen: 37
+answer: Convergent Evolution
+
+
+Female mosquitoes and vampire bats are both sanguivores. This trait in bats and mosquitoes is an example of what type of evolution?
+
+----
+num: 24
+category: Earth and Space Science
+difficulty: MS
+seen: 6
+answer: Equinox
+
+What is the name for the two times of year when the nighttime and daylight portions of a day are of approximately equal lengths?
